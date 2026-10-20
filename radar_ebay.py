@@ -14,6 +14,7 @@ import os
 import pathlib
 import sys
 import urllib.parse
+import urllib.error
 import urllib.request
 
 ROOT = pathlib.Path(__file__).resolve().parent
@@ -34,8 +35,11 @@ def token():
     req = urllib.request.Request(TOKEN_URL, data=body, headers={
         "Authorization": f"Basic {auth}",
         "Content-Type": "application/x-www-form-urlencoded"})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.load(r)["access_token"]
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return json.load(r)["access_token"]
+    except urllib.error.HTTPError as e:
+        raise SystemExit(f"Error de token eBay {e.code}: {e.read().decode(errors='replace')[:300]}")
 
 
 def buscar(tok, q, precio_max):
