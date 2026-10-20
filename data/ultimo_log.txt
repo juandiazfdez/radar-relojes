@@ -1,7 +1,1 @@
-Traceback (most recent call last):
-  File "/home/runner/work/radar-relojes/radar-relojes/radar_ebay.py", line 136, in <module>
-    main()
-  File "/home/runner/work/radar-relojes/radar-relojes/radar_ebay.py", line 101, in main
-    precio = float(it["price"]["value"])
-                   ~~^^^^^^^^^
-KeyError: 'price'
+2026-10-20: 254 oportunidades, 198 otras opciones
