@@ -1,0 +1,30 @@
+name: Radar diario eBay
+
+on:
+  schedule:
+    - cron: "17 10 * * *"   # 6:17 a. m. Santo Domingo (UTC-4), antes del reporte de las 6:54
+  workflow_dispatch:         # botón para correrlo a mano
+
+permissions:
+  contents: write
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Buscar en eBay
+        env:
+          EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+          EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+        run: python radar_ebay.py
+      - name: Guardar resultados
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add data/
+          git commit -m "Radar $(date -u +%F)" || echo "Sin cambios"
+          git push
