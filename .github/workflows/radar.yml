@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "7 * * * *"      # cada hora; GitHub puede retrasarlo unos minutos
   workflow_dispatch:          # botón para correrlo a mano
+    inputs:
+      prueba_aviso:
+        description: "Reenviar la última alerta por Telegram/correo como prueba"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -31,6 +36,7 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           ALERTA_EMAIL: ${{ secrets.ALERTA_EMAIL }}
           LOOKBACK_HORAS: "3"
+          PRUEBA_AVISO: ${{ inputs.prueba_aviso && '1' || '' }}
         run: |
           mkdir -p data
           set -o pipefail

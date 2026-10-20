@@ -419,6 +419,12 @@ def avisar_correo(cands):
 
 # ------------------------------------------------------------------ main
 def main():
+    if os.environ.get("PRUEBA_AVISO"):
+        ultimas = cargar("alertas.json", [])[-1:]
+        if ultimas:
+            print("Prueba de aviso:", avisar_telegram(ultimas), avisar_correo(ultimas))
+        else:
+            print("No hay alertas guardadas para la prueba")
     eb = Ebay()
     t0 = ahora()
     desde = (t0 - dt.timedelta(hours=LOOKBACK_HORAS)).strftime("%Y-%m-%dT%H:%M:%SZ")
