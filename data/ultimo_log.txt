@@ -1,3 +1,38 @@
-Prueba de revision con Claude: {"veredicto": "dudoso", "estado": "Reloj aparentemente auténtico y con uso visible, pero sin fondo de caja, sin descripción, sin devoluciones y sin garantía de autenticidad", "riesgo_autenticidad": "medio", "completo": false, "razones": ["Las fotos parecen propias (guante morado, fondo granate, varios ángulos) y no de catálogo ni robadas. Muestran el reloj real.", "Esfera coherente con un Ballon Bleu 36 mm: guilloché radial, números romanos con IIII, agujas azuladas, 'CARTIER' y 'AUTOMATIC' en su sitio, firma secreta junto al VII, 'SWISS MADE' abajo, y corona con cabujón de zafiro y protector. No veo signos claros de repintado ni de réplica, pero con estas fotos no se descarta un buen superclón.", "Faltan las fotos más importantes para autenticar: fondo de caja con número de serie y grabados, movimiento y detalle de la corona. Tampoco hay fotos del brazalete desplegado ni de la hebilla completa.", "Estado real inferior a 'Excellent': la caja tiene rayones y marcas en los laterales y en la carrura, y los biseles parecen pulidos de forma agresiva. La correa de cocodrilo está muy agrietada y desgastada, y habrá que cambiarla.", "No incluye caja original; los papeles figuran como 'Yes' pero no se muestran. La descripción está vacía, así que no hay datos de servicio, hora real de funcionamiento ni defectos declarados.", "No acepta devoluciones y no ofrece garantía de autenticidad. Eso es un riesgo alto para reventa en RD si el reloj resulta falso o no funciona bien.", "El precio de US$3755 está un 33 % por debajo de la mediana (US$5642) y por debajo del p25 (US$4120). Se explica en parte por el desgaste y la falta de caja, pero también es una señal de alerta.", "El vendedor tiene 372 valoraciones con 100 % positivo, lo que reduce el riesgo, aunque no lo elimina."], "precio_justo_usd": 3500}
-Prueba de aviso: True False
-2026-10-20 23:10Z  nuevos=0  descartes={}  ALERTAS=0  llamadas eBay=24
+Traceback (most recent call last):
+  File "/home/runner/work/radar-relojes/radar-relojes/radar_ebay.py", line 561, in <module>
+    main()
+  File "/home/runner/work/radar-relojes/radar-relojes/radar_ebay.py", line 461, in main
+    nuevos_items += eb.buscar(fila["busqueda_ebay"], filtros, sort="price", limit=200)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/radar-relojes/radar-relojes/radar_ebay.py", line 166, in buscar
+    r = self._get(f"{SEARCH_URL}?{urllib.parse.urlencode(params)}")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/radar-relojes/radar-relojes/radar_ebay.py", line 152, in _get
+    with urllib.request.urlopen(req, timeout=30) as r:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/urllib/request.py", line 515, in open
+    response = self._open(req, data)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/urllib/request.py", line 532, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/urllib/request.py", line 1405, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/urllib/request.py", line 1361, in do_open
+    r = h.getresponse()
+        ^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/http/client.py", line 1478, in getresponse
+    response.begin()
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/http/client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/http/client.py", line 312, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
