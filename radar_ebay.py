@@ -344,9 +344,16 @@ def revisar_con_claude(cand):
         "x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"})
     try:
         with urllib.request.urlopen(req, timeout=90) as r:
-            texto = "".join(b.get("text", "") for b in json.load(r).get("content", []))
+            resp = json.load(r)
+        texto = "".join(b.get("text", "") for b in resp.get("content", []))
         m = re.search(r"\{.*\}", texto, flags=re.S)
-        return json.loads(m.group()) if m else {"veredicto": "dudoso", "razones": [texto[:200]]}
+        if m:
+            return json.loads(m.group())
+        print(f"Claude respondio sin JSON: {json.dumps(resp)[:600]}", file=sys.stderr)
+        return {"veredicto": "dudoso", "razones": [texto[:200] or "respuesta vacia"]}
+    except urllib.error.HTTPError as e:
+        print(f"Claude HTTP {e.code}: {e.read().decode(errors='replace')[:400]}", file=sys.stderr)
+        return None
     except Exception as e:  # la revision es opcional; no tumba la corrida
         print(f"Claude no disponible: {e}", file=sys.stderr)
         return None
