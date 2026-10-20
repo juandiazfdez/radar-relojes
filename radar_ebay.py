@@ -98,7 +98,10 @@ def main():
             titulo = it.get("title", "")
             if not coincide(titulo, debe, excluir):
                 continue
-            precio = float(it["price"]["value"])
+            try:
+                precio = float(it["price"]["value"])
+            except (KeyError, TypeError, ValueError):
+                continue
             env = envio(it)
             total = precio + (env or 0)
             pct = total / tu_precio
