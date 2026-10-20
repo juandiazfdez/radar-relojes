@@ -157,5 +157,41 @@
    "p75": 4300
   },
   "ratio_mercado": 0.945
+ },
+ {
+  "fecha": "2026-10-20T23:08:21.442686+00:00",
+  "modelo_guia": "Breitling Chronomat moderno (44 B01)",
+  "titulo": "Breitling Chronomat B01 Triumph Titanium Rose Gold 42mm Auto Watch TB0134101M1X1",
+  "total": 9450.0,
+  "url": "https://www.ebay.com/itm/940029082947?_skw=breitling+chronomat+44&hash=itemdade197d43:g:-7MAAeSwm-dq1~Ny",
+  "item_id": "v1|940029082947|0",
+  "referencia": "TB0134101M1X1",
+  "motivo": "precio normal (277 % de la mediana)",
+  "mercado": {
+   "consulta": "breitling chronomat 44",
+   "n": 46,
+   "mediana": 3408,
+   "p25": 3150,
+   "p75": 3500
+  },
+  "ratio_mercado": 2.773
+ },
+ {
+  "fecha": "2026-10-20T23:08:21.442686+00:00",
+  "modelo_guia": "Tudor Black Bay Chrono",
+  "titulo": "Tudor Fastrider Black Shield Chronograph 42mm Matte Black Ceramic 42000CN Watch",
+  "total": 3599.99,
+  "url": "https://www.ebay.com/itm/257808856329?_skw=tudor+black+bay+chrono&hash=item3c069af509:g:hrIAAeSwiHJq1~JY",
+  "item_id": "v1|257808856329|0",
+  "referencia": "42000cn",
+  "motivo": "ALERTA",
+  "mercado": {
+   "consulta": "tudor black bay chrono",
+   "n": 76,
+   "mediana": 5726,
+   "p25": 4875,
+   "p75": 6999
+  },
+  "ratio_mercado": 0.629
  }
 ]

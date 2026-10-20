@@ -1,14 +1,14 @@
 {
- "actualizado": "2026-10-20T22:57:58.980247+00:00",
+ "actualizado": "2026-10-20T23:08:21.442686+00:00",
  "ventana_horas": 3.0,
  "corrida": {
-  "nuevos_vistos": 9,
+  "nuevos_vistos": 4,
   "descartes": {
-   "titulo": 8,
-   "precio_normal": 1
+   "precio_normal": 1,
+   "titulo": 2
   },
-  "alertas_nuevas": 0,
-  "llamadas_ebay": 26,
+  "alertas_nuevas": 1,
+  "llamadas_ebay": 30,
   "cuota_agotada": false
  },
  "alertas_hoy": [
@@ -63,6 +63,64 @@
     ]
    },
    "claude": null
+  },
+  {
+   "fecha": "2026-10-20T23:08:21.442686+00:00",
+   "modelo_guia": "Tudor Black Bay Chrono",
+   "tu_precio": 4500.0,
+   "titulo": "Tudor Fastrider Black Shield Chronograph 42mm Matte Black Ceramic 42000CN Watch",
+   "precio": 3599.99,
+   "envio": 0.0,
+   "total": 3599.99,
+   "ratio_mercado": 0.629,
+   "mercado": {
+    "fecha": "2026-10-20",
+    "consulta": "tudor black bay chrono",
+    "n": 76,
+    "mediana": 5726,
+    "p25": 4875,
+    "p75": 6999,
+    "min": 2850,
+    "max": 10650
+   },
+   "vendedor": "porcellojewelers",
+   "valoraciones": 1337,
+   "pct_positivo": "100.0",
+   "url": "https://www.ebay.com/itm/257808856329?_skw=tudor+black+bay+chrono&hash=item3c069af509:g:hrIAAeSwiHJq1~JY",
+   "item_id": "v1|257808856329|0",
+   "info": {
+    "departamento": "Men",
+    "referencia": "42000cn",
+    "modelo_esp": "TUDOR Fastrider",
+    "caja_mm": "42 mm",
+    "ano": null,
+    "movimiento": "Mechanical (Automatic)",
+    "caja_original": "No",
+    "papeles": "No",
+    "condicion": "Pre-owned - Excellent",
+    "condicion_id": "2990",
+    "condicion_desc": "Nice preowned condition with few signs of wear. Watch Only. No Box or Papers",
+    "garantia_autenticidad": false,
+    "devoluciones": true,
+    "amarillas": [
+     "no box",
+     "wear"
+    ],
+    "imagenes": [
+     "https://i.ebayimg.com/images/g/hrIAAeSwiHJq1~JY/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/U0kAAeSwr7lq1~Jj/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/aYgAAeSw9SVq1~JY/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/RUQAAeSwZL1q1~JZ/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/giQAAeSwMoBq1~JY/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/RokAAeSwxwNq1~JY/s-l1600.jpg"
+    ]
+   },
+   "claude": {
+    "veredicto": "dudoso",
+    "razones": [
+     ""
+    ]
+   }
   }
  ],
  "mercado": {
@@ -135,6 +193,41 @@
    "p75": 4300,
    "min": 3431,
    "max": 5365
+  },
+  "Breitling TB0134101M1X1|usado": {
+   "fecha": "2026-10-20",
+   "consulta": "Breitling TB0134101M1X1",
+   "n": 0
+  },
+  "breitling chronomat 44|usado": {
+   "fecha": "2026-10-20",
+   "consulta": "breitling chronomat 44",
+   "n": 46,
+   "mediana": 3408,
+   "p25": 3150,
+   "p75": 3500,
+   "min": 2250,
+   "max": 3850
+  },
+  "Tudor 42000cn|usado": {
+   "fecha": "2026-10-20",
+   "consulta": "Tudor 42000cn",
+   "n": 3,
+   "mediana": 3960,
+   "p25": 3700,
+   "p75": 4025,
+   "min": 3700,
+   "max": 4025
+  },
+  "tudor black bay chrono|usado": {
+   "fecha": "2026-10-20",
+   "consulta": "tudor black bay chrono",
+   "n": 76,
+   "mediana": 5726,
+   "p25": 4875,
+   "p75": 6999,
+   "min": 2850,
+   "max": 10650
   }
  }
 }
