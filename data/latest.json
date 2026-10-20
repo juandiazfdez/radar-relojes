@@ -1,17 +1,14 @@
 {
- "actualizado": "2026-10-20T22:10:08.293996+00:00",
+ "actualizado": "2026-10-20T22:57:58.980247+00:00",
  "ventana_horas": 3.0,
  "corrida": {
-  "nuevos_vistos": 44,
+  "nuevos_vistos": 9,
   "descartes": {
-   "titulo": 35,
-   "sin_comparables": 5,
-   "ano": 1,
-   "descripcion": 1,
+   "titulo": 8,
    "precio_normal": 1
   },
-  "alertas_nuevas": 1,
-  "llamadas_ebay": 40,
+  "alertas_nuevas": 0,
+  "llamadas_ebay": 26,
   "cuota_agotada": false
  },
  "alertas_hoy": [
@@ -128,6 +125,16 @@
    "fecha": "2026-10-20",
    "consulta": "Tudor M2542G267NU-0002",
    "n": 0
+  },
+  "Tudor 79830RB|usado": {
+   "fecha": "2026-10-20",
+   "consulta": "Tudor 79830RB",
+   "n": 35,
+   "mediana": 3999,
+   "p25": 3780,
+   "p75": 4300,
+   "min": 3431,
+   "max": 5365
   }
  }
 }
