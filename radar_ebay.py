@@ -338,7 +338,7 @@ def revisar_con_claude(cand):
         "Responde SOLO con JSON: {\"veredicto\": \"alerta\"|\"dudoso\"|\"descartar\", "
         "\"estado\": \"frase corta\", \"riesgo_autenticidad\": \"bajo\"|\"medio\"|\"alto\", "
         "\"completo\": true|false, \"razones\": [\"...\", \"...\"], \"precio_justo_usd\": numero}")})
-    body = json.dumps({"model": modelo, "max_tokens": 500,
+    body = json.dumps({"model": modelo, "max_tokens": 6000,
                        "messages": [{"role": "user", "content": contenido}]}).encode()
     req = urllib.request.Request("https://api.anthropic.com/v1/messages", data=body, headers={
         "x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"})
