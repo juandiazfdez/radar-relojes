@@ -24,8 +24,14 @@ SCOPE = "https://api.ebay.com/oauth/api_scope"
 WATCH_CATEGORY = "31387"  # Wristwatches
 UMBRAL_OPORTUNIDAD = 0.65
 UMBRAL_OTRAS = 0.80
-JUNK = ["replica", "homage", "for parts", "not working", "repair", "dial only",
-        "band only", "bracelet only", "case only", "movement only", "box only"]
+UMBRAL_MINIMO = 0.30  # por debajo de esto no es un reloj completo, es una pieza
+JUNK = ["replica", "homage", "for parts", "not working", "repair", "parts",
+        "dial", "bezel", "insert", "link", "links", "bracelet", "strap", "band",
+        "buckle", "clasp", "crown", "crystal", "hands", "movement", "case only",
+        "caseback", "case back", "plate", "papers", "booklet", "manual", "box only",
+        "box and papers only", "warranty card", "tag only", "hang tag", "fits ",
+        "for rolex", "for cartier", "for omega", "for tudor", "for breitling",
+        "compatible", "aftermarket", "custom", "mod ", "genuine rolex part"]
 
 
 def token():
@@ -42,14 +48,14 @@ def token():
         raise SystemExit(f"Error de token eBay {e.code}: {e.read().decode(errors='replace')[:300]}")
 
 
-def buscar(tok, q, precio_max):
+def buscar(tok, q, precio_max, tu_precio):
     params = {
         "q": q,
         "category_ids": WATCH_CATEGORY,
         "filter": ",".join([
             "itemLocationCountry:US",
             "buyingOptions:{FIXED_PRICE|BEST_OFFER}",
-            f"price:[100..{int(precio_max)}]",
+            f"price:[{int(tu_precio*0.30)}..{int(precio_max)}]",
             "priceCurrency:USD",
         ]),
         "sort": "price",
@@ -90,7 +96,7 @@ def main():
         debe = [s.strip().lower() for s in fila["debe_contener"].split("|")]
         excluir = [s.strip().lower() for s in fila["excluir"].split("|")]
         try:
-            items = buscar(tok, fila["busqueda_ebay"], tu_precio * UMBRAL_OTRAS)
+            items = buscar(tok, fila["busqueda_ebay"], tu_precio * UMBRAL_OTRAS, tu_precio)
         except Exception as e:  # sigue con el siguiente modelo
             print(f"Error en {fila['modelo']}: {e}", file=sys.stderr)
             continue
@@ -105,6 +111,8 @@ def main():
             env = envio(it)
             total = precio + (env or 0)
             pct = total / tu_precio
+            if pct < UMBRAL_MINIMO:
+                continue
             vendedor = it.get("seller", {}) or {}
             resultados.append({
                 "fecha": hoy,
