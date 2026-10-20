@@ -22,6 +22,7 @@ import base64
 import csv
 import datetime as dt
 import html
+import http.client
 import json
 import os
 import pathlib
@@ -29,6 +30,7 @@ import re
 import smtplib
 import statistics
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -148,16 +150,26 @@ class Ebay:
         req = urllib.request.Request(url, headers={
             "Authorization": f"Bearer {self.tok}", "X-EBAY-C-MARKETPLACE-ID": "EBAY_US"})
         self.llamadas += 1
-        try:
-            with urllib.request.urlopen(req, timeout=30) as r:
-                return json.load(r)
-        except urllib.error.HTTPError as e:
-            if e.code == 429:
-                self.agotado = True
-                print("Cuota diaria de eBay agotada; se detiene la corrida.", file=sys.stderr)
+        for intento in range(3):
+            try:
+                with urllib.request.urlopen(req, timeout=30) as r:
+                    return json.load(r)
+            except urllib.error.HTTPError as e:
+                if e.code == 429:
+                    self.agotado = True
+                    print("Cuota diaria de eBay agotada; se detiene la corrida.", file=sys.stderr)
+                    return None
+                if e.code >= 500 and intento < 2:
+                    time.sleep(2 + 3 * intento)
+                    continue
+                print(f"HTTP {e.code} en {url[:120]}: {e.read().decode(errors='replace')[:200]}", file=sys.stderr)
                 return None
-            print(f"HTTP {e.code} en {url[:120]}: {e.read().decode(errors='replace')[:200]}", file=sys.stderr)
-            return None
+            except (urllib.error.URLError, http.client.HTTPException, TimeoutError, OSError) as e:
+                if intento < 2:
+                    time.sleep(2 + 3 * intento)
+                    continue
+                print(f"Sin respuesta de eBay tras 3 intentos en {url[:120]}: {e}", file=sys.stderr)
+                return None
 
     def buscar(self, q, filtros, sort=None, limit=200):
         params = {"q": q, "category_ids": WATCH_CATEGORY, "filter": ",".join(filtros), "limit": str(limit)}
@@ -427,6 +439,82 @@ def avisar_correo(cands):
 
 
 # ------------------------------------------------------------------ main
+def procesar_modelo(eb, fila, t0, desde, vistos, mercado, revisados, candidatos, ids_alertados, descartes, contador):
+    debe = [s.strip().lower() for s in fila["debe_contener"].split("|")]
+    excluir = [s.strip().lower() for s in fila["excluir"].split("|")]
+    piso = float(fila["tu_precio_usd"]) * 0.25
+    nuevos_items = []
+    for pais in PAISES:
+        filtros = [f"itemLocationCountry:{pais}", "buyingOptions:{FIXED_PRICE|BEST_OFFER}",
+                   f"price:[{int(piso)}..]", "priceCurrency:USD"]
+        if BARRIDO:
+            nuevos_items += eb.buscar(fila["busqueda_ebay"], filtros, sort="price", limit=200)
+        else:
+            filtros.append(f"itemStartDate:[{desde}..]")
+            nuevos_items += eb.buscar(fila["busqueda_ebay"], filtros, sort="newlyListed", limit=100)
+    for it in nuevos_items:
+        iid = it.get("itemId")
+        if not iid or iid in vistos:
+            continue
+        vistos[iid] = t0.isoformat()
+        contador["nuevos"] += 1
+        titulo = it.get("title", "")
+        total = precio_total(it)
+        if not titulo_ok(titulo, debe, excluir) or total is None:
+            descartes["titulo"] = descartes.get("titulo", 0) + 1
+            continue
+        det = eb.item(iid)
+        if not det:
+            continue
+        motivo, info = analizar(det, fila)
+        registro = {"fecha": t0.isoformat(), "modelo_guia": fila["modelo"], "titulo": titulo,
+                    "total": round(total, 2), "url": it.get("itemWebUrl"), "item_id": iid,
+                    "referencia": info.get("referencia"), "motivo": motivo}
+        if motivo:
+            clave = motivo.split(":")[0].split(" ")[0]
+            descartes[clave] = descartes.get(clave, 0) + 1
+            revisados.append(registro)
+            continue
+        m = comparables(eb, fila, info.get("referencia"), info.get("condicion_id"), iid, mercado)
+        if m.get("n", 0) < MIN_COMPARABLES and info.get("referencia"):
+            m = comparables(eb, fila, None, info.get("condicion_id"), iid, mercado)
+        registro["mercado"] = {k: m.get(k) for k in ("consulta", "n", "mediana", "p25", "p75")}
+        if m.get("n", 0) < MIN_COMPARABLES or not m.get("mediana"):
+            registro["motivo"] = f"sin comparables suficientes ({m.get('n', 0)})"
+            descartes["sin_comparables"] = descartes.get("sin_comparables", 0) + 1
+            revisados.append(registro)
+            continue
+        ratio = total / m["mediana"]
+        registro["ratio_mercado"] = round(ratio, 3)
+        if ratio > UMBRAL_ALERTA:
+            registro["motivo"] = f"precio normal ({round(ratio*100)} % de la mediana)"
+            descartes["precio_normal"] = descartes.get("precio_normal", 0) + 1
+            revisados.append(registro)
+            continue
+        if ratio < UMBRAL_SOSPECHA:
+            registro["motivo"] = f"demasiado barato ({round(ratio*100)} % de la mediana): sospechoso"
+            descartes["sospechoso"] = descartes.get("sospechoso", 0) + 1
+            revisados.append(registro)
+            continue
+        vend = det.get("seller") or {}
+        cand = {"fecha": t0.isoformat(), "modelo_guia": fila["modelo"], "tu_precio": float(fila["tu_precio_usd"]),
+                "titulo": titulo, "precio": float(det["price"]["value"]), "envio": envio(det),
+                "total": round(total, 2), "ratio_mercado": round(ratio, 3), "mercado": m,
+                "vendedor": vend.get("username"), "valoraciones": vend.get("feedbackScore"),
+                "pct_positivo": vend.get("feedbackPercentage"), "url": it.get("itemWebUrl"),
+                "item_id": iid, "pais": (det.get("itemLocation") or {}).get("country"), "info": info}
+        cand["claude"] = revisar_con_claude(cand)
+        if cand["claude"] and cand["claude"].get("veredicto") == "descartar":
+            registro["motivo"] = "Claude descarto: " + "; ".join(map(str, cand["claude"].get("razones", [])[:2]))
+            descartes["claude"] = descartes.get("claude", 0) + 1
+            revisados.append(registro)
+            continue
+        registro["motivo"] = "ALERTA"
+        revisados.append(registro)
+        if iid not in ids_alertados:
+            candidatos.append(cand)
+
+
 def main():
     if os.environ.get("PRUEBA_AVISO"):
         ultimas = cargar("alertas.json", [])[-1:]
@@ -446,84 +534,16 @@ def main():
         guia = list(csv.DictReader(f))
 
     nuevos, descartes, candidatos = 0, {}, []
+    contador = {"nuevos": 0}
     ids_alertados = {a["item_id"] for a in alertas}
     for fila in guia:
         if eb.agotado:
             break
-        debe = [s.strip().lower() for s in fila["debe_contener"].split("|")]
-        excluir = [s.strip().lower() for s in fila["excluir"].split("|")]
-        piso = float(fila["tu_precio_usd"]) * 0.25
-        nuevos_items = []
-        for pais in PAISES:
-            filtros = [f"itemLocationCountry:{pais}", "buyingOptions:{FIXED_PRICE|BEST_OFFER}",
-                       f"price:[{int(piso)}..]", "priceCurrency:USD"]
-            if BARRIDO:
-                nuevos_items += eb.buscar(fila["busqueda_ebay"], filtros, sort="price", limit=200)
-            else:
-                filtros.append(f"itemStartDate:[{desde}..]")
-                nuevos_items += eb.buscar(fila["busqueda_ebay"], filtros, sort="newlyListed", limit=100)
-        for it in nuevos_items:
-            iid = it.get("itemId")
-            if not iid or iid in vistos:
-                continue
-            vistos[iid] = t0.isoformat()
-            nuevos += 1
-            titulo = it.get("title", "")
-            total = precio_total(it)
-            if not titulo_ok(titulo, debe, excluir) or total is None:
-                descartes["titulo"] = descartes.get("titulo", 0) + 1
-                continue
-            det = eb.item(iid)
-            if not det:
-                continue
-            motivo, info = analizar(det, fila)
-            registro = {"fecha": t0.isoformat(), "modelo_guia": fila["modelo"], "titulo": titulo,
-                        "total": round(total, 2), "url": it.get("itemWebUrl"), "item_id": iid,
-                        "referencia": info.get("referencia"), "motivo": motivo}
-            if motivo:
-                clave = motivo.split(":")[0].split(" ")[0]
-                descartes[clave] = descartes.get(clave, 0) + 1
-                revisados.append(registro)
-                continue
-            m = comparables(eb, fila, info.get("referencia"), info.get("condicion_id"), iid, mercado)
-            if m.get("n", 0) < MIN_COMPARABLES and info.get("referencia"):
-                m = comparables(eb, fila, None, info.get("condicion_id"), iid, mercado)
-            registro["mercado"] = {k: m.get(k) for k in ("consulta", "n", "mediana", "p25", "p75")}
-            if m.get("n", 0) < MIN_COMPARABLES or not m.get("mediana"):
-                registro["motivo"] = f"sin comparables suficientes ({m.get('n', 0)})"
-                descartes["sin_comparables"] = descartes.get("sin_comparables", 0) + 1
-                revisados.append(registro)
-                continue
-            ratio = total / m["mediana"]
-            registro["ratio_mercado"] = round(ratio, 3)
-            if ratio > UMBRAL_ALERTA:
-                registro["motivo"] = f"precio normal ({round(ratio*100)} % de la mediana)"
-                descartes["precio_normal"] = descartes.get("precio_normal", 0) + 1
-                revisados.append(registro)
-                continue
-            if ratio < UMBRAL_SOSPECHA:
-                registro["motivo"] = f"demasiado barato ({round(ratio*100)} % de la mediana): sospechoso"
-                descartes["sospechoso"] = descartes.get("sospechoso", 0) + 1
-                revisados.append(registro)
-                continue
-            vend = det.get("seller") or {}
-            cand = {"fecha": t0.isoformat(), "modelo_guia": fila["modelo"], "tu_precio": float(fila["tu_precio_usd"]),
-                    "titulo": titulo, "precio": float(det["price"]["value"]), "envio": envio(det),
-                    "total": round(total, 2), "ratio_mercado": round(ratio, 3), "mercado": m,
-                    "vendedor": vend.get("username"), "valoraciones": vend.get("feedbackScore"),
-                    "pct_positivo": vend.get("feedbackPercentage"), "url": it.get("itemWebUrl"),
-                    "item_id": iid, "pais": (det.get("itemLocation") or {}).get("country"), "info": info}
-            cand["claude"] = revisar_con_claude(cand)
-            if cand["claude"] and cand["claude"].get("veredicto") == "descartar":
-                registro["motivo"] = "Claude descarto: " + "; ".join(map(str, cand["claude"].get("razones", [])[:2]))
-                descartes["claude"] = descartes.get("claude", 0) + 1
-                revisados.append(registro)
-                continue
-            registro["motivo"] = "ALERTA"
-            revisados.append(registro)
-            if iid not in ids_alertados:
-                candidatos.append(cand)
-
+        try:
+            procesar_modelo(eb, fila, t0, desde, vistos, mercado, revisados, candidatos, ids_alertados, descartes, contador)
+        except Exception as e:
+            print(f"Error inesperado en {fila['modelo']}: {e!r}", file=sys.stderr)
+    nuevos = contador["nuevos"]
     candidatos.sort(key=lambda c: c["ratio_mercado"])
     if candidatos:
         tg = avisar_telegram(candidatos)
