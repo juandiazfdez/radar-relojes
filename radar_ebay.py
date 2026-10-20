@@ -334,7 +334,7 @@ def revisar_con_claude(cand):
         f"(p25 {cand['mercado'].get('p25')}, p75 {cand['mercado'].get('p75')})\n"
         f"Especificaciones: {json.dumps(resumen, ensure_ascii=False)}\n"
         f"Vendedor: {cand['vendedor']} ({cand['valoraciones']} valoraciones, {cand['pct_positivo']} % positivo)\n"
-        f"Descripcion: {cand['info']['descripcion'][:1500]}\n\n"
+        f"Descripcion: {(cand['info'].get('descripcion') or '')[:1500]}\n\n"
         "Responde SOLO con JSON: {\"veredicto\": \"alerta\"|\"dudoso\"|\"descartar\", "
         "\"estado\": \"frase corta\", \"riesgo_autenticidad\": \"bajo\"|\"medio\"|\"alto\", "
         "\"completo\": true|false, \"razones\": [\"...\", \"...\"], \"precio_justo_usd\": numero}")})
@@ -422,6 +422,7 @@ def main():
     if os.environ.get("PRUEBA_AVISO"):
         ultimas = cargar("alertas.json", [])[-1:]
         if ultimas:
+            print("Prueba de revision con Claude:", json.dumps(revisar_con_claude(ultimas[0]), ensure_ascii=False))
             print("Prueba de aviso:", avisar_telegram(ultimas), avisar_correo(ultimas))
         else:
             print("No hay alertas guardadas para la prueba")
