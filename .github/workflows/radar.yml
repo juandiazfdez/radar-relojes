@@ -1,8 +1,8 @@
-name: Radar eBay (cada hora)
+name: Radar eBay (cada 15 min)
 
 on:
   schedule:
-    - cron: "7 * * * *"      # cada hora; GitHub puede retrasarlo unos minutos
+    - cron: "*/15 * * * *"   # cada 15 min; GitHub puede retrasarlo unos minutos
   workflow_dispatch:          # botón para correrlo a mano
     inputs:
       prueba_aviso:
@@ -35,7 +35,7 @@ jobs:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           ALERTA_EMAIL: ${{ secrets.ALERTA_EMAIL }}
-          LOOKBACK_HORAS: "3"
+          LOOKBACK_HORAS: "2"
           PRUEBA_AVISO: ${{ inputs.prueba_aviso && '1' || '' }}
         run: |
           mkdir -p data

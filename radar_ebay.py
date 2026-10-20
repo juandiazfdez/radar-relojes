@@ -41,7 +41,7 @@ SEARCH_URL = "https://api.ebay.com/buy/browse/v1/item_summary/search"
 ITEM_URL = "https://api.ebay.com/buy/browse/v1/item/"
 SCOPE = "https://api.ebay.com/oauth/api_scope"
 WATCH_CATEGORY = "31387"
-PAISES = os.environ.get("PAISES_ORIGEN", "US,JP").split(",")  # donde esta el reloj
+PAISES = os.environ.get("PAISES_ORIGEN", "US").split(",")  # donde esta el reloj
 
 LOOKBACK_HORAS = float(os.environ.get("LOOKBACK_HORAS", "3"))
 UMBRAL_ALERTA = float(os.environ.get("UMBRAL_ALERTA", "0.72"))   # <= 72 % de la mediana
