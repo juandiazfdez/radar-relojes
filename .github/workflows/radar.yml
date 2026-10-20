@@ -9,6 +9,10 @@ on:
         description: "Reenviar la última alerta por Telegram/correo como prueba"
         type: boolean
         default: false
+      barrido:
+        description: "Barrido completo: revisar todo lo activo, no solo lo nuevo"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -37,6 +41,7 @@ jobs:
           ALERTA_EMAIL: ${{ secrets.ALERTA_EMAIL }}
           LOOKBACK_HORAS: "2"
           PRUEBA_AVISO: ${{ inputs.prueba_aviso && '1' || '' }}
+          BARRIDO: ${{ inputs.barrido && '1' || '' }}
         run: |
           mkdir -p data
           set -o pipefail

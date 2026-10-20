@@ -42,6 +42,7 @@ ITEM_URL = "https://api.ebay.com/buy/browse/v1/item/"
 SCOPE = "https://api.ebay.com/oauth/api_scope"
 WATCH_CATEGORY = "31387"
 PAISES = os.environ.get("PAISES_ORIGEN", "US").split(",")  # donde esta el reloj
+BARRIDO = bool(os.environ.get("BARRIDO"))  # 1 = revisar todo lo activo, no solo lo nuevo
 
 LOOKBACK_HORAS = float(os.environ.get("LOOKBACK_HORAS", "3"))
 UMBRAL_ALERTA = float(os.environ.get("UMBRAL_ALERTA", "0.72"))   # <= 72 % de la mediana
@@ -455,8 +456,12 @@ def main():
         nuevos_items = []
         for pais in PAISES:
             filtros = [f"itemLocationCountry:{pais}", "buyingOptions:{FIXED_PRICE|BEST_OFFER}",
-                       f"price:[{int(piso)}..]", "priceCurrency:USD", f"itemStartDate:[{desde}..]"]
-            nuevos_items += eb.buscar(fila["busqueda_ebay"], filtros, sort="newlyListed", limit=100)
+                       f"price:[{int(piso)}..]", "priceCurrency:USD"]
+            if BARRIDO:
+                nuevos_items += eb.buscar(fila["busqueda_ebay"], filtros, sort="price", limit=200)
+            else:
+                filtros.append(f"itemStartDate:[{desde}..]")
+                nuevos_items += eb.buscar(fila["busqueda_ebay"], filtros, sort="newlyListed", limit=100)
         for it in nuevos_items:
             iid = it.get("itemId")
             if not iid or iid in vistos:
