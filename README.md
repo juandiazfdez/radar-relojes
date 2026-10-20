@@ -1,24 +1,56 @@
-# Radar de relojes (eBay API)
+# Radar de relojes (eBay) – v2
 
-Cada mañana a las 6:17 a. m. (Santo Domingo) GitHub corre `radar_ebay.py`: busca en eBay los modelos de `guia_precios.csv`, solo listados de precio fijo ubicados en EE. UU., y guarda en `data/latest.json` los que estén a 65% o menos de tu precio ("oportunidad") o entre 65% y 80% ("otras"). El reporte de las 6:54 lee ese archivo.
+Corre en GitHub Actions **cada hora** y solo mira publicaciones nuevas de las
+últimas 3 horas para los modelos de `guia_precios.csv`.
 
-## Lo que tienes que hacer tú (una sola vez, ~20 min)
+## Cómo decide si algo es oportunidad
 
-1. **Cuenta de desarrollador de eBay**: entra a developer.ebay.com, regístrate con tu cuenta de eBay y crea una app (Application Keys → *Production*).
-   - eBay te pedirá un endpoint para "Marketplace Account Deletion". Como el radar no guarda datos de usuarios, elige la opción de **exención** (*I do not persist eBay data*) y continúa.
-   - Copia el **App ID (Client ID)** y el **Cert ID (Client Secret)** de producción.
-2. **Repositorio privado en GitHub**: crea uno llamado `radar-relojes` (privado) y sube estos archivos tal como están (incluida la carpeta `.github`).
-3. **Guarda las llaves como secretos**: en el repo, Settings → Secrets and variables → Actions → *New repository secret*:
-   - `EBAY_CLIENT_ID` = tu App ID
-   - `EBAY_CLIENT_SECRET` = tu Cert ID
-4. **Prueba**: pestaña Actions → "Radar diario eBay" → *Run workflow*. En un minuto debe aparecer `data/latest.json`.
+1. **Título limpio**: descarta piezas, accesorios, réplicas, relojes de mujer.
+2. **Abre la publicación** (`getItem`) y lee descripción, condición y
+   especificaciones (departamento, referencia, tamaño de caja, año, caja/papeles).
+   Descarta si dice "as is", "not working", "needs service", "for parts",
+   "replica", "untested", "no returns", etc.; si la caja es menor que
+   `caja_min_mm` o el año menor que `ano_min`; o si el vendedor tiene < 20
+   valoraciones o < 97 % positivo.
+3. **Compara con el mercado, no con tu precio**: busca los listados activos en
+   EE. UU. de la **misma referencia** (o del mismo modelo si no hay referencia),
+   misma condición (usado/nuevo), y calcula la mediana recortada (quita el 10 %
+   más barato y más caro). Hace falta un mínimo de 5 comparables.
+   - Alerta si el precio total (con envío) es **≤ 72 % de la mediana**.
+   - Si es **< 40 %** se marca como sospechoso (estafa o pieza) y no se avisa.
+4. **Opcional – revisión con Claude** (si existe el secreto `ANTHROPIC_API_KEY`):
+   manda título, especificaciones, descripción y hasta 4 fotos; Claude devuelve
+   `alerta` / `dudoso` / `descartar` con razones y riesgo de autenticidad.
+   Lo que Claude descarta no se avisa.
+5. **Avisa** (si hay credenciales) por Telegram y/o correo, con foto y enlace.
+   Nunca avisa dos veces del mismo artículo.
 
-## Ajustar la guía de precios
+`tu_precio_usd` ya no decide nada: solo sirve como piso (25 %) para no abrir
+piezas y para calcular el margen en el reporte.
 
-Edita `guia_precios.csv` (se abre en Excel):
-- `busqueda_ebay`: lo que se escribe en eBay.
-- `debe_contener`: palabras que tienen que estar en el título (separadas por `|`).
-- `excluir`: si el título tiene alguna de estas palabras, se descarta (`ladies`, `medium`, otras referencias…).
-- `tu_precio_usd`: tu precio de venta. Las filas marcadas "verificar" son precios que salieron del radar y conviene confirmar.
+## Archivos en `data/`
 
-Chrono24 no tiene API pública, así que sigue cubierto por la búsqueda web del reporte diario.
+| archivo | qué es |
+|---|---|
+| `latest.json` | resumen de la última corrida: nuevos vistos, descartes por motivo, alertas de hoy, mercado |
+| `alertas.json` | todas las alertas de los últimos 90 días |
+| `revisados_ultimos.json` | últimos 400 artículos abiertos con el motivo de descarte (para afinar filtros) |
+| `mercado.json` | mediana/p25/p75 por referencia, se renueva a diario |
+| `vistos.json` | ids ya vistos (30 días) para no repetir |
+| `ultimo_log.txt` | salida de la última corrida |
+
+## Secretos (Settings → Secrets and variables → Actions)
+
+| secreto | obligatorio | para qué |
+|---|---|---|
+| `EBAY_CLIENT_ID`, `EBAY_CLIENT_SECRET` | sí | eBay Browse API |
+| `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` | no | aviso instantáneo al celular |
+| `GMAIL_USER`, `GMAIL_APP_PASSWORD`, `ALERTA_EMAIL` | no | aviso por correo (contraseña de aplicación de Google) |
+| `ANTHROPIC_API_KEY` (y opcional `CLAUDE_MODEL`) | no | revisión con fotos |
+
+## Cuota de eBay
+
+El keyset nuevo tiene 5 000 llamadas/día. Cada corrida usa ~24 búsquedas +
+1 llamada por artículo nuevo que pase el título + 1 búsqueda por referencia
+nueva al día. Si se agota, el script se detiene limpio y lo anota en
+`latest.json` (`cuota_agotada`).
