@@ -69,10 +69,10 @@ ROJAS = ["not working", "doesn't work", "does not work", "not running", "doesn't
          "aftermarket dial", "aftermarket bezel", "aftermarket movement", "refinished dial",
          "redial", "re-dial", "custom dial", "not authentic", "unknown authenticity",
          "cannot guarantee authenticity", "can't guarantee authenticity",
-         "sold as untested", "untested", "no returns", "all sales final",
+         "sold as untested", "untested",
          "ladies", "women's", "womens watch", "lady's", "unisex children"]
 # Senales que no descartan pero se reportan
-AMARILLAS = ["scratch", "scratches", "wear", "worn", "polished", "service history unknown",
+AMARILLAS = ["no returns", "all sales final", "scratch", "scratches", "wear", "worn", "polished", "service history unknown",
              "no box", "no papers", "battery", "dent", "hairline", "patina", "faded"]
 
 # Patrones de numero de referencia por marca (para buscar comparables exactos)
@@ -463,6 +463,8 @@ def main():
                 revisados.append(registro)
                 continue
             m = comparables(eb, fila, info.get("referencia"), info.get("condicion_id"), iid, mercado)
+            if m.get("n", 0) < MIN_COMPARABLES and info.get("referencia"):
+                m = comparables(eb, fila, None, info.get("condicion_id"), iid, mercado)
             registro["mercado"] = {k: m.get(k) for k in ("consulta", "n", "mediana", "p25", "p75")}
             if m.get("n", 0) < MIN_COMPARABLES or not m.get("mediana"):
                 registro["motivo"] = f"sin comparables suficientes ({m.get('n', 0)})"
