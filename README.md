@@ -1,6 +1,6 @@
 # Radar de relojes (eBay) – v2
 
-Corre en GitHub Actions **cada hora** y solo mira publicaciones nuevas de las
+Corre en GitHub Actions **cada hora** y solo mira publicaciones nuevas (ubicadas en EE. UU. o Japón) de las
 últimas 3 horas para los modelos de `guia_precios.csv`.
 
 ## Cómo decide si algo es oportunidad

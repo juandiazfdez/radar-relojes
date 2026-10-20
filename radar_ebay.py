@@ -41,6 +41,7 @@ SEARCH_URL = "https://api.ebay.com/buy/browse/v1/item_summary/search"
 ITEM_URL = "https://api.ebay.com/buy/browse/v1/item/"
 SCOPE = "https://api.ebay.com/oauth/api_scope"
 WATCH_CATEGORY = "31387"
+PAISES = os.environ.get("PAISES_ORIGEN", "US,JP").split(",")  # donde esta el reloj
 
 LOOKBACK_HORAS = float(os.environ.get("LOOKBACK_HORAS", "3"))
 UMBRAL_ALERTA = float(os.environ.get("UMBRAL_ALERTA", "0.72"))   # <= 72 % de la mediana
@@ -370,7 +371,7 @@ def texto_alerta(c):
               f"Ref. {c['info'].get('referencia') or '?'} · {c['info'].get('caja_mm') or '?'} · "
               f"{c['info'].get('ano') or 'ano ?'} · {c['info'].get('condicion')}"
               + (" · Garantia de autenticidad eBay" if c['info'].get('garantia_autenticidad') else ""),
-              f"Vendedor: {c['vendedor']} ({c['valoraciones']} val., {c['pct_positivo']} %)"]
+              f"Vendedor: {c['vendedor']} ({c['valoraciones']} val., {c['pct_positivo']} %) · ubicado en {c.get('pais') or '?'}"]
     if c["info"].get("amarillas"):
         lineas.append("Ojo: " + ", ".join(c["info"]["amarillas"]))
     if c.get("claude"):
@@ -451,9 +452,12 @@ def main():
         debe = [s.strip().lower() for s in fila["debe_contener"].split("|")]
         excluir = [s.strip().lower() for s in fila["excluir"].split("|")]
         piso = float(fila["tu_precio_usd"]) * 0.25
-        filtros = ["itemLocationCountry:US", "buyingOptions:{FIXED_PRICE|BEST_OFFER}",
-                   f"price:[{int(piso)}..]", "priceCurrency:USD", f"itemStartDate:[{desde}..]"]
-        for it in eb.buscar(fila["busqueda_ebay"], filtros, sort="newlyListed", limit=100):
+        nuevos_items = []
+        for pais in PAISES:
+            filtros = [f"itemLocationCountry:{pais}", "buyingOptions:{FIXED_PRICE|BEST_OFFER}",
+                       f"price:[{int(piso)}..]", "priceCurrency:USD", f"itemStartDate:[{desde}..]"]
+            nuevos_items += eb.buscar(fila["busqueda_ebay"], filtros, sort="newlyListed", limit=100)
+        for it in nuevos_items:
             iid = it.get("itemId")
             if not iid or iid in vistos:
                 continue
@@ -503,7 +507,7 @@ def main():
                     "total": round(total, 2), "ratio_mercado": round(ratio, 3), "mercado": m,
                     "vendedor": vend.get("username"), "valoraciones": vend.get("feedbackScore"),
                     "pct_positivo": vend.get("feedbackPercentage"), "url": it.get("itemWebUrl"),
-                    "item_id": iid, "info": info}
+                    "item_id": iid, "pais": (det.get("itemLocation") or {}).get("country"), "info": info}
             cand["claude"] = revisar_con_claude(cand)
             if cand["claude"] and cand["claude"].get("veredicto") == "descartar":
                 registro["motivo"] = "Claude descarto: " + "; ".join(map(str, cand["claude"].get("razones", [])[:2]))
