@@ -75,7 +75,7 @@
   "n": 0
  },
  "breitling chronomat 44|usado": {
-  "fecha": "2026-10-20",
+  "fecha": "2026-10-21",
   "consulta": "breitling chronomat 44",
   "n": 46,
   "mediana": 3408,
@@ -1345,13 +1345,13 @@
   "max": 11890
  },
  "Rolex 16233|usado": {
-  "fecha": "2026-10-20",
+  "fecha": "2026-10-21",
   "consulta": "Rolex 16233",
-  "n": 43,
-  "mediana": 6460,
+  "n": 44,
+  "mediana": 6477,
   "p25": 6294,
   "p75": 6655,
-  "min": 4678,
+  "min": 3495,
   "max": 6845
  },
  "Rolex 1601|usado": {
@@ -3253,5 +3253,35 @@
   "p75": 3563,
   "min": 1800,
   "max": 3600
+ },
+ "Breitling AB0111|usado": {
+  "fecha": "2026-10-21",
+  "consulta": "Breitling AB0111",
+  "n": 1,
+  "mediana": 3650,
+  "p25": 3650,
+  "p75": 3650,
+  "min": 3650,
+  "max": 3650
+ },
+ "Rolex 134300|usado": {
+  "fecha": "2026-10-21",
+  "consulta": "Rolex 134300",
+  "n": 12,
+  "mediana": 13252,
+  "p25": 12485,
+  "p75": 15361,
+  "min": 11261,
+  "max": 26450
+ },
+ "Rolex 16014|usado": {
+  "fecha": "2026-10-21",
+  "consulta": "Rolex 16014",
+  "n": 9,
+  "mediana": 5099,
+  "p25": 5099,
+  "p75": 5099,
+  "min": 5099,
+  "max": 5159
  }
 }
