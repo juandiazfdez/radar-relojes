@@ -2,42 +2,6 @@
  {
   "fecha": "2026-10-20T23:26:35.081597+00:00",
   "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "Jaeger LeCoultre Reverso Tribute Monoface Steel Mens Watch Q713842X Card",
-  "total": 12010.0,
-  "url": "https://www.ebay.com/itm/278360088494?_skw=jaeger+lecoultre+reverso&hash=item40cf8ddfae:g:HMYAAeSwMcNqocGT",
-  "item_id": "v1|278360088494|0",
-  "referencia": "Q713842X",
-  "motivo": "precio normal (92 % de la mediana)",
-  "mercado": {
-   "consulta": "jaeger lecoultre reverso",
-   "n": 111,
-   "mediana": 12990,
-   "p25": 9750,
-   "p75": 17500
-  },
-  "ratio_mercado": 0.925
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "Jaeger LeCoultre Reverso Classic Small Steel Watch 213.8.D4 Q3848420 Box Card",
-  "total": 12120.0,
-  "url": "https://www.ebay.com/itm/336841355535?_skw=jaeger+lecoultre+reverso&hash=item4e6d4f310f:g:xK4AAeSwJbRqzRAa",
-  "item_id": "v1|336841355535|0",
-  "referencia": "Q3848420",
-  "motivo": "precio normal (93 % de la mediana)",
-  "mercado": {
-   "consulta": "jaeger lecoultre reverso",
-   "n": 111,
-   "mediana": 12990,
-   "p25": 9750,
-   "p75": 17500
-  },
-  "ratio_mercado": 0.933
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
   "titulo": "Jaeger LeCoultre Reverso Duo Day Night Steel Watch 272.8.51 Q2718411 Papers",
   "total": 12220.0,
   "url": "https://www.ebay.com/itm/336787115521?_skw=jaeger+lecoultre+reverso&hash=item4e6a138e01:g:0qEAAeSwlo1qodA3",
@@ -11198,5 +11162,45 @@
    "nota": "Precio pedido de 4250 USD con envío está solo ~3% por debajo de la estimación conservadora de venta de segunda mano; no cumple el umbral del 15%."
   },
   "motivo": "triage: Precio pedido de 4250 USD con envío está solo ~3% por debajo de la estimación conservadora de venta de segunda mano; no cumple el umbral del 15%. (justo 4400)"
+ },
+ {
+  "fecha": "2026-10-21T23:56:12.837396+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona 40mm UNWORN 2026 Chocolate Brown Black Index Oyster Wood 126505",
+  "total": 65995.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/198734855299",
+  "item_id": "v1|198734855299|0",
+  "referencia": "126505",
+  "mercado": {
+   "n": 6,
+   "p25": 59249,
+   "mediana": 62999
+  },
+  "ratio_mercado": 1.114,
+  "motivo": "precio normal (111 % del cuartil bajo de 126505)"
+ },
+ {
+  "fecha": "2026-10-21T23:56:12.837396+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Formula 1 Calibre 16 Chronograph 44mm CBZ2082.FT8096 Full Set",
+  "total": 2690.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860070474059",
+  "item_id": "v1|860070474059|0",
+  "referencia": "CBZ2082.FT8096",
+  "mercado": {
+   "n": 3,
+   "p25": 3275,
+   "mediana": 3500
+  },
+  "triage": {
+   "modelo": "TAG Heuer Formula 1 Calibre 16 Chronograph 44 mm (caja de titanio, bisel SPEED, correa de caucho)",
+   "referencia": "CBZ2082.FT8096",
+   "precio_justo_usd": 2000,
+   "interesante": false,
+   "nota": "Precio pedido de 2690 USD por encima del valor de venta real de este modelo de segunda mano; aunque el set completo ayuda, no hay descuento."
+  },
+  "motivo": "triage: Precio pedido de 2690 USD por encima del valor de venta real de este modelo de segunda mano; aunque el set completo ayuda, no hay descuento. (justo 2000)"
  }
 ]
