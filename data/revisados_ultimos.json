@@ -8127,5 +8127,79 @@
    "nota": "Nuevo con caja y papeles; el mercado gris lo vende hacia 3.800-4.700 USD, así que 5.599 USD queda bastante por encima."
   },
   "motivo": "triage: Nuevo con caja y papeles; el mercado gris lo vende hacia 3.800-4.700 USD, así que 5.599 USD queda bastante por encima. (justo 4300)"
+ },
+ {
+  "fecha": "2026-10-21T13:25:49.095591+00:00",
+  "marca": "Rolex",
+  "titulo": "🔥2016 Rolex Explorer Mark 1 (39mm) Watch 214270🔥SALE🔥",
+  "total": 8500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227577073098",
+  "item_id": "v1|227577073098|0",
+  "referencia": "214270",
+  "mercado": {
+   "n": 27,
+   "p25": 8495,
+   "mediana": 9082
+  },
+  "ratio_mercado": 1.001,
+  "motivo": "precio normal (100 % del cuartil bajo de 214270)"
+ },
+ {
+  "fecha": "2026-10-21T13:25:49.095591+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay Fifty-Eight 39mm Blue",
+  "total": 3900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336855637034",
+  "item_id": "v1|336855637034|0",
+  "triage": {
+   "modelo": "Tudor Black Bay Fifty-Eight 39 mm azul",
+   "referencia": "M79030B-0001",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Pedido de US$3900 por encima del valor de venta cerrada estimado (~US$3300 con estado excelente); sin caja ni papeles verificables."
+  },
+  "motivo": "triage: Pedido de US$3900 por encima del valor de venta cerrada estimado (~US$3300 con estado excelente); sin caja ni papeles verificables. (justo 3300)"
+ },
+ {
+  "fecha": "2026-10-21T13:25:49.095591+00:00",
+  "marca": "Omega",
+  "titulo": "Omega 1 Constellation TESTING",
+  "total": 2242.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/407306307658",
+  "item_id": "v1|407306307658|0",
+  "triage": {
+   "modelo": "Omega Constellation Co-Axial Day-Date, 38 mm, acero y oro amarillo, esfera plateada",
+   "referencia": "123.20.38.22.02.001 (probable, sin confirmar)",
+   "precio_justo_usd": 2700,
+   "interesante": false,
+   "nota": "Título 'TESTING' y precio muy bajo para un modelo nuevo con caja y papeles; podría ser listado de prueba o engañoso. Verificar número de serie y vendedor antes de considerarlo."
+  },
+  "motivo": "triage: Título 'TESTING' y precio muy bajo para un modelo nuevo con caja y papeles; podría ser listado de prueba o engañoso. Verificar número de serie y vendedor antes de considerarlo. (justo 2700)"
+ },
+ {
+  "fecha": "2026-10-21T13:25:49.095591+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Constellation Ref # 1213.30 Double Eagle Perpetual Calendar Quartz SS/18K",
+  "total": 4975.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940030582072",
+  "item_id": "v1|940030582072|0",
+  "referencia": "1213.30",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Omega Constellation Double Eagle, bicolor acero/oro 18k, cuarzo con fecha (el dial de la foto solo muestra fecha, no calendario perpetuo)",
+   "referencia": "1213.30 (según título; no verificable en la foto)",
+   "precio_justo_usd": 1000,
+   "interesante": false,
+   "nota": "El título promete calendario perpetuo, pero la foto muestra un modelo de cuarzo con solo fecha, así que el listado es inconsistente. Por ese modelo, el precio pedido de US$4975 está muy por encima del mercado."
+  },
+  "motivo": "triage: El título promete calendario perpetuo, pero la foto muestra un modelo de cuarzo con solo fecha, así que el listado es inconsistente. Por ese modelo, el precio pedido de US$4975 está muy por encima del mercado. (justo 1000)"
  }
 ]
