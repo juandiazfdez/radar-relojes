@@ -8070,5 +8070,62 @@
    "nota": "Precio pedido unos 20 % por encima del valor de mercado gris para un modelo de producción actual con caja y papeles; no hay descuento suficiente."
   },
   "motivo": "triage: Precio pedido unos 20 % por encima del valor de mercado gris para un modelo de producción actual con caja y papeles; no hay descuento suficiente. (justo 6000)"
+ },
+ {
+  "fecha": "2026-10-21T13:10:48.983182+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Aqua Terra James Bond 007 SPECTRE Limited Edition 231.10.42.21.03.004",
+  "total": 6499.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137862818919",
+  "item_id": "v1|137862818919|0",
+  "referencia": "231.10.42.21.03.004",
+  "mercado": {
+   "n": 9,
+   "p25": 6499,
+   "mediana": 7100
+  },
+  "ratio_mercado": 1.0,
+  "motivo": "precio normal (100 % del cuartil bajo de 231.10.42.21.03.004)"
+ },
+ {
+  "fecha": "2026-10-21T13:10:48.983182+00:00",
+  "marca": "Omega",
+  "titulo": "Vintage 61-62 Omega Seamaster Automatic - Gold Filled 34mm Serviced and Working!",
+  "total": 915.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267819761293",
+  "item_id": "v1|267819761293|0",
+  "triage": {
+   "modelo": "Omega Seamaster Automatic (gold filled, años 60)",
+   "referencia": null,
+   "precio_justo_usd": 550,
+   "interesante": false,
+   "nota": "Precio pedido de 915 USD por encima del valor de venta real para un Seamaster automático gold filled de esa época en estado Good; la referencia exacta no se distingue en la foto."
+  },
+  "motivo": "triage: Precio pedido de 915 USD por encima del valor de venta real para un Seamaster automático gold filled de esa época en estado Good; la referencia exacta no se distingue en la foto. (justo 550)"
+ },
+ {
+  "fecha": "2026-10-21T13:10:48.983182+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "Brand NEW TAG Heuer Carrera  Seleton 02  Watch  CBG2A10.FT6169 5 years warranty",
+  "total": 5599.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/137862821032",
+  "item_id": "v1|137862821032|0",
+  "referencia": "CBG2A10.FT6169",
+  "mercado": {
+   "n": 2,
+   "p25": 5599,
+   "mediana": 5787
+  },
+  "triage": {
+   "modelo": "TAG Heuer Carrera Heuer-02 Skeleton (cronógrafo, esfera esqueleto, bisel de cerámica negra, correa de cuero marrón)",
+   "referencia": "CBG2A10.FT6169",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "Nuevo con caja y papeles; el mercado gris lo vende hacia 3.800-4.700 USD, así que 5.599 USD queda bastante por encima."
+  },
+  "motivo": "triage: Nuevo con caja y papeles; el mercado gris lo vende hacia 3.800-4.700 USD, así que 5.599 USD queda bastante por encima. (justo 4300)"
  }
 ]
