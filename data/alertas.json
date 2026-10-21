@@ -607,5 +607,84 @@
    "precio_justo_usd": 4200
   },
   "ratio_justo": 0.815
+ },
+ {
+  "fecha": "2026-10-21T16:56:01.733645+00:00",
+  "marca": "Panerai",
+  "titulo": "Panerai Luminor 8 Day PAM 915 Complete Set Original Owner-Box, Papers, Warraty",
+  "precio": 4500.0,
+  "envio": 5.68,
+  "total": 4505.68,
+  "mercado": {
+   "fecha": "2026-10-21",
+   "consulta": "Panerai PAM915",
+   "n": 1,
+   "mediana": 6025,
+   "p25": 6025,
+   "p75": 6025,
+   "min": 6025,
+   "max": 6025
+  },
+  "triage": {
+   "modelo": "Panerai Luminor 8 Days (Acciaio, 44 mm, esfera negra, correa de piel)",
+   "referencia": "PAM 915",
+   "precio_justo_usd": 5800,
+   "interesante": true,
+   "nota": "Precio ~22% bajo el mercado de segunda mano con caja y papeles. Verificar autenticidad, números de serie y papeles antes de comprar, porque Panerai es muy falsificado."
+  },
+  "vendedor": "jewool-38",
+  "valoraciones": 146,
+  "pct_positivo": "100.0",
+  "url": "https://www.ebay.com/itm/377587775887",
+  "item_id": "v1|377587775887|0",
+  "info": {
+   "departamento": "Men",
+   "referencia": "PAM00915",
+   "modelo_esp": "Panerai Luminor",
+   "caja_mm": "44 mm",
+   "material": "Stainless Steel",
+   "ano": "2020-Now",
+   "movimiento": "Mechanical (Manual)",
+   "caja_original": "Yes",
+   "papeles": "Yes",
+   "condicion": "Pre-owned - Excellent",
+   "condicion_id": "2990",
+   "condicion_desc": "",
+   "garantia_autenticidad": false,
+   "devoluciones": false,
+   "amarillas": [
+    "polished",
+    "scratch",
+    "wear",
+    "worn"
+   ],
+   "imagenes": [
+    "https://i.ebayimg.com/images/g/~~kAAeSwcUpqbe6l/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/Az0AAeSwNwVqbe6l/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/alcAAeSwZl5qbe6l/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/pisAAeSwZnFqbe6l/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/Tn4AAeSwIX5qbe6m/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/jYAAAeSw4VJqbe9Q/s-l1600.jpg"
+   ]
+  },
+  "claude": {
+   "veredicto": "alerta",
+   "modelo": "Panerai Luminor 8 Giorni PAM00915, acero de 44 mm, esfera negra, calibre manual P.5000",
+   "estado": "Usado en buen estado: se ven rayones finos en la caja pulida y desgaste en la correa, más de lo que sugiere 'usado pocas veces'.",
+   "riesgo_autenticidad": "medio",
+   "completo": true,
+   "razones": [
+    "El precio de US$4,506 queda más o menos 15-20% por debajo de un precio de venta realista para un PAM915 completo, que ronda los US$5,400-5,800. La única comparable (US$6,025) es un precio pedido, así que no la tomo como referencia de cierre. Hay margen, pero no es enorme una vez descontadas las comisiones.",
+    "Las fotos parecen propias y no de catálogo. La esfera (tipografía de 'LUMINOR PANERAI', '8 GIORNI', subesfera a las 9, 'SWISS MADE' con las L de lume), el puente protector de corona, la hebilla Panerai grabada y el tornillo del lateral coinciden con un PAM915 genuino. No veo señales evidentes de réplica ni de esfera repintada.",
+    "La historia es coherente: compra en la boutique de Roma en otoño de 2022 y garantía extendida hasta el 16/10/2030, que corresponde a los 8 años de garantía de Panerai tras registrar el reloj. El vendedor tiene 146 valoraciones con 100% positivo.",
+    "Faltan fotos clave: fondo de caja, movimiento P.5000, número de serie, caja interior y exterior, y tarjeta de garantía y manual. Sin ellas no se puede comprobar que el set esté completo ni que los números coincidan. Panerai es una marca muy falsificada.",
+    "La descripción dice 'amazing condition' y 'worn only a few times', pero las fotos laterales muestran rayones y marcas en la caja pulida. La trabilla de la correa tiene una esquina descascarada y la correa se ve gastada. El estado real es 'usado bueno', no 'como nuevo'.",
+    "El anuncio no ofrece garantía de autenticidad ni devoluciones, así que todo el riesgo recae en el comprador.",
+    "Condiciones para comprar: pedir fotos del fondo de caja, del serial y de los papeles, y confirmar que el serial coincide con la garantía. Si el vendedor se niega o algo no coincide, descartar. Si todo cuadra, es una compra razonable a este precio."
+   ],
+   "precio_justo_usd": 5400,
+   "precio_reventa_rd_usd": 5600
+  },
+  "ratio_justo": 0.834
  }
 ]
