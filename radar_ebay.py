@@ -231,6 +231,31 @@ def extraer_ref(marca, textos):
     return None
 
 
+def norm(t):
+    """minusculas, solo letras y numeros; PAM00424 y PAM 424 quedan iguales."""
+    t = re.sub(r"[^a-z0-9]", "", (t or "").lower())
+    return re.sub(r"pam0+", "pam", t)
+
+
+def ref_base(marca, ref):
+    """Referencia de modelo sin variantes de esfera/brazalete, para comparar listados."""
+    ref = (ref or "").upper().replace(" ", "").split(",")[0].split("/")[0]
+    m = marca.lower()
+    if "breitling" in m:
+        mm = re.match(r"([A-Z]{2}\d{4}|[A-Z]\d{5})", ref)
+        return mm.group(1) if mm else ref
+    if "tag" in m:
+        return ref.split(".")[0]
+    if "tudor" in m:
+        return ref.split("-")[0]
+    if "iwc" in m:
+        mm = re.match(r"(IW\d{6})", ref.replace("-", ""))
+        return mm.group(1) if mm else ref
+    if "omega" in m:
+        return ref.split("-")[0]
+    return ref.split("-")[0] if "rolex" in m else ref
+
+
 def aspectos(detalle):
     return {(a.get("name") or "").strip().lower(): (a.get("value") or "").strip()
             for a in detalle.get("localizedAspects", []) or []}
@@ -248,13 +273,14 @@ def comparables(eb, marca, ref, condicion_id, excluir_id, cache):
     """Cuartil bajo / mediana de los listados activos en EE. UU. de la MISMA referencia
     y misma condicion (nuevo/usado). Cache diario por referencia."""
     usada = str(condicion_id or "") not in ("1000", "1500", "1750")
+    ref = ref_base(marca, ref)
     q = f"{marca} {ref}"
     clave = f"{q}|{'usado' if usada else 'nuevo'}"
     hoy = dt.date.today().isoformat()
     if clave in cache and cache[clave].get("fecha") == hoy:
         return cache[clave]
     # Mercado calculado por el ultimo barrido completo (vale 3 dias, no gasta cuota)
-    mb = MERCADO_BARRIDO.get(f"{marca}|{ref.split('-')[0]}|{'usado' if usada else 'nuevo'}")
+    mb = MERCADO_BARRIDO.get(f"{marca}|{ref}|{'usado' if usada else 'nuevo'}")
     if mb and mb.get("n", 0) >= MIN_COMPARABLES and mb.get("fecha", "") >= (dt.date.today() - dt.timedelta(days=3)).isoformat():
         return mb
     filtros = ["itemLocationCountry:US", "buyingOptions:{FIXED_PRICE|BEST_OFFER}", "priceCurrency:USD",
@@ -264,7 +290,7 @@ def comparables(eb, marca, ref, condicion_id, excluir_id, cache):
         if it.get("itemId") == excluir_id:
             continue
         t = it.get("title", "")
-        if not titulo_ok(t, marca) or ref.lower() not in t.lower().replace(" ", ""):
+        if not titulo_ok(t, marca) or norm(ref) not in norm(t):
             continue
         p = precio_total(it)
         if p:

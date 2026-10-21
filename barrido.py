@@ -257,7 +257,7 @@ def main():
     for it in todos.values():
         if it["ref"]:
             nuevo = str(it["condicion_id"] or "") in ("1000", "1500", "1750")
-            it["clave"] = f"{it['marca']}|{it['ref'].split('-')[0]}|{'nuevo' if nuevo else 'usado'}"
+            it["clave"] = f"{it['marca']}|{r.ref_base(it['marca'], it['ref'])}|{'nuevo' if nuevo else 'usado'}"
             grupos.setdefault(it["clave"], []).append(it["total"])
     hoy = dt.date.today().isoformat()
     mercado = {}
