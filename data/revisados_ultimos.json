@@ -9653,5 +9653,79 @@
    "nota": "Precio pedido de 3450 USD es unos 30 % inferior al de mercado para un Portofino cronógrafo acero con garantía vigente hasta 2030; descuento tan grande en un reloj casi nuevo sugiere posible réplica o listado engañoso. Verificar número de serie, papeles y autenticidad antes de cualquier compra."
   },
   "motivo": "triage: Precio pedido de 3450 USD es unos 30 % inferior al de mercado para un Portofino cronógrafo acero con garantía vigente hasta 2030; descuento tan grande en un reloj casi nuevo sugiere posible réplica o listado engañoso. Verificar número de serie, papeles y autenticidad antes de cualquier compra. (justo 5000)"
+ },
+ {
+  "fecha": "2026-10-21T14:25:49.458593+00:00",
+  "marca": "Rolex",
+  "titulo": "2005 Rolex 16613 Submariner 40mm 18k Yellow Gold Steel Blue on Blue Mens Watch",
+  "total": 12998.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407306466902",
+  "item_id": "v1|407306466902|0",
+  "referencia": "16613",
+  "mercado": {
+   "n": 141,
+   "p25": 12000,
+   "mediana": 12500
+  },
+  "ratio_mercado": 1.083,
+  "motivo": "precio normal (108 % del cuartil bajo de 16613)"
+ },
+ {
+  "fecha": "2026-10-21T14:25:49.458593+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 2021 Yacht-Master 40mm Rhodium Automatic Date Steel Bracelet Box Papers",
+  "total": 12100.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117478653258",
+  "item_id": "v1|117478653258|0",
+  "triage": {
+   "modelo": "Rolex Yacht-Master 40 acero con bisel Rolesium/platino, esfera gris",
+   "referencia": "126622 (probable, verificar en el reverso de la caja o en los papeles)",
+   "precio_justo_usd": 12800,
+   "interesante": false,
+   "nota": "Precio 5-6% por debajo del mercado para un 2021 completo con caja y papeles; no alcanza el umbral del 15%. Verificar referencia y autenticidad antes de comprar."
+  },
+  "motivo": "triage: Precio 5-6% por debajo del mercado para un 2021 completo con caja y papeles; no alcanza el umbral del 15%. Verificar referencia y autenticidad antes de comprar. (justo 12800)"
+ },
+ {
+  "fecha": "2026-10-21T14:25:49.458593+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Must Vermeil 20mm Watch Leather Bracelet W1013354 BOX & PAPER",
+  "total": 5105.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336855717046",
+  "item_id": "v1|336855717046|0",
+  "referencia": "W1013354",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Tank Must de Cartier Vermeil (cuarzo, esfera blanca, correa de piel)",
+   "referencia": "W1013354 (según el título; no verificable en la foto)",
+   "precio_justo_usd": 1000,
+   "interesante": false,
+   "nota": "Tank Must vermeil de cuarzo se vende en torno a 800-1200 USD con caja y papeles; 5105 USD está muy por encima del mercado."
+  },
+  "motivo": "triage: Tank Must vermeil de cuarzo se vende en torno a 800-1200 USD con caja y papeles; 5105 USD está muy por encima del mercado. (justo 1000)"
+ },
+ {
+  "fecha": "2026-10-21T14:25:49.458593+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ronde Must 36mm Quartz Watch 4423 Authentic",
+  "total": 2800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137862982903",
+  "item_id": "v1|137862982903|0",
+  "triage": {
+   "modelo": "Cartier Ronde Must 36mm (cuarzo, acero, esfera plateada con numerales romanos)",
+   "referencia": null,
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "La referencia '4423' no encaja con el formato actual de Cartier; verificar con caja y papeles. Precio pedido por encima del valor de venta real estimado."
+  },
+  "motivo": "triage: La referencia '4423' no encaja con el formato actual de Cartier; verificar con caja y papeles. Precio pedido por encima del valor de venta real estimado. (justo 2400)"
  }
 ]
