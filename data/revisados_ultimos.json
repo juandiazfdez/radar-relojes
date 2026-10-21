@@ -7012,5 +7012,45 @@
    "nota": "Precio pedido muy por encima del valor estimado; título confuso ('Marriage') y referencia no verificable en las fotos."
   },
   "motivo": "triage: Precio pedido muy por encima del valor estimado; título confuso ('Marriage') y referencia no verificable en las fotos. (justo 4500)"
+ },
+ {
+  "fecha": "2026-10-21T06:10:39.313818+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Aquaracer Women's Black Watch - WBP2410.BA0622 FULL SET Box & Papers",
+  "total": 2005.19,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900029121782",
+  "item_id": "v1|900029121782|0",
+  "referencia": "WBP2410.BA0622",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "TAG Heuer Aquaracer Lady 300M (esfera negra, brazalete de acero, cuarzo)",
+   "referencia": "WBP2410.BA0622",
+   "precio_justo_usd": 1450,
+   "interesante": false,
+   "nota": "Precio pedido de 2005 USD con envío, muy por encima del valor de reventa de este modelo usado con caja y papeles (aprox. 1300-1600 USD). La referencia se confirma solo por el título; la foto no permite verificarla."
+  },
+  "motivo": "triage: Precio pedido de 2005 USD con envío, muy por encima del valor de reventa de este modelo usado con caja y papeles (aprox. 1300-1600 USD). La referencia se confirma solo por el título; la foto no permite verificarla. (justo 1450)"
+ },
+ {
+  "fecha": "2026-10-21T06:10:39.313818+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "Tag Heuer Formula 1 Solograph",
+  "total": 860.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147645306669",
+  "item_id": "v1|147645306669|0",
+  "triage": {
+   "modelo": "TAG Heuer Formula 1 Solograph (no verificable en la foto)",
+   "referencia": null,
+   "precio_justo_usd": 550,
+   "interesante": false,
+   "nota": "La foto muestra solo la parte trasera y la pulsera, sin esfera ni referencia visible. Precio pedido de 860 USD por encima de la estimación conservadora; verificar autenticidad y referencia antes de comprar."
+  },
+  "motivo": "triage: La foto muestra solo la parte trasera y la pulsera, sin esfera ni referencia visible. Precio pedido de 860 USD por encima de la estimación conservadora; verificar autenticidad y referencia antes de comprar. (justo 550)"
  }
 ]
