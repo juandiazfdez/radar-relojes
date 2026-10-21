@@ -1,0 +1,42 @@
+name: Consulta puntual eBay
+
+on:
+  workflow_dispatch:
+    inputs:
+      consulta:
+        description: "Texto a buscar"
+        default: "bvlgari serpenti"
+      precio_min:
+        description: "Precio minimo USD"
+        default: "1500"
+
+permissions:
+  contents: write
+
+jobs:
+  consulta:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Consultar
+        env:
+          EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+          EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+          CONSULTA: ${{ inputs.consulta }}
+          PRECIO_MIN: ${{ inputs.precio_min }}
+        run: |
+          mkdir -p data
+          set -o pipefail
+          python consulta_ebay.py 2>&1 | tee data/consulta_log.txt
+      - name: Guardar
+        if: always()
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add data/consulta.json data/consulta_log.txt
+          git commit -m "Consulta: ${{ inputs.consulta }}" || echo "Sin cambios"
+          git pull --rebase
+          git push
