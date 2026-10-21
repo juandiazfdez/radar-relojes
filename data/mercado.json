@@ -1200,14 +1200,14 @@
   "n": 0
  },
  "TAG Heuer CAP2112|usado": {
-  "fecha": "2026-10-20",
+  "fecha": "2026-10-21",
   "consulta": "TAG Heuer CAP2112",
-  "n": 1,
-  "mediana": 900,
+  "n": 2,
+  "mediana": 1450,
   "p25": 900,
-  "p75": 900,
+  "p75": 2000,
   "min": 900,
-  "max": 900
+  "max": 2000
  },
  "TAG Heuer Aquaracer Professional 200 Solargraph|usado": {
   "fecha": "2026-10-20",
@@ -4253,5 +4253,45 @@
   "p75": 5000,
   "min": 5000,
   "max": 5000
+ },
+ "Rolex 6422|usado": {
+  "fecha": "2026-10-21",
+  "consulta": "Rolex 6422",
+  "n": 1,
+  "mediana": 10194,
+  "p25": 10194,
+  "p75": 10194,
+  "min": 10194,
+  "max": 10194
+ },
+ "Rolex 6566|usado": {
+  "fecha": "2026-10-21",
+  "consulta": "Rolex 6566",
+  "n": 0
+ },
+ "TAG Heuer WBP1114|nuevo": {
+  "fecha": "2026-10-21",
+  "consulta": "TAG Heuer WBP1114",
+  "n": 2,
+  "mediana": 2324,
+  "p25": 2150,
+  "p75": 2499,
+  "min": 2150,
+  "max": 2499
+ },
+ "TAG Heuer CAW211P|nuevo": {
+  "fecha": "2026-10-21",
+  "consulta": "TAG Heuer CAW211P",
+  "n": 1,
+  "mediana": 9525,
+  "p25": 9525,
+  "p75": 9525,
+  "min": 9525,
+  "max": 9525
+ },
+ "IWC IW378003|usado": {
+  "fecha": "2026-10-21",
+  "consulta": "IWC IW378003",
+  "n": 0
  }
 }
