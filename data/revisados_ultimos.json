@@ -2,34 +2,6 @@
  {
   "fecha": "2026-10-20T23:26:35.081597+00:00",
   "modelo_guia": "Tudor Black Bay Bronze",
-  "titulo": "Tudor Black Bay Bronze \"2016\" 79250",
-  "total": 3037.94,
-  "url": "https://www.ebay.com/itm/336817436817?_skw=tudor+black+bay+bronze&hash=item4e6be23891:g:PBoAAeSw-PdqurAU",
-  "item_id": "v1|336817436817|0",
-  "referencia": "79250",
-  "motivo": "precio normal (75 % de la mediana)",
-  "mercado": {
-   "consulta": "Tudor 79250",
-   "n": 14,
-   "mediana": 4060,
-   "p25": 3893,
-   "p75": 4628
-  },
-  "ratio_mercado": 0.748
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Tudor Black Bay Bronze",
-  "titulo": "2016 Tudor Heritage 79250BM Black Bay Bronze 43 mm Automatic Men's Watch",
-  "total": 3345.0,
-  "url": "https://www.ebay.com/itm/318928461145?_skw=tudor+black+bay+bronze&hash=item4a419e1d59:g:7eIAAeSwg0dquh~r",
-  "item_id": "v1|318928461145|0",
-  "referencia": "79250BM",
-  "motivo": "descripcion: replica"
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Tudor Black Bay Bronze",
   "titulo": "Tudor Black Bay 43 Bronze Slate Grey #79250BA w/ Papers & Warranty",
   "total": 3345.0,
   "url": "https://www.ebay.com/itm/860055381304?_skw=tudor+black+bay+bronze&hash=itemc83f4ba538:g:d8QAAeSwyMNq09mA",
@@ -6549,5 +6521,41 @@
    "p75": 5099
   },
   "ratio_mercado": 0.892
+ },
+ {
+  "fecha": "2026-10-21T04:40:40.509279+00:00",
+  "modelo_guia": "Tudor Black Bay GMT",
+  "titulo": "​2026 Tudor Black Bay GMT Root Beer 41mm 79833MN NATO + Extra Jubilee Full Set",
+  "total": 4650.0,
+  "url": "https://www.ebay.com/itm/407305170034?_skw=tudor+black+bay+gmt&hash=item5ed547ac72:g:i9sAAeSw50Nq2DKB",
+  "item_id": "v1|407305170034|0",
+  "referencia": null,
+  "motivo": "precio normal (117 % del cuartil bajo)",
+  "mercado": {
+   "consulta": "tudor black bay gmt",
+   "n": 62,
+   "mediana": 4354,
+   "p25": 3990,
+   "p75": 4750
+  },
+  "ratio_mercado": 1.165
+ },
+ {
+  "fecha": "2026-10-21T04:40:40.509279+00:00",
+  "modelo_guia": "Breitling Navitimer",
+  "titulo": "[WTS] Breitling Navitimer B01 Chronograph 43 Tribute to Concorde AB01389C1C1P1",
+  "total": 6049.0,
+  "url": "https://www.ebay.com/itm/267818478377?_skw=breitling+navitimer&hash=item3e5b39ab29:g:CxYAAeSw4sdq1td3",
+  "item_id": "v1|267818478377|0",
+  "referencia": "B01",
+  "motivo": "precio normal (121 % del cuartil bajo)",
+  "mercado": {
+   "consulta": "Breitling B01",
+   "n": 101,
+   "mediana": 5367,
+   "p25": 4987,
+   "p75": 5698
+  },
+  "ratio_mercado": 1.213
  }
 ]

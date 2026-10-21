@@ -1,14 +1,14 @@
 {
- "actualizado": "2026-10-21T01:50:33.973683+00:00",
+ "actualizado": "2026-10-21T04:40:40.509279+00:00",
  "ventana_horas": 2.0,
  "corrida": {
-  "nuevos_vistos": 10,
+  "nuevos_vistos": 9,
   "descartes": {
-   "titulo": 6,
-   "precio_normal": 4
+   "titulo": 7,
+   "precio_normal": 2
   },
   "alertas_nuevas": 0,
-  "llamadas_ebay": 33,
+  "llamadas_ebay": 28,
   "cuota_agotada": false
  },
  "alertas_hoy": [],
@@ -1919,13 +1919,13 @@
    "max": 9000
   },
   "tudor black bay gmt|usado": {
-   "fecha": "2026-10-20",
+   "fecha": "2026-10-21",
    "consulta": "tudor black bay gmt",
-   "n": 61,
-   "mediana": 4408,
-   "p25": 3999,
+   "n": 62,
+   "mediana": 4354,
+   "p25": 3990,
    "p75": 4750,
-   "min": 3257,
+   "min": 2958,
    "max": 5600
   },
   "Tudor 79470|usado": {
@@ -3297,6 +3297,16 @@
    "p75": 5099,
    "min": 5099,
    "max": 5159
+  },
+  "Breitling B01|usado": {
+   "fecha": "2026-10-21",
+   "consulta": "Breitling B01",
+   "n": 101,
+   "mediana": 5367,
+   "p25": 4987,
+   "p75": 5698,
+   "min": 3148,
+   "max": 6210
   }
  }
 }

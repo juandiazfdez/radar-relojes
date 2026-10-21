@@ -1905,13 +1905,13 @@
   "max": 9000
  },
  "tudor black bay gmt|usado": {
-  "fecha": "2026-10-20",
+  "fecha": "2026-10-21",
   "consulta": "tudor black bay gmt",
-  "n": 61,
-  "mediana": 4408,
-  "p25": 3999,
+  "n": 62,
+  "mediana": 4354,
+  "p25": 3990,
   "p75": 4750,
-  "min": 3257,
+  "min": 2958,
   "max": 5600
  },
  "Tudor 79470|usado": {
@@ -3283,5 +3283,15 @@
   "p75": 5099,
   "min": 5099,
   "max": 5159
+ },
+ "Breitling B01|usado": {
+  "fecha": "2026-10-21",
+  "consulta": "Breitling B01",
+  "n": 101,
+  "mediana": 5367,
+  "p25": 4987,
+  "p75": 5698,
+  "min": 3148,
+  "max": 6210
  }
 }
