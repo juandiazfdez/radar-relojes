@@ -7303,5 +7303,28 @@
    "nota": "Modelo de los 2000 de venta modesta; el precio pedido de $700 supera lo que se cierra normalmente en EE. UU. para este estado."
   },
   "motivo": "triage: Modelo de los 2000 de venta modesta; el precio pedido de $700 supera lo que se cierra normalmente en EE. UU. para este estado. (justo 450)"
+ },
+ {
+  "fecha": "2026-10-21T09:40:39.200407+00:00",
+  "marca": "IWC",
+  "titulo": "IWC Pilot Spitfire Chronograph IW387901",
+  "total": 4625.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860068428051",
+  "item_id": "v1|860068428051|0",
+  "referencia": "IW387901",
+  "mercado": {
+   "n": 4,
+   "p25": 5125,
+   "mediana": 5138
+  },
+  "triage": {
+   "modelo": "IWC Pilot's Watch Spitfire Chronograph (esfera negra, acero, correa textil verde caqui)",
+   "referencia": "IW387901",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Precio cerca del mercado de segunda mano, pero no está al 15 % o más por debajo; estimación conservadora sin verificar año, caja ni papeles."
+  },
+  "motivo": "triage: Precio cerca del mercado de segunda mano, pero no está al 15 % o más por debajo; estimación conservadora sin verificar año, caja ni papeles. (justo 5000)"
  }
 ]
