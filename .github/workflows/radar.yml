@@ -39,6 +39,8 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           ALERTA_EMAIL: ${{ secrets.ALERTA_EMAIL }}
           LOOKBACK_HORAS: "2"
+          CLAUDE_MODEL: "claude-sonnet-5-5"
+          CLAUDE_MODEL_RAPIDO: "claude-haiku-5-5"
         run: |
           git config user.name "radar-bot"
           git config user.email "radar-bot@users.noreply.github.com"

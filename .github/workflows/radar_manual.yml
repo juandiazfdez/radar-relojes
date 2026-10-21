@@ -31,6 +31,8 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           LOOKBACK_HORAS: "2"
+          CLAUDE_MODEL: "claude-sonnet-5-5"
+          CLAUDE_MODEL_RAPIDO: "claude-haiku-5-5"
           PRUEBA_AVISO: ${{ inputs.prueba_aviso && '1' || '' }}
           BARRIDO: ${{ inputs.barrido && '1' || '' }}
         run: |
