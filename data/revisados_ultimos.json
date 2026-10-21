@@ -2,44 +2,6 @@
  {
   "fecha": "2026-10-20T23:26:35.081597+00:00",
   "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "Jaeger-LeCoultre Reverso 28mm Large Duoface Travel Time Q3848420 - 2018",
-  "total": 11985.0,
-  "url": "https://www.ebay.com/itm/117425999269?_skw=jaeger+lecoultre+reverso&hash=item1b57228da5:g:wWQAAeSwjOdqstFf",
-  "item_id": "v1|117425999269|0",
-  "referencia": "Q3848420",
-  "motivo": "precio normal (92 % de la mediana)",
-  "mercado": {
-   "consulta": "jaeger lecoultre reverso",
-   "n": 111,
-   "mediana": 12990,
-   "p25": 9750,
-   "p75": 17500
-  },
-  "ratio_mercado": 0.923
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "Jaeger-LeCoultre Reverso 265108",
-  "total": 11995.0,
-  "url": "https://www.ebay.com/itm/278057808869?_skw=jaeger+lecoultre+reverso&hash=item40bd8973e5:g:qsoAAeSw5mlqIyKD",
-  "item_id": "v1|278057808869|0",
-  "referencia": "265.1.08",
-  "motivo": "departamento Women"
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "Jaeger-LeCoultre Reverso Squadra Chronograph 230.N.45",
-  "total": 12000.0,
-  "url": "https://www.ebay.com/itm/394407377684?_skw=jaeger+lecoultre+reverso&hash=item5bd482fb14:g:PdwAAOSwzApjtdgL",
-  "item_id": "v1|394407377684|0",
-  "referencia": "JLCblkface",
-  "motivo": "vendedor 0.0 % positivo"
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
   "titulo": "Jaeger LeCoultre Reverso Tribute Monoface Steel Mens Watch Q713842X Card",
   "total": 12010.0,
   "url": "https://www.ebay.com/itm/278360088494?_skw=jaeger+lecoultre+reverso&hash=item40cf8ddfae:g:HMYAAeSwMcNqocGT",
@@ -11185,5 +11147,56 @@
    "nota": "Modelo de producción actual; el pedido de US$2500 está por encima del rango de reventa usado (aprox. US$2000-2300) para este estado."
   },
   "motivo": "triage: Modelo de producción actual; el pedido de US$2500 está por encima del rango de reventa usado (aprox. US$2000-2300) para este estado. (justo 2150)"
+ },
+ {
+  "fecha": "2026-10-21T23:41:11.685513+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II UNWORN 2026 Root Beer Black 40mm Oyster Wood 126711CHNR",
+  "total": 23695.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/198734844587",
+  "item_id": "v1|198734844587|0",
+  "referencia": "126711CHNR",
+  "mercado": {
+   "n": 26,
+   "p25": 23445,
+   "mediana": 23765
+  },
+  "ratio_mercado": 1.011,
+  "motivo": "precio normal (101 % del cuartil bajo de 126711CHNR)"
+ },
+ {
+  "fecha": "2026-10-21T23:41:11.685513+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay Chronometer",
+  "total": 4500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900030990654",
+  "item_id": "v1|900030990654|0",
+  "triage": {
+   "modelo": "Tudor Black Bay Chronometer (esfera negra, bisel negro, brazalete de acero; probablemente 41 mm)",
+   "referencia": "M79230N (probable, no confirmable con certeza en la foto)",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta cerrada estimado para esta referencia en estado excelente; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para esta referencia en estado excelente; no es una oportunidad. (justo 3800)"
+ },
+ {
+  "fecha": "2026-10-21T23:41:11.685513+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Aviator 8 B01 Chronograph Curtiss Warhawk 43mm Watch AB01192A1L1X2",
+  "total": 4250.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900030994663",
+  "item_id": "v1|900030994663|0",
+  "triage": {
+   "modelo": "Breitling Aviator 8 B01 Chronograph 'Curtiss Warhawk' 43 mm (esfera verde, correa de piel verde)",
+   "referencia": "AB01192A1L1X2",
+   "precio_justo_usd": 4400,
+   "interesante": false,
+   "nota": "Precio pedido de 4250 USD con envío está solo ~3% por debajo de la estimación conservadora de venta de segunda mano; no cumple el umbral del 15%."
+  },
+  "motivo": "triage: Precio pedido de 4250 USD con envío está solo ~3% por debajo de la estimación conservadora de venta de segunda mano; no cumple el umbral del 15%. (justo 4400)"
  }
 ]
