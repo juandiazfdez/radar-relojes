@@ -1,21 +1,19 @@
-name: Radar eBay (cada 15 min)
+name: Radar eBay (bucle cada 15 min)
+
+# GitHub no respeta los cron frecuentes, asi que el radar corre en un trabajo
+# largo (hasta ~5 h 45 min) que repite la busqueda cada 15 minutos y al terminar
+# se relanza a si mismo. El cron de cada hora es solo un vigilante: gracias al
+# grupo de concurrencia, si ya hay un bucle corriendo el nuevo queda en espera
+# y arranca justo cuando el anterior termina.
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # cada 15 min; GitHub puede retrasarlo unos minutos
-  workflow_dispatch:          # botón para correrlo a mano
-    inputs:
-      prueba_aviso:
-        description: "Reenviar la última alerta por Telegram/correo como prueba"
-        type: boolean
-        default: false
-      barrido:
-        description: "Barrido completo: revisar todo lo activo, no solo lo nuevo"
-        type: boolean
-        default: false
+    - cron: "13 * * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: radar
@@ -24,12 +22,13 @@ concurrency:
 jobs:
   radar:
     runs-on: ubuntu-latest
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Buscar publicaciones nuevas y comparar con el mercado
+      - name: Bucle de busqueda (cada 15 min)
         env:
           EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
           EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
@@ -40,18 +39,24 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           ALERTA_EMAIL: ${{ secrets.ALERTA_EMAIL }}
           LOOKBACK_HORAS: "2"
-          PRUEBA_AVISO: ${{ inputs.prueba_aviso && '1' || '' }}
-          BARRIDO: ${{ inputs.barrido && '1' || '' }}
-        run: |
-          mkdir -p data
-          set -o pipefail
-          python radar_ebay.py 2>&1 | tee data/ultimo_log.txt
-      - name: Guardar resultados
-        if: always()
         run: |
           git config user.name "radar-bot"
           git config user.email "radar-bot@users.noreply.github.com"
-          git add data/
-          git commit -m "Radar $(date -u +'%F %H:%M')" || echo "Sin cambios"
-          git pull --rebase
-          git push
+          mkdir -p data
+          fin=$((SECONDS + 5*3600 + 40*60))
+          while [ $SECONDS -lt $fin ]; do
+            inicio=$SECONDS
+            git pull --rebase -q || { git rebase --abort || true; git fetch -q origin main; git reset -q --hard origin/main; }
+            python radar_ebay.py 2>&1 | tee data/ultimo_log.txt || echo "Corrida con error (ver log)"
+            git add data/
+            git commit -q -m "Radar $(date -u +'%F %H:%M')" || true
+            git pull --rebase -q || { git rebase --abort || true; git fetch -q origin main; git reset -q --hard origin/main; }
+            git push -q || true
+            espera=$((900 - (SECONDS - inicio)))
+            [ $espera -gt 0 ] && sleep $espera
+          done
+      - name: Relanzar el bucle
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh api -X POST "repos/${GITHUB_REPOSITORY}/actions/workflows/radar.yml/dispatches" -f ref=main || echo "No se pudo relanzar; el cron lo hara"

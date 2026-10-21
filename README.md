@@ -1,6 +1,6 @@
 # Radar de relojes (eBay) – v2
 
-Corre en GitHub Actions **cada 15 minutos** y solo mira publicaciones nuevas (ubicadas en EE. UU.) de las
+Corre en GitHub Actions en un bucle que repite la búsqueda **cada 15 minutos** (un trabajo de ~6 h que se relanza solo; el cron horario es vigilante) y solo mira publicaciones nuevas (ubicadas en EE. UU.) de las
 últimas 3 horas para los modelos de `guia_precios.csv`.
 
 ## Cómo decide si algo es oportunidad

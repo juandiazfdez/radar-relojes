@@ -1,0 +1,48 @@
+name: Radar manual (prueba o barrido)
+
+on:
+  workflow_dispatch:
+    inputs:
+      prueba_aviso:
+        description: "Reenviar la última alerta por Telegram/correo como prueba"
+        type: boolean
+        default: false
+      barrido:
+        description: "Barrido completo: revisar todo lo activo, no solo lo nuevo"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Correr una vez
+        env:
+          EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+          EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          LOOKBACK_HORAS: "2"
+          PRUEBA_AVISO: ${{ inputs.prueba_aviso && '1' || '' }}
+          BARRIDO: ${{ inputs.barrido && '1' || '' }}
+        run: |
+          mkdir -p data
+          set -o pipefail
+          python radar_ebay.py 2>&1 | tee data/ultimo_log.txt
+      - name: Guardar resultados
+        if: always()
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add data/
+          git commit -m "Radar manual $(date -u +'%F %H:%M')" || echo "Sin cambios"
+          git pull --rebase || { git rebase --abort; git fetch origin main; git reset --hard origin/main; }
+          git push
