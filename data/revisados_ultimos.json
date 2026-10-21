@@ -7103,5 +7103,62 @@
    "nota": "El título dice Navitimer y titanio, pero la foto muestra un Aerospace bicolor; el precio pedido de $1643 está muy por encima del valor de venta real."
   },
   "motivo": "triage: El título dice Navitimer y titanio, pero la foto muestra un Aerospace bicolor; el precio pedido de $1643 está muy por encima del valor de venta real. (justo 800)"
+ },
+ {
+  "fecha": "2026-10-21T07:25:39.402958+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Seamaster 2501.81 Automatic W/ B&P",
+  "total": 2530.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227576660576",
+  "item_id": "v1|227576660576|0",
+  "referencia": "2501.81",
+  "mercado": {
+   "n": 1,
+   "p25": 2299,
+   "mediana": 2299
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Automatic (esfera azul, brazalete de acero, con fecha)",
+   "referencia": "2501.81",
+   "precio_justo_usd": 1600,
+   "interesante": false,
+   "nota": "Referencia de la serie Seamaster 2501 de acero con esfera azul y fecha; el precio pedido de US$2530 queda muy por encima de lo que se vende realmente, incluso con caja y papeles."
+  },
+  "motivo": "triage: Referencia de la serie Seamaster 2501 de acero con esfera azul y fecha; el precio pedido de US$2530 queda muy por encima de lo que se vende realmente, incluso con caja y papeles. (justo 1600)"
+ },
+ {
+  "fecha": "2026-10-21T07:25:39.402958+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Women's Watch, Super Ocean Heritage Automatic 36mm",
+  "total": 5100.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/407302013042",
+  "item_id": "v1|407302013042|0",
+  "triage": {
+   "modelo": "Breitling Superocean Heritage (posible edición con bisel verde y pulsera de malla; el tamaño parece mayor que 36 mm)",
+   "referencia": null,
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "Precio pedido por encima del mercado gris para un SH nuevo; además el título (36 mm, mujer) no coincide bien con la caja y el bisel que se ven en la foto."
+  },
+  "motivo": "triage: Precio pedido por encima del mercado gris para un SH nuevo; además el título (36 mm, mujer) no coincide bien con la caja y el bisel que se ven en la foto. (justo 3400)"
+ },
+ {
+  "fecha": "2026-10-21T07:25:39.402958+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Formula 1 Caliber 6 Men's Stainless Steel Automatic Watch W/ B&P",
+  "total": 2430.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227576662772",
+  "item_id": "v1|227576662772|0",
+  "triage": {
+   "modelo": "TAG Heuer Formula 1 Calibre 6 automático, acero, esfera azul, 43 mm (identificación visual aproximada)",
+   "referencia": null,
+   "precio_justo_usd": 950,
+   "interesante": false,
+   "nota": "Modelo de producción actual que se vende de segunda mano bien por debajo de retail; US$2430 con envío supera con creces el precio de cierre estimado para estado Good."
+  },
+  "motivo": "triage: Modelo de producción actual que se vende de segunda mano bien por debajo de retail; US$2430 con envío supera con creces el precio de cierre estimado para estado Good. (justo 950)"
  }
 ]
