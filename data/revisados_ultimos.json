@@ -8865,5 +8865,793 @@
    "nota": "Precio cercano al mercado, pero el listado no indica referencia, año, caja ni papeles, y la foto no permite verificar autenticidad; sin esos datos no se puede confirmar un descuento real de 15 %."
   },
   "motivo": "triage: Precio cercano al mercado, pero el listado no indica referencia, año, caja ni papeles, y la foto no permite verificar autenticidad; sin esos datos no se puede confirmar un descuento real de 15 %. (justo 2600)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31 Midsize Steel Yellow Gold Diamond Ladies Watch 178383",
+  "total": 22930.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257809908591",
+  "item_id": "v1|257809908591|0",
+  "referencia": "178383",
+  "mercado": {
+   "n": 26,
+   "p25": 18990,
+   "mediana": 19062
+  },
+  "ratio_mercado": 1.207,
+  "motivo": "precio normal (121 % del cuartil bajo de 178383)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date Automatic Stainless Steel Watch",
+  "total": 3994.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267819798175",
+  "item_id": "v1|267819798175|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date (acero, automático), probablemente 34 mm",
+   "referencia": "115200 (probable, no confirmada)",
+   "precio_justo_usd": 5800,
+   "interesante": false,
+   "nota": "Precio muy por debajo del mercado para un Rolex original de este modelo; alta sospecha de réplica o listado engañoso. Requiere verificación de autenticidad antes de cualquier oferta."
+  },
+  "motivo": "triage: Precio muy por debajo del mercado para un Rolex original de este modelo; alta sospecha de réplica o listado engañoso. Requiere verificación de autenticidad antes de cualquier oferta. (justo 5800)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Air King Automatic Stainless Steel Watch",
+  "total": 3775.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267819798134",
+  "item_id": "v1|267819798134|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Air-King (vintage)",
+   "referencia": "5500 (probable, no confirmada en la imagen)",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Air-King vintage en acero con esfera plateada; el precio está cerca del valor de mercado, y la esfera y la referencia exacta requieren verificación."
+  },
+  "motivo": "triage: Air-King vintage en acero con esfera plateada; el precio está cerca del valor de mercado, y la esfera y la referencia exacta requieren verificación. (justo 4000)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Precision Steel Watch",
+  "total": 3262.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267819798099",
+  "item_id": "v1|267819798099|0",
+  "triage": {
+   "modelo": "Rolex Oyster Precision (con fecha), esfera salmón",
+   "referencia": "null",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Vintage de acero, cuerda manual, probablemente años 60-70; la referencia exacta no se distingue en la foto. El precio pedido no está al menos 15 % por debajo del valor de venta real."
+  },
+  "motivo": "triage: Vintage de acero, cuerda manual, probablemente años 60-70; la referencia exacta no se distingue en la foto. El precio pedido no está al menos 15 % por debajo del valor de venta real. (justo 3000)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date Automatic Stainless Steel Watch",
+  "total": 4336.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267819798090",
+  "item_id": "v1|267819798090|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date automático, acero inoxidable",
+   "referencia": null,
+   "precio_justo_usd": 5800,
+   "interesante": false,
+   "nota": "Título sin referencia ni año. Precio muy bajo para un OP Date de acero, así que podría ser replica o pieza incompleta. Pedir número de referencia, serial y fotos de movimiento y caja."
+  },
+  "motivo": "triage: Título sin referencia ni año. Precio muy bajo para un OP Date de acero, así que podría ser replica o pieza incompleta. Pedir número de referencia, serial y fotos de movimiento y caja. (justo 5800)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Automatic Stainless Steel Watch",
+  "total": 3335.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267819798078",
+  "item_id": "v1|267819798078|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Lady 24 mm acero, esfera plateada (aparenta ser de los años 80-90)",
+   "referencia": "67180 (probable; no es posible confirmarla solo con la foto)",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "El precio pedido de US$3335 está en el rango de mercado, no 15 % por debajo. Confirmar referencia, número de serie, estado de la caja y el brazalete antes de comprar."
+  },
+  "motivo": "triage: El precio pedido de US$3335 está en el rango de mercado, no 15 % por debajo. Confirmar referencia, número de serie, estado de la caja y el brazalete antes de comprar. (justo 3200)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Automatic Stainless Steel Watch",
+  "total": 2765.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820262712658",
+  "item_id": "v1|820262712658|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Lady 24 mm, acero, esfera plateada sin fecha (aparente)",
+   "referencia": "67180 probable (posiblemente 6718 vintage); no verificable solo con la foto",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Precio pedido cercano al valor de mercado para esta referencia; sin margen de 15 % y la referencia exacta no se puede confirmar con la imagen."
+  },
+  "motivo": "triage: Precio pedido cercano al valor de mercado para esta referencia; sin margen de 15 % y la referencia exacta no se puede confirmar con la imagen. (justo 2600)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual DATEJUST - Everose Gold Two Tone w/original box A+",
+  "total": 13750.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960096595583",
+  "item_id": "v1|960096595583|0",
+  "triage": {
+   "modelo": "Rolex Datejust Oyster Perpetual, bicolor acero y oro Everose (Rolesor), esfera azul, brazalete Jubilee",
+   "referencia": "126331 (probable, verificar con el número de serie y el tamaño exacto)",
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "Precio pedido de US$13.750 solo ~2 % bajo el valor estimado de mercado; no supera el umbral del 15 %. Confirmar referencia, tamaño y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$13.750 solo ~2 % bajo el valor estimado de mercado; no supera el umbral del 15 %. Confirmar referencia, tamaño y papeles. (justo 14000)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Rolex",
+  "titulo": "1954 Vintage Rolex Oyster Perpetual Date Jubilee Bracelet Ref. 6518 Clean & Chic",
+  "total": 3814.8,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377587483817",
+  "item_id": "v1|377587483817|0",
+  "referencia": "6518",
+  "mercado": {
+   "n": 1,
+   "p25": 5150,
+   "mediana": 5150
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date vintage (años 1950-60), esfera negra, pulsera Jubilee de acero",
+   "referencia": null,
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "La ref. 6518 del título no coincide claramente con la ventana de fecha visible; hay que verificar referencia, esfera y movimiento. Con esos datos, el precio pedido no está 15% por debajo del mercado."
+  },
+  "motivo": "triage: La ref. 6518 del título no coincide claramente con la ventana de fecha visible; hay que verificar referencia, esfera y movimiento. Con esos datos, el precio pedido no está 15% por debajo del mercado. (justo 4000)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Pasha Seatimer Automatic Stainless Steel And Rubber Watch",
+  "total": 3189.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267819798185",
+  "item_id": "v1|267819798185|0",
+  "triage": {
+   "modelo": "Cartier Pasha Seatimer Automatic, acero y caucho negro",
+   "referencia": "Probablemente W31077U2 (no verificable en la imagen)",
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Pasha Seatimer automático de acero con correa de caucho; el precio pedido de US$3189 supera la estimación de venta cerrada para estado Good y sin confirmar caja y papeles."
+  },
+  "motivo": "triage: Pasha Seatimer automático de acero con correa de caucho; el precio pedido de US$3189 supera la estimación de venta cerrada para estado Good y sin confirmar caja y papeles. (justo 2800)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Pasha De Cartier Automatic Stainless Steel Watch",
+  "total": 2696.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267819798160",
+  "item_id": "v1|267819798160|0",
+  "triage": {
+   "modelo": "Cartier Pasha de Cartier Automatic (acero inoxidable)",
+   "referencia": null,
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Precio algo bajo para un Pasha automático de acero usado, pero el título no indica referencia, tamaño ni si incluye caja y papeles. Pide número de serie y fotos del movimiento y el cierre antes de considerarlo."
+  },
+  "motivo": "triage: Precio algo bajo para un Pasha automático de acero usado, pero el título no indica referencia, tamaño ni si incluye caja y papeles. Pide número de serie y fotos del movimiento y el cierre antes de considerarlo. (justo 3200)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ronde Solo De Cartier Automatic Stainless Steel And Leather Watch",
+  "total": 2867.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267819798130",
+  "item_id": "v1|267819798130|0",
+  "triage": {
+   "modelo": "Cartier Ronde Solo de Cartier 42 mm, acero con correa de piel (esfera plateada, numerales romanos)",
+   "referencia": null,
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "La referencia exacta no se distingue en la foto y el titulo dice automatico; si es cuarzo vale bastante menos. El precio pedido no esta al menos 15 % por debajo del mercado; verificar movimiento, referencia y papeles antes de comprar."
+  },
+  "motivo": "triage: La referencia exacta no se distingue en la foto y el titulo dice automatico; si es cuarzo vale bastante menos. El precio pedido no esta al menos 15 % por debajo del mercado; verificar movimiento, referencia y papeles antes de comprar. (justo 2400)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ronde Solo De Cartier Quartz Stainless Steel Watch",
+  "total": 2728.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820262713545",
+  "item_id": "v1|820262713545|0",
+  "triage": {
+   "modelo": "Cartier Ronde Solo de Cartier Quartz (acero)",
+   "referencia": null,
+   "precio_justo_usd": 2500,
+   "interesante": false,
+   "nota": "Cuarzo en acero de uso, sin confirmar referencia, caja ni papeles; el precio pedido de 2728 US$ con envío está por encima del valor de venta cerrada."
+  },
+  "motivo": "triage: Cuarzo en acero de uso, sin confirmar referencia, caja ni papeles; el precio pedido de 2728 US$ con envío está por encima del valor de venta cerrada. (justo 2500)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere Cougar Quartz Stainless Steel Watch",
+  "total": 3765.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820262712983",
+  "item_id": "v1|820262712983|0",
+  "triage": {
+   "modelo": "Cartier Panthère Cougar (cuarzo, acero), según el título del listado; la foto muestra esfera negra con numerales romanos y ventana de fecha",
+   "referencia": null,
+   "precio_justo_usd": 1800,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de mercado para un Cougar de cuarzo en acero, de estado usado; la referencia exacta no se distingue en la foto."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de mercado para un Cougar de cuarzo en acero, de estado usado; la referencia exacta no se distingue en la foto. (justo 1800)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Solo Quartz Stainless Steel And Leather Watch",
+  "total": 3397.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267819798065",
+  "item_id": "v1|267819798065|0",
+  "triage": {
+   "modelo": "Cartier Tank Solo (cuarzo, acero, correa de piel, esfera plateada con numeración romana)",
+   "referencia": null,
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "Precio pedido de 3397 USD está por encima del valor de reventa habitual para un Tank Solo de acero de cuarzo en estado Good, sin caja ni papeles visibles."
+  },
+  "motivo": "triage: Precio pedido de 3397 USD está por encima del valor de reventa habitual para un Tank Solo de acero de cuarzo en estado Good, sin caja ni papeles visibles. (justo 2400)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Pasha De Cartier Quartz Stainless Steel Watch",
+  "total": 2560.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267819798024",
+  "item_id": "v1|267819798024|0",
+  "triage": {
+   "modelo": "Cartier Pasha de Cartier (cuarzo, acero, esfera plateada, numerales arábigos, brazalete de acero)",
+   "referencia": "null",
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Pasha de tamaño mediano en acero; la referencia exacta no se distingue en la foto. Con 2560 USD con envío queda por encima del valor de venta cerrada estimado, sin margen de compra."
+  },
+  "motivo": "triage: Pasha de tamaño mediano en acero; la referencia exacta no se distingue en la foto. Con 2560 USD con envío queda por encima del valor de venta cerrada estimado, sin margen de compra. (justo 2300)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor 1926 Date Automatic Stainless Steel With Diamonds Watch",
+  "total": 2355.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820262713851",
+  "item_id": "v1|820262713851|0",
+  "triage": {
+   "modelo": "Tudor 1926 Date automático, acero y oro rosa, con diamantes en los índices",
+   "referencia": "91651 (probable, sin confirmar)",
+   "precio_justo_usd": 2700,
+   "interesante": false,
+   "nota": "Con el precio total de US$2355 queda solo ~13% por debajo del valor de venta estimado, por debajo del umbral del 15%. Confirmar referencia, caja y papeles antes de decidir."
+  },
+  "motivo": "triage: Con el precio total de US$2355 queda solo ~13% por debajo del valor de venta estimado, por debajo del umbral del 15%. Confirmar referencia, caja y papeles antes de decidir. (justo 2700)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Princess Oyster Date Automatic Stainless Steel And 18K Yellow Gold Watch",
+  "total": 1108.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267819798147",
+  "item_id": "v1|267819798147|0",
+  "triage": {
+   "modelo": "Aparenta ser Rolex Lady-Datejust bicolor (acero y oro amarillo, bisel acanalado, brazalete Jubilee, esfera champán); el listado dice Tudor Princess Date",
+   "referencia": null,
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Posible listado engañoso: el reloj parece Rolex, no Tudor. Sin verificar la marca y el número de serie, no se puede confiar en el precio."
+  },
+  "motivo": "triage: Posible listado engañoso: el reloj parece Rolex, no Tudor. Sin verificar la marca y el número de serie, no se puede confiar en el precio. (justo 2800)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Princess Oyster Date Automatic Stainless Steel And 18K Yellow Gold Watch",
+  "total": 1664.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267819798068",
+  "item_id": "v1|267819798068|0",
+  "triage": {
+   "modelo": "Tudor Princess Oyster Date bicolor (acero y oro amarillo), con posible discrepancia con Rolex Lady-Datejust",
+   "referencia": null,
+   "precio_justo_usd": 1800,
+   "interesante": false,
+   "nota": "La foto muestra bisel acanalado dorado y brazalete tipo jubileo, rasgos más típicos de un Rolex Lady-Datejust; hay que verificar la marca y la referencia antes de comprar. Aunque fuera Tudor, 1664 USD no supera el umbral del 15 % por debajo del precio de venta."
+  },
+  "motivo": "triage: La foto muestra bisel acanalado dorado y brazalete tipo jubileo, rasgos más típicos de un Rolex Lady-Datejust; hay que verificar la marca y la referencia antes de comprar. Aunque fuera Tudor, 1664 USD no supera el umbral del 15 % por debajo del precio de venta. (justo 1800)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Glamour Day Date Automatic Stainless Steel With Diamonds Watch",
+  "total": 2202.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267819797946",
+  "item_id": "v1|267819797946|0",
+  "triage": {
+   "modelo": "Tudor Glamour Day-Date Automático, acero, esfera negra con diamantes en los índices (identificación aproximada por la imagen)",
+   "referencia": null,
+   "precio_justo_usd": 2000,
+   "interesante": false,
+   "nota": "Precio pedido de US$2202 con envío; no está al menos 15 % por debajo del valor de venta real de esta variante de segunda mano. Sin ver caja, papeles ni la referencia exacta, la estimación es conservadora."
+  },
+  "motivo": "triage: Precio pedido de US$2202 con envío; no está al menos 15 % por debajo del valor de venta real de esta variante de segunda mano. Sin ver caja, papeles ni la referencia exacta, la estimación es conservadora. (justo 2000)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Hydronaut Ii Date Automatic Stainless Steel Watch",
+  "total": 1974.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820262712643",
+  "item_id": "v1|820262712643|0",
+  "triage": {
+   "modelo": "Tudor Hydronaut II Date Automatic (acero, bisel giratorio, correa de caucho)",
+   "referencia": "20550 (probable, no verificable en la foto)",
+   "precio_justo_usd": 2100,
+   "interesante": false,
+   "nota": "Precio pedido a solo ~6 % bajo el estimado conservador; la correa de caucho y el estado 'Good' limitan el valor frente a una versión con brazalete, caja y papeles."
+  },
+  "motivo": "triage: Precio pedido a solo ~6 % bajo el estimado conservador; la correa de caucho y el estado 'Good' limitan el valor frente a una versión con brazalete, caja y papeles. (justo 2100)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Panerai",
+  "titulo": "Panerai Luminor 1950",
+  "total": 5750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227577121130",
+  "item_id": "v1|227577121130|0",
+  "triage": {
+   "modelo": "Panerai Luminor Submersible 1950 Bronzo (probable, la foto no permite confirmar la referencia)",
+   "referencia": "PAM 382 (probable)",
+   "precio_justo_usd": 8000,
+   "interesante": false,
+   "nota": "Caja de bronce con correa de cocodrilo; el precio está algo por debajo del mercado, pero sin papeles ni fotos del caso, dorso o movimiento, y con el riesgo de réplica en Panerai, no lo consideraría una oportunidad clara."
+  },
+  "motivo": "triage: Caja de bronce con correa de cocodrilo; el precio está algo por debajo del mercado, pero sin papeles ni fotos del caso, dorso o movimiento, y con el riesgo de réplica en Panerai, no lo consideraría una oportunidad clara. (justo 8000)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Seamaster Prol Diver 300M 42mm Blue wave 210.32.42.20.03.001 full kit",
+  "total": 4750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800821446827",
+  "item_id": "v1|800821446827|0",
+  "referencia": "210.32.42.20.03.001",
+  "mercado": {
+   "n": 15,
+   "p25": 4525,
+   "mediana": 4692
+  },
+  "ratio_mercado": 1.05,
+  "motivo": "precio normal (105 % del cuartil bajo de 210.32.42.20.03.001)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster 120M Quartz Stainless Steel And 18K Yellow Gold Watch",
+  "total": 1067.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820262714072",
+  "item_id": "v1|820262714072|0",
+  "triage": {
+   "modelo": "Omega Seamaster 120M Quartz bicolor (acero y bisel dorado), modelo de señora con correa de piel negra",
+   "referencia": null,
+   "precio_justo_usd": 650,
+   "interesante": false,
+   "nota": "La referencia no se distingue en la foto y el bisel parece dorado (posible chapado, no 18K macizo). Un Seamaster 120M de cuarzo bicolor usado se vende en torno a 500-800 USD, así que 1067 USD con envío está por encima del mercado."
+  },
+  "motivo": "triage: La referencia no se distingue en la foto y el bisel parece dorado (posible chapado, no 18K macizo). Un Seamaster 120M de cuarzo bicolor usado se vende en torno a 500-800 USD, así que 1067 USD con envío está por encima del mercado. (justo 650)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Constellation Quartz Stainless Steel And Yellow Gold Watch",
+  "total": 1652.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820262713828",
+  "item_id": "v1|820262713828|0",
+  "triage": {
+   "modelo": "Omega Constellation Quartz de acero y oro amarillo, esfera de nácar con índices romanos (modelo femenino)",
+   "referencia": null,
+   "precio_justo_usd": 1100,
+   "interesante": false,
+   "nota": "Precio pedido de 1652 USD por encima del valor de venta real de este modelo de cuarzo bicolor usado; no parece una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de 1652 USD por encima del valor de venta real de este modelo de cuarzo bicolor usado; no parece una oportunidad. (justo 1100)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Omega",
+  "titulo": "Omega De Ville Prestige Quartz Stainless Steel And Rose Gold With Diamond",
+  "total": 2452.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267819798132",
+  "item_id": "v1|267819798132|0",
+  "triage": {
+   "modelo": "Omega De Ville Prestige Quartz, acero y oro rosa, esfera champán con marcadores de diamante (dama, 27 mm aprox.)",
+   "referencia": "4370.xx (familia Prestige cuarzo; referencia exacta no confirmada en la foto)",
+   "precio_justo_usd": 1000,
+   "interesante": false,
+   "nota": "Modelo de cuarzo bicolor de uso frecuente; de segunda mano se vende normalmente entre 800 y 1.200 USD. El precio pedido de 2.452 USD está muy por encima del mercado."
+  },
+  "motivo": "triage: Modelo de cuarzo bicolor de uso frecuente; de segunda mano se vende normalmente entre 800 y 1.200 USD. El precio pedido de 2.452 USD está muy por encima del mercado. (justo 1000)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Omega",
+  "titulo": "2025 Omega Speedmaster FOIS Wristwatch - Box & Papers - 310.30.40.50.06.001",
+  "total": 7275.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336855691625",
+  "item_id": "v1|336855691625|0",
+  "referencia": "310.30.40.50.06.001",
+  "mercado": {
+   "n": 18,
+   "p25": 7738,
+   "mediana": 7997
+  },
+  "ratio_mercado": 0.94,
+  "motivo": "precio normal (94 % del cuartil bajo de 310.30.40.50.06.001)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Aqua Terra 150M Quartz Stainless Steel Watch",
+  "total": 2545.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820262713436",
+  "item_id": "v1|820262713436|0",
+  "triage": {
+   "modelo": "Omega Seamaster Aqua Terra 150M Quartz (acero, esfera azul, correa de piel negra, ventana de fecha)",
+   "referencia": "Probablemente 2517.80 (no verificable en la foto)",
+   "precio_justo_usd": 1500,
+   "interesante": false,
+   "nota": "Precio pedido de US$2545 muy por encima del valor de reventa de un Aqua Terra cuarzo usado en estado Good; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$2545 muy por encima del valor de reventa de un Aqua Terra cuarzo usado en estado Good; no es una oportunidad. (justo 1500)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Constellation Gmt Stainless Steel And Yellow Gold (18K) Watch",
+  "total": 2135.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267819798111",
+  "item_id": "v1|267819798111|0",
+  "triage": {
+   "modelo": "Omega Constellation de acero y oro amarillo de 18K (dial blanco, índices romanos, esfera pequeña, probablemente cuarzo)",
+   "referencia": null,
+   "precio_justo_usd": 1100,
+   "interesante": false,
+   "nota": "El título menciona GMT, pero en la foto no se ve función GMT; la referencia exacta no se puede confirmar. Precio justo estimado para un Constellation bicolor de tamaño pequeño en estado Good. El precio pedido está por encima de ese valor."
+  },
+  "motivo": "triage: El título menciona GMT, pero en la foto no se ve función GMT; la referencia exacta no se puede confirmar. Precio justo estimado para un Constellation bicolor de tamaño pequeño en estado Good. El precio pedido está por encima de ese valor. (justo 1100)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Diver 300M Chronometer Chronograph Automatic Stainless Steel",
+  "total": 3390.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820262713120",
+  "item_id": "v1|820262713120|0",
+  "triage": {
+   "modelo": "Omega Seamaster Diver 300M Chronograph (esfera azul, brazalete de acero)",
+   "referencia": "2531.80 (probable, verificar caseta y reverso)",
+   "precio_justo_usd": 2700,
+   "interesante": false,
+   "nota": "Precio pedido de US$3390 con envío está por encima del valor de venta cerrada estimado para este modelo en condición Good; sin margen de compra."
+  },
+  "motivo": "triage: Precio pedido de US$3390 con envío está por encima del valor de venta cerrada estimado para este modelo en condición Good; sin margen de compra. (justo 2700)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Constellation Quartz Stainless Steel And Yellow Gold Watch",
+  "total": 1998.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267819798009",
+  "item_id": "v1|267819798009|0",
+  "triage": {
+   "modelo": "Omega Constellation Quartz acero y oro amarillo, esfera blanca con índices romanos",
+   "referencia": null,
+   "precio_justo_usd": 1300,
+   "interesante": false,
+   "nota": "Constellation de cuarzo bicolor; la referencia exacta no se distingue en la foto. El precio pedido supera con holgura lo que se vende realmente para este modelo usado."
+  },
+  "motivo": "triage: Constellation de cuarzo bicolor; la referencia exacta no se distingue en la foto. El precio pedido supera con holgura lo que se vende realmente para este modelo usado. (justo 1300)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Omega",
+  "titulo": "41930: Omega Seamaster Diver 300, Ref. 210.32.44.51.01.001, Box and Card 2020",
+  "total": 6825.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237135966695",
+  "item_id": "v1|237135966695|0",
+  "referencia": "210.32.44.51.01.001",
+  "mercado": {
+   "n": 8,
+   "p25": 6500,
+   "mediana": 6500
+  },
+  "ratio_mercado": 1.05,
+  "motivo": "precio normal (105 % del cuartil bajo de 210.32.44.51.01.001)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Superocean Heritage B20 Automatic Stainless Steel With Ceramic And",
+  "total": 3786.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820262714100",
+  "item_id": "v1|820262714100|0",
+  "triage": {
+   "modelo": "Breitling Superocean Heritage B20 Automatic 42, acero con bisel cerámico",
+   "referencia": "AB2010 (probable, sin confirmar)",
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Precio pedido de 3786 USD está por encima del valor de venta cerrada de este modelo usado en estado Good; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido de 3786 USD está por encima del valor de venta cerrada de este modelo usado en estado Good; no hay descuento suficiente. (justo 3100)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Windrider Shadow Flyback Chronograph Automatic Stainless Steel And",
+  "total": 2928.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820262713959",
+  "item_id": "v1|820262713959|0",
+  "triage": {
+   "modelo": "Breitling Windrider Shadow Flyback Chronograph, automático, acero",
+   "referencia": null,
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Referencia no identificable por el título; estimación conservadora para acero usado sin certeza de caja y papeles. El precio pedido queda por encima del valor estimado."
+  },
+  "motivo": "triage: Referencia no identificable por el título; estimación conservadora para acero usado sin certeza de caja y papeles. El precio pedido queda por encima del valor estimado. (justo 2600)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling B-1 Quartz Stainless Steel Watch",
+  "total": 2355.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820262713876",
+  "item_id": "v1|820262713876|0",
+  "triage": {
+   "modelo": "Reloj analógico-digital genérico de estilo asiático (esfera azul, subesfera LCD, brazalete de acero); no corresponde a un Breitling B-1",
+   "referencia": null,
+   "precio_justo_usd": 60,
+   "interesante": false,
+   "nota": "La foto no muestra un Breitling B-1 y el diseño no coincide con la marca; el listado parece engañoso o usa imágenes de otro reloj. Pedir fotos del caso, movimiento y grabados de la referencia antes de considerarlo."
+  },
+  "motivo": "triage: La foto no muestra un Breitling B-1 y el diseño no coincide con la marca; el listado parece engañoso o usa imágenes de otro reloj. Pedir fotos del caso, movimiento y grabados de la referencia antes de considerarlo. (justo 60)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Chronomat Chronograph Automatic Stainless Steel Watch",
+  "total": 2832.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267819798120",
+  "item_id": "v1|267819798120|0",
+  "triage": {
+   "modelo": "Breitling Chronomat Chronograph Automatic (acero inoxidable)",
+   "referencia": null,
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Sin referencia ni año en el título; el precio está bajo para un Chronomat de acero incluso en estado Good. Pedir referencia, número de serie, papeles y fotos del movimiento antes de considerarlo."
+  },
+  "motivo": "triage: Sin referencia ni año en el título; el precio está bajo para un Chronomat de acero incluso en estado Good. Pedir referencia, número de serie, papeles y fotos del movimiento antes de considerarlo. (justo 3500)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Colt Chronometre 500M Quartz Stainless Steel Watch",
+  "total": 2667.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267819798101",
+  "item_id": "v1|267819798101|0",
+  "triage": {
+   "modelo": "Breitling Colt Oceane (cuarzo, acero, esfera plateada)",
+   "referencia": "A74387 (probable, según el bisel y la esfera visibles)",
+   "precio_justo_usd": 1400,
+   "interesante": false,
+   "nota": "Precio pedido de US$2667 muy por encima del valor de mercado de un Colt Oceane de cuarzo en acero usado. Además, el título habla de 'Chronometre', que no encaja con un modelo de cuarzo."
+  },
+  "motivo": "triage: Precio pedido de US$2667 muy por encima del valor de mercado de un Colt Oceane de cuarzo en acero usado. Además, el título habla de 'Chronometre', que no encaja con un modelo de cuarzo. (justo 1400)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Colt Chronometer 200M Automatic Stainless Steel Watch",
+  "total": 3051.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820262712971",
+  "item_id": "v1|820262712971|0",
+  "triage": {
+   "modelo": "Breitling Colt Chronometer 200M Automatic, acero inoxidable",
+   "referencia": "A17388 (probable, no confirmada en el listado)",
+   "precio_justo_usd": 1900,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de reventa de un Colt automático usado en buen estado; sin caja ni papeles, el precio justo es menor."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de reventa de un Colt automático usado en buen estado; sin caja ni papeles, el precio justo es menor. (justo 1900)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Colt Chronometer 200M Automatic Stainless Steel Watch",
+  "total": 3527.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267819797998",
+  "item_id": "v1|267819797998|0",
+  "triage": {
+   "modelo": "Breitling Colt Chronograph Automatic (39-44 mm, esfera azul, acero)",
+   "referencia": "A13388 (probable; no es posible confirmarla desde la foto)",
+   "precio_justo_usd": 2700,
+   "interesante": false,
+   "nota": "El título dice 'Colt Chronometer', pero la foto muestra un cronógrafo con subesferas; el precio pedido de US$3527 está por encima del valor de venta real para un Colt cronógrafo de acero de estado usado, sin caja ni papeles confirmados."
+  },
+  "motivo": "triage: El título dice 'Colt Chronometer', pero la foto muestra un cronógrafo con subesferas; el precio pedido de US$3527 está por encima del valor de venta real para un Colt cronógrafo de acero de estado usado, sin caja ni papeles confirmados. (justo 2700)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Superocean Heritage Bronze Auto 42mm steel Mesh UB2010121B1A1",
+  "total": 4500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800821431305",
+  "item_id": "v1|800821431305|0",
+  "triage": {
+   "modelo": "Breitling Superocean Heritage II 42 (automático, caja de acero, bisel negro, brazalete de malla)",
+   "referencia": "UB2010121B1A1 (según título; no verificable en la foto)",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "El título dice bronce pero la caja se ve de acero, y la malla verde parece añadida. Pagar US$4500 supera el valor de reventa estimado; no es buena oferta."
+  },
+  "motivo": "triage: El título dice bronce pero la caja se ve de acero, y la malla verde parece añadida. Pagar US$4500 supera el valor de reventa estimado; no es buena oferta. (justo 3400)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG HeUeR Men Classic F1 FORMULA 1 CHRONOGRAPH Watch~CA1211~FULL SS Bracelet~EUC",
+  "total": 1580.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860069175227",
+  "item_id": "v1|860069175227|0",
+  "referencia": "CA1211",
+  "mercado": {
+   "n": 6,
+   "p25": 860,
+   "mediana": 1300
+  },
+  "ratio_mercado": 1.837,
+  "motivo": "precio normal (184 % del cuartil bajo de CA1211)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer CA1211.BA0493 Mens Formula 1 Series Black Chronograph Watch 571.513",
+  "total": 1995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960096587295",
+  "item_id": "v1|960096587295|0",
+  "referencia": "CA1211.BA0493",
+  "mercado": {
+   "n": 6,
+   "p25": 860,
+   "mediana": 1300
+  },
+  "ratio_mercado": 2.32,
+  "motivo": "precio normal (232 % del cuartil bajo de CA1211.BA0493)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "Tag Heuer Formula 1 Chronograph Quartz Stainless Steel Watch",
+  "total": 1898.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267819798067",
+  "item_id": "v1|267819798067|0",
+  "triage": {
+   "modelo": "TAG Heuer Formula 1 Chronograph (esfera azul, bisel azul con taquímetro, brazalete de acero)",
+   "referencia": "CAZ1011 (probable, sin confirmar)",
+   "precio_justo_usd": 600,
+   "interesante": false,
+   "nota": "Formula 1 de acero de uso, con venta cerrada habitual de unos 500-700 USD; el precio pedido de 1898 USD está muy por encima del mercado."
+  },
+  "motivo": "triage: Formula 1 de acero de uso, con venta cerrada habitual de unos 500-700 USD; el precio pedido de 1898 USD está muy por encima del mercado. (justo 600)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Bulgari",
+  "titulo": "Bvlgari Automatic Stainless Steel Watch",
+  "total": 1655.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267819798088",
+  "item_id": "v1|267819798088|0",
+  "triage": {
+   "modelo": "Bulgari Bvlgari Automatic, acero, esfera blanca con ventana de fecha (probablemente BB 40 SS AUTO)",
+   "referencia": null,
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Precio muy bajo para este modelo y el título es genérico, sin referencia ni detalles de caja y papeles. Hay riesgo de réplica o pieza incompleta; no se recomienda sin verificación presencial."
+  },
+  "motivo": "triage: Precio muy bajo para este modelo y el título es genérico, sin referencia ni detalles de caja y papeles. Hay riesgo de réplica o pieza incompleta; no se recomienda sin verificación presencial. (justo 2800)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "Bulgari",
+  "titulo": "Bvlgari Automatic Stainless Steel Watch",
+  "total": 1703.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267819798029",
+  "item_id": "v1|267819798029|0",
+  "triage": {
+   "modelo": "Bvlgari Bvlgari Automatic 41 mm acero, esfera negra con fecha",
+   "referencia": "BB 41 SS AUTO (probable, sin confirmar)",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Precio muy bajo para un Bvlgari de acero, con título genérico y sin papeles ni caja visibles; alto riesgo de falsificación. Verificar autenticidad antes de considerar."
+  },
+  "motivo": "triage: Precio muy bajo para un Bvlgari de acero, con título genérico y sin papeles ni caja visibles; alto riesgo de falsificación. Verificar autenticidad antes de considerar. (justo 2600)"
+ },
+ {
+  "fecha": "2026-10-21T14:10:48.868244+00:00",
+  "marca": "IWC",
+  "titulo": "IWC Portofino 42 Men’s Watch - Under Warranty 2030",
+  "total": 3450.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237135947254",
+  "item_id": "v1|237135947254|0",
+  "triage": {
+   "modelo": "IWC Portofino Chronograph 42 mm, acero, esfera plateada, brazalete de malla milanesa",
+   "referencia": "IW391030 (aproximada, no verificable en la foto)",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Precio pedido de 3450 USD es unos 30 % inferior al de mercado para un Portofino cronógrafo acero con garantía vigente hasta 2030; descuento tan grande en un reloj casi nuevo sugiere posible réplica o listado engañoso. Verificar número de serie, papeles y autenticidad antes de cualquier compra."
+  },
+  "motivo": "triage: Precio pedido de 3450 USD es unos 30 % inferior al de mercado para un Portofino cronógrafo acero con garantía vigente hasta 2030; descuento tan grande en un reloj casi nuevo sugiere posible réplica o listado engañoso. Verificar número de serie, papeles y autenticidad antes de cualquier compra. (justo 5000)"
  }
 ]
