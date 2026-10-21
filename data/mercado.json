@@ -3938,5 +3938,30 @@
   "fecha": "2026-10-21",
   "consulta": "TAG Heuer WAR211C",
   "n": 0
+ },
+ "Panerai PAM00289|usado": {
+  "fecha": "2026-10-21",
+  "consulta": "Panerai PAM00289",
+  "n": 4,
+  "mediana": 18492,
+  "p25": 17990,
+  "p75": 19200,
+  "min": 17990,
+  "max": 19200
+ },
+ "Omega 212.30.36.20.01.002|usado": {
+  "fecha": "2026-10-21",
+  "consulta": "Omega 212.30.36.20.01.002",
+  "n": 0
+ },
+ "Breitling E17370|usado": {
+  "fecha": "2026-10-21",
+  "consulta": "Breitling E17370",
+  "n": 3,
+  "mediana": 2800,
+  "p25": 2500,
+  "p75": 2995,
+  "min": 2500,
+  "max": 2995
  }
 }
