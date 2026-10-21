@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-21T11:25:48.747071+00:00",
+ "actualizado": "2026-10-21T11:40:51.509163+00:00",
  "ventana_horas": 2.0,
  "marcas": [
   "Rolex",
@@ -14,8 +14,10 @@
   "IWC"
  ],
  "corrida": {
-  "nuevos_vistos": 0,
-  "descartes": {},
+  "nuevos_vistos": 2,
+  "descartes": {
+   "precio_normal": 2
+  },
   "alertas_nuevas": 0,
   "llamadas_ebay": 10,
   "cuota_agotada": false

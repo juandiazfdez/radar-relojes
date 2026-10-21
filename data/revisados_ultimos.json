@@ -7876,5 +7876,39 @@
    "nota": "Precio pedido US$8200 está bastante por encima del valor de venta estimado para un usado excelente; la foto es borrosa y no permite confirmar referencia ni papeles."
   },
   "motivo": "triage: Precio pedido US$8200 está bastante por encima del valor de venta estimado para un usado excelente; la foto es borrosa y no permite confirmar referencia ni papeles. (justo 5000)"
+ },
+ {
+  "fecha": "2026-10-21T11:40:51.509163+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 2023 BATGIRL GMT-Master II 126710BLNR Jubilee full set rolex warranty40 mm",
+  "total": 18999.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227576977048",
+  "item_id": "v1|227576977048|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 100,
+   "p25": 18995,
+   "mediana": 19712
+  },
+  "ratio_mercado": 1.0,
+  "motivo": "precio normal (100 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-10-21T11:40:51.509163+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Heritage Black Bay 79730 Full Set",
+  "total": 3140.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287662989224",
+  "item_id": "v1|287662989224|0",
+  "referencia": "79730",
+  "mercado": {
+   "n": 5,
+   "p25": 3031,
+   "mediana": 3140
+  },
+  "ratio_mercado": 1.036,
+  "motivo": "precio normal (104 % del cuartil bajo de 79730)"
  }
 ]
