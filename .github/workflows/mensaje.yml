@@ -1,0 +1,16 @@
+name: Enviar mensaje Telegram
+on:
+  workflow_dispatch:
+    inputs:
+      archivo:
+        description: "Archivo en mensajes/ a enviar"
+        default: "mensajes/serpenti.html"
+jobs:
+  enviar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python enviar_telegram.py "${{ inputs.archivo }}"
