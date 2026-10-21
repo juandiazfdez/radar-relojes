@@ -4513,5 +4513,35 @@
   "fecha": "2026-10-21",
   "consulta": "IWC IW356504",
   "n": 0
+ },
+ "Omega 424.13.40.21.03.002|usado": {
+  "fecha": "2026-10-21",
+  "consulta": "Omega 424.13.40.21.03.002",
+  "n": 0
+ },
+ "Omega 3507.51.00|usado": {
+  "fecha": "2026-10-21",
+  "consulta": "Omega 3507.51.00",
+  "n": 0
+ },
+ "Breitling AB3113|nuevo": {
+  "fecha": "2026-10-21",
+  "consulta": "Breitling AB3113",
+  "n": 1,
+  "mediana": 4563,
+  "p25": 4563,
+  "p75": 4563,
+  "min": 4563,
+  "max": 4563
+ },
+ "TAG Heuer CN1111|usado": {
+  "fecha": "2026-10-21",
+  "consulta": "TAG Heuer CN1111",
+  "n": 2,
+  "mediana": 742,
+  "p25": 625,
+  "p75": 860,
+  "min": 625,
+  "max": 860
  }
 }
