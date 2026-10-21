@@ -493,6 +493,34 @@ def avisar_telegram(cands):
     return True
 
 
+CLAVES_SIN_CONTACTO = ["AREA CLEAR", "NO RADAR CONTACT", "NO JOY"]
+
+
+def avisar_sin_contacto(nuevos, cuota_agotada):
+    """Latido: mensaje corto en clave cuando una pasada no encuentra nada,
+    para que Juan sepa que el radar sigue trabajando."""
+    tok, chat = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
+    if not (tok and chat):
+        return False
+    try:
+        from zoneinfo import ZoneInfo
+        hora = dt.datetime.now(ZoneInfo("America/Santo_Domingo")).strftime("%H:%M")
+    except Exception:
+        hora = (dt.datetime.utcnow() - dt.timedelta(hours=4)).strftime("%H:%M")
+    if cuota_agotada:
+        texto = f"⚠️ RADAR DEGRADED · cuota eBay agotada · {hora}"
+    else:
+        clave = CLAVES_SIN_CONTACTO[(int(time.time()) // 900) % len(CLAVES_SIN_CONTACTO)]
+        texto = f"📡 {clave} · {nuevos} escaneados · {hora}"
+    try:
+        body = urllib.parse.urlencode({"chat_id": chat, "text": texto, "disable_notification": "true"}).encode()
+        urllib.request.urlopen(f"https://api.telegram.org/bot{tok}/sendMessage", data=body, timeout=30).read()
+        return True
+    except Exception as e:
+        print(f"Telegram latido fallo: {e}", file=sys.stderr)
+        return False
+
+
 # ------------------------------------------------------------------ main
 def procesar_marca(eb, fila, t0, desde, estado):
     marca = fila["marca"]
@@ -629,6 +657,8 @@ def main():
     candidatos = sorted(estado["candidatos"], key=lambda c: c.get("ratio_justo") or 1)
     if candidatos:
         print(f"Avisos: telegram={avisar_telegram(candidatos)}")
+    elif os.environ.get("LATIDO", "1") != "0" and not BARRIDO:
+        print(f"Latido: telegram={avisar_sin_contacto(estado['nuevos'], eb.agotado)}")
     for c in candidatos:
         c["info"] = {k: v for k, v in c["info"].items() if k != "descripcion"}
     alertas = [a for a in alertas + candidatos if a["fecha"] >= (t0 - dt.timedelta(days=90)).isoformat()]

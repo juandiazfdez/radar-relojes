@@ -39,6 +39,7 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           ALERTA_EMAIL: ${{ secrets.ALERTA_EMAIL }}
           LOOKBACK_HORAS: "2"
+          LATIDO: "1"
           CLAUDE_MODEL: "claude-sonnet-5-5"
           CLAUDE_MODEL_RAPIDO: "claude-haiku-5-5"
         run: |
