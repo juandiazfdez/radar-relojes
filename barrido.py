@@ -145,6 +145,14 @@ def evaluar_finalista(eb, f):
     if not justo:
         f["motivo"] = "sin precio justo"
         return f, None
+    ref = (info.get("referencia") or "").upper().replace(" ", "")
+    m = f.get("mercado") if f.get("mercado", {}).get("n") else None
+    if not m and ref:
+        m = r.comparables(eb, f["marca"], ref, info.get("condicion_id"), f["item_id"], {})
+        cand["mercado"] = f["mercado"] = {k: m.get(k) for k in ("n", "p25", "mediana")}
+    if m and m.get("n", 0) >= r.MIN_COMPARABLES and f["total"] > r.UMBRAL_ANCLA * m["p25"]:
+        f["motivo"] = f"el mercado de su referencia no lo confirma ({round(100 * f['total'] / m['p25'])} % del cuartil bajo)"
+        return f, None
     cand["ratio_justo"] = f["ratio_justo"] = round(f["total"] / justo, 3)
     if cand["ratio_justo"] > UMBRAL_JUSTO:
         f["motivo"] = f"precio normal segun revision ({round(cand['ratio_justo'] * 100)} % de {justo:.0f})"

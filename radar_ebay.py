@@ -54,6 +54,7 @@ LOOKBACK_HORAS = float(os.environ.get("LOOKBACK_HORAS", "2"))
 UMBRAL_MERCADO = float(os.environ.get("UMBRAL_MERCADO", "0.85"))  # vs cuartil bajo de la misma referencia
 UMBRAL_JUSTO = float(os.environ.get("UMBRAL_JUSTO", "0.85"))      # vs precio justo estimado por Claude
 UMBRAL_SOSPECHA = 0.35
+UMBRAL_ANCLA = float(os.environ.get("UMBRAL_ANCLA", "0.90"))   # si hay comparables de la referencia, no pasar de 90 % del cuartil bajo
 MIN_COMPARABLES = 5
 MIN_VALORACIONES = 20
 MIN_POSITIVO = 97.0
@@ -329,7 +330,11 @@ CONTEXTO = ("Eres un comprador experto de relojes de lujo usados para reventa (C
             "precio_justo_usd = lo que ESE reloj concreto (referencia, generacion/ano, material, tamano, estado, "
             "con o sin caja y papeles) se vende realmente hoy en EE. UU. entre particulares y dealers (precios de "
             "venta cerrada, no precios pedidos). Un Datejust de 1985 no vale lo que uno de 2022; un Reverso "
-            "Classic de acero no vale lo que uno de oro con complicaciones. Se conservador. ")
+            "Classic de acero no vale lo que uno de oro con complicaciones. Se conservador. "
+            "MUY IMPORTANTE: el precio justo NUNCA es el precio de tienda (retail/MSRP). Para relojes nuevos o de "
+            "produccion actual usa el precio del mercado gris/secundario: Breitling, IWC, Panerai, TAG Heuer, Omega, "
+            "Bulgari, JLC y muchos Cartier se venden nuevos con caja y papeles 25-45 % bajo retail en dealers de eBay y "
+            "Chrono24; ese descuento es el precio NORMAL, no una oportunidad. Si dudas, estima a la baja. ")
 
 
 def triage_claude(marca, titulo, total, condicion, miniatura):
@@ -560,6 +565,9 @@ def procesar_marca(eb, fila, t0, desde, estado):
             justo = float(cl.get("precio_justo_usd") or 0)
         except (TypeError, ValueError):
             justo = 0
+        if m and m.get("n", 0) >= MIN_COMPARABLES and total > UMBRAL_ANCLA * m["p25"]:
+            registro["motivo"] = f"el mercado de su referencia no lo confirma ({round(100 * total / m['p25'])} % del cuartil bajo)"
+            cuenta(descartes, "ancla_mercado"); revisados.append(registro); continue
         if justo:
             cand["ratio_justo"] = round(total / justo, 3)
             registro["ratio_justo"] = cand["ratio_justo"]
