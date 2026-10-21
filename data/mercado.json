@@ -4133,5 +4133,15 @@
   "fecha": "2026-10-21",
   "consulta": "TAG Heuer WAH1210",
   "n": 0
+ },
+ "Panerai PAM01412|usado": {
+  "fecha": "2026-10-21",
+  "consulta": "Panerai PAM01412",
+  "n": 3,
+  "mediana": 8700,
+  "p25": 8000,
+  "p75": 9997,
+  "min": 8000,
+  "max": 9997
  }
 }
