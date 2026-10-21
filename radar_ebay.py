@@ -236,6 +236,13 @@ def aspectos(detalle):
 
 
 # ---------------------------------------------------------------- mercado
+MERCADO_BARRIDO = {}
+try:
+    MERCADO_BARRIDO = json.loads((DATA / "mercado_barrido.json").read_text(encoding="utf-8"))
+except (OSError, json.JSONDecodeError):
+    pass
+
+
 def comparables(eb, marca, ref, condicion_id, excluir_id, cache):
     """Cuartil bajo / mediana de los listados activos en EE. UU. de la MISMA referencia
     y misma condicion (nuevo/usado). Cache diario por referencia."""
@@ -245,6 +252,10 @@ def comparables(eb, marca, ref, condicion_id, excluir_id, cache):
     hoy = dt.date.today().isoformat()
     if clave in cache and cache[clave].get("fecha") == hoy:
         return cache[clave]
+    # Mercado calculado por el ultimo barrido completo (vale 3 dias, no gasta cuota)
+    mb = MERCADO_BARRIDO.get(f"{marca}|{ref.split('-')[0]}|{'usado' if usada else 'nuevo'}")
+    if mb and mb.get("n", 0) >= MIN_COMPARABLES and mb.get("fecha", "") >= (dt.date.today() - dt.timedelta(days=3)).isoformat():
+        return mb
     filtros = ["itemLocationCountry:US", "buyingOptions:{FIXED_PRICE|BEST_OFFER}", "priceCurrency:USD",
                "conditions:{USED}" if usada else "conditions:{NEW}"]
     precios = []
@@ -275,21 +286,40 @@ def claude(modelo, contenido, max_tokens=6000):
                        "messages": [{"role": "user", "content": contenido}]}).encode()
     req = urllib.request.Request("https://api.anthropic.com/v1/messages", data=body, headers={
         "x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"})
-    try:
-        with urllib.request.urlopen(req, timeout=120) as r:
-            resp = json.load(r)
-        texto = "".join(b.get("text", "") for b in resp.get("content", []))
-        m = re.search(r"\{.*\}", texto, flags=re.S)
-        if m:
+    texto = claude_texto(req)
+    if texto is None:
+        return None
+    m = re.search(r"\{.*\}", texto, flags=re.S)
+    if m:
+        try:
             return json.loads(m.group())
-        print(f"Claude ({modelo}) sin JSON: {texto[:200]!r}", file=sys.stderr)
-        return None
-    except urllib.error.HTTPError as e:
-        print(f"Claude HTTP {e.code}: {e.read().decode(errors='replace')[:300]}", file=sys.stderr)
-        return None
-    except Exception as e:
-        print(f"Claude no disponible: {e}", file=sys.stderr)
-        return None
+        except json.JSONDecodeError:
+            pass
+    print(f"Claude ({modelo}) sin JSON: {texto[:200]!r}", file=sys.stderr)
+    return None
+
+
+def claude_texto(req, intentos=5):
+    """Llama a la API con reintentos ante 429/5xx/sobrecarga; devuelve el texto de la respuesta."""
+    for intento in range(intentos):
+        try:
+            with urllib.request.urlopen(req, timeout=300) as r:
+                resp = json.load(r)
+            return "".join(b.get("text", "") for b in resp.get("content", []))
+        except urllib.error.HTTPError as e:
+            cuerpo = e.read().decode(errors="replace")[:300]
+            if e.code in (429, 500, 502, 503, 529) and intento < intentos - 1:
+                espera = int(e.headers.get("retry-after") or 0) or (5 * 2 ** intento)
+                time.sleep(min(espera, 90))
+                continue
+            print(f"Claude HTTP {e.code}: {cuerpo}", file=sys.stderr)
+            return None
+        except Exception as e:
+            if intento < intentos - 1:
+                time.sleep(5 * 2 ** intento)
+                continue
+            print(f"Claude no disponible: {e}", file=sys.stderr)
+            return None
 
 
 CONTEXTO = ("Eres un comprador experto de relojes de lujo usados para reventa (Crono Watches, Republica Dominicana). "
@@ -428,6 +458,7 @@ def avisar_telegram(cands):
                 urllib.request.urlopen(f"https://api.telegram.org/bot{tok}/sendMessage", data=body, timeout=30).read()
         except Exception as e:
             print(f"Telegram fallo: {e}", file=sys.stderr)
+        time.sleep(1.2)  # Telegram limita ~1 mensaje/seg por chat
     return True
 
 
@@ -551,7 +582,7 @@ def main():
     alertas = cargar("alertas.json", [])
     estado = {"vistos": cargar("vistos.json", {}), "mercado": cargar("mercado.json", {}),
               "revisados": cargar("revisados_ultimos.json", []), "candidatos": [], "descartes": {},
-              "nuevos": 0, "ids_alertados": {a["item_id"] for a in alertas}}
+              "nuevos": 0, "ids_alertados": {a["item_id"] for a in alertas + cargar("barrido_alertas.json", [])}}
     with open(ROOT / "marcas.csv", newline="", encoding="utf-8") as f:
         marcas = list(csv.DictReader(f))
     for fila in marcas:
