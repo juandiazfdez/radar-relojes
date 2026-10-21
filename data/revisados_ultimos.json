@@ -7069,5 +7069,39 @@
    "nota": "Set completo con caja y papeles, pero el precio pedido supera la venta real estimada; la referencia no es legible en la imagen."
   },
   "motivo": "triage: Set completo con caja y papeles, pero el precio pedido supera la venta real estimada; la referencia no es legible en la imagen. (justo 13000)"
+ },
+ {
+  "fecha": "2026-10-21T07:10:39.164919+00:00",
+  "marca": "Omega",
+  "titulo": "2026 Omega Seamaster Diver 300M 42mm 210.32.42.20.04.001 Full Set",
+  "total": 5497.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128147888000",
+  "item_id": "v1|128147888000|0",
+  "referencia": "210.32.42.20.04.001",
+  "mercado": {
+   "n": 13,
+   "p25": 4844,
+   "mediana": 4900
+  },
+  "ratio_mercado": 1.135,
+  "motivo": "precio normal (113 % del cuartil bajo de 210.32.42.20.04.001)"
+ },
+ {
+  "fecha": "2026-10-21T07:10:39.164919+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Aerospace Navitimer Titanium Analog Digital Quartz Watch RUNS New Batt",
+  "total": 1642.89,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960095310978",
+  "item_id": "v1|960095310978|0",
+  "triage": {
+   "modelo": "Breitling Aerospace (analógico-digital, cuarzo, caja de acero con bisel y detalles en oro)",
+   "referencia": "F56062 o similar (no verificable en la foto)",
+   "precio_justo_usd": 800,
+   "interesante": false,
+   "nota": "El título dice Navitimer y titanio, pero la foto muestra un Aerospace bicolor; el precio pedido de $1643 está muy por encima del valor de venta real."
+  },
+  "motivo": "triage: El título dice Navitimer y titanio, pero la foto muestra un Aerospace bicolor; el precio pedido de $1643 está muy por encima del valor de venta real. (justo 800)"
  }
 ]
