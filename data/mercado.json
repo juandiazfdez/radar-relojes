@@ -4173,5 +4173,55 @@
   "p75": 5000,
   "min": 4200,
   "max": 5000
+ },
+ "Panerai PAM00504|usado": {
+  "fecha": "2026-10-21",
+  "consulta": "Panerai PAM00504",
+  "n": 3,
+  "mediana": 4099,
+  "p25": 4064,
+  "p75": 5100,
+  "min": 4064,
+  "max": 5100
+ },
+ "Omega 326.30.40.50.01.001|usado": {
+  "fecha": "2026-10-21",
+  "consulta": "Omega 326.30.40.50.01.001",
+  "n": 5,
+  "mediana": 4634,
+  "p25": 4350,
+  "p75": 5545,
+  "min": 3890,
+  "max": 5985
+ },
+ "Omega 210.32.42.20.06.001|nuevo": {
+  "fecha": "2026-10-21",
+  "consulta": "Omega 210.32.42.20.06.001",
+  "n": 1,
+  "mediana": 5670,
+  "p25": 5670,
+  "p75": 5670,
+  "min": 5670,
+  "max": 5670
+ },
+ "Breitling IB0110|usado": {
+  "fecha": "2026-10-21",
+  "consulta": "Breitling IB0110",
+  "n": 2,
+  "mediana": 5950,
+  "p25": 3950,
+  "p75": 7950,
+  "min": 3950,
+  "max": 7950
+ },
+ "TAG Heuer WM1113|usado": {
+  "fecha": "2026-10-21",
+  "consulta": "TAG Heuer WM1113",
+  "n": 3,
+  "mediana": 899,
+  "p25": 500,
+  "p75": 1240,
+  "min": 500,
+  "max": 1240
  }
 }
