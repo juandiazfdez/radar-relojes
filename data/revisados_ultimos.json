@@ -7160,5 +7160,45 @@
    "nota": "Modelo de producción actual que se vende de segunda mano bien por debajo de retail; US$2430 con envío supera con creces el precio de cierre estimado para estado Good."
   },
   "motivo": "triage: Modelo de producción actual que se vende de segunda mano bien por debajo de retail; US$2430 con envío supera con creces el precio de cierre estimado para estado Good. (justo 950)"
+ },
+ {
+  "fecha": "2026-10-21T07:40:38.937370+00:00",
+  "marca": "Omega",
+  "titulo": "[N. MINT] Omega DeVille Tank 20mm 10K Gold Filled Quartz Womens Watch Swiss-made",
+  "total": 2194.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960091032179",
+  "item_id": "v1|960091032179|0",
+  "triage": {
+   "modelo": "Omega De Ville Tank damas, cuarzo, chapado en oro 10K (gold filled), 20 mm",
+   "referencia": null,
+   "precio_justo_usd": 300,
+   "interesante": false,
+   "nota": "Oro laminado, no macizo; se vende normalmente entre 200 y 400 USD. El precio pedido de 2195 USD está muy por encima del mercado."
+  },
+  "motivo": "triage: Oro laminado, no macizo; se vende normalmente entre 200 y 400 USD. El precio pedido de 2195 USD está muy por encima del mercado. (justo 300)"
+ },
+ {
+  "fecha": "2026-10-21T07:40:38.937370+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Aqua Terra 41.5mm Silver Teak 2023 Full Set 231.10.42.21.02.003",
+  "total": 4580.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128145973820",
+  "item_id": "v1|128145973820|0",
+  "referencia": "231.10.42.21.02.003",
+  "mercado": {
+   "n": 2,
+   "p25": 4465,
+   "mediana": 4720
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Aqua Terra 150M 41.5 mm, esfera plata teca, brazalete de acero (2023)",
+   "referencia": "231.10.42.21.02.003",
+   "precio_justo_usd": 4200,
+   "interesante": false,
+   "nota": "Precio pedido ~9 % por encima del estimado de venta real para set completo 2023; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido ~9 % por encima del estimado de venta real para set completo 2023; no es una oportunidad. (justo 4200)"
  }
 ]
