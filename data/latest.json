@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-21T19:11:01.151699+00:00",
+ "actualizado": "2026-10-21T19:26:01.048302+00:00",
  "ventana_horas": 2.0,
  "marcas": [
   "Rolex",
@@ -14,14 +14,14 @@
   "IWC"
  ],
  "corrida": {
-  "nuevos_vistos": 26,
+  "nuevos_vistos": 23,
   "descartes": {
-   "titulo": 13,
-   "precio_normal": 5,
-   "triage": 8
+   "titulo": 15,
+   "triage": 5,
+   "precio_normal": 2
   },
-  "alertas_nuevas": 0,
-  "llamadas_ebay": 16,
+  "alertas_nuevas": 1,
+  "llamadas_ebay": 14,
   "cuota_agotada": false
  },
  "alertas_hoy": [
@@ -103,6 +103,80 @@
     "precio_reventa_rd_usd": 5600
    },
    "ratio_justo": 0.834
+  },
+  {
+   "fecha": "2026-10-21T19:26:01.048302+00:00",
+   "marca": "Breitling",
+   "titulo": "Mens Breitling Super Avenger II Watch 48mm A13371 - A1",
+   "precio": 2500.0,
+   "envio": 19.99,
+   "total": 2519.99,
+   "mercado": {
+    "fecha": "2026-10-21",
+    "consulta": "Breitling|A13371|usado",
+    "n": 17,
+    "mediana": 5495,
+    "p25": 3500,
+    "p75": 5695,
+    "min": 2895,
+    "max": 26955
+   },
+   "triage": null,
+   "vendedor": "sdpawnwallingford",
+   "valoraciones": 8779,
+   "pct_positivo": "99.2",
+   "url": "https://www.ebay.com/itm/377588008122",
+   "item_id": "v1|377588008122|0",
+   "info": {
+    "departamento": "Men",
+    "referencia": "A13371",
+    "modelo_esp": "Breitling Avenger",
+    "caja_mm": "48 mm",
+    "material": null,
+    "ano": null,
+    "movimiento": null,
+    "caja_original": null,
+    "papeles": null,
+    "condicion": "Pre-owned - Good",
+    "condicion_id": "3000",
+    "condicion_desc": "NO box or paperwork. Pre-owned condition with normal signs of war from use, including light scratches and scuffs throughout the case and bracelet. Dial and crystal present well. Please review all photos closely for overall condition. Thank you for looking",
+    "garantia_autenticidad": false,
+    "devoluciones": true,
+    "amarillas": [
+     "dent",
+     "no box",
+     "scratch",
+     "scratches"
+    ],
+    "imagenes": [
+     "https://i.ebayimg.com/images/g/70sAAeSwy6xq2RAr/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/gAoAAeSw-1Jq2RAq/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/6-IAAeSwmLZq2RAo/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/hkoAAeSwYHpq2RAm/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/fw4AAeSwFhNq2RAo/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/70UAAeSw7Dlq2RAp/s-l1600.jpg"
+    ]
+   },
+   "claude": {
+    "veredicto": "alerta",
+    "modelo": "Breitling Super Avenger II A13371 (acero, 48 mm, esfera azul, cronógrafo automático, brazalete de acero)",
+    "estado": "Usado, desgaste visible: rayones en bisel, caja y brazalete; esfera y cristal bien",
+    "riesgo_autenticidad": "bajo",
+    "completo": false,
+    "razones": [
+     "Las 4 fotos son reales, con la misma mano y fondo, y no parecen de catálogo ni robadas. La esfera coincide con la referencia: azul con subesferas plateadas, 30 min arriba, segundero pequeño a las 9, 12 h abajo, fecha a las 3, 'AUTOMATIC' en rojo y logo alado bien impreso. El bisel de 48 mm con números en relieve y los pulsadores también coinciden.",
+     "No veo señales claras de réplica ni de esfera repintada. Las agujas luminosas y los índices tienen un acabado consistente, y el reflejo azul es el antirreflejo del cristal.",
+     "Hay desgaste real: rayones marcados en el bisel (zona del 45 y del 55), marcas en los eslabones y en el cierre. Es un desgaste cosmético normal que no supone un defecto oculto.",
+     "No tiene caja ni papeles, y eso resta entre 10 y 15 % frente a un set completo. El listado no da año, pero este modelo se produce desde 2013 aproximadamente.",
+     "Faltan fotos del fondo de caja, del movimiento (Caliber 13 / base ETA 2824 modificada), del cierre y del número de serie. Habría que pedirlas para confirmar la autenticidad y que las piezas sean originales. El vendedor no ofrece garantía de autenticidad.",
+     "El vendedor es una casa de empeño con 8779 valoraciones (99.2 % positivo) y acepta devoluciones, lo que reduce mucho el riesgo.",
+     "Comparables pedidos: cuartil bajo 3500 y mediana 5495, inflados. El precio realmente cerrado para un A13371 usado, sin caja ni papeles y con desgaste, ronda los 3200-3700 USD. A 2520 USD hay unos 25-30 % de margen bajo el precio justo. Es un margen aceptable aunque no enorme, porque el 48 mm es un nicho de rotación lenta.",
+     "Antes de comprar, hay que confirmar el cierre de devolución, las fotos del fondo de caja y que el cronógrafo funcione con todos sus pulsadores."
+    ],
+    "precio_justo_usd": 3400,
+    "precio_reventa_rd_usd": 3500
+   },
+   "ratio_justo": 0.741
   }
  ]
 }
