@@ -47,7 +47,8 @@ PAISES = os.environ.get("PAISES_ORIGEN", "US").split(",")  # donde esta el reloj
 BARRIDO = bool(os.environ.get("BARRIDO"))  # 1 = revisar todo lo activo, no solo lo nuevo
 
 LOOKBACK_HORAS = float(os.environ.get("LOOKBACK_HORAS", "3"))
-UMBRAL_ALERTA = float(os.environ.get("UMBRAL_ALERTA", "0.72"))   # <= 72 % de la mediana
+UMBRAL_ALERTA = float(os.environ.get("UMBRAL_ALERTA", "0.80"))   # <= 80 % del cuartil bajo de precios pedidos
+UMBRAL_JUSTO = float(os.environ.get("UMBRAL_JUSTO", "0.85"))    # <= 85 % del precio justo estimado por Claude
 UMBRAL_SOSPECHA = 0.40                                             # < 40 % casi siempre es estafa o pieza
 MIN_COMPARABLES = int(os.environ.get("MIN_COMPARABLES", "5"))
 MIN_VALORACIONES = 20
@@ -253,7 +254,7 @@ def analizar(detalle, fila):
     }
     info["imagenes"] = [u for u in info["imagenes"] if u][:6]
     if not info["referencia"]:
-        info["referencia"] = extraer_ref(fila["marca"], [titulo, asp.get("model", ""), desc[:800]])
+        info["referencia"] = extraer_ref(fila["marca"], [titulo, asp.get("model", "")])
 
     dep = (info["departamento"] or "").lower()
     if dep and ("women" in dep or "ladies" in dep or "girl" in dep or "children" in dep):
@@ -351,7 +352,10 @@ def revisar_con_claude(cand):
         f"Descripcion: {(cand['info'].get('descripcion') or '')[:1500]}\n\n"
         "Responde SOLO con JSON: {\"veredicto\": \"alerta\"|\"dudoso\"|\"descartar\", "
         "\"estado\": \"frase corta\", \"riesgo_autenticidad\": \"bajo\"|\"medio\"|\"alto\", "
-        "\"completo\": true|false, \"razones\": [\"...\", \"...\"], \"precio_justo_usd\": numero}")})
+        "\"completo\": true|false, \"razones\": [\"...\", \"...\"], \"precio_justo_usd\": numero}\n"
+        "precio_justo_usd = lo que este reloj concreto (referencia, ano, estado, con o sin caja/papeles) se VENDE realmente "
+        "hoy en EE. UU. entre particulares y dealers (precios de venta cerrada en eBay/Chrono24, no precios pedidos). "
+        "Ojo: la mediana de precios pedidos en eBay suele estar inflada; no la copies.")})
     body = json.dumps({"model": modelo, "max_tokens": 6000,
                        "messages": [{"role": "user", "content": contenido}]}).encode()
     req = urllib.request.Request("https://api.anthropic.com/v1/messages", data=body, headers={
@@ -376,8 +380,8 @@ def revisar_con_claude(cand):
 # ---------------------------------------------------------------- avisos
 def texto_alerta(c):
     m = c["mercado"]
-    pct = round(100 * c["total"] / m["mediana"])
-    lineas = [f"<b>{html.escape(c['modelo_guia'])}</b> — {pct} % de la mediana de mercado",
+    pct = round(100 * c["total"] / (m.get("p25") or m["mediana"]))
+    lineas = [f"<b>{html.escape(c['modelo_guia'])}</b> — {pct} % del cuartil bajo de precios pedidos",
               html.escape(c["titulo"][:120]),
               f"Precio: <b>US${c['total']:,.0f}</b> (envio {c['envio'] if c['envio'] is not None else '?'}) · "
               f"Mercado: mediana US${m['mediana']:,} · rango tipico {m['p25']:,}–{m['p75']:,} · {m['n']} comparables",
@@ -389,6 +393,8 @@ def texto_alerta(c):
         lineas.append("Ojo: " + ", ".join(c["info"]["amarillas"]))
     if c.get("claude"):
         cl = c["claude"]
+        if c.get("ratio_justo"):
+            lineas.append(f"Precio justo estimado: <b>US${float(cl.get('precio_justo_usd')):,.0f}</b> → este esta al {round(c['ratio_justo']*100)} %")
         lineas.append(f"Claude: <b>{cl.get('veredicto')}</b> · {html.escape(str(cl.get('estado', '')))} · "
                       f"riesgo autenticidad {cl.get('riesgo_autenticidad')} · "
                       + "; ".join(html.escape(str(r)) for r in cl.get("razones", [])[:3]))
@@ -484,15 +490,16 @@ def procesar_modelo(eb, fila, t0, desde, vistos, mercado, revisados, candidatos,
             descartes["sin_comparables"] = descartes.get("sin_comparables", 0) + 1
             revisados.append(registro)
             continue
-        ratio = total / m["mediana"]
+        referencia_mercado = m.get("p25") or m["mediana"]
+        ratio = total / referencia_mercado
         registro["ratio_mercado"] = round(ratio, 3)
         if ratio > UMBRAL_ALERTA:
-            registro["motivo"] = f"precio normal ({round(ratio*100)} % de la mediana)"
+            registro["motivo"] = f"precio normal ({round(ratio*100)} % del cuartil bajo)"
             descartes["precio_normal"] = descartes.get("precio_normal", 0) + 1
             revisados.append(registro)
             continue
         if ratio < UMBRAL_SOSPECHA:
-            registro["motivo"] = f"demasiado barato ({round(ratio*100)} % de la mediana): sospechoso"
+            registro["motivo"] = f"demasiado barato ({round(ratio*100)} % del cuartil bajo): sospechoso"
             descartes["sospechoso"] = descartes.get("sospechoso", 0) + 1
             revisados.append(registro)
             continue
@@ -504,11 +511,24 @@ def procesar_modelo(eb, fila, t0, desde, vistos, mercado, revisados, candidatos,
                 "pct_positivo": vend.get("feedbackPercentage"), "url": it.get("itemWebUrl"),
                 "item_id": iid, "pais": (det.get("itemLocation") or {}).get("country"), "info": info}
         cand["claude"] = revisar_con_claude(cand)
-        if cand["claude"] and cand["claude"].get("veredicto") == "descartar":
-            registro["motivo"] = "Claude descarto: " + "; ".join(map(str, cand["claude"].get("razones", [])[:2]))
+        cl = cand["claude"] or {}
+        if cl.get("veredicto") == "descartar":
+            registro["motivo"] = "Claude descarto: " + "; ".join(map(str, cl.get("razones", [])[:2]))
             descartes["claude"] = descartes.get("claude", 0) + 1
             revisados.append(registro)
             continue
+        try:
+            justo = float(cl.get("precio_justo_usd") or 0)
+        except (TypeError, ValueError):
+            justo = 0
+        if justo:
+            cand["ratio_justo"] = round(total / justo, 3)
+            registro["ratio_justo"] = cand["ratio_justo"]
+            if cand["ratio_justo"] > UMBRAL_JUSTO:
+                registro["motivo"] = f"precio normal segun Claude ({round(cand['ratio_justo']*100)} % del justo {justo:.0f})"
+                descartes["precio_justo"] = descartes.get("precio_justo", 0) + 1
+                revisados.append(registro)
+                continue
         registro["motivo"] = "ALERTA"
         revisados.append(registro)
         if iid not in ids_alertados:

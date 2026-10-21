@@ -14,14 +14,16 @@ Corre en GitHub Actions **cada 15 minutos** y solo mira publicaciones nuevas (ub
    valoraciones o < 97 % positivo.
 3. **Compara con el mercado, no con tu precio**: busca los listados activos en
    EE. UU. de la **misma referencia** (o del mismo modelo si no hay referencia),
-   misma condición (usado/nuevo), y calcula la mediana recortada (quita el 10 %
-   más barato y más caro). Hace falta un mínimo de 5 comparables.
-   - Alerta si el precio total (con envío) es **≤ 72 % de la mediana**.
+   misma condición (usado/nuevo). Como los precios pedidos en eBay están
+   inflados, la referencia es el **cuartil bajo (p25)** de esos precios, no la
+   mediana. Hace falta un mínimo de 5 comparables.
+   - Pasa a la siguiente etapa si el precio total (con envío) es **≤ 80 % del p25**.
    - Si es **< 40 %** se marca como sospechoso (estafa o pieza) y no se avisa.
-4. **Opcional – revisión con Claude** (si existe el secreto `ANTHROPIC_API_KEY`):
-   manda título, especificaciones, descripción y hasta 4 fotos; Claude devuelve
-   `alerta` / `dudoso` / `descartar` con razones y riesgo de autenticidad.
-   Lo que Claude descarta no se avisa.
+4. **Revisión con Claude** (secreto `ANTHROPIC_API_KEY`): manda título,
+   especificaciones, descripción y hasta 4 fotos; Claude devuelve
+   `alerta` / `dudoso` / `descartar`, razones, riesgo de autenticidad y un
+   **precio justo** (lo que ese reloj se vende realmente). Es el filtro final:
+   solo se avisa si el precio está **≤ 85 % del precio justo** y no fue descartado.
 5. **Avisa** (si hay credenciales) por Telegram y/o correo, con foto y enlace.
    Nunca avisa dos veces del mismo artículo.
 
