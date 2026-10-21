@@ -7836,5 +7836,45 @@
   },
   "ratio_mercado": 0.917,
   "motivo": "precio normal (92 % del cuartil bajo de 210.30.42.20.10.001)"
+ },
+ {
+  "fecha": "2026-10-21T11:10:49.004806+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date 1501 Vintage 1960s Steel Riveted Oyster Bracelet",
+  "total": 4900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407304778861",
+  "item_id": "v1|407304778861|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date, esfera plateada con indices de barra y ventana de fecha en las 3, caja de acero de 34 mm aprox.",
+   "referencia": "1501",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Vintage de los años 60 en buen estado sin caja ni papeles; el precio pedido de 4900 USD esta cerca del valor de mercado, no por debajo del 15 %. Verificar esfera original y servicio."
+  },
+  "motivo": "triage: Vintage de los años 60 en buen estado sin caja ni papeles; el precio pedido de 4900 USD esta cerca del valor de mercado, no por debajo del 15 %. Verificar esfera original y servicio. (justo 5000)"
+ },
+ {
+  "fecha": "2026-10-21T11:10:49.004806+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling AB0441 48mm Limited Edition  No# 5/1000",
+  "total": 8200.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/377587158733",
+  "item_id": "v1|377587158733|0",
+  "referencia": "AB0441",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Breitling cronógrafo en acero con PVD negro, edición limitada 48 mm (posiblemente de la familia Chronomat/Bentley; no verificable en la foto)",
+   "referencia": "AB0441 (según el título, no verificable en la imagen)",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Precio pedido US$8200 está bastante por encima del valor de venta estimado para un usado excelente; la foto es borrosa y no permite confirmar referencia ni papeles."
+  },
+  "motivo": "triage: Precio pedido US$8200 está bastante por encima del valor de venta estimado para un usado excelente; la foto es borrosa y no permite confirmar referencia ni papeles. (justo 5000)"
  }
 ]
