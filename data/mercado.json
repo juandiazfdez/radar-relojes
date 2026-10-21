@@ -1715,11 +1715,11 @@
   "max": 19477
  },
  "Tudor M79360N|usado": {
-  "fecha": "2026-10-20",
+  "fecha": "2026-10-21",
   "consulta": "Tudor M79360N",
-  "n": 21,
-  "mediana": 5500,
-  "p25": 4950,
+  "n": 22,
+  "mediana": 5399,
+  "p25": 4650,
   "p75": 6525,
   "min": 4250,
   "max": 15515
@@ -3293,5 +3293,60 @@
   "p75": 5698,
   "min": 3148,
   "max": 6210
+ },
+ "Rolex 116710BLNR|nuevo": {
+  "fecha": "2026-10-21",
+  "consulta": "Rolex 116710BLNR",
+  "n": 4,
+  "mediana": 20288,
+  "p25": 19650,
+  "p75": 24000,
+  "min": 18449,
+  "max": 24000
+ },
+ "Rolex 116503|usado": {
+  "fecha": "2026-10-21",
+  "consulta": "Rolex 116503",
+  "n": 29,
+  "mediana": 23895,
+  "p25": 22433,
+  "p75": 24800,
+  "min": 18449,
+  "max": 26500
+ },
+ "Cartier 2324|usado": {
+  "fecha": "2026-10-21",
+  "consulta": "Cartier 2324",
+  "n": 22,
+  "mediana": 2475,
+  "p25": 2300,
+  "p75": 2895,
+  "min": 1830,
+  "max": 3725
+ },
+ "Cartier WSSA0063|usado": {
+  "fecha": "2026-10-21",
+  "consulta": "Cartier WSSA0063",
+  "n": 0
+ },
+ "Panerai PAM00423|usado": {
+  "fecha": "2026-10-21",
+  "consulta": "Panerai PAM00423",
+  "n": 5,
+  "mediana": 5950,
+  "p25": 5600,
+  "p75": 5979,
+  "min": 4900,
+  "max": 6660
+ },
+ "TAG Heuer WA1211|usado": {
+  "fecha": "2026-10-21",
+  "consulta": "TAG Heuer WA1211",
+  "n": 7,
+  "mediana": 690,
+  "p25": 475,
+  "p75": 760,
+  "min": 430,
+  "max": 1100
  }
 }

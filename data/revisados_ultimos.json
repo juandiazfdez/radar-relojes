@@ -6557,5 +6557,255 @@
    "p75": 5698
   },
   "ratio_mercado": 1.213
+ },
+ {
+  "fecha": "2026-10-21T05:25:38.734176+00:00",
+  "marca": "Rolex",
+  "titulo": "Stickered Rolex Batman 40mm 116710BLNR GMT II On Oyster 2018",
+  "total": 17499.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/147645241098",
+  "item_id": "v1|147645241098|0",
+  "referencia": "116710BLNR",
+  "mercado": {
+   "n": 4,
+   "p25": 19650,
+   "mediana": 20288
+  },
+  "triage": {
+   "modelo": "Rolex GMT-Master II 'Batman' (bisel negro/azul cerámica, brazalete Oyster de acero)",
+   "referencia": "116710BLNR",
+   "precio_justo_usd": 16500,
+   "interesante": false,
+   "nota": "Referencia correcta para 2018 y precio pedido dentro de rango de mercado; no supera el umbral del 15 % de descuento."
+  },
+  "motivo": "triage: Referencia correcta para 2018 y precio pedido dentro de rango de mercado; no supera el umbral del 15 % de descuento. (justo 16500)"
+ },
+ {
+  "fecha": "2026-10-21T05:25:38.734176+00:00",
+  "marca": "Rolex",
+  "titulo": "2018 Rolex Daytona Black 116503 Just Serviced Two Tone 18k Yellow Gold Full Set",
+  "total": 22294.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137861760135",
+  "item_id": "v1|137861760135|0",
+  "referencia": "116503",
+  "mercado": {
+   "n": 29,
+   "p25": 22433,
+   "mediana": 23895
+  },
+  "ratio_mercado": 0.994,
+  "motivo": "precio normal (99 % del cuartil bajo de 116503)"
+ },
+ {
+  "fecha": "2026-10-21T05:25:38.734176+00:00",
+  "marca": "Cartier",
+  "titulo": "Authentic Cartier Pasha C 2324 35 mm Stainless Steel Automatic Date Watch",
+  "total": 2430.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366749068450",
+  "item_id": "v1|366749068450|0",
+  "referencia": "2324",
+  "mercado": {
+   "n": 22,
+   "p25": 2300,
+   "mediana": 2475
+  },
+  "ratio_mercado": 1.057,
+  "motivo": "precio normal (106 % del cuartil bajo de 2324)"
+ },
+ {
+  "fecha": "2026-10-21T05:25:38.734176+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos de Cartier WSSA0063 Medium Watch + Accessories",
+  "total": 7395.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336854941433",
+  "item_id": "v1|336854941433|0",
+  "referencia": "WSSA0063",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Santos de Cartier Medium (automático, esfera azul, brazalete de acero)",
+   "referencia": "WSSA0063",
+   "precio_justo_usd": 6400,
+   "interesante": false,
+   "nota": "Generación actual, pero el precio pedido de US$7395 queda por encima de lo que se vende usado en EE. UU. (≈US$6000-6800 con caja y papeles)."
+  },
+  "motivo": "triage: Generación actual, pero el precio pedido de US$7395 queda por encima de lo que se vende usado en EE. UU. (≈US$6000-6800 con caja y papeles). (justo 6400)"
+ },
+ {
+  "fecha": "2026-10-21T05:25:38.734176+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 TUDOR Black Bay Chrono Auto Chronograph Box Papers Warranty M79360N",
+  "total": 5800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168806701533",
+  "item_id": "v1|168806701533|0",
+  "referencia": "M79360N",
+  "mercado": {
+   "n": 22,
+   "p25": 4650,
+   "mediana": 5399
+  },
+  "ratio_mercado": 1.247,
+  "motivo": "precio normal (125 % del cuartil bajo de M79360N)"
+ },
+ {
+  "fecha": "2026-10-21T05:25:38.734176+00:00",
+  "marca": "Panerai",
+  "titulo": "Panerai Luminor 1950 PAM00423 47mm 3 Days Power Reserve Blue Leather Box",
+  "total": 4888.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168806660400",
+  "item_id": "v1|168806660400|0",
+  "referencia": "PAM00423",
+  "mercado": {
+   "n": 5,
+   "p25": 5600,
+   "mediana": 5950
+  },
+  "ratio_mercado": 0.873,
+  "motivo": "precio normal (87 % del cuartil bajo de PAM00423)"
+ },
+ {
+  "fecha": "2026-10-21T05:25:38.734176+00:00",
+  "marca": "Omega",
+  "titulo": "Vintage Omega Ladies Cocktail Watch Quartz 14kt solid gold",
+  "total": 4999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147645260998",
+  "item_id": "v1|147645260998|0",
+  "triage": {
+   "modelo": "Omega Ladies Cocktail Quartz vintage, caja y brazalete de oro 14k con bisel de diamantes",
+   "referencia": null,
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "Oro 14k macizo con diamantes; su valor se apoya sobre todo en el metal. El precio pedido de US$4999 está muy por encima de lo que se vende realmente."
+  },
+  "motivo": "triage: Oro 14k macizo con diamantes; su valor se apoya sobre todo en el metal. El precio pedido de US$4999 está muy por encima de lo que se vende realmente. (justo 2400)"
+ },
+ {
+  "fecha": "2026-10-21T05:25:38.734176+00:00",
+  "marca": "Omega",
+  "titulo": "Rare Vintage Omega Constellation 2652-14SC Gold Cap 354 Bumper movement, boxed",
+  "total": 3250.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880036642821",
+  "item_id": "v1|880036642821|0",
+  "triage": {
+   "modelo": "Omega Constellation vintage (movimiento Bumper cal. 354), caja chapada en oro, esfera marrón",
+   "referencia": "2652-14SC (según el listado; no verificable en la foto)",
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Precio pedido de US$3250 por encima del valor estimado para estado Good, aunque sea con caja; la rareza anunciada no lo justifica sin verificar la referencia y la autenticidad."
+  },
+  "motivo": "triage: Precio pedido de US$3250 por encima del valor estimado para estado Good, aunque sea con caja; la rareza anunciada no lo justifica sin verificar la referencia y la autenticidad. (justo 2300)"
+ },
+ {
+  "fecha": "2026-10-21T05:25:38.734176+00:00",
+  "marca": "Omega",
+  "titulo": "Vintage 1960's Omega Automatic Swiss Made Wristwatch Cal. 550 With Omega Box",
+  "total": 900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880033530810",
+  "item_id": "v1|880033530810|0",
+  "triage": {
+   "modelo": "Omega automático vintage (calibre 550), caja chapada en oro, esfera plateada con marcadores aplicados, años 1960",
+   "referencia": null,
+   "precio_justo_usd": 550,
+   "interesante": false,
+   "nota": "Modelo vintage de caja chapada, sin referencia visible; el precio pedido de 900 USD supera la estimación conservadora y no hay margen de 15 % a favor."
+  },
+  "motivo": "triage: Modelo vintage de caja chapada, sin referencia visible; el precio pedido de 900 USD supera la estimación conservadora y no hay margen de 15 % a favor. (justo 550)"
+ },
+ {
+  "fecha": "2026-10-21T05:25:38.734176+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Speedmaster Reduced 3539.50 39mm Automatic Chronograph Sapphire Steel",
+  "total": 4295.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287660071530",
+  "item_id": "v1|287660071530|0",
+  "triage": {
+   "modelo": "Omega Speedmaster Reduced (esfera negra, bisel taquimétrico, brazalete de acero)",
+   "referencia": "3539.50",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio pedido de 4295 USD está por encima del valor de venta real de esta referencia en estado Good; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido de 4295 USD está por encima del valor de venta real de esta referencia en estado Good; no hay descuento suficiente. (justo 3000)"
+ },
+ {
+  "fecha": "2026-10-21T05:25:38.734176+00:00",
+  "marca": "Omega",
+  "titulo": "omega swatch saturn, painted 1 of 1 by Alec monopoly art, with video proof.",
+  "total": 1950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820261259079",
+  "item_id": "v1|820261259079|0",
+  "triage": {
+   "modelo": "Swatch Saturn (plástico), pintado a mano; no es Omega",
+   "referencia": null,
+   "precio_justo_usd": 400,
+   "interesante": false,
+   "nota": "El título dice Omega, pero es un Swatch de plástico repintado por un artista; el precio de US$1950 excede con mucho su valor real salvo que la obra tenga un valor artístico verificado."
+  },
+  "motivo": "triage: El título dice Omega, pero es un Swatch de plástico repintado por un artista; el precio de US$1950 excede con mucho su valor real salvo que la obra tenga un valor artístico verificado. (justo 400)"
+ },
+ {
+  "fecha": "2026-10-21T05:25:38.734176+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Aerospace Navitimer Titanium Analog Digital Quartz Watch RUNS New Batt",
+  "total": 1529.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960094997617",
+  "item_id": "v1|960094997617|0",
+  "triage": {
+   "modelo": "Breitling Aerospace analógico-digital de cuarzo (posiblemente bicolor acero/oro; el título menciona titanio y Navitimer, lo que no encaja)",
+   "referencia": "F56062 (probable, no confirmable en la foto)",
+   "precio_justo_usd": 900,
+   "interesante": false,
+   "nota": "El título llama 'Navitimer' a un Aerospace, que es otro modelo, y la foto muestra bicolor mientras el título dice titanio; el precio de 1530 USD supera con holgura el valor de venta real de este modelo."
+  },
+  "motivo": "triage: El título llama 'Navitimer' a un Aerospace, que es otro modelo, y la foto muestra bicolor mientras el título dice titanio; el precio de 1530 USD supera con holgura el valor de venta real de este modelo. (justo 900)"
+ },
+ {
+  "fecha": "2026-10-21T05:25:38.734176+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Superocean_46_Blue_Steel_Complete Set_A17378E71C1A1",
+  "total": 3799.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/860067663270",
+  "item_id": "v1|860067663270|0",
+  "triage": {
+   "modelo": "Breitling Superocean 46 Automatic (esfera azul, bisel azul, brazalete de acero)",
+   "referencia": "A17378E71C1A1",
+   "precio_justo_usd": 4200,
+   "interesante": false,
+   "nota": "Precio pedido ~10 % bajo el valor estimado de venta para un Superocean 46 nuevo con papeles; no llega al umbral del 15 %. Verificar autenticidad y número de serie antes de comprar."
+  },
+  "motivo": "triage: Precio pedido ~10 % bajo el valor estimado de venta para un Superocean 46 nuevo con papeles; no llega al umbral del 15 %. Verificar autenticidad y número de serie antes de comprar. (justo 4200)"
+ },
+ {
+  "fecha": "2026-10-21T05:25:38.734176+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "Tag Heuer 35mm Men's Formula 1 Red/ Black/ Luminous F1 494/6 Watch Ref: WA1211!",
+  "total": 849.95,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/820261200023",
+  "item_id": "v1|820261200023|0",
+  "referencia": "WA1211",
+  "mercado": {
+   "n": 7,
+   "p25": 475,
+   "mediana": 690
+  },
+  "ratio_mercado": 1.789,
+  "motivo": "precio normal (179 % del cuartil bajo de WA1211)"
  }
 ]
