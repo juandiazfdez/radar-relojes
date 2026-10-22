@@ -2,42 +2,6 @@
  {
   "fecha": "2026-10-20T23:26:35.081597+00:00",
   "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "Jaeger LeCoultre Grande Reverso 976 Rose Gold Watch 273.2.04 Q3732520",
-  "total": 15690.0,
-  "url": "https://www.ebay.com/itm/257752952336?_skw=jaeger+lecoultre+reverso&hash=item3c0345ee10:g:GScAAeSwvSpp6Suc",
-  "item_id": "v1|257752952336|0",
-  "referencia": "Q3732520",
-  "motivo": "precio normal (121 % de la mediana)",
-  "mercado": {
-   "consulta": "jaeger lecoultre reverso",
-   "n": 111,
-   "mediana": 12990,
-   "p25": 9750,
-   "p75": 17500
-  },
-  "ratio_mercado": 1.208
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "Jaeger LeCoultre Reverso Tribute Duoface Steel Mens Watch 216.8.D3 Q3958420 Card",
-  "total": 15900.0,
-  "url": "https://www.ebay.com/itm/336785511285?_skw=jaeger+lecoultre+reverso&hash=item4e69fb1375:g:cPIAAeSwnz9qoIue",
-  "item_id": "v1|336785511285|0",
-  "referencia": "Q3958420",
-  "motivo": "precio normal (122 % de la mediana)",
-  "mercado": {
-   "consulta": "jaeger lecoultre reverso",
-   "n": 111,
-   "mediana": 12990,
-   "p25": 9750,
-   "p75": 17500
-  },
-  "ratio_mercado": 1.224
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
   "titulo": "Jaeger LeCoultre Reverso Tribute Duoface Steel Watch 216.8.D3 Q3958420 Card",
   "total": 15900.0,
   "url": "https://www.ebay.com/itm/257790557096?_skw=jaeger+lecoultre+reverso&hash=item3c0583bba8:g:8yAAAeSwqRlqyQvq",
@@ -11265,5 +11229,45 @@
    "nota": "Cronógrafo de cuarzo de acero y oro amarillo que se vende de forma realista entre unos 600 y 1000 USD; el precio pedido de 1850 USD está muy por encima del mercado."
   },
   "motivo": "triage: Cronógrafo de cuarzo de acero y oro amarillo que se vende de forma realista entre unos 600 y 1000 USD; el precio pedido de 1850 USD está muy por encima del mercado. (justo 800)"
+ },
+ {
+  "fecha": "2026-10-22T01:56:12.221334+00:00",
+  "marca": "Breitling",
+  "titulo": "breitling watches for men diamonds",
+  "total": 4800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377586122353",
+  "item_id": "v1|377586122353|0",
+  "triage": {
+   "modelo": "Cronógrafo de estilo Breitling con bisel de diamantes, esfera azul y brazalete de acero (no identificable como modelo auténtico)",
+   "referencia": null,
+   "precio_justo_usd": 1200,
+   "interesante": false,
+   "nota": "Título genérico con palabras clave, sin referencia; bisel tipo 'iced-out' y logotipo no verificable. Probable réplica o pieza no auténtica; pedir fotos de caja, papeles y número de serie antes de considerar."
+  },
+  "motivo": "triage: Título genérico con palabras clave, sin referencia; bisel tipo 'iced-out' y logotipo no verificable. Probable réplica o pieza no auténtica; pedir fotos de caja, papeles y número de serie antes de considerar. (justo 1200)"
+ },
+ {
+  "fecha": "2026-10-22T01:56:12.221334+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Formula 1 Gulf Special Edition CAZ101N.BA0842 43mm Quartz Chronograph",
+  "total": 1399.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800823350008",
+  "item_id": "v1|800823350008|0",
+  "referencia": "CAZ101N.BA0842",
+  "mercado": {
+   "n": 3,
+   "p25": 1854,
+   "mediana": 2195
+  },
+  "triage": {
+   "modelo": "TAG Heuer Formula 1 Gulf Special Edition, cronógrafo de cuarzo 43 mm con bisel azul",
+   "referencia": "CAZ101N.BA0842",
+   "precio_justo_usd": 1150,
+   "interesante": false,
+   "nota": "Precio pedido de US$1399 por encima de lo que se vende hoy en uso; la referencia es coherente con lo visible, pero el listado no supera la prueba de precio."
+  },
+  "motivo": "triage: Precio pedido de US$1399 por encima de lo que se vende hoy en uso; la referencia es coherente con lo visible, pero el listado no supera la prueba de precio. (justo 1150)"
  }
 ]
