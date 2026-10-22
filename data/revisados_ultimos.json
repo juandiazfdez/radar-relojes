@@ -1,73 +1,5 @@
 [
  {
-  "fecha": "2026-10-21T13:55:49.214912+00:00",
-  "marca": "Bulgari",
-  "titulo": "Bvlgari Chronograph Automatic Stainless Steel Watch",
-  "total": 2018.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820262696106",
-  "item_id": "v1|820262696106|0",
-  "triage": {
-   "modelo": "Bulgari Bvlgari Chronograph Automatic (acero, esfera azul)",
-   "referencia": "BB 42 SS CH AUTO (probable, no confirmada en foto)",
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "Precio cercano al mercado, pero el listado no indica referencia, año, caja ni papeles, y la foto no permite verificar autenticidad; sin esos datos no se puede confirmar un descuento real de 15 %."
-  },
-  "motivo": "triage: Precio cercano al mercado, pero el listado no indica referencia, año, caja ni papeles, y la foto no permite verificar autenticidad; sin esos datos no se puede confirmar un descuento real de 15 %. (justo 2600)"
- },
- {
-  "fecha": "2026-10-21T14:10:48.868244+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 31 Midsize Steel Yellow Gold Diamond Ladies Watch 178383",
-  "total": 22930.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257809908591",
-  "item_id": "v1|257809908591|0",
-  "referencia": "178383",
-  "mercado": {
-   "n": 26,
-   "p25": 18990,
-   "mediana": 19062
-  },
-  "ratio_mercado": 1.207,
-  "motivo": "precio normal (121 % del cuartil bajo de 178383)"
- },
- {
-  "fecha": "2026-10-21T14:10:48.868244+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date Automatic Stainless Steel Watch",
-  "total": 3994.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267819798175",
-  "item_id": "v1|267819798175|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date (acero, automático), probablemente 34 mm",
-   "referencia": "115200 (probable, no confirmada)",
-   "precio_justo_usd": 5800,
-   "interesante": false,
-   "nota": "Precio muy por debajo del mercado para un Rolex original de este modelo; alta sospecha de réplica o listado engañoso. Requiere verificación de autenticidad antes de cualquier oferta."
-  },
-  "motivo": "triage: Precio muy por debajo del mercado para un Rolex original de este modelo; alta sospecha de réplica o listado engañoso. Requiere verificación de autenticidad antes de cualquier oferta. (justo 5800)"
- },
- {
-  "fecha": "2026-10-21T14:10:48.868244+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Air King Automatic Stainless Steel Watch",
-  "total": 3775.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267819798134",
-  "item_id": "v1|267819798134|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Air-King (vintage)",
-   "referencia": "5500 (probable, no confirmada en la imagen)",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Air-King vintage en acero con esfera plateada; el precio está cerca del valor de mercado, y la esfera y la referencia exacta requieren verificación."
-  },
-  "motivo": "triage: Air-King vintage en acero con esfera plateada; el precio está cerca del valor de mercado, y la esfera y la referencia exacta requieren verificación. (justo 4000)"
- },
- {
   "fecha": "2026-10-21T14:10:48.868244+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Precision Steel Watch",
@@ -11423,5 +11355,91 @@
    "nota": "Sin referencia ni año en el título; el precio justo de un Portuguese Automatic de acero de uso en condición Good ronda 5.000-6.000 USD. El precio pedido de 6107 USD está por encima, sin margen de compra."
   },
   "motivo": "triage: Sin referencia ni año en el título; el precio justo de un Portuguese Automatic de acero de uso en condición Good ronda 5.000-6.000 USD. El precio pedido de 6107 USD está por encima, sin margen de compra. (justo 5500)"
+ },
+ {
+  "fecha": "2026-10-22T16:41:46.188585+00:00",
+  "marca": "Omega",
+  "titulo": "(MA6) Men's OMEGA Seamaster Aqua Terra 231.10.43.22.03.001 GMT Automatic Watch",
+  "total": 4400.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198736829979",
+  "item_id": "v1|198736829979|0",
+  "referencia": "231.10.43.22.03.001",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Aqua Terra 150M GMT (Co-Axial, acero, esfera negra, 43 mm)",
+   "referencia": "231.10.43.22.03.001",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Precio pedido de 4400 USD supera el valor de venta cerrada para esta referencia de acero usada; el listado parece genuino, pero está caro."
+  },
+  "motivo": "triage: Precio pedido de 4400 USD supera el valor de venta cerrada para esta referencia de acero usada; el listado parece genuino, pero está caro. (justo 3200)"
+ },
+ {
+  "fecha": "2026-10-22T16:41:46.188585+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Diver 300M Automatic 42mm White 210.30.42.20.04.001 FULL SET",
+  "total": 5099.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267820869525",
+  "item_id": "v1|267820869525|0",
+  "referencia": "210.30.42.20.04.001",
+  "mercado": {
+   "n": 14,
+   "p25": 5000,
+   "mediana": 5156
+  },
+  "ratio_mercado": 1.02,
+  "motivo": "precio normal (102 % del cuartil bajo de 210.30.42.20.04.001)"
+ },
+ {
+  "fecha": "2026-10-22T16:41:46.188585+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "New Tag Heuer Aquaracer 300M Automatic Chronograph Men's Watch CAY218A.FC6361",
+  "total": 3660.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800825963423",
+  "item_id": "v1|800825963423|0",
+  "referencia": "CAY218A.FC6361",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "TAG Heuer Aquaracer 300M Chronograph Automatic (caja negra PVD, esfera negra, correa con costuras amarillas)",
+   "referencia": "CAY218A.FC6361",
+   "precio_justo_usd": 2900,
+   "interesante": false,
+   "nota": "Precio pedido de 3660 USD está por encima del valor de mercado gris nuevo con caja y papeles, por lo que no representa una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de 3660 USD está por encima del valor de mercado gris nuevo con caja y papeles, por lo que no representa una oportunidad. (justo 2900)"
+ },
+ {
+  "fecha": "2026-10-22T16:41:46.188585+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "New Tag Heuer Aquaracer 300M Automatic Chronograph Men's Watch CAY211A.FC6361",
+  "total": 3275.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/407309339661",
+  "item_id": "v1|407309339661|0",
+  "referencia": "CAY211A.FC6361",
+  "mercado": {
+   "n": 1,
+   "p25": 3190,
+   "mediana": 3190
+  },
+  "triage": {
+   "modelo": "TAG Heuer Aquaracer 300M Automatic Chronograph (Calibre 16), esfera negra con detalles amarillos, correa de caucho negra con costuras amarillas",
+   "referencia": "CAY211A.FC6361",
+   "precio_justo_usd": 2500,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de mercado gris de un modelo nuevo con caja y papeles; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de mercado gris de un modelo nuevo con caja y papeles; no hay descuento suficiente. (justo 2500)"
  }
 ]
