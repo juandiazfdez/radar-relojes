@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-21T10:10:39.452016+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Oyster Precision Steel Watch",
-  "total": 3409.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267819639576",
-  "item_id": "v1|267819639576|0",
-  "triage": {
-   "modelo": "Rolex Oyster Precision (acero, esfera plateada, brazalete Oyster)",
-   "referencia": "6426 (probable, sin confirmar)",
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "Precio pedido de US$3409 supera claramente el valor de mercado estimado para una Oyster Precision vintage de acero en estado Good; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$3409 supera claramente el valor de mercado estimado para una Oyster Precision vintage de acero en estado Good; no es una oportunidad. (justo 2300)"
- },
- {
-  "fecha": "2026-10-21T10:10:39.452016+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual Date Automatic Stainless Steel Watch",
   "total": 4506.0,
   "condicion": "Pre-owned - Good",
@@ -11356,5 +11339,22 @@
   },
   "ratio_mercado": 1.012,
   "motivo": "precio normal (101 % del cuartil bajo de W2SA0008)"
+ },
+ {
+  "fecha": "2026-10-22T13:11:35.589662+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "Tag Heuer Aquaracer Professional 200 Solargraph Quartz Watch Stainless Steel 34",
+  "total": 2220.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117480648348",
+  "item_id": "v1|117480648348|0",
+  "triage": {
+   "modelo": "TAG Heuer Aquaracer Professional 200 Solargraph 34 mm, esfera azul turquesa, bisel giratorio, brazalete de acero",
+   "referencia": "posiblemente WBP1415 (no verificable en la foto, confirmar en caja o eslabón)",
+   "precio_justo_usd": 1650,
+   "interesante": false,
+   "nota": "Precio pedido de 2220 USD con envío supera el valor de venta de un usado en buen estado; no hay descuento frente al mercado."
+  },
+  "motivo": "triage: Precio pedido de 2220 USD con envío supera el valor de venta de un usado en buen estado; no hay descuento frente al mercado. (justo 1650)"
  }
 ]
