@@ -760,5 +760,76 @@
    "precio_reventa_rd_usd": 3500
   },
   "ratio_justo": 0.741
+ },
+ {
+  "fecha": "2026-10-22T15:26:46.231089+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Formula 1 WAZ2012.BA0842 Calibre 6 Automatic Men's Black 43MM Watch",
+  "precio": 750.0,
+  "envio": null,
+  "total": 750.0,
+  "mercado": {
+   "fecha": "2026-10-22",
+   "consulta": "TAG Heuer WAZ2012",
+   "n": 3,
+   "mediana": 1615,
+   "p25": 1000,
+   "p75": 1895,
+   "min": 1000,
+   "max": 1895
+  },
+  "triage": {
+   "modelo": "TAG Heuer Formula 1 Calibre 6 automático, esfera negra, brazalete de acero, 43 mm",
+   "referencia": "WAZ2012.BA0842",
+   "precio_justo_usd": 950,
+   "interesante": true,
+   "nota": "Precio ~21% bajo el valor de venta usado en EE. UU. para estado Good, sin caja ni papeles confirmados; verificar autenticidad y estado del brazalete antes de comprar."
+  },
+  "vendedor": "zeb4224",
+  "valoraciones": 22,
+  "pct_positivo": "100.0",
+  "url": "https://www.ebay.com/itm/168790149445",
+  "item_id": "v1|168790149445|0",
+  "info": {
+   "departamento": "Men",
+   "referencia": "WAZ2012.BA0842",
+   "modelo_esp": "TAG Heuer Formula 1",
+   "caja_mm": "43 mm",
+   "material": "Stainless Steel",
+   "ano": "2010-2019",
+   "movimiento": "Mechanical (Automatic)",
+   "caja_original": "Yes",
+   "papeles": null,
+   "condicion": "Pre-owned - Good",
+   "condicion_id": "3000",
+   "condicion_desc": "",
+   "garantia_autenticidad": false,
+   "devoluciones": true,
+   "amarillas": [],
+   "imagenes": [
+    "https://i.ebayimg.com/images/g/URYAAeSw-NdqzkpJ/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/KB0AAeSwffVqzkpJ/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/W8EAAeSwaGRqzkpJ/s-l1600.jpg"
+   ]
+  },
+  "claude": {
+   "veredicto": "dudoso",
+   "modelo": "TAG Heuer Formula 1 Calibre 6 WAZ2012.BA0842, automático, 43 mm, acero, esfera negra",
+   "estado": "Usado con desgaste visible: bisel con golpes y rayones, cristal rayado, brazalete y cierre gastados",
+   "riesgo_autenticidad": "bajo",
+   "completo": false,
+   "razones": [
+    "Autenticidad: el fondo macizo con bandera a cuadros, escudo TAG, 'WAZ2012', un código de serie, '200 meters' y 'Swiss made since 1860' es coherente con la referencia. La esfera tiene el subdial de segundos a las 6, la fecha a las 3 y el texto 'Calibre 6', todo correcto. El cierre lleva el escudo TAG. No veo señales de réplica, pero sin foto del movimiento ni del número de serie completo no hay certeza total.",
+    "Fotos propias del vendedor (libreta y mesa de madera), sin imágenes de catálogo ni robadas. Esto suma confianza.",
+    "Estado: el bisel muestra marcas y abolladuras en el borde superior izquierdo, y hay reflejos amarillentos que apuntan a golpes o desgaste. El cristal tiene rayones visibles cerca de las 12. El brazalete y el cierre están rayados, con desgaste general.",
+    "Está incompleto: la descripción dice que incluye caja y manual, pero no hay fotos de la caja y no hay papeles ni tarjeta de garantía. 'Good' sin descripción de condición y sin garantía de autenticidad deja mucho al azar.",
+    "Hay un coste oculto: no se sabe cuándo se le hizo el último servicio al Calibre 6 (base Sellita). Un servicio completo cuesta unos 250-400 USD, lo que reduce mucho el margen.",
+    "Precio: 750 USD está entre un 15 y un 20 % bajo mi precio justo conservador. Los comparables de 1000 y 1615 son precios pedidos, inflados. Tras el servicio, el pulido y los costes de envío e importación, el margen es estrecho para el estado real.",
+    "Compraría solo si se logra bajar el precio a unos 650 USD o menos, o si el vendedor manda fotos del brazalete, de la caja y un video del funcionamiento."
+   ],
+   "precio_justo_usd": 900,
+   "precio_reventa_rd_usd": 1050
+  },
+  "ratio_justo": 0.833
  }
 ]
