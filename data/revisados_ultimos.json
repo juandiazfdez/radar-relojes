@@ -3,42 +3,6 @@
   "fecha": "2026-10-20T23:26:35.081597+00:00",
   "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
   "titulo": "Jaeger-LeCoultre Reverso Squadra 18k Rose Gold Auto Silver Men's Watch Q7012420",
-  "total": 16005.0,
-  "url": "https://www.ebay.com/itm/298562310895?_skw=jaeger+lecoultre+reverso&hash=item4583b352ef:g:2yMAAeSwOPZqc47V",
-  "item_id": "v1|298562310895|0",
-  "referencia": "Q7012420",
-  "motivo": "precio normal (123 % de la mediana)",
-  "mercado": {
-   "consulta": "jaeger lecoultre reverso",
-   "n": 111,
-   "mediana": 12990,
-   "p25": 9750,
-   "p75": 17500
-  },
-  "ratio_mercado": 1.232
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "Jaeger-LeCoultre Reverso - Ref. Q3958420 - 29mm * 49mm Stainless Steel",
-  "total": 16500.0,
-  "url": "https://www.ebay.com/itm/287605862506?_skw=jaeger+lecoultre+reverso&hash=item42f6a5306a:g:P04AAeSw1kVqtpDH",
-  "item_id": "v1|287605862506|0",
-  "referencia": "Q3958420",
-  "motivo": "precio normal (127 % de la mediana)",
-  "mercado": {
-   "consulta": "jaeger lecoultre reverso",
-   "n": 111,
-   "mediana": 12990,
-   "p25": 9750,
-   "p75": 17500
-  },
-  "ratio_mercado": 1.27
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "Jaeger-LeCoultre Reverso Squadra 18k Rose Gold Auto Silver Men's Watch Q7012420",
   "total": 16505.0,
   "url": "https://www.ebay.com/itm/298537395084?_skw=jaeger+lecoultre+reverso&hash=item458237238c:g:1Y0AAeSw6JVqao0c",
   "item_id": "v1|298537395084|0",
@@ -11274,5 +11238,39 @@
    "nota": "Modelo estándar de acero y esfera azul; la mención 'Bond 007 Spectre' no se ve en la foto y no justifica prima. Precio pedido US$5195 está por encima del valor de venta real."
   },
   "motivo": "triage: Modelo estándar de acero y esfera azul; la mención 'Bond 007 Spectre' no se ve en la foto y no justifica prima. Precio pedido US$5195 está por encima del valor de venta real. (justo 4600)"
+ },
+ {
+  "fecha": "2026-10-22T02:26:11.738880+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41 126333 2023 Papers Discontinued Motif Daial",
+  "total": 18099.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860070845456",
+  "item_id": "v1|860070845456|0",
+  "referencia": "126333",
+  "mercado": {
+   "n": 123,
+   "p25": 16190,
+   "mediana": 17375
+  },
+  "ratio_mercado": 1.118,
+  "motivo": "precio normal (112 % del cuartil bajo de 126333)"
+ },
+ {
+  "fecha": "2026-10-22T02:26:11.738880+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX 2026 NEW Stainless Steel 40mm GMT Master-II 126710BLNR Batman Box Warranty",
+  "total": 19777.77,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940032056489",
+  "item_id": "v1|940032056489|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 57,
+   "p25": 19950,
+   "mediana": 20550
+  },
+  "ratio_mercado": 0.991,
+  "motivo": "precio normal (99 % del cuartil bajo de 126710BLNR)"
  }
 ]
