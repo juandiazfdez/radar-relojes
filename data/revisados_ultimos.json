@@ -3,23 +3,6 @@
   "fecha": "2026-10-21T10:10:39.452016+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Precision Steel Watch",
-  "total": 3094.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267819639632",
-  "item_id": "v1|267819639632|0",
-  "triage": {
-   "modelo": "Rolex Oyster Precision (acero, esfera plateada, con fecha, vintage)",
-   "referencia": null,
-   "precio_justo_usd": 2000,
-   "interesante": false,
-   "nota": "Modelo vintage de acero con fecha; la referencia exacta no se distingue en la foto. Con estado Good, el precio pedido de US$3094 supera lo que suele venderse en EE. UU."
-  },
-  "motivo": "triage: Modelo vintage de acero con fecha; la referencia exacta no se distingue en la foto. Con estado Good, el precio pedido de US$3094 supera lo que suele venderse en EE. UU. (justo 2000)"
- },
- {
-  "fecha": "2026-10-21T10:10:39.452016+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Precision Steel Watch",
   "total": 3701.0,
   "condicion": "Pre-owned - Good",
   "url": "https://www.ebay.com/itm/820261976177",
@@ -11356,5 +11339,22 @@
    "nota": "Precio pedido cercano al valor de mercado secundario con caja y papeles; no hay descuento de al menos 15 %. No verificable solo por foto."
   },
   "motivo": "triage: Precio pedido cercano al valor de mercado secundario con caja y papeles; no hay descuento de al menos 15 %. No verificable solo por foto. (justo 3400)"
+ },
+ {
+  "fecha": "2026-10-22T12:41:34.892202+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Pasha W31029M7",
+  "total": 2860.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800825355518",
+  "item_id": "v1|800825355518|0",
+  "triage": {
+   "modelo": "Cartier Pasha de Cartier Chronograph 38 mm, acero, esfera plateada, brazalete de acero",
+   "referencia": "W31029M7",
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "Con caja Cartier visible; el precio pedido de US$2860 está por encima del valor de venta real estimado para estado Good y sin confirmar papeles."
+  },
+  "motivo": "triage: Con caja Cartier visible; el precio pedido de US$2860 está por encima del valor de venta real estimado para estado Good y sin confirmar papeles. (justo 2400)"
  }
 ]
