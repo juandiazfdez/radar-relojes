@@ -1,41 +1,5 @@
 [
  {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Breitling Chronomat vintage B13050",
-  "titulo": "Breitling Chronomat B13050 18K / SS Automatic Chronograph Men’s Wrist Watch",
-  "total": 2350.0,
-  "url": "https://www.ebay.com/itm/820225954937?_skw=breitling+chronomat+b13050&hash=itembef946d479:g:0KoAAeSwhDxqyto9",
-  "item_id": "v1|820225954937|0",
-  "referencia": "B13050",
-  "motivo": "precio normal (117 % de la mediana)",
-  "mercado": {
-   "consulta": "Breitling B13050",
-   "n": 7,
-   "mediana": 2010,
-   "p25": 1850,
-   "p75": 3563
-  },
-  "ratio_mercado": 1.169
- },
- {
-  "fecha": "2026-10-21T01:50:33.973683+00:00",
-  "modelo_guia": "Breitling Chronomat moderno (44 B01)",
-  "titulo": "Breitling Chronomat 01 AB0111 Limited Edition Steel 44mm Auto E-Bay Watch Box",
-  "total": 3995.0,
-  "url": "https://www.ebay.com/itm/227576299327?_skw=breitling+chronomat+44&hash=item34fc9abf3f:g:kY8AAeSwL8tq1s5w",
-  "item_id": "v1|227576299327|0",
-  "referencia": "AB0111",
-  "motivo": "precio normal (127 % del cuartil bajo)",
-  "mercado": {
-   "consulta": "breitling chronomat 44",
-   "n": 46,
-   "mediana": 3408,
-   "p25": 3150,
-   "p75": 3500
-  },
-  "ratio_mercado": 1.268
- },
- {
   "fecha": "2026-10-21T01:50:33.973683+00:00",
   "modelo_guia": "Rolex Oyster Perpetual",
   "titulo": "Rolex Oyster Perpetual 41 Lavendar 2026 B&P",
@@ -11285,5 +11249,39 @@
    "nota": "Precio pedido de US$1853 está por encima del valor de venta real de un Constellation de cuarzo de acero usado; no es una oportunidad."
   },
   "motivo": "triage: Precio pedido de US$1853 está por encima del valor de venta real de un Constellation de cuarzo de acero usado; no es una oportunidad. (justo 1200)"
+ },
+ {
+  "fecha": "2026-10-22T03:56:24.400503+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Planet Ocean 600M '2014 Sochi Olympic Games",
+  "total": 4100.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327417340241",
+  "item_id": "v1|327417340241|0",
+  "triage": {
+   "modelo": "Omega Seamaster Planet Ocean 600M edición Sochi 2014 Juegos Olímpicos",
+   "referencia": null,
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "Se ve la caja original con el logo de Sochi 2014 y Omega, pero la referencia exacta no es verificable en la foto. Precio de venta cerrada estimado para acero en buen estado con caja; el pedido de 4100 USD no está 15 % por debajo."
+  },
+  "motivo": "triage: Se ve la caja original con el logo de Sochi 2014 y Omega, pero la referencia exacta no es verificable en la foto. Precio de venta cerrada estimado para acero en buen estado con caja; el pedido de 4100 USD no está 15 % por debajo. (justo 3900)"
+ },
+ {
+  "fecha": "2026-10-22T03:56:24.400503+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Planet Ocean 600m Orange Chronograph Box Paper Preserved",
+  "total": 4249.5,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820264707996",
+  "item_id": "v1|820264707996|0",
+  "triage": {
+   "modelo": "Omega Seamaster Planet Ocean 600M Chronograph, bisel naranja, esfera negra, correa de piel",
+   "referencia": "2909.50.91 (probable; verificar en el reverso de la caja o en los papeles)",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Precio pedido de 4250 USD por encima del valor de venta cerrada en EE. UU. para este modelo con caja y papeles, por lo que no cumple el umbral del 15 % de descuento."
+  },
+  "motivo": "triage: Precio pedido de 4250 USD por encima del valor de venta cerrada en EE. UU. para este modelo con caja y papeles, por lo que no cumple el umbral del 15 % de descuento. (justo 3500)"
  }
 ]
