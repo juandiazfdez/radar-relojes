@@ -2,40 +2,6 @@
  {
   "fecha": "2026-10-21T10:10:39.452016+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Pasha De Cartier Automatic Stainless Steel And Alligator Watch",
-  "total": 3672.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820261975569",
-  "item_id": "v1|820261975569|0",
-  "triage": {
-   "modelo": "Cartier Pasha de Cartier Automatic 35 mm, acero con correa de caimán roja",
-   "referencia": "Probablemente 2324 o W31074M7 (no verificable en la foto)",
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta real de un Pasha 35 mm de acero usado en estado Good; sin caja ni papeles visibles."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta real de un Pasha 35 mm de acero usado en estado Good; sin caja ni papeles visibles. (justo 2600)"
- },
- {
-  "fecha": "2026-10-21T10:10:39.452016+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Solo Quartz Stainless Steel And Leather Watch",
-  "total": 3500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820261975364",
-  "item_id": "v1|820261975364|0",
-  "triage": {
-   "modelo": "Cartier Tank Solo cuarzo, acero y correa de piel",
-   "referencia": "W5200003 (probable, verificar en el caso)",
-   "precio_justo_usd": 2000,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de reventa de este modelo de cuarzo en acero, sin caja ni papeles confirmados. Interesante solo si se llegara a precios cercanos a 1700 USD."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de reventa de este modelo de cuarzo en acero, sin caja ni papeles confirmados. Interesante solo si se llegara a precios cercanos a 1700 USD. (justo 2000)"
- },
- {
-  "fecha": "2026-10-21T10:10:39.452016+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Pasha De Cartier Automatic Stainless Steel Watch",
   "total": 2634.0,
   "condicion": "Pre-owned - Good",
@@ -11362,5 +11328,39 @@
   },
   "ratio_mercado": 1.125,
   "motivo": "precio normal (112 % del cuartil bajo de 310.30.42.50.04.001)"
+ },
+ {
+  "fecha": "2026-10-22T14:11:35.382793+00:00",
+  "marca": "Rolex",
+  "titulo": "1968 Rolex Oyster Perpetual Date 1500 Chronometer Stainless Steel Wristwatch",
+  "total": 3499.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137865822010",
+  "item_id": "v1|137865822010|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date (vintage, esfera champagne con indicadores de bastón)",
+   "referencia": "1500",
+   "precio_justo_usd": 2900,
+   "interesante": false,
+   "nota": "Precio pedido de 3499 USD supera el valor de venta real estimado para un 1500 de finales de los 60, en estado excelente; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido de 3499 USD supera el valor de venta real estimado para un 1500 de finales de los 60, en estado excelente; no hay descuento suficiente. (justo 2900)"
+ },
+ {
+  "fecha": "2026-10-22T14:11:35.382793+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Automatic Watch 4072 Stainless Steel – Box Included – Pre-Owned",
+  "total": 9950.17,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407309050445",
+  "item_id": "v1|407309050445|0",
+  "triage": {
+   "modelo": "Cartier Santos de Cartier Automatic, caja grande (LM), acero, esfera blanca con números romanos y agujas azules",
+   "referencia": "WSSA0029 (probable; el título dice 4072, que no corresponde a esta línea)",
+   "precio_justo_usd": 6800,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de mercado usado con caja; el número de referencia del título parece erróneo y conviene verificarlo."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de mercado usado con caja; el número de referencia del título parece erróneo y conviene verificarlo. (justo 6800)"
  }
 ]
