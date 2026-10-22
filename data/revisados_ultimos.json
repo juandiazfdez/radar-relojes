@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-21T10:10:39.452016+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date Automatic Stainless Steel Watch",
-  "total": 4506.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820261975739",
-  "item_id": "v1|820261975739|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date, esfera negra, bisel liso, 34 mm (aparente)",
-   "referencia": "15200 (probable)",
-   "precio_justo_usd": 4900,
-   "interesante": false,
-   "nota": "Referencia estimada solo por la imagen; sin número de serie ni fotos de caja, papeles ni movimiento. El precio pedido está cerca del valor de mercado, no 15 % por debajo."
-  },
-  "motivo": "triage: Referencia estimada solo por la imagen; sin número de serie ni fotos de caja, papeles ni movimiento. El precio pedido está cerca del valor de mercado, no 15 % por debajo. (justo 4900)"
- },
- {
-  "fecha": "2026-10-21T10:10:39.452016+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Oyster Precision Steel Watch",
   "total": 2444.0,
   "condicion": "Pre-owned - Good",
@@ -11356,5 +11339,22 @@
    "nota": "Precio pedido de 2220 USD con envío supera el valor de venta de un usado en buen estado; no hay descuento frente al mercado."
   },
   "motivo": "triage: Precio pedido de 2220 USD con envío supera el valor de venta de un usado en buen estado; no hay descuento frente al mercado. (justo 1650)"
+ },
+ {
+  "fecha": "2026-10-22T13:26:35.763627+00:00",
+  "marca": "Panerai",
+  "titulo": "Panerai Submersible Luminor 47 3 Days Automatic Carbotech / Black PAM00616",
+  "total": 8400.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128150371490",
+  "item_id": "v1|128150371490|0",
+  "referencia": "PAM00616",
+  "mercado": {
+   "n": 9,
+   "p25": 8495,
+   "mediana": 8565
+  },
+  "ratio_mercado": 0.989,
+  "motivo": "precio normal (99 % del cuartil bajo de PAM00616)"
  }
 ]
