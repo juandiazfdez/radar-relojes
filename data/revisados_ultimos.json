@@ -1,166 +1,5 @@
 [
  {
-  "fecha": "2026-10-21T15:10:50.121530+00:00",
-  "marca": "Omega",
-  "titulo": "1966 Omega Constellation 18k Gold & Steel Automatic Watch, 7X Signed 168.004",
-  "total": 3000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407306557155",
-  "item_id": "v1|407306557155|0",
-  "triage": {
-   "modelo": "Omega Constellation Automatic (bisel de oro, caja de acero, esfera plateada con indices de barra y ventana de fecha)",
-   "referencia": "168.004",
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "Precio pedido de US$3000 esta por encima del valor de mercado para esta referencia en buen estado; no cumple el umbral de compra."
-  },
-  "motivo": "triage: Precio pedido de US$3000 esta por encima del valor de mercado para esta referencia en buen estado; no cumple el umbral de compra. (justo 2200)"
- },
- {
-  "fecha": "2026-10-21T15:10:50.121530+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Planet Ocean Stainless Steel Watch 232.30.46.21.01.001",
-  "total": 4450.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880038000325",
-  "item_id": "v1|880038000325|0",
-  "referencia": "232.30.46.21.01.001",
-  "mercado": {
-   "n": 8,
-   "p25": 4500,
-   "mediana": 4850
-  },
-  "ratio_mercado": 0.989,
-  "motivo": "precio normal (99 % del cuartil bajo de 232.30.46.21.01.001)"
- },
- {
-  "fecha": "2026-10-21T15:10:50.121530+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Navitimer 125th Anniversary Edition \"2009 - LE\" A2632213/B944",
-  "total": 5388.94,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336855759762",
-  "item_id": "v1|336855759762|0",
-  "referencia": "A2632213",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Breitling Navitimer 125th Anniversary Edition (2009, edición limitada)",
-   "referencia": "A2632213/B944",
-   "precio_justo_usd": 5800,
-   "interesante": false,
-   "nota": "Precio pedido unos 7 % por debajo de la estimación; no cumple el umbral del 15 %. Verificar referencia y papeles."
-  },
-  "motivo": "triage: Precio pedido unos 7 % por debajo de la estimación; no cumple el umbral del 15 %. Verificar referencia y papeles. (justo 5800)"
- },
- {
-  "fecha": "2026-10-21T15:10:50.121530+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Chronomat Evolution A13356 Gray 44mm Steel Black Leather Watch",
-  "total": 2543.29,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900030154760",
-  "item_id": "v1|900030154760|0",
-  "referencia": "A13356",
-  "mercado": {
-   "n": 38,
-   "p25": 3022,
-   "mediana": 3642
-  },
-  "ratio_mercado": 0.842,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 2600,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Usado, bueno a muy bueno: cristal rayado junto al fechador, bisel con marcas y rayas finas, correa con desgaste en las pestañas"
-  },
-  "ratio_justo": 0.978,
-  "motivo": "precio normal segun revision (98 % del justo 2600)"
- },
- {
-  "fecha": "2026-10-21T15:10:50.121530+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Formula 1 CAZ2015 BA0876 Chronograph 44mm Automatic Watch",
-  "total": 2099.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800821583201",
-  "item_id": "v1|800821583201|0",
-  "referencia": "CAZ2015",
-  "mercado": {
-   "n": 2,
-   "p25": 1700,
-   "mediana": 1750
-  },
-  "triage": {
-   "modelo": "TAG Heuer Formula 1 Chronograph de acero con esfera azul (cuarzo, aparentemente)",
-   "referencia": "CAZ2015 (según el listado; no verificable en la imagen)",
-   "precio_justo_usd": 500,
-   "interesante": false,
-   "nota": "El prefijo CAZ corresponde a calibre de cuarzo, pero el título dice 'Automatic', así que el listado es inconsistente. Aun con la referencia correcta, el precio pedido de US$2100 está muy por encima del valor de mercado de un F1 cronógrafo usado en acero."
-  },
-  "motivo": "triage: El prefijo CAZ corresponde a calibre de cuarzo, pero el título dice 'Automatic', así que el listado es inconsistente. Aun con la referencia correcta, el precio pedido de US$2100 está muy por encima del valor de mercado de un F1 cronógrafo usado en acero. (justo 500)"
- },
- {
-  "fecha": "2026-10-21T15:10:50.121530+00:00",
-  "marca": "Bulgari",
-  "titulo": "Bvlgari Serpenti Spiga Watch 102885 Black Ceramic and Rose Gold Black Lacquered",
-  "total": 17900.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/206643575269",
-  "item_id": "v1|206643575269|0",
-  "referencia": "102885",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Bulgari Serpenti Spiga, cerámica negra y oro rosa con bisel de diamantes, esfera negra lacada, doble vuelta",
-   "referencia": "102885",
-   "precio_justo_usd": 13500,
-   "interesante": false,
-   "nota": "Precio pedido de 17.900 USD por encima de la estimación de venta real en el mercado gris para una Serpenti Spiga nueva con caja y papeles; no cumple el umbral del 15 % de descuento."
-  },
-  "motivo": "triage: Precio pedido de 17.900 USD por encima de la estimación de venta real en el mercado gris para una Serpenti Spiga nueva con caja y papeles; no cumple el umbral del 15 % de descuento. (justo 13500)"
- },
- {
-  "fecha": "2026-10-21T15:25:49.735469+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 126660 Deepsea Seadweller D-Blue",
-  "total": 15025.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920061125060",
-  "item_id": "v1|920061125060|0",
-  "referencia": "126660",
-  "mercado": {
-   "n": 78,
-   "p25": 12949,
-   "mediana": 13999
-  },
-  "ratio_mercado": 1.16,
-  "motivo": "precio normal (116 % del cuartil bajo de 126660)"
- },
- {
-  "fecha": "2026-10-21T15:25:49.735469+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 126713GRNR GMT Master II 18K/SS on Jubilee",
-  "total": 24425.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920061124924",
-  "item_id": "v1|920061124924|0",
-  "referencia": "126713GRNR",
-  "mercado": {
-   "n": 36,
-   "p25": 22897,
-   "mediana": 23550
-  },
-  "ratio_mercado": 1.067,
-  "motivo": "precio normal (107 % del cuartil bajo de 126713GRNR)"
- },
- {
   "fecha": "2026-10-21T15:25:49.735469+00:00",
   "marca": "Rolex",
   "titulo": "Rolex 116900 Air King",
@@ -11519,5 +11358,165 @@
    "nota": "Precio algo por debajo del mercado, pero el descuento no llega al 15 % y la foto no permite verificar material ni autenticidad; pedir fotos del caso, número de serie y papeles."
   },
   "motivo": "triage: Precio algo por debajo del mercado, pero el descuento no llega al 15 % y la foto no permite verificar material ni autenticidad; pedir fotos del caso, número de serie y papeles. (justo 26000)"
+ },
+ {
+  "fecha": "2026-10-22T18:41:46.014960+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Automatic Stainless Steel 18K Yellow Gold Watch Silver",
+  "total": 8590.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/366752921801",
+  "item_id": "v1|366752921801|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 mm acero y oro amarillo de 18K, bisel acanalado, esfera plateada con índices de barra (probablemente años 70-80)",
+   "referencia": "1601 o 16013 (probable, requiere verificar número de serie y estado)",
+   "precio_justo_usd": 4800,
+   "interesante": false,
+   "nota": "Con estado Fair, el precio pedido de US$8590 queda muy por encima del precio de venta cerrada estimado para esta referencia vintage."
+  },
+  "motivo": "triage: Con estado Fair, el precio pedido de US$8590 queda muy por encima del precio de venta cerrada estimado para esta referencia vintage. (justo 4800)"
+ },
+ {
+  "fecha": "2026-10-22T18:41:46.014960+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise 1820 18k Yellow Gold Ladies Watch Running Fresh Battery",
+  "total": 3900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960101860617",
+  "item_id": "v1|960101860617|0",
+  "referencia": "1820",
+  "mercado": {
+   "n": 3,
+   "p25": 4250,
+   "mediana": 6818
+  },
+  "triage": {
+   "modelo": "Cartier Tank Française (oro amarillo 18k, cuarzo, tamaño pequeño/mediano)",
+   "referencia": "1820 (según el título, no verificable en la foto)",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "Precio pedido ~15% sobre nuestra estimación conservadora; sin caja ni papeles y con correa de piel posiblemente no original, no hay margen suficiente."
+  },
+  "motivo": "triage: Precio pedido ~15% sobre nuestra estimación conservadora; sin caja ni papeles y con correa de piel posiblemente no original, no hay margen suficiente. (justo 3400)"
+ },
+ {
+  "fecha": "2026-10-22T18:41:46.014960+00:00",
+  "marca": "Tudor",
+  "titulo": "2023 Tudor Black Bay Chrono M79360B Blue Boutique Edition - Full Set",
+  "total": 5455.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366752932791",
+  "item_id": "v1|366752932791|0",
+  "referencia": "M79360B",
+  "mercado": {
+   "n": 7,
+   "p25": 5136,
+   "mediana": 5265
+  },
+  "ratio_mercado": 1.062,
+  "motivo": "precio normal (106 % del cuartil bajo de M79360B)"
+ },
+ {
+  "fecha": "2026-10-22T18:41:46.014960+00:00",
+  "marca": "Omega",
+  "titulo": "2021 Omega Seamaster 300m Black Ceramic Men's Watch 210.30.42.20.01.001",
+  "total": 4495.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257812213503",
+  "item_id": "v1|257812213503|0",
+  "referencia": "210.30.42.20.01.001",
+  "mercado": {
+   "n": 11,
+   "p25": 5147,
+   "mediana": 5274
+  },
+  "ratio_mercado": 0.873,
+  "motivo": "precio normal (87 % del cuartil bajo de 210.30.42.20.01.001)"
+ },
+ {
+  "fecha": "2026-10-22T18:41:46.014960+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Jupiter Pilot A59028 With Box and Papers New Battery",
+  "total": 2199.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377590401800",
+  "item_id": "v1|377590401800|0",
+  "referencia": "A59028",
+  "mercado": {
+   "n": 1,
+   "p25": 1325,
+   "mediana": 1325
+  },
+  "triage": {
+   "modelo": "Breitling Jupiter Pilot (cronógrafo, caja y brazalete de acero, esfera plateada con subesferas)",
+   "referencia": "A59028 (según título, no verificable en la foto)",
+   "precio_justo_usd": 1700,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta estimado para un cuarzo de acero usado, aunque con caja y papeles. La referencia no se puede confirmar en la imagen."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta estimado para un cuarzo de acero usado, aunque con caja y papeles. La referencia no se puede confirmar en la imagen. (justo 1700)"
+ },
+ {
+  "fecha": "2026-10-22T18:41:46.014960+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling SuperOcean Blue Automatic Chronometer 44mm Men's Watch A17376211C1S1",
+  "total": 3990.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/327418440804",
+  "item_id": "v1|327418440804|0",
+  "referencia": "A17376211C1S1",
+  "mercado": {
+   "n": 8,
+   "p25": 3645,
+   "mediana": 3870
+  },
+  "ratio_mercado": 1.095,
+  "motivo": "precio normal (109 % del cuartil bajo de A17376211C1S1)"
+ },
+ {
+  "fecha": "2026-10-22T18:41:46.014960+00:00",
+  "marca": "Bulgari",
+  "titulo": "Bvlgari Solotempo ST29S Stainless Steel Watch White",
+  "total": 940.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366752915168",
+  "item_id": "v1|366752915168|0",
+  "referencia": "ST29S",
+  "mercado": {
+   "n": 4,
+   "p25": 750,
+   "mediana": 755
+  },
+  "triage": {
+   "modelo": "Bulgari Solotempo (acero, esfera blanca, cuarzo)",
+   "referencia": "ST29S",
+   "precio_justo_usd": 550,
+   "interesante": false,
+   "nota": "Solotempo de cuarzo en acero de uso habitual; el precio pedido de 940 USD queda muy por encima de lo que se vende realmente en el usado."
+  },
+  "motivo": "triage: Solotempo de cuarzo en acero de uso habitual; el precio pedido de 940 USD queda muy por encima de lo que se vende realmente en el usado. (justo 550)"
+ },
+ {
+  "fecha": "2026-10-22T18:41:46.014960+00:00",
+  "marca": "IWC",
+  "titulo": "2024 IWC Pilot’s Watch Automatic TOP GUN IW326906 Full Set Excellent",
+  "total": 6197.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128150772430",
+  "item_id": "v1|128150772430|0",
+  "referencia": "IW326906",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "IWC Pilot's Watch Automatic TOP GUN (caja de cerámica negra, esfera negra)",
+   "referencia": "IW326906 (según el título; verificar en el reverso de la caja o el cierre)",
+   "precio_justo_usd": 5900,
+   "interesante": false,
+   "nota": "Reloj de producción reciente con caja y papeles; el precio pedido de 6197 USD con envío está por encima del rango de venta real, así que no cumple el umbral del 15 %."
+  },
+  "motivo": "triage: Reloj de producción reciente con caja y papeles; el precio pedido de 6197 USD con envío está por encima del rango de venta real, así que no cumple el umbral del 15 %. (justo 5900)"
  }
 ]
