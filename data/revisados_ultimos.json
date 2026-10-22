@@ -2,74 +2,6 @@
  {
   "fecha": "2026-10-21T13:55:49.214912+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Datejust Automatic Stainless Steel Watch",
-  "total": 5525.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267819792441",
-  "item_id": "v1|267819792441|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Datejust 36 (esfera rosa/salmón con índices de bastón, bisel liso)",
-   "referencia": "16200 (probable; confirmar con fotos de la caja y el número de serie)",
-   "precio_justo_usd": 6800,
-   "interesante": false,
-   "nota": "Margen de unos 19 %, pero el título no indica referencia, las fotos son insuficientes para autenticar y la esfera rosa exige verificar originalidad antes de comprar."
-  },
-  "motivo": "triage: Margen de unos 19 %, pero el título no indica referencia, las fotos son insuficientes para autenticar y la esfera rosa exige verificar originalidad antes de comprar. (justo 6800)"
- },
- {
-  "fecha": "2026-10-21T13:55:49.214912+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Precision Steel Watch",
-  "total": 3393.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820262697609",
-  "item_id": "v1|820262697609|0",
-  "triage": {
-   "modelo": "Rolex Oyster Precision (acero, cuerda manual)",
-   "referencia": null,
-   "precio_justo_usd": 1500,
-   "interesante": false,
-   "nota": "Oyster Precision de acero y cuerda manual se vende por unos 800-2000 USD según referencia y año. El precio pedido de 3393 USD está muy por encima y el título no indica la referencia."
-  },
-  "motivo": "triage: Oyster Precision de acero y cuerda manual se vende por unos 800-2000 USD según referencia y año. El precio pedido de 3393 USD está muy por encima y el título no indica la referencia. (justo 1500)"
- },
- {
-  "fecha": "2026-10-21T13:55:49.214912+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date Automatic Stainless Steel Watch",
-  "total": 3116.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820262697343",
-  "item_id": "v1|820262697343|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date, acero inoxidable, automático",
-   "referencia": "115200 (probable, no confirmada)",
-   "precio_justo_usd": 6000,
-   "interesante": false,
-   "nota": "Precio pedido muy por debajo del mercado (~50 %) y el título no da referencia ni tamaño; sospecha fuerte de replica o listado engañoso. Solo revisar si el vendedor aporta fotos del movimiento, número de serie y papeles verificables."
-  },
-  "motivo": "triage: Precio pedido muy por debajo del mercado (~50 %) y el título no da referencia ni tamaño; sospecha fuerte de replica o listado engañoso. Solo revisar si el vendedor aporta fotos del movimiento, número de serie y papeles verificables. (justo 6000)"
- },
- {
-  "fecha": "2026-10-21T13:55:49.214912+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Precision Steel Watch",
-  "total": 3701.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267819792173",
-  "item_id": "v1|267819792173|0",
-  "triage": {
-   "modelo": "Rolex Oyster Precision (acero, cuerda manual)",
-   "referencia": null,
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "Modelo básico de cuerda manual; sin referencia visible. Precio pedido de 3701 USD está muy por encima del valor de venta real."
-  },
-  "motivo": "triage: Modelo básico de cuerda manual; sin referencia visible. Precio pedido de 3701 USD está muy por encima del valor de venta real. (justo 2200)"
- },
- {
-  "fecha": "2026-10-21T13:55:49.214912+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Oyster Precision Steel Watch",
   "total": 4820.0,
   "condicion": "Pre-owned - Good",
@@ -11405,5 +11337,79 @@
    "nota": "Modelo de producción actual; el precio pedido está apenas por debajo de la estimación conservadora de reventa y sin confirmar caja y papeles."
   },
   "motivo": "triage: Modelo de producción actual; el precio pedido está apenas por debajo de la estimación conservadora de reventa y sin confirmar caja y papeles. (justo 11000)"
+ },
+ {
+  "fecha": "2026-10-22T15:41:46.097699+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT Master II | Two Tone | Jubilee Bracelet | Ref. 16713 | W Serial (1995)",
+  "total": 10795.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287667093939",
+  "item_id": "v1|287667093939|0",
+  "referencia": "16713",
+  "mercado": {
+   "n": 39,
+   "p25": 12500,
+   "mediana": 13253
+  },
+  "ratio_mercado": 0.864,
+  "motivo": "precio normal (86 % del cuartil bajo de 16713)"
+ },
+ {
+  "fecha": "2026-10-22T15:41:46.097699+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex  Oyster Perpetual Datejust 18k Yellow Gold SS Mens Watch Original Owner",
+  "total": 7800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257811964856",
+  "item_id": "v1|257811964856|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 mm, acero y oro amarillo de 18k, bisel acanalado dorado, esfera negra con indices de bastón, brazalete Jubilee",
+   "referencia": "16233 (probable; confirmar con número de serie o fotos del caso)",
+   "precio_justo_usd": 7400,
+   "interesante": false,
+   "nota": "Precio en línea con el mercado para un 16233 de esfera negra usado en estado Good; el título de 'original owner' no añade valor verificable y no se ve si incluye caja y papeles."
+  },
+  "motivo": "triage: Precio en línea con el mercado para un 16233 de esfera negra usado en estado Good; el título de 'original owner' no añade valor verificable y no se ve si incluye caja y papeles. (justo 7400)"
+ },
+ {
+  "fecha": "2026-10-22T15:41:46.097699+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Speedmaster Professional Apollo XI 20th Anniversary |  Ref. 145.022",
+  "total": 7395.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287667142410",
+  "item_id": "v1|287667142410|0",
+  "triage": {
+   "modelo": "Omega Speedmaster Professional Moonwatch (esfera negra, bisel taquimétrico, brazalete de eslabones de acero)",
+   "referencia": "145.022 (según título; verificar si es la edición 20th Anniversary Apollo XI)",
+   "precio_justo_usd": 6000,
+   "interesante": false,
+   "nota": "La esfera parece estándar, sin los detalles conmemorativos de la edición Apollo XI 20th Anniversary; la referencia y el año deben verificarse. Precio pedido por encima de la estimación; no cumple el umbral del 15 %."
+  },
+  "motivo": "triage: La esfera parece estándar, sin los detalles conmemorativos de la edición Apollo XI 20th Anniversary; la referencia y el año deben verificarse. Precio pedido por encima de la estimación; no cumple el umbral del 15 %. (justo 6000)"
+ },
+ {
+  "fecha": "2026-10-22T15:41:46.097699+00:00",
+  "marca": "IWC",
+  "titulo": "IWC Ingenieur Mercedes AMG Exclusive Titanium  Men’s Automatic Watch - IW372504",
+  "total": 4629.95,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198736743026",
+  "item_id": "v1|198736743026|0",
+  "referencia": "IW372504",
+  "mercado": {
+   "n": 3,
+   "p25": 4000,
+   "mediana": 4390
+  },
+  "triage": {
+   "modelo": "IWC Ingenieur Mercedes-AMG Titanium (cronógrafo automático, esfera negra, correa de caucho)",
+   "referencia": "IW372504",
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta cerrada estimado para usado en buen estado; no alcanza el 15 % de descuento."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para usado en buen estado; no alcanza el 15 % de descuento. (justo 3900)"
  }
 ]
