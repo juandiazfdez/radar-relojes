@@ -5293,5 +5293,40 @@
   "fecha": "2026-10-22",
   "consulta": "IWC IW351302",
   "n": 0
+ },
+ "Tudor M25600TN|usado": {
+  "fecha": "2026-10-22",
+  "consulta": "Tudor M25600TN",
+  "n": 2,
+  "mediana": 4421,
+  "p25": 4290,
+  "p75": 4553,
+  "min": 4290,
+  "max": 4553
+ },
+ "Tudor 79000N|usado": {
+  "fecha": "2026-10-22",
+  "consulta": "Tudor 79000N",
+  "n": 4,
+  "mediana": 4202,
+  "p25": 4150,
+  "p75": 4400,
+  "min": 3845,
+  "max": 4400
+ },
+ "TAG Heuer CAZ10|usado": {
+  "fecha": "2026-10-22",
+  "consulta": "TAG Heuer CAZ10",
+  "n": 0
+ },
+ "TAG Heuer CAZ1114|usado": {
+  "fecha": "2026-10-22",
+  "consulta": "TAG Heuer CAZ1114",
+  "n": 2,
+  "mediana": 1057,
+  "p25": 1000,
+  "p75": 1115,
+  "min": 1000,
+  "max": 1115
  }
 }
