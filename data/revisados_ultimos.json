@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-21T09:55:38.682704+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex 2023 BATMAN GMT-Master II 126710BLNR Oyster Bracelet rolex warranty",
-  "total": 18019.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227576853960",
-  "item_id": "v1|227576853960|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 100,
-   "p25": 18995,
-   "mediana": 19712
-  },
-  "ratio_mercado": 0.949,
-  "motivo": "precio normal (95 % del cuartil bajo de 126710BLNR)"
- },
- {
-  "fecha": "2026-10-21T09:55:38.682704+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex sprite GMT-Master II 126720VTNR oyster rolex warranty",
   "total": 17299.0,
   "condicion": "Pre-owned - Good",
@@ -11338,5 +11321,22 @@
    "nota": "Precio pedido unos 6 % bajo la estimación; la foto no permite verificar los diamantes ni la autenticidad, y el margen no alcanza el 15 %."
   },
   "motivo": "triage: Precio pedido unos 6 % bajo la estimación; la foto no permite verificar los diamantes ni la autenticidad, y el margen no alcanza el 15 %. (justo 32000)"
+ },
+ {
+  "fecha": "2026-10-22T10:11:35.190314+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Authentic Men's Cartier Tank Watch Red Presentation Box Cartier Gift Bag",
+  "total": 2850.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800824879327",
+  "item_id": "v1|800824879327|0",
+  "triage": {
+   "modelo": "Cartier Tank Must (vermeil, chapado en oro, esfera blanca con números romanos, agujas azules, cuerda con cabujón azul, correa de piel marrón)",
+   "referencia": null,
+   "precio_justo_usd": 900,
+   "interesante": false,
+   "nota": "Tank Must de cuarzo en vermeil, no oro macizo; con caja roja sin papeles se vende en torno a 700-1.100 USD. El precio pedido de 2.850 USD está muy por encima del mercado."
+  },
+  "motivo": "triage: Tank Must de cuarzo en vermeil, no oro macizo; con caja roja sin papeles se vende en torno a 700-1.100 USD. El precio pedido de 2.850 USD está muy por encima del mercado. (justo 900)"
  }
 ]
