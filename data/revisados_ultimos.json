@@ -2,60 +2,6 @@
  {
   "fecha": "2026-10-20T23:26:35.081597+00:00",
   "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "Jaeger Lecoultre Watch Reverso Grande Date Q3001420 - Inventory 9297 Yellow Gold",
-  "total": 17199.0,
-  "url": "https://www.ebay.com/itm/287618589571?_skw=jaeger+lecoultre+reverso&hash=item42f7676383:g:hlEAAeSw~u5qv-Vc",
-  "item_id": "v1|287618589571|0",
-  "referencia": "Q3001420",
-  "motivo": "precio normal (132 % de la mediana)",
-  "mercado": {
-   "consulta": "jaeger lecoultre reverso",
-   "n": 111,
-   "mediana": 12990,
-   "p25": 9750,
-   "p75": 17500
-  },
-  "ratio_mercado": 1.324
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "Jaeger-LeCoultre Reverso Tribute Duoface Calender Men's Watch (Q3918420) 2026",
-  "total": 17495.0,
-  "url": "https://www.ebay.com/itm/127941704947?_skw=jaeger+lecoultre+reverso&hash=item1dc9eb7cf3:g:vUEAAeSwmmlqA1AH",
-  "item_id": "v1|127941704947|0",
-  "referencia": "Q3918420",
-  "motivo": "precio normal (129 % de la mediana)",
-  "mercado": {
-   "consulta": "jaeger lecoultre reverso",
-   "n": 39,
-   "mediana": 13566,
-   "p25": 12499,
-   "p75": 20300
-  },
-  "ratio_mercado": 1.29
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "Jaeger LeCoultre Reverso Grande Date 8 Day Yellow Gold Watch Q3002420 240.2.15",
-  "total": 17500.0,
-  "url": "https://www.ebay.com/itm/178331901785?_skw=jaeger+lecoultre+reverso&hash=item298568df59:g:y7QAAeSwQBhqX7VA",
-  "item_id": "v1|178331901785|0",
-  "referencia": "240.1.15, Q3001420, 240.2.15, Q3002420",
-  "motivo": "precio normal (135 % de la mediana)",
-  "mercado": {
-   "consulta": "jaeger lecoultre reverso",
-   "n": 111,
-   "mediana": 12990,
-   "p25": 9750,
-   "p75": 17500
-  },
-  "ratio_mercado": 1.347
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
   "titulo": "Jaeger LeCoultre Reverso Grande Date 8 Day Yellow Gold Watch Q3001420 240.1.15",
   "total": 17588.0,
   "url": "https://www.ebay.com/itm/117116927837?_skw=jaeger+lecoultre+reverso&hash=item1b44b67f5d:g:AHgAAeSwPsppyuAY",
@@ -11286,5 +11232,62 @@
    "nota": "Referencia correcta según el dial TOP GUN. Precio cercano al mercado de segunda mano, sin descuento de 15 % ni margen claro; el título indica 2026, pero no hay forma de verificarlo desde la foto."
   },
   "motivo": "triage: Referencia correcta según el dial TOP GUN. Precio cercano al mercado de segunda mano, sin descuento de 15 % ni margen claro; el título indica 2026, pero no hay forma de verificarlo desde la foto. (justo 6000)"
+ },
+ {
+  "fecha": "2026-10-22T02:56:12.617290+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Day-Date Diamond Accent 18k Yellow Gold Men's Wristwatch",
+  "total": 23099.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237136886652",
+  "item_id": "v1|237136886652|0",
+  "triage": {
+   "modelo": "Rolex Day-Date (President) en oro amarillo de 18k, bisel acanalado, esfera negra con marcadores de diamante",
+   "referencia": "18238 (probable; verificar número de serie y grabado en la caja)",
+   "precio_justo_usd": 24000,
+   "interesante": false,
+   "nota": "Precio pedido de 23.100 USD dentro del rango de mercado para esta referencia con esfera de diamantes; no hay descuento de al menos 15 %."
+  },
+  "motivo": "triage: Precio pedido de 23.100 USD dentro del rango de mercado para esta referencia con esfera de diamantes; no hay descuento de al menos 15 %. (justo 24000)"
+ },
+ {
+  "fecha": "2026-10-22T02:56:12.617290+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Fastrider Black Shield 42000C Men’s Original Box And Papers",
+  "total": 3650.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820264581646",
+  "item_id": "v1|820264581646|0",
+  "referencia": "42000C",
+  "mercado": {
+   "n": 1,
+   "p25": 3960,
+   "mediana": 3960
+  },
+  "triage": {
+   "modelo": "Tudor Fastrider Black Shield (cronógrafo, caja negra DLC, acentos rojos)",
+   "referencia": "42000CN (el listado dice 42000C, verificar)",
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "Precio pedido cercano al valor de mercado para este modelo con caja y papeles; no hay descuento de al menos 15 %. Confirmar la referencia exacta, que el reloj sea original y revisar el estado antes de comprar."
+  },
+  "motivo": "triage: Precio pedido cercano al valor de mercado para este modelo con caja y papeles; no hay descuento de al menos 15 %. Confirmar la referencia exacta, que el reloj sea original y revisar el estado antes de comprar. (justo 3600)"
+ },
+ {
+  "fecha": "2026-10-22T02:56:12.617290+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling U17329F41G1P1 41mm 18K & SS Navitimer",
+  "total": 7200.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/237136877587",
+  "item_id": "v1|237136877587|0",
+  "triage": {
+   "modelo": "Breitling Navitimer Automatic 41 bicolor (acero y oro rojo 18K), esfera plateada/crema",
+   "referencia": "U17329F41G1P1 (según el título; no verificable en la imagen)",
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "Precio pedido por encima del rango de mercado gris para un Navitimer 41 bicolor nuevo con caja y papeles; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido por encima del rango de mercado gris para un Navitimer 41 bicolor nuevo con caja y papeles; no hay descuento suficiente. (justo 6500)"
  }
 ]
