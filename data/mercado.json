@@ -4913,5 +4913,35 @@
   "fecha": "2026-10-22",
   "consulta": "Jaeger-LeCoultre Q1362501",
   "n": 0
+ },
+ "Tudor 74000N|usado": {
+  "fecha": "2026-10-22",
+  "consulta": "Tudor 74000N",
+  "n": 1,
+  "mediana": 2699,
+  "p25": 2699,
+  "p75": 2699,
+  "min": 2699,
+  "max": 2699
+ },
+ "Panerai PAM00243|usado": {
+  "fecha": "2026-10-22",
+  "consulta": "Panerai PAM00243",
+  "n": 2,
+  "mediana": 5432,
+  "p25": 5289,
+  "p75": 5575,
+  "min": 5289,
+  "max": 5575
+ },
+ "TAG Heuer CV2014|usado": {
+  "fecha": "2026-10-22",
+  "consulta": "TAG Heuer CV2014",
+  "n": 3,
+  "mediana": 2500,
+  "p25": 1799,
+  "p75": 2560,
+  "min": 1799,
+  "max": 2560
  }
 }
