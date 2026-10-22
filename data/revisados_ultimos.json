@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-10-21T07:25:39.402958+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Women's Watch, Super Ocean Heritage Automatic 36mm",
-  "total": 5100.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/407302013042",
-  "item_id": "v1|407302013042|0",
-  "triage": {
-   "modelo": "Breitling Superocean Heritage (posible edición con bisel verde y pulsera de malla; el tamaño parece mayor que 36 mm)",
-   "referencia": null,
-   "precio_justo_usd": 3400,
-   "interesante": false,
-   "nota": "Precio pedido por encima del mercado gris para un SH nuevo; además el título (36 mm, mujer) no coincide bien con la caja y el bisel que se ven en la foto."
-  },
-  "motivo": "triage: Precio pedido por encima del mercado gris para un SH nuevo; además el título (36 mm, mujer) no coincide bien con la caja y el bisel que se ven en la foto. (justo 3400)"
- },
- {
-  "fecha": "2026-10-21T07:25:39.402958+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Formula 1 Caliber 6 Men's Stainless Steel Automatic Watch W/ B&P",
-  "total": 2430.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227576662772",
-  "item_id": "v1|227576662772|0",
-  "triage": {
-   "modelo": "TAG Heuer Formula 1 Calibre 6 automático, acero, esfera azul, 43 mm (identificación visual aproximada)",
-   "referencia": null,
-   "precio_justo_usd": 950,
-   "interesante": false,
-   "nota": "Modelo de producción actual que se vende de segunda mano bien por debajo de retail; US$2430 con envío supera con creces el precio de cierre estimado para estado Good."
-  },
-  "motivo": "triage: Modelo de producción actual que se vende de segunda mano bien por debajo de retail; US$2430 con envío supera con creces el precio de cierre estimado para estado Good. (justo 950)"
- },
- {
   "fecha": "2026-10-21T07:40:38.937370+00:00",
   "marca": "Omega",
   "titulo": "[N. MINT] Omega DeVille Tank 20mm 10K Gold Filled Quartz Womens Watch Swiss-made",
@@ -11344,5 +11310,39 @@
    "nota": "El título dice oro 18K y acero, pero la foto muestra un bisel y una esfera que parecen acero; verificar material y referencia antes de comprar. Precio dentro del rango de mercado gris, sin descuento claro."
   },
   "motivo": "triage: El título dice oro 18K y acero, pero la foto muestra un bisel y una esfera que parecen acero; verificar material y referencia antes de comprar. Precio dentro del rango de mercado gris, sin descuento claro. (justo 6800)"
+ },
+ {
+  "fecha": "2026-10-22T05:41:24.375370+00:00",
+  "marca": "Omega",
+  "titulo": "2023 Omega Seamaster Diver No Wave 300M Blue 41mm Full Set 212.30.41.20.03.001",
+  "total": 3998.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860071297053",
+  "item_id": "v1|860071297053|0",
+  "referencia": "212.30.41.20.03.001",
+  "mercado": {
+   "n": 18,
+   "p25": 3895,
+   "mediana": 4262
+  },
+  "ratio_mercado": 1.026,
+  "motivo": "precio normal (103 % del cuartil bajo de 212.30.41.20.03.001)"
+ },
+ {
+  "fecha": "2026-10-22T05:41:24.375370+00:00",
+  "marca": "IWC",
+  "titulo": "IWC Pilot’s Watch Chronograph TOP GUN Ceramic 44mm | IW378901",
+  "total": 6195.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940032384847",
+  "item_id": "v1|940032384847|0",
+  "referencia": "IW378901",
+  "mercado": {
+   "n": 5,
+   "p25": 5400,
+   "mediana": 6490
+  },
+  "ratio_mercado": 1.147,
+  "motivo": "precio normal (115 % del cuartil bajo de IW378901)"
  }
 ]
