@@ -1,24 +1,6 @@
 [
  {
   "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "Jaeger-LeCoultre Reverso Tribute Q3918420 Mens Watch Box Papers",
-  "total": 17999.0,
-  "url": "https://www.ebay.com/itm/236357638027?_skw=jaeger+lecoultre+reverso&hash=item370803578b:g:eTQAAeSwFVNp09o8",
-  "item_id": "v1|236357638027|0",
-  "referencia": "Q3918420",
-  "motivo": "precio normal (139 % de la mediana)",
-  "mercado": {
-   "consulta": "jaeger lecoultre reverso",
-   "n": 111,
-   "mediana": 12970,
-   "p25": 9625,
-   "p75": 17199
-  },
-  "ratio_mercado": 1.388
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
   "modelo_guia": "Breitling Chronomat vintage B13050",
   "titulo": "Breitling Chronomat B13050 18K / SS Automatic Chronograph Men’s Wrist Watch",
   "total": 2350.0,
@@ -11286,5 +11268,22 @@
   },
   "ratio_mercado": 1.133,
   "motivo": "precio normal (113 % del cuartil bajo de 79830RB-0010)"
+ },
+ {
+  "fecha": "2026-10-22T03:41:24.239453+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Constellation Quartz Stainless Steel Watch",
+  "total": 1853.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820264676315",
+  "item_id": "v1|820264676315|0",
+  "triage": {
+   "modelo": "Omega Constellation Quartz, acero inoxidable, esfera plateada con índices romanos (aprox. 27 mm)",
+   "referencia": null,
+   "precio_justo_usd": 1200,
+   "interesante": false,
+   "nota": "Precio pedido de US$1853 está por encima del valor de venta real de un Constellation de cuarzo de acero usado; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$1853 está por encima del valor de venta real de un Constellation de cuarzo de acero usado; no es una oportunidad. (justo 1200)"
  }
 ]
