@@ -5648,5 +5648,30 @@
   "fecha": "2026-10-22",
   "consulta": "Bulgari DGP42SGCH42MM",
   "n": 0
+ },
+ "Rolex 126515LN|usado": {
+  "fecha": "2026-10-22",
+  "consulta": "Rolex 126515LN",
+  "n": 3,
+  "mediana": 55000,
+  "p25": 55000,
+  "p75": 95931,
+  "min": 55000,
+  "max": 95931
+ },
+ "Tudor M79833MN|nuevo": {
+  "fecha": "2026-10-22",
+  "consulta": "Tudor M79833MN",
+  "n": 1,
+  "mediana": 7640,
+  "p25": 7640,
+  "p75": 7640,
+  "min": 7640,
+  "max": 7640
+ },
+ "Tudor M79733N|nuevo": {
+  "fecha": "2026-10-22",
+  "consulta": "Tudor M79733N",
+  "n": 0
  }
 }
