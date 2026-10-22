@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-10-21T10:10:39.452016+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Professional 300M Quartz Stainless Steel Watch",
-  "total": 2574.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267819639498",
-  "item_id": "v1|267819639498|0",
-  "triage": {
-   "modelo": "Omega Seamaster Professional 300M Quartz (esfera azul, bisel giratorio, brazalete de acero)",
-   "referencia": "2262.80 (probable, sin confirmar en la imagen)",
-   "precio_justo_usd": 1500,
-   "interesante": false,
-   "nota": "Precio pedido de US$2574 muy por encima del valor de venta real de un cuarzo de acero usado en estado Good; no es oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$2574 muy por encima del valor de venta real de un cuarzo de acero usado en estado Good; no es oportunidad. (justo 1500)"
- },
- {
-  "fecha": "2026-10-21T10:10:39.452016+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Colt Automatic Stainless Steel Watch",
-  "total": 2706.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820261975893",
-  "item_id": "v1|820261975893|0",
-  "triage": {
-   "modelo": "Breitling Colt Chronograph Automatic (el título dice 'Colt Automatic', pero la esfera muestra subesferas de cronógrafo)",
-   "referencia": "A13350 (probable, a verificar)",
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "Precio pedido US$2706 por encima del rango de venta cerrada estimado; el título no coincide con el cronógrafo visible; verificar referencia, caja y papeles."
-  },
-  "motivo": "triage: Precio pedido US$2706 por encima del rango de venta cerrada estimado; el título no coincide con el cronógrafo visible; verificar referencia, caja y papeles. (justo 2300)"
- },
- {
   "fecha": "2026-10-21T10:40:49.030561+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Clash Bracelet by PG B60651 159580525 [U]",
@@ -11374,5 +11340,45 @@
    "nota": "Precio pedido ~21 % por encima de la estimación conservadora de venta cerrada para esta referencia de 1999 en estado excelente; la referencia es la indicada en el título y no pude verificarla con certeza en la imagen."
   },
   "motivo": "triage: Precio pedido ~21 % por encima de la estimación conservadora de venta cerrada para esta referencia de 1999 en estado excelente; la referencia es la indicada en el título y no pude verificarla con certeza en la imagen. (justo 3300)"
+ },
+ {
+  "fecha": "2026-10-22T14:41:35.038333+00:00",
+  "marca": "Rolex",
+  "titulo": "New Stickered 2010 Rolex Milgauss 116400 GV Black Green 40mm Steel Box Papers",
+  "total": 13253.07,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940033337691",
+  "item_id": "v1|940033337691|0",
+  "referencia": "116400",
+  "mercado": {
+   "n": 7,
+   "p25": 14069,
+   "mediana": 15995
+  },
+  "ratio_mercado": 0.942,
+  "motivo": "precio normal (94 % del cuartil bajo de 116400)"
+ },
+ {
+  "fecha": "2026-10-22T14:41:35.038333+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Formula 1 CAH1212. BA0862 Black Ceramic Quartz Chronograph  Watch",
+  "total": 900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920064274652",
+  "item_id": "v1|920064274652|0",
+  "referencia": "CAH1212.BA0862",
+  "mercado": {
+   "n": 7,
+   "p25": 1450,
+   "mediana": 1499
+  },
+  "ratio_mercado": 0.621,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 650,
+   "riesgo_autenticidad": "medio",
+   "estado": "Desgastado: cristal aparentemente agrietado, bisel rayado y esfera con rayón grande"
+  },
+  "motivo": "Claude descarto: La primera foto muestra una línea fina que parece una grieta en el cristal, a la izquierda de la esfera. El vendedor solo habla de 'rayones menores' en el cristal y de 'un rayón grande en la esfera'. Cambiar el cristal y reparar la esfera costaría mucho en un servicio autorizado.; Hay marcas visibles en el bisel cerca del 60 y rayones en el brazalete cerámico y la caja. En las fotos laterales se ven golpes y desgaste."
  }
 ]
