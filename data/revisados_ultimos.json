@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-21T09:55:38.682704+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date Automatic Stainless Steel Watch",
-  "total": 3555.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267819636996",
-  "item_id": "v1|267819636996|0",
-  "triage": {
-   "modelo": "Rolex Lady-Datejust automático de acero, bisel acanalado, esfera plateada y brazalete Jubilee (26 mm)",
-   "referencia": "6917 (probable, según el bisel acanalado y la esfera; verificar en mano)",
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "El título dice Oyster Perpetual Date, pero es un Lady-Datejust. El precio pedido de US$3555 supera el valor de venta estimado, sin margen de compra."
-  },
-  "motivo": "triage: El título dice Oyster Perpetual Date, pero es un Lady-Datejust. El precio pedido de US$3555 supera el valor de venta estimado, sin margen de compra. (justo 2800)"
- },
- {
-  "fecha": "2026-10-21T09:55:38.682704+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex 2023 BATMAN GMT-Master II 126710BLNR Oyster Bracelet rolex warranty",
   "total": 18019.0,
   "condicion": "Pre-owned - Good",
@@ -11338,5 +11321,22 @@
    "nota": "Precio pedido de US$999 muy por encima del valor de mercado de un De Ville vintage chapado en oro; sin referencia ni calibre verificables."
   },
   "motivo": "triage: Precio pedido de US$999 muy por encima del valor de mercado de un De Ville vintage chapado en oro; sin referencia ni calibre verificables. (justo 450)"
+ },
+ {
+  "fecha": "2026-10-22T09:56:35.106970+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX 18K White Gold Lady Factory Diamond Masterpiece 80299 Box & Papers, Mint",
+  "total": 29999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287665985898",
+  "item_id": "v1|287665985898|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust Masterpiece (oro blanco 18k, esfera y bisel con diamantes)",
+   "referencia": "80299",
+   "precio_justo_usd": 32000,
+   "interesante": false,
+   "nota": "Precio pedido unos 6 % bajo la estimación; la foto no permite verificar los diamantes ni la autenticidad, y el margen no alcanza el 15 %."
+  },
+  "motivo": "triage: Precio pedido unos 6 % bajo la estimación; la foto no permite verificar los diamantes ni la autenticidad, y el margen no alcanza el 15 %. (justo 32000)"
  }
 ]
