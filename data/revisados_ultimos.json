@@ -2,60 +2,6 @@
  {
   "fecha": "2026-10-20T23:26:35.081597+00:00",
   "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "Jaeger LeCoultre Reverso Duo Day Night Steel Watch 272.8.51 Q2718411 Papers",
-  "total": 12220.0,
-  "url": "https://www.ebay.com/itm/336787115521?_skw=jaeger+lecoultre+reverso&hash=item4e6a138e01:g:0qEAAeSwlo1qodA3",
-  "item_id": "v1|336787115521|0",
-  "referencia": "Q2718411",
-  "motivo": "precio normal (94 % de la mediana)",
-  "mercado": {
-   "consulta": "jaeger lecoultre reverso",
-   "n": 111,
-   "mediana": 12990,
-   "p25": 9750,
-   "p75": 17500
-  },
-  "ratio_mercado": 0.941
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "Jaeger LeCoultre Grande Reverso LE Steel Mens Watch 274.8.85 Q3748420 Papers",
-  "total": 12430.0,
-  "url": "https://www.ebay.com/itm/257752961276?_skw=jaeger+lecoultre+reverso&hash=item3c034610fc:g:3-MAAeSwSFFqY8bP",
-  "item_id": "v1|257752961276|0",
-  "referencia": "Q3748420",
-  "motivo": "precio normal (96 % de la mediana)",
-  "mercado": {
-   "consulta": "jaeger lecoultre reverso",
-   "n": 111,
-   "mediana": 12990,
-   "p25": 9750,
-   "p75": 17500
-  },
-  "ratio_mercado": 0.957
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "Reverso Tribute Duoface Small Seconds (Q3908410)",
-  "total": 12499.0,
-  "url": "https://www.ebay.com/itm/147346435652?_skw=jaeger+lecoultre+reverso&hash=item224e882e44:g:R08AAeSwJbRqyb-V",
-  "item_id": "v1|147346435652|0",
-  "referencia": "Q3908410",
-  "motivo": "precio normal (92 % de la mediana)",
-  "mercado": {
-   "consulta": "jaeger lecoultre reverso",
-   "n": 39,
-   "mediana": 13566,
-   "p25": 12499,
-   "p75": 20300
-  },
-  "ratio_mercado": 0.921
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
   "titulo": "Jaeger-LeCoultre JLC Reverso Classic Duoface Small Seconds Q3848423 NEW 2026",
   "total": 12745.0,
   "url": "https://www.ebay.com/itm/127413293111?_skw=jaeger+lecoultre+reverso&hash=item1daa6c9037:g:8AAAAeSwDNdo4csy",
@@ -11202,5 +11148,62 @@
    "nota": "Precio pedido de 2690 USD por encima del valor de venta real de este modelo de segunda mano; aunque el set completo ayuda, no hay descuento."
   },
   "motivo": "triage: Precio pedido de 2690 USD por encima del valor de venta real de este modelo de segunda mano; aunque el set completo ayuda, no hay descuento. (justo 2000)"
+ },
+ {
+  "fecha": "2026-10-22T00:11:11.893953+00:00",
+  "marca": "Rolex",
+  "titulo": "Stunning Condition Vintage 1968 Rolex 5500 Air King Mens Wrist Watch Box Papers",
+  "total": 4500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327417012895",
+  "item_id": "v1|327417012895|0",
+  "referencia": "5500",
+  "mercado": {
+   "n": 36,
+   "p25": 4000,
+   "mediana": 4490
+  },
+  "ratio_mercado": 1.125,
+  "motivo": "precio normal (112 % del cuartil bajo de 5500)"
+ },
+ {
+  "fecha": "2026-10-22T00:11:11.893953+00:00",
+  "marca": "Jaeger-LeCoultre",
+  "titulo": "Jaeger LeCoultre Polaris Mariner Date 42mm Blue Q9068180 Complete 2021",
+  "total": 10994.5,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168808485734",
+  "item_id": "v1|168808485734|0",
+  "referencia": "Q9068180",
+  "mercado": {
+   "n": 1,
+   "p25": 9450,
+   "mediana": 9450
+  },
+  "triage": {
+   "modelo": "Jaeger-LeCoultre Polaris Mariner Date 42 mm, esfera azul",
+   "referencia": "Q9068180",
+   "precio_justo_usd": 7800,
+   "interesante": false,
+   "nota": "Precio pedido de 10.994 USD supera claramente el valor de reventa de un Polaris Date de acero 2021 con caja y papeles; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de 10.994 USD supera claramente el valor de reventa de un Polaris Date de acero 2021 con caja y papeles; no es una oportunidad. (justo 7800)"
+ },
+ {
+  "fecha": "2026-10-22T00:11:11.893953+00:00",
+  "marca": "IWC",
+  "titulo": "Iwc Chronograph pilot 43mm",
+  "total": 2600.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407307410755",
+  "item_id": "v1|407307410755|0",
+  "triage": {
+   "modelo": "IWC Pilot's Chronograph 43 mm, esfera negra, correa de caucho (generación reciente, no verificable en foto)",
+   "referencia": null,
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio de ~35 % bajo el mercado para un IWC cronógrafo actual, sin caja ni papeles mencionados; sospecha de replica o listado engañoso. Pedir número de referencia, serie y fotos de caja y papeles."
+  },
+  "motivo": "triage: Precio de ~35 % bajo el mercado para un IWC cronógrafo actual, sin caja ni papeles mencionados; sospecha de replica o listado engañoso. Pedir número de referencia, serie y fotos de caja y papeles. (justo 4000)"
  }
 ]
