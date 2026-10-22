@@ -3,40 +3,6 @@
   "fecha": "2026-10-21T10:10:39.452016+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Precision Steel Watch",
-  "total": 3701.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820261976177",
-  "item_id": "v1|820261976177|0",
-  "triage": {
-   "modelo": "Rolex Oyster Precision (acero, cuerda manual)",
-   "referencia": null,
-   "precio_justo_usd": 1200,
-   "interesante": false,
-   "nota": "Modelo de entrada de cuerda manual, sin referencia en el título. Se vende normalmente entre US$800 y 1.500; el precio pedido de US$3.701 está muy por encima y el listado es poco fiable."
-  },
-  "motivo": "triage: Modelo de entrada de cuerda manual, sin referencia en el título. Se vende normalmente entre US$800 y 1.500; el precio pedido de US$3.701 está muy por encima y el listado es poco fiable. (justo 1200)"
- },
- {
-  "fecha": "2026-10-21T10:10:39.452016+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date Automatic Stainless Steel Watch",
-  "total": 3701.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267819639581",
-  "item_id": "v1|267819639581|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date (aparente generación vintage, años 1970)",
-   "referencia": "1500 (probable, no confirmada en la imagen)",
-   "precio_justo_usd": 5500,
-   "interesante": false,
-   "nota": "Precio 33 % bajo estimado, pero en Rolex vintage con estado 'Good' sin caja ni papeles esto sugiere esfera o piezas no originales, servicio dudoso o replica; verificar referencia, esfera y autenticidad antes de comprar."
-  },
-  "motivo": "triage: Precio 33 % bajo estimado, pero en Rolex vintage con estado 'Good' sin caja ni papeles esto sugiere esfera o piezas no originales, servicio dudoso o replica; verificar referencia, esfera y autenticidad antes de comprar. (justo 5500)"
- },
- {
-  "fecha": "2026-10-21T10:10:39.452016+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Precision Steel Watch",
   "total": 3409.0,
   "condicion": "Pre-owned - Good",
   "url": "https://www.ebay.com/itm/267819639576",
@@ -11356,5 +11322,39 @@
    "nota": "Con caja Cartier visible; el precio pedido de US$2860 está por encima del valor de venta real estimado para estado Good y sin confirmar papeles."
   },
   "motivo": "triage: Con caja Cartier visible; el precio pedido de US$2860 está por encima del valor de venta real estimado para estado Good y sin confirmar papeles. (justo 2400)"
+ },
+ {
+  "fecha": "2026-10-22T12:56:35.027128+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT II 40mm 126710BLRO Pepsi On Jubilee 2021",
+  "total": 24999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147647387327",
+  "item_id": "v1|147647387327|0",
+  "referencia": "126710BLRO",
+  "mercado": {
+   "n": 75,
+   "p25": 26999,
+   "mediana": 28745
+  },
+  "ratio_mercado": 0.926,
+  "motivo": "precio normal (93 % del cuartil bajo de 126710BLRO)"
+ },
+ {
+  "fecha": "2026-10-22T12:56:35.027128+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos XL W2SA0008 Box & Papers",
+  "total": 12850.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237137663494",
+  "item_id": "v1|237137663494|0",
+  "referencia": "W2SA0008",
+  "mercado": {
+   "n": 12,
+   "p25": 12700,
+   "mediana": 13348
+  },
+  "ratio_mercado": 1.012,
+  "motivo": "precio normal (101 % del cuartil bajo de W2SA0008)"
  }
 ]
