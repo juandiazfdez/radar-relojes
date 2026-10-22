@@ -1,200 +1,6 @@
 [
  {
   "fecha": "2026-10-21T14:55:48.677047+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex DateJust 68274 Silver Tapestry Midsize 18K Steel Jubilee 31mm Watch Box",
-  "total": 6929.64,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940030769725",
-  "item_id": "v1|940030769725|0",
-  "referencia": "68274",
-  "mercado": {
-   "n": 32,
-   "p25": 8395,
-   "mediana": 9439
-  },
-  "ratio_mercado": 0.825,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 5000,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Usado, buen estado visual con desgaste normal en caja y brazalete; con caja y librito, sin papeles"
-  },
-  "motivo": "Claude descarto: Las fotos parecen consistentes con un 68274 original: esfera tapestry con índices aplicados, texto 'Superlative Chronometer' correcto, 'T SWISS MADE T' y bisel estriado de oro blanco. No veo señales claras de réplica ni de esfera repintada, pero no hay macro de la esfera.; Faltan fotos del fondo de caja, del número de serie y de referencia entre los cuernos, y del movimiento. Sin ellas no se pueden confirmar las piezas originales (corona, tubo, brazalete, cierre)."
- },
- {
-  "fecha": "2026-10-21T14:55:48.677047+00:00",
-  "marca": "Rolex",
-  "titulo": "2020 Rolex DateJust 126334 Black Steel 18K Jubilee Fluted 41mm Watch Box Papers",
-  "total": 14069.18,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960096704719",
-  "item_id": "v1|960096704719|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 161,
-   "p25": 14999,
-   "mediana": 16000
-  },
-  "ratio_mercado": 0.938,
-  "motivo": "precio normal (94 % del cuartil bajo de 126334)"
- },
- {
-  "fecha": "2026-10-21T14:55:48.677047+00:00",
-  "marca": "Rolex",
-  "titulo": "2004 Rolex Submariner Date 16613 Serti Champagne Blue Steel 18K 40mm Box Papers",
-  "total": 11212.87,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267819829300",
-  "item_id": "v1|267819829300|0",
-  "referencia": "16613",
-  "mercado": {
-   "n": 141,
-   "p25": 12000,
-   "mediana": 12500
-  },
-  "ratio_mercado": 0.934,
-  "motivo": "precio normal (93 % del cuartil bajo de 16613)"
- },
- {
-  "fecha": "2026-10-21T14:55:48.677047+00:00",
-  "marca": "Cartier",
-  "titulo": "2026 Cartier Tank Must 41 x 31mm Stainless Steel WSTA0141",
-  "total": 5095.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880037976687",
-  "item_id": "v1|880037976687|0",
-  "referencia": "WSTA0141",
-  "mercado": {
-   "n": 1,
-   "p25": 5603,
-   "mediana": 5603
-  },
-  "triage": {
-   "modelo": "Cartier Tank Must 41x31 mm, acero inoxidable, cuarzo, correa de cuero negra",
-   "referencia": "WSTA0141",
-   "precio_justo_usd": 2400,
-   "interesante": false,
-   "nota": "Precio pedido de $5095 muy por encima del valor de mercado de un Tank Must de acero usado; el título indica año 2026, dato que conviene verificar."
-  },
-  "motivo": "triage: Precio pedido de $5095 muy por encima del valor de mercado de un Tank Must de acero usado; el título indica año 2026, dato que conviene verificar. (justo 2400)"
- },
- {
-  "fecha": "2026-10-21T14:55:48.677047+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Américaine 18K Rose Gold Leather Bracelet Watch 2503",
-  "total": 8440.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336855732595",
-  "item_id": "v1|336855732595|0",
-  "referencia": "2503",
-  "mercado": {
-   "n": 5,
-   "p25": 7500,
-   "mediana": 7657
-  },
-  "ratio_mercado": 1.125,
-  "motivo": "precio normal (113 % del cuartil bajo de 2503)"
- },
- {
-  "fecha": "2026-10-21T14:55:48.677047+00:00",
-  "marca": "Tudor",
-  "titulo": "July 2026 Tudor Black Bay Chrono 79360 N Flamingo Blue Jubilee 41mm Box Papers",
-  "total": 9989.67,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960096759970",
-  "item_id": "v1|960096759970|0",
-  "referencia": "79360",
-  "mercado": {
-   "n": 73,
-   "p25": 4950,
-   "mediana": 5700
-  },
-  "ratio_mercado": 2.018,
-  "motivo": "precio normal (202 % del cuartil bajo de 79360)"
- },
- {
-  "fecha": "2026-10-21T14:55:48.677047+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Pelagos 39 39mm Titanium M25407N-0001",
-  "total": 4895.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880037984462",
-  "item_id": "v1|880037984462|0",
-  "referencia": "M25407N-0001",
-  "mercado": {
-   "n": 6,
-   "p25": 4699,
-   "mediana": 4732
-  },
-  "ratio_mercado": 1.042,
-  "motivo": "precio normal (104 % del cuartil bajo de M25407N-0001)"
- },
- {
-  "fecha": "2026-10-21T14:55:48.677047+00:00",
-  "marca": "Tudor",
-  "titulo": "2022 Tudor Pelagos FXD 25707B/22 Navy Blue Titanium Fabric 42mm Box Papers",
-  "total": 4073.81,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940030774277",
-  "item_id": "v1|940030774277|0",
-  "referencia": "25707B",
-  "mercado": {
-   "n": 4,
-   "p25": 4334,
-   "mediana": 4367
-  },
-  "triage": {
-   "modelo": "Tudor Pelagos FXD (titanio, esfera azul, correa de tela)",
-   "referencia": "25707B/22",
-   "precio_justo_usd": 3600,
-   "interesante": false,
-   "nota": "El precio pedido de US$4074 está por encima de lo que esta referencia suele cerrar en el mercado secundario de EE. UU. en estado excelente con caja y papeles, así que no hay descuento real."
-  },
-  "motivo": "triage: El precio pedido de US$4074 está por encima de lo que esta referencia suele cerrar en el mercado secundario de EE. UU. en estado excelente con caja y papeles, así que no hay descuento real. (justo 3600)"
- },
- {
-  "fecha": "2026-10-21T14:55:48.677047+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Diver 300M Blue Bracelet 210.30.42.20.01.001 Complete 2025",
-  "total": 5805.0,
-  "condicion": "New with imperfections",
-  "url": "https://www.ebay.com/itm/227577157075",
-  "item_id": "v1|227577157075|0",
-  "referencia": "210.30.42.20.01.001",
-  "mercado": {
-   "n": 8,
-   "p25": 5990,
-   "mediana": 6299
-  },
-  "ratio_mercado": 0.969,
-  "motivo": "precio normal (97 % del cuartil bajo de 210.30.42.20.01.001)"
- },
- {
-  "fecha": "2026-10-21T14:55:48.677047+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Speedmaster 326.30.40.50.01.002",
-  "total": 4200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800817543657",
-  "item_id": "v1|800817543657|0",
-  "referencia": "326.30.40.50.01.002",
-  "mercado": {
-   "n": 2,
-   "p25": 4634,
-   "mediana": 4814
-  },
-  "triage": {
-   "modelo": "Omega Speedmaster Racing (automático, cronógrafo, acero, esfera negra)",
-   "referencia": "326.30.40.50.01.002",
-   "precio_justo_usd": 4400,
-   "interesante": false,
-   "nota": "Precio cerca del mercado para estado bueno con caja y papeles; no hay descuento suficiente (<15%)."
-  },
-  "motivo": "triage: Precio cerca del mercado para estado bueno con caja y papeles; no hay descuento suficiente (<15%). (justo 4400)"
- },
- {
-  "fecha": "2026-10-21T14:55:48.677047+00:00",
   "marca": "Jaeger-LeCoultre",
   "titulo": "LeCoultre Master Mariner Automatic 10kgf Fresh Service with Documentation! Vtg",
   "total": 2000.0,
@@ -11519,5 +11325,193 @@
    "nota": "Precio pedido cerca del valor de mercado de segunda mano para esta referencia; el descuento no llega al 15 % y el año 2025 no está verificado."
   },
   "motivo": "triage: Precio pedido cerca del valor de mercado de segunda mano para esta referencia; el descuento no llega al 15 % y el año 2025 no está verificado. (justo 4600)"
+ },
+ {
+  "fecha": "2026-10-22T18:11:46.024949+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 126710BLRO Pepsi Oyster Bracelet Full Set 2022 40mm 2022",
+  "total": 23149.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800826187829",
+  "item_id": "v1|800826187829|0",
+  "referencia": "126710BLRO",
+  "mercado": {
+   "n": 75,
+   "p25": 26999,
+   "mediana": 28745
+  },
+  "ratio_mercado": 0.857,
+  "motivo": "precio normal (86 % del cuartil bajo de 126710BLRO)"
+ },
+ {
+  "fecha": "2026-10-22T18:11:46.024949+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex GMT Master II “Batgirl”, Unworn Full Set, 126710BLNR Box & Papers",
+  "total": 21084.0,
+  "condicion": "New with imperfections",
+  "url": "https://www.ebay.com/itm/198736995873",
+  "item_id": "v1|198736995873|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 57,
+   "p25": 19950,
+   "mediana": 20550
+  },
+  "ratio_mercado": 1.057,
+  "motivo": "precio normal (106 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-10-22T18:11:46.024949+00:00",
+  "marca": "Rolex",
+  "titulo": "New 2026-Rolex date just 36 mm model 126231",
+  "total": 21500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/227578909126",
+  "item_id": "v1|227578909126|0",
+  "referencia": "126231",
+  "mercado": {
+   "n": 35,
+   "p25": 19860,
+   "mediana": 20958
+  },
+  "ratio_mercado": 1.083,
+  "motivo": "precio normal (108 % del cuartil bajo de 126231)"
+ },
+ {
+  "fecha": "2026-10-22T18:11:46.024949+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX Submariner 124060 41mm Black Ceramic Oyster Steel Full Set B&P’s",
+  "total": 12995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800826221595",
+  "item_id": "v1|800826221595|0",
+  "referencia": "124060",
+  "mercado": {
+   "n": 39,
+   "p25": 13590,
+   "mediana": 14250
+  },
+  "ratio_mercado": 0.956,
+  "motivo": "precio normal (96 % del cuartil bajo de 124060)"
+ },
+ {
+  "fecha": "2026-10-22T18:11:46.024949+00:00",
+  "marca": "Panerai",
+  "titulo": "Panerai Luminor 1950 3 Days GMT 44mm 2013 Black Arabic Steel PAM00347",
+  "total": 5495.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198736994561",
+  "item_id": "v1|198736994561|0",
+  "referencia": "PAM00347",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Panerai Luminor 1950 3 Days GMT 44mm, acero con brazalete, esfera negra con números arábigos",
+   "referencia": "PAM00347",
+   "precio_justo_usd": 6000,
+   "interesante": false,
+   "nota": "Precio cerca del mercado (~8% bajo estimado) sin margen de 15%; verificar autenticidad, caja, papeles y estado del brazalete."
+  },
+  "motivo": "triage: Precio cerca del mercado (~8% bajo estimado) sin margen de 15%; verificar autenticidad, caja, papeles y estado del brazalete. (justo 6000)"
+ },
+ {
+  "fecha": "2026-10-22T18:11:46.024949+00:00",
+  "marca": "Omega",
+  "titulo": "Vintage 1960’s Gold Omega Automatic 563 Date Watch w/ Original Omega Case",
+  "total": 925.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407309527780",
+  "item_id": "v1|407309527780|0",
+  "triage": {
+   "modelo": "Omega Automatic vintage de vestir, calibre 563, caja dorada, años 1960 (oro macizo no verificado)",
+   "referencia": null,
+   "precio_justo_usd": 700,
+   "interesante": false,
+   "nota": "Precio pedido por encima de la estimación conservadora; si la caja es de oro macizo podría valer más, pero el listado no lo confirma y el estado es 'Good' con correa de reemplazo."
+  },
+  "motivo": "triage: Precio pedido por encima de la estimación conservadora; si la caja es de oro macizo podría valer más, pero el listado no lo confirma y el estado es 'Good' con correa de reemplazo. (justo 700)"
+ },
+ {
+  "fecha": "2026-10-22T18:11:46.024949+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Speedmaster Men's Chronograph Automatic Watch 38mm 324.30.38.50.02.001",
+  "total": 4000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900033103162",
+  "item_id": "v1|900033103162|0",
+  "referencia": "324.30.38.50.02.001",
+  "mercado": {
+   "n": 1,
+   "p25": 5136,
+   "mediana": 5136
+  },
+  "triage": {
+   "modelo": "OMEGA Speedmaster Moonwatch 38 mm (acero, esfera plateada, brazalete de eslabones)",
+   "referencia": "324.30.38.50.02.001",
+   "precio_justo_usd": 4200,
+   "interesante": false,
+   "nota": "Precio ~5% por debajo del valor estimado; la foto es pequeña y no permite verificar taquímetro, estado ni papeles."
+  },
+  "motivo": "triage: Precio ~5% por debajo del valor estimado; la foto es pequeña y no permite verificar taquímetro, estado ni papeles. (justo 4200)"
+ },
+ {
+  "fecha": "2026-10-22T18:11:46.024949+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA DOMINOS WATCH",
+  "total": 5520.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/407309524091",
+  "item_id": "v1|407309524091|0",
+  "triage": {
+   "modelo": "No identificable (título 'OMEGA DOMINOS WATCH'; la foto muestra solo un estuche de Speedmaster)",
+   "referencia": null,
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "Omega no tiene un modelo 'Dominos' conocido y la foto solo muestra el estuche, no el reloj. Pide fotos del reloj, número de referencia y serie antes de valorarlo."
+  },
+  "motivo": "triage: Omega no tiene un modelo 'Dominos' conocido y la foto solo muestra el estuche, no el reloj. Pide fotos del reloj, número de referencia y serie antes de valorarlo. (justo 4500)"
+ },
+ {
+  "fecha": "2026-10-22T18:11:46.024949+00:00",
+  "marca": "Breitling",
+  "titulo": "BREITLING M13370 Super Avenger BLK Steel PVD 48MM Limited Edition Watch 563/3000",
+  "total": 4500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267820929523",
+  "item_id": "v1|267820929523|0",
+  "referencia": "M13370",
+  "mercado": {
+   "n": 3,
+   "p25": 3449,
+   "mediana": 3500
+  },
+  "triage": {
+   "modelo": "Breitling Super Avenger II Blacksteel (Limited Edition 3000 uds.), cronógrafo de acero con PVD negro, 48 mm, correa de caucho",
+   "referencia": "M13370",
+   "precio_justo_usd": 5300,
+   "interesante": false,
+   "nota": "Descuento de ~15% sobre un precio conservador, sin caja ni papeles mencionados; para una edición limitada tan vendida en falsificación, verificar autenticidad, número de serie y documentación antes de considerar la compra."
+  },
+  "motivo": "triage: Descuento de ~15% sobre un precio conservador, sin caja ni papeles mencionados; para una edición limitada tan vendida en falsificación, verificar autenticidad, número de serie y documentación antes de considerar la compra. (justo 5300)"
+ },
+ {
+  "fecha": "2026-10-22T18:11:46.024949+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG HEUER CONNECTED CALIBRE E5 Watch- 45mm, Titanium grade 2 coated black DLC",
+  "total": 2100.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336857653816",
+  "item_id": "v1|336857653816|0",
+  "triage": {
+   "modelo": "TAG Heuer Connected Calibre E5 (reloj inteligente), 45 mm, titanio grado 2 con recubrimiento DLC negro",
+   "referencia": null,
+   "precio_justo_usd": 1000,
+   "interesante": false,
+   "nota": "Es un smartwatch con poca demanda de reventa; el precio pedido de US$2100 supera ampliamente lo que se vende realmente, aunque sea en excelente estado con caja y papeles."
+  },
+  "motivo": "triage: Es un smartwatch con poca demanda de reventa; el precio pedido de US$2100 supera ampliamente lo que se vende realmente, aunque sea en excelente estado con caja y papeles. (justo 1000)"
  }
 ]
