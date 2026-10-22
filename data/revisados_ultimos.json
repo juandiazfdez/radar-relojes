@@ -1,259 +1,5 @@
 [
  {
-  "fecha": "2026-10-21T16:56:01.733645+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai Luminor 8 Day PAM 915 Complete Set Original Owner-Box, Papers, Warraty",
-  "total": 4505.68,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/377587775887",
-  "item_id": "v1|377587775887|0",
-  "referencia": "PAM00915",
-  "mercado": {
-   "n": 1,
-   "p25": 6025,
-   "mediana": 6025
-  },
-  "triage": {
-   "modelo": "Panerai Luminor 8 Days (Acciaio, 44 mm, esfera negra, correa de piel)",
-   "referencia": "PAM 915",
-   "precio_justo_usd": 5800,
-   "interesante": true,
-   "nota": "Precio ~22% bajo el mercado de segunda mano con caja y papeles. Verificar autenticidad, números de serie y papeles antes de comprar, porque Panerai es muy falsificado."
-  },
-  "claude": {
-   "veredicto": "alerta",
-   "precio_justo_usd": 5400,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado en buen estado: se ven rayones finos en la caja pulida y desgaste en la correa, más de lo que sugiere 'usado pocas veces'."
-  },
-  "ratio_justo": 0.834,
-  "motivo": "ALERTA"
- },
- {
-  "fecha": "2026-10-21T16:56:01.733645+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Seamaster Aqua Terra 150M Small Seconds 41MM | Ref. 220.10.41.21.02.004",
-  "total": 6470.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840045224822",
-  "item_id": "v1|840045224822|0",
-  "referencia": "220.10.41.21.02.004",
-  "mercado": {
-   "n": 7,
-   "p25": 5870,
-   "mediana": 6000
-  },
-  "ratio_mercado": 1.102,
-  "motivo": "precio normal (110 % del cuartil bajo de 220.10.41.21.02.004)"
- },
- {
-  "fecha": "2026-10-21T16:56:01.733645+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Professional 2583.80 Swiss Quartz Ladies Blue Watch With Box",
-  "total": 1295.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940030993611",
-  "item_id": "v1|940030993611|0",
-  "referencia": "2583.80",
-  "mercado": {
-   "n": 1,
-   "p25": 1499,
-   "mediana": 1499
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Professional 300M, versión damas, cuarzo, esfera azul con brazalete de acero",
-   "referencia": "2583.80",
-   "precio_justo_usd": 950,
-   "interesante": false,
-   "nota": "Precio pedido de US$1295 por encima del valor de venta real de esta referencia de cuarzo usada con caja; no hay descuento."
-  },
-  "motivo": "triage: Precio pedido de US$1295 por encima del valor de venta real de esta referencia de cuarzo usada con caja; no hay descuento. (justo 950)"
- },
- {
-  "fecha": "2026-10-21T16:56:01.733645+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Carrera WAR211C.BA0782 Gray 39MM Automatic Calibre 5 Men's Watch",
-  "total": 2095.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/227577294508",
-  "item_id": "v1|227577294508|0",
-  "referencia": "WAR211C.BA0782",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "TAG Heuer Carrera Calibre 5 automático, esfera gris, 39 mm, brazalete de acero",
-   "referencia": "WAR211C.BA0782",
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "El precio es unos 25 % inferior al de mercado para un usado excelente, lo que sugiere posible réplica o pieza incompleta; verificar autenticidad, caja y papeles antes de considerarlo."
-  },
-  "motivo": "triage: El precio es unos 25 % inferior al de mercado para un usado excelente, lo que sugiere posible réplica o pieza incompleta; verificar autenticidad, caja y papeles antes de considerarlo. (justo 2800)"
- },
- {
-  "fecha": "2026-10-21T16:56:01.733645+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Carrera WAR211A.FC6180 Calibre 5 Black Leather 39mm Men's Date Watch",
-  "total": 2495.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940030992793",
-  "item_id": "v1|940030992793|0",
-  "referencia": "WAR211A.FC6180",
-  "mercado": {
-   "n": 8,
-   "p25": 1745,
-   "mediana": 1805
-  },
-  "ratio_mercado": 1.43,
-  "motivo": "precio normal (143 % del cuartil bajo de WAR211A.FC6180)"
- },
- {
-  "fecha": "2026-10-21T17:11:01.246827+00:00",
-  "marca": "Rolex",
-  "titulo": "1990 Vintage Tudor Princess Oysterdate 92411 25mm Automatic By Rolex Gold Tone ",
-  "total": 1814.8,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327416544088",
-  "item_id": "v1|327416544088|0",
-  "triage": {
-   "modelo": "Tudor Princess Oysterdate (fabricado por Rolex), 25 mm, tono oro, bisel acanalado, esfera azul con marcadores tipo diamante, correa de cuero",
-   "referencia": "92411",
-   "precio_justo_usd": 1000,
-   "interesante": false,
-   "nota": "Modelo Tudor de gama media-baja con tono oro; la esfera con diamantes y el título 'By Rolex' pueden indicar modificación. Precio pedido muy por encima de lo que se vende."
-  },
-  "motivo": "triage: Modelo Tudor de gama media-baja con tono oro; la esfera con diamantes y el título 'By Rolex' pueden indicar modificación. Precio pedido muy por encima de lo que se vende. (justo 1000)"
- },
- {
-  "fecha": "2026-10-21T17:11:01.246827+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36 Stainless Steel Blue Motif Fluted Jubilee 36mm 126234 Full Set",
-  "total": 14500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307242657160",
-  "item_id": "v1|307242657160|0",
-  "referencia": "126234",
-  "mercado": {
-   "n": 50,
-   "p25": 14199,
-   "mediana": 15020
-  },
-  "ratio_mercado": 1.021,
-  "motivo": "precio normal (102 % del cuartil bajo de 126234)"
- },
- {
-  "fecha": "2026-10-21T17:11:01.246827+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai Luminor 1950 PAM00289 GMT 8 Day 18K Rose Gold Box & Papers Year 2008",
-  "total": 16064.95,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267819915789",
-  "item_id": "v1|267819915789|0",
-  "referencia": "PAM00289",
-  "mercado": {
-   "n": 4,
-   "p25": 17990,
-   "mediana": 18492
-  },
-  "triage": {
-   "modelo": "Panerai Luminor 1950 GMT 8 Days (caja de oro 18K)",
-   "referencia": "PAM00289",
-   "precio_justo_usd": 18500,
-   "interesante": false,
-   "nota": "Referencia del título plausible para la caja de oro 18K con GMT y reserva de 8 días; el precio pedido queda unos 13 % por debajo de la estimación, sin margen suficiente para considerarlo oportunidad."
-  },
-  "motivo": "triage: Referencia del título plausible para la caja de oro 18K con GMT y reserva de 8 días; el precio pedido queda unos 13 % por debajo de la estimación, sin margen suficiente para considerarlo oportunidad. (justo 18500)"
- },
- {
-  "fecha": "2026-10-21T17:11:01.246827+00:00",
-  "marca": "Omega",
-  "titulo": "omega seamaster planet ocean 600m 42mm 29015081",
-  "total": 3650.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147646145167",
-  "item_id": "v1|147646145167|0",
-  "triage": {
-   "modelo": "Omega Seamaster Planet Ocean 600M 42mm (Co-Axial, esfera negra, correa de caucho)",
-   "referencia": "2901.50.81",
-   "precio_justo_usd": 3400,
-   "interesante": false,
-   "nota": "Precio pedido de 3650 USD no está al menos 15 % bajo el valor de venta real para este modelo en estado Good; sin confirmar caja y papeles."
-  },
-  "motivo": "triage: Precio pedido de 3650 USD no está al menos 15 % bajo el valor de venta real para este modelo en estado Good; sin confirmar caja y papeles. (justo 3400)"
- },
- {
-  "fecha": "2026-10-21T17:11:01.246827+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Professional Diver 300M | 36.25mm I Ref No. 212.30.36.20.01.002",
-  "total": 3795.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287661188898",
-  "item_id": "v1|287661188898|0",
-  "referencia": "212.30.36.20.01.002",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Professional Diver 300M 36.25 mm, esfera negra, brazalete de acero",
-   "referencia": "212.30.36.20.01.002",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido de US$3795 está por encima del valor de venta cerrada de esta referencia en estado Good; no supera el umbral del 15 % de descuento. No se puede verificar autenticidad ni año solo con la foto."
-  },
-  "motivo": "triage: Precio pedido de US$3795 está por encima del valor de venta cerrada de esta referencia en estado Good; no supera el umbral del 15 % de descuento. No se puede verificar autenticidad ni año solo con la foto. (justo 3300)"
- },
- {
-  "fecha": "2026-10-21T17:11:01.246827+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Avenger Seawolf Automatic Titanium 3000m 44mm E17370",
-  "total": 2745.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237136159378",
-  "item_id": "v1|237136159378|0",
-  "referencia": "E17370",
-  "mercado": {
-   "n": 3,
-   "p25": 2500,
-   "mediana": 2800
-  },
-  "triage": {
-   "modelo": "Breitling Avenger Seawolf (automático, 44 mm)",
-   "referencia": "E17370",
-   "precio_justo_usd": 2100,
-   "interesante": false,
-   "nota": "El precio pedido de 2745 USD supera el valor de venta cerrada estimado para un Avenger Seawolf usado en Good; la foto parece acero, no titanio, lo que también bajaría el valor."
-  },
-  "motivo": "triage: El precio pedido de 2745 USD supera el valor de venta cerrada estimado para un Avenger Seawolf usado en Good; la foto parece acero, no titanio, lo que también bajaría el valor. (justo 2100)"
- },
- {
-  "fecha": "2026-10-21T17:11:01.246827+00:00",
-  "marca": "TAG Heuer",
-  "titulo": " TAG Heuer Carrera Calibre 16 Automatic Chronograph (Reference CV2A10) Used",
-  "total": 1634.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198734106694",
-  "item_id": "v1|198734106694|0",
-  "referencia": "CV2A10",
-  "mercado": {
-   "n": 9,
-   "p25": 2049,
-   "mediana": 2350
-  },
-  "ratio_mercado": 0.797,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 1550,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Usado, desgaste visible: bisel y deployante rayados, correa cuarteada, solo reloj sin caja ni papeles"
-  },
-  "ratio_justo": 1.054,
-  "motivo": "precio normal segun revision (105 % del justo 1550)"
- },
- {
   "fecha": "2026-10-21T17:11:01.246827+00:00",
   "marca": "Jaeger-LeCoultre",
   "titulo": "Jaeger-LeCoultre Grande Reverso White Gold Blue 30x48.5mm Q37335E1 Full Set",
@@ -11524,5 +11270,209 @@
    "nota": "Precio pedido de 4525 USD con envío, por encima del valor de venta cerrada estimado para este modelo usado con papeles; la foto muestra correa de piel, no brazalete, así que confirmar la referencia y el estado real."
   },
   "motivo": "triage: Precio pedido de 4525 USD con envío, por encima del valor de venta cerrada estimado para este modelo usado con papeles; la foto muestra correa de piel, no brazalete, así que confirmar la referencia y el estado real. (justo 3900)"
+ },
+ {
+  "fecha": "2026-10-22T20:11:46.627470+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41mm 2018 MOP Pearl Diamond Fluted Jubilee 126334",
+  "total": 17395.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198737279835",
+  "item_id": "v1|198737279835|0",
+  "referencia": "126334",
+  "mercado": {
+   "n": 161,
+   "p25": 14999,
+   "mediana": 16000
+  },
+  "ratio_mercado": 1.16,
+  "motivo": "precio normal (116 % del cuartil bajo de 126334)"
+ },
+ {
+  "fecha": "2026-10-22T20:11:46.627470+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer II 40mm Stainless Steel, Polar, 3186 Automatic Movement, M Series",
+  "total": 9100.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168810320270",
+  "item_id": "v1|168810320270|0",
+  "triage": {
+   "modelo": "Rolex Explorer II 40mm acero, esfera Polar, calibre 3186, serie M",
+   "referencia": "16570",
+   "precio_justo_usd": 8000,
+   "interesante": false,
+   "nota": "Precio pedido de 9100 USD supera el valor de venta cerrada estimado (~8000 USD) para esta referencia en estado Good; la foto muestra caja y pouch Rolex, pero no se distingue bien el reloj."
+  },
+  "motivo": "triage: Precio pedido de 9100 USD supera el valor de venta cerrada estimado (~8000 USD) para esta referencia en estado Good; la foto muestra caja y pouch Rolex, pero no se distingue bien el reloj. (justo 8000)"
+ },
+ {
+  "fecha": "2026-10-22T20:11:46.627470+00:00",
+  "marca": "Rolex",
+  "titulo": "42146: Rolex GMT-Master II \"Pepsi\", Ref. 16710, Circa 2003",
+  "total": 14000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900033301022",
+  "item_id": "v1|900033301022|0",
+  "referencia": "16710",
+  "mercado": {
+   "n": 76,
+   "p25": 13627,
+   "mediana": 14475
+  },
+  "ratio_mercado": 1.027,
+  "motivo": "precio normal (103 % del cuartil bajo de 16710)"
+ },
+ {
+  "fecha": "2026-10-22T20:11:46.627470+00:00",
+  "marca": "Cartier",
+  "titulo": "2005 Cartier Tank Francaise Large 28 x 32mm Stainless Steel/Yellow Gold 2302",
+  "total": 4195.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880041600391",
+  "item_id": "v1|880041600391|0",
+  "referencia": "2302",
+  "mercado": {
+   "n": 43,
+   "p25": 3855,
+   "mediana": 4650
+  },
+  "ratio_mercado": 1.088,
+  "motivo": "precio normal (109 % del cuartil bajo de 2302)"
+ },
+ {
+  "fecha": "2026-10-22T20:11:46.627470+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos 100 XL 2656",
+  "total": 4894.34,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237138251381",
+  "item_id": "v1|237138251381|0",
+  "referencia": "2656",
+  "mercado": {
+   "n": 26,
+   "p25": 5250,
+   "mediana": 5602
+  },
+  "ratio_mercado": 0.932,
+  "motivo": "precio normal (93 % del cuartil bajo de 2656)"
+ },
+ {
+  "fecha": "2026-10-22T20:11:46.627470+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Galbee W20056D6 Stainless Steel Ladies Watch Box Papers",
+  "total": 6666.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366753063004",
+  "item_id": "v1|366753063004|0",
+  "triage": {
+   "modelo": "Cartier Santos Galbée (dama, acero, cuarzo, esfera blanca con números romanos)",
+   "referencia": "W20056D6",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio pedido de US$6666 muy por encima del valor de venta real de esta referencia de dama en acero, incluso con caja y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$6666 muy por encima del valor de venta real de esta referencia de dama en acero, incluso con caja y papeles. (justo 3300)"
+ },
+ {
+  "fecha": "2026-10-22T20:11:46.627470+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise W51008Q3 Stainless Steel Ladies Watch Box Papers",
+  "total": 5555.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227579057919",
+  "item_id": "v1|227579057919|0",
+  "triage": {
+   "modelo": "Cartier Tank Française (dama, cuarzo, acero, esfera plateada con números romanos)",
+   "referencia": "W51008Q3",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Pedido de US$5555 más del doble del precio de venta cerrada de esta referencia de acero usada, aunque tenga caja y papeles. Descartado."
+  },
+  "motivo": "triage: Pedido de US$5555 más del doble del precio de venta cerrada de esta referencia de acero usada, aunque tenga caja y papeles. Descartado. (justo 2600)"
+ },
+ {
+  "fecha": "2026-10-22T20:11:46.627470+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 39mm M7939A1A0RU-0001 Jubilee Bracelet",
+  "total": 4825.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880041602116",
+  "item_id": "v1|880041602116|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 Burgundy 39mm (bisel y esfera burdeos, brazalete Jubilee)",
+   "referencia": "M7939A1A0RU-0001",
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "Precio pedido por encima del retail y del mercado gris para una Black Bay 58 Burgundy nueva con caja y papeles; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido por encima del retail y del mercado gris para una Black Bay 58 Burgundy nueva con caja y papeles; no es una oportunidad. (justo 3600)"
+ },
+ {
+  "fecha": "2026-10-22T20:11:46.627470+00:00",
+  "marca": "Omega",
+  "titulo": "2025 Omega Speedmaster Silver Snoopy Award Chrono 42mm Steel 310.32.42.50.02.001",
+  "total": 15895.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880041599767",
+  "item_id": "v1|880041599767|0",
+  "referencia": "310.32.42.50.02.001",
+  "mercado": {
+   "n": 38,
+   "p25": 15950,
+   "mediana": 16282
+  },
+  "ratio_mercado": 0.997,
+  "motivo": "precio normal (100 % del cuartil bajo de 310.32.42.50.02.001)"
+ },
+ {
+  "fecha": "2026-10-22T20:11:46.627470+00:00",
+  "marca": "Omega",
+  "titulo": "2026 Omega Speedmaster Anniversary Series Co-Axial Master Chronometer",
+  "total": 15995.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880041593219",
+  "item_id": "v1|880041593219|0",
+  "triage": {
+   "modelo": "Omega Speedmaster Anniversary Series (esfera blanca, bisel azul, correa azul)",
+   "referencia": null,
+   "precio_justo_usd": 9500,
+   "interesante": false,
+   "nota": "No puedo verificar la referencia ni el año 2026 desde la foto; el precio pedido supera con holgura lo que este modelo se vende en el mercado gris."
+  },
+  "motivo": "triage: No puedo verificar la referencia ni el año 2026 desde la foto; el precio pedido supera con holgura lo que este modelo se vende en el mercado gris. (justo 9500)"
+ },
+ {
+  "fecha": "2026-10-22T20:11:46.627470+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Seamaster Planet Ocean Diver 600M 45.5mm B+P 232.30.46.21.01.001 RETIRED",
+  "total": 4350.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227579062752",
+  "item_id": "v1|227579062752|0",
+  "referencia": "232.30.46.21.01.001",
+  "mercado": {
+   "n": 8,
+   "p25": 4500,
+   "mediana": 4850
+  },
+  "ratio_mercado": 0.967,
+  "motivo": "precio normal (97 % del cuartil bajo de 232.30.46.21.01.001)"
+ },
+ {
+  "fecha": "2026-10-22T20:11:46.627470+00:00",
+  "marca": "Jaeger-LeCoultre",
+  "titulo": "Jaeger-LeCoultre Reverso Classic Small Seconds Medium 3868520",
+  "total": 7769.85,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940033920028",
+  "item_id": "v1|940033920028|0",
+  "triage": {
+   "modelo": "Jaeger-LeCoultre Reverso Classic Medium Small Seconds, acero, esfera plateada, correa de piel negra",
+   "referencia": "Q3868520 (publicada como 3868520)",
+   "precio_justo_usd": 5500,
+   "interesante": false,
+   "nota": "Precio pedido de US$7770 por un modelo nuevo está muy por encima del mercado secundario (que suele estar 25-45 % bajo retail); no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$7770 por un modelo nuevo está muy por encima del mercado secundario (que suele estar 25-45 % bajo retail); no es una oportunidad. (justo 5500)"
  }
 ]
