@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-10-21T07:10:39.164919+00:00",
-  "marca": "Omega",
-  "titulo": "2026 Omega Seamaster Diver 300M 42mm 210.32.42.20.04.001 Full Set",
-  "total": 5497.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128147888000",
-  "item_id": "v1|128147888000|0",
-  "referencia": "210.32.42.20.04.001",
-  "mercado": {
-   "n": 13,
-   "p25": 4844,
-   "mediana": 4900
-  },
-  "ratio_mercado": 1.135,
-  "motivo": "precio normal (113 % del cuartil bajo de 210.32.42.20.04.001)"
- },
- {
-  "fecha": "2026-10-21T07:10:39.164919+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Aerospace Navitimer Titanium Analog Digital Quartz Watch RUNS New Batt",
-  "total": 1642.89,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960095310978",
-  "item_id": "v1|960095310978|0",
-  "triage": {
-   "modelo": "Breitling Aerospace (analógico-digital, cuarzo, caja de acero con bisel y detalles en oro)",
-   "referencia": "F56062 o similar (no verificable en la foto)",
-   "precio_justo_usd": 800,
-   "interesante": false,
-   "nota": "El título dice Navitimer y titanio, pero la foto muestra un Aerospace bicolor; el precio pedido de $1643 está muy por encima del valor de venta real."
-  },
-  "motivo": "triage: El título dice Navitimer y titanio, pero la foto muestra un Aerospace bicolor; el precio pedido de $1643 está muy por encima del valor de venta real. (justo 800)"
- },
- {
-  "fecha": "2026-10-21T07:25:39.402958+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Seamaster 2501.81 Automatic W/ B&P",
-  "total": 2530.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227576660576",
-  "item_id": "v1|227576660576|0",
-  "referencia": "2501.81",
-  "mercado": {
-   "n": 1,
-   "p25": 2299,
-   "mediana": 2299
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Automatic (esfera azul, brazalete de acero, con fecha)",
-   "referencia": "2501.81",
-   "precio_justo_usd": 1600,
-   "interesante": false,
-   "nota": "Referencia de la serie Seamaster 2501 de acero con esfera azul y fecha; el precio pedido de US$2530 queda muy por encima de lo que se vende realmente, incluso con caja y papeles."
-  },
-  "motivo": "triage: Referencia de la serie Seamaster 2501 de acero con esfera azul y fecha; el precio pedido de US$2530 queda muy por encima de lo que se vende realmente, incluso con caja y papeles. (justo 1600)"
- },
- {
   "fecha": "2026-10-21T07:25:39.402958+00:00",
   "marca": "Breitling",
   "titulo": "Breitling Women's Watch, Super Ocean Heritage Automatic 36mm",
@@ -11350,5 +11293,56 @@
    "nota": "La referencia no es legible en la foto; por el estilo de vestir vintage, el precio pedido de 1499 USD está muy por encima de lo que se vende realmente."
   },
   "motivo": "triage: La referencia no es legible en la foto; por el estilo de vestir vintage, el precio pedido de 1499 USD está muy por encima de lo que se vende realmente. (justo 600)"
+ },
+ {
+  "fecha": "2026-10-22T05:26:23.705291+00:00",
+  "marca": "Panerai",
+  "titulo": "Panerai Luminor 1950 3 Days Chrono Flyback Ceramica 44mm PAM00580 Black Full Set",
+  "total": 7995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880039833966",
+  "item_id": "v1|880039833966|0",
+  "referencia": "PAM00580",
+  "mercado": {
+   "n": 7,
+   "p25": 7995,
+   "mediana": 8440
+  },
+  "ratio_mercado": 1.0,
+  "motivo": "precio normal (100 % del cuartil bajo de PAM00580)"
+ },
+ {
+  "fecha": "2026-10-22T05:26:23.705291+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Constellation Globemaster 39mm Steel 18K Gold Silver Pie-Pan 2023 Leather ",
+  "total": 5480.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128147750067",
+  "item_id": "v1|128147750067|0",
+  "triage": {
+   "modelo": "Omega Constellation Globemaster 39 mm, acero y oro amarillo, esfera pie-pan plateada, correa de cuero",
+   "referencia": "130.20.39.21.02.001 (probable, sin confirmar)",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "El precio pedido está cerca del retail actual y por encima del mercado secundario para un Globemaster bicolor de cuero; no hay descuento suficiente."
+  },
+  "motivo": "triage: El precio pedido está cerca del retail actual y por encima del mercado secundario para un Globemaster bicolor de cuero; no hay descuento suficiente. (justo 4300)"
+ },
+ {
+  "fecha": "2026-10-22T05:26:23.705291+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling 18K & SS 41MM U17329F41G1P1",
+  "total": 7000.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/237136854800",
+  "item_id": "v1|237136854800|0",
+  "triage": {
+   "modelo": "Breitling Navitimer 41 Automatic",
+   "referencia": "U17329F41G1P1 (según título; la caja de la foto parece indicar U17325, no concluyente)",
+   "precio_justo_usd": 6800,
+   "interesante": false,
+   "nota": "El título dice oro 18K y acero, pero la foto muestra un bisel y una esfera que parecen acero; verificar material y referencia antes de comprar. Precio dentro del rango de mercado gris, sin descuento claro."
+  },
+  "motivo": "triage: El título dice oro 18K y acero, pero la foto muestra un bisel y una esfera que parecen acero; verificar material y referencia antes de comprar. Precio dentro del rango de mercado gris, sin descuento claro. (justo 6800)"
  }
 ]
