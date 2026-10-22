@@ -3,23 +3,6 @@
   "fecha": "2026-10-21T10:10:39.452016+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Precision Steel Watch",
-  "total": 2444.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267819639514",
-  "item_id": "v1|267819639514|0",
-  "triage": {
-   "modelo": "Rolex Oyster Precision (dama, acero, esfera plateada)",
-   "referencia": null,
-   "precio_justo_usd": 1500,
-   "interesante": false,
-   "nota": "Modelo vintage de dama en acero; la referencia no se distingue en la foto. Precio pedido muy por encima del valor de venta cerrada en EE. UU."
-  },
-  "motivo": "triage: Modelo vintage de dama en acero; la referencia no se distingue en la foto. Precio pedido muy por encima del valor de venta cerrada en EE. UU. (justo 1500)"
- },
- {
-  "fecha": "2026-10-21T10:10:39.452016+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Precision Steel Watch",
   "total": 3701.0,
   "condicion": "Pre-owned - Good",
   "url": "https://www.ebay.com/itm/267819639510",
@@ -11356,5 +11339,22 @@
   },
   "ratio_mercado": 0.989,
   "motivo": "precio normal (99 % del cuartil bajo de PAM00616)"
+ },
+ {
+  "fecha": "2026-10-22T13:41:35.235936+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Americaine Large Rose Gold Mens Watch W2609156",
+  "total": 10650.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257811814402",
+  "item_id": "v1|257811814402|0",
+  "referencia": "W2609156",
+  "mercado": {
+   "n": 5,
+   "p25": 9999,
+   "mediana": 10005
+  },
+  "ratio_mercado": 1.065,
+  "motivo": "precio normal (107 % del cuartil bajo de W2609156)"
  }
 ]
