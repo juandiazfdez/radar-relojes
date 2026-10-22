@@ -1,153 +1,5 @@
 [
  {
-  "fecha": "2026-10-21T15:55:48.941665+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX Orchid 18K Yellow Gold Hand Winding Womens Vintage Watch",
-  "total": 2500.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/206643646139",
-  "item_id": "v1|206643646139|0",
-  "triage": {
-   "modelo": "Rolex Orchid vintage de dama, cuerda manual, caja de oro amarillo",
-   "referencia": null,
-   "precio_justo_usd": 1900,
-   "interesante": false,
-   "nota": "Sin referencia visible y con posible chapado en vez de oro macizo 18K; el precio pedido de 2500 USD está por encima de lo que se vende en el mercado para estado Fair."
-  },
-  "motivo": "triage: Sin referencia visible y con posible chapado en vez de oro macizo 18K; el precio pedido de 2500 USD está por encima de lo que se vende en el mercado para estado Fair. (justo 1900)"
- },
- {
-  "fecha": "2026-10-21T15:55:48.941665+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Roadster W62016V3 2675 30mm Silver Steel Ladies Watch",
-  "total": 3825.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267819855479",
-  "item_id": "v1|267819855479|0",
-  "referencia": "2675",
-  "mercado": {
-   "n": 13,
-   "p25": 3658,
-   "mediana": 4700
-  },
-  "ratio_mercado": 1.046,
-  "motivo": "precio normal (105 % del cuartil bajo de 2675)"
- },
- {
-  "fecha": "2026-10-21T15:55:48.941665+00:00",
-  "marca": "Omega",
-  "titulo": "Omega De Ville Prestige Co-Axial Power Reserve 424.13.40.21.02.003",
-  "total": 2299.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920061187009",
-  "item_id": "v1|920061187009|0",
-  "referencia": "424.13.40.21.02.003",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Omega De Ville Prestige Co-Axial Power Reserve (esfera plateada, indicador de reserva de marcha)",
-   "referencia": "424.13.40.21.02.003",
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "Precio cercano al mercado de segunda mano para esta referencia de acero de 40 mm, sin ventaja clara de compra; no hay descuento de al menos 15 %."
-  },
-  "motivo": "triage: Precio cercano al mercado de segunda mano para esta referencia de acero de 40 mm, sin ventaja clara de compra; no hay descuento de al menos 15 %. (justo 2200)"
- },
- {
-  "fecha": "2026-10-21T15:55:48.941665+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Superocean Heritage II AB2020 46mm Black Steel Mens Watch Box Card",
-  "total": 3525.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257810034896",
-  "item_id": "v1|257810034896|0",
-  "referencia": "AB2020",
-  "mercado": {
-   "n": 6,
-   "p25": 3149,
-   "mediana": 3525
-  },
-  "ratio_mercado": 1.119,
-  "motivo": "precio normal (112 % del cuartil bajo de AB2020)"
- },
- {
-  "fecha": "2026-10-21T15:55:48.941665+00:00",
-  "marca": "IWC",
-  "titulo": "IWC Big Ingenieur Chronograph ref: IW378401 Automatic Stainless Steel - 7767",
-  "total": 6950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307242566847",
-  "item_id": "v1|307242566847|0",
-  "referencia": "IW378401",
-  "mercado": {
-   "n": 4,
-   "p25": 6550,
-   "mediana": 6672
-  },
-  "triage": {
-   "modelo": "IWC Big Ingenieur Chronograph (acero, esfera negra, automático)",
-   "referencia": "IW378401",
-   "precio_justo_usd": 5800,
-   "interesante": false,
-   "nota": "Precio pedido de 6950 USD supera el valor de reventa estimado para estado Good; no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido de 6950 USD supera el valor de reventa estimado para estado Good; no hay descuento suficiente. (justo 5800)"
- },
- {
-  "fecha": "2026-10-21T16:11:01.692702+00:00",
-  "marca": "Rolex",
-  "titulo": "1920's Circa Rolex 9 Count Gold Watch ",
-  "total": 1882.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/940030902630",
-  "item_id": "v1|940030902630|0",
-  "triage": {
-   "modelo": "Rolex de dama vintage c. 1920, caja y pulsera de oro, esfera blanca con numerales arábigos",
-   "referencia": null,
-   "precio_justo_usd": 1200,
-   "interesante": false,
-   "nota": "La foto muestra el movimiento suelto junto a la caja, así que no se puede verificar la firma ni que el reloj esté completo. Aunque sea auténtico, ese estado baja mucho el precio frente a una pieza completa."
-  },
-  "motivo": "triage: La foto muestra el movimiento suelto junto a la caja, así que no se puede verificar la firma ni que el reloj esté completo. Aunque sea auténtico, ese estado baja mucho el precio frente a una pieza completa. (justo 1200)"
- },
- {
-  "fecha": "2026-10-21T16:11:01.692702+00:00",
-  "marca": "Tudor",
-  "titulo": "2025 Tudor Black-Bay Stainless Steel Blue 39mm Automatic Men’s Watch 79030B",
-  "total": 3495.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267819868356",
-  "item_id": "v1|267819868356|0",
-  "referencia": "79030B",
-  "mercado": {
-   "n": 7,
-   "p25": 3400,
-   "mediana": 3499
-  },
-  "ratio_mercado": 1.028,
-  "motivo": "precio normal (103 % del cuartil bajo de 79030B)"
- },
- {
-  "fecha": "2026-10-21T16:11:01.692702+00:00",
-  "marca": "Tudor",
-  "titulo": "9/2026 Tudor Pelagos FXD GMT Titanium Black 42mm Auto Mens Watch 2542G247NU",
-  "total": 5395.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257810043123",
-  "item_id": "v1|257810043123|0",
-  "triage": {
-   "modelo": "Tudor Pelagos FXD GMT Titanium, esfera azul, correa de tela gris, 42 mm",
-   "referencia": "M25707-0001 (probable; el título indica 2542G247NU, que no coincide con el formato de referencia de Tudor)",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "El precio pedido supera el retail actual (~US$4.400-4.600) y el mercado de segunda mano. Además, la referencia del título no coincide con el modelo visible."
-  },
-  "motivo": "triage: El precio pedido supera el retail actual (~US$4.400-4.600) y el mercado de segunda mano. Además, la referencia del título no coincide con el modelo visible. (justo 4000)"
- },
- {
   "fecha": "2026-10-21T16:11:01.692702+00:00",
   "marca": "Omega",
   "titulo": "OMEGA Seamaster Professional 2561.80 Midsize Blue Men's Swiss Quartz Steel Watch",
@@ -11560,5 +11412,153 @@
    "nota": "El título dice Master Geographic, pero la imagen no muestra su esfera de mapa mundi. Además, 'seller refurbished' y la foto de baja calidad exigen verificar el modelo y la autenticidad antes de cualquier oferta."
   },
   "motivo": "triage: El título dice Master Geographic, pero la imagen no muestra su esfera de mapa mundi. Además, 'seller refurbished' y la foto de baja calidad exigen verificar el modelo y la autenticidad antes de cualquier oferta. (justo 6500)"
+ },
+ {
+  "fecha": "2026-10-22T19:11:45.904587+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31mm UNWORN 2026 Olive Green Diamond President 278278",
+  "total": 50995.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/198737202477",
+  "item_id": "v1|198737202477|0",
+  "referencia": "278278",
+  "mercado": {
+   "n": 4,
+   "p25": 47895,
+   "mediana": 48947
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 31 en oro amarillo de 18k, esfera verde oliva con diamantes, brazalete President",
+   "referencia": "278278",
+   "precio_justo_usd": 26000,
+   "interesante": false,
+   "nota": "El precio pedido de US$50.995 duplica con creces el valor de mercado de esta referencia nueva o casi nueva; no hay descuento que justifique la compra."
+  },
+  "motivo": "triage: El precio pedido de US$50.995 duplica con creces el valor de mercado de esta referencia nueva o casi nueva; no hay descuento que justifique la compra. (justo 26000)"
+ },
+ {
+  "fecha": "2026-10-22T19:11:45.904587+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT Master 16700 Pepsi \"E\" Serial 1990 S/S 40MM Sport Watch. B/P. Mint.",
+  "total": 18740.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287667909501",
+  "item_id": "v1|287667909501|0",
+  "referencia": "16700",
+  "mercado": {
+   "n": 34,
+   "p25": 13100,
+   "mediana": 14505
+  },
+  "ratio_mercado": 1.431,
+  "motivo": "precio normal (143 % del cuartil bajo de 16700)"
+ },
+ {
+  "fecha": "2026-10-22T19:11:45.904587+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 2023 'Sprite\"",
+  "total": 15950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336857710539",
+  "item_id": "v1|336857710539|0",
+  "triage": {
+   "modelo": "Rolex GMT-Master II 'Sprite' (bisel Cerachrome negro/verde, brazalete Oyster de acero)",
+   "referencia": "126720VTNR",
+   "precio_justo_usd": 15500,
+   "interesante": false,
+   "nota": "Precio pedido sobre el valor de mercado para estado Good sin confirmar caja y papeles; no cumple el 15 % de descuento."
+  },
+  "motivo": "triage: Precio pedido sobre el valor de mercado para estado Good sin confirmar caja y papeles; no cumple el 15 % de descuento. (justo 15500)"
+ },
+ {
+  "fecha": "2026-10-22T19:11:45.904587+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date BLUE DIAMOND SAPPHIRE Stainless Steel 40mm Watch 116610",
+  "total": 12232.97,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960101937710",
+  "item_id": "v1|960101937710|0",
+  "referencia": "116610",
+  "mercado": {
+   "n": 43,
+   "p25": 12532,
+   "mediana": 13000
+  },
+  "ratio_mercado": 0.976,
+  "motivo": "precio normal (98 % del cuartil bajo de 116610)"
+ },
+ {
+  "fecha": "2026-10-22T19:11:45.904587+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos 100 2656 W20073X8 Steel 38MM Men's Mid-Size Automatic Watch",
+  "total": 4935.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128150810988",
+  "item_id": "v1|128150810988|0",
+  "referencia": "2656",
+  "mercado": {
+   "n": 26,
+   "p25": 5250,
+   "mediana": 5602
+  },
+  "ratio_mercado": 0.94,
+  "motivo": "precio normal (94 % del cuartil bajo de 2656)"
+ },
+ {
+  "fecha": "2026-10-22T19:11:45.904587+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Big Block 79180 1992",
+  "total": 5950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336857708638",
+  "item_id": "v1|336857708638|0",
+  "referencia": "79180",
+  "mercado": {
+   "n": 3,
+   "p25": 6000,
+   "mediana": 7500
+  },
+  "triage": {
+   "modelo": "Tudor Big Block (Oysterdate Chronograph) de acero",
+   "referencia": "79180",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Esfera negra con subesferas blancas, bisel taquimétrico y brazalete de acero; 79180 de c. 1992. Precio pedido por encima del valor de venta cerrada en EE. UU. para estado 'Good'."
+  },
+  "motivo": "triage: Esfera negra con subesferas blancas, bisel taquimétrico y brazalete de acero; 79180 de c. 1992. Precio pedido por encima del valor de venta cerrada en EE. UU. para estado 'Good'. (justo 3800)"
+ },
+ {
+  "fecha": "2026-10-22T19:11:45.904587+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Professional 300M “Peter Blake” | Ref. 2254.50",
+  "total": 4295.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287663629388",
+  "item_id": "v1|287663629388|0",
+  "referencia": "2254.50",
+  "mercado": {
+   "n": 5,
+   "p25": 4250,
+   "mediana": 4399
+  },
+  "ratio_mercado": 1.011,
+  "motivo": "precio normal (101 % del cuartil bajo de 2254.50)"
+ },
+ {
+  "fecha": "2026-10-22T19:11:45.904587+00:00",
+  "marca": "Breitling",
+  "titulo": "Vintage BREITLING CHRONOMAT AUTOMATIC 1808 Slide Rule Working Condition ",
+  "total": 3200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206646369189",
+  "item_id": "v1|206646369189|0",
+  "triage": {
+   "modelo": "Breitling Chronomat automático vintage con bisel de regla de cálculo (cronógrafo de acero)",
+   "referencia": "1808",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para un Chronomat 1808 vintage en estado Good; no hay descuento de al menos 15 % y la regla de cálculo y el funcionamiento no están verificados."
+  },
+  "motivo": "triage: Precio cercano al mercado para un Chronomat 1808 vintage en estado Good; no hay descuento de al menos 15 % y la regla de cálculo y el funcionamiento no están verificados. (justo 3400)"
  }
 ]
