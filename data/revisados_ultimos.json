@@ -2,52 +2,6 @@
  {
   "fecha": "2026-10-20T23:26:35.081597+00:00",
   "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "Jaeger LeCoultre Reverso Tribute Duoface Steel Watch 216.8.D3 Q3958420 Card",
-  "total": 15900.0,
-  "url": "https://www.ebay.com/itm/257790557096?_skw=jaeger+lecoultre+reverso&hash=item3c0583bba8:g:8yAAAeSwqRlqyQvq",
-  "item_id": "v1|257790557096|0",
-  "referencia": "Q3958420",
-  "motivo": "precio normal (122 % de la mediana)",
-  "mercado": {
-   "consulta": "jaeger lecoultre reverso",
-   "n": 111,
-   "mediana": 12990,
-   "p25": 9750,
-   "p75": 17500
-  },
-  "ratio_mercado": 1.224
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "Jaeger LeCoultre Reverso Tribute Duoface Steel Watch 216.8.D3 Q3958420 Papers",
-  "total": 15900.0,
-  "url": "https://www.ebay.com/itm/257733523214?_skw=jaeger+lecoultre+reverso&hash=item3c021d770e:g:1XAAAeSwoVFqoYO4",
-  "item_id": "v1|257733523214|0",
-  "referencia": "Q3958420",
-  "motivo": "precio normal (122 % de la mediana)",
-  "mercado": {
-   "consulta": "jaeger lecoultre reverso",
-   "n": 111,
-   "mediana": 12990,
-   "p25": 9750,
-   "p75": 17500
-  },
-  "ratio_mercado": 1.224
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "Jaeger-LeCoultre Reverso Tribute Duoface Calendar 49.4x29.9mm Q3918420 Full Set",
-  "total": 16000.0,
-  "url": "https://www.ebay.com/itm/307065664877?_skw=jaeger+lecoultre+reverso&hash=item477e8a356d:g:FdQAAeSwro9qTWzt",
-  "item_id": "v1|307065664877|0",
-  "referencia": "Q3918420",
-  "motivo": "descripcion: as-is"
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
   "titulo": "Jaeger-LeCoultre Reverso Squadra 18k Rose Gold Auto Silver Men's Watch Q7012420",
   "total": 16005.0,
   "url": "https://www.ebay.com/itm/298562310895?_skw=jaeger+lecoultre+reverso&hash=item4583b352ef:g:2yMAAeSwOPZqc47V",
@@ -11269,5 +11223,56 @@
    "nota": "Precio pedido de US$1399 por encima de lo que se vende hoy en uso; la referencia es coherente con lo visible, pero el listado no supera la prueba de precio."
   },
   "motivo": "triage: Precio pedido de US$1399 por encima de lo que se vende hoy en uso; la referencia es coherente con lo visible, pero el listado no supera la prueba de precio. (justo 1150)"
+ },
+ {
+  "fecha": "2026-10-22T02:11:12.303296+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date 40 228238 2023 President 18k Yellow Gold Men's Watch  Full Set",
+  "total": 48500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206644619794",
+  "item_id": "v1|206644619794|0",
+  "referencia": "228238",
+  "mercado": {
+   "n": 40,
+   "p25": 48990,
+   "mediana": 52219
+  },
+  "ratio_mercado": 0.99,
+  "motivo": "precio normal (99 % del cuartil bajo de 228238)"
+ },
+ {
+  "fecha": "2026-10-22T02:11:12.303296+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise Small 2384 W51007Q4 18k Yellow Gold Steel Box Paper",
+  "total": 4995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840028310003",
+  "item_id": "v1|840028310003|0",
+  "referencia": "2384",
+  "mercado": {
+   "n": 41,
+   "p25": 3700,
+   "mediana": 4395
+  },
+  "ratio_mercado": 1.35,
+  "motivo": "precio normal (135 % del cuartil bajo de 2384)"
+ },
+ {
+  "fecha": "2026-10-22T02:11:12.303296+00:00",
+  "marca": "Omega",
+  "titulo": "2020 Omega Seamaster Aqua Terra 150M 41.5mm Blue Teak Bond 007 Spectre Ref",
+  "total": 5195.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820264498941",
+  "item_id": "v1|820264498941|0",
+  "triage": {
+   "modelo": "Omega Seamaster Aqua Terra 150M 41.5 mm, esfera azul teca, acero con brazalete (Co-Axial Master Chronometer)",
+   "referencia": "231.10.42.21.03.003 (probable, no verificable en la imagen)",
+   "precio_justo_usd": 4600,
+   "interesante": false,
+   "nota": "Modelo estándar de acero y esfera azul; la mención 'Bond 007 Spectre' no se ve en la foto y no justifica prima. Precio pedido US$5195 está por encima del valor de venta real."
+  },
+  "motivo": "triage: Modelo estándar de acero y esfera azul; la mención 'Bond 007 Spectre' no se ve en la foto y no justifica prima. Precio pedido US$5195 está por encima del valor de venta real. (justo 4600)"
  }
 ]
