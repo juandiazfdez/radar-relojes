@@ -2,52 +2,6 @@
  {
   "fecha": "2026-10-20T23:26:35.081597+00:00",
   "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "JAEGER LeCOULTRE 18K Yellow Gold Reverso Duo 270.1.54 Box Warranty",
-  "total": 12990.0,
-  "url": "https://www.ebay.com/itm/267673510492?_skw=jaeger+lecoultre+reverso&hash=item3e5295a25c:g:FowAAeSwkuZqC0cr",
-  "item_id": "v1|267673510492|0",
-  "referencia": "270.1.54",
-  "motivo": "descripcion: broken"
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "Jaeger-LeCoultre JLC Reverso Classic Duoface Small Seconds Q3848423 NEW",
-  "total": 12995.0,
-  "url": "https://www.ebay.com/itm/127972850280?_skw=jaeger+lecoultre+reverso&hash=item1dcbc6ba68:g:FncAAeSwtqBqSR2g",
-  "item_id": "v1|127972850280|0",
-  "referencia": "Q3848423",
-  "motivo": "precio normal (96 % de la mediana)",
-  "mercado": {
-   "consulta": "jaeger lecoultre reverso",
-   "n": 39,
-   "mediana": 13566,
-   "p25": 12499,
-   "p75": 20300
-  },
-  "ratio_mercado": 0.958
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "JAEGER LECOULTRE JLC Reverso Classic Duoface Watch Q3848422  Brand New! Box/Card",
-  "total": 13320.0,
-  "url": "https://www.ebay.com/itm/127110191821?_skw=jaeger+lecoultre+reverso&hash=item1d985b9acd:g:NRsAAOSwSCxoI66P",
-  "item_id": "v1|127110191821|0",
-  "referencia": "Q3848422",
-  "motivo": "precio normal (98 % de la mediana)",
-  "mercado": {
-   "consulta": "jaeger lecoultre reverso",
-   "n": 39,
-   "mediana": 13566,
-   "p25": 12499,
-   "p75": 20300
-  },
-  "ratio_mercado": 0.982
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
   "titulo": "Jaeger LeCoultre Reverso Tribute Duoface Medium 3908410",
   "total": 13331.85,
   "url": "https://www.ebay.com/itm/278445187025?_skw=jaeger+lecoultre+reverso&hash=item40d4a05fd1:g:m-4AAeSwiBtqWmvQ",
@@ -11208,5 +11162,62 @@
    "nota": "Precio en línea con el mercado de segunda mano para esta referencia; sin descuento de al menos 15 % y sin ver caja ni papeles."
   },
   "motivo": "triage: Precio en línea con el mercado de segunda mano para esta referencia; sin descuento de al menos 15 % y sin ver caja ni papeles. (justo 2400)"
+ },
+ {
+  "fecha": "2026-10-22T00:41:12.435158+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer II 216570 42mm Orange GMT Hand Unpolished Box Good Condition",
+  "total": 9299.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336856389008",
+  "item_id": "v1|336856389008|0",
+  "referencia": "216570",
+  "mercado": {
+   "n": 46,
+   "p25": 10588,
+   "mediana": 11398
+  },
+  "ratio_mercado": 0.878,
+  "motivo": "precio normal (88 % del cuartil bajo de 216570)"
+ },
+ {
+  "fecha": "2026-10-22T00:41:12.435158+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 41, 134300, Black Dial, Oyster Bracelet",
+  "total": 11075.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800823086812",
+  "item_id": "v1|800823086812|0",
+  "referencia": "134300",
+  "mercado": {
+   "n": 19,
+   "p25": 11900,
+   "mediana": 12780
+  },
+  "ratio_mercado": 0.931,
+  "motivo": "precio normal (93 % del cuartil bajo de 134300)"
+ },
+ {
+  "fecha": "2026-10-22T00:41:12.435158+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Aquaracer WBD1312 Lady. 32mm Blue Sunray Quartz  FULL SET  Papers&Box",
+  "total": 806.19,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900031101418",
+  "item_id": "v1|900031101418|0",
+  "referencia": "WBD1312.BA0740",
+  "mercado": {
+   "n": 3,
+   "p25": 905,
+   "mediana": 1250
+  },
+  "triage": {
+   "modelo": "TAG Heuer Aquaracer Lady 32 mm, esfera azul sunray, cuarzo, acero, con caja y papeles",
+   "referencia": "WBD1312",
+   "precio_justo_usd": 1000,
+   "interesante": true,
+   "nota": "Modelo de cuarzo de produccion actual; a 806 USD con caja y papeles queda ~19% bajo un precio de reventa conservador. Verificar autenticidad y estado antes de comprar."
+  },
+  "motivo": "vendedor con 0 valoraciones"
  }
 ]
