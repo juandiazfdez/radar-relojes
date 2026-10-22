@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-10-21T06:40:38.949316+00:00",
-  "marca": "Rolex",
-  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
-  "total": 16370.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/327415698309",
-  "item_id": "v1|327415698309|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date (bisel negro, brazalete de acero)",
-   "referencia": "126610LN (probable; no se distingue en la foto)",
-   "precio_justo_usd": 13000,
-   "interesante": false,
-   "nota": "Set completo con caja y papeles, pero el precio pedido supera la venta real estimada; la referencia no es legible en la imagen."
-  },
-  "motivo": "triage: Set completo con caja y papeles, pero el precio pedido supera la venta real estimada; la referencia no es legible en la imagen. (justo 13000)"
- },
- {
   "fecha": "2026-10-21T07:10:39.164919+00:00",
   "marca": "Omega",
   "titulo": "2026 Omega Seamaster Diver 300M 42mm 210.32.42.20.04.001 Full Set",
@@ -11350,5 +11333,22 @@
    "nota": "Modelo bicolor de cuarzo con esfera champán; la referencia no se lee en la foto. Con el envío incluido, el precio pedido de 1415 USD supera el valor de venta real estimado."
   },
   "motivo": "triage: Modelo bicolor de cuarzo con esfera champán; la referencia no se lee en la foto. Con el envío incluido, el precio pedido de 1415 USD supera el valor de venta real estimado. (justo 950)"
+ },
+ {
+  "fecha": "2026-10-22T05:11:24.100853+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Seamaster Men's Vintage Wristwatch",
+  "total": 1499.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/800823965439",
+  "item_id": "v1|800823965439|0",
+  "triage": {
+   "modelo": "Omega vintage de vestir (posiblemente Seamaster o Geneve), caja dorada, esfera blanca, correa de cuero marrón",
+   "referencia": null,
+   "precio_justo_usd": 600,
+   "interesante": false,
+   "nota": "La referencia no es legible en la foto; por el estilo de vestir vintage, el precio pedido de 1499 USD está muy por encima de lo que se vende realmente."
+  },
+  "motivo": "triage: La referencia no es legible en la foto; por el estilo de vestir vintage, el precio pedido de 1499 USD está muy por encima de lo que se vende realmente. (justo 600)"
  }
 ]
