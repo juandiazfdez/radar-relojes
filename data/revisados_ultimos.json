@@ -2,60 +2,6 @@
  {
   "fecha": "2026-10-20T23:26:35.081597+00:00",
   "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "Jaeger LeCoultre Reverso Grande Date 8 Day Yellow Gold Watch Q3001420 240.1.15",
-  "total": 17588.0,
-  "url": "https://www.ebay.com/itm/117116927837?_skw=jaeger+lecoultre+reverso&hash=item1b44b67f5d:g:AHgAAeSwPsppyuAY",
-  "item_id": "v1|117116927837|0",
-  "referencia": "240.1.15, Q3001420",
-  "motivo": "precio normal (135 % de la mediana)",
-  "mercado": {
-   "consulta": "jaeger lecoultre reverso",
-   "n": 111,
-   "mediana": 12990,
-   "p25": 9750,
-   "p75": 17500
-  },
-  "ratio_mercado": 1.354
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "Jaeger-LeCoultre Reverso Duoface Large Model Automatic 18k Rose Gold Q3832420",
-  "total": 17800.0,
-  "url": "https://www.ebay.com/itm/406693868480?_skw=jaeger+lecoultre+reverso&hash=item5eb0d7f3c0:g:DikAAeSwIaRpjlpx",
-  "item_id": "v1|406693868480|0",
-  "referencia": "Q3832420",
-  "motivo": "precio normal (137 % de la mediana)",
-  "mercado": {
-   "consulta": "jaeger lecoultre reverso",
-   "n": 111,
-   "mediana": 12990,
-   "p25": 9750,
-   "p75": 17500
-  },
-  "ratio_mercado": 1.37
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "NEW!  2026 Jaeger-LeCoultre Reverso Tribute Duoface Calendar Q3918420 Complete",
-  "total": 17995.0,
-  "url": "https://www.ebay.com/itm/137332026979?_skw=jaeger+lecoultre+reverso&hash=item1ff9a06e63:g:0pUAAeSwh5lqD2mm",
-  "item_id": "v1|137332026979|0",
-  "referencia": "Q3918420",
-  "motivo": "precio normal (133 % de la mediana)",
-  "mercado": {
-   "consulta": "jaeger lecoultre reverso",
-   "n": 39,
-   "mediana": 13500,
-   "p25": 10830,
-   "p75": 20300
-  },
-  "ratio_mercado": 1.333
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
   "titulo": "Jaeger-LeCoultre Reverso Tribute Q3918420 Mens Watch Box Papers",
   "total": 17999.0,
   "url": "https://www.ebay.com/itm/236357638027?_skw=jaeger+lecoultre+reverso&hash=item370803578b:g:eTQAAeSwFVNp09o8",
@@ -11289,5 +11235,56 @@
    "nota": "Precio pedido por encima del rango de mercado gris para un Navitimer 41 bicolor nuevo con caja y papeles; no hay descuento suficiente."
   },
   "motivo": "triage: Precio pedido por encima del rango de mercado gris para un Navitimer 41 bicolor nuevo con caja y papeles; no hay descuento suficiente. (justo 6500)"
+ },
+ {
+  "fecha": "2026-10-22T03:11:11.818418+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 79830RB Full Set 2021",
+  "total": 3400.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920062692682",
+  "item_id": "v1|920062692682|0",
+  "referencia": "79830RB",
+  "mercado": {
+   "n": 20,
+   "p25": 3750,
+   "mediana": 3800
+  },
+  "ratio_mercado": 0.907,
+  "motivo": "precio normal (91 % del cuartil bajo de 79830RB)"
+ },
+ {
+  "fecha": "2026-10-22T03:11:11.818418+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay GMT Pepsi 79830RB 41mm Stainless Steel Box Paper",
+  "total": 3295.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840021784346",
+  "item_id": "v1|840021784346|0",
+  "referencia": "79830RB",
+  "mercado": {
+   "n": 20,
+   "p25": 3750,
+   "mediana": 3800
+  },
+  "ratio_mercado": 0.879,
+  "motivo": "precio normal (88 % del cuartil bajo de 79830RB)"
+ },
+ {
+  "fecha": "2026-10-22T03:11:11.818418+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay GMT 79830RB-0010 Pre-owned Box & Papers 2023",
+  "total": 4250.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137864549769",
+  "item_id": "v1|137864549769|0",
+  "referencia": "79830RB-0010",
+  "mercado": {
+   "n": 20,
+   "p25": 3750,
+   "mediana": 3800
+  },
+  "ratio_mercado": 1.133,
+  "motivo": "precio normal (113 % del cuartil bajo de 79830RB-0010)"
  }
 ]
