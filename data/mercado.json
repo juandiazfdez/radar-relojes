@@ -3140,9 +3140,14 @@
   "n": 0
  },
  "Jaeger-LeCoultre Q3028420|usado": {
-  "fecha": "2026-10-20",
+  "fecha": "2026-10-22",
   "consulta": "Jaeger-LeCoultre Q3028420",
-  "n": 0
+  "n": 1,
+  "mediana": 14320,
+  "p25": 14320,
+  "p75": 14320,
+  "min": 14320,
+  "max": 14320
  },
  "Jaeger-LeCoultre Q3048420|usado": {
   "fecha": "2026-10-20",
@@ -5672,6 +5677,56 @@
  "Tudor M79733N|nuevo": {
   "fecha": "2026-10-22",
   "consulta": "Tudor M79733N",
+  "n": 0
+ },
+ "Cartier WSNM0011|usado": {
+  "fecha": "2026-10-22",
+  "consulta": "Cartier WSNM0011",
+  "n": 0
+ },
+ "Tudor M79950|nuevo": {
+  "fecha": "2026-10-22",
+  "consulta": "Tudor M79950",
+  "n": 4,
+  "mediana": 3745,
+  "p25": 3600,
+  "p75": 4840,
+  "min": 3500,
+  "max": 4840
+ },
+ "Tudor M25807KN|nuevo": {
+  "fecha": "2026-10-22",
+  "consulta": "Tudor M25807KN",
+  "n": 1,
+  "mediana": 4155,
+  "p25": 4155,
+  "p75": 4155,
+  "min": 4155,
+  "max": 4155
+ },
+ "Panerai PAM01707|usado": {
+  "fecha": "2026-10-22",
+  "consulta": "Panerai PAM01707",
+  "n": 0
+ },
+ "Omega 318.90.45.79.01.003|usado": {
+  "fecha": "2026-10-22",
+  "consulta": "Omega 318.90.45.79.01.003",
+  "n": 0
+ },
+ "Breitling SB0146|usado": {
+  "fecha": "2026-10-22",
+  "consulta": "Breitling SB0146",
+  "n": 3,
+  "mediana": 7290,
+  "p25": 6750,
+  "p75": 10020,
+  "min": 6750,
+  "max": 10020
+ },
+ "TAG Heuer CX2110|usado": {
+  "fecha": "2026-10-22",
+  "consulta": "TAG Heuer CX2110",
   "n": 0
  }
 }
