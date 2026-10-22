@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-10-21T08:40:38.786903+00:00",
-  "marca": "IWC",
-  "titulo": "NEW 2026 IWC Pilot's Watch 41 Mercedes-AMG PETRONAS Formula One Purple IW388121",
-  "total": 13495.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/940030073416",
-  "item_id": "v1|940030073416|0",
-  "referencia": "IW388121",
-  "mercado": {
-   "n": 1,
-   "p25": 14000,
-   "mediana": 14000
-  },
-  "triage": {
-   "modelo": "IWC Pilot's Watch Chronograph 41 Mercedes-AMG Petronas F1 Edition (esfera morada)",
-   "referencia": "IW388121",
-   "precio_justo_usd": 6500,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del retail y del mercado gris; la foto parece render o imagen generada, no del reloj real."
-  },
-  "motivo": "triage: Precio pedido muy por encima del retail y del mercado gris; la foto parece render o imagen generada, no del reloj real. (justo 6500)"
- },
- {
   "fecha": "2026-10-21T09:10:39.277749+00:00",
   "marca": "Breitling",
   "titulo": "NEW/UNWORN Breitling Premier B09 Chronograph Champagne 40mm - with box/papers",
@@ -11338,5 +11315,28 @@
    "nota": "La foto no permite confirmar la referencia exacta ni el año; el precio pedido queda cerca del valor estimado y no alcanza el 15 % de descuento necesario."
   },
   "motivo": "triage: La foto no permite confirmar la referencia exacta ni el año; el precio pedido queda cerca del valor estimado y no alcanza el 15 % de descuento necesario. (justo 2200)"
+ },
+ {
+  "fecha": "2026-10-22T07:11:23.748047+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 16014 36mm Arabic Numerals Pave Diamond Iced Out Stainless Steel",
+  "total": 4730.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366751756083",
+  "item_id": "v1|366751756083|0",
+  "referencia": "16014",
+  "mercado": {
+   "n": 78,
+   "p25": 5959,
+   "mediana": 6599
+  },
+  "ratio_mercado": 0.794,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 3800,
+   "riesgo_autenticidad": "alto",
+   "estado": "Aftermarket con diamantes, rayones visibles en el brazalete, ventana de fecha desalineada"
+  },
+  "motivo": "Claude descarto: El 16014 de fábrica trae bisel acanalado de oro blanco y dial de serie. El dial pavé con numerales árabes de colores es 100 % aftermarket, igual que el bisel de diamantes grandes, las asas con pavé y el brazalete Jubilee engastado. Es un reloj 'custom' y no vale como Datejust original.; Es muy probable que el dial sea de aftermarket y que el movimiento haya sido tocado. La rueda de fecha desalineada y la lente Cyclops torcida o con residuos sugieren un dial mal montado. La descripción dice 'easy fix', pero no hay forma de verificarlo."
  }
 ]
