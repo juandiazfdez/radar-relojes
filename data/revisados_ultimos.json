@@ -1,97 +1,6 @@
 [
  {
   "fecha": "2026-10-21T13:55:49.214912+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Precision Steel Watch",
-  "total": 4820.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267819792117",
-  "item_id": "v1|267819792117|0",
-  "triage": {
-   "modelo": "Rolex Oyster Precision (acero, cuerda manual, vintage)",
-   "referencia": null,
-   "precio_justo_usd": 2500,
-   "interesante": false,
-   "nota": "Título genérico sin referencia ni año; el Precision vintage suele venderse entre 2.000 y 3.000 USD, y el precio pedido de 4.820 USD está muy por encima."
-  },
-  "motivo": "triage: Título genérico sin referencia ni año; el Precision vintage suele venderse entre 2.000 y 3.000 USD, y el precio pedido de 4.820 USD está muy por encima. (justo 2500)"
- },
- {
-  "fecha": "2026-10-21T13:55:49.214912+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Precision Steel Watch",
-  "total": 2531.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267819792118",
-  "item_id": "v1|267819792118|0",
-  "triage": {
-   "modelo": "Rolex Oyster Precision de acero (cuerda manual, serie de entrada)",
-   "referencia": null,
-   "precio_justo_usd": 1800,
-   "interesante": false,
-   "nota": "Sin referencia exacta ni fotos; el precio pedido de US$2531 supera el valor de venta cerrada estimado para este modelo en estado Good."
-  },
-  "motivo": "triage: Sin referencia exacta ni fotos; el precio pedido de US$2531 supera el valor de venta cerrada estimado para este modelo en estado Good. (justo 1800)"
- },
- {
-  "fecha": "2026-10-21T13:55:49.214912+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 126720VTNR Watch",
-  "total": 18750.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206643394192",
-  "item_id": "v1|206643394192|0",
-  "referencia": "126720VTNR",
-  "mercado": {
-   "n": 83,
-   "p25": 17999,
-   "mediana": 18499
-  },
-  "ratio_mercado": 1.042,
-  "motivo": "precio normal (104 % del cuartil bajo de 126720VTNR)"
- },
- {
-  "fecha": "2026-10-21T13:55:49.214912+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Dumont W2007051 18K White Gold Mens Watch",
-  "total": 10699.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237135925755",
-  "item_id": "v1|237135925755|0",
-  "referencia": "W2007051",
-  "mercado": {
-   "n": 2,
-   "p25": 8900,
-   "mediana": 8948
-  },
-  "triage": {
-   "modelo": "Cartier Santos-Dumont (caja rectangular, oro blanco 18K, esfera plateada con numerales romanos, correa de cocodrilo negra)",
-   "referencia": "W2007051",
-   "precio_justo_usd": 6000,
-   "interesante": false,
-   "nota": "Pedido de 10.699 USD muy por encima del precio de reventa de un Santos-Dumont de oro blanco usado; la referencia se toma del título, no se verifica en la imagen."
-  },
-  "motivo": "triage: Pedido de 10.699 USD muy por encima del precio de reventa de un Santos-Dumont de oro blanco usado; la referencia se toma del título, no se verifica en la imagen. (justo 6000)"
- },
- {
-  "fecha": "2026-10-21T13:55:49.214912+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Princess Oyster Date Automatic Stainless Steel And 18K Yellow Gold Watch",
-  "total": 1664.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267819792134",
-  "item_id": "v1|267819792134|0",
-  "triage": {
-   "modelo": "Tudor Princess Oyster Date (acero y oro amarillo 18K, bisel acanalado, esfera champán, brazalete Jubilee)",
-   "referencia": "92613 (probable; verificar con el número de serie y la caja)",
-   "precio_justo_usd": 1900,
-   "interesante": false,
-   "nota": "Precio pedido de US$1664 está solo ~12% bajo el valor estimado de venta cerrada en estado Good; no cumple el umbral del 15%. Confirmar autenticidad, referencia y estado de la esfera."
-  },
-  "motivo": "triage: Precio pedido de US$1664 está solo ~12% bajo el valor estimado de venta cerrada en estado Good; no cumple el umbral del 15%. Confirmar autenticidad, referencia y estado de la esfera. (justo 1900)"
- },
- {
-  "fecha": "2026-10-21T13:55:49.214912+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR Black Bay GMT 41mm Steel & Gold 79833MN-003",
   "total": 4301.19,
@@ -11411,5 +11320,96 @@
    "nota": "Precio pedido por encima del valor de venta cerrada estimado para usado en buen estado; no alcanza el 15 % de descuento."
   },
   "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para usado en buen estado; no alcanza el 15 % de descuento. (justo 3900)"
+ },
+ {
+  "fecha": "2026-10-22T15:56:45.937944+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 14060M Submariner No Date",
+  "total": 12925.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920064508793",
+  "item_id": "v1|920064508793|0",
+  "referencia": "14060M",
+  "mercado": {
+   "n": 17,
+   "p25": 10500,
+   "mediana": 10800
+  },
+  "ratio_mercado": 1.231,
+  "motivo": "precio normal (123 % del cuartil bajo de 14060M)"
+ },
+ {
+  "fecha": "2026-10-22T15:56:45.937944+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX Oyster Perpetual DATEJUST  Model 126333 18kt Gold/SS Mens Watch - 2017",
+  "total": 17900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880041086957",
+  "item_id": "v1|880041086957|0",
+  "referencia": "126333",
+  "mercado": {
+   "n": 123,
+   "p25": 16190,
+   "mediana": 17375
+  },
+  "ratio_mercado": 1.106,
+  "motivo": "precio normal (111 % del cuartil bajo de 126333)"
+ },
+ {
+  "fecha": "2026-10-22T15:56:45.937944+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 116610LN 2018 Full Set",
+  "total": 12400.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287667188646",
+  "item_id": "v1|287667188646|0",
+  "referencia": "116610LN",
+  "mercado": {
+   "n": 46,
+   "p25": 13000,
+   "mediana": 13800
+  },
+  "ratio_mercado": 0.954,
+  "motivo": "precio normal (95 % del cuartil bajo de 116610LN)"
+ },
+ {
+  "fecha": "2026-10-22T15:56:45.937944+00:00",
+  "marca": "Cartier",
+  "titulo": "Unisex Vintage Cartier Tank Quartz 23mm  Classic Clean & Chic",
+  "total": 2816.8,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327418219250",
+  "item_id": "v1|327418219250|0",
+  "triage": {
+   "modelo": "Cartier Tank Must (vermeil chapado en oro, cuarzo, esfera blanca con numerales romanos, correa de piel negra)",
+   "referencia": null,
+   "precio_justo_usd": 650,
+   "interesante": false,
+   "nota": "Tank Must de vermeil de cuarzo usada; se vende en torno a 400-900 USD. El precio pedido de 2817 USD está muy por encima del mercado."
+  },
+  "motivo": "triage: Tank Must de vermeil de cuarzo usada; se vende en torno a 400-900 USD. El precio pedido de 2817 USD está muy por encima del mercado. (justo 650)"
+ },
+ {
+  "fecha": "2026-10-22T15:56:45.937944+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "New Tag Heuer Carrera Calibre 5 Day-Date Automatic Men's Watch WBN2013.BA0640",
+  "total": 3160.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/820266293032",
+  "item_id": "v1|820266293032|0",
+  "referencia": "WBN2013.BA0640",
+  "mercado": {
+   "n": 1,
+   "p25": 2499,
+   "mediana": 2499
+  },
+  "triage": {
+   "modelo": "TAG Heuer Carrera Calibre 5 Day-Date (39 mm, acero, esfera negra con detalles dorados rosados)",
+   "referencia": "WBN2013.BA0640",
+   "precio_justo_usd": 2700,
+   "interesante": false,
+   "nota": "Precio pedido de US$3160 por un modelo nuevo con caja y papeles; el mercado gris lo vende alrededor de US$2600-2900, así que no hay descuento de al menos 15 %."
+  },
+  "motivo": "triage: Precio pedido de US$3160 por un modelo nuevo con caja y papeles; el mercado gris lo vende alrededor de US$2600-2900, así que no hay descuento de al menos 15 %. (justo 2700)"
  }
 ]
