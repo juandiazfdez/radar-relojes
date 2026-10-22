@@ -5053,5 +5053,40 @@
   "p75": 1500,
   "min": 1388,
   "max": 2395
+ },
+ "Rolex 126619|usado": {
+  "fecha": "2026-10-22",
+  "consulta": "Rolex 126619",
+  "n": 21,
+  "mediana": 41000,
+  "p25": 39327,
+  "p75": 42588,
+  "min": 35999,
+  "max": 51995
+ },
+ "Panerai PAM01437|usado": {
+  "fecha": "2026-10-22",
+  "consulta": "Panerai PAM01437",
+  "n": 0
+ },
+ "TAG Heuer WBP208B|nuevo": {
+  "fecha": "2026-10-22",
+  "consulta": "TAG Heuer WBP208B",
+  "n": 2,
+  "mediana": 3625,
+  "p25": 3500,
+  "p75": 3750,
+  "min": 3500,
+  "max": 3750
+ },
+ "Jaeger-LeCoultre Q1358420|usado": {
+  "fecha": "2026-10-22",
+  "consulta": "Jaeger-LeCoultre Q1358420",
+  "n": 1,
+  "mediana": 5000,
+  "p25": 5000,
+  "p75": 5000,
+  "min": 5000,
+  "max": 5000
  }
 }
