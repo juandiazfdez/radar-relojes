@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-10-21T09:55:38.682704+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Constellation Automatic Stainless Steel Watch",
-  "total": 1216.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820261961566",
-  "item_id": "v1|820261961566|0",
-  "triage": {
-   "modelo": "Omega Constellation Automatic (vintage, bicolor acero y oro, brazalete milanés)",
-   "referencia": null,
-   "precio_justo_usd": 950,
-   "interesante": false,
-   "nota": "Constellation automático de los años 70, con bisel y laterales dorados. Sin referencia visible; con estado Good, el precio pedido de 1216 USD queda por encima del valor de venta real."
-  },
-  "motivo": "triage: Constellation automático de los años 70, con bisel y laterales dorados. Sin referencia visible; con estado Good, el precio pedido de 1216 USD queda por encima del valor de venta real. (justo 950)"
- },
- {
-  "fecha": "2026-10-21T10:10:39.452016+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Automatic Stainless Steel And Yellow Gold With Diamond",
-  "total": 3701.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820261977859",
-  "item_id": "v1|820261977859|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual (Lady, acero, esfera azul, bisel engine-turned), aparentemente de los años 90 o 2000",
-   "referencia": "Probablemente 67180 o 76080 (no verificable con la foto)",
-   "precio_justo_usd": 3600,
-   "interesante": false,
-   "nota": "El título menciona oro amarillo y diamantes, pero la foto muestra solo acero sin diamantes; el listado es inconsistente. Para acero, el precio está en línea con el mercado, sin descuento de al menos 15 %."
-  },
-  "motivo": "triage: El título menciona oro amarillo y diamantes, pero la foto muestra solo acero sin diamantes; el listado es inconsistente. Para acero, el precio está en línea con el mercado, sin descuento de al menos 15 %. (justo 3600)"
- },
- {
   "fecha": "2026-10-21T10:10:39.452016+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Precision Steel Watch",
@@ -11350,5 +11316,45 @@
    "nota": "Modelo de cuarzo de acero de uso habitual con poca demanda; 'rare' en el título no justifica US$750. El precio pedido está muy por encima del valor de mercado."
   },
   "motivo": "triage: Modelo de cuarzo de acero de uso habitual con poca demanda; 'rare' en el título no justifica US$750. El precio pedido está muy por encima del valor de mercado. (justo 450)"
+ },
+ {
+  "fecha": "2026-10-22T11:11:35.460376+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Superocean 42 A1736402/BA28 2016 Full Set Box Papers Bracelet",
+  "total": 3735.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860068747957",
+  "item_id": "v1|860068747957|0",
+  "referencia": "A1736402",
+  "mercado": {
+   "n": 6,
+   "p25": 2697,
+   "mediana": 2915
+  },
+  "ratio_mercado": 1.385,
+  "motivo": "precio normal (138 % del cuartil bajo de A1736402)"
+ },
+ {
+  "fecha": "2026-10-22T11:11:35.460376+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Navitimer 35 A17395201K1A1 Box & papers",
+  "total": 3499.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336857155101",
+  "item_id": "v1|336857155101|0",
+  "referencia": "A17395201K1A1",
+  "mercado": {
+   "n": 2,
+   "p25": 3300,
+   "mediana": 3897
+  },
+  "triage": {
+   "modelo": "Breitling Navitimer 35 (esfera salmón, brazalete de acero)",
+   "referencia": "A17395201K1A1",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "Precio pedido cercano al valor de mercado secundario con caja y papeles; no hay descuento de al menos 15 %. No verificable solo por foto."
+  },
+  "motivo": "triage: Precio pedido cercano al valor de mercado secundario con caja y papeles; no hay descuento de al menos 15 %. No verificable solo por foto. (justo 3400)"
  }
 ]
