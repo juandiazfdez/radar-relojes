@@ -4630,14 +4630,14 @@
   "max": 5001
  },
  "Omega 210.32.42.20.04.001|nuevo": {
-  "fecha": "2026-10-21",
+  "fecha": "2026-10-22",
   "consulta": "Omega 210.32.42.20.04.001",
-  "n": 4,
-  "mediana": 5740,
+  "n": 5,
+  "mediana": 5810,
   "p25": 5670,
   "p75": 5895,
   "min": 5590,
-  "max": 5895
+  "max": 7450
  },
  "Omega 324.30.38.50.03.001|nuevo": {
   "fecha": "2026-10-21",
@@ -5558,5 +5558,50 @@
   "fecha": "2026-10-22",
   "consulta": "TAG Heuer WG5113",
   "n": 0
+ },
+ "Cartier W6920068|usado": {
+  "fecha": "2026-10-22",
+  "consulta": "Cartier W6920068",
+  "n": 0
+ },
+ "Cartier W6920084|usado": {
+  "fecha": "2026-10-22",
+  "consulta": "Cartier W6920084",
+  "n": 4,
+  "mediana": 5511,
+  "p25": 5431,
+  "p75": 10000,
+  "min": 4500,
+  "max": 10000
+ },
+ "Cartier W2601956|usado": {
+  "fecha": "2026-10-22",
+  "consulta": "Cartier W2601956",
+  "n": 3,
+  "mediana": 5000,
+  "p25": 4950,
+  "p75": 5000,
+  "min": 4950,
+  "max": 5000
+ },
+ "Tudor 42149|usado": {
+  "fecha": "2026-10-22",
+  "consulta": "Tudor 42149",
+  "n": 0
+ },
+ "Tudor 42107|usado": {
+  "fecha": "2026-10-22",
+  "consulta": "Tudor 42107",
+  "n": 0
+ },
+ "Omega 3569.31.00|usado": {
+  "fecha": "2026-10-22",
+  "consulta": "Omega 3569.31.00",
+  "n": 1,
+  "mediana": 14430,
+  "p25": 14430,
+  "p75": 14430,
+  "min": 14430,
+  "max": 14430
  }
 }
