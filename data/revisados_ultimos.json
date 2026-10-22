@@ -2,42 +2,6 @@
  {
   "fecha": "2026-10-20T23:26:35.081597+00:00",
   "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "Jaeger LeCoultre Reverso Tribute Duoface Medium 3908410",
-  "total": 13331.85,
-  "url": "https://www.ebay.com/itm/278445187025?_skw=jaeger+lecoultre+reverso&hash=item40d4a05fd1:g:m-4AAeSwiBtqWmvQ",
-  "item_id": "v1|278445187025|0",
-  "referencia": "Q3908410",
-  "motivo": "precio normal (98 % de la mediana)",
-  "mercado": {
-   "consulta": "jaeger lecoultre reverso",
-   "n": 39,
-   "mediana": 13566,
-   "p25": 12499,
-   "p75": 20300
-  },
-  "ratio_mercado": 0.983
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
-  "titulo": "JAEGER LECOULTRE JLC Reverso Tribute Duoface Small Seconds Q3908410",
-  "total": 13395.0,
-  "url": "https://www.ebay.com/itm/406909305067?_skw=jaeger+lecoultre+reverso&hash=item5ebdaf40eb:g:5FQAAeSwpB1p-6i3",
-  "item_id": "v1|406909305067|0",
-  "referencia": "Q3908410",
-  "motivo": "precio normal (99 % de la mediana)",
-  "mercado": {
-   "consulta": "jaeger lecoultre reverso",
-   "n": 39,
-   "mediana": 13566,
-   "p25": 12499,
-   "p75": 20300
-  },
-  "ratio_mercado": 0.987
- },
- {
-  "fecha": "2026-10-20T23:26:35.081597+00:00",
-  "modelo_guia": "Jaeger-LeCoultre Reverso (hombre)",
   "titulo": "JAEGER LECOULTRE Reverso Classic Duoface Small Seconds 47mm by 28.3 mm ,Q3848423",
   "total": 13500.0,
   "url": "https://www.ebay.com/itm/127555346848?_skw=jaeger+lecoultre+reverso&hash=item1db2e421a0:g:QZgAAeSw~DRpOdQV",
@@ -11219,5 +11183,45 @@
    "nota": "Modelo de cuarzo de produccion actual; a 806 USD con caja y papeles queda ~19% bajo un precio de reventa conservador. Verificar autenticidad y estado antes de comprar."
   },
   "motivo": "vendedor con 0 valoraciones"
+ },
+ {
+  "fecha": "2026-10-22T00:56:11.999493+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner 41mm Black Dial/Bezel Automatic Steel Bracelet Box Papers",
+  "total": 15500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840046297665",
+  "item_id": "v1|840046297665|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date 41mm, esfera y bisel negros, brazalete Oyster de acero",
+   "referencia": "126610LN (probable; no se distingue con certeza desde la foto)",
+   "precio_justo_usd": 13000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del mercado gris para un modelo nuevo con caja y papeles; no hay descuento significativo."
+  },
+  "motivo": "triage: Precio pedido por encima del mercado gris para un modelo nuevo con caja y papeles; no hay descuento significativo. (justo 13000)"
+ },
+ {
+  "fecha": "2026-10-22T00:56:11.999493+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Professional 300M 2562.80 36mm Blue Wave Quartz Cal 1438",
+  "total": 1995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206644464431",
+  "item_id": "v1|206644464431|0",
+  "referencia": "2562.80",
+  "mercado": {
+   "n": 3,
+   "p25": 1995,
+   "mediana": 2495
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Professional 300M (36 mm, cuarzo, esfera azul wave)",
+   "referencia": "2562.80",
+   "precio_justo_usd": 1150,
+   "interesante": false,
+   "nota": "Precio pedido de 1995 USD muy por encima del valor de mercado para esta referencia de cuarzo de 36 mm en estado Good; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de 1995 USD muy por encima del valor de mercado para esta referencia de cuarzo de 36 mm en estado Good; no es una oportunidad. (justo 1150)"
  }
 ]
