@@ -2,86 +2,6 @@
  {
   "fecha": "2026-10-26T07:13:14.114589+00:00",
   "marca": "Omega",
-  "titulo": "OMEGA SEAMASTER AQUA TERRA 231.20.30.20.06.001 ROSE GOLD CO-AXIAL LADIES WATCH",
-  "total": 5995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377594859636",
-  "item_id": "v1|377594859636|0",
-  "referencia": "231.20.30.20.06.001",
-  "mercado": {
-   "n": 1,
-   "p25": 4000,
-   "mediana": 4000
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Aqua Terra Co-Axial (acero y oro rosa, esfera gris texturizada, fecha), versión de señora",
-   "referencia": "231.20.30.20.06.001",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido de 5995 USD muy por encima del mercado para este bicolor de 30 mm en estado usado; el tamaño real y la inclusión de caja y papeles deben verificarse."
-  },
-  "motivo": "triage: Precio pedido de 5995 USD muy por encima del mercado para este bicolor de 30 mm en estado usado; el tamaño real y la inclusión de caja y papeles deben verificarse. (justo 3300)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster 503\"BEEFY LUGS BIG LOGO.Original  Black ARROW maker Dial.Service",
-  "total": 2750.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/860079851108",
-  "item_id": "v1|860079851108|0",
-  "triage": {
-   "modelo": "Omega Seamaster 503 (automático vintage, años 60)",
-   "referencia": "503",
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta cerrada estimado para esta referencia en estado Good; no se puede verificar el dial ni la autenticidad solo con la foto."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para esta referencia en estado Good; no se puede verificar el dial ni la autenticidad solo con la foto. (justo 2200)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Omega",
-  "titulo": "Virtually Unworn Bronze Gold Edition Omega Museum Specialities Paris 2024",
-  "total": 11950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960110371263",
-  "item_id": "v1|960110371263|0",
-  "triage": {
-   "modelo": "Omega Museum Specialities Bronze Gold Edition Paris 2024 (edición limitada Juegos Olímpicos, caja bronce-oro, esfera plateada, correa de cuero marrón)",
-   "referencia": null,
-   "precio_justo_usd": 8500,
-   "interesante": false,
-   "nota": "Precio pedido de 11.950 USD muy por encima del valor de reventa estimado; la referencia exacta no se distingue en la foto, así que la estimación es conservadora y de baja confianza."
-  },
-  "motivo": "triage: Precio pedido de 11.950 USD muy por encima del valor de reventa estimado; la referencia exacta no se distingue en la foto, así que la estimación es conservadora y de baja confianza. (justo 8500)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Omega",
-  "titulo": "Ladies Omega Constellation 18K Gold Watch - Automatic - MOP - Diamonds - 1396.71",
-  "total": 4245.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800833850508",
-  "item_id": "v1|800833850508|0",
-  "referencia": "1396.71",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Omega Constellation Ladies bicolor (acero y oro amarillo) con bisel de diamantes, esfera nácar y fecha",
-   "referencia": "1396.71",
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "Bicolor acero/oro con bisel de diamantes; el título dice oro 18K macizo, pero la foto muestra sobre todo acero con oro. Precio pedido muy por encima del valor de venta real."
-  },
-  "motivo": "triage: Bicolor acero/oro con bisel de diamantes; el título dice oro 18K macizo, pero la foto muestra sobre todo acero con oro. Precio pedido muy por encima del valor de venta real. (justo 2600)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Omega",
   "titulo": "Omega Seamaster 300 Unit Watch",
   "total": 17600.0,
   "condicion": "Pre-owned - Good",
@@ -11838,5 +11758,85 @@
    "nota": "Precio pedido US$7885 está por encima del valor de mercado gris estimado para esta edición limitada nueva con caja y papeles; no hay descuento suficiente para considerarlo oportunidad."
   },
   "motivo": "triage: Precio pedido US$7885 está por encima del valor de mercado gris estimado para esta edición limitada nueva con caja y papeles; no hay descuento suficiente para considerarlo oportunidad. (justo 5800)"
+ },
+ {
+  "fecha": "2026-10-26T18:36:34.575208+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 126720VTNR Silver Jubilee Bracelet with Black and Green...",
+  "total": 18395.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/257819031765",
+  "item_id": "v1|257819031765|0",
+  "referencia": "126720VTNR",
+  "mercado": {
+   "n": 59,
+   "p25": 18495,
+   "mediana": 19320
+  },
+  "ratio_mercado": 0.995,
+  "motivo": "precio normal (99 % del cuartil bajo de 126720VTNR)"
+ },
+ {
+  "fecha": "2026-10-26T18:36:34.575208+00:00",
+  "marca": "Rolex",
+  "titulo": "NEW 2026 Rolex Submariner Date 41mm Starbucks Green Ceramic 126610LV Full Set",
+  "total": 15950.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/820280461342",
+  "item_id": "v1|820280461342|0",
+  "referencia": "126610LV",
+  "mercado": {
+   "n": 41,
+   "p25": 16250,
+   "mediana": 16508
+  },
+  "ratio_mercado": 0.982,
+  "motivo": "precio normal (98 % del cuartil bajo de 126610LV)"
+ },
+ {
+  "fecha": "2026-10-26T18:36:34.575208+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Dynamic Chronograph Targa Florio Limited Edition Ref. 5241.51. 38mm",
+  "total": 3785.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128157883236",
+  "item_id": "v1|128157883236|0",
+  "referencia": "5241.51",
+  "mercado": {
+   "n": 1,
+   "p25": 3400,
+   "mediana": 3400
+  },
+  "triage": {
+   "modelo": "Omega Dynamic Chronograph Targa Florio (edición limitada)",
+   "referencia": "5241.51",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "Precio pedido por encima de la estimación de venta cerrada para esta edición limitada en estado Good; verificar autenticidad, movimiento y si la foto corresponde al listado."
+  },
+  "motivo": "triage: Precio pedido por encima de la estimación de venta cerrada para esta edición limitada en estado Good; verificar autenticidad, movimiento y si la foto corresponde al listado. (justo 3400)"
+ },
+ {
+  "fecha": "2026-10-26T18:36:34.575208+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Formula 1 CAZ101AH Quartz Chronograph Gray Orange Watch Box & Papers",
+  "total": 1510.98,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237145557932",
+  "item_id": "v1|237145557932|0",
+  "referencia": "CAZ101AH",
+  "mercado": {
+   "n": 1,
+   "p25": 1460,
+   "mediana": 1460
+  },
+  "triage": {
+   "modelo": "TAG Heuer Formula 1 cronógrafo de cuarzo, acero, con caja y papeles",
+   "referencia": "CAZ101AH",
+   "precio_justo_usd": 520,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de reventa de esta referencia de cuarzo en estado usado; no se aprecia pieza ni replica."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de reventa de esta referencia de cuarzo en estado usado; no se aprecia pieza ni replica. (justo 520)"
  }
 ]
