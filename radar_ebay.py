@@ -51,6 +51,9 @@ PAISES = os.environ.get("PAISES_ORIGEN", "US").split(",")
 BARRIDO = bool(os.environ.get("BARRIDO"))
 
 LOOKBACK_HORAS = float(os.environ.get("LOOKBACK_HORAS", "2"))
+# Paginas de 200 por marca al buscar lo nuevo: 2 en el bucle normal, mas si la ventana es larga (recuperar dias perdidos)
+PAGINAS_NUEVO = int(os.environ.get("PAGINAS_NUEVO", "2" if LOOKBACK_HORAS <= 6 else "10"))
+REVISADOS_MAX = int(os.environ.get("REVISADOS_MAX", "600"))
 UMBRAL_MERCADO = float(os.environ.get("UMBRAL_MERCADO", "0.85"))  # vs cuartil bajo de la misma referencia
 UMBRAL_JUSTO = float(os.environ.get("UMBRAL_JUSTO", "0.85"))      # vs precio justo estimado por Claude
 UMBRAL_SOSPECHA = 0.35
@@ -538,7 +541,7 @@ def procesar_marca(eb, fila, t0, desde, estado):
                     break
         else:
             filtros.append(f"itemStartDate:[{desde}..]")
-            for off in (0, 200):
+            for off in range(0, 200 * PAGINAS_NUEVO, 200):
                 lote = eb.buscar(fila["busqueda_ebay"], filtros, sort="newlyListed", limit=200, offset=off)
                 items += lote
                 if len(lote) < 200:
@@ -666,7 +669,7 @@ def main():
     guardar("vistos.json", {k: v for k, v in estado["vistos"].items() if v >= limite_v})
     guardar("mercado.json", estado["mercado"])
     guardar("alertas.json", alertas)
-    guardar("revisados_ultimos.json", estado["revisados"][-600:])
+    guardar("revisados_ultimos.json", estado["revisados"][-REVISADOS_MAX:])
     hoy = t0.date().isoformat()
     guardar("latest.json", {
         "actualizado": t0.isoformat(), "ventana_horas": LOOKBACK_HORAS, "marcas": [m["marca"] for m in marcas],
