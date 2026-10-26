@@ -10853,5 +10853,25 @@
   "fecha": "2026-10-26",
   "consulta": "Tudor M79250BM",
   "n": 0
+ },
+ "Rolex 168000|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Rolex 168000",
+  "n": 3,
+  "mediana": 10389,
+  "p25": 10000,
+  "p75": 10900,
+  "min": 10000,
+  "max": 10900
+ },
+ "Cartier 2960|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Cartier 2960",
+  "n": 3,
+  "mediana": 19095,
+  "p25": 6299,
+  "p75": 23660,
+  "min": 6299,
+  "max": 23660
  }
 }
