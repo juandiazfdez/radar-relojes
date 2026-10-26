@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-26T17:06:25.665132+00:00",
+ "actualizado": "2026-10-26T17:21:25.659924+00:00",
  "ventana_horas": 2.0,
  "marcas": [
   "Rolex",
@@ -16,12 +16,14 @@
  "corrida": {
   "nuevos_vistos": 16,
   "descartes": {
-   "titulo": 11,
-   "triage": 4,
-   "precio_normal": 1
+   "precio_normal": 2,
+   "triage": 2,
+   "titulo": 9,
+   "claude": 2,
+   "precio_justo": 1
   },
   "alertas_nuevas": 0,
-  "llamadas_ebay": 12,
+  "llamadas_ebay": 18,
   "cuota_agotada": false
  },
  "alertas_hoy": [
