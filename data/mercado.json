@@ -5700,7 +5700,7 @@
   "max": 7640
  },
  "Tudor M79733N|nuevo": {
-  "fecha": "2026-10-22",
+  "fecha": "2026-10-26",
   "consulta": "Tudor M79733N",
   "n": 0
  },
@@ -11583,5 +11583,75 @@
   "fecha": "2026-10-26",
   "consulta": "IWC IW545801",
   "n": 0
+ },
+ "Rolex 126333|nuevo": {
+  "fecha": "2026-10-26",
+  "consulta": "Rolex 126333",
+  "n": 39,
+  "mediana": 20175,
+  "p25": 19069,
+  "p75": 20900,
+  "min": 17445,
+  "max": 21475
+ },
+ "Cartier 3169|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Cartier 3169",
+  "n": 12,
+  "mediana": 3458,
+  "p25": 3265,
+  "p75": 3755,
+  "min": 3000,
+  "max": 12488
+ },
+ "Tudor 28600|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Tudor 28600",
+  "n": 10,
+  "mediana": 2850,
+  "p25": 2747,
+  "p75": 3257,
+  "min": 2500,
+  "max": 3540
+ },
+ "Tudor M79010SG|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Tudor M79010SG",
+  "n": 3,
+  "mediana": 4250,
+  "p25": 3799,
+  "p75": 4395,
+  "min": 3799,
+  "max": 4395
+ },
+ "Panerai PAM00721|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Panerai PAM00721",
+  "n": 1,
+  "mediana": 6500,
+  "p25": 6500,
+  "p75": 6500,
+  "min": 6500,
+  "max": 6500
+ },
+ "Omega 329.33.44.51.01.001|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Omega 329.33.44.51.01.001",
+  "n": 1,
+  "mediana": 7900,
+  "p25": 7900,
+  "p75": 7900,
+  "min": 7900,
+  "max": 7900
+ },
+ "TAG Heuer CBG2019|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "TAG Heuer CBG2019",
+  "n": 1,
+  "mediana": 5000,
+  "p25": 5000,
+  "p75": 5000,
+  "min": 5000,
+  "max": 5000
  }
 }
