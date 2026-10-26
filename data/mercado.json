@@ -1720,11 +1720,11 @@
   "max": 19477
  },
  "Tudor M79360N|usado": {
-  "fecha": "2026-10-21",
+  "fecha": "2026-10-26",
   "consulta": "Tudor M79360N",
-  "n": 22,
-  "mediana": 5399,
-  "p25": 4650,
+  "n": 23,
+  "mediana": 5500,
+  "p25": 4815,
   "p75": 6525,
   "min": 4250,
   "max": 15515
@@ -11673,5 +11673,25 @@
   "p75": 3514,
   "min": 3399,
   "max": 3514
+ },
+ "Omega 2218.50.00|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Omega 2218.50.00",
+  "n": 3,
+  "mediana": 5250,
+  "p25": 4990,
+  "p75": 5395,
+  "min": 4990,
+  "max": 5395
+ },
+ "Jaeger-LeCoultre Q1342520|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Jaeger-LeCoultre Q1342520",
+  "n": 1,
+  "mediana": 9500,
+  "p25": 9500,
+  "p75": 9500,
+  "min": 9500,
+  "max": 9500
  }
 }
