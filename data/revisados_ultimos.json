@@ -1,121 +1,6 @@
 [
  {
   "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA PLANET OCEAN BOND 007  Quantum Of Solace Ref 222.30.46.20.01.001 45.5 MM",
-  "total": 4520.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307248834782",
-  "item_id": "v1|307248834782|0",
-  "referencia": "222.30.46.20.01.001",
-  "mercado": {
-   "n": 2,
-   "p25": 5999,
-   "mediana": 6250
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Planet Ocean 600M Co-Axial, edición limitada James Bond 'Quantum of Solace' (2008)",
-   "referencia": "222.30.46.20.01.001",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Precio pedido de 4520 USD está por encima del valor de venta cerrada estimado (~4000 USD) para estado Good sin caja ni papeles mencionados; no cumple el umbral del 15 % de descuento."
-  },
-  "motivo": "triage: Precio pedido de 4520 USD está por encima del valor de venta cerrada estimado (~4000 USD) para estado Good sin caja ni papeles mencionados; no cumple el umbral del 15 % de descuento. (justo 4000)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Omega",
-  "titulo": " 1970's Omega Seamaster 34mm Cal.1342 Swiss 13 Jewels Quartz Men's Watch ",
-  "total": 995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/900038997696",
-  "item_id": "v1|900038997696|0",
-  "triage": {
-   "modelo": "Omega Geneve (cuadrado/tonneau, cuarzo, años 70), no Seamaster",
-   "referencia": null,
-   "precio_justo_usd": 350,
-   "interesante": false,
-   "nota": "La esfera y la caja apuntan a un Omega Geneve de cuarzo de los 70, no a un Seamaster; el título parece engañoso. Con ese modelo, 995 USD está muy por encima del valor de venta real."
-  },
-  "motivo": "triage: La esfera y la caja apuntan a un Omega Geneve de cuarzo de los 70, no a un Seamaster; el título parece engañoso. Con ese modelo, 995 USD está muy por encima del valor de venta real. (justo 350)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Colt GMT A32350 Silver 500m Automatic 40mm Men's Watch + Box & Papers",
-  "total": 2499.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206654491938",
-  "item_id": "v1|206654491938|0",
-  "referencia": "A32350",
-  "mercado": {
-   "n": 5,
-   "p25": 2500,
-   "mediana": 2500
-  },
-  "ratio_mercado": 1.0,
-  "motivo": "precio normal (100 % del cuartil bajo de A32350)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Breitling",
-  "titulo": "BREITLING AvengerⅡ GMT A32390 S. Steel 45mm Automatic Men's Watch #1512B",
-  "total": 2607.95,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336863371706",
-  "item_id": "v1|336863371706|0",
-  "referencia": "A32390",
-  "mercado": {
-   "n": 5,
-   "p25": 3450,
-   "mediana": 3500
-  },
-  "ratio_mercado": 0.756,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 2400,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, aparentemente muy bueno, pero las fotos no son del mismo reloj"
-  },
-  "ratio_justo": 1.087,
-  "motivo": "precio normal segun revision (109 % del justo 2400)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Endurance Pro 44 X82310D51B1S1 Breitlight Chronograph Blue 2024 B&P",
-  "total": 2950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128156687422",
-  "item_id": "v1|128156687422|0",
-  "triage": {
-   "modelo": "Breitling Endurance Pro 44 Breitlight Chronograph, esfera azul (B&P)",
-   "referencia": "X82310D51B1S1",
-   "precio_justo_usd": 2450,
-   "interesante": false,
-   "nota": "Precio pedido de 2950 USD está por encima del valor de venta cerrada estimado para este modelo de 2024 usado con caja y papeles; no cumple el umbral del 15 % de descuento."
-  },
-  "motivo": "triage: Precio pedido de 2950 USD está por encima del valor de venta cerrada estimado para este modelo de 2024 usado con caja y papeles; no cumple el umbral del 15 % de descuento. (justo 2450)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Chronomat B01 42 Chronograph 18k Rose Gold/Steel Mens Watch B/P UB0134",
-  "total": 7535.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800839159452",
-  "item_id": "v1|800839159452|0",
-  "referencia": "UB0134",
-  "mercado": {
-   "n": 5,
-   "p25": 8349,
-   "mediana": 8349
-  },
-  "ratio_mercado": 0.903,
-  "motivo": "precio normal (90 % del cuartil bajo de UB0134)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
   "marca": "Breitling",
   "titulo": "Breitling AB0139211L1P1 Navitimer B01 Chronograph 41 Men's Watch",
   "total": 6750.0,
@@ -11882,5 +11767,113 @@
    "nota": "Precio pedido muy superior al valor de mercado; la tirada de 55 piezas no está verificada y 'NOS/sin uso' contradice 'imperfecciones'."
   },
   "motivo": "triage: Precio pedido muy superior al valor de mercado; la tirada de 55 piezas no está verificada y 'NOS/sin uso' contradice 'imperfecciones'. (justo 7000)"
+ },
+ {
+  "fecha": "2026-10-26T23:51:34.299943+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT Master II \"Batman\" Ref.126710BLNR NOS 2022",
+  "total": 18850.0,
+  "condicion": "New without box or papers",
+  "url": "https://www.ebay.com/itm/137877979552",
+  "item_id": "v1|137877979552|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 60,
+   "p25": 19990,
+   "mediana": 20580
+  },
+  "ratio_mercado": 0.943,
+  "motivo": "precio normal (94 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-10-26T23:51:34.299943+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yacht-Master 40 mm 126622-0002 Pre-owned · Very good Box & Papers 2022",
+  "total": 14220.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137877976396",
+  "item_id": "v1|137877976396|0",
+  "referencia": "126622",
+  "mercado": {
+   "n": 19,
+   "p25": 15200,
+   "mediana": 15995
+  },
+  "ratio_mercado": 0.936,
+  "motivo": "precio normal (94 % del cuartil bajo de 126622)"
+ },
+ {
+  "fecha": "2026-10-26T23:51:34.299943+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 36MM Datejust Oystersteel Everose 18KT Rose Gold Two-Tone Diamond Watch",
+  "total": 18950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117489134828",
+  "item_id": "v1|117489134828|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 mm Oystersteel y Everose (dos tonos, brazalete Jubilee)",
+   "referencia": "126231 o 126281RBR (no verificable desde la foto)",
+   "precio_justo_usd": 15500,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta estimado para un Datejust 36 bicolor usado; la foto no permite confirmar referencia ni autenticidad."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta estimado para un Datejust 36 bicolor usado; la foto no permite confirmar referencia ni autenticidad. (justo 15500)"
+ },
+ {
+  "fecha": "2026-10-26T23:51:34.299943+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner 116610ln-0001 Pre-owned Box & Papers 2012",
+  "total": 12110.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137877974522",
+  "item_id": "v1|137877974522|0",
+  "referencia": "116610LN",
+  "mercado": {
+   "n": 60,
+   "p25": 12899,
+   "mediana": 13500
+  },
+  "ratio_mercado": 0.939,
+  "motivo": "precio normal (94 % del cuartil bajo de 116610LN)"
+ },
+ {
+  "fecha": "2026-10-26T23:51:34.299943+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Pelagos 39 M25407N Titanium AUG 2026 NEW Stickered Full Set",
+  "total": 4995.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206656301314",
+  "item_id": "v1|206656301314|0",
+  "referencia": "M25407N",
+  "mercado": {
+   "n": 1,
+   "p25": 5650,
+   "mediana": 5650
+  },
+  "triage": {
+   "modelo": "Tudor Pelagos 39 (titanio, esfera negra, bisel negro, brazalete de titanio)",
+   "referencia": "M25407N",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Precio pedido de US$4995 con envío supera el precio de mercado nuevo con caja y papeles (aprox. US$3600-4200 en mercado gris); no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$4995 con envío supera el precio de mercado nuevo con caja y papeles (aprox. US$3600-4200 en mercado gris); no es una oportunidad. (justo 3800)"
+ },
+ {
+  "fecha": "2026-10-26T23:51:34.299943+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Aerospace Advantage Titanium Analog/Digital Chronometer 42mm",
+  "total": 2700.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327425315307",
+  "item_id": "v1|327425315307|0",
+  "triage": {
+   "modelo": "Breitling Aerospace Avantage (titanio, analógico/digital, cuarzo)",
+   "referencia": "E79362 (probable, verificar caso y trasera)",
+   "precio_justo_usd": 2000,
+   "interesante": false,
+   "nota": "Precio pedido de US$2700 supera el valor de venta cerrada estimado para este modelo en estado Good, sin caja ni papeles visibles."
+  },
+  "motivo": "triage: Precio pedido de US$2700 supera el valor de venta cerrada estimado para este modelo en estado Good, sin caja ni papeles visibles. (justo 2000)"
  }
 ]
