@@ -2,86 +2,6 @@
  {
   "fecha": "2026-10-26T07:13:14.114589+00:00",
   "marca": "Omega",
-  "titulo": "OMEGA Speedmaster Broad Arrow 321.10.42.50.01.001 42MM Automatic Chronograph",
-  "total": 3450.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206652133857",
-  "item_id": "v1|206652133857|0",
-  "referencia": "321.10.42.50.01.001",
-  "mercado": {
-   "n": 3,
-   "p25": 4300,
-   "mediana": 4445
-  },
-  "triage": {
-   "modelo": "Omega Speedmaster Broad Arrow 42 mm (acero, esfera negra, cronógrafo automático)",
-   "referencia": "321.10.42.50.01.001",
-   "precio_justo_usd": 3700,
-   "interesante": false,
-   "nota": "Precio pedido solo ~7 % bajo la estimación conservadora de venta cerrada; sin margen de 15 % y sin verificar estado ni documentación."
-  },
-  "motivo": "triage: Precio pedido solo ~7 % bajo la estimación conservadora de venta cerrada; sin margen de 15 % y sin verificar estado ni documentación. (justo 3700)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Omega",
-  "titulo": "vintage omega seamaster with NOS JB.Champion Bracelet.",
-  "total": 1200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227582489126",
-  "item_id": "v1|227582489126|0",
-  "triage": {
-   "modelo": "Omega Seamaster vintage, esfera plateada, años 50-60 (posible línea dress de la época)",
-   "referencia": null,
-   "precio_justo_usd": 750,
-   "interesante": false,
-   "nota": "El precio pedido de 1200 USD supera el valor estimado. La pulsera JB Champion NOS suma algo, pero el estado del reloj es solo 'Good' y no se ve la referencia exacta."
-  },
-  "motivo": "triage: El precio pedido de 1200 USD supera el valor estimado. La pulsera JB Champion NOS suma algo, pero el estado del reloj es solo 'Good' y no se ve la referencia exacta. (justo 750)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Speedmaster Professional “DON” Chronograph Tachymètre Ref. 145.022-69 ST",
-  "total": 10799.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377595887094",
-  "item_id": "v1|377595887094|0",
-  "triage": {
-   "modelo": "Omega Speedmaster Professional \"DON\" (Moonwatch, esfera oscura)",
-   "referencia": "145.022-69 ST",
-   "precio_justo_usd": 7500,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta cerrada para esta referencia vintage en estado bueno; verificar autenticidad y estado de la esfera."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta cerrada para esta referencia vintage en estado bueno; verificar autenticidad y estado de la esfera. (justo 7500)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Omega",
-  "titulo": "2025 Omega Speedmaster Moonwatch Professional 310.32.42.50.04.002 42mm",
-  "total": 7499.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/168814875535",
-  "item_id": "v1|168814875535|0",
-  "referencia": "310.32.42.50.04.002",
-  "mercado": {
-   "n": 1,
-   "p25": 7500,
-   "mediana": 7500
-  },
-  "triage": {
-   "modelo": "Omega Speedmaster Professional Moonwatch (esfera blanca, correa de cuero negro)",
-   "referencia": "310.32.42.50.04.002",
-   "precio_justo_usd": 5300,
-   "interesante": false,
-   "nota": "Precio pedido por encima del mercado secundario para esta referencia en estado excelente; no hay descuento claro."
-  },
-  "motivo": "triage: Precio pedido por encima del mercado secundario para esta referencia en estado excelente; no hay descuento claro. (justo 5300)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Omega",
   "titulo": "Vintage Omega Seamaster 1960",
   "total": 1400.0,
   "condicion": "Pre-owned - Good",
@@ -11847,5 +11767,73 @@
    "nota": "Precio cercano al valor de mercado para estado 'Good' sin verificar caja y papeles; no hay descuento de al menos 15%."
   },
   "motivo": "triage: Precio cercano al valor de mercado para estado 'Good' sin verificar caja y papeles; no hay descuento de al menos 15%. (justo 1800)"
+ },
+ {
+  "fecha": "2026-10-26T16:36:24.828204+00:00",
+  "marca": "Rolex",
+  "titulo": "41731: Rolex Ladies Datejust, Ref. 69174, Rolex Papers Circa 1999",
+  "total": 5700.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900042540470",
+  "item_id": "v1|900042540470|0",
+  "referencia": "69174",
+  "mercado": {
+   "n": 39,
+   "p25": 5490,
+   "mediana": 5500
+  },
+  "ratio_mercado": 1.038,
+  "motivo": "precio normal (104 % del cuartil bajo de 69174)"
+ },
+ {
+  "fecha": "2026-10-26T16:36:24.828204+00:00",
+  "marca": "Cartier",
+  "titulo": "42140: Cartier Rose Gold & Steel Tank Solo Quartz, Ref W5200024, Box & Card 2019",
+  "total": 5700.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237145412196",
+  "item_id": "v1|237145412196|0",
+  "referencia": "W5200024",
+  "mercado": {
+   "n": 9,
+   "p25": 6450,
+   "mediana": 6700
+  },
+  "ratio_mercado": 0.884,
+  "motivo": "precio normal (88 % del cuartil bajo de W5200024)"
+ },
+ {
+  "fecha": "2026-10-26T16:36:24.828204+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Genève Chronometer 18K Yellow Gold Vintage Men's Dress Watch 34mm 1960s",
+  "total": 2260.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/206655590868",
+  "item_id": "v1|206655590868|0",
+  "triage": {
+   "modelo": "Omega Genève vintage de oro amarillo, años 60, esfera plateada, correa de piel",
+   "referencia": null,
+   "precio_justo_usd": 1200,
+   "interesante": false,
+   "nota": "Precio pedido de $2260 muy por encima del valor de venta real para un Genève vintage de 18K en estado Fair; la referencia exacta no se distingue en la imagen."
+  },
+  "motivo": "triage: Precio pedido de $2260 muy por encima del valor de venta real para un Genève vintage de 18K en estado Fair; la referencia exacta no se distingue en la imagen. (justo 1200)"
+ },
+ {
+  "fecha": "2026-10-26T16:36:24.828204+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Speedmaster Professional, First watch worn on the moon",
+  "total": 6484.95,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/860086000466",
+  "item_id": "v1|860086000466|0",
+  "triage": {
+   "modelo": "Omega Speedmaster Professional (no identificable: la foto solo muestra un estuche rojo Omega, sin reloj)",
+   "referencia": null,
+   "precio_justo_usd": 5500,
+   "interesante": false,
+   "nota": "La foto no muestra el reloj ni su esfera o caja. Sin referencia, año ni estado verificables, no puedo confirmar el precio. El título 'first watch worn on the moon' es una afirmación de marketing, no un dato de modelo."
+  },
+  "motivo": "triage: La foto no muestra el reloj ni su esfera o caja. Sin referencia, año ni estado verificables, no puedo confirmar el precio. El título 'first watch worn on the moon' es una afirmación de marketing, no un dato de modelo. (justo 5500)"
  }
 ]
