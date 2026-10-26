@@ -10873,5 +10873,35 @@
   "p75": 23660,
   "min": 6299,
   "max": 23660
+ },
+ "Breitling AB2030|nuevo": {
+  "fecha": "2026-10-26",
+  "consulta": "Breitling AB2030",
+  "n": 0
+ },
+ "Breitling AB0412|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Breitling AB0412",
+  "n": 3,
+  "mediana": 4700,
+  "p25": 4684,
+  "p75": 5000,
+  "min": 4684,
+  "max": 5000
+ },
+ "TAG Heuer WBD1111|nuevo": {
+  "fecha": "2026-10-26",
+  "consulta": "TAG Heuer WBD1111",
+  "n": 0
+ },
+ "TAG Heuer WAB1120|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "TAG Heuer WAB1120",
+  "n": 4,
+  "mediana": 1048,
+  "p25": 995,
+  "p75": 1195,
+  "min": 990,
+  "max": 1195
  }
 }
