@@ -3480,14 +3480,14 @@
   "max": 7450
  },
  "TAG Heuer CBG2A10|nuevo": {
-  "fecha": "2026-10-21",
+  "fecha": "2026-10-26",
   "consulta": "TAG Heuer CBG2A10",
   "n": 2,
-  "mediana": 5787,
+  "mediana": 6215,
   "p25": 5599,
-  "p75": 5976,
+  "p75": 6830,
   "min": 5599,
-  "max": 5976
+  "max": 6830
  },
  "Omega 1213.30|usado": {
   "fecha": "2026-10-21",
@@ -10753,5 +10753,15 @@
   "p75": 7695,
   "min": 7695,
   "max": 7695
+ },
+ "Rolex 126284RBR|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Rolex 126284RBR",
+  "n": 4,
+  "mediana": 21178,
+  "p25": 21098,
+  "p75": 23895,
+  "min": 19499,
+  "max": 23895
  }
 }
