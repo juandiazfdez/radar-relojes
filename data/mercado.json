@@ -5335,12 +5335,12 @@
   "max": 4553
  },
  "Tudor 79000N|usado": {
-  "fecha": "2026-10-22",
+  "fecha": "2026-10-26",
   "consulta": "Tudor 79000N",
-  "n": 4,
-  "mediana": 4202,
+  "n": 5,
+  "mediana": 4250,
   "p25": 4150,
-  "p75": 4400,
+  "p75": 4253,
   "min": 3845,
   "max": 4400
  },
@@ -11222,6 +11222,91 @@
  "Breitling E17369|usado": {
   "fecha": "2026-10-26",
   "consulta": "Breitling E17369",
+  "n": 0
+ },
+ "Rolex 278274|nuevo": {
+  "fecha": "2026-10-26",
+  "consulta": "Rolex 278274",
+  "n": 41,
+  "mediana": 15745,
+  "p25": 14597,
+  "p75": 16895,
+  "min": 10945,
+  "max": 18958
+ },
+ "Cartier W6801005|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Cartier W6801005",
+  "n": 1,
+  "mediana": 8725,
+  "p25": 8725,
+  "p75": 8725,
+  "min": 8725,
+  "max": 8725
+ },
+ "Tudor 79910|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Tudor 79910",
+  "n": 1,
+  "mediana": 2549,
+  "p25": 2549,
+  "p75": 2549,
+  "min": 2549,
+  "max": 2549
+ },
+ "Omega 210.30.44.51.06.001|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Omega 210.30.44.51.06.001",
+  "n": 1,
+  "mediana": 6350,
+  "p25": 6350,
+  "p75": 6350,
+  "min": 6350,
+  "max": 6350
+ },
+ "Omega 310.20.42.50.01.001|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Omega 310.20.42.50.01.001",
+  "n": 1,
+  "mediana": 17480,
+  "p25": 17480,
+  "p75": 17480,
+  "min": 17480,
+  "max": 17480
+ },
+ "Omega 3321.30|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Omega 3321.30",
+  "n": 4,
+  "mediana": 3532,
+  "p25": 3220,
+  "p75": 3850,
+  "min": 3000,
+  "max": 3850
+ },
+ "Omega 210.30.42.20.04.001|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Omega 210.30.42.20.04.001",
+  "n": 14,
+  "mediana": 5156,
+  "p25": 5000,
+  "p75": 5497,
+  "min": 4500,
+  "max": 6395
+ },
+ "Breitling A32397|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Breitling A32397",
+  "n": 3,
+  "mediana": 3050,
+  "p25": 2800,
+  "p75": 3750,
+  "min": 2800,
+  "max": 3750
+ },
+ "Jaeger-LeCoultre Q1362580|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Jaeger-LeCoultre Q1362580",
   "n": 0
  }
 }
