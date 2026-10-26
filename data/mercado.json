@@ -4105,7 +4105,7 @@
   "max": 2500
  },
  "Rolex 15003|usado": {
-  "fecha": "2026-10-21",
+  "fecha": "2026-10-26",
   "consulta": "Rolex 15003",
   "n": 4,
   "mediana": 6995,
@@ -11333,5 +11333,65 @@
   "p75": 9600,
   "min": 7495,
   "max": 10800
+ },
+ "Rolex 126603|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Rolex 126603",
+  "n": 43,
+  "mediana": 18000,
+  "p25": 17324,
+  "p75": 18999,
+  "min": 13899,
+  "max": 22895
+ },
+ "Rolex 177200|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Rolex 177200",
+  "n": 11,
+  "mediana": 8499,
+  "p25": 8499,
+  "p75": 8499,
+  "min": 6500,
+  "max": 12000
+ },
+ "Cartier WSBB0062|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Cartier WSBB0062",
+  "n": 2,
+  "mediana": 6372,
+  "p25": 6345,
+  "p75": 6400,
+  "min": 6345,
+  "max": 6400
+ },
+ "Tudor 78570|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Tudor 78570",
+  "n": 0
+ },
+ "Panerai PAM00090|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Panerai PAM00090",
+  "n": 16,
+  "mediana": 4812,
+  "p25": 4400,
+  "p75": 5000,
+  "min": 4195,
+  "max": 7395
+ },
+ "TAG Heuer CAW211P|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "TAG Heuer CAW211P",
+  "n": 0
+ },
+ "IWC IW328208|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "IWC IW328208",
+  "n": 2,
+  "mediana": 5562,
+  "p25": 5289,
+  "p75": 5835,
+  "min": 5289,
+  "max": 5835
  }
 }
