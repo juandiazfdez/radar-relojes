@@ -2,69 +2,6 @@
  {
   "fecha": "2026-10-26T07:13:14.114589+00:00",
   "marca": "Omega",
-  "titulo": "OMEGA Speedmaster Reduced 3510.50 Black Automatic Chronograph 39mm Men's Watch",
-  "total": 3599.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206654524755",
-  "item_id": "v1|206654524755|0",
-  "referencia": "3510.50",
-  "mercado": {
-   "n": 43,
-   "p25": 3500,
-   "mediana": 3692
-  },
-  "ratio_mercado": 1.029,
-  "motivo": "precio normal (103 % del cuartil bajo de 3510.50)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Seamaster Planet Ocean 600M 232.30.42.21.01.001 42mm Boxes & Papers",
-  "total": 4815.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128156765526",
-  "item_id": "v1|128156765526|0",
-  "referencia": "232.30.42.21.01.001",
-  "mercado": {
-   "n": 2,
-   "p25": 4925,
-   "mediana": 5912
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Planet Ocean 600M 42 mm (esfera negra, bisel cerámico, brazalete de acero)",
-   "referencia": "232.30.42.21.01.001",
-   "precio_justo_usd": 5300,
-   "interesante": false,
-   "nota": "Precio pedido ~9 % por debajo de la estimación conservadora de venta cerrada en EE. UU. con caja y papeles; no alcanza el umbral del 15 %."
-  },
-  "motivo": "triage: Precio pedido ~9 % por debajo de la estimación conservadora de venta cerrada en EE. UU. con caja y papeles; no alcanza el umbral del 15 %. (justo 5300)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA 2265.80 Seamaster Electric Blue 41mm Quartz Men's Watch + Box & Papers",
-  "total": 3299.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206654365689",
-  "item_id": "v1|206654365689|0",
-  "referencia": "2265.80",
-  "mercado": {
-   "n": 1,
-   "p25": 2880,
-   "mediana": 2880
-  },
-  "triage": {
-   "modelo": "Omega Seamaster 300M Electric Blue (Professional), cuarzo 41 mm",
-   "referencia": "2265.80",
-   "precio_justo_usd": 2000,
-   "interesante": false,
-   "nota": "Precio pedido de US$3300 muy por encima del valor de venta real de esta referencia de cuarzo con caja y papeles; estimado a la baja."
-  },
-  "motivo": "triage: Precio pedido de US$3300 muy por encima del valor de venta real de esta referencia de cuarzo con caja y papeles; estimado a la baja. (justo 2000)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Omega",
   "titulo": "Mens Omega Seamaster Planet Ocean Co-Axial Chronometer watch 232.30.42.21.01.003",
   "total": 3945.0,
   "condicion": "Pre-owned - Good",
@@ -11846,5 +11783,62 @@
    "nota": "Precio pedido ~14 % bajo estimación conservadora; la esfera de nácar con diamantes exige verificar autenticidad (posibles esferas aftermarket) y la referencia exacta antes de comprar."
   },
   "motivo": "triage: Precio pedido ~14 % bajo estimación conservadora; la esfera de nácar con diamantes exige verificar autenticidad (posibles esferas aftermarket) y la referencia exacta antes de comprar. (justo 5500)"
+ },
+ {
+  "fecha": "2026-10-26T14:21:24.888899+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Rhodium Diamond 18k Gold Steel Box",
+  "total": 12650.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366762473190",
+  "item_id": "v1|366762473190|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 bicolor (acero y oro amarillo de 18k) con esfera azul con diamantes y brazalete Jubilee, con caja original",
+   "referencia": "126233 (probable, sin confirmar)",
+   "precio_justo_usd": 12800,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para esta referencia con esfera de diamantes; el descuento es menor al 15 %. Verificar referencia, número de serie y autenticidad antes de comprar."
+  },
+  "motivo": "triage: Precio cercano al mercado para esta referencia con esfera de diamantes; el descuento es menor al 15 %. Verificar referencia, número de serie y autenticidad antes de comprar. (justo 12800)"
+ },
+ {
+  "fecha": "2026-10-26T14:21:24.888899+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Diver 300M Black Ceramic 43.5mm 210.92.44.20.01.002 - 2023",
+  "total": 6597.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267824424330",
+  "item_id": "v1|267824424330|0",
+  "referencia": "210.92.44.20.01.002",
+  "mercado": {
+   "n": 4,
+   "p25": 6200,
+   "mediana": 6575
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Diver 300M Black Ceramic 43.5mm",
+   "referencia": "210.92.44.20.01.002",
+   "precio_justo_usd": 5600,
+   "interesante": false,
+   "nota": "Precio pedido de US$6597 con envío está por encima del valor de mercado secundario para 2023 en estado Good; sin verificar caja y papeles, no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$6597 con envío está por encima del valor de mercado secundario para 2023 en estado Good; sin verificar caja y papeles, no es una oportunidad. (justo 5600)"
+ },
+ {
+  "fecha": "2026-10-26T14:21:24.888899+00:00",
+  "marca": "Omega",
+  "titulo": "1968 Omega 145.022-68 ST Speedmaster Professional Pre-Moon Survivor Patina",
+  "total": 8020.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327424688773",
+  "item_id": "v1|327424688773|0",
+  "triage": {
+   "modelo": "Omega Speedmaster Professional (pre-Moon, caja de acero, esfera negra con patina)",
+   "referencia": "145.022-68",
+   "precio_justo_usd": 10500,
+   "interesante": false,
+   "nota": "Precio bajo para una pre-Moon 145.022 aunque sea de 1968, por lo que hay que verificar autenticidad, esfera y manecillas originales antes de comprar."
+  },
+  "motivo": "triage: Precio bajo para una pre-Moon 145.022 aunque sea de 1968, por lo que hay que verificar autenticidad, esfera y manecillas originales antes de comprar. (justo 10500)"
  }
 ]
