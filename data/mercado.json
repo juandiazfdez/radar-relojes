@@ -5035,13 +5035,13 @@
   "max": 7175
  },
  "Breitling A17395|usado": {
-  "fecha": "2026-10-22",
+  "fecha": "2026-10-26",
   "consulta": "Breitling A17395",
-  "n": 2,
-  "mediana": 3897,
-  "p25": 3300,
+  "n": 1,
+  "mediana": 4495,
+  "p25": 4495,
   "p75": 4495,
-  "min": 3300,
+  "min": 4495,
   "max": 4495
  },
  "Cartier W2RN0008|usado": {
@@ -11453,5 +11453,60 @@
   "p75": 2400,
   "min": 1779,
   "max": 3000
+ },
+ "Rolex 126000|nuevo": {
+  "fecha": "2026-10-26",
+  "consulta": "Rolex 126000",
+  "n": 34,
+  "mediana": 11500,
+  "p25": 11000,
+  "p75": 12549,
+  "min": 8300,
+  "max": 21445
+ },
+ "Rolex 6221|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Rolex 6221",
+  "n": 0
+ },
+ "Tudor M79000N|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Tudor M79000N",
+  "n": 1,
+  "mediana": 3845,
+  "p25": 3845,
+  "p75": 3845,
+  "min": 3845,
+  "max": 3845
+ },
+ "Breitling A45320|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Breitling A45320",
+  "n": 3,
+  "mediana": 2999,
+  "p25": 2300,
+  "p75": 4269,
+  "min": 2300,
+  "max": 4269
+ },
+ "Breitling A13355|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Breitling A13355",
+  "n": 4,
+  "mediana": 3350,
+  "p25": 3000,
+  "p75": 5500,
+  "min": 2989,
+  "max": 5500
+ },
+ "Breitling A44355|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Breitling A44355",
+  "n": 4,
+  "mediana": 3905,
+  "p25": 3500,
+  "p75": 14850,
+  "min": 2800,
+  "max": 14850
  }
 }
