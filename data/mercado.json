@@ -11073,5 +11073,40 @@
   "p75": 895,
   "min": 500,
   "max": 895
+ },
+ "Rolex 126610LV|nuevo": {
+  "fecha": "2026-10-26",
+  "consulta": "Rolex 126610LV",
+  "n": 41,
+  "mediana": 16508,
+  "p25": 16250,
+  "p75": 17350,
+  "min": 15626,
+  "max": 23500
+ },
+ "Tudor 79830R|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Tudor 79830R",
+  "n": 0
+ },
+ "Panerai PAM00359|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Panerai PAM00359",
+  "n": 12,
+  "mediana": 5000,
+  "p25": 4585,
+  "p75": 5790,
+  "min": 3771,
+  "max": 6190
+ },
+ "Breitling 81950|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Breitling 81950",
+  "n": 3,
+  "mediana": 3000,
+  "p25": 1714,
+  "p75": 5000,
+  "min": 1714,
+  "max": 5000
  }
 }
