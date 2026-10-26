@@ -2,63 +2,6 @@
  {
   "fecha": "2026-10-26T07:13:14.114589+00:00",
   "marca": "Omega",
-  "titulo": "Vintage Omega Seamaster 1960",
-  "total": 1400.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407314580479",
-  "item_id": "v1|407314580479|0",
-  "triage": {
-   "modelo": "Omega Seamaster vintage (años 60), posible modelo de vestir de caja dorada; no se distingue la línea exacta",
-   "referencia": null,
-   "precio_justo_usd": 650,
-   "interesante": false,
-   "nota": "La foto no muestra logo, referencia ni movimiento; el aspecto es de reloj de vestir de caja dorada con correa de piel, y el precio pedido supera el valor probable."
-  },
-  "motivo": "triage: La foto no muestra logo, referencia ni movimiento; el aspecto es de reloj de vestir de caja dorada con correa de piel, y el precio pedido supera el valor probable. (justo 650)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Seamaster Planet Ocean 600M Orange 2026 Complete Set 217.32.42.21.01.004",
-  "total": 7995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920072444050",
-  "item_id": "v1|920072444050|0",
-  "referencia": "217.32.42.21.01.004",
-  "mercado": {
-   "n": 2,
-   "p25": 7399,
-   "mediana": 7698
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Planet Ocean 600M, bisel naranja con correa de caucho naranja",
-   "referencia": "217.32.42.21.01.004",
-   "precio_justo_usd": 6000,
-   "interesante": false,
-   "nota": "Precio pedido de 7995 USD por un usado en excelente estado supera el mercado; el título 'Complete Set 2026' no concuerda con un modelo usado y conviene verificar año y papeles."
-  },
-  "motivo": "triage: Precio pedido de 7995 USD por un usado en excelente estado supera el mercado; el título 'Complete Set 2026' no concuerda con un modelo usado y conviene verificar año y papeles. (justo 6000)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Aqua Terra 150M",
-  "total": 6460.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/257816398513",
-  "item_id": "v1|257816398513|0",
-  "triage": {
-   "modelo": "Omega Seamaster Aqua Terra 150M Co-Axial Master Chronometer (esfera negra, brazalete de acero)",
-   "referencia": "220.10.38.20.01.001 (probable, tamaño no confirmado en la imagen)",
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "Nuevo con caja y papeles, se vende en el mercado secundario unos 25-35 % bajo retail; US$6460 está por encima de ese rango."
-  },
-  "motivo": "triage: Nuevo con caja y papeles, se vende en el mercado secundario unos 25-35 % bajo retail; US$6460 está por encima de ese rango. (justo 4300)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Omega",
   "titulo": "2020 OMEGA Speedmaster Sedna Gold Chrono 38mm Cappuccino 324.23.38.50.02.002 B&P",
   "total": 5995.0,
   "condicion": "Pre-owned - Excellent",
@@ -11835,5 +11778,62 @@
    "nota": "La foto no muestra el reloj ni su esfera o caja. Sin referencia, año ni estado verificables, no puedo confirmar el precio. El título 'first watch worn on the moon' es una afirmación de marketing, no un dato de modelo."
   },
   "motivo": "triage: La foto no muestra el reloj ni su esfera o caja. Sin referencia, año ni estado verificables, no puedo confirmar el precio. El título 'first watch worn on the moon' es una afirmación de marketing, no un dato de modelo. (justo 5500)"
+ },
+ {
+  "fecha": "2026-10-26T16:51:25.748141+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Hulk 116610LV 40mm Green 2012 w/ Papers",
+  "total": 19200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377599090667",
+  "item_id": "v1|377599090667|0",
+  "referencia": "116610LV",
+  "mercado": {
+   "n": 36,
+   "p25": 20699,
+   "mediana": 21055
+  },
+  "ratio_mercado": 0.928,
+  "motivo": "precio normal (93 % del cuartil bajo de 116610LV)"
+ },
+ {
+  "fecha": "2026-10-26T16:51:25.748141+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer 2000 Chronograph 565.306 38mm  New Battery never worn",
+  "total": 1200.0,
+  "condicion": "New without box or papers",
+  "url": "https://www.ebay.com/itm/880053757740",
+  "item_id": "v1|880053757740|0",
+  "triage": {
+   "modelo": "TAG Heuer 2000 Chronograph (bicolor acero/oro, esfera negra)",
+   "referencia": "565.306",
+   "precio_justo_usd": 650,
+   "interesante": false,
+   "nota": "Cuarzo bicolor sin caja ni papeles; el precio pedido de US$1200 está muy por encima de su valor de venta real."
+  },
+  "motivo": "triage: Cuarzo bicolor sin caja ni papeles; el precio pedido de US$1200 está muy por encima de su valor de venta real. (justo 650)"
+ },
+ {
+  "fecha": "2026-10-26T16:51:25.748141+00:00",
+  "marca": "IWC",
+  "titulo": "IWC Big Pilot Perpetual Calendar 'Le Petit Prince' LE IW502802 | MINT Condition",
+  "total": 25495.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336864199017",
+  "item_id": "v1|336864199017|0",
+  "referencia": "IW502802",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "IWC Big Pilot Perpetual Calendar 'Le Petit Prince' (caja de oro rojo, esfera azul, fases de luna)",
+   "referencia": "IW502802",
+   "precio_justo_usd": 33000,
+   "interesante": false,
+   "nota": "Precio ~23% bajo mercado para oro rojo con calendario perpetuo; sospechoso de replica o listado engañoso. Exigir verificacion de autenticidad, papeles y caja."
+  },
+  "motivo": "triage: Precio ~23% bajo mercado para oro rojo con calendario perpetuo; sospechoso de replica o listado engañoso. Exigir verificacion de autenticidad, papeles y caja. (justo 33000)"
  }
 ]
