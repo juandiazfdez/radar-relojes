@@ -11308,5 +11308,30 @@
   "fecha": "2026-10-26",
   "consulta": "Jaeger-LeCoultre Q1362580",
   "n": 0
+ },
+ "Omega 232.32.44.22.01.002|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Omega 232.32.44.22.01.002",
+  "n": 2,
+  "mediana": 5244,
+  "p25": 5090,
+  "p75": 5399,
+  "min": 5090,
+  "max": 5399
+ },
+ "TAG Heuer CBL218E|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "TAG Heuer CBL218E",
+  "n": 0
+ },
+ "IWC IW395503|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "IWC IW395503",
+  "n": 5,
+  "mediana": 8030,
+  "p25": 7950,
+  "p75": 9600,
+  "min": 7495,
+  "max": 10800
  }
 }
