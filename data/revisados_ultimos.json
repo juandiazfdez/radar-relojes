@@ -2,75 +2,6 @@
  {
   "fecha": "2026-10-26T07:13:14.114589+00:00",
   "marca": "Panerai",
-  "titulo": "Panerai Radiomir Black Seal PAM00380 45mm Men’s Watch Authentic w/ Box",
-  "total": 3045.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287669189612",
-  "item_id": "v1|287669189612|0",
-  "referencia": "PAM00380",
-  "mercado": {
-   "n": 8,
-   "p25": 4000,
-   "mediana": 4442
-  },
-  "ratio_mercado": 0.761,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 3200,
-   "riesgo_autenticidad": "medio",
-   "estado": "Aparenta muy buen estado, pero las fotos no parecen ser todas del mismo reloj y faltan fondo de caja, caja original y papeles"
-  },
-  "motivo": "Claude descarto: Las fotos parecen mezcladas. La foto 1 muestra una correa de cocodrilo brillante, la foto 2 una de lagarto o liso con otro grano, y la foto 4 una de cuero liso con costura crema. Es posible que sean fotos de catálogo o de otras unidades, y la descripción dice que las fotos 'muestran el reloj exacto'.; No hay foto del fondo de caja, ni del movimiento, ni del número de serie. Es la prueba clave para verificar autenticidad en un Panerai y el vendedor solo la ofrece 'si se la piden'."
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai Ferrari Scuderia Chronograph 45mm Automatic Steel Watch FER00008 LE /700",
-  "total": 4199.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/227579256478",
-  "item_id": "v1|227579256478|0",
-  "triage": {
-   "modelo": "Panerai Ferrari Scuderia Chronograph 45 mm, acero, edición limitada de 700 piezas",
-   "referencia": "FER00008",
-   "precio_justo_usd": 7500,
-   "interesante": false,
-   "nota": "Precio unos 44 % por debajo del mercado para esta edición limitada; la foto es de baja resolución y el descuento tan grande sugiere posible réplica o listado incompleto. Verificar autenticidad, papeles y número de serie antes de considerarlo."
-  },
-  "motivo": "triage: Precio unos 44 % por debajo del mercado para esta edición limitada; la foto es de baja resolución y el descuento tan grande sugiere posible réplica o listado incompleto. Verificar autenticidad, papeles y número de serie antes de considerarlo. (justo 7500)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai Luminor Marina PAM 00299",
-  "total": 5003.54,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336857936984",
-  "item_id": "v1|336857936984|0",
-  "referencia": "PAM 00299",
-  "mercado": {
-   "n": 2,
-   "p25": 4825,
-   "mediana": 5362
-  },
-  "triage": {
-   "modelo": "Panerai Luminor Marina (44 mm, acero)",
-   "referencia": "PAM 00299",
-   "precio_justo_usd": 5900,
-   "interesante": true,
-   "nota": "Acero, estado Good sin papeles visibles; verificar autenticidad y caja/papeles antes de comprar."
-  },
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 4700,
-   "riesgo_autenticidad": "medio",
-   "estado": "Aspecto bueno y limpio: caja de acero con pulido y satinado intactos, brazalete sin holguras visibles, cristal y esfera sin daños evidentes"
-  },
-  "motivo": "Claude descarto: El precio de US$5004 está en el mercado, no por debajo. Los 2 comparables son precios pedidos (cuartil bajo 4825, mediana 5362), y el cierre real suele quedar más bajo. El margen de reventa es mínimo o nulo.; El precio justo de 5900 del triage parece alto para un PAM 00299 con brazalete de acero. Las ventas cerradas de esta referencia están alrededor de 4500-5000, incluso con caja y papeles."
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Panerai",
   "titulo": "Unpolished 47mm Titanium Panerai Luminor Submersible 1950 3 Days PAM01305",
   "total": 5150.0,
   "condicion": "Pre-owned - Excellent",
@@ -11864,5 +11795,62 @@
    "nota": "Precio solo ~7% bajo estimación para un modelo nuevo sin caja ni papeles; con esa diferencia de precio y sin papeles, pide verificar autenticidad antes de comprar."
   },
   "motivo": "triage: Precio solo ~7% bajo estimación para un modelo nuevo sin caja ni papeles; con esa diferencia de precio y sin papeles, pide verificar autenticidad antes de comprar. (justo 4200)"
+ },
+ {
+  "fecha": "2026-10-26T13:21:25.057178+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay Fifty-Eight 39mm Black Dial/Bezel Auto Chronometer 200m Box",
+  "total": 3800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128157485397",
+  "item_id": "v1|128157485397|0",
+  "triage": {
+   "modelo": "TUDOR Black Bay Fifty-Eight 39 mm, esfera y bisel negros, brazalete de acero",
+   "referencia": "79030N",
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Precio pedido cercano al retail actual de la 79030N y por encima del precio de venta cerrada de uso en el mercado; sin papeles mencionados."
+  },
+  "motivo": "triage: Precio pedido cercano al retail actual de la 79030N y por encima del precio de venta cerrada de uso en el mercado; sin papeles mencionados. (justo 3100)"
+ },
+ {
+  "fecha": "2026-10-26T13:21:25.057178+00:00",
+  "marca": "Panerai",
+  "titulo": "PANERAI 3 Days Marina Militaire Acciaio -47mm PAM00587 Rare Limited Edt Full Set",
+  "total": 8597.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840061909383",
+  "item_id": "v1|840061909383|0",
+  "referencia": "PAM00587",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Panerai Luminor Marina Militare 3 Days, caja cojín de acero 47 mm",
+   "referencia": "PAM00587 (según el título; no puedo verificarla solo con la foto)",
+   "precio_justo_usd": 7800,
+   "interesante": false,
+   "nota": "Precio pedido unos 10 % por encima de un estimado conservador para esta referencia de acero, en buen estado y con juego completo; no hay descuento claro."
+  },
+  "motivo": "triage: Precio pedido unos 10 % por encima de un estimado conservador para esta referencia de acero, en buen estado y con juego completo; no hay descuento claro. (justo 7800)"
+ },
+ {
+  "fecha": "2026-10-26T13:21:25.057178+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Superocean A17366 - Blue Dial, 42mm, Box, Digtal Docs, Steel Bracelet",
+  "total": 3495.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840061913880",
+  "item_id": "v1|840061913880|0",
+  "referencia": "A17366",
+  "mercado": {
+   "n": 8,
+   "p25": 3205,
+   "mediana": 3272
+  },
+  "ratio_mercado": 1.09,
+  "motivo": "precio normal (109 % del cuartil bajo de A17366)"
  }
 ]
