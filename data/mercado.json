@@ -11788,5 +11788,25 @@
   "fecha": "2026-10-26",
   "consulta": "TAG Heuer CAZ101AT",
   "n": 0
+ },
+ "Cartier 1100|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Cartier 1100",
+  "n": 5,
+  "mediana": 7040,
+  "p25": 7007,
+  "p75": 7329,
+  "min": 5850,
+  "max": 7950
+ },
+ "Bulgari RT39S|usado": {
+  "fecha": "2026-10-26",
+  "consulta": "Bulgari RT39S",
+  "n": 4,
+  "mediana": 604,
+  "p25": 500,
+  "p75": 800,
+  "min": 215,
+  "max": 800
  }
 }
