@@ -1,69 +1,6 @@
 [
  {
   "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai PAM024 Luminor Submersible F0050/1500 2003 Full Set Papers ",
-  "total": 3835.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147649450157",
-  "item_id": "v1|147649450157|0",
-  "referencia": "PAM024",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Panerai Luminor Submersible (2003)",
-   "referencia": "PAM024",
-   "precio_justo_usd": 5500,
-   "interesante": false,
-   "nota": "Precio ~30% bajo mercado para un PAM024 de 2003 con papeles, pero es demasiado bajo para un Panerai; verificar autenticidad, numeración y estado antes de considerarlo."
-  },
-  "motivo": "triage: Precio ~30% bajo mercado para un PAM024 de 2003 con papeles, pero es demasiado bajo para un Panerai; verificar autenticidad, numeración y estado antes de considerarlo. (justo 5500)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Panerai",
-  "titulo": "Blue Panerai Luminor GMT Watch With OEM Steel Bracelet- PAM1033, PAM001033",
-  "total": 6950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257817975550",
-  "item_id": "v1|257817975550|0",
-  "referencia": "PAM1033",
-  "mercado": {
-   "n": 2,
-   "p25": 5750,
-   "mediana": 7096
-  },
-  "triage": {
-   "modelo": "Panerai Luminor GMT Automatic 44 mm, esfera azul, brazalete de acero",
-   "referencia": "PAM01033",
-   "precio_justo_usd": 6800,
-   "interesante": false,
-   "nota": "Precio pedido cercano al valor de mercado para usado en buen estado sin caja ni papeles indicados. La foto parece de catálogo o de stock, así que conviene pedir fotos reales y verificar número de serie."
-  },
-  "motivo": "triage: Precio pedido cercano al valor de mercado para usado en buen estado sin caja ni papeles indicados. La foto parece de catálogo o de stock, así que conviene pedir fotos reales y verificar número de serie. (justo 6800)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai 47 MM Luminor Marina 2025 Box Papers PAM00422",
-  "total": 9750.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/168814563382",
-  "item_id": "v1|168814563382|0",
-  "referencia": "PAM00422",
-  "mercado": {
-   "n": 10,
-   "p25": 5799,
-   "mediana": 6460
-  },
-  "ratio_mercado": 1.681,
-  "motivo": "precio normal (168 % del cuartil bajo de PAM00422)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
   "marca": "Omega",
   "titulo": "OMEGA Seamaster Railmaster 1957 Trilogy 220.10.38.20.01.002 COMPLETE SET",
   "total": 5625.0,
@@ -11858,5 +11795,62 @@
    "nota": "Pedido de US$8633 con envío, por encima de su precio de reventa estimado para un 2025 en estado Good; no cumple el umbral del 15 %."
   },
   "motivo": "triage: Pedido de US$8633 con envío, por encima de su precio de reventa estimado para un 2025 en estado Good; no cumple el umbral del 15 %. (justo 6300)"
+ },
+ {
+  "fecha": "2026-10-26T13:51:24.911968+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Rotonde de Cartier Grand Date 18K White Gold Watch W1550751",
+  "total": 6550.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137876740738",
+  "item_id": "v1|137876740738|0",
+  "referencia": "W1550751",
+  "mercado": {
+   "n": 1,
+   "p25": 10950,
+   "mediana": 10950
+  },
+  "triage": {
+   "modelo": "Cartier Ronde (visible: esfera plateada, numerales romanos, segundero a las 6, caja de acero; parece Ronde Louis Cartier o Ronde Solo, no Rotonde Grand Date)",
+   "referencia": null,
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "El título dice Rotonde Grand Date 18K oro blanco (W1550751), pero la foto muestra otro modelo de caja de acero. Discrepancia y precio muy bajo para oro blanco: alto riesgo de listado engañoso. Pedir fotos del reverso, número de serie y papeles."
+  },
+  "motivo": "triage: El título dice Rotonde Grand Date 18K oro blanco (W1550751), pero la foto muestra otro modelo de caja de acero. Discrepancia y precio muy bajo para oro blanco: alto riesgo de listado engañoso. Pedir fotos del reverso, número de serie y papeles. (justo 3500)"
+ },
+ {
+  "fecha": "2026-10-26T13:51:24.911968+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Automatic Watch 4072 Stainless Steel – Box Included – Pre-Owned",
+  "total": 9950.17,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407317533914",
+  "item_id": "v1|407317533914|0",
+  "triage": {
+   "modelo": "Cartier Santos de Cartier (XL, acero, esfera blanca con números romanos y agujas azules), aparentemente de la generación actual",
+   "referencia": null,
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "El título dice Santos 4072, pero el diseño visible corresponde a un Santos de producción reciente; la referencia no coincide. Aun así, US$9.950 supera el mercado de segunda mano para este modelo."
+  },
+  "motivo": "triage: El título dice Santos 4072, pero el diseño visible corresponde a un Santos de producción reciente; la referencia no coincide. Aun así, US$9.950 supera el mercado de segunda mano para este modelo. (justo 7000)"
+ },
+ {
+  "fecha": "2026-10-26T13:51:24.911968+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Constellation 36mm Automatic 2006 Cal 1120 23J Stainless Steel Swiss Men's",
+  "total": 2300.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267824410659",
+  "item_id": "v1|267824410659|0",
+  "triage": {
+   "modelo": "Omega Constellation 36mm automático (serie 1200, calibre 1120), 2006, esfera plateada con índices romanos",
+   "referencia": null,
+   "precio_justo_usd": 1400,
+   "interesante": false,
+   "nota": "El precio pedido (US$2300) supera con holgura el valor de venta real de este modelo en estado usado. La foto muestra caja y brazalete de aspecto blanco, no acero, así que hay que verificar el material y la referencia antes de cualquier oferta."
+  },
+  "motivo": "triage: El precio pedido (US$2300) supera con holgura el valor de venta real de este modelo en estado usado. La foto muestra caja y brazalete de aspecto blanco, no acero, así que hay que verificar el material y la referencia antes de cualquier oferta. (justo 1400)"
  }
 ]
