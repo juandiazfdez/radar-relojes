@@ -2,40 +2,6 @@
  {
   "fecha": "2026-10-26T07:13:14.114589+00:00",
   "marca": "Breitling",
-  "titulo": "Breitling Chronomat",
-  "total": 21000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307247695435",
-  "item_id": "v1|307247695435|0",
-  "triage": {
-   "modelo": "Breitling Chronomat B01 42 (caja oro rosa, esfera negra, correa de caucho verde)",
-   "referencia": null,
-   "precio_justo_usd": 15000,
-   "interesante": false,
-   "nota": "Precio pedido de 21.000 USD muy por encima del mercado usado; la referencia exacta y el material (oro 18k vs. chapado) no son verificables en la foto."
-  },
-  "motivo": "triage: Precio pedido de 21.000 USD muy por encima del mercado usado; la referencia exacta y el material (oro 18k vs. chapado) no son verificables en la foto. (justo 15000)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Superocean Heritage B31 Automatic 42 Two-Tone 2026 Full Set Unworn",
-  "total": 6825.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880047592926",
-  "item_id": "v1|880047592926|0",
-  "triage": {
-   "modelo": "Breitling Superocean Heritage B31 Automatic 42 Two-Tone",
-   "referencia": null,
-   "precio_justo_usd": 4900,
-   "interesante": false,
-   "nota": "Precio pedido de US$6825 es cercano al retail; con descuento normal de mercado gris (25-45%) el precio justo es menor. La referencia exacta no es verificable solo con la imagen."
-  },
-  "motivo": "triage: Precio pedido de US$6825 es cercano al retail; con descuento normal de mercado gris (25-45%) el precio justo es menor. La referencia exacta no es verificable solo con la imagen. (justo 4900)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Breitling",
   "titulo": "Breitling Superocean Heritage Automatic 42 Blue Men’s AB2010161C1S1 – Full Set",
   "total": 3920.0,
   "condicion": "Pre-owned - Excellent",
@@ -11833,5 +11799,45 @@
    "nota": "Pie Pan 14K sobre acero con caja y papeles; el precio pedido de 5000 USD supera el rango de venta cerrada conservador, aunque el estado se vea bien."
   },
   "motivo": "triage: Pie Pan 14K sobre acero con caja y papeles; el precio pedido de 5000 USD supera el rango de venta cerrada conservador, aunque el estado se vea bien. (justo 3800)"
+ },
+ {
+  "fecha": "2026-10-27T00:51:45.712812+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "Tag Heuer Aquaracer Automatic WAF2110-0",
+  "total": 1500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198748159734",
+  "item_id": "v1|198748159734|0",
+  "referencia": "WAF2110",
+  "mercado": {
+   "n": 2,
+   "p25": 850,
+   "mediana": 1082
+  },
+  "triage": {
+   "modelo": "TAG Heuer Aquaracer Automatic (300 m, esfera negra, brazalete de acero, fecha a las 3)",
+   "referencia": "WAF2110",
+   "precio_justo_usd": 1100,
+   "interesante": false,
+   "nota": "Precio pedido US$1500 está por encima del valor de venta real de esta referencia en estado usado; no hay descuento significativo."
+  },
+  "motivo": "triage: Precio pedido US$1500 está por encima del valor de venta real de esta referencia en estado usado; no hay descuento significativo. (justo 1100)"
+ },
+ {
+  "fecha": "2026-10-27T00:51:45.712812+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "Men’s Tag Heuer Aquaracer CAY111A",
+  "total": 2000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206656394629",
+  "item_id": "v1|206656394629|0",
+  "referencia": "CAY111A",
+  "mercado": {
+   "n": 6,
+   "p25": 895,
+   "mediana": 1462
+  },
+  "ratio_mercado": 2.235,
+  "motivo": "precio normal (223 % del cuartil bajo de CAY111A)"
  }
 ]

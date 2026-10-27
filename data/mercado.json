@@ -3925,12 +3925,12 @@
   "max": 4300
  },
  "TAG Heuer CAY111A|usado": {
-  "fecha": "2026-10-21",
+  "fecha": "2026-10-27",
   "consulta": "TAG Heuer CAY111A",
   "n": 6,
-  "mediana": 1472,
+  "mediana": 1462,
   "p25": 895,
-  "p75": 2000,
+  "p75": 1795,
   "min": 895,
   "max": 2250
  },
@@ -11913,5 +11913,15 @@
   "p75": 8800,
   "min": 8800,
   "max": 8800
+ },
+ "TAG Heuer WAF2110|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "TAG Heuer WAF2110",
+  "n": 2,
+  "mediana": 1082,
+  "p25": 850,
+  "p75": 1315,
+  "min": 850,
+  "max": 1315
  }
 }
