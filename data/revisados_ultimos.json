@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-26T07:13:14.114589+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Kirium Ti5 Men's Watch WL1180",
-  "total": 550.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366759500191",
-  "item_id": "v1|366759500191|0",
-  "referencia": "WL1180",
-  "mercado": {
-   "n": 5,
-   "p25": 585,
-   "mediana": 600
-  },
-  "ratio_mercado": 0.94,
-  "motivo": "precio normal (94 % del cuartil bajo de WL1180)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "TAG Heuer",
   "titulo": "Tag Heuer Carrera Car2012-4 Steel Mens Automatic White Preserved Chronograph",
   "total": 2100.0,
   "condicion": "Pre-owned - Excellent",
@@ -11772,5 +11755,29 @@
    "nota": "Precio por debajo del justo pero con descuento menor al 15 %; estado 'Good', la correa no parece original y la imagen no permite verificar autenticidad ni año."
   },
   "motivo": "triage: Precio por debajo del justo pero con descuento menor al 15 %; estado 'Good', la correa no parece original y la imagen no permite verificar autenticidad ni año. (justo 3000)"
+ },
+ {
+  "fecha": "2026-10-27T12:37:06.526835+00:00",
+  "marca": "Rolex",
+  "titulo": "1967 Rolex Submariner 5513 No Date 40mm Divers Stainless Steel Wristwatch",
+  "total": 9500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137879406327",
+  "item_id": "v1|137879406327|0",
+  "referencia": "5513",
+  "mercado": {
+   "n": 31,
+   "p25": 11918,
+   "mediana": 13448
+  },
+  "ratio_mercado": 0.797,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 8500,
+   "riesgo_autenticidad": "medio",
+   "estado": "Bueno a muy bueno, con rayones normales; no es original en esfera, agujas ni inserto"
+  },
+  "ratio_justo": 1.118,
+  "motivo": "precio normal segun revision (112 % del justo 8500)"
  }
 ]
