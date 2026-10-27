@@ -2840,13 +2840,13 @@
   "max": 7238
  },
  "Breitling A13324|usado": {
-  "fecha": "2026-10-20",
+  "fecha": "2026-10-27",
   "consulta": "Breitling A13324",
-  "n": 9,
-  "mediana": 5189,
-  "p25": 4600,
+  "n": 10,
+  "mediana": 5044,
+  "p25": 4710,
   "p75": 6495,
-  "min": 4495,
+  "min": 4500,
   "max": 6950
  },
  "Breitling AB3521|nuevo": {
@@ -13423,5 +13423,40 @@
   "p75": 7923,
   "min": 7568,
   "max": 7923
+ },
+ "Rolex 179158|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Rolex 179158",
+  "n": 4,
+  "mediana": 30280,
+  "p25": 27130,
+  "p75": 43375,
+  "min": 25700,
+  "max": 43375
+ },
+ "Panerai PAM187|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Panerai PAM187",
+  "n": 0
+ },
+ "Breitling AB0510|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Breitling AB0510",
+  "n": 12,
+  "mediana": 5425,
+  "p25": 4850,
+  "p75": 5500,
+  "min": 4000,
+  "max": 6485
+ },
+ "TAG Heuer WD1221|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "TAG Heuer WD1221",
+  "n": 1,
+  "mediana": 700,
+  "p25": 700,
+  "p75": 700,
+  "min": 700,
+  "max": 700
  }
 }
