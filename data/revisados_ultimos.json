@@ -2,29 +2,6 @@
  {
   "fecha": "2026-10-26T07:13:14.114589+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG Heuer CA1211 Mens 1/10th Chronograph Quartz Watch 571.513 Black Gray Leather",
-  "total": 555.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960111942117",
-  "item_id": "v1|960111942117|0",
-  "referencia": "CA1211, 571.513",
-  "mercado": {
-   "n": 5,
-   "p25": 950,
-   "mediana": 1580
-  },
-  "ratio_mercado": 0.584,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 320,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Aceptable (aprox. 7/10): bisel muy desgastado, agujas oxidadas, sin hermeticidad, correa nueva no original"
-  },
-  "motivo": "Claude descarto: Precio pedido de US$555 por encima del mercado real. Los CA1211 cerrados en eBay y Chrono24 suelen rondar US$250-420, y los de bisel mal conservado y sin caja quedan en la parte baja. Los comparables de US$950-1580 son precios pedidos inflados y no sirven de referencia.; Las fotos confirman el bisel en mal estado: pintura gastada, bordes dañados y numeración parcialmente desgastada. Cambiarlo cuesta dinero y encarece la reventa."
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "TAG Heuer",
   "titulo": "TAG Heuer WK1110.BA0317 Mens 2000 Series Professional Black Steel Quartz Watch",
   "total": 980.0,
   "condicion": "Pre-owned - Excellent",
@@ -11778,5 +11755,28 @@
   },
   "ratio_mercado": 0.919,
   "motivo": "precio normal (92 % del cuartil bajo de 215.30.46.21.03.001)"
+ },
+ {
+  "fecha": "2026-10-27T09:06:57.199080+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Jubilee 31 Automatic Ladies Steel and 18kt Gold Watch 278273SRDJ",
+  "total": 20212.5,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840064743821",
+  "item_id": "v1|840064743821|0",
+  "referencia": "278273SRDJ",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 31 Jubilee, acero y oro amarillo de 18 kt, bisel acanalado, esfera plateada con numerales romanos",
+   "referencia": "278273",
+   "precio_justo_usd": 8800,
+   "interesante": false,
+   "nota": "Precio pedido de US$20.212 muy por encima del valor de mercado de esta referencia nueva con caja y papeles (aprox. US$8.500-9.300); listado sobrevalorado, no oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$20.212 muy por encima del valor de mercado de esta referencia nueva con caja y papeles (aprox. US$8.500-9.300); listado sobrevalorado, no oportunidad. (justo 8800)"
  }
 ]
