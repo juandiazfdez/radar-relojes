@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-26T07:13:14.114589+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG Heuer CL1110.FT6000 Mens Kirium Series Black Rubber Chronograph Watch FC5000",
-  "total": 700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960111942120",
-  "item_id": "v1|960111942120|0",
-  "referencia": "CL1110.FT6000",
-  "mercado": {
-   "n": 5,
-   "p25": 550,
-   "mediana": 650
-  },
-  "ratio_mercado": 1.273,
-  "motivo": "precio normal (127 % del cuartil bajo de CL1110.FT6000)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "TAG Heuer",
   "titulo": "TAG Heuer WAZ1010.FC8197 Mens Formula 1 Series Blue Orange & Silver Quartz Watch",
   "total": 995.0,
   "condicion": "Pre-owned - Good",
@@ -11784,5 +11767,22 @@
    "nota": "Precio unos 20 % por debajo de mercado, pero en un perpetuo de oro blanco ese descuento exige verificar autenticidad, papeles y servicio antes de considerarlo una oportunidad real."
   },
   "motivo": "triage: Precio unos 20 % por debajo de mercado, pero en un perpetuo de oro blanco ese descuento exige verificar autenticidad, papeles y servicio antes de considerarlo una oportunidad real. (justo 28000)"
+ },
+ {
+  "fecha": "2026-10-27T10:21:56.930344+00:00",
+  "marca": "Omega",
+  "titulo": "Omega De Ville Hour Vision Annual Calendar 41mm Co-Axial 8601 Box Papers",
+  "total": 4145.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860088496152",
+  "item_id": "v1|860088496152|0",
+  "triage": {
+   "modelo": "Omega De Ville Hour Vision Annual Calendar 41mm, acero, esfera plateada, calibre 8601 Co-Axial",
+   "referencia": "431.10.41.22.02.001 (probable, no verificable en la imagen)",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "El precio pedido supera la estimación de venta real para acero con caja y papeles; no cumple el umbral de 15 % por debajo."
+  },
+  "motivo": "triage: El precio pedido supera la estimación de venta real para acero con caja y papeles; no cumple el umbral de 15 % por debajo. (justo 3400)"
  }
 ]
