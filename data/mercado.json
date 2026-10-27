@@ -235,14 +235,14 @@
   "max": 6500
  },
  "Breitling AB0116|usado": {
-  "fecha": "2026-10-20",
+  "fecha": "2026-10-27",
   "consulta": "Breitling AB0116",
   "n": 1,
-  "mediana": 4599,
-  "p25": 4599,
-  "p75": 4599,
-  "min": 4599,
-  "max": 4599
+  "mediana": 3499,
+  "p25": 3499,
+  "p75": 3499,
+  "min": 3499,
+  "max": 3499
  },
  "Breitling AB011511/G829|usado": {
   "fecha": "2026-10-20",
@@ -9030,13 +9030,13 @@
   "max": 3758
  },
  "Omega 3590.50|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Omega 3590.50",
-  "n": 1,
-  "mediana": 5599,
-  "p25": 5599,
+  "n": 2,
+  "mediana": 4950,
+  "p25": 4300,
   "p75": 5599,
-  "min": 5599,
+  "min": 4300,
   "max": 5599
  },
  "Omega 210.30.42.20.01.002|usado": {
@@ -11280,14 +11280,14 @@
   "max": 17480
  },
  "Omega 3321.30|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Omega 3321.30",
-  "n": 4,
-  "mediana": 3532,
+  "n": 5,
+  "mediana": 3845,
   "p25": 3220,
   "p75": 3850,
   "min": 3000,
-  "max": 3850
+  "max": 4395
  },
  "Omega 210.30.42.20.04.001|usado": {
   "fecha": "2026-10-26",
@@ -12173,5 +12173,95 @@
   "p75": 5399,
   "min": 4650,
   "max": 5930
+ },
+ "Cartier 3170|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Cartier 3170",
+  "n": 6,
+  "mediana": 3350,
+  "p25": 3225,
+  "p75": 3730,
+  "min": 3145,
+  "max": 4269
+ },
+ "Panerai PAM1392|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Panerai PAM1392",
+  "n": 1,
+  "mediana": 5999,
+  "p25": 5999,
+  "p75": 5999,
+  "min": 5999,
+  "max": 5999
+ },
+ "Omega 212.30.41.61.01.001|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Omega 212.30.41.61.01.001",
+  "n": 4,
+  "mediana": 3665,
+  "p25": 3600,
+  "p75": 4000,
+  "min": 3460,
+  "max": 4000
+ },
+ "Omega 2264.50|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Omega 2264.50",
+  "n": 1,
+  "mediana": 3450,
+  "p25": 3450,
+  "p75": 3450,
+  "min": 3450,
+  "max": 3450
+ },
+ "Omega 2537.80|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Omega 2537.80",
+  "n": 2,
+  "mediana": 4898,
+  "p25": 4800,
+  "p75": 4995,
+  "min": 4800,
+  "max": 4995
+ },
+ "Omega 2599.80|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Omega 2599.80",
+  "n": 4,
+  "mediana": 3318,
+  "p25": 3195,
+  "p75": 3600,
+  "min": 3099,
+  "max": 3600
+ },
+ "Omega 3591.50|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Omega 3591.50",
+  "n": 2,
+  "mediana": 9350,
+  "p25": 8999,
+  "p75": 9700,
+  "min": 8999,
+  "max": 9700
+ },
+ "TAG Heuer WAZ1118|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "TAG Heuer WAZ1118",
+  "n": 1,
+  "mediana": 800,
+  "p25": 800,
+  "p75": 800,
+  "min": 800,
+  "max": 800
+ },
+ "TAG Heuer CN211A|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "TAG Heuer CN211A",
+  "n": 6,
+  "mediana": 1610,
+  "p25": 1350,
+  "p75": 1925,
+  "min": 1170,
+  "max": 2195
  }
 }
