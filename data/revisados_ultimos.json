@@ -2,69 +2,6 @@
  {
   "fecha": "2026-10-26T07:13:14.114589+00:00",
   "marca": "TAG Heuer",
-  "titulo": "Tag Heuer Men's Carrera Chronograph CAR2A11.FC6313",
-  "total": 3000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128153242739",
-  "item_id": "v1|128153242739|0",
-  "referencia": "CAR2A11.FC6313",
-  "mercado": {
-   "n": 4,
-   "p25": 2495,
-   "mediana": 2497
-  },
-  "triage": {
-   "modelo": "TAG Heuer Carrera Calibre 16 Chronograph Automatic (acero, esfera negra, correa de piel)",
-   "referencia": "CAR2A11.FC6313",
-   "precio_justo_usd": 2000,
-   "interesante": false,
-   "nota": "Precio pedido de US$3000 está muy por encima del valor de reventa de esta referencia, aunque venga en caja y tenga buen estado."
-  },
-  "motivo": "triage: Precio pedido de US$3000 está muy por encima del valor de reventa de esta referencia, aunque venga en caja y tenga buen estado. (justo 2000)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG HEUER PROFESSIONAL CE1110 Mens Watch Chronograph (MP5000986)",
-  "total": 624.99,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/820271072648",
-  "item_id": "v1|820271072648|0",
-  "referencia": "CE1110",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "TAG Heuer Professional 2000 Chronograph (serie 2000, cuarzo)",
-   "referencia": "CE1110",
-   "precio_justo_usd": 550,
-   "interesante": false,
-   "nota": "Cuarzo de acero en estado Fair; el precio pedido de 625 USD está por encima del valor de venta realizado para esta referencia."
-  },
-  "motivo": "triage: Cuarzo de acero en estado Fair; el precio pedido de 625 USD está por encima del valor de venta realizado para esta referencia. (justo 550)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG HEUER AQUARACER",
-  "total": 1099.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/860077152859",
-  "item_id": "v1|860077152859|0",
-  "triage": {
-   "modelo": "TAG Heuer Aquaracer bicolor acero y oro, cuarzo (posible línea 300 m)",
-   "referencia": null,
-   "precio_justo_usd": 750,
-   "interesante": false,
-   "nota": "Con la foto no se puede confirmar la referencia ni la autenticidad; el precio pedido de 1100 USD supera el valor de venta realista de un bicolor de cuarzo usado."
-  },
-  "motivo": "triage: Con la foto no se puede confirmar la referencia ni la autenticidad; el precio pedido de 1100 USD supera el valor de venta realista de un bicolor de cuarzo usado. (justo 750)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "TAG Heuer",
   "titulo": "2026 TAG Heuer Monaco Chronograph Automatic, 39 mm Titanium, CDW2181.FC8360",
   "total": 6725.0,
   "condicion": "New with box and papers",
@@ -11744,5 +11681,63 @@
    "nota": "Referencia no identificable con certeza en la foto; el listado mezcla 'Mint' con 'Good' y su precio está por encima del valor estimado para un vintage de acero con estado incierto."
   },
   "motivo": "triage: Referencia no identificable con certeza en la foto; el listado mezcla 'Mint' con 'Good' y su precio está por encima del valor estimado para un vintage de acero con estado incierto. (justo 1800)"
+ },
+ {
+  "fecha": "2026-10-27T14:37:08.034294+00:00",
+  "marca": "Omega",
+  "titulo": "1966 OMEGA SEAMASTER Vintage Mens Cal. 552 SS Steel Watch - Original",
+  "total": 1995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307247316715",
+  "item_id": "v1|307247316715|0",
+  "triage": {
+   "modelo": "Omega Seamaster vintage (calibre 552, cuerda manual), esfera champán, caja de acero",
+   "referencia": null,
+   "precio_justo_usd": 1150,
+   "interesante": false,
+   "nota": "La foto no permite leer la referencia exacta; el calibre 552 y la caja de acero encajan con un Seamaster de los años 60. A 1995 USD está por encima del valor de venta cerrada para su estado (Good), sin verificar esfera, caja ni autenticidad."
+  },
+  "motivo": "triage: La foto no permite leer la referencia exacta; el calibre 552 y la caja de acero encajan con un Seamaster de los años 60. A 1995 USD está por encima del valor de venta cerrada para su estado (Good), sin verificar esfera, caja ni autenticidad. (justo 1150)"
+ },
+ {
+  "fecha": "2026-10-27T14:37:08.034294+00:00",
+  "marca": "Breitling",
+  "titulo": "Highly Sought After Breitling X82310 Endurance Ironman Chronograph Wrist Watch",
+  "total": 1899.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920079382541",
+  "item_id": "v1|920079382541|0",
+  "referencia": "X82310",
+  "mercado": {
+   "n": 25,
+   "p25": 2700,
+   "mediana": 2830
+  },
+  "ratio_mercado": 0.703,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 1950,
+   "riesgo_autenticidad": "bajo",
+   "estado": "Usado, desgaste leve; arañazos visibles en el cristal, bisel con marcas, tapa de goma de la corona frágil y dañada"
+  },
+  "ratio_justo": 0.974,
+  "motivo": "precio normal segun revision (97 % del justo 1950)"
+ },
+ {
+  "fecha": "2026-10-27T14:37:08.034294+00:00",
+  "marca": "Jaeger-LeCoultre",
+  "titulo": "1950's JAEGER-LECOULTRE Vintage Ladies Backwind 18K Gold Watch - Original",
+  "total": 2495.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307247391412",
+  "item_id": "v1|307247391412|0",
+  "triage": {
+   "modelo": "Jaeger-LeCoultre vintage de señora, caja de oro 18K, cuerda trasera (años 1950), esfera dorada con numerales arábigos",
+   "referencia": null,
+   "precio_justo_usd": 1400,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de mercado; sin referencia identificable ni caja/papeles, y el estado es 'Good'."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de mercado; sin referencia identificable ni caja/papeles, y el estado es 'Good'. (justo 1400)"
  }
 ]
