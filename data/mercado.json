@@ -6135,11 +6135,11 @@
   "max": 40625
  },
  "Rolex 126710BLNR|nuevo": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Rolex 126710BLNR",
-  "n": 60,
-  "mediana": 20580,
-  "p25": 19990,
+  "n": 62,
+  "mediana": 20558,
+  "p25": 19950,
   "p75": 21241,
   "min": 18495,
   "max": 24695
@@ -6400,13 +6400,13 @@
   "max": 21358
  },
  "Rolex 228235|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Rolex 228235",
-  "n": 48,
-  "mediana": 56700,
+  "n": 49,
+  "mediana": 56900,
   "p25": 53450,
   "p75": 63050,
-  "min": 541,
+  "min": 525,
   "max": 99950
  },
  "Rolex 178271|usado": {
@@ -6520,7 +6520,7 @@
   "max": 8900
  },
  "Rolex 126334|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Rolex 126334",
   "n": 1,
   "mediana": 10389,
@@ -8015,13 +8015,13 @@
   "n": 0
  },
  "Panerai PAM104|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Panerai PAM104",
-  "n": 2,
-  "mediana": 4995,
-  "p25": 4990,
+  "n": 3,
+  "mediana": 4990,
+  "p25": 3449,
   "p75": 5000,
-  "min": 4990,
+  "min": 3449,
   "max": 5000
  },
  "Panerai PAM00560|usado": {
@@ -10310,13 +10310,13 @@
   "max": 6985
  },
  "TAG Heuer WAW131A|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "TAG Heuer WAW131A",
-  "n": 1,
-  "mediana": 2330,
-  "p25": 2330,
+  "n": 2,
+  "mediana": 2120,
+  "p25": 1910,
   "p75": 2330,
-  "min": 2330,
+  "min": 1910,
   "max": 2330
  },
  "TAG Heuer CBG2016|usado": {
@@ -12438,5 +12438,35 @@
   "p75": 2200,
   "min": 1497,
   "max": 2500
+ },
+ "Rolex 6466|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Rolex 6466",
+  "n": 6,
+  "mediana": 4575,
+  "p25": 4200,
+  "p75": 6202,
+  "min": 3000,
+  "max": 6956
+ },
+ "Rolex 126331|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Rolex 126331",
+  "n": 48,
+  "mediana": 16872,
+  "p25": 15995,
+  "p75": 17590,
+  "min": 895,
+  "max": 18950
+ },
+ "Rolex 116515|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Rolex 116515",
+  "n": 19,
+  "mediana": 44988,
+  "p25": 41000,
+  "p75": 46016,
+  "min": 33840,
+  "max": 48995
  }
 }
