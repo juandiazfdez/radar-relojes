@@ -7660,12 +7660,12 @@
   "max": 5299
  },
  "Tudor M79830RB|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Tudor M79830RB",
-  "n": 14,
-  "mediana": 4360,
+  "n": 15,
+  "mediana": 4300,
   "p25": 4155,
-  "p75": 4900,
+  "p75": 4767,
   "min": 3750,
   "max": 5625
  },
@@ -13483,5 +13483,15 @@
   "fecha": "2026-10-27",
   "consulta": "Jaeger-LeCoultre Q1378421",
   "n": 0
+ },
+ "Breitling A24315|nuevo": {
+  "fecha": "2026-10-27",
+  "consulta": "Breitling A24315",
+  "n": 5,
+  "mediana": 4845,
+  "p25": 4560,
+  "p75": 5289,
+  "min": 4000,
+  "max": 7100
  }
 }
