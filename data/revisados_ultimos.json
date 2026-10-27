@@ -1,200 +1,5 @@
 [
  {
-  "fecha": "2026-10-26T18:36:34.575208+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Formula 1 CAZ101AH Quartz Chronograph Gray Orange Watch Box & Papers",
-  "total": 1510.98,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237145557932",
-  "item_id": "v1|237145557932|0",
-  "referencia": "CAZ101AH",
-  "mercado": {
-   "n": 1,
-   "p25": 1460,
-   "mediana": 1460
-  },
-  "triage": {
-   "modelo": "TAG Heuer Formula 1 cronógrafo de cuarzo, acero, con caja y papeles",
-   "referencia": "CAZ101AH",
-   "precio_justo_usd": 520,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de reventa de esta referencia de cuarzo en estado usado; no se aprecia pieza ni replica."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de reventa de esta referencia de cuarzo en estado usado; no se aprecia pieza ni replica. (justo 520)"
- },
- {
-  "fecha": "2026-10-26T18:51:33.596427+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Explorer II 16570 Chi Chi Di Mais Polar White 40mm Stainless Steel Watch",
-  "total": 8663.35,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307250635926",
-  "item_id": "v1|307250635926|0",
-  "referencia": "16570",
-  "mercado": {
-   "n": 38,
-   "p25": 8495,
-   "mediana": 9000
-  },
-  "ratio_mercado": 1.02,
-  "motivo": "precio normal (102 % del cuartil bajo de 16570)"
- },
- {
-  "fecha": "2026-10-26T18:51:33.596427+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX DAY-DATE 18238 36MM PRESIDENTIAL E SERIAL CIRCA 1990/1991",
-  "total": 21500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237145578487",
-  "item_id": "v1|237145578487|0",
-  "referencia": "18238",
-  "mercado": {
-   "n": 37,
-   "p25": 16067,
-   "mediana": 20990
-  },
-  "ratio_mercado": 1.338,
-  "motivo": "precio normal (134 % del cuartil bajo de 18238)"
- },
- {
-  "fecha": "2026-10-26T18:51:33.596427+00:00",
-  "marca": "Rolex",
-  "titulo": "New Rolex Yachtmaster II 126680 Steel Watch Complete 44MM Year 2026",
-  "total": 25495.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960119325439",
-  "item_id": "v1|960119325439|0",
-  "referencia": "126680",
-  "mercado": {
-   "n": 1,
-   "p25": 28355,
-   "mediana": 28355
-  },
-  "triage": {
-   "modelo": "Rolex Yacht-Master II (bisel azul, esfera blanca, brazalete de acero, con caja y papeles)",
-   "referencia": "126680",
-   "precio_justo_usd": 20000,
-   "interesante": false,
-   "nota": "El precio pedido supera el valor de mercado estimado; además el listado es contradictorio (dice 'New' y 'Año 2026' pero la condición es 'Pre-owned - Good')."
-  },
-  "motivo": "triage: El precio pedido supera el valor de mercado estimado; además el listado es contradictorio (dice 'New' y 'Año 2026' pero la condición es 'Pre-owned - Good'). (justo 20000)"
- },
- {
-  "fecha": "2026-10-26T18:51:33.596427+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sky-Dweller 326933 Two-Tone 18k Gold Steel Champagne 42mm Oyster Watch",
-  "total": 17231.48,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960119324817",
-  "item_id": "v1|960119324817|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller Two-Tone (Oystersteel y oro amarillo 18k), bisel acanalado, esfera champán, 42 mm, brazalete Oyster",
-   "referencia": "326933",
-   "precio_justo_usd": 21500,
-   "interesante": true,
-   "nota": "Referencia y diseño coinciden con la foto. Precio aprox. 20 % bajo el mercado de usado; confirmar autenticidad, caja, papeles y movimiento antes de comprar, ya que un descuento así exige verificación."
-  },
-  "referencia": "326933",
-  "mercado": {
-   "n": 47,
-   "p25": 19855,
-   "mediana": 21058
-  },
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 16800,
-   "riesgo_autenticidad": "medio",
-   "estado": "Aparentemente excelente, sin caja original ni papeles, año sin confirmar"
-  },
-  "ratio_justo": 1.026,
-  "motivo": "precio normal segun revision (103 % del justo 16800)"
- },
- {
-  "fecha": "2026-10-26T18:51:33.596427+00:00",
-  "marca": "Rolex",
-  "titulo": "2020 Rolex GMT Master II \"Batman\" Black Stainless Steel 126710BLNR 40mm Watch",
-  "total": 17099.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267824601315",
-  "item_id": "v1|267824601315|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 66,
-   "p25": 18525,
-   "mediana": 18956
-  },
-  "ratio_mercado": 0.923,
-  "motivo": "precio normal (92 % del cuartil bajo de 126710BLNR)"
- },
- {
-  "fecha": "2026-10-26T18:51:33.596427+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Yacht-Master - Ref. 126655 - 40mm Rose Gold",
-  "total": 46795.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287682050773",
-  "item_id": "v1|287682050773|0",
-  "referencia": "126655",
-  "mercado": {
-   "n": 17,
-   "p25": 32999,
-   "mediana": 33725
-  },
-  "ratio_mercado": 1.418,
-  "motivo": "precio normal (142 % del cuartil bajo de 126655)"
- },
- {
-  "fecha": "2026-10-26T18:51:33.596427+00:00",
-  "marca": "Rolex",
-  "titulo": "April 2026 Rolex Explorer II 226570 Polar White 42mm Steel Watch Box Papers",
-  "total": 13457.18,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940043529666",
-  "item_id": "v1|940043529666|0",
-  "referencia": "226570",
-  "mercado": {
-   "n": 29,
-   "p25": 11899,
-   "mediana": 12250
-  },
-  "ratio_mercado": 1.131,
-  "motivo": "precio normal (113 % del cuartil bajo de 226570)"
- },
- {
-  "fecha": "2026-10-26T18:51:33.596427+00:00",
-  "marca": "Rolex",
-  "titulo": "1986 Rolex Day-Date President 18038 Factory Walnut Wood 18K Gold 36mm Box Papers",
-  "total": 32632.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940043533276",
-  "item_id": "v1|940043533276|0",
-  "referencia": "18038",
-  "mercado": {
-   "n": 17,
-   "p25": 9369,
-   "mediana": 10459
-  },
-  "ratio_mercado": 3.483,
-  "motivo": "precio normal (348 % del cuartil bajo de 18038)"
- },
- {
-  "fecha": "2026-10-26T18:51:33.596427+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ronde Solo XL 42mm W6701011 Automatic Stainless Steel Men's Watch",
-  "total": 3395.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/257819046857",
-  "item_id": "v1|257819046857|0",
-  "referencia": "W6701011",
-  "mercado": {
-   "n": 6,
-   "p25": 3650,
-   "mediana": 4042
-  },
-  "ratio_mercado": 0.93,
-  "motivo": "precio normal (93 % del cuartil bajo de W6701011)"
- },
- {
   "fecha": "2026-10-26T18:51:33.596427+00:00",
   "marca": "Omega",
   "titulo": "OMEGA Speedmaster 3510.50",
@@ -11524,5 +11329,188 @@
    "nota": "El precio pedido está por encima del valor de venta cerrada para uso y estado 'Good'. El título menciona Big Pilot's, pero la foto parece un Pilot's Chronograph de 41 mm; conviene verificar referencia, papeles y caja."
   },
   "motivo": "triage: El precio pedido está por encima del valor de venta cerrada para uso y estado 'Good'. El título menciona Big Pilot's, pero la foto parece un Pilot's Chronograph de 41 mm; conviene verificar referencia, papeles y caja. (justo 7800)"
+ },
+ {
+  "fecha": "2026-10-27T20:52:18.065597+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Air-King 126900 2026 Full Set Excellent Condition",
+  "total": 9900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287682301395",
+  "item_id": "v1|287682301395|0",
+  "referencia": "126900",
+  "mercado": {
+   "n": 21,
+   "p25": 9500,
+   "mediana": 9990
+  },
+  "ratio_mercado": 1.042,
+  "motivo": "precio normal (104 % del cuartil bajo de 126900)"
+ },
+ {
+  "fecha": "2026-10-27T20:52:18.065597+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yacht-Master PLATINUM Stainless Steel REHAUT 40mm Oyster YM1 Watch 16622",
+  "total": 9000.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/960119621580",
+  "item_id": "v1|960119621580|0",
+  "referencia": "16622",
+  "mercado": {
+   "n": 29,
+   "p25": 10250,
+   "mediana": 11465
+  },
+  "ratio_mercado": 0.878,
+  "motivo": "precio normal (88 % del cuartil bajo de 16622)"
+ },
+ {
+  "fecha": "2026-10-27T20:52:18.065597+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos 100 Automatic Stainless Steel 36mm",
+  "total": 5200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327426676013",
+  "item_id": "v1|327426676013|0",
+  "triage": {
+   "modelo": "Cartier Santos 100 (esfera rosa, correa de piel rosa)",
+   "referencia": null,
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "Santos 100 de acero con esfera rosa; el precio pedido de 5200 USD está por encima del valor de venta estimado. La referencia exacta no se distingue en la foto y la esfera rosa debe verificarse."
+  },
+  "motivo": "triage: Santos 100 de acero con esfera rosa; el precio pedido de 5200 USD está por encima del valor de venta estimado. La referencia exacta no se distingue en la foto y la esfera rosa debe verificarse. (justo 4500)"
+ },
+ {
+  "fecha": "2026-10-27T20:52:18.065597+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu de Cartier Quartz Watch Stainless Steel 28",
+  "total": 5545.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128159777608",
+  "item_id": "v1|128159777608|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu de Cartier 28 mm, cuarzo, acero, esfera plateada con numerales romanos",
+   "referencia": "W69011Z4 (probable, verificar en el reverso o el eslabón)",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio pedido de US$5545 por encima del valor de venta cerrada estimado para este modelo en estado usado; no es una oportunidad. Confirmar referencia y estado de caja y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$5545 por encima del valor de venta cerrada estimado para este modelo en estado usado; no es una oportunidad. Confirmar referencia y estado de caja y papeles. (justo 4000)"
+ },
+ {
+  "fecha": "2026-10-27T20:52:18.065597+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 58 Burgundy Jubilee 39mm M7939A1A0RU-0001",
+  "total": 4050.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940046391699",
+  "item_id": "v1|940046391699|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 Burgundy (bisel y esfera burdeos, brazalete Jubilee, 39 mm)",
+   "referencia": "M7939A1A0RU-0001 (según el título; no verificable en la foto)",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Modelo de producción actual, así que el precio de reventa debe ir bajo retail; US$4050 con envío queda por encima de lo que se vende realmente, sin descuento suficiente para ser atractivo."
+  },
+  "motivo": "triage: Modelo de producción actual, así que el precio de reventa debe ir bajo retail; US$4050 con envío queda por encima de lo que se vende realmente, sin descuento suficiente para ser atractivo. (justo 3500)"
+ },
+ {
+  "fecha": "2026-10-27T20:52:18.065597+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay One S&G 39 mm w/ box and papers",
+  "total": 3000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880057291245",
+  "item_id": "v1|880057291245|0",
+  "triage": {
+   "modelo": "Tudor Black Bay S&G 39 mm (acero y oro, con caja y papeles; la denominación 'One' no está confirmada)",
+   "referencia": null,
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio de 3000 USD solo ~9% bajo estimación conservadora; la referencia exacta no se distingue en la foto y falta verificar autenticidad y papeles."
+  },
+  "motivo": "triage: Precio de 3000 USD solo ~9% bajo estimación conservadora; la referencia exacta no se distingue en la foto y falta verificar autenticidad y papeles. (justo 3300)"
+ },
+ {
+  "fecha": "2026-10-27T20:52:18.065597+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Speedmaster Racing 329.32.44.51.01.001 - Full Set - Original Receipt",
+  "total": 6295.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198750338144",
+  "item_id": "v1|198750338144|0",
+  "referencia": "329.32.44.51.01.001",
+  "mercado": {
+   "n": 6,
+   "p25": 6950,
+   "mediana": 7230
+  },
+  "ratio_mercado": 0.906,
+  "motivo": "precio normal (91 % del cuartil bajo de 329.32.44.51.01.001)"
+ },
+ {
+  "fecha": "2026-10-27T20:52:18.065597+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Diver 300M Steel Watch 2255.80",
+  "total": 3180.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287685205880",
+  "item_id": "v1|287685205880|0",
+  "referencia": "2255.80",
+  "mercado": {
+   "n": 1,
+   "p25": 3180,
+   "mediana": 3180
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Diver 300M (Chronometer, esfera azul, acero, brazalete)",
+   "referencia": "2255.80",
+   "precio_justo_usd": 2700,
+   "interesante": false,
+   "nota": "Referencia de la generación de ~1999-2005 con esfera azul; el precio pedido está por encima de lo que se cierra normalmente en EE. UU. para su estado, sin margen de compra."
+  },
+  "motivo": "triage: Referencia de la generación de ~1999-2005 con esfera azul; el precio pedido está por encima de lo que se cierra normalmente en EE. UU. para su estado, sin margen de compra. (justo 2700)"
+ },
+ {
+  "fecha": "2026-10-27T20:52:18.065597+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Constellation Manhattan 18k/SS Automatic Chronometer 368.1075 Cal.1109",
+  "total": 1507.95,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237147491144",
+  "item_id": "v1|237147491144|0",
+  "triage": {
+   "modelo": "Omega Constellation Manhattan bicolor 18k oro/acero, automático cronómetro (Cal. 1109)",
+   "referencia": "368.1075",
+   "precio_justo_usd": 1400,
+   "interesante": false,
+   "nota": "Precio pedido por encima de la estimación conservadora de venta real para este modelo y estado; no alcanza el umbral del 15 % de descuento."
+  },
+  "motivo": "triage: Precio pedido por encima de la estimación conservadora de venta real para este modelo y estado; no alcanza el umbral del 15 % de descuento. (justo 1400)"
+ },
+ {
+  "fecha": "2026-10-27T20:52:18.065597+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "Tag Heuer Grand Carrera Calibre 6 Automatic Watch WAV511A",
+  "total": 1475.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257820861350",
+  "item_id": "v1|257820861350|0",
+  "referencia": "WAV511A",
+  "mercado": {
+   "n": 7,
+   "p25": 2370,
+   "mediana": 2370
+  },
+  "ratio_mercado": 0.622,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 1450,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado bueno: rayones leves en el bisel, zafiro limpio, sin caja ni papeles, correa no original"
+  },
+  "ratio_justo": 1.017,
+  "motivo": "precio normal segun revision (102 % del justo 1450)"
  }
 ]
