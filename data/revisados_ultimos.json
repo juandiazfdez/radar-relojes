@@ -2,92 +2,6 @@
  {
   "fecha": "2026-10-26T07:13:14.114589+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG HEUER FORMULA 1 CAU1111.BA0858 WHITE QUARTZ CHRONOGRAPH STEEL MEN'S WATCH",
-  "total": 2195.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940038689325",
-  "item_id": "v1|940038689325|0",
-  "referencia": "CAU1111.BA0858",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "TAG Heuer Formula 1 Chronograph, esfera blanca, acero",
-   "referencia": "CAU1111.BA0858",
-   "precio_justo_usd": 850,
-   "interesante": false,
-   "nota": "Cronógrafo de cuarzo de acero, de producción reciente, que se vende de segunda mano en torno a US$750-950. El precio pedido de US$2195 está muy por encima del mercado."
-  },
-  "motivo": "triage: Cronógrafo de cuarzo de acero, de producción reciente, que se vende de segunda mano en torno a US$750-950. El precio pedido de US$2195 está muy por encima del mercado. (justo 850)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "Tag Heuer Professional 200 Meters Two Toned CG1120-0 Watch ",
-  "total": 660.94,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336861178698",
-  "item_id": "v1|336861178698|0",
-  "referencia": "CG1120",
-  "mercado": {
-   "n": 5,
-   "p25": 650,
-   "mediana": 855
-  },
-  "ratio_mercado": 1.017,
-  "motivo": "precio normal (102 % del cuartil bajo de CG1120)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer 2000 Men's Black Watch - WN1110",
-  "total": 550.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880047393081",
-  "item_id": "v1|880047393081|0",
-  "referencia": "WN1110",
-  "mercado": {
-   "n": 3,
-   "p25": 450,
-   "mediana": 463
-  },
-  "triage": {
-   "modelo": "TAG Heuer 2000 Series, cuarzo, acero, esfera negra",
-   "referencia": "WN1110",
-   "precio_justo_usd": 320,
-   "interesante": false,
-   "nota": "Modelo de cuarzo de acero de uso común; el precio pedido de US$550 supera con holgura su valor de reventa usado."
-  },
-  "motivo": "triage: Modelo de cuarzo de acero de uso común; el precio pedido de US$550 supera con holgura su valor de reventa usado. (justo 320)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Aquaracer WBD1111.BA0928 41MM Swiss Quartz White Steel Men's Watch",
-  "total": 1495.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377594866231",
-  "item_id": "v1|377594866231|0",
-  "referencia": "WBD1111.BA0928",
-  "mercado": {
-   "n": 1,
-   "p25": 1199,
-   "mediana": 1199
-  },
-  "triage": {
-   "modelo": "TAG Heuer Aquaracer 41mm cuarzo, esfera blanca, brazalete de acero con fecha",
-   "referencia": "WBD1111.BA0928",
-   "precio_justo_usd": 1150,
-   "interesante": false,
-   "nota": "Precio pedido de US$1495 supera el valor de venta cerrada estimado para este cuarzo usado en buen estado; no hay margen de al menos 15%."
-  },
-  "motivo": "triage: Precio pedido de US$1495 supera el valor de venta cerrada estimado para este cuarzo usado en buen estado; no hay margen de al menos 15%. (justo 1150)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "TAG Heuer",
   "titulo": "TAG HEUER FORMULA 1 CAU111A.FT6024 QUARTZ CHRONOGRAPH BLACK RUBBER MEN'S WATCH",
   "total": 1495.0,
   "condicion": "Pre-owned - Good",
@@ -11768,5 +11682,79 @@
    "nota": "Precio pedido de US$6000 muy por encima del valor de venta real de usado en buen estado; no es oportunidad."
   },
   "motivo": "triage: Precio pedido de US$6000 muy por encima del valor de venta real de usado en buen estado; no es oportunidad. (justo 3500)"
+ },
+ {
+  "fecha": "2026-10-27T14:07:06.922636+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Ranger 79950 39mm Box and Papers, Excellent Condition",
+  "total": 2980.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366764568027",
+  "item_id": "v1|366764568027|0",
+  "referencia": "79950",
+  "mercado": {
+   "n": 14,
+   "p25": 3345,
+   "mediana": 3574
+  },
+  "ratio_mercado": 0.891,
+  "motivo": "precio normal (89 % del cuartil bajo de 79950)"
+ },
+ {
+  "fecha": "2026-10-27T14:07:06.922636+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Planet Ocean 600M “Oreo”",
+  "total": 5999.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800844550399",
+  "item_id": "v1|800844550399|0",
+  "triage": {
+   "modelo": "Omega Seamaster Planet Ocean 600M GMT 'Oreo' (bisel cerámica negra, esfera negra)",
+   "referencia": "232.30.44.22.01.001 (probable, no verificable solo con la foto)",
+   "precio_justo_usd": 5800,
+   "interesante": false,
+   "nota": "Precio pedido cercano al valor de mercado para un usado en estado Good; sin descuento de al menos 15 %. Falta confirmar referencia, caja y papeles."
+  },
+  "motivo": "triage: Precio pedido cercano al valor de mercado para un usado en estado Good; sin descuento de al menos 15 %. Falta confirmar referencia, caja y papeles. (justo 5800)"
+ },
+ {
+  "fecha": "2026-10-27T14:07:06.922636+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Diver 300M Blue Bracelet 210.30.42.20.03.001 Complete 2024",
+  "total": 5310.0,
+  "condicion": "New with imperfections",
+  "url": "https://www.ebay.com/itm/227585708123",
+  "item_id": "v1|227585708123|0",
+  "referencia": "210.30.42.20.03.001",
+  "mercado": {
+   "n": 7,
+   "p25": 5605,
+   "mediana": 6099
+  },
+  "ratio_mercado": 0.947,
+  "motivo": "precio normal (95 % del cuartil bajo de 210.30.42.20.03.001)"
+ },
+ {
+  "fecha": "2026-10-27T14:07:06.922636+00:00",
+  "marca": "Bulgari",
+  "titulo": "Bulgari Diagono DG41SMC  Yellow  Magnesium Automatic Men's Watch",
+  "total": 1400.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960122580530",
+  "item_id": "v1|960122580530|0",
+  "referencia": "DG41SMC",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Bulgari Diagono Magnesium (esfera amarilla, correa de caucho)",
+   "referencia": "DG41SMC",
+   "precio_justo_usd": 1600,
+   "interesante": false,
+   "nota": "Precio cercano al valor de reventa; el 1400 solo está ~12% bajo, sin llegar al 15% exigido. Esfera amarilla de edición menos líquida; confirmar referencia, caja y papeles."
+  },
+  "motivo": "triage: Precio cercano al valor de reventa; el 1400 solo está ~12% bajo, sin llegar al 15% exigido. Esfera amarilla de edición menos líquida; confirmar referencia, caja y papeles. (justo 1600)"
  }
 ]
