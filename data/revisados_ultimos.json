@@ -1,57 +1,6 @@
 [
  {
   "fecha": "2026-10-26T21:06:34.008677+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 16713 GMT-Master II 40mm \"Root Beer\"  Oyster Two-Tone - Preowned",
-  "total": 11000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307250726835",
-  "item_id": "v1|307250726835|0",
-  "referencia": "16713",
-  "mercado": {
-   "n": 40,
-   "p25": 12224,
-   "mediana": 13095
-  },
-  "ratio_mercado": 0.9,
-  "motivo": "precio normal (90 % del cuartil bajo de 16713)"
- },
- {
-  "fecha": "2026-10-26T21:06:34.008677+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41mm 126333 Two-Tone Jubilee Silver Dial, Box & Papers, New",
-  "total": 15895.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227584696503",
-  "item_id": "v1|227584696503|0",
-  "referencia": "126333",
-  "mercado": {
-   "n": 39,
-   "p25": 19069,
-   "mediana": 20175
-  },
-  "ratio_mercado": 0.834,
-  "motivo": "vendedor con 2 valoraciones"
- },
- {
-  "fecha": "2026-10-26T21:06:34.008677+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos 100 W20072X7 Automatic Two Tone Leather Watch",
-  "total": 6495.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267824686346",
-  "item_id": "v1|267824686346|0",
-  "triage": {
-   "modelo": "Cartier Santos 100 acero y oro, esfera plateada con números romanos, correa de piel marrón",
-   "referencia": "W20072X7",
-   "precio_justo_usd": 5500,
-   "interesante": false,
-   "nota": "El precio pedido supera el valor de venta cerrada estimado para esta referencia en estado bueno; no hay descuento suficiente y la autenticidad solo se puede valorar con fotos."
-  },
-  "motivo": "triage: El precio pedido supera el valor de venta cerrada estimado para esta referencia en estado bueno; no hay descuento suficiente y la autenticidad solo se puede valorar con fotos. (justo 5500)"
- },
- {
-  "fecha": "2026-10-26T21:06:34.008677+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Solo 3169 W5200003 Large  Size Stainless Steel 27MM",
   "total": 2995.0,
@@ -11477,5 +11426,62 @@
    "estado": "Bueno a muy bueno: caja pulida con rayones leves, esfera limpia, correa de caucho con marcas"
   },
   "motivo": "Claude descarto: Las fotos son propias del vendedor y se ven coherentes con un PAM112: puente protector de corona, sándwich negro, números 12-3-6-9 con lume, 'LUMINOR' y 'PANERAI' sin 'Officine', 'SWISS MADE' a las 6 y solo horas y minutos. No veo señales claras de réplica ni de esfera repintada.; Faltan las fotos más importantes: fondo de caja (número de serie, grabados y año), movimiento, y la caja y los papeles que dicen incluir. Con 'Full Set' en el título eso es una omisión relevante."
+ },
+ {
+  "fecha": "2026-10-27T23:52:27.091153+00:00",
+  "marca": "Rolex",
+  "titulo": "2009 Rolex 40mm Yacht-Master 18K Gold / Steel Watch with Champagne Dial. (16623)",
+  "total": 14000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287685511845",
+  "item_id": "v1|287685511845|0",
+  "referencia": "16623",
+  "mercado": {
+   "n": 26,
+   "p25": 11850,
+   "mediana": 12233
+  },
+  "ratio_mercado": 1.181,
+  "motivo": "precio normal (118 % del cuartil bajo de 16623)"
+ },
+ {
+  "fecha": "2026-10-27T23:52:27.091153+00:00",
+  "marca": "Panerai",
+  "titulo": "Panerai Luminor Men's Black Watch - PAM00510 Full Set",
+  "total": 4250.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960124258127",
+  "item_id": "v1|960124258127|0",
+  "referencia": "PAM00510",
+  "mercado": {
+   "n": 3,
+   "p25": 4150,
+   "mediana": 4430
+  },
+  "triage": {
+   "modelo": "Panerai Luminor Marina (Logo), acero 44 mm, cuerda manual",
+   "referencia": "PAM00510",
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "Precio ~39 % por debajo del mercado para PAM00510 con cajas y papeles; demasiado bajo para ser genuino sin verificar, así que podría ser replica o listado engañoso."
+  },
+  "motivo": "triage: Precio ~39 % por debajo del mercado para PAM00510 con cajas y papeles; demasiado bajo para ser genuino sin verificar, así que podría ser replica o listado engañoso. (justo 7000)"
+ },
+ {
+  "fecha": "2026-10-27T23:52:27.091153+00:00",
+  "marca": "Omega",
+  "titulo": "Omega 9K Gold 24 Jewels Automatic cal. 552. Engraved Case A.L.D. 992",
+  "total": 1500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920077540369",
+  "item_id": "v1|920077540369|0",
+  "triage": {
+   "modelo": "Omega vintage de vestir, caja de oro 9K, calibre 552 (según el listado)",
+   "referencia": null,
+   "precio_justo_usd": 650,
+   "interesante": false,
+   "nota": "Caja de oro 9K (no 18K) y calibre 552, de cuerda manual en la mayoría de casos, no automático como indica el título; US$1500 está muy por encima del valor de mercado."
+  },
+  "motivo": "triage: Caja de oro 9K (no 18K) y calibre 552, de cuerda manual en la mayoría de casos, no automático como indica el título; US$1500 está muy por encima del valor de mercado. (justo 650)"
  }
 ]
