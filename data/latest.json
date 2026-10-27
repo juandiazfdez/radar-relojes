@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-26T23:51:34.299943+00:00",
+ "actualizado": "2026-10-27T00:06:33.546004+00:00",
  "ventana_horas": 2.0,
  "marcas": [
   "Rolex",
@@ -14,91 +14,15 @@
   "IWC"
  ],
  "corrida": {
-  "nuevos_vistos": 17,
+  "nuevos_vistos": 19,
   "descartes": {
-   "precio_normal": 3,
-   "triage": 3,
-   "titulo": 11
+   "precio_normal": 5,
+   "titulo": 10,
+   "triage": 4
   },
   "alertas_nuevas": 0,
-  "llamadas_ebay": 12,
+  "llamadas_ebay": 14,
   "cuota_agotada": false
  },
- "alertas_hoy": [
-  {
-   "fecha": "2026-10-26T07:13:14.114589+00:00",
-   "marca": "TAG Heuer",
-   "titulo": "TAG Heuer Grand Carrera Calibre 8 RS GMT Stainless Steel Automatic Men’s Watch",
-   "precio": 1495.0,
-   "envio": 11.75,
-   "total": 1506.75,
-   "mercado": {
-    "fecha": "2026-10-26",
-    "consulta": "TAG Heuer WAV5112",
-    "n": 4,
-    "mediana": 2585,
-    "p25": 2370,
-    "p75": 3000,
-    "min": 1495,
-    "max": 3000
-   },
-   "triage": {
-    "modelo": "TAG Heuer Grand Carrera Calibre 8 RS (acero, esfera plateada, correa de piel, con fecha grande y subesfera de reserva de marcha)",
-    "referencia": null,
-    "precio_justo_usd": 1900,
-    "interesante": true,
-    "nota": "Precio pedido ~21% bajo estimación conservadora de venta usada; verificar referencia exacta, caja/papeles y autenticidad antes de comprar."
-   },
-   "vendedor": "blueribbonnumismatics",
-   "valoraciones": 9398,
-   "pct_positivo": "99.5",
-   "url": "https://www.ebay.com/itm/117487320958",
-   "item_id": "v1|117487320958|0",
-   "info": {
-    "departamento": "Men",
-    "referencia": "WAV5112",
-    "modelo_esp": "TAG Heuer Grand Carrera",
-    "caja_mm": "43 mm",
-    "material": "Stainless Steel",
-    "ano": null,
-    "movimiento": "Mechanical (Automatic)",
-    "caja_original": "Yes",
-    "papeles": "No",
-    "condicion": "Pre-owned - Good",
-    "condicion_id": "3000",
-    "condicion_desc": "",
-    "garantia_autenticidad": false,
-    "devoluciones": true,
-    "amarillas": [
-     "polished"
-    ],
-    "imagenes": [
-     "https://i.ebayimg.com/images/g/R1AAAeSwQ~5q3pyO/s-l1600.jpg",
-     "https://i.ebayimg.com/images/g/NBIAAeSwmMdq3pyO/s-l1600.jpg",
-     "https://i.ebayimg.com/images/g/APsAAeSw2ERq3pyO/s-l1600.jpg",
-     "https://i.ebayimg.com/images/g/FxQAAeSwYAJq3pyO/s-l1600.jpg",
-     "https://i.ebayimg.com/images/g/Mr8AAeSwgC9q3pyO/s-l1600.jpg",
-     "https://i.ebayimg.com/images/g/FxMAAeSwYAJq3pyO/s-l1600.jpg"
-    ]
-   },
-   "claude": {
-    "veredicto": "dudoso",
-    "modelo": "TAG Heuer Grand Carrera Calibre 8 RS GMT WAV5112, acero, 43 mm, esfera plateada, correa de piel estilo cocodrilo, fecha grande y subesfera GMT",
-    "estado": "Usado en buen estado, con marcas normales de uso en caja y asas; con caja y libreto, sin tarjeta de garantía sellada visible",
-    "riesgo_autenticidad": "medio",
-    "completo": false,
-    "razones": [
-     "Precio de US$1507 frente a un justo conservador de ~US$1800 (cierres reales de WAV5112 usados entre ~1700 y 2100). El descuento es de ~16%, y después de envío, comisiones e importación el margen es ajustado. Los comparables de 2370-2585 son precios pedidos y no sirven de referencia.",
-     "Las fotos parecen reales y de estudio, y muestran la esfera, el bisel, las asas, el cierre desplegable TAG Heuer y la caja de madera con hangtag. La esfera es coherente con la referencia: texto 'Grand Carrera Calibre 8 GMT Automatic Chronometer', fecha grande 27, subesfera GMT con indicador rojo y 'Officially Certified'. No veo señales claras de réplica ni de dial repintado.",
-     "Faltan fotos del fondo de caja y del movimiento. La descripción habla de dos ventanas en el fondo con rotor firmado, pero no se muestran. Hay que pedirlas, junto con el número de serie y de referencia grabados, para validarlos.",
-     "No hay tarjeta de garantía sellada ni papeles (especificaciones: papeles 'No'). Solo aparecen el libreto de instrucciones, el portadocumentos y el hangtag. Esto reduce el valor de reventa respecto a un set completo.",
-     "No se indica año ni historial de servicio. Un Calibre 8 con GMT y fecha grande es un módulo costoso de revisar, y no hay prueba de que funcione bien más allá del 'keeping good time'. Conviene pedir un vídeo con la precisión y el funcionamiento del GMT y de la fecha.",
-     "Hay desgaste visible en la correa, que se ve algo arrugada, y rayas leves en el acero. La correa probablemente deberá cambiarse. El vendedor es un negocio de monedas y joyería con 9398 valoraciones y 99.5% positivo, y acepta devoluciones, lo que mitiga el riesgo. Pero no es un especialista en relojes y no ofrece garantía de autenticidad."
-    ],
-    "precio_justo_usd": 1800,
-    "precio_reventa_rd_usd": 1950
-   },
-   "ratio_justo": 0.837
-  }
- ]
+ "alertas_hoy": []
 }
