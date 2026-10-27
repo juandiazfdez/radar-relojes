@@ -5940,13 +5940,13 @@
   "max": 28091
  },
  "Rolex 126711CHNR|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Rolex 126711CHNR",
-  "n": 93,
-  "mediana": 21497,
+  "n": 94,
+  "mediana": 21492,
   "p25": 20589,
   "p75": 22199,
-  "min": 18600,
+  "min": 18500,
   "max": 34895
  },
  "Rolex 126710BLNR|usado": {
@@ -6860,11 +6860,11 @@
   "max": 20502
  },
  "Rolex 126710GRNR|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Rolex 126710GRNR",
-  "n": 85,
-  "mediana": 23395,
-  "p25": 21999,
+  "n": 87,
+  "mediana": 23138,
+  "p25": 21950,
   "p75": 24000,
   "min": 19000,
   "max": 31103
@@ -8915,9 +8915,14 @@
   "max": 5290
  },
  "Omega 522.30.42.30.04.001|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Omega 522.30.42.30.04.001",
-  "n": 0
+  "n": 1,
+  "mediana": 10000,
+  "p25": 10000,
+  "p75": 10000,
+  "min": 10000,
+  "max": 10000
  },
  "Omega 311.32.42.30.04.001|usado": {
   "fecha": "2026-10-26",
@@ -13012,6 +13017,61 @@
  "Jaeger-LeCoultre Q3912420|usado": {
   "fecha": "2026-10-27",
   "consulta": "Jaeger-LeCoultre Q3912420",
+  "n": 0
+ },
+ "Rolex 178273|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Rolex 178273",
+  "n": 48,
+  "mediana": 15574,
+  "p25": 13870,
+  "p75": 16666,
+  "min": 299,
+  "max": 20200
+ },
+ "Tudor 20530|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Tudor 20530",
+  "n": 2,
+  "mediana": 2850,
+  "p25": 1800,
+  "p75": 3900,
+  "min": 1800,
+  "max": 3900
+ },
+ "Panerai PAM01356|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Panerai PAM01356",
+  "n": 3,
+  "mediana": 7295,
+  "p25": 7125,
+  "p75": 8045,
+  "min": 7125,
+  "max": 8045
+ },
+ "Panerai PAM01289|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Panerai PAM01289",
+  "n": 5,
+  "mediana": 10350,
+  "p25": 10330,
+  "p75": 10650,
+  "min": 8500,
+  "max": 10700
+ },
+ "Panerai PAM01653|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Panerai PAM01653",
+  "n": 0
+ },
+ "Omega 234.92.41.21.10.001|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Omega 234.92.41.21.10.001",
+  "n": 0
+ },
+ "Omega 210.30.42.20.01.023|nuevo": {
+  "fecha": "2026-10-27",
+  "consulta": "Omega 210.30.42.20.01.023",
   "n": 0
  }
 }
