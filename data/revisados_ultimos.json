@@ -2,46 +2,6 @@
  {
   "fecha": "2026-10-26T07:13:14.114589+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Monaco LS Calibre 12 Chronograph CAL2110.BA0781 2012 Full Set",
-  "total": 3997.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327423643234",
-  "item_id": "v1|327423643234|0",
-  "referencia": "CAL2110.BA0781",
-  "mercado": {
-   "n": 4,
-   "p25": 4425,
-   "mediana": 5140
-  },
-  "triage": {
-   "modelo": "TAG Heuer Monaco LS Calibre 12 Chronograph (esfera negra, brazalete de acero)",
-   "referencia": "CAL2110.BA0781",
-   "precio_justo_usd": 3900,
-   "interesante": false,
-   "nota": "Referencia de 2012 con set completo y estado Good; el precio pedido de US$3997 con envío está en línea con el mercado de usados, sin descuento significativo."
-  },
-  "motivo": "triage: Referencia de 2012 con set completo y estado Good; el precio pedido de US$3997 con envío está en línea con el mercado de usados, sin descuento significativo. (justo 3900)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG HEUER 159.006/1 Professional 200 GMT Date Quartz from 90’s FULL SET",
-  "total": 1050.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/117487187028",
-  "item_id": "v1|117487187028|0",
-  "triage": {
-   "modelo": "TAG Heuer Professional 200, cuarzo, años 90 (en la foto se ve una versión con ventana de fecha, sin aguja GMT visible)",
-   "referencia": "159.006/1 (según el título, no verificable en la foto)",
-   "precio_justo_usd": 550,
-   "interesante": false,
-   "nota": "El título dice GMT pero la foto muestra solo fecha; hay que verificar la función, el estado y la autenticidad antes de pagar $1050."
-  },
-  "motivo": "triage: El título dice GMT pero la foto muestra solo fecha; hay que verificar la función, el estado y la autenticidad antes de pagar $1050. (justo 550)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "TAG Heuer",
   "titulo": "Tag Heuer Formula 1 Solargraph Quartz 38mm Steel Men's Watch WBY1111.BA0042",
   "total": 1450.0,
   "condicion": "Pre-owned - Good",
@@ -11802,5 +11762,39 @@
    "nota": "Precio pedido de 2999 USD está en línea con el mercado de segunda mano; no supera el umbral del 15 % de descuento."
   },
   "motivo": "triage: Precio pedido de 2999 USD está en línea con el mercado de segunda mano; no supera el umbral del 15 % de descuento. (justo 2800)"
+ },
+ {
+  "fecha": "2026-10-27T05:36:44.626926+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31mm Blue Dial, Fluted Jubilee, Stainless Steel (68274)",
+  "total": 7307.29,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860084392235",
+  "item_id": "v1|860084392235|0",
+  "referencia": "68274",
+  "mercado": {
+   "n": 32,
+   "p25": 8395,
+   "mediana": 9439
+  },
+  "ratio_mercado": 0.87,
+  "motivo": "precio normal (87 % del cuartil bajo de 68274)"
+ },
+ {
+  "fecha": "2026-10-27T05:36:44.626926+00:00",
+  "marca": "Panerai",
+  "titulo": "Panerai Luminor Submersible Men's Black Watch - PAM00024",
+  "total": 4855.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147653520945",
+  "item_id": "v1|147653520945|0",
+  "referencia": "PAM00024",
+  "mercado": {
+   "n": 5,
+   "p25": 4795,
+   "mediana": 5200
+  },
+  "ratio_mercado": 1.013,
+  "motivo": "precio normal (101 % del cuartil bajo de PAM00024)"
  }
 ]
