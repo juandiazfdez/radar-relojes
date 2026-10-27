@@ -1,85 +1,5 @@
 [
  {
-  "fecha": "2026-10-26T15:21:25.092093+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Gold Diamond Santos Carrée 2960 24mm - WGACA",
-  "total": 24512.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820280015928",
-  "item_id": "v1|820280015928|0",
-  "referencia": "2960",
-  "mercado": {
-   "n": 3,
-   "p25": 6299,
-   "mediana": 19095
-  },
-  "triage": {
-   "modelo": "Cartier Santos Carrée oro amarillo con diamantes 24 mm (WGACA)",
-   "referencia": "2960",
-   "precio_justo_usd": 13000,
-   "interesante": false,
-   "nota": "El precio pedido supera con holgura el valor de venta cerrada estimado para esta referencia de oro con diamantes en estado Good; no hay descuento que aprovechar."
-  },
-  "motivo": "triage: El precio pedido supera con holgura el valor de venta cerrada estimado para esta referencia de oro con diamantes en estado Good; no hay descuento que aprovechar. (justo 13000)"
- },
- {
-  "fecha": "2026-10-26T15:21:25.092093+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Blanc de Cartier Watch WGBL0004 26mm - WGACA",
-  "total": 8762.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820280015936",
-  "item_id": "v1|820280015936|0",
-  "referencia": "WGBL0004",
-  "mercado": {
-   "n": 1,
-   "p25": 7135,
-   "mediana": 7135
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Blanc de Cartier 26 mm, oro blanco (verificar; la referencia WGBL0004 puede corresponder a otra talla)",
-   "referencia": "WGBL0004",
-   "precio_justo_usd": 8000,
-   "interesante": false,
-   "nota": "Precio pedido ~9% por encima de la estimación; la referencia y el tamaño del título no coinciden del todo, confirmar con certificado WGACA y fotos del reverso."
-  },
-  "motivo": "triage: Precio pedido ~9% por encima de la estimación; la referencia y el tamaño del título no coinciden del todo, confirmar con certificado WGACA y fotos del reverso. (justo 8000)"
- },
- {
-  "fecha": "2026-10-26T15:21:25.092093+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Endurance Pro Chronograph Orange X82310A51B1S1 44mm B&P 2020",
-  "total": 2795.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820279986008",
-  "item_id": "v1|820279986008|0",
-  "triage": {
-   "modelo": "Breitling Endurance Pro Chronograph (naranja, caja PVD negra, 44 mm)",
-   "referencia": "X82310A51B1S1",
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "Precio pedido de 2795 USD por encima del rango de venta real para un Endurance Pro de 2020 con caja y papeles en buen estado; no cumple el umbral del 15 %."
-  },
-  "motivo": "triage: Precio pedido de 2795 USD por encima del rango de venta real para un Endurance Pro de 2020 con caja y papeles en buen estado; no cumple el umbral del 15 %. (justo 2300)"
- },
- {
-  "fecha": "2026-10-26T15:36:25.683448+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Seamaster 75th edition 300M 42mm Summer Blue with Box Papers",
-  "total": 6300.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840062291562",
-  "item_id": "v1|840062291562|0",
-  "triage": {
-   "modelo": "Omega Seamaster Diver 300M 75th Anniversary Summer Blue 42 mm (acero, esfera azul degradada con ondas, bisel cerámico azul, correa de caucho azul)",
-   "referencia": null,
-   "precio_justo_usd": 4600,
-   "interesante": false,
-   "nota": "Precio pedido de 6300 USD supera el retail aproximado y el mercado secundario de un Summer Blue usado en excelente estado con caja y papeles; no hay descuento."
-  },
-  "motivo": "triage: Precio pedido de 6300 USD supera el retail aproximado y el mercado secundario de un Summer Blue usado en excelente estado con caja y papeles; no hay descuento. (justo 4600)"
- },
- {
   "fecha": "2026-10-26T15:36:25.683448+00:00",
   "marca": "Omega",
   "titulo": "Vintage 1970s Omega Seamaster 166.010 Automatic Men Watch 35mm Swiss 10.5mm Date",
@@ -11556,5 +11476,80 @@
    "nota": "La foto parece de catálogo (render sobre tela) y no muestra el repetidor ni el pulsador; el precio es bajo para un repetidor en oro rosa, así que hay que verificar que el reloj real coincida con el listado antes de comprar."
   },
   "motivo": "triage: La foto parece de catálogo (render sobre tela) y no muestra el repetidor ni el pulsador; el precio es bajo para un repetidor en oro rosa, así que hay que verificar que el reloj real coincida con el listado antes de comprar. (justo 60000)"
+ },
+ {
+  "fecha": "2026-10-27T19:22:18.900208+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Deepsea Sea-Dweller James Cameron 126660 Black/Blue 44mm Watch Full Set",
+  "total": 13360.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287685062462",
+  "item_id": "v1|287685062462|0",
+  "referencia": "126660",
+  "mercado": {
+   "n": 78,
+   "p25": 12938,
+   "mediana": 13994
+  },
+  "ratio_mercado": 1.033,
+  "motivo": "precio normal (103 % del cuartil bajo de 126660)"
+ },
+ {
+  "fecha": "2026-10-27T19:22:18.900208+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 18k Yellow Gold 2019 New Old Stock Day Date President 36MM Ref. 128238",
+  "total": 41995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/377601824278",
+  "item_id": "v1|377601824278|0",
+  "referencia": "128238",
+  "mercado": {
+   "n": 9,
+   "p25": 52204,
+   "mediana": 55570
+  },
+  "ratio_mercado": 0.804,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 43500,
+   "riesgo_autenticidad": "bajo",
+   "estado": "Nuevo sin uso (NOS), con stickers y protector de bisel, venta original de 2019"
+  },
+  "ratio_justo": 0.965,
+  "motivo": "precio normal segun revision (96 % del justo 43500)"
+ },
+ {
+  "fecha": "2026-10-27T19:22:18.900208+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 126610LN Steel Full Set",
+  "total": 14499.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137880301018",
+  "item_id": "v1|137880301018|0",
+  "referencia": "126610LN",
+  "mercado": {
+   "n": 80,
+   "p25": 14468,
+   "mediana": 14995
+  },
+  "ratio_mercado": 1.002,
+  "motivo": "precio normal (100 % del cuartil bajo de 126610LN)"
+ },
+ {
+  "fecha": "2026-10-27T19:22:18.900208+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Speedmaster 'Silver Snoopy Award' 310.32.42.50.02.001 Steel",
+  "total": 15499.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137880303111",
+  "item_id": "v1|137880303111|0",
+  "referencia": "310.32.42.50.02.001",
+  "mercado": {
+   "n": 38,
+   "p25": 15847,
+   "mediana": 16309
+  },
+  "ratio_mercado": 0.978,
+  "motivo": "precio normal (98 % del cuartil bajo de 310.32.42.50.02.001)"
  }
 ]
