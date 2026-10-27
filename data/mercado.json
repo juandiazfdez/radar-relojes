@@ -1260,7 +1260,7 @@
   "max": 29995
  },
  "Rolex 16610|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Rolex 16610",
   "n": 79,
   "mediana": 10395,
@@ -6035,10 +6035,10 @@
   "max": 8858
  },
  "Rolex 69173|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Rolex 69173",
-  "n": 26,
-  "mediana": 4594,
+  "n": 24,
+  "mediana": 4450,
   "p25": 4259,
   "p75": 4975,
   "min": 190,
@@ -6095,21 +6095,21 @@
   "max": 11405
  },
  "Rolex 6917|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Rolex 6917",
   "n": 39,
-  "mediana": 4100,
+  "mediana": 4155,
   "p25": 3990,
   "p75": 4290,
   "min": 190,
   "max": 4858
  },
  "Rolex 116660|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Rolex 116660",
-  "n": 45,
+  "n": 46,
   "mediana": 11878,
-  "p25": 10795,
+  "p25": 10700,
   "p75": 13000,
   "min": 8699,
   "max": 13995
@@ -6620,13 +6620,13 @@
   "max": 20100
  },
  "Rolex 116660|nuevo": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Rolex 116660",
-  "n": 1,
-  "mediana": 15299,
-  "p25": 15299,
+  "n": 2,
+  "mediana": 12497,
+  "p25": 9695,
   "p75": 15299,
-  "min": 15299,
+  "min": 9695,
   "max": 15299
  },
  "Rolex 116400GV|nuevo": {
@@ -6810,13 +6810,13 @@
   "max": 26500
  },
  "Rolex 116710BLNR|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Rolex 116710BLNR",
-  "n": 42,
-  "mediana": 16770,
+  "n": 45,
+  "mediana": 16800,
   "p25": 15999,
   "p75": 17078,
-  "min": 14516,
+  "min": 14473,
   "max": 20898
  },
  "Rolex 126719BLRO|usado": {
@@ -9425,7 +9425,7 @@
   "max": 7300
  },
  "Breitling AB2010|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Breitling AB2010",
   "n": 7,
   "mediana": 4045,
@@ -9510,7 +9510,7 @@
   "max": 2500
  },
  "Breitling AB0118|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Breitling AB0118",
   "n": 7,
   "mediana": 5150,
@@ -12648,5 +12648,130 @@
   "fecha": "2026-10-27",
   "consulta": "Bulgari 102930",
   "n": 0
+ },
+ "Rolex 16610|nuevo": {
+  "fecha": "2026-10-27",
+  "consulta": "Rolex 16610",
+  "n": 13,
+  "mediana": 22345,
+  "p25": 18049,
+  "p75": 29025,
+  "min": 12000,
+  "max": 68000
+ },
+ "Rolex 16520|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Rolex 16520",
+  "n": 16,
+  "mediana": 33736,
+  "p25": 29282,
+  "p75": 34150,
+  "min": 23648,
+  "max": 122339
+ },
+ "Rolex 278278|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Rolex 278278",
+  "n": 0
+ },
+ "Rolex 116613|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Rolex 116613",
+  "n": 66,
+  "mediana": 15990,
+  "p25": 15499,
+  "p75": 16200,
+  "min": 12947,
+  "max": 16999
+ },
+ "Rolex 16800|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Rolex 16800",
+  "n": 15,
+  "mediana": 12900,
+  "p25": 11950,
+  "p75": 15000,
+  "min": 8750,
+  "max": 18099
+ },
+ "Rolex 116680|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Rolex 116680",
+  "n": 29,
+  "mediana": 18987,
+  "p25": 17650,
+  "p75": 20065,
+  "min": 15488,
+  "max": 22705
+ },
+ "Rolex 6824|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Rolex 6824",
+  "n": 8,
+  "mediana": 8137,
+  "p25": 4959,
+  "p75": 16495,
+  "min": 4500,
+  "max": 38995
+ },
+ "Panerai PAM01683|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Panerai PAM01683",
+  "n": 1,
+  "mediana": 7890,
+  "p25": 7890,
+  "p75": 7890,
+  "min": 7890,
+  "max": 7890
+ },
+ "Omega 215.30.44.21.01.002|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Omega 215.30.44.21.01.002",
+  "n": 8,
+  "mediana": 5219,
+  "p25": 5085,
+  "p75": 5400,
+  "min": 4900,
+  "max": 7607
+ },
+ "Omega 3570.50.00|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Omega 3570.50.00",
+  "n": 5,
+  "mediana": 5699,
+  "p25": 5599,
+  "p75": 5799,
+  "min": 5042,
+  "max": 5825
+ },
+ "Omega 210.32.42.20.03.001|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Omega 210.32.42.20.03.001",
+  "n": 16,
+  "mediana": 4694,
+  "p25": 4525,
+  "p75": 4989,
+  "min": 3901,
+  "max": 6000
+ },
+ "Breitling A57035|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Breitling A57035",
+  "n": 1,
+  "mediana": 1800,
+  "p25": 1800,
+  "p75": 1800,
+  "min": 1800,
+  "max": 1800
+ },
+ "Bulgari AL32A|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Bulgari AL32A",
+  "n": 2,
+  "mediana": 1150,
+  "p25": 950,
+  "p75": 1350,
+  "min": 950,
+  "max": 1350
  }
 }
