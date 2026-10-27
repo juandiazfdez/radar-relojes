@@ -9390,14 +9390,14 @@
   "max": 4995
  },
  "Breitling RB0134|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Breitling RB0134",
-  "n": 1,
-  "mediana": 19800,
+  "n": 2,
+  "mediana": 30900,
   "p25": 19800,
-  "p75": 19800,
+  "p75": 42000,
   "min": 19800,
-  "max": 19800
+  "max": 42000
  },
  "Breitling A10380|usado": {
   "fecha": "2026-10-26",
@@ -13128,5 +13128,90 @@
   "p75": 59976,
   "min": 46088,
   "max": 225000
+ },
+ "Rolex 116613LB|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Rolex 116613LB",
+  "n": 51,
+  "mediana": 16150,
+  "p25": 15995,
+  "p75": 17265,
+  "min": 14468,
+  "max": 22000
+ },
+ "Cartier WGBB0053|nuevo": {
+  "fecha": "2026-10-27",
+  "consulta": "Cartier WGBB0053",
+  "n": 1,
+  "mediana": 13064,
+  "p25": 13064,
+  "p75": 13064,
+  "min": 13064,
+  "max": 13064
+ },
+ "Cartier WGTA0091|nuevo": {
+  "fecha": "2026-10-27",
+  "consulta": "Cartier WGTA0091",
+  "n": 0
+ },
+ "Cartier WSSA0085|nuevo": {
+  "fecha": "2026-10-27",
+  "consulta": "Cartier WSSA0085",
+  "n": 1,
+  "mediana": 5150,
+  "p25": 5150,
+  "p75": 5150,
+  "min": 5150,
+  "max": 5150
+ },
+ "Cartier W6920046|nuevo": {
+  "fecha": "2026-10-27",
+  "consulta": "Cartier W6920046",
+  "n": 2,
+  "mediana": 7150,
+  "p25": 6795,
+  "p75": 7505,
+  "min": 6795,
+  "max": 7505
+ },
+ "Cartier WSRN0031|nuevo": {
+  "fecha": "2026-10-27",
+  "consulta": "Cartier WSRN0031",
+  "n": 0
+ },
+ "Cartier WSRN0021|nuevo": {
+  "fecha": "2026-10-27",
+  "consulta": "Cartier WSRN0021",
+  "n": 0
+ },
+ "Cartier W1018255|nuevo": {
+  "fecha": "2026-10-27",
+  "consulta": "Cartier W1018255",
+  "n": 0
+ },
+ "Cartier W6700155|nuevo": {
+  "fecha": "2026-10-27",
+  "consulta": "Cartier W6700155",
+  "n": 0
+ },
+ "Tudor 79030N|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Tudor 79030N",
+  "n": 10,
+  "mediana": 3983,
+  "p25": 3900,
+  "p75": 4200,
+  "min": 3750,
+  "max": 4395
+ },
+ "Breitling A25362|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Breitling A25362",
+  "n": 16,
+  "mediana": 7174,
+  "p25": 5190,
+  "p75": 7895,
+  "min": 3050,
+  "max": 7995
  }
 }
