@@ -10605,7 +10605,7 @@
   "max": 7995
  },
  "IWC IW377714|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "IWC IW377714",
   "n": 10,
   "mediana": 5112,
@@ -12133,5 +12133,25 @@
   "fecha": "2026-10-27",
   "consulta": "Omega 130.33.39.21.03.001",
   "n": 0
+ },
+ "Cartier WGTA0010|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Cartier WGTA0010",
+  "n": 1,
+  "mediana": 10000,
+  "p25": 10000,
+  "p75": 10000,
+  "min": 10000,
+  "max": 10000
+ },
+ "TAG Heuer SBR8A81|nuevo": {
+  "fecha": "2026-10-27",
+  "consulta": "TAG Heuer SBR8A81",
+  "n": 6,
+  "mediana": 1087,
+  "p25": 990,
+  "p75": 1235,
+  "min": 936,
+  "max": 1688
  }
 }
