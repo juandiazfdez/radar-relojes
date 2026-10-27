@@ -2,36 +2,6 @@
  {
   "fecha": "2026-10-26T07:13:14.114589+00:00",
   "marca": "Breitling",
-  "titulo": "BREITLING Mens Watch EB2040 AVIATOR SUPER 8 B20 automatic, 46mm, Titanium, GREEN",
-  "total": 2499.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940041425359",
-  "item_id": "v1|940041425359|0",
-  "referencia": "EB2040",
-  "mercado": {
-   "n": 3,
-   "p25": 2499,
-   "mediana": 2620
-  },
-  "triage": {
-   "modelo": "Breitling Aviator 8 Super 8 B20 Automatic 46 (titanio, esfera verde)",
-   "referencia": "EB2040",
-   "precio_justo_usd": 3200,
-   "interesante": true,
-   "nota": "Precio ~22 % bajo el valor de venta usado estimado; confirmar referencia EB2040 y autenticidad, porque la foto no muestra claramente el modelo del listado."
-  },
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 2600,
-   "riesgo_autenticidad": "medio",
-   "estado": "Aspecto muy bueno en fotos propias; bisel de titanio mate sin golpes visibles; correa usada y no original"
-  },
-  "ratio_justo": 0.962,
-  "motivo": "precio normal segun revision (96 % del justo 2600)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Breitling",
   "titulo": "Breitling Super Chronomat B01 44 AB0136161C1S1",
   "total": 6925.0,
   "condicion": "Pre-owned - Good",
@@ -11840,5 +11810,22 @@
    "nota": "La foto muestra una caja moderna de Rolex, no verificable para 1951; la referencia no se distingue. El precio pedido de 2999 USD no está al menos 15% bajo el valor de mercado estimado para oro 14k y estado excelente."
   },
   "motivo": "triage: La foto muestra una caja moderna de Rolex, no verificable para 1951; la referencia no se distingue. El precio pedido de 2999 USD no está al menos 15% bajo el valor de mercado estimado para oro 14k y estado excelente. (justo 2000)"
+ },
+ {
+  "fecha": "2026-10-27T03:51:45.450253+00:00",
+  "marca": "Omega",
+  "titulo": "Omega De Ville Prestige Quartz Stainless Steel With Mother Of Pearl Watch",
+  "total": 1941.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820281902781",
+  "item_id": "v1|820281902781|0",
+  "triage": {
+   "modelo": "Omega De Ville Prestige Quartz 27 mm, acero, esfera de madreperla con marcadores de diamante (probable)",
+   "referencia": "424.10.27.60.55.001 (probable, sin confirmar)",
+   "precio_justo_usd": 950,
+   "interesante": false,
+   "nota": "Modelo de cuarzo de acero con esfera de nácar; el precio pedido de US$1941 está muy por encima de lo que se vende realmente, sin indicios de ganga."
+  },
+  "motivo": "triage: Modelo de cuarzo de acero con esfera de nácar; el precio pedido de US$1941 está muy por encima de lo que se vende realmente, sin indicios de ganga. (justo 950)"
  }
 ]
