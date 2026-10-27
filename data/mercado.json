@@ -7530,11 +7530,11 @@
   "n": 0
  },
  "Cartier W6920047|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Cartier W6920047",
-  "n": 3,
-  "mediana": 6835,
-  "p25": 6443,
+  "n": 4,
+  "mediana": 7168,
+  "p25": 6835,
   "p75": 7699,
   "min": 6443,
   "max": 7699
@@ -12003,5 +12003,40 @@
   "p75": 8820,
   "min": 6565,
   "max": 8820
+ },
+ "Rolex 6565|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Rolex 6565",
+  "n": 7,
+  "mediana": 4460,
+  "p25": 4200,
+  "p75": 7035,
+  "min": 4000,
+  "max": 8995
+ },
+ "Tudor M91651|nuevo": {
+  "fecha": "2026-10-27",
+  "consulta": "Tudor M91651",
+  "n": 0
+ },
+ "Jaeger-LeCoultre Q1372520|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Jaeger-LeCoultre Q1372520",
+  "n": 1,
+  "mediana": 15005,
+  "p25": 15005,
+  "p75": 15005,
+  "min": 15005,
+  "max": 15005
+ },
+ "IWC IW371446|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "IWC IW371446",
+  "n": 2,
+  "mediana": 5245,
+  "p25": 4500,
+  "p75": 5990,
+  "min": 4500,
+  "max": 5990
  }
 }
