@@ -2,52 +2,6 @@
  {
   "fecha": "2026-10-26T07:13:14.114589+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG Heuer WAB1110.BA0800 Mens Aquaracer Series Black & Silver Quartz Watch 8\"",
-  "total": 875.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377595749997",
-  "item_id": "v1|377595749997|0",
-  "referencia": "WAB1110.BA0800",
-  "mercado": {
-   "n": 2,
-   "p25": 1095,
-   "mediana": 1145
-  },
-  "triage": {
-   "modelo": "TAG Heuer Aquaracer 300M, cuarzo, esfera negra con segundero amarillo y bisel negro en acero",
-   "referencia": "WAB1110.BA0800",
-   "precio_justo_usd": 550,
-   "interesante": false,
-   "nota": "Precio pedido de US$875 con envío está muy por encima de lo que se vende este modelo de cuarzo usado en buen estado; sin caja ni papeles visibles y con el título exagerado en el tamaño."
-  },
-  "motivo": "triage: Precio pedido de US$875 con envío está muy por encima de lo que se vende este modelo de cuarzo usado en buen estado; sin caja ni papeles visibles y con el título exagerado en el tamaño. (justo 550)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer WM1120.BB0314 Mens 2000 Series Professional Black & Gold Quartz Watch",
-  "total": 795.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960111942083",
-  "item_id": "v1|960111942083|0",
-  "referencia": "WM1120.BB0314",
-  "mercado": {
-   "n": 3,
-   "p25": 502,
-   "mediana": 600
-  },
-  "triage": {
-   "modelo": "TAG Heuer 2000 Series Professional, esfera negra, bisel dorado, acero y oro amarillo, fecha, cuarzo",
-   "referencia": "WM1120.BB0314",
-   "precio_justo_usd": 380,
-   "interesante": false,
-   "nota": "Precio pedido de US$795 muy por encima de lo que se vende este cuarzo bicolor de la serie 2000 usado (aprox. US$350-450); no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$795 muy por encima de lo que se vende este cuarzo bicolor de la serie 2000 usado (aprox. US$350-450); no es una oportunidad. (justo 380)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "TAG Heuer",
   "titulo": "TAG Heuer CE1124.BB0304 Mens 2000 Series Gold Professional Chronograph Watch",
   "total": 875.0,
   "condicion": "Pre-owned - Good",
@@ -11772,5 +11726,45 @@
    "nota": "Precio cercano al mercado de segunda mano; el margen frente a 2750 USD es menor al 15 %. Verificar referencia, numeración de serie y autenticidad antes de comprar."
   },
   "motivo": "triage: Precio cercano al mercado de segunda mano; el margen frente a 2750 USD es menor al 15 %. Verificar referencia, numeración de serie y autenticidad antes de comprar. (justo 2900)"
+ },
+ {
+  "fecha": "2026-10-27T11:52:07.289208+00:00",
+  "marca": "Omega",
+  "titulo": "18k Sedna Gold Omega Seamaster Aqua Terra Small Seconds 41mm 220.52.41.21.03.002",
+  "total": 17950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920079008098",
+  "item_id": "v1|920079008098|0",
+  "referencia": "220.52.41.21.03.002",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Aqua Terra 150 M Small Seconds, 41 mm, oro Sedna 18k, esfera azul",
+   "referencia": "220.52.41.21.03.002",
+   "precio_justo_usd": 18500,
+   "interesante": false,
+   "nota": "Precio cercano al mercado de segunda mano para oro Sedna; no hay descuento de al menos 15 % y no se puede verificar caja ni papeles desde la foto."
+  },
+  "motivo": "triage: Precio cercano al mercado de segunda mano para oro Sedna; no hay descuento de al menos 15 % y no se puede verificar caja ni papeles desde la foto. (justo 18500)"
+ },
+ {
+  "fecha": "2026-10-27T11:52:07.289208+00:00",
+  "marca": "Omega",
+  "titulo": "SNOOPY Mission to Earthphase Moonshine Swatch Omega x Swatch BRAND NEW W LIGHT",
+  "total": 1040.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880056171101",
+  "item_id": "v1|880056171101|0",
+  "triage": {
+   "modelo": "Swatch x Omega MoonSwatch Snoopy Mission to Earthphase Moonshine (cronógrafo de plástico con esfera luminiscente)",
+   "referencia": null,
+   "precio_justo_usd": 450,
+   "interesante": false,
+   "nota": "Es una colaboración Swatch x Omega de plástico, no un Omega de producción; el precio pedido de US$1040 supera con creces su valor de reventa."
+  },
+  "motivo": "triage: Es una colaboración Swatch x Omega de plástico, no un Omega de producción; el precio pedido de US$1040 supera con creces su valor de reventa. (justo 450)"
  }
 ]
