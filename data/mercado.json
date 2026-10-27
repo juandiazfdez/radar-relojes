@@ -6480,13 +6480,13 @@
   "max": 19800
  },
  "Rolex 127334|nuevo": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Rolex 127334",
   "n": 19,
-  "mediana": 26000,
-  "p25": 25178,
+  "mediana": 26252,
+  "p25": 25325,
   "p75": 27995,
-  "min": 1,
+  "min": 24499,
   "max": 41495
  },
  "Rolex 1803|usado": {
@@ -6740,14 +6740,14 @@
   "max": 18950
  },
  "Rolex 226570|nuevo": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Rolex 226570",
-  "n": 28,
-  "mediana": 13512,
-  "p25": 13195,
-  "p75": 14162,
+  "n": 29,
+  "mediana": 13500,
+  "p25": 13000,
+  "p75": 14038,
   "min": 11918,
-  "max": 15999
+  "max": 15499
  },
  "Rolex 116613LN|usado": {
   "fecha": "2026-10-26",
@@ -11923,5 +11923,30 @@
   "p75": 1315,
   "min": 850,
   "max": 1315
+ },
+ "Cartier WSRN0003|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Cartier WSRN0003",
+  "n": 0
+ },
+ "Breitling U17320|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Breitling U17320",
+  "n": 1,
+  "mediana": 4886,
+  "p25": 4886,
+  "p75": 4886,
+  "min": 4886,
+  "max": 4886
+ },
+ "TAG Heuer WBP5116|nuevo": {
+  "fecha": "2026-10-27",
+  "consulta": "TAG Heuer WBP5116",
+  "n": 2,
+  "mediana": 3715,
+  "p25": 3639,
+  "p75": 3790,
+  "min": 3639,
+  "max": 3790
  }
 }
