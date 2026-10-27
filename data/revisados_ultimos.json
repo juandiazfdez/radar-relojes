@@ -2,63 +2,6 @@
  {
   "fecha": "2026-10-26T07:13:14.114589+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG Heuer CE1124.BB0304 Mens 2000 Series Gold Professional Chronograph Watch",
-  "total": 875.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960111942087",
-  "item_id": "v1|960111942087|0",
-  "referencia": "CE1124.BB0304",
-  "mercado": {
-   "n": 1,
-   "p25": 585,
-   "mediana": 585
-  },
-  "triage": {
-   "modelo": "TAG Heuer 2000 Series Professional Chronograph, acero y oro, bisel dorado, esfera champán (cuarzo)",
-   "referencia": "CE1124.BB0304",
-   "precio_justo_usd": 650,
-   "interesante": false,
-   "nota": "Precio pedido de US$875 está por encima del valor de venta cerrada (~US$550-750) para este modelo en estado Good; la referencia no se confirma solo con la foto."
-  },
-  "motivo": "triage: Precio pedido de US$875 está por encima del valor de venta cerrada (~US$550-750) para este modelo en estado Good; la referencia no se confirma solo con la foto. (justo 650)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Carrera Chronograph 39mm Reverse Panda Dial.",
-  "total": 5100.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128154902123",
-  "item_id": "v1|128154902123|0",
-  "triage": {
-   "modelo": "TAG Heuer Carrera Chronograph 39 mm Reverse Panda (esfera negra, subesferas blancas)",
-   "referencia": "CBK221B (probable, verificar en el caseback)",
-   "precio_justo_usd": 3400,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de venta real de un Carrera 39 mm de acero usado en excelente estado, incluso con caja y papeles."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de venta real de un Carrera 39 mm de acero usado en excelente estado, incluso con caja y papeles. (justo 3400)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Carrera Chronograph 39mm  Blue Dial.",
-  "total": 5100.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128154900751",
-  "item_id": "v1|128154900751|0",
-  "triage": {
-   "modelo": "TAG Heuer Carrera Chronograph 39 mm, esfera azul, correa de piel marrón",
-   "referencia": null,
-   "precio_justo_usd": 3400,
-   "interesante": false,
-   "nota": "Precio pedido US$5100 muy por encima del mercado secundario para un Carrera cronógrafo de acero usado; referencia no confirmable en la foto."
-  },
-  "motivo": "triage: Precio pedido US$5100 muy por encima del mercado secundario para un Carrera cronógrafo de acero usado; referencia no confirmable en la foto. (justo 3400)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "TAG Heuer",
   "titulo": "TAG Heuer Kirium Ti5 Men's Watch WL1180",
   "total": 550.0,
   "condicion": "Pre-owned - Good",
@@ -11766,5 +11709,68 @@
    "nota": "Es una colaboración Swatch x Omega de plástico, no un Omega de producción; el precio pedido de US$1040 supera con creces su valor de reventa."
   },
   "motivo": "triage: Es una colaboración Swatch x Omega de plástico, no un Omega de producción; el precio pedido de US$1040 supera con creces su valor de reventa. (justo 450)"
+ },
+ {
+  "fecha": "2026-10-27T12:22:07.349028+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36 126234 Wimbledon 2026 Jubilee & Oyster Bracelets Full Set",
+  "total": 15088.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900044514485",
+  "item_id": "v1|900044514485|0",
+  "referencia": "126234",
+  "mercado": {
+   "n": 38,
+   "p25": 12990,
+   "mediana": 14391
+  },
+  "ratio_mercado": 1.162,
+  "motivo": "precio normal (116 % del cuartil bajo de 126234)"
+ },
+ {
+  "fecha": "2026-10-27T12:22:07.349028+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster 300 \"Electric Blue Ref. 2255.80 Automatic Divers Wristwatch",
+  "total": 3499.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137879374839",
+  "item_id": "v1|137879374839|0",
+  "referencia": "2255.80",
+  "mercado": {
+   "n": 1,
+   "p25": 3180,
+   "mediana": 3180
+  },
+  "triage": {
+   "modelo": "Omega Seamaster 300 Automatic (esfera azul 'Electric Blue', bisel giratorio, pulsera de eslabones)",
+   "referencia": "2255.80",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para esta referencia en estado excelente; sin caja ni papeles visibles, el precio no ofrece margen claro."
+  },
+  "motivo": "triage: Precio cercano al mercado para esta referencia en estado excelente; sin caja ni papeles visibles, el precio no ofrece margen claro. (justo 3300)"
+ },
+ {
+  "fecha": "2026-10-27T12:22:07.349028+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Avenger Blackbird 44 Titanium PVD V17311 Men's Watch",
+  "total": 2575.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366764354179",
+  "item_id": "v1|366764354179|0",
+  "referencia": "V17311",
+  "mercado": {
+   "n": 3,
+   "p25": 2495,
+   "mediana": 3250
+  },
+  "triage": {
+   "modelo": "Breitling Avenger Blackbird 44 titanio con PVD negro, esfera negra, correa textil",
+   "referencia": "V17311",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio por debajo del justo pero con descuento menor al 15 %; estado 'Good', la correa no parece original y la imagen no permite verificar autenticidad ni año."
+  },
+  "motivo": "triage: Precio por debajo del justo pero con descuento menor al 15 %; estado 'Good', la correa no parece original y la imagen no permite verificar autenticidad ni año. (justo 3000)"
  }
 ]
