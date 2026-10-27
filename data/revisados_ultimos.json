@@ -2,29 +2,6 @@
  {
   "fecha": "2026-10-26T07:13:14.114589+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG Heuer CAU1113.BA0858 Mens Indy 500 Formula 1 Gray & Silver Chronograph Watch",
-  "total": 995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960111942108",
-  "item_id": "v1|960111942108|0",
-  "referencia": "CAU1113.BA0858",
-  "mercado": {
-   "n": 2,
-   "p25": 965,
-   "mediana": 1002
-  },
-  "triage": {
-   "modelo": "TAG Heuer Formula 1 Indy 500 Chronograph (esfera gris, brazalete de acero)",
-   "referencia": "CAU1113.BA0858",
-   "precio_justo_usd": 550,
-   "interesante": false,
-   "nota": "Cuarzo cronógrafo de acero usado en estado bueno; el precio pedido de 995 USD está muy por encima de lo que se vende realmente. No se pueden verificar la referencia ni los papeles desde la foto."
-  },
-  "motivo": "triage: Cuarzo cronógrafo de acero usado en estado bueno; el precio pedido de 995 USD está muy por encima de lo que se vende realmente. No se pueden verificar la referencia ni los papeles desde la foto. (justo 550)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "TAG Heuer",
   "titulo": "TAG Heuer CA1211 Mens 1/10th Chronograph Quartz Watch 571.513 Black Gray Leather",
   "total": 555.0,
   "condicion": "Pre-owned - Good",
@@ -11784,5 +11761,22 @@
    "nota": "Tristar de cuarzo de los años 80 en bicolor; el mercado secundario ronda 350-500 USD. El precio pedido de 1330 USD está muy por encima y 'rare' no aporta prima real."
   },
   "motivo": "triage: Tristar de cuarzo de los años 80 en bicolor; el mercado secundario ronda 350-500 USD. El precio pedido de 1330 USD está muy por encima y 'rare' no aporta prima real. (justo 400)"
+ },
+ {
+  "fecha": "2026-10-27T08:36:57.240035+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Planet Ocean 600mm 45.5mm 215.30.46.21.03.001 Blue Ultra Deep ",
+  "total": 8500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147653669542",
+  "item_id": "v1|147653669542|0",
+  "referencia": "215.30.46.21.03.001",
+  "mercado": {
+   "n": 6,
+   "p25": 9250,
+   "mediana": 9500
+  },
+  "ratio_mercado": 0.919,
+  "motivo": "precio normal (92 % del cuartil bajo de 215.30.46.21.03.001)"
  }
 ]
