@@ -1,136 +1,5 @@
 [
  {
-  "fecha": "2026-10-26T18:51:33.596427+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Speedmaster 3510.50",
-  "total": 3150.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920076967305",
-  "item_id": "v1|920076967305|0",
-  "referencia": "3510.50",
-  "mercado": {
-   "n": 43,
-   "p25": 3500,
-   "mediana": 3692
-  },
-  "ratio_mercado": 0.9,
-  "motivo": "precio normal (90 % del cuartil bajo de 3510.50)"
- },
- {
-  "fecha": "2026-10-26T18:51:33.596427+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Aqua Terra Small Seconds 41mm 220.10.41.21.02.004 2022 Full Set",
-  "total": 5000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920076959770",
-  "item_id": "v1|920076959770|0",
-  "referencia": "220.10.41.21.02.004",
-  "mercado": {
-   "n": 7,
-   "p25": 5870,
-   "mediana": 6000
-  },
-  "ratio_mercado": 0.852,
-  "motivo": "precio normal (85 % del cuartil bajo de 220.10.41.21.02.004)"
- },
- {
-  "fecha": "2026-10-26T18:51:33.596427+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster 300M Automatic 007 41mm Pierce Brosnan Movie Era 2531.80.00",
-  "total": 2699.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198747641875",
-  "item_id": "v1|198747641875|0",
-  "referencia": "2531.80.00",
-  "mercado": {
-   "n": 2,
-   "p25": 3585,
-   "mediana": 3672
-  },
-  "triage": {
-   "modelo": "Omega Seamaster 300M Automatic 007 (Pierce Brosnan), 41 mm, bisel azul",
-   "referencia": "2531.80.00",
-   "precio_justo_usd": 2950,
-   "interesante": false,
-   "nota": "Precio pedido de 2700 USD, unos 8-10 % por debajo de la estimación conservadora de venta real para ese estado sin verificar caja ni papeles. No cumple el umbral del 15 %."
-  },
-  "motivo": "triage: Precio pedido de 2700 USD, unos 8-10 % por debajo de la estimación conservadora de venta real para ese estado sin verificar caja ni papeles. No cumple el umbral del 15 %. (justo 2950)"
- },
- {
-  "fecha": "2026-10-26T18:51:33.596427+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Diver 300M - Ref. 210.30.42.20.03.002 - 42mm Stainless Steel",
-  "total": 8295.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287682048205",
-  "item_id": "v1|287682048205|0",
-  "referencia": "210.30.42.20.03.002",
-  "mercado": {
-   "n": 16,
-   "p25": 8200,
-   "mediana": 8410
-  },
-  "ratio_mercado": 1.012,
-  "motivo": "precio normal (101 % del cuartil bajo de 210.30.42.20.03.002)"
- },
- {
-  "fecha": "2026-10-26T18:51:33.596427+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Diver 300 M 210.30.42.20.10.001 Steel",
-  "total": 5549.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137874471268",
-  "item_id": "v1|137874471268|0",
-  "referencia": "210.30.42.20.10.001",
-  "mercado": {
-   "n": 14,
-   "p25": 5400,
-   "mediana": 5924
-  },
-  "ratio_mercado": 1.028,
-  "motivo": "precio normal (103 % del cuartil bajo de 210.30.42.20.10.001)"
- },
- {
-  "fecha": "2026-10-26T19:06:34.311175+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 36 126000-0008 Pre-owned Box & Papers 2022",
-  "total": 10530.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137877398642",
-  "item_id": "v1|137877398642|0",
-  "referencia": "126000",
-  "mercado": {
-   "n": 35,
-   "p25": 11229,
-   "mediana": 12424
-  },
-  "ratio_mercado": 0.938,
-  "motivo": "precio normal (94 % del cuartil bajo de 126000)"
- },
- {
-  "fecha": "2026-10-26T19:06:34.311175+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41 126334 Black 2026 Oyster Mint",
-  "total": 14300.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920076992732",
-  "item_id": "v1|920076992732|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 1,
-   "p25": 10389,
-   "mediana": 10389
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 (esfera negra, bisel acanalado de oro blanco, brazalete Oyster de acero)",
-   "referencia": "126334",
-   "precio_justo_usd": 13500,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta real de esta referencia de segunda mano; el título indica año 2026, dato a verificar con el número de serie y papeles."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta real de esta referencia de segunda mano; el título indica año 2026, dato a verificar con el número de serie y papeles. (justo 13500)"
- },
- {
   "fecha": "2026-10-26T19:06:34.311175+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Milgauss 116400-0001 Pre-owned Box & Papers 2009",
@@ -11512,5 +11381,154 @@
   },
   "ratio_justo": 1.017,
   "motivo": "precio normal segun revision (102 % del justo 1450)"
+ },
+ {
+  "fecha": "2026-10-27T21:07:18.357415+00:00",
+  "marca": "Cartier",
+  "titulo": "Stainless Steel & 18k Gold 20 x 25 mm Cartier Tank Francaise W51007Q4 / 2384",
+  "total": 4499.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960119677502",
+  "item_id": "v1|960119677502|0",
+  "referencia": "2384",
+  "mercado": {
+   "n": 42,
+   "p25": 3688,
+   "mediana": 4245
+  },
+  "ratio_mercado": 1.22,
+  "motivo": "precio normal (122 % del cuartil bajo de 2384)"
+ },
+ {
+  "fecha": "2026-10-27T21:07:18.357415+00:00",
+  "marca": "Cartier",
+  "titulo": "2024 Complete Set Large 42mm Cartier Ballon Bleu WSBB0026 / 3765",
+  "total": 4500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960119667298",
+  "item_id": "v1|960119667298|0",
+  "referencia": "WSBB0026",
+  "mercado": {
+   "n": 3,
+   "p25": 4950,
+   "mediana": 5750
+  },
+  "triage": {
+   "modelo": "Cartier Ballon Bleu 42 mm acero, esfera plateada con números romanos, correa de piel negra, set completo",
+   "referencia": "WSBB0026",
+   "precio_justo_usd": 4900,
+   "interesante": false,
+   "nota": "Precio pedido unos 8 % por debajo de mi estimación conservadora; no cumple el umbral del 15 % para considerarlo oportunidad."
+  },
+  "motivo": "triage: Precio pedido unos 8 % por debajo de mi estimación conservadora; no cumple el umbral del 15 % para considerarlo oportunidad. (justo 4900)"
+ },
+ {
+  "fecha": "2026-10-27T21:07:18.357415+00:00",
+  "marca": "Tudor",
+  "titulo": "2025 TUDOR Black Bay 58 COKE GMT M7939G1A0NRU-0001",
+  "total": 4200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128159798460",
+  "item_id": "v1|128159798460|0",
+  "triage": {
+   "modelo": "Tudor Black Bay GMT 'Coke' (bisel negro/rojo, acero, esfera negra)",
+   "referencia": "M7939G1A0NRU-0001 según el título, pero no verificable en la foto; el aspecto sugiere un GMT de 41 mm, no el 58",
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "Precio pedido US$4200 está sobre el mercado secundario estimado (~US$3900); la referencia del título parece inconsistente con el modelo visible."
+  },
+  "motivo": "triage: Precio pedido US$4200 está sobre el mercado secundario estimado (~US$3900); la referencia del título parece inconsistente con el modelo visible. (justo 3900)"
+ },
+ {
+  "fecha": "2026-10-27T21:07:18.357415+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Speedmaster '57 - 331.10.42.51.01.002 - Some Stickers - Box & Accessories",
+  "total": 5997.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198750359400",
+  "item_id": "v1|198750359400|0",
+  "referencia": "331.10.42.51.01.002",
+  "mercado": {
+   "n": 3,
+   "p25": 5995,
+   "mediana": 6595
+  },
+  "triage": {
+   "modelo": "OMEGA Speedmaster '57 Co-Axial Master Chronometer, esfera negra, bisel taquimétrico, brazalete de acero",
+   "referencia": "331.10.42.51.01.002",
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "Precio pedido cercano al retail (~US$6.000+); el mercado secundario de esta referencia usada con caja y accesorios ronda US$4.300-4.700. Ojo con los 'some stickers' en la descripción."
+  },
+  "motivo": "triage: Precio pedido cercano al retail (~US$6.000+); el mercado secundario de esta referencia usada con caja y accesorios ronda US$4.300-4.700. Ojo con los 'some stickers' en la descripción. (justo 4500)"
+ },
+ {
+  "fecha": "2026-10-27T21:07:18.357415+00:00",
+  "marca": "Omega",
+  "titulo": "2026 Omega Seamaster Diver 300M 18K Yellow Gold & Steel Blue 210.22.42.20.03.001",
+  "total": 6249.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257820870432",
+  "item_id": "v1|257820870432|0",
+  "referencia": "210.22.42.20.03.001",
+  "mercado": {
+   "n": 4,
+   "p25": 6995,
+   "mediana": 7385
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Diver 300M bicolor acero y oro amarillo de 42 mm, esfera azul, bisel de cerámica azul, correa de caucho azul",
+   "referencia": "210.22.42.20.03.001 (el listado indica oro amarillo 18K, pero esa referencia corresponde a la versión en acero; verificar)",
+   "precio_justo_usd": 6000,
+   "interesante": false,
+   "nota": "Precio pedido de 6250 USD no está ≥15 % por debajo del valor de mercado. Hay discrepancia entre la referencia (versión acero) y el título (oro 18K); confirmar con fotos del caso y el fondo."
+  },
+  "motivo": "triage: Precio pedido de 6250 USD no está ≥15 % por debajo del valor de mercado. Hay discrepancia entre la referencia (versión acero) y el título (oro 18K); confirmar con fotos del caso y el fondo. (justo 6000)"
+ },
+ {
+  "fecha": "2026-10-27T21:07:18.357415+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Speedmaster Chronograph Steel Auto 38mm Watch 324.30.38.50.01.001",
+  "total": 5450.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900045489876",
+  "item_id": "v1|900045489876|0",
+  "referencia": "324.30.38.50.01.001",
+  "mercado": {
+   "n": 3,
+   "p25": 4495,
+   "mediana": 5000
+  },
+  "triage": {
+   "modelo": "Omega Speedmaster Co-Axial Chronograph 38 mm (esfera negra, brazalete de acero)",
+   "referencia": "324.30.38.50.01.001",
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "Precio pedido de US$5450 supera el valor de venta cerrada de esta referencia de segunda mano en EE. UU. (aprox. US$3800-4200 con caja y papeles); no hay descuento."
+  },
+  "motivo": "triage: Precio pedido de US$5450 supera el valor de venta cerrada de esta referencia de segunda mano en EE. UU. (aprox. US$3800-4200 con caja y papeles); no hay descuento. (justo 3900)"
+ },
+ {
+  "fecha": "2026-10-27T21:07:18.357415+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Aquaracer-men’s watch-WAB1112-39mm-blue dial-TAG Box-",
+  "total": 825.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137880505719",
+  "item_id": "v1|137880505719|0",
+  "referencia": "WAB1112",
+  "mercado": {
+   "n": 2,
+   "p25": 835,
+   "mediana": 1060
+  },
+  "triage": {
+   "modelo": "TAG Heuer Aquaracer 300M (cuarzo, esfera azul, 39 mm, brazalete de acero)",
+   "referencia": "WAB1112 (según título; no verificable en la imagen)",
+   "precio_justo_usd": 850,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para cuarzo usado con caja, sin papeles mencionados; hay poco margen de descuento. Verificar autenticidad, estado de la esfera y bisel y la referencia exacta antes de comprar."
+  },
+  "motivo": "triage: Precio cercano al mercado para cuarzo usado con caja, sin papeles mencionados; hay poco margen de descuento. Verificar autenticidad, estado de la esfera y bisel y la referencia exacta antes de comprar. (justo 850)"
  }
 ]
