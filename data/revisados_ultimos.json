@@ -1,154 +1,5 @@
 [
  {
-  "fecha": "2026-10-26T19:06:34.311175+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Milgauss 116400-0001 Pre-owned Box & Papers 2009",
-  "total": 10000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137877390744",
-  "item_id": "v1|137877390744|0",
-  "referencia": "116400",
-  "mercado": {
-   "n": 45,
-   "p25": 11607,
-   "mediana": 12431
-  },
-  "ratio_mercado": 0.862,
-  "motivo": "precio normal (86 % del cuartil bajo de 116400)"
- },
- {
-  "fecha": "2026-10-26T19:06:34.311175+00:00",
-  "marca": "Rolex",
-  "titulo": "2005 Rolex Lady Datejust 26 179173 Two-Tone 18k Silver 26mm Watch Box Papers",
-  "total": 8153.85,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900042813309",
-  "item_id": "v1|900042813309|0",
-  "referencia": "179173",
-  "mercado": {
-   "n": 84,
-   "p25": 9877,
-   "mediana": 10276
-  },
-  "ratio_mercado": 0.826,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 7000,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Excelente, con caja y papeles; fotos del vendedor, sin fotos del fondo de caja ni del movimiento"
-  },
-  "ratio_justo": 1.165,
-  "motivo": "precio normal segun revision (116 % del justo 7000)"
- },
- {
-  "fecha": "2026-10-26T19:06:34.311175+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Must de Cartier Tank Quartz Watch Stainless Steel and Leather 25",
-  "total": 4420.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128157923236",
-  "item_id": "v1|128157923236|0",
-  "triage": {
-   "modelo": "Cartier Tank Must de Cartier (acero, cuarzo, esfera plateada con números romanos, cabujón azul en la corona, correa de piel negra)",
-   "referencia": "null",
-   "precio_justo_usd": 2100,
-   "interesante": false,
-   "nota": "El precio pedido de US$4420 supera con creces lo que se vende este modelo de acero en cuarzo, incluso en buen estado. La referencia exacta no es visible en las fotos."
-  },
-  "motivo": "triage: El precio pedido de US$4420 supera con creces lo que se vende este modelo de acero en cuarzo, incluso en buen estado. La referencia exacta no es visible en las fotos. (justo 2100)"
- },
- {
-  "fecha": "2026-10-26T19:06:34.311175+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Must de Cartier Tank Quartz Watch Stainless Steel and Leather",
-  "total": 6790.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128157927117",
-  "item_id": "v1|128157927117|0",
-  "triage": {
-   "modelo": "Cartier Must de Cartier Tank (cuarzo, acero, bisel con diamantes, correa de piel negra)",
-   "referencia": null,
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de reventa habitual para esta línea Must de Cartier usada; sin caja y papeles la referencia exacta no se puede confirmar desde la foto."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de reventa habitual para esta línea Must de Cartier usada; sin caja y papeles la referencia exacta no se puede confirmar desde la foto. (justo 2200)"
- },
- {
-  "fecha": "2026-10-26T19:06:34.311175+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Ranger 79950-0008 New Box & Papers 2026",
-  "total": 4210.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/137877391466",
-  "item_id": "v1|137877391466|0",
-  "referencia": "79950-0008",
-  "mercado": {
-   "n": 6,
-   "p25": 3500,
-   "mediana": 3745
-  },
-  "ratio_mercado": 1.203,
-  "motivo": "precio normal (120 % del cuartil bajo de 79950-0008)"
- },
- {
-  "fecha": "2026-10-26T19:06:34.311175+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Ranger 79950-0001 Pre-owned Box & Papers 2022",
-  "total": 3160.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137877380024",
-  "item_id": "v1|137877380024|0",
-  "referencia": "79950-0001",
-  "mercado": {
-   "n": 13,
-   "p25": 3299,
-   "mediana": 3555
-  },
-  "ratio_mercado": 0.958,
-  "motivo": "precio normal (96 % del cuartil bajo de 79950-0001)"
- },
- {
-  "fecha": "2026-10-26T19:06:34.311175+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Superocean Automatic 48 Titanium Ref. E17369241I1S1 | Full Set",
-  "total": 5670.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880054060154",
-  "item_id": "v1|880054060154|0",
-  "referencia": "E17369241I1S1",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Breitling Superocean Automatic 48 Titanium (esfera amarilla, bisel negro, correa de caucho)",
-   "referencia": "E17369241I1S1",
-   "precio_justo_usd": 3900,
-   "interesante": false,
-   "nota": "El precio pedido con envío (US$5670) supera lo que este modelo usado con caja y papeles suele cerrar en EE. UU.; no hay descuento real."
-  },
-  "motivo": "triage: El precio pedido con envío (US$5670) supera lo que este modelo usado con caja y papeles suele cerrar en EE. UU.; no hay descuento real. (justo 3900)"
- },
- {
-  "fecha": "2026-10-26T19:21:34.369326+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sea-Dweller 116660-0001 Pre-owned Watch Only",
-  "total": 9370.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137877425678",
-  "item_id": "v1|137877425678|0",
-  "referencia": "116660",
-  "mercado": {
-   "n": 45,
-   "p25": 10795,
-   "mediana": 11878
-  },
-  "ratio_mercado": 0.868,
-  "motivo": "precio normal (87 % del cuartil bajo de 116660)"
- },
- {
   "fecha": "2026-10-26T19:21:34.369326+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Sea-Dweller 116660-0001 Pre-owned Box & Papers 2015",
@@ -11530,5 +11381,160 @@
    "nota": "Precio cercano al mercado para cuarzo usado con caja, sin papeles mencionados; hay poco margen de descuento. Verificar autenticidad, estado de la esfera y bisel y la referencia exacta antes de comprar."
   },
   "motivo": "triage: Precio cercano al mercado para cuarzo usado con caja, sin papeles mencionados; hay poco margen de descuento. Verificar autenticidad, estado de la esfera y bisel y la referencia exacta antes de comprar. (justo 850)"
+ },
+ {
+  "fecha": "2026-10-27T21:22:18.282795+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer Stainless Steel Watch 224270",
+  "total": 10000.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/407320670091",
+  "item_id": "v1|407320670091|0",
+  "referencia": "224270",
+  "mercado": {
+   "n": 10,
+   "p25": 10825,
+   "mediana": 10858
+  },
+  "ratio_mercado": 0.924,
+  "motivo": "precio normal (92 % del cuartil bajo de 224270)"
+ },
+ {
+  "fecha": "2026-10-27T21:22:18.282795+00:00",
+  "marca": "Rolex",
+  "titulo": "2023 Rolex Oyster Perpetual 126000 36MM Blue Index Smooth Oyster Steel Box Paper",
+  "total": 9000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117490692689",
+  "item_id": "v1|117490692689|0",
+  "referencia": "M126000-0003",
+  "mercado": {
+   "n": 36,
+   "p25": 11229,
+   "mediana": 12448
+  },
+  "ratio_mercado": 0.801,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 9900,
+   "riesgo_autenticidad": "bajo",
+   "estado": "Muy bueno/casi nuevo, con caja interior y exterior, folletos, etiqueta colgante y tarjeta de garantía de mayo 2023; sin fotos de fondo de caja ni movimiento"
+  },
+  "ratio_justo": 0.909,
+  "motivo": "precio normal segun revision (91 % del justo 9900)"
+ },
+ {
+  "fecha": "2026-10-27T21:22:18.282795+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Lady-Datejust, President Bracelet, Mother of Pearl Diamond Dial...",
+  "total": 29075.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/800845613958",
+  "item_id": "v1|800845613958|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 mm oro amarillo, bisel de diamantes, esfera nácar con índices de diamante, brazalete President",
+   "referencia": "179138 (probable; variante con bisel de diamantes a confirmar)",
+   "precio_justo_usd": 15000,
+   "interesante": false,
+   "nota": "Precio pedido de US$29.075 casi el doble del valor de venta real para esta referencia en estado de segunda mano; aunque sea refurbished, no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$29.075 casi el doble del valor de venta real para esta referencia en estado de segunda mano; aunque sea refurbished, no es una oportunidad. (justo 15000)"
+ },
+ {
+  "fecha": "2026-10-27T21:22:18.282795+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Pelagos 39mm Titanium Diver Auto Chronometer Full Set",
+  "total": 4400.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206658295272",
+  "item_id": "v1|206658295272|0",
+  "triage": {
+   "modelo": "TUDOR Pelagos 39mm Titanium (diver automático, esfera negra, bisel negro)",
+   "referencia": "M25407N-0001 (probable, no verificable en la imagen)",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Precio pedido de US$4400 con envío supera el valor de venta cerrada estimado para un Pelagos 39 de titanio usado en excelente estado; la imagen no permite confirmar la referencia exacta."
+  },
+  "motivo": "triage: Precio pedido de US$4400 con envío supera el valor de venta cerrada estimado para un Pelagos 39 de titanio usado en excelente estado; la imagen no permite confirmar la referencia exacta. (justo 3800)"
+ },
+ {
+  "fecha": "2026-10-27T21:22:18.282795+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 MINT Tudor Black Bay Chrono Panda 41mm Oyster Bracelet 79360N",
+  "total": 4800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800845628674",
+  "item_id": "v1|800845628674|0",
+  "referencia": "79360N",
+  "mercado": {
+   "n": 52,
+   "p25": 4690,
+   "mediana": 5339
+  },
+  "ratio_mercado": 1.023,
+  "motivo": "precio normal (102 % del cuartil bajo de 79360N)"
+ },
+ {
+  "fecha": "2026-10-27T21:22:18.282795+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Speedmaster Broad Arrow - 321.10.44.50.01.001 - Full Set - Fresh Polish",
+  "total": 4497.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198750387893",
+  "item_id": "v1|198750387893|0",
+  "referencia": "321.10.44.50.01.001",
+  "mercado": {
+   "n": 2,
+   "p25": 4735,
+   "mediana": 5122
+  },
+  "triage": {
+   "modelo": "Omega Speedmaster Broad Arrow Co-Axial Chronograph (acero, esfera negra)",
+   "referencia": "321.10.44.50.01.001",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio pedido por encima de la estimación de venta cerrada para esta referencia con caja y papeles en estado Good; no hay margen de compra."
+  },
+  "motivo": "triage: Precio pedido por encima de la estimación de venta cerrada para esta referencia con caja y papeles en estado Good; no hay margen de compra. (justo 4000)"
+ },
+ {
+  "fecha": "2026-10-27T21:22:18.282795+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Planet Ocean Stainless Steel Watch 217.32.42.21.01.001",
+  "total": 7000.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/407320659364",
+  "item_id": "v1|407320659364|0",
+  "referencia": "217.32.42.21.01.001",
+  "mercado": {
+   "n": 3,
+   "p25": 7568,
+   "mediana": 7595
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Planet Ocean 600M (acero, esfera negra, bisel cerámica negro, correa de caucho)",
+   "referencia": "217.32.42.21.01.001",
+   "precio_justo_usd": 4400,
+   "interesante": false,
+   "nota": "Pedido de US$7000 supera el retail actual (~US$6200) y el precio de mercado nuevo con caja y papeles ronda los US$4400-4800; sobrepagado."
+  },
+  "motivo": "triage: Pedido de US$7000 supera el retail actual (~US$6200) y el precio de mercado nuevo con caja y papeles ronda los US$4400-4800; sobrepagado. (justo 4400)"
+ },
+ {
+  "fecha": "2026-10-27T21:22:18.282795+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Speedmaster Dark Side of the Moon 311.92.44.51.01.003",
+  "total": 8599.98,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128159808820",
+  "item_id": "v1|128159808820|0",
+  "referencia": "311.92.44.51.01.003",
+  "mercado": {
+   "n": 11,
+   "p25": 7665,
+   "mediana": 7920
+  },
+  "ratio_mercado": 1.122,
+  "motivo": "precio normal (112 % del cuartil bajo de 311.92.44.51.01.003)"
  }
 ]
