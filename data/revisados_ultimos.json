@@ -2,46 +2,6 @@
  {
   "fecha": "2026-10-26T07:13:14.114589+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG Heuer CH1113.BA0675 Mens 6000 Series Professional Black & Silver Watch 8\"",
-  "total": 795.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960111942104",
-  "item_id": "v1|960111942104|0",
-  "referencia": "CH1113.BA0675",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "TAG Heuer Professional 6000 Series, cronógrafo de cuarzo, acero, esfera negra",
-   "referencia": "CH1113.BA0675 (según el título; no verificable en la foto)",
-   "precio_justo_usd": 650,
-   "interesante": false,
-   "nota": "Usado, sin caja ni papeles visibles; precio pedido de 795 USD con envío está por encima del rango de venta cerrada estimado."
-  },
-  "motivo": "triage: Usado, sin caja ni papeles visibles; precio pedido de 795 USD con envío está por encima del rango de venta cerrada estimado. (justo 650)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer S99.015 John Elway #7 Denver Broncos Womens SEL White Watch WG1312",
-  "total": 975.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960111942105",
-  "item_id": "v1|960111942105|0",
-  "referencia": "WG1312",
-  "mercado": {
-   "n": 8,
-   "p25": 350,
-   "mediana": 398
-  },
-  "ratio_mercado": 2.786,
-  "motivo": "precio normal (279 % del cuartil bajo de WG1312)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "TAG Heuer",
   "titulo": "TAG Heuer CAU1113.BA0858 Mens Indy 500 Formula 1 Gray & Silver Chronograph Watch",
   "total": 995.0,
   "condicion": "Pre-owned - Good",
@@ -11784,5 +11744,45 @@
   },
   "ratio_mercado": 1.777,
   "motivo": "precio normal (178 % del cuartil bajo de CN211A)"
+ },
+ {
+  "fecha": "2026-10-27T07:36:57.386789+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1953 Rolex Oysterdate - Ref.6294 - 34mm - Two Tone - Red Date Wheel",
+  "total": 3529.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227585239934",
+  "item_id": "v1|227585239934|0",
+  "referencia": "6294",
+  "mercado": {
+   "n": 2,
+   "p25": 3600,
+   "mediana": 3840
+  },
+  "triage": {
+   "modelo": "Rolex Oysterdate (Oyster Perpetual Date, bicolor)",
+   "referencia": "6294",
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor estimado para bicolor 6294 en estado bueno; la foto es baja resolución y no permite verificar esfera, bisel ni brazalete, así que requiere inspección presencial."
+  },
+  "motivo": "triage: Precio pedido por encima del valor estimado para bicolor 6294 en estado bueno; la foto es baja resolución y no permite verificar esfera, bisel ni brazalete, así que requiere inspección presencial. (justo 2400)"
+ },
+ {
+  "fecha": "2026-10-27T07:36:57.386789+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "SWISS [WORKS] 1987 TAG Heuer TRISTAR 34mm RARE Men's Quartz Watch Vintage",
+  "total": 1329.98,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960121324447",
+  "item_id": "v1|960121324447|0",
+  "triage": {
+   "modelo": "TAG Heuer Tristar (cuarzo, bicolor negro y oro, 34 mm)",
+   "referencia": null,
+   "precio_justo_usd": 400,
+   "interesante": false,
+   "nota": "Tristar de cuarzo de los años 80 en bicolor; el mercado secundario ronda 350-500 USD. El precio pedido de 1330 USD está muy por encima y 'rare' no aporta prima real."
+  },
+  "motivo": "triage: Tristar de cuarzo de los años 80 en bicolor; el mercado secundario ronda 350-500 USD. El precio pedido de 1330 USD está muy por encima y 'rare' no aporta prima real. (justo 400)"
  }
 ]
