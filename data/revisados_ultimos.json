@@ -2,46 +2,6 @@
  {
   "fecha": "2026-10-26T07:13:14.114589+00:00",
   "marca": "TAG Heuer",
-  "titulo": "Tag Heuer Formula 1 Quartz-Blue",
-  "total": 1180.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/820274050862",
-  "item_id": "v1|820274050862|0",
-  "triage": {
-   "modelo": "TAG Heuer Formula 1 Quartz, esfera azul, brazalete de acero",
-   "referencia": "WAZ1110.BA0875",
-   "precio_justo_usd": 950,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de mercado secundario para un F1 cuarzo nuevo con caja y papeles; no hay descuento suficiente para considerarlo oportunidad."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de mercado secundario para un F1 cuarzo nuevo con caja y papeles; no hay descuento suficiente para considerarlo oportunidad. (justo 950)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer WN2310.BA0360 Womens 2000 Series Pink & Silver Automatic Steel Watch",
-  "total": 750.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377595031313",
-  "item_id": "v1|377595031313|0",
-  "referencia": "WN2310.BA0360",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "TAG Heuer 2000 Series para mujer, esfera rosa, acero y tono dorado (aparente)",
-   "referencia": "WN2310.BA0360 (según título, no verificable en la foto)",
-   "precio_justo_usd": 350,
-   "interesante": false,
-   "nota": "Precio pedido de 750 USD muy por encima del valor de reventa de un 2000 Series femenino usado; el título dice automático, pero ese modelo suele ser cuarzo, lo que baja aún más el valor."
-  },
-  "motivo": "triage: Precio pedido de 750 USD muy por encima del valor de reventa de un 2000 Series femenino usado; el título dice automático, pero ese modelo suele ser cuarzo, lo que baja aún más el valor. (justo 350)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "TAG Heuer",
   "titulo": "TAG Heuer Carrera WV211C.BA0787 Limited Edition Jeff Gordon Automatic Watch",
   "total": 1595.0,
   "condicion": "Pre-owned - Excellent",
@@ -11780,5 +11740,45 @@
    "nota": "Vintage chapado en oro de los años 50-60; se vende normalmente entre 900 y 1500 USD. El precio pedido de 3345 USD está muy por encima del valor de mercado."
   },
   "motivo": "triage: Vintage chapado en oro de los años 50-60; se vende normalmente entre 900 y 1500 USD. El precio pedido de 3345 USD está muy por encima del valor de mercado. (justo 1200)"
+ },
+ {
+  "fecha": "2026-10-27T13:37:07.107201+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Seamaster Quartz 14K Gold Rare 196.0134 / 396.0873 Vintage Genta Royal Oak",
+  "total": 1825.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147652633812",
+  "item_id": "v1|147652633812|0",
+  "triage": {
+   "modelo": "Omega Seamaster Quartz bicolor (acero y oro) de los años 80-90, esfera dorada",
+   "referencia": "396.0873 / 196.0134 (según título, no verificable en la foto)",
+   "precio_justo_usd": 650,
+   "interesante": false,
+   "nota": "El título es engañoso: 'Royal Oak' y 'Genta' son de Audemars Piguet, no de Omega. El 'oro 14K' probablemente sea solo en bisel o chapa; a US$1825 está muy por encima del mercado."
+  },
+  "motivo": "triage: El título es engañoso: 'Royal Oak' y 'Genta' son de Audemars Piguet, no de Omega. El 'oro 14K' probablemente sea solo en bisel o chapa; a US$1825 está muy por encima del mercado. (justo 650)"
+ },
+ {
+  "fecha": "2026-10-27T13:37:07.107201+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer WAH1113.BA0858 Mens Formula 1 Series Professional Khaki Green Watch",
+  "total": 1095.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377601151577",
+  "item_id": "v1|377601151577|0",
+  "referencia": "WAH1113.BA0858",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "TAG Heuer Formula 1 Khaki Green (cuarzo, acero, 41 mm)",
+   "referencia": "WAH1113.BA0858",
+   "precio_justo_usd": 350,
+   "interesante": false,
+   "nota": "Formula 1 de cuarzo de acero de uso; se vende en torno a 250-400 USD. El precio pedido de 1095 USD está muy por encima del mercado."
+  },
+  "motivo": "triage: Formula 1 de cuarzo de acero de uso; se vende en torno a 250-400 USD. El precio pedido de 1095 USD está muy por encima del mercado. (justo 350)"
  }
 ]
