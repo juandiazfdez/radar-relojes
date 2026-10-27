@@ -7610,10 +7610,10 @@
   "max": 17495
  },
  "Tudor 79030B|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Tudor 79030B",
   "n": 15,
-  "mediana": 3600,
+  "mediana": 3590,
   "p25": 3495,
   "p75": 3700,
   "min": 3195,
@@ -13073,5 +13073,25 @@
   "fecha": "2026-10-27",
   "consulta": "Omega 210.30.42.20.01.023",
   "n": 0
+ },
+ "Rolex 228235|nuevo": {
+  "fecha": "2026-10-27",
+  "consulta": "Rolex 228235",
+  "n": 28,
+  "mediana": 64584,
+  "p25": 60845,
+  "p75": 67900,
+  "min": 55000,
+  "max": 75195
+ },
+ "Jaeger-LeCoultre Q1768470|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Jaeger-LeCoultre Q1768470",
+  "n": 4,
+  "mediana": 7794,
+  "p25": 7544,
+  "p75": 8300,
+  "min": 7300,
+  "max": 8300
  }
 }
