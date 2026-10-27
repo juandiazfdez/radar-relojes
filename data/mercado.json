@@ -7135,13 +7135,13 @@
   "max": 3999
  },
  "Cartier WSSA0018|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Cartier WSSA0018",
-  "n": 29,
+  "n": 30,
   "mediana": 10000,
-  "p25": 8100,
+  "p25": 8175,
   "p75": 18510,
-  "min": 6999,
+  "min": 6965,
   "max": 28000
  },
  "Cartier W1501856|usado": {
@@ -11375,12 +11375,12 @@
   "n": 0
  },
  "Panerai PAM00090|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Panerai PAM00090",
-  "n": 16,
-  "mediana": 4812,
+  "n": 17,
+  "mediana": 4875,
   "p25": 4400,
-  "p75": 5000,
+  "p75": 5395,
   "min": 4195,
   "max": 7395
  },
@@ -12773,5 +12773,75 @@
   "p75": 1350,
   "min": 950,
   "max": 1350
+ },
+ "Rolex 16803|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Rolex 16803",
+  "n": 15,
+  "mediana": 11295,
+  "p25": 9974,
+  "p75": 11800,
+  "min": 8999,
+  "max": 15500
+ },
+ "Rolex 116618LB|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Rolex 116618LB",
+  "n": 13,
+  "mediana": 37950,
+  "p25": 36908,
+  "p75": 38999,
+  "min": 34558,
+  "max": 44895
+ },
+ "Tudor 25600T|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Tudor 25600T",
+  "n": 0
+ },
+ "Panerai PAM00305|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Panerai PAM00305",
+  "n": 5,
+  "mediana": 5700,
+  "p25": 5140,
+  "p75": 5800,
+  "min": 5030,
+  "max": 6903
+ },
+ "Omega 210.30.42.20.10.001|nuevo": {
+  "fecha": "2026-10-27",
+  "consulta": "Omega 210.30.42.20.10.001",
+  "n": 8,
+  "mediana": 6100,
+  "p25": 5960,
+  "p75": 6299,
+  "min": 5700,
+  "max": 10030
+ },
+ "Breitling C13341|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Breitling C13341",
+  "n": 0
+ },
+ "Breitling AB0138|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Breitling AB0138",
+  "n": 4,
+  "mediana": 7004,
+  "p25": 6969,
+  "p75": 7985,
+  "min": 6404,
+  "max": 7985
+ },
+ "TAG Heuer WBP1112|nuevo": {
+  "fecha": "2026-10-27",
+  "consulta": "TAG Heuer WBP1112",
+  "n": 1,
+  "mediana": 3400,
+  "p25": 3400,
+  "p75": 3400,
+  "min": 3400,
+  "max": 3400
  }
 }
