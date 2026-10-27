@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-26T07:13:14.114589+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG Heuer WK1110.BA0317 Mens 2000 Series Professional Black Steel Quartz Watch",
-  "total": 980.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960111942118",
-  "item_id": "v1|960111942118|0",
-  "referencia": "WK1110.BA0317",
-  "mercado": {
-   "n": 18,
-   "p25": 810,
-   "mediana": 875
-  },
-  "ratio_mercado": 1.21,
-  "motivo": "precio normal (121 % del cuartil bajo de WK1110.BA0317)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "TAG Heuer",
   "titulo": "TAG Heuer CL1110.FT6000 Mens Kirium Series Black Rubber Chronograph Watch FC5000",
   "total": 700.0,
   "condicion": "Pre-owned - Good",
@@ -11778,5 +11761,28 @@
    "nota": "Precio pedido de US$20.212 muy por encima del valor de mercado de esta referencia nueva con caja y papeles (aprox. US$8.500-9.300); listado sobrevalorado, no oportunidad."
   },
   "motivo": "triage: Precio pedido de US$20.212 muy por encima del valor de mercado de esta referencia nueva con caja y papeles (aprox. US$8.500-9.300); listado sobrevalorado, no oportunidad. (justo 8800)"
+ },
+ {
+  "fecha": "2026-10-27T09:36:57.522267+00:00",
+  "marca": "IWC",
+  "titulo": "IWC Portuguese Perpetual Calendar White Gold Auto 42mm Grey Watch IW502218",
+  "total": 22265.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860088363478",
+  "item_id": "v1|860088363478|0",
+  "referencia": "IW502218",
+  "mercado": {
+   "n": 1,
+   "p25": 26895,
+   "mediana": 26895
+  },
+  "triage": {
+   "modelo": "IWC Portuguese Perpetual Calendar (oro blanco, esfera gris)",
+   "referencia": "IW502218",
+   "precio_justo_usd": 28000,
+   "interesante": false,
+   "nota": "Precio unos 20 % por debajo de mercado, pero en un perpetuo de oro blanco ese descuento exige verificar autenticidad, papeles y servicio antes de considerarlo una oportunidad real."
+  },
+  "motivo": "triage: Precio unos 20 % por debajo de mercado, pero en un perpetuo de oro blanco ese descuento exige verificar autenticidad, papeles y servicio antes de considerarlo una oportunidad real. (justo 28000)"
  }
 ]
