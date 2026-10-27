@@ -2,63 +2,6 @@
  {
   "fecha": "2026-10-26T07:13:14.114589+00:00",
   "marca": "Breitling",
-  "titulo": "Breitling Endurance PRO 44",
-  "total": 2400.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920073683724",
-  "item_id": "v1|920073683724|0",
-  "triage": {
-   "modelo": "Breitling Endurance Pro 44 (caja PVD negra, correa de caucho azul, cronógrafo de cuarzo)",
-   "referencia": "X82310 (verificar)",
-   "precio_justo_usd": 2100,
-   "interesante": false,
-   "nota": "Precio pedido de US$2400 con envío está por encima del valor de venta real estimado para uso en estado excelente; no cumple el umbral de 15 % de descuento."
-  },
-  "motivo": "triage: Precio pedido de US$2400 con envío está por encima del valor de venta real estimado para uso en estado excelente; no cumple el umbral de 15 % de descuento. (justo 2100)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Avenger Seawolf Night Mission Automatic Watch, V17319101B1X2, Full Set",
-  "total": 3450.0,
-  "condicion": "New with imperfections",
-  "url": "https://www.ebay.com/itm/198743167058",
-  "item_id": "v1|198743167058|0",
-  "referencia": "V17319101B1X2",
-  "mercado": {
-   "n": 2,
-   "p25": 3999,
-   "mediana": 4000
-  },
-  "triage": {
-   "modelo": "Breitling Avenger Seawolf Night Mission (caja PVD negra, esfera negra)",
-   "referencia": "V17319101B1X2",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Referencia coherente con la foto. Con 'imperfecciones' y precio de US$3450, no está al menos 15% por debajo del precio de venta real estimado."
-  },
-  "motivo": "triage: Referencia coherente con la foto. Con 'imperfecciones' y precio de US$3450, no está al menos 15% por debajo del precio de venta real estimado. (justo 3200)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Super Avenger Military 24H Ltd Edition282/500 Blacksteel 48mm Full Set",
-  "total": 6497.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/900031271909",
-  "item_id": "v1|900031271909|0",
-  "triage": {
-   "modelo": "Breitling Super Avenger Military 24H Ltd. Edition Blacksteel 48 mm (cronógrafo, edición limitada 282/500)",
-   "referencia": null,
-   "precio_justo_usd": 6300,
-   "interesante": false,
-   "nota": "Edición limitada de 500 piezas con caja y papeles, pero el precio pedido ya está cerca del valor de mercado de segunda mano; sin descuento suficiente para ser oportunidad."
-  },
-  "motivo": "triage: Edición limitada de 500 piezas con caja y papeles, pero el precio pedido ya está cerca del valor de mercado de segunda mano; sin descuento suficiente para ser oportunidad. (justo 6300)"
- },
- {
-  "fecha": "2026-10-26T07:13:14.114589+00:00",
-  "marca": "Breitling",
   "titulo": "Breitling Avenger Skyland M13380 45mm Black Steel Chronograph Auto Watch",
   "total": 3290.0,
   "condicion": "Pre-owned - Excellent",
@@ -11834,5 +11777,68 @@
    "nota": "El precio pedido de US$6260 supera el valor de mercado secundario estimado (~US$4800 con estado Good); no hay descuento suficiente."
   },
   "motivo": "triage: El precio pedido de US$6260 supera el valor de mercado secundario estimado (~US$4800 con estado Good); no hay descuento suficiente. (justo 4800)"
+ },
+ {
+  "fecha": "2026-10-27T03:06:45.390586+00:00",
+  "marca": "Panerai",
+  "titulo": "Panerai Radiomir Chronograph PAM00288 Men's Watch",
+  "total": 5875.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/117489365595",
+  "item_id": "v1|117489365595|0",
+  "referencia": "PAM00288",
+  "mercado": {
+   "n": 4,
+   "p25": 5195,
+   "mediana": 5593
+  },
+  "triage": {
+   "modelo": "Panerai Radiomir Chronograph (caja cojín de acero, esfera negra con subesferas, correa de piel negra)",
+   "referencia": "PAM00288 (según el título; no es verificable solo con la foto)",
+   "precio_justo_usd": 6200,
+   "interesante": false,
+   "nota": "Precio cercano al mercado de usados de acero con caja; descuento de solo ~5%, por debajo del umbral del 15%. Confirmar referencia, papeles y estado."
+  },
+  "motivo": "triage: Precio cercano al mercado de usados de acero con caja; descuento de solo ~5%, por debajo del umbral del 15%. Confirmar referencia, papeles y estado. (justo 6200)"
+ },
+ {
+  "fecha": "2026-10-27T03:06:45.390586+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Speedmaster Triple Calendar 18K Rose Gold 323.53.40",
+  "total": 13000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960120612456",
+  "item_id": "v1|960120612456|0",
+  "triage": {
+   "modelo": "Omega Speedmaster Triple Calendar (según título; la foto no lo confirma)",
+   "referencia": "323.53.40",
+   "precio_justo_usd": 12500,
+   "interesante": false,
+   "nota": "La foto muestra un cronógrafo de esfera negra con correa de piel que no coincide claramente con una Speedmaster de oro rosa; hay que verificar identidad, caja y papeles antes de comprar."
+  },
+  "motivo": "triage: La foto muestra un cronógrafo de esfera negra con correa de piel que no coincide claramente con una Speedmaster de oro rosa; hay que verificar identidad, caja y papeles antes de comprar. (justo 12500)"
+ },
+ {
+  "fecha": "2026-10-27T03:06:45.390586+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "Tag Heuer Aquaracer WAF1112 Set of Two 39mm and 27mm Wedding, Anniversary Gift",
+  "total": 1199.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840063845836",
+  "item_id": "v1|840063845836|0",
+  "referencia": "WAF1112",
+  "mercado": {
+   "n": 4,
+   "p25": 675,
+   "mediana": 742
+  },
+  "triage": {
+   "modelo": "TAG Heuer Aquaracer, par de relojes de acero (aparentemente 39 mm y 27 mm)",
+   "referencia": "WAF1112 (el listado no es coherente con un set de dos medidas; verificar)",
+   "precio_justo_usd": 1400,
+   "interesante": false,
+   "nota": "La referencia WAF1112 corresponde a un solo cronógrafo Aquaracer, no a un par de 39 y 27 mm, así que el listado es inconsistente. Hay que verificar cada reloj, su referencia y papeles antes de valorar el precio."
+  },
+  "motivo": "triage: La referencia WAF1112 corresponde a un solo cronógrafo Aquaracer, no a un par de 39 y 27 mm, así que el listado es inconsistente. Hay que verificar cada reloj, su referencia y papeles antes de valorar el precio. (justo 1400)"
  }
 ]
