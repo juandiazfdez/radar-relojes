@@ -9590,11 +9590,11 @@
   "max": 5225
  },
  "Breitling A13375|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Breitling A13375",
-  "n": 6,
+  "n": 7,
   "mediana": 5195,
-  "p25": 3914,
+  "p25": 3660,
   "p75": 5795,
   "min": 2699,
   "max": 5895
@@ -12363,5 +12363,35 @@
   "fecha": "2026-10-27",
   "consulta": "Bulgari DG41SMC",
   "n": 0
+ },
+ "Cartier 2301|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Cartier 2301",
+  "n": 9,
+  "mediana": 3800,
+  "p25": 3550,
+  "p75": 4395,
+  "min": 3400,
+  "max": 5600
+ },
+ "Breitling XB0614|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Breitling XB0614",
+  "n": 0
+ },
+ "Breitling C23340|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Breitling C23340",
+  "n": 0
+ },
+ "Breitling A17331|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Breitling A17331",
+  "n": 6,
+  "mediana": 2950,
+  "p25": 2780,
+  "p75": 3100,
+  "min": 2750,
+  "max": 4040
  }
 }
