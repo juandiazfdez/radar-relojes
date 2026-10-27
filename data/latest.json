@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-27T18:52:18.357967+00:00",
+ "actualizado": "2026-10-27T19:07:18.299594+00:00",
  "ventana_horas": 2.0,
  "marcas": [
   "Rolex",
@@ -14,15 +14,88 @@
   "IWC"
  ],
  "corrida": {
-  "nuevos_vistos": 15,
+  "nuevos_vistos": 18,
   "descartes": {
-   "titulo": 8,
-   "precio_normal": 2,
-   "triage": 5
+   "titulo": 13,
+   "triage": 3,
+   "precio_justo": 1
   },
-  "alertas_nuevas": 0,
-  "llamadas_ebay": 13,
+  "alertas_nuevas": 1,
+  "llamadas_ebay": 15,
   "cuota_agotada": false
  },
- "alertas_hoy": []
+ "alertas_hoy": [
+  {
+   "fecha": "2026-10-27T19:07:18.299594+00:00",
+   "marca": "Tudor",
+   "titulo": "Tudor Prince Oysterdate Ranger Watch 9050! (WMP021929)",
+   "precio": 1399.99,
+   "envio": 9.99,
+   "total": 1409.98,
+   "mercado": null,
+   "triage": {
+    "modelo": "Tudor Prince Oysterdate Ranger (dial Ranger rojo)",
+    "referencia": "9050/0",
+    "precio_justo_usd": 1700,
+    "interesante": true,
+    "nota": "Estimación conservadora para estado Fair sin caja; verificar autenticidad del dial Ranger, la esfera y el movimiento antes de comprar."
+   },
+   "vendedor": "westminstermp",
+   "valoraciones": 2553,
+   "pct_positivo": "99.6",
+   "url": "https://www.ebay.com/itm/920080074657",
+   "item_id": "v1|920080074657|0",
+   "info": {
+    "departamento": "Men",
+    "referencia": null,
+    "modelo_esp": "PRINCE DATE",
+    "caja_mm": null,
+    "material": null,
+    "ano": null,
+    "movimiento": null,
+    "caja_original": null,
+    "papeles": null,
+    "condicion": "Pre-owned - Fair",
+    "condicion_id": "3010",
+    "condicion_desc": "",
+    "garantia_autenticidad": false,
+    "devoluciones": false,
+    "amarillas": [
+     "no box",
+     "scratch",
+     "scratches",
+     "wear"
+    ],
+    "imagenes": [
+     "https://i.ebayimg.com/images/g/eg0AAeSwLOBq4PJH/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/PLgAAeSwwblq4PJI/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/mZMAAeSwmVVq4PJI/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/p08AAeSw7fhq4PJI/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/n40AAeSwmOJq4PJI/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/qRkAAeSwveVq4PJI/s-l1600.jpg"
+    ]
+   },
+   "claude": {
+    "veredicto": "dudoso",
+    "modelo": "Tudor Prince Oysterdate Ranger 9050/0 (dial negro con RANGER en rojo, fecha a las 3)",
+    "estado": "Fair: caja pulida y desgastada, cristal acrílico rayado, correa roja de cuero no original muy gastada",
+    "riesgo_autenticidad": "medio",
+    "completo": false,
+    "razones": [
+     "El precio de US$1410 está un 17 % bajo el justo de US$1700, pero el margen es pequeño. Todo depende de que el dial Ranger sea original y no un redial, y no hay forma de comprobarlo con estas fotos.",
+     "Los dials Ranger son de los más falsificados y repintados del mercado vintage Tudor. La descripción admite que 'dial, case and other major components may not be original'. Es una advertencia genérica de la casa de empeños, pero no ofrece garantía ni devoluciones.",
+     "Faltan fotos del fondo de caja, del movimiento (calibre ETA/Tudor automático) y de la corona con su marca. Sin ellas no se puede verificar la referencia 9050, el número de serie ni la originalidad de las piezas.",
+     "Los lúmenes de las agujas y de los índices tienen un tono crema parecido, y la manecilla de segundos con rectángulo luminoso y las agujas pueden no ser todas correctas para la época. Convendría revisar bajo lupa.",
+     "Las lugs parecen pulidas, con pérdida de aristas. Esto resta valor a un vintage coleccionable.",
+     "Incoherencia en el anuncio: dice 'brazalete de acero inoxidable', pero las fotos muestran una correa de cuero rojo desgastada y agrietada. La hebilla es genérica. No incluye caja, papeles ni brazalete original.",
+     "Estado funcional solo declarado ('good running condition'), sin servicio ni prueba de precisión. Hay que asumir un servicio de unos US$150-250.",
+     "El cristal acrílico con cyclops parece correcto para la época, pero tiene rayones. Se puede pulir.",
+     "Vendedor con buena reputación (99.6 %, 2553 valoraciones), pero es una casa de empeños sin experiencia relojera acreditada. Las fotos son propias, no de catálogo."
+    ],
+    "precio_justo_usd": 1700,
+    "precio_reventa_rd_usd": 1950
+   },
+   "ratio_justo": 0.829
+  }
+ ]
 }

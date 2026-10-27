@@ -11775,9 +11775,14 @@
   "n": 0
  },
  "Jaeger-LeCoultre 180.1.99|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-27",
   "consulta": "Jaeger-LeCoultre 180.1.99",
-  "n": 0
+  "n": 1,
+  "mediana": 13065,
+  "p25": 13065,
+  "p75": 13065,
+  "min": 13065,
+  "max": 13065
  },
  "Jaeger-LeCoultre 176.8.12.S|usado": {
   "fecha": "2026-10-26",
@@ -13093,5 +13098,15 @@
   "p75": 8300,
   "min": 7300,
   "max": 8300
+ },
+ "Omega 424.53.40.20.04.002|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "Omega 424.53.40.20.04.002",
+  "n": 0
+ },
+ "IWC IW524202|usado": {
+  "fecha": "2026-10-27",
+  "consulta": "IWC IW524202",
+  "n": 0
  }
 }
