@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-10-27T03:36:45.427633+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 1951 Engraved Rolex Ladies 14k Solid Gold Bracelet Watch - Working!",
-  "total": 2999.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/227585052843",
-  "item_id": "v1|227585052843|0",
-  "triage": {
-   "modelo": "Rolex dama vintage en oro de 14k con pulsera (no identificable con certeza en la foto)",
-   "referencia": null,
-   "precio_justo_usd": 2000,
-   "interesante": false,
-   "nota": "La foto muestra una caja moderna de Rolex, no verificable para 1951; la referencia no se distingue. El precio pedido de 2999 USD no está al menos 15% bajo el valor de mercado estimado para oro 14k y estado excelente."
-  },
-  "motivo": "triage: La foto muestra una caja moderna de Rolex, no verificable para 1951; la referencia no se distingue. El precio pedido de 2999 USD no está al menos 15% bajo el valor de mercado estimado para oro 14k y estado excelente. (justo 2000)"
- },
- {
   "fecha": "2026-10-27T03:51:45.450253+00:00",
   "marca": "Omega",
   "titulo": "Omega De Ville Prestige Quartz Stainless Steel With Mother Of Pearl Watch",
@@ -11514,5 +11497,22 @@
   },
   "ratio_mercado": 0.971,
   "motivo": "precio normal (97 % del cuartil bajo de PAM00312)"
+ },
+ {
+  "fecha": "2026-10-28T09:52:36.084470+00:00",
+  "marca": "Omega",
+  "titulo": "2026 OMEGA Seamaster Diver 300M 210.30.42.20.06.001 Very Good Condition Full Set",
+  "total": 4599.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900044209105",
+  "item_id": "v1|900044209105|0",
+  "referencia": "210.30.42.20.06.001",
+  "mercado": {
+   "n": 14,
+   "p25": 4549,
+   "mediana": 4689
+  },
+  "ratio_mercado": 1.011,
+  "motivo": "precio normal (101 % del cuartil bajo de 210.30.42.20.06.001)"
  }
 ]
