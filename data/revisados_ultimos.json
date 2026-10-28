@@ -1,29 +1,6 @@
 [
  {
   "fecha": "2026-10-27T13:22:06.735454+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai Luminor 1950 3 Days GMT PAM 00329 OVERHAULED TO A NEW CONDITION",
-  "total": 4579.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840065402469",
-  "item_id": "v1|840065402469|0",
-  "referencia": "PAM00329",
-  "mercado": {
-   "n": 3,
-   "p25": 5199,
-   "mediana": 5550
-  },
-  "triage": {
-   "modelo": "Panerai Luminor 1950 3 Days GMT (acero, esfera negra, correa de caucho)",
-   "referencia": "PAM 00329",
-   "precio_justo_usd": 5600,
-   "interesante": false,
-   "nota": "Precio ~18 % bajo mi estimación, pero el título 'overhauled to a new condition' sugiere restauración o pulido que reduce el valor, y el precio es demasiado bajo para un PAM 329 real, así que hay que verificar autenticidad y papeles antes de comprar."
-  },
-  "motivo": "triage: Precio ~18 % bajo mi estimación, pero el título 'overhauled to a new condition' sugiere restauración o pulido que reduce el valor, y el precio es demasiado bajo para un PAM 329 real, así que hay que verificar autenticidad y papeles antes de comprar. (justo 5600)"
- },
- {
-  "fecha": "2026-10-27T13:22:06.735454+00:00",
   "marca": "Breitling",
   "titulo": "2025 Breitling B09 Chronograph 40 “Pistachio” Ref AB0930 Complete Set w/B&P",
   "total": 8095.0,
@@ -11418,5 +11395,22 @@
    "nota": "Precio pedido por encima del valor de venta real de este modelo de segunda mano en EE. UU.; no hay descuento suficiente para justificar la compra."
   },
   "motivo": "triage: Precio pedido por encima del valor de venta real de este modelo de segunda mano en EE. UU.; no hay descuento suficiente para justificar la compra. (justo 1450)"
+ },
+ {
+  "fecha": "2026-10-28T12:22:48.256768+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Seamaster Prol Diver 300M 42mm Blue wave 210.32.42.20.03.001 full kit",
+  "total": 4750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800847959762",
+  "item_id": "v1|800847959762|0",
+  "referencia": "210.32.42.20.03.001",
+  "mercado": {
+   "n": 16,
+   "p25": 4525,
+   "mediana": 4694
+  },
+  "ratio_mercado": 1.05,
+  "motivo": "precio normal (105 % del cuartil bajo de 210.32.42.20.03.001)"
  }
 ]
