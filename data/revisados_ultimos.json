@@ -1,149 +1,5 @@
 [
  {
-  "fecha": "2026-10-27T18:37:18.306823+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Automatic Men's Vintage Watch",
-  "total": 1695.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137880239884",
-  "item_id": "v1|137880239884|0",
-  "triage": {
-   "modelo": "Omega Seamaster Automatic vintage (aparentemente años 50-60, caja de acero)",
-   "referencia": null,
-   "precio_justo_usd": 1750,
-   "interesante": false,
-   "nota": "Referencia no verificable en la foto; el precio pedido está cerca del valor de mercado y no supera el umbral del 15 % de descuento. Pedir fotos del movimiento, caja y esfera."
-  },
-  "motivo": "triage: Referencia no verificable en la foto; el precio pedido está cerca del valor de mercado y no supera el umbral del 15 % de descuento. Pedir fotos del movimiento, caja y esfera. (justo 1750)"
- },
- {
-  "fecha": "2026-10-27T18:37:18.306823+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster 300 Heritage Bronze Gold 234.92.41.21.10.001 Men's 41mm Watch",
-  "total": 10000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287684935421",
-  "item_id": "v1|287684935421|0",
-  "referencia": "234.92.41.21.10.001",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Omega Seamaster 300 Heritage Bronze Gold, 41 mm",
-   "referencia": "234.92.41.21.10.001",
-   "precio_justo_usd": 12000,
-   "interesante": true,
-   "nota": "Bronce-oro de 41 mm, esfera oscura con numerales arábigos; precio ~17% bajo estimado de venta cerrada en EE. UU. Verificar autenticidad, estado de la caja y papeles antes de comprar."
-  },
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 10500,
-   "riesgo_autenticidad": "medio",
-   "estado": "Excelente según el vendedor, con un rayón notable en la punta de un asa y desgaste leve"
-  },
-  "ratio_justo": 0.952,
-  "motivo": "precio normal segun revision (95 % del justo 10500)"
- },
- {
-  "fecha": "2026-10-27T18:37:18.306823+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Diver James Bond Spectre Edition Ref. 210.30.42.20.01.023",
-  "total": 10495.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/267825456583",
-  "item_id": "v1|267825456583|0",
-  "referencia": "210.30.42.20.01.023",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Diver 300M 42 mm, acero, esfera gris y bisel cerámico (el título la vincula a la edición Spectre, pero la referencia no coincide con esa edición)",
-   "referencia": "210.30.42.20.01.023 (no verificada como edición Spectre)",
-   "precio_justo_usd": 5200,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de mercado para un Seamaster Diver 300M estándar nuevo con caja y papeles; el nombre 'Spectre' parece un reclamo de marketing sin respaldo en la referencia."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de mercado para un Seamaster Diver 300M estándar nuevo con caja y papeles; el nombre 'Spectre' parece un reclamo de marketing sin respaldo en la referencia. (justo 5200)"
- },
- {
-  "fecha": "2026-10-27T18:37:18.306823+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Speedmaster Tokyo 2020 Panda 522.30.42.30.04.001 Men's 42mm Steel Watch",
-  "total": 10000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287684929292",
-  "item_id": "v1|287684929292|0",
-  "referencia": "522.30.42.30.04.001",
-  "mercado": {
-   "n": 1,
-   "p25": 10000,
-   "mediana": 10000
-  },
-  "triage": {
-   "modelo": "Omega Speedmaster Professional Moonwatch 'Tokyo 2020' (Panda), acero, 42 mm",
-   "referencia": "522.30.42.30.04.001",
-   "precio_justo_usd": 6500,
-   "interesante": false,
-   "nota": "Pedido de US$10.000 supera el precio de tienda y queda muy por encima del valor de reventa de un Tokyo 2020 usado en excelente estado."
-  },
-  "motivo": "triage: Pedido de US$10.000 supera el precio de tienda y queda muy por encima del valor de reventa de un Tokyo 2020 usado en excelente estado. (justo 6500)"
- },
- {
-  "fecha": "2026-10-27T18:37:18.306823+00:00",
-  "marca": "IWC",
-  "titulo": "IWC Portofino 18kt Yellow Gold Automatic Watch IW3513",
-  "total": 6499.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960123410031",
-  "item_id": "v1|960123410031|0",
-  "triage": {
-   "modelo": "IWC Portofino Automatic, caja de oro amarillo de 18 k, esfera dorada con ventana de fecha, correa de piel negra",
-   "referencia": "IW3513",
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "Precio pedido de 6499 USD por encima del valor de venta cerrada estimado para este modelo en oro de 18 k, sin caja ni papeles confirmados."
-  },
-  "motivo": "triage: Precio pedido de 6499 USD por encima del valor de venta cerrada estimado para este modelo en oro de 18 k, sin caja ni papeles confirmados. (justo 4800)"
- },
- {
-  "fecha": "2026-10-27T18:52:18.357967+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date 2026 OCTOBER UNWORN 228235 Slate Ombre President Rose Gold",
-  "total": 67550.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/840066226479",
-  "item_id": "v1|840066226479|0",
-  "referencia": "228235",
-  "mercado": {
-   "n": 28,
-   "p25": 60845,
-   "mediana": 64584
-  },
-  "ratio_mercado": 1.11,
-  "motivo": "precio normal (111 % del cuartil bajo de 228235)"
- },
- {
-  "fecha": "2026-10-27T18:52:18.357967+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere Large Steel Yellow Gold Three Row Quartz Mens Watch 183957",
-  "total": 7080.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336866067999",
-  "item_id": "v1|336866067999|0",
-  "triage": {
-   "modelo": "Cartier Panthère Large acero y oro amarillo, tres filas, cuarzo",
-   "referencia": "183957",
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de mercado de venta cerrada para este modelo bicolor de cuarzo de segunda mano, incluso con caja y papeles."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de mercado de venta cerrada para este modelo bicolor de cuarzo de segunda mano, incluso con caja y papeles. (justo 4800)"
- },
- {
   "fecha": "2026-10-27T18:52:18.357967+00:00",
   "marca": "Cartier",
   "titulo": "Cartier 27mm Automatic Santos Octagon",
@@ -11382,5 +11238,130 @@
    "nota": "Precio pedido casi el doble del valor de mercado estimado para un Reverso de 23 mm en oro blanco 18k usado y refabricado. La foto parece de catálogo y la caja no coincide con el oro blanco anunciado; conviene verificar material y autenticidad."
   },
   "motivo": "triage: Precio pedido casi el doble del valor de mercado estimado para un Reverso de 23 mm en oro blanco 18k usado y refabricado. La foto parece de catálogo y la caja no coincide con el oro blanco anunciado; conviene verificar material y autenticidad. (justo 8000)"
+ },
+ {
+  "fecha": "2026-10-28T20:08:00.312739+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1974 Rolex Oyster Perpetual Date 1503 14K YG Champagne Auto 34mm",
+  "total": 9999.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128161470138",
+  "item_id": "v1|128161470138|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date (oro amarillo 14K, bisel acanalado, esfera champán)",
+   "referencia": "1503",
+   "precio_justo_usd": 6000,
+   "interesante": false,
+   "nota": "El precio pedido de US$10.000 supera el valor de venta cerrada estimado para una 1503 en oro de 14K en estado Good; no es una oportunidad."
+  },
+  "motivo": "triage: El precio pedido de US$10.000 supera el valor de venta cerrada estimado para una 1503 en oro de 14K en estado Good; no es una oportunidad. (justo 6000)"
+ },
+ {
+  "fecha": "2026-10-28T20:08:00.312739+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Pasha W31015M7 35mm Automatic ",
+  "total": 2700.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307254265414",
+  "item_id": "v1|307254265414|0",
+  "triage": {
+   "modelo": "Cartier Pasha C 35 mm automático (acero, esfera blanca)",
+   "referencia": "W31015M7",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Precio pedido en línea con el mercado de segunda mano para esta referencia en estado Good; no hay descuento de al menos 15 % y la autenticidad no se puede verificar solo con la foto."
+  },
+  "motivo": "triage: Precio pedido en línea con el mercado de segunda mano para esta referencia en estado Good; no hay descuento de al menos 15 % y la autenticidad no se puede verificar solo con la foto. (justo 2600)"
+ },
+ {
+  "fecha": "2026-10-28T20:08:00.312739+00:00",
+  "marca": "Cartier",
+  "titulo": "CARTIER LADY'S WRISTWATCH MODEL 2698 (P11040714)",
+  "total": 4039.99,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/840069379258",
+  "item_id": "v1|840069379258|0",
+  "referencia": "2698",
+  "mercado": {
+   "n": 5,
+   "p25": 4025,
+   "mediana": 4495
+  },
+  "ratio_mercado": 1.004,
+  "motivo": "precio normal (100 % del cuartil bajo de 2698)"
+ },
+ {
+  "fecha": "2026-10-28T20:08:00.312739+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Must de Cartier 21 1340 Vintage Collection Watch - Refined, Stylish.",
+  "total": 1695.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800849163771",
+  "item_id": "v1|800849163771|0",
+  "referencia": "1340",
+  "mercado": {
+   "n": 8,
+   "p25": 1519,
+   "mediana": 1600
+  },
+  "ratio_mercado": 1.116,
+  "motivo": "precio normal (112 % del cuartil bajo de 1340)"
+ },
+ {
+  "fecha": "2026-10-28T20:08:00.312739+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Speedmaster Trilogy 1957  limited 60th Anniversary",
+  "total": 7315.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128161468471",
+  "item_id": "v1|128161468471|0",
+  "triage": {
+   "modelo": "Omega Speedmaster '57 Trilogy 60th Anniversary (edición limitada 2017)",
+   "referencia": "311.10.39.30.01.001 (probable, verificar con el número de serie y las fotos del caso)",
+   "precio_justo_usd": 6000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta cerrada para estado usado y sin confirmar caja y papeles; no cumple el margen mínimo del 15 %."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta cerrada para estado usado y sin confirmar caja y papeles; no cumple el margen mínimo del 15 %. (justo 6000)"
+ },
+ {
+  "fecha": "2026-10-28T20:08:00.312739+00:00",
+  "marca": "Omega",
+  "titulo": "Omega W.W.W. Dirty Dozen Military Watch! (WMP021931)",
+  "total": 3109.98,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/920080213853",
+  "item_id": "v1|920080213853|0",
+  "triage": {
+   "modelo": "Omega W.W.W. \"Dirty Dozen\" (reloj militar británico, c. 1944-1945)",
+   "referencia": "6B/159 (contrato WMP021931)",
+   "precio_justo_usd": 2900,
+   "interesante": false,
+   "nota": "Precio pedido un poco por encima del valor estimado para estado Fair; autenticidad no verificable en la foto y las réplicas de este modelo son muy comunes."
+  },
+  "motivo": "triage: Precio pedido un poco por encima del valor estimado para estado Fair; autenticidad no verificable en la foto y las réplicas de este modelo son muy comunes. (justo 2900)"
+ },
+ {
+  "fecha": "2026-10-28T20:08:00.312739+00:00",
+  "marca": "IWC",
+  "titulo": "2026 IWC Performance Chronograph 41 Year of the Goat   IW388310 LIMITED OF 500",
+  "total": 15000.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/128161474918",
+  "item_id": "v1|128161474918|0",
+  "referencia": "IW388310",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "IWC Pilot's Watch Chronograph 41 (esfera champán, correa de caucho negra); la imagen no confirma la edición 'Year of the Goat'",
+   "referencia": "IW388310 (según título, no verificable en la imagen)",
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "El precio pedido de US$15.000 supera con holgura el valor de mercado de un Pilot Chrono 41 nuevo; el listado requiere verificar la referencia y la edición limitada antes de cualquier compra."
+  },
+  "motivo": "triage: El precio pedido de US$15.000 supera con holgura el valor de mercado de un Pilot Chrono 41 nuevo; el listado requiere verificar la referencia y la edición limitada antes de cualquier compra. (justo 7000)"
  }
 ]

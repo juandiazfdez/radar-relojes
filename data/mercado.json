@@ -105,14 +105,14 @@
   "max": 10650
  },
  "Cartier 1340|usado": {
-  "fecha": "2026-10-20",
+  "fecha": "2026-10-28",
   "consulta": "Cartier 1340",
-  "n": 3,
-  "mediana": 1885,
-  "p25": 1250,
-  "p75": 1895,
+  "n": 8,
+  "mediana": 1600,
+  "p25": 1519,
+  "p75": 1885,
   "min": 1250,
-  "max": 1895
+  "max": 1995
  },
  "cartier must 21|usado": {
   "fecha": "2026-10-20",
@@ -14677,6 +14677,21 @@
  "Jaeger-LeCoultre Q2503470|usado": {
   "fecha": "2026-10-28",
   "consulta": "Jaeger-LeCoultre Q2503470",
+  "n": 0
+ },
+ "Cartier 2698|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Cartier 2698",
+  "n": 5,
+  "mediana": 4495,
+  "p25": 4025,
+  "p75": 5507,
+  "min": 3899,
+  "max": 9030
+ },
+ "IWC IW388310|nuevo": {
+  "fecha": "2026-10-28",
+  "consulta": "IWC IW388310",
   "n": 0
  }
 }
