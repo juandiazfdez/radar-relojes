@@ -1,132 +1,6 @@
 [
  {
   "fecha": "2026-10-27T19:37:17.770843+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ronde WSRN0021 / 36mm / Stainless Steel / Full Set",
-  "total": 3950.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227586060117",
-  "item_id": "v1|227586060117|0",
-  "referencia": "WSRN0021",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Ronde Solo de Cartier 36 mm, acero, esfera plateada con números romanos y anillo de 24 horas",
-   "referencia": "WSRN0021 (según el título; verificar en la caja y el reverso de la caja, porque la esfera de la foto con anillo de 24 h no siempre coincide con esa referencia)",
-   "precio_justo_usd": 2900,
-   "interesante": false,
-   "nota": "Precio pedido al nivel de retail, sin descuento de mercado gris para un modelo nuevo; además, el anillo de 24 h y el calibre deben confirmarse antes de comprar."
-  },
-  "motivo": "triage: Precio pedido al nivel de retail, sin descuento de mercado gris para un modelo nuevo; además, el anillo de 24 h y el calibre deben confirmarse antes de comprar. (justo 2900)"
- },
- {
-  "fecha": "2026-10-27T19:37:17.770843+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Solo W1018255 / 23mm / Stainless Steel / Full Set",
-  "total": 4250.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227586060118",
-  "item_id": "v1|227586060118|0",
-  "referencia": "W1018255",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Tank Solo (tamaño pequeño, cuarzo, acero, esfera plateada con números romanos y manecillas azules)",
-   "referencia": "W1018255",
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "Precio pedido de US$4250 está muy por encima del retail actual de esta referencia y de su precio de mercado secundario; no hay descuento."
-  },
-  "motivo": "triage: Precio pedido de US$4250 está muy por encima del retail actual de esta referencia y de su precio de mercado secundario; no hay descuento. (justo 2600)"
- },
- {
-  "fecha": "2026-10-27T19:37:17.770843+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ronde W6700155 / 29mm / Stainless Steel / Full Set",
-  "total": 3450.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227586060119",
-  "item_id": "v1|227586060119|0",
-  "referencia": "W6700155",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Ronde Solo de Cartier 29 mm, acero, esfera plateada con números romanos, correa de piel negra (cuarzo)",
-   "referencia": "W6700155",
-   "precio_justo_usd": 2900,
-   "interesante": false,
-   "nota": "Precio pedido cercano al retail para un modelo nuevo; el descuento de mercado gris no alcanza el 15 % requerido."
-  },
-  "motivo": "triage: Precio pedido cercano al retail para un modelo nuevo; el descuento de mercado gris no alcanza el 15 % requerido. (justo 2900)"
- },
- {
-  "fecha": "2026-10-27T19:37:17.770843+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 58 ( Fifty-Eight ) Black / Bracelet 39mm – 79030N –Box & Papers",
-  "total": 4295.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366765293555",
-  "item_id": "v1|366765293555|0",
-  "referencia": "79030N",
-  "mercado": {
-   "n": 10,
-   "p25": 3900,
-   "mediana": 3983
-  },
-  "ratio_mercado": 1.101,
-  "motivo": "precio normal (110 % del cuartil bajo de 79030N)"
- },
- {
-  "fecha": "2026-10-27T19:37:17.770843+00:00",
-  "marca": "Breitling",
-  "titulo": "BREITLING Bentley Motors A25362 Chronograph Automatic Men's Watch_FREE SHIPPING",
-  "total": 2500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/900045346288",
-  "item_id": "v1|900045346288|0",
-  "referencia": "A25362",
-  "mercado": {
-   "n": 16,
-   "p25": 5190,
-   "mediana": 7174
-  },
-  "ratio_mercado": 0.482,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 3800,
-   "riesgo_autenticidad": "alto",
-   "estado": "Aspecto de uso ligero, pero sin pruebas de autenticidad ni fotos del fondo o del movimiento"
-  },
-  "motivo": "Claude descarto: Sin caja ni papeles, sin garantía de autenticidad y sin devoluciones. Para un Breitling de 49 mm eso es una combinación muy arriesgada.; No hay foto del fondo de caja ni del movimiento. El anuncio dice 'solid caseback', pero no lo muestra. Sin esas fotos no se pueden verificar los grabados, el número de serie ni el calibre (el A25362 monta un B25 basado en ETA/Valjoux)."
- },
- {
-  "fecha": "2026-10-27T19:37:17.770843+00:00",
-  "marca": "Breitling",
-  "titulo": "2024 Breitling Navitimer B01 Chronograph 43 Pan Am Edition Complete Set",
-  "total": 7500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840066320835",
-  "item_id": "v1|840066320835|0",
-  "triage": {
-   "modelo": "Breitling Navitimer B01 Chronograph 43 Pan Am Edition (esfera azul, detalles rojos/naranjas, correa de piel marrón)",
-   "referencia": null,
-   "precio_justo_usd": 6500,
-   "interesante": false,
-   "nota": "Precio pedido de US$7500 está cerca del valor de mercado para pre-owned con set completo; no hay descuento de al menos 15%. Referencia exacta no verificable en la foto."
-  },
-  "motivo": "triage: Precio pedido de US$7500 está cerca del valor de mercado para pre-owned con set completo; no hay descuento de al menos 15%. Referencia exacta no verificable en la foto. (justo 6500)"
- },
- {
-  "fecha": "2026-10-27T19:37:17.770843+00:00",
   "marca": "Breitling",
   "titulo": "Breitling Chronomat B01 42 – 18K Red Gold – Full Set – Warranty",
   "total": 18999.0,
@@ -11335,5 +11209,107 @@
    "nota": "Precio pedido por encima del valor de reventa conservador para oro rosa 2023 con caja y papeles; la foto no confirma el tamaño de 45 mm ni la referencia."
   },
   "motivo": "triage: Precio pedido por encima del valor de reventa conservador para oro rosa 2023 con caja y papeles; la foto no confirma el tamaño de 45 mm ni la referencia. (justo 15000)"
+ },
+ {
+  "fecha": "2026-10-28T20:52:59.702549+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Unworn Rolex 278273 Datejust 31mm Olive Green Roman VI Diamond Jubilee",
+  "total": 20500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/117492082305",
+  "item_id": "v1|117492082305|0",
+  "referencia": "278273",
+  "mercado": {
+   "n": 36,
+   "p25": 20495,
+   "mediana": 21244
+  },
+  "ratio_mercado": 1.0,
+  "motivo": "precio normal (100 % del cuartil bajo de 278273)"
+ },
+ {
+  "fecha": "2026-10-28T20:52:59.702549+00:00",
+  "marca": "Rolex",
+  "titulo": "2020 Rolex Bluesy Submariner - Box, Card, and White Tag. NFC Card!",
+  "total": 17999.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/920082879881",
+  "item_id": "v1|920082879881|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date Bluesy (acero y oro amarillo, bisel y esfera azules)",
+   "referencia": "126613LB",
+   "precio_justo_usd": 20500,
+   "interesante": false,
+   "nota": "Precio pedido unos 12 % bajo el valor de venta estimado; no cumple el umbral del 15 %. Un precio tan bajo para este modelo justifica verificar autenticidad."
+  },
+  "motivo": "triage: Precio pedido unos 12 % bajo el valor de venta estimado; no cumple el umbral del 15 %. Un precio tan bajo para este modelo justifica verificar autenticidad. (justo 20500)"
+ },
+ {
+  "fecha": "2026-10-28T20:52:59.702549+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 New Tudor Royal 40 Sunburst Green 10/26 Ref# 2840D1A0",
+  "total": 3248.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/257822399809",
+  "item_id": "v1|257822399809|0",
+  "triage": {
+   "modelo": "Tudor Royal 38 mm, esfera sunburst verde, brazalete de acero",
+   "referencia": null,
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "La referencia del listado (2840D1A0) no sigue el formato Tudor (M28xxx-xxxx) y no se puede verificar; el precio pedido está por encima del estimado de mercado gris para un Royal nuevo."
+  },
+  "motivo": "triage: La referencia del listado (2840D1A0) no sigue el formato Tudor (M28xxx-xxxx) y no se puede verificar; el precio pedido está por encima del estimado de mercado gris para un Royal nuevo. (justo 3000)"
+ },
+ {
+  "fecha": "2026-10-28T20:52:59.702549+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA 2615 LADIES WATCH 18K YELLOW GOLD  W/ 14K BRACELET QUARTZ RUNNING",
+  "total": 3850.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227586126336",
+  "item_id": "v1|227586126336|0",
+  "triage": {
+   "modelo": "Omega vintage de dama, caja y pulsera de oro amarillo (posiblemente calibre 2615, cuarzo según el listado)",
+   "referencia": null,
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio cercano al valor del oro (caja 18k y pulsera 14k) más una pequeña prima; no hay referencia clara para valorar una prima mayor."
+  },
+  "motivo": "triage: Precio cercano al valor del oro (caja 18k y pulsera 14k) más una pequeña prima; no hay referencia clara para valorar una prima mayor. (justo 3000)"
+ },
+ {
+  "fecha": "2026-10-28T20:52:59.702549+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Avenger V13317",
+  "total": 4850.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147655798926",
+  "item_id": "v1|147655798926|0",
+  "referencia": "V13317",
+  "mercado": {
+   "n": 5,
+   "p25": 3200,
+   "mediana": 3995
+  },
+  "ratio_mercado": 1.516,
+  "motivo": "precio normal (152 % del cuartil bajo de V13317)"
+ },
+ {
+  "fecha": "2026-10-28T20:52:59.702549+00:00",
+  "marca": "Jaeger-LeCoultre",
+  "titulo": "Jaeger-LeCoultre Master Compressor \"Navy Seal\" Q178T677  159.T.C7 Men's Watch in",
+  "total": 9900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257822395731",
+  "item_id": "v1|257822395731|0",
+  "triage": {
+   "modelo": "Jaeger-LeCoultre Master Compressor Diving Chronograph \"Navy Seal\" (caja de acero, bisel giratorio, esfera negra con subdiales, rubber negro)",
+   "referencia": "Q178T677 (según el listado; no verificable en la imagen)",
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "Precio pedido de $9,900 con envío supera la venta cerrada estimada para este modelo en condición Good; no se ve caja ni papeles en la foto."
+  },
+  "motivo": "triage: Precio pedido de $9,900 con envío supera la venta cerrada estimada para este modelo en condición Good; no se ve caja ni papeles en la foto. (justo 7000)"
  }
 ]
