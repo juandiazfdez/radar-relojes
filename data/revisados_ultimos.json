@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-10-26T23:36:33.951547+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Fifty-Eight 925,  39mm, automatic",
-  "total": 3680.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407318541578",
-  "item_id": "v1|407318541578|0",
-  "triage": {
-   "modelo": "Tudor Black Bay Fifty-Eight 925 (caja de plata esterlina, 39 mm, automático)",
-   "referencia": "M79010SG",
-   "precio_justo_usd": 3400,
-   "interesante": false,
-   "nota": "El precio pedido (US$3680 con envío) está cerca o por encima del valor de venta real de este modelo de segunda mano; no hay descuento de al menos 15 %. Verificar referencia y autenticidad en persona."
-  },
-  "motivo": "triage: El precio pedido (US$3680 con envío) está cerca o por encima del valor de venta real de este modelo de segunda mano; no hay descuento de al menos 15 %. Verificar referencia y autenticidad en persona. (justo 3400)"
- },
- {
-  "fecha": "2026-10-26T23:36:33.951547+00:00",
   "marca": "Omega",
   "titulo": "Omega Aqua Terra Worldtimer Titanium 43mm 220.92.43.22.99.001 Unworn Full Set",
   "total": 10995.0,
@@ -11501,5 +11484,22 @@
    "nota": "El título dice 'Chronograph' pero el modelo parece un Portugieser Automatic sin cronógrafo; el listado no indica caja ni papeles y el precio está cerca del valor de mercado."
   },
   "motivo": "triage: El título dice 'Chronograph' pero el modelo parece un Portugieser Automatic sin cronógrafo; el listado no indica caja ni papeles y el precio está cerca del valor de mercado. (justo 4300)"
+ },
+ {
+  "fecha": "2026-10-28T03:37:26.976388+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX Submariner 124060 41mm . First Owner, Full Set",
+  "total": 12780.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287685927007",
+  "item_id": "v1|287685927007|0",
+  "referencia": "124060",
+  "mercado": {
+   "n": 45,
+   "p25": 13590,
+   "mediana": 14250
+  },
+  "ratio_mercado": 0.94,
+  "motivo": "precio normal (94 % del cuartil bajo de 124060)"
  }
 ]
