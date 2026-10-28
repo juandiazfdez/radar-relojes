@@ -1,121 +1,6 @@
 [
  {
   "fecha": "2026-10-27T21:22:18.282795+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Explorer Stainless Steel Watch 224270",
-  "total": 10000.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/407320670091",
-  "item_id": "v1|407320670091|0",
-  "referencia": "224270",
-  "mercado": {
-   "n": 10,
-   "p25": 10825,
-   "mediana": 10858
-  },
-  "ratio_mercado": 0.924,
-  "motivo": "precio normal (92 % del cuartil bajo de 224270)"
- },
- {
-  "fecha": "2026-10-27T21:22:18.282795+00:00",
-  "marca": "Rolex",
-  "titulo": "2023 Rolex Oyster Perpetual 126000 36MM Blue Index Smooth Oyster Steel Box Paper",
-  "total": 9000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117490692689",
-  "item_id": "v1|117490692689|0",
-  "referencia": "M126000-0003",
-  "mercado": {
-   "n": 36,
-   "p25": 11229,
-   "mediana": 12448
-  },
-  "ratio_mercado": 0.801,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 9900,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Muy bueno/casi nuevo, con caja interior y exterior, folletos, etiqueta colgante y tarjeta de garantía de mayo 2023; sin fotos de fondo de caja ni movimiento"
-  },
-  "ratio_justo": 0.909,
-  "motivo": "precio normal segun revision (91 % del justo 9900)"
- },
- {
-  "fecha": "2026-10-27T21:22:18.282795+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Lady-Datejust, President Bracelet, Mother of Pearl Diamond Dial...",
-  "total": 29075.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/800845613958",
-  "item_id": "v1|800845613958|0",
-  "triage": {
-   "modelo": "Rolex Lady-Datejust 26 mm oro amarillo, bisel de diamantes, esfera nácar con índices de diamante, brazalete President",
-   "referencia": "179138 (probable; variante con bisel de diamantes a confirmar)",
-   "precio_justo_usd": 15000,
-   "interesante": false,
-   "nota": "Precio pedido de US$29.075 casi el doble del valor de venta real para esta referencia en estado de segunda mano; aunque sea refurbished, no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$29.075 casi el doble del valor de venta real para esta referencia en estado de segunda mano; aunque sea refurbished, no es una oportunidad. (justo 15000)"
- },
- {
-  "fecha": "2026-10-27T21:22:18.282795+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Pelagos 39mm Titanium Diver Auto Chronometer Full Set",
-  "total": 4400.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206658295272",
-  "item_id": "v1|206658295272|0",
-  "triage": {
-   "modelo": "TUDOR Pelagos 39mm Titanium (diver automático, esfera negra, bisel negro)",
-   "referencia": "M25407N-0001 (probable, no verificable en la imagen)",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "Precio pedido de US$4400 con envío supera el valor de venta cerrada estimado para un Pelagos 39 de titanio usado en excelente estado; la imagen no permite confirmar la referencia exacta."
-  },
-  "motivo": "triage: Precio pedido de US$4400 con envío supera el valor de venta cerrada estimado para un Pelagos 39 de titanio usado en excelente estado; la imagen no permite confirmar la referencia exacta. (justo 3800)"
- },
- {
-  "fecha": "2026-10-27T21:22:18.282795+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 MINT Tudor Black Bay Chrono Panda 41mm Oyster Bracelet 79360N",
-  "total": 4800.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800845628674",
-  "item_id": "v1|800845628674|0",
-  "referencia": "79360N",
-  "mercado": {
-   "n": 52,
-   "p25": 4690,
-   "mediana": 5339
-  },
-  "ratio_mercado": 1.023,
-  "motivo": "precio normal (102 % del cuartil bajo de 79360N)"
- },
- {
-  "fecha": "2026-10-27T21:22:18.282795+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Speedmaster Broad Arrow - 321.10.44.50.01.001 - Full Set - Fresh Polish",
-  "total": 4497.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198750387893",
-  "item_id": "v1|198750387893|0",
-  "referencia": "321.10.44.50.01.001",
-  "mercado": {
-   "n": 2,
-   "p25": 4735,
-   "mediana": 5122
-  },
-  "triage": {
-   "modelo": "Omega Speedmaster Broad Arrow Co-Axial Chronograph (acero, esfera negra)",
-   "referencia": "321.10.44.50.01.001",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Precio pedido por encima de la estimación de venta cerrada para esta referencia con caja y papeles en estado Good; no hay margen de compra."
-  },
-  "motivo": "triage: Precio pedido por encima de la estimación de venta cerrada para esta referencia con caja y papeles en estado Good; no hay margen de compra. (justo 4000)"
- },
- {
-  "fecha": "2026-10-27T21:22:18.282795+00:00",
   "marca": "Omega",
   "titulo": "Omega Seamaster Planet Ocean Stainless Steel Watch 217.32.42.21.01.001",
   "total": 7000.0,
@@ -11375,5 +11260,119 @@
    "nota": "Precio 21% bajo el valor estimado, demasiado bajo para un 2023 con caja y papeles; el Big Pilot se falsifica mucho, así que verificar autenticidad antes de comprar."
   },
   "motivo": "triage: Precio 21% bajo el valor estimado, demasiado bajo para un 2023 con caja y papeles; el Big Pilot se falsifica mucho, así que verificar autenticidad antes de comprar. (justo 7500)"
+ },
+ {
+  "fecha": "2026-10-28T22:23:12.731894+00:00",
+  "marca": "Rolex",
+  "titulo": "Unworn 2026 Rolex 278273 Datejust 31mm Two-Tone White Roman Jubilee",
+  "total": 19500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/307254402148",
+  "item_id": "v1|307254402148|0",
+  "referencia": "278273",
+  "mercado": {
+   "n": 36,
+   "p25": 20495,
+   "mediana": 21244
+  },
+  "ratio_mercado": 0.951,
+  "motivo": "precio normal (95 % del cuartil bajo de 278273)"
+ },
+ {
+  "fecha": "2026-10-28T22:23:12.731894+00:00",
+  "marca": "Tudor",
+  "titulo": "2025 Tudor Pelagos FXD 1 Owner Blue Titanium Box/Papers/Card 25707B/25",
+  "total": 4000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198753045409",
+  "item_id": "v1|198753045409|0",
+  "referencia": "25707B",
+  "mercado": {
+   "n": 5,
+   "p25": 4269,
+   "mediana": 4334
+  },
+  "ratio_mercado": 0.937,
+  "motivo": "precio normal (94 % del cuartil bajo de 25707B)"
+ },
+ {
+  "fecha": "2026-10-28T22:23:12.731894+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Chronomat 28 A72310101C1A1 Blue MOP Diamond Steel 28MM Ladies Quartz",
+  "total": 4035.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/128161584242",
+  "item_id": "v1|128161584242|0",
+  "referencia": "A72310101C1A1",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Breitling Chronomat 28 Ladies, esfera azul nácar con diamantes, bisel de acero, cuarzo",
+   "referencia": "A72310101C1A1",
+   "precio_justo_usd": 4600,
+   "interesante": false,
+   "nota": "Precio cerca del mercado gris para nuevo con caja y papeles, pero no alcanza el 15 % de descuento exigido. Verificar autenticidad y que las fotos no sean de stock."
+  },
+  "motivo": "triage: Precio cerca del mercado gris para nuevo con caja y papeles, pero no alcanza el 15 % de descuento exigido. Verificar autenticidad y que las fotos no sean de stock. (justo 4600)"
+ },
+ {
+  "fecha": "2026-10-28T22:23:12.731894+00:00",
+  "marca": "Breitling",
+  "titulo": "BREITLING PREMIER VINTAGE 18k GOLD CASE 35.5mm. CHRONOGRAPH HAND WINDING",
+  "total": 3500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327428127060",
+  "item_id": "v1|327428127060|0",
+  "triage": {
+   "modelo": "Breitling cronógrafo vintage de oro 18k, cuerda manual, dos contadores (posible década de 1940-50)",
+   "referencia": null,
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "El título mezcla 'Premier Vintage', que no es una línea histórica de Breitling, así que el listado es poco fiable. Hace falta verificar autenticidad, esfera original, oro 18k y movimiento antes de considerar el precio."
+  },
+  "motivo": "triage: El título mezcla 'Premier Vintage', que no es una línea histórica de Breitling, así que el listado es poco fiable. Hace falta verificar autenticidad, esfera original, oro 18k y movimiento antes de considerar el precio. (justo 4500)"
+ },
+ {
+  "fecha": "2026-10-28T22:23:12.731894+00:00",
+  "marca": "Breitling",
+  "titulo": "breitling watches for men",
+  "total": 9011.3,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920083003406",
+  "item_id": "v1|920083003406|0",
+  "triage": {
+   "modelo": "Breitling cronógrafo de esfera verde (posiblemente Chronomat o Superocean), con caja original",
+   "referencia": null,
+   "precio_justo_usd": 5500,
+   "interesante": false,
+   "nota": "Título genérico y precio pedido de US$9011 muy por encima del mercado de segunda mano; referencia no verificable en la foto."
+  },
+  "motivo": "triage: Título genérico y precio pedido de US$9011 muy por encima del mercado de segunda mano; referencia no verificable en la foto. (justo 5500)"
+ },
+ {
+  "fecha": "2026-10-28T22:23:12.731894+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer CAF7110.BA0803 Mens Aquaracer Regatta Chronograph Watch Calibre S Blue",
+  "total": 1295.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/307254395663",
+  "item_id": "v1|307254395663|0",
+  "referencia": "CAF7110.BA0803",
+  "mercado": {
+   "n": 1,
+   "p25": 445,
+   "mediana": 445
+  },
+  "triage": {
+   "modelo": "TAG Heuer Aquaracer Regatta Chronograph Calibre S, esfera azul, bisel azul, brazalete de acero",
+   "referencia": "CAF7110.BA0803 (según el título; no se lee en la foto)",
+   "precio_justo_usd": 1900,
+   "interesante": false,
+   "nota": "Precio 30 % bajo mercado para un modelo nuevo con caja y papeles; es una señal de alerta de replica o listado engañoso. Verificar número de serie, autenticidad y vendedor antes de comprar."
+  },
+  "motivo": "triage: Precio 30 % bajo mercado para un modelo nuevo con caja y papeles; es una señal de alerta de replica o listado engañoso. Verificar número de serie, autenticidad y vendedor antes de comprar. (justo 1900)"
  }
 ]

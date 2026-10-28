@@ -850,9 +850,14 @@
   "max": 20094
  },
  "TAG Heuer CAF7110|nuevo": {
-  "fecha": "2026-10-20",
+  "fecha": "2026-10-28",
   "consulta": "TAG Heuer CAF7110",
-  "n": 0
+  "n": 1,
+  "mediana": 445,
+  "p25": 445,
+  "p75": 445,
+  "min": 445,
+  "max": 445
  },
  "tag heuer aquaracer 41mm|nuevo": {
   "fecha": "2026-10-20",
@@ -15038,5 +15043,10 @@
   "p75": 6815,
   "min": 6815,
   "max": 6815
+ },
+ "Breitling A72310|nuevo": {
+  "fecha": "2026-10-28",
+  "consulta": "Breitling A72310",
+  "n": 0
  }
 }
