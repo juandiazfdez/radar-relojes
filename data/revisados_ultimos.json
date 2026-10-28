@@ -2,29 +2,6 @@
  {
   "fecha": "2026-10-27T14:22:06.929174+00:00",
   "marca": "Breitling",
-  "titulo": "Breitling Montbrillant Légende C23340 18K Rose Gold & Steel Chronograph Watch",
-  "total": 6000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137879654472",
-  "item_id": "v1|137879654472|0",
-  "referencia": "C23340",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Breitling Montbrillant Légende cronógrafo en acero y oro rosa 18K (dos tonos)",
-   "referencia": "C23340",
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "Precio pedido de US$6000 está por encima del valor de venta cerrada estimado para este modelo de dos tonos usado en buen estado; no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido de US$6000 está por encima del valor de venta cerrada estimado para este modelo de dos tonos usado en buen estado; no hay descuento suficiente. (justo 4300)"
- },
- {
-  "fecha": "2026-10-27T14:22:06.929174+00:00",
-  "marca": "Breitling",
   "titulo": "Breitling Avenger II Seawolf Yellow A17331 95% LNIB Rare Digitally Registered",
   "total": 2799.0,
   "condicion": "Pre-owned - Good",
@@ -11418,5 +11395,28 @@
    "nota": "Con set completo, el precio pedido de US$6350 está muy por encima de lo que se vende hoy en modelos usados de esta referencia (aprox. US$4300-4900). Además, el título habla de cronógrafo y la referencia y la esfera no lo confirman; conviene verificarlo antes de cualquier oferta."
   },
   "motivo": "triage: Con set completo, el precio pedido de US$6350 está muy por encima de lo que se vende hoy en modelos usados de esta referencia (aprox. US$4300-4900). Además, el título habla de cronógrafo y la referencia y la esfera no lo confirman; conviene verificarlo antes de cualquier oferta. (justo 4500)"
+ },
+ {
+  "fecha": "2026-10-28T14:07:47.577471+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Speedmaster Moonwatch Professional 42MM Men's Watch 310.32.42.50.01.002",
+  "total": 6460.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128161068331",
+  "item_id": "v1|128161068331|0",
+  "referencia": "310.32.42.50.01.002",
+  "mercado": {
+   "n": 4,
+   "p25": 6450,
+   "mediana": 6722
+  },
+  "triage": {
+   "modelo": "Omega Speedmaster Moonwatch Professional 42 mm (cronógrafo manual, correa de cuero negro)",
+   "referencia": "310.32.42.50.01.002",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Producción actual de referencia muy líquida; de segunda mano con buen estado se mueve cerca de 5000 USD, y el precio pedido de 6460 USD está por encima del mercado."
+  },
+  "motivo": "triage: Producción actual de referencia muy líquida; de segunda mano con buen estado se mueve cerca de 5000 USD, y el precio pedido de 6460 USD está por encima del mercado. (justo 5000)"
  }
 ]
