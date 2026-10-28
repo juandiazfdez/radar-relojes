@@ -1,137 +1,5 @@
 [
  {
-  "fecha": "2026-10-27T19:37:17.770843+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Chronomat B01 42 – 18K Red Gold – Full Set – Warranty",
-  "total": 18999.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/860089731299",
-  "item_id": "v1|860089731299|0",
-  "triage": {
-   "modelo": "Breitling Chronomat B01 42 en oro rojo 18K, esfera gris antracita, correa de caucho",
-   "referencia": "RB0134101B1S1 (probable, verificar)",
-   "precio_justo_usd": 25000,
-   "interesante": true,
-   "nota": "Precio ~24% por debajo de la venta real estimada de una Chronomat B01 42 de oro rojo usada en excelente estado con caja y papeles. Verificar autenticidad y número de serie antes de comprar."
-  },
-  "referencia": "RB0134101B1S1",
-  "mercado": {
-   "n": 2,
-   "p25": 19800,
-   "mediana": 30900
-  },
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 20500,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, bueno. Las fotos muestran microarañazos en el bisel y desgaste en la hebilla, no el 'like new' que describe el vendedor."
-  },
-  "ratio_justo": 0.927,
-  "motivo": "precio normal segun revision (93 % del justo 20500)"
- },
- {
-  "fecha": "2026-10-27T19:37:17.770843+00:00",
-  "marca": "Jaeger-LeCoultre",
-  "titulo": "2021 Jaeger-LeCoultre Master Ultra Thin Small Seconds 18k Gold",
-  "total": 13400.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840066348292",
-  "item_id": "v1|840066348292|0",
-  "triage": {
-   "modelo": "Jaeger-LeCoultre Master Ultra Thin Small Seconds, caja de oro 18k",
-   "referencia": "1282520 (probable, confirmar en la pieza)",
-   "precio_justo_usd": 10500,
-   "interesante": false,
-   "nota": "Precio pedido por encima de la estimación de venta real para esta referencia de 2021 en estado usado excelente; sin ahorro claro."
-  },
-  "motivo": "triage: Precio pedido por encima de la estimación de venta real para esta referencia de 2021 en estado usado excelente; sin ahorro claro. (justo 10500)"
- },
- {
-  "fecha": "2026-10-27T19:52:18.050458+00:00",
-  "marca": "Rolex",
-  "titulo": "A-LIST CELEBRITY OWNED 126710BLRO Rolex GMT Master II PEPSI Jubilee Ceramic",
-  "total": 30292.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307252382632",
-  "item_id": "v1|307252382632|0",
-  "referencia": "126710BLRO",
-  "mercado": {
-   "n": 27,
-   "p25": 24500,
-   "mediana": 25095
-  },
-  "ratio_mercado": 1.236,
-  "motivo": "precio normal (124 % del cuartil bajo de 126710BLRO)"
- },
- {
-  "fecha": "2026-10-27T19:52:18.050458+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 RSC MINT Rolex Pearlmaster MOP Mother of Pearl 80315 Rose Gold Diamond 29mm",
-  "total": 34332.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307252381286",
-  "item_id": "v1|307252381286|0",
-  "triage": {
-   "modelo": "Rolex Pearlmaster 29 (oro Everose, esfera de madreperla con diamantes)",
-   "referencia": "80315",
-   "precio_justo_usd": 27000,
-   "interesante": false,
-   "nota": "Precio pedido de US$34.332 supera el valor de venta cerrada estimado (~US$27.000 en oro Everose con esfera MOP y diamantes); no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$34.332 supera el valor de venta cerrada estimado (~US$27.000 en oro Everose con esfera MOP y diamantes); no es una oportunidad. (justo 27000)"
- },
- {
-  "fecha": "2026-10-27T19:52:18.050458+00:00",
-  "marca": "Rolex",
-  "titulo": "NEW PAPERS Rolex 126715CHNR GMT Master II Rose Gold Ceramic Root Beer Watch Box",
-  "total": 40392.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307252376167",
-  "item_id": "v1|307252376167|0",
-  "referencia": "126715CHNR",
-  "mercado": {
-   "n": 27,
-   "p25": 44950,
-   "mediana": 46305
-  },
-  "ratio_mercado": 0.899,
-  "motivo": "precio normal (90 % del cuartil bajo de 126715CHNR)"
- },
- {
-  "fecha": "2026-10-27T19:52:18.050458+00:00",
-  "marca": "Rolex",
-  "titulo": "1993 PAPERS PAPERS MINT Rolex Sea-Dweller Steel 16600 Black 40mm Watch Box",
-  "total": 13122.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307252376130",
-  "item_id": "v1|307252376130|0",
-  "referencia": "16600",
-  "mercado": {
-   "n": 54,
-   "p25": 9750,
-   "mediana": 10012
-  },
-  "ratio_mercado": 1.346,
-  "motivo": "precio normal (135 % del cuartil bajo de 16600)"
- },
- {
-  "fecha": "2026-10-27T19:52:18.050458+00:00",
-  "marca": "Rolex",
-  "titulo": "2002 MINT Rolex GMT-Master II Pepsi 40mm Steel 16710 NO HOLES Black Watch Box",
-  "total": 15445.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940046294949",
-  "item_id": "v1|940046294949|0",
-  "referencia": "16710",
-  "mercado": {
-   "n": 82,
-   "p25": 13958,
-   "mediana": 14499
-  },
-  "ratio_mercado": 1.107,
-  "motivo": "precio normal (111 % del cuartil bajo de 16710)"
- },
- {
   "fecha": "2026-10-27T19:52:18.050458+00:00",
   "marca": "Rolex",
   "titulo": "MINT Rolex GMT-Master II Pepsi Blue Red Steel 16700 40mm Watch Box",
@@ -11311,5 +11179,130 @@
    "nota": "Precio pedido de $9,900 con envío supera la venta cerrada estimada para este modelo en condición Good; no se ve caja ni papeles en la foto."
   },
   "motivo": "triage: Precio pedido de $9,900 con envío supera la venta cerrada estimada para este modelo en condición Good; no se ve caja ni papeles en la foto. (justo 7000)"
+ },
+ {
+  "fecha": "2026-10-28T21:08:00.066594+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 26mm Oyster Perpetual 67193 18K Solid Yellow Gold& Steel Automatic",
+  "total": 4700.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257822412317",
+  "item_id": "v1|257822412317|0",
+  "referencia": "67193",
+  "mercado": {
+   "n": 21,
+   "p25": 4840,
+   "mediana": 5000
+  },
+  "ratio_mercado": 0.971,
+  "motivo": "precio normal (97 % del cuartil bajo de 67193)"
+ },
+ {
+  "fecha": "2026-10-28T21:08:00.066594+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex Oyster Perpetual 6085 Coca-Cola 25 Years Service 14K Gold Watch",
+  "total": 7814.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880059852881",
+  "item_id": "v1|880059852881|0",
+  "referencia": "6085",
+  "mercado": {
+   "n": 17,
+   "p25": 3938,
+   "mediana": 4778
+  },
+  "ratio_mercado": 1.985,
+  "motivo": "precio normal (198 % del cuartil bajo de 6085)"
+ },
+ {
+  "fecha": "2026-10-28T21:08:00.066594+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual - Ref. 76094 - 26mm Stainless Steel",
+  "total": 4695.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287687856163",
+  "item_id": "v1|287687856163|0",
+  "triage": {
+   "modelo": "Rolex Lady Oyster Perpetual 26 mm (no date) con bisel y esfera de diamantes personalizados",
+   "referencia": "76094",
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "La foto muestra bisel y marcadores de diamantes que no son de serie en la 76094; es una modificación y su valor de reventa es incierto. Sin la modificación, el precio de mercado sería menor. Precio pedido por encima del estimado."
+  },
+  "motivo": "triage: La foto muestra bisel y marcadores de diamantes que no son de serie en la 76094; es una modificación y su valor de reventa es incierto. Sin la modificación, el precio de mercado sería menor. Precio pedido por encima del estimado. (justo 3600)"
+ },
+ {
+  "fecha": "2026-10-28T21:08:00.066594+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Speedmaster Dark Side of the Moon Watch 311.92.44.51.01.007 Cards",
+  "total": 9280.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257822416658",
+  "item_id": "v1|257822416658|0",
+  "referencia": "311.92.44.51.01.007",
+  "mercado": {
+   "n": 10,
+   "p25": 8060,
+   "mediana": 8346
+  },
+  "ratio_mercado": 1.151,
+  "motivo": "precio normal (115 % del cuartil bajo de 311.92.44.51.01.007)"
+ },
+ {
+  "fecha": "2026-10-28T21:08:00.066594+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Constellation Automatic Mens Watch",
+  "total": 1850.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198752906960",
+  "item_id": "v1|198752906960|0",
+  "triage": {
+   "modelo": "Omega Constellation Chronometer Automatic vintage (acero, fecha, pulsera de eslabones tipo 'beads of rice')",
+   "referencia": null,
+   "precio_justo_usd": 1000,
+   "interesante": false,
+   "nota": "Vintage de acero con fecha; la referencia exacta no se distingue en la foto. Con el precio pedido de 1850 USD queda por encima del valor de venta cerrada estimado."
+  },
+  "motivo": "triage: Vintage de acero con fecha; la referencia exacta no se distingue en la foto. Con el precio pedido de 1850 USD queda por encima del valor de venta cerrada estimado. (justo 1000)"
+ },
+ {
+  "fecha": "2026-10-28T21:08:00.066594+00:00",
+  "marca": "Breitling",
+  "titulo": "2026 Breitling Navitimer B01 Chrono 43 Aston Martin F1 Watch",
+  "total": 11500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/147655802356",
+  "item_id": "v1|147655802356|0",
+  "triage": {
+   "modelo": "Breitling Navitimer B01 Chronograph 43 (edición Aston Martin F1), acero con esfera negra, subesferas blancas y correa de cuero negro",
+   "referencia": null,
+   "precio_justo_usd": 6000,
+   "interesante": false,
+   "nota": "Precio pedido de US$11.500 supera el retail aproximado (~US$9.000); el mercado gris nuevo con cajas y papeles ronda los US$5.500-6.500. No es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$11.500 supera el retail aproximado (~US$9.000); el mercado gris nuevo con cajas y papeles ronda los US$5.500-6.500. No es una oportunidad. (justo 6000)"
+ },
+ {
+  "fecha": "2026-10-28T21:08:00.066594+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Formula 1 Men's Black Watch - CAZ1010.FT8024 Excellent Box and Papers",
+  "total": 987.95,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287687877176",
+  "item_id": "v1|287687877176|0",
+  "referencia": "CAZ1010.FT8024",
+  "mercado": {
+   "n": 12,
+   "p25": 1250,
+   "mediana": 1459
+  },
+  "ratio_mercado": 0.79,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 800,
+   "riesgo_autenticidad": "medio",
+   "estado": "Aparenta casi nuevo (aún tiene el plástico protector sobre el reloj en la caja), full set con caja interior, caja exterior y libreto"
+  },
+  "motivo": "Claude descarto: El precio de US$988 no es una oportunidad. Un CAZ1010 full set en excelente estado cierra en el mercado secundario de EE. UU. alrededor de US$750-850. Los comparables de mediana 1459 y cuartil bajo 1250 son precios pedidos inflados, no cierres reales.; Los US$988 dejan sin margen de reventa: tras envío, comisiones y riesgo, no queda ganancia razonable."
  }
 ]
