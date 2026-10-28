@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-10-26T22:21:34.372889+00:00",
-  "marca": "Breitling",
-  "titulo": "2026 Breitling Superocean Automatic 42 A17375E71G1S1 Box Papers Warranty 2028",
-  "total": 3975.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/860086720868",
-  "item_id": "v1|860086720868|0",
-  "triage": {
-   "modelo": "Breitling Superocean Automatic 42 (esfera blanca, bisel azul, correa de caucho azul)",
-   "referencia": "A17375E71G1S1",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Precio cercano al mercado gris para una Superocean 42 nueva o casi nueva con caja y papeles; el listado tiene incoherencias (\"pre-owned\" con garantía a 2028) que conviene verificar."
-  },
-  "motivo": "triage: Precio cercano al mercado gris para una Superocean 42 nueva o casi nueva con caja y papeles; el listado tiene incoherencias (\"pre-owned\" con garantía a 2028) que conviene verificar. (justo 3500)"
- },
- {
-  "fecha": "2026-10-26T22:21:34.372889+00:00",
-  "marca": "Jaeger-LeCoultre",
-  "titulo": "Jaeger-LeCoultre Grand Reveil 180.1.99 Perpetual Calendar 18K Yellow Gold 41mm",
-  "total": 13064.95,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267824732353",
-  "item_id": "v1|267824732353|0",
-  "referencia": "180.1.99",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Jaeger-LeCoultre Grand Réveil Perpetual Calendar (oro amarillo 18K, fase lunar, calendario perpetuo)",
-   "referencia": "180.1.99 (según título; no verificable en la foto)",
-   "precio_justo_usd": 20000,
-   "interesante": false,
-   "nota": "Precio ~35 % por debajo de lo estimado para una pieza genuina en oro 18K; demasiado bajo para creerlo sin verificar autenticidad, papeles y referencia exacta."
-  },
-  "motivo": "triage: Precio ~35 % por debajo de lo estimado para una pieza genuina en oro 18K; demasiado bajo para creerlo sin verificar autenticidad, papeles y referencia exacta. (justo 20000)"
- },
- {
-  "fecha": "2026-10-26T22:21:34.372889+00:00",
   "marca": "Jaeger-LeCoultre",
   "titulo": "Jaeger LeCoultre Master Calendar Steel Mens Watch 176.8.12.S Q1558420 Papers",
   "total": 8230.0,
@@ -11471,5 +11431,45 @@
    "nota": "Precio pedido de 13019 USD está muy por encima del valor de venta real estimado para este modelo de segunda mano, aunque tenga caja y papeles."
   },
   "motivo": "triage: Precio pedido de 13019 USD está muy por encima del valor de venta real estimado para este modelo de segunda mano, aunque tenga caja y papeles. (justo 9500)"
+ },
+ {
+  "fecha": "2026-10-28T02:07:27.212882+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Ladies Datejust 26 mm Two Tone Blue Turquoise Oyster Watch 6517 Circa 1964",
+  "total": 3990.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147654658798",
+  "item_id": "v1|147654658798|0",
+  "referencia": "6517",
+  "mercado": {
+   "n": 20,
+   "p25": 4224,
+   "mediana": 4872
+  },
+  "ratio_mercado": 0.945,
+  "motivo": "precio normal (94 % del cuartil bajo de 6517)"
+ },
+ {
+  "fecha": "2026-10-28T02:07:27.212882+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Seamaster Aqua Terra 231.10.39.21.06.001",
+  "total": 3100.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940046863866",
+  "item_id": "v1|940046863866|0",
+  "referencia": "231.10.39.21.06.001",
+  "mercado": {
+   "n": 1,
+   "p25": 3240,
+   "mediana": 3240
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Aqua Terra 150M Co-Axial Master Chronometer 39 mm, acero, brazalete de acero",
+   "referencia": "231.10.39.21.06.001",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio solo ~6% por debajo de lo que se vende esta referencia de segunda mano; no justifica el umbral del 15%. La imagen muestra caja, pero no se ven papeles ni el estado real."
+  },
+  "motivo": "triage: Precio solo ~6% por debajo de lo que se vende esta referencia de segunda mano; no justifica el umbral del 15%. La imagen muestra caja, pero no se ven papeles ni el estado real. (justo 3300)"
  }
 ]
