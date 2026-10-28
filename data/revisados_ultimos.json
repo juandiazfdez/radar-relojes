@@ -1,57 +1,6 @@
 [
  {
   "fecha": "2026-10-27T22:07:18.027589+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Air King 40mm Oyster Perpetual Stainless Steel Automatic Watch 126900",
-  "total": 8999.99,
-  "condicion": "New with imperfections",
-  "url": "https://www.ebay.com/itm/267825621553",
-  "item_id": "v1|267825621553|0",
-  "referencia": "126900",
-  "mercado": {
-   "n": 10,
-   "p25": 10249,
-   "mediana": 10412
-  },
-  "ratio_mercado": 0.878,
-  "motivo": "precio normal (88 % del cuartil bajo de 126900)"
- },
- {
-  "fecha": "2026-10-27T22:07:18.027589+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay GMT Ref. M79830RB-0001 Case #731",
-  "total": 3695.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128158142282",
-  "item_id": "v1|128158142282|0",
-  "referencia": "M79830RB-0001",
-  "mercado": {
-   "n": 15,
-   "p25": 4155,
-   "mediana": 4300
-  },
-  "ratio_mercado": 0.889,
-  "motivo": "precio normal (89 % del cuartil bajo de M79830RB-0001)"
- },
- {
-  "fecha": "2026-10-27T22:07:18.027589+00:00",
-  "marca": "Omega",
-  "titulo": "omega mens watch gold good working condition and very elegant watch.",
-  "total": 1950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137880652382",
-  "item_id": "v1|137880652382|0",
-  "triage": {
-   "modelo": "Omega vintage de vestir chapado en oro (posible línea Genève, años 50-60)",
-   "referencia": null,
-   "precio_justo_usd": 900,
-   "interesante": false,
-   "nota": "Sin referencia ni kilataje visibles; si es chapado u oro laminado, se vende muy por debajo de US$1950. Solo sería competitivo si se confirma oro macizo de 18k con movimiento original."
-  },
-  "motivo": "triage: Sin referencia ni kilataje visibles; si es chapado u oro laminado, se vende muy por debajo de US$1950. Solo sería competitivo si se confirma oro macizo de 18k con movimiento original. (justo 900)"
- },
- {
-  "fecha": "2026-10-27T22:07:18.027589+00:00",
   "marca": "Omega",
   "titulo": "Omega Automatic Geneve Mens 35mm 1970s Vintage Swiss Automatic RA834",
   "total": 4200.0,
@@ -11349,5 +11298,63 @@
   },
   "ratio_mercado": 1.008,
   "motivo": "precio normal (101 % del cuartil bajo de M79950-0001)"
+ },
+ {
+  "fecha": "2026-10-28T23:38:11.493542+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Datejust Ref 1601 36mm 18k W Gold SS 1960s Mens Automatic RA621B",
+  "total": 8400.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257822591669",
+  "item_id": "v1|257822591669|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Datejust (años 60)",
+   "referencia": "1601",
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "Caja de acero con bisel acanalado de oro blanco 18k y esfera plateada; precio pedido de 8400 USD por encima de lo que suele cerrarse para esta referencia en estado bueno."
+  },
+  "motivo": "triage: Caja de acero con bisel acanalado de oro blanco 18k y esfera plateada; precio pedido de 8400 USD por encima de lo que suele cerrarse para esta referencia en estado bueno. (justo 6500)"
+ },
+ {
+  "fecha": "2026-10-28T23:38:11.493542+00:00",
+  "marca": "Omega",
+  "titulo": "Vintage Omega Mens Seamaster Bumber Watch 2577-9",
+  "total": 1495.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327428203066",
+  "item_id": "v1|327428203066|0",
+  "triage": {
+   "modelo": "Omega Seamaster Bumper automático (años 1950, caja de acero, esfera crema con pátina)",
+   "referencia": "2577-9",
+   "precio_justo_usd": 2000,
+   "interesante": true,
+   "nota": "Precio ~25% bajo estimado de venta cerrada para este modelo en condición Good; verificar autenticidad, movimiento original y estado de la esfera antes de comprar."
+  },
+  "referencia": "2577, 2577-9",
+  "motivo": "descripcion: not running, as-is"
+ },
+ {
+  "fecha": "2026-10-28T23:38:11.493542+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "Tag Heuer Carrera Chronograph Extreme Sport Titanium Skeleton CBU2082.FT6275",
+  "total": 6695.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/920080646579",
+  "item_id": "v1|920080646579|0",
+  "referencia": "CBU2082.FT6275",
+  "mercado": {
+   "n": 4,
+   "p25": 7695,
+   "mediana": 8648
+  },
+  "triage": {
+   "modelo": "TAG Heuer Carrera Chronograph Extreme Sport Titanium Skeleton",
+   "referencia": "CBU2082.FT6275",
+   "precio_justo_usd": 5200,
+   "interesante": false,
+   "nota": "Nuevo con caja y papeles; el precio pedido de US$6695 está por encima del valor de mercado gris para esta referencia. La referencia es la del título, no verificable solo con la imagen."
+  },
+  "motivo": "triage: Nuevo con caja y papeles; el precio pedido de US$6695 está por encima del valor de mercado gris para esta referencia. La referencia es la del título, no verificable solo con la imagen. (justo 5200)"
  }
 ]
