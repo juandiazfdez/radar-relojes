@@ -1515,13 +1515,13 @@
   "max": 17710
  },
  "Rolex 16570|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-28",
   "consulta": "Rolex 16570",
-  "n": 38,
+  "n": 37,
   "mediana": 9000,
   "p25": 8495,
-  "p75": 9578,
-  "min": 7300,
+  "p75": 9572,
+  "min": 7733,
   "max": 10499
  },
  "Rolex 16570T|usado": {
@@ -13275,14 +13275,14 @@
   "max": 18995
  },
  "Rolex 126333|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-28",
   "consulta": "Rolex 126333",
   "n": 30,
   "mediana": 15260,
   "p25": 14825,
-  "p75": 15950,
+  "p75": 15879,
   "min": 13244,
-  "max": 15998
+  "max": 15990
  },
  "Tudor M79000N|nuevo": {
   "fecha": "2026-10-27",
@@ -14578,5 +14578,25 @@
   "p75": 7170,
   "min": 6499,
   "max": 7170
+ },
+ "Breitling A17320|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Breitling A17320",
+  "n": 8,
+  "mediana": 3577,
+  "p25": 3033,
+  "p75": 3750,
+  "min": 2500,
+  "max": 3995
+ },
+ "Jaeger-LeCoultre Q4018480|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Jaeger-LeCoultre Q4018480",
+  "n": 3,
+  "mediana": 8860,
+  "p25": 8633,
+  "p75": 9070,
+  "min": 8633,
+  "max": 9070
  }
 }
