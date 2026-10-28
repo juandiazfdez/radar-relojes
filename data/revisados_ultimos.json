@@ -2,40 +2,6 @@
  {
   "fecha": "2026-10-27T01:06:46.338761+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II Black Oyster Box/Papers/Card 116710LN",
-  "total": 13000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198748175050",
-  "item_id": "v1|198748175050|0",
-  "referencia": "116710LN",
-  "mercado": {
-   "n": 41,
-   "p25": 14699,
-   "mediana": 15515
-  },
-  "ratio_mercado": 0.884,
-  "motivo": "precio normal (88 % del cuartil bajo de 116710LN)"
- },
- {
-  "fecha": "2026-10-27T01:06:46.338761+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sea-Dweller 16600 \"P\" Serial 2000 S/S 40MM Pro Diver. B/P. Service Card. ",
-  "total": 9940.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287682787478",
-  "item_id": "v1|287682787478|0",
-  "referencia": "16600",
-  "mercado": {
-   "n": 54,
-   "p25": 9750,
-   "mediana": 10012
-  },
-  "ratio_mercado": 1.019,
-  "motivo": "precio normal (102 % del cuartil bajo de 16600)"
- },
- {
-  "fecha": "2026-10-27T01:06:46.338761+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual Date 1500 Mens 1960s 34mm 14k SS Diamond Automatic RA742S",
   "total": 8900.0,
   "condicion": "Pre-owned - Good",
@@ -11562,5 +11528,45 @@
    "nota": "Es un MoonSwatch (colaboración Swatch-Omega, retail ~260 USD), no un Omega de la línea normal. La pintura de artista es lo que sube el valor, pero no justifica 1950 USD salvo que el artista tenga un historial de ventas muy alto."
   },
   "motivo": "triage: Es un MoonSwatch (colaboración Swatch-Omega, retail ~260 USD), no un Omega de la línea normal. La pintura de artista es lo que sube el valor, pero no justifica 1950 USD salvo que el artista tenga un historial de ventas muy alto. (justo 400)"
+ },
+ {
+  "fecha": "2026-10-28T04:52:27.345216+00:00",
+  "marca": "Omega",
+  "titulo": "omega watch women",
+  "total": 1100.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860090998812",
+  "item_id": "v1|860090998812|0",
+  "triage": {
+   "modelo": "No identificable: la foto muestra solo una caja roja con un emblema dorado, sin reloj",
+   "referencia": null,
+   "precio_justo_usd": null,
+   "interesante": false,
+   "nota": "La imagen no muestra el reloj ni permite confirmar modelo, referencia o estado; pide fotos de la esfera, caja de atrás y papeles antes de valorarlo."
+  },
+  "motivo": "triage: La imagen no muestra el reloj ni permite confirmar modelo, referencia o estado; pide fotos de la esfera, caja de atrás y papeles antes de valorarlo. (justo 0)"
+ },
+ {
+  "fecha": "2026-10-28T04:52:27.345216+00:00",
+  "marca": "IWC",
+  "titulo": "IWC Men's Watch - IW325504",
+  "total": 3700.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840067532275",
+  "item_id": "v1|840067532275|0",
+  "referencia": "IW325504",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "IWC Portofino Automatic 40 (acero, esfera plateada, fecha)",
+   "referencia": "IW325504",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Precio cercano al valor de mercado para usado en excelente estado; no hay descuento de al menos 15 % y no se ven papeles ni caja en la foto."
+  },
+  "motivo": "triage: Precio cercano al valor de mercado para usado en excelente estado; no hay descuento de al menos 15 % y no se ven papeles ni caja en la foto. (justo 3800)"
  }
 ]
