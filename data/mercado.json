@@ -6600,13 +6600,13 @@
   "max": 17950
  },
  "Rolex 118238|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-28",
   "consulta": "Rolex 118238",
-  "n": 52,
+  "n": 51,
   "mediana": 28990,
   "p25": 27990,
-  "p75": 30490,
-  "min": 24668,
+  "p75": 31900,
+  "min": 25990,
   "max": 57100
  },
  "Rolex 16750|usado": {
@@ -14288,5 +14288,25 @@
   "fecha": "2026-10-28",
   "consulta": "IWC IW516201",
   "n": 0
+ },
+ "Rolex 6334|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Rolex 6334",
+  "n": 1,
+  "mediana": 3990,
+  "p25": 3990,
+  "p75": 3990,
+  "min": 3990,
+  "max": 3990
+ },
+ "TAG Heuer WH1115|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "TAG Heuer WH1115",
+  "n": 2,
+  "mediana": 610,
+  "p25": 500,
+  "p75": 720,
+  "min": 500,
+  "max": 720
  }
 }
