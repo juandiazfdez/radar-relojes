@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-10-27T13:52:07.425157+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos all white lab diamond bussdown",
-  "total": 800.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307251828030",
-  "item_id": "v1|307251828030|0",
-  "triage": {
-   "modelo": "Cartier Santos-style iced out (réplica/personalizado tipo 'bussdown', no Cartier genuino)",
-   "referencia": null,
-   "precio_justo_usd": 250,
-   "interesante": false,
-   "nota": "Caja cuadrada con bisel y brazalete pavé de lab diamonds sin marcas de Cartier visibles; parece pieza personalizada o réplica, no un Santos original."
-  },
-  "motivo": "triage: Caja cuadrada con bisel y brazalete pavé de lab diamonds sin marcas de Cartier visibles; parece pieza personalizada o réplica, no un Santos original. (justo 250)"
- },
- {
-  "fecha": "2026-10-27T13:52:07.425157+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Aqua Terra Atlantic Blue 38mm 220.10.38.20.03.003",
-  "total": 6200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227585685980",
-  "item_id": "v1|227585685980|0",
-  "referencia": "220.10.38.20.03.003",
-  "mercado": {
-   "n": 1,
-   "p25": 6100,
-   "mediana": 6100
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Aqua Terra 38 mm, esfera Atlantic Blue (Co-Axial)",
-   "referencia": "220.10.38.20.03.003",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Precio pedido de US$6200 muy por encima del valor de venta real de esta referencia de segunda mano; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$6200 muy por encima del valor de venta real de esta referencia de segunda mano; no es una oportunidad. (justo 4000)"
- },
- {
-  "fecha": "2026-10-27T13:52:07.425157+00:00",
   "marca": "TAG Heuer",
   "titulo": "TAG Heuer Carrera Porsche Limited Auto Chronograph Skeleton Black CBU2010.FT6267",
   "total": 6000.0,
@@ -11424,5 +11384,39 @@
    "nota": "Tank Solo de acero, cuarzo, esfera blanca con números romanos; el precio pedido de US$6300 está muy por encima del mercado usado, y el color dorado de la caja no coincide con la referencia de acero indicada."
   },
   "motivo": "triage: Tank Solo de acero, cuarzo, esfera blanca con números romanos; el precio pedido de US$6300 está muy por encima del mercado usado, y el color dorado de la caja no coincide con la referencia de acero indicada. (justo 2500)"
+ },
+ {
+  "fecha": "2026-10-28T13:22:48.060128+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Wave 300m Diver Blue Ceramic Men's Watch 210.30.42.20.03.001",
+  "total": 4595.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267826154032",
+  "item_id": "v1|267826154032|0",
+  "referencia": "210.30.42.20.03.001",
+  "mercado": {
+   "n": 34,
+   "p25": 4749,
+   "mediana": 4948
+  },
+  "ratio_mercado": 0.968,
+  "motivo": "precio normal (97 % del cuartil bajo de 210.30.42.20.03.001)"
+ },
+ {
+  "fecha": "2026-10-28T13:22:48.060128+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster De Ville Automatic Men's Watch Vintage 1960s",
+  "total": 974.95,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/307253720202",
+  "item_id": "v1|307253720202|0",
+  "triage": {
+   "modelo": "Omega Seamaster De Ville Automatic (vintage, años 60, caja de acero, esfera plateada con fecha)",
+   "referencia": null,
+   "precio_justo_usd": 700,
+   "interesante": false,
+   "nota": "Precio pedido de US$975 supera el valor de venta estimado para este vintage de acero; la referencia exacta no es legible en la foto, así que la estimación es conservadora."
+  },
+  "motivo": "triage: Precio pedido de US$975 supera el valor de venta estimado para este vintage de acero; la referencia exacta no es legible en la foto, así que la estimación es conservadora. (justo 700)"
  }
 ]
