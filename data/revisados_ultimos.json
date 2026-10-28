@@ -2,57 +2,6 @@
  {
   "fecha": "2026-10-27T16:37:07.780633+00:00",
   "marca": "Rolex",
-  "titulo": "NOS Stickered Rolex Submariner Date 16610 Rehaut Black Steel 40mm Box Papers",
-  "total": 16313.38,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/267825356542",
-  "item_id": "v1|267825356542|0",
-  "referencia": "16610",
-  "mercado": {
-   "n": 13,
-   "p25": 18049,
-   "mediana": 22345
-  },
-  "ratio_mercado": 0.904,
-  "motivo": "precio normal (90 % del cuartil bajo de 16610)"
- },
- {
-  "fecha": "2026-10-27T16:37:07.780633+00:00",
-  "marca": "Rolex",
-  "titulo": "2010 Rolex Sea-Dweller Deepsea 116660 Black Steel 44mm Watch Box Papers",
-  "total": 9989.67,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267825356543",
-  "item_id": "v1|267825356543|0",
-  "referencia": "116660",
-  "mercado": {
-   "n": 46,
-   "p25": 10700,
-   "mediana": 11878
-  },
-  "ratio_mercado": 0.934,
-  "motivo": "precio normal (93 % del cuartil bajo de 116660)"
- },
- {
-  "fecha": "2026-10-27T16:37:07.780633+00:00",
-  "marca": "Rolex",
-  "titulo": "Unpolished 2000 Rolex Daytona Cosmograph 16520 White Steel 40mm Watch Box Papers",
-  "total": 32632.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267825356546",
-  "item_id": "v1|267825356546|0",
-  "referencia": "16520",
-  "mercado": {
-   "n": 16,
-   "p25": 29282,
-   "mediana": 33736
-  },
-  "ratio_mercado": 1.114,
-  "motivo": "precio normal (111 % del cuartil bajo de 16520)"
- },
- {
-  "fecha": "2026-10-27T16:37:07.780633+00:00",
-  "marca": "Rolex",
   "titulo": "2020 Rolex DateJust 31 278278 Champagne 18K Yellow Gold 31mm Watch Box Papers",
   "total": 38753.6,
   "condicion": "Pre-owned - Excellent",
@@ -11435,5 +11384,56 @@
    "nota": "Precio pedido por encima del valor de reventa estimado para este modelo usado en excelente estado, aunque tenga garantía vigente hasta 2029."
   },
   "motivo": "triage: Precio pedido por encima del valor de reventa estimado para este modelo usado en excelente estado, aunque tenga garantía vigente hasta 2029. (justo 4500)"
+ },
+ {
+  "fecha": "2026-10-28T16:38:01.126681+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 40mm 116610LN – 2017 – Excellent Condition – Watch & Card",
+  "total": 14000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147655558109",
+  "item_id": "v1|147655558109|0",
+  "referencia": "116610LN",
+  "mercado": {
+   "n": 58,
+   "p25": 12899,
+   "mediana": 13500
+  },
+  "ratio_mercado": 1.085,
+  "motivo": "precio normal (109 % del cuartil bajo de 116610LN)"
+ },
+ {
+  "fecha": "2026-10-28T16:38:01.126681+00:00",
+  "marca": "Omega",
+  "titulo": "1947 Omega Ref. 2508 18K Solid Gold Cal. 265 Oversized 35mm Wristwatch",
+  "total": 4000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137882331911",
+  "item_id": "v1|137882331911|0",
+  "triage": {
+   "modelo": "Omega vintage de oro macizo 18K, esfera plateada con numerales arábigos y segundero pequeño a las 6",
+   "referencia": "2508 (según el listado, no verificable en la imagen)",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Caja de oro 18K de 35 mm con cal. 265; el valor depende sobre todo del oro y del estado. US$4000 queda por encima del rango de venta realista."
+  },
+  "motivo": "triage: Caja de oro 18K de 35 mm con cal. 265; el valor depende sobre todo del oro y del estado. US$4000 queda por encima del rango de venta realista. (justo 2600)"
+ },
+ {
+  "fecha": "2026-10-28T16:38:01.126681+00:00",
+  "marca": "Omega",
+  "titulo": "Vintage Omega Speedmaster 375.0043 Steel 39mm Automatic Chrono Watch",
+  "total": 2850.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820288440052",
+  "item_id": "v1|820288440052|0",
+  "triage": {
+   "modelo": "Omega Speedmaster Date (cronógrafo automático, esfera negra, bisel taquimétrico, acero)",
+   "referencia": "375.0043 (no verificable en la imagen; el patrón visual sugiere un Speedmaster Date de los 90)",
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta cerrada estimado para este modelo y estado, sin caja ni papeles confirmados."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para este modelo y estado, sin caja ni papeles confirmados. (justo 2400)"
  }
 ]
