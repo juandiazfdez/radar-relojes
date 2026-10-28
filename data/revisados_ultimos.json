@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-10-26T23:36:33.951547+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Française Automatic 2302 Stainless Steel Watch",
-  "total": 3500.73,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206656269830",
-  "item_id": "v1|206656269830|0",
-  "referencia": "2302",
-  "mercado": {
-   "n": 41,
-   "p25": 3985,
-   "mediana": 4795
-  },
-  "ratio_mercado": 0.878,
-  "motivo": "precio normal (88 % del cuartil bajo de 2302)"
- },
- {
-  "fecha": "2026-10-26T23:36:33.951547+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere 1320 Stainless Steel 22mm Watch",
-  "total": 5330.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128158234947",
-  "item_id": "v1|128158234947|0",
-  "referencia": "1320",
-  "mercado": {
-   "n": 10,
-   "p25": 4550,
-   "mediana": 4672
-  },
-  "ratio_mercado": 1.171,
-  "motivo": "precio normal (117 % del cuartil bajo de 1320)"
- },
- {
-  "fecha": "2026-10-26T23:36:33.951547+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay Fifty-Eight 925,  39mm, automatic",
   "total": 3680.0,
@@ -11495,5 +11461,45 @@
    "nota": "Modelo reconocible por la esfera negra y el bisel taquimétrico, pero la referencia 3519.50 viene del título y no se distingue en la foto. Precio justo estimado para estado Good sin certificar; el listado está cerca de ese valor, no 15 % por debajo."
   },
   "motivo": "triage: Modelo reconocible por la esfera negra y el bisel taquimétrico, pero la referencia 3519.50 viene del título y no se distingue en la foto. Precio justo estimado para estado Good sin certificar; el listado está cerca de ese valor, no 15 % por debajo. (justo 3000)"
+ },
+ {
+  "fecha": "2026-10-28T03:22:27.297471+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "Swiss 39mm [WORKS] TAG Heuer Aquaracer WAP1120 Men's Quartz Watch",
+  "total": 2179.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960124860616",
+  "item_id": "v1|960124860616|0",
+  "referencia": "WAP1120",
+  "mercado": {
+   "n": 1,
+   "p25": 725,
+   "mediana": 725
+  },
+  "triage": {
+   "modelo": "TAG Heuer Aquaracer 39mm quartz bicolor (acero y oro amarillo)",
+   "referencia": "WAP1120",
+   "precio_justo_usd": 800,
+   "interesante": false,
+   "nota": "Cuarzo de 39 mm en bicolor; el precio pedido de US$2180 supera mucho su valor de reventa usado."
+  },
+  "motivo": "triage: Cuarzo de 39 mm en bicolor; el precio pedido de US$2180 supera mucho su valor de reventa usado. (justo 800)"
+ },
+ {
+  "fecha": "2026-10-28T03:22:27.297471+00:00",
+  "marca": "IWC",
+  "titulo": "IWC Luxury Chronograph Mens Watch",
+  "total": 4100.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840067343779",
+  "item_id": "v1|840067343779|0",
+  "triage": {
+   "modelo": "IWC Portugieser Automatic (acero, esfera blanca, correa de cuero marrón)",
+   "referencia": "Probablemente IW500704 o IW500107; no es posible confirmarla con la foto",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "El título dice 'Chronograph' pero el modelo parece un Portugieser Automatic sin cronógrafo; el listado no indica caja ni papeles y el precio está cerca del valor de mercado."
+  },
+  "motivo": "triage: El título dice 'Chronograph' pero el modelo parece un Portugieser Automatic sin cronógrafo; el listado no indica caja ni papeles y el precio está cerca del valor de mercado. (justo 4300)"
  }
 ]
