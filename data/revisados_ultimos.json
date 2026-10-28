@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-10-27T03:06:45.390586+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "Tag Heuer Aquaracer WAF1112 Set of Two 39mm and 27mm Wedding, Anniversary Gift",
-  "total": 1199.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840063845836",
-  "item_id": "v1|840063845836|0",
-  "referencia": "WAF1112",
-  "mercado": {
-   "n": 4,
-   "p25": 675,
-   "mediana": 742
-  },
-  "triage": {
-   "modelo": "TAG Heuer Aquaracer, par de relojes de acero (aparentemente 39 mm y 27 mm)",
-   "referencia": "WAF1112 (el listado no es coherente con un set de dos medidas; verificar)",
-   "precio_justo_usd": 1400,
-   "interesante": false,
-   "nota": "La referencia WAF1112 corresponde a un solo cronógrafo Aquaracer, no a un par de 39 y 27 mm, así que el listado es inconsistente. Hay que verificar cada reloj, su referencia y papeles antes de valorar el precio."
-  },
-  "motivo": "triage: La referencia WAF1112 corresponde a un solo cronógrafo Aquaracer, no a un par de 39 y 27 mm, así que el listado es inconsistente. Hay que verificar cada reloj, su referencia y papeles antes de valorar el precio. (justo 1400)"
- },
- {
   "fecha": "2026-10-27T03:21:45.309983+00:00",
   "marca": "TAG Heuer",
   "titulo": "TAG Heuer Aquaracer Lady Professional 200 30mm WBP1416.BA0622",
@@ -11520,5 +11497,28 @@
    "nota": "Cronógrafo de los años 80-90 con valor de mercado bajo; el precio pedido de 2999 USD supera con creces lo que se vende realmente, y el 18K puede ser chapado, no macizo."
   },
   "motivo": "triage: Cronógrafo de los años 80-90 con valor de mercado bajo; el precio pedido de 2999 USD supera con creces lo que se vende realmente, y el 18K puede ser chapado, no macizo. (justo 1100)"
+ },
+ {
+  "fecha": "2026-10-28T08:52:36.418821+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Speedmaster 3313.33.00 Japanese Market 39mm 18K Gold Steel Chronograph",
+  "total": 3495.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227586774927",
+  "item_id": "v1|227586774927|0",
+  "referencia": "3313.33.00",
+  "mercado": {
+   "n": 1,
+   "p25": 3695,
+   "mediana": 3695
+  },
+  "triage": {
+   "modelo": "Omega Speedmaster Date (cronógrafo automático, bicolor acero/oro 18K, esfera blanca, 39 mm)",
+   "referencia": "3313.33.00",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor estimado de venta cerrada para esta referencia bicolor en estado Good; no hay descuento suficiente y conviene verificar autenticidad y variante de esfera."
+  },
+  "motivo": "triage: Precio pedido por encima del valor estimado de venta cerrada para esta referencia bicolor en estado Good; no hay descuento suficiente y conviene verificar autenticidad y variante de esfera. (justo 3400)"
  }
 ]
