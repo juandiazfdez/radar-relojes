@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-10-27T13:52:07.425157+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date 1501 Vintage 1960s Steel Riveted Oyster Bracelet",
-  "total": 3700.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407319940267",
-  "item_id": "v1|407319940267|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date (acero, esfera plateada, bisel liso)",
-   "referencia": "1501",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Referencia 1501 de los años 60-70; precio cercano al mercado para estado excelente, sin margen de 15 % y sin verificar autenticidad ni esfera a distancia."
-  },
-  "motivo": "triage: Referencia 1501 de los años 60-70; precio cercano al mercado para estado excelente, sin margen de 15 % y sin verificar autenticidad ni esfera a distancia. (justo 4000)"
- },
- {
-  "fecha": "2026-10-27T13:52:07.425157+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos all white lab diamond bussdown",
   "total": 800.0,
@@ -11418,5 +11401,28 @@
    "nota": "Precio pedido de 2249 USD está por encima del valor de venta cerrada estimado para esta referencia de acero usada en estado Good; no hay descuento suficiente."
   },
   "motivo": "triage: Precio pedido de 2249 USD está por encima del valor de venta cerrada estimado para esta referencia de acero usada en estado Good; no hay descuento suficiente. (justo 1800)"
+ },
+ {
+  "fecha": "2026-10-28T13:07:55.099099+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank W5200004 3167",
+  "total": 6300.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168822111490",
+  "item_id": "v1|168822111490|0",
+  "referencia": "W5200004",
+  "mercado": {
+   "n": 1,
+   "p25": 6950,
+   "mediana": 6950
+  },
+  "triage": {
+   "modelo": "Cartier Tank Solo (posible Tank Must, por el color dorado de la caja)",
+   "referencia": "W5200004",
+   "precio_justo_usd": 2500,
+   "interesante": false,
+   "nota": "Tank Solo de acero, cuarzo, esfera blanca con números romanos; el precio pedido de US$6300 está muy por encima del mercado usado, y el color dorado de la caja no coincide con la referencia de acero indicada."
+  },
+  "motivo": "triage: Tank Solo de acero, cuarzo, esfera blanca con números romanos; el precio pedido de US$6300 está muy por encima del mercado usado, y el color dorado de la caja no coincide con la referencia de acero indicada. (justo 2500)"
  }
 ]
