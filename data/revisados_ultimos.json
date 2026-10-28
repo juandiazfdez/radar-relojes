@@ -1,68 +1,5 @@
 [
  {
-  "fecha": "2026-10-27T04:06:44.729732+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Constellation Globemaster Piepan Co-axial Watch 39mm 130.33.39.21.03.001",
-  "total": 8700.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/900043648864",
-  "item_id": "v1|900043648864|0",
-  "referencia": "130.33.39.21.03.001",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Omega Constellation Globemaster Co-Axial Master Chronometer 39 mm (esfera azul, bisel acanalado, correa de piel azul)",
-   "referencia": "130.33.39.21.03.001",
-   "precio_justo_usd": 4200,
-   "interesante": false,
-   "nota": "Precio pedido de US$8700 supera el retail de esta referencia (aprox. US$6000-6500); el mercado gris nuevo con caja y papeles ronda 3800-4800, así que está muy sobrevalorado."
-  },
-  "motivo": "triage: Precio pedido de US$8700 supera el retail de esta referencia (aprox. US$6000-6500); el mercado gris nuevo con caja y papeles ronda 3800-4800, así que está muy sobrevalorado. (justo 4200)"
- },
- {
-  "fecha": "2026-10-27T04:06:44.729732+00:00",
-  "marca": "Omega",
-  "titulo": "Works [N. MINT] 1972 Omega De Ville Tank 16mm 10k Gold Filled Women's Watch ",
-  "total": 1214.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960116572554",
-  "item_id": "v1|960116572554|0",
-  "triage": {
-   "modelo": "Omega De Ville Tank (rectangular), dama, cuerda manual, chapa de oro 10k, brazalete de malla",
-   "referencia": null,
-   "precio_justo_usd": 450,
-   "interesante": false,
-   "nota": "Reloj femenino de chapa de oro de los años 70 que se vende normalmente por unos 300-600 USD; el precio pedido de 1215 USD está muy por encima."
-  },
-  "motivo": "triage: Reloj femenino de chapa de oro de los años 70 que se vende normalmente por unos 300-600 USD; el precio pedido de 1215 USD está muy por encima. (justo 450)"
- },
- {
-  "fecha": "2026-10-27T04:21:44.854002+00:00",
-  "marca": "Omega",
-  "titulo": "Omega 6000M Seamaster Planet Ocean Ultra Deep Watch 45.5mm 215.32.46.21.03.001",
-  "total": 13900.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/900043685501",
-  "item_id": "v1|900043685501|0",
-  "referencia": "215.32.46.21.03.001",
-  "mercado": {
-   "n": 2,
-   "p25": 8235,
-   "mediana": 10265
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Planet Ocean Ultra Deep (titulado como 6000M), esfera azul, bisel cerámica, correa de caucho azul y negra",
-   "referencia": "215.32.46.21.03.001",
-   "precio_justo_usd": 7500,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del mercado secundario para un modelo nuevo con caja y papeles; además, la foto y el título no coinciden del todo, así que conviene verificar la referencia."
-  },
-  "motivo": "triage: Precio pedido muy por encima del mercado secundario para un modelo nuevo con caja y papeles; además, la foto y el título no coinciden del todo, así que conviene verificar la referencia. (justo 7500)"
- },
- {
   "fecha": "2026-10-27T04:36:45.816511+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Louis Cartier - WGTA0010",
@@ -11520,5 +11457,75 @@
   },
   "ratio_mercado": 1.047,
   "motivo": "precio normal (105 % del cuartil bajo de W6700455)"
+ },
+ {
+  "fecha": "2026-10-28T11:37:48.204656+00:00",
+  "marca": "Panerai",
+  "titulo": "Panerai Luminor 1950 PAM 00289 8 Day Power Reserve 18K Rose Gold Watch Box,Books",
+  "total": 14900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/377603389393",
+  "item_id": "v1|377603389393|0",
+  "referencia": "PAM00289",
+  "mercado": {
+   "n": 5,
+   "p25": 17990,
+   "mediana": 17990
+  },
+  "ratio_mercado": 0.828,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 13500,
+   "riesgo_autenticidad": "medio",
+   "estado": "Excelente según fotos de dealer; caja y libros presentes, sin papeles sellados"
+  },
+  "ratio_justo": 1.104,
+  "motivo": "precio normal segun revision (110 % del justo 13500)"
+ },
+ {
+  "fecha": "2026-10-28T11:37:48.204656+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Planet Ocean Chrono 600m - 45.5mm - 215.30.46.51.01.001",
+  "total": 7600.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168821933799",
+  "item_id": "v1|168821933799|0",
+  "referencia": "215.30.46.51.01.001",
+  "mercado": {
+   "n": 3,
+   "p25": 5850,
+   "mediana": 6000
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Planet Ocean Chronograph 600M 45.5 mm (esfera negra, brazalete de acero)",
+   "referencia": "215.30.46.51.01.001",
+   "precio_justo_usd": 5200,
+   "interesante": false,
+   "nota": "Precio pedido de US$7600 está muy por encima del valor de venta real de un usado en excelente estado, incluso con caja y papeles. No es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$7600 está muy por encima del valor de venta real de un usado en excelente estado, incluso con caja y papeles. No es una oportunidad. (justo 5200)"
+ },
+ {
+  "fecha": "2026-10-28T11:37:48.204656+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "Tag Heuer F1 Cah1112 Brand New",
+  "total": 1700.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/267826052764",
+  "item_id": "v1|267826052764|0",
+  "referencia": "CAH1112",
+  "mercado": {
+   "n": 1,
+   "p25": 1856,
+   "mediana": 1856
+  },
+  "triage": {
+   "modelo": "TAG Heuer Formula 1 Chronograph, esfera roja con subesferas blancas, caja de acero de 43 mm",
+   "referencia": "CAH1112",
+   "precio_justo_usd": 1100,
+   "interesante": false,
+   "nota": "Pedido de US$1700 está muy por encima del precio de mercado secundario de un CAH1112 nuevo con caja y papeles, que ronda los US$1000-1200. El título 'Brand New' también conviene verificarlo con fotos del reloj real."
+  },
+  "motivo": "triage: Pedido de US$1700 está muy por encima del precio de mercado secundario de un CAH1112 nuevo con caja y papeles, que ronda los US$1000-1200. El título 'Brand New' también conviene verificarlo con fotos del reloj real. (justo 1100)"
  }
 ]
