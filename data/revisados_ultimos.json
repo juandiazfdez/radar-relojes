@@ -1,174 +1,6 @@
 [
  {
   "fecha": "2026-10-27T16:37:07.780633+00:00",
-  "marca": "Rolex",
-  "titulo": "1984 Rolex Submariner Black Stainless Steel 40mm 16800 + SERVICE BOX & BOOK",
-  "total": 9288.29,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287684653828",
-  "item_id": "v1|287684653828|0",
-  "referencia": "16800",
-  "mercado": {
-   "n": 15,
-   "p25": 11950,
-   "mediana": 12900
-  },
-  "ratio_mercado": 0.777,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 8200,
-   "riesgo_autenticidad": "medio",
-   "estado": "Bueno, con pulido y refinado profesional; cuenta con caja y libro de servicio, no con el set original"
-  },
-  "ratio_justo": 1.133,
-  "motivo": "precio normal segun revision (113 % del justo 8200)"
- },
- {
-  "fecha": "2026-10-27T16:37:07.780633+00:00",
-  "marca": "Rolex",
-  "titulo": "Authentic estate stainless-steel Sea-Dweller Deepsea Rolex wristwatch",
-  "total": 9639.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237147155123",
-  "item_id": "v1|237147155123|0",
-  "triage": {
-   "modelo": "Rolex Sea-Dweller Deepsea (acero, bisel Cerachrom negro, esfera negra, cyclops de fecha, brazalete Oyster)",
-   "referencia": "126660 (probable, según la esfera)",
-   "precio_justo_usd": 13000,
-   "interesante": false,
-   "nota": "Precio de mercado de un 126660 usado en excelente estado con caja y papeles, aprox. US$12.500-14.000. El precio está ~26% abajo, pero un listado 'estate' sin caja ni papeles a este precio sugiere réplica o pieza incompleta; no es fiable sin verificación."
-  },
-  "motivo": "triage: Precio de mercado de un 126660 usado en excelente estado con caja y papeles, aprox. US$12.500-14.000. El precio está ~26% abajo, pero un listado 'estate' sin caja ni papeles a este precio sugiere réplica o pieza incompleta; no es fiable sin verificación. (justo 13000)"
- },
- {
-  "fecha": "2026-10-27T16:37:07.780633+00:00",
-  "marca": "Rolex",
-  "titulo": "2014 PAPERS Rolex GMT Master II 116710BLNR \"Batman\" 40mm Watch BOX + 2022 RSC",
-  "total": 15490.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168820238849",
-  "item_id": "v1|168820238849|0",
-  "referencia": "116710BLNR",
-  "mercado": {
-   "n": 45,
-   "p25": 15999,
-   "mediana": 16800
-  },
-  "ratio_mercado": 0.968,
-  "motivo": "precio normal (97 % del cuartil bajo de 116710BLNR)"
- },
- {
-  "fecha": "2026-10-27T16:37:07.780633+00:00",
-  "marca": "Rolex",
-  "titulo": "Authentic estate stainless-steel Rolex Yacht-Master II wristwatch",
-  "total": 15309.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336865823474",
-  "item_id": "v1|336865823474|0",
-  "triage": {
-   "modelo": "Rolex Yacht-Master II (acero, bisel cerámica azul, 44 mm)",
-   "referencia": "116680",
-   "precio_justo_usd": 19000,
-   "interesante": true,
-   "nota": "Precio ~19 % bajo un valor conservador sin caja/papeles; verificar autenticidad, papeles y movimiento antes de comprar."
-  },
-  "referencia": "116680",
-  "mercado": {
-   "n": 29,
-   "p25": 17650,
-   "mediana": 18987
-  },
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 16000,
-   "riesgo_autenticidad": "medio",
-   "estado": "Buen aspecto general, pero pulido recientemente, sin papeles y sin año ni serial verificables"
-  },
-  "ratio_justo": 0.957,
-  "motivo": "precio normal segun revision (96 % del justo 16000)"
- },
- {
-  "fecha": "2026-10-27T16:37:07.780633+00:00",
-  "marca": "Rolex",
-  "titulo": "Unpolished Rolex DateJust President 6824 Champagne 31mm 18k Gold Oyster Watch",
-  "total": 15293.28,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940045912827",
-  "item_id": "v1|940045912827|0",
-  "referencia": "6824",
-  "mercado": {
-   "n": 8,
-   "p25": 4959,
-   "mediana": 8137
-  },
-  "ratio_mercado": 3.084,
-  "motivo": "precio normal (308 % del cuartil bajo de 6824)"
- },
- {
-  "fecha": "2026-10-27T16:37:07.780633+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Dress Square Analog Wristwatch Two-Tone",
-  "total": 2800.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/820280187033",
-  "item_id": "v1|820280187033|0",
-  "triage": {
-   "modelo": "Cartier Panthère (esfera cuadrada, acero y oro amarillo, bisel con tornillos, cuarzo; el título 'Dress Square' no es un nombre de modelo Cartier conocido)",
-   "referencia": null,
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "Precio pedido de 2800 USD por encima del rango de venta real estimado para este modelo bicolor de cuarzo usado; no hay referencia verificable en las fotos."
-  },
-  "motivo": "triage: Precio pedido de 2800 USD por encima del rango de venta real estimado para este modelo bicolor de cuarzo usado; no hay referencia verificable en las fotos. (justo 2300)"
- },
- {
-  "fecha": "2026-10-27T16:37:07.780633+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai Luminor Submersible PAM01683 Men's 42mm Steel Automatic Watch",
-  "total": 8150.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287684655176",
-  "item_id": "v1|287684655176|0",
-  "referencia": "PAM01683",
-  "mercado": {
-   "n": 1,
-   "p25": 7890,
-   "mediana": 7890
-  },
-  "triage": {
-   "modelo": "Panerai Luminor Submersible 42mm Blu Abisso, acero, automático (según se ve en la foto y el título)",
-   "referencia": "PAM01683 (según título, pendiente de confirmar)",
-   "precio_justo_usd": 7000,
-   "interesante": false,
-   "nota": "Precio pedido de US$8150 con envío está por encima del rango de venta cerrada estimado para un Submersible de acero en excelente estado; no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido de US$8150 con envío está por encima del rango de venta cerrada estimado para un Submersible de acero en excelente estado; no hay descuento suficiente. (justo 7000)"
- },
- {
-  "fecha": "2026-10-27T16:37:07.780633+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai Radiomir Chronograph PAM00288 Men's Watch",
-  "total": 6075.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/117490375764",
-  "item_id": "v1|117490375764|0",
-  "referencia": "PAM00288",
-  "mercado": {
-   "n": 4,
-   "p25": 5195,
-   "mediana": 5593
-  },
-  "triage": {
-   "modelo": "Panerai Radiomir Chronograph (caja cojín de acero, esfera negra, subesferas y numerales luminosos)",
-   "referencia": "PAM00288 (según el título; no puedo confirmarla con certeza solo con la foto)",
-   "precio_justo_usd": 6500,
-   "interesante": false,
-   "nota": "Precio pedido cerca del valor de mercado de un Radiomir cronógrafo de acero usado; no alcanza el 15 % de descuento necesario."
-  },
-  "motivo": "triage: Precio pedido cerca del valor de mercado de un Radiomir cronógrafo de acero usado; no alcanza el 15 % de descuento necesario. (justo 6500)"
- },
- {
-  "fecha": "2026-10-27T16:37:07.780633+00:00",
   "marca": "Omega",
   "titulo": "2024 Omega Seamaster Planet Ocean 600M 215.30.44.21.01.002 43.5mm Box Papers",
   "total": 5093.82,
@@ -11435,5 +11267,147 @@
    "nota": "Precio pedido de US$1950 está muy por encima del valor de venta real de este modelo de cuarzo bicolor usado, que ronda US$800-1100."
   },
   "motivo": "triage: Precio pedido de US$1950 está muy por encima del valor de venta real de este modelo de cuarzo bicolor usado, que ronda US$800-1100. (justo 950)"
+ },
+ {
+  "fecha": "2026-10-28T17:22:59.801946+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Day-Date 36, 18388, Yellow Gold, Champagne String Diamond Dial,...",
+  "total": 35633.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/800848760687",
+  "item_id": "v1|800848760687|0",
+  "referencia": "18388",
+  "mercado": {
+   "n": 2,
+   "p25": 26050,
+   "mediana": 35770
+  },
+  "triage": {
+   "modelo": "Rolex Day-Date 36 oro amarillo con bisel de diamantes, esfera champán con diamantes y brazalete President",
+   "referencia": "18388 (bisel y esfera con diamantes; confirmar en persona)",
+   "precio_justo_usd": 34000,
+   "interesante": false,
+   "nota": "Precio cerca del valor de mercado, sin descuento de al menos 15%. Al ser 'Seller refurbished', hay que verificar autenticidad, origen de los diamantes y que la esfera y el bisel sean originales."
+  },
+  "motivo": "triage: Precio cerca del valor de mercado, sin descuento de al menos 15%. Al ser 'Seller refurbished', hay que verificar autenticidad, origen de los diamantes y que la esfera y el bisel sean originales. (justo 34000)"
+ },
+ {
+  "fecha": "2026-10-28T17:22:59.801946+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 41 \"2023 - Never Polished\" 126618LN",
+  "total": 47567.44,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237149070585",
+  "item_id": "v1|237149070585|0",
+  "referencia": "126618LN",
+  "mercado": {
+   "n": 5,
+   "p25": 42925,
+   "mediana": 45124
+  },
+  "ratio_mercado": 1.108,
+  "motivo": "precio normal (111 % del cuartil bajo de 126618LN)"
+ },
+ {
+  "fecha": "2026-10-28T17:22:59.801946+00:00",
+  "marca": "Omega",
+  "titulo": "[N. MINT] 1998 Omega DeVille Date Gold White Quartz Mens Watch Authentic Working",
+  "total": 2294.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960126769476",
+  "item_id": "v1|960126769476|0",
+  "triage": {
+   "modelo": "Omega De Ville two-tone (acero y oro) de cuarzo, esfera blanca, marcadores dorados y ventana de fecha",
+   "referencia": null,
+   "precio_justo_usd": 550,
+   "interesante": false,
+   "nota": "Modelo de cuarzo de consumo de los años 90, sin demanda especial. Pedir US$2295 está muy por encima de su valor de reventa, que ronda los US$500-600 en buen estado."
+  },
+  "motivo": "triage: Modelo de cuarzo de consumo de los años 90, sin demanda especial. Pedir US$2295 está muy por encima de su valor de reventa, que ronda los US$500-600 en buen estado. (justo 550)"
+ },
+ {
+  "fecha": "2026-10-28T17:22:59.801946+00:00",
+  "marca": "Omega",
+  "titulo": "23mm [n. MINT] 1980s Omega Constellation 18K Gold SS Quartz Women's Watch",
+  "total": 1679.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960126769508",
+  "item_id": "v1|960126769508|0",
+  "triage": {
+   "modelo": "Omega Constellation Mini (cuarzo, señora, acero y oro 18k, años 80)",
+   "referencia": null,
+   "precio_justo_usd": 650,
+   "interesante": false,
+   "nota": "Reloj de cuarzo pequeño de los 80 con bisel negro; se vende por debajo de US$1.000 y el precio pedido de US$1.680 supera con creces su valor de mercado."
+  },
+  "motivo": "triage: Reloj de cuarzo pequeño de los 80 con bisel negro; se vende por debajo de US$1.000 y el precio pedido de US$1.680 supera con creces su valor de mercado. (justo 650)"
+ },
+ {
+  "fecha": "2026-10-28T17:22:59.801946+00:00",
+  "marca": "Omega",
+  "titulo": "Omega De Ville Unisex Watch 1980's 26mm TV Ultra Thin Vintage [MINT] New Battery",
+  "total": 1679.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960126769525",
+  "item_id": "v1|960126769525|0",
+  "triage": {
+   "modelo": "Omega De Ville 'TV' ultra fina, cuarzo, bisel dorado, años 80",
+   "referencia": null,
+   "precio_justo_usd": 250,
+   "interesante": false,
+   "nota": "Modelo vintage de cuarzo con chapa dorada que se vende en torno a 150-350 USD; el precio pedido de 1680 USD está muy por encima del mercado."
+  },
+  "motivo": "triage: Modelo vintage de cuarzo con chapa dorada que se vende en torno a 150-350 USD; el precio pedido de 1680 USD está muy por encima del mercado. (justo 250)"
+ },
+ {
+  "fecha": "2026-10-28T17:22:59.801946+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Speedmaster Professional \"Big Box\" Box and Papers 311.30.42.30.01.005",
+  "total": 5699.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137882388610",
+  "item_id": "v1|137882388610|0",
+  "referencia": "311.30.42.30.01.005",
+  "mercado": {
+   "n": 11,
+   "p25": 5974,
+   "mediana": 6495
+  },
+  "ratio_mercado": 0.954,
+  "motivo": "precio normal (95 % del cuartil bajo de 311.30.42.30.01.005)"
+ },
+ {
+  "fecha": "2026-10-28T17:22:59.801946+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Speedmaster Moonwatch Professional 310.30.42.50.04.001",
+  "total": 8549.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287687520385",
+  "item_id": "v1|287687520385|0",
+  "referencia": "310.30.42.50.04.001",
+  "mercado": {
+   "n": 20,
+   "p25": 8000,
+   "mediana": 8454
+  },
+  "ratio_mercado": 1.069,
+  "motivo": "precio normal (107 % del cuartil bajo de 310.30.42.50.04.001)"
+ },
+ {
+  "fecha": "2026-10-28T17:22:59.801946+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling 816 Navitimer Vintage Ref 11525/67  BR St Steel, Chronograph 1960s",
+  "total": 3000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407320333072",
+  "item_id": "v1|407320333072|0",
+  "triage": {
+   "modelo": "Breitling cronógrafo vintage de los años 60 (posiblemente Navitimer, no confirmado en la foto)",
+   "referencia": null,
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "La foto no permite confirmar la referencia 11525/67 ni que sea un Navitimer 816; sin verificar bisel, esfera y número de serie, no es una compra clara."
+  },
+  "motivo": "triage: La foto no permite confirmar la referencia 11525/67 ni que sea un Navitimer 816; sin verificar bisel, esfera y número de serie, no es una compra clara. (justo 3600)"
  }
 ]
