@@ -3125,14 +3125,14 @@
   "n": 0
  },
  "Jaeger-LeCoultre Q3988481|nuevo": {
-  "fecha": "2026-10-20",
+  "fecha": "2026-10-28",
   "consulta": "Jaeger-LeCoultre Q3988481",
-  "n": 1,
-  "mediana": 14300,
-  "p25": 14300,
-  "p75": 14300,
-  "min": 14300,
-  "max": 14300
+  "n": 2,
+  "mediana": 13926,
+  "p25": 13500,
+  "p75": 14352,
+  "min": 13500,
+  "max": 14352
  },
  "Jaeger-LeCoultre Q3858524|nuevo": {
   "fecha": "2026-10-20",
@@ -14668,5 +14668,15 @@
   "p75": 5999,
   "min": 5999,
   "max": 5999
+ },
+ "Omega 231.10.39.61.06.001|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Omega 231.10.39.61.06.001",
+  "n": 0
+ },
+ "Jaeger-LeCoultre Q2503470|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Jaeger-LeCoultre Q2503470",
+  "n": 0
  }
 }
