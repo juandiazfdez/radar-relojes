@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-10-27T03:51:45.450253+00:00",
-  "marca": "Omega",
-  "titulo": "Omega De Ville Prestige Quartz Stainless Steel With Mother Of Pearl Watch",
-  "total": 1941.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820281902781",
-  "item_id": "v1|820281902781|0",
-  "triage": {
-   "modelo": "Omega De Ville Prestige Quartz 27 mm, acero, esfera de madreperla con marcadores de diamante (probable)",
-   "referencia": "424.10.27.60.55.001 (probable, sin confirmar)",
-   "precio_justo_usd": 950,
-   "interesante": false,
-   "nota": "Modelo de cuarzo de acero con esfera de nácar; el precio pedido de US$1941 está muy por encima de lo que se vende realmente, sin indicios de ganga."
-  },
-  "motivo": "triage: Modelo de cuarzo de acero con esfera de nácar; el precio pedido de US$1941 está muy por encima de lo que se vende realmente, sin indicios de ganga. (justo 950)"
- },
- {
   "fecha": "2026-10-27T04:06:44.729732+00:00",
   "marca": "Omega",
   "titulo": "1940's OMEGA Tank Wristwatch - 950 Platinum Case + Backing - R 17.8 17J - RARE!",
@@ -11514,5 +11497,28 @@
   },
   "ratio_mercado": 1.011,
   "motivo": "precio normal (101 % del cuartil bajo de 210.30.42.20.06.001)"
+ },
+ {
+  "fecha": "2026-10-28T11:07:47.724904+00:00",
+  "marca": "Omega",
+  "titulo": "Mens Omega Seamaster Titanium 300M Professional Chronometer watch 41MM - 2231.50",
+  "total": 4645.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800847771660",
+  "item_id": "v1|800847771660|0",
+  "referencia": "2231.50",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Professional 300M Titanium (41 mm, esfera negra, pulsera de titanio)",
+   "referencia": "2231.50",
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Precio pedido de US$4645 con envío supera con holgura el valor de venta real de esta referencia usada en EE. UU., incluso con caja y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$4645 con envío supera con holgura el valor de venta real de esta referencia usada en EE. UU., incluso con caja y papeles. (justo 3100)"
  }
 ]
