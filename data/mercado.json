@@ -1805,14 +1805,14 @@
   "max": 5515
  },
  "Tudor 79360B|usado": {
-  "fecha": "2026-10-20",
+  "fecha": "2026-10-28",
   "consulta": "Tudor 79360B",
-  "n": 9,
-  "mediana": 5299,
-  "p25": 5249,
+  "n": 14,
+  "mediana": 5478,
+  "p25": 5299,
   "p75": 5791,
   "min": 5125,
-  "max": 6250
+  "max": 6600
  },
  "Tudor M79360N-0013|nuevo": {
   "fecha": "2026-10-20",
@@ -7560,10 +7560,10 @@
   "max": 7125
  },
  "Cartier WSSA0029|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-28",
   "consulta": "Cartier WSSA0029",
-  "n": 8,
-  "mediana": 7752,
+  "n": 9,
+  "mediana": 7750,
   "p25": 7525,
   "p75": 8346,
   "min": 6460,
@@ -7760,10 +7760,10 @@
   "max": 2849
  },
  "Tudor 25827KN|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-28",
   "consulta": "Tudor 25827KN",
-  "n": 6,
-  "mediana": 4497,
+  "n": 7,
+  "mediana": 4695,
   "p25": 4265,
   "p75": 4999,
   "min": 4250,
@@ -13763,5 +13763,45 @@
   "p75": 3280,
   "min": 2800,
   "max": 4269
+ },
+ "Omega 212.30.44.50.03.001|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Omega 212.30.44.50.03.001",
+  "n": 3,
+  "mediana": 4800,
+  "p25": 4250,
+  "p75": 5397,
+  "min": 4250,
+  "max": 5397
+ },
+ "Breitling E75362|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Breitling E75362",
+  "n": 1,
+  "mediana": 4100,
+  "p25": 4100,
+  "p75": 4100,
+  "min": 4100,
+  "max": 4100
+ },
+ "TAG Heuer CAR2A91|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "TAG Heuer CAR2A91",
+  "n": 1,
+  "mediana": 3500,
+  "p25": 3500,
+  "p75": 3500,
+  "min": 3500,
+  "max": 3500
+ },
+ "TAG Heuer CV2A12|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "TAG Heuer CV2A12",
+  "n": 3,
+  "mediana": 3995,
+  "p25": 3995,
+  "p75": 3995,
+  "min": 3995,
+  "max": 3995
  }
 }
