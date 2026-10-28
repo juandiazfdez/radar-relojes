@@ -1,63 +1,6 @@
 [
  {
   "fecha": "2026-10-26T21:06:34.008677+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Solo 3169 W5200003 Large  Size Stainless Steel 27MM",
-  "total": 2995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/900043003143",
-  "item_id": "v1|900043003143|0",
-  "referencia": "3169",
-  "mercado": {
-   "n": 12,
-   "p25": 3265,
-   "mediana": 3458
-  },
-  "ratio_mercado": 0.917,
-  "motivo": "precio normal (92 % del cuartil bajo de 3169)"
- },
- {
-  "fecha": "2026-10-26T21:06:34.008677+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay 41mm Stainless Steel/Yellow Gold M79733N-0008",
-  "total": 6495.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880054298063",
-  "item_id": "v1|880054298063|0",
-  "referencia": "M79733N-0008",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay 41 Steel & Yellow Gold (Black Bay S&G)",
-   "referencia": "M79733N-0008",
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "Precio pedido de 6495 USD está muy por encima del valor de mercado para esta referencia nueva con caja y papeles; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de 6495 USD está muy por encima del valor de mercado para esta referencia nueva con caja y papeles; no es una oportunidad. (justo 4500)"
- },
- {
-  "fecha": "2026-10-26T21:06:34.008677+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor 28600 Day Date Automatic 41mm Stainless Steel Full Kit",
-  "total": 2609.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/327425126053",
-  "item_id": "v1|327425126053|0",
-  "referencia": "28600",
-  "mercado": {
-   "n": 10,
-   "p25": 2747,
-   "mediana": 2850
-  },
-  "ratio_mercado": 0.95,
-  "motivo": "precio normal (95 % del cuartil bajo de 28600)"
- },
- {
-  "fecha": "2026-10-26T21:06:34.008677+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay Fifty-Eight 925, \"SILVER\" Box & Papers, 39mm, M79010SG",
   "total": 3950.0,
@@ -11483,5 +11426,62 @@
    "nota": "Caja de oro 9K (no 18K) y calibre 552, de cuerda manual en la mayoría de casos, no automático como indica el título; US$1500 está muy por encima del valor de mercado."
   },
   "motivo": "triage: Caja de oro 9K (no 18K) y calibre 552, de cuerda manual en la mayoría de casos, no automático como indica el título; US$1500 está muy por encima del valor de mercado. (justo 650)"
+ },
+ {
+  "fecha": "2026-10-28T00:07:27.365025+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Carrera Men's Black Watch - Calibre 5 Automatic",
+  "total": 1495.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800845996373",
+  "item_id": "v1|800845996373|0",
+  "triage": {
+   "modelo": "TAG Heuer Carrera Calibre 5 Automatic (esfera negra, fecha a las 3)",
+   "referencia": "WV211A (probable, no verificable en la foto)",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Precio unos 40-50 % por debajo del mercado de usados para este modelo, lo que es señal típica de réplica o pieza incompleta. Pedir fotos del movimiento, número de serie, caja y papeles antes de considerar."
+  },
+  "motivo": "triage: Precio unos 40-50 % por debajo del mercado de usados para este modelo, lo que es señal típica de réplica o pieza incompleta. Pedir fotos del movimiento, número de serie, caja y papeles antes de considerar. (justo 2600)"
+ },
+ {
+  "fecha": "2026-10-28T00:07:27.365025+00:00",
+  "marca": "Jaeger-LeCoultre",
+  "titulo": "1938 Vintage Rare Jaeger LeCoultre Chronograph watch Only 1 left in existence!",
+  "total": 125000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128159866934",
+  "item_id": "v1|128159866934|0",
+  "triage": {
+   "modelo": "Jaeger-LeCoultre cronógrafo vintage de oro amarillo, caja tipo cojín, esfera negra con subesferas (aprox. años 1930-40)",
+   "referencia": null,
+   "precio_justo_usd": 35000,
+   "interesante": false,
+   "nota": "Precio pedido muy superior al valor de mercado; el año 1938 y la rareza 'única' no son verificables en las fotos y el listado parece hype, no evidencia de autenticidad."
+  },
+  "motivo": "triage: Precio pedido muy superior al valor de mercado; el año 1938 y la rareza 'única' no son verificables en las fotos y el listado parece hype, no evidencia de autenticidad. (justo 35000)"
+ },
+ {
+  "fecha": "2026-10-28T00:07:27.365025+00:00",
+  "marca": "IWC",
+  "titulo": "IWC Portofino Hand-Wound Eight Days IW510116",
+  "total": 9000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206658561338",
+  "item_id": "v1|206658561338|0",
+  "referencia": "IW510116",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "IWC Portofino Hand-Wound Eight Days (esfera azul, brazalete de malla milanesa, acero)",
+   "referencia": "IW510116",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Precio pedido de 9000 USD muy por encima del valor de mercado de segunda mano para esta referencia; la identificación se basa en una imagen pequeña."
+  },
+  "motivo": "triage: Precio pedido de 9000 USD muy por encima del valor de mercado de segunda mano para esta referencia; la identificación se basa en una imagen pequeña. (justo 5000)"
  }
 ]
