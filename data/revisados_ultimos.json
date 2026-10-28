@@ -1,164 +1,5 @@
 [
  {
-  "fecha": "2026-10-27T17:52:19.065209+00:00",
-  "marca": "Breitling",
-  "titulo": "Used Breitling Chronomat Colt A17388 Automatic 44mm",
-  "total": 1995.95,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147654182780",
-  "item_id": "v1|147654182780|0",
-  "referencia": "A17388",
-  "mercado": {
-   "n": 9,
-   "p25": 2200,
-   "mediana": 2265
-  },
-  "ratio_mercado": 0.907,
-  "motivo": "precio normal (91 % del cuartil bajo de A17388)"
- },
- {
-  "fecha": "2026-10-27T17:52:19.065209+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling SuperOcean Heritage Chronograph 44 Green Steel Mesh Bracelet A13313",
-  "total": 6520.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128159606269",
-  "item_id": "v1|128159606269|0",
-  "referencia": "A13313",
-  "mercado": {
-   "n": 7,
-   "p25": 4000,
-   "mediana": 4310
-  },
-  "ratio_mercado": 1.63,
-  "motivo": "precio normal (163 % del cuartil bajo de A13313)"
- },
- {
-  "fecha": "2026-10-27T17:52:19.065209+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "Tag Heuer 41MM Formula One WAZ111A.BA0875 Alarm Box Tag Warranty Serviced MINT",
-  "total": 999.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960123284621",
-  "item_id": "v1|960123284621|0",
-  "referencia": "WAZ111A.BA0875",
-  "mercado": {
-   "n": 1,
-   "p25": 1000,
-   "mediana": 1000
-  },
-  "triage": {
-   "modelo": "TAG Heuer Formula 1 41 mm, cuarzo, esfera negra, brazalete de acero",
-   "referencia": "WAZ1110.BA0875 (el listado indica WAZ111A.BA0875, posible error tipográfico)",
-   "precio_justo_usd": 450,
-   "interesante": false,
-   "nota": "Modelo de cuarzo de producción actual; usado se vende hoy en torno a 400-500 USD, y US$999 está muy por encima del precio real de mercado."
-  },
-  "motivo": "triage: Modelo de cuarzo de producción actual; usado se vende hoy en torno a 400-500 USD, y US$999 está muy por encima del precio real de mercado. (justo 450)"
- },
- {
-  "fecha": "2026-10-27T18:07:18.331101+00:00",
-  "marca": "Rolex",
-  "titulo": "New Rolex Datejust 41 126331 Gray Roman Sunburst Fluted Two-Tone  Wimbledon gold",
-  "total": 19900.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/267825442689",
-  "item_id": "v1|267825442689|0",
-  "referencia": "126331",
-  "mercado": {
-   "n": 55,
-   "p25": 20395,
-   "mediana": 21999
-  },
-  "ratio_mercado": 0.976,
-  "motivo": "precio normal (98 % del cuartil bajo de 126331)"
- },
- {
-  "fecha": "2026-10-27T18:07:18.331101+00:00",
-  "marca": "Rolex",
-  "titulo": "1999 Rolex Submariner Date 16610 Men's Automatic 40mm Watch w/ Box - Serviced",
-  "total": 8800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940046128032",
-  "item_id": "v1|940046128032|0",
-  "referencia": "16610",
-  "mercado": {
-   "n": 79,
-   "p25": 9878,
-   "mediana": 10395
-  },
-  "ratio_mercado": 0.891,
-  "motivo": "precio normal (89 % del cuartil bajo de 16610)"
- },
- {
-  "fecha": "2026-10-27T18:07:18.331101+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Pasha De Cartier Automatic 38mm Stainless Steel Watch Eb1026lexzde",
-  "total": 3000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920079841550",
-  "item_id": "v1|920079841550|0",
-  "triage": {
-   "modelo": "Cartier Pasha de Cartier Automatic 38 mm, acero, esfera plateada con subesferas, correa azul (identificación visual, no confirmada)",
-   "referencia": null,
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "La referencia del título (EB1026LEXZDE) no coincide con el formato habitual de Cartier; verificar número de referencia y autenticidad antes de comprar. Precio dentro del rango de mercado, sin descuento suficiente."
-  },
-  "motivo": "triage: La referencia del título (EB1026LEXZDE) no coincide con el formato habitual de Cartier; verificar número de referencia y autenticidad antes de comprar. Precio dentro del rango de mercado, sin descuento suficiente. (justo 3200)"
- },
- {
-  "fecha": "2026-10-27T18:07:18.331101+00:00",
-  "marca": "Omega",
-  "titulo": "2022 Omega Speedmaster Moonwatch 310.30.42.50.01.002 Sapphire Sandwich 42mm B&P",
-  "total": 6295.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840066138125",
-  "item_id": "v1|840066138125|0",
-  "referencia": "310.30.42.50.01.002",
-  "mercado": {
-   "n": 37,
-   "p25": 7200,
-   "mediana": 7370
-  },
-  "ratio_mercado": 0.874,
-  "motivo": "precio normal (87 % del cuartil bajo de 310.30.42.50.01.002)"
- },
- {
-  "fecha": "2026-10-27T18:07:18.331101+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Diver 300M Chronograph 44mm 210.32.44.51.01.001 Box Papers",
-  "total": 6300.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287684875716",
-  "item_id": "v1|287684875716|0",
-  "referencia": "210.32.44.51.01.001",
-  "mercado": {
-   "n": 8,
-   "p25": 6500,
-   "mediana": 6662
-  },
-  "ratio_mercado": 0.969,
-  "motivo": "precio normal (97 % del cuartil bajo de 210.32.44.51.01.001)"
- },
- {
-  "fecha": "2026-10-27T18:07:18.331101+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Speedmaster Apollo 8 Dark Side of the Moon 311.92.44.30.01.001 Men's 44mm",
-  "total": 8900.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287684873723",
-  "item_id": "v1|287684873723|0",
-  "referencia": "311.92.44.30.01.001",
-  "mercado": {
-   "n": 25,
-   "p25": 9250,
-   "mediana": 10006
-  },
-  "ratio_mercado": 0.962,
-  "motivo": "precio normal (96 % del cuartil bajo de 311.92.44.30.01.001)"
- },
- {
   "fecha": "2026-10-27T18:07:18.331101+00:00",
   "marca": "Omega",
   "titulo": "Vintage Omega Seamaster Ref. 2828-5 SC 14k Gold Filled Cal. 470 OEM Omega Tang",
@@ -11384,5 +11225,182 @@
    "nota": "Precio pedido por encima del mercado secundario para esta referencia nueva con caja y papeles; no hay descuento frente a lo que se vende hoy."
   },
   "motivo": "triage: Precio pedido por encima del mercado secundario para esta referencia nueva con caja y papeles; no hay descuento frente a lo que se vende hoy. (justo 3700)"
+ },
+ {
+  "fecha": "2026-10-28T18:52:59.633584+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Ref 1625 Turn-O-Graph Thunderbird 18k SS 1960s Mens 36mm Automatic RA669S",
+  "total": 9800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267826488690",
+  "item_id": "v1|267826488690|0",
+  "triage": {
+   "modelo": "Rolex Datejust Turn-O-Graph (Thunderbird) de acero, años 1960-70, 36 mm, automático",
+   "referencia": "1625",
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta cerrada estimado. El título menciona 'RA669S' y '18k SS', que no son datos normales para esta referencia; verificar autenticidad, esfera y papeles antes de considerar la compra."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado. El título menciona 'RA669S' y '18k SS', que no son datos normales para esta referencia; verificar autenticidad, esfera y papeles antes de considerar la compra. (justo 7000)"
+ },
+ {
+  "fecha": "2026-10-28T18:52:59.633584+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sky-Dweller Yellow Gold Oysterflex Mens Watch 326238 Box Card",
+  "total": 41830.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257822268190",
+  "item_id": "v1|257822268190|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller oro amarillo con Oysterflex, esfera blanca, bisel acanalado",
+   "referencia": "326238",
+   "precio_justo_usd": 39000,
+   "interesante": false,
+   "nota": "Precio pedido de US$41.830 está por encima del valor de venta cerrada estimado para esta referencia con caja y tarjeta; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido de US$41.830 está por encima del valor de venta cerrada estimado para esta referencia con caja y tarjeta; no hay descuento suficiente. (justo 39000)"
+ },
+ {
+  "fecha": "2026-10-28T18:52:59.633584+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1989 Rolex Lady Datejust 69173 Two-Tone Champagne Tapestry Auto 26mm",
+  "total": 7699.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128161379322",
+  "item_id": "v1|128161379322|0",
+  "referencia": "69173",
+  "mercado": {
+   "n": 23,
+   "p25": 4259,
+   "mediana": 4778
+  },
+  "ratio_mercado": 1.808,
+  "motivo": "precio normal (181 % del cuartil bajo de 69173)"
+ },
+ {
+  "fecha": "2026-10-28T18:52:59.633584+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Fifty-Eight 39mm Yellow Gold Auto Green Watch 79018V",
+  "total": 12000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287687679725",
+  "item_id": "v1|287687679725|0",
+  "referencia": "79018V",
+  "mercado": {
+   "n": 2,
+   "p25": 13450,
+   "mediana": 13850
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay Fifty-Eight 39mm, esfera y bisel verdes",
+   "referencia": "79018V según el título; la foto parece la variante de bronce M79012M",
+   "precio_justo_usd": 8500,
+   "interesante": false,
+   "nota": "El título dice oro amarillo de 18k, pero la caja de la foto parece bronce, así que la referencia no cuadra. Aun como oro de 18k, US$12.000 queda muy por encima del mercado de segunda mano; como bronce sería mucho más."
+  },
+  "motivo": "triage: El título dice oro amarillo de 18k, pero la caja de la foto parece bronce, así que la referencia no cuadra. Aun como oro de 18k, US$12.000 queda muy por encima del mercado de segunda mano; como bronce sería mucho más. (justo 8500)"
+ },
+ {
+  "fecha": "2026-10-28T18:52:59.633584+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 58 925 39mm Sterling Silver M79010SG-0001",
+  "total": 4395.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880059681972",
+  "item_id": "v1|880059681972|0",
+  "referencia": "M79010SG-0001",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 58 925 (plata esterlina)",
+   "referencia": "M79010SG-0001",
+   "precio_justo_usd": 3700,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de reventa estimado para un BB58 925 nuevo con caja y papeles; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de reventa estimado para un BB58 925 nuevo con caja y papeles; no hay descuento suficiente. (justo 3700)"
+ },
+ {
+  "fecha": "2026-10-28T18:52:59.633584+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster 300 Unit Watch",
+  "total": 15100.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198752732309",
+  "item_id": "v1|198752732309|0",
+  "triage": {
+   "modelo": "Omega Seamaster Diver 300M (posible 007 / línea moderna, esfera negra)",
+   "referencia": "210.32.42.20.01.001 (probable, no verificable en la foto)",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "Precio pedido muy superior al valor de mercado para un Seamaster 300 moderno usado; el título 'Unit Watch' es confuso y no se ven caja ni papeles."
+  },
+  "motivo": "triage: Precio pedido muy superior al valor de mercado para un Seamaster 300 moderno usado; el título 'Unit Watch' es confuso y no se ven caja ni papeles. (justo 4300)"
+ },
+ {
+  "fecha": "2026-10-28T18:52:59.633584+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA SEAMASTER PROFESSIONAL 2531.80 MENS DIVE WATCH 1997 James Bond era -b427",
+  "total": 4200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287687667095",
+  "item_id": "v1|287687667095|0",
+  "referencia": "2531.80",
+  "mercado": {
+   "n": 4,
+   "p25": 4305,
+   "mediana": 4305
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Professional 300M (acero y oro amarillo, bisel bicolor, esfera azul, brazalete de eslabones)",
+   "referencia": "2531.80",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio pedido de US$4200 queda bastante por encima del valor de venta cerrada para estado 'Good' de 1997; la mención 'James Bond era' no añade prima real y no se ven papeles ni caja."
+  },
+  "motivo": "triage: Precio pedido de US$4200 queda bastante por encima del valor de venta cerrada para estado 'Good' de 1997; la mención 'James Bond era' no añade prima real y no se ven papeles ni caja. (justo 3000)"
+ },
+ {
+  "fecha": "2026-10-28T18:52:59.633584+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Chronomat Automatic GMT 40 A32398101A1A1",
+  "total": 4465.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227587542185",
+  "item_id": "v1|227587542185|0",
+  "referencia": "A32398101A1A1",
+  "mercado": {
+   "n": 4,
+   "p25": 4500,
+   "mediana": 4575
+  },
+  "triage": {
+   "modelo": "Breitling Chronomat Automatic GMT 40 (esfera blanca, brazalete de acero)",
+   "referencia": "A32398101A1A1",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Esfera blanca y GMT coinciden con la referencia. Precio pedido solo ~11% bajo el estimado de venta real; no alcanza el umbral del 15 %. Sin datos de caja ni papeles."
+  },
+  "motivo": "triage: Esfera blanca y GMT coinciden con la referencia. Precio pedido solo ~11% bajo el estimado de venta real; no alcanza el umbral del 15 %. Sin datos de caja ni papeles. (justo 5000)"
+ },
+ {
+  "fecha": "2026-10-28T18:52:59.633584+00:00",
+  "marca": "IWC",
+  "titulo": "IWC Pilot’s Watch Mark XVIII Edition “Le Petit Prince” Ref. IW327010 Full Set",
+  "total": 5070.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840069267188",
+  "item_id": "v1|840069267188|0",
+  "referencia": "IW327010",
+  "mercado": {
+   "n": 5,
+   "p25": 4250,
+   "mediana": 4325
+  },
+  "ratio_mercado": 1.193,
+  "motivo": "precio normal (119 % del cuartil bajo de IW327010)"
  }
 ]

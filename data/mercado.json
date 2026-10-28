@@ -12605,13 +12605,13 @@
   "max": 6495
  },
  "Breitling A32398|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-28",
   "consulta": "Breitling A32398",
-  "n": 3,
-  "mediana": 4650,
+  "n": 4,
+  "mediana": 4575,
   "p25": 4500,
   "p75": 4800,
-  "min": 4500,
+  "min": 4373,
   "max": 4800
  },
  "Rolex 116681|usado": {
@@ -14608,5 +14608,30 @@
   "p75": 6245,
   "min": 4995,
   "max": 10194
+ },
+ "Tudor 79018V|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Tudor 79018V",
+  "n": 2,
+  "mediana": 13850,
+  "p25": 13450,
+  "p75": 14250,
+  "min": 13450,
+  "max": 14250
+ },
+ "Tudor M79010SG|nuevo": {
+  "fecha": "2026-10-28",
+  "consulta": "Tudor M79010SG",
+  "n": 0
+ },
+ "IWC IW327010|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "IWC IW327010",
+  "n": 5,
+  "mediana": 4325,
+  "p25": 4250,
+  "p75": 4420,
+  "min": 4000,
+  "max": 4497
  }
 }
