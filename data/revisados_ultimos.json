@@ -1,80 +1,5 @@
 [
  {
-  "fecha": "2026-10-27T13:22:06.735454+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Navitimer Chrono-Matic 1806 Caliber 11 48mm Spiegelei Vintage Pilot",
-  "total": 3145.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267825206832",
-  "item_id": "v1|267825206832|0",
-  "triage": {
-   "modelo": "Breitling Navitimer Chrono-Matic 1806 (Caliber 11), esfera negra con contadores 'huevo frito' plateados, vintage años 70",
-   "referencia": "1806",
-   "precio_justo_usd": 4800,
-   "interesante": true,
-   "nota": "Precio 34% bajo el valor estimado para estado Good sin papeles confirmados; verificar autenticidad, esfera original, funcionamiento y estado del servicio antes de comprar."
-  },
-  "referencia": "11525/67, 1806",
-  "motivo": "vendedor 96.8 % positivo"
- },
- {
-  "fecha": "2026-10-27T13:22:06.735454+00:00",
-  "marca": "Jaeger-LeCoultre",
-  "titulo": "Vintage 10K GFLecoultre Futurematic 497 In great working condition.JUST SERVICED",
-  "total": 3345.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287684194321",
-  "item_id": "v1|287684194321|0",
-  "triage": {
-   "modelo": "Jaeger-LeCoultre Futurematic vintage chapado en oro 10K (GF), esfera negra con subesferas",
-   "referencia": "497 (según el título; no verificable en la imagen)",
-   "precio_justo_usd": 1200,
-   "interesante": false,
-   "nota": "Vintage chapado en oro de los años 50-60; se vende normalmente entre 900 y 1500 USD. El precio pedido de 3345 USD está muy por encima del valor de mercado."
-  },
-  "motivo": "triage: Vintage chapado en oro de los años 50-60; se vende normalmente entre 900 y 1500 USD. El precio pedido de 3345 USD está muy por encima del valor de mercado. (justo 1200)"
- },
- {
-  "fecha": "2026-10-27T13:37:07.107201+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Seamaster Quartz 14K Gold Rare 196.0134 / 396.0873 Vintage Genta Royal Oak",
-  "total": 1825.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147652633812",
-  "item_id": "v1|147652633812|0",
-  "triage": {
-   "modelo": "Omega Seamaster Quartz bicolor (acero y oro) de los años 80-90, esfera dorada",
-   "referencia": "396.0873 / 196.0134 (según título, no verificable en la foto)",
-   "precio_justo_usd": 650,
-   "interesante": false,
-   "nota": "El título es engañoso: 'Royal Oak' y 'Genta' son de Audemars Piguet, no de Omega. El 'oro 14K' probablemente sea solo en bisel o chapa; a US$1825 está muy por encima del mercado."
-  },
-  "motivo": "triage: El título es engañoso: 'Royal Oak' y 'Genta' son de Audemars Piguet, no de Omega. El 'oro 14K' probablemente sea solo en bisel o chapa; a US$1825 está muy por encima del mercado. (justo 650)"
- },
- {
-  "fecha": "2026-10-27T13:37:07.107201+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer WAH1113.BA0858 Mens Formula 1 Series Professional Khaki Green Watch",
-  "total": 1095.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377601151577",
-  "item_id": "v1|377601151577|0",
-  "referencia": "WAH1113.BA0858",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "TAG Heuer Formula 1 Khaki Green (cuarzo, acero, 41 mm)",
-   "referencia": "WAH1113.BA0858",
-   "precio_justo_usd": 350,
-   "interesante": false,
-   "nota": "Formula 1 de cuarzo de acero de uso; se vende en torno a 250-400 USD. El precio pedido de 1095 USD está muy por encima del mercado."
-  },
-  "motivo": "triage: Formula 1 de cuarzo de acero de uso; se vende en torno a 250-400 USD. El precio pedido de 1095 USD está muy por encima del mercado. (justo 350)"
- },
- {
   "fecha": "2026-10-27T13:52:07.425157+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual Date 1501 Vintage 1960s Steel Riveted Oyster Bracelet",
@@ -11413,5 +11338,85 @@
   },
   "ratio_justo": 1.051,
   "motivo": "precio normal segun revision (105 % del justo 3800)"
+ },
+ {
+  "fecha": "2026-10-28T12:52:48.572568+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date OysterQuartz Pyramid 19028",
+  "total": 50000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920082108773",
+  "item_id": "v1|920082108773|0",
+  "referencia": "19028",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Day-Date 36 oro amarillo 18k, bisel acanalado, esfera champán con numerales romanos, brazalete President (la foto no coincide con el OysterQuartz Pyramid del título)",
+   "referencia": "18238 (probable, según la foto; el título indica 19028)",
+   "precio_justo_usd": 30000,
+   "interesante": false,
+   "nota": "El título (19028, OysterQuartz Pyramid) no coincide con lo que muestra la foto (brazalete President, esfera romana). Aun con la referencia más cara, US$50.000 supera el valor de mercado; verificar referencia, papeles y autenticidad antes de cualquier oferta."
+  },
+  "motivo": "triage: El título (19028, OysterQuartz Pyramid) no coincide con lo que muestra la foto (brazalete President, esfera romana). Aun con la referencia más cara, US$50.000 supera el valor de mercado; verificar referencia, papeles y autenticidad antes de cualquier oferta. (justo 30000)"
+ },
+ {
+  "fecha": "2026-10-28T12:52:48.572568+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Large ADLC WSSA0037",
+  "total": 7750.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267826123434",
+  "item_id": "v1|267826123434|0",
+  "referencia": "WSSA0037",
+  "mercado": {
+   "n": 9,
+   "p25": 7995,
+   "mediana": 8500
+  },
+  "ratio_mercado": 0.969,
+  "motivo": "precio normal (97 % del cuartil bajo de WSSA0037)"
+ },
+ {
+  "fecha": "2026-10-28T12:52:48.572568+00:00",
+  "marca": "Omega",
+  "titulo": "Vintage Omega Seamaster 166.010 Automatic Watch Beads of Rice Bracelet 511",
+  "total": 1259.98,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336867265511",
+  "item_id": "v1|336867265511|0",
+  "triage": {
+   "modelo": "Omega Seamaster Automatic (vintage, años 60-70), con brazalete Beads of Rice 511",
+   "referencia": "166.010 (según el título; no verificable con certeza en la foto)",
+   "precio_justo_usd": 1000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta cerrada estimado para esta referencia en estado bueno; no hay descuento suficiente para considerarlo oportunidad."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para esta referencia en estado bueno; no hay descuento suficiente para considerarlo oportunidad. (justo 1000)"
+ },
+ {
+  "fecha": "2026-10-28T12:52:48.572568+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA 2501.31 seamaster Automatic Chronometer",
+  "total": 2249.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128160884523",
+  "item_id": "v1|128160884523|0",
+  "referencia": "2501.31",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Automatic Chronometer (esfera plateada ondulada, fecha a las 3)",
+   "referencia": "2501.31",
+   "precio_justo_usd": 1800,
+   "interesante": false,
+   "nota": "Precio pedido de 2249 USD está por encima del valor de venta cerrada estimado para esta referencia de acero usada en estado Good; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido de 2249 USD está por encima del valor de venta cerrada estimado para esta referencia de acero usada en estado Good; no hay descuento suficiente. (justo 1800)"
  }
 ]

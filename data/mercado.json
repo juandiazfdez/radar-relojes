@@ -840,13 +840,13 @@
   "max": 9470
  },
  "Cartier WSSA0037|usado": {
-  "fecha": "2026-10-20",
+  "fecha": "2026-10-28",
   "consulta": "Cartier WSSA0037",
-  "n": 8,
-  "mediana": 8462,
+  "n": 9,
+  "mediana": 8500,
   "p25": 7995,
   "p75": 8950,
-  "min": 7134,
+  "min": 7032,
   "max": 20094
  },
  "TAG Heuer CAF7110|nuevo": {
@@ -4015,7 +4015,7 @@
   "max": 6300
  },
  "Omega 2501.31|usado": {
-  "fecha": "2026-10-21",
+  "fecha": "2026-10-28",
   "consulta": "Omega 2501.31",
   "n": 0
  },
@@ -14183,5 +14183,10 @@
   "p75": 4014,
   "min": 2450,
   "max": 4014
+ },
+ "Rolex 19028|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Rolex 19028",
+  "n": 0
  }
 }
