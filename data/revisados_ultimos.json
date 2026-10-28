@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-10-27T21:22:18.282795+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Planet Ocean Stainless Steel Watch 217.32.42.21.01.001",
-  "total": 7000.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/407320659364",
-  "item_id": "v1|407320659364|0",
-  "referencia": "217.32.42.21.01.001",
-  "mercado": {
-   "n": 3,
-   "p25": 7568,
-   "mediana": 7595
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Planet Ocean 600M (acero, esfera negra, bisel cerámica negro, correa de caucho)",
-   "referencia": "217.32.42.21.01.001",
-   "precio_justo_usd": 4400,
-   "interesante": false,
-   "nota": "Pedido de US$7000 supera el retail actual (~US$6200) y el precio de mercado nuevo con caja y papeles ronda los US$4400-4800; sobrepagado."
-  },
-  "motivo": "triage: Pedido de US$7000 supera el retail actual (~US$6200) y el precio de mercado nuevo con caja y papeles ronda los US$4400-4800; sobrepagado. (justo 4400)"
- },
- {
-  "fecha": "2026-10-27T21:22:18.282795+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Speedmaster Dark Side of the Moon 311.92.44.51.01.003",
-  "total": 8599.98,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128159808820",
-  "item_id": "v1|128159808820|0",
-  "referencia": "311.92.44.51.01.003",
-  "mercado": {
-   "n": 11,
-   "p25": 7665,
-   "mediana": 7920
-  },
-  "ratio_mercado": 1.122,
-  "motivo": "precio normal (112 % del cuartil bajo de 311.92.44.51.01.003)"
- },
- {
   "fecha": "2026-10-27T21:37:18.043045+00:00",
   "marca": "Rolex",
   "titulo": "2022 PAPERS Rolex Submariner Date 41mm Black Ceramic 126610LN Watch BOX",
@@ -11374,5 +11334,45 @@
    "nota": "Precio 30 % bajo mercado para un modelo nuevo con caja y papeles; es una señal de alerta de replica o listado engañoso. Verificar número de serie, autenticidad y vendedor antes de comprar."
   },
   "motivo": "triage: Precio 30 % bajo mercado para un modelo nuevo con caja y papeles; es una señal de alerta de replica o listado engañoso. Verificar número de serie, autenticidad y vendedor antes de comprar. (justo 1900)"
+ },
+ {
+  "fecha": "2026-10-28T22:38:11.173593+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Ceramic 79210CNU-0001 – Never Worn – 2026 - Complete Set",
+  "total": 4550.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/860093115637",
+  "item_id": "v1|860093115637|0",
+  "triage": {
+   "modelo": "Tudor Black Bay Ceramic (caja negra, bisel cerámico negro, esfera negra con lume)",
+   "referencia": "79210CNU-0001 (según el título; no verificable en la foto)",
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "Precio pedido de US$4550 con envío supera el valor de venta secundaria de un Black Bay Ceramic nuevo con caja y papeles; la correa de tela de la foto no coincide con el brazalete o correa original, conviene verificar."
+  },
+  "motivo": "triage: Precio pedido de US$4550 con envío supera el valor de venta secundaria de un Black Bay Ceramic nuevo con caja y papeles; la correa de tela de la foto no coincide con el brazalete o correa original, conviene verificar. (justo 3900)"
+ },
+ {
+  "fecha": "2026-10-28T22:38:11.173593+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling A23310121G1X1 Premier Top Time Limited Edition \"Zorro\" Full Kit",
+  "total": 4600.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227587741233",
+  "item_id": "v1|227587741233|0",
+  "referencia": "A23310121G1X1",
+  "mercado": {
+   "n": 3,
+   "p25": 3999,
+   "mediana": 5300
+  },
+  "triage": {
+   "modelo": "Breitling Top Time Limited Edition \"Zorro\" (cronógrafo, esfera blanca con subesferas negra y roja)",
+   "referencia": "A23310121G1X1",
+   "precio_justo_usd": 4200,
+   "interesante": false,
+   "nota": "Precio pedido de US$4600 está unos 9 % por encima de una estimación conservadora de venta real con kit completo; no hay descuento suficiente para considerarlo oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$4600 está unos 9 % por encima de una estimación conservadora de venta real con kit completo; no hay descuento suficiente para considerarlo oportunidad. (justo 4200)"
  }
 ]
