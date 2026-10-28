@@ -3285,10 +3285,10 @@
   "max": 3650
  },
  "Rolex 134300|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-28",
   "consulta": "Rolex 134300",
-  "n": 19,
-  "mediana": 12780,
+  "n": 20,
+  "mediana": 12632,
   "p25": 11900,
   "p75": 14076,
   "min": 10050,
@@ -12235,7 +12235,7 @@
   "max": 4995
  },
  "Omega 2599.80|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-28",
   "consulta": "Omega 2599.80",
   "n": 4,
   "mediana": 3318,
@@ -13703,5 +13703,40 @@
   "p75": 5999,
   "min": 5045,
   "max": 6879
+ },
+ "Tudor 79360RB|nuevo": {
+  "fecha": "2026-10-28",
+  "consulta": "Tudor 79360RB",
+  "n": 0
+ },
+ "Tudor 42000CR|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Tudor 42000CR",
+  "n": 3,
+  "mediana": 4770,
+  "p25": 4348,
+  "p75": 4875,
+  "min": 4348,
+  "max": 4875
+ },
+ "Omega 210.32.42.20.01.001|nuevo": {
+  "fecha": "2026-10-28",
+  "consulta": "Omega 210.32.42.20.01.001",
+  "n": 6,
+  "mediana": 5783,
+  "p25": 5590,
+  "p75": 5795,
+  "min": 5499,
+  "max": 5900
+ },
+ "Breitling A43030|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Breitling A43030",
+  "n": 3,
+  "mediana": 5000,
+  "p25": 4500,
+  "p75": 5500,
+  "min": 4500,
+  "max": 5500
  }
 }
