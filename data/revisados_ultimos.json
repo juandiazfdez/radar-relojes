@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-27T04:06:44.729732+00:00",
   "marca": "Omega",
-  "titulo": "1940's OMEGA Tank Wristwatch - 950 Platinum Case + Backing - R 17.8 17J - RARE!",
-  "total": 17520.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206652914695",
-  "item_id": "v1|206652914695|0",
-  "triage": {
-   "modelo": "Omega Tank vintage (años 1940), caja de platino 950, movimiento calibre 17.8 de 17 rubíes",
-   "referencia": null,
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "Precio pedido muy superior al valor de venta real; verificar marcas de platino 950 y estado del movimiento antes de cualquier oferta."
-  },
-  "motivo": "triage: Precio pedido muy superior al valor de venta real; verificar marcas de platino 950 y estado del movimiento antes de cualquier oferta. (justo 4500)"
- },
- {
-  "fecha": "2026-10-27T04:06:44.729732+00:00",
-  "marca": "Omega",
   "titulo": "Omega Constellation Globemaster Piepan Co-axial Watch 39mm 130.33.39.21.03.001",
   "total": 8700.0,
   "condicion": "New with box and papers",
@@ -11520,5 +11503,22 @@
    "nota": "Precio pedido de US$4645 con envío supera con holgura el valor de venta real de esta referencia usada en EE. UU., incluso con caja y papeles."
   },
   "motivo": "triage: Precio pedido de US$4645 con envío supera con holgura el valor de venta real de esta referencia usada en EE. UU., incluso con caja y papeles. (justo 3100)"
+ },
+ {
+  "fecha": "2026-10-28T11:22:48.170395+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ronde Solo 36mm Mens Quartz Watch - Yellow Gold / Steel -  W6700455 2988",
+  "total": 4500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900046817928",
+  "item_id": "v1|900046817928|0",
+  "referencia": "W6700455",
+  "mercado": {
+   "n": 6,
+   "p25": 4300,
+   "mediana": 4870
+  },
+  "ratio_mercado": 1.047,
+  "motivo": "precio normal (105 % del cuartil bajo de W6700455)"
  }
 ]
