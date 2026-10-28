@@ -1,51 +1,5 @@
 [
  {
-  "fecha": "2026-10-27T21:52:18.274502+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "Tag Heuer Monaco Chronograph Caliber 11 39mm FACTORY SERVICED CAW211P.FC6356",
-  "total": 6469.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117490722993",
-  "item_id": "v1|117490722993|0",
-  "referencia": "CAW211P.FC6356",
-  "mercado": {
-   "n": 1,
-   "p25": 6295,
-   "mediana": 6295
-  },
-  "triage": {
-   "modelo": "TAG Heuer Monaco Calibre 11 39mm acero, esfera azul, cronógrafo automático",
-   "referencia": "CAW211P.FC6356",
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "Precio pedido por encima de lo que se vende este modelo usado en estado Good; el precio de tienda es superior y no hay caja ni papeles mencionados."
-  },
-  "motivo": "triage: Precio pedido por encima de lo que se vende este modelo usado en estado Good; el precio de tienda es superior y no hay caja ni papeles mencionados. (justo 4300)"
- },
- {
-  "fecha": "2026-10-27T21:52:18.274502+00:00",
-  "marca": "Jaeger-LeCoultre",
-  "titulo": "Jaeger-LeCoultre Master Ultra Thin Power Reserve - Q1378421 2025 Box and Papers",
-  "total": 10500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128159856514",
-  "item_id": "v1|128159856514|0",
-  "referencia": "Q1378421",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Jaeger-LeCoultre Master Ultra Thin Power Reserve (esfera plateada, caja de acero, correa de cocodrilo negra)",
-   "referencia": "Q1378421",
-   "precio_justo_usd": 7800,
-   "interesante": false,
-   "nota": "Precio pedido por encima del retail aproximado para esta referencia de acero; el valor de reventa con caja y papeles de 2025 ronda los 7.800 USD."
-  },
-  "motivo": "triage: Precio pedido por encima del retail aproximado para esta referencia de acero; el valor de reventa con caja y papeles de 2025 ronda los 7.800 USD. (justo 7800)"
- },
- {
   "fecha": "2026-10-27T22:07:18.027589+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Air King 40mm Oyster Perpetual Stainless Steel Automatic Watch 126900",
@@ -11361,5 +11315,39 @@
    "nota": "Precio cercano al mercado gris para un 1926 39 mm nuevo con caja y papeles; el título menciona esfera dorada, pero la foto muestra esfera blanca, conviene verificarlo."
   },
   "motivo": "triage: Precio cercano al mercado gris para un 1926 39 mm nuevo con caja y papeles; el título menciona esfera dorada, pero la foto muestra esfera blanca, conviene verificarlo. (justo 2400)"
+ },
+ {
+  "fecha": "2026-10-28T23:23:11.436015+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Solo XL Silver Roman Bracelet W5200028 Box/Papers/Card",
+  "total": 4000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880060054530",
+  "item_id": "v1|880060054530|0",
+  "referencia": "W5200028",
+  "mercado": {
+   "n": 6,
+   "p25": 3699,
+   "mediana": 3848
+  },
+  "ratio_mercado": 1.081,
+  "motivo": "precio normal (108 % del cuartil bajo de W5200028)"
+ },
+ {
+  "fecha": "2026-10-28T23:23:11.436015+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Ranger, 39mm, black dial, M79950-0001 Very Clean Full Set ",
+  "total": 2980.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287688053918",
+  "item_id": "v1|287688053918|0",
+  "referencia": "M79950-0001",
+  "mercado": {
+   "n": 5,
+   "p25": 2956,
+   "mediana": 3555
+  },
+  "ratio_mercado": 1.008,
+  "motivo": "precio normal (101 % del cuartil bajo de M79950-0001)"
  }
 ]
