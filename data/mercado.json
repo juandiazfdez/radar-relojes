@@ -14013,5 +14013,25 @@
   "fecha": "2026-10-28",
   "consulta": "Jaeger-LeCoultre Q6042520",
   "n": 0
+ },
+ "Cartier W2SA0009|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Cartier W2SA0009",
+  "n": 13,
+  "mediana": 10389,
+  "p25": 10180,
+  "p75": 12000,
+  "min": 9795,
+  "max": 12895
+ },
+ "Omega 3513.50|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Omega 3513.50",
+  "n": 3,
+  "mediana": 3100,
+  "p25": 2700,
+  "p75": 3500,
+  "min": 2700,
+  "max": 3500
  }
 }
