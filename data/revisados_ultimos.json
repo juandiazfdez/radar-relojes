@@ -1,214 +1,5 @@
 [
  {
-  "fecha": "2026-10-27T18:52:18.357967+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier 27mm Automatic Santos Octagon",
-  "total": 2539.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128159659109",
-  "item_id": "v1|128159659109|0",
-  "triage": {
-   "modelo": "Cartier Santos Octagon bicolor (acero y oro amarillo), esfera blanca con números romanos, correa de piel marrón",
-   "referencia": null,
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "Modelo Santos Octagon bicolor de 27 mm, estado Good sin caja ni papeles confirmados; el precio pedido de 2540 USD está por encima del rango de venta cerrada conservador y no cumple el umbral del 15 % por debajo."
-  },
-  "motivo": "triage: Modelo Santos Octagon bicolor de 27 mm, estado Good sin caja ni papeles confirmados; el precio pedido de 2540 USD está por encima del rango de venta cerrada conservador y no cumple el umbral del 15 % por debajo. (justo 2300)"
- },
- {
-  "fecha": "2026-10-27T18:52:18.357967+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 79030B Stainless Steel Mens Automatic Watch W/ Service Card",
-  "total": 3495.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257820716646",
-  "item_id": "v1|257820716646|0",
-  "referencia": "79030B",
-  "mercado": {
-   "n": 15,
-   "p25": 3495,
-   "mediana": 3590
-  },
-  "ratio_mercado": 1.0,
-  "motivo": "precio normal (100 % del cuartil bajo de 79030B)"
- },
- {
-  "fecha": "2026-10-27T18:52:18.357967+00:00",
-  "marca": "Omega",
-  "titulo": "Omega De Ville Prestige 39.5mm 18k White Gold Case Chronometer, #42453402104001",
-  "total": 7699.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880057073690",
-  "item_id": "v1|880057073690|0",
-  "triage": {
-   "modelo": "Omega De Ville Prestige 39.5 mm, oro blanco 18k, esfera plateada con números romanos",
-   "referencia": "424.53.40.21.04.001",
-   "precio_justo_usd": 8000,
-   "interesante": false,
-   "nota": "Precio a solo ~4 % por debajo de un valor de venta conservador para oro blanco con caja; no hay descuento suficiente para ser interesante."
-  },
-  "motivo": "triage: Precio a solo ~4 % por debajo de un valor de venta conservador para oro blanco con caja; no hay descuento suficiente para ser interesante. (justo 8000)"
- },
- {
-  "fecha": "2026-10-27T18:52:18.357967+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Seamaster Planet Ocean 600M Co-Axial Chronometer Professional 45.5mm",
-  "total": 3695.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198750156565",
-  "item_id": "v1|198750156565|0",
-  "triage": {
-   "modelo": "Omega Seamaster Planet Ocean 600M Co-Axial Chronometer 45.5mm (esfera negra, numerales naranjas)",
-   "referencia": "232.30.46.21.01.001",
-   "precio_justo_usd": 4200,
-   "interesante": false,
-   "nota": "Precio de ~12 % bajo la estimación conservadora de venta cerrada, por debajo del umbral del 15 %. Verificar estado, caja y papeles antes de comprar."
-  },
-  "motivo": "triage: Precio de ~12 % bajo la estimación conservadora de venta cerrada, por debajo del umbral del 15 %. Verificar estado, caja y papeles antes de comprar. (justo 4200)"
- },
- {
-  "fecha": "2026-10-27T18:52:18.357967+00:00",
-  "marca": "Jaeger-LeCoultre",
-  "titulo": "JLC Jaeger LeCoultre Master Compressor Extreme World 46mm Chronograph Q1768470",
-  "total": 6299.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267825472988",
-  "item_id": "v1|267825472988|0",
-  "referencia": "Q1768470",
-  "mercado": {
-   "n": 4,
-   "p25": 7544,
-   "mediana": 7794
-  },
-  "triage": {
-   "modelo": "Jaeger-LeCoultre Master Compressor Extreme World Chronograph 46 mm, acero, esfera negra, correa de piel negra",
-   "referencia": "Q1768470",
-   "precio_justo_usd": 5200,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta real de este modelo de segunda mano; no cumple el umbral de 15 % por debajo."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta real de este modelo de segunda mano; no cumple el umbral de 15 % por debajo. (justo 5200)"
- },
- {
-  "fecha": "2026-10-27T19:07:18.299594+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Prince Oysterdate Ranger Watch 9050! (WMP021929)",
-  "total": 1409.98,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/920080074657",
-  "item_id": "v1|920080074657|0",
-  "triage": {
-   "modelo": "Tudor Prince Oysterdate Ranger (dial Ranger rojo)",
-   "referencia": "9050/0",
-   "precio_justo_usd": 1700,
-   "interesante": true,
-   "nota": "Estimación conservadora para estado Fair sin caja; verificar autenticidad del dial Ranger, la esfera y el movimiento antes de comprar."
-  },
-  "referencia": null,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 1700,
-   "riesgo_autenticidad": "medio",
-   "estado": "Fair: caja pulida y desgastada, cristal acrílico rayado, correa roja de cuero no original muy gastada"
-  },
-  "ratio_justo": 0.829,
-  "motivo": "ALERTA"
- },
- {
-  "fecha": "2026-10-27T19:07:18.299594+00:00",
-  "marca": "Omega",
-  "titulo": "Omega De Ville Prestige 424.53.40.20.04.002 40mm White Gold Mens Watch Box Card",
-  "total": 10025.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257820722933",
-  "item_id": "v1|257820722933|0",
-  "referencia": "424.53.40.20.04.002",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Omega De Ville Prestige 40 mm (oro blanco, esfera blanca con numerales arábigos)",
-   "referencia": "424.53.40.20.04.002",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Precio pedido de US$10.025 muy por encima del valor de mercado para esta referencia; además, la caja en la foto parece de acero, no de oro blanco como indica el título."
-  },
-  "motivo": "triage: Precio pedido de US$10.025 muy por encima del valor de mercado para esta referencia; además, la caja en la foto parece de acero, no de oro blanco como indica el título. (justo 4000)"
- },
- {
-  "fecha": "2026-10-27T19:07:18.299594+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Chronomat GT 18k Gold And Stainless Men's Watch With Cleaning Cloth",
-  "total": 4250.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128159677563",
-  "item_id": "v1|128159677563|0",
-  "triage": {
-   "modelo": "Breitling Chronomat GT cronógrafo acero y oro 18k (probable)",
-   "referencia": "81950 (probable, no verificable en la foto)",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "Precio pedido de US$4250 está por encima del rango de venta real estimado para este modelo bicolor en estado Good; no cumple el umbral del 15 %."
-  },
-  "motivo": "triage: Precio pedido de US$4250 está por encima del rango de venta real estimado para este modelo bicolor en estado Good; no cumple el umbral del 15 %. (justo 3800)"
- },
- {
-  "fecha": "2026-10-27T19:07:18.299594+00:00",
-  "marca": "Jaeger-LeCoultre",
-  "titulo": "Jaeger LeCoultre 18K Gold Grand Réveil 41mm Perpetual Calendar Alarm Watch & Box",
-  "total": 15049.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880057100069",
-  "item_id": "v1|880057100069|0",
-  "triage": {
-   "modelo": "Jaeger-LeCoultre Grand Réveil Perpetual Calendar Alarm, oro 18K, 41 mm",
-   "referencia": null,
-   "precio_justo_usd": 20000,
-   "interesante": true,
-   "nota": "Precio ~25% bajo estimado de mercado para oro 18K con calendario perpetuo y alarma; verificar autenticidad, movimiento, alarma funcional y papeles antes de comprar."
-  },
-  "referencia": "180.1.99",
-  "mercado": {
-   "n": 1,
-   "p25": 13065,
-   "mediana": 13065
-  },
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 12000,
-   "riesgo_autenticidad": "medio",
-   "estado": "Aspecto excelente en fotos, con ligero desgaste de pulido; correa de cocodrilo no original o muy usada y sin fotos de fondo ni movimiento"
-  },
-  "ratio_justo": 1.254,
-  "motivo": "precio normal segun revision (125 % del justo 12000)"
- },
- {
-  "fecha": "2026-10-27T19:07:18.299594+00:00",
-  "marca": "IWC",
-  "titulo": "IWC Portugieser Minute Repeater IW524202 18K Rose Gold 43mm Limited Edition 250",
-  "total": 43895.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880057099112",
-  "item_id": "v1|880057099112|0",
-  "referencia": "IW524202",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "IWC Portugieser (aparente Minute Repeater, oro rosa 18K, esfera blanca, 43 mm)",
-   "referencia": "IW524202",
-   "precio_justo_usd": 60000,
-   "interesante": false,
-   "nota": "La foto parece de catálogo (render sobre tela) y no muestra el repetidor ni el pulsador; el precio es bajo para un repetidor en oro rosa, así que hay que verificar que el reloj real coincida con el listado antes de comprar."
-  },
-  "motivo": "triage: La foto parece de catálogo (render sobre tela) y no muestra el repetidor ni el pulsador; el precio es bajo para un repetidor en oro rosa, así que hay que verificar que el reloj real coincida con el listado antes de comprar. (justo 60000)"
- },
- {
   "fecha": "2026-10-27T19:22:18.900208+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Deepsea Sea-Dweller James Cameron 126660 Black/Blue 44mm Watch Full Set",
@@ -11363,5 +11154,205 @@
    "nota": "El precio pedido de US$15.000 supera con holgura el valor de mercado de un Pilot Chrono 41 nuevo; el listado requiere verificar la referencia y la edición limitada antes de cualquier compra."
   },
   "motivo": "triage: El precio pedido de US$15.000 supera con holgura el valor de mercado de un Pilot Chrono 41 nuevo; el listado requiere verificar la referencia y la edición limitada antes de cualquier compra. (justo 7000)"
+ },
+ {
+  "fecha": "2026-10-28T20:22:59.991693+00:00",
+  "marca": "Rolex",
+  "titulo": "Rare 3186 Movt Rolex Explorer II Engraved Rehaut Polar White 40mm 16570 B/P/Tag",
+  "total": 14780.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/257822366178",
+  "item_id": "v1|257822366178|0",
+  "referencia": "16570",
+  "mercado": {
+   "n": 9,
+   "p25": 11918,
+   "mediana": 13445
+  },
+  "ratio_mercado": 1.24,
+  "motivo": "precio normal (124 % del cuartil bajo de 16570)"
+ },
+ {
+  "fecha": "2026-10-28T20:22:59.991693+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 126715CHNR GMT Master II Rose Gold Ceramic Root Beer Watch Box/Papers 2021",
+  "total": 45000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206660172927",
+  "item_id": "v1|206660172927|0",
+  "referencia": "126715CHNR",
+  "mercado": {
+   "n": 28,
+   "p25": 44950,
+   "mediana": 46152
+  },
+  "ratio_mercado": 1.001,
+  "motivo": "precio normal (100 % del cuartil bajo de 126715CHNR)"
+ },
+ {
+  "fecha": "2026-10-28T20:22:59.991693+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise 25mm Medium Steel W51011Q3 - 2012",
+  "total": 4295.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/117492067443",
+  "item_id": "v1|117492067443|0",
+  "triage": {
+   "modelo": "Cartier Tank Française, tamaño medio, acero, cuarzo, esfera plateada con números romanos",
+   "referencia": "W51011Q3",
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de reventa de esta referencia; además, la condición 'refurbished' y la foto de catálogo exigen verificar autenticidad y estado real."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de reventa de esta referencia; además, la condición 'refurbished' y la foto de catálogo exigen verificar autenticidad y estado real. (justo 2300)"
+ },
+ {
+  "fecha": "2026-10-28T20:22:59.991693+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Americaine Small Rose Gold Diamond Watch WJTA0002 Box Papers",
+  "total": 11700.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940048372743",
+  "item_id": "v1|940048372743|0",
+  "referencia": "WJTA0002",
+  "mercado": {
+   "n": 2,
+   "p25": 9950,
+   "mediana": 10720
+  },
+  "triage": {
+   "modelo": "Cartier Tank Américaine Small, oro rosa con bisel de diamantes, correa de satén negro",
+   "referencia": "WJTA0002",
+   "precio_justo_usd": 12000,
+   "interesante": false,
+   "nota": "Precio pedido solo un poco por debajo del valor estimado de reventa con caja y papeles; no cumple el umbral del 15 %."
+  },
+  "motivo": "triage: Precio pedido solo un poco por debajo del valor estimado de reventa con caja y papeles; no cumple el umbral del 15 %. (justo 12000)"
+ },
+ {
+  "fecha": "2026-10-28T20:22:59.991693+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Royal 40mm Stainless steel M2840D1A0-0001",
+  "total": 3675.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880059799253",
+  "item_id": "v1|880059799253|0",
+  "triage": {
+   "modelo": "Tudor Royal (acero, esfera azul, brazalete integrado)",
+   "referencia": "M2840D1A0-0001 (no verificada; el formato no coincide con las referencias habituales de Tudor Royal)",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "Precio pedido de 3675 USD está por encima del valor de mercado gris para un Royal nuevo en acero; la referencia del listado parece irregular y debe verificarse."
+  },
+  "motivo": "triage: Precio pedido de 3675 USD está por encima del valor de mercado gris para un Royal nuevo en acero; la referencia del listado parece irregular y debe verificarse. (justo 3400)"
+ },
+ {
+  "fecha": "2026-10-28T20:22:59.991693+00:00",
+  "marca": "Tudor",
+  "titulo": "M7941A1A0NU-001 Tudor Black Bay Master Chronometer Steel - Black Unworn 2026",
+  "total": 5200.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/117492067872",
+  "item_id": "v1|117492067872|0",
+  "triage": {
+   "modelo": "Tudor Black Bay Master Chronometer 41 (acero, esfera negra, brazalete)",
+   "referencia": "M7941A1A0NU",
+   "precio_justo_usd": 3700,
+   "interesante": false,
+   "nota": "El pedido de US$5200 supera ampliamente el retail aproximado (~US$4000) de este modelo nuevo; no hay descuento que justifique la compra."
+  },
+  "motivo": "triage: El pedido de US$5200 supera ampliamente el retail aproximado (~US$4000) de este modelo nuevo; no hay descuento que justifique la compra. (justo 3700)"
+ },
+ {
+  "fecha": "2026-10-28T20:22:59.991693+00:00",
+  "marca": "Panerai",
+  "titulo": "Panerai PAM 424 Radiomir California 3 Days 47MM Box & Paper",
+  "total": 4253.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860092930154",
+  "item_id": "v1|860092930154|0",
+  "referencia": "PAM424",
+  "mercado": {
+   "n": 2,
+   "p25": 5425,
+   "mediana": 6008
+  },
+  "triage": {
+   "modelo": "Panerai Radiomir California 3 Days 47 mm (acero)",
+   "referencia": "PAM 424",
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "Precio ~35% bajo el mercado para Panerai con caja y papeles; alto riesgo de replica o listado enganoso. Verificar autenticidad antes de cualquier oferta."
+  },
+  "motivo": "triage: Precio ~35% bajo el mercado para Panerai con caja y papeles; alto riesgo de replica o listado enganoso. Verificar autenticidad antes de cualquier oferta. (justo 6500)"
+ },
+ {
+  "fecha": "2026-10-28T20:22:59.991693+00:00",
+  "marca": "Panerai",
+  "titulo": "Panerai PAM 312 Luminor 1950 3 Days Automatic 44MM Box & Papers",
+  "total": 4253.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860092930155",
+  "item_id": "v1|860092930155|0",
+  "referencia": "PAM312",
+  "mercado": {
+   "n": 3,
+   "p25": 4497,
+   "mediana": 4845
+  },
+  "triage": {
+   "modelo": "Panerai Luminor 1950 3 Days Automatic 44 mm",
+   "referencia": "PAM 312",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Precio pedido de 4253 USD está muy por debajo del mercado para PAM 312 con caja y papeles. Es un descuento sospechoso que apunta a replica o listado engañoso, así que no lo consideraría sin verificar autenticidad."
+  },
+  "motivo": "triage: Precio pedido de 4253 USD está muy por debajo del mercado para PAM 312 con caja y papeles. Es un descuento sospechoso que apunta a replica o listado engañoso, así que no lo consideraría sin verificar autenticidad. (justo 5000)"
+ },
+ {
+  "fecha": "2026-10-28T20:22:59.991693+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Speedmaster 38 Co-Axial Chronometer Chronograph 324.30.38.50.01.001 G0801",
+  "total": 4800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840069415611",
+  "item_id": "v1|840069415611|0",
+  "referencia": "324.30.38.50.01.001",
+  "mercado": {
+   "n": 4,
+   "p25": 5000,
+   "mediana": 5225
+  },
+  "triage": {
+   "modelo": "Omega Speedmaster 38 Co-Axial Chronograph, esfera negra, brazalete de acero, con caja y papeles",
+   "referencia": "324.30.38.50.01.001",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "Precio pedido de US$4800 queda por encima del valor de venta cerrada estimado para esta referencia en estado bueno con caja y papeles, así que no cumple el margen del 15 %."
+  },
+  "motivo": "triage: Precio pedido de US$4800 queda por encima del valor de venta cerrada estimado para esta referencia en estado bueno con caja y papeles, así que no cumple el margen del 15 %. (justo 4300)"
+ },
+ {
+  "fecha": "2026-10-28T20:22:59.991693+00:00",
+  "marca": "IWC",
+  "titulo": "2026 IWC Pilot Watch 41 Mercedes-AMG PETRONAS Formula One Purple IW388121",
+  "total": 12000.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/128161476830",
+  "item_id": "v1|128161476830|0",
+  "referencia": "IW388121",
+  "mercado": {
+   "n": 2,
+   "p25": 13495,
+   "mediana": 13748
+  },
+  "triage": {
+   "modelo": "IWC Pilot's Watch Chronograph 41 Mercedes-AMG Petronas Formula One Team (esfera morada, correa de caucho morada)",
+   "referencia": "IW388121",
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "Precio pedido por encima de retail (~US$9.000); el mercado secundario nuevo ronda US$6.500-7.500. Además, el título indica 2026, lo que conviene verificar."
+  },
+  "motivo": "triage: Precio pedido por encima de retail (~US$9.000); el mercado secundario nuevo ronda US$6.500-7.500. Además, el título indica 2026, lo que conviene verificar. (justo 7000)"
  }
 ]

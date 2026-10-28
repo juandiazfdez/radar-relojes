@@ -1505,13 +1505,13 @@
   "max": 15647
  },
  "Rolex 16570|nuevo": {
-  "fecha": "2026-10-20",
+  "fecha": "2026-10-28",
   "consulta": "Rolex 16570",
-  "n": 10,
-  "mediana": 13473,
-  "p25": 13169,
-  "p75": 14140,
-  "min": 11019,
+  "n": 9,
+  "mediana": 13445,
+  "p25": 11918,
+  "p75": 13776,
+  "min": 7700,
   "max": 17710
  },
  "Rolex 16570|usado": {
@@ -3425,13 +3425,13 @@
   "n": 0
  },
  "IWC IW388121|nuevo": {
-  "fecha": "2026-10-21",
+  "fecha": "2026-10-28",
   "consulta": "IWC IW388121",
-  "n": 1,
-  "mediana": 14000,
-  "p25": 14000,
+  "n": 2,
+  "mediana": 13748,
+  "p25": 13495,
   "p75": 14000,
-  "min": 14000,
+  "min": 13495,
   "max": 14000
  },
  "TAG Heuer CG1111|usado": {
@@ -6450,13 +6450,13 @@
   "max": 35374
  },
  "Rolex 126715CHNR|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-28",
   "consulta": "Rolex 126715CHNR",
-  "n": 27,
-  "mediana": 46305,
+  "n": 28,
+  "mediana": 46152,
   "p25": 44950,
   "p75": 47075,
-  "min": 40970,
+  "min": 40392,
   "max": 52632
  },
  "Rolex 18238|usado": {
@@ -13380,11 +13380,11 @@
   "max": 6757
  },
  "Omega 324.30.38.50.01.001|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-28",
   "consulta": "Omega 324.30.38.50.01.001",
-  "n": 3,
-  "mediana": 5000,
-  "p25": 4495,
+  "n": 4,
+  "mediana": 5225,
+  "p25": 5000,
   "p75": 5895,
   "min": 4495,
   "max": 5895
@@ -14693,5 +14693,35 @@
   "fecha": "2026-10-28",
   "consulta": "IWC IW388310",
   "n": 0
+ },
+ "Cartier WJTA0002|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Cartier WJTA0002",
+  "n": 2,
+  "mediana": 10720,
+  "p25": 9950,
+  "p75": 11490,
+  "min": 9950,
+  "max": 11490
+ },
+ "Panerai PAM424|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Panerai PAM424",
+  "n": 2,
+  "mediana": 6008,
+  "p25": 5425,
+  "p75": 6590,
+  "min": 5425,
+  "max": 6590
+ },
+ "Panerai PAM312|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Panerai PAM312",
+  "n": 3,
+  "mediana": 4845,
+  "p25": 4497,
+  "p75": 4900,
+  "min": 4497,
+  "max": 4900
  }
 }
