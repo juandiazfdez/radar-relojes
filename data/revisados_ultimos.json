@@ -1,164 +1,5 @@
 [
  {
-  "fecha": "2026-10-27T22:07:18.027589+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Automatic Geneve Mens 35mm 1970s Vintage Swiss Automatic RA834",
-  "total": 4200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940046503354",
-  "item_id": "v1|940046503354|0",
-  "triage": {
-   "modelo": "Omega Genève Automatic (caja chapada en oro, esfera plateada, fecha a las 3)",
-   "referencia": null,
-   "precio_justo_usd": 950,
-   "interesante": false,
-   "nota": "Modelo Genève automático de los años 70 en caja chapada en oro; 'RA834' no parece una referencia Omega válida. Precio pedido de US$4200 muy por encima del valor de venta real."
-  },
-  "motivo": "triage: Modelo Genève automático de los años 70 en caja chapada en oro; 'RA834' no parece una referencia Omega válida. Precio pedido de US$4200 muy por encima del valor de venta real. (justo 950)"
- },
- {
-  "fecha": "2026-10-27T22:07:18.027589+00:00",
-  "marca": "Omega",
-  "titulo": "1989 OMEGA Seamaster 396.1052 Japan import",
-  "total": 1019.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377602085154",
-  "item_id": "v1|377602085154|0",
-  "triage": {
-   "modelo": "Omega Seamaster Professional 300M (cuarzo, bisel unidireccional, brazalete de acero)",
-   "referencia": "396.1052",
-   "precio_justo_usd": 550,
-   "interesante": false,
-   "nota": "Cuarzo de finales de los 80 con precio de venta cerrada aprox. 450-650 USD en buen estado; el precio pedido de 1019 USD está muy por encima del mercado."
-  },
-  "motivo": "triage: Cuarzo de finales de los 80 con precio de venta cerrada aprox. 450-650 USD en buen estado; el precio pedido de 1019 USD está muy por encima del mercado. (justo 550)"
- },
- {
-  "fecha": "2026-10-27T22:07:18.027589+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Constellation My Choice Mini Diamond Womens Watch No Box",
-  "total": 2000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128159866998",
-  "item_id": "v1|128159866998|0",
-  "triage": {
-   "modelo": "Omega Constellation My Choice Mini (cuarzo, acero, bisel de diamantes, esfera nácar)",
-   "referencia": null,
-   "precio_justo_usd": 1200,
-   "interesante": false,
-   "nota": "Sin caja y con estado Good, se vende en torno a 1000-1400 USD; el precio pedido de 2000 USD está muy por encima del valor de mercado."
-  },
-  "motivo": "triage: Sin caja y con estado Good, se vende en torno a 1000-1400 USD; el precio pedido de 2000 USD está muy por encima del valor de mercado. (justo 1200)"
- },
- {
-  "fecha": "2026-10-27T22:07:18.027589+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Avenger Chronograph GMT 45 A24315101B1A1 New Unworn Warranty Box Paper",
-  "total": 4800.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/860090025733",
-  "item_id": "v1|860090025733|0",
-  "referencia": "A24315101B1A1",
-  "mercado": {
-   "n": 5,
-   "p25": 4560,
-   "mediana": 4845
-  },
-  "ratio_mercado": 1.053,
-  "motivo": "precio normal (105 % del cuartil bajo de A24315101B1A1)"
- },
- {
-  "fecha": "2026-10-27T22:22:18.297119+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Oyster",
-  "total": 2930.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920080483399",
-  "item_id": "v1|920080483399|0",
-  "triage": {
-   "modelo": "Tudor Oyster (posiblemente Oyster Prince vintage, esfera crema y manecillas doradas; identificación incierta por la foto)",
-   "referencia": null,
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "Sin referencia ni fotos del caso o movimiento, no se puede confirmar el modelo; con precio pedido de 2930 USD está por encima del valor de venta estimado."
-  },
-  "motivo": "triage: Sin referencia ni fotos del caso o movimiento, no se puede confirmar el modelo; con precio pedido de 2930 USD está por encima del valor de venta estimado. (justo 2200)"
- },
- {
-  "fecha": "2026-10-27T22:22:18.297119+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay Chrono 41mm Stainless Steel M79360N-0013",
-  "total": 5395.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880057508186",
-  "item_id": "v1|880057508186|0",
-  "referencia": "M79360N-0013",
-  "mercado": {
-   "n": 16,
-   "p25": 6350,
-   "mediana": 9670
-  },
-  "ratio_mercado": 0.85,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 4750,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Nuevo/sin uso según el vendedor; las fotos muestran un reloj impecable, sin la caja ni los papeles"
-  },
-  "motivo": "Claude descarto: El precio de US$5,395 (más US$99 de envío) es igual o superior al mercado gris actual de un BB Chrono nuevo con caja y papeles, que ronda US$4,600-5,000. No hay margen de reventa.; Los comparables de eBay (cuartil bajo 6,350 y mediana 9,670) son precios pedidos inflados. No sirven para justificar el precio."
- },
- {
-  "fecha": "2026-10-27T22:22:18.297119+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Chronograph Reverse Panda 41mm 79360N Steel Excellent- Warranty",
-  "total": 4399.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920080489904",
-  "item_id": "v1|920080489904|0",
-  "referencia": "79360N",
-  "mercado": {
-   "n": 52,
-   "p25": 4690,
-   "mediana": 5339
-  },
-  "ratio_mercado": 0.938,
-  "motivo": "precio normal (94 % del cuartil bajo de 79360N)"
- },
- {
-  "fecha": "2026-10-27T22:22:18.297119+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Superocean Heritage B20 Automatic 42 18K Rose Gold & Steel UB2010 Set",
-  "total": 4499.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257820980620",
-  "item_id": "v1|257820980620|0",
-  "referencia": "UB2010",
-  "mercado": {
-   "n": 6,
-   "p25": 4400,
-   "mediana": 5200
-  },
-  "ratio_mercado": 1.023,
-  "motivo": "precio normal (102 % del cuartil bajo de UB2010)"
- },
- {
-  "fecha": "2026-10-27T22:22:18.297119+00:00",
-  "marca": "Jaeger-LeCoultre",
-  "titulo": "Jaeger LeCoultre Memovox",
-  "total": 6730.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920080486770",
-  "item_id": "v1|920080486770|0",
-  "triage": {
-   "modelo": "Jaeger-LeCoultre Memovox (vintage, caja de oro amarillo, esfera crema con índices aplicados; generación probable años 50-60)",
-   "referencia": null,
-   "precio_justo_usd": 5500,
-   "interesante": false,
-   "nota": "Sin ver el movimiento, caja ni marcas de metal, no se puede confirmar la referencia ni el oro. Aun así, el precio pedido de 6730 USD supera el valor estimado de venta real, así que no es una oportunidad."
-  },
-  "motivo": "triage: Sin ver el movimiento, caja ni marcas de metal, no se puede confirmar la referencia ni el oro. Aun así, el precio pedido de 6730 USD supera el valor estimado de venta real, así que no es una oportunidad. (justo 5500)"
- },
- {
   "fecha": "2026-10-27T22:37:18.791576+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Ladies Datejust Ref. 6917",
@@ -11356,5 +11197,164 @@
    "nota": "Nuevo con caja y papeles; el precio pedido de US$6695 está por encima del valor de mercado gris para esta referencia. La referencia es la del título, no verificable solo con la imagen."
   },
   "motivo": "triage: Nuevo con caja y papeles; el precio pedido de US$6695 está por encima del valor de mercado gris para esta referencia. La referencia es la del título, no verificable solo con la imagen. (justo 5200)"
+ },
+ {
+  "fecha": "2026-10-28T23:53:11.056297+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Datejust Ref 16013 Mens 36mm 18k SS 1970s Vintage Automatic RA615B2",
+  "total": 8520.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257822614231",
+  "item_id": "v1|257822614231|0",
+  "referencia": "16013",
+  "mercado": {
+   "n": 21,
+   "p25": 1815,
+   "mediana": 4700
+  },
+  "ratio_mercado": 4.694,
+  "motivo": "precio normal (469 % del cuartil bajo de 16013)"
+ },
+ {
+  "fecha": "2026-10-28T23:53:11.056297+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Datejust Ref 16013 36mm 18k SS Mens 1980s Automatic Vintage NA106G",
+  "total": 7960.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257822613499",
+  "item_id": "v1|257822613499|0",
+  "referencia": "16013",
+  "mercado": {
+   "n": 21,
+   "p25": 1815,
+   "mediana": 4700
+  },
+  "ratio_mercado": 4.386,
+  "motivo": "precio normal (439 % del cuartil bajo de 16013)"
+ },
+ {
+  "fecha": "2026-10-28T23:53:11.056297+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Ref 1601 Datejust 36mm 18k SS 1970s Mens Vintage Automatic RA787B",
+  "total": 8980.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267826715415",
+  "item_id": "v1|267826715415|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36mm dos tonos (acero y oro 18k), bisel acanalado, esfera champán con índices de bastón, años 1970",
+   "referencia": "1601",
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "Precio pedido de US$8980 supera el valor de venta cerrada de un 1601 dos tonos en estado Good sin caja ni papeles; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$8980 supera el valor de venta cerrada de un 1601 dos tonos en estado Good sin caja ni papeles; no es una oportunidad. (justo 6500)"
+ },
+ {
+  "fecha": "2026-10-28T23:53:11.056297+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 6564 34mm Mens Gold-Capped Vintage Automatic 1950s RA789",
+  "total": 8800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267826714577",
+  "item_id": "v1|267826714577|0",
+  "referencia": "6564",
+  "mercado": {
+   "n": 18,
+   "p25": 4250,
+   "mediana": 4850
+  },
+  "ratio_mercado": 2.071,
+  "motivo": "precio normal (207 % del cuartil bajo de 6564)"
+ },
+ {
+  "fecha": "2026-10-28T23:53:11.056297+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Ref 1601 Datejust 36mm 18k SS Mens Vintage 1970s Automatic RA787",
+  "total": 8900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267826713408",
+  "item_id": "v1|267826713408|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 mm acero y oro amarillo, bisel acanalado, esfera champán con índices de barra, ventana de fecha y correa de piel negra",
+   "referencia": "1601 (probable, por bisel acanalado, esfera champán y caja de 36 mm; verificar número de serie y estado)",
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "Con correa de piel en lugar de brazalete, el precio de venta cerrada de un 1601 bicolor de los años 70 en buen estado ronda los US$4.000-5.000. El precio pedido queda muy por encima."
+  },
+  "motivo": "triage: Con correa de piel en lugar de brazalete, el precio de venta cerrada de un 1601 bicolor de los años 70 en buen estado ronda los US$4.000-5.000. El precio pedido queda muy por encima. (justo 4500)"
+ },
+ {
+  "fecha": "2026-10-28T23:53:11.056297+00:00",
+  "marca": "Rolex",
+  "titulo": "VINTAGE GENUINE ROLEX 16660 SEA DWELLER CASE 8.2MIL 1984 # C870",
+  "total": 3520.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227587798477",
+  "item_id": "v1|227587798477|0",
+  "referencia": "16660",
+  "mercado": {
+   "n": 9,
+   "p25": 9259,
+   "mediana": 10000
+  },
+  "ratio_mercado": 0.38,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 1800,
+   "riesgo_autenticidad": "medio",
+   "estado": "Caja suelta pulida profesionalmente; sin movimiento, esfera, bisel, cristal ni brazalete"
+  },
+  "motivo": "Claude descarto: No es un reloj completo: es solo la caja (watch part). Los comparables de 9259-10000 USD corresponden a relojes completos y no son comparables con esta pieza.; La publicación admite que no es elegible para garantía de autenticidad de eBay por ser una pieza. No hay respaldo si resultara no original."
+ },
+ {
+  "fecha": "2026-10-28T23:53:11.056297+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Deepsea Sea-Dweller James Cameron 136660 - Full Set In Excellent Condition",
+  "total": 15700.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800849722013",
+  "item_id": "v1|800849722013|0",
+  "referencia": "136660",
+  "mercado": {
+   "n": 53,
+   "p25": 15142,
+   "mediana": 16150
+  },
+  "ratio_mercado": 1.037,
+  "motivo": "precio normal (104 % del cuartil bajo de 136660)"
+ },
+ {
+  "fecha": "2026-10-28T23:53:11.056297+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 1503 14k Solid Gold 1970s Mens 34mm Automatic RA741G",
+  "total": 18900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267826709145",
+  "item_id": "v1|267826709145|0",
+  "triage": {
+   "modelo": "Rolex Datejust vintage en oro amarillo de 14k (bisel acanalado, brazalete Jubilee, ventana de fecha en las 3, esfera champán con índices de bastón; ref. probable 1601/1603 o similar)",
+   "referencia": "null",
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "El título dice 1503 (Oyster Perpetual, bisel liso), pero la foto muestra bisel acanalado de Datejust, y 'RA741G' no es un formato de referencia Rolex. Precio muy por encima del mercado para esta pieza; verificar identidad y oro antes de considerarla."
+  },
+  "motivo": "triage: El título dice 1503 (Oyster Perpetual, bisel liso), pero la foto muestra bisel acanalado de Datejust, y 'RA741G' no es un formato de referencia Rolex. Precio muy por encima del mercado para esta pieza; verificar identidad y oro antes de considerarla. (justo 6500)"
+ },
+ {
+  "fecha": "2026-10-28T23:53:11.056297+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Superocean Heritage Chronograph 46MM A13320 Full Set Original Owner",
+  "total": 3595.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840066866486",
+  "item_id": "v1|840066866486|0",
+  "referencia": "A13320",
+  "mercado": {
+   "n": 14,
+   "p25": 3895,
+   "mediana": 4000
+  },
+  "ratio_mercado": 0.923,
+  "motivo": "precio normal (92 % del cuartil bajo de A13320)"
  }
 ]
