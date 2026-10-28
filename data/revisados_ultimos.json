@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-10-27T02:51:45.406160+00:00",
-  "marca": "IWC",
-  "titulo": "IWC Portofino Chronograph 39mm",
-  "total": 6260.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327425525527",
-  "item_id": "v1|327425525527|0",
-  "triage": {
-   "modelo": "IWC Portofino Chronograph 39 mm, acero, esfera negra, correa de piel",
-   "referencia": "IW391030 (probable, no verificable en la foto)",
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "El precio pedido de US$6260 supera el valor de mercado secundario estimado (~US$4800 con estado Good); no hay descuento suficiente."
-  },
-  "motivo": "triage: El precio pedido de US$6260 supera el valor de mercado secundario estimado (~US$4800 con estado Good); no hay descuento suficiente. (justo 4800)"
- },
- {
   "fecha": "2026-10-27T03:06:45.390586+00:00",
   "marca": "Panerai",
   "titulo": "Panerai Radiomir Chronograph PAM00288 Men's Watch",
@@ -11514,5 +11497,28 @@
    "nota": "El precio pedido está por encima del valor estimado de venta cerrada; la foto muestra una caja totalmente negra que no coincide del todo con la referencia del título, conviene verificarla."
   },
   "motivo": "triage: El precio pedido está por encima del valor estimado de venta cerrada; la foto muestra una caja totalmente negra que no coincide del todo con la referencia del título, conviene verificarla. (justo 3800)"
+ },
+ {
+  "fecha": "2026-10-28T07:52:36.529877+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Bronze M79250BA-0001 43mm Full Set B&P",
+  "total": 4015.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860091467274",
+  "item_id": "v1|860091467274|0",
+  "referencia": "M79250BA-0001",
+  "mercado": {
+   "n": 3,
+   "p25": 3893,
+   "mediana": 4000
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay Bronze 43 mm (caja de bronce, esfera negra, correa de cuero negro)",
+   "referencia": "M79250BA-0001",
+   "precio_justo_usd": 3700,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor estimado de reventa para esta referencia en estado excelente con caja y papeles; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido por encima del valor estimado de reventa para esta referencia en estado excelente con caja y papeles; no hay descuento suficiente. (justo 3700)"
  }
 ]
