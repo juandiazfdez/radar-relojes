@@ -1,155 +1,5 @@
 [
  {
-  "fecha": "2026-10-27T21:37:18.043045+00:00",
-  "marca": "Breitling",
-  "titulo": "BREITLING TRANSOCEAN UNITIME GMT CHRONOGRAPH AB0510",
-  "total": 4215.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168820631429",
-  "item_id": "v1|168820631429|0",
-  "referencia": "AB0510",
-  "mercado": {
-   "n": 12,
-   "p25": 4850,
-   "mediana": 5425
-  },
-  "ratio_mercado": 0.869,
-  "motivo": "precio normal (87 % del cuartil bajo de AB0510)"
- },
- {
-  "fecha": "2026-10-27T21:37:18.043045+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer 955.713 WD1221.BB0611 Mens 1500 Series Professional Gold Silver Watch",
-  "total": 650.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377602053303",
-  "item_id": "v1|377602053303|0",
-  "referencia": "WD1221.BB0611",
-  "mercado": {
-   "n": 1,
-   "p25": 700,
-   "mediana": 700
-  },
-  "triage": {
-   "modelo": "TAG Heuer Professional 1500 Series, acero y oro, cuarzo, esfera plateada",
-   "referencia": "WD1221.BB0611 (el 955.713 del título parece una referencia antigua o mal escrita)",
-   "precio_justo_usd": 350,
-   "interesante": false,
-   "nota": "Reloj de cuarzo de acero y oro con mercado de reventa modesto; a US$650 está muy por encima de lo que se vende realmente, aunque sea 'Good'."
-  },
-  "motivo": "triage: Reloj de cuarzo de acero y oro con mercado de reventa modesto; a US$650 está muy por encima de lo que se vende realmente, aunque sea 'Good'. (justo 350)"
- },
- {
-  "fecha": "2026-10-27T21:52:18.274502+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Air King 5500 1981",
-  "total": 3000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128159846157",
-  "item_id": "v1|128159846157|0",
-  "referencia": "5500",
-  "mercado": {
-   "n": 25,
-   "p25": 4000,
-   "mediana": 4450
-  },
-  "ratio_mercado": 0.75,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 2900,
-   "riesgo_autenticidad": "medio",
-   "estado": "Bueno, con caja aparentemente pulida y esfera plateada limpia; revisado en 2020, sin brazalete ni caja y papeles"
-  },
-  "ratio_justo": 1.034,
-  "motivo": "precio normal segun revision (103 % del justo 2900)"
- },
- {
-  "fecha": "2026-10-27T21:52:18.274502+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 33 Steel Rose Gold Diamond Watch WE902061 Box Card",
-  "total": 8440.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336866283330",
-  "item_id": "v1|336866283330|0",
-  "referencia": "WE902061",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 33 mm automático, acero y oro rosa, esfera plateada con diamantes",
-   "referencia": "WE902061",
-   "precio_justo_usd": 7200,
-   "interesante": false,
-   "nota": "Precio pedido US$8440 con envío, por encima del rango de venta cerrada de usados con caja y tarjeta; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido US$8440 con envío, por encima del rango de venta cerrada de usados con caja y tarjeta; no es una oportunidad. (justo 7200)"
- },
- {
-  "fecha": "2026-10-27T21:52:18.274502+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Monochrome Ref. M7941A1A0NU Complete Set In Excellent Condition",
-  "total": 4454.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960123946785",
-  "item_id": "v1|960123946785|0",
-  "triage": {
-   "modelo": "Tudor Black Bay Monochrome (esfera y bisel negros, brazalete de acero)",
-   "referencia": "M7941A1A0NU",
-   "precio_justo_usd": 3700,
-   "interesante": false,
-   "nota": "El precio pedido de US$4454 con envío supera el retail aproximado de esta referencia y su valor de reventa con set completo; no hay descuento."
-  },
-  "motivo": "triage: El precio pedido de US$4454 con envío supera el retail aproximado de esta referencia y su valor de reventa con set completo; no hay descuento. (justo 3700)"
- },
- {
-  "fecha": "2026-10-27T21:52:18.274502+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai Luminor Marina Logo 3 Days 44mm - Ref. PAM00776",
-  "total": 5150.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327426726244",
-  "item_id": "v1|327426726244|0",
-  "referencia": "PAM00776",
-  "mercado": {
-   "n": 3,
-   "p25": 4594,
-   "mediana": 5271
-  },
-  "triage": {
-   "modelo": "Panerai Luminor Marina Logo 3 Days 44mm, acero, esfera negra, correa de piel",
-   "referencia": "PAM00776",
-   "precio_justo_usd": 5600,
-   "interesante": false,
-   "nota": "Precio pedido cerca del valor de mercado para usado en buen estado; no alcanza el 15 % de descuento necesario. Verificar papeles, caja y autenticidad."
-  },
-  "motivo": "triage: Precio pedido cerca del valor de mercado para usado en buen estado; no alcanza el 15 % de descuento necesario. Verificar papeles, caja y autenticidad. (justo 5600)"
- },
- {
-  "fecha": "2026-10-27T21:52:18.274502+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Planet Ocean Liquid Metal Limited Edition 222.30.42.20.01.001 serviced",
-  "total": 7599.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237147543406",
-  "item_id": "v1|237147543406|0",
-  "referencia": "222.30.42.20.01.001",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Planet Ocean 42 mm (esfera negra, brazalete de acero); el título menciona Liquid Metal, pero lo que se ve es el modelo estándar",
-   "referencia": "222.30.42.20.01.001",
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de mercado para la referencia estándar; el título de 'Liquid Metal Limited Edition' no coincide con lo visible ni con la referencia."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de mercado para la referencia estándar; el título de 'Liquid Metal Limited Edition' no coincide con lo visible ni con la referencia. (justo 4300)"
- },
- {
   "fecha": "2026-10-27T21:52:18.274502+00:00",
   "marca": "TAG Heuer",
   "titulo": "Tag Heuer Monaco Chronograph Caliber 11 39mm FACTORY SERVICED CAW211P.FC6356",
@@ -11374,5 +11224,142 @@
   },
   "ratio_mercado": 1.042,
   "motivo": "precio normal (104 % del cuartil bajo de A13313)"
+ },
+ {
+  "fecha": "2026-10-28T23:08:11.005430+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Datejust 1601 36mm 18k Gold SS Mens 1960s Vintage Automatic RA738B",
+  "total": 8300.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267826685337",
+  "item_id": "v1|267826685337|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Datejust de dos tonos (acero y oro 18k), bisel acanalado, esfera plateada con índices dorados, 36 mm, años 60",
+   "referencia": "1601",
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "Referencia 1601 coherente con la imagen, pero el precio pedido está por encima de la venta real estimada para estado Good, con correa de cuero en lugar de brazalete original."
+  },
+  "motivo": "triage: Referencia 1601 coherente con la imagen, pero el precio pedido está por encima de la venta real estimada para estado Good, con correa de cuero en lugar de brazalete original. (justo 6500)"
+ },
+ {
+  "fecha": "2026-10-28T23:08:11.005430+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Datejust Ref 16013 Mens 36mm 1970s 18k SS Vintage Automatic RA615",
+  "total": 8500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267826685216",
+  "item_id": "v1|267826685216|0",
+  "referencia": "16013",
+  "mercado": {
+   "n": 21,
+   "p25": 1815,
+   "mediana": 4700
+  },
+  "ratio_mercado": 4.683,
+  "motivo": "precio normal (468 % del cuartil bajo de 16013)"
+ },
+ {
+  "fecha": "2026-10-28T23:08:11.005430+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date 1550 34mm 1970s Mens Gold-Capped Automatic RA779B",
+  "total": 7960.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257822555871",
+  "item_id": "v1|257822555871|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date 34 mm, caja chapada en oro (gold-capped), esfera plateada con índices dorados, correa de piel negra",
+   "referencia": "1550 (según el título; la esfera es compatible con la era 1970s)",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Chapado en oro, no macizo, y con correa de piel; el precio pedido de US$7960 está muy por encima de lo que se vende este modelo en estado bueno."
+  },
+  "motivo": "triage: Chapado en oro, no macizo, y con correa de piel; el precio pedido de US$7960 está muy por encima de lo que se vende este modelo en estado bueno. (justo 3200)"
+ },
+ {
+  "fecha": "2026-10-28T23:08:11.005430+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 6558 18k Solid Gold 1950s Mens 35mm Automatic RA852",
+  "total": 29900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267826679669",
+  "item_id": "v1|267826679669|0",
+  "referencia": "6558",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual (oro amarillo 18k, esfera champán, años 50)",
+   "referencia": "6558",
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "Referencia 6558 en oro 18k, estado bueno y sin caja ni papeles confirmados. El precio pedido de US$29.900 está muy por encima del valor de venta real."
+  },
+  "motivo": "triage: Referencia 6558 en oro 18k, estado bueno y sin caja ni papeles confirmados. El precio pedido de US$29.900 está muy por encima del valor de venta real. (justo 14000)"
+ },
+ {
+  "fecha": "2026-10-28T23:08:11.005430+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Unworn ROLEX 136660 Sea-dweller Deepsea James Cameron Oyster - FULL SET",
+  "total": 18500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/860093142752",
+  "item_id": "v1|860093142752|0",
+  "referencia": "136660",
+  "mercado": {
+   "n": 19,
+   "p25": 17495,
+   "mediana": 17999
+  },
+  "ratio_mercado": 1.057,
+  "motivo": "precio normal (106 % del cuartil bajo de 136660)"
+ },
+ {
+  "fecha": "2026-10-28T23:08:11.005430+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Cougar Ref. 1180 Round Two Tone 33mm Quartz Watch w/ Box + New Battery!",
+  "total": 2850.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800849635007",
+  "item_id": "v1|800849635007|0",
+  "referencia": "1180",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Must de Cartier (bicolor, esfera romana, cuarzo; el título dice Cougar)",
+   "referencia": null,
+   "precio_justo_usd": 1000,
+   "interesante": false,
+   "nota": "El título habla de Cougar, pero la caja redonda bicolor y la esfera romana parecen Must de Cartier. Aun así, el precio pedido de US$2850 supera con holgura el valor de mercado de un cuarzo bicolor de este tipo."
+  },
+  "motivo": "triage: El título habla de Cougar, pero la caja redonda bicolor y la esfera romana parecen Must de Cartier. Aun así, el precio pedido de US$2850 supera con holgura el valor de mercado de un cuarzo bicolor de este tipo. (justo 1000)"
+ },
+ {
+  "fecha": "2026-10-28T23:08:11.005430+00:00",
+  "marca": "Tudor",
+  "titulo": "New Tudor 1926 Automatic White Opaline Gold Dial, 39mm,  91550",
+  "total": 2275.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/287688025770",
+  "item_id": "v1|287688025770|0",
+  "referencia": "91550",
+  "mercado": {
+   "n": 1,
+   "p25": 2560,
+   "mediana": 2560
+  },
+  "triage": {
+   "modelo": "Tudor 1926 Automatic 39 mm, acero, esfera blanca opalina",
+   "referencia": "91550",
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "Precio cercano al mercado gris para un 1926 39 mm nuevo con caja y papeles; el título menciona esfera dorada, pero la foto muestra esfera blanca, conviene verificarlo."
+  },
+  "motivo": "triage: Precio cercano al mercado gris para un 1926 39 mm nuevo con caja y papeles; el título menciona esfera dorada, pero la foto muestra esfera blanca, conviene verificarlo. (justo 2400)"
  }
 ]
