@@ -1,85 +1,5 @@
 [
  {
-  "fecha": "2026-10-27T01:21:45.096039+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Superocean Heritage U17320",
-  "total": 4950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307250961724",
-  "item_id": "v1|307250961724|0",
-  "referencia": "U17320",
-  "mercado": {
-   "n": 1,
-   "p25": 4886,
-   "mediana": 4886
-  },
-  "triage": {
-   "modelo": "Breitling Superocean Heritage II 42 (bisel bicolor acero/oro rojo, esfera negra, brazalete de malla)",
-   "referencia": "U17320",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "El precio pedido de US$4950 está por encima de lo que este modelo de segunda mano suele cerrar en EE. UU., aunque la pieza parezca auténtica y venga con caja. No hay descuento."
-  },
-  "motivo": "triage: El precio pedido de US$4950 está por encima de lo que este modelo de segunda mano suele cerrar en EE. UU., aunque la pieza parezca auténtica y venga con caja. No hay descuento. (justo 4000)"
- },
- {
-  "fecha": "2026-10-27T01:21:45.096039+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "Tag Heuer Aquaracer Professional 300 Date Auto 42mm Mens Watch WBP5116.BA0013",
-  "total": 3600.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/198748185262",
-  "item_id": "v1|198748185262|0",
-  "referencia": "WBP5116.BA0013",
-  "mercado": {
-   "n": 2,
-   "p25": 3639,
-   "mediana": 3715
-  },
-  "triage": {
-   "modelo": "TAG Heuer Aquaracer Professional 300 Date (esfera verde, bisel verde, pulsera de acero)",
-   "referencia": "WBP5116.BA0013",
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "Nuevo con caja y papeles, pero el precio pedido (US$3600) supera el retail de esta referencia; el mercado gris la vende bastante por debajo."
-  },
-  "motivo": "triage: Nuevo con caja y papeles, pero el precio pedido (US$3600) supera el retail de esta referencia; el mercado gris la vende bastante por debajo. (justo 2300)"
- },
- {
-  "fecha": "2026-10-27T01:36:45.633017+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona",
-  "total": 17500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820281495823",
-  "item_id": "v1|820281495823|0",
-  "triage": {
-   "modelo": "Rolex Daytona bicolor acero/oro amarillo, esfera champán",
-   "referencia": "16523 (probable)",
-   "precio_justo_usd": 22000,
-   "interesante": false,
-   "nota": "Precio ~20% bajo mercado, pero demasiado bajo para un bicolor Daytona; sospecha de réplica. Requiere autenticación antes de comprar."
-  },
-  "motivo": "triage: Precio ~20% bajo mercado, pero demasiado bajo para un bicolor Daytona; sospecha de réplica. Requiere autenticación antes de comprar. (justo 22000)"
- },
- {
-  "fecha": "2026-10-27T01:36:45.633017+00:00",
-  "marca": "Rolex",
-  "titulo": "Genuine Rolex 16233G Watch. Rolex Oyster Perpetual DateJust YG Multi Tone",
-  "total": 8800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257819538371",
-  "item_id": "v1|257819538371|0",
-  "referencia": "16233G",
-  "mercado": {
-   "n": 5,
-   "p25": 8288,
-   "mediana": 9285
-  },
-  "ratio_mercado": 1.062,
-  "motivo": "precio normal (106 % del cuartil bajo de 16233G)"
- },
- {
   "fecha": "2026-10-27T01:36:45.633017+00:00",
   "marca": "Rolex",
   "titulo": "Genuine Rolex 16234G Watch. Rolex Oyster DateJust Tropical Jubilee Diamond Dial.",
@@ -11562,5 +11482,79 @@
   },
   "ratio_mercado": 1.042,
   "motivo": "precio normal (104 % del cuartil bajo de PAM00422)"
+ },
+ {
+  "fecha": "2026-10-28T05:52:35.593128+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date Just 36mm 18K Yellow Gold Two-Tone Watch Model 16013",
+  "total": 6010.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940047231726",
+  "item_id": "v1|940047231726|0",
+  "referencia": "16013",
+  "mercado": {
+   "n": 21,
+   "p25": 1815,
+   "mediana": 4700
+  },
+  "ratio_mercado": 3.311,
+  "motivo": "precio normal (331 % del cuartil bajo de 16013)"
+ },
+ {
+  "fecha": "2026-10-28T05:52:35.593128+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Starbucks Oyster Bracelet 126610LV Complete with 2025 Papers",
+  "total": 17260.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940047232544",
+  "item_id": "v1|940047232544|0",
+  "referencia": "126610LV",
+  "mercado": {
+   "n": 73,
+   "p25": 15599,
+   "mediana": 16000
+  },
+  "ratio_mercado": 1.106,
+  "motivo": "precio normal (111 % del cuartil bajo de 126610LV)"
+ },
+ {
+  "fecha": "2026-10-28T05:52:35.593128+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay Chrono Chronograph Automatic Chronometer Men’s W79360N-0002",
+  "total": 6011.85,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267825823260",
+  "item_id": "v1|267825823260|0",
+  "triage": {
+   "modelo": "Tudor Black Bay Chrono 41 (esfera blanca tipo panda, bisel negro, brazalete de acero)",
+   "referencia": "W79360N-0002",
+   "precio_justo_usd": 4200,
+   "interesante": false,
+   "nota": "Precio pedido de US$6012 supera claramente el valor de mercado de uso (estado Good); no hay descuento a favor del comprador."
+  },
+  "motivo": "triage: Precio pedido de US$6012 supera claramente el valor de mercado de uso (estado Good); no hay descuento a favor del comprador. (justo 4200)"
+ },
+ {
+  "fecha": "2026-10-28T05:52:35.593128+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Speedmaster Date 39MM Automatic Chronograph Watch Black 3513.50",
+  "total": 2824.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960121045807",
+  "item_id": "v1|960121045807|0",
+  "referencia": "3513.50",
+  "mercado": {
+   "n": 3,
+   "p25": 2700,
+   "mediana": 3100
+  },
+  "triage": {
+   "modelo": "Omega Speedmaster Date 39 mm cronógrafo automático, esfera negra, brazalete de acero",
+   "referencia": "3513.50",
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "Precio pedido de 2825 USD por encima del valor de venta cerrada estimado para esta referencia en estado excelente; no aparece oportunidad clara."
+  },
+  "motivo": "triage: Precio pedido de 2825 USD por encima del valor de venta cerrada estimado para esta referencia en estado excelente; no aparece oportunidad clara. (justo 2400)"
  }
 ]
