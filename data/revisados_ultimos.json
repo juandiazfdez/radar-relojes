@@ -1,229 +1,5 @@
 [
  {
-  "fecha": "2026-10-27T19:22:18.900208+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Deepsea Sea-Dweller James Cameron 126660 Black/Blue 44mm Watch Full Set",
-  "total": 13360.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287685062462",
-  "item_id": "v1|287685062462|0",
-  "referencia": "126660",
-  "mercado": {
-   "n": 78,
-   "p25": 12938,
-   "mediana": 13994
-  },
-  "ratio_mercado": 1.033,
-  "motivo": "precio normal (103 % del cuartil bajo de 126660)"
- },
- {
-  "fecha": "2026-10-27T19:22:18.900208+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 18k Yellow Gold 2019 New Old Stock Day Date President 36MM Ref. 128238",
-  "total": 41995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/377601824278",
-  "item_id": "v1|377601824278|0",
-  "referencia": "128238",
-  "mercado": {
-   "n": 9,
-   "p25": 52204,
-   "mediana": 55570
-  },
-  "ratio_mercado": 0.804,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 43500,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Nuevo sin uso (NOS), con stickers y protector de bisel, venta original de 2019"
-  },
-  "ratio_justo": 0.965,
-  "motivo": "precio normal segun revision (96 % del justo 43500)"
- },
- {
-  "fecha": "2026-10-27T19:22:18.900208+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 126610LN Steel Full Set",
-  "total": 14499.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137880301018",
-  "item_id": "v1|137880301018|0",
-  "referencia": "126610LN",
-  "mercado": {
-   "n": 80,
-   "p25": 14468,
-   "mediana": 14995
-  },
-  "ratio_mercado": 1.002,
-  "motivo": "precio normal (100 % del cuartil bajo de 126610LN)"
- },
- {
-  "fecha": "2026-10-27T19:22:18.900208+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Speedmaster 'Silver Snoopy Award' 310.32.42.50.02.001 Steel",
-  "total": 15499.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137880303111",
-  "item_id": "v1|137880303111|0",
-  "referencia": "310.32.42.50.02.001",
-  "mercado": {
-   "n": 38,
-   "p25": 15847,
-   "mediana": 16309
-  },
-  "ratio_mercado": 0.978,
-  "motivo": "precio normal (98 % del cuartil bajo de 310.32.42.50.02.001)"
- },
- {
-  "fecha": "2026-10-27T19:37:17.770843+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Blue Two Tone Gold Steel 41mm Watch 116613LB Full Kit",
-  "total": 18730.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/820284820787",
-  "item_id": "v1|820284820787|0",
-  "referencia": "116613LB",
-  "mercado": {
-   "n": 51,
-   "p25": 15995,
-   "mediana": 16150
-  },
-  "ratio_mercado": 1.171,
-  "motivo": "precio normal (117 % del cuartil bajo de 116613LB)"
- },
- {
-  "fecha": "2026-10-27T19:37:17.770843+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu de Cartier WGBB0053 / 36mm / Rose Gold / Full Set",
-  "total": 13485.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227586060108",
-  "item_id": "v1|227586060108|0",
-  "referencia": "WGBB0053",
-  "mercado": {
-   "n": 1,
-   "p25": 13064,
-   "mediana": 13064
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu de Cartier 36 mm, oro rosa, esfera con diamantes, correa de cocodrilo azul, automático",
-   "referencia": "WGBB0053",
-   "precio_justo_usd": 17000,
-   "interesante": false,
-   "nota": "Precio unos 55 % bajo retail para un modelo nuevo con caja y papeles, lo que es una señal de alerta de replica o listado engañoso; verificar autenticidad antes de cualquier compra."
-  },
-  "motivo": "triage: Precio unos 55 % bajo retail para un modelo nuevo con caja y papeles, lo que es una señal de alerta de replica o listado engañoso; verificar autenticidad antes de cualquier compra. (justo 17000)"
- },
- {
-  "fecha": "2026-10-27T19:37:17.770843+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Louis WGTA0091 / 33.7mm / Yellow Gold / Full Set",
-  "total": 15250.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227586060110",
-  "item_id": "v1|227586060110|0",
-  "referencia": "WGTA0091",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Tank Louis, talla grande, oro amarillo, esfera negra, correa de piel negra con cabujón azul en la corona",
-   "referencia": "WGTA0091 (según el título, no verificable en la imagen)",
-   "precio_justo_usd": 10000,
-   "interesante": false,
-   "nota": "Precio pedido de 15.250 USD muy por encima del valor de mercado secundario estimado para una Tank Louis nueva de oro amarillo con caja y papeles."
-  },
-  "motivo": "triage: Precio pedido de 15.250 USD muy por encima del valor de mercado secundario estimado para una Tank Louis nueva de oro amarillo con caja y papeles. (justo 10000)"
- },
- {
-  "fecha": "2026-10-27T19:37:17.770843+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos-Dumont WSSA0085 / 31mm / Steel / Full Set",
-  "total": 6900.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227586060113",
-  "item_id": "v1|227586060113|0",
-  "referencia": "WSSA0085",
-  "mercado": {
-   "n": 1,
-   "p25": 5150,
-   "mediana": 5150
-  },
-  "triage": {
-   "modelo": "Cartier Santos-Dumont (acero, esfera plateada con números romanos, correa de cocodrilo azul)",
-   "referencia": "WSSA0085 (según título, no verificable en la imagen)",
-   "precio_justo_usd": 5200,
-   "interesante": false,
-   "nota": "Nuevo con caja y papeles, el mercado secundario ronda 5.000-5.500 USD; el precio pedido de 6.900 está por encima y no es oportunidad."
-  },
-  "motivo": "triage: Nuevo con caja y papeles, el mercado secundario ronda 5.000-5.500 USD; el precio pedido de 6.900 está por encima y no es oportunidad. (justo 5200)"
- },
- {
-  "fecha": "2026-10-27T19:37:17.770843+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu W6920046 / 36.6mm / Stainless Steel / Full Set",
-  "total": 4950.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227586060114",
-  "item_id": "v1|227586060114|0",
-  "referencia": "W6920046",
-  "mercado": {
-   "n": 2,
-   "p25": 6795,
-   "mediana": 7150
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu Automatic 36 mm, acero, esfera plateada con números romanos",
-   "referencia": "W6920046",
-   "precio_justo_usd": 4900,
-   "interesante": false,
-   "nota": "Referencia de acero nueva con caja y papeles. Precio pedido cercano al valor de mercado gris, sin descuento de al menos 15 %."
-  },
-  "motivo": "triage: Referencia de acero nueva con caja y papeles. Precio pedido cercano al valor de mercado gris, sin descuento de al menos 15 %. (justo 4900)"
- },
- {
-  "fecha": "2026-10-27T19:37:17.770843+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise W51011Q3 / 30 x 25mm / Stainless Steel / Full Set",
-  "total": 4950.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227586060115",
-  "item_id": "v1|227586060115|0",
-  "triage": {
-   "modelo": "Cartier Tank Française, acero, cuarzo, esfera plateada con numerales romanos, ventana de fecha a las 3",
-   "referencia": "W51011Q3",
-   "precio_justo_usd": 3600,
-   "interesante": false,
-   "nota": "Precio pedido cercano al retail para un modelo nuevo de acero; el mercado gris lo ofrece bastante por debajo. El título indica 30x25 mm, pero W51011Q3 suele listarse como 28x25 mm: conviene verificar medidas y papeles."
-  },
-  "motivo": "triage: Precio pedido cercano al retail para un modelo nuevo de acero; el mercado gris lo ofrece bastante por debajo. El título indica 30x25 mm, pero W51011Q3 suele listarse como 28x25 mm: conviene verificar medidas y papeles. (justo 3600)"
- },
- {
-  "fecha": "2026-10-27T19:37:17.770843+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ronde WSRN0031 / 36mm / Stainless Steel / Full Set",
-  "total": 4250.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227586060116",
-  "item_id": "v1|227586060116|0",
-  "referencia": "WSRN0031",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Ronde Solo de Cartier 36 mm (cuarzo, acero, esfera plateada, numerales romanos, correa de cuero)",
-   "referencia": "WSRN0031",
-   "precio_justo_usd": 2700,
-   "interesante": false,
-   "nota": "Nuevo con caja y papeles se vende en el mercado secundario por debajo de retail; US$4250 queda por encima del precio de venta real y no hay descuento que aproveche."
-  },
-  "motivo": "triage: Nuevo con caja y papeles se vende en el mercado secundario por debajo de retail; US$4250 queda por encima del precio de venta real y no hay descuento que aproveche. (justo 2700)"
- },
- {
   "fecha": "2026-10-27T19:37:17.770843+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Ronde WSRN0021 / 36mm / Stainless Steel / Full Set",
@@ -11354,5 +11130,210 @@
    "nota": "Precio pedido por encima de retail (~US$9.000); el mercado secundario nuevo ronda US$6.500-7.500. Además, el título indica 2026, lo que conviene verificar."
   },
   "motivo": "triage: Precio pedido por encima de retail (~US$9.000); el mercado secundario nuevo ronda US$6.500-7.500. Además, el título indica 2026, lo que conviene verificar. (justo 7000)"
+ },
+ {
+  "fecha": "2026-10-28T20:37:59.836128+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT Master II 126710BLNR \"Batgirl\" SS 40mm Jubilee Bracelet B&P 2024",
+  "total": 21895.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820288980488",
+  "item_id": "v1|820288980488|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 66,
+   "p25": 18395,
+   "mediana": 18950
+  },
+  "ratio_mercado": 1.19,
+  "motivo": "precio normal (119 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-10-28T20:37:59.836128+00:00",
+  "marca": "Rolex",
+  "titulo": "2024 Rolex Explorer Steel Black 36mm Automatic Men’s Watch 124270 - Box/Papers",
+  "total": 8695.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267826580848",
+  "item_id": "v1|267826580848|0",
+  "referencia": "124270",
+  "mercado": {
+   "n": 18,
+   "p25": 9495,
+   "mediana": 9530
+  },
+  "ratio_mercado": 0.916,
+  "motivo": "precio normal (92 % del cuartil bajo de 124270)"
+ },
+ {
+  "fecha": "2026-10-28T20:37:59.836128+00:00",
+  "marca": "Rolex",
+  "titulo": "2011 PAPERS Rolex Submariner BLACK 40mm Ceramic 18K Gold Steel 116613N",
+  "total": 13995.95,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840069431389",
+  "item_id": "v1|840069431389|0",
+  "referencia": "116613N",
+  "mercado": {
+   "n": 1,
+   "p25": 17500,
+   "mediana": 17500
+  },
+  "triage": {
+   "modelo": "Rolex Submariner Date bicolor (acero y oro 18k), según el título; la foto no muestra claramente bisel de cerámica negra",
+   "referencia": "116613 (el título indica 116613N, posible error; la referencia habitual es 116613LN/LB)",
+   "precio_justo_usd": 14500,
+   "interesante": false,
+   "nota": "Precio cercano al mercado, sin descuento de al menos 15%. La foto muestra un reloj de tono dorado/rosado con esfera clara que no coincide bien con el título; verificar referencia, número de serie y autenticidad antes de comprar."
+  },
+  "motivo": "triage: Precio cercano al mercado, sin descuento de al menos 15%. La foto muestra un reloj de tono dorado/rosado con esfera clara que no coincide bien con el título; verificar referencia, número de serie y autenticidad antes de comprar. (justo 14500)"
+ },
+ {
+  "fecha": "2026-10-28T20:37:59.836128+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Cosmograph Daytona \"Panda\" 126500LN-0001 | Brand New 2026 | Full Set",
+  "total": 38897.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880059815503",
+  "item_id": "v1|880059815503|0",
+  "referencia": "126500LN",
+  "mercado": {
+   "n": 22,
+   "p25": 34000,
+   "mediana": 36679
+  },
+  "ratio_mercado": 1.144,
+  "motivo": "precio normal (114 % del cuartil bajo de 126500LN)"
+ },
+ {
+  "fecha": "2026-10-28T20:37:59.836128+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II Batgirl Jubilee 2026 Full Set 126710BLNR",
+  "total": 20500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147655781032",
+  "item_id": "v1|147655781032|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 66,
+   "p25": 18395,
+   "mediana": 18950
+  },
+  "ratio_mercado": 1.114,
+  "motivo": "precio normal (111 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-10-28T20:37:59.836128+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 16610 stainless 40mm box & papers",
+  "total": 10000.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/960123745919",
+  "item_id": "v1|960123745919|0",
+  "referencia": "16610",
+  "mercado": {
+   "n": 78,
+   "p25": 9878,
+   "mediana": 10392
+  },
+  "ratio_mercado": 1.012,
+  "motivo": "precio normal (101 % del cuartil bajo de 16610)"
+ },
+ {
+  "fecha": "2026-10-28T20:37:59.836128+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise 25mm Steel and 18k YG W51012Q4 - 2022",
+  "total": 5985.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/117492074783",
+  "item_id": "v1|117492074783|0",
+  "triage": {
+   "modelo": "Cartier Tank Française 25 mm, acero y oro amarillo 18k (bicolor), cuarzo",
+   "referencia": "W51012Q4",
+   "precio_justo_usd": 4200,
+   "interesante": false,
+   "nota": "Precio pedido de US$5985 supera el valor de reventa estimado; el listado de 'refurbished' tampoco justifica una prima."
+  },
+  "motivo": "triage: Precio pedido de US$5985 supera el valor de reventa estimado; el listado de 'refurbished' tampoco justifica una prima. (justo 4200)"
+ },
+ {
+  "fecha": "2026-10-28T20:37:59.836128+00:00",
+  "marca": "Panerai",
+  "titulo": "Panerai Submersible PAM02070 44mm Black Rose Gold Carbon Mens Watch Box Card",
+  "total": 22025.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257822386077",
+  "item_id": "v1|257822386077|0",
+  "referencia": "PAM02070",
+  "mercado": {
+   "n": 4,
+   "p25": 24495,
+   "mediana": 24950
+  },
+  "triage": {
+   "modelo": "Panerai Submersible Goldtech Oro Rosso (caja de oro rosa, esfera negra, correa de caucho)",
+   "referencia": "PAM02070 (según título, sin verificar)",
+   "precio_justo_usd": 36000,
+   "interesante": false,
+   "nota": "El precio está muy por debajo del mercado para este modelo en oro rosa, y el título menciona 'Carbon' cuando la versión Goldtech no es carbono. Riesgo alto de réplica o listado engañoso; verificar número de serie, certificado y autenticidad antes de considerarlo."
+  },
+  "motivo": "triage: El precio está muy por debajo del mercado para este modelo en oro rosa, y el título menciona 'Carbon' cuando la versión Goldtech no es carbono. Riesgo alto de réplica o listado engañoso; verificar número de serie, certificado y autenticidad antes de considerarlo. (justo 36000)"
+ },
+ {
+  "fecha": "2026-10-28T20:37:59.836128+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Aqua Terra 150M 231.10.42.21.01.002 41.5mm Watch Only Wrist 7.75",
+  "total": 3900.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/407323056901",
+  "item_id": "v1|407323056901|0",
+  "referencia": "231.10.42.21.01.002",
+  "mercado": {
+   "n": 6,
+   "p25": 4195,
+   "mediana": 4464
+  },
+  "ratio_mercado": 0.93,
+  "motivo": "precio normal (93 % del cuartil bajo de 231.10.42.21.01.002)"
+ },
+ {
+  "fecha": "2026-10-28T20:37:59.836128+00:00",
+  "marca": "Omega",
+  "titulo": "2026 NEW Omega Speedmaster Reverse Panda 310.30.42.50.01.004 Steel 42mm Unworn",
+  "total": 9400.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/366767423183",
+  "item_id": "v1|366767423183|0",
+  "referencia": "310.30.42.50.01.004",
+  "mercado": {
+   "n": 16,
+   "p25": 9945,
+   "mediana": 10096
+  },
+  "ratio_mercado": 0.945,
+  "motivo": "precio normal (95 % del cuartil bajo de 310.30.42.50.01.004)"
+ },
+ {
+  "fecha": "2026-10-28T20:37:59.836128+00:00",
+  "marca": "IWC",
+  "titulo": "2023 IWC Portofino Hand-Wound Moon Phase 45mm 5N Gold IW516409",
+  "total": 17995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880059818927",
+  "item_id": "v1|880059818927|0",
+  "referencia": "IW516409",
+  "mercado": {
+   "n": 1,
+   "p25": 20896,
+   "mediana": 20896
+  },
+  "triage": {
+   "modelo": "IWC Portofino Hand-Wound Moon Phase (oro rosa 18k, esfera crema, correa de cuero negra)",
+   "referencia": "IW516409 (según título; no verificable en la foto)",
+   "precio_justo_usd": 15000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de reventa conservador para oro rosa 2023 con caja y papeles; la foto no confirma el tamaño de 45 mm ni la referencia."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de reventa conservador para oro rosa 2023 con caja y papeles; la foto no confirma el tamaño de 45 mm ni la referencia. (justo 15000)"
  }
 ]
