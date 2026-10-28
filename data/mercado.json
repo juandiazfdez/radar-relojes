@@ -5820,7 +5820,7 @@
   "max": 5900
  },
  "Rolex 18038|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-28",
   "consulta": "Rolex 18038",
   "n": 19,
   "mediana": 10459,
@@ -6650,11 +6650,11 @@
   "max": 59895
  },
  "Rolex 224270|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-28",
   "consulta": "Rolex 224270",
-  "n": 17,
+  "n": 15,
   "mediana": 9950,
-  "p25": 9674,
+  "p25": 9695,
   "p75": 10350,
   "min": 9063,
   "max": 12273
@@ -14428,5 +14428,40 @@
   "p75": 14005,
   "min": 14005,
   "max": 14005
+ },
+ "Cartier W5200026|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Cartier W5200026",
+  "n": 4,
+  "mediana": 8597,
+  "p25": 8495,
+  "p75": 8699,
+  "min": 6620,
+  "max": 8699
+ },
+ "Cartier WSTA0090|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Cartier WSTA0090",
+  "n": 0
+ },
+ "Tudor 79733N|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Tudor 79733N",
+  "n": 7,
+  "mediana": 4525,
+  "p25": 4000,
+  "p75": 5495,
+  "min": 3550,
+  "max": 6165
+ },
+ "IWC IW376803|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "IWC IW376803",
+  "n": 1,
+  "mediana": 4985,
+  "p25": 4985,
+  "p75": 4985,
+  "min": 4985,
+  "max": 4985
  }
 }
