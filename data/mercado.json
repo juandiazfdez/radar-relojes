@@ -6035,12 +6035,12 @@
   "max": 8858
  },
  "Rolex 69173|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-28",
   "consulta": "Rolex 69173",
-  "n": 24,
-  "mediana": 4450,
+  "n": 23,
+  "mediana": 4778,
   "p25": 4259,
-  "p75": 4975,
+  "p75": 4995,
   "min": 190,
   "max": 5000
  },
@@ -12110,14 +12110,14 @@
   "max": 7395
  },
  "TAG Heuer WAF1112|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-28",
   "consulta": "TAG Heuer WAF1112",
-  "n": 4,
-  "mediana": 742,
-  "p25": 675,
+  "n": 5,
+  "mediana": 675,
+  "p25": 650,
   "p75": 995,
-  "min": 650,
-  "max": 995
+  "min": 600,
+  "max": 1199
  },
  "TAG Heuer CBL2113|nuevo": {
   "fecha": "2026-10-27",
@@ -14272,6 +14272,21 @@
  "IWC IW501015|usado": {
   "fecha": "2026-10-28",
   "consulta": "IWC IW501015",
+  "n": 0
+ },
+ "Omega 329.30.44.51.04.001|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Omega 329.30.44.51.04.001",
+  "n": 6,
+  "mediana": 7848,
+  "p25": 7615,
+  "p75": 8288,
+  "min": 7296,
+  "max": 8400
+ },
+ "IWC IW516201|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "IWC IW516201",
   "n": 0
  }
 }
