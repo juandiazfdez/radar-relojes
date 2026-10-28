@@ -5950,11 +5950,11 @@
   "max": 34895
  },
  "Rolex 126710BLNR|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-28",
   "consulta": "Rolex 126710BLNR",
   "n": 66,
-  "mediana": 18970,
-  "p25": 18500,
+  "mediana": 18950,
+  "p25": 18395,
   "p75": 19615,
   "min": 16823,
   "max": 20140
@@ -6810,7 +6810,7 @@
   "max": 26500
  },
  "Rolex 116710BLNR|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-28",
   "consulta": "Rolex 116710BLNR",
   "n": 45,
   "mediana": 16800,
@@ -8145,7 +8145,7 @@
   "max": 5900
  },
  "Panerai PAM01305|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-28",
   "consulta": "Panerai PAM01305",
   "n": 11,
   "mediana": 6000,
@@ -10630,13 +10630,13 @@
   "n": 0
  },
  "IWC IW391008|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-28",
   "consulta": "IWC IW391008",
-  "n": 2,
-  "mediana": 4995,
-  "p25": 4300,
+  "n": 3,
+  "mediana": 4300,
+  "p25": 3295,
   "p75": 5690,
-  "min": 4300,
+  "min": 3295,
   "max": 5690
  },
  "IWC IW391010|usado": {
@@ -11175,13 +11175,13 @@
   "max": 45276
  },
  "Rolex 126655|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-28",
   "consulta": "Rolex 126655",
-  "n": 17,
-  "mediana": 33725,
+  "n": 20,
+  "mediana": 33578,
   "p25": 32999,
   "p75": 36575,
-  "min": 29787,
+  "min": 28777,
   "max": 72500
  },
  "Rolex 226570|usado": {
@@ -11835,11 +11835,11 @@
   "max": 800
  },
  "Rolex 14060M|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-28",
   "consulta": "Rolex 14060M",
-  "n": 19,
-  "mediana": 10898,
-  "p25": 10500,
+  "n": 20,
+  "mediana": 11104,
+  "p25": 10520,
   "p75": 12196,
   "min": 8800,
   "max": 15124
@@ -13520,13 +13520,13 @@
   "max": 6000
  },
  "Omega 2254.50.00|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-28",
   "consulta": "Omega 2254.50.00",
-  "n": 1,
-  "mediana": 4519,
-  "p25": 4519,
+  "n": 2,
+  "mediana": 4410,
+  "p25": 4300,
   "p75": 4519,
-  "min": 4519,
+  "min": 4300,
   "max": 4519
  },
  "Rolex 16628|usado": {
@@ -14228,5 +14228,30 @@
   "p75": 8600,
   "min": 7390,
   "max": 8600
+ },
+ "Cartier W2SA0008|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Cartier W2SA0008",
+  "n": 13,
+  "mediana": 13345,
+  "p25": 11995,
+  "p75": 14700,
+  "min": 11500,
+  "max": 20837
+ },
+ "Cartier WSNM0004|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Cartier WSNM0004",
+  "n": 2,
+  "mediana": 5267,
+  "p25": 4950,
+  "p75": 5584,
+  "min": 4950,
+  "max": 5584
+ },
+ "TAG Heuer CV201E|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "TAG Heuer CV201E",
+  "n": 0
  }
 }
