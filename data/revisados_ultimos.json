@@ -1,80 +1,6 @@
 [
  {
   "fecha": "2026-10-27T15:07:07.556341+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona 116515 Chocolate Chronograph 18k Rose Gold Box Papers 2010",
-  "total": 38525.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267825274882",
-  "item_id": "v1|267825274882|0",
-  "referencia": "116515",
-  "mercado": {
-   "n": 19,
-   "p25": 41000,
-   "mediana": 44988
-  },
-  "ratio_mercado": 0.94,
-  "motivo": "precio normal (94 % del cuartil bajo de 116515)"
- },
- {
-  "fecha": "2026-10-27T15:07:07.556341+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41mm 2019 No box, no papers",
-  "total": 10700.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/168820067460",
-  "item_id": "v1|168820067460|0",
-  "triage": {
-   "modelo": "Rolex Datejust 41 (bisel liso, esfera negra con índices de barra)",
-   "referencia": "126300 (probable, por bisel liso y esfera negra)",
-   "precio_justo_usd": 8800,
-   "interesante": false,
-   "nota": "Sin caja ni papeles y en estado Fair; el precio pedido de US$10,700 queda por encima de lo que se vende este modelo."
-  },
-  "motivo": "triage: Sin caja ni papeles y en estado Fair; el precio pedido de US$10,700 queda por encima de lo que se vende este modelo. (justo 8800)"
- },
- {
-  "fecha": "2026-10-27T15:07:07.556341+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai Luminor Marina 44mm Limited 4,000 With Boxes Pam 104",
-  "total": 3049.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237147003580",
-  "item_id": "v1|237147003580|0",
-  "referencia": "PAM104",
-  "mercado": {
-   "n": 3,
-   "p25": 3449,
-   "mediana": 4990
-  },
-  "triage": {
-   "modelo": "Panerai Luminor Marina 44mm Limited Edition 4000",
-   "referencia": "PAM00104",
-   "precio_justo_usd": 7000,
-   "interesante": false,
-   "nota": "Precio muy por debajo del mercado para esta referencia; con la caja y el precio tan bajo, sospecho de replica o de listado incompleto o enganoso. Verificar antes de comprar."
-  },
-  "motivo": "triage: Precio muy por debajo del mercado para esta referencia; con la caja y el precio tan bajo, sospecho de replica o de listado incompleto o enganoso. Verificar antes de comprar. (justo 7000)"
- },
- {
-  "fecha": "2026-10-27T15:07:07.556341+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Speedmaster '57 Master Chronometer 40.5 Stainless Steel / Black / Bracele…",
-  "total": 7560.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198749701397",
-  "item_id": "v1|198749701397|0",
-  "triage": {
-   "modelo": "Omega Speedmaster '57 Co-Axial Master Chronometer Chronograph 40.5 mm, acero, esfera negra, brazalete de acero",
-   "referencia": "332.10.40.50.01.001",
-   "precio_justo_usd": 5600,
-   "interesante": false,
-   "nota": "Pedido de US$7560 por un modelo de producción actual usado; el precio de venta cerrada en EE. UU. ronda US$5600, así que está por encima de mercado."
-  },
-  "motivo": "triage: Pedido de US$7560 por un modelo de producción actual usado; el precio de venta cerrada en EE. UU. ronda US$5600, así que está por encima de mercado. (justo 5600)"
- },
- {
-  "fecha": "2026-10-27T15:07:07.556341+00:00",
   "marca": "TAG Heuer",
   "titulo": "TAG Heuer Aquaracer Men's Black Watch - WAF2010BA0818",
   "total": 1200.0,
@@ -11411,5 +11337,73 @@
    "nota": "Precio pedido de 4345 USD está por encima del valor de venta real estimado para este modelo usado con caja y papeles; no cumple el umbral de oportunidad."
   },
   "motivo": "triage: Precio pedido de 4345 USD está por encima del valor de venta real estimado para este modelo usado con caja y papeles; no cumple el umbral de oportunidad. (justo 3800)"
+ },
+ {
+  "fecha": "2026-10-28T14:37:48.193610+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner 41 Date \"2024\" 126619LB",
+  "total": 41078.44,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237148856459",
+  "item_id": "v1|237148856459|0",
+  "referencia": "126619LB",
+  "mercado": {
+   "n": 19,
+   "p25": 38990,
+   "mediana": 39970
+  },
+  "ratio_mercado": 1.054,
+  "motivo": "precio normal (105 % del cuartil bajo de 126619LB)"
+ },
+ {
+  "fecha": "2026-10-28T14:37:48.193610+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos 100 XL 38MM 2656 / W200728g Roman 18K Yellow Gold & Steel Watch",
+  "total": 7200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940048002598",
+  "item_id": "v1|940048002598|0",
+  "referencia": "2656",
+  "mercado": {
+   "n": 26,
+   "p25": 5255,
+   "mediana": 5612
+  },
+  "ratio_mercado": 1.37,
+  "motivo": "precio normal (137 % del cuartil bajo de 2656)"
+ },
+ {
+  "fecha": "2026-10-28T14:37:48.193610+00:00",
+  "marca": "Omega",
+  "titulo": "PLAYBOY  OMEGA GOLD FILLED LADIES WATCH  ENGRAVED ELEANOR WAGNER WITH THANKS HEF",
+  "total": 1500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327427744628",
+  "item_id": "v1|327427744628|0",
+  "triage": {
+   "modelo": "Movado Museum (dial negro con marcador de punto en las 12, caja dorada, correa de cuero negro). No es un Omega según la foto.",
+   "referencia": null,
+   "precio_justo_usd": 300,
+   "interesante": false,
+   "nota": "La foto muestra un Movado Museum, no un Omega Playboy; el título parece engañoso. Además, el grabado y la mención a Playboy no suben el valor de forma verificable."
+  },
+  "motivo": "triage: La foto muestra un Movado Museum, no un Omega Playboy; el título parece engañoso. Además, el grabado y la mención a Playboy no suben el valor de forma verificable. (justo 300)"
+ },
+ {
+  "fecha": "2026-10-28T14:37:48.193610+00:00",
+  "marca": "Jaeger-LeCoultre",
+  "titulo": "Jaeger-LeCoultre 44mm Master Compressor Diving Chronograph GMT 159.T.C7 - B/P",
+  "total": 8220.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366766866653",
+  "item_id": "v1|366766866653|0",
+  "triage": {
+   "modelo": "Jaeger-LeCoultre Master Compressor Diving Chronograph (acero, bisel negro, correa NATO; el título indica GMT, no verificable en la foto)",
+   "referencia": "159.T.C7 (según título, no verificable en la imagen)",
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "Precio pedido por encima de la estimación de venta real para usado en buen estado con caja y papeles; no hay descuento claro."
+  },
+  "motivo": "triage: Precio pedido por encima de la estimación de venta real para usado en buen estado con caja y papeles; no hay descuento claro. (justo 6500)"
  }
 ]
