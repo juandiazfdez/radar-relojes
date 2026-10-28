@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-10-26T23:36:33.951547+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner 116610lv-0002 Pre-owned Box & Papers 2019",
-  "total": 22640.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137877973725",
-  "item_id": "v1|137877973725|0",
-  "referencia": "116610LV",
-  "mercado": {
-   "n": 36,
-   "p25": 20699,
-   "mediana": 21055
-  },
-  "ratio_mercado": 1.094,
-  "motivo": "precio normal (109 % del cuartil bajo de 116610LV)"
- },
- {
-  "fecha": "2026-10-26T23:36:33.951547+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date 79160 (Salmon Dial) Stainless Steel 26mm Watch 2000",
-  "total": 5330.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128158235680",
-  "item_id": "v1|128158235680|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date (Oyster Perpetual Date, 26 mm, acero, bisel liso, esfera salmón)",
-   "referencia": "79160",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "Precio pedido de US$5330 muy por encima del valor de venta cerrada estimado para un 79160 de 2000 en estado Good; no cumple el umbral de 15 % por debajo."
-  },
-  "motivo": "triage: Precio pedido de US$5330 muy por encima del valor de venta cerrada estimado para un 79160 de 2000 en estado Good; no cumple el umbral de 15 % por debajo. (justo 3800)"
- },
- {
-  "fecha": "2026-10-26T23:36:33.951547+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Française Automatic 2302 Stainless Steel Watch",
   "total": 3500.73,
@@ -11489,5 +11455,45 @@
    "nota": "Precio pedido muy por encima del mercado para un Ingenieur 40 de acero usado; la etiqueta 'edición limitada F1/Sonny Hayes' no parece justificar la diferencia."
   },
   "motivo": "triage: Precio pedido muy por encima del mercado para un Ingenieur 40 de acero usado; la etiqueta 'edición limitada F1/Sonny Hayes' no parece justificar la diferencia. (justo 6500)"
+ },
+ {
+  "fecha": "2026-10-28T03:07:26.696615+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Princess Oysterdate 7637/4 Stainless Steel Runs Very Good!!",
+  "total": 1535.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137881196528",
+  "item_id": "v1|137881196528|0",
+  "triage": {
+   "modelo": "Tudor Princess Oysterdate (estilo vintage, bisel acanalado, brazalete Oyster)",
+   "referencia": "7637/4",
+   "precio_justo_usd": 1300,
+   "interesante": false,
+   "nota": "Precio pedido por encima de la estimación conservadora para una 7637/4 en estado Good; el listado no muestra ventaja clara."
+  },
+  "motivo": "triage: Precio pedido por encima de la estimación conservadora para una 7637/4 en estado Good; el listado no muestra ventaja clara. (justo 1300)"
+ },
+ {
+  "fecha": "2026-10-28T03:07:26.696615+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Speedmaster Schumacher 3519.50 LE World Champion 2001 39mm Chronograph",
+  "total": 2895.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206658830790",
+  "item_id": "v1|206658830790|0",
+  "referencia": "3519.50",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Omega Speedmaster Schumacher (Racing) Chronograph, edición limitada 2001 Campeón del Mundo, 39 mm, acero",
+   "referencia": "3519.50",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Modelo reconocible por la esfera negra y el bisel taquimétrico, pero la referencia 3519.50 viene del título y no se distingue en la foto. Precio justo estimado para estado Good sin certificar; el listado está cerca de ese valor, no 15 % por debajo."
+  },
+  "motivo": "triage: Modelo reconocible por la esfera negra y el bisel taquimétrico, pero la referencia 3519.50 viene del título y no se distingue en la foto. Precio justo estimado para estado Good sin certificar; el listado está cerca de ese valor, no 15 % por debajo. (justo 3000)"
  }
 ]
