@@ -1,136 +1,5 @@
 [
  {
-  "fecha": "2026-10-26T23:21:33.763936+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 16030 Stainless Steel 36mm Watch 1983",
-  "total": 6330.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117489097536",
-  "item_id": "v1|117489097536|0",
-  "referencia": "16030",
-  "mercado": {
-   "n": 6,
-   "p25": 710,
-   "mediana": 2454
-  },
-  "ratio_mercado": 8.915,
-  "motivo": "precio normal (892 % del cuartil bajo de 16030)"
- },
- {
-  "fecha": "2026-10-26T23:21:33.763936+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 16220 Stainless Steel 36mm Watch Oyster Bracelet 1990",
-  "total": 7640.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128158218263",
-  "item_id": "v1|128158218263|0",
-  "referencia": "16220",
-  "mercado": {
-   "n": 33,
-   "p25": 5990,
-   "mediana": 6649
-  },
-  "ratio_mercado": 1.275,
-  "motivo": "precio normal (128 % del cuartil bajo de 16220)"
- },
- {
-  "fecha": "2026-10-26T23:21:33.763936+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere 88395 18K Yellow Gold 29.5mm Watch",
-  "total": 24380.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117489093193",
-  "item_id": "v1|117489093193|0",
-  "triage": {
-   "modelo": "Cartier Panthère de cuarzo en oro amarillo 18K, caja cuadrada con numerales romanos y brazalete integrado (tamaño medio, aprox. 29,5 mm según el título)",
-   "referencia": null,
-   "precio_justo_usd": 12500,
-   "interesante": false,
-   "nota": "El precio pedido (US$24.380) supera con holgura el valor de mercado para este modelo en oro 18K, aunque el valor del metal sea alto. La referencia 88395 del título no coincide con las referencias conocidas de la Panthère; verificar antes de comprar."
-  },
-  "motivo": "triage: El precio pedido (US$24.380) supera con holgura el valor de mercado para este modelo en oro 18K, aunque el valor del metal sea alto. La referencia 88395 del título no coincide con las referencias conocidas de la Panthère; verificar antes de comprar. (justo 12500)"
- },
- {
-  "fecha": "2026-10-26T23:21:33.763936+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR 1926 36mm (Ref. M91450-0005)",
-  "total": 2325.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/206656235603",
-  "item_id": "v1|206656235603|0",
-  "referencia": "M91450-0005",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Tudor 1926 36mm",
-   "referencia": "M91450-0005",
-   "precio_justo_usd": 2700,
-   "interesante": false,
-   "nota": "Precio cercano al mercado gris para un 1926 bicolor nuevo con caja y papeles; el descuento es normal, no una oportunidad clara. Verificar autenticidad y papeles."
-  },
-  "motivo": "triage: Precio cercano al mercado gris para un 1926 bicolor nuevo con caja y papeles; el descuento es normal, no una oportunidad clara. Verificar autenticidad y papeles. (justo 2700)"
- },
- {
-  "fecha": "2026-10-26T23:21:33.763936+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Specialties 1938 Series Museum Pilot Limited-edition Automatic Men's Watch",
-  "total": 2630.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206656259896",
-  "item_id": "v1|206656259896|0",
-  "triage": {
-   "modelo": "Omega Specialties 1938 Series Museum Pilot (edición limitada, reedición)",
-   "referencia": null,
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "Reedición limitada de esfera negra con acero y correa de piel, de usado excelente. Precio pedido por encima de la estimación de venta real; referencia no verificable en la imagen."
-  },
-  "motivo": "triage: Reedición limitada de esfera negra con acero y correa de piel, de usado excelente. Precio pedido por encima de la estimación de venta real; referencia no verificable en la imagen. (justo 2200)"
- },
- {
-  "fecha": "2026-10-26T23:21:33.763936+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Diver 300M Ref. 210.32.42.20.06.001 Case #730",
-  "total": 4295.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128158231545",
-  "item_id": "v1|128158231545|0",
-  "referencia": "210.32.42.20.06.001",
-  "mercado": {
-   "n": 11,
-   "p25": 4400,
-   "mediana": 4497
-  },
-  "ratio_mercado": 0.976,
-  "motivo": "precio normal (98 % del cuartil bajo de 210.32.42.20.06.001)"
- },
- {
-  "fecha": "2026-10-26T23:21:33.763936+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Avenger Blackbird 44 Titanium PVD V17311",
-  "total": 2150.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206656262342",
-  "item_id": "v1|206656262342|0",
-  "referencia": "V17311",
-  "mercado": {
-   "n": 3,
-   "p25": 2495,
-   "mediana": 3250
-  },
-  "triage": {
-   "modelo": "Breitling Avenger Blackbird 44 Titanium PVD (con correa de caucho)",
-   "referencia": "V17311",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "Precio ~43% bajo el valor de mercado; tan bajo para un modelo actual de titanio PVD sugiere replica o pieza incompleta. Verificar autenticidad, papeles y estado antes de comprar."
-  },
-  "motivo": "triage: Precio ~43% bajo el valor de mercado; tan bajo para un modelo actual de titanio PVD sugiere replica o pieza incompleta. Verificar autenticidad, papeles y estado antes de comprar. (justo 3800)"
- },
- {
   "fecha": "2026-10-26T23:36:33.951547+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Submariner 116610lv-0002 Pre-owned Box & Papers 2019",
@@ -11483,5 +11352,142 @@
    "nota": "Descuento aparente, pero el título tiene errores y la esfera no permite verificar el logo ni la autenticidad; hay que confirmar el movimiento y la esfera antes de comprar."
   },
   "motivo": "triage: Descuento aparente, pero el título tiene errores y la esfera no permite verificar el logo ni la autenticidad; hay que confirmar el movimiento y la esfera antes de comprar. (justo 1900)"
+ },
+ {
+  "fecha": "2026-10-28T02:52:27.319233+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay GMT “Pepsi” – Ref. 79830RB | 2025 | Full Set",
+  "total": 3999.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366765897530",
+  "item_id": "v1|366765897530|0",
+  "referencia": "79830RB",
+  "mercado": {
+   "n": 43,
+   "p25": 3800,
+   "mediana": 4055
+  },
+  "ratio_mercado": 1.052,
+  "motivo": "precio normal (105 % del cuartil bajo de 79830RB)"
+ },
+ {
+  "fecha": "2026-10-28T02:52:27.319233+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 – 39mm – Stainless Steel – 79030N",
+  "total": 3100.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366765894969",
+  "item_id": "v1|366765894969|0",
+  "referencia": "79030N",
+  "mercado": {
+   "n": 12,
+   "p25": 3900,
+   "mediana": 3998
+  },
+  "ratio_mercado": 0.795,
+  "motivo": "vendedor con 2 valoraciones"
+ },
+ {
+  "fecha": "2026-10-28T02:52:27.319233+00:00",
+  "marca": "Omega",
+  "titulo": "Vintage Rare Omega Seamaster Automatic Horn Lugs Ref 14363 ",
+  "total": 1750.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336866623724",
+  "item_id": "v1|336866623724|0",
+  "triage": {
+   "modelo": "Omega Seamaster Automatic, horn lugs (vintage, años 50-60); la foto muestra un reloj de estilo dress con correa roja, que no coincide claramente con el título",
+   "referencia": "14363",
+   "precio_justo_usd": 1100,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor estimado; la foto no confirma el modelo anunciado, así que conviene pedir fotos del dial y la caja antes de considerarlo."
+  },
+  "motivo": "triage: Precio pedido por encima del valor estimado; la foto no confirma el modelo anunciado, así que conviene pedir fotos del dial y la caja antes de considerarlo. (justo 1100)"
+ },
+ {
+  "fecha": "2026-10-28T02:52:27.319233+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Seamaster Aqua Terra 231.10.39.21.02.001",
+  "total": 3333.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336866620778",
+  "item_id": "v1|336866620778|0",
+  "referencia": "231.10.39.21.02.001",
+  "mercado": {
+   "n": 1,
+   "p25": 4100,
+   "mediana": 4100
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Aqua Terra 38.5 mm, acero, esfera blanca, brazalete de acero, con caja y papeles",
+   "referencia": "231.10.39.21.02.001",
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "Precio cercano al mercado secundario para este modelo usado con caja; no alcanza el 15 % de descuento necesario. Verificar autenticidad y papeles."
+  },
+  "motivo": "triage: Precio cercano al mercado secundario para este modelo usado con caja; no alcanza el 15 % de descuento necesario. Verificar autenticidad y papeles. (justo 3600)"
+ },
+ {
+  "fecha": "2026-10-28T02:52:27.319233+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster 2531.80 300M Automatic 41mm – OMEGA SERVICE AUG 2026",
+  "total": 3025.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920081074510",
+  "item_id": "v1|920081074510|0",
+  "referencia": "2531.80",
+  "mercado": {
+   "n": 4,
+   "p25": 4305,
+   "mediana": 4305
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Professional 300M (Diver 300M), bisel azul, esfera negra, brazalete de acero, 41 mm",
+   "referencia": "2531.80",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Precio cercano al mercado (≈5 % por debajo), no alcanza el umbral del 15 %. Verificar papeles y que el servicio de agosto de 2026 esté documentado."
+  },
+  "motivo": "triage: Precio cercano al mercado (≈5 % por debajo), no alcanza el umbral del 15 %. Verificar papeles y que el servicio de agosto de 2026 esté documentado. (justo 3200)"
+ },
+ {
+  "fecha": "2026-10-28T02:52:27.319233+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Formula 1 Men's Black Watch - CAZ1010",
+  "total": 1150.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206658807653",
+  "item_id": "v1|206658807653|0",
+  "referencia": "CAZ1010",
+  "mercado": {
+   "n": 12,
+   "p25": 1250,
+   "mediana": 1459
+  },
+  "ratio_mercado": 0.92,
+  "motivo": "precio normal (92 % del cuartil bajo de CAZ1010)"
+ },
+ {
+  "fecha": "2026-10-28T02:52:27.319233+00:00",
+  "marca": "IWC",
+  "titulo": "2025 IWC Ingenieur Automatic 40 “F1 / Sonny Hayes” Limited Edition IW328908",
+  "total": 22995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940046928124",
+  "item_id": "v1|940046928124|0",
+  "referencia": "IW328908",
+  "mercado": {
+   "n": 1,
+   "p25": 22980,
+   "mediana": 22980
+  },
+  "triage": {
+   "modelo": "IWC Ingenieur Automatic 40 (esfera verde texturizada, brazalete de acero)",
+   "referencia": "IW328908",
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del mercado para un Ingenieur 40 de acero usado; la etiqueta 'edición limitada F1/Sonny Hayes' no parece justificar la diferencia."
+  },
+  "motivo": "triage: Precio pedido muy por encima del mercado para un Ingenieur 40 de acero usado; la etiqueta 'edición limitada F1/Sonny Hayes' no parece justificar la diferencia. (justo 6500)"
  }
 ]
