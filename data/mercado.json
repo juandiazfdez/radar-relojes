@@ -1300,13 +1300,13 @@
   "max": 29155
  },
  "Rolex 216570|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-28",
   "consulta": "Rolex 216570",
   "n": 15,
-  "mediana": 9950,
-  "p25": 9572,
+  "mediana": 10000,
+  "p25": 9750,
   "p75": 10499,
-  "min": 7300,
+  "min": 8899,
   "max": 10588
  },
  "Rolex 124300-0001|nuevo": {
@@ -6520,7 +6520,7 @@
   "max": 8900
  },
  "Rolex 126334|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-28",
   "consulta": "Rolex 126334",
   "n": 1,
   "mediana": 10389,
@@ -14333,5 +14333,50 @@
   "p75": 1300,
   "min": 950,
   "max": 1300
+ },
+ "Rolex 179163|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Rolex 179163",
+  "n": 22,
+  "mediana": 8940,
+  "p25": 8350,
+  "p75": 9877,
+  "min": 6760,
+  "max": 15068
+ },
+ "Cartier W3019551|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Cartier W3019551",
+  "n": 0
+ },
+ "Tudor 79500|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Tudor 79500",
+  "n": 2,
+  "mediana": 2432,
+  "p25": 2315,
+  "p75": 2550,
+  "min": 2315,
+  "max": 2550
+ },
+ "Omega 2201.50.00|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Omega 2201.50.00",
+  "n": 0
+ },
+ "Breitling A73350|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Breitling A73350",
+  "n": 4,
+  "mediana": 1910,
+  "p25": 1800,
+  "p75": 2034,
+  "min": 1627,
+  "max": 2034
+ },
+ "IWC IW502640|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "IWC IW502640",
+  "n": 0
  }
 }
