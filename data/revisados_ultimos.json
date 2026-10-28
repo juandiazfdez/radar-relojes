@@ -1,98 +1,6 @@
 [
  {
   "fecha": "2026-10-27T18:37:18.306823+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II \"Bruce Wayne\" Oystersteel (126710GRNR-0004)",
-  "total": 23500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800845246465",
-  "item_id": "v1|800845246465|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 87,
-   "p25": 21950,
-   "mediana": 23138
-  },
-  "ratio_mercado": 1.071,
-  "motivo": "precio normal (107 % del cuartil bajo de 126710GRNR)"
- },
- {
-  "fecha": "2026-10-27T18:37:18.306823+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II Rootbeer Rose Gold Watch 126711CHNR",
-  "total": 22899.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960123374263",
-  "item_id": "v1|960123374263|0",
-  "referencia": "126711CHNR",
-  "mercado": {
-   "n": 94,
-   "p25": 20589,
-   "mediana": 21492
-  },
-  "ratio_mercado": 1.112,
-  "motivo": "precio normal (111 % del cuartil bajo de 126711CHNR)"
- },
- {
-  "fecha": "2026-10-27T18:37:18.306823+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 16800 Stainless Steel Watch",
-  "total": 8599.95,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/860089636461",
-  "item_id": "v1|860089636461|0",
-  "referencia": "16800",
-  "mercado": {
-   "n": 15,
-   "p25": 11950,
-   "mediana": 12900
-  },
-  "ratio_mercado": 0.72,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 8300,
-   "riesgo_autenticidad": "medio",
-   "estado": "Desgaste normal; bisel con rayones y decoloración; brazalete posiblemente estirado; sin papeles"
-  },
-  "ratio_justo": 1.036,
-  "motivo": "precio normal segun revision (104 % del justo 8300)"
- },
- {
-  "fecha": "2026-10-27T18:37:18.306823+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex DateJust BLUE DIAMOND Two-Tone Yellow Gold Steel Jubilee 36mm 16013 Watch",
-  "total": 6113.83,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960123379166",
-  "item_id": "v1|960123379166|0",
-  "referencia": "16013",
-  "mercado": {
-   "n": 21,
-   "p25": 1815,
-   "mediana": 4700
-  },
-  "ratio_mercado": 3.369,
-  "motivo": "precio normal (337 % del cuartil bajo de 16013)"
- },
- {
-  "fecha": "2026-10-27T18:37:18.306823+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Pelagos FXD GMT Titanium Black 42mm Auto Men's Watch 2542G247NU",
-  "total": 5495.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267825462879",
-  "item_id": "v1|267825462879|0",
-  "triage": {
-   "modelo": "Tudor Pelagos FXD GMT (titanio, esfera azul, correa de tela gris)",
-   "referencia": "M25715 (aprox.; el listado indica 2542G247NU, que no coincide con el formato de referencia de Tudor)",
-   "precio_justo_usd": 3900,
-   "interesante": false,
-   "nota": "El precio pedido supera el retail de este modelo y el listado tiene inconsistencias: la referencia no coincide con el formato Tudor, el título dice 'Titanium Black' pero la esfera es azul, y el año 2026 es dudoso. Verificar número de serie y papeles antes de considerarlo."
-  },
-  "motivo": "triage: El precio pedido supera el retail de este modelo y el listado tiene inconsistencias: la referencia no coincide con el formato Tudor, el título dice 'Titanium Black' pero la esfera es azul, y el año 2026 es dudoso. Verificar número de serie y papeles antes de considerarlo. (justo 3900)"
- },
- {
-  "fecha": "2026-10-27T18:37:18.306823+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Grantour Racing Chronograph 2010s Watch Reference 20530 Automatic 42mm",
   "total": 1799.99,
@@ -11389,5 +11297,96 @@
    "nota": "Solo reloj, sin caja ni papeles; el precio pedido de 2250 USD está por encima de su valor de venta estimado para esta referencia en estado excelente."
   },
   "motivo": "triage: Solo reloj, sin caja ni papeles; el precio pedido de 2250 USD está por encima de su valor de venta estimado para esta referencia en estado excelente. (justo 2100)"
+ },
+ {
+  "fecha": "2026-10-28T19:38:00.289014+00:00",
+  "marca": "Rolex",
+  "titulo": "NOS Stickered 2016 Rolex Oyster Perpetual 114200 Silver 34mm Watch Box Papers",
+  "total": 8153.85,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/307254228499",
+  "item_id": "v1|307254228499|0",
+  "referencia": "114200",
+  "mercado": {
+   "n": 29,
+   "p25": 6995,
+   "mediana": 7500
+  },
+  "ratio_mercado": 1.166,
+  "motivo": "precio normal (117 % del cuartil bajo de 114200)"
+ },
+ {
+  "fecha": "2026-10-28T19:38:00.289014+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier 25mm Santos Octagon AC980gr.OR0,7502,30gr 18k Solid Yellow Gold& Steel 2",
+  "total": 4200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257822311718",
+  "item_id": "v1|257822311718|0",
+  "triage": {
+   "modelo": "Cartier Santos Octagon bicolor (acero y oro amarillo 18k), cuarzo, 25 mm, esfera blanca con números romanos",
+   "referencia": "1057930 (probable, no verificable en la foto)",
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Precio pedido de US$4200 muy por encima del valor de mercado para este modelo de cuarzo bicolor pre-owned; estimo unos US$2000-2600."
+  },
+  "motivo": "triage: Precio pedido de US$4200 muy por encima del valor de mercado para este modelo de cuarzo bicolor pre-owned; estimo unos US$2000-2600. (justo 2300)"
+ },
+ {
+  "fecha": "2026-10-28T19:38:00.289014+00:00",
+  "marca": "Omega",
+  "titulo": "1962 Vintage OMEGA Seamaster DE VILLE Automatic, Serviced with Warranty",
+  "total": 1450.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198752795048",
+  "item_id": "v1|198752795048|0",
+  "triage": {
+   "modelo": "Omega Seamaster De Ville Automatic vintage (años 60), esfera plateada con marcadores de barra, caja de acero, correa de cuero negra",
+   "referencia": "Probablemente 565.0xx (no verificable en la foto)",
+   "precio_justo_usd": 1100,
+   "interesante": false,
+   "nota": "El precio pedido de 1450 USD supera el valor estimado de venta para este modelo vintage en buen estado, aunque el servicio con garantía justifica algo de prima."
+  },
+  "motivo": "triage: El precio pedido de 1450 USD supera el valor estimado de venta para este modelo vintage en buen estado, aunque el servicio con garantía justifica algo de prima. (justo 1100)"
+ },
+ {
+  "fecha": "2026-10-28T19:38:00.289014+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Navitimer 01 Men's Watch AB012721/BD09",
+  "total": 6900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137882623846",
+  "item_id": "v1|137882623846|0",
+  "referencia": "AB012721",
+  "mercado": {
+   "n": 5,
+   "p25": 5900,
+   "mediana": 6495
+  },
+  "ratio_mercado": 1.169,
+  "motivo": "precio normal (117 % del cuartil bajo de AB012721)"
+ },
+ {
+  "fecha": "2026-10-28T19:38:00.289014+00:00",
+  "marca": "IWC",
+  "titulo": "IWC Pilot Mark XV 15 Steel 38mm Black IW325302 Leather Automatic",
+  "total": 3814.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960126940279",
+  "item_id": "v1|960126940279|0",
+  "referencia": "IW325302",
+  "mercado": {
+   "n": 1,
+   "p25": 5999,
+   "mediana": 5999
+  },
+  "triage": {
+   "modelo": "IWC Pilot Mark XV, esfera negra, caja de acero 38 mm, automático",
+   "referencia": "IW325302",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Precio pedido de US$3814 supera el valor de venta real estimado (~US$2600 con estado Good y sin caja/papeles confirmados); no hay descuento."
+  },
+  "motivo": "triage: Precio pedido de US$3814 supera el valor de venta real estimado (~US$2600 con estado Good y sin caja/papeles confirmados); no hay descuento. (justo 2600)"
  }
 ]
