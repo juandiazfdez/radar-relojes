@@ -1,79 +1,5 @@
 [
  {
-  "fecha": "2026-10-27T01:06:46.338761+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date 1500 Mens 1960s 34mm 14k SS Diamond Automatic RA742S",
-  "total": 8900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267824829696",
-  "item_id": "v1|267824829696|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date (esfera azul con diamantes, bisel acanalado de oro, pulsera Oyster bicolor)",
-   "referencia": "1500",
-   "precio_justo_usd": 5500,
-   "interesante": false,
-   "nota": "Precio pedido US$8900 muy por encima del valor estimado; verificar que los diamantes de la esfera sean originales y no añadidos."
-  },
-  "motivo": "triage: Precio pedido US$8900 muy por encima del valor estimado; verificar que los diamantes de la esfera sean originales y no añadidos. (justo 5500)"
- },
- {
-  "fecha": "2026-10-27T01:06:46.338761+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay 54 Stainless Blue 37mm Automatic Watch 79000B-0001",
-  "total": 3950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267824836914",
-  "item_id": "v1|267824836914|0",
-  "referencia": "79000B-0001",
-  "mercado": {
-   "n": 4,
-   "p25": 3950,
-   "mediana": 3975
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay 54 acero, esfera azul, 37 mm",
-   "referencia": "79000N (la referencia del listado, 79000B-0001, no coincide con mi conocimiento; verificar)",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de mercado usado; el listado tiene inconsistencias (año 2026 y referencia dudosa) y conviene verificar autenticidad y papeles."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de mercado usado; el listado tiene inconsistencias (año 2026 y referencia dudosa) y conviene verificar autenticidad y papeles. (justo 3200)"
- },
- {
-  "fecha": "2026-10-27T01:21:45.096039+00:00",
-  "marca": "Rolex",
-  "titulo": "NEW 2026 Rolex Explorer II Polar 42mm, White Dial, Stainless Steel Ref. 226570",
-  "total": 13599.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227584916983",
-  "item_id": "v1|227584916983|0",
-  "referencia": "226570",
-  "mercado": {
-   "n": 29,
-   "p25": 13000,
-   "mediana": 13500
-  },
-  "ratio_mercado": 1.046,
-  "motivo": "precio normal (105 % del cuartil bajo de 226570)"
- },
- {
-  "fecha": "2026-10-27T01:21:45.096039+00:00",
-  "marca": "Rolex",
-  "titulo": "BNIB Rolex Land-Dweller 40mm WHITE Stainless Steel 127334 2026",
-  "total": 25900.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/407318697640",
-  "item_id": "v1|407318697640|0",
-  "referencia": "127334",
-  "mercado": {
-   "n": 19,
-   "p25": 25325,
-   "mediana": 26252
-  },
-  "ratio_mercado": 1.023,
-  "motivo": "precio normal (102 % del cuartil bajo de 127334)"
- },
- {
   "fecha": "2026-10-27T01:21:45.096039+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Ronde Croisiere de Cartier WSRN0003",
@@ -11568,5 +11494,79 @@
    "nota": "Precio cercano al valor de mercado para usado en excelente estado; no hay descuento de al menos 15 % y no se ven papeles ni caja en la foto."
   },
   "motivo": "triage: Precio cercano al valor de mercado para usado en excelente estado; no hay descuento de al menos 15 % y no se ven papeles ni caja en la foto. (justo 3800)"
+ },
+ {
+  "fecha": "2026-10-28T05:22:35.449848+00:00",
+  "marca": "Rolex",
+  "titulo": "Genuine Rolex 79174 Watch. Rolex Oyster DateJust Computer Jubilee Diamond Dial.",
+  "total": 8030.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257821369220",
+  "item_id": "v1|257821369220|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 mm, acero con bisel estriado y esfera de diamantes (aspecto de esfera 'computer/jubilee')",
+   "referencia": "69174 o similar de acero (el título dice 79174, que suele ser bicolor; verificar)",
+   "precio_justo_usd": 6800,
+   "interesante": false,
+   "nota": "El precio pedido (US$8030) está por encima de lo que se vende este modelo usado. La foto muestra acero completo y el título indica 79174, que es bicolor; hay que verificar la referencia exacta y pedir fotos del caso y del número de serie."
+  },
+  "motivo": "triage: El precio pedido (US$8030) está por encima de lo que se vende este modelo usado. La foto muestra acero completo y el título indica 79174, que es bicolor; hay que verificar la referencia exacta y pedir fotos del caso y del número de serie. (justo 6800)"
+ },
+ {
+  "fecha": "2026-10-28T05:22:35.449848+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Speedmaster Reduced 3510.50 Black Automatic Chronograph 39mm Men's Watch",
+  "total": 3599.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206659034627",
+  "item_id": "v1|206659034627|0",
+  "referencia": "3510.50",
+  "mercado": {
+   "n": 44,
+   "p25": 3500,
+   "mediana": 3692
+  },
+  "ratio_mercado": 1.029,
+  "motivo": "precio normal (103 % del cuartil bajo de 3510.50)"
+ },
+ {
+  "fecha": "2026-10-28T05:22:35.449848+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Diver 300M – Complete Set  | Ref: 212.30.41.20.03.001 | 2020 |",
+  "total": 3750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267825814038",
+  "item_id": "v1|267825814038|0",
+  "referencia": "212.30.41.20.03.001",
+  "mercado": {
+   "n": 21,
+   "p25": 3895,
+   "mediana": 4200
+  },
+  "ratio_mercado": 0.963,
+  "motivo": "precio normal (96 % del cuartil bajo de 212.30.41.20.03.001)"
+ },
+ {
+  "fecha": "2026-10-28T05:22:35.449848+00:00",
+  "marca": "IWC",
+  "titulo": "IWC Portugieser Silver Men's Watch - IW545408 Box & Papers",
+  "total": 4650.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137881428072",
+  "item_id": "v1|137881428072|0",
+  "referencia": "IW545408",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "IWC Portugieser Hand-Wound (calibre 52010), 42 mm, acero, esfera plateada con pequeños segundos",
+   "referencia": "IW545408",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Precio pedido algo por debajo del mercado secundario, pero el descuento no llega al 15 %. Con caja y papeles, el precio está en línea con lo normal."
+  },
+  "motivo": "triage: Precio pedido algo por debajo del mercado secundario, pero el descuento no llega al 15 %. Con caja y papeles, el precio está en línea con lo normal. (justo 5000)"
  }
 ]
