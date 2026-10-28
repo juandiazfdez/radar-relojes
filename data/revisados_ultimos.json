@@ -1,176 +1,5 @@
 [
  {
-  "fecha": "2026-10-26T22:06:34.060826+00:00",
-  "marca": "Omega",
-  "titulo": "2025 Omega Seamaster Diver 300M 210.30.42.20.04.001",
-  "total": 4890.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940043846258",
-  "item_id": "v1|940043846258|0",
-  "referencia": "210.30.42.20.04.001",
-  "mercado": {
-   "n": 14,
-   "p25": 5000,
-   "mediana": 5156
-  },
-  "ratio_mercado": 0.978,
-  "motivo": "precio normal (98 % del cuartil bajo de 210.30.42.20.04.001)"
- },
- {
-  "fecha": "2026-10-26T22:06:34.060826+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Planet Ocean Ultra Deep 6000m 45.5mm 215.92.46.21.01.001",
-  "total": 9574.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117488994479",
-  "item_id": "v1|117488994479|0",
-  "referencia": "215.92.46.21.01.001",
-  "mercado": {
-   "n": 6,
-   "p25": 8850,
-   "mediana": 9935
-  },
-  "ratio_mercado": 1.082,
-  "motivo": "precio normal (108 % del cuartil bajo de 215.92.46.21.01.001)"
- },
- {
-  "fecha": "2026-10-26T22:06:34.060826+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Superocean 46mm Super Diver Titanium Automatic Watch E10379",
-  "total": 3999.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377599616253",
-  "item_id": "v1|377599616253|0",
-  "referencia": "E10379",
-  "mercado": {
-   "n": 5,
-   "p25": 4372,
-   "mediana": 4775
-  },
-  "ratio_mercado": 0.915,
-  "motivo": "precio normal (91 % del cuartil bajo de E10379)"
- },
- {
-  "fecha": "2026-10-26T22:21:34.372889+00:00",
-  "marca": "Rolex",
-  "titulo": "2022 PAPERS Rolex Milgauss Blue Green Stainless Steel 40mm Oyster 116400GV BOX",
-  "total": 15399.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168818540559",
-  "item_id": "v1|168818540559|0",
-  "referencia": "116400GV",
-  "mercado": {
-   "n": 25,
-   "p25": 12224,
-   "mediana": 14175
-  },
-  "ratio_mercado": 1.26,
-  "motivo": "precio normal (126 % del cuartil bajo de 116400GV)"
- },
- {
-  "fecha": "2026-10-26T22:21:34.372889+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos 100 Black ADLC Steel 41mm Automatic WSSA0006 3774",
-  "total": 4855.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137877782473",
-  "item_id": "v1|137877782473|0",
-  "referencia": "WSSA0006",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Santos 100 negro DLC acero 41 mm automático con correa de tela negra",
-   "referencia": "WSSA0006",
-   "precio_justo_usd": 5600,
-   "interesante": false,
-   "nota": "Precio de venta cerrada estimado para esta referencia en estado excelente, sin confirmar caja ni papeles. El descuento del 13 % no llega al umbral del 15 %."
-  },
-  "motivo": "triage: Precio de venta cerrada estimado para esta referencia en estado excelente, sin confirmar caja ni papeles. El descuento del 13 % no llega al umbral del 15 %. (justo 5600)"
- },
- {
-  "fecha": "2026-10-26T22:21:34.372889+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Archeo, Swiss made, Quartz",
-  "total": 1222.5,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407318436990",
-  "item_id": "v1|407318436990|0",
-  "triage": {
-   "modelo": "Tudor Archeo (identificación dudosa: la foto muestra una caja rectangular con subesferas tipo cronógrafo, no la caja redonda típica del Archeo)",
-   "referencia": null,
-   "precio_justo_usd": 700,
-   "interesante": false,
-   "nota": "El título dice Archeo, pero la caja y la esfera de la foto no coinciden con ese modelo; el listado parece engañoso. Pide fotos de la caja, el movimiento y el reverso antes de comprar."
-  },
-  "motivo": "triage: El título dice Archeo, pero la caja y la esfera de la foto no coinciden con ese modelo; el listado parece engañoso. Pide fotos de la caja, el movimiento y el reverso antes de comprar. (justo 700)"
- },
- {
-  "fecha": "2026-10-26T22:21:34.372889+00:00",
-  "marca": "Tudor",
-  "titulo": "Vintage Tudor Prince Oysterdate 7996 34mm Automatic Rolex Case Running",
-  "total": 1495.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287679432489",
-  "item_id": "v1|287679432489|0",
-  "triage": {
-   "modelo": "Tudor Prince Oysterdate (cuerpo Rolex, esfera blanca con numerales romanos)",
-   "referencia": "7996",
-   "precio_justo_usd": 1450,
-   "interesante": false,
-   "nota": "Referencia plausible, pero la esfera y el texto de la foto son poco legibles y el listado mezcla 'Tudor' con 'Rolex Case'; el precio no está ≥15 % por debajo del mercado."
-  },
-  "motivo": "triage: Referencia plausible, pero la esfera y el texto de la foto son poco legibles y el listado mezcla 'Tudor' con 'Rolex Case'; el precio no está ≥15 % por debajo del mercado. (justo 1450)"
- },
- {
-  "fecha": "2026-10-26T22:21:34.372889+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Ploprof 1200M Titanium 227.90.55.21.01.001 Men's 55mm Watch.",
-  "total": 12500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840063259673",
-  "item_id": "v1|840063259673|0",
-  "referencia": "227.90.55.21.01.001",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Ploprof 1200M Titanio",
-   "referencia": "227.90.55.21.01.001",
-   "precio_justo_usd": 9500,
-   "interesante": false,
-   "nota": "Ploprof de titanio de 55 mm en buen estado; el precio pedido de 12.500 USD supera el valor de venta cerrada de referencia para este modelo."
-  },
-  "motivo": "triage: Ploprof de titanio de 55 mm en buen estado; el precio pedido de 12.500 USD supera el valor de venta cerrada de referencia para este modelo. (justo 9500)"
- },
- {
-  "fecha": "2026-10-26T22:21:34.372889+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Speedmaster Racing 329.33.44.51.01.001 44.25mm w/ B&P Black automatic",
-  "total": 7499.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840063233004",
-  "item_id": "v1|840063233004|0",
-  "referencia": "329.33.44.51.01.001",
-  "mercado": {
-   "n": 1,
-   "p25": 7900,
-   "mediana": 7900
-  },
-  "triage": {
-   "modelo": "Omega Speedmaster Racing Chronograph (Co-Axial Master Chronometer)",
-   "referencia": "329.33.44.51.01.001",
-   "precio_justo_usd": 5400,
-   "interesante": false,
-   "nota": "Acero de 44,25 mm con esfera negra y correa de piel, usado en buen estado con caja y papeles. Su precio de reventa está por debajo del pedido de US$7499, así que no hay descuento."
-  },
-  "motivo": "triage: Acero de 44,25 mm con esfera negra y correa de piel, usado en buen estado con caja y papeles. Su precio de reventa está por debajo del pedido de US$7499, así que no hay descuento. (justo 5400)"
- },
- {
   "fecha": "2026-10-26T22:21:34.372889+00:00",
   "marca": "Breitling",
   "titulo": "2026 Breitling Superocean Automatic 42 A17375E71G1S1 Box Papers Warranty 2028",
@@ -11465,5 +11294,182 @@
    "nota": "Precio pedido de 2350 USD supera el valor de venta cerrada estimado para un Carrera Calibre 16 de acero de uso en estado Good; la foto no permite confirmar la referencia ni la autenticidad."
   },
   "motivo": "triage: Precio pedido de 2350 USD supera el valor de venta cerrada estimado para un Carrera Calibre 16 de acero de uso en estado Good; la foto no permite confirmar la referencia ni la autenticidad. (justo 1900)"
+ },
+ {
+  "fecha": "2026-10-28T01:52:27.463108+00:00",
+  "marca": "Rolex",
+  "titulo": " 1974 Rolex 1601 DateJust 36mm Pie Pan",
+  "total": 4000.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/366765811449",
+  "item_id": "v1|366765811449|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36mm (acero, bisel acanalado, esfera plateada, brazalete Jubilee)",
+   "referencia": "1601",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "El título dice pie pan, pero la foto muestra esfera plateada con marcadores de barra, no pie pan. Si la esfera es la de la foto, 4000 USD está por encima del precio de mercado; verificar dial, estado y autenticidad antes de considerarlo."
+  },
+  "motivo": "triage: El título dice pie pan, pero la foto muestra esfera plateada con marcadores de barra, no pie pan. Si la esfera es la de la foto, 4000 USD está por encima del precio de mercado; verificar dial, estado y autenticidad antes de considerarlo. (justo 3200)"
+ },
+ {
+  "fecha": "2026-10-28T01:52:27.463108+00:00",
+  "marca": "Rolex",
+  "titulo": "Genuine 18k Rolex 2633 Watch. 18k WG Ladies Dainty Cocktail Ladies Rolex",
+  "total": 2750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257821183780",
+  "item_id": "v1|257821183780|0",
+  "triage": {
+   "modelo": "Rolex Dainty/Cocktail de señora, caja de oro blanco 18k, cuerda manual (posible calibre 1400-1500 de los años 50-60)",
+   "referencia": "2633 (según el título; no verificable en la foto)",
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Precio pedido por encima de la estimación conservadora; la referencia y la autenticidad deben verificarse con fotos del movimiento, la caja y las marcas."
+  },
+  "motivo": "triage: Precio pedido por encima de la estimación conservadora; la referencia y la autenticidad deben verificarse con fotos del movimiento, la caja y las marcas. (justo 2300)"
+ },
+ {
+  "fecha": "2026-10-28T01:52:27.463108+00:00",
+  "marca": "Rolex",
+  "titulo": "Genuine Rolex Diamond Watch. 14k WG Ladies Rolex Mechanical Windup Watch.",
+  "total": 3960.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257821183782",
+  "item_id": "v1|257821183782|0",
+  "triage": {
+   "modelo": "Rolex de dama vintage, caja ovalada en oro blanco 14k con brazalete de malla, posible bisel de diamantes, cuerda manual",
+   "referencia": null,
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Sin referencia visible; el precio pedido de 3960 USD supera el valor estimado del reloj y su oro, con condición Good y sin verificar autenticidad."
+  },
+  "motivo": "triage: Sin referencia visible; el precio pedido de 3960 USD supera el valor estimado del reloj y su oro, con condición Good y sin verificar autenticidad. (justo 2600)"
+ },
+ {
+  "fecha": "2026-10-28T01:52:27.463108+00:00",
+  "marca": "Cartier",
+  "titulo": "1980s Cartier Must de Cartier Vendome Vermeil 30mm Quartz",
+  "total": 2735.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307252782218",
+  "item_id": "v1|307252782218|0",
+  "triage": {
+   "modelo": "Cartier Must de Cartier Vendôme (vermeil, cuarzo, esfera crema con números romanos, correa de piel azul marino)",
+   "referencia": null,
+   "precio_justo_usd": 1100,
+   "interesante": false,
+   "nota": "Modelo de los años 80 en vermeil; el precio pedido de US$2735 está muy por encima de lo que se vende realmente, aunque la pieza parece auténtica."
+  },
+  "motivo": "triage: Modelo de los años 80 en vermeil; el precio pedido de US$2735 está muy por encima de lo que se vende realmente, aunque la pieza parece auténtica. (justo 1100)"
+ },
+ {
+  "fecha": "2026-10-28T01:52:27.463108+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay P01 M70150-0001",
+  "total": 3200.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940046836971",
+  "item_id": "v1|940046836971|0",
+  "referencia": "M70150-0001",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay P01 (GMT)",
+   "referencia": "M70150-0001",
+   "precio_justo_usd": 2900,
+   "interesante": false,
+   "nota": "Precio pedido de 3200 USD queda cerca del valor de mercado; no cumple el umbral del 15 % por debajo. Foto pequeña: verificar referencia, correa y estado."
+  },
+  "motivo": "triage: Precio pedido de 3200 USD queda cerca del valor de mercado; no cumple el umbral del 15 % por debajo. Foto pequeña: verificar referencia, correa y estado. (justo 2900)"
+ },
+ {
+  "fecha": "2026-10-28T01:52:27.463108+00:00",
+  "marca": "Omega",
+  "titulo": "Vintage 14K OMEGA SEAMASTER DEVILLE Automatic Day Date Watch Cal. 1020 WORKING!",
+  "total": 3520.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800846268609",
+  "item_id": "v1|800846268609|0",
+  "triage": {
+   "modelo": "Omega Seamaster De Ville vintage, esfera dorada con indices aplicados y ventana de dia/fecha",
+   "referencia": null,
+   "precio_justo_usd": 1500,
+   "interesante": false,
+   "nota": "Calibre 1020 automatico de los anos 70; si la caja es de oro macizo 14K y esta en buen estado, se vende en torno a 1.200-1.800 USD. El precio pedido de 3.520 USD supera ampliamente ese rango."
+  },
+  "motivo": "triage: Calibre 1020 automatico de los anos 70; si la caja es de oro macizo 14K y esta en buen estado, se vende en torno a 1.200-1.800 USD. El precio pedido de 3.520 USD supera ampliamente ese rango. (justo 1500)"
+ },
+ {
+  "fecha": "2026-10-28T01:52:27.463108+00:00",
+  "marca": "Breitling",
+  "titulo": "BREITLING Men's Watch E75362 NAVITIMER AEROSPACE, GRAY DIAL, TITANIUM, 40mm, WOW",
+  "total": 2299.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860090540342",
+  "item_id": "v1|860090540342|0",
+  "referencia": "E75362",
+  "mercado": {
+   "n": 1,
+   "p25": 4100,
+   "mediana": 4100
+  },
+  "triage": {
+   "modelo": "Breitling Aerospace (titanio, esfera gris/negra, cuarzo con pantalla digital, 40 mm); el título dice Navitimer, pero el reloj de la foto es un Aerospace",
+   "referencia": "E75362 (posible; la E79362 es una variante cercana)",
+   "precio_justo_usd": 1400,
+   "interesante": false,
+   "nota": "El precio pedido de $2300 supera el de venta real de este Aerospace de titanio usado; además, el título menciona Navitimer, que es otro modelo."
+  },
+  "motivo": "triage: El precio pedido de $2300 supera el de venta real de este Aerospace de titanio usado; además, el título menciona Navitimer, que es otro modelo. (justo 1400)"
+ },
+ {
+  "fecha": "2026-10-28T01:52:27.463108+00:00",
+  "marca": "Breitling",
+  "titulo": "BREITLING Mens Watch E75362 NAVITIMER AEROSPACE, GRAY DIAL, TITANIUM, 40mm, WOW!",
+  "total": 2299.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940046836829",
+  "item_id": "v1|940046836829|0",
+  "referencia": "E75362",
+  "mercado": {
+   "n": 1,
+   "p25": 4100,
+   "mediana": 4100
+  },
+  "triage": {
+   "modelo": "Breitling Aerospace (titanio, cuarzo con display analógico-digital LCD); el título dice Navitimer, pero el diseño corresponde a la línea Aerospace",
+   "referencia": "E79362 (probable; el listado indica E75362)",
+   "precio_justo_usd": 1500,
+   "interesante": false,
+   "nota": "Precio pedido por encima del mercado para un Aerospace usado en excelente estado. El título mezcla Navitimer con Aerospace, el número de referencia no coincide y el dial se ve verde oscuro, no gris; revisar bien el listado antes de comprar."
+  },
+  "motivo": "triage: Precio pedido por encima del mercado para un Aerospace usado en excelente estado. El título mezcla Navitimer con Aerospace, el número de referencia no coincide y el dial se ve verde oscuro, no gris; revisar bien el listado antes de comprar. (justo 1500)"
+ },
+ {
+  "fecha": "2026-10-28T01:52:27.463108+00:00",
+  "marca": "Jaeger-LeCoultre",
+  "titulo": "jaeger lecoultre mens watch q9028651 full set",
+  "total": 13019.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327426971452",
+  "item_id": "v1|327426971452|0",
+  "referencia": "Q9028651",
+  "mercado": {
+   "n": 1,
+   "p25": 12950,
+   "mediana": 12950
+  },
+  "triage": {
+   "modelo": "Jaeger-LeCoultre Polaris Geographic (cronógrafo con fase lunar, esfera azul, correa de caucho)",
+   "referencia": "Q9028651 (según el título; no verificable con certeza en la foto)",
+   "precio_justo_usd": 9500,
+   "interesante": false,
+   "nota": "Precio pedido de 13019 USD está muy por encima del valor de venta real estimado para este modelo de segunda mano, aunque tenga caja y papeles."
+  },
+  "motivo": "triage: Precio pedido de 13019 USD está muy por encima del valor de venta real estimado para este modelo de segunda mano, aunque tenga caja y papeles. (justo 9500)"
  }
 ]
