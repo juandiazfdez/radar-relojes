@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-10-27T00:51:45.712812+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "Men’s Tag Heuer Aquaracer CAY111A",
-  "total": 2000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206656394629",
-  "item_id": "v1|206656394629|0",
-  "referencia": "CAY111A",
-  "mercado": {
-   "n": 6,
-   "p25": 895,
-   "mediana": 1462
-  },
-  "ratio_mercado": 2.235,
-  "motivo": "precio normal (223 % del cuartil bajo de CAY111A)"
- },
- {
   "fecha": "2026-10-27T01:06:46.338761+00:00",
   "marca": "Rolex",
   "titulo": "Rolex GMT-Master II Black Oyster Box/Papers/Card 116710LN",
@@ -11562,5 +11545,22 @@
    "nota": "El precio pedido de US$20.896 supera ampliamente el valor de mercado de un Portofino Moon Phase de oro rojo usado, incluso con caja y papeles. No es una oportunidad."
   },
   "motivo": "triage: El precio pedido de US$20.896 supera ampliamente el valor de mercado de un Portofino Moon Phase de oro rojo usado, incluso con caja y papeles. No es una oportunidad. (justo 12000)"
+ },
+ {
+  "fecha": "2026-10-28T04:37:27.295144+00:00",
+  "marca": "Omega",
+  "titulo": "omega swatch saturn, painted 1 of 1 by Alec monopoly art, with video proof.",
+  "total": 1950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820286262352",
+  "item_id": "v1|820286262352|0",
+  "triage": {
+   "modelo": "Swatch x Omega MoonSwatch Saturn, esfera pintada a mano (1 de 1)",
+   "referencia": null,
+   "precio_justo_usd": 400,
+   "interesante": false,
+   "nota": "Es un MoonSwatch (colaboración Swatch-Omega, retail ~260 USD), no un Omega de la línea normal. La pintura de artista es lo que sube el valor, pero no justifica 1950 USD salvo que el artista tenga un historial de ventas muy alto."
+  },
+  "motivo": "triage: Es un MoonSwatch (colaboración Swatch-Omega, retail ~260 USD), no un Omega de la línea normal. La pintura de artista es lo que sube el valor, pero no justifica 1950 USD salvo que el artista tenga un historial de ventas muy alto. (justo 400)"
  }
 ]
