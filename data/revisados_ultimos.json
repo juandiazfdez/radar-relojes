@@ -1,103 +1,5 @@
 [
  {
-  "fecha": "2026-10-27T18:07:18.331101+00:00",
-  "marca": "Omega",
-  "titulo": "Vintage Omega Seamaster Ref. 2828-5 SC 14k Gold Filled Cal. 470 OEM Omega Tang",
-  "total": 1150.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327426526372",
-  "item_id": "v1|327426526372|0",
-  "triage": {
-   "modelo": "Omega Seamaster (vintage, caja chapada en oro 14k, calibre 470)",
-   "referencia": "2828-5 SC",
-   "precio_justo_usd": 750,
-   "interesante": false,
-   "nota": "Esfera crema con índices de bastón, caja chapada en oro; el precio pedido de 1150 USD supera el valor de mercado para este estado."
-  },
-  "motivo": "triage: Esfera crema con índices de bastón, caja chapada en oro; el precio pedido de 1150 USD supera el valor de mercado para este estado. (justo 750)"
- },
- {
-  "fecha": "2026-10-27T18:07:18.331101+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling ENDURANCE Pro 44mm Navy Blue X82310 Watch Timepiece Chronograph Chrono",
-  "total": 1999.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137880140479",
-  "item_id": "v1|137880140479|0",
-  "referencia": "x82310",
-  "mercado": {
-   "n": 25,
-   "p25": 2700,
-   "mediana": 2830
-  },
-  "ratio_mercado": 0.741,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 1800,
-   "riesgo_autenticidad": "medio",
-   "estado": "Aparentemente nuevo sin uso, aún con el plástico protector, pero sin caja ni papeles"
-  },
-  "ratio_justo": 1.111,
-  "motivo": "precio normal segun revision (111 % del justo 1800)"
- },
- {
-  "fecha": "2026-10-27T18:07:18.331101+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Aquaracer White Mother of Pearl Women's Watch",
-  "total": 950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128159623746",
-  "item_id": "v1|128159623746|0",
-  "triage": {
-   "modelo": "TAG Heuer Aquaracer para mujer, esfera blanca nácar, acero, cuarzo (posiblemente serie WAF/WBD de 27 mm)",
-   "referencia": null,
-   "precio_justo_usd": 550,
-   "interesante": false,
-   "nota": "Precio pedido de US$950 por encima del valor de venta real de este modelo de cuarzo en acero usado; la referencia exacta no se distingue en la foto."
-  },
-  "motivo": "triage: Precio pedido de US$950 por encima del valor de venta real de este modelo de cuarzo en acero usado; la referencia exacta no se distingue en la foto. (justo 550)"
- },
- {
-  "fecha": "2026-10-27T18:22:18.478985+00:00",
-  "marca": "Rolex",
-  "titulo": "rolex mens watch gold 18 k ",
-  "total": 15008.4,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336865995751",
-  "item_id": "v1|336865995751|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36 en oro amarillo de 18k con bisel de diamantes, esfera personalizada de nácar azul con marcadores de diamantes y brazalete President (modelo probable, no confirmado por la imagen)",
-   "referencia": "16238 (probable, no verificable en la foto)",
-   "precio_justo_usd": 16500,
-   "interesante": false,
-   "nota": "Título genérico sin referencia ni número de serie; bisel y esfera con diamantes suelen ser personalizaciones que reducen el valor y exigen verificación de autenticidad. El precio no está al menos 15% por debajo del valor de mercado."
-  },
-  "motivo": "triage: Título genérico sin referencia ni número de serie; bisel y esfera con diamantes suelen ser personalizaciones que reducen el valor y exigen verificación de autenticidad. El precio no está al menos 15% por debajo del valor de mercado. (justo 16500)"
- },
- {
-  "fecha": "2026-10-27T18:22:18.478985+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Must SolarBeat Steel Ladies Watch WSTA0062 Box Card",
-  "total": 4350.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257820671219",
-  "item_id": "v1|257820671219|0",
-  "referencia": "WSTA0062",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Tank Must SolarBeat (acero, cuarzo solar, esfera plateada con números romanos)",
-   "referencia": "WSTA0062",
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "Precio pedido de US$4350 muy por encima de lo que se vende realmente este modelo de segunda mano; estimación conservadora de mercado, sin caja y papeles verificables en la imagen."
-  },
-  "motivo": "triage: Precio pedido de US$4350 muy por encima de lo que se vende realmente este modelo de segunda mano; estimación conservadora de mercado, sin caja y papeles verificables en la imagen. (justo 2300)"
- },
- {
   "fecha": "2026-10-27T18:22:18.478985+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Ronde Must Small Steel Quartz Ladies Watch WSRN0033 Card",
@@ -11402,5 +11304,90 @@
   },
   "ratio_mercado": 1.193,
   "motivo": "precio normal (119 % del cuartil bajo de IW327010)"
+ },
+ {
+  "fecha": "2026-10-28T19:07:59.766367+00:00",
+  "marca": "Rolex",
+  "titulo": "1989 Rolex Datejust Lady Champagne Stick Jubilee 69173 Steel & YG",
+  "total": 4399.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960126913728",
+  "item_id": "v1|960126913728|0",
+  "referencia": "69173",
+  "mercado": {
+   "n": 23,
+   "p25": 4259,
+   "mediana": 4778
+  },
+  "ratio_mercado": 1.033,
+  "motivo": "precio normal (103 % del cuartil bajo de 69173)"
+ },
+ {
+  "fecha": "2026-10-28T19:07:59.766367+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX 1971 Rolex Turn-o-Graph Thunderbird Oyster Perpetual Chronometer ref. 1625",
+  "total": 7037.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227587547274",
+  "item_id": "v1|227587547274|0",
+  "triage": {
+   "modelo": "Rolex Datejust Turn-O-Graph (Thunderbird) acero y oro amarillo, esfera champagne",
+   "referencia": "1625",
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "Ref. 1625 de los años 70 en dos tonos con esfera champagne; el precio pedido queda unos 8 % por encima de la estimación conservadora de venta cerrada."
+  },
+  "motivo": "triage: Ref. 1625 de los años 70 en dos tonos con esfera champagne; el precio pedido queda unos 8 % por encima de la estimación conservadora de venta cerrada. (justo 6500)"
+ },
+ {
+  "fecha": "2026-10-28T19:07:59.766367+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36 16013",
+  "total": 5850.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960123471863",
+  "item_id": "v1|960123471863|0",
+  "referencia": "16013",
+  "mercado": {
+   "n": 21,
+   "p25": 1815,
+   "mediana": 4700
+  },
+  "ratio_mercado": 3.223,
+  "motivo": "precio normal (322 % del cuartil bajo de 16013)"
+ },
+ {
+  "fecha": "2026-10-28T19:07:59.766367+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Speedmaster Moonwatch Professional 310.30.42.50.04.001",
+  "total": 7406.07,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860092802974",
+  "item_id": "v1|860092802974|0",
+  "referencia": "310.30.42.50.04.001",
+  "mercado": {
+   "n": 20,
+   "p25": 8000,
+   "mediana": 8454
+  },
+  "ratio_mercado": 0.926,
+  "motivo": "precio normal (93 % del cuartil bajo de 310.30.42.50.04.001)"
+ },
+ {
+  "fecha": "2026-10-28T19:07:59.766367+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Vintage Constellation Automatic Chronometer Cal 561 18K Rose Gold 1966",
+  "total": 5000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128161398054",
+  "item_id": "v1|128161398054|0",
+  "triage": {
+   "modelo": "Omega Constellation Automatic Chronometer (caja de oro 18K, esfera plateada con índices aplicados y ventanilla de fecha)",
+   "referencia": "168.005 (probable; verificar en la caja trasera)",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Constellation vintage de 1966 con cal. 561 en oro macizo; el precio pedido de 5000 USD supera el valor de venta realista, incluso con el oro como respaldo."
+  },
+  "motivo": "triage: Constellation vintage de 1966 con cal. 561 en oro macizo; el precio pedido de 5000 USD supera el valor de venta realista, incluso con el oro como respaldo. (justo 3500)"
  }
 ]
