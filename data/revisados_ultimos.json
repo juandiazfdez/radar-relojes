@@ -1,85 +1,5 @@
 [
  {
-  "fecha": "2026-10-27T14:07:06.922636+00:00",
-  "marca": "Bulgari",
-  "titulo": "Bulgari Diagono DG41SMC  Yellow  Magnesium Automatic Men's Watch",
-  "total": 1400.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960122580530",
-  "item_id": "v1|960122580530|0",
-  "referencia": "DG41SMC",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Bulgari Diagono Magnesium (esfera amarilla, correa de caucho)",
-   "referencia": "DG41SMC",
-   "precio_justo_usd": 1600,
-   "interesante": false,
-   "nota": "Precio cercano al valor de reventa; el 1400 solo está ~12% bajo, sin llegar al 15% exigido. Esfera amarilla de edición menos líquida; confirmar referencia, caja y papeles."
-  },
-  "motivo": "triage: Precio cercano al valor de reventa; el 1400 solo está ~12% bajo, sin llegar al 15% exigido. Esfera amarilla de edición menos líquida; confirmar referencia, caja y papeles. (justo 1600)"
- },
- {
-  "fecha": "2026-10-27T14:22:06.929174+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise 18k Yellow Gold & Steel Quartz Ladies Midsize Watch 2301",
-  "total": 5650.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366764586008",
-  "item_id": "v1|366764586008|0",
-  "referencia": "2301",
-  "mercado": {
-   "n": 9,
-   "p25": 3550,
-   "mediana": 3800
-  },
-  "ratio_mercado": 1.592,
-  "motivo": "precio normal (159 % del cuartil bajo de 2301)"
- },
- {
-  "fecha": "2026-10-27T14:22:06.929174+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Bentley GT Dark Sapphire Limited Edition of 200 pieces. XB0614 XB0614",
-  "total": 6960.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960122643342",
-  "item_id": "v1|960122643342|0",
-  "referencia": "XB0614",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Breitling Bentley GT Dark Sapphire Limited Edition (200 piezas), acero, esfera azul oscura",
-   "referencia": "XB0614",
-   "precio_justo_usd": 5500,
-   "interesante": false,
-   "nota": "Edicion limitada de 200 piezas, condicion usada buena. El precio pedido de US$6960 con envio supera la estimacion de venta real, y el listado no confirma caja ni papeles."
-  },
-  "motivo": "triage: Edicion limitada de 200 piezas, condicion usada buena. El precio pedido de US$6960 con envio supera la estimacion de venta real, y el listado no confirma caja ni papeles. (justo 5500)"
- },
- {
-  "fecha": "2026-10-27T14:22:06.929174+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Super Avenger Brushed A13375 99.99% LNIB W/Cert, Factory Wrapped Case!",
-  "total": 3499.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336865693117",
-  "item_id": "v1|336865693117|0",
-  "referencia": "A13375",
-  "mercado": {
-   "n": 7,
-   "p25": 3660,
-   "mediana": 5195
-  },
-  "ratio_mercado": 0.956,
-  "motivo": "precio normal (96 % del cuartil bajo de A13375)"
- },
- {
   "fecha": "2026-10-27T14:22:06.929174+00:00",
   "marca": "Breitling",
   "titulo": "Breitling Montbrillant Légende C23340 18K Rose Gold & Steel Chronograph Watch",
@@ -11418,5 +11338,85 @@
    "nota": "Precio cercano al mercado para oro rosa pre-owned sin caja/papeles confirmados; no hay descuento de al menos 15%."
   },
   "motivo": "triage: Precio cercano al mercado para oro rosa pre-owned sin caja/papeles confirmados; no hay descuento de al menos 15%. (justo 13500)"
+ },
+ {
+  "fecha": "2026-10-28T13:52:47.907972+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust \"1991 - Champagne Linen\" 16233",
+  "total": 7551.94,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237148806246",
+  "item_id": "v1|237148806246|0",
+  "referencia": "16233",
+  "mercado": {
+   "n": 28,
+   "p25": 5399,
+   "mediana": 6152
+  },
+  "ratio_mercado": 1.399,
+  "motivo": "precio normal (140 % del cuartil bajo de 16233)"
+ },
+ {
+  "fecha": "2026-10-28T13:52:47.907972+00:00",
+  "marca": "Rolex",
+  "titulo": "2006 F Serial Rolex Submariner Date 16610 16610T Box and Papers Full Set",
+  "total": 10750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267826174230",
+  "item_id": "v1|267826174230|0",
+  "referencia": "16610",
+  "mercado": {
+   "n": 78,
+   "p25": 9878,
+   "mediana": 10392
+  },
+  "ratio_mercado": 1.088,
+  "motivo": "precio normal (109 % del cuartil bajo de 16610)"
+ },
+ {
+  "fecha": "2026-10-28T13:52:47.907972+00:00",
+  "marca": "Omega",
+  "titulo": "Ladies Omega Constellation 18K Gold SS Watch - Rare Automatic - 27MM - 1292.30",
+  "total": 2445.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206659654343",
+  "item_id": "v1|206659654343|0",
+  "referencia": "1292.30",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Omega Constellation Automatic Chronometer, dos tonos acero y oro 18K, esfera blanca, bisel dorado con numeros romanos, 27 mm (dama)",
+   "referencia": "1292.30 (probable, no confirmada en la imagen)",
+   "precio_justo_usd": 1300,
+   "interesante": false,
+   "nota": "El precio pedido de US$2445 supera ampliamente el valor de reventa habitual para esta dama de dos tonos en condicion usada; no es una oportunidad."
+  },
+  "motivo": "triage: El precio pedido de US$2445 supera ampliamente el valor de reventa habitual para esta dama de dos tonos en condicion usada; no es una oportunidad. (justo 1300)"
+ },
+ {
+  "fecha": "2026-10-28T13:52:47.907972+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Diver Chronograph 210.30.44.51.01.001 Complete Set",
+  "total": 6350.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237148797878",
+  "item_id": "v1|237148797878|0",
+  "referencia": "210.30.44.51.01.001",
+  "mercado": {
+   "n": 3,
+   "p25": 7390,
+   "mediana": 7990
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Diver 300M 44 mm (bisel cerámico negro, esfera negra; el título menciona cronógrafo, pero la referencia 210.30.44.51 corresponde a la línea Diver 300M de caja de 44 mm)",
+   "referencia": "210.30.44.51.01.001",
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "Con set completo, el precio pedido de US$6350 está muy por encima de lo que se vende hoy en modelos usados de esta referencia (aprox. US$4300-4900). Además, el título habla de cronógrafo y la referencia y la esfera no lo confirman; conviene verificarlo antes de cualquier oferta."
+  },
+  "motivo": "triage: Con set completo, el precio pedido de US$6350 está muy por encima de lo que se vende hoy en modelos usados de esta referencia (aprox. US$4300-4900). Además, el título habla de cronógrafo y la referencia y la esfera no lo confirman; conviene verificarlo antes de cualquier oferta. (justo 4500)"
  }
 ]
