@@ -4875,7 +4875,7 @@
   "max": 925
  },
  "TAG Heuer WK1110|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-28",
   "consulta": "TAG Heuer WK1110",
   "n": 18,
   "mediana": 875,
@@ -4900,14 +4900,14 @@
   "n": 0
  },
  "TAG Heuer WK2117|usado": {
-  "fecha": "2026-10-22",
+  "fecha": "2026-10-28",
   "consulta": "TAG Heuer WK2117",
   "n": 2,
-  "mediana": 690,
-  "p25": 655,
-  "p75": 725,
-  "min": 655,
-  "max": 725
+  "mediana": 748,
+  "p25": 700,
+  "p75": 795,
+  "min": 700,
+  "max": 795
  },
  "TAG Heuer CK2112|usado": {
   "fecha": "2026-10-22",
@@ -9875,14 +9875,14 @@
   "max": 499
  },
  "TAG Heuer CAU1113|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-28",
   "consulta": "TAG Heuer CAU1113",
   "n": 2,
-  "mediana": 1002,
-  "p25": 965,
-  "p75": 1040,
-  "min": 965,
-  "max": 1040
+  "mediana": 1095,
+  "p25": 995,
+  "p75": 1195,
+  "min": 995,
+  "max": 1195
  },
  "TAG Heuer CL1110|usado": {
   "fecha": "2026-10-26",
@@ -9940,13 +9940,13 @@
   "max": 585
  },
  "TAG Heuer WL1180|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-28",
   "consulta": "TAG Heuer WL1180",
   "n": 5,
   "mediana": 600,
-  "p25": 585,
+  "p25": 575,
   "p75": 600,
-  "min": 575,
+  "min": 550,
   "max": 600
  },
  "TAG Heuer CAR2012|usado": {
@@ -10160,14 +10160,14 @@
   "max": 850
  },
  "TAG Heuer WK1112|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-28",
   "consulta": "TAG Heuer WK1112",
-  "n": 6,
-  "mediana": 922,
-  "p25": 645,
-  "p75": 990,
+  "n": 5,
+  "mediana": 895,
+  "p25": 695,
+  "p75": 950,
   "min": 365,
-  "max": 2001
+  "max": 990
  },
  "TAG Heuer CK1111|usado": {
   "fecha": "2026-10-26",
@@ -10395,14 +10395,14 @@
   "n": 0
  },
  "TAG Heuer CAC111B|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-28",
   "consulta": "TAG Heuer CAC111B",
   "n": 6,
-  "mediana": 850,
+  "mediana": 891,
   "p25": 750,
-  "p75": 912,
+  "p75": 975,
   "min": 623,
-  "max": 975
+  "max": 2000
  },
  "TAG Heuer WV1413|nuevo": {
   "fecha": "2026-10-26",
@@ -10910,13 +10910,13 @@
   "n": 0
  },
  "TAG Heuer WAB1120|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-28",
   "consulta": "TAG Heuer WAB1120",
   "n": 4,
   "mediana": 1048,
   "p25": 995,
   "p75": 1195,
-  "min": 990,
+  "min": 900,
   "max": 1195
  },
  "TAG Heuer WBP201A|usado": {
@@ -13913,5 +13913,105 @@
   "p75": 725,
   "min": 725,
   "max": 725
+ },
+ "TAG Heuer WV2115|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "TAG Heuer WV2115",
+  "n": 12,
+  "mediana": 1691,
+  "p25": 1615,
+  "p75": 1799,
+  "min": 1000,
+  "max": 2100
+ },
+ "TAG Heuer WA1411|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "TAG Heuer WA1411",
+  "n": 5,
+  "mediana": 300,
+  "p25": 275,
+  "p75": 605,
+  "min": 267,
+  "max": 705
+ },
+ "TAG Heuer WAH1315|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "TAG Heuer WAH1315",
+  "n": 4,
+  "mediana": 912,
+  "p25": 900,
+  "p75": 1595,
+  "min": 899,
+  "max": 1595
+ },
+ "TAG Heuer WAF141H|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "TAG Heuer WAF141H",
+  "n": 0
+ },
+ "TAG Heuer SBR8080|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "TAG Heuer SBR8080",
+  "n": 3,
+  "mediana": 915,
+  "p25": 885,
+  "p75": 925,
+  "min": 885,
+  "max": 925
+ },
+ "TAG Heuer CAF1010|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "TAG Heuer CAF1010",
+  "n": 2,
+  "mediana": 1425,
+  "p25": 1200,
+  "p75": 1650,
+  "min": 1200,
+  "max": 1650
+ },
+ "TAG Heuer BA0606|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "TAG Heuer BA0606",
+  "n": 0
+ },
+ "TAG Heuer CL111A|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "TAG Heuer CL111A",
+  "n": 8,
+  "mediana": 737,
+  "p25": 720,
+  "p75": 950,
+  "min": 585,
+  "max": 1103
+ },
+ "TAG Heuer WN2312|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "TAG Heuer WN2312",
+  "n": 0
+ },
+ "TAG Heuer WAU1117|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "TAG Heuer WAU1117",
+  "n": 0
+ },
+ "TAG Heuer CG1110|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "TAG Heuer CG1110",
+  "n": 2,
+  "mediana": 845,
+  "p25": 700,
+  "p75": 990,
+  "min": 700,
+  "max": 990
+ },
+ "TAG Heuer WAF1011|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "TAG Heuer WAF1011",
+  "n": 0
+ },
+ "Jaeger-LeCoultre Q6042520|usado": {
+  "fecha": "2026-10-28",
+  "consulta": "Jaeger-LeCoultre Q6042520",
+  "n": 0
  }
 }
