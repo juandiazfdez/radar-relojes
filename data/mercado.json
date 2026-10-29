@@ -13805,13 +13805,13 @@
   "max": 4269
  },
  "Omega 212.30.44.50.03.001|usado": {
-  "fecha": "2026-10-28",
+  "fecha": "2026-10-29",
   "consulta": "Omega 212.30.44.50.03.001",
-  "n": 3,
-  "mediana": 4800,
+  "n": 5,
+  "mediana": 4650,
   "p25": 4250,
-  "p75": 5397,
-  "min": 4250,
+  "p75": 4800,
+  "min": 3100,
   "max": 5397
  },
  "Breitling E75362|usado": {
@@ -16418,5 +16418,35 @@
   "p75": 4500,
   "min": 1785,
   "max": 4500
+ },
+ "TAG Heuer WAY201A|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer WAY201A",
+  "n": 1,
+  "mediana": 1905,
+  "p25": 1905,
+  "p75": 1905,
+  "min": 1905,
+  "max": 1905
+ },
+ "TAG Heuer WAH1313|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer WAH1313",
+  "n": 6,
+  "mediana": 1630,
+  "p25": 1200,
+  "p75": 1850,
+  "min": 1100,
+  "max": 2000
+ },
+ "TAG Heuer CBN201D|nuevo": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer CBN201D",
+  "n": 1,
+  "mediana": 5662,
+  "p25": 5662,
+  "p75": 5662,
+  "min": 5662,
+  "max": 5662
  }
 }
