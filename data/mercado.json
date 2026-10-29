@@ -2455,7 +2455,7 @@
   "max": 5750
  },
  "Omega 215.30.46.21.03.001|usado": {
-  "fecha": "2026-10-28",
+  "fecha": "2026-10-29",
   "consulta": "Omega 215.30.46.21.03.001",
   "n": 7,
   "mediana": 9500,
@@ -5770,12 +5770,12 @@
   "n": 0
  },
  "Rolex 126610LN|nuevo": {
-  "fecha": "2026-10-28",
+  "fecha": "2026-10-29",
   "consulta": "Rolex 126610LN",
-  "n": 30,
-  "mediana": 16272,
+  "n": 31,
+  "mediana": 16295,
   "p25": 15975,
-  "p75": 16999,
+  "p75": 16988,
   "min": 14995,
   "max": 18908
  },
@@ -6145,7 +6145,7 @@
   "max": 40625
  },
  "Rolex 126710BLNR|nuevo": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-29",
   "consulta": "Rolex 126710BLNR",
   "n": 62,
   "mediana": 20558,
@@ -14560,12 +14560,12 @@
   "max": 48450
  },
  "Omega 310.30.42.50.04.001|usado": {
-  "fecha": "2026-10-28",
+  "fecha": "2026-10-29",
   "consulta": "Omega 310.30.42.50.04.001",
-  "n": 20,
-  "mediana": 8454,
+  "n": 21,
+  "mediana": 8459,
   "p25": 8000,
-  "p75": 8895,
+  "p75": 8850,
   "min": 7414,
   "max": 9197
  },
@@ -16103,5 +16103,40 @@
   "p75": 10640,
   "min": 10640,
   "max": 10640
+ },
+ "Rolex 116610LV|nuevo": {
+  "fecha": "2026-10-29",
+  "consulta": "Rolex 116610LV",
+  "n": 2,
+  "mediana": 29027,
+  "p25": 26708,
+  "p75": 31345,
+  "min": 26708,
+  "max": 31345
+ },
+ "Cartier WE902073|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Cartier WE902073",
+  "n": 2,
+  "mediana": 4215,
+  "p25": 4215,
+  "p75": 4215,
+  "min": 4215,
+  "max": 4215
+ },
+ "Panerai PAM233|nuevo": {
+  "fecha": "2026-10-29",
+  "consulta": "Panerai PAM233",
+  "n": 0
+ },
+ "Panerai PAM277|nuevo": {
+  "fecha": "2026-10-29",
+  "consulta": "Panerai PAM277",
+  "n": 0
+ },
+ "Omega 231.53.42.21.06.002|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Omega 231.53.42.21.06.002",
+  "n": 0
  }
 }
