@@ -1,74 +1,6 @@
 [
  {
   "fecha": "2026-10-28T12:07:48.476334+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date Automatic Stainless Steel Watch",
-  "total": 3680.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267826081901",
-  "item_id": "v1|267826081901|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date (talla de dama, esfera plateada, brazalete Oyster)",
-   "referencia": "6916 (probable, verificar número de referencia y año)",
-   "precio_justo_usd": 2900,
-   "interesante": false,
-   "nota": "Precio pedido de 3680 USD está por encima del valor de venta cerrada estimado para un modelo vintage de dama en acero y estado bueno; no cumple el umbral del 15 %."
-  },
-  "motivo": "triage: Precio pedido de 3680 USD está por encima del valor de venta cerrada estimado para un modelo vintage de dama en acero y estado bueno; no cumple el umbral del 15 %. (justo 2900)"
- },
- {
-  "fecha": "2026-10-28T12:07:48.476334+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date Automatic Stainless Steel Watch",
-  "total": 2952.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820287476282",
-  "item_id": "v1|820287476282|0",
-  "triage": {
-   "modelo": "Rolex Datejust Lady 26 mm, acero con bisel acanalado de metal blanco, esfera plateada y brazalete Jubilee (la imagen no coincide con el título 'Oyster Perpetual Date')",
-   "referencia": "6917 (probable, según bisel y tamaño visibles)",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Precio 8 % por debajo del valor estimado, por lo que no alcanza el umbral del 15 %. Confirmar referencia, año, autenticidad y tamaño, porque el título no coincide con el modelo de la foto."
-  },
-  "motivo": "triage: Precio 8 % por debajo del valor estimado, por lo que no alcanza el umbral del 15 %. Confirmar referencia, año, autenticidad y tamaño, porque el título no coincide con el modelo de la foto. (justo 3200)"
- },
- {
-  "fecha": "2026-10-28T12:07:48.476334+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Automatic Stainless Steel Watch",
-  "total": 2661.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267826081840",
-  "item_id": "v1|267826081840|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Lady 24 mm, acero, bisel liso (posible generación vintage)",
-   "referencia": "probablemente 6718 o 67180, no verificable con la foto",
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "Precio pedido de 2661 USD por encima de lo que se vende este modelo en estado Good; sin confirmar referencia, año ni papeles."
-  },
-  "motivo": "triage: Precio pedido de 2661 USD por encima de lo que se vende este modelo en estado Good; sin confirmar referencia, año ni papeles. (justo 2200)"
- },
- {
-  "fecha": "2026-10-28T12:07:48.476334+00:00",
-  "marca": "Rolex",
-  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
-  "total": 16490.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/327427615991",
-  "item_id": "v1|327427615991|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date (esfera y bisel negros, brazalete de acero; no se distingue la referencia en la foto)",
-   "referencia": "126610LN (probable, no verificable en la imagen)",
-   "precio_justo_usd": 15500,
-   "interesante": false,
-   "nota": "Con caja y papeles, el precio pedido queda cerca del valor de mercado, no 15 % por debajo. La referencia y el estado 'unpolished' deben verificarse con número de serie, papeles y fotos detalladas antes de comprar."
-  },
-  "motivo": "triage: Con caja y papeles, el precio pedido queda cerca del valor de mercado, no 15 % por debajo. La referencia y el estado 'unpolished' deben verificarse con número de serie, papeles y fotos detalladas antes de comprar. (justo 15500)"
- },
- {
-  "fecha": "2026-10-28T12:07:48.476334+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Pasha De Cartier Automatic Stainless Steel Watch",
   "total": 2574.0,
@@ -11318,5 +11250,73 @@
    "nota": "Cronógrafo de cuarzo vintage de acero; en el mercado de segunda mano se vende por debajo de 1.000 USD, así que US$2.135 está muy por encima del precio real."
   },
   "motivo": "triage: Cronógrafo de cuarzo vintage de acero; en el mercado de segunda mano se vende por debajo de 1.000 USD, así que US$2.135 está muy por encima del precio real. (justo 900)"
+ },
+ {
+  "fecha": "2026-10-29T14:53:31.448510+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Datejust 36, 16234, Steel & White Gold, Black Diamond Dial, Oys...",
+  "total": 9578.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/800852090845",
+  "item_id": "v1|800852090845|0",
+  "referencia": "16234",
+  "mercado": {
+   "n": 30,
+   "p25": 6160,
+   "mediana": 6485
+  },
+  "ratio_mercado": 1.555,
+  "motivo": "precio normal (155 % del cuartil bajo de 16234)"
+ },
+ {
+  "fecha": "2026-10-29T14:53:31.448510+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Datejust 36, 16234, Steel & White Gold, Black Diamond Dial, Jub...",
+  "total": 9078.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/366769148069",
+  "item_id": "v1|366769148069|0",
+  "referencia": "16234",
+  "mercado": {
+   "n": 30,
+   "p25": 6160,
+   "mediana": 6485
+  },
+  "ratio_mercado": 1.474,
+  "motivo": "precio normal (147 % del cuartil bajo de 16234)"
+ },
+ {
+  "fecha": "2026-10-29T14:53:31.448510+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Datejust 36, 116243, Steel & Gold, Black Diamond Dial, Oyster B...",
+  "total": 16067.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/366769118641",
+  "item_id": "v1|366769118641|0",
+  "referencia": "116243",
+  "mercado": {
+   "n": 38,
+   "p25": 15667,
+   "mediana": 16028
+  },
+  "ratio_mercado": 1.026,
+  "motivo": "precio normal (103 % del cuartil bajo de 116243)"
+ },
+ {
+  "fecha": "2026-10-29T14:53:31.448510+00:00",
+  "marca": "Omega",
+  "titulo": "Vintage Omega Seamaster Electronic f300 Hz – Ref. 198.0016 “Hummer”",
+  "total": 1845.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407324769836",
+  "item_id": "v1|407324769836|0",
+  "triage": {
+   "modelo": "Omega Seamaster Electronic F300Hz 'Hummer' (cuarzo de diapasón, años 70)",
+   "referencia": "198.0016",
+   "precio_justo_usd": 1700,
+   "interesante": false,
+   "nota": "Precio pedido cercano al valor de mercado para este modelo en estado Good; no hay descuento de al menos 15 % y conviene verificar autenticidad del movimiento y de la esfera."
+  },
+  "motivo": "triage: Precio pedido cercano al valor de mercado para este modelo en estado Good; no hay descuento de al menos 15 % y conviene verificar autenticidad del movimiento y de la esfera. (justo 1700)"
  }
 ]
