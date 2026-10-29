@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-10-28T06:07:36.049720+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "Tag Heuer Formula 1 Solograph",
-  "total": 860.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147654908529",
-  "item_id": "v1|147654908529|0",
-  "triage": {
-   "modelo": "TAG Heuer Formula 1 Solograph (cronógrafo solar, pulsera de acero)",
-   "referencia": "CAH1110 (probable, no verificable en la foto)",
-   "precio_justo_usd": 500,
-   "interesante": false,
-   "nota": "La foto no permite confirmar referencia ni estado. Por el precio pedido ($860), estaría muy por encima del valor de venta real de un Solograph usado, así que no es una oportunidad."
-  },
-  "motivo": "triage: La foto no permite confirmar referencia ni estado. Por el precio pedido ($860), estaría muy por encima del valor de venta real de un Solograph usado, así que no es una oportunidad. (justo 500)"
- },
- {
-  "fecha": "2026-10-28T06:22:36.449645+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sky-Dweller - Ref. 336933",
-  "total": 23935.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147654926257",
-  "item_id": "v1|147654926257|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller, acero Oystersteel y oro amarillo, bisel acanalado, esfera champán",
-   "referencia": "336933 (según el listado; la esfera y el bisel son compatibles con esta referencia)",
-   "precio_justo_usd": 25000,
-   "interesante": false,
-   "nota": "Precio pedido a ~4 % por debajo de un estimado conservador de venta cerrada; sin caja ni papeles indicados y condición 'Good', así que no hay margen suficiente."
-  },
-  "motivo": "triage: Precio pedido a ~4 % por debajo de un estimado conservador de venta cerrada; sin caja ni papeles indicados y condición 'Good', así que no hay margen suficiente. (justo 25000)"
- },
- {
   "fecha": "2026-10-28T06:22:36.449645+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Submariner HULK Oyster Bracelet 116610LV Complete with 2017 Papers",
@@ -11284,5 +11250,39 @@
    "nota": "El precio pedido (US$9.950) supera el retail aproximado de esta referencia y está muy por encima del mercado de segunda mano; no hay descuento."
   },
   "motivo": "triage: El precio pedido (US$9.950) supera el retail aproximado de esta referencia y está muy por encima del mercado de segunda mano; no hay descuento. (justo 7000)"
+ },
+ {
+  "fecha": "2026-10-29T13:08:30.688538+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Pasha W31029M7",
+  "total": 2860.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800851823666",
+  "item_id": "v1|800851823666|0",
+  "triage": {
+   "modelo": "Cartier Pasha de Cartier Chronograph (38 mm, acero, esfera plateada)",
+   "referencia": "W31029M7",
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Precio pedido por encima de la estimación de venta real para esta referencia en estado Good; la foto muestra caja, pero no se ven papeles."
+  },
+  "motivo": "triage: Precio pedido por encima de la estimación de venta real para esta referencia en estado Good; la foto muestra caja, pero no se ven papeles. (justo 2300)"
+ },
+ {
+  "fecha": "2026-10-29T13:08:30.688538+00:00",
+  "marca": "Omega",
+  "titulo": "Ladies Omega de Ville Matic 34MM 42565342055001 Mop Diamond 18K Rose Gold Watch",
+  "total": 18800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900048789792",
+  "item_id": "v1|900048789792|0",
+  "triage": {
+   "modelo": "Omega De Ville Ladymatic 34 mm, oro rosa 18K con bisel de diamantes, esfera de nácar con índices de diamante",
+   "referencia": "425.65.34.20.55.001",
+   "precio_justo_usd": 11500,
+   "interesante": false,
+   "nota": "Precio pedido bastante por encima del valor de reventa de un Ladymatic de oro rosa con diamantes en estado usado; el listado no ofrece ventaja."
+  },
+  "motivo": "triage: Precio pedido bastante por encima del valor de reventa de un Ladymatic de oro rosa con diamantes en estado usado; el listado no ofrece ventaja. (justo 11500)"
  }
 ]
