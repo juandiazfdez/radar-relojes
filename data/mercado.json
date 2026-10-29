@@ -6180,13 +6180,13 @@
   "max": 11895
  },
  "Rolex 178344|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-29",
   "consulta": "Rolex 178344",
-  "n": 4,
-  "mediana": 15530,
-  "p25": 15480,
-  "p75": 18730,
-  "min": 12200,
+  "n": 5,
+  "mediana": 15480,
+  "p25": 12200,
+  "p75": 15580,
+  "min": 12000,
   "max": 18730
  },
  "Rolex 126000|usado": {
@@ -6585,10 +6585,10 @@
   "max": 26358
  },
  "Rolex 116528|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-29",
   "consulta": "Rolex 116528",
-  "n": 26,
-  "mediana": 49494,
+  "n": 27,
+  "mediana": 49730,
   "p25": 45990,
   "p75": 55950,
   "min": 40989,
@@ -16218,5 +16218,55 @@
   "fecha": "2026-10-29",
   "consulta": "Breitling C23350",
   "n": 0
+ },
+ "Rolex 118208|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Rolex 118208",
+  "n": 10,
+  "mediana": 26783,
+  "p25": 25990,
+  "p75": 29950,
+  "min": 23995,
+  "max": 32828
+ },
+ "Cartier WR007003|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Cartier WR007003",
+  "n": 1,
+  "mediana": 25025,
+  "p25": 25025,
+  "p75": 25025,
+  "min": 25025,
+  "max": 25025
+ },
+ "TAG Heuer CV2115|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer CV2115",
+  "n": 0
+ },
+ "TAG Heuer WBP2411|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer WBP2411",
+  "n": 0
+ },
+ "TAG Heuer CV201M|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer CV201M",
+  "n": 3,
+  "mediana": 2200,
+  "p25": 2000,
+  "p75": 2676,
+  "min": 2000,
+  "max": 2676
+ },
+ "IWC IW391021|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "IWC IW391021",
+  "n": 1,
+  "mediana": 14890,
+  "p25": 14890,
+  "p75": 14890,
+  "min": 14890,
+  "max": 14890
  }
 }
