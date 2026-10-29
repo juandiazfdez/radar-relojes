@@ -1,91 +1,5 @@
 [
  {
-  "fecha": "2026-10-28T06:22:36.449645+00:00",
-  "marca": "Cartier",
-  "titulo": "Stainless Steel Cartier Tank Solo Python Snake W5200021 Large Model Watch",
-  "total": 5230.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407319129216",
-  "item_id": "v1|407319129216|0",
-  "referencia": "W5200021",
-  "mercado": {
-   "n": 3,
-   "p25": 3995,
-   "mediana": 5034
-  },
-  "triage": {
-   "modelo": "Cartier Tank Solo (acero, correa de piel de pitón)",
-   "referencia": "W5200021 (según título; no verificable en la imagen)",
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "Tank Solo de acero de tamaño grande usado se mueve alrededor de 2.300-2.900 USD; la correa exótica no suma valor y el precio pedido de 5.230 USD está muy por encima del mercado."
-  },
-  "motivo": "triage: Tank Solo de acero de tamaño grande usado se mueve alrededor de 2.300-2.900 USD; la correa exótica no suma valor y el precio pedido de 5.230 USD está muy por encima del mercado. (justo 2600)"
- },
- {
-  "fecha": "2026-10-28T06:22:36.449645+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Prince-Quartz Oysterdate 84100 \"Rare Bird\" 1980'S Mens Watch 34mm",
-  "total": 1758.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940047303859",
-  "item_id": "v1|940047303859|0",
-  "referencia": "84100",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Tudor Prince-Quartz Oysterdate",
-   "referencia": "84100",
-   "precio_justo_usd": 950,
-   "interesante": false,
-   "nota": "Cuarzo de los años 80 en acero con esfera negra; el precio pedido de US$1758 supera con holgura lo que se vende este modelo en estado Good."
-  },
-  "motivo": "triage: Cuarzo de los años 80 en acero con esfera negra; el precio pedido de US$1758 supera con holgura lo que se vende este modelo en estado Good. (justo 950)"
- },
- {
-  "fecha": "2026-10-28T06:22:36.449645+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay GMT Stainless Steel  Red & Blue Men's Watch 79830 - w/ Card",
-  "total": 4025.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940047295778",
-  "item_id": "v1|940047295778|0",
-  "referencia": "79830",
-  "mercado": {
-   "n": 47,
-   "p25": 3800,
-   "mediana": 4038
-  },
-  "ratio_mercado": 1.059,
-  "motivo": "precio normal (106 % del cuartil bajo de 79830)"
- },
- {
-  "fecha": "2026-10-28T06:22:36.449645+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG HEUER Two Tone Aquaracer CAP2120 Chronograph Automatic 41mm Men's Watch",
-  "total": 3025.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940047295653",
-  "item_id": "v1|940047295653|0",
-  "referencia": "CAP2120",
-  "mercado": {
-   "n": 2,
-   "p25": 2100,
-   "mediana": 2300
-  },
-  "triage": {
-   "modelo": "TAG Heuer Aquaracer Calibre 16 Chronograph Automatic, acero y oro, esfera plateada, 41 mm",
-   "referencia": "CAP2120",
-   "precio_justo_usd": 1700,
-   "interesante": false,
-   "nota": "Precio pedido de US$3025 muy por encima del valor de venta real de este modelo de segunda mano (aprox. US$1500-2000 según estado, sin caja ni papeles)."
-  },
-  "motivo": "triage: Precio pedido de US$3025 muy por encima del valor de venta real de este modelo de segunda mano (aprox. US$1500-2000 según estado, sin caja ni papeles). (justo 1700)"
- },
- {
   "fecha": "2026-10-28T06:37:36.535569+00:00",
   "marca": "Rolex",
   "titulo": "Vintage Rolex 14kt Yellow Gold Diamond 16mm Ladies Cocktail Rolex 6in. Watch",
@@ -11290,5 +11204,79 @@
    "nota": "Precio pedido de US$4199 muy por encima del valor de mercado usado (aprox. US$1300-1600 según estado, caja y papeles) y del retail actual de este modelo; no es oportunidad."
   },
   "motivo": "triage: Precio pedido de US$4199 muy por encima del valor de mercado usado (aprox. US$1300-1600 según estado, caja y papeles) y del retail actual de este modelo; no es oportunidad. (justo 1400)"
+ },
+ {
+  "fecha": "2026-10-29T13:38:31.474866+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Date just President 18k Yellow Gold Jubilee Diamond 26mm Watch 80’s",
+  "total": 12500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366769018447",
+  "item_id": "v1|366769018447|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 mm en oro amarillo 18k con bisel de diamantes, esfera negra con marcadores de diamante y brazalete President (años 80)",
+   "referencia": "69138 (probable; verificar en el caso)",
+   "precio_justo_usd": 13000,
+   "interesante": false,
+   "nota": "El precio pedido está cerca del valor de mercado para esta configuración. El título menciona brazalete Jubilee, pero la imagen muestra President; conviene confirmar la referencia y los diamantes."
+  },
+  "motivo": "triage: El precio pedido está cerca del valor de mercado para esta configuración. El título menciona brazalete Jubilee, pero la imagen muestra President; conviene confirmar la referencia y los diamantes. (justo 13000)"
+ },
+ {
+  "fecha": "2026-10-29T13:38:31.474866+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Pelagos",
+  "total": 3600.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820291829457",
+  "item_id": "v1|820291829457|0",
+  "triage": {
+   "modelo": "Tudor Pelagos (titanio, bisel negro, brazalete de titanio)",
+   "referencia": "25600TN (probable, verificar tamaño y referencia)",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Precio cercano al mercado de usado; no alcanza el 15% de descuento exigido. Confirmar referencia, año, caja y papeles."
+  },
+  "motivo": "triage: Precio cercano al mercado de usado; no alcanza el 15% de descuento exigido. Confirmar referencia, año, caja y papeles. (justo 3800)"
+ },
+ {
+  "fecha": "2026-10-29T13:38:31.474866+00:00",
+  "marca": "Panerai",
+  "titulo": "Panerai Luminor 1950 3 Days GMT 24h Automatic Acciaio 44mm PAM00531",
+  "total": 5920.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840071454957",
+  "item_id": "v1|840071454957|0",
+  "referencia": "PAM00531",
+  "mercado": {
+   "n": 2,
+   "p25": 5000,
+   "mediana": 5498
+  },
+  "triage": {
+   "modelo": "Panerai Luminor 1950 3 Days GMT 24h Automatic Acciaio 44mm",
+   "referencia": "PAM00531",
+   "precio_justo_usd": 6100,
+   "interesante": false,
+   "nota": "La foto muestra un Luminor GMT de acero con correa de piel; la referencia se toma del título y no se verifica en la imagen. El precio pedido está cerca del valor de mercado, no 15 % por debajo."
+  },
+  "motivo": "triage: La foto muestra un Luminor GMT de acero con correa de piel; la referencia se toma del título y no se verifica en la imagen. El precio pedido está cerca del valor de mercado, no 15 % por debajo. (justo 6100)"
+ },
+ {
+  "fecha": "2026-10-29T13:38:31.474866+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Speedmaster Moonwatch Sapphire Sandwich 310.30.42.50.01.002 Full Set 2023",
+  "total": 6980.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198754604044",
+  "item_id": "v1|198754604044|0",
+  "referencia": "310.30.42.50.01.002",
+  "mercado": {
+   "n": 41,
+   "p25": 6997,
+   "mediana": 7350
+  },
+  "ratio_mercado": 0.998,
+  "motivo": "precio normal (100 % del cuartil bajo de 310.30.42.50.01.002)"
  }
 ]
