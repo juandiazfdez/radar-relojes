@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-10-27T23:22:27.407859+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex Date 34mm Champagne Oyster Automatic Watch 1979 Untested (A1)",
-  "total": 3499.99,
-  "condicion": "For parts or not working",
-  "url": "https://www.ebay.com/itm/366763229256",
-  "item_id": "v1|366763229256|0",
-  "triage": {
-   "modelo": "Rolex Datejust bicolor acero/oro, bisel acanalado dorado, esfera champán, brazalete jubilee (posiblemente 34 mm)",
-   "referencia": "null",
-   "precio_justo_usd": 1500,
-   "interesante": false,
-   "nota": "Precio de un Datejust bicolor de 1979 funcionando; como es pieza o no funciona y no está probado, el precio pedido de 3500 USD está muy por encima de su valor."
-  },
-  "motivo": "triage: Precio de un Datejust bicolor de 1979 funcionando; como es pieza o no funciona y no está probado, el precio pedido de 3500 USD está muy por encima de su valor. (justo 1500)"
- },
- {
-  "fecha": "2026-10-27T23:22:27.407859+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere 1320 Stainless Steel 21.5mm Watch",
-  "total": 5560.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117490835995",
-  "item_id": "v1|117490835995|0",
-  "referencia": "1320",
-  "mercado": {
-   "n": 11,
-   "p25": 4550,
-   "mediana": 4695
-  },
-  "ratio_mercado": 1.222,
-  "motivo": "precio normal (122 % del cuartil bajo de 1320)"
- },
- {
-  "fecha": "2026-10-27T23:22:27.407859+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay 58 2020 79030N-0001 with Box and Papers",
   "total": 4000.0,
@@ -11404,5 +11370,39 @@
    "nota": "Cronógrafo de acero usado con kit completo; el precio pedido de US$4510 está por encima del valor de venta realista."
   },
   "motivo": "triage: Cronógrafo de acero usado con kit completo; el precio pedido de US$4510 está por encima del valor de venta realista. (justo 4300)"
+ },
+ {
+  "fecha": "2026-10-29T01:53:11.222234+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 6719 24mm 14K Solid Gold Jubilee Ladies Watch 1982",
+  "total": 6495.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206660477806",
+  "item_id": "v1|206660477806|0",
+  "referencia": "6719",
+  "mercado": {
+   "n": 17,
+   "p25": 3954,
+   "mediana": 4675
+  },
+  "ratio_mercado": 1.643,
+  "motivo": "precio normal (164 % del cuartil bajo de 6719)"
+ },
+ {
+  "fecha": "2026-10-29T01:53:11.222234+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay GMT 41mm Stainless Steel 79830RB | 2025",
+  "total": 4000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/377604657972",
+  "item_id": "v1|377604657972|0",
+  "referencia": "79830RB",
+  "mercado": {
+   "n": 44,
+   "p25": 3800,
+   "mediana": 4019
+  },
+  "ratio_mercado": 1.053,
+  "motivo": "precio normal (105 % del cuartil bajo de 79830RB)"
  }
 ]
