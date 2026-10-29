@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-10-28T04:07:26.894879+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Speedmaster /Chronograph/Date /3513.50 Black Dial/ Automatic Box Papers",
-  "total": 3523.45,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920081213779",
-  "item_id": "v1|920081213779|0",
-  "referencia": "3513.50",
-  "mercado": {
-   "n": 3,
-   "p25": 2700,
-   "mediana": 3100
-  },
-  "triage": {
-   "modelo": "Omega Speedmaster Date Chronograph (esfera negra, brazalete de acero)",
-   "referencia": "3513.50",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Referencia 3513.50 con caja y papeles en estado bueno; el precio pedido de US$3523 está por encima del valor de venta cerrada estimado, sin descuento suficiente."
-  },
-  "motivo": "triage: Referencia 3513.50 con caja y papeles en estado bueno; el precio pedido de US$3523 está por encima del valor de venta cerrada estimado, sin descuento suficiente. (justo 3200)"
- },
- {
   "fecha": "2026-10-28T04:22:27.160130+00:00",
   "marca": "Jaeger-LeCoultre",
   "titulo": "Jaeger-LeCoultre Reverso Squadra World Chronograph Watch Ref 231.T.50",
@@ -11308,5 +11285,22 @@
   },
   "ratio_mercado": 0.804,
   "motivo": "descripcion: replica"
+ },
+ {
+  "fecha": "2026-10-29T11:08:31.297041+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Diver 300M 007 Edition 210.92.42.20.01.001 Titanium Full Set",
+  "total": 8538.95,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880061206892",
+  "item_id": "v1|880061206892|0",
+  "referencia": "210.92.42.20.01.001",
+  "mercado": {
+   "n": 8,
+   "p25": 7990,
+   "mediana": 8450
+  },
+  "ratio_mercado": 1.069,
+  "motivo": "precio normal (107 % del cuartil bajo de 210.92.42.20.01.001)"
  }
 ]
