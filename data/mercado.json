@@ -5310,7 +5310,7 @@
   "max": 6000
  },
  "Panerai PAM5218|nuevo": {
-  "fecha": "2026-10-22",
+  "fecha": "2026-10-29",
   "consulta": "Panerai PAM5218",
   "n": 0
  },
@@ -5840,11 +5840,11 @@
   "max": 14468
  },
  "Rolex 18078|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-29",
   "consulta": "Rolex 18078",
-  "n": 16,
-  "mediana": 17994,
-  "p25": 16792,
+  "n": 17,
+  "mediana": 17950,
+  "p25": 16733,
   "p75": 19940,
   "min": 12029,
   "max": 23000
@@ -6210,12 +6210,12 @@
   "max": 3990
  },
  "Rolex 116610LN|usado": {
-  "fecha": "2026-10-28",
+  "fecha": "2026-10-29",
   "consulta": "Rolex 116610LN",
-  "n": 58,
+  "n": 59,
   "mediana": 13500,
   "p25": 12899,
-  "p75": 14469,
+  "p75": 14369,
   "min": 11500,
   "max": 26995
  },
@@ -15973,5 +15973,30 @@
   "p75": 6860,
   "min": 2200,
   "max": 50000
+ },
+ "TAG Heuer CBP1113|nuevo": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer CBP1113",
+  "n": 2,
+  "mediana": 2593,
+  "p25": 2588,
+  "p75": 2598,
+  "min": 2588,
+  "max": 2598
+ },
+ "Jaeger-LeCoultre Q9008471|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Jaeger-LeCoultre Q9008471",
+  "n": 1,
+  "mediana": 6150,
+  "p25": 6150,
+  "p75": 6150,
+  "min": 6150,
+  "max": 6150
+ },
+ "Jaeger-LeCoultre Q9028651|nuevo": {
+  "fecha": "2026-10-29",
+  "consulta": "Jaeger-LeCoultre Q9028651",
+  "n": 0
  }
 }
