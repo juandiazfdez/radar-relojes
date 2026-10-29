@@ -1,80 +1,6 @@
 [
  {
   "fecha": "2026-10-27T22:52:17.875424+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Prince Oysterdate “Jumbo”",
-  "total": 3885.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920080525636",
-  "item_id": "v1|920080525636|0",
-  "triage": {
-   "modelo": "Tudor Prince Oysterdate \"Jumbo\" (vintage, esfera plateada, correa de piel)",
-   "referencia": "7016/0 (probable, no confirmable en la foto)",
-   "precio_justo_usd": 2400,
-   "interesante": false,
-   "nota": "Precio pedido de US$3885 está muy por encima del valor de venta real para este vintage en estado excelente; sin papeles ni caja, no justifica el precio."
-  },
-  "motivo": "triage: Precio pedido de US$3885 está muy por encima del valor de venta real para este vintage en estado excelente; sin papeles ni caja, no justifica el precio. (justo 2400)"
- },
- {
-  "fecha": "2026-10-27T22:52:17.875424+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Diver 300 M 210.22.42.20.03.002",
-  "total": 6160.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198750528828",
-  "item_id": "v1|198750528828|0",
-  "referencia": "210.22.42.20.03.002",
-  "mercado": {
-   "n": 9,
-   "p25": 6197,
-   "mediana": 6400
-  },
-  "ratio_mercado": 0.994,
-  "motivo": "precio normal (99 % del cuartil bajo de 210.22.42.20.03.002)"
- },
- {
-  "fecha": "2026-10-27T22:52:17.875424+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Seamaster300 50th Anniversary 2234.50 GMT Automatic Men's",
-  "total": 2425.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287685418838",
-  "item_id": "v1|287685418838|0",
-  "referencia": "2234.50",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Omega Seamaster 300 (caja de acero, esfera negra, pulsera de eslabones)",
-   "referencia": "2234.50 (el título menciona GMT y 50th Anniversary, pero la referencia 2234.50 corresponde a un 3 agujas sin GMT; verificar)",
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "Título inconsistente (GMT/50th Anniversary vs. 2234.50); el precio pedido está solo ~7% bajo una estimación conservadora, sin margen suficiente."
-  },
-  "motivo": "triage: Título inconsistente (GMT/50th Anniversary vs. 2234.50); el precio pedido está solo ~7% bajo una estimación conservadora, sin margen suficiente. (justo 2600)"
- },
- {
-  "fecha": "2026-10-27T22:52:17.875424+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Geneve",
-  "total": 1960.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920080529478",
-  "item_id": "v1|920080529478|0",
-  "triage": {
-   "modelo": "Omega Geneve vintage (esfera dorada, cuerda manual, probablemente años 50-60)",
-   "referencia": null,
-   "precio_justo_usd": 1100,
-   "interesante": false,
-   "nota": "Sin referencia ni caja de metal visible; precio pedido de $1960 supera con holgura el valor de mercado de un Geneve vintage en estado excelente."
-  },
-  "motivo": "triage: Sin referencia ni caja de metal visible; precio pedido de $1960 supera con holgura el valor de mercado de un Geneve vintage en estado excelente. (justo 1100)"
- },
- {
-  "fecha": "2026-10-27T22:52:17.875424+00:00",
   "marca": "Omega",
   "titulo": "OMEGA SPEEDMASTER PROFESSIONAL  Ref. 145.022-76",
   "total": 4585.0,
@@ -11380,5 +11306,85 @@
    "nota": "Precio cercano al mercado de segunda mano; la referencia viene del título y no se verifica en la foto. Descuento de solo ~8%, por debajo del umbral del 15%."
   },
   "motivo": "triage: Precio cercano al mercado de segunda mano; la referencia viene del título y no se verifica en la foto. Descuento de solo ~8%, por debajo del umbral del 15%. (justo 3200)"
+ },
+ {
+  "fecha": "2026-10-29T01:08:11.199672+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Constellation Stainless Steel / Silver 140.13.39.21.02.001",
+  "total": 9560.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198753290905",
+  "item_id": "v1|198753290905|0",
+  "referencia": "140.13.39.21.02.001",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Omega Seamaster (esfera blanca, detalles dorado rosa; el título dice Constellation, pero el texto visible en la esfera indica Seamaster)",
+   "referencia": null,
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de mercado para acero usado en buen estado, y el título no coincide con el modelo visible; verificar referencia y autenticidad antes de comprar."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de mercado para acero usado en buen estado, y el título no coincide con el modelo visible; verificar referencia y autenticidad antes de comprar. (justo 4500)"
+ },
+ {
+  "fecha": "2026-10-29T01:08:11.199672+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Planet Ocean 600M Co-Axial 45.5 Master Chronometer GMT Deep Bla…",
+  "total": 7560.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198753288921",
+  "item_id": "v1|198753288921|0",
+  "triage": {
+   "modelo": "Omega Seamaster Planet Ocean 600M Co-Axial Master Chronometer GMT 45.5 mm, caja y bisel de cerámica negra (Deep Black)",
+   "referencia": "215.30.46.22.01.001 (probable, verificar en el caso y el reverso)",
+   "precio_justo_usd": 7400,
+   "interesante": false,
+   "nota": "Precio cercano al mercado de segunda mano para este modelo en estado usado; no hay descuento de al menos 15 %. Confirmar referencia, papeles y estado del bisel."
+  },
+  "motivo": "triage: Precio cercano al mercado de segunda mano para este modelo en estado usado; no hay descuento de al menos 15 %. Confirmar referencia, papeles y estado del bisel. (justo 7400)"
+ },
+ {
+  "fecha": "2026-10-29T01:08:11.199672+00:00",
+  "marca": "Omega",
+  "titulo": "2026 Omega Speedmaster Anniversary Series Co-Axial Master Chronometer",
+  "total": 15995.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880060220590",
+  "item_id": "v1|880060220590|0",
+  "triage": {
+   "modelo": "Omega Speedmaster Anniversary Series (cronógrafo Co-Axial Master Chronometer, esfera blanca, bisel azul)",
+   "referencia": null,
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de mercado de un Speedmaster de acero; la referencia y el año 2026 no son verificables desde la foto."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de mercado de un Speedmaster de acero; la referencia y el año 2026 no son verificables desde la foto. (justo 6500)"
+ },
+ {
+  "fecha": "2026-10-29T01:08:11.199672+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Formula 1 Men's Black Watch - CAU111A.FT6024.   ** UNWORN**",
+  "total": 1550.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/137882936116",
+  "item_id": "v1|137882936116|0",
+  "referencia": "CAU111A.FT6024",
+  "mercado": {
+   "n": 1,
+   "p25": 1850,
+   "mediana": 1850
+  },
+  "triage": {
+   "modelo": "TAG Heuer Formula 1 Chronograph 43 mm, caja de acero con PVD negro, correa de caucho negra",
+   "referencia": "CAU111A.FT6024",
+   "precio_justo_usd": 1050,
+   "interesante": false,
+   "nota": "Modelo de cuarzo de producción actual; nuevo con caja y papeles se revende bastante por debajo de retail, así que US$1550 está por encima del precio de mercado."
+  },
+  "motivo": "triage: Modelo de cuarzo de producción actual; nuevo con caja y papeles se revende bastante por debajo de retail, así que US$1550 está por encima del precio de mercado. (justo 1050)"
  }
 ]
