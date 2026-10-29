@@ -1,96 +1,5 @@
 [
  {
-  "fecha": "2026-10-28T06:52:36.343116+00:00",
-  "marca": "Omega",
-  "titulo": "Vintage 14kt Gold Fill Omega Sea Master DeVille Automatic Original Wristwatch",
-  "total": 1860.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940047358651",
-  "item_id": "v1|940047358651|0",
-  "triage": {
-   "modelo": "Omega Seamaster De Ville automático vintage, caja chapada en oro 14k, brazalete de malla",
-   "referencia": null,
-   "precio_justo_usd": 900,
-   "interesante": false,
-   "nota": "Caja chapada en oro (no sólido), años 60-70; el precio pedido de US$1860 está muy por encima del valor de venta real."
-  },
-  "motivo": "triage: Caja chapada en oro (no sólido), años 60-70; el precio pedido de US$1860 está muy por encima del valor de venta real. (justo 900)"
- },
- {
-  "fecha": "2026-10-28T06:52:36.343116+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Womens Constellation 6552.864 Quartz 2 Tone 18k Gold & Stainless Watch",
-  "total": 1485.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940047357705",
-  "item_id": "v1|940047357705|0",
-  "triage": {
-   "modelo": "Omega Constellation de cuarzo, dos tonos acero y oro 18k, esfera dorada (modelo femenino)",
-   "referencia": "6552.864 (según título, no verificable en la foto)",
-   "precio_justo_usd": 1000,
-   "interesante": false,
-   "nota": "Precio pedido de US$1485 supera el valor de venta cerrada de este reloj de cuarzo en estado Good; no hay margen de compra."
-  },
-  "motivo": "triage: Precio pedido de US$1485 supera el valor de venta cerrada de este reloj de cuarzo en estado Good; no hay margen de compra. (justo 1000)"
- },
- {
-  "fecha": "2026-10-28T06:52:36.343116+00:00",
-  "marca": "Breitling",
-  "titulo": "Men's Breitling Bentley Continental GT Blue 44mm Ref. #A13363",
-  "total": 3544.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960121209146",
-  "item_id": "v1|960121209146|0",
-  "referencia": "A13363",
-  "mercado": {
-   "n": 4,
-   "p25": 3998,
-   "mediana": 4046
-  },
-  "triage": {
-   "modelo": "Breitling Bentley Continental GT Chronograph (esfera azul, brazalete de acero, 44 mm)",
-   "referencia": "A13363",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio en línea con el mercado de segunda mano para acero con esfera azul; sin caja ni papeles visibles, no hay margen de compra de al menos 15%."
-  },
-  "motivo": "triage: Precio en línea con el mercado de segunda mano para acero con esfera azul; sin caja ni papeles visibles, no hay margen de compra de al menos 15%. (justo 3300)"
- },
- {
-  "fecha": "2026-10-28T07:07:36.162938+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner HULK Oyster Bracelet 116610LV Complete with 2017 Papers",
-  "total": 24510.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940047390226",
-  "item_id": "v1|940047390226|0",
-  "referencia": "116610LV",
-  "mercado": {
-   "n": 33,
-   "p25": 19850,
-   "mediana": 20997
-  },
-  "ratio_mercado": 1.235,
-  "motivo": "precio normal (123 % del cuartil bajo de 116610LV)"
- },
- {
-  "fecha": "2026-10-28T07:07:36.162938+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex Cosmograph Daytona Panda 40mm, Black, Full Set, 126500LN New Card",
-  "total": 43775.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/940047390180",
-  "item_id": "v1|940047390180|0",
-  "referencia": "126500LN",
-  "mercado": {
-   "n": 22,
-   "p25": 34000,
-   "mediana": 36679
-  },
-  "ratio_mercado": 1.288,
-  "motivo": "precio normal (129 % del cuartil bajo de 126500LN)"
- },
- {
   "fecha": "2026-10-28T07:07:36.162938+00:00",
   "marca": "Rolex",
   "titulo": "1963 Rolex 18kt Yellow Gold Ladies Cocktail Watch, Model 2141 Fully Complete Set",
@@ -11283,5 +11192,102 @@
    "nota": "Cronógrafo Aquaracer de acero con esfera negra; en estado Good, el precio pedido de US$1450 queda por encima del valor de venta realista."
   },
   "motivo": "triage: Cronógrafo Aquaracer de acero con esfera negra; en estado Good, el precio pedido de US$1450 queda por encima del valor de venta realista. (justo 1300)"
+ },
+ {
+  "fecha": "2026-10-29T14:08:30.838925+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier La Dona 18mm WE600351 18K White Gold Women's Watch",
+  "total": 8877.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960128993327",
+  "item_id": "v1|960128993327|0",
+  "referencia": "WE600351",
+  "mercado": {
+   "n": 1,
+   "p25": 8231,
+   "mediana": 8231
+  },
+  "triage": {
+   "modelo": "Cartier La Dona 18K oro blanco con bisel de diamantes, esfera crema con numerales romanos, correa de piel rosa",
+   "referencia": "WE600351",
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de reventa estimado para esta referencia en oro blanco con diamantes y estado usado; no cumple el umbral del 15 %."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de reventa estimado para esta referencia en oro blanco con diamantes y estado usado; no cumple el umbral del 15 %. (justo 6500)"
+ },
+ {
+  "fecha": "2026-10-29T14:08:30.838925+00:00",
+  "marca": "Cartier",
+  "titulo": "Ladies Cartier Santos Galbée 29MM 187901 Steel and 18K Yellow Gold Quartz Watch",
+  "total": 6200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940049587678",
+  "item_id": "v1|940049587678|0",
+  "triage": {
+   "modelo": "Cartier Santos Galbée (acero y oro amarillo 18K, cuarzo, tamaño mediano)",
+   "referencia": "187901",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "Precio pedido de US$6200 muy por encima del valor de venta real de esta referencia en condición usada; no cumple el umbral de compra."
+  },
+  "motivo": "triage: Precio pedido de US$6200 muy por encima del valor de venta real de esta referencia en condición usada; no cumple el umbral de compra. (justo 4300)"
+ },
+ {
+  "fecha": "2026-10-29T14:08:30.838925+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere Steel Yellow Gold Ladies Watch W25029B6",
+  "total": 7080.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336868967517",
+  "item_id": "v1|336868967517|0",
+  "triage": {
+   "modelo": "Cartier Panthère de acero y oro amarillo (cuarzo, talla pequeña/mediana, esfera plateada con números romanos)",
+   "referencia": "W25029B6",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Precio pedido de 7080 USD muy por encima del valor de venta real de este modelo bicolor de cuarzo usado; no resulta atractivo."
+  },
+  "motivo": "triage: Precio pedido de 7080 USD muy por encima del valor de venta real de este modelo bicolor de cuarzo usado; no resulta atractivo. (justo 3800)"
+ },
+ {
+  "fecha": "2026-10-29T14:08:30.838925+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Superocean 42mm 2022 Automatic with original box and papers",
+  "total": 3200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800851969495",
+  "item_id": "v1|800851969495|0",
+  "triage": {
+   "modelo": "Breitling Superocean 42 Automatic (2022)",
+   "referencia": "A17366 (probable, verificar en el caso y el reverso)",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor estimado de mercado para un 2022 con caja y papeles; no hay descuento de al menos 15%."
+  },
+  "motivo": "triage: Precio pedido por encima del valor estimado de mercado para un 2022 con caja y papeles; no hay descuento de al menos 15%. (justo 3000)"
+ },
+ {
+  "fecha": "2026-10-29T14:08:30.838925+00:00",
+  "marca": "Bulgari",
+  "titulo": "Bulgari/Bvlgari Serpanti 35mm 103141 Stainless Steel Men's Watch",
+  "total": 7721.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168824651698",
+  "item_id": "v1|168824651698|0",
+  "referencia": "103141",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Bulgari Serpenti Seduttori 35 mm (acero, esfera plateada, brazalete de escamas)",
+   "referencia": "103141",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Precio pedido de US$7.721 con envío, muy por encima del valor de venta cerrada de un Serpenti Seduttori de acero usado en buen estado; además el listado dice 'Men's' y el modelo es de línea femenina."
+  },
+  "motivo": "triage: Precio pedido de US$7.721 con envío, muy por encima del valor de venta cerrada de un Serpenti Seduttori de acero usado en buen estado; además el listado dice 'Men's' y el modelo es de línea femenina. (justo 5000)"
  }
 ]
