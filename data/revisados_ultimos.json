@@ -1,63 +1,6 @@
 [
  {
   "fecha": "2026-10-28T00:37:26.428472+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sea-Dweller 116660-0001 Pre-owned Box & Papers 2015",
-  "total": 9370.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137880903248",
-  "item_id": "v1|137880903248|0",
-  "referencia": "116660",
-  "mercado": {
-   "n": 46,
-   "p25": 10185,
-   "mediana": 11643
-  },
-  "ratio_mercado": 0.92,
-  "motivo": "precio normal (92 % del cuartil bajo de 116660)"
- },
- {
-  "fecha": "2026-10-28T00:37:26.428472+00:00",
-  "marca": "Omega",
-  "titulo": "2023 Omega Seamaster Aqua Terra 150M 231.10.42.21.06.001 Automatic Men's Watch",
-  "total": 4980.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/267825700673",
-  "item_id": "v1|267825700673|0",
-  "referencia": "231.10.42.21.06.001",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Aqua Terra 150M (esfera azul, brazalete de acero)",
-   "referencia": "231.10.42.21.06.001",
-   "precio_justo_usd": 4600,
-   "interesante": false,
-   "nota": "Precio pedido por encima de la estimación de venta real para nuevo con caja y papeles en mercado secundario; no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido por encima de la estimación de venta real para nuevo con caja y papeles en mercado secundario; no hay descuento suficiente. (justo 4600)"
- },
- {
-  "fecha": "2026-10-28T00:37:26.428472+00:00",
-  "marca": "Breitling",
-  "titulo": "2026 Breitling Top Time B31 New Green Model 38mm Ref. AB3113A71L1X1 *EX COND*",
-  "total": 4950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900045814310",
-  "item_id": "v1|900045814310|0",
-  "triage": {
-   "modelo": "Breitling Top Time B31 (esfera verde, correa de piel verde perforada, 38 mm, acero)",
-   "referencia": "AB3113A71L1X1",
-   "precio_justo_usd": 3600,
-   "interesante": false,
-   "nota": "Modelo de producción actual con retail aprox. US$5.000-5.500; el mercado gris lo sitúa en torno a US$3.400-3.800. El precio pedido de US$4.950 está por encima de ese rango, no por debajo."
-  },
-  "motivo": "triage: Modelo de producción actual con retail aprox. US$5.000-5.500; el mercado gris lo sitúa en torno a US$3.400-3.800. El precio pedido de US$4.950 está por encima de ese rango, no por debajo. (justo 3600)"
- },
- {
-  "fecha": "2026-10-28T00:37:26.428472+00:00",
   "marca": "IWC",
   "titulo": "IWC Pilot’s Watch Chronograph TOP GUN (Reference IW389001)",
   "total": 6299.99,
@@ -11356,5 +11299,62 @@
    "nota": "Precio pedido de US$3949 con envío queda unos 7 % por encima de lo que esta referencia en buen estado con set completo suele cerrar; no hay descuento suficiente."
   },
   "motivo": "triage: Precio pedido de US$3949 con envío queda unos 7 % por encima de lo que esta referencia en buen estado con set completo suele cerrar; no hay descuento suficiente. (justo 3700)"
+ },
+ {
+  "fecha": "2026-10-29T03:23:11.431594+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Prince Date Day 94500 Steel Mens 36mm Automatic Working",
+  "total": 2150.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820289872222",
+  "item_id": "v1|820289872222|0",
+  "referencia": "94500",
+  "mercado": {
+   "n": 1,
+   "p25": 2450,
+   "mediana": 2450
+  },
+  "triage": {
+   "modelo": "Tudor Prince Date-Day (Oysterdate Day-Date), acero, 36 mm, automático",
+   "referencia": "94500",
+   "precio_justo_usd": 2250,
+   "interesante": false,
+   "nota": "Precio pedido en línea con el mercado para esta referencia en buen estado; verificar número de serie, esfera y autenticidad antes de comprar."
+  },
+  "motivo": "triage: Precio pedido en línea con el mercado para esta referencia en buen estado; verificar número de serie, esfera y autenticidad antes de comprar. (justo 2250)"
+ },
+ {
+  "fecha": "2026-10-29T03:23:11.431594+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Speedmaster Moonwatch Professional 310.30.42.50.01.001 Steel Box Paper",
+  "total": 6095.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206656077755",
+  "item_id": "v1|206656077755|0",
+  "referencia": "310.30.42.50.01.001",
+  "mercado": {
+   "n": 29,
+   "p25": 6379,
+   "mediana": 6549
+  },
+  "ratio_mercado": 0.955,
+  "motivo": "precio normal (96 % del cuartil bajo de 310.30.42.50.01.001)"
+ },
+ {
+  "fecha": "2026-10-29T03:23:11.431594+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Endurance Pro Ironman 44mm X82310 Black Red Box",
+  "total": 2445.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800850368827",
+  "item_id": "v1|800850368827|0",
+  "referencia": "X82310",
+  "mercado": {
+   "n": 26,
+   "p25": 2612,
+   "mediana": 2815
+  },
+  "ratio_mercado": 0.936,
+  "motivo": "precio normal (94 % del cuartil bajo de X82310)"
  }
 ]
