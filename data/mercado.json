@@ -8140,13 +8140,13 @@
   "n": 0
  },
  "Panerai PAM00380|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-29",
   "consulta": "Panerai PAM00380",
-  "n": 8,
-  "mediana": 4442,
-  "p25": 4000,
+  "n": 9,
+  "mediana": 4395,
+  "p25": 3500,
   "p75": 4894,
-  "min": 3195,
+  "min": 3045,
   "max": 6295
  },
  "Panerai PAM00299|usado": {
@@ -15518,5 +15518,30 @@
   "p75": 5975,
   "min": 4253,
   "max": 6590
+ },
+ "Rolex 279274|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Rolex 279274",
+  "n": 0
+ },
+ "Panerai PAM01409|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Panerai PAM01409",
+  "n": 1,
+  "mediana": 8995,
+  "p25": 8995,
+  "p75": 8995,
+  "min": 8995,
+  "max": 8995
+ },
+ "TAG Heuer CV2A10|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer CV2A10",
+  "n": 10,
+  "mediana": 2400,
+  "p25": 2350,
+  "p75": 2499,
+  "min": 1170,
+  "max": 3000
  }
 }

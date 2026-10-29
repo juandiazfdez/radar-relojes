@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T04:23:20.400255+00:00",
+ "actualizado": "2026-10-29T04:38:19.908331+00:00",
  "ventana_horas": 2.0,
  "marcas": [
   "Rolex",
@@ -14,15 +14,87 @@
   "IWC"
  ],
  "corrida": {
-  "nuevos_vistos": 5,
+  "nuevos_vistos": 41,
   "descartes": {
-   "precio_normal": 1,
-   "titulo": 3,
-   "triage": 1
+   "titulo": 36,
+   "triage": 3,
+   "precio_normal": 1
   },
-  "alertas_nuevas": 0,
-  "llamadas_ebay": 11,
+  "alertas_nuevas": 1,
+  "llamadas_ebay": 15,
   "cuota_agotada": false
  },
- "alertas_hoy": []
+ "alertas_hoy": [
+  {
+   "fecha": "2026-10-29T04:38:19.908331+00:00",
+   "marca": "TAG Heuer",
+   "titulo": "TAG Heuer Carrera Calibre 16 Chronograph CV2A10 Automatic. 🔥Fire!!!🔥",
+   "precio": 1499.98,
+   "envio": null,
+   "total": 1499.98,
+   "mercado": {
+    "fecha": "2026-10-29",
+    "consulta": "TAG Heuer CV2A10",
+    "n": 10,
+    "mediana": 2400,
+    "p25": 2350,
+    "p75": 2499,
+    "min": 1170,
+    "max": 3000
+   },
+   "triage": null,
+   "vendedor": "lebernardedit",
+   "valoraciones": 1265,
+   "pct_positivo": "100.0",
+   "url": "https://www.ebay.com/itm/128161955503",
+   "item_id": "v1|128161955503|0",
+   "info": {
+    "departamento": "Men",
+    "referencia": "CV2A10",
+    "modelo_esp": "TAG Heuer Carrera",
+    "caja_mm": "44 mm",
+    "material": "Stainless Steel",
+    "ano": "2010-2019",
+    "movimiento": "Mechanical (Automatic)",
+    "caja_original": "Yes",
+    "papeles": "No",
+    "condicion": "Pre-owned - Good",
+    "condicion_id": "3000",
+    "condicion_desc": "Superficial light scratches from desk diving, etc.... very clean.",
+    "garantia_autenticidad": false,
+    "devoluciones": false,
+    "amarillas": [
+     "scratch",
+     "scratches"
+    ],
+    "imagenes": [
+     "https://i.ebayimg.com/images/g/-9UAAeSwAeRq4sw8/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/xLAAAeSwIYZquvbO/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/TgMAAeSwh9BqrTn4/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/aLEAAeSw0XFq4sw7/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/BlYAAeSwIr1q4sw7/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/izwAAeSweYFq4sw8/s-l1600.jpg"
+    ]
+   },
+   "claude": {
+    "veredicto": "dudoso",
+    "modelo": "TAG Heuer Carrera Calibre 16 Day-Date CV2A10.BA0796 (acero, esfera negra, bisel de cerámica, brazalete de acero)",
+    "estado": "Usado en buen estado, con arañazos superficiales. Caja y tarjeta de garantía originales, sin papeles completos.",
+    "riesgo_autenticidad": "medio",
+    "completo": false,
+    "razones": [
+     "La esfera, los subdials, el tachímetro, el 'FRI 18' del Day-Date, el texto 'Calibre 16 / 100 meters' y las manecillas con punta roja coinciden con un CV2A10 auténtico. No veo señales claras de réplica ni de esfera repintada.",
+     "No hay foto del fondo de caja, del número de serie ni del movimiento. Sin eso no puedo confirmar la autenticidad ni que la referencia corresponda al brazalete. Tampoco se ve el cierre del brazalete ni si tiene todos sus eslabones.",
+     "El vendedor no ofrece garantía de autenticidad ni devoluciones. Eso aumenta el riesgo, aunque tiene 1265 valoraciones con 100 % positivo y las fotos parecen propias (nota manuscrita 'eBay / Le Bernard Edit').",
+     "El set está incompleto. No tiene papeles completos, la tarjeta de garantía es de 2013 y está vencida, y el cojín y el manual son reemplazos. Solo la caja, el porta-manual de cuero y la tarjeta son originales, así que el valor del 'full set' baja.",
+     "Las fotos muestran el bisel, el cristal y el brazalete con desgaste visible. El bisel y el cristal se ven con brillos y marcas, y no hay fotos de cerca de las asas ni de los laterales.",
+     "Los comparables de 2350-2400 son precios pedidos e inflados. Los precios de venta cerrada del CV2A10 usado con caja y sin papeles rondan los 1700-2000 USD. El precio de 1500 está unos 15-20 % bajo ese valor, un descuento razonable pero con margen justo.",
+     "Si el vendedor envía fotos del fondo de caja, del número de serie y del cierre y todo es consistente, sería una compra aceptable por debajo de 1500, idealmente cerca de 1350-1400 con una oferta."
+    ],
+    "precio_justo_usd": 1800,
+    "precio_reventa_rd_usd": 2000
+   },
+   "ratio_justo": 0.833
+  }
+ ]
 }
