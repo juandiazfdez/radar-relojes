@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-10-28T02:52:27.319233+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Formula 1 Men's Black Watch - CAZ1010",
-  "total": 1150.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206658807653",
-  "item_id": "v1|206658807653|0",
-  "referencia": "CAZ1010",
-  "mercado": {
-   "n": 12,
-   "p25": 1250,
-   "mediana": 1459
-  },
-  "ratio_mercado": 0.92,
-  "motivo": "precio normal (92 % del cuartil bajo de CAZ1010)"
- },
- {
-  "fecha": "2026-10-28T02:52:27.319233+00:00",
   "marca": "IWC",
   "titulo": "2025 IWC Ingenieur Automatic 40 “F1 / Sonny Hayes” Limited Edition IW328908",
   "total": 22995.0,
@@ -11363,5 +11346,22 @@
    "nota": "Listado genérico sin referencia ni año, con caja chapada y correa de cuero. Un Omega vintage así se vende mucho más bajo que US$1499; el precio pedido está muy por encima del mercado."
   },
   "motivo": "triage: Listado genérico sin referencia ni año, con caja chapada y correa de cuero. Un Omega vintage así se vende mucho más bajo que US$1499; el precio pedido está muy por encima del mercado. (justo 650)"
+ },
+ {
+  "fecha": "2026-10-29T05:23:20.533027+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex Land-Dweller 40mm WHITE Stainless Steel 7/08/26 127334 BOX Papers",
+  "total": 26589.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/960127802762",
+  "item_id": "v1|960127802762|0",
+  "referencia": "127334",
+  "mercado": {
+   "n": 19,
+   "p25": 25495,
+   "mediana": 26252
+  },
+  "ratio_mercado": 1.043,
+  "motivo": "precio normal (104 % del cuartil bajo de 127334)"
  }
 ]
