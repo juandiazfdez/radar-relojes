@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-10-28T12:07:48.476334+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Pasha De Cartier Automatic Stainless Steel Watch",
-  "total": 2574.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820287476749",
-  "item_id": "v1|820287476749|0",
-  "triage": {
-   "modelo": "Cartier Pasha de Cartier C Meridian (mapa mundi, bisel 24 h), automático, acero",
-   "referencia": "W31089M7 (probable, verificar caja y fondo)",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Precio ~20% bajo mercado, pero demasiado bajo para un Pasha C Meridian de acero; es un modelo muy falsificado. Requiere autenticación presencial o por servicio profesional antes de considerarlo."
-  },
-  "motivo": "triage: Precio ~20% bajo mercado, pero demasiado bajo para un Pasha C Meridian de acero; es un modelo muy falsificado. Requiere autenticación presencial o por servicio profesional antes de considerarlo. (justo 3200)"
- },
- {
-  "fecha": "2026-10-28T12:07:48.476334+00:00",
   "marca": "Omega",
   "titulo": "Omega Ladymatic 18K Solid Gold Case Vintage Automatic Watch - READ DESCRIPTION ",
   "total": 999.0,
@@ -11318,5 +11301,22 @@
    "nota": "Precio pedido cercano al valor de mercado para este modelo en estado Good; no hay descuento de al menos 15 % y conviene verificar autenticidad del movimiento y de la esfera."
   },
   "motivo": "triage: Precio pedido cercano al valor de mercado para este modelo en estado Good; no hay descuento de al menos 15 % y conviene verificar autenticidad del movimiento y de la esfera. (justo 1700)"
+ },
+ {
+  "fecha": "2026-10-29T15:08:30.997242+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner No-Date, 14060M, 40mm, Steel.",
+  "total": 11070.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/206661425766",
+  "item_id": "v1|206661425766|0",
+  "referencia": "14060M",
+  "mercado": {
+   "n": 21,
+   "p25": 10520,
+   "mediana": 11310
+  },
+  "ratio_mercado": 1.052,
+  "motivo": "precio normal (105 % del cuartil bajo de 14060M)"
  }
 ]
