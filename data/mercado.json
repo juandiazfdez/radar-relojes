@@ -1715,12 +1715,12 @@
   "max": 50010
  },
  "Tudor 79360N|nuevo": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-29",
   "consulta": "Tudor 79360N",
-  "n": 29,
-  "mediana": 9590,
-  "p25": 6350,
-  "p75": 11229,
+  "n": 32,
+  "mediana": 9163,
+  "p25": 6143,
+  "p75": 11000,
   "min": 4493,
   "max": 19477
  },
@@ -12455,7 +12455,7 @@
   "n": 0
  },
  "Tudor 79540|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-29",
   "consulta": "Tudor 79540",
   "n": 7,
   "mediana": 3299,
@@ -14345,12 +14345,12 @@
   "max": 720
  },
  "Rolex 126710|nuevo": {
-  "fecha": "2026-10-28",
+  "fecha": "2026-10-29",
   "consulta": "Rolex 126710",
   "n": 79,
   "mediana": 20565,
   "p25": 19997,
-  "p75": 21150,
+  "p75": 21160,
   "min": 18495,
   "max": 22200
  },
@@ -16187,6 +16187,36 @@
  "IWC IW356518|usado": {
   "fecha": "2026-10-29",
   "consulta": "IWC IW356518",
+  "n": 0
+ },
+ "Rolex 116500|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Rolex 116500",
+  "n": 0
+ },
+ "Cartier WJBB0038|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Cartier WJBB0038",
+  "n": 0
+ },
+ "Tudor 25717|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Tudor 25717",
+  "n": 3,
+  "mediana": 4150,
+  "p25": 3800,
+  "p75": 4250,
+  "min": 3800,
+  "max": 4250
+ },
+ "Omega 3195.50.00|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Omega 3195.50.00",
+  "n": 0
+ },
+ "Breitling C23350|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Breitling C23350",
   "n": 0
  }
 }
