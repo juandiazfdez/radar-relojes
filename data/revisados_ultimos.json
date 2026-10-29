@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-10-28T03:52:27.137859+00:00",
-  "marca": "Jaeger-LeCoultre",
-  "titulo": "Jaeger-LeCoultre Duometre Quantieme Lunaire 18k Pink Gold Q6042520 BOX PAPERS",
-  "total": 27717.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147654790368",
-  "item_id": "v1|147654790368|0",
-  "referencia": "Q6042520",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Jaeger-LeCoultre Duometre Quantième Lunaire (oro rosa 18k, esfera blanca, fase lunar, brazalete de caimán marrón)",
-   "referencia": "Q6042520",
-   "precio_justo_usd": 29000,
-   "interesante": false,
-   "nota": "Precio pedido unos 4-5 % por debajo de una estimación conservadora de venta cerrada; no cumple el umbral del 15 %."
-  },
-  "motivo": "triage: Precio pedido unos 4-5 % por debajo de una estimación conservadora de venta cerrada; no cumple el umbral del 15 %. (justo 29000)"
- },
- {
   "fecha": "2026-10-28T04:07:26.894879+00:00",
   "marca": "Rolex",
   "titulo": "Genuine Rolex Watch. 18k YG Ladies Rolex 2467 Mechanical Windup Watch.",
@@ -11308,5 +11285,22 @@
   },
   "ratio_mercado": 1.064,
   "motivo": "precio normal (106 % del cuartil bajo de 136660)"
+ },
+ {
+  "fecha": "2026-10-29T10:23:31.494375+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Planet Ocean 600M 215.30.44.21.01.001 43.5mm 2020 Full Set",
+  "total": 4450.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920084119206",
+  "item_id": "v1|920084119206|0",
+  "referencia": "215.30.44.21.01.001",
+  "mercado": {
+   "n": 18,
+   "p25": 4680,
+   "mediana": 4750
+  },
+  "ratio_mercado": 0.951,
+  "motivo": "precio normal (95 % del cuartil bajo de 215.30.44.21.01.001)"
  }
 ]
