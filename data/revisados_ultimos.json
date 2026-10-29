@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-10-28T00:07:27.365025+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Carrera Men's Black Watch - Calibre 5 Automatic",
-  "total": 1495.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800845996373",
-  "item_id": "v1|800845996373|0",
-  "triage": {
-   "modelo": "TAG Heuer Carrera Calibre 5 Automatic (esfera negra, fecha a las 3)",
-   "referencia": "WV211A (probable, no verificable en la foto)",
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "Precio unos 40-50 % por debajo del mercado de usados para este modelo, lo que es señal típica de réplica o pieza incompleta. Pedir fotos del movimiento, número de serie, caja y papeles antes de considerar."
-  },
-  "motivo": "triage: Precio unos 40-50 % por debajo del mercado de usados para este modelo, lo que es señal típica de réplica o pieza incompleta. Pedir fotos del movimiento, número de serie, caja y papeles antes de considerar. (justo 2600)"
- },
- {
-  "fecha": "2026-10-28T00:07:27.365025+00:00",
-  "marca": "Jaeger-LeCoultre",
-  "titulo": "1938 Vintage Rare Jaeger LeCoultre Chronograph watch Only 1 left in existence!",
-  "total": 125000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128159866934",
-  "item_id": "v1|128159866934|0",
-  "triage": {
-   "modelo": "Jaeger-LeCoultre cronógrafo vintage de oro amarillo, caja tipo cojín, esfera negra con subesferas (aprox. años 1930-40)",
-   "referencia": null,
-   "precio_justo_usd": 35000,
-   "interesante": false,
-   "nota": "Precio pedido muy superior al valor de mercado; el año 1938 y la rareza 'única' no son verificables en las fotos y el listado parece hype, no evidencia de autenticidad."
-  },
-  "motivo": "triage: Precio pedido muy superior al valor de mercado; el año 1938 y la rareza 'única' no son verificables en las fotos y el listado parece hype, no evidencia de autenticidad. (justo 35000)"
- },
- {
-  "fecha": "2026-10-28T00:07:27.365025+00:00",
   "marca": "IWC",
   "titulo": "IWC Portofino Hand-Wound Eight Days IW510116",
   "total": 9000.0,
@@ -11368,5 +11334,45 @@
    "nota": "Precio pedido de US$2702 supera el valor estimado de reventa para pre-owned Good; no hay descuento suficiente."
   },
   "motivo": "triage: Precio pedido de US$2702 supera el valor estimado de reventa para pre-owned Good; no hay descuento suficiente. (justo 2300)"
+ },
+ {
+  "fecha": "2026-10-29T02:38:11.670123+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Constellation Quartz Stainless Steel Watch",
+  "total": 1836.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820289758809",
+  "item_id": "v1|820289758809|0",
+  "triage": {
+   "modelo": "Omega Constellation Quartz, acero, esfera plateada con índices romanos (aprox. 27 mm)",
+   "referencia": null,
+   "precio_justo_usd": 1400,
+   "interesante": false,
+   "nota": "Modelo de cuarzo de acero de la línea Constellation; el precio pedido de US$1836 supera el valor de venta cerrada estimado para un usado en estado Good."
+  },
+  "motivo": "triage: Modelo de cuarzo de acero de la línea Constellation; el precio pedido de US$1836 supera el valor de venta cerrada estimado para un usado en estado Good. (justo 1400)"
+ },
+ {
+  "fecha": "2026-10-29T02:38:11.670123+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer WK1111.BA0317 Mens 2000 Series Professional White Quartz Steel Watch",
+  "total": 675.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377604748426",
+  "item_id": "v1|377604748426|0",
+  "referencia": "WK1111.BA0317",
+  "mercado": {
+   "n": 2,
+   "p25": 595,
+   "mediana": 645
+  },
+  "triage": {
+   "modelo": "TAG Heuer 2000 Series Professional, esfera blanca, cuarzo, acero",
+   "referencia": "WK1111.BA0317",
+   "precio_justo_usd": 380,
+   "interesante": false,
+   "nota": "Reloj de cuarzo de acero de los años 2000 con uso visible; en reventa suele moverse entre 300 y 450 USD, y el precio pedido de 675 USD con envío está muy por encima."
+  },
+  "motivo": "triage: Reloj de cuarzo de acero de los años 2000 con uso visible; en reventa suele moverse entre 300 y 450 USD, y el precio pedido de 675 USD con envío está muy por encima. (justo 380)"
  }
 ]
