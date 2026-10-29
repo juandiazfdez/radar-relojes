@@ -1,210 +1,5 @@
 [
  {
-  "fecha": "2026-10-28T18:23:00.177784+00:00",
-  "marca": "Rolex",
-  "titulo": "1992 Rolex Lady-Datejust Black Stick Jubilee 69173 Papers Steel & YG",
-  "total": 6495.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920082634854",
-  "item_id": "v1|920082634854|0",
-  "referencia": "69173",
-  "mercado": {
-   "n": 23,
-   "p25": 4259,
-   "mediana": 4778
-  },
-  "ratio_mercado": 1.525,
-  "motivo": "precio normal (153 % del cuartil bajo de 69173)"
- },
- {
-  "fecha": "2026-10-28T18:23:00.177784+00:00",
-  "marca": "Rolex",
-  "titulo": "2000 Rolex Explorer II 16570 Men's 40mm Automatic Watch Box Paper + service card",
-  "total": 8143.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960126853532",
-  "item_id": "v1|960126853532|0",
-  "referencia": "16570",
-  "mercado": {
-   "n": 37,
-   "p25": 8495,
-   "mediana": 9000
-  },
-  "ratio_mercado": 0.959,
-  "motivo": "precio normal (96 % del cuartil bajo de 16570)"
- },
- {
-  "fecha": "2026-10-28T18:23:00.177784+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Pasha de Cartier 18K Gold 36mm Auto 100m Date w/ Box & Papers",
-  "total": 14950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880059655483",
-  "item_id": "v1|880059655483|0",
-  "triage": {
-   "modelo": "Cartier Pasha de Cartier 35 mm automático, caja de oro 18K",
-   "referencia": "1035",
-   "precio_justo_usd": 11500,
-   "interesante": false,
-   "nota": "Precio pedido de US$14.950 por encima del valor de venta real estimado para oro 18K con caja y papeles; el título dice 36 mm, pero la referencia 1035 es de 35 mm."
-  },
-  "motivo": "triage: Precio pedido de US$14.950 por encima del valor de venta real estimado para oro 18K con caja y papeles; el título dice 36 mm, pero la referencia 1035 es de 35 mm. (justo 11500)"
- },
- {
-  "fecha": "2026-10-28T18:23:00.177784+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Pro 300m “Grey Wave”",
-  "total": 4200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920082644545",
-  "item_id": "v1|920082644545|0",
-  "triage": {
-   "modelo": "Omega Seamaster Diver 300M 42 mm (esfera wave gris-azul, bisel cerámico azul)",
-   "referencia": "210.30.42.20.03.001 (probable, no verificable en la foto)",
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "Precio pedido de 4200 USD está solo ~7 % bajo el valor estimado para estado Good; no alcanza el umbral del 15 %. Confirmar referencia, caja y papeles."
-  },
-  "motivo": "triage: Precio pedido de 4200 USD está solo ~7 % bajo el valor estimado para estado Good; no alcanza el umbral del 15 %. Confirmar referencia, caja y papeles. (justo 4500)"
- },
- {
-  "fecha": "2026-10-28T18:23:00.177784+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Memomatic Vintage Pre-Owned Watch",
-  "total": 1305.73,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377604040110",
-  "item_id": "v1|377604040110|0",
-  "triage": {
-   "modelo": "Omega Seamaster Memomatic vintage (identificación parcial por la imagen)",
-   "referencia": null,
-   "precio_justo_usd": 650,
-   "interesante": false,
-   "nota": "Sin referencia ni caja visibles; a 1306 USD queda muy por encima del valor de venta cerrada estimado para un vintage en estado Good."
-  },
-  "motivo": "triage: Sin referencia ni caja visibles; a 1306 USD queda muy por encima del valor de venta cerrada estimado para un vintage en estado Good. (justo 650)"
- },
- {
-  "fecha": "2026-10-28T18:23:00.177784+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Superocean Heritage 46mm Stainless Steel A17320",
-  "total": 3495.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840069228758",
-  "item_id": "v1|840069228758|0",
-  "referencia": "A17320",
-  "mercado": {
-   "n": 8,
-   "p25": 3033,
-   "mediana": 3577
-  },
-  "ratio_mercado": 1.152,
-  "motivo": "precio normal (115 % del cuartil bajo de A17320)"
- },
- {
-  "fecha": "2026-10-28T18:23:00.177784+00:00",
-  "marca": "Jaeger-LeCoultre",
-  "titulo": "Jaeger-LeCoultre Master Control Steel Blue Limited 40mm Q4018480 830.8.A0.S Auto",
-  "total": 7564.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960126862724",
-  "item_id": "v1|960126862724|0",
-  "referencia": "Q4018480",
-  "mercado": {
-   "n": 3,
-   "p25": 8633,
-   "mediana": 8860
-  },
-  "triage": {
-   "modelo": "Jaeger-LeCoultre Master Control Date 40 mm, esfera azul, acero, automático (calibre 830)",
-   "referencia": "Q4018480 (830.8.A0.S)",
-   "precio_justo_usd": 5200,
-   "interesante": false,
-   "nota": "Precio pedido de US$7564 con envío está por encima del valor de venta real de usado en excelente estado, incluso con caja y papeles."
-  },
-  "motivo": "triage: Precio pedido de US$7564 con envío está por encima del valor de venta real de usado en excelente estado, incluso con caja y papeles. (justo 5200)"
- },
- {
-  "fecha": "2026-10-28T18:37:59.678284+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Ladies Datejust 26 mm Two Tone Oyster Watch 6517 ",
-  "total": 3137.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/960126876659",
-  "item_id": "v1|960126876659|0",
-  "referencia": "6517",
-  "mercado": {
-   "n": 20,
-   "p25": 4224,
-   "mediana": 4872
-  },
-  "ratio_mercado": 0.743,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 2400,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, desgaste visible. Cristal de acrílico con ciclope rayado, eslabones de oro rayados y brazalete posiblemente estirado."
-  },
-  "motivo": "Claude descarto: El precio de US$3137 está por encima de lo que se vende realmente este 6517 en condición regular, sin caja ni papeles. Las ventas cerradas rondan US$2200-2700. Las medianas de eBay (4224-4872) son precios pedidos e inflados, así que no sirven de referencia.; Las fotos muestran desgaste real. El cristal y el ciclope tienen marcas o daño sobre la fecha, los eslabones de oro están rayados y opacos, la caja está pulida y los bordes se ven suaves. El vendedor dice 'nice shape for age', pero la condición del anuncio es 'Fair'."
- },
- {
-  "fecha": "2026-10-28T18:37:59.678284+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Explorer II 16570",
-  "total": 7000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287687641054",
-  "item_id": "v1|287687641054|0",
-  "referencia": "16570",
-  "mercado": {
-   "n": 37,
-   "p25": 8495,
-   "mediana": 9000
-  },
-  "ratio_mercado": 0.824,
-  "motivo": "descripcion: as-is"
- },
- {
-  "fecha": "2026-10-28T18:37:59.678284+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 34mm Oyster Perpetual Date Blue Stainless Steel Oyster Watch 15200",
-  "total": 4137.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168822787102",
-  "item_id": "v1|168822787102|0",
-  "referencia": "15200",
-  "mercado": {
-   "n": 18,
-   "p25": 5500,
-   "mediana": 5885
-  },
-  "ratio_mercado": 0.752,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 3500,
-   "riesgo_autenticidad": "medio",
-   "estado": "Aceptable por fuera, pero con esfera repintada y sin caja ni papeles"
-  },
-  "motivo": "Claude descarto: La descripción dice que la esfera fue repintada ('Dial was refinished'). Es un defecto grave: una esfera original con patina vale mucho más, y una repintada baja el valor entre un 25 y un 40 %. Una esfera azul sunburst original en un 15200 tiene prima de coleccionista, y aquí se pierde.; La esfera de las fotos se ve plana y muy uniforme. La tipografía de 'OYSTER PERPETUAL DATE' y 'SUPERLATIVE CHRONOMETER OFFICIALLY CERTIFIED' parece correcta, pero no se puede verificar a esta resolución. Hay que revisar la tipografía y los índices bajo lupa por si no son de fábrica."
- },
- {
-  "fecha": "2026-10-28T18:37:59.678284+00:00",
-  "marca": "Rolex",
-  "titulo": "2020 Rolex GMT-Master II Batgirl Jubilee 126710BLNR Excellent Condition",
-  "total": 18500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940048290113",
-  "item_id": "v1|940048290113|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 66,
-   "p25": 18395,
-   "mediana": 18950
-  },
-  "ratio_mercado": 1.006,
-  "motivo": "precio normal (101 % del cuartil bajo de 126710BLNR)"
- },
- {
   "fecha": "2026-10-28T18:37:59.678284+00:00",
   "marca": "Tudor",
   "titulo": "2026 Tudor Pelagos LHD 42mm Titanium M25610TNL-0001",
@@ -11485,5 +11280,246 @@
    "nota": "Cuarzo de acero de generación anterior; el precio pedido de US$1095 está por encima de lo que se vende realmente en estado usado. La referencia no se puede verificar solo con la foto."
   },
   "motivo": "triage: Cuarzo de acero de generación anterior; el precio pedido de US$1095 está por encima de lo que se vende realmente en estado usado. La referencia no se puede verificar solo con la foto. (justo 750)"
+ },
+ {
+  "fecha": "2026-10-29T19:23:42.013090+00:00",
+  "marca": "Rolex",
+  "titulo": "CPO Rolex Submariner 40mm 116610LN",
+  "total": 12999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147657130455",
+  "item_id": "v1|147657130455|0",
+  "referencia": "116610LN",
+  "mercado": {
+   "n": 59,
+   "p25": 12899,
+   "mediana": 13500
+  },
+  "ratio_mercado": 1.008,
+  "motivo": "precio normal (101 % del cuartil bajo de 116610LN)"
+ },
+ {
+  "fecha": "2026-10-29T19:23:42.013090+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Carrera WAR2418.BA0776 Automatic Maroon Women's DIAMOND Luxury Watch",
+  "total": 3595.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227589017836",
+  "item_id": "v1|227589017836|0",
+  "referencia": "WAR2418.BA0776",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "TAG Heuer Carrera Lady Automatic, bisel de diamantes, esfera burdeos, brazalete de acero (27 mm aprox.)",
+   "referencia": "WAR2418.BA0776",
+   "precio_justo_usd": 2000,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de reventa de uso para este modelo; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de reventa de uso para este modelo; no es una oportunidad. (justo 2000)"
+ },
+ {
+  "fecha": "2026-10-29T19:23:42.013090+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "New Tag Heuer Carrera Calibre 5 39mm Automatic Men's Watch WAR211A.BA0782",
+  "total": 2310.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800852750591",
+  "item_id": "v1|800852750591|0",
+  "referencia": "WAR211A.BA0782",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "TAG Heuer Carrera Calibre 5 39 mm automático, esfera negra, brazalete de acero",
+   "referencia": "WAR211A.BA0782",
+   "precio_justo_usd": 2050,
+   "interesante": false,
+   "nota": "Modelo actual de mercado gris; precio de venta cerrada nuevo con caja y papeles cerca de 2000-2100 USD. El pedido de 2310 USD está por encima, no por debajo, del precio justo."
+  },
+  "motivo": "triage: Modelo actual de mercado gris; precio de venta cerrada nuevo con caja y papeles cerca de 2000-2100 USD. El pedido de 2310 USD está por encima, no por debajo, del precio justo. (justo 2050)"
+ },
+ {
+  "fecha": "2026-10-29T19:23:42.013090+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Ladies Carrera WV1410.BA0793 Black Diamond Swiss Quartz Date Watch",
+  "total": 1695.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377606466972",
+  "item_id": "v1|377606466972|0",
+  "referencia": "WV1410.BA0793",
+  "mercado": {
+   "n": 1,
+   "p25": 1695,
+   "mediana": 1695
+  },
+  "triage": {
+   "modelo": "TAG Heuer Carrera Lady 27 mm, esfera negra con diamantes, cuarzo, acero",
+   "referencia": "WV1410.BA0793",
+   "precio_justo_usd": 1100,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de reventa estimado para este modelo de segunda mano; no hay descuento claro."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de reventa estimado para este modelo de segunda mano; no hay descuento claro. (justo 1100)"
+ },
+ {
+  "fecha": "2026-10-29T19:23:42.013090+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "Tag Heuer CAH1111 Men's Watch Quartz 41mm *Pre Owned* FREE SHIPPING",
+  "total": 599.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920085413898",
+  "item_id": "v1|920085413898|0",
+  "referencia": "CAH1111",
+  "mercado": {
+   "n": 3,
+   "p25": 1000,
+   "mediana": 1295
+  },
+  "triage": {
+   "modelo": "TAG Heuer Formula 1 cuarzo 41 mm (acero)",
+   "referencia": "CAH1111",
+   "precio_justo_usd": 400,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de mercado usado; la foto muestra la esfera con eslabones y piezas sueltas, así que confirmar que la pulsera y los componentes están completos."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de mercado usado; la foto muestra la esfera con eslabones y piezas sueltas, así que confirmar que la pulsera y los componentes están completos. (justo 400)"
+ },
+ {
+  "fecha": "2026-10-29T19:23:42.013090+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Carrera CV201AE.FC6233 Goodwood Limited Edition RACING Watch Papers",
+  "total": 4995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/377606461155",
+  "item_id": "v1|377606461155|0",
+  "referencia": "CV201AE.FC6233",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "TAG Heuer Carrera Goodwood Limited Edition (cronógrafo automático, acero, bisel taquimétrico, correa de caucho perforada)",
+   "referencia": "CV201AE.FC6233",
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Edición limitada de acero con buen estado; el precio pedido de US$4995 supera el valor de venta cerrada, aunque el listado no aclara si incluye reloj completo o solo papeles."
+  },
+  "motivo": "triage: Edición limitada de acero con buen estado; el precio pedido de US$4995 supera el valor de venta cerrada, aunque el listado no aclara si incluye reloj completo o solo papeles. (justo 2800)"
+ },
+ {
+  "fecha": "2026-10-29T19:23:42.013090+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG HEUER LADIES CARRERA WV2410.BA0793 AUTOMATIC DIAMOND BLACK SWISS STEEL WATCH",
+  "total": 1995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377606458816",
+  "item_id": "v1|377606458816|0",
+  "referencia": "WV2410.BA0793",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "TAG Heuer Carrera Lady Automatic 29 mm, esfera negra con diamantes, bisel y brazalete de acero",
+   "referencia": "WV2410.BA0793",
+   "precio_justo_usd": 1400,
+   "interesante": false,
+   "nota": "Modelo de producción reciente de la línea Carrera Lady; en estado usado se vende cerca de US$1,300-1,600 según caja y papeles. El precio pedido de US$1995 está por encima del valor de mercado, no por debajo."
+  },
+  "motivo": "triage: Modelo de producción reciente de la línea Carrera Lady; en estado usado se vende cerca de US$1,300-1,600 según caja y papeles. El precio pedido de US$1995 está por encima del valor de mercado, no por debajo. (justo 1400)"
+ },
+ {
+  "fecha": "2026-10-29T19:23:42.013090+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG HEUER CARRERA WAR5010.FC6266 CHRONOMETER GRANDE DATE CALIBRE 8 GMT WATCH",
+  "total": 2795.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940050266054",
+  "item_id": "v1|940050266054|0",
+  "referencia": "WAR5010.FC6266",
+  "mercado": {
+   "n": 4,
+   "p25": 2140,
+   "mediana": 2282
+  },
+  "triage": {
+   "modelo": "TAG Heuer Carrera Calibre 8 Grand Date (título menciona GMT; la referencia corresponde a Grand Date)",
+   "referencia": "WAR5010.FC6266",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Precio pedido cerca del valor de mercado de segunda mano; el título menciona GMT, pero la referencia no corresponde al GMT, así que conviene verificar el modelo exacto."
+  },
+  "motivo": "triage: Precio pedido cerca del valor de mercado de segunda mano; el título menciona GMT, pero la referencia no corresponde al GMT, así que conviene verificar el modelo exacto. (justo 2600)"
+ },
+ {
+  "fecha": "2026-10-29T19:23:42.013090+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG HEUER CARRERA CV201AR.BA0715 AUTOMATIC CHORNOGRAPH CERAMIC MENS BLUE WATCH",
+  "total": 3495.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377606445006",
+  "item_id": "v1|377606445006|0",
+  "referencia": "CV201AR.BA0715",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "TAG Heuer Carrera Calibre 16 Automatic Chronograph, esfera azul, brazalete de acero",
+   "referencia": "CV201AR.BA0715",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio pedido por encima de la estimación de venta cerrada en el usado; el título menciona cerámica y tiene erratas, conviene verificar bisel, papeles y estado."
+  },
+  "motivo": "triage: Precio pedido por encima de la estimación de venta cerrada en el usado; el título menciona cerámica y tiene erratas, conviene verificar bisel, papeles y estado. (justo 3000)"
+ },
+ {
+  "fecha": "2026-10-29T19:23:42.013090+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Carrera WV211N.BA0787 Brown Automatic Calibre 5 Men's Steel Watch",
+  "total": 2095.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227589010015",
+  "item_id": "v1|227589010015|0",
+  "referencia": "WV211N.BA0787",
+  "mercado": {
+   "n": 3,
+   "p25": 2000,
+   "mediana": 2000
+  },
+  "triage": {
+   "modelo": "TAG Heuer Carrera Calibre 5 Automatic, esfera marrón, bisel marrón, brazalete de acero",
+   "referencia": "WV211N.BA0787",
+   "precio_justo_usd": 1800,
+   "interesante": false,
+   "nota": "Precio pedido US$2095 está por encima del valor de venta cerrada de este modelo usado en buen estado; no hay descuento de al menos 15%."
+  },
+  "motivo": "triage: Precio pedido US$2095 está por encima del valor de venta cerrada de este modelo usado en buen estado; no hay descuento de al menos 15%. (justo 1800)"
+ },
+ {
+  "fecha": "2026-10-29T19:23:42.013090+00:00",
+  "marca": "Jaeger-LeCoultre",
+  "titulo": "Jaeger-LeCoultre Reverso Tribute Chronograph  Ref. Q389257J",
+  "total": 42500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147657131627",
+  "item_id": "v1|147657131627|0",
+  "triage": {
+   "modelo": "Jaeger-LeCoultre Reverso Tribute Chronograph, esfera esqueleto, caja de oro rosa, correa de cuero negro",
+   "referencia": "Q389257J (no verificable solo con la foto)",
+   "precio_justo_usd": 33000,
+   "interesante": false,
+   "nota": "Precio pedido por encima de la estimación de venta real para oro rosa con cronógrafo y esfera esqueleto; la referencia debe verificarse con papeles."
+  },
+  "motivo": "triage: Precio pedido por encima de la estimación de venta real para oro rosa con cronógrafo y esfera esqueleto; la referencia debe verificarse con papeles. (justo 33000)"
  }
 ]
