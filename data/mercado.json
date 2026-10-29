@@ -6315,9 +6315,9 @@
   "max": 49850
  },
  "Rolex 116231|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-29",
   "consulta": "Rolex 116231",
-  "n": 43,
+  "n": 45,
   "mediana": 12872,
   "p25": 11800,
   "p75": 13770,
@@ -6475,14 +6475,14 @@
   "max": 52632
  },
  "Rolex 18238|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-29",
   "consulta": "Rolex 18238",
-  "n": 37,
+  "n": 39,
   "mediana": 20990,
-  "p25": 16067,
+  "p25": 16666,
   "p75": 21795,
   "min": 688,
-  "max": 22572
+  "max": 22628
  },
  "Rolex 126610LN|usado": {
   "fecha": "2026-10-27",
@@ -8210,12 +8210,12 @@
   "max": 7250
  },
  "Omega 3510.50|usado": {
-  "fecha": "2026-10-28",
+  "fecha": "2026-10-29",
   "consulta": "Omega 3510.50",
-  "n": 44,
-  "mediana": 3692,
+  "n": 46,
+  "mediana": 3646,
   "p25": 3500,
-  "p75": 3758,
+  "p75": 3756,
   "min": 3050,
   "max": 4815
  },
@@ -10070,13 +10070,13 @@
   "max": 1350
  },
  "TAG Heuer WAH1011|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-29",
   "consulta": "TAG Heuer WAH1011",
   "n": 5,
   "mediana": 1100,
-  "p25": 997,
+  "p25": 1017,
   "p75": 1200,
-  "min": 970,
+  "min": 997,
   "max": 1595
  },
  "TAG Heuer WAS2111|usado": {
@@ -10415,11 +10415,11 @@
   "n": 0
  },
  "TAG Heuer CAC111B|usado": {
-  "fecha": "2026-10-28",
+  "fecha": "2026-10-29",
   "consulta": "TAG Heuer CAC111B",
   "n": 6,
   "mediana": 891,
-  "p25": 750,
+  "p25": 830,
   "p75": 975,
   "min": 623,
   "max": 2000
@@ -10465,14 +10465,14 @@
   "max": 2500
  },
  "TAG Heuer WA1214|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-29",
   "consulta": "TAG Heuer WA1214",
   "n": 6,
-  "mediana": 722,
-  "p25": 650,
-  "p75": 800,
+  "mediana": 650,
+  "p25": 640,
+  "p75": 795,
   "min": 400,
-  "max": 990
+  "max": 800
  },
  "TAG Heuer SRZ5470|nuevo": {
   "fecha": "2026-10-26",
@@ -10790,7 +10790,7 @@
   "max": 7695
  },
  "Rolex 126284RBR|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-29",
   "consulta": "Rolex 126284RBR",
   "n": 4,
   "mediana": 21178,
@@ -12590,10 +12590,10 @@
   "n": 0
  },
  "Rolex 126509|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-29",
   "consulta": "Rolex 126509",
-  "n": 8,
-  "mediana": 51832,
+  "n": 9,
+  "mediana": 53495,
   "p25": 49850,
   "p75": 56288,
   "min": 46088,
@@ -12945,13 +12945,13 @@
   "n": 0
  },
  "TAG Heuer CAH1010|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-29",
   "consulta": "TAG Heuer CAH1010",
   "n": 2,
-  "mediana": 982,
-  "p25": 965,
+  "mediana": 901,
+  "p25": 805,
   "p75": 998,
-  "min": 965,
+  "min": 805,
   "max": 998
  },
  "TAG Heuer WBD2111|usado": {
@@ -13575,7 +13575,7 @@
   "max": 28500
  },
  "Rolex 116500LN|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-29",
   "consulta": "Rolex 116500LN",
   "n": 0
  },
@@ -13975,10 +13975,10 @@
   "n": 0
  },
  "TAG Heuer SBR8080|usado": {
-  "fecha": "2026-10-28",
+  "fecha": "2026-10-29",
   "consulta": "TAG Heuer SBR8080",
   "n": 3,
-  "mediana": 915,
+  "mediana": 920,
   "p25": 885,
   "p75": 925,
   "min": 885,
@@ -14490,14 +14490,14 @@
   "max": 4985
  },
  "Rolex 116523|usado": {
-  "fecha": "2026-10-28",
+  "fecha": "2026-10-29",
   "consulta": "Rolex 116523",
   "n": 49,
   "mediana": 20990,
-  "p25": 19990,
-  "p75": 22889,
+  "p25": 19400,
+  "p75": 22356,
   "min": 16508,
-  "max": 37999
+  "max": 30000
  },
  "Tudor 25807KN|nuevo": {
   "fecha": "2026-10-28",
@@ -15333,5 +15333,170 @@
   "p75": 13500,
   "min": 12249,
   "max": 13749
+ },
+ "Rolex 18348|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Rolex 18348",
+  "n": 2,
+  "mediana": 27345,
+  "p25": 26690,
+  "p75": 28000,
+  "min": 26690,
+  "max": 28000
+ },
+ "Rolex 69179|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Rolex 69179",
+  "n": 7,
+  "mediana": 13600,
+  "p25": 12120,
+  "p75": 18500,
+  "min": 11900,
+  "max": 20513
+ },
+ "Rolex 69138|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Rolex 69138",
+  "n": 14,
+  "mediana": 17070,
+  "p25": 15000,
+  "p75": 18063,
+  "min": 9509,
+  "max": 20200
+ },
+ "Rolex 16523|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Rolex 16523",
+  "n": 20,
+  "mediana": 19416,
+  "p25": 18063,
+  "p75": 22995,
+  "min": 15998,
+  "max": 48210
+ },
+ "Rolex 18308|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Rolex 18308",
+  "n": 2,
+  "mediana": 23150,
+  "p25": 22900,
+  "p75": 23400,
+  "min": 22900,
+  "max": 23400
+ },
+ "Rolex 278245|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Rolex 278245",
+  "n": 0
+ },
+ "Rolex 126715|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Rolex 126715",
+  "n": 34,
+  "mediana": 45974,
+  "p25": 44950,
+  "p75": 47075,
+  "min": 40392,
+  "max": 52632
+ },
+ "Rolex 226627|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Rolex 226627",
+  "n": 18,
+  "mediana": 26824,
+  "p25": 25876,
+  "p75": 28500,
+  "min": 22000,
+  "max": 36414
+ },
+ "TAG Heuer WAF111D|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer WAF111D",
+  "n": 1,
+  "mediana": 1595,
+  "p25": 1595,
+  "p75": 1595,
+  "min": 1595,
+  "max": 1595
+ },
+ "TAG Heuer BS0081|nuevo": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer BS0081",
+  "n": 0
+ },
+ "TAG Heuer WAF1415|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer WAF1415",
+  "n": 6,
+  "mediana": 1148,
+  "p25": 1000,
+  "p75": 1495,
+  "min": 990,
+  "max": 1750
+ },
+ "TAG Heuer WAC1113|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer WAC1113",
+  "n": 2,
+  "mediana": 1348,
+  "p25": 895,
+  "p75": 1800,
+  "min": 895,
+  "max": 1800
+ },
+ "TAG Heuer WAH1211|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer WAH1211",
+  "n": 4,
+  "mediana": 825,
+  "p25": 800,
+  "p75": 1295,
+  "min": 750,
+  "max": 1295
+ },
+ "TAG Heuer CE2118|nuevo": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer CE2118",
+  "n": 0
+ },
+ "TAG Heuer CAF7013|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer CAF7013",
+  "n": 1,
+  "mediana": 2000,
+  "p25": 2000,
+  "p75": 2000,
+  "min": 2000,
+  "max": 2000
+ },
+ "TAG Heuer CBZ2085|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer CBZ2085",
+  "n": 0
+ },
+ "TAG Heuer WA1412|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer WA1412",
+  "n": 1,
+  "mediana": 379,
+  "p25": 379,
+  "p75": 379,
+  "min": 379,
+  "max": 379
+ },
+ "TAG Heuer WAF1414|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer WAF1414",
+  "n": 8,
+  "mediana": 550,
+  "p25": 499,
+  "p75": 825,
+  "min": 460,
+  "max": 995
+ },
+ "TAG Heuer CS1111|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer CS1111",
+  "n": 0
  }
 }
