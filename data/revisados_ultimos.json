@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-10-27T22:52:17.875424+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA SPEEDMASTER PROFESSIONAL  Ref. 145.022-76",
-  "total": 4585.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287685414969",
-  "item_id": "v1|287685414969|0",
-  "triage": {
-   "modelo": "Omega Speedmaster Professional (Moonwatch), esfera negra, bisel taquimétrico, brazalete de acero",
-   "referencia": "145.022-76",
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "Precio dentro del rango de mercado para un vintage 145.022-76 en buen estado, sin margen de 15 % y sin confirmar papeles, caja ni autenticidad; verificar fotos del caseback y movimiento."
-  },
-  "motivo": "triage: Precio dentro del rango de mercado para un vintage 145.022-76 en buen estado, sin margen de 15 % y sin confirmar papeles, caja ni autenticidad; verificar fotos del caseback y movimiento. (justo 4300)"
- },
- {
-  "fecha": "2026-10-27T22:52:17.875424+00:00",
-  "marca": "Jaeger-LeCoultre",
-  "titulo": "Jaeger-LeCoultre Master Compressor Extreme Alarm World Time 46 Valentino Rossi",
-  "total": 11049.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880057578060",
-  "item_id": "v1|880057578060|0",
-  "triage": {
-   "modelo": "Jaeger-LeCoultre Master Compressor Extreme World Alarm Valentino Rossi (46 mm, acero, esfera negra con detalles amarillos)",
-   "referencia": "Q1768470 (no verificable en la imagen)",
-   "precio_justo_usd": 12000,
-   "interesante": false,
-   "nota": "Precio pedido de 11.049 USD está ~8 % bajo la estimación conservadora; la referencia exacta, la edición limitada y la presencia de caja y papeles no se pueden verificar en la foto."
-  },
-  "motivo": "triage: Precio pedido de 11.049 USD está ~8 % bajo la estimación conservadora; la referencia exacta, la edición limitada y la presencia de caja y papeles no se pueden verificar en la foto. (justo 12000)"
- },
- {
-  "fecha": "2026-10-27T22:52:17.875424+00:00",
-  "marca": "IWC",
-  "titulo": "IWC Pilot’s Watch Chronograph Edition Le Petit Prince Full Set 43mm IW377717",
-  "total": 4755.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147654461643",
-  "item_id": "v1|147654461643|0",
-  "referencia": "IW377717",
-  "mercado": {
-   "n": 4,
-   "p25": 5083,
-   "mediana": 5216
-  },
-  "triage": {
-   "modelo": "IWC Pilot's Watch Chronograph Edition \"Le Petit Prince\" 43mm, esfera azul, brazalete de acero",
-   "referencia": "IW377717",
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "El precio pedido (US$4755) está solo ~5% bajo una estimación conservadora de venta real para set completo en estado Good; no cumple el umbral del 15%."
-  },
-  "motivo": "triage: El precio pedido (US$4755) está solo ~5% bajo una estimación conservadora de venta real para set completo en estado Good; no cumple el umbral del 15%. (justo 5000)"
- },
- {
   "fecha": "2026-10-27T23:07:18.403646+00:00",
   "marca": "Rolex",
   "titulo": "2026 Rolex Day Date 40 Green Ombre 228238 Box/Papers/Card 40mm Yellow Gold",
@@ -11386,5 +11329,62 @@
    "nota": "Modelo de cuarzo de producción actual; nuevo con caja y papeles se revende bastante por debajo de retail, así que US$1550 está por encima del precio de mercado."
   },
   "motivo": "triage: Modelo de cuarzo de producción actual; nuevo con caja y papeles se revende bastante por debajo de retail, así que US$1550 está por encima del precio de mercado. (justo 1050)"
+ },
+ {
+  "fecha": "2026-10-29T01:23:11.585191+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Milgauss 116400GV Black 40mm Automatic Stainless Steel Men's Watch +B&P",
+  "total": 11499.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206660456229",
+  "item_id": "v1|206660456229|0",
+  "referencia": "116400GV",
+  "mercado": {
+   "n": 28,
+   "p25": 12224,
+   "mediana": 13924
+  },
+  "ratio_mercado": 0.941,
+  "motivo": "precio normal (94 % del cuartil bajo de 116400GV)"
+ },
+ {
+  "fecha": "2026-10-29T01:23:11.585191+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Aqua Terra Chronograph 231.13.44.50.02.001",
+  "total": 6260.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198753303050",
+  "item_id": "v1|198753303050|0",
+  "referencia": "231.13.44.50.02.001",
+  "mercado": {
+   "n": 2,
+   "p25": 6260,
+   "mediana": 6380
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Aqua Terra Chronograph, esfera plateada, caja de acero, correa de piel",
+   "referencia": "231.13.44.50.02.001",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "Precio pedido de US$6260 con envío supera el valor de venta cerrada de un Aqua Terra cronógrafo usado en estado Good, incluso con caja y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$6260 con envío supera el valor de venta cerrada de un Aqua Terra cronógrafo usado en estado Good, incluso con caja y papeles. (justo 4300)"
+ },
+ {
+  "fecha": "2026-10-29T01:23:11.585191+00:00",
+  "marca": "Omega",
+  "titulo": "Vintage OMEGA Seamaster men's automatic watch 166.0203 With box 1978",
+  "total": 1796.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267826783301",
+  "item_id": "v1|267826783301|0",
+  "triage": {
+   "modelo": "Omega Seamaster (vintage, 1970s, acero con brazalete integrado)",
+   "referencia": "166.0203",
+   "precio_justo_usd": 550,
+   "interesante": false,
+   "nota": "El precio pedido de 1796 USD está muy por encima del valor de mercado. La referencia 166 de esa época suele ser de cuarzo, no automática como indica el título; verifícalo antes de comprar."
+  },
+  "motivo": "triage: El precio pedido de 1796 USD está muy por encima del valor de mercado. La referencia 166 de esa época suele ser de cuarzo, no automática como indica el título; verifícalo antes de comprar. (justo 550)"
  }
 ]
