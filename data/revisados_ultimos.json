@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-10-28T03:52:27.137859+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer 959.706G Mens 1500 Jumbo Series Professional Quartz Watch Blue Granite",
-  "total": 970.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960124942286",
-  "item_id": "v1|960124942286|0",
-  "triage": {
-   "modelo": "TAG Heuer 1500 Series Jumbo (cuarzo, esfera oscura, brazalete de acero)",
-   "referencia": "959.706G",
-   "precio_justo_usd": 600,
-   "interesante": false,
-   "nota": "Precio pedido de US$970 con envío está por encima del valor de venta real de un 1500 Series de cuarzo usado en condición Good; la foto es pequeña y no permite verificar bien la esfera ni la referencia."
-  },
-  "motivo": "triage: Precio pedido de US$970 con envío está por encima del valor de venta real de un 1500 Series de cuarzo usado en condición Good; la foto es pequeña y no permite verificar bien la esfera ni la referencia. (justo 600)"
- },
- {
-  "fecha": "2026-10-28T03:52:27.137859+00:00",
   "marca": "Jaeger-LeCoultre",
   "titulo": "Jaeger-LeCoultre Duometre Quantieme Lunaire 18k Pink Gold Q6042520 BOX PAPERS",
   "total": 27717.0,
@@ -11308,5 +11291,22 @@
    "nota": "El precio pedido supera el valor de venta estimado; la foto parece oro amarillo y el reverso texturizado, así que conviene verificar la referencia y el metal antes de considerarlo."
   },
   "motivo": "triage: El precio pedido supera el valor de venta estimado; la foto parece oro amarillo y el reverso texturizado, así que conviene verificar la referencia y el metal antes de considerarlo. (justo 12500)"
+ },
+ {
+  "fecha": "2026-10-29T09:53:30.893494+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Deepsea 44mm 136660 James Cameron 2026",
+  "total": 16499.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147656561755",
+  "item_id": "v1|147656561755|0",
+  "referencia": "136660",
+  "mercado": {
+   "n": 54,
+   "p25": 15500,
+   "mediana": 16086
+  },
+  "ratio_mercado": 1.064,
+  "motivo": "precio normal (106 % del cuartil bajo de 136660)"
  }
 ]
