@@ -3910,12 +3910,12 @@
   "max": 2595
  },
  "TAG Heuer CBN2A1A|usado": {
-  "fecha": "2026-10-21",
+  "fecha": "2026-10-29",
   "consulta": "TAG Heuer CBN2A1A",
   "n": 5,
-  "mediana": 4500,
-  "p25": 3713,
-  "p75": 5000,
+  "mediana": 5000,
+  "p25": 4500,
+  "p75": 5495,
   "min": 3500,
   "max": 6040
  },
@@ -10875,12 +10875,12 @@
   "max": 6554
  },
  "Omega 210.30.42.20.06.001|usado": {
-  "fecha": "2026-10-28",
+  "fecha": "2026-10-29",
   "consulta": "Omega 210.30.42.20.06.001",
-  "n": 14,
-  "mediana": 4689,
+  "n": 15,
+  "mediana": 4599,
   "p25": 4549,
-  "p75": 4999,
+  "p75": 4997,
   "min": 3939,
   "max": 6150
  },
@@ -14395,9 +14395,14 @@
   "max": 2550
  },
  "Omega 2201.50.00|usado": {
-  "fecha": "2026-10-28",
+  "fecha": "2026-10-29",
   "consulta": "Omega 2201.50.00",
-  "n": 0
+  "n": 1,
+  "mediana": 4574,
+  "p25": 4574,
+  "p75": 4574,
+  "min": 4574,
+  "max": 4574
  },
  "Breitling A73350|usado": {
   "fecha": "2026-10-28",
@@ -16068,5 +16073,35 @@
   "fecha": "2026-10-29",
   "consulta": "Jaeger-LeCoultre Q1602420",
   "n": 0
+ },
+ "Rolex 16613LB|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Rolex 16613LB",
+  "n": 9,
+  "mediana": 12429,
+  "p25": 12000,
+  "p75": 12900,
+  "min": 9943,
+  "max": 13495
+ },
+ "TAG Heuer WAP1111|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer WAP1111",
+  "n": 1,
+  "mediana": 1395,
+  "p25": 1395,
+  "p75": 1395,
+  "min": 1395,
+  "max": 1395
+ },
+ "TAG Heuer CBU2084|nuevo": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer CBU2084",
+  "n": 1,
+  "mediana": 10640,
+  "p25": 10640,
+  "p75": 10640,
+  "min": 10640,
+  "max": 10640
  }
 }
