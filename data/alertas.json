@@ -1195,5 +1195,75 @@
    "precio_reventa_rd_usd": 4400
   },
   "ratio_justo": 0.756
+ },
+ {
+  "fecha": "2026-10-29T18:23:42.159237+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Stainless Steel Watch 79030",
+  "precio": 2700.0,
+  "envio": 0.0,
+  "total": 2700.0,
+  "mercado": {
+   "fecha": "2026-10-29",
+   "consulta": "Tudor 79030",
+   "n": 29,
+   "mediana": 3750,
+   "p25": 3600,
+   "p75": 3971,
+   "min": 3195,
+   "max": 4500
+  },
+  "triage": null,
+  "vendedor": "veryspecialbrand",
+  "valoraciones": 10715,
+  "pct_positivo": "99.9",
+  "url": "https://www.ebay.com/itm/407325137203",
+  "item_id": "v1|407325137203|0",
+  "info": {
+   "departamento": "Unisex Adults",
+   "referencia": "79030B",
+   "modelo_esp": null,
+   "caja_mm": null,
+   "material": "Stainless Steel",
+   "ano": null,
+   "movimiento": null,
+   "caja_original": "Yes",
+   "papeles": "No",
+   "condicion": "Pre-owned - Excellent",
+   "condicion_id": "2990",
+   "condicion_desc": "",
+   "garantia_autenticidad": false,
+   "devoluciones": true,
+   "amarillas": [
+    "dent",
+    "wear"
+   ],
+   "imagenes": [
+    "https://i.ebayimg.com/images/g/Et8AAeSw73tq444H/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/xh4AAeSwIAdq444H/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/2DwAAeSwXWVq444H/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/NbYAAeSwO79q444H/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/70IAAeSwrBhq444H/s-l1600.jpg"
+   ]
+  },
+  "claude": {
+   "veredicto": "alerta",
+   "modelo": "Tudor Black Bay Fifty-Eight 79030B, 39mm, acero, esfera negra, correa textil (el título dice 'Black Bay 79030')",
+   "estado": "Buen estado general; la correa textil está bastante desgastada y descolorida, la caja se ve limpia",
+   "riesgo_autenticidad": "bajo",
+   "completo": false,
+   "razones": [
+    "Precio de US$2,700 frente a un cuartil bajo de 3,600 y una mediana de 3,750 en precios pedidos. El precio de venta cerrado real de un BB58 79030B con caja y sin papeles, en correa textil, ronda 3,200-3,500. El precio está cerca de un 18 % por debajo de eso.",
+    "La esfera, las agujas snowflake doradas, los índices luminosos, el texto '200m/660ft Chronometer Officially Certified', el bisel de aluminio negro con inserto dorado y la corona se ven coherentes con un BB58 genuino. No veo señales evidentes de réplica ni de esfera repintada.",
+    "El vendedor es un dealer de Nueva York con 10,715 valoraciones (99.9 % positivo). Ofrece devolución en 30 días y garantía de 12 meses, lo que reduce el riesgo.",
+    "La correa textil tiene desgaste visible: manchas, pelusa y zonas decoloradas, sobre todo en el lado de las 6. Habrá que cambiarla o descontar su valor. El fondo de la caja no se ve bien y no hay foto del movimiento ni del número de serie. Pide esas fotos y la serie antes de comprar.",
+    "Dice 'with box' pero no trae papeles, ni año ni tarjeta de garantía. Un BB58 con papeles vale unos 200-300 dólares más.",
+    "Que el vendedor ponga 'authentic' en la descripción no cuenta como garantía real. El campo de garantía de autenticidad de eBay está en false, pero la política de devolución cubre ese riesgo.",
+    "Margen estimado de 500-700 dólares tras envío y comisiones. Es una oportunidad razonable si el fondo de caja y el número de serie confirman la autenticidad."
+   ],
+   "precio_justo_usd": 3250,
+   "precio_reventa_rd_usd": 3500
+  },
+  "ratio_justo": 0.831
  }
 ]
