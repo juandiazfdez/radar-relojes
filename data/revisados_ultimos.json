@@ -1,165 +1,5 @@
 [
  {
-  "fecha": "2026-10-27T23:07:18.403646+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex Day Date 40 Green Ombre 228238 Box/Papers/Card 40mm Yellow Gold",
-  "total": 64000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880057618585",
-  "item_id": "v1|880057618585|0",
-  "referencia": "228238",
-  "mercado": {
-   "n": 32,
-   "p25": 48500,
-   "mediana": 48992
-  },
-  "ratio_mercado": 1.32,
-  "motivo": "precio normal (132 % del cuartil bajo de 228238)"
- },
- {
-  "fecha": "2026-10-27T23:07:18.403646+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sea Dweller 2020 BOX and PAPERS 43mm 126600 Red Letter Anniversary Black",
-  "total": 12349.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366765579898",
-  "item_id": "v1|366765579898|0",
-  "referencia": "126600",
-  "mercado": {
-   "n": 47,
-   "p25": 13695,
-   "mediana": 14273
-  },
-  "ratio_mercado": 0.902,
-  "motivo": "precio normal (90 % del cuartil bajo de 126600)"
- },
- {
-  "fecha": "2026-10-27T23:07:18.403646+00:00",
-  "marca": "Rolex",
-  "titulo": "2022 Rolex, Submariner Date, \"Bluesy\", 18K Gold/SS - 126613LB",
-  "total": 17749.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407320844676",
-  "item_id": "v1|407320844676|0",
-  "referencia": "126613LB",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Submariner Date two-tone azul (oro amarillo 18K y acero, bisel Cerachrom azul)",
-   "referencia": "126613LB",
-   "precio_justo_usd": 18000,
-   "interesante": false,
-   "nota": "Precio cercano al mercado secundario para pieza de 2022 en estado Good; sin descuento de al menos 15%."
-  },
-  "motivo": "triage: Precio cercano al mercado secundario para pieza de 2022 en estado Good; sin descuento de al menos 15%. (justo 18000)"
- },
- {
-  "fecha": "2026-10-27T23:07:18.403646+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay 58 39mm Box and Papers",
-  "total": 3950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206658463923",
-  "item_id": "v1|206658463923|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 39mm (esfera negra, bisel negro, brazalete Oyster)",
-   "referencia": "M79030N (probable, según título de 39 mm y estilo visible)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta real de un usado con caja y papeles; no hay descuento que aprovechar."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta real de un usado con caja y papeles; no hay descuento que aprovechar. (justo 3300)"
- },
- {
-  "fecha": "2026-10-27T23:07:18.403646+00:00",
-  "marca": "IWC",
-  "titulo": "IWC PILOT'S WATCH MARK XVIII \"LAUREUS SPORT FOR GOOD FOUNDATION\" Ref. IW324703",
-  "total": 4800.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336866372154",
-  "item_id": "v1|336866372154|0",
-  "referencia": "IW324703",
-  "mercado": {
-   "n": 2,
-   "p25": 5054,
-   "mediana": 5474
-  },
-  "triage": {
-   "modelo": "IWC Pilot's Watch Mark XVIII Laureus Sport for Good Foundation (esfera azul, correa de caucho)",
-   "referencia": "IW324703",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Precio pedido de 4800 USD por encima del valor de reventa; la referencia es de produccion actual con descuento habitual en mercado secundario. Verificar caja, papeles y autenticidad."
-  },
-  "motivo": "triage: Precio pedido de 4800 USD por encima del valor de reventa; la referencia es de produccion actual con descuento habitual en mercado secundario. Verificar caja, papeles y autenticidad. (justo 3500)"
- },
- {
-  "fecha": "2026-10-27T23:22:27.407859+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust II 116300 41mm Silver Blue Arabic Steel Oyster Mens Watch",
-  "total": 8250.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198750583117",
-  "item_id": "v1|198750583117|0",
-  "referencia": "116300",
-  "mercado": {
-   "n": 36,
-   "p25": 9715,
-   "mediana": 10498
-  },
-  "ratio_mercado": 0.849,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 6900,
-   "riesgo_autenticidad": "medio",
-   "estado": "Buen estado aparente, con rayitas visibles en el cierre y el brazalete; solo caja, sin papeles"
-  },
-  "motivo": "Claude descarto: El precio de US$8,250 está por encima del mercado real. Un 116300 usado, solo con caja y sin papeles, se cierra hoy entre unos US$6,500 y 7,300. Con caja y papeles llega a unos US$7,500-8,000. La mediana de 10,498 de eBay son precios pedidos inflados y no sirve de referencia.; No hay margen de reventa. Comprando a 8,250 no queda ganancia, porque el reloj se vende sin papeles a unos 7,000."
- },
- {
-  "fecha": "2026-10-27T23:22:27.407859+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 6748 Oyster Mid Size 31 mm Steel Diamond Womens Watch ",
-  "total": 3888.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257821040680",
-  "item_id": "v1|257821040680|0",
-  "referencia": "6748",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual 31 mm, esfera nácar con diamantes, acero",
-   "referencia": "6748",
-   "precio_justo_usd": 3400,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de mercado para esta referencia; la esfera con diamantes puede ser de fábrica o alterada, así que hay que verificarla."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de mercado para esta referencia; la esfera con diamantes puede ser de fábrica o alterada, así que hay que verificarla. (justo 3400)"
- },
- {
-  "fecha": "2026-10-27T23:22:27.407859+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 69173 Stainless Steel & 18K Yellow Gold 26mm Watch 1990",
-  "total": 6550.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128159966123",
-  "item_id": "v1|128159966123|0",
-  "referencia": "69173",
-  "mercado": {
-   "n": 24,
-   "p25": 4259,
-   "mediana": 4450
-  },
-  "ratio_mercado": 1.538,
-  "motivo": "precio normal (154 % del cuartil bajo de 69173)"
- },
- {
   "fecha": "2026-10-27T23:22:27.407859+00:00",
   "marca": "Rolex",
   "titulo": "Vintage Rolex Date 34mm Champagne Oyster Automatic Watch 1979 Untested (A1)",
@@ -11386,5 +11226,183 @@
    "nota": "El precio pedido de 1796 USD está muy por encima del valor de mercado. La referencia 166 de esa época suele ser de cuarzo, no automática como indica el título; verifícalo antes de comprar."
   },
   "motivo": "triage: El precio pedido de 1796 USD está muy por encima del valor de mercado. La referencia 166 de esa época suele ser de cuarzo, no automática como indica el título; verifícalo antes de comprar. (justo 550)"
+ },
+ {
+  "fecha": "2026-10-29T01:38:11.739503+00:00",
+  "marca": "Tudor",
+  "titulo": "2025 Tudor Pelagos FXD Marine Nationale Blue Titanium M25707B/25 Full Set",
+  "total": 4299.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900047804395",
+  "item_id": "v1|900047804395|0",
+  "referencia": "M25707B",
+  "mercado": {
+   "n": 1,
+   "p25": 4400,
+   "mediana": 4400
+  },
+  "triage": {
+   "modelo": "Tudor Pelagos FXD Marine Nationale (titanio, esfera azul, bisel azul)",
+   "referencia": "M25707B/25",
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "Precio pedido de 4299 USD está por encima del valor de venta cerrada estimado para un Pelagos FXD Marine Nationale 2025 con caja y papeles; no hay descuento de al menos 15%."
+  },
+  "motivo": "triage: Precio pedido de 4299 USD está por encima del valor de venta cerrada estimado para un Pelagos FXD Marine Nationale 2025 con caja y papeles; no hay descuento de al menos 15%. (justo 3900)"
+ },
+ {
+  "fecha": "2026-10-29T01:38:11.739503+00:00",
+  "marca": "Panerai",
+  "titulo": "Panerai Luminor 1950 Submersible Depth Gauge 47mm (PAM00193)",
+  "total": 9800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800850054928",
+  "item_id": "v1|800850054928|0",
+  "referencia": "PAM00193",
+  "mercado": {
+   "n": 2,
+   "p25": 9490,
+   "mediana": 9888
+  },
+  "triage": {
+   "modelo": "Panerai Luminor 1950 Submersible Depth Gauge 47mm, acero",
+   "referencia": "PAM00193",
+   "precio_justo_usd": 8500,
+   "interesante": false,
+   "nota": "Precio pedido 9800 USD, unos 15 % por encima de ventas cerradas para acero usado en buen estado; sin caja y papeles el valor baja. Confirmar referencia y año."
+  },
+  "motivo": "triage: Precio pedido 9800 USD, unos 15 % por encima de ventas cerradas para acero usado en buen estado; sin caja y papeles el valor baja. Confirmar referencia y año. (justo 8500)"
+ },
+ {
+  "fecha": "2026-10-29T01:38:11.739503+00:00",
+  "marca": "Panerai",
+  "titulo": "Panerai Submersible Navy SEALs Experience (PAM01402)",
+  "total": 43500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800850054930",
+  "item_id": "v1|800850054930|0",
+  "referencia": "PAM01402",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Panerai Submersible Navy SEALs Experience",
+   "referencia": "PAM01402",
+   "precio_justo_usd": 13000,
+   "interesante": false,
+   "nota": "El precio pedido (US$43.500) está muy por encima de lo que se vende este modelo nuevo con caja y papeles; no es una oportunidad."
+  },
+  "motivo": "triage: El precio pedido (US$43.500) está muy por encima de lo que se vende este modelo nuevo con caja y papeles; no es una oportunidad. (justo 13000)"
+ },
+ {
+  "fecha": "2026-10-29T01:38:11.739503+00:00",
+  "marca": "Omega",
+  "titulo": "Ladies Omega DeVille Prestige Co-Axial Chronometer watch - 424.10.33.20.01.001",
+  "total": 1945.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206660470810",
+  "item_id": "v1|206660470810|0",
+  "referencia": "424.10.33.20.01.001",
+  "mercado": {
+   "n": 1,
+   "p25": 2245,
+   "mediana": 2245
+  },
+  "triage": {
+   "modelo": "Omega De Ville Prestige Co-Axial (esfera negra, brazalete de acero, fecha a las 3)",
+   "referencia": "424.10.33.20.01.001",
+   "precio_justo_usd": 2000,
+   "interesante": false,
+   "nota": "Precio cercano al mercado secundario para esta referencia usada en buen estado; el descuento es pequeño (~3 %) y no alcanza el 15 % requerido. Verificar tamaño, papeles y estado real antes de comprar."
+  },
+  "motivo": "triage: Precio cercano al mercado secundario para esta referencia usada en buen estado; el descuento es pequeño (~3 %) y no alcanza el 15 % requerido. Verificar tamaño, papeles y estado real antes de comprar. (justo 2000)"
+ },
+ {
+  "fecha": "2026-10-29T01:38:11.739503+00:00",
+  "marca": "Omega",
+  "titulo": "Vintage Omega Constellation Automatic Chronometer - Working",
+  "total": 1057.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860093399540",
+  "item_id": "v1|860093399540|0",
+  "triage": {
+   "modelo": "Omega Constellation Automatic Chronometer (vintage, bicolor, con fecha)",
+   "referencia": null,
+   "precio_justo_usd": 750,
+   "interesante": false,
+   "nota": "Precio pedido por encima de lo que se vende este modelo vintage en estado Good; la referencia exacta no se distingue en la foto."
+  },
+  "motivo": "triage: Precio pedido por encima de lo que se vende este modelo vintage en estado Good; la referencia exacta no se distingue en la foto. (justo 750)"
+ },
+ {
+  "fecha": "2026-10-29T01:38:11.739503+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Carrera Men's Black Watch - CV2014",
+  "total": 1500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227587912421",
+  "item_id": "v1|227587912421|0",
+  "referencia": "CV2014",
+  "mercado": {
+   "n": 5,
+   "p25": 1799,
+   "mediana": 2150
+  },
+  "ratio_mercado": 0.834,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 1450,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado, buen estado aparente. Caja con forro dañado y sin fotos del fondo de caja ni del movimiento"
+  },
+  "motivo": "Claude descarto: El precio de US$1500 está en línea con el valor real de venta cerrada de un CV2014 usado (aprox. US$1350-1600). Con envío y comisiones casi no deja margen de reventa. Los comparables de 1799-2150 son precios pedidos inflados.; La descripción dice 'nuevo, usado menos de 30 días', pero las fotos no lo respaldan. El estuche tiene el forro de la tapa desprendido y deteriorado, y el cristal se ve con polvo o marcas. Parece un reloj usado normal, no uno de estreno."
+ },
+ {
+  "fecha": "2026-10-29T01:38:11.739503+00:00",
+  "marca": "IWC",
+  "titulo": "IWC Big Pilot’s Watch Spitfire Mission Accomplished Bronze (IW510506)",
+  "total": 7900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800850054929",
+  "item_id": "v1|800850054929|0",
+  "referencia": "IW510506",
+  "mercado": {
+   "n": 3,
+   "p25": 11900,
+   "mediana": 13895
+  },
+  "triage": {
+   "modelo": "IWC Big Pilot's Watch Spitfire \"Mission Accomplished\" Bronze",
+   "referencia": "IW510506",
+   "precio_justo_usd": 8500,
+   "interesante": false,
+   "nota": "Precio 7 % por debajo de la estimación conservadora; sin ventaja clara de compra. Verificar papeles, caja y estado de la correa de piel."
+  },
+  "motivo": "triage: Precio 7 % por debajo de la estimación conservadora; sin ventaja clara de compra. Verificar papeles, caja y estado de la correa de piel. (justo 8500)"
+ },
+ {
+  "fecha": "2026-10-29T01:38:11.739503+00:00",
+  "marca": "IWC",
+  "titulo": "IWC Pilot's Chronograph Spitfire  Day/Date 41mm Full Kit, IW387901",
+  "total": 4510.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/307254592282",
+  "item_id": "v1|307254592282|0",
+  "referencia": "IW387901",
+  "mercado": {
+   "n": 4,
+   "p25": 4625,
+   "mediana": 4875
+  },
+  "triage": {
+   "modelo": "IWC Pilot's Chronograph Spitfire 41 mm (Day/Date)",
+   "referencia": "IW387901",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "Cronógrafo de acero usado con kit completo; el precio pedido de US$4510 está por encima del valor de venta realista."
+  },
+  "motivo": "triage: Cronógrafo de acero usado con kit completo; el precio pedido de US$4510 está por encima del valor de venta realista. (justo 4300)"
  }
 ]
