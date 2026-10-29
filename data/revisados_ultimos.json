@@ -1,73 +1,5 @@
 [
  {
-  "fecha": "2026-10-28T14:37:48.193610+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos 100 XL 38MM 2656 / W200728g Roman 18K Yellow Gold & Steel Watch",
-  "total": 7200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940048002598",
-  "item_id": "v1|940048002598|0",
-  "referencia": "2656",
-  "mercado": {
-   "n": 26,
-   "p25": 5255,
-   "mediana": 5612
-  },
-  "ratio_mercado": 1.37,
-  "motivo": "precio normal (137 % del cuartil bajo de 2656)"
- },
- {
-  "fecha": "2026-10-28T14:37:48.193610+00:00",
-  "marca": "Omega",
-  "titulo": "PLAYBOY  OMEGA GOLD FILLED LADIES WATCH  ENGRAVED ELEANOR WAGNER WITH THANKS HEF",
-  "total": 1500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327427744628",
-  "item_id": "v1|327427744628|0",
-  "triage": {
-   "modelo": "Movado Museum (dial negro con marcador de punto en las 12, caja dorada, correa de cuero negro). No es un Omega según la foto.",
-   "referencia": null,
-   "precio_justo_usd": 300,
-   "interesante": false,
-   "nota": "La foto muestra un Movado Museum, no un Omega Playboy; el título parece engañoso. Además, el grabado y la mención a Playboy no suben el valor de forma verificable."
-  },
-  "motivo": "triage: La foto muestra un Movado Museum, no un Omega Playboy; el título parece engañoso. Además, el grabado y la mención a Playboy no suben el valor de forma verificable. (justo 300)"
- },
- {
-  "fecha": "2026-10-28T14:37:48.193610+00:00",
-  "marca": "Jaeger-LeCoultre",
-  "titulo": "Jaeger-LeCoultre 44mm Master Compressor Diving Chronograph GMT 159.T.C7 - B/P",
-  "total": 8220.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366766866653",
-  "item_id": "v1|366766866653|0",
-  "triage": {
-   "modelo": "Jaeger-LeCoultre Master Compressor Diving Chronograph (acero, bisel negro, correa NATO; el título indica GMT, no verificable en la foto)",
-   "referencia": "159.T.C7 (según título, no verificable en la imagen)",
-   "precio_justo_usd": 6500,
-   "interesante": false,
-   "nota": "Precio pedido por encima de la estimación de venta real para usado en buen estado con caja y papeles; no hay descuento claro."
-  },
-  "motivo": "triage: Precio pedido por encima de la estimación de venta real para usado en buen estado con caja y papeles; no hay descuento claro. (justo 6500)"
- },
- {
-  "fecha": "2026-10-28T14:52:48.348029+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Air-King \"2021\" 116900",
-  "total": 8633.44,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237148875012",
-  "item_id": "v1|237148875012|0",
-  "referencia": "116900",
-  "mercado": {
-   "n": 28,
-   "p25": 8199,
-   "mediana": 8584
-  },
-  "ratio_mercado": 1.053,
-  "motivo": "precio normal (105 % del cuartil bajo de 116900)"
- },
- {
   "fecha": "2026-10-28T14:52:48.348029+00:00",
   "marca": "Rolex",
   "titulo": "2008 Rolex Submariner 2-tone Yellow Gold/Steel 40mm Watch 16613LN Box/Papers/Tag",
@@ -11361,5 +11293,80 @@
    "nota": "Precio pedido de 5400 USD (con envío) está por encima del precio de venta cerrada estimado para pre-owned con caja y papeles; no hay descuento suficiente."
   },
   "motivo": "triage: Precio pedido de 5400 USD (con envío) está por encima del precio de venta cerrada estimado para pre-owned con caja y papeles; no hay descuento suficiente. (justo 5000)"
+ },
+ {
+  "fecha": "2026-10-29T16:38:42.366843+00:00",
+  "marca": "Panerai",
+  "titulo": "Panerai Luminor GMT SS OP6554",
+  "total": 5039.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128162775218",
+  "item_id": "v1|128162775218|0",
+  "triage": {
+   "modelo": "Panerai Luminor GMT Automatic, acero, esfera negra, correa de caucho (44 mm aprox.)",
+   "referencia": "PAM00270 o similar (el título indica OP6554, que no coincide con lo visible; verificar)",
+   "precio_justo_usd": 6800,
+   "interesante": false,
+   "nota": "El precio está ~26% bajo mercado, pero la referencia del título no coincide con el modelo visible. Ese descuento junto con la discrepancia es señal de posible réplica o listado engañoso; verificar autenticidad y número de serie antes de considerarlo."
+  },
+  "motivo": "triage: El precio está ~26% bajo mercado, pero la referencia del título no coincide con el modelo visible. Ese descuento junto con la discrepancia es señal de posible réplica o listado engañoso; verificar autenticidad y número de serie antes de considerarlo. (justo 6800)"
+ },
+ {
+  "fecha": "2026-10-29T16:38:42.366843+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Day/Date Vintage Automatic Men's Watch",
+  "total": 1895.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137884442377",
+  "item_id": "v1|137884442377|0",
+  "triage": {
+   "modelo": "Omega Geneve (posible Seamaster Day-Date) automático vintage, caja chapada en oro, esfera negra con ventana día/fecha",
+   "referencia": null,
+   "precio_justo_usd": 900,
+   "interesante": false,
+   "nota": "Modelo vintage de chapa de oro, probablemente años 70; el precio pedido supera con holgura lo que se vende realmente, aunque la referencia exacta no es verificable en la foto."
+  },
+  "motivo": "triage: Modelo vintage de chapa de oro, probablemente años 70; el precio pedido supera con holgura lo que se vende realmente, aunque la referencia exacta no es verificable en la foto. (justo 900)"
+ },
+ {
+  "fecha": "2026-10-29T16:38:42.366843+00:00",
+  "marca": "Omega",
+  "titulo": "Vintage Omega Seamaster Reference # FO3647 Automatic 34mm Watch With Linen Dail!",
+  "total": 950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237151054870",
+  "item_id": "v1|237151054870|0",
+  "triage": {
+   "modelo": "Omega Seamaster automático vintage (c. 1955-1960), caja chapada en oro, esfera crema tipo lino",
+   "referencia": null,
+   "precio_justo_usd": 550,
+   "interesante": false,
+   "nota": "La referencia 'FO3647' no es verificable y la caja parece chapada en oro, no maciza. El precio pedido de $950 está por encima del valor de mercado para este estado."
+  },
+  "motivo": "triage: La referencia 'FO3647' no es verificable y la caja parece chapada en oro, no maciza. El precio pedido de $950 está por encima del valor de mercado para este estado. (justo 550)"
+ },
+ {
+  "fecha": "2026-10-29T16:38:42.366843+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Super Avenger Chronograph Steel Auto 48mm Bracelet Watch A1337011/A699",
+  "total": 2950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940049955557",
+  "item_id": "v1|940049955557|0",
+  "referencia": "A1337011/A699",
+  "mercado": {
+   "n": 41,
+   "p25": 3800,
+   "mediana": 5000
+  },
+  "ratio_mercado": 0.776,
+  "claude": {
+   "veredicto": "alerta",
+   "precio_justo_usd": 3900,
+   "riesgo_autenticidad": "bajo",
+   "estado": "Muy buen estado visual, serviciado, sin caja ni papeles"
+  },
+  "ratio_justo": 0.756,
+  "motivo": "ALERTA"
  }
 ]
