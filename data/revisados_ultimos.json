@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-10-28T03:07:26.696615+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Speedmaster Schumacher 3519.50 LE World Champion 2001 39mm Chronograph",
-  "total": 2895.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206658830790",
-  "item_id": "v1|206658830790|0",
-  "referencia": "3519.50",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Omega Speedmaster Schumacher (Racing) Chronograph, edición limitada 2001 Campeón del Mundo, 39 mm, acero",
-   "referencia": "3519.50",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Modelo reconocible por la esfera negra y el bisel taquimétrico, pero la referencia 3519.50 viene del título y no se distingue en la foto. Precio justo estimado para estado Good sin certificar; el listado está cerca de ese valor, no 15 % por debajo."
-  },
-  "motivo": "triage: Modelo reconocible por la esfera negra y el bisel taquimétrico, pero la referencia 3519.50 viene del título y no se distingue en la foto. Precio justo estimado para estado Good sin certificar; el listado está cerca de ese valor, no 15 % por debajo. (justo 3000)"
- },
- {
   "fecha": "2026-10-28T03:22:27.297471+00:00",
   "marca": "TAG Heuer",
   "titulo": "Swiss 39mm [WORKS] TAG Heuer Aquaracer WAP1120 Men's Quartz Watch",
@@ -11357,5 +11334,22 @@
   },
   "ratio_mercado": 0.982,
   "motivo": "precio normal (98 % del cuartil bajo de 212.30.41.20.01.003)"
+ },
+ {
+  "fecha": "2026-10-29T05:53:19.816391+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Ceramic Blue M79210CNU-0007 41mm 2024 Full Set",
+  "total": 4250.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327428466040",
+  "item_id": "v1|327428466040|0",
+  "triage": {
+   "modelo": "Tudor Black Bay Ceramic Blue (listado), pero la foto muestra una caja negra PVD y correa genérica con costuras azules, lo que no coincide con el modelo original",
+   "referencia": "M79210CNU (según el título; no verificable en la foto)",
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "Las fotos sugieren un homenaje o reloj personalizado, no un Tudor original. Si fuera auténtico, el precio sería razonable, pero no hay evidencia de ello."
+  },
+  "motivo": "triage: Las fotos sugieren un homenaje o reloj personalizado, no un Tudor original. Si fuera auténtico, el precio sería razonable, pero no hay evidencia de ello. (justo 3900)"
  }
 ]
