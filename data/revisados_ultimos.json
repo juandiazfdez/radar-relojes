@@ -2,29 +2,6 @@
  {
   "fecha": "2026-10-28T03:52:27.137859+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG Heuer SBR8080.EB0284 Calibre E4 Connected Golf Watch Black White Rubber 42mm",
-  "total": 920.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/377602716153",
-  "item_id": "v1|377602716153|0",
-  "referencia": "SBR8080.EB0284",
-  "mercado": {
-   "n": 3,
-   "p25": 885,
-   "mediana": 915
-  },
-  "triage": {
-   "modelo": "TAG Heuer Connected Calibre E4 Golf Edition (smartwatch con Wear OS, caja negra, correa de caucho blanca)",
-   "referencia": "SBR8080.EB0284",
-   "precio_justo_usd": 750,
-   "interesante": false,
-   "nota": "Smartwatch de segunda mano; el precio pedido de 920 USD con envío está por encima del valor de venta realista, que ronda los 750 USD según la referencia y el estado."
-  },
-  "motivo": "triage: Smartwatch de segunda mano; el precio pedido de 920 USD con envío está por encima del valor de venta realista, que ronda los 750 USD según la referencia y el estado. (justo 750)"
- },
- {
-  "fecha": "2026-10-28T03:52:27.137859+00:00",
-  "marca": "TAG Heuer",
   "titulo": "TAG Heuer CAF1010.BA0821 Mens Aquaracer Digital Chronograph Watch Black Silver",
   "total": 1050.0,
   "condicion": "Pre-owned - Excellent",
@@ -11326,5 +11303,28 @@
    "nota": "Precio pedido de 2345 USD muy por encima del valor de venta cerrada estimado para este bicolor usado en condición Good; identificación basada solo en la foto y el título."
   },
   "motivo": "triage: Precio pedido de 2345 USD muy por encima del valor de venta cerrada estimado para este bicolor usado en condición Good; identificación basada solo en la foto y el título. (justo 1400)"
+ },
+ {
+  "fecha": "2026-10-29T07:38:20.281167+00:00",
+  "marca": "Cartier",
+  "titulo": "Excelle CARTIER BALLON BLEU DE CARTIER LM WSBB0026 42mm SS Silver #C22898",
+  "total": 3650.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407321616186",
+  "item_id": "v1|407321616186|0",
+  "referencia": "WSBB0026",
+  "mercado": {
+   "n": 4,
+   "p25": 4950,
+   "mediana": 5350
+  },
+  "triage": {
+   "modelo": "Cartier Ballon Bleu de Cartier 42 mm acero, esfera plateada con números romanos, correa de cuero negra",
+   "referencia": "WSBB0026",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Descuento de ~27 % frente a un precio de venta realista para esta referencia; con ese margen, verificar autenticidad, caja y papeles antes de considerar la compra."
+  },
+  "motivo": "triage: Descuento de ~27 % frente a un precio de venta realista para esta referencia; con ese margen, verificar autenticidad, caja y papeles antes de considerar la compra. (justo 5000)"
  }
 ]
