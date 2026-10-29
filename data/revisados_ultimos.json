@@ -1,182 +1,5 @@
 [
  {
-  "fecha": "2026-10-28T19:22:59.970175+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Serviced 09/2026 - 24mm Ladies Two Tone 18k Gold Ref 6719",
-  "total": 2970.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/960126925413",
-  "item_id": "v1|960126925413|0",
-  "referencia": "6719",
-  "mercado": {
-   "n": 16,
-   "p25": 3990,
-   "mediana": 5337
-  },
-  "ratio_mercado": 0.744,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 2350,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Vintage con uso visible; brazalete muy rayado, caja con cepillado desgastado, servicio reciente según el vendedor"
-  },
-  "motivo": "Claude descarto: Las fotos son reales y propias (reloj, bolsa, recibo, fondo abierto) y muestran el movimiento. La tapa dice Montres Rolex SA / Geneva / Patented / Stainless Steel y el calibre se lee como 2030 (28 rubíes, ajustado a 5 posiciones). Todo es coherente con una 6719 genuina, por eso el riesgo de autenticidad es bajo.; Falta una foto clara del número de serie y del número de referencia entre las asas para confirmarlos. En la tapa se ven marcas de relojero a mano y números parciales, nada verificable."
- },
- {
-  "fecha": "2026-10-28T19:22:59.970175+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Ref 2520 Bumper Automatic Mens 33mm 1950s Vintage Classic RA747",
-  "total": 4400.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267826509737",
-  "item_id": "v1|267826509737|0",
-  "triage": {
-   "modelo": "Omega Bumper Automatic (años 50, caja de acero con bisel tipo bumper)",
-   "referencia": "2520",
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "Precio pedido de 4400 USD por encima del valor de venta real de un bumper automatic de los 50 en buen estado, aun con caja y esfera originales; la foto no permite verificar la referencia exacta, la esfera ni el movimiento."
-  },
-  "motivo": "triage: Precio pedido de 4400 USD por encima del valor de venta real de un bumper automatic de los 50 en buen estado, aun con caja y esfera originales; la foto no permite verificar la referencia exacta, la esfera ni el movimiento. (justo 2800)"
- },
- {
-  "fecha": "2026-10-28T19:22:59.970175+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Navitimer B02 Chronograph 41 Cosmonaute Artemis II Meteorite AB0230",
-  "total": 15900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287687729730",
-  "item_id": "v1|287687729730|0",
-  "referencia": "AB0230",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Breitling Navitimer B02 Chronograph 41 (esfera azul, correa de cocodrilo)",
-   "referencia": "AB0230 (según título; verificar)",
-   "precio_justo_usd": 9000,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del mercado secundario para una edición de este tipo, sobre todo en estado usado sin caja ni papeles mencionados."
-  },
-  "motivo": "triage: Precio pedido muy por encima del mercado secundario para una edición de este tipo, sobre todo en estado usado sin caja ni papeles mencionados. (justo 9000)"
- },
- {
-  "fecha": "2026-10-28T19:22:59.970175+00:00",
-  "marca": "IWC",
-  "titulo": "IWC Schaffhausen Aquatimer Ref. IW354807 • Automatic • 42mm • Watch Only",
-  "total": 2250.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336867664639",
-  "item_id": "v1|336867664639|0",
-  "referencia": "IW354807",
-  "mercado": {
-   "n": 1,
-   "p25": 2985,
-   "mediana": 2985
-  },
-  "triage": {
-   "modelo": "IWC Aquatimer Automatic 42 mm (acero, esfera negra, correa de caucho)",
-   "referencia": "IW354807",
-   "precio_justo_usd": 2100,
-   "interesante": false,
-   "nota": "Solo reloj, sin caja ni papeles; el precio pedido de 2250 USD está por encima de su valor de venta estimado para esta referencia en estado excelente."
-  },
-  "motivo": "triage: Solo reloj, sin caja ni papeles; el precio pedido de 2250 USD está por encima de su valor de venta estimado para esta referencia en estado excelente. (justo 2100)"
- },
- {
-  "fecha": "2026-10-28T19:38:00.289014+00:00",
-  "marca": "Rolex",
-  "titulo": "NOS Stickered 2016 Rolex Oyster Perpetual 114200 Silver 34mm Watch Box Papers",
-  "total": 8153.85,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307254228499",
-  "item_id": "v1|307254228499|0",
-  "referencia": "114200",
-  "mercado": {
-   "n": 29,
-   "p25": 6995,
-   "mediana": 7500
-  },
-  "ratio_mercado": 1.166,
-  "motivo": "precio normal (117 % del cuartil bajo de 114200)"
- },
- {
-  "fecha": "2026-10-28T19:38:00.289014+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier 25mm Santos Octagon AC980gr.OR0,7502,30gr 18k Solid Yellow Gold& Steel 2",
-  "total": 4200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257822311718",
-  "item_id": "v1|257822311718|0",
-  "triage": {
-   "modelo": "Cartier Santos Octagon bicolor (acero y oro amarillo 18k), cuarzo, 25 mm, esfera blanca con números romanos",
-   "referencia": "1057930 (probable, no verificable en la foto)",
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "Precio pedido de US$4200 muy por encima del valor de mercado para este modelo de cuarzo bicolor pre-owned; estimo unos US$2000-2600."
-  },
-  "motivo": "triage: Precio pedido de US$4200 muy por encima del valor de mercado para este modelo de cuarzo bicolor pre-owned; estimo unos US$2000-2600. (justo 2300)"
- },
- {
-  "fecha": "2026-10-28T19:38:00.289014+00:00",
-  "marca": "Omega",
-  "titulo": "1962 Vintage OMEGA Seamaster DE VILLE Automatic, Serviced with Warranty",
-  "total": 1450.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198752795048",
-  "item_id": "v1|198752795048|0",
-  "triage": {
-   "modelo": "Omega Seamaster De Ville Automatic vintage (años 60), esfera plateada con marcadores de barra, caja de acero, correa de cuero negra",
-   "referencia": "Probablemente 565.0xx (no verificable en la foto)",
-   "precio_justo_usd": 1100,
-   "interesante": false,
-   "nota": "El precio pedido de 1450 USD supera el valor estimado de venta para este modelo vintage en buen estado, aunque el servicio con garantía justifica algo de prima."
-  },
-  "motivo": "triage: El precio pedido de 1450 USD supera el valor estimado de venta para este modelo vintage en buen estado, aunque el servicio con garantía justifica algo de prima. (justo 1100)"
- },
- {
-  "fecha": "2026-10-28T19:38:00.289014+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Navitimer 01 Men's Watch AB012721/BD09",
-  "total": 6900.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137882623846",
-  "item_id": "v1|137882623846|0",
-  "referencia": "AB012721",
-  "mercado": {
-   "n": 5,
-   "p25": 5900,
-   "mediana": 6495
-  },
-  "ratio_mercado": 1.169,
-  "motivo": "precio normal (117 % del cuartil bajo de AB012721)"
- },
- {
-  "fecha": "2026-10-28T19:38:00.289014+00:00",
-  "marca": "IWC",
-  "titulo": "IWC Pilot Mark XV 15 Steel 38mm Black IW325302 Leather Automatic",
-  "total": 3814.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960126940279",
-  "item_id": "v1|960126940279|0",
-  "referencia": "IW325302",
-  "mercado": {
-   "n": 1,
-   "p25": 5999,
-   "mediana": 5999
-  },
-  "triage": {
-   "modelo": "IWC Pilot Mark XV, esfera negra, caja de acero 38 mm, automático",
-   "referencia": "IW325302",
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "Precio pedido de US$3814 supera el valor de venta real estimado (~US$2600 con estado Good y sin caja/papeles confirmados); no hay descuento."
-  },
-  "motivo": "triage: Precio pedido de US$3814 supera el valor de venta real estimado (~US$2600 con estado Good y sin caja/papeles confirmados); no hay descuento. (justo 2600)"
- },
- {
   "fecha": "2026-10-28T19:53:00.491387+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Submariner 41mm Black Dial/Bezel Auto 300m Stainless Steel Bracelet",
@@ -11522,5 +11345,208 @@
    "nota": "Precio pedido por encima del valor de mercado gris para un Carrera nuevo con caja y papeles; no cumple el umbral de 15 % bajo el precio de venta real."
   },
   "motivo": "triage: Precio pedido por encima del valor de mercado gris para un Carrera nuevo con caja y papeles; no cumple el umbral de 15 % bajo el precio de venta real. (justo 3600)"
+ },
+ {
+  "fecha": "2026-10-29T20:08:41.778525+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage $30,000 1803 ROLEX MENS 36mm 18k White Gold DAY DATE PRESIDENT Watch WTY",
+  "total": 10259.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307255893398",
+  "item_id": "v1|307255893398|0",
+  "triage": {
+   "modelo": "Rolex Day-Date (President) 36 mm, solo cabeza sin brazalete",
+   "referencia": "1803 (según título, no verificable en la foto)",
+   "precio_justo_usd": 9000,
+   "interesante": false,
+   "nota": "Se ve solo la cabeza sin brazalete ni corona visible; el título dice oro blanco pero la ref. 1803 es normalmente oro amarillo, y el '$30,000' es un precio inflado. El precio pedido no está 15% por debajo del valor real."
+  },
+  "motivo": "triage: Se ve solo la cabeza sin brazalete ni corona visible; el título dice oro blanco pero la ref. 1803 es normalmente oro amarillo, y el '$30,000' es un precio inflado. El precio pedido no está 15% por debajo del valor real. (justo 9000)"
+ },
+ {
+  "fecha": "2026-10-29T20:08:41.778525+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Monarch 15733 Date 18K Yellow Gold Steel 34MM Men's Quartz Watch",
+  "total": 2065.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206661910534",
+  "item_id": "v1|206661910534|0",
+  "referencia": "15733",
+  "mercado": {
+   "n": 1,
+   "p25": 1735,
+   "mediana": 1735
+  },
+  "triage": {
+   "modelo": "Tudor Monarch Date bicolor (acero y oro amarillo de 18K), esfera blanca, bisel acanalado, cuarzo",
+   "referencia": "15733",
+   "precio_justo_usd": 1100,
+   "interesante": false,
+   "nota": "Precio pedido de 2065 USD muy por encima del valor de venta cerrada estimado para este modelo bicolor de cuarzo usado; la referencia y el oro deben verificarse."
+  },
+  "motivo": "triage: Precio pedido de 2065 USD muy por encima del valor de venta cerrada estimado para este modelo bicolor de cuarzo usado; la referencia y el oro deben verificarse. (justo 1100)"
+ },
+ {
+  "fecha": "2026-10-29T20:08:41.778525+00:00",
+  "marca": "Panerai",
+  "titulo": "Panerai Luminor Duo Luna Rossa Pam01381 1381 42mm",
+  "total": 6195.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940050349579",
+  "item_id": "v1|940050349579|0",
+  "referencia": "PAM01381",
+  "mercado": {
+   "n": 1,
+   "p25": 7044,
+   "mediana": 7044
+  },
+  "triage": {
+   "modelo": "Panerai Luminor Due Luna Rossa 42 mm (esfera blanca, acero, correa de caucho)",
+   "referencia": "PAM01381",
+   "precio_justo_usd": 5300,
+   "interesante": false,
+   "nota": "Precio pedido por encima del rango de reventa actual (~25-35 % bajo retail); no cumple el umbral del 15 % de descuento."
+  },
+  "motivo": "triage: Precio pedido por encima del rango de reventa actual (~25-35 % bajo retail); no cumple el umbral del 15 % de descuento. (justo 5300)"
+ },
+ {
+  "fecha": "2026-10-29T20:08:41.778525+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Constellation Calendar",
+  "total": 1500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407325297169",
+  "item_id": "v1|407325297169|0",
+  "triage": {
+   "modelo": "Omega Constellation Chronometer Automatic (dial pie-pan, fecha, acero), probablemente años 60",
+   "referencia": "168.005 (probable, sin confirmar)",
+   "precio_justo_usd": 1800,
+   "interesante": true,
+   "nota": "Precio pedido ~17% bajo estimación conservadora; verificar autenticidad, esfera, movimiento y estado de caja antes de comprar."
+  },
+  "referencia": null,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 1700,
+   "riesgo_autenticidad": "medio",
+   "estado": "Aspecto bueno y limpio, pero falta el fondo de caja y no hay movimiento; posible exceso de pulido en las asas"
+  },
+  "ratio_justo": 0.882,
+  "motivo": "precio normal segun revision (88 % del justo 1700)"
+ },
+ {
+  "fecha": "2026-10-29T20:08:41.778525+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Aqua Terra 38mm Summer Blue 220.10.38.20.03.004 Full Set",
+  "total": 5780.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840072491007",
+  "item_id": "v1|840072491007|0",
+  "referencia": "220.10.38.20.03.004",
+  "mercado": {
+   "n": 1,
+   "p25": 6550,
+   "mediana": 6550
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Aqua Terra 38mm Summer Blue, acero, Master Chronometer",
+   "referencia": "220.10.38.20.03.004",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Esfera azul degradada coherente con la referencia; el precio total de 5780 USD supera el rango de venta usado con caja y papeles, así que no cumple el umbral del 15 %."
+  },
+  "motivo": "triage: Esfera azul degradada coherente con la referencia; el precio total de 5780 USD supera el rango de venta usado con caja y papeles, así que no cumple el umbral del 15 %. (justo 5000)"
+ },
+ {
+  "fecha": "2026-10-29T20:08:41.778525+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Seamaster Planet Ocean Ultra Deep 6000M 215.30.46.21.03.002 45.5mm",
+  "total": 13895.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840072484594",
+  "item_id": "v1|840072484594|0",
+  "referencia": "215.30.46.21.03.002",
+  "mercado": {
+   "n": 2,
+   "p25": 10000,
+   "mediana": 11173
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Planet Ocean Ultra Deep 6000M 45.5 mm, esfera azul, brazalete de acero",
+   "referencia": "215.30.46.21.03.002",
+   "precio_justo_usd": 8800,
+   "interesante": false,
+   "nota": "Pedido de 13.895 USD supera ampliamente el precio de venta de mercado (aprox. 8.500-9.200 con caja y papeles); no es una oportunidad."
+  },
+  "motivo": "triage: Pedido de 13.895 USD supera ampliamente el precio de venta de mercado (aprox. 8.500-9.200 con caja y papeles); no es una oportunidad. (justo 8800)"
+ },
+ {
+  "fecha": "2026-10-29T20:08:41.778525+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Diver GMT Steel Mens Watch 212.30.44.52.01.001 Box Card",
+  "total": 5400.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257824063667",
+  "item_id": "v1|257824063667|0",
+  "referencia": "212.30.44.52.01.001",
+  "mercado": {
+   "n": 3,
+   "p25": 4045,
+   "mediana": 4250
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Diver 300M Co-Axial GMT Chronograph (acero, bisel de cerámica negra)",
+   "referencia": "212.30.44.52.01.001",
+   "precio_justo_usd": 4200,
+   "interesante": false,
+   "nota": "Precio pedido de US$5400 está por encima del valor de venta cerrada estimado para esta referencia de segunda mano con caja y papeles, en estado Good."
+  },
+  "motivo": "triage: Precio pedido de US$5400 está por encima del valor de venta cerrada estimado para esta referencia de segunda mano con caja y papeles, en estado Good. (justo 4200)"
+ },
+ {
+  "fecha": "2026-10-29T20:08:41.778525+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Old Navitimer II Chronograph Stainless Steel/Yellow Gold Ref.D13022",
+  "total": 5525.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407325282940",
+  "item_id": "v1|407325282940|0",
+  "referencia": "D13022",
+  "mercado": {
+   "n": 3,
+   "p25": 2500,
+   "mediana": 2810
+  },
+  "triage": {
+   "modelo": "Breitling Old Navitimer II Chronograph, acero y oro amarillo",
+   "referencia": "D13022",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Precio pedido de US$5525 por encima del valor de venta cerrada para esta referencia bicolor en estado Good; no parece una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$5525 por encima del valor de venta cerrada para esta referencia bicolor en estado Good; no parece una oportunidad. (justo 3200)"
+ },
+ {
+  "fecha": "2026-10-29T20:08:41.778525+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Aquaracer Diver Chronograph Calibre 16 CAY2112 Men's Watch 300M Auto",
+  "total": 1515.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117493256315",
+  "item_id": "v1|117493256315|0",
+  "referencia": "CAY2112",
+  "mercado": {
+   "n": 1,
+   "p25": 1599,
+   "mediana": 1599
+  },
+  "triage": {
+   "modelo": "TAG Heuer Aquaracer Calibre 16 Chronograph (acero, esfera azul, 43 mm, 300 M)",
+   "referencia": "CAY2112",
+   "precio_justo_usd": 1350,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de reventa estimado para estado Good sin confirmar caja ni papeles; no hay margen de compra."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de reventa estimado para estado Good sin confirmar caja ni papeles; no hay margen de compra. (justo 1350)"
  }
 ]
