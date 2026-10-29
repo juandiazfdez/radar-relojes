@@ -840,10 +840,10 @@
   "max": 9470
  },
  "Cartier WSSA0037|usado": {
-  "fecha": "2026-10-28",
+  "fecha": "2026-10-29",
   "consulta": "Cartier WSSA0037",
-  "n": 9,
-  "mediana": 8500,
+  "n": 10,
+  "mediana": 8462,
   "p25": 7995,
   "p75": 8950,
   "min": 7032,
@@ -1295,10 +1295,10 @@
   "max": 35888
  },
  "Rolex 134300|nuevo": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-29",
   "consulta": "Rolex 134300",
-  "n": 42,
-  "mediana": 12136,
+  "n": 40,
+  "mediana": 12049,
   "p25": 11299,
   "p75": 13244,
   "min": 9999,
@@ -7680,13 +7680,13 @@
   "max": 5299
  },
  "Tudor M79830RB|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-29",
   "consulta": "Tudor M79830RB",
-  "n": 15,
-  "mediana": 4300,
-  "p25": 4155,
+  "n": 17,
+  "mediana": 4297,
+  "p25": 4000,
   "p75": 4767,
-  "min": 3750,
+  "min": 3695,
   "max": 5625
  },
  "Tudor 73091|usado": {
@@ -7760,7 +7760,7 @@
   "max": 2850
  },
  "Tudor 25600TB|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-29",
   "consulta": "Tudor 25600TB",
   "n": 5,
   "mediana": 4600,
@@ -15998,5 +15998,25 @@
   "fecha": "2026-10-29",
   "consulta": "Jaeger-LeCoultre Q9028651",
   "n": 0
+ },
+ "Cartier WSSA0030|nuevo": {
+  "fecha": "2026-10-29",
+  "consulta": "Cartier WSSA0030",
+  "n": 4,
+  "mediana": 8400,
+  "p25": 8305,
+  "p75": 8663,
+  "min": 7999,
+  "max": 8663
+ },
+ "TAG Heuer CV2113|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer CV2113",
+  "n": 3,
+  "mediana": 3225,
+  "p25": 3200,
+  "p75": 3674,
+  "min": 3200,
+  "max": 3674
  }
 }
