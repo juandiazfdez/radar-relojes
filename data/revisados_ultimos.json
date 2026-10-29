@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-10-28T03:37:26.976388+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX Submariner 124060 41mm . First Owner, Full Set",
-  "total": 12780.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287685927007",
-  "item_id": "v1|287685927007|0",
-  "referencia": "124060",
-  "mercado": {
-   "n": 45,
-   "p25": 13590,
-   "mediana": 14250
-  },
-  "ratio_mercado": 0.94,
-  "motivo": "precio normal (94 % del cuartil bajo de 124060)"
- },
- {
   "fecha": "2026-10-28T03:52:27.137859+00:00",
   "marca": "TAG Heuer",
   "titulo": "TAG Heuer Carrera WV2115 Twin-Time Black Automatic 39mm Date Swiss Made ",
@@ -11345,5 +11328,22 @@
    "nota": "Precio pedido unos 5 % por encima del valor de venta cerrada estimado; sin referencia ni caja y papeles confirmados, no cumple el margen del 15 %."
   },
   "motivo": "triage: Precio pedido unos 5 % por encima del valor de venta cerrada estimado; sin referencia ni caja y papeles confirmados, no cumple el margen del 15 %. (justo 6000)"
+ },
+ {
+  "fecha": "2026-10-29T06:23:20.471115+00:00",
+  "marca": "Jaeger-LeCoultre",
+  "titulo": "Full Set2023 Jaeger-LeCoultre Master Ultra Q1378420  JLC Ultra Thin 39mm-",
+  "total": 7495.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820290465017",
+  "item_id": "v1|820290465017|0",
+  "referencia": "Q1378420",
+  "mercado": {
+   "n": 6,
+   "p25": 6997,
+   "mediana": 7605
+  },
+  "ratio_mercado": 1.071,
+  "motivo": "precio normal (107 % del cuartil bajo de Q1378420)"
  }
 ]
