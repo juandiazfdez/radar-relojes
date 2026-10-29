@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-28T03:52:27.137859+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG Heuer WL1180.FT6000 Mens Kirium Watch Black Rubber Carbon Titanium Ti5",
-  "total": 585.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960124942259",
-  "item_id": "v1|960124942259|0",
-  "referencia": "WL1180.FT6000",
-  "mercado": {
-   "n": 5,
-   "p25": 575,
-   "mediana": 600
-  },
-  "ratio_mercado": 1.017,
-  "motivo": "precio normal (102 % del cuartil bajo de WL1180.FT6000)"
- },
- {
-  "fecha": "2026-10-28T03:52:27.137859+00:00",
-  "marca": "TAG Heuer",
   "titulo": "TAG Heuer WAF1011.FT8010 Mens Aquaracer Series Quartz Watch Silver Black Rubber",
   "total": 970.0,
   "condicion": "Pre-owned - Good",
@@ -11308,5 +11291,22 @@
   },
   "ratio_mercado": 0.969,
   "motivo": "precio normal (97 % del cuartil bajo de W2609156)"
+ },
+ {
+  "fecha": "2026-10-29T09:23:20.243540+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yellow Gold Submariner 41mm 126618LB Bluesy 2023 ",
+  "total": 39999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147656526737",
+  "item_id": "v1|147656526737|0",
+  "referencia": "126618LB",
+  "mercado": {
+   "n": 17,
+   "p25": 43500,
+   "mediana": 44015
+  },
+  "ratio_mercado": 0.92,
+  "motivo": "precio normal (92 % del cuartil bajo de 126618LB)"
  }
 ]
