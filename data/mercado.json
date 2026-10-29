@@ -11800,7 +11800,7 @@
   "n": 0
  },
  "Omega 227.90.55.21.01.001|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-29",
   "consulta": "Omega 227.90.55.21.01.001",
   "n": 0
  },
@@ -15873,5 +15873,35 @@
   "p75": 1303,
   "min": 699,
   "max": 1895
+ },
+ "Panerai PAM292|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Panerai PAM292",
+  "n": 3,
+  "mediana": 5035,
+  "p25": 4895,
+  "p75": 8296,
+  "min": 4895,
+  "max": 8296
+ },
+ "Breitling A23380|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Breitling A23380",
+  "n": 4,
+  "mediana": 4875,
+  "p25": 4350,
+  "p75": 6100,
+  "min": 4000,
+  "max": 6100
+ },
+ "TAG Heuer CBL2182|nuevo": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer CBL2182",
+  "n": 2,
+  "mediana": 10392,
+  "p25": 8465,
+  "p75": 12320,
+  "min": 8465,
+  "max": 12320
  }
 }
