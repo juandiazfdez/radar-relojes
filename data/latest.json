@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T15:53:42.700295+00:00",
+ "actualizado": "2026-10-29T16:08:43.643529+00:00",
  "ventana_horas": 2.0,
  "marcas": [
   "Rolex",
@@ -14,13 +14,15 @@
   "IWC"
  ],
  "corrida": {
-  "nuevos_vistos": 14,
+  "nuevos_vistos": 22,
   "descartes": {
    "titulo": 9,
-   "triage": 5
+   "triage": 9,
+   "precio_normal": 2,
+   "vendedor": 1
   },
-  "alertas_nuevas": 0,
-  "llamadas_ebay": 14,
+  "alertas_nuevas": 1,
+  "llamadas_ebay": 18,
   "cuota_agotada": false
  },
  "alertas_hoy": [
@@ -92,6 +94,83 @@
     ],
     "precio_justo_usd": 1800,
     "precio_reventa_rd_usd": 2000
+   },
+   "ratio_justo": 0.833
+  },
+  {
+   "fecha": "2026-10-29T16:08:43.643529+00:00",
+   "marca": "Breitling",
+   "titulo": "Breitling Superocean II Automatic 46 Black Steel DLC Mens Watch - M17368B71B1S1",
+   "precio": 2499.99,
+   "envio": 0.0,
+   "total": 2499.99,
+   "mercado": {
+    "fecha": "2026-10-29",
+    "consulta": "Breitling M17368",
+    "n": 8,
+    "mediana": 4010,
+    "p25": 3800,
+    "p75": 4278,
+    "min": 3049,
+    "max": 4895
+   },
+   "triage": {
+    "modelo": "Breitling Superocean II Automatic 46 Black Steel DLC",
+    "referencia": "M17368B71B1S1",
+    "precio_justo_usd": 3500,
+    "interesante": true,
+    "nota": "Precio de venta cerrada de segunda mano estimado para esta referencia con caja y papeles. Verificar autenticidad, papeles y estado antes de comprar."
+   },
+   "vendedor": "cashinnsouth",
+   "valoraciones": 14424,
+   "pct_positivo": "100.0",
+   "url": "https://www.ebay.com/itm/117492953918",
+   "item_id": "v1|117492953918|0",
+   "info": {
+    "departamento": "Men",
+    "referencia": "M17368B71B1S1, M17368",
+    "modelo_esp": "Breitling Superocean",
+    "caja_mm": "46 mm",
+    "material": "Stainless Steel",
+    "ano": "2010-2019",
+    "movimiento": "Mechanical (Automatic)",
+    "caja_original": "Yes",
+    "papeles": "Yes",
+    "condicion": "Pre-owned - Good",
+    "condicion_id": "3000",
+    "condicion_desc": "Pre-Owned in Good Condition, as you can see from the pictures this watch has noticeable scratching around the case and on the sapphire crystal but the watch functions perfectly as it should with no internal damage at all. This watch is a FULL SET and includes everything shown in the pictures. Please review pictures thoroughly prior to purchasing.",
+    "garantia_autenticidad": false,
+    "devoluciones": true,
+    "amarillas": [
+     "scratch"
+    ],
+    "imagenes": [
+     "https://i.ebayimg.com/images/g/SRQAAeSwjIZpFgFI/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/eZEAAeSwEgFpFgF2/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/ikoAAeSwULVpFgF2/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/bf4AAeSwbrVpFgF2/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/2qoAAeSwsVtpFgF2/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/gbAAAeSwMYZpFgF2/s-l1600.jpg"
+    ]
+   },
+   "claude": {
+    "veredicto": "dudoso",
+    "modelo": "Breitling Superocean II 46 Black Steel DLC (M17368B71B1S1) automático, caja de 46 mm, correa de caucho negra",
+    "estado": "Usado, desgaste visible: DLC rayado en caja y bisel, rayones en el zafiro; funciona según el vendedor",
+    "riesgo_autenticidad": "bajo",
+    "completo": false,
+    "razones": [
+     "A US$2,500 está solo ~15-20% bajo un precio justo realista de ~US$3,000 para esta referencia usada con caja. Con el desgaste que se ve, el margen no es claramente bueno.",
+     "Los comparables de eBay (cuartil bajo 3800, mediana 4010) son precios pedidos e inflados. El triage de 3500 asume caja y papeles en buen estado, y aquí el estado es peor que 'bueno'.",
+     "El estado es el punto débil. El DLC está desgastado en los bordes del bisel, en las asas, en la corona y en el lateral de la caja, con rayones claros. El cristal tiene marcas visibles sobre la esfera. Rehacer el DLC o pulir es caro o inviable, y eso resta valor a la reventa.",
+     "Los detalles de autenticidad son coherentes. La esfera tiene logo alado y 'BREITLING 1884', 'Superocean Chronometer 2000M/6600FT', fecha a las 3 con índice luminoso y triángulo rojo en el segundero. El bisel tiene numeración 15/30/45, la corona lleva el logo B y la correa de caucho tiene 'BREITLING' en relieve. Se ven la caja azul, la etiqueta COSC y el estuche de cuero. El vendedor tiene 14,424 valoraciones con 100% positivo y acepta devoluciones.",
+     "Faltan fotos del fondo de caja (número de serie y referencia grabados) y del movimiento (calibre B17). No se puede verificar que la serie corresponda a la referencia ni a los papeles.",
+     "Dice 'FULL SET', pero no se ven la tarjeta de garantía ni el manual en las fotos. Habría que pedir foto de la tarjeta con serie y fecha, y del cierre desplegable o hebilla de la correa, que tampoco se ven.",
+     "No ofrece garantía de autenticidad. Si se compra, hay que hacerlo con devolución y verificar serie, tarjeta y funcionamiento (precisión, rotación del bisel, hermeticidad de la corona) al recibirlo.",
+     "Opción de compra: ofertar ~US$2,100-2,200 si el vendedor envía fotos del fondo de caja y de la tarjeta. A 2,500 el margen es escaso."
+    ],
+    "precio_justo_usd": 3000,
+    "precio_reventa_rd_usd": 3300
    },
    "ratio_justo": 0.833
   }
