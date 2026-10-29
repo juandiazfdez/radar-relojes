@@ -5300,14 +5300,14 @@
   "max": 5000
  },
  "Cartier WSBB0048|usado": {
-  "fecha": "2026-10-22",
+  "fecha": "2026-10-29",
   "consulta": "Cartier WSBB0048",
-  "n": 1,
-  "mediana": 5500,
+  "n": 2,
+  "mediana": 5750,
   "p25": 5500,
-  "p75": 5500,
+  "p75": 6000,
   "min": 5500,
-  "max": 5500
+  "max": 6000
  },
  "Panerai PAM5218|nuevo": {
   "fecha": "2026-10-22",
@@ -6115,14 +6115,14 @@
   "max": 4858
  },
  "Rolex 116660|usado": {
-  "fecha": "2026-10-28",
+  "fecha": "2026-10-29",
   "consulta": "Rolex 116660",
-  "n": 46,
-  "mediana": 11643,
-  "p25": 10185,
-  "p75": 12990,
+  "n": 47,
+  "mediana": 11878,
+  "p25": 10050,
+  "p75": 13000,
   "min": 8699,
-  "max": 13910
+  "max": 13995
  },
  "Rolex 5500|usado": {
   "fecha": "2026-10-27",
@@ -15498,5 +15498,25 @@
   "fecha": "2026-10-29",
   "consulta": "TAG Heuer CS1111",
   "n": 0
+ },
+ "Tudor 76100|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Tudor 76100",
+  "n": 4,
+  "mediana": 9760,
+  "p25": 9500,
+  "p75": 11995,
+  "min": 7280,
+  "max": 11995
+ },
+ "Panerai PAM00424|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Panerai PAM00424",
+  "n": 7,
+  "mediana": 5425,
+  "p25": 5084,
+  "p75": 5975,
+  "min": 4253,
+  "max": 6590
  }
 }
