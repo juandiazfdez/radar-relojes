@@ -2290,9 +2290,14 @@
   "max": 6995
  },
  "Omega 2210.52.00|usado": {
-  "fecha": "2026-10-20",
+  "fecha": "2026-10-29",
   "consulta": "Omega 2210.52.00",
-  "n": 0
+  "n": 1,
+  "mediana": 6035,
+  "p25": 6035,
+  "p75": 6035,
+  "min": 6035,
+  "max": 6035
  },
  "Omega 215.92.46.22.01.002|usado": {
   "fecha": "2026-10-20",
@@ -6125,12 +6130,12 @@
   "max": 13995
  },
  "Rolex 5500|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-29",
   "consulta": "Rolex 5500",
-  "n": 25,
-  "mediana": 4450,
+  "n": 24,
+  "mediana": 4470,
   "p25": 4000,
-  "p75": 4590,
+  "p75": 4699,
   "min": 1051,
   "max": 5700
  },
@@ -16753,5 +16758,80 @@
   "p75": 6975,
   "min": 4175,
   "max": 22245
+ },
+ "Cartier W3BB0004|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Cartier W3BB0004",
+  "n": 0
+ },
+ "Tudor 79230B|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Tudor 79230B",
+  "n": 6,
+  "mediana": 3662,
+  "p25": 3565,
+  "p75": 3750,
+  "min": 3450,
+  "max": 4074
+ },
+ "Panerai PAM00557|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Panerai PAM00557",
+  "n": 1,
+  "mediana": 7535,
+  "p25": 7535,
+  "p75": 7535,
+  "min": 7535,
+  "max": 7535
+ },
+ "Panerai PAM00383|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Panerai PAM00383",
+  "n": 1,
+  "mediana": 12045,
+  "p25": 12045,
+  "p75": 12045,
+  "min": 12045,
+  "max": 12045
+ },
+ "Breitling EB5510|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Breitling EB5510",
+  "n": 2,
+  "mediana": 4216,
+  "p25": 3538,
+  "p75": 4894,
+  "min": 3538,
+  "max": 4894
+ },
+ "Breitling R21330|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Breitling R21330",
+  "n": 3,
+  "mediana": 13035,
+  "p25": 12564,
+  "p75": 18445,
+  "min": 12564,
+  "max": 18445
+ },
+ "TAG Heuer CBL2183|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer CBL2183",
+  "n": 3,
+  "mediana": 8600,
+  "p25": 8535,
+  "p75": 8950,
+  "min": 8535,
+  "max": 8950
+ },
+ "IWC IW387804|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "IWC IW387804",
+  "n": 6,
+  "mediana": 5285,
+  "p25": 5035,
+  "p75": 7995,
+  "min": 4575,
+  "max": 8895
  }
 }
