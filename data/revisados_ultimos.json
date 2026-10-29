@@ -1,136 +1,5 @@
 [
  {
-  "fecha": "2026-10-28T18:37:59.678284+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Pelagos LHD 42mm Titanium M25610TNL-0001",
-  "total": 4695.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880059674393",
-  "item_id": "v1|880059674393|0",
-  "triage": {
-   "modelo": "Tudor Pelagos 42 mm titanio (LHD, bisel negro, esfera negra)",
-   "referencia": "M25610TNL-0001",
-   "precio_justo_usd": 3700,
-   "interesante": false,
-   "nota": "Precio pedido por encima del mercado secundario para esta referencia nueva con caja y papeles; no hay descuento frente a lo que se vende hoy."
-  },
-  "motivo": "triage: Precio pedido por encima del mercado secundario para esta referencia nueva con caja y papeles; no hay descuento frente a lo que se vende hoy. (justo 3700)"
- },
- {
-  "fecha": "2026-10-28T18:52:59.633584+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Ref 1625 Turn-O-Graph Thunderbird 18k SS 1960s Mens 36mm Automatic RA669S",
-  "total": 9800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267826488690",
-  "item_id": "v1|267826488690|0",
-  "triage": {
-   "modelo": "Rolex Datejust Turn-O-Graph (Thunderbird) de acero, años 1960-70, 36 mm, automático",
-   "referencia": "1625",
-   "precio_justo_usd": 7000,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta cerrada estimado. El título menciona 'RA669S' y '18k SS', que no son datos normales para esta referencia; verificar autenticidad, esfera y papeles antes de considerar la compra."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado. El título menciona 'RA669S' y '18k SS', que no son datos normales para esta referencia; verificar autenticidad, esfera y papeles antes de considerar la compra. (justo 7000)"
- },
- {
-  "fecha": "2026-10-28T18:52:59.633584+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sky-Dweller Yellow Gold Oysterflex Mens Watch 326238 Box Card",
-  "total": 41830.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257822268190",
-  "item_id": "v1|257822268190|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller oro amarillo con Oysterflex, esfera blanca, bisel acanalado",
-   "referencia": "326238",
-   "precio_justo_usd": 39000,
-   "interesante": false,
-   "nota": "Precio pedido de US$41.830 está por encima del valor de venta cerrada estimado para esta referencia con caja y tarjeta; no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido de US$41.830 está por encima del valor de venta cerrada estimado para esta referencia con caja y tarjeta; no hay descuento suficiente. (justo 39000)"
- },
- {
-  "fecha": "2026-10-28T18:52:59.633584+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 1989 Rolex Lady Datejust 69173 Two-Tone Champagne Tapestry Auto 26mm",
-  "total": 7699.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128161379322",
-  "item_id": "v1|128161379322|0",
-  "referencia": "69173",
-  "mercado": {
-   "n": 23,
-   "p25": 4259,
-   "mediana": 4778
-  },
-  "ratio_mercado": 1.808,
-  "motivo": "precio normal (181 % del cuartil bajo de 69173)"
- },
- {
-  "fecha": "2026-10-28T18:52:59.633584+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Fifty-Eight 39mm Yellow Gold Auto Green Watch 79018V",
-  "total": 12000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287687679725",
-  "item_id": "v1|287687679725|0",
-  "referencia": "79018V",
-  "mercado": {
-   "n": 2,
-   "p25": 13450,
-   "mediana": 13850
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay Fifty-Eight 39mm, esfera y bisel verdes",
-   "referencia": "79018V según el título; la foto parece la variante de bronce M79012M",
-   "precio_justo_usd": 8500,
-   "interesante": false,
-   "nota": "El título dice oro amarillo de 18k, pero la caja de la foto parece bronce, así que la referencia no cuadra. Aun como oro de 18k, US$12.000 queda muy por encima del mercado de segunda mano; como bronce sería mucho más."
-  },
-  "motivo": "triage: El título dice oro amarillo de 18k, pero la caja de la foto parece bronce, así que la referencia no cuadra. Aun como oro de 18k, US$12.000 queda muy por encima del mercado de segunda mano; como bronce sería mucho más. (justo 8500)"
- },
- {
-  "fecha": "2026-10-28T18:52:59.633584+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay 58 925 39mm Sterling Silver M79010SG-0001",
-  "total": 4395.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880059681972",
-  "item_id": "v1|880059681972|0",
-  "referencia": "M79010SG-0001",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay 58 925 (plata esterlina)",
-   "referencia": "M79010SG-0001",
-   "precio_justo_usd": 3700,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de reventa estimado para un BB58 925 nuevo con caja y papeles; no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de reventa estimado para un BB58 925 nuevo con caja y papeles; no hay descuento suficiente. (justo 3700)"
- },
- {
-  "fecha": "2026-10-28T18:52:59.633584+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster 300 Unit Watch",
-  "total": 15100.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198752732309",
-  "item_id": "v1|198752732309|0",
-  "triage": {
-   "modelo": "Omega Seamaster Diver 300M (posible 007 / línea moderna, esfera negra)",
-   "referencia": "210.32.42.20.01.001 (probable, no verificable en la foto)",
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "Precio pedido muy superior al valor de mercado para un Seamaster 300 moderno usado; el título 'Unit Watch' es confuso y no se ven caja ni papeles."
-  },
-  "motivo": "triage: Precio pedido muy superior al valor de mercado para un Seamaster 300 moderno usado; el título 'Unit Watch' es confuso y no se ven caja ni papeles. (justo 4300)"
- },
- {
   "fecha": "2026-10-28T18:52:59.633584+00:00",
   "marca": "Omega",
   "titulo": "OMEGA SEAMASTER PROFESSIONAL 2531.80 MENS DIVE WATCH 1997 James Bond era -b427",
@@ -11521,5 +11390,136 @@
    "nota": "Precio pedido por encima de la estimación de venta real para oro rosa con cronógrafo y esfera esqueleto; la referencia debe verificarse con papeles."
   },
   "motivo": "triage: Precio pedido por encima de la estimación de venta real para oro rosa con cronógrafo y esfera esqueleto; la referencia debe verificarse con papeles. (justo 33000)"
+ },
+ {
+  "fecha": "2026-10-29T19:38:42.339782+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Air King Steel White Gold Mens Watch 114234",
+  "total": 6870.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336869356004",
+  "item_id": "v1|336869356004|0",
+  "referencia": "114234",
+  "mercado": {
+   "n": 6,
+   "p25": 5798,
+   "mediana": 7612
+  },
+  "ratio_mercado": 1.185,
+  "motivo": "precio normal (118 % del cuartil bajo de 114234)"
+ },
+ {
+  "fecha": "2026-10-29T19:38:42.339782+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT Master II \"Sprite\" Green Left hand Oyster 40 mm Oystersteel 126720VTNR",
+  "total": 17220.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267827504637",
+  "item_id": "v1|267827504637|0",
+  "referencia": "126720VTNR",
+  "mercado": {
+   "n": 90,
+   "p25": 17999,
+   "mediana": 18524
+  },
+  "ratio_mercado": 0.957,
+  "motivo": "precio normal (96 % del cuartil bajo de 126720VTNR)"
+ },
+ {
+  "fecha": "2026-10-29T19:38:42.339782+00:00",
+  "marca": "Rolex",
+  "titulo": "2012 Rolex Day-Date II President 218235 41mm Chocolate Wave 18K Gold Box Papers",
+  "total": 39773.71,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900049519808",
+  "item_id": "v1|900049519808|0",
+  "referencia": "218235",
+  "mercado": {
+   "n": 16,
+   "p25": 40392,
+   "mediana": 42745
+  },
+  "ratio_mercado": 0.985,
+  "motivo": "precio normal (98 % del cuartil bajo de 218235)"
+ },
+ {
+  "fecha": "2026-10-29T19:38:42.339782+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona 2026 AUGUST UNWORN 126508 Green John Mayer 2.0 Oyster Gold",
+  "total": 91900.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840072418616",
+  "item_id": "v1|840072418616|0",
+  "referencia": "126508",
+  "mercado": {
+   "n": 11,
+   "p25": 87499,
+   "mediana": 87995
+  },
+  "ratio_mercado": 1.05,
+  "motivo": "precio normal (105 % del cuartil bajo de 126508)"
+ },
+ {
+  "fecha": "2026-10-29T19:38:42.339782+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 41",
+  "total": 4900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137884760081",
+  "item_id": "v1|137884760081|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 41 (la imagen solo muestra la caja, no el reloj)",
+   "referencia": null,
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "Solo se ve la caja blanca; no se puede confirmar la referencia ni el estado. El precio pedido está muy por encima del valor de mercado de una BB41 de acero usada."
+  },
+  "motivo": "triage: Solo se ve la caja blanca; no se puede confirmar la referencia ni el estado. El precio pedido está muy por encima del valor de mercado de una BB41 de acero usada. (justo 3400)"
+ },
+ {
+  "fecha": "2026-10-29T19:38:42.339782+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Planet Ocean Skyfall 232.30.42.21.01.004 Box and Papers",
+  "total": 6495.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227589021420",
+  "item_id": "v1|227589021420|0",
+  "referencia": "232.30.42.21.01.004",
+  "mercado": {
+   "n": 1,
+   "p25": 6623,
+   "mediana": 6623
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Planet Ocean 600M Co-Axial 42 mm, esfera negra, acero (el título menciona 'Skyfall', pero la referencia corresponde a la versión estándar)",
+   "referencia": "232.30.42.21.01.004",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Referencia estándar de 42 mm; el título 'Skyfall' no coincide con esa referencia, así que hay que verificar el modelo. Con caja y papeles, a 6495 USD está por encima del mercado."
+  },
+  "motivo": "triage: Referencia estándar de 42 mm; el título 'Skyfall' no coincide con esa referencia, así que hay que verificar el modelo. Con caja y papeles, a 6495 USD está por encima del mercado. (justo 5000)"
+ },
+ {
+  "fecha": "2026-10-29T19:38:42.339782+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Aerospace F56062 40mm Titanium & Gold, Gray Dial, Watch-Only, New Batt",
+  "total": 2025.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198755337805",
+  "item_id": "v1|198755337805|0",
+  "referencia": "F56062",
+  "mercado": {
+   "n": 4,
+   "p25": 1970,
+   "mediana": 2285
+  },
+  "triage": {
+   "modelo": "Breitling Aerospace (titanio y oro, esfera gris/negra con pantalla LCD y cronógrafo digital)",
+   "referencia": "F56062",
+   "precio_justo_usd": 1000,
+   "interesante": false,
+   "nota": "Solo reloj, sin caja ni papeles; el precio pedido de US$2025 supera con creces el valor de venta real de esta referencia en ese estado."
+  },
+  "motivo": "triage: Solo reloj, sin caja ni papeles; el precio pedido de US$2025 supera con creces el valor de venta real de esta referencia en ese estado. (justo 1000)"
  }
 ]
