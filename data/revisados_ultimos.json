@@ -1,57 +1,6 @@
 [
  {
   "fecha": "2026-10-28T06:22:36.449645+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner HULK Oyster Bracelet 116610LV Complete with 2017 Papers",
-  "total": 24510.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940047270525",
-  "item_id": "v1|940047270525|0",
-  "referencia": "116610LV",
-  "mercado": {
-   "n": 33,
-   "p25": 19850,
-   "mediana": 20997
-  },
-  "ratio_mercado": 1.235,
-  "motivo": "precio normal (123 % del cuartil bajo de 116610LV)"
- },
- {
-  "fecha": "2026-10-28T06:22:36.449645+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex Cosmograph Daytona Panda 40mm, Black, Full Set, 126500LN New Card",
-  "total": 43775.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/940047270476",
-  "item_id": "v1|940047270476|0",
-  "referencia": "126500LN",
-  "mercado": {
-   "n": 22,
-   "p25": 34000,
-   "mediana": 36679
-  },
-  "ratio_mercado": 1.288,
-  "motivo": "precio normal (129 % del cuartil bajo de 126500LN)"
- },
- {
-  "fecha": "2026-10-28T06:22:36.449645+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date Just 26mm 18K Yellow Gold Two-Tone Watch 79173",
-  "total": 6965.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940047295718",
-  "item_id": "v1|940047295718|0",
-  "triage": {
-   "modelo": "Rolex Lady-Datejust 26 mm, acero y oro amarillo 18k (two-tone), bisel acanalado",
-   "referencia": "79173",
-   "precio_justo_usd": 5800,
-   "interesante": false,
-   "nota": "Referencia 79173 de aproximadamente 1997-2009; precio de venta cerrada estimado sin caja ni papeles. El precio pedido de $6,965 queda por encima del mercado. Verificar la esfera y la fecha."
-  },
-  "motivo": "triage: Referencia 79173 de aproximadamente 1997-2009; precio de venta cerrada estimado sin caja ni papeles. El precio pedido de $6,965 queda por encima del mercado. Verificar la esfera y la fecha. (justo 5800)"
- },
- {
-  "fecha": "2026-10-28T06:22:36.449645+00:00",
   "marca": "Cartier",
   "titulo": "Stainless Steel Cartier Tank Solo Python Snake W5200021 Large Model Watch",
   "total": 5230.0,
@@ -11284,5 +11233,62 @@
    "nota": "Precio pedido bastante por encima del valor de reventa de un Ladymatic de oro rosa con diamantes en estado usado; el listado no ofrece ventaja."
   },
   "motivo": "triage: Precio pedido bastante por encima del valor de reventa de un Ladymatic de oro rosa con diamantes en estado usado; el listado no ofrece ventaja. (justo 11500)"
+ },
+ {
+  "fecha": "2026-10-29T13:23:31.053687+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Ladies Date Model 69160 Jubilee Bracelet Stainless Steel Watch",
+  "total": 4150.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377605798368",
+  "item_id": "v1|377605798368|0",
+  "referencia": "69160",
+  "mercado": {
+   "n": 8,
+   "p25": 4269,
+   "mediana": 4868
+  },
+  "ratio_mercado": 0.972,
+  "motivo": "precio normal (97 % del cuartil bajo de 69160)"
+ },
+ {
+  "fecha": "2026-10-29T13:23:31.053687+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos de Cartier WSSA0029",
+  "total": 7500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147656763763",
+  "item_id": "v1|147656763763|0",
+  "referencia": "WSSA0029",
+  "mercado": {
+   "n": 9,
+   "p25": 7350,
+   "mediana": 7750
+  },
+  "ratio_mercado": 1.02,
+  "motivo": "precio normal (102 % del cuartil bajo de WSSA0029)"
+ },
+ {
+  "fecha": "2026-10-29T13:23:31.053687+00:00",
+  "marca": "Cartier",
+  "titulo": "CARTIER TANK MUST Photovoltaic Solarbeat WSTA0060 29x22mm Stainless Steel Watch",
+  "total": 4199.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128162539604",
+  "item_id": "v1|128162539604|0",
+  "referencia": "WSTA0060",
+  "mercado": {
+   "n": 2,
+   "p25": 3400,
+   "mediana": 3475
+  },
+  "triage": {
+   "modelo": "Cartier Tank Must Solarbeat (acero, 29x22 mm, cuarzo solar)",
+   "referencia": "WSTA0060",
+   "precio_justo_usd": 1400,
+   "interesante": false,
+   "nota": "Precio pedido de US$4199 muy por encima del valor de mercado usado (aprox. US$1300-1600 según estado, caja y papeles) y del retail actual de este modelo; no es oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$4199 muy por encima del valor de mercado usado (aprox. US$1300-1600 según estado, caja y papeles) y del retail actual de este modelo; no es oportunidad. (justo 1400)"
  }
 ]

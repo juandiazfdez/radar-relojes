@@ -7575,11 +7575,11 @@
   "max": 7125
  },
  "Cartier WSSA0029|usado": {
-  "fecha": "2026-10-28",
+  "fecha": "2026-10-29",
   "consulta": "Cartier WSSA0029",
   "n": 9,
   "mediana": 7750,
-  "p25": 7525,
+  "p25": 7350,
   "p75": 8346,
   "min": 6460,
   "max": 12495
@@ -15658,5 +15658,25 @@
   "p75": 14468,
   "min": 14468,
   "max": 14468
+ },
+ "Rolex 69160|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Rolex 69160",
+  "n": 8,
+  "mediana": 4868,
+  "p25": 4269,
+  "p75": 5085,
+  "min": 3900,
+  "max": 7500
+ },
+ "Cartier WSTA0060|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Cartier WSTA0060",
+  "n": 2,
+  "mediana": 3475,
+  "p25": 3400,
+  "p75": 3550,
+  "min": 3400,
+  "max": 3550
  }
 }
