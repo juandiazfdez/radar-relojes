@@ -2,29 +2,6 @@
  {
   "fecha": "2026-10-28T03:52:27.137859+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG Heuer 959.706 Mens 1500 Jumbo Series Professional Quartz Brown Watch BA0606",
-  "total": 615.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960124942211",
-  "item_id": "v1|960124942211|0",
-  "referencia": "BA0606",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "TAG Heuer 1500 Series \"Jumbo\" Professional Quartz (cronógrafo de cuarzo, esfera marrón, brazalete de acero)",
-   "referencia": "959.706 / BA0606 (según título del listado, no verificable en la foto)",
-   "precio_justo_usd": 350,
-   "interesante": false,
-   "nota": "Cuarzo de la serie 1500 de uso, condición Good; el precio pedido de 615 USD queda muy por encima de lo que se vende realmente, y la referencia no se puede confirmar con la imagen."
-  },
-  "motivo": "triage: Cuarzo de la serie 1500 de uso, condición Good; el precio pedido de 615 USD queda muy por encima de lo que se vende realmente, y la referencia no se puede confirmar con la imagen. (justo 350)"
- },
- {
-  "fecha": "2026-10-28T03:52:27.137859+00:00",
-  "marca": "TAG Heuer",
   "titulo": "TAG Heuer CL111A.BA0700 Mens Kirium Digital Analog Chronograph Watch Black 200M",
   "total": 655.0,
   "condicion": "Pre-owned - Good",
@@ -11326,5 +11303,28 @@
    "nota": "Precio pedido de 7415 USD por encima del valor estimado de venta cerrada para este modelo en estado excelente con caja y papeles; no hay descuento suficiente."
   },
   "motivo": "triage: Precio pedido de 7415 USD por encima del valor estimado de venta cerrada para este modelo en estado excelente con caja y papeles; no hay descuento suficiente. (justo 6600)"
+ },
+ {
+  "fecha": "2026-10-29T08:23:19.831220+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Rotonde de Cartier Cadran Lové Reversed Tourbillon W1556214 LTD $151k LN",
+  "total": 87090.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336868522238",
+  "item_id": "v1|336868522238|0",
+  "referencia": "W1556214",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Rotonde de Cartier Cadran Lové Reversed Tourbillon (edición limitada, acero)",
+   "referencia": "W1556214",
+   "precio_justo_usd": 100000,
+   "interesante": false,
+   "nota": "Precio pedido ~13% bajo una estimación conservadora de venta real; no cumple el umbral del 15%. La referencia y la edición limitada no pueden verificarse desde la foto, así que conviene pedir papeles y número de serie antes de cualquier decisión."
+  },
+  "motivo": "triage: Precio pedido ~13% bajo una estimación conservadora de venta real; no cumple el umbral del 15%. La referencia y la edición limitada no pueden verificarse desde la foto, así que conviene pedir papeles y número de serie antes de cualquier decisión. (justo 100000)"
  }
 ]
