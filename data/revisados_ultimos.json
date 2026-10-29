@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-10-28T00:37:26.428472+00:00",
-  "marca": "IWC",
-  "titulo": "IWC Pilot’s Watch Chronograph TOP GUN (Reference IW389001)",
-  "total": 6299.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960124398498",
-  "item_id": "v1|960124398498|0",
-  "referencia": "IW389001",
-  "mercado": {
-   "n": 5,
-   "p25": 5492,
-   "mediana": 5500
-  },
-  "ratio_mercado": 1.147,
-  "motivo": "precio normal (115 % del cuartil bajo de IW389001)"
- },
- {
   "fecha": "2026-10-28T00:52:26.911169+00:00",
   "marca": "Cartier",
   "titulo": "Breitling x Cartier 1960's  18K Yellow Gold Ladies Vintage Cocktail Watch 5557",
@@ -11356,5 +11339,28 @@
   },
   "ratio_mercado": 0.936,
   "motivo": "precio normal (94 % del cuartil bajo de X82310)"
+ },
+ {
+  "fecha": "2026-10-29T03:38:11.710474+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor 94500 Prince Date Day Preserved Mens Silver Original Steel Automatic ",
+  "total": 2315.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820289902099",
+  "item_id": "v1|820289902099|0",
+  "referencia": "94500",
+  "mercado": {
+   "n": 1,
+   "p25": 2450,
+   "mediana": 2450
+  },
+  "triage": {
+   "modelo": "Tudor Prince Date Day (Oysterdate, acero, esfera plateada)",
+   "referencia": "94500",
+   "precio_justo_usd": 2000,
+   "interesante": false,
+   "nota": "Precio pedido de 2315 USD con envío queda por encima de la estimación conservadora para esta referencia en estado excelente; no cumple el umbral del 15 % por debajo del mercado."
+  },
+  "motivo": "triage: Precio pedido de 2315 USD con envío queda por encima de la estimación conservadora para esta referencia en estado excelente; no cumple el umbral del 15 % por debajo del mercado. (justo 2000)"
  }
 ]
