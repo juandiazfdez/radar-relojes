@@ -2,69 +2,6 @@
  {
   "fecha": "2026-10-28T03:52:27.137859+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG Heuer CL111A.BA0700 Mens Kirium Digital Analog Chronograph Watch Black 200M",
-  "total": 655.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960124942216",
-  "item_id": "v1|960124942216|0",
-  "referencia": "CL111A.BA0700",
-  "mercado": {
-   "n": 8,
-   "p25": 720,
-   "mediana": 737
-  },
-  "ratio_mercado": 0.91,
-  "motivo": "precio normal (91 % del cuartil bajo de CL111A.BA0700)"
- },
- {
-  "fecha": "2026-10-28T03:52:27.137859+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer WN2312.BA0360 Womens 2000 Series Automatic Watch Silver Steel 200M",
-  "total": 700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960124942227",
-  "item_id": "v1|960124942227|0",
-  "referencia": "WN2312.BA0360",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "TAG Heuer 2000 Series para mujer, esfera plateada, brazalete de acero",
-   "referencia": "WN2312.BA0360 (según el título; no verificable en la foto)",
-   "precio_justo_usd": 400,
-   "interesante": false,
-   "nota": "El título dice automático, pero los 2000 Series femeninos suelen ser cuarzo; confirmar calibre. Aun así, US$700 está por encima de lo que se vende realmente en este estado."
-  },
-  "motivo": "triage: El título dice automático, pero los 2000 Series femeninos suelen ser cuarzo; confirmar calibre. Aun así, US$700 está por encima de lo que se vende realmente en este estado. (justo 400)"
- },
- {
-  "fecha": "2026-10-28T03:52:27.137859+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer WAU1117.BA0858 Mens Indy 500 Formula 1 Series Quartz Watch Gray Silver",
-  "total": 925.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960124942229",
-  "item_id": "v1|960124942229|0",
-  "referencia": "WAU1117.BA0858",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "TAG Heuer Formula 1 Indy 500 Series (cuarzo, acero)",
-   "referencia": "WAU1117.BA0858",
-   "precio_justo_usd": 250,
-   "interesante": false,
-   "nota": "Modelo de cuarzo de acero usado; el precio pedido de US$925 está muy por encima de su valor de reventa."
-  },
-  "motivo": "triage: Modelo de cuarzo de acero usado; el precio pedido de US$925 está muy por encima de su valor de reventa. (justo 250)"
- },
- {
-  "fecha": "2026-10-28T03:52:27.137859+00:00",
-  "marca": "TAG Heuer",
   "titulo": "Pre TAG Heuer 980.038/17 Womens 1000 Series Professional Gold Watch Black Rubber",
   "total": 560.0,
   "condicion": "Pre-owned - Good",
@@ -11326,5 +11263,56 @@
    "nota": "Precio pedido ~13% bajo una estimación conservadora de venta real; no cumple el umbral del 15%. La referencia y la edición limitada no pueden verificarse desde la foto, así que conviene pedir papeles y número de serie antes de cualquier decisión."
   },
   "motivo": "triage: Precio pedido ~13% bajo una estimación conservadora de venta real; no cumple el umbral del 15%. La referencia y la edición limitada no pueden verificarse desde la foto, así que conviene pedir papeles y número de serie antes de cualquier decisión. (justo 100000)"
+ },
+ {
+  "fecha": "2026-10-29T08:38:20.780757+00:00",
+  "marca": "Rolex",
+  "titulo": "2020 CARD ROLEX SEA-DWELLER 126600 BLACK STEEL 50TH ANNIVERSARY RED 43MM WATCH",
+  "total": 13380.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800851088821",
+  "item_id": "v1|800851088821|0",
+  "referencia": "126600",
+  "mercado": {
+   "n": 52,
+   "p25": 13021,
+   "mediana": 14018
+  },
+  "ratio_mercado": 1.028,
+  "motivo": "precio normal (103 % del cuartil bajo de 126600)"
+ },
+ {
+  "fecha": "2026-10-29T08:38:20.780757+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 CARD ROLEX DATEJUST 126231 18K GOLD STEEL 36MM WIMBLEDON JUBILEE WATCH",
+  "total": 18390.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800851088822",
+  "item_id": "v1|800851088822|0",
+  "referencia": "126231",
+  "mercado": {
+   "n": 28,
+   "p25": 16950,
+   "mediana": 17300
+  },
+  "ratio_mercado": 1.085,
+  "motivo": "precio normal (108 % del cuartil bajo de 126231)"
+ },
+ {
+  "fecha": "2026-10-29T08:38:20.780757+00:00",
+  "marca": "Rolex",
+  "titulo": "2022 CARD ROLEX EXPLORER I 224270 BLACK ARABIC 40MM STAINLESS STEEL OYSTER WATCH",
+  "total": 10590.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840070738869",
+  "item_id": "v1|840070738869|0",
+  "referencia": "224270",
+  "mercado": {
+   "n": 16,
+   "p25": 9674,
+   "mediana": 9940
+  },
+  "ratio_mercado": 1.095,
+  "motivo": "precio normal (109 % del cuartil bajo de 224270)"
  }
 ]
