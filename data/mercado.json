@@ -1355,7 +1355,7 @@
   "max": 11890
  },
  "Rolex 16233|usado": {
-  "fecha": "2026-10-28",
+  "fecha": "2026-10-29",
   "consulta": "Rolex 16233",
   "n": 28,
   "mediana": 6152,
@@ -6735,11 +6735,11 @@
   "max": 24499
  },
  "Rolex 179174|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-29",
   "consulta": "Rolex 179174",
   "n": 62,
   "mediana": 9195,
-  "p25": 8400,
+  "p25": 8500,
   "p75": 9478,
   "min": 5850,
   "max": 12999
@@ -16588,5 +16588,50 @@
   "p75": 26950,
   "min": 23648,
   "max": 35895
+ },
+ "Rolex 126500|nuevo": {
+  "fecha": "2026-10-29",
+  "consulta": "Rolex 126500",
+  "n": 28,
+  "mediana": 36679,
+  "p25": 34085,
+  "p75": 39395,
+  "min": 32429,
+  "max": 43775
+ },
+ "Rolex 178274|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Rolex 178274",
+  "n": 52,
+  "mediana": 11674,
+  "p25": 10595,
+  "p75": 11974,
+  "min": 8360,
+  "max": 16646
+ },
+ "Tudor 79280|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Tudor 79280",
+  "n": 9,
+  "mediana": 5113,
+  "p25": 4930,
+  "p75": 7995,
+  "min": 3999,
+  "max": 8215
+ },
+ "Omega 310.60.42.60.10.001|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Omega 310.60.42.60.10.001",
+  "n": 0
+ },
+ "Jaeger-LeCoultre Q3988481|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Jaeger-LeCoultre Q3988481",
+  "n": 0
+ },
+ "Bulgari AUTO42MM|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Bulgari AUTO42MM",
+  "n": 0
  }
 }
