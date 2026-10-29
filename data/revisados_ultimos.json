@@ -1,52 +1,6 @@
 [
  {
   "fecha": "2026-10-28T02:37:26.453447+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Dumont Large W2SA0037 2026 Full Set",
-  "total": 7000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336866602380",
-  "item_id": "v1|336866602380|0",
-  "referencia": "W2SA0037",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Santos-Dumont Large (esfera blanca, caja cuadrada, correa de piel oscura)",
-   "referencia": "W2SA0037",
-   "precio_justo_usd": 6500,
-   "interesante": false,
-   "nota": "Precio de mercado estimado para acero con caja y papeles de uso; el precio pedido no está lo bastante bajo. Confirmar material de caja (acero u oro) en fotos, porque cambia mucho el valor."
-  },
-  "motivo": "triage: Precio de mercado estimado para acero con caja y papeles de uso; el precio pedido no está lo bastante bajo. Confirmar material de caja (acero u oro) en fotos, porque cambia mucho el valor. (justo 6500)"
- },
- {
-  "fecha": "2026-10-28T02:37:26.453447+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Professional 300M Chronometer – Ref. 2531.80 – Factory Serviced",
-  "total": 3025.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920081033469",
-  "item_id": "v1|920081033469|0",
-  "referencia": "2531.80",
-  "mercado": {
-   "n": 4,
-   "p25": 4305,
-   "mediana": 4305
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Professional 300M Chronometer (\"James Bond\" 007)",
-   "referencia": "2531.80",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Acero 41 mm con bisel azul y brazalete; el precio de 3025 USD está apenas ~5 % por debajo de la estimación de venta real, por debajo del umbral del 15 %."
-  },
-  "motivo": "triage: Acero 41 mm con bisel azul y brazalete; el precio de 3025 USD está apenas ~5 % por debajo de la estimación de venta real, por debajo del umbral del 15 %. (justo 3200)"
- },
- {
-  "fecha": "2026-10-28T02:37:26.453447+00:00",
   "marca": "Omega",
   "titulo": "Omega Seamaster Planet Ocean Ref. 232.63.38.20.01.001",
   "total": 15695.0,
@@ -11380,5 +11334,39 @@
   },
   "ratio_mercado": 0.992,
   "motivo": "precio normal (99 % del cuartil bajo de PAM00424)"
+ },
+ {
+  "fecha": "2026-10-29T04:23:20.400255+00:00",
+  "marca": "Rolex",
+  "titulo": "2022 CARD ROLEX 126660 SEA-DWELLER DEEPSEA D-BLUE JAMES CAMERON STEEL 44MM WATCH",
+  "total": 13490.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880060591145",
+  "item_id": "v1|880060591145|0",
+  "referencia": "126660",
+  "mercado": {
+   "n": 77,
+   "p25": 13000,
+   "mediana": 13999
+  },
+  "ratio_mercado": 1.038,
+  "motivo": "precio normal (104 % del cuartil bajo de 126660)"
+ },
+ {
+  "fecha": "2026-10-29T04:23:20.400255+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Memomatic 166.072 Grey Alarm Mens Vintage Automatic Preserved ",
+  "total": 1995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820290021670",
+  "item_id": "v1|820290021670|0",
+  "triage": {
+   "modelo": "Omega Memomatic (alarma, automático, esfera gris)",
+   "referencia": "166.072",
+   "precio_justo_usd": 1000,
+   "interesante": false,
+   "nota": "Precio pedido de 1995 USD está muy por encima del valor de venta real de un Memomatic 166.072 vintage en acero y buen estado; no hay descuento."
+  },
+  "motivo": "triage: Precio pedido de 1995 USD está muy por encima del valor de venta real de un Memomatic 166.072 vintage en acero y buen estado; no hay descuento. (justo 1000)"
  }
 ]
