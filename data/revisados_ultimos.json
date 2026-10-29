@@ -2,46 +2,6 @@
  {
   "fecha": "2026-10-28T03:52:27.137859+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG Heuer WAB1120.BB0802 Mens Aquaracer Series Quartz Watch Blue Gold 300M",
-  "total": 995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377602716150",
-  "item_id": "v1|377602716150|0",
-  "referencia": "WAB1120.BB0802",
-  "mercado": {
-   "n": 4,
-   "p25": 995,
-   "mediana": 1048
-  },
-  "triage": {
-   "modelo": "TAG Heuer Aquaracer 300M, versión quartz bicolor acero y oro con esfera y bisel azules",
-   "referencia": "WAB1120.BB0802",
-   "precio_justo_usd": 600,
-   "interesante": false,
-   "nota": "Precio pedido de 995 USD por encima del valor de venta cerrada de este modelo quartz bicolor usado en buen estado; no hay descuento."
-  },
-  "motivo": "triage: Precio pedido de 995 USD por encima del valor de venta cerrada de este modelo quartz bicolor usado en buen estado; no hay descuento. (justo 600)"
- },
- {
-  "fecha": "2026-10-28T03:52:27.137859+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer WK1112.BA0311 Mens 2000 Series Professional Quartz Silver Watch BA0317",
-  "total": 665.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377602716152",
-  "item_id": "v1|377602716152|0",
-  "referencia": "WK1112.BA0311",
-  "mercado": {
-   "n": 5,
-   "p25": 695,
-   "mediana": 895
-  },
-  "ratio_mercado": 0.957,
-  "motivo": "precio normal (96 % del cuartil bajo de WK1112.BA0311)"
- },
- {
-  "fecha": "2026-10-28T03:52:27.137859+00:00",
-  "marca": "TAG Heuer",
   "titulo": "TAG Heuer SBR8080.EB0284 Calibre E4 Connected Golf Watch Black White Rubber 42mm",
   "total": 920.0,
   "condicion": "Pre-owned - Excellent",
@@ -11326,5 +11286,45 @@
    "nota": "Precio cercano al mercado para un 1603 vintage en buen estado; el descuento es menor al 15 %. Las fotos muestran correas y un dial extra que el título no menciona, así que confirma qué incluye el listado."
   },
   "motivo": "triage: Precio cercano al mercado para un 1603 vintage en buen estado; el descuento es menor al 15 %. Las fotos muestran correas y un dial extra que el título no menciona, así que confirma qué incluye el listado. (justo 4900)"
+ },
+ {
+  "fecha": "2026-10-29T07:23:20.910652+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX Oyster Perpetual Date 34mm Stainless Steel 15200 Authentication Guarantee",
+  "total": 5300.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287688939321",
+  "item_id": "v1|287688939321|0",
+  "referencia": "15200",
+  "mercado": {
+   "n": 19,
+   "p25": 5490,
+   "mediana": 5825
+  },
+  "ratio_mercado": 0.965,
+  "motivo": "precio normal (97 % del cuartil bajo de 15200)"
+ },
+ {
+  "fecha": "2026-10-29T07:23:20.910652+00:00",
+  "marca": "Omega",
+  "titulo": "Mens Omega Seamaster 18K Gold & SS Automatic Chronometer watch - 2301.11",
+  "total": 2345.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206660759669",
+  "item_id": "v1|206660759669|0",
+  "referencia": "2301.11",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Automatic Chronometer, acero y oro 18K, esfera plateada texturizada con fecha (posible línea Seamaster de los años 90-2000)",
+   "referencia": "2301.11",
+   "precio_justo_usd": 1400,
+   "interesante": false,
+   "nota": "Precio pedido de 2345 USD muy por encima del valor de venta cerrada estimado para este bicolor usado en condición Good; identificación basada solo en la foto y el título."
+  },
+  "motivo": "triage: Precio pedido de 2345 USD muy por encima del valor de venta cerrada estimado para este bicolor usado en condición Good; identificación basada solo en la foto y el título. (justo 1400)"
  }
 ]
