@@ -1,74 +1,6 @@
 [
  {
   "fecha": "2026-10-28T22:07:59.603009+00:00",
-  "marca": "Cartier",
-  "titulo": "CARTIER  -  TANK DIVAN YELLOW GOLD WITH DIAMOND CASE",
-  "total": 12600.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407323165143",
-  "item_id": "v1|407323165143|0",
-  "triage": {
-   "modelo": "Cartier Tank Divan oro amarillo con caja engastada en diamantes",
-   "referencia": null,
-   "precio_justo_usd": 11000,
-   "interesante": false,
-   "nota": "Tank Divan de oro amarillo con bisel y laterales de diamantes, esfera plateada de numerales romanos y correa de cocodrilo. Sin referencia visible y con precio pedido por encima de mi estimación conservadora."
-  },
-  "motivo": "triage: Tank Divan de oro amarillo con bisel y laterales de diamantes, esfera plateada de numerales romanos y correa de cocodrilo. Sin referencia visible y con precio pedido por encima de mi estimación conservadora. (justo 11000)"
- },
- {
-  "fecha": "2026-10-28T22:07:59.603009+00:00",
-  "marca": "Cartier",
-  "titulo": "CARTIER  -  BAIGNOIRE - MINI SIZE - FACTORY DIAMOND CASE",
-  "total": 23100.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407323161245",
-  "item_id": "v1|407323161245|0",
-  "triage": {
-   "modelo": "Cartier Baignoire Mini, esfera plateada con números romanos, caja ovalada de oro blanco con pavé de diamantes de fábrica",
-   "referencia": null,
-   "precio_justo_usd": 16000,
-   "interesante": false,
-   "nota": "Referencia no confirmada en la imagen; con pavé completo, el precio de venta cerrada probablemente ronda 14.000-18.000 USD. El pedido de 23.100 USD está muy por encima."
-  },
-  "motivo": "triage: Referencia no confirmada en la imagen; con pavé completo, el precio de venta cerrada probablemente ronda 14.000-18.000 USD. El pedido de 23.100 USD está muy por encima. (justo 16000)"
- },
- {
-  "fecha": "2026-10-28T22:07:59.603009+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise 18K .750 Yellow Gold Ladies Watch Ref 2385 Full Set Box",
-  "total": 17995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206660269777",
-  "item_id": "v1|206660269777|0",
-  "referencia": "2385",
-  "mercado": {
-   "n": 5,
-   "p25": 6950,
-   "mediana": 16650
-  },
-  "ratio_mercado": 2.589,
-  "motivo": "precio normal (259 % del cuartil bajo de 2385)"
- },
- {
-  "fecha": "2026-10-28T22:07:59.603009+00:00",
-  "marca": "Tudor",
-  "titulo": "Vintage 1966 Tudor Oyster Prince Submariner Ref. 7928, Running Well",
-  "total": 8505.79,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267826646537",
-  "item_id": "v1|267826646537|0",
-  "triage": {
-   "modelo": "Tudor Oyster Prince Submariner (vintage, 1966)",
-   "referencia": "7928",
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "El precio pedido de US$8506 está muy por encima del valor de venta real de un 7928 en estado Good, sin papeles confirmados. No cumple el umbral de oportunidad."
-  },
-  "motivo": "triage: El precio pedido de US$8506 está muy por encima del valor de venta real de un 7928 en estado Good, sin papeles confirmados. No cumple el umbral de oportunidad. (justo 5000)"
- },
- {
-  "fecha": "2026-10-28T22:07:59.603009+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR Black Bay Fifty-Four 37mm Black Dial/Bezel Auto Chronometer 200m Box",
   "total": 3800.0,
@@ -11464,5 +11396,79 @@
    "nota": "Precio pedido de $1300 está muy por encima de lo que se vende este modelo en estado Fair; la referencia y el chapado deben verificarse antes de cualquier oferta."
   },
   "motivo": "triage: Precio pedido de $1300 está muy por encima de lo que se vende este modelo en estado Fair; la referencia y el chapado deben verificarse antes de cualquier oferta. (justo 650)"
+ },
+ {
+  "fecha": "2026-10-29T22:23:57.500478+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Speedmaster 304.93.44.52.03.002 44.25mm “Blue Side Of The Moon” Aventurine",
+  "total": 12999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336869588995",
+  "item_id": "v1|336869588995|0",
+  "referencia": "304.93.44.52.03.002",
+  "mercado": {
+   "n": 9,
+   "p25": 11995,
+   "mediana": 12120
+  },
+  "ratio_mercado": 1.084,
+  "motivo": "precio normal (108 % del cuartil bajo de 304.93.44.52.03.002)"
+ },
+ {
+  "fecha": "2026-10-29T22:23:57.500478+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Carrera Calibre 5 Automatic 39mm WV211B-0",
+  "total": 1500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128163227519",
+  "item_id": "v1|128163227519|0",
+  "referencia": "WV211B",
+  "mercado": {
+   "n": 12,
+   "p25": 1588,
+   "mediana": 1715
+  },
+  "ratio_mercado": 0.945,
+  "motivo": "precio normal (94 % del cuartil bajo de WV211B)"
+ },
+ {
+  "fecha": "2026-10-29T22:23:57.500478+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "2026 TAG Heuer Aquaracer Solargraph DLC WBP1112 40mm Black Men's Watch +B&P",
+  "total": 2349.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820293458640",
+  "item_id": "v1|820293458640|0",
+  "referencia": "WBP1112",
+  "mercado": {
+   "n": 3,
+   "p25": 2350,
+   "mediana": 2350
+  },
+  "triage": {
+   "modelo": "TAG Heuer Aquaracer Professional 300 Solargraph DLC, 40 mm, esfera negra, con caja y papeles",
+   "referencia": "WBP1112",
+   "precio_justo_usd": 1700,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de reventa; el descuento de mercado gris para este modelo nuevo ronda 25-35 %, y en usado excelente queda cerca de US$1,700."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de reventa; el descuento de mercado gris para este modelo nuevo ronda 25-35 %, y en usado excelente queda cerca de US$1,700. (justo 1700)"
+ },
+ {
+  "fecha": "2026-10-29T22:23:57.500478+00:00",
+  "marca": "IWC",
+  "titulo": "IWC Mark XVIII Petit Prince 95% LNIB Digital Registration IW327010 Great Value!",
+  "total": 3499.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327429448805",
+  "item_id": "v1|327429448805|0",
+  "referencia": "IW327010",
+  "mercado": {
+   "n": 6,
+   "p25": 4099,
+   "mediana": 4372
+  },
+  "ratio_mercado": 0.854,
+  "motivo": "precio normal (85 % del cuartil bajo de IW327010)"
  }
 ]
