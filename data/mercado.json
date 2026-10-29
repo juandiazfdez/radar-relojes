@@ -8965,14 +8965,14 @@
   "n": 0
  },
  "Omega 210.30.42.20.01.010|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-29",
   "consulta": "Omega 210.30.42.20.01.010",
-  "n": 7,
-  "mediana": 6250,
+  "n": 6,
+  "mediana": 6123,
   "p25": 5995,
-  "p75": 6427,
+  "p75": 6290,
   "min": 5595,
-  "max": 6600
+  "max": 6427
  },
  "Omega 215.63.44.21.03.001|usado": {
   "fecha": "2026-10-26",
@@ -12585,12 +12585,12 @@
   "max": 4445
  },
  "Tudor 79230N|usado": {
-  "fecha": "2026-10-28",
+  "fecha": "2026-10-29",
   "consulta": "Tudor 79230N",
-  "n": 14,
-  "mediana": 3574,
+  "n": 15,
+  "mediana": 3499,
   "p25": 3375,
-  "p75": 4098,
+  "p75": 3900,
   "min": 3100,
   "max": 10580
  },
@@ -15130,10 +15130,10 @@
   "max": 2560
  },
  "Tudor M79950|usado": {
-  "fecha": "2026-10-28",
+  "fecha": "2026-10-29",
   "consulta": "Tudor M79950",
-  "n": 5,
-  "mediana": 3555,
+  "n": 6,
+  "mediana": 3268,
   "p25": 2956,
   "p75": 3594,
   "min": 2800,
@@ -16658,5 +16658,50 @@
   "p75": 5249,
   "min": 3600,
   "max": 5249
+ },
+ "Panerai PAM00311|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Panerai PAM00311",
+  "n": 6,
+  "mediana": 10212,
+  "p25": 9900,
+  "p75": 12495,
+  "min": 9750,
+  "max": 13005
+ },
+ "Panerai PAM01342|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Panerai PAM01342",
+  "n": 6,
+  "mediana": 6031,
+  "p25": 5985,
+  "p75": 6240,
+  "min": 5345,
+  "max": 6303
+ },
+ "Omega 210.92.44.20.01.003|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Omega 210.92.44.20.01.003",
+  "n": 17,
+  "mediana": 7399,
+  "p25": 7325,
+  "p75": 7750,
+  "min": 7172,
+  "max": 8500
+ },
+ "Breitling AB0413|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Breitling AB0413",
+  "n": 0
+ },
+ "Jaeger-LeCoultre Q9028180|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Jaeger-LeCoultre Q9028180",
+  "n": 3,
+  "mediana": 10500,
+  "p25": 10074,
+  "p75": 12990,
+  "min": 10074,
+  "max": 12990
  }
 }
