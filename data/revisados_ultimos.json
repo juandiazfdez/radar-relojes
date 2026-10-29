@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-10-27T22:37:18.791576+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Prince Date Chronograph",
-  "total": 4630.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920080519078",
-  "item_id": "v1|920080519078|0",
-  "triage": {
-   "modelo": "Tudor Prince Date Chronograph (esfera plateada, brazalete de acero)",
-   "referencia": "79280 (probable; no se distingue con certeza en la foto)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido US$4630 supera ampliamente el valor de mercado usado estimado; no es una oportunidad. La referencia es aproximada según la imagen."
-  },
-  "motivo": "triage: Precio pedido US$4630 supera ampliamente el valor de mercado usado estimado; no es una oportunidad. La referencia es aproximada según la imagen. (justo 3300)"
- },
- {
-  "fecha": "2026-10-27T22:37:18.791576+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Professional 300m 2254.50.00 \"Peter Blake\" 41mm C. 2001-2003",
-  "total": 4300.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940046558332",
-  "item_id": "v1|940046558332|0",
-  "referencia": "2254.50.00",
-  "mercado": {
-   "n": 1,
-   "p25": 4519,
-   "mediana": 4519
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Professional 300M (41 mm, esfera negra tipo wave, bisel negro)",
-   "referencia": "2254.50.00",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "El título menciona la edición 'Peter Blake', que no coincide con esta referencia; sin prueba de la edición especial el precio pedido está por encima del mercado."
-  },
-  "motivo": "triage: El título menciona la edición 'Peter Blake', que no coincide con esta referencia; sin prueba de la edición especial el precio pedido está por encima del mercado. (justo 3200)"
- },
- {
-  "fecha": "2026-10-27T22:37:18.791576+00:00",
   "marca": "Omega",
   "titulo": "Omega Seamaster Aqua Terra \"Golf Edition\"",
   "total": 4530.0,
@@ -11362,5 +11322,39 @@
    "nota": "Precio pedido de US$4000 muy por encima del valor de venta real estimado (~US$1500) para un Tubogas bicolor de cuarzo usado en estado bueno."
   },
   "motivo": "triage: Precio pedido de US$4000 muy por encima del valor de venta real estimado (~US$1500) para un Tubogas bicolor de cuarzo usado en estado bueno. (justo 1500)"
+ },
+ {
+  "fecha": "2026-10-29T00:23:11.395691+00:00",
+  "marca": "Omega",
+  "titulo": "Vintage Omega 14k Yellow Gold Women's Watch (14mm Wide Case)",
+  "total": 2320.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307254511188",
+  "item_id": "v1|307254511188|0",
+  "triage": {
+   "modelo": "Omega vintage de dama, caja ovalada en oro amarillo con brazalete de malla (posible Geneve o Ladymatic, no confirmado)",
+   "referencia": null,
+   "precio_justo_usd": 1300,
+   "interesante": false,
+   "nota": "Foto de baja resolución, sin sellos visibles; el precio pedido de US$2320 supera el valor estimado, aunque el oro de 14k aporta un piso de valor."
+  },
+  "motivo": "triage: Foto de baja resolución, sin sellos visibles; el precio pedido de US$2320 supera el valor estimado, aunque el oro de 14k aporta un piso de valor. (justo 1300)"
+ },
+ {
+  "fecha": "2026-10-29T00:23:11.395691+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Silver .925 - Ref 6860 - Cal. 625 – 1972",
+  "total": 3995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307254506476",
+  "item_id": "v1|307254506476|0",
+  "triage": {
+   "modelo": "Omega Geneve de plata sterling .925 con brazalete texturizado (estilo corteza), caja cojín",
+   "referencia": "6860 (según el título, no verificable en la foto)",
+   "precio_justo_usd": 1400,
+   "interesante": false,
+   "nota": "Precio pedido de 3995 USD muy por encima del valor de mercado para un Omega de plata vintage de 1972 en estado Good; la referencia y el calibre deben verificarse."
+  },
+  "motivo": "triage: Precio pedido de 3995 USD muy por encima del valor de mercado para un Omega de plata vintage de 1972 en estado Good; la referencia y el calibre deben verificarse. (justo 1400)"
  }
 ]
