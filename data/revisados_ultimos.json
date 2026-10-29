@@ -1,52 +1,6 @@
 [
  {
   "fecha": "2026-10-28T02:52:27.319233+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Seamaster Aqua Terra 231.10.39.21.02.001",
-  "total": 3333.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336866620778",
-  "item_id": "v1|336866620778|0",
-  "referencia": "231.10.39.21.02.001",
-  "mercado": {
-   "n": 1,
-   "p25": 4100,
-   "mediana": 4100
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Aqua Terra 38.5 mm, acero, esfera blanca, brazalete de acero, con caja y papeles",
-   "referencia": "231.10.39.21.02.001",
-   "precio_justo_usd": 3600,
-   "interesante": false,
-   "nota": "Precio cercano al mercado secundario para este modelo usado con caja; no alcanza el 15 % de descuento necesario. Verificar autenticidad y papeles."
-  },
-  "motivo": "triage: Precio cercano al mercado secundario para este modelo usado con caja; no alcanza el 15 % de descuento necesario. Verificar autenticidad y papeles. (justo 3600)"
- },
- {
-  "fecha": "2026-10-28T02:52:27.319233+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster 2531.80 300M Automatic 41mm – OMEGA SERVICE AUG 2026",
-  "total": 3025.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920081074510",
-  "item_id": "v1|920081074510|0",
-  "referencia": "2531.80",
-  "mercado": {
-   "n": 4,
-   "p25": 4305,
-   "mediana": 4305
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Professional 300M (Diver 300M), bisel azul, esfera negra, brazalete de acero, 41 mm",
-   "referencia": "2531.80",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Precio cercano al mercado (≈5 % por debajo), no alcanza el umbral del 15 %. Verificar papeles y que el servicio de agosto de 2026 esté documentado."
-  },
-  "motivo": "triage: Precio cercano al mercado (≈5 % por debajo), no alcanza el umbral del 15 %. Verificar papeles y que el servicio de agosto de 2026 esté documentado. (justo 3200)"
- },
- {
-  "fecha": "2026-10-28T02:52:27.319233+00:00",
   "marca": "TAG Heuer",
   "titulo": "TAG Heuer Formula 1 Men's Black Watch - CAZ1010",
   "total": 1150.0,
@@ -11375,5 +11329,39 @@
   },
   "ratio_mercado": 3.857,
   "motivo": "precio normal (386 % del cuartil bajo de 16013)"
+ },
+ {
+  "fecha": "2026-10-29T05:08:20.136853+00:00",
+  "marca": "Omega",
+  "titulo": "2026 Omega Seamaster Diver 300M \"SEAWEED\" Green 42mm Rubber 210.32.42.20.10.001",
+  "total": 5499.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/920083590685",
+  "item_id": "v1|920083590685|0",
+  "referencia": "210.32.42.20.10.001",
+  "mercado": {
+   "n": 5,
+   "p25": 5652,
+   "mediana": 5690
+  },
+  "ratio_mercado": 0.973,
+  "motivo": "precio normal (97 % del cuartil bajo de 210.32.42.20.10.001)"
+ },
+ {
+  "fecha": "2026-10-29T05:08:20.136853+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Seamaster Men's Vintage Wristwatch",
+  "total": 1499.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/800850626589",
+  "item_id": "v1|800850626589|0",
+  "triage": {
+   "modelo": "Omega Seamaster vintage (posible De Ville, caja dorada/chapada, esfera blanca, correa de cuero; no identificable con certeza)",
+   "referencia": null,
+   "precio_justo_usd": 650,
+   "interesante": false,
+   "nota": "Listado genérico sin referencia ni año, con caja chapada y correa de cuero. Un Omega vintage así se vende mucho más bajo que US$1499; el precio pedido está muy por encima del mercado."
+  },
+  "motivo": "triage: Listado genérico sin referencia ni año, con caja chapada y correa de cuero. Un Omega vintage así se vende mucho más bajo que US$1499; el precio pedido está muy por encima del mercado. (justo 650)"
  }
 ]
