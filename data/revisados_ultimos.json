@@ -1,79 +1,5 @@
 [
  {
-  "fecha": "2026-10-28T00:22:27.489963+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Transocean AB051OU4/BB62 | Chronograph  / Full Set / 46mm",
-  "total": 4385.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227586323288",
-  "item_id": "v1|227586323288|0",
-  "triage": {
-   "modelo": "Breitling Transocean Unitime Chronograph (46 mm, acero, esfera azul con mapamundi)",
-   "referencia": "AB0510U4/BB62",
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "Precio cercano al mercado secundario para esta referencia, con un descuento de solo ~9 %. No llega al umbral del 15 %. Confirmar autenticidad y que el brazalete tipo milanés sea original."
-  },
-  "motivo": "triage: Precio cercano al mercado secundario para esta referencia, con un descuento de solo ~9 %. No llega al umbral del 15 %. Confirmar autenticidad y que el brazalete tipo milanés sea original. (justo 4800)"
- },
- {
-  "fecha": "2026-10-28T00:37:26.428472+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona 116520-0016 Pre-owned Watch Only",
-  "total": 20530.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137880927070",
-  "item_id": "v1|137880927070|0",
-  "referencia": "116520",
-  "mercado": {
-   "n": 19,
-   "p25": 23138,
-   "mediana": 23795
-  },
-  "ratio_mercado": 0.887,
-  "motivo": "precio normal (89 % del cuartil bajo de 116520)"
- },
- {
-  "fecha": "2026-10-28T00:37:26.428472+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41 126334-0026 New Box & Papers 2026",
-  "total": 16320.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/137880910259",
-  "item_id": "v1|137880910259|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41, bisel acanalado de oro blanco, esfera azul con números romanos, brazalete Jubilee (acero y oro blanco)",
-   "referencia": "126334 (listado como 126334-0026; el número de esfera no se puede verificar en la foto)",
-   "precio_justo_usd": 15500,
-   "interesante": false,
-   "nota": "Precio cercano al mercado secundario para esta referencia nueva con caja y papeles; no hay descuento de al menos 15 %."
-  },
-  "motivo": "triage: Precio cercano al mercado secundario para esta referencia nueva con caja y papeles; no hay descuento de al menos 15 %. (justo 15500)"
- },
- {
-  "fecha": "2026-10-28T00:37:26.428472+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 41 124300-0002 NOS Box & Papers 2021",
-  "total": 10000.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/137880906080",
-  "item_id": "v1|137880906080|0",
-  "referencia": "124300",
-  "mercado": {
-   "n": 12,
-   "p25": 11395,
-   "mediana": 12371
-  },
-  "ratio_mercado": 0.878,
-  "motivo": "precio normal (88 % del cuartil bajo de 124300)"
- },
- {
   "fecha": "2026-10-28T00:37:26.428472+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Sea-Dweller 116660-0001 Pre-owned Box & Papers 2015",
@@ -11356,5 +11282,79 @@
    "nota": "Precio pedido por encima del valor estimado de reventa; la referencia exacta no se puede confirmar desde la foto y no hay caja ni papeles visibles."
   },
   "motivo": "triage: Precio pedido por encima del valor estimado de reventa; la referencia exacta no se puede confirmar desde la foto y no hay caja ni papeles visibles. (justo 3800)"
+ },
+ {
+  "fecha": "2026-10-29T03:08:10.884304+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 NEW Rolex Oyster Perpetual 134303 41mm 100 Years 18k Gold Steel Box Papers",
+  "total": 15395.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880038796734",
+  "item_id": "v1|880038796734|0",
+  "referencia": "134303",
+  "mercado": {
+   "n": 7,
+   "p25": 15395,
+   "mediana": 15599
+  },
+  "ratio_mercado": 1.0,
+  "motivo": "precio normal (100 % del cuartil bajo de 134303)"
+ },
+ {
+  "fecha": "2026-10-29T03:08:10.884304+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 NEW Rolex Oyster Perpetual 100 Years 126003 36mm 18k Gold Steel Box Papers",
+  "total": 13195.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840045772795",
+  "item_id": "v1|840045772795|0",
+  "referencia": "126003",
+  "mercado": {
+   "n": 7,
+   "p25": 12648,
+   "mediana": 13290
+  },
+  "ratio_mercado": 1.043,
+  "motivo": "precio normal (104 % del cuartil bajo de 126003)"
+ },
+ {
+  "fecha": "2026-10-29T03:08:10.884304+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay Unisex Automatic Chronometer 39mm Blue Dial/Bezel Steel 200m",
+  "total": 3800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147656200528",
+  "item_id": "v1|147656200528|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 Navy Blue (39 mm, esfera y bisel azules, brazalete de acero)",
+   "referencia": "M79030B",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta de mercado de segunda mano para esta referencia; sin margen de compra de al menos 15 %."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta de mercado de segunda mano para esta referencia; sin margen de compra de al menos 15 %. (justo 3300)"
+ },
+ {
+  "fecha": "2026-10-29T03:08:10.884304+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Planet Ocean 2201.50 – Full Collectors Set – Excellent Condition",
+  "total": 3949.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267826841303",
+  "item_id": "v1|267826841303|0",
+  "referencia": "2201.50",
+  "mercado": {
+   "n": 4,
+   "p25": 4500,
+   "mediana": 4500
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Planet Ocean Co-Axial 42 mm (esfera negra, bisel cerámico, brazalete de acero)",
+   "referencia": "2201.50",
+   "precio_justo_usd": 3700,
+   "interesante": false,
+   "nota": "Precio pedido de US$3949 con envío queda unos 7 % por encima de lo que esta referencia en buen estado con set completo suele cerrar; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido de US$3949 con envío queda unos 7 % por encima de lo que esta referencia en buen estado con set completo suele cerrar; no hay descuento suficiente. (justo 3700)"
  }
 ]
