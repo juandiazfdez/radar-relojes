@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-10-28T04:22:27.160130+00:00",
-  "marca": "Jaeger-LeCoultre",
-  "titulo": "Jaeger-LeCoultre Reverso Squadra World Chronograph Watch Ref 231.T.50",
-  "total": 8999.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137881337856",
-  "item_id": "v1|137881337856|0",
-  "triage": {
-   "modelo": "Jaeger-LeCoultre Reverso Squadra (acero, esfera negra)",
-   "referencia": "231.T.50 (según el título; no verificable en la foto)",
-   "precio_justo_usd": 6500,
-   "interesante": false,
-   "nota": "La foto no muestra claramente funciones de cronógrafo ni subesferas; verificar que el título coincida con el reloj. Aun así, US$9000 supera con holgura el valor de venta cerrada de un Squadra de acero usado."
-  },
-  "motivo": "triage: La foto no muestra claramente funciones de cronógrafo ni subesferas; verificar que el título coincida con el reloj. Aun así, US$9000 supera con holgura el valor de venta cerrada de un Squadra de acero usado. (justo 6500)"
- },
- {
-  "fecha": "2026-10-28T04:22:27.160130+00:00",
-  "marca": "IWC",
-  "titulo": "IWC Portofino Hand-Wound Moon Phase Ref. IW516409",
-  "total": 20896.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147654829048",
-  "item_id": "v1|147654829048|0",
-  "referencia": "IW516409",
-  "mercado": {
-   "n": 1,
-   "p25": 20896,
-   "mediana": 20896
-  },
-  "triage": {
-   "modelo": "IWC Portofino Hand-Wound Moon Phase (oro rojo 18k, esfera plateada, correa de cocodrilo azul)",
-   "referencia": "IW516409",
-   "precio_justo_usd": 12000,
-   "interesante": false,
-   "nota": "El precio pedido de US$20.896 supera ampliamente el valor de mercado de un Portofino Moon Phase de oro rojo usado, incluso con caja y papeles. No es una oportunidad."
-  },
-  "motivo": "triage: El precio pedido de US$20.896 supera ampliamente el valor de mercado de un Portofino Moon Phase de oro rojo usado, incluso con caja y papeles. No es una oportunidad. (justo 12000)"
- },
- {
   "fecha": "2026-10-28T04:37:27.295144+00:00",
   "marca": "Omega",
   "titulo": "omega swatch saturn, painted 1 of 1 by Alec monopoly art, with video proof.",
@@ -11302,5 +11262,45 @@
   },
   "ratio_mercado": 1.069,
   "motivo": "precio normal (107 % del cuartil bajo de 210.92.42.20.01.001)"
+ },
+ {
+  "fecha": "2026-10-29T11:23:31.408281+00:00",
+  "marca": "Rolex",
+  "titulo": "2021 PAPERS Rolex Sky-Dweller BLACK 42mm 18K Gold Stainless 326934 OYSTER BOX",
+  "total": 18045.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860094527454",
+  "item_id": "v1|860094527454|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller 42mm, acero Oystersteel y oro blanco de 18K, esfera negra, bisel acanalado (2021)",
+   "referencia": "326934",
+   "precio_justo_usd": 20000,
+   "interesante": false,
+   "nota": "Precio pedido unos 10% bajo un valor de venta conservador; no cumple el umbral de 15% y la referencia se vende cerca de este nivel."
+  },
+  "motivo": "triage: Precio pedido unos 10% bajo un valor de venta conservador; no cumple el umbral de 15% y la referencia se vende cerca de este nivel. (justo 20000)"
+ },
+ {
+  "fecha": "2026-10-29T11:23:31.408281+00:00",
+  "marca": "IWC",
+  "titulo": "IWC Pilot Mark XX. Blue Dial. IW328204. 40mm. Full set with extras",
+  "total": 5325.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940049220235",
+  "item_id": "v1|940049220235|0",
+  "referencia": "IW328204",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "IWC Pilot's Watch Mark XX (esfera azul, 40 mm)",
+   "referencia": "IW328204",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Precio pedido por encima del mercado secundario de un Mark XX de acero usado en buen estado, aunque el set completo ayuda algo."
+  },
+  "motivo": "triage: Precio pedido por encima del mercado secundario de un Mark XX de acero usado en buen estado, aunque el set completo ayuda algo. (justo 3800)"
  }
 ]
