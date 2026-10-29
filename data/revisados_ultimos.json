@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-10-28T03:22:27.297471+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "Swiss 39mm [WORKS] TAG Heuer Aquaracer WAP1120 Men's Quartz Watch",
-  "total": 2179.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960124860616",
-  "item_id": "v1|960124860616|0",
-  "referencia": "WAP1120",
-  "mercado": {
-   "n": 1,
-   "p25": 725,
-   "mediana": 725
-  },
-  "triage": {
-   "modelo": "TAG Heuer Aquaracer 39mm quartz bicolor (acero y oro amarillo)",
-   "referencia": "WAP1120",
-   "precio_justo_usd": 800,
-   "interesante": false,
-   "nota": "Cuarzo de 39 mm en bicolor; el precio pedido de US$2180 supera mucho su valor de reventa usado."
-  },
-  "motivo": "triage: Cuarzo de 39 mm en bicolor; el precio pedido de US$2180 supera mucho su valor de reventa usado. (justo 800)"
- },
- {
-  "fecha": "2026-10-28T03:22:27.297471+00:00",
-  "marca": "IWC",
-  "titulo": "IWC Luxury Chronograph Mens Watch",
-  "total": 4100.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840067343779",
-  "item_id": "v1|840067343779|0",
-  "triage": {
-   "modelo": "IWC Portugieser Automatic (acero, esfera blanca, correa de cuero marrón)",
-   "referencia": "Probablemente IW500704 o IW500107; no es posible confirmarla con la foto",
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "El título dice 'Chronograph' pero el modelo parece un Portugieser Automatic sin cronógrafo; el listado no indica caja ni papeles y el precio está cerca del valor de mercado."
-  },
-  "motivo": "triage: El título dice 'Chronograph' pero el modelo parece un Portugieser Automatic sin cronógrafo; el listado no indica caja ni papeles y el precio está cerca del valor de mercado. (justo 4300)"
- },
- {
   "fecha": "2026-10-28T03:37:26.976388+00:00",
   "marca": "Rolex",
   "titulo": "ROLEX Submariner 124060 41mm . First Owner, Full Set",
@@ -11351,5 +11311,39 @@
    "nota": "Las fotos sugieren un homenaje o reloj personalizado, no un Tudor original. Si fuera auténtico, el precio sería razonable, pero no hay evidencia de ello."
   },
   "motivo": "triage: Las fotos sugieren un homenaje o reloj personalizado, no un Tudor original. Si fuera auténtico, el precio sería razonable, pero no hay evidencia de ello. (justo 3900)"
+ },
+ {
+  "fecha": "2026-10-29T06:08:19.896152+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Men’s 36mm Rolex Watch Stainless Oyster Perpetual ",
+  "total": 5999.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128162015295",
+  "item_id": "v1|128162015295|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual vintage, acero, esfera plateada con marcadores aplicados (posible era 1950-60)",
+   "referencia": "No identificable con certeza desde la foto (posiblemente Oyster Perpetual ref. 1002/1003)",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "El precio pedido de $5,999 está muy por encima del valor de venta real de un Oyster Perpetual vintage de acero en estado Good; la foto es insuficiente para verificar referencia, esfera y autenticidad."
+  },
+  "motivo": "triage: El precio pedido de $5,999 está muy por encima del valor de venta real de un Oyster Perpetual vintage de acero en estado Good; la foto es insuficiente para verificar referencia, esfera y autenticidad. (justo 3000)"
+ },
+ {
+  "fecha": "2026-10-29T06:08:19.896152+00:00",
+  "marca": "Omega",
+  "titulo": "42 Mm Omega Speedmaster Professional Moon Watch Chronograph",
+  "total": 6300.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920083658944",
+  "item_id": "v1|920083658944|0",
+  "triage": {
+   "modelo": "Omega Speedmaster Professional Moonwatch 42 mm (acero, cronógrafo manual)",
+   "referencia": "311.30.42.30.01.005 (probable, no confirmada)",
+   "precio_justo_usd": 6000,
+   "interesante": false,
+   "nota": "Precio pedido unos 5 % por encima del valor de venta cerrada estimado; sin referencia ni caja y papeles confirmados, no cumple el margen del 15 %."
+  },
+  "motivo": "triage: Precio pedido unos 5 % por encima del valor de venta cerrada estimado; sin referencia ni caja y papeles confirmados, no cumple el margen del 15 %. (justo 6000)"
  }
 ]
