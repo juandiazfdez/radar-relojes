@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-10-28T06:07:36.049720+00:00",
-  "marca": "Rolex",
-  "titulo": "Antique Rolex Oyster Model 4271, 24mm Stainless Steel",
-  "total": 2260.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940047267096",
-  "item_id": "v1|940047267096|0",
-  "triage": {
-   "modelo": "Rolex Oyster vintage de acero, 24 mm (dial crema con índices arábigos, lunetas tipo bubble)",
-   "referencia": "4271 (según título, no verificable en la imagen)",
-   "precio_justo_usd": 2400,
-   "interesante": false,
-   "nota": "Precio cercano al mercado, pero sin poder verificar referencia, movimiento ni autenticidad en fotos; con vintage Rolex se requieren fotos del movimiento, caja y dial."
-  },
-  "motivo": "triage: Precio cercano al mercado, pero sin poder verificar referencia, movimiento ni autenticidad en fotos; con vintage Rolex se requieren fotos del movimiento, caja y dial. (justo 2400)"
- },
- {
-  "fecha": "2026-10-28T06:07:36.049720+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG HEUER WBD1311 Aquaracer White MOP Date Quartz 32mm Watch (FPP012373)",
-  "total": 869.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366763763758",
-  "item_id": "v1|366763763758|0",
-  "referencia": "WBD1311",
-  "mercado": {
-   "n": 2,
-   "p25": 800,
-   "mediana": 904
-  },
-  "triage": {
-   "modelo": "TAG Heuer Aquaracer Lady 32mm, cuarzo, esfera de nácar blanca",
-   "referencia": "WBD1311",
-   "precio_justo_usd": 650,
-   "interesante": false,
-   "nota": "Precio pedido de 870 USD por encima de la estimación de venta usada para esta referencia (estado Good, sin confirmar caja y papeles)."
-  },
-  "motivo": "triage: Precio pedido de 870 USD por encima de la estimación de venta usada para esta referencia (estado Good, sin confirmar caja y papeles). (justo 650)"
- },
- {
-  "fecha": "2026-10-28T06:07:36.049720+00:00",
   "marca": "TAG Heuer",
   "titulo": "Tag Heuer Formula 1 Solograph",
   "total": 860.0,
@@ -11290,5 +11250,39 @@
    "nota": "Precio pedido de US$1250 está muy por encima del valor de mercado para una pieza bumper de caja chapada, aunque el estado parece bueno. Sin referencia ni fotos del movimiento y caja, estimo a la baja."
   },
   "motivo": "triage: Precio pedido de US$1250 está muy por encima del valor de mercado para una pieza bumper de caja chapada, aunque el estado parece bueno. Sin referencia ni fotos del movimiento y caja, estimo a la baja. (justo 650)"
+ },
+ {
+  "fecha": "2026-10-29T12:53:31.484528+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "Tag Heuer formula 1 Solaraph 2026 Limited Edition Only 3500 cream Quartz",
+  "total": 1950.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/168824504857",
+  "item_id": "v1|168824504857|0",
+  "triage": {
+   "modelo": "TAG Heuer Formula 1, cuarzo, esfera crema",
+   "referencia": null,
+   "precio_justo_usd": 750,
+   "interesante": false,
+   "nota": "El título 'Solaraph 2026 Limited 3500' no corresponde a un modelo verificable y la foto muestra un Formula 1 de cuarzo. Aunque fuera nuevo con caja y papeles, el precio pedido de 1950 USD supera con creces su valor de mercado."
+  },
+  "motivo": "triage: El título 'Solaraph 2026 Limited 3500' no corresponde a un modelo verificable y la foto muestra un Formula 1 de cuarzo. Aunque fuera nuevo con caja y papeles, el precio pedido de 1950 USD supera con creces su valor de mercado. (justo 750)"
+ },
+ {
+  "fecha": "2026-10-29T12:53:31.484528+00:00",
+  "marca": "IWC",
+  "titulo": "IWC Portugieser Yacht Club Chronograph Steel Auto 44mm Silver Bracelet IW3907-02",
+  "total": 9950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940049430607",
+  "item_id": "v1|940049430607|0",
+  "triage": {
+   "modelo": "IWC Portugieser Yacht Club Chronograph, acero, esfera plateada, brazalete de acero, 44 mm",
+   "referencia": "IW390702",
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "El precio pedido (US$9.950) supera el retail aproximado de esta referencia y está muy por encima del mercado de segunda mano; no hay descuento."
+  },
+  "motivo": "triage: El precio pedido (US$9.950) supera el retail aproximado de esta referencia y está muy por encima del mercado de segunda mano; no hay descuento. (justo 7000)"
  }
 ]
