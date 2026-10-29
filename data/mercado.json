@@ -5540,7 +5540,7 @@
   "max": 4495
  },
  "Panerai PAM1033|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-29",
   "consulta": "Panerai PAM1033",
   "n": 2,
   "mediana": 7096,
@@ -9855,13 +9855,13 @@
   "n": 0
  },
  "TAG Heuer WAF141C|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-29",
   "consulta": "TAG Heuer WAF141C",
   "n": 5,
-  "mediana": 1395,
-  "p25": 1250,
+  "mediana": 1250,
+  "p25": 925,
   "p75": 1900,
-  "min": 779,
+  "min": 895,
   "max": 2029
  },
  "TAG Heuer WG1120|usado": {
@@ -11550,12 +11550,12 @@
   "max": 5500
  },
  "Breitling A44355|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-29",
   "consulta": "Breitling A44355",
-  "n": 4,
-  "mediana": 3905,
-  "p25": 3500,
-  "p75": 14850,
+  "n": 5,
+  "mediana": 3500,
+  "p25": 3300,
+  "p75": 4310,
   "min": 2800,
   "max": 14850
  },
@@ -16268,5 +16268,60 @@
   "p75": 14890,
   "min": 14890,
   "max": 14890
+ },
+ "Rolex 116518|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Rolex 116518",
+  "n": 36,
+  "mediana": 47722,
+  "p25": 38150,
+  "p75": 50209,
+  "min": 28749,
+  "max": 88644
+ },
+ "Omega 220.10.28.60.54.001|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "Omega 220.10.28.60.54.001",
+  "n": 0
+ },
+ "Breitling A13313|nuevo": {
+  "fecha": "2026-10-29",
+  "consulta": "Breitling A13313",
+  "n": 1,
+  "mediana": 4495,
+  "p25": 4495,
+  "p75": 4495,
+  "min": 4495,
+  "max": 4495
+ },
+ "TAG Heuer CBN2A1B|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer CBN2A1B",
+  "n": 4,
+  "mediana": 4496,
+  "p25": 3899,
+  "p75": 6950,
+  "min": 3795,
+  "max": 6950
+ },
+ "TAG Heuer WAY1413|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer WAY1413",
+  "n": 3,
+  "mediana": 1100,
+  "p25": 1015,
+  "p75": 1400,
+  "min": 1015,
+  "max": 1400
+ },
+ "TAG Heuer WAF1117|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer WAF1117",
+  "n": 0
+ },
+ "TAG Heuer WAF1015|usado": {
+  "fecha": "2026-10-29",
+  "consulta": "TAG Heuer WAF1015",
+  "n": 0
  }
 }

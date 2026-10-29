@@ -1,233 +1,5 @@
 [
  {
-  "fecha": "2026-10-28T18:07:59.605587+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Air-King 34mm Stainless Steel 114200 Box and Papers",
-  "total": 6849.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128161332357",
-  "item_id": "v1|128161332357|0",
-  "referencia": "114200",
-  "mercado": {
-   "n": 29,
-   "p25": 6995,
-   "mediana": 7500
-  },
-  "ratio_mercado": 0.979,
-  "motivo": "precio normal (98 % del cuartil bajo de 114200)"
- },
- {
-  "fecha": "2026-10-28T18:07:59.605587+00:00",
-  "marca": "Rolex",
-  "titulo": "2025 Rolex Datejust 41 Wimbledon 126300  Jubilee Bracelet Smooth with box papers",
-  "total": 12444.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168822739060",
-  "item_id": "v1|168822739060|0",
-  "referencia": "126300",
-  "mercado": {
-   "n": 22,
-   "p25": 9878,
-   "mediana": 10208
-  },
-  "ratio_mercado": 1.26,
-  "motivo": "precio normal (126 % del cuartil bajo de 126300)"
- },
- {
-  "fecha": "2026-10-28T18:07:59.605587+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36, 16233, Steel & Yellow Gold, Silver Arabic Dial, Jubilee",
-  "total": 7500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960123314789",
-  "item_id": "v1|960123314789|0",
-  "referencia": "16233",
-  "mercado": {
-   "n": 28,
-   "p25": 5399,
-   "mediana": 6152
-  },
-  "ratio_mercado": 1.389,
-  "motivo": "precio normal (139 % del cuartil bajo de 16233)"
- },
- {
-  "fecha": "2026-10-28T18:07:59.605587+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 33 Steel Yellow Gold Ladies Watch W2BB0002 Box Papers",
-  "total": 7500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940048267526",
-  "item_id": "v1|940048267526|0",
-  "referencia": "W2BB0002",
-  "mercado": {
-   "n": 6,
-   "p25": 7245,
-   "mediana": 7469
-  },
-  "ratio_mercado": 1.035,
-  "motivo": "precio normal (104 % del cuartil bajo de W2BB0002)"
- },
- {
-  "fecha": "2026-10-28T18:07:59.605587+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Must XL 2023 BOX CARD + WARRANTY WSTA0053 Automatic Bracelet Watch",
-  "total": 4485.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366767212447",
-  "item_id": "v1|366767212447|0",
-  "referencia": "WSTA0053",
-  "mercado": {
-   "n": 2,
-   "p25": 5354,
-   "mediana": 5427
-  },
-  "triage": {
-   "modelo": "Cartier Tank Must XL (acero, esfera plateada con números romanos, brazalete)",
-   "referencia": "WSTA0053",
-   "precio_justo_usd": 2700,
-   "interesante": false,
-   "nota": "El título dice automático, pero la WSTA0053 es de cuarzo; el precio pedido supera el retail y el mercado de segunda mano está bastante por debajo."
-  },
-  "motivo": "triage: El título dice automático, pero la WSTA0053 es de cuarzo; el precio pedido supera el retail y el mercado de segunda mano está bastante por debajo. (justo 2700)"
- },
- {
-  "fecha": "2026-10-28T18:07:59.605587+00:00",
-  "marca": "Cartier",
-  "titulo": "Full Set Cartier Ballon Bleu 33 mm Steel 18K Yellow Gold Automatic Watch 3489",
-  "total": 7550.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800848854342",
-  "item_id": "v1|800848854342|0",
-  "referencia": "3489",
-  "mercado": {
-   "n": 10,
-   "p25": 4845,
-   "mediana": 5277
-  },
-  "ratio_mercado": 1.558,
-  "motivo": "precio normal (156 % del cuartil bajo de 3489)"
- },
- {
-  "fecha": "2026-10-28T18:07:59.605587+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai Luminor Equation of Time Ref: PAM00670 Titanium 47mm GMT Blue Mens Watch",
-  "total": 10495.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/168822748363",
-  "item_id": "v1|168822748363|0",
-  "referencia": "PAM00670",
-  "mercado": {
-   "n": 10,
-   "p25": 14530,
-   "mediana": 14685
-  },
-  "ratio_mercado": 0.722,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 10000,
-   "riesgo_autenticidad": "medio",
-   "estado": "Caja con pulido fuerte (refinished), esfera negra, sin papeles ni fotos del fondo ni del movimiento"
-  },
-  "motivo": "Claude descarto: El título y la descripción dicen esfera azul y correa azul oscuro. Las fotos reales muestran esfera negra y correa negra con costura crema. La PAM00670 de catálogo tiene esfera azul degradé, así que o la referencia está mal o la esfera no es original.; El subdial de las 3 muestra letras distintas a las del catálogo (D/J, S-M) y la ventana de fecha marca 14, no 28. Esa diferencia es otra señal de que no es una PAM00670 de serie."
- },
- {
-  "fecha": "2026-10-28T18:07:59.605587+00:00",
-  "marca": "Omega",
-  "titulo": "2021 Omega Speedmaster Moonwatch 310.30.42.50.01.002 42MM Black Steel Box Paper",
-  "total": 6850.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117491965673",
-  "item_id": "v1|117491965673|0",
-  "referencia": "310.30.42.50.01.002",
-  "mercado": {
-   "n": 40,
-   "p25": 7100,
-   "mediana": 7360
-  },
-  "ratio_mercado": 0.965,
-  "motivo": "precio normal (96 % del cuartil bajo de 310.30.42.50.01.002)"
- },
- {
-  "fecha": "2026-10-28T18:07:59.605587+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Seamaster Aqua Terra 150M Black Lacquer 2026 Full Set 220.10.41.21.01.002",
-  "total": 5500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147654198814",
-  "item_id": "v1|147654198814|0",
-  "referencia": "220.10.41.21.01.002",
-  "mercado": {
-   "n": 3,
-   "p25": 6499,
-   "mediana": 6760
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Aqua Terra 150M, esfera negra laca, 41 mm, brazalete de acero (caja y papeles)",
-   "referencia": "220.10.41.21.01.002",
-   "precio_justo_usd": 4700,
-   "interesante": false,
-   "nota": "Modelo de producción actual, usado en excelente estado con caja y papeles. Se vende en reventa por debajo de su precio de tienda, y el precio pedido de US$5500 está por encima de ese rango."
-  },
-  "motivo": "triage: Modelo de producción actual, usado en excelente estado con caja y papeles. Se vende en reventa por debajo de su precio de tienda, y el precio pedido de US$5500 está por encima de ese rango. (justo 4700)"
- },
- {
-  "fecha": "2026-10-28T18:07:59.605587+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Aqua Terra 231.10.42.21.03.003 Box and Papers",
-  "total": 4795.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227587497937",
-  "item_id": "v1|227587497937|0",
-  "referencia": "231.10.42.21.03.003",
-  "mercado": {
-   "n": 3,
-   "p25": 4597,
-   "mediana": 4950
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Aqua Terra 150M Co-Axial Master Chronometer, esfera azul, brazalete de acero, 41,5 mm",
-   "referencia": "231.10.42.21.03.003",
-   "precio_justo_usd": 3900,
-   "interesante": false,
-   "nota": "Precio pedido US$4795 por encima del valor de venta cerrada estimado para esta referencia en condición Good con caja y papeles; no cumple el descuento mínimo del 15%."
-  },
-  "motivo": "triage: Precio pedido US$4795 por encima del valor de venta cerrada estimado para esta referencia en condición Good con caja y papeles; no cumple el descuento mínimo del 15%. (justo 3900)"
- },
- {
-  "fecha": "2026-10-28T18:23:00.177784+00:00",
-  "marca": "Rolex",
-  "titulo": "1993 Rolex Lady-Datejust Champagne Tapestry Jubilee 69173 Box Steel & YG",
-  "total": 6349.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920082644114",
-  "item_id": "v1|920082644114|0",
-  "referencia": "69173",
-  "mercado": {
-   "n": 23,
-   "p25": 4259,
-   "mediana": 4778
-  },
-  "ratio_mercado": 1.491,
-  "motivo": "precio normal (149 % del cuartil bajo de 69173)"
- },
- {
-  "fecha": "2026-10-28T18:23:00.177784+00:00",
-  "marca": "Rolex",
-  "titulo": "2024 Rolex DateJust 41 126333 Two-Tone Rhodium Wimbledon 41mm Watch with Papers",
-  "total": 15153.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960126859604",
-  "item_id": "v1|960126859604|0",
-  "referencia": "126333",
-  "mercado": {
-   "n": 30,
-   "p25": 14825,
-   "mediana": 15260
-  },
-  "ratio_mercado": 1.022,
-  "motivo": "precio normal (102 % del cuartil bajo de 126333)"
- },
- {
   "fecha": "2026-10-28T18:23:00.177784+00:00",
   "marca": "Rolex",
   "titulo": "1992 Rolex Lady-Datejust Black Stick Jubilee 69173 Papers Steel & YG",
@@ -11460,5 +11232,258 @@
    "nota": "Precio pedido a ~6 % por debajo de un estimado conservador; no alcanza el umbral del 15 %. Confirmar referencia y que el cronógrafo coincida con IW391021."
   },
   "motivo": "triage: Precio pedido a ~6 % por debajo de un estimado conservador; no alcanza el umbral del 15 %. Confirmar referencia y que el cronógrafo coincida con IW391021. (justo 13000)"
+ },
+ {
+  "fecha": "2026-10-29T19:08:42.285163+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Men's 40MM Stainless Steel 116610LN Ceramic 2017 W/ Papers",
+  "total": 13800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840072370099",
+  "item_id": "v1|840072370099|0",
+  "referencia": "116610LN",
+  "mercado": {
+   "n": 59,
+   "p25": 12899,
+   "mediana": 13500
+  },
+  "ratio_mercado": 1.07,
+  "motivo": "precio normal (107 % del cuartil bajo de 116610LN)"
+ },
+ {
+  "fecha": "2026-10-29T19:08:42.285163+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona Cosmograph 116518 Paul Newman Black 18K Yellow Gold Leather Box",
+  "total": 32632.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900049478616",
+  "item_id": "v1|900049478616|0",
+  "referencia": "116518",
+  "mercado": {
+   "n": 36,
+   "p25": 38150,
+   "mediana": 47722
+  },
+  "ratio_mercado": 0.855,
+  "motivo": "precio normal (86 % del cuartil bajo de 116518)"
+ },
+ {
+  "fecha": "2026-10-29T19:08:42.285163+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona 18K Yellow Gold Watch 116528",
+  "total": 40000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407325189706",
+  "item_id": "v1|407325189706|0",
+  "referencia": "116528",
+  "mercado": {
+   "n": 27,
+   "p25": 45990,
+   "mediana": 49730
+  },
+  "ratio_mercado": 0.87,
+  "motivo": "precio normal (87 % del cuartil bajo de 116528)"
+ },
+ {
+  "fecha": "2026-10-29T19:08:42.285163+00:00",
+  "marca": "Panerai",
+  "titulo": "Blue Panerai Luminor GMT Watch With OEM Steel Bracelet- PAM1033, PAM001033",
+  "total": 6399.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257823968849",
+  "item_id": "v1|257823968849|0",
+  "referencia": "PAM1033",
+  "mercado": {
+   "n": 2,
+   "p25": 5750,
+   "mediana": 7096
+  },
+  "triage": {
+   "modelo": "Panerai Luminor GMT Automatic 44 mm, esfera oscura con brazalete de acero",
+   "referencia": "PAM01033",
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "Precio cercano al mercado de segunda mano, sin descuento del 15 %. El título dice PAM1033 y 'azul'; la foto no confirma la esfera ni si incluye caja y papeles."
+  },
+  "motivo": "triage: Precio cercano al mercado de segunda mano, sin descuento del 15 %. El título dice PAM1033 y 'azul'; la foto no confirma la esfera ni si incluye caja y papeles. (justo 6500)"
+ },
+ {
+  "fecha": "2026-10-29T19:08:42.285163+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Seamaster Aqua Terra 220.10.28.60.54.001 Diamond 28MM Ladies Quartz",
+  "total": 2635.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206661814904",
+  "item_id": "v1|206661814904|0",
+  "referencia": "220.10.28.60.54.001",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Omega Seamaster Aqua Terra 28 mm, señora, cuarzo, esfera nácar con diamantes",
+   "referencia": "220.10.28.60.54.001",
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Precio pedido de $2635 por encima del valor de venta cerrada para este modelo usado en excelente estado; no hay descuento claro."
+  },
+  "motivo": "triage: Precio pedido de $2635 por encima del valor de venta cerrada para este modelo usado en excelente estado; no hay descuento claro. (justo 2300)"
+ },
+ {
+  "fecha": "2026-10-29T19:08:42.285163+00:00",
+  "marca": "Breitling",
+  "titulo": "New Breitling Superocean Heritage Chronograph 44 Men's Watch A13313161C1S1",
+  "total": 4970.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800852708234",
+  "item_id": "v1|800852708234|0",
+  "referencia": "A13313161C1S1",
+  "mercado": {
+   "n": 1,
+   "p25": 4495,
+   "mediana": 4495
+  },
+  "triage": {
+   "modelo": "Breitling Superocean Heritage II Chronograph 44 (esfera azul, bisel bidireccional, correa de caucho azul)",
+   "referencia": "A13313161C1S1",
+   "precio_justo_usd": 5300,
+   "interesante": false,
+   "nota": "Nuevo con caja y papeles; precio pedido cerca del mercado gris, sin descuento suficiente. Verificar autenticidad, ya que la foto parece de catálogo."
+  },
+  "motivo": "triage: Nuevo con caja y papeles; precio pedido cerca del mercado gris, sin descuento suficiente. Verificar autenticidad, ya que la foto parece de catálogo. (justo 5300)"
+ },
+ {
+  "fecha": "2026-10-29T19:08:42.285163+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Crosswind Special A44355 Automatic Chronograph 44mm Stainless Steel",
+  "total": 2725.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366769553912",
+  "item_id": "v1|366769553912|0",
+  "referencia": "A44355",
+  "mercado": {
+   "n": 5,
+   "p25": 3300,
+   "mediana": 3500
+  },
+  "ratio_mercado": 0.826,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 2400,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado, desgaste visible leve en bisel y caja; sin caja ni papeles originales"
+  },
+  "ratio_justo": 1.135,
+  "motivo": "precio normal segun revision (114 % del justo 2400)"
+ },
+ {
+  "fecha": "2026-10-29T19:08:42.285163+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Carrera Chronograph CBN2A1B.BA0643 Black Ceramic 44mm Men's Watch",
+  "total": 5495.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/377606443590",
+  "item_id": "v1|377606443590|0",
+  "referencia": "CBN2A1B.BA0643",
+  "mercado": {
+   "n": 4,
+   "p25": 3899,
+   "mediana": 4496
+  },
+  "triage": {
+   "modelo": "TAG Heuer Carrera Chronograph 44 mm, bisel de cerámica negra, esfera negra, brazalete de acero",
+   "referencia": "CBN2A1B.BA0643",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio pedido de US$5495 está unos 35-40 % por encima del valor de reventa estimado para un usado en excelente estado; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$5495 está unos 35-40 % por encima del valor de reventa estimado para un usado en excelente estado; no es una oportunidad. (justo 4000)"
+ },
+ {
+  "fecha": "2026-10-29T19:08:42.285163+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Women's Aquaracer WAY1413.BA0920 Swiss Quartz Diamond Pearl Date Watch",
+  "total": 1795.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/377606439622",
+  "item_id": "v1|377606439622|0",
+  "referencia": "WAY1413.BA0920",
+  "mercado": {
+   "n": 3,
+   "p25": 1015,
+   "mediana": 1100
+  },
+  "triage": {
+   "modelo": "TAG Heuer Aquaracer Lady 27 mm, esfera nácar con diamantes, cuarzo, bisel de acero",
+   "referencia": "WAY1413.BA0920",
+   "precio_justo_usd": 1200,
+   "interesante": false,
+   "nota": "Precio pedido de US$1795 queda muy por encima del valor de reventa usado de esta referencia; no cumple el umbral de 15 % por debajo del mercado."
+  },
+  "motivo": "triage: Precio pedido de US$1795 queda muy por encima del valor de reventa usado de esta referencia; no cumple el umbral de 15 % por debajo del mercado. (justo 1200)"
+ },
+ {
+  "fecha": "2026-10-29T19:08:42.285163+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG HEUER WAF141C.BA0813 LADIES AQUARACER BLACK DIAMOND SWISS LUXURY WATCH BOX",
+  "total": 1395.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227589006624",
+  "item_id": "v1|227589006624|0",
+  "referencia": "WAF141C.BA0813",
+  "mercado": {
+   "n": 5,
+   "p25": 925,
+   "mediana": 1250
+  },
+  "ratio_mercado": 1.508,
+  "motivo": "precio normal (151 % del cuartil bajo de WAF141C.BA0813)"
+ },
+ {
+  "fecha": "2026-10-29T19:08:42.285163+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Aquaracer WAF1117.BA0810 Silver Men's Diamond Steel Quartz Diver Watch",
+  "total": 1495.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227589006019",
+  "item_id": "v1|227589006019|0",
+  "referencia": "WAF1117.BA0810",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "TAG Heuer Aquaracer 300M (versión dama, esfera plateada con marcadores de diamante, 32 mm aprox.)",
+   "referencia": "WAF1117.BA0810",
+   "precio_justo_usd": 900,
+   "interesante": false,
+   "nota": "El título dice 'Men's', pero el tamaño y los diamantes sugieren modelo de dama. Pre-owned a US$1495 está por encima del valor de reventa; conviene verificar caja, papeles y tamaño real."
+  },
+  "motivo": "triage: El título dice 'Men's', pero el tamaño y los diamantes sugieren modelo de dama. Pre-owned a US$1495 está por encima del valor de reventa; conviene verificar caja, papeles y tamaño real. (justo 900)"
+ },
+ {
+  "fecha": "2026-10-29T19:08:42.285163+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "Tag Heuer AQUARACER WAF1015.BA0822 Grande Date Silver Swiss Men's Quartz Watch",
+  "total": 1095.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940050241431",
+  "item_id": "v1|940050241431|0",
+  "referencia": "WAF1015.BA0822",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "TAG Heuer Aquaracer Grande Date, cuarzo, acero, esfera plateada (según título y foto)",
+   "referencia": "WAF1015.BA0822",
+   "precio_justo_usd": 750,
+   "interesante": false,
+   "nota": "Cuarzo de acero de generación anterior; el precio pedido de US$1095 está por encima de lo que se vende realmente en estado usado. La referencia no se puede verificar solo con la foto."
+  },
+  "motivo": "triage: Cuarzo de acero de generación anterior; el precio pedido de US$1095 está por encima de lo que se vende realmente en estado usado. La referencia no se puede verificar solo con la foto. (justo 750)"
  }
 ]
