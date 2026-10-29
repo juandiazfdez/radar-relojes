@@ -1,176 +1,5 @@
 [
  {
-  "fecha": "2026-10-28T21:53:00.508588+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Lady-Datejust 28, 279381RBR, Steel & Rose Gold, Chocolate Diamond, Jubi...",
-  "total": 22855.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/800849461951",
-  "item_id": "v1|800849461951|0",
-  "referencia": "279381RBR",
-  "mercado": {
-   "n": 1,
-   "p25": 28900,
-   "mediana": 28900
-  },
-  "triage": {
-   "modelo": "Rolex Lady-Datejust 28 (acero y Everose, bisel de diamantes, esfera chocolate con diamantes, brazalete Jubilee)",
-   "referencia": "279381RBR",
-   "precio_justo_usd": 14000,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de mercado para esta referencia nueva con caja y papeles; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de mercado para esta referencia nueva con caja y papeles; no es una oportunidad. (justo 14000)"
- },
- {
-  "fecha": "2026-10-28T21:53:00.508588+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise 18K .750 Yellow Gold Ladies Watch Ref 2385 Full Set Box",
-  "total": 16500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198752992062",
-  "item_id": "v1|198752992062|0",
-  "referencia": "2385",
-  "mercado": {
-   "n": 5,
-   "p25": 6950,
-   "mediana": 16650
-  },
-  "ratio_mercado": 2.374,
-  "motivo": "precio normal (237 % del cuartil bajo de 2385)"
- },
- {
-  "fecha": "2026-10-28T21:53:00.508588+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Pelagos Chronograph 43mm Automatic Carbon Composite Men's M25827KNJN-0001",
-  "total": 4800.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/128161555226",
-  "item_id": "v1|128161555226|0",
-  "triage": {
-   "modelo": "Tudor Pelagos (titanio, bisel y esfera azules, pulsera de titanio)",
-   "referencia": "25600TB (probable, según la imagen; el título no coincide)",
-   "precio_justo_usd": 3100,
-   "interesante": false,
-   "nota": "El título (cronógrafo, carbono, M25827KNJN) no coincide con lo que se ve; la referencia parece inexistente. Aunque fuera un Pelagos azul de titanio nuevo, US$4800 supera el precio de mercado gris."
-  },
-  "motivo": "triage: El título (cronógrafo, carbono, M25827KNJN) no coincide con lo que se ve; la referencia parece inexistente. Aunque fuera un Pelagos azul de titanio nuevo, US$4800 supera el precio de mercado gris. (justo 3100)"
- },
- {
-  "fecha": "2026-10-28T21:53:00.508588+00:00",
-  "marca": "Tudor",
-  "titulo": "2019 TUDOR Heritage Black Bay 79230N Automatic Men's Watch 41MM Full Set",
-  "total": 3375.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307252495546",
-  "item_id": "v1|307252495546|0",
-  "referencia": "79230N",
-  "mercado": {
-   "n": 14,
-   "p25": 3375,
-   "mediana": 3574
-  },
-  "ratio_mercado": 1.0,
-  "motivo": "precio normal (100 % del cuartil bajo de 79230N)"
- },
- {
-  "fecha": "2026-10-28T21:53:00.508588+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Constellation Observatory 39.4mm 140.13.39.21.01.001",
-  "total": 9833.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117492128355",
-  "item_id": "v1|117492128355|0",
-  "referencia": "140.13.39.21.01.001",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Omega De Ville (esfera negra, indices de bastón, correa de cuero; posiblemente no coincide con el título Constellation)",
-   "referencia": null,
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "El título cita Constellation Observatory, pero la foto muestra un modelo de estilo dress; el precio pedido de US$9833 está muy por encima del valor de venta real para un Omega de acero usado."
-  },
-  "motivo": "triage: El título cita Constellation Observatory, pero la foto muestra un modelo de estilo dress; el precio pedido de US$9833 está muy por encima del valor de venta real para un Omega de acero usado. (justo 4500)"
- },
- {
-  "fecha": "2026-10-28T21:53:00.508588+00:00",
-  "marca": "Omega",
-  "titulo": "2024 Omega Seamaster Ultra Deep 215.30.46.21.03.001 45.5MM Blue Steel Box Paper",
-  "total": 10000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117492127403",
-  "item_id": "v1|117492127403|0",
-  "referencia": "215.30.46.21.03.001",
-  "mercado": {
-   "n": 7,
-   "p25": 9000,
-   "mediana": 9500
-  },
-  "ratio_mercado": 1.111,
-  "motivo": "precio normal (111 % del cuartil bajo de 215.30.46.21.03.001)"
- },
- {
-  "fecha": "2026-10-28T21:53:00.508588+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Speedmaster Reduced | 39mm Black | Automatic Chronograph | Ref. 3510.50",
-  "total": 3595.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287685332204",
-  "item_id": "v1|287685332204|0",
-  "referencia": "3510.50",
-  "mercado": {
-   "n": 44,
-   "p25": 3500,
-   "mediana": 3692
-  },
-  "ratio_mercado": 1.027,
-  "motivo": "precio normal (103 % del cuartil bajo de 3510.50)"
- },
- {
-  "fecha": "2026-10-28T21:53:00.508588+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Superocean Steelfish Automatic 44mm Steel Men's Watch A13341C3/C893SS",
-  "total": 4300.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407323156642",
-  "item_id": "v1|407323156642|0",
-  "triage": {
-   "modelo": "Breitling Superocean Steelfish Chronograph Automatic 44 mm, esfera azul, acero",
-   "referencia": "A13341",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido de 4300 USD por encima del valor de venta cerrada estimado para esta referencia usada en buen estado; sin caja ni papeles confirmados."
-  },
-  "motivo": "triage: Precio pedido de 4300 USD por encima del valor de venta cerrada estimado para esta referencia usada en buen estado; sin caja ni papeles confirmados. (justo 3300)"
- },
- {
-  "fecha": "2026-10-28T21:53:00.508588+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Avenger *BOX+PAPERS* AB0147101C1A1 $7500 MSRP",
-  "total": 4975.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/820289126804",
-  "item_id": "v1|820289126804|0",
-  "referencia": "AB0147101C1A1",
-  "mercado": {
-   "n": 3,
-   "p25": 4999,
-   "mediana": 5200
-  },
-  "triage": {
-   "modelo": "Breitling Avenger Chronograph 43 (esfera azul, bisel de acero, brazalete de acero)",
-   "referencia": "AB0147101C1A1",
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "Precio cercano al mercado gris para este modelo con caja y papeles, pero el vendedor lo marca como refurbished, lo que reduce su valor; no hay descuento de al menos 15%."
-  },
-  "motivo": "triage: Precio cercano al mercado gris para este modelo con caja y papeles, pero el vendedor lo marca como refurbished, lo que reduce su valor; no hay descuento de al menos 15%. (justo 4800)"
- },
- {
   "fecha": "2026-10-28T22:07:59.603009+00:00",
   "marca": "Cartier",
   "titulo": "CARTIER  -  TANK DIVAN YELLOW GOLD WITH DIAMOND CASE",
@@ -11470,5 +11299,170 @@
    "nota": "Precio pedido por encima del valor de venta estimado para esta referencia de segunda mano; no hay descuento suficiente."
   },
   "motivo": "triage: Precio pedido por encima del valor de venta estimado para esta referencia de segunda mano; no hay descuento suficiente. (justo 7900)"
+ },
+ {
+  "fecha": "2026-10-29T22:08:56.526819+00:00",
+  "marca": "Rolex",
+  "titulo": "2018 CARD ROLEX MENS SUBMARINER DATE 40MM 116610LV HULK GREEN STEEL OYSTER WATCH",
+  "total": 18700.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287690636153",
+  "item_id": "v1|287690636153|0",
+  "referencia": "116610LV",
+  "mercado": {
+   "n": 34,
+   "p25": 20589,
+   "mediana": 21024
+  },
+  "ratio_mercado": 0.908,
+  "motivo": "precio normal (91 % del cuartil bajo de 116610LV)"
+ },
+ {
+  "fecha": "2026-10-29T22:08:56.526819+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 39 Rhodium 114300 - Full Set (Box & Papers) - Unpolished",
+  "total": 8399.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128163215556",
+  "item_id": "v1|128163215556|0",
+  "referencia": "114300",
+  "mercado": {
+   "n": 21,
+   "p25": 9445,
+   "mediana": 9950
+  },
+  "ratio_mercado": 0.889,
+  "motivo": "precio normal (89 % del cuartil bajo de 114300)"
+ },
+ {
+  "fecha": "2026-10-29T22:08:56.526819+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 PAPERS Rolex GMT-Master II “Bruce Wayne” 126710GRNR Steel Jubilee BOX",
+  "total": 22199.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168825304208",
+  "item_id": "v1|168825304208|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 85,
+   "p25": 22149,
+   "mediana": 23495
+  },
+  "ratio_mercado": 1.002,
+  "motivo": "precio normal (100 % del cuartil bajo de 126710GRNR)"
+ },
+ {
+  "fecha": "2026-10-29T22:08:56.526819+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex Datejust 36 | Ref. 126231",
+  "total": 20280.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267827610161",
+  "item_id": "v1|267827610161|0",
+  "referencia": "126231",
+  "mercado": {
+   "n": 28,
+   "p25": 16950,
+   "mediana": 17300
+  },
+  "ratio_mercado": 1.196,
+  "motivo": "precio normal (120 % del cuartil bajo de 126231)"
+ },
+ {
+  "fecha": "2026-10-29T22:08:56.526819+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA De Ville Prestige 18K Gold/Steel 36.8mm Co-Axial Automatic 424.20.37.20.02",
+  "total": 2799.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128163216058",
+  "item_id": "v1|128163216058|0",
+  "triage": {
+   "modelo": "Omega De Ville Prestige bicolor acero y oro amarillo 18K, 36.8 mm, Co-Axial, automático con fecha",
+   "referencia": "424.20.37.20.02",
+   "precio_justo_usd": 2200,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta real de un usado en excelente estado; sin caja ni papeles mencionados, así que no supera el umbral del 15 % de descuento."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta real de un usado en excelente estado; sin caja ni papeles mencionados, así que no supera el umbral del 15 % de descuento. (justo 2200)"
+ },
+ {
+  "fecha": "2026-10-29T22:08:56.526819+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Speedmaster Auto Chronograph Tachymeter ref # 3513.30.00 Steel Bracelet ",
+  "total": 2600.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920082986882",
+  "item_id": "v1|920082986882|0",
+  "referencia": "3513.30.00",
+  "mercado": {
+   "n": 4,
+   "p25": 2650,
+   "mediana": 2750
+  },
+  "triage": {
+   "modelo": "Omega Speedmaster Automatic Chronograph (esfera plateada, brazalete de acero, bisel taquimétrico)",
+   "referencia": "3513.30.00",
+   "precio_justo_usd": 2500,
+   "interesante": false,
+   "nota": "Precio en línea con el mercado de usados para esta referencia; no está 15 % por debajo. Confirmar referencia, año y papeles en el caseback y los eslabones."
+  },
+  "motivo": "triage: Precio en línea con el mercado de usados para esta referencia; no está 15 % por debajo. Confirmar referencia, año y papeles en el caseback y los eslabones. (justo 2500)"
+ },
+ {
+  "fecha": "2026-10-29T22:08:56.526819+00:00",
+  "marca": "Omega",
+  "titulo": "Stunning 1940 Omega 2287 Stainless Steel Man's Chronograph Watch Amazing Cond!",
+  "total": 7295.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900049806681",
+  "item_id": "v1|900049806681|0",
+  "triage": {
+   "modelo": "Omega Chronograph ref. 2287 (acero, años 1940)",
+   "referencia": "2287",
+   "precio_justo_usd": 5500,
+   "interesante": false,
+   "nota": "Cronógrafo vintage de acero con esfera crema y tres contadores; el precio pedido de 7295 USD supera lo que se cierra normalmente para esta referencia en estado bueno. La identificación se basa solo en la foto."
+  },
+  "motivo": "triage: Cronógrafo vintage de acero con esfera crema y tres contadores; el precio pedido de 7295 USD supera lo que se cierra normalmente para esta referencia en estado bueno. La identificación se basa solo en la foto. (justo 5500)"
+ },
+ {
+  "fecha": "2026-10-29T22:08:56.526819+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "TAG Heuer Aquaracer Titanium Solargraph  WBP1180.BF0000",
+  "total": 2500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128163213892",
+  "item_id": "v1|128163213892|0",
+  "referencia": "WBP1180.BF0000",
+  "mercado": {
+   "n": 1,
+   "p25": 2700,
+   "mediana": 2700
+  },
+  "triage": {
+   "modelo": "TAG Heuer Aquaracer Solargraph Titanium 43 mm",
+   "referencia": "WBP1180.BF0000",
+   "precio_justo_usd": 1400,
+   "interesante": false,
+   "nota": "Precio pedido de US$2500 muy por encima del valor de venta real de esta referencia de segunda mano (sin caja ni papeles visibles); el listado no justifica el precio."
+  },
+  "motivo": "triage: Precio pedido de US$2500 muy por encima del valor de venta real de esta referencia de segunda mano (sin caja ni papeles visibles); el listado no justifica el precio. (justo 1400)"
+ },
+ {
+  "fecha": "2026-10-29T22:08:56.526819+00:00",
+  "marca": "TAG Heuer",
+  "titulo": "Vintage Heuer 1000 Series \"Jumbo\" Quartz 42mm Ref. 980.022",
+  "total": 1299.99,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/198753019595",
+  "item_id": "v1|198753019595|0",
+  "triage": {
+   "modelo": "TAG Heuer (Heuer) 1000 Series, buzo de cuarzo con bisel azul y brazalete dorado",
+   "referencia": "980.022 (no verificable en la foto)",
+   "precio_justo_usd": 650,
+   "interesante": false,
+   "nota": "Precio pedido de $1300 está muy por encima de lo que se vende este modelo en estado Fair; la referencia y el chapado deben verificarse antes de cualquier oferta."
+  },
+  "motivo": "triage: Precio pedido de $1300 está muy por encima de lo que se vende este modelo en estado Fair; la referencia y el chapado deben verificarse antes de cualquier oferta. (justo 650)"
  }
 ]
