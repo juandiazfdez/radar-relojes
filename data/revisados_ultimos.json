@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-28T02:52:27.319233+00:00",
   "marca": "Omega",
-  "titulo": "Vintage Rare Omega Seamaster Automatic Horn Lugs Ref 14363 ",
-  "total": 1750.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336866623724",
-  "item_id": "v1|336866623724|0",
-  "triage": {
-   "modelo": "Omega Seamaster Automatic, horn lugs (vintage, años 50-60); la foto muestra un reloj de estilo dress con correa roja, que no coincide claramente con el título",
-   "referencia": "14363",
-   "precio_justo_usd": 1100,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor estimado; la foto no confirma el modelo anunciado, así que conviene pedir fotos del dial y la caja antes de considerarlo."
-  },
-  "motivo": "triage: Precio pedido por encima del valor estimado; la foto no confirma el modelo anunciado, así que conviene pedir fotos del dial y la caja antes de considerarlo. (justo 1100)"
- },
- {
-  "fecha": "2026-10-28T02:52:27.319233+00:00",
-  "marca": "Omega",
   "titulo": "OMEGA Seamaster Aqua Terra 231.10.39.21.02.001",
   "total": 3333.0,
   "condicion": "Pre-owned - Excellent",
@@ -11375,5 +11358,22 @@
   },
   "ratio_justo": 0.833,
   "motivo": "ALERTA"
+ },
+ {
+  "fecha": "2026-10-29T04:53:20.130558+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 16013 Mens Watch",
+  "total": 6999.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237150017836",
+  "item_id": "v1|237150017836|0",
+  "referencia": "16013",
+  "mercado": {
+   "n": 21,
+   "p25": 1815,
+   "mediana": 4700
+  },
+  "ratio_mercado": 3.857,
+  "motivo": "precio normal (386 % del cuartil bajo de 16013)"
  }
 ]
