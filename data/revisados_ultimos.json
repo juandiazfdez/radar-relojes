@@ -1,138 +1,6 @@
 [
  {
   "fecha": "2026-10-28T15:52:49.466117+00:00",
-  "marca": "Rolex",
-  "titulo": "2013 Rolex Explorer II 216570 Black Orange Stainless Steel 42mm Watch Box Papers",
-  "total": 9572.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960126633157",
-  "item_id": "v1|960126633157|0",
-  "referencia": "216570",
-  "mercado": {
-   "n": 15,
-   "p25": 9750,
-   "mediana": 10000
-  },
-  "ratio_mercado": 0.982,
-  "motivo": "precio normal (98 % del cuartil bajo de 216570)"
- },
- {
-  "fecha": "2026-10-28T15:52:49.466117+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41 126334 Wimbledon Roman 18K Gold Steel Oyster 41mm Watch",
-  "total": 12427.97,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960126629028",
-  "item_id": "v1|960126629028|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 1,
-   "p25": 10389,
-   "mediana": 10389
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 Wimbledon (esfera gris pizarra con numerales romanos verdes, bisel acanalado de oro blanco, caja Oyster de acero)",
-   "referencia": "126334",
-   "precio_justo_usd": 13200,
-   "interesante": false,
-   "nota": "Precio ~6% bajo el valor de mercado estimado; no cumple el umbral del 15%. Falta verificar caja, papeles y autenticidad."
-  },
-  "motivo": "triage: Precio ~6% bajo el valor de mercado estimado; no cumple el umbral del 15%. Falta verificar caja, papeles y autenticidad. (justo 13200)"
- },
- {
-  "fecha": "2026-10-28T15:52:49.466117+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41 126334 Blue 18K Gold Stainless Steel Oyster 41mm Watch Box",
-  "total": 12223.97,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960126616145",
-  "item_id": "v1|960126616145|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 1,
-   "p25": 10389,
-   "mediana": 10389
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 (acero Oystersteel con bisel acanalado de oro blanco, esfera azul con indices, brazalete Oyster)",
-   "referencia": "126334",
-   "precio_justo_usd": 11500,
-   "interesante": false,
-   "nota": "Precio pedido de 12224 USD, unos 6 % por encima de la estimacion de venta cerrada para este modelo usado. El titulo menciona 'Watch Box', conviene confirmar si incluye reloj, caja y papeles."
-  },
-  "motivo": "triage: Precio pedido de 12224 USD, unos 6 % por encima de la estimacion de venta cerrada para este modelo usado. El titulo menciona 'Watch Box', conviene confirmar si incluye reloj, caja y papeles. (justo 11500)"
- },
- {
-  "fecha": "2026-10-28T15:52:49.466117+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Pasha 42mm JLC 8000MC Automatic 18K Yellow Gold W3019551",
-  "total": 15895.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880059434660",
-  "item_id": "v1|880059434660|0",
-  "referencia": "W3019551",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Pasha de Cartier 41/42 mm, oro amarillo 18K, esfera blanca, calibre automático 8000MC, correa de cocodrilo",
-   "referencia": "W3019551",
-   "precio_justo_usd": 14500,
-   "interesante": false,
-   "nota": "El precio pedido está solo alrededor de un 9% por encima de mi estimación conservadora de venta cerrada, así que no cumple el umbral del 15% por debajo. El valor depende de caja y papeles, que el listado no confirma."
-  },
-  "motivo": "triage: El precio pedido está solo alrededor de un 9% por encima de mi estimación conservadora de venta cerrada, así que no cumple el umbral del 15% por debajo. El valor depende de caja y papeles, que el listado no confirma. (justo 14500)"
- },
- {
-  "fecha": "2026-10-28T15:52:49.466117+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Heritage Black Bay 79500 Stainless Steel Automatic 36mm Watch Box",
-  "total": 2534.08,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940048093141",
-  "item_id": "v1|940048093141|0",
-  "referencia": "79500",
-  "mercado": {
-   "n": 2,
-   "p25": 2315,
-   "mediana": 2432
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay 36 (Heritage), acero, esfera negra, brazalete de acero",
-   "referencia": "M79500 (según título del listado, verificar)",
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "El precio está en línea con el mercado; el título dice 'Watch Box', así que hay que confirmar que incluye el reloj y no solo la caja."
-  },
-  "motivo": "triage: El precio está en línea con el mercado; el título dice 'Watch Box', así que hay que confirmar que incluye el reloj y no solo la caja. (justo 2600)"
- },
- {
-  "fecha": "2026-10-28T15:52:49.466117+00:00",
-  "marca": "Omega",
-  "titulo": "2010 Omega Seamaster Planet Ocean 2201.50.00 Black Steel 42mm Watch Box Papers",
-  "total": 4574.1,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960126631471",
-  "item_id": "v1|960126631471|0",
-  "referencia": "2201.50.00",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Planet Ocean 42 mm, esfera negra, acero (Co-Axial)",
-   "referencia": "2201.50.00",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Referencia 2201.50 en acero con caja y papeles en buen estado; precio pedido de US$4574 queda por encima del rango de venta cerrada, así que no es una oportunidad."
-  },
-  "motivo": "triage: Referencia 2201.50 en acero con caja y papeles en buen estado; precio pedido de US$4574 queda por encima del rango de venta cerrada, así que no es una oportunidad. (justo 4000)"
- },
- {
-  "fecha": "2026-10-28T15:52:49.466117+00:00",
   "marca": "Omega",
   "titulo": "1970's Omega Seamaster \"TV Case\" Ref. 196.0086 Stainless Steel Watch - Pristine",
   "total": 1399.0,
@@ -11398,5 +11266,119 @@
    "nota": "Precio pedido de US$4550 con envío, por encima del rango de venta real para esta referencia de segunda mano con caja; el listado solo menciona la caja, sin papeles."
   },
   "motivo": "triage: Precio pedido de US$4550 con envío, por encima del rango de venta real para esta referencia de segunda mano con caja; el listado solo menciona la caja, sin papeles. (justo 4300)"
+ },
+ {
+  "fecha": "2026-10-29T17:38:41.789864+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Française Small 25mm x 30mm Quartz Steel Watch 2301 W51003Q3",
+  "total": 4110.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257823842547",
+  "item_id": "v1|257823842547|0",
+  "referencia": "2301",
+  "mercado": {
+   "n": 9,
+   "p25": 3595,
+   "mediana": 4269
+  },
+  "ratio_mercado": 1.143,
+  "motivo": "precio normal (114 % del cuartil bajo de 2301)"
+ },
+ {
+  "fecha": "2026-10-29T17:38:41.789864+00:00",
+  "marca": "Omega",
+  "titulo": "OMEGA Speedmaster 326.30.40.50.01.002",
+  "total": 4486.18,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/366769424053",
+  "item_id": "v1|366769424053|0",
+  "referencia": "326.30.40.50.01.002",
+  "mercado": {
+   "n": 1,
+   "p25": 4815,
+   "mediana": 4815
+  },
+  "triage": {
+   "modelo": "Omega Speedmaster Racing (cronógrafo Co-Axial, 40 mm, esfera blanca, brazalete de acero)",
+   "referencia": "326.30.40.50.01.002",
+   "precio_justo_usd": 4900,
+   "interesante": false,
+   "nota": "Precio cercano al mercado gris con caja y papeles, con solo ~8 % de descuento; la foto no muestra claramente el bisel taquimétrico de la Racing, así que conviene verificar la referencia."
+  },
+  "motivo": "triage: Precio cercano al mercado gris con caja y papeles, con solo ~8 % de descuento; la foto no muestra claramente el bisel taquimétrico de la Racing, así que conviene verificar la referencia. (justo 4900)"
+ },
+ {
+  "fecha": "2026-10-29T17:38:41.789864+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Super Avenger Chronograph Black Index Steel 48mm Watch A13370 Papers",
+  "total": 4010.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336869214647",
+  "item_id": "v1|336869214647|0",
+  "referencia": "A13370",
+  "mercado": {
+   "n": 41,
+   "p25": 3800,
+   "mediana": 5000
+  },
+  "ratio_mercado": 1.055,
+  "motivo": "precio normal (106 % del cuartil bajo de A13370)"
+ },
+ {
+  "fecha": "2026-10-29T17:38:41.789864+00:00",
+  "marca": "Breitling",
+  "titulo": "Breitling Superocean 36 A17316D21A151 with Full Set Circa 2020 Appx.",
+  "total": 3200.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128162825554",
+  "item_id": "v1|128162825554|0",
+  "triage": {
+   "modelo": "Breitling Superocean 36 (acero, esfera blanca, correa de caucho azul)",
+   "referencia": "A17316D21A151 (según el título; verificar, ya que el número podría ser A17316D21A1S1 u otra variante)",
+   "precio_justo_usd": 2900,
+   "interesante": false,
+   "nota": "Precio pedido de 3200 US$ por encima del valor de venta estimado para este modelo usado con caja y papeles hacia 2020; no cumple el umbral de 15 % de descuento."
+  },
+  "motivo": "triage: Precio pedido de 3200 US$ por encima del valor de venta estimado para este modelo usado con caja y papeles hacia 2020; no cumple el umbral de 15 % de descuento. (justo 2900)"
+ },
+ {
+  "fecha": "2026-10-29T17:38:41.789864+00:00",
+  "marca": "Jaeger-LeCoultre",
+  "titulo": "Jaeger-LeCoultre Master Control Eight Days Rose Gold 41.5mm Watch Q1602420",
+  "total": 15760.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336869220979",
+  "item_id": "v1|336869220979|0",
+  "referencia": "Q1602420",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Jaeger-LeCoultre Master Control Eight Days, oro rosa 41.5 mm",
+   "referencia": "Q1602420",
+   "precio_justo_usd": 13500,
+   "interesante": false,
+   "nota": "Precio pedido de US$15,760 con envío está por encima del valor de venta cerrada estimado para este modelo de oro rosa usado, sin evidencia de descuento. Verificar la referencia exacta y el estado de caja y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$15,760 con envío está por encima del valor de venta cerrada estimado para este modelo de oro rosa usado, sin evidencia de descuento. Verificar la referencia exacta y el estado de caja y papeles. (justo 13500)"
+ },
+ {
+  "fecha": "2026-10-29T17:38:41.789864+00:00",
+  "marca": "IWC",
+  "titulo": "***SERVICED*** 1973 IWC REF. R2500 CAL. 423 18K YELLOW GOLD WATCH (\"Old Inter\")",
+  "total": 4069.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257823850755",
+  "item_id": "v1|257823850755|0",
+  "triage": {
+   "modelo": "IWC vintage de dos tonos... no, de oro amarillo 18K, esfera champán con índices de bastón (años 70, probablemente calibre 423 según el listado)",
+   "referencia": "R2500 (no verificable en la foto)",
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Reloj vintage de oro 18K con esfera champán; la referencia y el calibre no se pueden confirmar solo con la imagen. Precio pedido de US$4069 por encima de su valor de venta estimado."
+  },
+  "motivo": "triage: Reloj vintage de oro 18K con esfera champán; la referencia y el calibre no se pueden confirmar solo con la imagen. Precio pedido de US$4069 por encima de su valor de venta estimado. (justo 2800)"
  }
 ]
