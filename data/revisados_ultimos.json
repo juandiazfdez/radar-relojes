@@ -2,156 +2,6 @@
  {
   "fecha": "2026-10-28T03:52:27.137859+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Carrera WV2115 Twin-Time Black Automatic 39mm Date Swiss Made ",
-  "total": 1200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840067427355",
-  "item_id": "v1|840067427355|0",
-  "referencia": "WV2115",
-  "mercado": {
-   "n": 12,
-   "p25": 1615,
-   "mediana": 1691
-  },
-  "ratio_mercado": 0.743,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 1250,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, desgaste visible en caja y bisel, sin caja ni papeles"
-  },
-  "ratio_justo": 0.96,
-  "motivo": "precio normal segun revision (96 % del justo 1250)"
- },
- {
-  "fecha": "2026-10-28T03:52:27.137859+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer CAU1113.BA0858 Mens Indy 500 Formula 1 Series Gray Chronograph Watch",
-  "total": 975.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377602716115",
-  "item_id": "v1|377602716115|0",
-  "referencia": "CAU1113.BA0858",
-  "mercado": {
-   "n": 2,
-   "p25": 995,
-   "mediana": 1095
-  },
-  "triage": {
-   "modelo": "TAG Heuer Formula 1 Indy 500 Chronograph (acero, esfera gris)",
-   "referencia": "CAU1113.BA0858",
-   "precio_justo_usd": 600,
-   "interesante": false,
-   "nota": "Cronógrafo de acero de la serie F1 de la era 2000s; en estado usado se vende por debajo de 700 USD, así que 975 USD está caro."
-  },
-  "motivo": "triage: Cronógrafo de acero de la serie F1 de la era 2000s; en estado usado se vende por debajo de 700 USD, así que 975 USD está caro. (justo 600)"
- },
- {
-  "fecha": "2026-10-28T03:52:27.137859+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer 371.508 WA1411.BA0495 Women's Formula 1 Series Black Cream & Red Watch",
-  "total": 650.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377602716119",
-  "item_id": "v1|377602716119|0",
-  "referencia": "WA1411.BA0495",
-  "mercado": {
-   "n": 5,
-   "p25": 275,
-   "mediana": 300
-  },
-  "ratio_mercado": 2.364,
-  "motivo": "precio normal (236 % del cuartil bajo de WA1411.BA0495)"
- },
- {
-  "fecha": "2026-10-28T03:52:27.137859+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer WK2117.BA0311 Mens 2000 Series Automatic Watch Blue Silver Stainless",
-  "total": 655.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377602716143",
-  "item_id": "v1|377602716143|0",
-  "referencia": "WK2117.BA0311",
-  "mercado": {
-   "n": 2,
-   "p25": 700,
-   "mediana": 748
-  },
-  "triage": {
-   "modelo": "TAG Heuer 2000 Series automático, esfera azul, brazalete de acero",
-   "referencia": "WK2117.BA0311 (según título, no verificable en la foto)",
-   "precio_justo_usd": 620,
-   "interesante": false,
-   "nota": "Precio pedido ligeramente por encima de la estimación de venta cerrada para estado 'Good' sin caja ni papeles confirmados; no alcanza el 15 % de descuento."
-  },
-  "motivo": "triage: Precio pedido ligeramente por encima de la estimación de venta cerrada para estado 'Good' sin caja ni papeles confirmados; no alcanza el 15 % de descuento. (justo 620)"
- },
- {
-  "fecha": "2026-10-28T03:52:27.137859+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer CAC111B.BA0850 Mens Indy 500 Formula 1 Series Chronograph Watch Black",
-  "total": 830.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377602716147",
-  "item_id": "v1|377602716147|0",
-  "referencia": "CAC111B.BA0850",
-  "mercado": {
-   "n": 6,
-   "p25": 750,
-   "mediana": 891
-  },
-  "ratio_mercado": 1.107,
-  "motivo": "precio normal (111 % del cuartil bajo de CAC111B.BA0850)"
- },
- {
-  "fecha": "2026-10-28T03:52:27.137859+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer WAH1315.BA0868 Womens Midsize Formula 1 White & Ceramic Diamonds Watch",
-  "total": 950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377602716148",
-  "item_id": "v1|377602716148|0",
-  "referencia": "WAH1315.BA0868",
-  "mercado": {
-   "n": 4,
-   "p25": 900,
-   "mediana": 912
-  },
-  "triage": {
-   "modelo": "TAG Heuer Formula 1 Midsize (dama), acero con cerámica blanca",
-   "referencia": "WAH1315.BA0868",
-   "precio_justo_usd": 650,
-   "interesante": false,
-   "nota": "Precio pedido de US$950 por un modelo de dama usado y en estado Good; la venta cerrada habitual ronda los US$600-700, así que no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido de US$950 por un modelo de dama usado y en estado Good; la venta cerrada habitual ronda los US$600-700, así que no hay descuento suficiente. (justo 650)"
- },
- {
-  "fecha": "2026-10-28T03:52:27.137859+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer WAF141H.BA0813 Womens Aquaracer Series Watch Pink Pearl 23 Diamonds",
-  "total": 985.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377602716149",
-  "item_id": "v1|377602716149|0",
-  "referencia": "WAF141H.BA0813",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "TAG Heuer Aquaracer para mujer, esfera de nácar rosa, bisel con marcadores, brazalete de acero",
-   "referencia": "WAF141H.BA0813 (según el título; no verificable en la foto)",
-   "precio_justo_usd": 800,
-   "interesante": false,
-   "nota": "Precio pedido US$985 con envío, por encima de la estimación conservadora de venta cerrada (~US$800) para un Aquaracer de dama de cuarzo usado en estado Good. Sin caja ni papeles visibles; autenticidad no verificable solo con la foto."
-  },
-  "motivo": "triage: Precio pedido US$985 con envío, por encima de la estimación conservadora de venta cerrada (~US$800) para un Aquaracer de dama de cuarzo usado en estado Good. Sin caja ni papeles visibles; autenticidad no verificable solo con la foto. (justo 800)"
- },
- {
-  "fecha": "2026-10-28T03:52:27.137859+00:00",
-  "marca": "TAG Heuer",
   "titulo": "TAG Heuer WAB1120.BB0802 Mens Aquaracer Series Quartz Watch Blue Gold 300M",
   "total": 995.0,
   "condicion": "Pre-owned - Good",
@@ -11345,5 +11195,136 @@
   },
   "ratio_mercado": 1.071,
   "motivo": "precio normal (107 % del cuartil bajo de Q1378420)"
+ },
+ {
+  "fecha": "2026-10-29T07:08:19.951378+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 6263 Daytona Cosmograph circa 1973 parts watch",
+  "total": 6950.0,
+  "condicion": "For parts or not working",
+  "url": "https://www.ebay.com/itm/137880705278",
+  "item_id": "v1|137880705278|0",
+  "referencia": "6263",
+  "mercado": {
+   "n": 1,
+   "p25": 2750,
+   "mediana": 2750
+  },
+  "triage": {
+   "modelo": "Rolex Cosmograph Daytona, lote de piezas (calibre Valjoux 72/727 según documentación)",
+   "referencia": "6263 (según título; no verificable en la imagen)",
+   "precio_justo_usd": 1200,
+   "interesante": false,
+   "nota": "Es un lote de piezas sueltas y documentación, no un reloj completo. Aunque sea un 6263, el precio pedido de US$6950 está muy por encima del valor de un lote de piezas."
+  },
+  "motivo": "triage: Es un lote de piezas sueltas y documentación, no un reloj completo. Aunque sea un 6263, el precio pedido de US$6950 está muy por encima del valor de un lote de piezas. (justo 1200)"
+ },
+ {
+  "fecha": "2026-10-29T07:08:19.951378+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 1024 \"shell\" circa 1962 watch",
+  "total": 2825.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137882669456",
+  "item_id": "v1|137882669456|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual (caja dorada, posible chapado u oro laminado, aprox. años 60)",
+   "referencia": "1024 según el título, sin confirmar; la caja en la foto parece dorada, no de acero",
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "El título dice acero 1024, pero la caja se ve dorada: verificar material y referencia antes de comprar. Con ese material, el precio pedido está por encima del valor estimado."
+  },
+  "motivo": "triage: El título dice acero 1024, pero la caja se ve dorada: verificar material y referencia antes de comprar. Con ese material, el precio pedido está por encima del valor estimado. (justo 2300)"
+ },
+ {
+  "fecha": "2026-10-29T07:08:19.951378+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 1024 \"shell\" circa 1962 watch",
+  "total": 2425.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137882674983",
+  "item_id": "v1|137882674983|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual de los años 60 con caja dorada ('shell')",
+   "referencia": "1024",
+   "precio_justo_usd": 2200,
+   "interesante": false,
+   "nota": "Precio cercano al mercado, no 15% por debajo. Verificar si la caja es oro macizo o chapado, que cambia mucho el valor, y la autenticidad."
+  },
+  "motivo": "triage: Precio cercano al mercado, no 15% por debajo. Verificar si la caja es oro macizo o chapado, que cambia mucho el valor, y la autenticidad. (justo 2200)"
+ },
+ {
+  "fecha": "2026-10-29T07:08:19.951378+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date 1501 circa 1979 watch",
+  "total": 4250.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137882686785",
+  "item_id": "v1|137882686785|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date bicolor (acero y oro), esfera champán con índices dorados",
+   "referencia": "1501",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Referencia 1501 de finales de los 70 en bicolor, pero el precio pedido queda por encima del valor de venta real. La correa de cuero no es original y el estado es solo 'Good'."
+  },
+  "motivo": "triage: Referencia 1501 de finales de los 70 en bicolor, pero el precio pedido queda por encima del valor de venta real. La correa de cuero no es original y el estado es solo 'Good'. (justo 3800)"
+ },
+ {
+  "fecha": "2026-10-29T07:08:19.951378+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 6564 circa 1946 watch",
+  "total": 3100.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137882722717",
+  "item_id": "v1|137882722717|0",
+  "referencia": "6564",
+  "mercado": {
+   "n": 19,
+   "p25": 4250,
+   "mediana": 5200
+  },
+  "ratio_mercado": 0.729,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 2500,
+   "riesgo_autenticidad": "medio",
+   "estado": "Aceptable para su edad: caja pulida, esfera y agujas con desgaste, correa nueva no original"
+  },
+  "motivo": "Claude descarto: A 3100 USD no hay margen. Lo que realmente se cierra por un 6564 de acero sin caja ni papeles, con esfera envejecida y caja pulida, ronda 2300-2800 USD. Los 4250-5200 de los comparables son precios pedidos y están inflados.; Sin devoluciones, sin garantía de autenticidad y con la precisión 'no garantizada'. Para un vintage de reventa eso es demasiado riesgo."
+ },
+ {
+  "fecha": "2026-10-29T07:08:19.951378+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex s/s Datejust 16030 white Roman Jubilee bracelet circa 1992 watch",
+  "total": 5875.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137882738840",
+  "item_id": "v1|137882738840|0",
+  "referencia": "16030",
+  "mercado": {
+   "n": 6,
+   "p25": 710,
+   "mediana": 2454
+  },
+  "ratio_mercado": 8.275,
+  "motivo": "precio normal (827 % del cuartil bajo de 16030)"
+ },
+ {
+  "fecha": "2026-10-29T07:08:19.951378+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex s/s Datejust 1603 white stick Jubilee bracelet circa 1971 watch",
+  "total": 4425.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137882755803",
+  "item_id": "v1|137882755803|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 mm acero con bisel estriado, esfera blanca de índices en barra (stick), brazalete Jubilee, c. 1971",
+   "referencia": "1603",
+   "precio_justo_usd": 4900,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para un 1603 vintage en buen estado; el descuento es menor al 15 %. Las fotos muestran correas y un dial extra que el título no menciona, así que confirma qué incluye el listado."
+  },
+  "motivo": "triage: Precio cercano al mercado para un 1603 vintage en buen estado; el descuento es menor al 15 %. Las fotos muestran correas y un dial extra que el título no menciona, así que confirma qué incluye el listado. (justo 4900)"
  }
 ]
