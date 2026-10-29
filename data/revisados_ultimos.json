@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-28T04:07:26.894879+00:00",
   "marca": "Omega",
-  "titulo": "1966 Omega Constellation Chronometer Pie Pan 168.005 Cal 561 Steel Automatic",
-  "total": 1695.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/237147972547",
-  "item_id": "v1|237147972547|0",
-  "triage": {
-   "modelo": "Omega Constellation Chronometer 'Pie Pan' (cal. 561)",
-   "referencia": "168.005",
-   "precio_justo_usd": 1900,
-   "interesante": false,
-   "nota": "Esfera pie pan visible y caja de acero coherentes con la referencia; estado 'Fair' suele implicar desgaste o reparaciones, y el precio está solo ~11% bajo un valor conservador, por debajo del umbral del 15%."
-  },
-  "motivo": "triage: Esfera pie pan visible y caja de acero coherentes con la referencia; estado 'Fair' suele implicar desgaste o reparaciones, y el precio está solo ~11% bajo un valor conservador, por debajo del umbral del 15%. (justo 1900)"
- },
- {
-  "fecha": "2026-10-28T04:07:26.894879+00:00",
-  "marca": "Omega",
   "titulo": "Omega Speedmaster /Chronograph/Date /3513.50 Black Dial/ Automatic Box Papers",
   "total": 3523.45,
   "condicion": "Pre-owned - Good",
@@ -11308,5 +11291,22 @@
   },
   "ratio_mercado": 1.044,
   "motivo": "precio normal (104 % del cuartil bajo de 311.30.42.30.01.006)"
+ },
+ {
+  "fecha": "2026-10-29T10:53:31.527204+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Baignoire PM W8000007 – 31.6 x 24.5mm 18K Rose Gold,",
+  "total": 7535.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860094448190",
+  "item_id": "v1|860094448190|0",
+  "referencia": "W8000007",
+  "mercado": {
+   "n": 5,
+   "p25": 9369,
+   "mediana": 9495
+  },
+  "ratio_mercado": 0.804,
+  "motivo": "descripcion: replica"
  }
 ]
