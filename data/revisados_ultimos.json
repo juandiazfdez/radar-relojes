@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-10-29T16:08:43.643529+00:00",
-  "marca": "Rolex",
-  "titulo": "🔥2016 Rolex Explorer Mark 1(39mm) Watch 214270🔥SALE🔥",
-  "total": 7600.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/227588854724",
-  "item_id": "v1|227588854724|0",
-  "referencia": "214270",
-  "mercado": {
-   "n": 25,
-   "p25": 8615,
-   "mediana": 9082
-  },
-  "ratio_mercado": 0.882,
-  "motivo": "precio normal (88 % del cuartil bajo de 214270)"
- },
- {
-  "fecha": "2026-10-29T16:08:43.643529+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Calibre de Cartier 42MM 3389 / W7100015 Iced Out Diamond Steel Watch",
-  "total": 9300.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/900049165443",
-  "item_id": "v1|900049165443|0",
-  "referencia": "3389",
-  "mercado": {
-   "n": 12,
-   "p25": 4975,
-   "mediana": 5573
-  },
-  "ratio_mercado": 1.869,
-  "motivo": "precio normal (187 % del cuartil bajo de 3389)"
- },
- {
-  "fecha": "2026-10-29T16:08:43.643529+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Panthere W25014B9 18K Yellow Gold Mens Watch",
   "total": 22699.0,
@@ -11354,5 +11320,39 @@
   },
   "ratio_mercado": 1.002,
   "motivo": "precio normal (100 % del cuartil bajo de 118235)"
+ },
+ {
+  "fecha": "2026-10-30T21:39:40.271649+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona Stainless Steel Watch 116520",
+  "total": 22000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407327858375",
+  "item_id": "v1|407327858375|0",
+  "referencia": "116520",
+  "mercado": {
+   "n": 18,
+   "p25": 23138,
+   "mediana": 23722
+  },
+  "ratio_mercado": 0.951,
+  "motivo": "precio normal (95 % del cuartil bajo de 116520)"
+ },
+ {
+  "fecha": "2026-10-30T21:39:40.271649+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual. Automatic. No box or papers.",
+  "total": 5100.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/168827358223",
+  "item_id": "v1|168827358223|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual bicolor (acero y bisel dorado), esfera azul, correa de cuero verde, posiblemente años 60-70",
+   "referencia": null,
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Referencia no verificable en la foto; la esfera azul puede ser reesfera y el estado es Fair sin caja ni papeles. El precio pedido de US$5.100 está muy por encima del valor de venta real."
+  },
+  "motivo": "triage: Referencia no verificable en la foto; la esfera azul puede ser reesfera y el estado es Fair sin caja ni papeles. El precio pedido de US$5.100 está muy por encima del valor de venta real. (justo 2800)"
  }
 ]
