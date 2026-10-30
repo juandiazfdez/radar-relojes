@@ -2,40 +2,6 @@
  {
   "fecha": "2026-10-29T16:23:42.233731+00:00",
   "marca": "TAG Heuer",
-  "titulo": "Tag Heuer 2000 Professional 200M Quartz Stainless Steel Watch",
-  "total": 768.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267827331661",
-  "item_id": "v1|267827331661|0",
-  "triage": {
-   "modelo": "TAG Heuer 2000 Professional 200M cuarzo, acero, esfera plateada",
-   "referencia": null,
-   "precio_justo_usd": 500,
-   "interesante": false,
-   "nota": "Modelo cuarzo de los años 90 con bisel giratorio y brazalete de acero; la referencia no se distingue en la foto. Con esfera clara y estado Good se vende cerca de 450-550 USD, así que los 768 USD pedidos están por encima del mercado."
-  },
-  "motivo": "triage: Modelo cuarzo de los años 90 con bisel giratorio y brazalete de acero; la referencia no se distingue en la foto. Con esfera clara y estado Good se vende cerca de 450-550 USD, así que los 768 USD pedidos están por encima del mercado. (justo 500)"
- },
- {
-  "fecha": "2026-10-29T16:23:42.233731+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "Tag Heuer Sel Professional 200M Quartz Stainless Steel Watch",
-  "total": 768.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267827331633",
-  "item_id": "v1|267827331633|0",
-  "triage": {
-   "modelo": "TAG Heuer Sel Professional 200M (cuarzo, acero, modelo femenino/tamaño pequeño con brazalete de eslabones)",
-   "referencia": null,
-   "precio_justo_usd": 350,
-   "interesante": false,
-   "nota": "Modelo de cuarzo de gama media-baja con mercado de reventa limitado; US$768 con envío está muy por encima de lo que se vende realmente en estado Good. La referencia exacta no es legible en la foto."
-  },
-  "motivo": "triage: Modelo de cuarzo de gama media-baja con mercado de reventa limitado; US$768 con envío está muy por encima de lo que se vende realmente en estado Good. La referencia exacta no es legible en la foto. (justo 350)"
- },
- {
-  "fecha": "2026-10-29T16:23:42.233731+00:00",
-  "marca": "TAG Heuer",
   "titulo": "Tag Heuer Formula 1 Automatic Stainless Steel Watch",
   "total": 1730.0,
   "condicion": "Pre-owned - Good",
@@ -11342,5 +11308,39 @@
   },
   "ratio_justo": 0.856,
   "motivo": "precio normal segun revision (86 % del justo 3500)"
+ },
+ {
+  "fecha": "2026-10-30T23:54:40.291118+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX YACHT-MASTER II 116681 TWO-TONE 18KT ROSE GOLD & STEEL MERCEDES HAND 44MM",
+  "total": 20499.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137888284330",
+  "item_id": "v1|137888284330|0",
+  "referencia": "116681",
+  "mercado": {
+   "n": 32,
+   "p25": 21575,
+   "mediana": 23003
+  },
+  "ratio_mercado": 0.95,
+  "motivo": "precio normal (95 % del cuartil bajo de 116681)"
+ },
+ {
+  "fecha": "2026-10-30T23:54:40.291118+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 79830RB",
+  "total": 3348.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168827529349",
+  "item_id": "v1|168827529349|0",
+  "referencia": "79830RB",
+  "mercado": {
+   "n": 45,
+   "p25": 3800,
+   "mediana": 4000
+  },
+  "ratio_mercado": 0.881,
+  "motivo": "precio normal (88 % del cuartil bajo de 79830RB)"
  }
 ]
