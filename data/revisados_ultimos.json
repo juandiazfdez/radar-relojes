@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T00:53:11.346730+00:00",
-  "marca": "IWC",
-  "titulo": "IWC Portofino Automatic IW356501 40MM Date Black Leather Mens Watch",
-  "total": 2949.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840069884404",
-  "item_id": "v1|840069884404|0",
-  "referencia": "IW356501",
-  "mercado": {
-   "n": 2,
-   "p25": 4700,
-   "mediana": 4798
-  },
-  "triage": {
-   "modelo": "IWC Portofino Automatic 40 mm con fecha, esfera blanca, correa de piel negra",
-   "referencia": "IW356501",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Precio cercano al mercado de segunda mano; la referencia viene del título y no se verifica en la foto. Descuento de solo ~8%, por debajo del umbral del 15%."
-  },
-  "motivo": "triage: Precio cercano al mercado de segunda mano; la referencia viene del título y no se verifica en la foto. Descuento de solo ~8%, por debajo del umbral del 15%. (justo 3200)"
- },
- {
   "fecha": "2026-10-29T01:08:11.199672+00:00",
   "marca": "Omega",
   "titulo": "Omega Constellation Stainless Steel / Silver 140.13.39.21.02.001",
@@ -11533,5 +11510,22 @@
   },
   "ratio_justo": 0.939,
   "motivo": "precio normal segun revision (94 % del justo 34500)"
+ },
+ {
+  "fecha": "2026-10-30T03:24:06.996346+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner No-Date 124060 41mm Oct 2026 Card Full Set Minus White Tag ",
+  "total": 13995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327429783909",
+  "item_id": "v1|327429783909|0",
+  "referencia": "124060",
+  "mercado": {
+   "n": 47,
+   "p25": 13525,
+   "mediana": 14095
+  },
+  "ratio_mercado": 1.035,
+  "motivo": "precio normal (103 % del cuartil bajo de 124060)"
  }
 ]
