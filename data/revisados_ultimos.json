@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-29T16:23:42.233731+00:00",
   "marca": "TAG Heuer",
-  "titulo": "Tag Heuer Formula 1 Quartz Stainless Steel Watch",
-  "total": 768.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820292258858",
-  "item_id": "v1|820292258858|0",
-  "triage": {
-   "modelo": "TAG Heuer Formula 1 Quartz, acero inoxidable, esfera negra con detalles rojos (aparente versión femenina/tamaño pequeño)",
-   "referencia": null,
-   "precio_justo_usd": 350,
-   "interesante": false,
-   "nota": "Modelo F1 de cuarzo de acero de uso habitual; con la referencia exacta no identificable en la foto, el precio pedido de US$768 está muy por encima del valor de venta cerrada de este reloj en su estado."
-  },
-  "motivo": "triage: Modelo F1 de cuarzo de acero de uso habitual; con la referencia exacta no identificable en la foto, el precio pedido de US$768 está muy por encima del valor de venta cerrada de este reloj en su estado. (justo 350)"
- },
- {
-  "fecha": "2026-10-29T16:23:42.233731+00:00",
-  "marca": "TAG Heuer",
   "titulo": "Tag Heuer 2000 Professional 200M Quartz Stainless Steel Watch",
   "total": 768.0,
   "condicion": "Pre-owned - Good",
@@ -11335,5 +11318,29 @@
    "nota": "Precio pedido de US$3,900 muy por encima del valor de venta cerrada para esta referencia vintage en estado Good; no parece pieza ni replica, pero no es una oportunidad."
   },
   "motivo": "triage: Precio pedido de US$3,900 muy por encima del valor de venta cerrada para esta referencia vintage en estado Good; no parece pieza ni replica, pero no es una oportunidad. (justo 2200)"
+ },
+ {
+  "fecha": "2026-10-30T23:39:39.894128+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Pro Ref. M79470-0001 Case #737",
+  "total": 2995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128165204874",
+  "item_id": "v1|128165204874|0",
+  "referencia": "M79470-0001",
+  "mercado": {
+   "n": 8,
+   "p25": 3799,
+   "mediana": 4047
+  },
+  "ratio_mercado": 0.788,
+  "claude": {
+   "veredicto": "alerta",
+   "precio_justo_usd": 3500,
+   "riesgo_autenticidad": "bajo",
+   "estado": "Usado en buen estado: desgaste moderado en caja y brazalete, 3 golpes en el bisel, pequeña picadura en el cristal"
+  },
+  "ratio_justo": 0.856,
+  "motivo": "precio normal segun revision (86 % del justo 3500)"
  }
 ]
