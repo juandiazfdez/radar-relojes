@@ -1,63 +1,6 @@
 [
  {
   "fecha": "2026-10-29T01:08:11.199672+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Constellation Stainless Steel / Silver 140.13.39.21.02.001",
-  "total": 9560.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198753290905",
-  "item_id": "v1|198753290905|0",
-  "referencia": "140.13.39.21.02.001",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Omega Seamaster (esfera blanca, detalles dorado rosa; el título dice Constellation, pero el texto visible en la esfera indica Seamaster)",
-   "referencia": null,
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de mercado para acero usado en buen estado, y el título no coincide con el modelo visible; verificar referencia y autenticidad antes de comprar."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de mercado para acero usado en buen estado, y el título no coincide con el modelo visible; verificar referencia y autenticidad antes de comprar. (justo 4500)"
- },
- {
-  "fecha": "2026-10-29T01:08:11.199672+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Planet Ocean 600M Co-Axial 45.5 Master Chronometer GMT Deep Bla…",
-  "total": 7560.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198753288921",
-  "item_id": "v1|198753288921|0",
-  "triage": {
-   "modelo": "Omega Seamaster Planet Ocean 600M Co-Axial Master Chronometer GMT 45.5 mm, caja y bisel de cerámica negra (Deep Black)",
-   "referencia": "215.30.46.22.01.001 (probable, verificar en el caso y el reverso)",
-   "precio_justo_usd": 7400,
-   "interesante": false,
-   "nota": "Precio cercano al mercado de segunda mano para este modelo en estado usado; no hay descuento de al menos 15 %. Confirmar referencia, papeles y estado del bisel."
-  },
-  "motivo": "triage: Precio cercano al mercado de segunda mano para este modelo en estado usado; no hay descuento de al menos 15 %. Confirmar referencia, papeles y estado del bisel. (justo 7400)"
- },
- {
-  "fecha": "2026-10-29T01:08:11.199672+00:00",
-  "marca": "Omega",
-  "titulo": "2026 Omega Speedmaster Anniversary Series Co-Axial Master Chronometer",
-  "total": 15995.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880060220590",
-  "item_id": "v1|880060220590|0",
-  "triage": {
-   "modelo": "Omega Speedmaster Anniversary Series (cronógrafo Co-Axial Master Chronometer, esfera blanca, bisel azul)",
-   "referencia": null,
-   "precio_justo_usd": 6500,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de mercado de un Speedmaster de acero; la referencia y el año 2026 no son verificables desde la foto."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de mercado de un Speedmaster de acero; la referencia y el año 2026 no son verificables desde la foto. (justo 6500)"
- },
- {
-  "fecha": "2026-10-29T01:08:11.199672+00:00",
   "marca": "TAG Heuer",
   "titulo": "TAG Heuer Formula 1 Men's Black Watch - CAU111A.FT6024.   ** UNWORN**",
   "total": 1550.0,
@@ -11527,5 +11470,56 @@
   },
   "ratio_mercado": 1.035,
   "motivo": "precio normal (103 % del cuartil bajo de 124060)"
+ },
+ {
+  "fecha": "2026-10-30T03:39:07.281663+00:00",
+  "marca": "Rolex",
+  "titulo": "eLive- Rolex Yacht-Master 42mm Titanium Bracelet 226627",
+  "total": 1.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/128163578300",
+  "item_id": "v1|128163578300|0",
+  "referencia": "226627",
+  "mercado": {
+   "n": 15,
+   "p25": 26198,
+   "mediana": 28400
+  },
+  "ratio_mercado": 0.0,
+  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
+ },
+ {
+  "fecha": "2026-10-30T03:39:07.281663+00:00",
+  "marca": "Rolex",
+  "titulo": "lot watch parts -- “Rolex” knock off, Nat Geo, Geneva, Timex, Regency, Stonewall",
+  "total": 49.95,
+  "condicion": "For parts or not working",
+  "url": "https://www.ebay.com/itm/267826816087",
+  "item_id": "v1|267826816087|0",
+  "triage": {
+   "modelo": "Lote mixto de relojes de bajo valor (Timex, Geneva, Nat Geo, Regency, Stonewall y una réplica tipo Rolex) para piezas o sin funcionar",
+   "referencia": null,
+   "precio_justo_usd": 25,
+   "interesante": false,
+   "nota": "No se aprecia ningún Rolex auténtico; son relojes de fantasía y réplicas de bajo valor, algunos para piezas. El precio de 50 US$ supera su valor real."
+  },
+  "motivo": "triage: No se aprecia ningún Rolex auténtico; son relojes de fantasía y réplicas de bajo valor, algunos para piezas. El precio de 50 US$ supera su valor real. (justo 25)"
+ },
+ {
+  "fecha": "2026-10-30T03:39:07.281663+00:00",
+  "marca": "Rolex",
+  "titulo": "🔥2016 Rolex Explorer Mark 1(39mm) Watch 214270🔥SALE🔥",
+  "total": 7800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227589464690",
+  "item_id": "v1|227589464690|0",
+  "referencia": "214270",
+  "mercado": {
+   "n": 24,
+   "p25": 8615,
+   "mediana": 9120
+  },
+  "ratio_mercado": 0.905,
+  "motivo": "precio normal (91 % del cuartil bajo de 214270)"
  }
 ]
