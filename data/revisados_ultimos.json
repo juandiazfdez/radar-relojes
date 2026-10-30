@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-10-29T01:38:11.739503+00:00",
-  "marca": "Omega",
-  "titulo": "Vintage Omega Constellation Automatic Chronometer - Working",
-  "total": 1057.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/860093399540",
-  "item_id": "v1|860093399540|0",
-  "triage": {
-   "modelo": "Omega Constellation Automatic Chronometer (vintage, bicolor, con fecha)",
-   "referencia": null,
-   "precio_justo_usd": 750,
-   "interesante": false,
-   "nota": "Precio pedido por encima de lo que se vende este modelo vintage en estado Good; la referencia exacta no se distingue en la foto."
-  },
-  "motivo": "triage: Precio pedido por encima de lo que se vende este modelo vintage en estado Good; la referencia exacta no se distingue en la foto. (justo 750)"
- },
- {
-  "fecha": "2026-10-29T01:38:11.739503+00:00",
   "marca": "TAG Heuer",
   "titulo": "TAG Heuer Carrera Men's Black Watch - CV2014",
   "total": 1500.0,
@@ -11497,5 +11480,22 @@
   },
   "ratio_mercado": 1.133,
   "motivo": "precio normal (113 % del cuartil bajo de W6920046)"
+ },
+ {
+  "fecha": "2026-10-30T08:09:06.847127+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster Quartz Stainless Steel Watch",
+  "total": 4313.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267827978958",
+  "item_id": "v1|267827978958|0",
+  "triage": {
+   "modelo": "Cartier Roadster de acero, cuarzo, esfera plateada con números romanos y ventana de fecha",
+   "referencia": "W62002V3 (probable, sin verificar)",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "Precio pedido US$4.313 con envío, por encima del valor de venta cerrada estimado para este Roadster de acero usado; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido US$4.313 con envío, por encima del valor de venta cerrada estimado para este Roadster de acero usado; no es una oportunidad. (justo 3400)"
  }
 ]
