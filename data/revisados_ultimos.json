@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T02:38:11.670123+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer WK1111.BA0317 Mens 2000 Series Professional White Quartz Steel Watch",
-  "total": 675.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377604748426",
-  "item_id": "v1|377604748426|0",
-  "referencia": "WK1111.BA0317",
-  "mercado": {
-   "n": 2,
-   "p25": 595,
-   "mediana": 645
-  },
-  "triage": {
-   "modelo": "TAG Heuer 2000 Series Professional, esfera blanca, cuarzo, acero",
-   "referencia": "WK1111.BA0317",
-   "precio_justo_usd": 380,
-   "interesante": false,
-   "nota": "Reloj de cuarzo de acero de los años 2000 con uso visible; en reventa suele moverse entre 300 y 450 USD, y el precio pedido de 675 USD con envío está muy por encima."
-  },
-  "motivo": "triage: Reloj de cuarzo de acero de los años 2000 con uso visible; en reventa suele moverse entre 300 y 450 USD, y el precio pedido de 675 USD con envío está muy por encima. (justo 380)"
- },
- {
   "fecha": "2026-10-29T02:53:11.155948+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Explorer 36mm 2025 Full Set Box & Papers",
@@ -11467,5 +11444,22 @@
    "nota": "Referencia 1002 de los años 70 con caja y papeles; el precio pedido de US$5500 está bastante por encima del valor de venta cerrada."
   },
   "motivo": "triage: Referencia 1002 de los años 70 con caja y papeles; el precio pedido de US$5500 está bastante por encima del valor de venta cerrada. (justo 3800)"
+ },
+ {
+  "fecha": "2026-10-30T13:24:15.603640+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex GMT-Master II \"Bruce Wayne\" 40mm 126710GRNR Jubilee",
+  "total": 23135.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147658045700",
+  "item_id": "v1|147658045700|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 85,
+   "p25": 22149,
+   "mediana": 23395
+  },
+  "ratio_mercado": 1.045,
+  "motivo": "precio normal (104 % del cuartil bajo de 126710GRNR)"
  }
 ]
