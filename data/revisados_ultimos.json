@@ -1,113 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T11:08:31.297041+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Diver 300M 007 Edition 210.92.42.20.01.001 Titanium Full Set",
-  "total": 8538.95,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880061206892",
-  "item_id": "v1|880061206892|0",
-  "referencia": "210.92.42.20.01.001",
-  "mercado": {
-   "n": 8,
-   "p25": 7990,
-   "mediana": 8450
-  },
-  "ratio_mercado": 1.069,
-  "motivo": "precio normal (107 % del cuartil bajo de 210.92.42.20.01.001)"
- },
- {
-  "fecha": "2026-10-29T11:23:31.408281+00:00",
-  "marca": "Rolex",
-  "titulo": "2021 PAPERS Rolex Sky-Dweller BLACK 42mm 18K Gold Stainless 326934 OYSTER BOX",
-  "total": 18045.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/860094527454",
-  "item_id": "v1|860094527454|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller 42mm, acero Oystersteel y oro blanco de 18K, esfera negra, bisel acanalado (2021)",
-   "referencia": "326934",
-   "precio_justo_usd": 20000,
-   "interesante": false,
-   "nota": "Precio pedido unos 10% bajo un valor de venta conservador; no cumple el umbral de 15% y la referencia se vende cerca de este nivel."
-  },
-  "motivo": "triage: Precio pedido unos 10% bajo un valor de venta conservador; no cumple el umbral de 15% y la referencia se vende cerca de este nivel. (justo 20000)"
- },
- {
-  "fecha": "2026-10-29T11:23:31.408281+00:00",
-  "marca": "IWC",
-  "titulo": "IWC Pilot Mark XX. Blue Dial. IW328204. 40mm. Full set with extras",
-  "total": 5325.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940049220235",
-  "item_id": "v1|940049220235|0",
-  "referencia": "IW328204",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "IWC Pilot's Watch Mark XX (esfera azul, 40 mm)",
-   "referencia": "IW328204",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "Precio pedido por encima del mercado secundario de un Mark XX de acero usado en buen estado, aunque el set completo ayuda algo."
-  },
-  "motivo": "triage: Precio pedido por encima del mercado secundario de un Mark XX de acero usado en buen estado, aunque el set completo ayuda algo. (justo 3800)"
- },
- {
-  "fecha": "2026-10-29T11:53:30.753611+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex White Gold Submariner 41mm 126619LB Cookie Monster",
-  "total": 35999.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147656667319",
-  "item_id": "v1|147656667319|0",
-  "referencia": "126619LB",
-  "mercado": {
-   "n": 20,
-   "p25": 38995,
-   "mediana": 39984
-  },
-  "ratio_mercado": 0.923,
-  "motivo": "precio normal (92 % del cuartil bajo de 126619LB)"
- },
- {
-  "fecha": "2026-10-29T11:53:30.753611+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41mm 126300  Wimbledon On Jubilee 2021",
-  "total": 11999.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147656654916",
-  "item_id": "v1|147656654916|0",
-  "referencia": "126300",
-  "mercado": {
-   "n": 20,
-   "p25": 9878,
-   "mediana": 10208
-  },
-  "ratio_mercado": 1.215,
-  "motivo": "precio normal (121 % del cuartil bajo de 126300)"
- },
- {
-  "fecha": "2026-10-29T11:53:30.753611+00:00",
-  "marca": "Rolex",
-  "titulo": "RARE..Rolex Daytona 18kt Gray Arabic Racing Dial. Blue Lume.",
-  "total": 1795.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257823346049",
-  "item_id": "v1|257823346049|0",
-  "triage": {
-   "modelo": "Esfera (dial) de Rolex Cosmograph Daytona, gris con numerales arábigos, solo la pieza sin reloj",
-   "referencia": null,
-   "precio_justo_usd": 600,
-   "interesante": false,
-   "nota": "El anuncio es solo una esfera, no un reloj completo, aunque el título dice Daytona 18kt. Un Daytona real de oro se vende en decenas de miles de dólares, así que el título es engañoso. Como recambio usado, US$1795 supera con holgura su valor."
-  },
-  "motivo": "triage: El anuncio es solo una esfera, no un reloj completo, aunque el título dice Daytona 18kt. Un Daytona real de oro se vende en decenas de miles de dólares, así que el título es engañoso. Como recambio usado, US$1795 supera con holgura su valor. (justo 600)"
- },
- {
   "fecha": "2026-10-29T11:53:30.753611+00:00",
   "marca": "Omega",
   "titulo": "Omega Speedmaster Day-Date Chronograph Automatic Stainless Steel Watch",
@@ -11394,5 +11286,120 @@
    "nota": "Precio pedido de US$3149 por encima del valor de venta secundaria estimado para un WSTA0030 usado en buen estado; retail actual está en torno a US$3.300-3.400 y el mercado usado suele cerrar bastante por debajo."
   },
   "motivo": "triage: Precio pedido de US$3149 por encima del valor de venta secundaria estimado para un WSTA0030 usado en buen estado; retail actual está en torno a US$3.300-3.400 y el mercado usado suele cerrar bastante por debajo. (justo 2400)"
+ },
+ {
+  "fecha": "2026-10-30T17:54:26.712787+00:00",
+  "marca": "Rolex",
+  "titulo": "Wilsdorf & Davis (Rolex) Vintage Pre-1920 Women's Watch. 9KT Solid Gold.",
+  "total": 850.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/860098425049",
+  "item_id": "v1|860098425049|0",
+  "triage": {
+   "modelo": "Rolex (Wilsdorf & Davis) vintage de pulsera para mujer, caja de oro 9 quilates, c. 1910-1920",
+   "referencia": null,
+   "precio_justo_usd": 1000,
+   "interesante": false,
+   "nota": "La foto no muestra corona Rolex en la esfera ni marcas del movimiento, así que la autenticidad no se puede verificar. Condición Fair y posible desgaste de esfera o funcionamiento incierto. Solo sería atractivo con verificación del movimiento y la caja."
+  },
+  "motivo": "triage: La foto no muestra corona Rolex en la esfera ni marcas del movimiento, así que la autenticidad no se puede verificar. Condición Fair y posible desgaste de esfera o funcionamiento incierto. Solo sería atractivo con verificación del movimiento y la caja. (justo 1000)"
+ },
+ {
+  "fecha": "2026-10-30T17:54:26.712787+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oysterdate 6694 From 1966 34mm Vintage Watch",
+  "total": 2825.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900051959302",
+  "item_id": "v1|900051959302|0",
+  "referencia": "6694",
+  "mercado": {
+   "n": 14,
+   "p25": 3499,
+   "mediana": 3950
+  },
+  "ratio_mercado": 0.807,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 2350,
+   "riesgo_autenticidad": "medio",
+   "estado": "Caja pulida con muchos arañazos, esfera con pátina y lume dudoso; solo reloj con correa nueva"
+  },
+  "ratio_justo": 1.202,
+  "motivo": "precio normal segun revision (120 % del justo 2350)"
+ },
+ {
+  "fecha": "2026-10-30T17:54:26.712787+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Large SS/Yellow Gold W2sa0030 Warranty Until 8/2033",
+  "total": 9950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377608667389",
+  "item_id": "v1|377608667389|0",
+  "referencia": "W2SA0030",
+  "mercado": {
+   "n": 1,
+   "p25": 13097,
+   "mediana": 13097
+  },
+  "triage": {
+   "modelo": "Cartier Santos de Cartier Large, acero y oro amarillo, esfera gris con numerales romanos",
+   "referencia": "W2SA0030",
+   "precio_justo_usd": 7800,
+   "interesante": false,
+   "nota": "Precio pedido de US$9.950 supera el mercado secundario para un Santos Large bicolor de garantía reciente; no hay descuento."
+  },
+  "motivo": "triage: Precio pedido de US$9.950 supera el mercado secundario para un Santos Large bicolor de garantía reciente; no hay descuento. (justo 7800)"
+ },
+ {
+  "fecha": "2026-10-30T17:54:26.712787+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos 100 2656 W20073X8 Steel Mid-Size 38MM Men's Automatic Watch",
+  "total": 4935.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206663929866",
+  "item_id": "v1|206663929866|0",
+  "referencia": "2656",
+  "mercado": {
+   "n": 27,
+   "p25": 5400,
+   "mediana": 5705
+  },
+  "ratio_mercado": 0.914,
+  "motivo": "precio normal (91 % del cuartil bajo de 2656)"
+ },
+ {
+  "fecha": "2026-10-30T17:54:26.712787+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 \"2021 - Never Polished\" 79030B",
+  "total": 4020.74,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237153099148",
+  "item_id": "v1|237153099148|0",
+  "referencia": "79030B",
+  "mercado": {
+   "n": 13,
+   "p25": 3495,
+   "mediana": 3590
+  },
+  "ratio_mercado": 1.15,
+  "motivo": "precio normal (115 % del cuartil bajo de 79030B)"
+ },
+ {
+  "fecha": "2026-10-30T17:54:26.712787+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 GMT \"2024 - Coke\" M7939G1A0NRU-0002",
+  "total": 4894.34,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237153095189",
+  "item_id": "v1|237153095189|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 GMT 'Coke' (bisel negro/rojo), acero 39 mm",
+   "referencia": "M7939G1A0NRU-0002 (según título; no verificable en la imagen)",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de reventa estimado para un usado en estado Good; no hay descuento significativo."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de reventa estimado para un usado en estado Good; no hay descuento significativo. (justo 4000)"
  }
 ]
