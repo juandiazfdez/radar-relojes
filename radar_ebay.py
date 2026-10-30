@@ -1,19 +1,20 @@
-"""Radar de relojes v3 - eBay Browse API, busqueda por MARCA.
+"""Radar de relojes v3 - eBay Browse API, busqueda por MARCA (Rolex, Cartier y Tudor).
 
 Flujo (cada 15 min, en bucle):
   1. Por cada marca de marcas.csv busca "<marca> watch" ordenado por mas reciente
-     (EE. UU., precio fijo / mejor oferta, precio >= piso) y toma lo nuevo.
+     (EE. UU., precio fijo / mejor oferta) y toma lo nuevo. Sin minimo de precio:
+     el piso_usd de marcas.csv es 0; solo se filtra por precio si piso > 0.
   2. Descarta por titulo solo piezas, correas, replicas, lotes. No hay filtro de
-     modelo, genero, tamano ni ano: Juan compra cualquier modelo de estas marcas.
+     modelo, genero, tamano, ano ni precio: Juan compra cualquier modelo de estas marcas.
   3. Triage barato para decidir si vale la pena abrir la publicacion:
        a) si el titulo trae referencia exacta -> comparables de ESA referencia y
           esa condicion (cache diario). Pasa si total <= UMBRAL_MERCADO * p25.
        b) si no hay referencia o faltan comparables -> Claude (modelo rapido) con
           titulo + miniatura estima el precio justo. Pasa si <= UMBRAL_JUSTO.
   4. Finalistas: getItem (descripcion, specs, fotos, vendedor) -> descarta danados,
-     "as is", vendedores flojos -> Claude (modelo completo) con 4 fotos: veredicto,
+     "as is" -> Claude (modelo completo) con 4 fotos: veredicto,
      riesgo de autenticidad y precio justo. Alerta si <= UMBRAL_JUSTO del precio
-     justo y no fue descartado.
+     justo y no fue descartado. El vendedor no filtra: solo se muestra en la alerta.
   5. Telegram con foto. Nunca avisa dos veces del mismo articulo.
 
 Variables de entorno:
@@ -59,8 +60,6 @@ UMBRAL_JUSTO = float(os.environ.get("UMBRAL_JUSTO", "0.85"))      # vs precio ju
 UMBRAL_SOSPECHA = 0.35
 UMBRAL_ANCLA = float(os.environ.get("UMBRAL_ANCLA", "0.90"))   # si hay comparables de la referencia, no pasar de 90 % del cuartil bajo
 MIN_COMPARABLES = 5
-MIN_VALORACIONES = 20
-MIN_POSITIVO = 97.0
 MODELO_COMPLETO = os.environ.get("CLAUDE_MODEL", "claude-sonnet-5-5")
 MODELO_RAPIDO = os.environ.get("CLAUDE_MODEL_RAPIDO", "claude-haiku-5-5")
 
@@ -353,17 +352,18 @@ def claude_texto(req, intentos=5):
 
 
 CONTEXTO = ("Eres un comprador experto de relojes de lujo usados para reventa (Crono Watches, Republica Dominicana). "
-            "Compra cualquier modelo de Rolex, Cartier, Tudor, Panerai, Omega, Breitling, TAG Heuer, "
-            "Jaeger-LeCoultre, Bulgari e IWC, de hombre o de mujer, moderno o vintage, si el precio es claramente "
-            "bueno para la referencia exacta, el ano y el estado. "
+            "Compra cualquier modelo de Rolex, Cartier y Tudor, de hombre o de mujer, moderno o vintage, y de "
+            "cualquier precio (tambien piezas de US$600-1,000), si el precio es claramente bueno para la referencia "
+            "exacta, el ano y el estado. No juzgues al vendedor (valoraciones o % positivo): es solo informacion. "
             "precio_justo_usd = lo que ESE reloj concreto (referencia, generacion/ano, material, tamano, estado, "
             "con o sin caja y papeles) se vende realmente hoy en EE. UU. entre particulares y dealers (precios de "
             "venta cerrada, no precios pedidos). Un Datejust de 1985 no vale lo que uno de 2022; un Reverso "
             "Classic de acero no vale lo que uno de oro con complicaciones. Se conservador. "
             "MUY IMPORTANTE: el precio justo NUNCA es el precio de tienda (retail/MSRP). Para relojes nuevos o de "
-            "produccion actual usa el precio del mercado gris/secundario: Breitling, IWC, Panerai, TAG Heuer, Omega, "
-            "Bulgari, JLC y muchos Cartier se venden nuevos con caja y papeles 25-45 % bajo retail en dealers de eBay y "
-            "Chrono24; ese descuento es el precio NORMAL, no una oportunidad. Si dudas, estima a la baja. ")
+            "produccion actual usa el precio del mercado gris/secundario: muchos Cartier y Tudor se venden nuevos con "
+            "caja y papeles 15-35 % bajo retail en dealers de eBay y Chrono24; ese descuento es el precio NORMAL, no "
+            "una oportunidad. En cambio, el Rolex de acero actual suele venderse POR ENCIMA de retail en el mercado "
+            "secundario. Si dudas, estima a la baja. ")
 
 
 def triage_claude(marca, titulo, total, condicion, miniatura):
@@ -437,14 +437,6 @@ def analizar(detalle, marca):
         return "descripcion: " + ", ".join(rojas[:3]), info
     if str(info["condicion_id"] or "") == "7000" or "parts" in (info["condicion"] or "").lower():
         return "condicion: piezas/reparacion", info
-    vend = detalle.get("seller") or {}
-    try:
-        if int(vend.get("feedbackScore") or 0) < MIN_VALORACIONES:
-            return f"vendedor con {vend.get('feedbackScore')} valoraciones", info
-        if float(vend.get("feedbackPercentage") or 0) < MIN_POSITIVO:
-            return f"vendedor {vend.get('feedbackPercentage')} % positivo", info
-    except ValueError:
-        pass
     return None, info
 
 
@@ -527,12 +519,13 @@ def avisar_sin_contacto(nuevos, cuota_agotada):
 # ------------------------------------------------------------------ main
 def procesar_marca(eb, fila, t0, desde, estado):
     marca = fila["marca"]
-    piso = float(fila["piso_usd"])
+    piso = float(fila.get("piso_usd") or 0)
     vistos, mercado, revisados, candidatos, descartes = (estado[k] for k in ("vistos", "mercado", "revisados", "candidatos", "descartes"))
     items = []
     for pais in PAISES:
-        filtros = [f"itemLocationCountry:{pais}", "buyingOptions:{FIXED_PRICE|BEST_OFFER}",
-                   f"price:[{int(piso)}..]", "priceCurrency:USD"]
+        filtros = [f"itemLocationCountry:{pais}", "buyingOptions:{FIXED_PRICE|BEST_OFFER}"]
+        if piso > 0:
+            filtros += [f"price:[{int(piso)}..]", "priceCurrency:USD"]
         if BARRIDO:
             for off in (0, 200, 400, 600, 800):
                 lote = eb.buscar(fila["busqueda_ebay"], filtros, sort="price", limit=200, offset=off)
