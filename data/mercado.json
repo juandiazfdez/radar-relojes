@@ -5965,14 +5965,14 @@
   "max": 34895
  },
  "Rolex 126710BLNR|usado": {
-  "fecha": "2026-10-29",
+  "fecha": "2026-10-30",
   "consulta": "Rolex 126710BLNR",
   "n": 67,
   "mediana": 18950,
   "p25": 18395,
-  "p75": 19690,
-  "min": 16823,
-  "max": 20140
+  "p75": 19578,
+  "min": 16509,
+  "max": 20050
  },
  "Rolex 126720VTNR|usado": {
   "fecha": "2026-10-29",
@@ -11010,13 +11010,13 @@
   "max": 4760
  },
  "TAG Heuer CBP1112|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-30",
   "consulta": "TAG Heuer CBP1112",
-  "n": 1,
-  "mediana": 1707,
-  "p25": 1707,
+  "n": 2,
+  "mediana": 1703,
+  "p25": 1700,
   "p75": 1707,
-  "min": 1707,
+  "min": 1700,
   "max": 1707
  },
  "TAG Heuer CR2113|usado": {
@@ -16893,5 +16893,15 @@
   "p75": 18000,
   "min": 16508,
   "max": 19999
+ },
+ "Tudor 79230G|usado": {
+  "fecha": "2026-10-30",
+  "consulta": "Tudor 79230G",
+  "n": 2,
+  "mediana": 5455,
+  "p25": 5450,
+  "p75": 5460,
+  "min": 5450,
+  "max": 5460
  }
 }
