@@ -1,68 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T15:53:42.700295+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "New Tag Heuer Monaco Chronograph Automatic Blue Men's Watch CBL2182.FT6235",
-  "total": 8360.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/800852240082",
-  "item_id": "v1|800852240082|0",
-  "referencia": "CBL2182.FT6235",
-  "mercado": {
-   "n": 2,
-   "p25": 8465,
-   "mediana": 10392
-  },
-  "triage": {
-   "modelo": "TAG Heuer Monaco Calibre 11 cronógrafo automático, esfera azul, correa de caucho azul",
-   "referencia": "CBL2182.FT6235",
-   "precio_justo_usd": 4900,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del mercado gris para un Monaco nuevo con caja y papeles; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido muy por encima del mercado gris para un Monaco nuevo con caja y papeles; no es una oportunidad. (justo 4900)"
- },
- {
-  "fecha": "2026-10-29T16:08:43.643529+00:00",
-  "marca": "Rolex",
-  "titulo": "1975 Rolex Datejust Turn-O-Graph Ref. 1625 Two Tone Steel and Gold 36mm",
-  "total": 5980.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128162719252",
-  "item_id": "v1|128162719252|0",
-  "triage": {
-   "modelo": "Rolex Datejust Turn-O-Graph bicolor acero y oro, 36 mm (1975)",
-   "referencia": "1625",
-   "precio_justo_usd": 5200,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor estimado para la ref. 1625 bicolor en estado Good; la foto no permite verificar esfera, bisel, papeles ni autenticidad."
-  },
-  "motivo": "triage: Precio pedido por encima del valor estimado para la ref. 1625 bicolor en estado Good; la foto no permite verificar esfera, bisel, papeles ni autenticidad. (justo 5200)"
- },
- {
-  "fecha": "2026-10-29T16:08:43.643529+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 126334 “Wimbledon” Full Set",
-  "total": 18550.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206661536336",
-  "item_id": "v1|206661536336|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 1,
-   "p25": 10389,
-   "mediana": 10389
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 con bisel acanalado de oro blanco, esfera gris pizarra con numerales verdes (Wimbledon) y brazalete Jubilee",
-   "referencia": "126334",
-   "precio_justo_usd": 16500,
-   "interesante": false,
-   "nota": "Precio pedido por encima de la estimación de venta cerrada para el 126334 Wimbledon en estado usado; no cumple el margen mínimo del 15%."
-  },
-  "motivo": "triage: Precio pedido por encima de la estimación de venta cerrada para el 126334 Wimbledon en estado usado; no cumple el margen mínimo del 15%. (justo 16500)"
- },
- {
   "fecha": "2026-10-29T16:08:43.643529+00:00",
   "marca": "Rolex",
   "titulo": "🔥2016 Rolex Explorer Mark 1(39mm) Watch 214270🔥SALE🔥",
@@ -11366,5 +11303,56 @@
    "nota": "Precio pedido por encima del mercado gris para BB54 nuevo con caja y papeles; no hay descuento de al menos 15 %."
   },
   "motivo": "triage: Precio pedido por encima del mercado gris para BB54 nuevo con caja y papeles; no hay descuento de al menos 15 %. (justo 3500)"
+ },
+ {
+  "fecha": "2026-10-30T21:24:40.276558+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Unworn Rolex Yacht-Master RLX Titanium Intense Black 42mm 226627 Box/Papers",
+  "total": 27600.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/336871143245",
+  "item_id": "v1|336871143245|0",
+  "referencia": "226627",
+  "mercado": {
+   "n": 15,
+   "p25": 26198,
+   "mediana": 28400
+  },
+  "ratio_mercado": 1.054,
+  "motivo": "precio normal (105 % del cuartil bajo de 226627)"
+ },
+ {
+  "fecha": "2026-10-30T21:24:40.276558+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Stainless Steel Watch 16014",
+  "total": 5500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407327834496",
+  "item_id": "v1|407327834496|0",
+  "referencia": "16014",
+  "mercado": {
+   "n": 13,
+   "p25": 4550,
+   "mediana": 5099
+  },
+  "ratio_mercado": 1.209,
+  "motivo": "precio normal (121 % del cuartil bajo de 16014)"
+ },
+ {
+  "fecha": "2026-10-30T21:24:40.276558+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Day-Date 36, 118235, Rose Gold, Silver Diamond, President Bracelet",
+  "total": 30043.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/206664206206",
+  "item_id": "v1|206664206206|0",
+  "referencia": "118235",
+  "mercado": {
+   "n": 21,
+   "p25": 29990,
+   "mediana": 33337
+  },
+  "ratio_mercado": 1.002,
+  "motivo": "precio normal (100 % del cuartil bajo de 118235)"
  }
 ]
