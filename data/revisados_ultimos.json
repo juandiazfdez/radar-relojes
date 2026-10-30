@@ -1,57 +1,6 @@
 [
  {
   "fecha": "2026-10-29T03:53:11.339950+00:00",
-  "marca": "Rolex",
-  "titulo": "2024 CARD ROLEX YACHT-MASTER 226627 42MM TITANIUM BLACK CERAMIC OYSTER WATCH",
-  "total": 25390.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880060530157",
-  "item_id": "v1|880060530157|0",
-  "referencia": "226627",
-  "mercado": {
-   "n": 18,
-   "p25": 25876,
-   "mediana": 26824
-  },
-  "ratio_mercado": 0.981,
-  "motivo": "precio normal (98 % del cuartil bajo de 226627)"
- },
- {
-  "fecha": "2026-10-29T03:53:11.339950+00:00",
-  "marca": "Omega",
-  "titulo": "Swiss [MINT] 1970s Omega Constellation 34mm Quartz Unisex Watch Day Date",
-  "total": 2504.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960127666023",
-  "item_id": "v1|960127666023|0",
-  "triage": {
-   "modelo": "Omega Constellation Quartz bicolor con día-fecha (años 70, probable)",
-   "referencia": null,
-   "precio_justo_usd": 1100,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de mercado para un Constellation de cuarzo bicolor de los 70; referencia no verificable en la foto."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de mercado para un Constellation de cuarzo bicolor de los 70; referencia no verificable en la foto. (justo 1100)"
- },
- {
-  "fecha": "2026-10-29T03:53:11.339950+00:00",
-  "marca": "Omega",
-  "titulo": "[N. MINT] 1990s Omega De Ville Vintage 18K Gold SS Quartz Women's Ladies Watch",
-  "total": 1329.98,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960127666088",
-  "item_id": "v1|960127666088|0",
-  "triage": {
-   "modelo": "Omega De Ville vintage, bicolor acero/oro, cuarzo, esfera geométrica (años 90)",
-   "referencia": null,
-   "precio_justo_usd": 600,
-   "interesante": false,
-   "nota": "Modelo de cuarzo de los 90 con bisel de oro; el mercado secundario suele estar entre 300 y 700 USD, y 1330 USD queda muy por encima. Referencia no identificable en la foto."
-  },
-  "motivo": "triage: Modelo de cuarzo de los 90 con bisel de oro; el mercado secundario suele estar entre 300 y 700 USD, y 1330 USD queda muy por encima. Referencia no identificable en la foto. (justo 600)"
- },
- {
-  "fecha": "2026-10-29T03:53:11.339950+00:00",
   "marca": "Omega",
   "titulo": "Omega Aqua Terra Seamaster 150m Co-Axial 41.5 Stainless Steel / Grey / Bracelet…",
   "total": 4200.0,
@@ -11425,5 +11374,62 @@
   },
   "ratio_mercado": 1.026,
   "motivo": "precio normal (103 % del cuartil bajo de 126610)"
+ },
+ {
+  "fecha": "2026-10-30T15:09:28.686560+00:00",
+  "marca": "Rolex",
+  "titulo": "2014 Rolex Sea-Dweller 40mm Stainless Steel 116600",
+  "total": 13995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880065340805",
+  "item_id": "v1|880065340805|0",
+  "referencia": "116600",
+  "mercado": {
+   "n": 10,
+   "p25": 14468,
+   "mediana": 14516
+  },
+  "ratio_mercado": 0.967,
+  "motivo": "precio normal (97 % del cuartil bajo de 116600)"
+ },
+ {
+  "fecha": "2026-10-30T15:09:28.686560+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Ronde 32mm Stainless Steel Quartz Watch 1561-1",
+  "total": 2905.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206663666892",
+  "item_id": "v1|206663666892|0",
+  "referencia": "1561",
+  "mercado": {
+   "n": 2,
+   "p25": 2543,
+   "mediana": 3522
+  },
+  "triage": {
+   "modelo": "Cartier Santos Ronde (cuarzo, acero, esfera blanca con números romanos)",
+   "referencia": "1561-1 (según el título; no verificable en la foto)",
+   "precio_justo_usd": 1700,
+   "interesante": false,
+   "nota": "El precio pedido de US$2,905 supera con holgura lo que este Santos Ronde de cuarzo de acero se vende de segunda mano en EE. UU., incluso en buen estado."
+  },
+  "motivo": "triage: El precio pedido de US$2,905 supera con holgura lo que este Santos Ronde de cuarzo de acero se vende de segunda mano en EE. UU., incluso en buen estado. (justo 1700)"
+ },
+ {
+  "fecha": "2026-10-30T15:09:28.686560+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu 28mm 18k Yellow Gold Diamond Encrusted Watch W69001Z2",
+  "total": 17000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257825498056",
+  "item_id": "v1|257825498056|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu 28 mm oro amarillo 18k con bisel de diamantes (cuarzo)",
+   "referencia": "W69001Z2",
+   "precio_justo_usd": 15500,
+   "interesante": false,
+   "nota": "Precio pedido de US$17.000 con envío, unos 10 % por encima de la estimación de venta real de este modelo de segunda mano; no cumple el umbral del 15 % por debajo."
+  },
+  "motivo": "triage: Precio pedido de US$17.000 con envío, unos 10 % por encima de la estimación de venta real de este modelo de segunda mano; no cumple el umbral del 15 % por debajo. (justo 15500)"
  }
 ]
