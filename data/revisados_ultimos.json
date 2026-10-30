@@ -2,29 +2,6 @@
  {
   "fecha": "2026-10-29T00:53:11.346730+00:00",
   "marca": "Omega",
-  "titulo": "Omega Seamaster Aqua Terra 38.5mm White Teak Auto - 231.10.39.21.02.001",
-  "total": 3525.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407323399123",
-  "item_id": "v1|407323399123|0",
-  "referencia": "231.10.39.21.02.001",
-  "mercado": {
-   "n": 2,
-   "p25": 3333,
-   "mediana": 3716
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Aqua Terra 38.5 mm Co-Axial, esfera blanca teca, automático, brazalete de acero",
-   "referencia": "231.10.39.21.02.001",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Precio pedido de 3525 USD supera la estimación de venta cerrada (~3000-3400 USD) para estado Good, sin caja ni papeles confirmados; no cumple el 15 % de descuento."
-  },
-  "motivo": "triage: Precio pedido de 3525 USD supera la estimación de venta cerrada (~3000-3400 USD) para estado Good, sin caja ni papeles confirmados; no cumple el 15 % de descuento. (justo 3200)"
- },
- {
-  "fecha": "2026-10-29T00:53:11.346730+00:00",
-  "marca": "Omega",
   "titulo": "Omega Seamaster Rare Planet Ocean Casino Royale 45.5mm - 2907.50.91 - Box &",
   "total": 4025.0,
   "condicion": "Pre-owned - Good",
@@ -11532,5 +11509,22 @@
    "nota": "El precio pedido supera de forma clara el valor de mercado usado; además, la foto muestra brazalete bicolor de acero y oro, no oro macizo como indica el título."
   },
   "motivo": "triage: El precio pedido supera de forma clara el valor de mercado usado; además, la foto muestra brazalete bicolor de acero y oro, no oro macizo como indica el título. (justo 1600)"
+ },
+ {
+  "fecha": "2026-10-30T02:53:57.308880+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 126715CHNR Root Beer 18K Everose Gold Unpolished PPF",
+  "total": 39325.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336869910894",
+  "item_id": "v1|336869910894|0",
+  "referencia": "126715CHNR",
+  "mercado": {
+   "n": 30,
+   "p25": 44950,
+   "mediana": 45974
+  },
+  "ratio_mercado": 0.875,
+  "motivo": "precio normal (87 % del cuartil bajo de 126715CHNR)"
  }
 ]
