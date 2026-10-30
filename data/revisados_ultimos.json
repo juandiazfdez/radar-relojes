@@ -2,52 +2,6 @@
  {
   "fecha": "2026-10-29T03:53:11.339950+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG Heuer WAH1211.BA0861 Midsize Formula 1 Series White Ceramic Quartz Watch",
-  "total": 795.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377604882162",
-  "item_id": "v1|377604882162|0",
-  "referencia": "WAH1211.BA0861",
-  "mercado": {
-   "n": 4,
-   "p25": 800,
-   "mediana": 825
-  },
-  "triage": {
-   "modelo": "TAG Heuer Formula 1 Midsize, acero con cerámica blanca, cuarzo (identificado por el título; la foto muestra esfera blanca y brazalete bicolor)",
-   "referencia": "WAH1211.BA0861",
-   "precio_justo_usd": 550,
-   "interesante": false,
-   "nota": "Precio pedido de 795 USD por encima del valor de reventa estimado para un modelo de cuarzo usado en estado Good; no hay descuento real."
-  },
-  "motivo": "triage: Precio pedido de 795 USD por encima del valor de reventa estimado para un modelo de cuarzo usado en estado Good; no hay descuento real. (justo 550)"
- },
- {
-  "fecha": "2026-10-29T03:53:11.339950+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer CE2118 Mens 2000 Series Automatic Blue & White Chronograph Watch",
-  "total": 6500.0,
-  "condicion": "New without box or papers",
-  "url": "https://www.ebay.com/itm/960127659444",
-  "item_id": "v1|960127659444|0",
-  "referencia": "CE2118",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "TAG Heuer 2000 Series Chronograph (esfera plateada, subesferas azules, brazalete de acero)",
-   "referencia": "CE2118 (según título, sin verificar)",
-   "precio_justo_usd": 900,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de mercado para un 2000 Series de acero sin caja ni papeles; la referencia y la autenticidad deben verificarse."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de mercado para un 2000 Series de acero sin caja ni papeles; la referencia y la autenticidad deben verificarse. (justo 900)"
- },
- {
-  "fecha": "2026-10-29T03:53:11.339950+00:00",
-  "marca": "TAG Heuer",
   "titulo": "TAG Heuer CAF7013.FT8011 Mens Aquaracer Calibre S Yellow Watch Black Rubber 300M",
   "total": 2395.0,
   "condicion": "Pre-owned - Excellent",
@@ -11419,5 +11373,45 @@
    "nota": "El precio pedido de US$4.548 supera el retail y el mercado gris de un Pelagos FXD nuevo; no hay descuento real."
   },
   "motivo": "triage: El precio pedido de US$4.548 supera el retail y el mercado gris de un Pelagos FXD nuevo; no hay descuento real. (justo 3300)"
+ },
+ {
+  "fecha": "2026-10-30T15:54:28.720486+00:00",
+  "marca": "Rolex",
+  "titulo": "1988 Rolex DateJust Presidential 69178 - 18K Solid Gold Ladies - RSC Serviced",
+  "total": 12000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137887272905",
+  "item_id": "v1|137887272905|0",
+  "referencia": "69178",
+  "mercado": {
+   "n": 5,
+   "p25": 5450,
+   "mediana": 5950
+  },
+  "ratio_mercado": 2.202,
+  "motivo": "precio normal (220 % del cuartil bajo de 69178)"
+ },
+ {
+  "fecha": "2026-10-30T15:54:28.720486+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Ranger Dune/Beige 5/26 Ref# 79930 36mm",
+  "total": 4048.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257825547848",
+  "item_id": "v1|257825547848|0",
+  "referencia": "79930",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Ranger 36 mm (dial beige/Dune)",
+   "referencia": "79930",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Reloj de producción actual; el precio pedido de US$4.048 supera el valor de reventa estimado, que ronda los US$3.300 con caja y papeles."
+  },
+  "motivo": "triage: Reloj de producción actual; el precio pedido de US$4.048 supera el valor de reventa estimado, que ronda los US$3.300 con caja y papeles. (justo 3300)"
  }
 ]
