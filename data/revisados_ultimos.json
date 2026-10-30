@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-10-29T00:53:11.346730+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX DATEJUST 36mm",
-  "total": 13999.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227587870246",
-  "item_id": "v1|227587870246|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36 acero y oro amarillo, bisel acanalado, esfera negra con marcadores de diamante",
-   "referencia": "16233 (probable; verificar número de serie y año en fotos)",
-   "precio_justo_usd": 10500,
-   "interesante": false,
-   "nota": "Precio pedido US$13.999 supera el valor de venta cerrada estimado para esta configuración; la foto es de baja resolución y las esferas con diamantes a menudo son reemplazos, así que habría que verificar autenticidad."
-  },
-  "motivo": "triage: Precio pedido US$13.999 supera el valor de venta cerrada estimado para esta configuración; la foto es de baja resolución y las esferas con diamantes a menudo son reemplazos, así que habría que verificar autenticidad. (justo 10500)"
- },
- {
-  "fecha": "2026-10-29T00:53:11.346730+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 79230R Automatic Chronometer, Full Kit, Box Papers, Well Loved",
-  "total": 2899.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/920083228292",
-  "item_id": "v1|920083228292|0",
-  "referencia": "79230R",
-  "mercado": {
-   "n": 11,
-   "p25": 3295,
-   "mediana": 3400
-  },
-  "ratio_mercado": 0.88,
-  "motivo": "precio normal (88 % del cuartil bajo de 79230R)"
- },
- {
-  "fecha": "2026-10-29T00:53:11.346730+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR Black Bay 58 2025 GMT 39mm  Red/Black (COKE)",
   "total": 4200.0,
@@ -11513,5 +11479,39 @@
   },
   "ratio_justo": 1.224,
   "motivo": "precio normal segun revision (122 % del justo 2450)"
+ },
+ {
+  "fecha": "2026-10-30T02:23:59.592761+00:00",
+  "marca": "Tudor",
+  "titulo": "2005 Full Set 76213 Tudor Prince Date Day 36mm",
+  "total": 3195.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366770287067",
+  "item_id": "v1|366770287067|0",
+  "referencia": "76213",
+  "mercado": {
+   "n": 7,
+   "p25": 2600,
+   "mediana": 3039
+  },
+  "ratio_mercado": 1.229,
+  "motivo": "precio normal (123 % del cuartil bajo de 76213)"
+ },
+ {
+  "fecha": "2026-10-30T02:23:59.592761+00:00",
+  "marca": "Panerai",
+  "titulo": "Panerai Luminor Submersible 300M Automatic Stainless Steel Watch",
+  "total": 5445.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820294005360",
+  "item_id": "v1|820294005360|0",
+  "triage": {
+   "modelo": "Panerai Luminor Submersible 47 mm automático, acero, con fecha",
+   "referencia": "PAM00024 (probable; confirmar caja y números de serie)",
+   "precio_justo_usd": 6200,
+   "interesante": false,
+   "nota": "Precio pedido 12 % por debajo de una estimación conservadora de venta cerrada; sin caja ni papeles indicados, y la condición 'Good' no justifica un descuento mayor."
+  },
+  "motivo": "triage: Precio pedido 12 % por debajo de una estimación conservadora de venta cerrada; sin caja ni papeles indicados, y la condición 'Good' no justifica un descuento mayor. (justo 6200)"
  }
 ]
