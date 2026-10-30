@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-10-29T02:23:10.827358+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Datejust Ovettone in 18k yellow gold",
-  "total": 19510.38,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227587945174",
-  "item_id": "v1|227587945174|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Datejust vintage en oro amarillo 18k, caja Ovettone, esfera champán con ventanilla de fecha, correa de cuero marrón",
-   "referencia": null,
-   "precio_justo_usd": 12000,
-   "interesante": false,
-   "nota": "Vintage de oro 18k con caja Ovettone; la referencia exacta no se puede confirmar en la foto. Precio pedido de 19.510 USD sobrepasa el valor de venta realista, así que no es una oportunidad."
-  },
-  "motivo": "triage: Vintage de oro 18k con caja Ovettone; la referencia exacta no se puede confirmar en la foto. Precio pedido de 19.510 USD sobrepasa el valor de venta realista, así que no es una oportunidad. (justo 12000)"
- },
- {
-  "fecha": "2026-10-29T02:23:10.827358+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Demoiselle Stainless Steel Small Diamond Encrusted Watch W25064Z5",
-  "total": 4900.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/257822760185",
-  "item_id": "v1|257822760185|0",
-  "triage": {
-   "modelo": "Cartier Santos Demoiselle pequeño de acero con bisel de diamantes (cuarzo)",
-   "referencia": "W25064Z5",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta cerrada estimado para este modelo de acero con bisel de diamantes en estado excelente; no hay descuento significativo."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para este modelo de acero con bisel de diamantes en estado excelente; no hay descuento significativo. (justo 3300)"
- },
- {
-  "fecha": "2026-10-29T02:23:10.827358+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos Large in stainless steel",
   "total": 8617.08,
@@ -11467,5 +11433,39 @@
    "nota": "Modelo de cuarzo de producción en serie; con caja y papeles se vende por debajo de US$1,000, así que US$1,595 está muy por encima del mercado."
   },
   "motivo": "triage: Modelo de cuarzo de producción en serie; con caja y papeles se vende por debajo de US$1,000, así que US$1,595 está muy por encima del mercado. (justo 900)"
+ },
+ {
+  "fecha": "2026-10-30T10:54:16.312519+00:00",
+  "marca": "Rolex",
+  "titulo": "Ladies ROLEX Watch 18K Gold & Steel Papers Datejust Jubilee Arabic 69173",
+  "total": 4750.61,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327430308765",
+  "item_id": "v1|327430308765|0",
+  "referencia": "69173",
+  "mercado": {
+   "n": 24,
+   "p25": 4257,
+   "mediana": 4450
+  },
+  "ratio_mercado": 1.116,
+  "motivo": "precio normal (112 % del cuartil bajo de 69173)"
+ },
+ {
+  "fecha": "2026-10-30T10:54:16.312519+00:00",
+  "marca": "Rolex",
+  "titulo": "Masters Tournament x Rolex Alloy Luxury Quartz Watch TMTHU4706",
+  "total": 61.9,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/198756912015",
+  "item_id": "v1|198756912015|497663020951",
+  "triage": {
+   "modelo": "Reloj de cuarzo de fantasía con logotipo de Masters Tournament (no es Rolex)",
+   "referencia": null,
+   "precio_justo_usd": 40,
+   "interesante": false,
+   "nota": "La imagen muestra un reloj genérico de cuarzo con logotipo de Masters, no un Rolex. El título es engañoso y no corresponde a ninguna referencia real de Rolex."
+  },
+  "motivo": "triage: La imagen muestra un reloj genérico de cuarzo con logotipo de Masters, no un Rolex. El título es engañoso y no corresponde a ninguna referencia real de Rolex. (justo 40)"
  }
 ]
