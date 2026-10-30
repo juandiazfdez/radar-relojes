@@ -1,107 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T12:53:31.484528+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "Tag Heuer formula 1 Solaraph 2026 Limited Edition Only 3500 cream Quartz",
-  "total": 1950.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/168824504857",
-  "item_id": "v1|168824504857|0",
-  "triage": {
-   "modelo": "TAG Heuer Formula 1, cuarzo, esfera crema",
-   "referencia": null,
-   "precio_justo_usd": 750,
-   "interesante": false,
-   "nota": "El título 'Solaraph 2026 Limited 3500' no corresponde a un modelo verificable y la foto muestra un Formula 1 de cuarzo. Aunque fuera nuevo con caja y papeles, el precio pedido de 1950 USD supera con creces su valor de mercado."
-  },
-  "motivo": "triage: El título 'Solaraph 2026 Limited 3500' no corresponde a un modelo verificable y la foto muestra un Formula 1 de cuarzo. Aunque fuera nuevo con caja y papeles, el precio pedido de 1950 USD supera con creces su valor de mercado. (justo 750)"
- },
- {
-  "fecha": "2026-10-29T12:53:31.484528+00:00",
-  "marca": "IWC",
-  "titulo": "IWC Portugieser Yacht Club Chronograph Steel Auto 44mm Silver Bracelet IW3907-02",
-  "total": 9950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940049430607",
-  "item_id": "v1|940049430607|0",
-  "triage": {
-   "modelo": "IWC Portugieser Yacht Club Chronograph, acero, esfera plateada, brazalete de acero, 44 mm",
-   "referencia": "IW390702",
-   "precio_justo_usd": 7000,
-   "interesante": false,
-   "nota": "El precio pedido (US$9.950) supera el retail aproximado de esta referencia y está muy por encima del mercado de segunda mano; no hay descuento."
-  },
-  "motivo": "triage: El precio pedido (US$9.950) supera el retail aproximado de esta referencia y está muy por encima del mercado de segunda mano; no hay descuento. (justo 7000)"
- },
- {
-  "fecha": "2026-10-29T13:08:30.688538+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Pasha W31029M7",
-  "total": 2860.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800851823666",
-  "item_id": "v1|800851823666|0",
-  "triage": {
-   "modelo": "Cartier Pasha de Cartier Chronograph (38 mm, acero, esfera plateada)",
-   "referencia": "W31029M7",
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "Precio pedido por encima de la estimación de venta real para esta referencia en estado Good; la foto muestra caja, pero no se ven papeles."
-  },
-  "motivo": "triage: Precio pedido por encima de la estimación de venta real para esta referencia en estado Good; la foto muestra caja, pero no se ven papeles. (justo 2300)"
- },
- {
-  "fecha": "2026-10-29T13:08:30.688538+00:00",
-  "marca": "Omega",
-  "titulo": "Ladies Omega de Ville Matic 34MM 42565342055001 Mop Diamond 18K Rose Gold Watch",
-  "total": 18800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/900048789792",
-  "item_id": "v1|900048789792|0",
-  "triage": {
-   "modelo": "Omega De Ville Ladymatic 34 mm, oro rosa 18K con bisel de diamantes, esfera de nácar con índices de diamante",
-   "referencia": "425.65.34.20.55.001",
-   "precio_justo_usd": 11500,
-   "interesante": false,
-   "nota": "Precio pedido bastante por encima del valor de reventa de un Ladymatic de oro rosa con diamantes en estado usado; el listado no ofrece ventaja."
-  },
-  "motivo": "triage: Precio pedido bastante por encima del valor de reventa de un Ladymatic de oro rosa con diamantes en estado usado; el listado no ofrece ventaja. (justo 11500)"
- },
- {
-  "fecha": "2026-10-29T13:23:31.053687+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Ladies Date Model 69160 Jubilee Bracelet Stainless Steel Watch",
-  "total": 4150.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377605798368",
-  "item_id": "v1|377605798368|0",
-  "referencia": "69160",
-  "mercado": {
-   "n": 8,
-   "p25": 4269,
-   "mediana": 4868
-  },
-  "ratio_mercado": 0.972,
-  "motivo": "precio normal (97 % del cuartil bajo de 69160)"
- },
- {
-  "fecha": "2026-10-29T13:23:31.053687+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos de Cartier WSSA0029",
-  "total": 7500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147656763763",
-  "item_id": "v1|147656763763|0",
-  "referencia": "WSSA0029",
-  "mercado": {
-   "n": 9,
-   "p25": 7350,
-   "mediana": 7750
-  },
-  "ratio_mercado": 1.02,
-  "motivo": "precio normal (102 % del cuartil bajo de WSSA0029)"
- },
- {
   "fecha": "2026-10-29T13:23:31.053687+00:00",
   "marca": "Cartier",
   "titulo": "CARTIER TANK MUST Photovoltaic Solarbeat WSTA0060 29x22mm Stainless Steel Watch",
@@ -11402,5 +11300,119 @@
   },
   "ratio_mercado": 0.953,
   "motivo": "precio normal (95 % del cuartil bajo de 79360N)"
+ },
+ {
+  "fecha": "2026-10-30T18:39:27.215451+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Rolex GMT-Master II \"Root Beer\" | Ref. 126711CHNR",
+  "total": 22100.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267828364008",
+  "item_id": "v1|267828364008|0",
+  "referencia": "126711CHNR",
+  "mercado": {
+   "n": 96,
+   "p25": 20589,
+   "mediana": 21498
+  },
+  "ratio_mercado": 1.073,
+  "motivo": "precio normal (107 % del cuartil bajo de 126711CHNR)"
+ },
+ {
+  "fecha": "2026-10-30T18:39:27.215451+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual   ?",
+  "total": 100.0,
+  "condicion": "For parts or not working",
+  "url": "https://www.ebay.com/itm/267827446611",
+  "item_id": "v1|267827446611|0",
+  "triage": {
+   "modelo": "Rolex Lady Datejust (bicolor acero y oro, bisel acanalado, esfera champán, fecha a las 3, brazalete jubilee)",
+   "referencia": "69173 (probable, sin confirmar)",
+   "precio_justo_usd": 900,
+   "interesante": false,
+   "nota": "El título dice 'Oyster Perpetual' pero la foto muestra un Lady Datejust. Está para piezas o no funciona, las fotos no permiten verificar autenticidad ni estado, y el precio de 'piezas' no aporta margen claro."
+  },
+  "motivo": "triage: El título dice 'Oyster Perpetual' pero la foto muestra un Lady Datejust. Está para piezas o no funciona, las fotos no permiten verificar autenticidad ni estado, y el precio de 'piezas' no aporta margen claro. (justo 900)"
+ },
+ {
+  "fecha": "2026-10-30T18:39:27.215451+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Solo Large \"Large\" W5200004 or 3167",
+  "total": 6470.44,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237153126795",
+  "item_id": "v1|237153126795|0",
+  "referencia": "W5200004",
+  "mercado": {
+   "n": 2,
+   "p25": 6300,
+   "mediana": 6625
+  },
+  "triage": {
+   "modelo": "Cartier Tank Solo Large (caja rectangular, esfera blanca con numerales romanos, correa de cuero negro)",
+   "referencia": "W5200004 (según título; el '3167' no corresponde a un Tank Solo)",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "El título es ambiguo y la caja se ve dorada, pero la referencia W5200004 es acero. Un Tank Solo Large de acero usado se vende aprox. US$2,800-3,500, así que US$6,470 está muy por encima. Si fuera oro macizo, el precio justo sería distinto; conviene verificar material y papeles."
+  },
+  "motivo": "triage: El título es ambiguo y la caja se ve dorada, pero la referencia W5200004 es acero. Un Tank Solo Large de acero usado se vende aprox. US$2,800-3,500, así que US$6,470 está muy por encima. Si fuera oro macizo, el precio justo sería distinto; conviene verificar material y papeles. (justo 3200)"
+ },
+ {
+  "fecha": "2026-10-30T18:39:27.215451+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Red Gold Bracelet Ring Storage Box Empty Case Set READ",
+  "total": 64.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327429213209",
+  "item_id": "v1|327429213209|0",
+  "triage": {
+   "modelo": "Caja vacía Cartier (estuche de anillo/pulsera en rojo con caja exterior)",
+   "referencia": null,
+   "precio_justo_usd": 35,
+   "interesante": false,
+   "nota": "No es un reloj, sino un estuche vacío de anillo/pulsera con caja exterior; no tiene valor de reventa como pieza de relojería."
+  },
+  "motivo": "triage: No es un reloj, sino un estuche vacío de anillo/pulsera con caja exterior; no tiene valor de reventa como pieza de relojería. (justo 35)"
+ },
+ {
+  "fecha": "2026-10-30T18:39:27.215451+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 GMT Coke 39mm - 7939G1A0NRU Warranty Until 2029!",
+  "total": 4443.11,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168827155973",
+  "item_id": "v1|168827155973|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 GMT 39 mm (acero, bisel bicolor)",
+   "referencia": "7939G1A0NRU",
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "Reloj de acero de producción reciente con garantía hasta 2029; el precio pedido de US$4.443 con envío supera la estimación del mercado secundario. El bisel y el color del dial no coinciden del todo con el título (Coke), así que conviene verificar la variante."
+  },
+  "motivo": "triage: Reloj de acero de producción reciente con garantía hasta 2029; el precio pedido de US$4.443 con envío supera la estimación del mercado secundario. El bisel y el color del dial no coinciden del todo con el título (Coke), así que conviene verificar la variante. (justo 3900)"
+ },
+ {
+  "fecha": "2026-10-30T18:39:27.215451+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Heritage Black Bay Blue Smiley *BOX + PAPERS* Rare Collectors Watch 79220B",
+  "total": 3800.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/820297148817",
+  "item_id": "v1|820297148817|0",
+  "referencia": "79220B",
+  "mercado": {
+   "n": 2,
+   "p25": 4000,
+   "mediana": 4556
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay (Heritage) Blue, esfera negra, bisel azul, brazalete de acero",
+   "referencia": "79220B",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio dentro del mercado (~5% bajo estimado); 'seller refurbished' reduce valor frente a un estado original, y la referencia está descatalogada."
+  },
+  "motivo": "triage: Precio dentro del mercado (~5% bajo estimado); 'seller refurbished' reduce valor frente a un estado original, y la referencia está descatalogada. (justo 4000)"
  }
 ]
