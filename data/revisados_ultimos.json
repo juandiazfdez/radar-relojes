@@ -1,109 +1,6 @@
 [
  {
   "fecha": "2026-10-29T03:53:11.339950+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Aqua Terra Seamaster 150m Co-Axial 41.5 Stainless Steel / Grey / Bracelet…",
-  "total": 4200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960127654585",
-  "item_id": "v1|960127654585|0",
-  "triage": {
-   "modelo": "Omega Seamaster Aqua Terra 150m Co-Axial 41.5 (acero, esfera gris texturizada, fecha, brazalete de acero)",
-   "referencia": "231.10.42.21.06.001 (probable, no confirmable solo con la foto)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido de 4200 USD por encima del valor de venta cerrada estimado para pre-owned; no es oportunidad."
-  },
-  "motivo": "triage: Precio pedido de 4200 USD por encima del valor de venta cerrada estimado para pre-owned; no es oportunidad. (justo 3300)"
- },
- {
-  "fecha": "2026-10-29T03:53:11.339950+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Speedmaster Reduced 3510.50 Black Automatic Chronograph 39mm CARD & BOX!!!",
-  "total": 3324.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198753646474",
-  "item_id": "v1|198753646474|0",
-  "referencia": "3510.50",
-  "mercado": {
-   "n": 46,
-   "p25": 3500,
-   "mediana": 3646
-  },
-  "ratio_mercado": 0.95,
-  "motivo": "precio normal (95 % del cuartil bajo de 3510.50)"
- },
- {
-  "fecha": "2026-10-29T03:53:11.339950+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer WAF111D.BA0810 Mens Aquaracer Series Black Watch with 57 Diamonds",
-  "total": 1395.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377604882134",
-  "item_id": "v1|377604882134|0",
-  "referencia": "WAF111D.BA0810",
-  "mercado": {
-   "n": 1,
-   "p25": 1595,
-   "mediana": 1595
-  },
-  "triage": {
-   "modelo": "TAG Heuer Aquaracer con bisel de diamantes (57 diamantes), esfera negra, acero",
-   "referencia": "WAF111D.BA0810 (según título, sin verificar en la imagen)",
-   "precio_justo_usd": 1100,
-   "interesante": false,
-   "nota": "Precio pedido 1395 USD, por encima del valor de venta estimado para uso Good; la referencia y los diamantes no se pueden verificar con la foto."
-  },
-  "motivo": "triage: Precio pedido 1395 USD, por encima del valor de venta estimado para uso Good; la referencia y los diamantes no se pueden verificar con la foto. (justo 1100)"
- },
- {
-  "fecha": "2026-10-29T03:53:11.339950+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer CAH1010 Mens Formula 1 Series Chronograph Quartz Watch Black Rubber",
-  "total": 975.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377604882136",
-  "item_id": "v1|377604882136|0",
-  "referencia": "CAH1010",
-  "mercado": {
-   "n": 2,
-   "p25": 805,
-   "mediana": 901
-  },
-  "triage": {
-   "modelo": "TAG Heuer Formula 1 Chronograph (serie Formula 1, cuarzo, acero con correa de caucho negro)",
-   "referencia": "CAH1010",
-   "precio_justo_usd": 400,
-   "interesante": false,
-   "nota": "Precio pedido de 975 USD muy por encima del valor de venta real de este modelo de cuarzo usado; el precio es muy alto para la referencia."
-  },
-  "motivo": "triage: Precio pedido de 975 USD muy por encima del valor de venta real de este modelo de cuarzo usado; el precio es muy alto para la referencia. (justo 400)"
- },
- {
-  "fecha": "2026-10-29T03:53:11.339950+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "NEW TAG Heuer 383.513 Midsize Formula 1 Series Quartz Watch Black BS0081",
-  "total": 1295.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/377604882143",
-  "item_id": "v1|377604882143|0",
-  "referencia": "BS0081",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "TAG Heuer Formula 1 Midsize cuarzo, negro/rojo (según título)",
-   "referencia": "383.513 (BS0081, según título)",
-   "precio_justo_usd": 750,
-   "interesante": false,
-   "nota": "La foto parece mostrar un reloj de otra marca (posiblemente Luminox), no un TAG Heuer F1. Además, US$1295 no está al menos 15% por debajo del precio de mercado gris de este modelo. Verificar la foto real antes de comprar."
-  },
-  "motivo": "triage: La foto parece mostrar un reloj de otra marca (posiblemente Luminox), no un TAG Heuer F1. Además, US$1295 no está al menos 15% por debajo del precio de mercado gris de este modelo. Verificar la foto real antes de comprar. (justo 750)"
- },
- {
-  "fecha": "2026-10-29T03:53:11.339950+00:00",
   "marca": "TAG Heuer",
   "titulo": "TAG Heuer WAF1415.BA0824 Womens Aquaracer White Pearl Quartz Watch w/ Diamonds",
   "total": 885.0,
@@ -11431,5 +11328,96 @@
    "nota": "Precio pedido de US$17.000 con envío, unos 10 % por encima de la estimación de venta real de este modelo de segunda mano; no cumple el umbral del 15 % por debajo."
   },
   "motivo": "triage: Precio pedido de US$17.000 con envío, unos 10 % por encima de la estimación de venta real de este modelo de segunda mano; no cumple el umbral del 15 % por debajo. (justo 15500)"
+ },
+ {
+  "fecha": "2026-10-30T15:24:26.922991+00:00",
+  "marca": "Rolex",
+  "titulo": "2019 Rolex Submariner Date \"Bluesy\" | Ref. 116613LB",
+  "total": 15080.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267828230049",
+  "item_id": "v1|267828230049|0",
+  "referencia": "116613LB",
+  "mercado": {
+   "n": 53,
+   "p25": 15990,
+   "mediana": 16000
+  },
+  "ratio_mercado": 0.943,
+  "motivo": "precio normal (94 % del cuartil bajo de 116613LB)"
+ },
+ {
+  "fecha": "2026-10-30T15:24:26.922991+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX Cellini Men's Watch 18K Yellow Gold Vintage Hand Wind Round",
+  "total": 5000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147658161428",
+  "item_id": "v1|147658161428|0",
+  "triage": {
+   "modelo": "Rolex Cellini (cuerda manual, caja redonda, posiblemente oro amarillo de 18k)",
+   "referencia": "Posiblemente de la serie 3800/3805 (no verificable en la foto)",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de mercado estimado para un Cellini vintage de oro en estado Good; confirmar material de la caja, referencia y autenticidad antes de cualquier compra."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de mercado estimado para un Cellini vintage de oro en estado Good; confirmar material de la caja, referencia y autenticidad antes de cualquier compra. (justo 3000)"
+ },
+ {
+  "fecha": "2026-10-30T15:24:26.922991+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Rolex GMT-Master II “Rootbeer” 40mm 126711CHNR Two-Tone",
+  "total": 22135.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147658158205",
+  "item_id": "v1|147658158205|0",
+  "referencia": "126711CHNR",
+  "mercado": {
+   "n": 96,
+   "p25": 20589,
+   "mediana": 21498
+  },
+  "ratio_mercado": 1.075,
+  "motivo": "precio normal (108 % del cuartil bajo de 126711CHNR)"
+ },
+ {
+  "fecha": "2026-10-30T15:24:26.922991+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Datejust 31 68278, Yellow Gold, Champagne Diamond Dial, Preside...",
+  "total": 21058.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/800855958619",
+  "item_id": "v1|800855958619|0",
+  "referencia": "68278",
+  "mercado": {
+   "n": 39,
+   "p25": 19630,
+   "mediana": 21358
+  },
+  "ratio_mercado": 1.073,
+  "motivo": "precio normal (107 % del cuartil bajo de 68278)"
+ },
+ {
+  "fecha": "2026-10-30T15:24:26.922991+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor 1926 41mm Stainless Steel M91650-0005",
+  "total": 2295.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880065392282",
+  "item_id": "v1|880065392282|0",
+  "referencia": "M91650-0005",
+  "mercado": {
+   "n": 1,
+   "p25": 2350,
+   "mediana": 2350
+  },
+  "triage": {
+   "modelo": "Tudor 1926 41mm, acero, esfera plateada con numeración arábiga, brazalete Jubilee",
+   "referencia": "M91650-0005",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio 25-40 % bajo retail para un Tudor nuevo con caja y papeles: demasiado bajo para ser normal, así que hay que verificar autenticidad y vendedor antes de considerarlo."
+  },
+  "motivo": "triage: Precio 25-40 % bajo retail para un Tudor nuevo con caja y papeles: demasiado bajo para ser normal, así que hay que verificar autenticidad y vendedor antes de considerarlo. (justo 3000)"
  }
 ]
