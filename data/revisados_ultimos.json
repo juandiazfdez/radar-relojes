@@ -2,63 +2,6 @@
  {
   "fecha": "2026-10-29T03:53:11.339950+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG Heuer WAF1415.BA0824 Womens Aquaracer White Pearl Quartz Watch w/ Diamonds",
-  "total": 885.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377604882145",
-  "item_id": "v1|377604882145|0",
-  "referencia": "WAF1415.BA0824",
-  "mercado": {
-   "n": 6,
-   "p25": 1000,
-   "mediana": 1148
-  },
-  "ratio_mercado": 0.885,
-  "motivo": "precio normal (88 % del cuartil bajo de WAF1415.BA0824)"
- },
- {
-  "fecha": "2026-10-29T03:53:11.339950+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer WAC1113.BA0850 Mens Formula 1 Series Professional Red & Black Watch",
-  "total": 915.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377604882148",
-  "item_id": "v1|377604882148|0",
-  "referencia": "WAC1113.BA0850",
-  "mercado": {
-   "n": 2,
-   "p25": 895,
-   "mediana": 1348
-  },
-  "triage": {
-   "modelo": "TAG Heuer Formula 1 (serie Professional), esfera roja, brazalete de acero",
-   "referencia": "WAC1113.BA0850 (no verificable en la foto)",
-   "precio_justo_usd": 550,
-   "interesante": false,
-   "nota": "Formula 1 de acero usado en estado Good sin caja ni papeles se vende en torno a 450-650 USD; el precio pedido de 915 USD está muy por encima."
-  },
-  "motivo": "triage: Formula 1 de acero usado en estado Good sin caja ni papeles se vende en torno a 450-650 USD; el precio pedido de 915 USD está muy por encima. (justo 550)"
- },
- {
-  "fecha": "2026-10-29T03:53:11.339950+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer 374.513 WA1214.BA0494 Midsize Mens Womens Formula 1 Black & Red Watch",
-  "total": 995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377604882152",
-  "item_id": "v1|377604882152|0",
-  "referencia": "WA1214.BA0494",
-  "mercado": {
-   "n": 6,
-   "p25": 640,
-   "mediana": 650
-  },
-  "ratio_mercado": 1.555,
-  "motivo": "precio normal (155 % del cuartil bajo de WA1214.BA0494)"
- },
- {
-  "fecha": "2026-10-29T03:53:11.339950+00:00",
-  "marca": "TAG Heuer",
   "titulo": "TAG Heuer WAH1211.BA0861 Midsize Formula 1 Series White Ceramic Quartz Watch",
   "total": 795.0,
   "condicion": "Pre-owned - Good",
@@ -11419,5 +11362,62 @@
    "nota": "Precio 25-40 % bajo retail para un Tudor nuevo con caja y papeles: demasiado bajo para ser normal, así que hay que verificar autenticidad y vendedor antes de considerarlo."
   },
   "motivo": "triage: Precio 25-40 % bajo retail para un Tudor nuevo con caja y papeles: demasiado bajo para ser normal, así que hay que verificar autenticidad y vendedor antes de considerarlo. (justo 3000)"
+ },
+ {
+  "fecha": "2026-10-30T15:39:26.714374+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex NEW 126300 Datejust 41mm Green OMBRE Steel Oyster BOX & PAPERS 2026 #RL660",
+  "total": 15325.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206663728992",
+  "item_id": "v1|206663728992|0",
+  "referencia": "126300",
+  "mercado": {
+   "n": 52,
+   "p25": 11918,
+   "mediana": 12056
+  },
+  "ratio_mercado": 1.286,
+  "motivo": "precio normal (129 % del cuartil bajo de 126300)"
+ },
+ {
+  "fecha": "2026-10-30T15:39:26.714374+00:00",
+  "marca": "Cartier",
+  "titulo": "Retired Cartier Santos 30mm Octagon 187902 18k Gold & Stainless Steel Watch",
+  "total": 3220.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168826888540",
+  "item_id": "v1|168826888540|0",
+  "triage": {
+   "modelo": "Cartier Santos Octagon 30 mm bicolor acero y oro 18k (cuarzo), con caja y papeles",
+   "referencia": "187902",
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "Precio pedido US$3220 por encima del valor de venta cerrada estimado (~US$2,000-2,800) para este bicolor de cuarzo con caja y papeles; la referencia debe verificarse con el número de serie."
+  },
+  "motivo": "triage: Precio pedido US$3220 por encima del valor de venta cerrada estimado (~US$2,000-2,800) para este bicolor de cuarzo con caja y papeles; la referencia debe verificarse con el número de serie. (justo 2400)"
+ },
+ {
+  "fecha": "2026-10-30T15:39:26.714374+00:00",
+  "marca": "Tudor",
+  "titulo": "New 2026 Tudor Pelagos FXD Black Titanium 9/26 Ref. 25717N",
+  "total": 4548.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/257825527974",
+  "item_id": "v1|257825527974|0",
+  "referencia": "25717N",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Pelagos FXD Black Titanium (buceo, titanio negro, correa textil)",
+   "referencia": "25717N",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "El precio pedido de US$4.548 supera el retail y el mercado gris de un Pelagos FXD nuevo; no hay descuento real."
+  },
+  "motivo": "triage: El precio pedido de US$4.548 supera el retail y el mercado gris de un Pelagos FXD nuevo; no hay descuento real. (justo 3300)"
  }
 ]
