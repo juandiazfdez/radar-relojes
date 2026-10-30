@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T02:23:10.827358+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Large in stainless steel",
-  "total": 8617.08,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206660508270",
-  "item_id": "v1|206660508270|0",
-  "triage": {
-   "modelo": "Cartier Santos de Cartier Large, acero, esfera plateada con números romanos, automático",
-   "referencia": "WSSA0029 (probable, sin confirmar en la imagen)",
-   "precio_justo_usd": 7000,
-   "interesante": false,
-   "nota": "Precio pedido de US$8617 con envío por encima del retail aproximado (~US$8450) y de la venta real de usados en buen estado (~US$6500-7500)."
-  },
-  "motivo": "triage: Precio pedido de US$8617 con envío por encima del retail aproximado (~US$8450) y de la venta real de usados en buen estado (~US$6500-7500). (justo 7000)"
- },
- {
-  "fecha": "2026-10-29T02:23:10.827358+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "Tag Heuer Ladies Aquaracer in stainless steel",
-  "total": 1685.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198753443891",
-  "item_id": "v1|198753443891|0",
-  "triage": {
-   "modelo": "TAG Heuer Aquaracer para mujer, acero, esfera de nácar blanco, cuarzo, ventana de fecha",
-   "referencia": "WAF1414 o WBD1411 (probable, no confirmado en la foto)",
-   "precio_justo_usd": 850,
-   "interesante": false,
-   "nota": "Precio pedido de US$1685 está muy por encima de lo que se vende este modelo de cuarzo de acero de uso; no hay descuento real."
-  },
-  "motivo": "triage: Precio pedido de US$1685 está muy por encima de lo que se vende este modelo de cuarzo de acero de uso; no hay descuento real. (justo 850)"
- },
- {
-  "fecha": "2026-10-29T02:23:10.827358+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "Tag Heuer Grand Carrera in stainless steel",
-  "total": 2701.5,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206660508243",
-  "item_id": "v1|206660508243|0",
-  "triage": {
-   "modelo": "TAG Heuer Grand Carrera Calibre 8 (acero, esfera plateada con indicador de reserva de marcha)",
-   "referencia": "WAV5111 (probable, no confirmada en la foto)",
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "Precio pedido de US$2702 supera el valor estimado de reventa para pre-owned Good; no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido de US$2702 supera el valor estimado de reventa para pre-owned Good; no hay descuento suficiente. (justo 2300)"
- },
- {
   "fecha": "2026-10-29T02:38:11.670123+00:00",
   "marca": "Omega",
   "titulo": "Omega Constellation Quartz Stainless Steel Watch",
@@ -11467,5 +11416,56 @@
    "nota": "La imagen muestra un reloj genérico de cuarzo con logotipo de Masters, no un Rolex. El título es engañoso y no corresponde a ninguna referencia real de Rolex."
   },
   "motivo": "triage: La imagen muestra un reloj genérico de cuarzo con logotipo de Masters, no un Rolex. El título es engañoso y no corresponde a ninguna referencia real de Rolex. (justo 40)"
+ },
+ {
+  "fecha": "2026-10-30T12:54:16.282254+00:00",
+  "marca": "Rolex",
+  "titulo": "1972 Rare Vintage 18K WHITE GOLD Rolex Date-Date President ref. 1803 \"Wide Boy\"",
+  "total": 21050.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206663469150",
+  "item_id": "v1|206663469150|0",
+  "triage": {
+   "modelo": "Rolex Day-Date President 'Wide Boy' en oro blanco de 18K (posible 1972)",
+   "referencia": "1803 (no confirmada; la 1803 suele ser oro amarillo, revisar)",
+   "precio_justo_usd": 24000,
+   "interesante": false,
+   "nota": "El título dice ref. 1803 en oro blanco, pero esa referencia suele ser oro amarillo; hay que verificar metal y referencia. Con estado Good, el precio pedido queda a ~12 % del estimado, por debajo del umbral del 15 %."
+  },
+  "motivo": "triage: El título dice ref. 1803 en oro blanco, pero esa referencia suele ser oro amarillo; hay que verificar metal y referencia. Con estado Good, el precio pedido queda a ~12 % del estimado, por debajo del umbral del 15 %. (justo 24000)"
+ },
+ {
+  "fecha": "2026-10-30T12:54:16.282254+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 34",
+  "total": 6215.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880064865240",
+  "item_id": "v1|880064865240|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 (bicolor acero/oro amarillo, bisel acanalado, esfera champán, Oyster)",
+   "referencia": "16233 (probable)",
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "El título dice Oyster Perpetual 34, pero la foto muestra ventana de fecha y bisel acanalado, es decir, un Datejust; el listado parece engañoso. Precio cerca del mercado (~11 % bajo), no alcanza el 15 % requerido."
+  },
+  "motivo": "triage: El título dice Oyster Perpetual 34, pero la foto muestra ventana de fecha y bisel acanalado, es decir, un Datejust; el listado parece engañoso. Precio cerca del mercado (~11 % bajo), no alcanza el 15 % requerido. (justo 7000)"
+ },
+ {
+  "fecha": "2026-10-30T12:54:16.282254+00:00",
+  "marca": "Rolex",
+  "titulo": "1974 Rare Vintage Rolex DateJust ref. 1603 Double Signed - \"Tiffany & Co\"",
+  "total": 10050.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407326966051",
+  "item_id": "v1|407326966051|0",
+  "triage": {
+   "modelo": "Rolex Datejust, acero, esfera plateada con marcadores de barra, brazalete Jubilee (posible esfera firmada Tiffany & Co.)",
+   "referencia": "1603",
+   "precio_justo_usd": 9500,
+   "interesante": false,
+   "nota": "Ref. 1603 de acero de 1974 con esfera doble firma Tiffany; el precio pedido queda por encima del valor de venta estimado. Verificar autenticidad de la firma del dial."
+  },
+  "motivo": "triage: Ref. 1603 de acero de 1974 con esfera doble firma Tiffany; el precio pedido queda por encima del valor de venta estimado. Verificar autenticidad de la firma del dial. (justo 9500)"
  }
 ]
