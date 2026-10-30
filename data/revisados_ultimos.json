@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T01:38:11.739503+00:00",
-  "marca": "IWC",
-  "titulo": "IWC Pilot's Chronograph Spitfire  Day/Date 41mm Full Kit, IW387901",
-  "total": 4510.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307254592282",
-  "item_id": "v1|307254592282|0",
-  "referencia": "IW387901",
-  "mercado": {
-   "n": 4,
-   "p25": 4625,
-   "mediana": 4875
-  },
-  "triage": {
-   "modelo": "IWC Pilot's Chronograph Spitfire 41 mm (Day/Date)",
-   "referencia": "IW387901",
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "Cronógrafo de acero usado con kit completo; el precio pedido de US$4510 está por encima del valor de venta realista."
-  },
-  "motivo": "triage: Cronógrafo de acero usado con kit completo; el precio pedido de US$4510 está por encima del valor de venta realista. (justo 4300)"
- },
- {
   "fecha": "2026-10-29T01:53:11.222234+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual 6719 24mm 14K Solid Gold Jubilee Ladies Watch 1982",
@@ -11485,5 +11462,22 @@
   },
   "ratio_mercado": 1.181,
   "motivo": "precio normal (118 % del cuartil bajo de 6567)"
+ },
+ {
+  "fecha": "2026-10-30T09:24:16.003678+00:00",
+  "marca": "Rolex",
+  "titulo": "1997 ROLEX DATEJUST 16200 36MM  WHITE ROMAN STEEL OYSTER WATCH $1 NR 11/6",
+  "total": 1.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800854971497",
+  "item_id": "v1|800854971497|0",
+  "referencia": "16200",
+  "mercado": {
+   "n": 29,
+   "p25": 7381,
+   "mediana": 7525
+  },
+  "ratio_mercado": 0.0,
+  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
  }
 ]
