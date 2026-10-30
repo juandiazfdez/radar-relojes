@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T05:38:20.600299+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Diver 300M Black 41mm 2019 Box & Papers 212.30.41.20.01.003",
-  "total": 3880.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128160354028",
-  "item_id": "v1|128160354028|0",
-  "referencia": "212.30.41.20.01.003",
-  "mercado": {
-   "n": 27,
-   "p25": 3950,
-   "mediana": 4000
-  },
-  "ratio_mercado": 0.982,
-  "motivo": "precio normal (98 % del cuartil bajo de 212.30.41.20.01.003)"
- },
- {
-  "fecha": "2026-10-29T05:53:19.816391+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Ceramic Blue M79210CNU-0007 41mm 2024 Full Set",
-  "total": 4250.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/327428466040",
-  "item_id": "v1|327428466040|0",
-  "triage": {
-   "modelo": "Tudor Black Bay Ceramic Blue (listado), pero la foto muestra una caja negra PVD y correa genérica con costuras azules, lo que no coincide con el modelo original",
-   "referencia": "M79210CNU (según el título; no verificable en la foto)",
-   "precio_justo_usd": 3900,
-   "interesante": false,
-   "nota": "Las fotos sugieren un homenaje o reloj personalizado, no un Tudor original. Si fuera auténtico, el precio sería razonable, pero no hay evidencia de ello."
-  },
-  "motivo": "triage: Las fotos sugieren un homenaje o reloj personalizado, no un Tudor original. Si fuera auténtico, el precio sería razonable, pero no hay evidencia de ello. (justo 3900)"
- },
- {
-  "fecha": "2026-10-29T06:08:19.896152+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Men’s 36mm Rolex Watch Stainless Oyster Perpetual ",
-  "total": 5999.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128162015295",
-  "item_id": "v1|128162015295|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual vintage, acero, esfera plateada con marcadores aplicados (posible era 1950-60)",
-   "referencia": "No identificable con certeza desde la foto (posiblemente Oyster Perpetual ref. 1002/1003)",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "El precio pedido de $5,999 está muy por encima del valor de venta real de un Oyster Perpetual vintage de acero en estado Good; la foto es insuficiente para verificar referencia, esfera y autenticidad."
-  },
-  "motivo": "triage: El precio pedido de $5,999 está muy por encima del valor de venta real de un Oyster Perpetual vintage de acero en estado Good; la foto es insuficiente para verificar referencia, esfera y autenticidad. (justo 3000)"
- },
- {
   "fecha": "2026-10-29T06:08:19.896152+00:00",
   "marca": "Omega",
   "titulo": "42 Mm Omega Speedmaster Professional Moon Watch Chronograph",
@@ -11352,5 +11301,62 @@
   },
   "ratio_mercado": 0.819,
   "motivo": "descripcion: as-is"
+ },
+ {
+  "fecha": "2026-10-30T17:24:27.016900+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sky-Dweller 326938",
+  "total": 46485.94,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237153062135",
+  "item_id": "v1|237153062135|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller oro amarillo, bisel acanalado, esfera champán",
+   "referencia": "326938",
+   "precio_justo_usd": 43000,
+   "interesante": false,
+   "nota": "Precio pedido por encima de la estimación de venta cerrada para esta referencia en oro amarillo; no hay descuento de al menos 15 %."
+  },
+  "motivo": "triage: Precio pedido por encima de la estimación de venta cerrada para esta referencia en oro amarillo; no hay descuento de al menos 15 %. (justo 43000)"
+ },
+ {
+  "fecha": "2026-10-30T17:24:27.016900+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yachtmaster 40 Rose Gold Oysterflex 116655 Mint + Warranty",
+  "total": 27125.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920088317587",
+  "item_id": "v1|920088317587|0",
+  "referencia": "116655",
+  "mercado": {
+   "n": 21,
+   "p25": 26708,
+   "mediana": 29999
+  },
+  "ratio_mercado": 1.016,
+  "motivo": "precio normal (102 % del cuartil bajo de 116655)"
+ },
+ {
+  "fecha": "2026-10-30T17:24:27.016900+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Solo 41mm  WSTA0029",
+  "total": 4124.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147658273776",
+  "item_id": "v1|147658273776|0",
+  "referencia": "WSTA0029",
+  "mercado": {
+   "n": 1,
+   "p25": 4199,
+   "mediana": 4199
+  },
+  "triage": {
+   "modelo": "Cartier Tank Solo XL 41 mm, acero, cuarzo, esfera blanca con números romanos, correa de piel negra",
+   "referencia": "WSTA0029",
+   "precio_justo_usd": 2700,
+   "interesante": false,
+   "nota": "Precio pedido de US$4,124 supera el retail actual de esta referencia y está muy por encima del mercado de segunda mano (~US$2,600-3,000 en estado Good)."
+  },
+  "motivo": "triage: Precio pedido de US$4,124 supera el retail actual de esta referencia y está muy por encima del mercado de segunda mano (~US$2,600-3,000 en estado Good). (justo 2700)"
  }
 ]
