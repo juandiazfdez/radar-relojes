@@ -3335,14 +3335,14 @@
   "max": 24000
  },
  "Rolex 116503|usado": {
-  "fecha": "2026-10-21",
+  "fecha": "2026-10-30",
   "consulta": "Rolex 116503",
-  "n": 29,
-  "mediana": 23895,
-  "p25": 22433,
-  "p75": 24800,
-  "min": 18449,
-  "max": 26500
+  "n": 24,
+  "mediana": 23824,
+  "p25": 22628,
+  "p75": 24668,
+  "min": 18549,
+  "max": 25850
  },
  "Cartier 2324|usado": {
   "fecha": "2026-10-21",
@@ -16903,5 +16903,20 @@
   "p75": 5460,
   "min": 5450,
   "max": 5460
+ },
+ "Cartier WGSA0139|nuevo": {
+  "fecha": "2026-10-30",
+  "consulta": "Cartier WGSA0139",
+  "n": 0
+ },
+ "Breitling M23370|usado": {
+  "fecha": "2026-10-30",
+  "consulta": "Breitling M23370",
+  "n": 2,
+  "mediana": 4950,
+  "p25": 4000,
+  "p75": 5900,
+  "min": 4000,
+  "max": 5900
  }
 }
