@@ -1,52 +1,6 @@
 [
  {
   "fecha": "2026-10-29T01:38:11.739503+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Carrera Men's Black Watch - CV2014",
-  "total": 1500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/227587912421",
-  "item_id": "v1|227587912421|0",
-  "referencia": "CV2014",
-  "mercado": {
-   "n": 5,
-   "p25": 1799,
-   "mediana": 2150
-  },
-  "ratio_mercado": 0.834,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 1450,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, buen estado aparente. Caja con forro dañado y sin fotos del fondo de caja ni del movimiento"
-  },
-  "motivo": "Claude descarto: El precio de US$1500 está en línea con el valor real de venta cerrada de un CV2014 usado (aprox. US$1350-1600). Con envío y comisiones casi no deja margen de reventa. Los comparables de 1799-2150 son precios pedidos inflados.; La descripción dice 'nuevo, usado menos de 30 días', pero las fotos no lo respaldan. El estuche tiene el forro de la tapa desprendido y deteriorado, y el cristal se ve con polvo o marcas. Parece un reloj usado normal, no uno de estreno."
- },
- {
-  "fecha": "2026-10-29T01:38:11.739503+00:00",
-  "marca": "IWC",
-  "titulo": "IWC Big Pilot’s Watch Spitfire Mission Accomplished Bronze (IW510506)",
-  "total": 7900.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800850054929",
-  "item_id": "v1|800850054929|0",
-  "referencia": "IW510506",
-  "mercado": {
-   "n": 3,
-   "p25": 11900,
-   "mediana": 13895
-  },
-  "triage": {
-   "modelo": "IWC Big Pilot's Watch Spitfire \"Mission Accomplished\" Bronze",
-   "referencia": "IW510506",
-   "precio_justo_usd": 8500,
-   "interesante": false,
-   "nota": "Precio 7 % por debajo de la estimación conservadora; sin ventaja clara de compra. Verificar papeles, caja y estado de la correa de piel."
-  },
-  "motivo": "triage: Precio 7 % por debajo de la estimación conservadora; sin ventaja clara de compra. Verificar papeles, caja y estado de la correa de piel. (justo 8500)"
- },
- {
-  "fecha": "2026-10-29T01:38:11.739503+00:00",
   "marca": "IWC",
   "titulo": "IWC Pilot's Chronograph Spitfire  Day/Date 41mm Full Kit, IW387901",
   "total": 4510.0,
@@ -11497,5 +11451,39 @@
    "nota": "Precio pedido US$4.313 con envío, por encima del valor de venta cerrada estimado para este Roadster de acero usado; no es una oportunidad."
   },
   "motivo": "triage: Precio pedido US$4.313 con envío, por encima del valor de venta cerrada estimado para este Roadster de acero usado; no es una oportunidad. (justo 3400)"
+ },
+ {
+  "fecha": "2026-10-30T09:09:15.931710+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Lady Datejust MOP Steel and 18K Everose Gold Diamond Jubilee Watch",
+  "total": 29242.5,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840074312557",
+  "item_id": "v1|840074312557|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 28 mm en acero y Everose, bisel de diamantes, esfera de nácar con diamantes, brazalete Jubilee",
+   "referencia": "279381RBR",
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "Precio pedido de US$29.242 es más del doble del valor de mercado para esta referencia nueva; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$29.242 es más del doble del valor de mercado para esta referencia nueva; no es una oportunidad. (justo 14000)"
+ },
+ {
+  "fecha": "2026-10-30T09:09:15.931710+00:00",
+  "marca": "Rolex",
+  "titulo": "\"Vintage 1950s Rolex Oyster Perpetual 6567 18k Gold Dauphine Block Markers Runs\"",
+  "total": 5900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237152389339",
+  "item_id": "v1|237152389339|0",
+  "referencia": "6567",
+  "mercado": {
+   "n": 8,
+   "p25": 4995,
+   "mediana": 6720
+  },
+  "ratio_mercado": 1.181,
+  "motivo": "precio normal (118 % del cuartil bajo de 6567)"
  }
 ]
