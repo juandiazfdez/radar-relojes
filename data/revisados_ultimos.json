@@ -1,29 +1,6 @@
 [
  {
   "fecha": "2026-10-29T00:38:11.071808+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Windrider Wings Rouleaux Bracelet 2 Tone Ref. B10350 Case #602",
-  "total": 2100.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/137880906842",
-  "item_id": "v1|137880906842|0",
-  "referencia": "B10350",
-  "mercado": {
-   "n": 2,
-   "p25": 2095,
-   "mediana": 2448
-  },
-  "triage": {
-   "modelo": "Breitling Windrider Wings Rouleaux, acero y oro bicolor, esfera blanca con fecha",
-   "referencia": "B10350",
-   "precio_justo_usd": 1000,
-   "interesante": false,
-   "nota": "Precio pedido de US$2100 muy por encima del valor de venta real de este modelo de cuarzo bicolor en estado refurbished; la referencia y el modelo se basan solo en el título y la foto."
-  },
-  "motivo": "triage: Precio pedido de US$2100 muy por encima del valor de venta real de este modelo de cuarzo bicolor en estado refurbished; la referencia y el modelo se basan solo en el título y la foto. (justo 1000)"
- },
- {
-  "fecha": "2026-10-29T00:38:11.071808+00:00",
   "marca": "IWC",
   "titulo": "NEW 2026 IWC Portofino Automatic Moon Phase FULL SET IW459401 8 Year Warranty",
   "total": 6950.0,
@@ -11518,5 +11495,22 @@
    "nota": "Con esfera bicolor y caja redonda, el precio pedido de US$1550 supera lo que suelen cerrar estos Dynamic vintage. Hay que confirmar el calibre y si el texto del dial dice Quartz."
   },
   "motivo": "triage: Con esfera bicolor y caja redonda, el precio pedido de US$1550 supera lo que suelen cerrar estos Dynamic vintage. Hay que confirmar el calibre y si el texto del dial dice Quartz. (justo 900)"
+ },
+ {
+  "fecha": "2026-10-30T01:38:57.557582+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Rolex Day-Date 40 Olive Green Bevelled Roman President 228239 Complete",
+  "total": 51000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128163466033",
+  "item_id": "v1|128163466033|0",
+  "referencia": "228239",
+  "mercado": {
+   "n": 20,
+   "p25": 45000,
+   "mediana": 47958
+  },
+  "ratio_mercado": 1.133,
+  "motivo": "precio normal (113 % del cuartil bajo de 228239)"
  }
 ]
