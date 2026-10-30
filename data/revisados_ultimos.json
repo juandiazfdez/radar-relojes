@@ -1,29 +1,6 @@
 [
  {
   "fecha": "2026-10-29T00:53:11.346730+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Rare Planet Ocean Casino Royale 45.5mm - 2907.50.91 - Box &",
-  "total": 4025.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407323398739",
-  "item_id": "v1|407323398739|0",
-  "referencia": "2907.50.91",
-  "mercado": {
-   "n": 1,
-   "p25": 6240,
-   "mediana": 6240
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Planet Ocean 600M 'Casino Royale' (edición limitada 007)",
-   "referencia": "2907.50.91",
-   "precio_justo_usd": 6000,
-   "interesante": false,
-   "nota": "Precio 33% bajo mercado para un modelo muy falsificado; sin autenticación y papeles verificados, es demasiado arriesgado."
-  },
-  "motivo": "triage: Precio 33% bajo mercado para un modelo muy falsificado; sin autenticación y papeles verificados, es demasiado arriesgado. (justo 6000)"
- },
- {
-  "fecha": "2026-10-29T00:53:11.346730+00:00",
   "marca": "IWC",
   "titulo": "IWC Portofino Automatic IW356501 40MM Date Black Leather Mens Watch",
   "total": 2949.99,
@@ -11526,5 +11503,35 @@
   },
   "ratio_mercado": 0.875,
   "motivo": "precio normal (87 % del cuartil bajo de 126715CHNR)"
+ },
+ {
+  "fecha": "2026-10-30T03:09:07.202336+00:00",
+  "marca": "Omega",
+  "titulo": "Omega Speedmaster Moonwatch 18K Sedna Gold Ref.310.60.42.50.01.001 2024 FullSet",
+  "total": 32388.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920086417736",
+  "item_id": "v1|920086417736|0",
+  "referencia": "310.60.42.50.01.001",
+  "mercado": {
+   "n": 4,
+   "p25": 31010,
+   "mediana": 32193
+  },
+  "triage": {
+   "modelo": "Omega Speedmaster Moonwatch Professional cronógrafo, 42 mm, oro 18K Sedna, esfera negra, brazalete integrado",
+   "referencia": "310.60.42.50.01.001",
+   "precio_justo_usd": 38500,
+   "interesante": true,
+   "nota": "Precio ~16% bajo el valor de venta estimado para un 2024 con caja y papeles; verificar autenticidad, papeles y número de serie antes de comprar."
+  },
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 34500,
+   "riesgo_autenticidad": "medio",
+   "estado": "Aspecto de excelente a muy bueno, con marcas leves de uso en caja y brazalete. Sin fotos de fondo de caja, caja ni papeles."
+  },
+  "ratio_justo": 0.939,
+  "motivo": "precio normal segun revision (94 % del justo 34500)"
  }
 ]
