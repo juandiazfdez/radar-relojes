@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-10-28T23:53:11.056297+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 1503 14k Solid Gold 1970s Mens 34mm Automatic RA741G",
-  "total": 18900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267826709145",
-  "item_id": "v1|267826709145|0",
-  "triage": {
-   "modelo": "Rolex Datejust vintage en oro amarillo de 14k (bisel acanalado, brazalete Jubilee, ventana de fecha en las 3, esfera champán con índices de bastón; ref. probable 1601/1603 o similar)",
-   "referencia": "null",
-   "precio_justo_usd": 6500,
-   "interesante": false,
-   "nota": "El título dice 1503 (Oyster Perpetual, bisel liso), pero la foto muestra bisel acanalado de Datejust, y 'RA741G' no es un formato de referencia Rolex. Precio muy por encima del mercado para esta pieza; verificar identidad y oro antes de considerarla."
-  },
-  "motivo": "triage: El título dice 1503 (Oyster Perpetual, bisel liso), pero la foto muestra bisel acanalado de Datejust, y 'RA741G' no es un formato de referencia Rolex. Precio muy por encima del mercado para esta pieza; verificar identidad y oro antes de considerarla. (justo 6500)"
- },
- {
-  "fecha": "2026-10-28T23:53:11.056297+00:00",
   "marca": "Breitling",
   "titulo": "Breitling Superocean Heritage Chronograph 46MM A13320 Full Set Original Owner",
   "total": 3595.0,
@@ -11518,5 +11501,22 @@
    "nota": "Precio cercano al mercado de segunda mano para esta edición Blacksteel; no hay descuento de al menos 15 % y falta confirmar caja, papeles y autenticidad."
   },
   "motivo": "triage: Precio cercano al mercado de segunda mano para esta edición Blacksteel; no hay descuento de al menos 15 % y falta confirmar caja, papeles y autenticidad. (justo 4800)"
+ },
+ {
+  "fecha": "2026-10-30T00:53:57.266190+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex Daytona Green John Mayer 2.0 18k Yellow Gold Box/Papers/Card 126508",
+  "total": 84995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840073135442",
+  "item_id": "v1|840073135442|0",
+  "referencia": "126508",
+  "mercado": {
+   "n": 11,
+   "p25": 76065,
+   "mediana": 84000
+  },
+  "ratio_mercado": 1.117,
+  "motivo": "precio normal (112 % del cuartil bajo de 126508)"
  }
 ]
