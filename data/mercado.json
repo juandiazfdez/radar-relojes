@@ -6150,7 +6150,7 @@
   "max": 40625
  },
  "Rolex 126710BLNR|nuevo": {
-  "fecha": "2026-10-29",
+  "fecha": "2026-10-30",
   "consulta": "Rolex 126710BLNR",
   "n": 62,
   "mediana": 20558,
@@ -7470,12 +7470,12 @@
   "n": 0
  },
  "Cartier W5200002|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-10-30",
   "consulta": "Cartier W5200002",
-  "n": 7,
-  "mediana": 6985,
+  "n": 5,
+  "mediana": 6897,
   "p25": 5855,
-  "p75": 7615,
+  "p75": 7536,
   "min": 5500,
   "max": 8199
  },
@@ -7555,13 +7555,13 @@
   "n": 0
  },
  "Cartier W6920047|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-30",
   "consulta": "Cartier W6920047",
-  "n": 4,
-  "mediana": 7168,
-  "p25": 6835,
-  "p75": 7699,
-  "min": 6443,
+  "n": 6,
+  "mediana": 6600,
+  "p25": 6200,
+  "p75": 7500,
+  "min": 6000,
   "max": 7699
  },
  "Cartier WGNM0008|usado": {
@@ -11025,12 +11025,12 @@
   "n": 0
  },
  "Cartier W5200024|usado": {
-  "fecha": "2026-10-29",
+  "fecha": "2026-10-30",
   "consulta": "Cartier W5200024",
-  "n": 9,
+  "n": 11,
   "mediana": 7135,
   "p25": 6495,
-  "p75": 7295,
+  "p75": 7216,
   "min": 5595,
   "max": 8199
  },
@@ -15740,9 +15740,14 @@
   "n": 0
  },
  "Cartier WE800731|usado": {
-  "fecha": "2026-10-29",
+  "fecha": "2026-10-30",
   "consulta": "Cartier WE800731",
-  "n": 0
+  "n": 1,
+  "mediana": 6417,
+  "p25": 6417,
+  "p75": 6417,
+  "min": 6417,
+  "max": 6417
  },
  "Cartier WE600251|usado": {
   "fecha": "2026-10-29",
@@ -15805,14 +15810,14 @@
   "max": 8100
  },
  "Cartier W1529856|usado": {
-  "fecha": "2026-10-29",
+  "fecha": "2026-10-30",
   "consulta": "Cartier W1529856",
-  "n": 10,
-  "mediana": 9037,
+  "n": 11,
+  "mediana": 9089,
   "p25": 8950,
   "p75": 9879,
   "min": 6500,
-  "max": 10525
+  "max": 10446
  },
  "Cartier WJTA0011|usado": {
   "fecha": "2026-10-29",
@@ -15825,12 +15830,12 @@
   "n": 0
  },
  "Cartier W6800251|usado": {
-  "fecha": "2026-10-29",
+  "fecha": "2026-10-30",
   "consulta": "Cartier W6800251",
-  "n": 4,
-  "mediana": 7411,
+  "n": 5,
+  "mediana": 7855,
   "p25": 6888,
-  "p75": 9570,
+  "p75": 7962,
   "min": 6499,
   "max": 9570
  },
@@ -17153,5 +17158,105 @@
   "p75": 4199,
   "min": 4199,
   "max": 4199
+ },
+ "Cartier WE800431|usado": {
+  "fecha": "2026-10-30",
+  "consulta": "Cartier WE800431",
+  "n": 0
+ },
+ "Cartier W6900156|usado": {
+  "fecha": "2026-10-30",
+  "consulta": "Cartier W6900156",
+  "n": 3,
+  "mediana": 6660,
+  "p25": 5500,
+  "p75": 6760,
+  "min": 5500,
+  "max": 6760
+ },
+ "Cartier W6800151|usado": {
+  "fecha": "2026-10-30",
+  "consulta": "Cartier W6800151",
+  "n": 3,
+  "mediana": 5035,
+  "p25": 4564,
+  "p75": 5500,
+  "min": 4564,
+  "max": 5500
+ },
+ "Cartier WG200246|usado": {
+  "fecha": "2026-10-30",
+  "consulta": "Cartier WG200246",
+  "n": 0
+ },
+ "Cartier W3109699|usado": {
+  "fecha": "2026-10-30",
+  "consulta": "Cartier W3109699",
+  "n": 0
+ },
+ "Cartier WSCL0005|usado": {
+  "fecha": "2026-10-30",
+  "consulta": "Cartier WSCL0005",
+  "n": 4,
+  "mediana": 3714,
+  "p25": 3200,
+  "p75": 4348,
+  "min": 3100,
+  "max": 4348
+ },
+ "Cartier W1507651|usado": {
+  "fecha": "2026-10-30",
+  "consulta": "Cartier W1507651",
+  "n": 0
+ },
+ "Cartier WB707931|usado": {
+  "fecha": "2026-10-30",
+  "consulta": "Cartier WB707931",
+  "n": 1,
+  "mediana": 11985,
+  "p25": 11985,
+  "p75": 11985,
+  "min": 11985,
+  "max": 11985
+ },
+ "Cartier W2CA0004|usado": {
+  "fecha": "2026-10-30",
+  "consulta": "Cartier W2CA0004",
+  "n": 3,
+  "mediana": 6950,
+  "p25": 6139,
+  "p75": 7549,
+  "min": 6139,
+  "max": 7549
+ },
+ "Cartier WH100251|usado": {
+  "fecha": "2026-10-30",
+  "consulta": "Cartier WH100251",
+  "n": 0
+ },
+ "Cartier W2600951|usado": {
+  "fecha": "2026-10-30",
+  "consulta": "Cartier W2600951",
+  "n": 0
+ },
+ "Cartier WE801131|usado": {
+  "fecha": "2026-10-30",
+  "consulta": "Cartier WE801131",
+  "n": 1,
+  "mediana": 6471,
+  "p25": 6471,
+  "p75": 6471,
+  "min": 6471,
+  "max": 6471
+ },
+ "Cartier WSTA0030|usado": {
+  "fecha": "2026-10-30",
+  "consulta": "Cartier WSTA0030",
+  "n": 2,
+  "mediana": 3140,
+  "p25": 2995,
+  "p75": 3285,
+  "min": 2995,
+  "max": 3285
  }
 }
