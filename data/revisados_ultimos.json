@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T04:23:20.400255+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Memomatic 166.072 Grey Alarm Mens Vintage Automatic Preserved ",
-  "total": 1995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/820290021670",
-  "item_id": "v1|820290021670|0",
-  "triage": {
-   "modelo": "Omega Memomatic (alarma, automático, esfera gris)",
-   "referencia": "166.072",
-   "precio_justo_usd": 1000,
-   "interesante": false,
-   "nota": "Precio pedido de 1995 USD está muy por encima del valor de venta real de un Memomatic 166.072 vintage en acero y buen estado; no hay descuento."
-  },
-  "motivo": "triage: Precio pedido de 1995 USD está muy por encima del valor de venta real de un Memomatic 166.072 vintage en acero y buen estado; no hay descuento. (justo 1000)"
- },
- {
   "fecha": "2026-10-29T04:38:19.908331+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 31mm Pink Watch Ref# 279274",
@@ -11371,5 +11354,22 @@
   },
   "ratio_mercado": 0.905,
   "motivo": "precio normal (91 % del cuartil bajo de 214270)"
+ },
+ {
+  "fecha": "2026-10-30T16:24:26.843231+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay Pro White Opaline 2/26 Ref. 79470",
+  "total": 4048.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257825580790",
+  "item_id": "v1|257825580790|0",
+  "referencia": "79470",
+  "mercado": {
+   "n": 21,
+   "p25": 3658,
+   "mediana": 3854
+  },
+  "ratio_mercado": 1.107,
+  "motivo": "precio normal (111 % del cuartil bajo de 79470)"
  }
 ]
