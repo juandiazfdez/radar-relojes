@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T01:08:11.199672+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Formula 1 Men's Black Watch - CAU111A.FT6024.   ** UNWORN**",
-  "total": 1550.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/137882936116",
-  "item_id": "v1|137882936116|0",
-  "referencia": "CAU111A.FT6024",
-  "mercado": {
-   "n": 1,
-   "p25": 1850,
-   "mediana": 1850
-  },
-  "triage": {
-   "modelo": "TAG Heuer Formula 1 Chronograph 43 mm, caja de acero con PVD negro, correa de caucho negra",
-   "referencia": "CAU111A.FT6024",
-   "precio_justo_usd": 1050,
-   "interesante": false,
-   "nota": "Modelo de cuarzo de producción actual; nuevo con caja y papeles se revende bastante por debajo de retail, así que US$1550 está por encima del precio de mercado."
-  },
-  "motivo": "triage: Modelo de cuarzo de producción actual; nuevo con caja y papeles se revende bastante por debajo de retail, así que US$1550 está por encima del precio de mercado. (justo 1050)"
- },
- {
   "fecha": "2026-10-29T01:23:11.585191+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Milgauss 116400GV Black 40mm Automatic Stainless Steel Men's Watch +B&P",
@@ -11521,5 +11498,22 @@
   },
   "ratio_mercado": 0.905,
   "motivo": "precio normal (91 % del cuartil bajo de 214270)"
+ },
+ {
+  "fecha": "2026-10-30T03:54:06.790666+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Heritage 79230N-0009 Swiss Automatic Dive Watch",
+  "total": 3375.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198756250805",
+  "item_id": "v1|198756250805|0",
+  "referencia": "79230N-0009",
+  "mercado": {
+   "n": 16,
+   "p25": 3300,
+   "mediana": 3447
+  },
+  "ratio_mercado": 1.023,
+  "motivo": "precio normal (102 % del cuartil bajo de 79230N-0009)"
  }
 ]
