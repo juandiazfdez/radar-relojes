@@ -1,57 +1,6 @@
 [
  {
   "fecha": "2026-10-29T00:53:11.346730+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay 58 2025 GMT 39mm  Red/Black (COKE)",
-  "total": 4200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920083227750",
-  "item_id": "v1|920083227750|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 GMT 39mm \"Coke\" (bisel rojo/negro, brazalete de acero)",
-   "referencia": null,
-   "precio_justo_usd": 3700,
-   "interesante": false,
-   "nota": "Precio pedido de 4200 USD por encima del valor de venta real para un modelo 2025 de segunda mano; la referencia exacta no se puede confirmar solo con la foto."
-  },
-  "motivo": "triage: Precio pedido de 4200 USD por encima del valor de venta real para un modelo 2025 de segunda mano; la referencia exacta no se puede confirmar solo con la foto. (justo 3700)"
- },
- {
-  "fecha": "2026-10-29T00:53:11.346730+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Professional 300M Chronograph Blue Automatic Watch 2599.80",
-  "total": 2895.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206660430157",
-  "item_id": "v1|206660430157|0",
-  "referencia": "2599.80",
-  "mercado": {
-   "n": 5,
-   "p25": 3099,
-   "mediana": 3195
-  },
-  "ratio_mercado": 0.934,
-  "motivo": "precio normal (93 % del cuartil bajo de 2599.80)"
- },
- {
-  "fecha": "2026-10-29T00:53:11.346730+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Professional 300M Black Wave 41mm - 212.30.41.20.01.002",
-  "total": 3525.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407323399787",
-  "item_id": "v1|407323399787|0",
-  "referencia": "212.30.41.20.01.002",
-  "mercado": {
-   "n": 7,
-   "p25": 4075,
-   "mediana": 4295
-  },
-  "ratio_mercado": 0.865,
-  "motivo": "precio normal (87 % del cuartil bajo de 212.30.41.20.01.002)"
- },
- {
-  "fecha": "2026-10-29T00:53:11.346730+00:00",
   "marca": "Omega",
   "titulo": "Omega Seamaster Aqua Terra 38.5mm White Teak Auto - 231.10.39.21.02.001",
   "total": 3525.0,
@@ -11513,5 +11462,75 @@
    "nota": "Precio pedido 12 % por debajo de una estimación conservadora de venta cerrada; sin caja ni papeles indicados, y la condición 'Good' no justifica un descuento mayor."
   },
   "motivo": "triage: Precio pedido 12 % por debajo de una estimación conservadora de venta cerrada; sin caja ni papeles indicados, y la condición 'Good' no justifica un descuento mayor. (justo 6200)"
+ },
+ {
+  "fecha": "2026-10-30T02:38:56.837023+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 16800 Stainless Steel Watch",
+  "total": 9098.98,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860096556574",
+  "item_id": "v1|860096556574|0",
+  "referencia": "16800",
+  "mercado": {
+   "n": 16,
+   "p25": 11770,
+   "mediana": 12700
+  },
+  "ratio_mercado": 0.773,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 8800,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado, desgaste normal: arañazos en cristal y bisel, caja y brazalete con signos de pulido y estiramiento; sin caja ni papeles originales"
+  },
+  "ratio_justo": 1.034,
+  "motivo": "precio normal segun revision (103 % del justo 8800)"
+ },
+ {
+  "fecha": "2026-10-30T02:38:56.837023+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay Chrono S&G M79363N-0007 - New 2026 - Full set",
+  "total": 6825.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/227589416493",
+  "item_id": "v1|227589416493|0",
+  "referencia": "M79363N-0007",
+  "mercado": {
+   "n": 3,
+   "p25": 6849,
+   "mediana": 7495
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay Chrono S&G (acero y oro amarillo, esfera champán, bisel negro)",
+   "referencia": "M79363N-0007",
+   "precio_justo_usd": 5600,
+   "interesante": false,
+   "nota": "El precio pedido es igual o superior al MSRP y está por encima del mercado secundario para un modelo nuevo; no cumple el umbral del 15 % de descuento."
+  },
+  "motivo": "triage: El precio pedido es igual o superior al MSRP y está por encima del mercado secundario para un modelo nuevo; no cumple el umbral del 15 % de descuento. (justo 5600)"
+ },
+ {
+  "fecha": "2026-10-30T02:38:56.837023+00:00",
+  "marca": "Omega",
+  "titulo": "Ladies Omega DeVille Prestige 18K Gold 27MM watch Diamonds - 413.25.27.60.55.001",
+  "total": 3445.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800853870022",
+  "item_id": "v1|800853870022|0",
+  "referencia": "413.25.27.60.55.001",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Omega De Ville Prestige, dama, cuarzo, bisel de diamantes, bicolor acero y oro",
+   "referencia": "413.25.27.60.55.001",
+   "precio_justo_usd": 1600,
+   "interesante": false,
+   "nota": "El precio pedido supera de forma clara el valor de mercado usado; además, la foto muestra brazalete bicolor de acero y oro, no oro macizo como indica el título."
+  },
+  "motivo": "triage: El precio pedido supera de forma clara el valor de mercado usado; además, la foto muestra brazalete bicolor de acero y oro, no oro macizo como indica el título. (justo 1600)"
  }
 ]
