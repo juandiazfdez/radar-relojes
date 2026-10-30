@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-10-29T01:23:11.585191+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Milgauss 116400GV Black 40mm Automatic Stainless Steel Men's Watch +B&P",
-  "total": 11499.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206660456229",
-  "item_id": "v1|206660456229|0",
-  "referencia": "116400GV",
-  "mercado": {
-   "n": 28,
-   "p25": 12224,
-   "mediana": 13924
-  },
-  "ratio_mercado": 0.941,
-  "motivo": "precio normal (94 % del cuartil bajo de 116400GV)"
- },
- {
-  "fecha": "2026-10-29T01:23:11.585191+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Aqua Terra Chronograph 231.13.44.50.02.001",
-  "total": 6260.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198753303050",
-  "item_id": "v1|198753303050|0",
-  "referencia": "231.13.44.50.02.001",
-  "mercado": {
-   "n": 2,
-   "p25": 6260,
-   "mediana": 6380
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Aqua Terra Chronograph, esfera plateada, caja de acero, correa de piel",
-   "referencia": "231.13.44.50.02.001",
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "Precio pedido de US$6260 con envío supera el valor de venta cerrada de un Aqua Terra cronógrafo usado en estado Good, incluso con caja y papeles."
-  },
-  "motivo": "triage: Precio pedido de US$6260 con envío supera el valor de venta cerrada de un Aqua Terra cronógrafo usado en estado Good, incluso con caja y papeles. (justo 4300)"
- },
- {
-  "fecha": "2026-10-29T01:23:11.585191+00:00",
   "marca": "Omega",
   "titulo": "Vintage OMEGA Seamaster men's automatic watch 166.0203 With box 1978",
   "total": 1796.0,
@@ -11515,5 +11475,39 @@
   },
   "ratio_mercado": 1.023,
   "motivo": "precio normal (102 % del cuartil bajo de 79230N-0009)"
+ },
+ {
+  "fecha": "2026-10-30T04:24:07.173187+00:00",
+  "marca": "Rolex",
+  "titulo": "VERY RARE ROLEX SUBMARINER RED 1680/SOLD AS IS / GOOD WORKING",
+  "total": 11920.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307256431465",
+  "item_id": "v1|307256431465|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date (aparente 1680, década de 1970)",
+   "referencia": "1680",
+   "precio_justo_usd": 10500,
+   "interesante": false,
+   "nota": "Dial muy envejecido y sin verificar; si es rojo original sería mucho más, pero el 'as is' y el estado 'Good' exigen revisión de autenticidad y piezas antes de comprar."
+  },
+  "motivo": "triage: Dial muy envejecido y sin verificar; si es rojo original sería mucho más, pero el 'as is' y el estado 'Good' exigen revisión de autenticidad y piezas antes de comprar. (justo 10500)"
+ },
+ {
+  "fecha": "2026-10-30T04:24:07.173187+00:00",
+  "marca": "Rolex",
+  "titulo": "🔥2016 Rolex Explorer Mark 1(39mm) Watch 214270🔥SALE🔥",
+  "total": 7800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227589497283",
+  "item_id": "v1|227589497283|0",
+  "referencia": "214270",
+  "mercado": {
+   "n": 24,
+   "p25": 8615,
+   "mediana": 9120
+  },
+  "ratio_mercado": 0.905,
+  "motivo": "precio normal (91 % del cuartil bajo de 214270)"
  }
 ]
