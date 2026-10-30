@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T03:23:11.431594+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Endurance Pro Ironman 44mm X82310 Black Red Box",
-  "total": 2445.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800850368827",
-  "item_id": "v1|800850368827|0",
-  "referencia": "X82310",
-  "mercado": {
-   "n": 26,
-   "p25": 2612,
-   "mediana": 2815
-  },
-  "ratio_mercado": 0.936,
-  "motivo": "precio normal (94 % del cuartil bajo de X82310)"
- },
- {
-  "fecha": "2026-10-29T03:38:11.710474+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor 94500 Prince Date Day Preserved Mens Silver Original Steel Automatic ",
-  "total": 2315.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/820289902099",
-  "item_id": "v1|820289902099|0",
-  "referencia": "94500",
-  "mercado": {
-   "n": 1,
-   "p25": 2450,
-   "mediana": 2450
-  },
-  "triage": {
-   "modelo": "Tudor Prince Date Day (Oysterdate, acero, esfera plateada)",
-   "referencia": "94500",
-   "precio_justo_usd": 2000,
-   "interesante": false,
-   "nota": "Precio pedido de 2315 USD con envío queda por encima de la estimación conservadora para esta referencia en estado excelente; no cumple el umbral del 15 % por debajo del mercado."
-  },
-  "motivo": "triage: Precio pedido de 2315 USD con envío queda por encima de la estimación conservadora para esta referencia en estado excelente; no cumple el umbral del 15 % por debajo del mercado. (justo 2000)"
- },
- {
-  "fecha": "2026-10-29T03:53:11.339950+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX DATEJUST 116231 BLACK FACTORY DIAMOND 18K ROSE GOLD STEEL JUBILEE WATCH",
-  "total": 12390.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800850461241",
-  "item_id": "v1|800850461241|0",
-  "referencia": "116231",
-  "mercado": {
-   "n": 45,
-   "p25": 11800,
-   "mediana": 12872
-  },
-  "ratio_mercado": 1.05,
-  "motivo": "precio normal (105 % del cuartil bajo de 116231)"
- },
- {
   "fecha": "2026-10-29T03:53:11.339950+00:00",
   "marca": "Rolex",
   "titulo": "ROLEX MENS 18348 DAY-DATE 18K YELLOW GOLD FACTORY DIAMOND PRESIDENT WATCH",
@@ -11461,5 +11404,56 @@
   },
   "ratio_mercado": 1.175,
   "motivo": "precio normal (117 % del cuartil bajo de 5500)"
+ },
+ {
+  "fecha": "2026-10-30T14:24:16.288892+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date Ref 1500 18k Gold (Non-Quickset)",
+  "total": 6400.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287692120356",
+  "item_id": "v1|287692120356|0",
+  "triage": {
+   "modelo": "Rolex Datejust (bisel acanalado, bicolor acero/oro, esfera champán, brazalete Jubilee); el título dice Oyster Perpetual Date 1500 de oro 18k, que no coincide con la foto",
+   "referencia": "16233 (probable, por ver)",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "La foto muestra un Datejust bicolor con bisel acanalado, no un 1500 de oro macizo (ese modelo tiene bisel liso), así que el listado parece engañoso. Aun con la referencia del título, US$6400 queda por encima del valor de venta real de ambas versiones."
+  },
+  "motivo": "triage: La foto muestra un Datejust bicolor con bisel acanalado, no un 1500 de oro macizo (ese modelo tiene bisel liso), así que el listado parece engañoso. Aun con la referencia del título, US$6400 queda por encima del valor de venta real de ambas versiones. (justo 5000)"
+ },
+ {
+  "fecha": "2026-10-30T14:24:16.288892+00:00",
+  "marca": "Rolex",
+  "titulo": "2022 Rolex Yacht-Master 268622 Rhodium 37mm Steel Grey Blue Watch Box Papers",
+  "total": 13244.07,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267828196179",
+  "item_id": "v1|267828196179|0",
+  "referencia": "268622",
+  "mercado": {
+   "n": 7,
+   "p25": 12938,
+   "mediana": 13000
+  },
+  "ratio_mercado": 1.024,
+  "motivo": "precio normal (102 % del cuartil bajo de 268622)"
+ },
+ {
+  "fecha": "2026-10-30T14:24:16.288892+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 116713 LN Ceramic Black Two-Tone 18K Gold Steel 40mm Watch",
+  "total": 13244.07,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960133089781",
+  "item_id": "v1|960133089781|0",
+  "referencia": "116713",
+  "mercado": {
+   "n": 52,
+   "p25": 14395,
+   "mediana": 15208
+  },
+  "ratio_mercado": 0.92,
+  "motivo": "precio normal (92 % del cuartil bajo de 116713)"
  }
 ]
