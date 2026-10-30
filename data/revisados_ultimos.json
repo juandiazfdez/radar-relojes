@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T05:08:20.136853+00:00",
-  "marca": "Omega",
-  "titulo": "2026 Omega Seamaster Diver 300M \"SEAWEED\" Green 42mm Rubber 210.32.42.20.10.001",
-  "total": 5499.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/920083590685",
-  "item_id": "v1|920083590685|0",
-  "referencia": "210.32.42.20.10.001",
-  "mercado": {
-   "n": 5,
-   "p25": 5652,
-   "mediana": 5690
-  },
-  "ratio_mercado": 0.973,
-  "motivo": "precio normal (97 % del cuartil bajo de 210.32.42.20.10.001)"
- },
- {
-  "fecha": "2026-10-29T05:08:20.136853+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Seamaster Men's Vintage Wristwatch",
-  "total": 1499.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/800850626589",
-  "item_id": "v1|800850626589|0",
-  "triage": {
-   "modelo": "Omega Seamaster vintage (posible De Ville, caja dorada/chapada, esfera blanca, correa de cuero; no identificable con certeza)",
-   "referencia": null,
-   "precio_justo_usd": 650,
-   "interesante": false,
-   "nota": "Listado genérico sin referencia ni año, con caja chapada y correa de cuero. Un Omega vintage así se vende mucho más bajo que US$1499; el precio pedido está muy por encima del mercado."
-  },
-  "motivo": "triage: Listado genérico sin referencia ni año, con caja chapada y correa de cuero. Un Omega vintage así se vende mucho más bajo que US$1499; el precio pedido está muy por encima del mercado. (justo 650)"
- },
- {
   "fecha": "2026-10-29T05:23:20.533027+00:00",
   "marca": "Rolex",
   "titulo": "2026 Rolex Land-Dweller 40mm WHITE Stainless Steel 7/08/26 127334 BOX Papers",
@@ -11352,5 +11318,39 @@
   },
   "ratio_mercado": 1.104,
   "motivo": "precio normal (110 % del cuartil bajo de 126508)"
+ },
+ {
+  "fecha": "2026-10-30T16:54:26.598717+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36MM 16233 18k Yellow Gold, Two-Tone and Jubilee 2003",
+  "total": 7495.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960133545930",
+  "item_id": "v1|960133545930|0",
+  "referencia": "16233",
+  "mercado": {
+   "n": 28,
+   "p25": 5399,
+   "mediana": 6152
+  },
+  "ratio_mercado": 1.388,
+  "motivo": "precio normal (139 % del cuartil bajo de 16233)"
+ },
+ {
+  "fecha": "2026-10-30T16:54:26.598717+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Deepsea Seadweller James Cameron 136660 2023",
+  "total": 14600.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/377608552548",
+  "item_id": "v1|377608552548|0",
+  "referencia": "136660",
+  "mercado": {
+   "n": 56,
+   "p25": 15500,
+   "mediana": 16012
+  },
+  "ratio_mercado": 0.942,
+  "motivo": "precio normal (94 % del cuartil bajo de 136660)"
  }
 ]
