@@ -1,223 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T16:08:43.643529+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere W25014B9 18K Yellow Gold Mens Watch",
-  "total": 22699.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/227588854665",
-  "item_id": "v1|227588854665|0",
-  "triage": {
-   "modelo": "Cartier Panthère de Cartier 18K oro amarillo, esfera blanca con números romanos, pulsera de eslabones (talla mediana, cuarzo)",
-   "referencia": "W25014B9",
-   "precio_justo_usd": 19500,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de mercado estimado para esta referencia en estado excelente; la foto parece mostrar una talla mayor, conviene verificar medidas."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de mercado estimado para esta referencia en estado excelente; la foto parece mostrar una talla mayor, conviene verificar medidas. (justo 19500)"
- },
- {
-  "fecha": "2026-10-29T16:08:43.643529+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Prince Date Day 76213 36mm Two-Tone Champagne Linen",
-  "total": 1845.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267827316714",
-  "item_id": "v1|267827316714|0",
-  "referencia": "76213",
-  "mercado": {
-   "n": 6,
-   "p25": 2600,
-   "mediana": 3039
-  },
-  "ratio_mercado": 0.71,
-  "motivo": "vendedor 96.8 % positivo"
- },
- {
-  "fecha": "2026-10-29T16:08:43.643529+00:00",
-  "marca": "Omega",
-  "titulo": "Omega De Ville Quartz Stainless Steel And Yellow Gold Watch",
-  "total": 1489.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267827323854",
-  "item_id": "v1|267827323854|0",
-  "triage": {
-   "modelo": "Omega De Ville Quartz de acero y oro amarillo (bisel bicolor, esfera gris con diseño geométrico)",
-   "referencia": null,
-   "precio_justo_usd": 450,
-   "interesante": false,
-   "nota": "Reloj de cuarzo bicolor de gama media-baja; el precio pedido de US$1489 está muy por encima de su valor de reventa, sin indicios de ser una pieza excepcional."
-  },
-  "motivo": "triage: Reloj de cuarzo bicolor de gama media-baja; el precio pedido de US$1489 está muy por encima de su valor de reventa, sin indicios de ser una pieza excepcional. (justo 450)"
- },
- {
-  "fecha": "2026-10-29T16:08:43.643529+00:00",
-  "marca": "Omega",
-  "titulo": "Omega De Ville LE 18k White Gold 38.7mm Automatic Men's Watch 4626.30.32",
-  "total": 14950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/168824842116",
-  "item_id": "v1|168824842116|0",
-  "referencia": "4626.30.32",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Omega De Ville Prestige (automático, esfera plateada, caja de oro blanco 18k, 38.7 mm, según el título)",
-   "referencia": "4626.30.32",
-   "precio_justo_usd": 7000,
-   "interesante": false,
-   "nota": "Precio pedido muy superior al de venta real para oro blanco 18k de esta referencia; la foto no permite confirmar el material."
-  },
-  "motivo": "triage: Precio pedido muy superior al de venta real para oro blanco 18k de esta referencia; la foto no permite confirmar el material. (justo 7000)"
- },
- {
-  "fecha": "2026-10-29T16:08:43.643529+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Superocean II Automatic 46 Black Steel DLC Mens Watch - M17368B71B1S1",
-  "total": 2499.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117492953918",
-  "item_id": "v1|117492953918|0",
-  "triage": {
-   "modelo": "Breitling Superocean II Automatic 46 Black Steel DLC",
-   "referencia": "M17368B71B1S1",
-   "precio_justo_usd": 3500,
-   "interesante": true,
-   "nota": "Precio de venta cerrada de segunda mano estimado para esta referencia con caja y papeles. Verificar autenticidad, papeles y estado antes de comprar."
-  },
-  "referencia": "M17368B71B1S1, M17368",
-  "mercado": {
-   "n": 8,
-   "p25": 3800,
-   "mediana": 4010
-  },
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 3000,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Usado, desgaste visible: DLC rayado en caja y bisel, rayones en el zafiro; funciona según el vendedor"
-  },
-  "ratio_justo": 0.833,
-  "motivo": "ALERTA"
- },
- {
-  "fecha": "2026-10-29T16:08:43.643529+00:00",
-  "marca": "Breitling",
-  "titulo": "watch men breitling",
-  "total": 7000.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/147656949641",
-  "item_id": "v1|147656949641|0",
-  "triage": {
-   "modelo": "No identificable: la foto solo muestra la caja de madera lacada burdeos con el logo de Breitling",
-   "referencia": null,
-   "precio_justo_usd": null,
-   "interesante": false,
-   "nota": "Sin foto del reloj ni de la referencia no se puede estimar el precio justo. Pedir fotos del reloj y de la referencia grabada en la caja o el reloj."
-  },
-  "motivo": "triage: Sin foto del reloj ni de la referencia no se puede estimar el precio justo. Pedir fotos del reloj y de la referencia grabada en la caja o el reloj. (justo 0)"
- },
- {
-  "fecha": "2026-10-29T16:08:43.643529+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Superocean II 44 Mariner Blue A17392D8 Full Set Steel Bracelet ",
-  "total": 2925.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137884378847",
-  "item_id": "v1|137884378847|0",
-  "triage": {
-   "modelo": "Breitling Superocean II 44 Mariner Blue (acero, bisel azul, brazalete de acero)",
-   "referencia": "A17392D8",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Precio cercano al mercado de segunda mano para set completo en buen estado; no hay descuento suficiente (>=15%)."
-  },
-  "motivo": "triage: Precio cercano al mercado de segunda mano para set completo en buen estado; no hay descuento suficiente (>=15%). (justo 3000)"
- },
- {
-  "fecha": "2026-10-29T16:08:43.643529+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Carrera White Mother of Pearl Diamond Women's Watch - WBN2412.BA0621",
-  "total": 2999.99,
-  "condicion": "New without box or papers",
-  "url": "https://www.ebay.com/itm/198754996589",
-  "item_id": "v1|198754996589|0",
-  "referencia": "WBN2412.BA0621",
-  "mercado": {
-   "n": 3,
-   "p25": 3000,
-   "mediana": 3200
-  },
-  "triage": {
-   "modelo": "TAG Heuer Carrera Lady, esfera de nácar con diamantes (acero)",
-   "referencia": "WBN2412.BA0621",
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "Nuevo sin caja ni papeles; el precio pedido está por encima del valor de mercado. La foto muestra caja y el número 503896 no es la referencia, así que conviene verificar."
-  },
-  "motivo": "triage: Nuevo sin caja ni papeles; el precio pedido está por encima del valor de mercado. La foto muestra caja y el número 503896 no es la referencia, así que conviene verificar. (justo 2300)"
- },
- {
-  "fecha": "2026-10-29T16:08:43.643529+00:00",
-  "marca": "Bulgari",
-  "titulo": "Bvlgari Assioma Automatic Stainless Steel Watch",
-  "total": 1204.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820292234528",
-  "item_id": "v1|820292234528|0",
-  "triage": {
-   "modelo": "Bulgari Assioma (caja rectangular de acero, esfera negra; el listado dice automático, pero la versión visible parece de cuarzo)",
-   "referencia": null,
-   "precio_justo_usd": 700,
-   "interesante": false,
-   "nota": "Precio pedido de 1204 USD por encima del valor de venta cerrada de un Assioma de acero usado; verificar si es automático o cuarzo y la referencia antes de cualquier oferta."
-  },
-  "motivo": "triage: Precio pedido de 1204 USD por encima del valor de venta cerrada de un Assioma de acero usado; verificar si es automático o cuarzo y la referencia antes de cualquier oferta. (justo 700)"
- },
- {
-  "fecha": "2026-10-29T16:23:42.233731+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Precision Steel Watch",
-  "total": 3223.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267827331758",
-  "item_id": "v1|267827331758|0",
-  "triage": {
-   "modelo": "Rolex Oyster Precision (acero, esfera plateada, cuerda manual)",
-   "referencia": "Probablemente 6426 (no verificable en la foto)",
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "Vintage de cuerda manual en buen estado; el precio pedido de US$3223 queda muy por encima del valor de venta real."
-  },
-  "motivo": "triage: Vintage de cuerda manual en buen estado; el precio pedido de US$3223 queda muy por encima del valor de venta real. (justo 2300)"
- },
- {
-  "fecha": "2026-10-29T16:23:42.233731+00:00",
-  "marca": "Cartier",
-  "titulo": "Ladies Cartier Ronde de Cartier 29MM WSRN0019 / 3601 Black Steel Quartz Watch",
-  "total": 1800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147656970752",
-  "item_id": "v1|147656970752|0",
-  "referencia": "WSRN0019",
-  "mercado": {
-   "n": 1,
-   "p25": 2600,
-   "mediana": 2600
-  },
-  "triage": {
-   "modelo": "Cartier Ronde de Cartier (Ronde Solo) 29 mm cuarzo, acero, correa de piel negra",
-   "referencia": "WSRN0019",
-   "precio_justo_usd": 1400,
-   "interesante": false,
-   "nota": "Precio pedido de 1800 USD queda unos 22 % por encima de la estimación conservadora de venta cerrada; el título menciona 'Ronde de Cartier' y la referencia 3601, pero la referencia WSRN0019 corresponde a la línea Ronde Solo, así que conviene verificarla."
-  },
-  "motivo": "triage: Precio pedido de 1800 USD queda unos 22 % por encima de la estimación conservadora de venta cerrada; el título menciona 'Ronde de Cartier' y la referencia 3601, pero la referencia WSRN0019 corresponde a la línea Ronde Solo, así que conviene verificarla. (justo 1400)"
- },
- {
   "fecha": "2026-10-29T16:23:42.233731+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Must Vendôme Stainless Steel And Leather Watch",
@@ -11354,5 +11136,198 @@
    "nota": "Referencia no verificable en la foto; la esfera azul puede ser reesfera y el estado es Fair sin caja ni papeles. El precio pedido de US$5.100 está muy por encima del valor de venta real."
   },
   "motivo": "triage: Referencia no verificable en la foto; la esfera azul puede ser reesfera y el estado es Fair sin caja ni papeles. El precio pedido de US$5.100 está muy por encima del valor de venta real. (justo 2800)"
+ },
+ {
+  "fecha": "2026-10-30T21:54:40.118236+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Stainless Steel Oyster Perpetual Date 69190 Watch 26mm (Box & Papers) 1986",
+  "total": 5330.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128165074015",
+  "item_id": "v1|128165074015|0",
+  "referencia": "69190",
+  "mercado": {
+   "n": 3,
+   "p25": 4725,
+   "mediana": 5155
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date (dama, 26 mm, acero), con brazalete Jubilee y esfera champagne",
+   "referencia": "69190",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Ref. 69190 de 1986 con caja y papeles en estado bueno se vende aprox. US$2,500-3,500; el precio pedido de US$5,330 está muy por encima."
+  },
+  "motivo": "triage: Ref. 69190 de 1986 con caja y papeles en estado bueno se vende aprox. US$2,500-3,500; el precio pedido de US$5,330 está muy por encima. (justo 3000)"
+ },
+ {
+  "fecha": "2026-10-30T21:54:40.118236+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 79174 Stainless Steel (Factory Sodalite Dial) 26mm Watch 2000",
+  "total": 11990.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128165070793",
+  "item_id": "v1|128165070793|0",
+  "triage": {
+   "modelo": "Rolex Datejust 26 mm acero con esfera azul y marcadores de diamantes (Lady-Datejust, c. 2000)",
+   "referencia": "79160 (la 79174 es bicolor acero/oro, no acero; la referencia del título parece errónea)",
+   "precio_justo_usd": 7500,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del mercado para acero 26 mm de esa era. El título indica 79174, que es bicolor, lo que sugiere un listado inexacto."
+  },
+  "motivo": "triage: Precio pedido muy por encima del mercado para acero 26 mm de esa era. El título indica 79174, que es bicolor, lo que sugiere un listado inexacto. (justo 7500)"
+ },
+ {
+  "fecha": "2026-10-30T21:54:40.118236+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Stainless Steel & 18K Yellow Gold Datejust 16233 Oyster Bracelet Watch 36m",
+  "total": 9230.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117495277648",
+  "item_id": "v1|117495277648|0",
+  "referencia": "16233",
+  "mercado": {
+   "n": 28,
+   "p25": 5399,
+   "mediana": 6152
+  },
+  "ratio_mercado": 1.71,
+  "motivo": "precio normal (171 % del cuartil bajo de 16233)"
+ },
+ {
+  "fecha": "2026-10-30T21:54:40.118236+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 16233 Stainless Steel & 18K Yellow Gold 36mm Watch 1990",
+  "total": 7640.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128165064702",
+  "item_id": "v1|128165064702|0",
+  "referencia": "16233",
+  "mercado": {
+   "n": 28,
+   "p25": 5399,
+   "mediana": 6152
+  },
+  "ratio_mercado": 1.415,
+  "motivo": "precio normal (142 % del cuartil bajo de 16233)"
+ },
+ {
+  "fecha": "2026-10-30T21:54:40.118236+00:00",
+  "marca": "Rolex",
+  "titulo": "114060 Rolex Submariner No-Date, Full Set, 114060",
+  "total": 14800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840076278499",
+  "item_id": "v1|840076278499|0",
+  "referencia": "114060",
+  "mercado": {
+   "n": 42,
+   "p25": 11612,
+   "mediana": 12969
+  },
+  "ratio_mercado": 1.275,
+  "motivo": "precio normal (127 % del cuartil bajo de 114060)"
+ },
+ {
+  "fecha": "2026-10-30T21:54:40.118236+00:00",
+  "marca": "Rolex",
+  "titulo": "1977 Rolex Datejust 36 36mm Yellow Gold 1601",
+  "total": 54995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880066190822",
+  "item_id": "v1|880066190822|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 de oro amarillo, esfera de piedra tipo ojo de tigre (aparentemente), brazalete jubilee",
+   "referencia": "1601",
+   "precio_justo_usd": 11000,
+   "interesante": false,
+   "nota": "Ref. 1601 de 1977 en oro amarillo; el precio pedido de US$54,995 supera con creces el mercado (estimado ~US$9,000-14,000 según esfera y estado). No es una oportunidad."
+  },
+  "motivo": "triage: Ref. 1601 de 1977 en oro amarillo; el precio pedido de US$54,995 supera con creces el mercado (estimado ~US$9,000-14,000 según esfera y estado). No es una oportunidad. (justo 11000)"
+ },
+ {
+  "fecha": "2026-10-30T21:54:40.118236+00:00",
+  "marca": "Rolex",
+  "titulo": "2018 Rolex Daytona John Mayer 116508 40MM Green 18K Yellow Gold B/p",
+  "total": 73500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880066190253",
+  "item_id": "v1|880066190253|0",
+  "referencia": "116508",
+  "mercado": {
+   "n": 30,
+   "p25": 60404,
+   "mediana": 71534
+  },
+  "ratio_mercado": 1.217,
+  "motivo": "precio normal (122 % del cuartil bajo de 116508)"
+ },
+ {
+  "fecha": "2026-10-30T21:54:40.118236+00:00",
+  "marca": "Rolex",
+  "titulo": "NEW 2026 Rolex GMT-Master II \"Bruce Wayne\" 40mm 126710GRNR Jubilee (NEW CARD)",
+  "total": 24265.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/147658537740",
+  "item_id": "v1|147658537740|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 61,
+   "p25": 21800,
+   "mediana": 22990
+  },
+  "ratio_mercado": 1.113,
+  "motivo": "precio normal (111 % del cuartil bajo de 126710GRNR)"
+ },
+ {
+  "fecha": "2026-10-30T21:54:40.118236+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Française 2303 Stainless Steel Watch 28mm",
+  "total": 4440.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128165065036",
+  "item_id": "v1|128165065036|0",
+  "referencia": "2303",
+  "mercado": {
+   "n": 27,
+   "p25": 3850,
+   "mediana": 4195
+  },
+  "ratio_mercado": 1.153,
+  "motivo": "precio normal (115 % del cuartil bajo de 2303)"
+ },
+ {
+  "fecha": "2026-10-30T21:54:40.118236+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier  Roadster XL Chronograph-Bracelet- S/Steel- 2618- Box/Papers - US Seller",
+  "total": 4750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227590540949",
+  "item_id": "v1|227590540949|0",
+  "referencia": "2618",
+  "mercado": {
+   "n": 12,
+   "p25": 5300,
+   "mediana": 6370
+  },
+  "ratio_mercado": 0.896,
+  "motivo": "precio normal (90 % del cuartil bajo de 2618)"
+ },
+ {
+  "fecha": "2026-10-30T21:54:40.118236+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Prince Day Date 76213 Champagne Diamond Dial. 18K Gold. 2003",
+  "total": 2890.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287692883131",
+  "item_id": "v1|287692883131|0",
+  "referencia": "76213",
+  "mercado": {
+   "n": 7,
+   "p25": 2600,
+   "mediana": 3039
+  },
+  "ratio_mercado": 1.112,
+  "motivo": "precio normal (111 % del cuartil bajo de 76213)"
  }
 ]
