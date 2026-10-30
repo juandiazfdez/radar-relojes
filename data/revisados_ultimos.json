@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T15:23:31.248239+00:00",
-  "marca": "Breitling",
-  "titulo": "BREITLING Men's Watch F65062 AEROSPACE NAVITIMER, BLUE DIAL, TITANIUM, 40mm",
-  "total": 2000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940049781243",
-  "item_id": "v1|940049781243|0",
-  "referencia": "F65062",
-  "mercado": {
-   "n": 2,
-   "p25": 2250,
-   "mediana": 2250
-  },
-  "triage": {
-   "modelo": "Breitling Aerospace (titanio, esfera azul, analógico-digital), no Navitimer como indica el título",
-   "referencia": "F65062 (según el listado; no verificable en la foto)",
-   "precio_justo_usd": 1700,
-   "interesante": false,
-   "nota": "El título mezcla 'Aerospace' con 'Navitimer'; la foto muestra un Aerospace de bisel fijo, no un Navitimer. Con esa referencia, el precio pedido de $2000 está por encima del valor de venta real."
-  },
-  "motivo": "triage: El título mezcla 'Aerospace' con 'Navitimer'; la foto muestra un Aerospace de bisel fijo, no un Navitimer. Con esa referencia, el precio pedido de $2000 está por encima del valor de venta real. (justo 1700)"
- },
- {
-  "fecha": "2026-10-29T15:23:31.248239+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "Tag Heuer SBG8A E3 Connected Titanium Wristwatch Calibre Green Rubber Ba G2U",
-  "total": 599.94,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880056996935",
-  "item_id": "v1|880056996935|0",
-  "referencia": "SBG8A",
-  "mercado": {
-   "n": 21,
-   "p25": 870,
-   "mediana": 915
-  },
-  "ratio_mercado": 0.69,
-  "motivo": "descripcion: as is"
- },
- {
-  "fecha": "2026-10-29T15:23:31.248239+00:00",
-  "marca": "Jaeger-LeCoultre",
-  "titulo": "Jaeger-LeCoultre Master Control \"Grande Taille\" Gold Auto 37mm Watch  QA140102",
-  "total": 9950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287689942658",
-  "item_id": "v1|287689942658|0",
-  "triage": {
-   "modelo": "Jaeger-LeCoultre Master Control Date (oro amarillo, automático, esfera plateada)",
-   "referencia": "QA140102 (según el título; no verificable en la foto)",
-   "precio_justo_usd": 8500,
-   "interesante": false,
-   "nota": "Precio pedido de US$9950 por encima de la venta real estimada para oro amarillo usado sin confirmar caja y papeles; no cumple el umbral del 15 % de descuento."
-  },
-  "motivo": "triage: Precio pedido de US$9950 por encima de la venta real estimada para oro amarillo usado sin confirmar caja y papeles; no cumple el umbral del 15 % de descuento. (justo 8500)"
- },
- {
   "fecha": "2026-10-29T15:38:42.016125+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust Ladies Watch 69173 Two-Tone Steel & 18K Jubilee Bracelet",
@@ -11385,5 +11328,56 @@
   },
   "ratio_mercado": 0.988,
   "motivo": "precio normal (99 % del cuartil bajo de 25600TN)"
+ },
+ {
+  "fecha": "2026-10-30T20:54:39.941038+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Pelagos LHD \"2021\" 25610TNL",
+  "total": 5003.54,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237153278703",
+  "item_id": "v1|237153278703|0",
+  "triage": {
+   "modelo": "Tudor Pelagos LHD (bisel cerámico negro, esfera negra, brazalete de titanio)",
+   "referencia": "25610TNL",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio pedido de US$5,004 con envío supera el mercado secundario de esta referencia (aprox. US$3,800-4,300 en estado bueno). Sin verificar la corona ni los papeles desde la foto."
+  },
+  "motivo": "triage: Precio pedido de US$5,004 con envío supera el mercado secundario de esta referencia (aprox. US$3,800-4,300 en estado bueno). Sin verificar la corona ni los papeles desde la foto. (justo 4000)"
+ },
+ {
+  "fecha": "2026-10-30T20:54:39.941038+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Oyster-Prince Ref 7809 Mens 34mm 1950s Automatic Vintage RA843B",
+  "total": 4300.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257825872304",
+  "item_id": "v1|257825872304|0",
+  "triage": {
+   "modelo": "Tudor Oyster Prince Rotor Self-Winding (Oyster-Prince, años 1950)",
+   "referencia": "7809",
+   "precio_justo_usd": 2500,
+   "interesante": false,
+   "nota": "Reloj vintage de acero de 34 mm en estado Good; se vende típicamente en torno a US$2,000-3,000, y US$4,300 queda muy por encima del mercado."
+  },
+  "motivo": "triage: Reloj vintage de acero de 34 mm en estado Good; se vende típicamente en torno a US$2,000-3,000, y US$4,300 queda muy por encima del mercado. (justo 2500)"
+ },
+ {
+  "fecha": "2026-10-30T20:54:39.941038+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor  Pelagos Titanium LHD 42MM Watch  25610TNL Box & Paper Complete",
+  "total": 3925.95,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147658498581",
+  "item_id": "v1|147658498581|0",
+  "triage": {
+   "modelo": "Tudor Pelagos (titanio, LHD, bisel negro, esfera negra, 42 mm)",
+   "referencia": "25610TNL",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta cerrada estimado para esta referencia con caja y papeles; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para esta referencia con caja y papeles; no hay descuento suficiente. (justo 3500)"
  }
 ]
