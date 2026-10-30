@@ -2,29 +2,6 @@
  {
   "fecha": "2026-10-29T01:38:11.739503+00:00",
   "marca": "Omega",
-  "titulo": "Ladies Omega DeVille Prestige Co-Axial Chronometer watch - 424.10.33.20.01.001",
-  "total": 1945.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206660470810",
-  "item_id": "v1|206660470810|0",
-  "referencia": "424.10.33.20.01.001",
-  "mercado": {
-   "n": 1,
-   "p25": 2245,
-   "mediana": 2245
-  },
-  "triage": {
-   "modelo": "Omega De Ville Prestige Co-Axial (esfera negra, brazalete de acero, fecha a las 3)",
-   "referencia": "424.10.33.20.01.001",
-   "precio_justo_usd": 2000,
-   "interesante": false,
-   "nota": "Precio cercano al mercado secundario para esta referencia usada en buen estado; el descuento es pequeño (~3 %) y no alcanza el 15 % requerido. Verificar tamaño, papeles y estado real antes de comprar."
-  },
-  "motivo": "triage: Precio cercano al mercado secundario para esta referencia usada en buen estado; el descuento es pequeño (~3 %) y no alcanza el 15 % requerido. Verificar tamaño, papeles y estado real antes de comprar. (justo 2000)"
- },
- {
-  "fecha": "2026-10-29T01:38:11.739503+00:00",
-  "marca": "Omega",
   "titulo": "Vintage Omega Constellation Automatic Chronometer - Working",
   "total": 1057.0,
   "condicion": "Pre-owned - Good",
@@ -11503,5 +11480,22 @@
    "nota": "Nuevo con caja y papeles, la referencia se mueve cerca de retail (aprox. US$7.2k); el mercado gris suele ubicarla alrededor de US$6.3k, así que US$7,899 está por encima del valor razonable."
   },
   "motivo": "triage: Nuevo con caja y papeles, la referencia se mueve cerca de retail (aprox. US$7.2k); el mercado gris suele ubicarla alrededor de US$6.3k, así que US$7,899 está por encima del valor razonable. (justo 6300)"
+ },
+ {
+  "fecha": "2026-10-30T07:24:06.711599+00:00",
+  "marca": "Cartier",
+  "titulo": "Ballon Bleu de Cartier - 36mm – W6920046 – 2018 – Full Set – Excellent Condition",
+  "total": 4854.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860097073413",
+  "item_id": "v1|860097073413|0",
+  "referencia": "W6920046",
+  "mercado": {
+   "n": 22,
+   "p25": 4285,
+   "mediana": 4909
+  },
+  "ratio_mercado": 1.133,
+  "motivo": "precio normal (113 % del cuartil bajo de W6920046)"
  }
 ]
