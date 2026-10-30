@@ -1,142 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T14:23:31.556998+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Americane 28mmx19mm W2601956 18K White Gold Women's Watch",
-  "total": 6709.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840071570456",
-  "item_id": "v1|840071570456|0",
-  "referencia": "W2601956",
-  "mercado": {
-   "n": 5,
-   "p25": 5000,
-   "mediana": 5000
-  },
-  "ratio_mercado": 1.342,
-  "motivo": "precio normal (134 % del cuartil bajo de W2601956)"
- },
- {
-  "fecha": "2026-10-29T14:23:31.556998+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ronde Louis 36mm W6800251 18K Rose Gold Unisex Watch",
-  "total": 8041.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168824656148",
-  "item_id": "v1|168824656148|0",
-  "referencia": "W6800251",
-  "mercado": {
-   "n": 4,
-   "p25": 6888,
-   "mediana": 7411
-  },
-  "triage": {
-   "modelo": "Cartier Ronde Louis 36mm, oro rosa 18K, esfera plateada con numerales romanos, correa de cocodrilo negra (cuarzo)",
-   "referencia": "W6800251",
-   "precio_justo_usd": 6200,
-   "interesante": false,
-   "nota": "Precio pedido de US$8041 por encima de la estimación de venta cerrada para oro rosa 18K de uso; la referencia exacta y la fecha no se pueden verificar en la foto."
-  },
-  "motivo": "triage: Precio pedido de US$8041 por encima de la estimación de venta cerrada para oro rosa 18K de uso; la referencia exacta y la fecha no se pueden verificar en la foto. (justo 6200)"
- },
- {
-  "fecha": "2026-10-29T14:23:31.556998+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise 28x35mm W51005Q4 Stainless Steel Unisex Watch",
-  "total": 6471.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168824655215",
-  "item_id": "v1|168824655215|0",
-  "triage": {
-   "modelo": "Cartier Tank Française (tamaño mediano, acero y oro amarillo bicolor)",
-   "referencia": "W51005Q4 en el título; la foto muestra una versión bicolor, posiblemente W51007Q4",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio muy por encima del mercado de usados. El título dice acero (W51005Q4) pero la foto es bicolor, así que el anuncio es inconsistente."
-  },
-  "motivo": "triage: Precio muy por encima del mercado de usados. El título dice acero (W51005Q4) pero la foto es bicolor, así que el anuncio es inconsistente. (justo 3300)"
- },
- {
-  "fecha": "2026-10-29T14:23:31.556998+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Dumont 38mm W2SA0012 Stainless Steel Unisex Watch",
-  "total": 7934.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168824653646",
-  "item_id": "v1|168824653646|0",
-  "referencia": "W2SA0012",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Santos-Dumont (tamaño grande, caja de acero con bisel de oro rosa en la imagen)",
-   "referencia": "W2SA0012 (según título; la imagen muestra bisel bicolor, no concuerda del todo con 'acero')",
-   "precio_justo_usd": 5800,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de reventa estimado. La foto muestra bisel bicolor mientras el título dice acero: verificar referencia exacta, papeles y autenticidad antes de cualquier oferta."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de reventa estimado. La foto muestra bisel bicolor mientras el título dice acero: verificar referencia exacta, papeles y autenticidad antes de cualquier oferta. (justo 5800)"
- },
- {
-  "fecha": "2026-10-29T14:23:31.556998+00:00",
-  "marca": "Omega",
-  "titulo": "2023 PAPERS Omega Seamaster Aqua Terra GOOD PLANET Titanium 23190392104001 Watch",
-  "total": 6113.83,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307255430859",
-  "item_id": "v1|307255430859|0",
-  "triage": {
-   "modelo": "Omega Seamaster Aqua Terra (esfera blanca, brazalete de acero; la foto no coincide con el titulo Good Planet titanio)",
-   "referencia": "23190392104001 (segun titulo; no verificable en la foto)",
-   "precio_justo_usd": 5300,
-   "interesante": false,
-   "nota": "El precio pedido (US$6114 con envio) esta por encima del valor estimado; ademas, la foto muestra acero, no titanio, asi que hay que verificar la referencia y el material antes de comprar."
-  },
-  "motivo": "triage: El precio pedido (US$6114 con envio) esta por encima del valor estimado; ademas, la foto muestra acero, no titanio, asi que hay que verificar la referencia y el material antes de comprar. (justo 5300)"
- },
- {
-  "fecha": "2026-10-29T14:23:31.556998+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling SuperOcean Heritage Chronometer Automatic Watch Stainless Steel 38",
-  "total": 4030.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128162596557",
-  "item_id": "v1|128162596557|0",
-  "triage": {
-   "modelo": "Breitling SuperOcean Heritage II Chronometer 38 (esfera azul, brazalete milanés de acero)",
-   "referencia": "A17320 (probable; no verificable en la foto)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido de 4030 USD con envío supera el valor de venta real estimado para este modelo de segunda mano; no hay margen de al menos 15%."
-  },
-  "motivo": "triage: Precio pedido de 4030 USD con envío supera el valor de venta real estimado para este modelo de segunda mano; no hay margen de al menos 15%. (justo 3300)"
- },
- {
-  "fecha": "2026-10-29T14:23:31.556998+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Carrera Calibre 16 CV2A1V.BA0738 Blue 43mm Automatic Chronograph",
-  "total": 2599.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900048907324",
-  "item_id": "v1|900048907324|0",
-  "referencia": "CV2A1V.BA0738",
-  "mercado": {
-   "n": 3,
-   "p25": 2775,
-   "mediana": 3995
-  },
-  "triage": {
-   "modelo": "TAG Heuer Carrera Calibre 16 Day-Date cronógrafo automático, esfera azul, 43 mm, brazalete de acero",
-   "referencia": "CV2A1V.BA0738",
-   "precio_justo_usd": 2400,
-   "interesante": false,
-   "nota": "Precio pedido de 2599 USD con envío, sin una diferencia clara de al menos 15 % frente al mercado de segunda mano para este modelo en estado excelente."
-  },
-  "motivo": "triage: Precio pedido de 2599 USD con envío, sin una diferencia clara de al menos 15 % frente al mercado de segunda mano para este modelo en estado excelente. (justo 2400)"
- },
- {
   "fecha": "2026-10-29T14:38:30.829574+00:00",
   "marca": "Rolex",
   "titulo": "Renewed Rolex Datejust 36, 116243, Steel & Gold, Black Diamond Dial, Jubilee ...",
@@ -11390,5 +11253,124 @@
    "nota": "Precio cercano al mercado gris para un modelo nuevo de producción actual, sin descuento de 15 % o más. En la foto la correa es de caucho y el bisel parece blanco, así que conviene confirmar que la referencia coincide con el listado."
   },
   "motivo": "triage: Precio cercano al mercado gris para un modelo nuevo de producción actual, sin descuento de 15 % o más. En la foto la correa es de caucho y el bisel parece blanco, así que conviene confirmar que la referencia coincide con el listado. (justo 3900)"
+ },
+ {
+  "fecha": "2026-10-30T19:54:26.741524+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 28mm UNWORN 2026- MOP Pearl Diamond Fluted Jubilee 279173",
+  "total": 19950.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/198757993874",
+  "item_id": "v1|198757993874|0",
+  "referencia": "279173",
+  "mercado": {
+   "n": 24,
+   "p25": 17900,
+   "mediana": 18795
+  },
+  "ratio_mercado": 1.115,
+  "motivo": "precio normal (111 % del cuartil bajo de 279173)"
+ },
+ {
+  "fecha": "2026-10-30T19:54:26.741524+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX Oyster Perpetual Chronometer St.Steel Babble Back Cal0897 7 Positions",
+  "total": 5525.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/307257474663",
+  "item_id": "v1|307257474663|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual 'bubble back' vintage (años 1930-1940, esfera crema con numerales arábigos)",
+   "referencia": null,
+   "precio_justo_usd": 4800,
+   "interesante": false,
+   "nota": "Referencia no confirmable en la foto y el título es confuso (calibre 0897, '7 positions'). Con esfera y caja originales podría valer algo más, pero el precio pedido no está 15% o más por debajo del mercado."
+  },
+  "motivo": "triage: Referencia no confirmable en la foto y el título es confuso (calibre 0897, '7 positions'). Con esfera y caja originales podría valer algo más, pero el precio pedido no está 15% o más por debajo del mercado. (justo 4800)"
+ },
+ {
+  "fecha": "2026-10-30T19:54:26.741524+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 116244 Stainless Steel 36mm auto watch",
+  "total": 14741.18,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206664075666",
+  "item_id": "v1|206664075666|0",
+  "referencia": "116244",
+  "mercado": {
+   "n": 31,
+   "p25": 13990,
+   "mediana": 14869
+  },
+  "ratio_mercado": 1.054,
+  "motivo": "precio normal (105 % del cuartil bajo de 116244)"
+ },
+ {
+  "fecha": "2026-10-30T19:54:26.741524+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Datejust 36, 16234, Steel & White Gold, Rose Diamond Dial, Oyst...",
+  "total": 10077.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/206664075784",
+  "item_id": "v1|206664075784|0",
+  "referencia": "16234",
+  "mercado": {
+   "n": 29,
+   "p25": 6160,
+   "mediana": 6470
+  },
+  "ratio_mercado": 1.636,
+  "motivo": "precio normal (164 % del cuartil bajo de 16234)"
+ },
+ {
+  "fecha": "2026-10-30T19:54:26.741524+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Chrono 79360N Reverse Panda Jubilee Bracelet Warranty until 2030",
+  "total": 5397.01,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168827226428",
+  "item_id": "v1|168827226428|0",
+  "referencia": "79360N",
+  "mercado": {
+   "n": 55,
+   "p25": 4700,
+   "mediana": 5380
+  },
+  "ratio_mercado": 1.148,
+  "motivo": "precio normal (115 % del cuartil bajo de 79360N)"
+ },
+ {
+  "fecha": "2026-10-30T19:54:26.741524+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Pelagos FXD GMT 42mm Titanium M2542G267NU-0002",
+  "total": 5295.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/237153217490",
+  "item_id": "v1|237153217490|0",
+  "triage": {
+   "modelo": "Tudor Pelagos FXD GMT 42mm titanio (correlaciona con la imagen)",
+   "referencia": "M2542G267NU-0002 (según el título; no verificable desde la foto)",
+   "precio_justo_usd": 4200,
+   "interesante": false,
+   "nota": "Precio pedido de US$5,295 supera el mercado gris para un Pelagos FXD GMT nuevo con caja y papeles; no hay descuento claro."
+  },
+  "motivo": "triage: Precio pedido de US$5,295 supera el mercado gris para un Pelagos FXD GMT nuevo con caja y papeles; no hay descuento claro. (justo 4200)"
+ },
+ {
+  "fecha": "2026-10-30T19:54:26.741524+00:00",
+  "marca": "Tudor",
+  "titulo": "2025 Tudor Black Bay 68 Box and Papers Very Good Condition 43mm Ref# 7943A1A0NU",
+  "total": 4295.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147658403287",
+  "item_id": "v1|147658403287|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 Navy Blue (aparente, por la esfera azul y el bisel negro; el título dice Black Bay 68)",
+   "referencia": null,
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "El título no coincide con lo que se ve (parece una Black Bay 58, de 39 mm, no 43 mm) y el precio pedido supera el mercado secundario para un usado con caja y papeles. Verificar referencia y tamaño antes de comprar."
+  },
+  "motivo": "triage: El título no coincide con lo que se ve (parece una Black Bay 58, de 39 mm, no 43 mm) y el precio pedido supera el mercado secundario para un usado con caja y papeles. Verificar referencia y tamaño antes de comprar. (justo 3400)"
  }
 ]
