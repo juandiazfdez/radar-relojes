@@ -1,126 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T04:38:19.908331+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 31mm Pink Watch Ref# 279274",
-  "total": 18450.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/327428430886",
-  "item_id": "v1|327428430886|0",
-  "referencia": "279274",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Lady-Datejust 28 mm, acero y oro blanco, esfera rosa con diamantes, bisel acanalado y brazalete Jubilee",
-   "referencia": "279274",
-   "precio_justo_usd": 15500,
-   "interesante": false,
-   "nota": "Por la ref. 279274 es un Lady-Datejust de 28 mm, no de 31 mm como dice el título. El precio pedido de US$18.450 queda por encima del precio de venta real estimado para este modelo, así que no es una oportunidad."
-  },
-  "motivo": "triage: Por la ref. 279274 es un Lady-Datejust de 28 mm, no de 31 mm como dice el título. El precio pedido de US$18.450 queda por encima del precio de venta real estimado para este modelo, así que no es una oportunidad. (justo 15500)"
- },
- {
-  "fecha": "2026-10-29T04:38:19.908331+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai Radiomir Black Seal PAM00380 45mm",
-  "total": 3199.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168823719780",
-  "item_id": "v1|168823719780|0",
-  "referencia": "PAM00380",
-  "mercado": {
-   "n": 9,
-   "p25": 3500,
-   "mediana": 4395
-  },
-  "ratio_mercado": 0.914,
-  "motivo": "precio normal (91 % del cuartil bajo de PAM00380)"
- },
- {
-  "fecha": "2026-10-29T04:38:19.908331+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai Luminor Chrono Navy Seals Ed. PAM01409 44mm",
-  "total": 8699.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/168823712820",
-  "item_id": "v1|168823712820|0",
-  "referencia": "PAM01409",
-  "mercado": {
-   "n": 1,
-   "p25": 8995,
-   "mediana": 8995
-  },
-  "triage": {
-   "modelo": "Panerai Luminor Chrono Navy SEALs (titanio, 44 mm)",
-   "referencia": "PAM01409 (según el título, sin verificar en la foto)",
-   "precio_justo_usd": 9500,
-   "interesante": false,
-   "nota": "Precio por debajo del mercado, pero la edición y la referencia no se pueden confirmar en la foto; verificar papeles, número de serie y autenticidad antes de comprar."
-  },
-  "motivo": "triage: Precio por debajo del mercado, pero la edición y la referencia no se pueden confirmar en la foto; verificar papeles, número de serie y autenticidad antes de comprar. (justo 9500)"
- },
- {
-  "fecha": "2026-10-29T04:38:19.908331+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Speedmaster 176.0015 Vintage Chronograph Automatic Working Mens",
-  "total": 3180.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/820290044593",
-  "item_id": "v1|820290044593|0",
-  "triage": {
-   "modelo": "Omega Speedmaster Professional (vintage, brazalete de acero)",
-   "referencia": "176.0015 (no verificable en la foto; el título dice 'automatic', pero las 176.xxxx son de cuerda manual, así que el anuncio es inconsistente)",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Precio cercano al mercado para un Speedmaster vintage de este tipo; falta verificar referencia, calibre y estado real."
-  },
-  "motivo": "triage: Precio cercano al mercado para un Speedmaster vintage de este tipo; falta verificar referencia, calibre y estado real. (justo 3000)"
- },
- {
-  "fecha": "2026-10-29T04:38:19.908331+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Carrera Calibre 16 Chronograph CV2A10 Automatic. 🔥Fire!!!🔥",
-  "total": 1499.98,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128161955503",
-  "item_id": "v1|128161955503|0",
-  "referencia": "CV2A10",
-  "mercado": {
-   "n": 10,
-   "p25": 2350,
-   "mediana": 2400
-  },
-  "ratio_mercado": 0.638,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 1800,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado en buen estado, con arañazos superficiales. Caja y tarjeta de garantía originales, sin papeles completos."
-  },
-  "ratio_justo": 0.833,
-  "motivo": "ALERTA"
- },
- {
-  "fecha": "2026-10-29T04:53:20.130558+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 16013 Mens Watch",
-  "total": 6999.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237150017836",
-  "item_id": "v1|237150017836|0",
-  "referencia": "16013",
-  "mercado": {
-   "n": 21,
-   "p25": 1815,
-   "mediana": 4700
-  },
-  "ratio_mercado": 3.857,
-  "motivo": "precio normal (386 % del cuartil bajo de 16013)"
- },
- {
   "fecha": "2026-10-29T05:08:20.136853+00:00",
   "marca": "Omega",
   "titulo": "2026 Omega Seamaster Diver 300M \"SEAWEED\" Green 42mm Rubber 210.32.42.20.10.001",
@@ -11371,5 +11250,107 @@
   },
   "ratio_mercado": 1.107,
   "motivo": "precio normal (111 % del cuartil bajo de 79470)"
+ },
+ {
+  "fecha": "2026-10-30T16:39:27.317022+00:00",
+  "marca": "Rolex",
+  "titulo": "2015 Rolex Datejust 116200 36mm Mens Steel Watch Black Concentric Box Card Set",
+  "total": 7999.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800856148376",
+  "item_id": "v1|800856148376|0",
+  "referencia": "116200",
+  "mercado": {
+   "n": 58,
+   "p25": 8145,
+   "mediana": 8879
+  },
+  "ratio_mercado": 0.982,
+  "motivo": "precio normal (98 % del cuartil bajo de 116200)"
+ },
+ {
+  "fecha": "2026-10-30T16:39:27.317022+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Cosmograph Daytona 126505 40mm Black and Sundust 2026",
+  "total": 59999.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377608538276",
+  "item_id": "v1|377608538276|0",
+  "referencia": "126505",
+  "mercado": {
+   "n": 14,
+   "p25": 58329,
+   "mediana": 61436
+  },
+  "ratio_mercado": 1.029,
+  "motivo": "precio normal (103 % del cuartil bajo de 126505)"
+ },
+ {
+  "fecha": "2026-10-30T16:39:27.317022+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41 \"2020\" 126333",
+  "total": 15879.49,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237152953017",
+  "item_id": "v1|237152953017|0",
+  "referencia": "126333",
+  "mercado": {
+   "n": 31,
+   "p25": 14950,
+   "mediana": 15466
+  },
+  "ratio_mercado": 1.062,
+  "motivo": "precio normal (106 % del cuartil bajo de 126333)"
+ },
+ {
+  "fecha": "2026-10-30T16:39:27.317022+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex Sky-Dweller 336934 Black 42mm Jubilee 18K Gold Steel Box Papers",
+  "total": 23138.08,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940052583524",
+  "item_id": "v1|940052583524|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller (acero Oystersteel y oro blanco, bisel acanalado, esfera negra, brazalete Jubilee)",
+   "referencia": "336934",
+   "precio_justo_usd": 27000,
+   "interesante": false,
+   "nota": "Referencia 336934 de producción actual con precio pedido ~15 % bajo estimación conservadora; título con año '2026' y descripción de material ambiguos, así que no justifica marcarlo como oportunidad clara."
+  },
+  "motivo": "triage: Referencia 336934 de producción actual con precio pedido ~15 % bajo estimación conservadora; título con año '2026' y descripción de material ambiguos, así que no justifica marcarlo como oportunidad clara. (justo 27000)"
+ },
+ {
+  "fecha": "2026-10-30T16:39:27.317022+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36MM 2Tone 18K Gold Stainless Steel Jubilee 16013 ROMAN NUMERAL",
+  "total": 5500.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/147656998806",
+  "item_id": "v1|147656998806|0",
+  "referencia": "16013",
+  "mercado": {
+   "n": 21,
+   "p25": 1815,
+   "mediana": 4700
+  },
+  "ratio_mercado": 3.03,
+  "motivo": "precio normal (303 % del cuartil bajo de 16013)"
+ },
+ {
+  "fecha": "2026-10-30T16:39:27.317022+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex Daytona Green John Mayer 2.0 Yellow Gold Box/Papers/Card 126508",
+  "total": 84000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880065537011",
+  "item_id": "v1|880065537011|0",
+  "referencia": "126508",
+  "mercado": {
+   "n": 11,
+   "p25": 76065,
+   "mediana": 84000
+  },
+  "ratio_mercado": 1.104,
+  "motivo": "precio normal (110 % del cuartil bajo de 126508)"
  }
 ]
