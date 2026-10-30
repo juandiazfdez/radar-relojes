@@ -1,195 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T15:38:42.016125+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust Ladies Watch 69173 Two-Tone Steel & 18K Jubilee Bracelet",
-  "total": 3485.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/920084879691",
-  "item_id": "v1|920084879691|0",
-  "referencia": "69173",
-  "mercado": {
-   "n": 22,
-   "p25": 4259,
-   "mediana": 4636
-  },
-  "ratio_mercado": 0.818,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 3100,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, cosmético regular: rayones y marcas en caja, brazalete y cierre; sin caja ni papeles"
-  },
-  "ratio_justo": 1.124,
-  "motivo": "precio normal segun revision (112 % del justo 3100)"
- },
- {
-  "fecha": "2026-10-29T15:38:42.016125+00:00",
-  "marca": "Rolex",
-  "titulo": "42160: Rolex 18k Yellow Gold Day-Date 36, Ref. 18238, Circa 1990. Rolex Box",
-  "total": 21000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900049095518",
-  "item_id": "v1|900049095518|0",
-  "referencia": "18238",
-  "mercado": {
-   "n": 39,
-   "p25": 16666,
-   "mediana": 20990
-  },
-  "ratio_mercado": 1.26,
-  "motivo": "precio normal (126 % del cuartil bajo de 18238)"
- },
- {
-  "fecha": "2026-10-29T15:38:42.016125+00:00",
-  "marca": "Tudor",
-  "titulo": "2023 Tudor Chronograph Panda 41mm Automatic 79360N Warranty until 2028!",
-  "total": 4731.27,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168824802970",
-  "item_id": "v1|168824802970|0",
-  "referencia": "79360N",
-  "mercado": {
-   "n": 54,
-   "p25": 4690,
-   "mediana": 5274
-  },
-  "ratio_mercado": 1.009,
-  "motivo": "precio normal (101 % del cuartil bajo de 79360N)"
- },
- {
-  "fecha": "2026-10-29T15:38:42.016125+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Chronomat Limited Edition Steel Auto 44mm Blue Watch AB01109E/C886",
-  "total": 4950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940049803261",
-  "item_id": "v1|940049803261|0",
-  "referencia": "AB01109E",
-  "mercado": {
-   "n": 21,
-   "p25": 4000,
-   "mediana": 4355
-  },
-  "ratio_mercado": 1.238,
-  "motivo": "precio normal (124 % del cuartil bajo de AB01109E)"
- },
- {
-  "fecha": "2026-10-29T15:38:42.016125+00:00",
-  "marca": "Breitling",
-  "titulo": "BREITLING Men's Watch F65062 AEROSPACE, BLUE DIAL, TITANIUM, GOLD ACCENTS, 40mm",
-  "total": 2000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940049795244",
-  "item_id": "v1|940049795244|0",
-  "referencia": "F65062",
-  "mercado": {
-   "n": 2,
-   "p25": 2250,
-   "mediana": 2250
-  },
-  "triage": {
-   "modelo": "Breitling Aerospace Titanium Ana-Digi (esfera azul, acentos dorados)",
-   "referencia": "F65062",
-   "precio_justo_usd": 2100,
-   "interesante": false,
-   "nota": "Precio pedido cerca del valor de mercado para estado excelente; sin caja ni papeles visibles, el descuento no llega al 15 %."
-  },
-  "motivo": "triage: Precio pedido cerca del valor de mercado para estado excelente; sin caja ni papeles visibles, el descuento no llega al 15 %. (justo 2100)"
- },
- {
-  "fecha": "2026-10-29T15:53:42.700295+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 6263 Daytona Cosmograph circa 1973 watch parts lot",
-  "total": 6950.0,
-  "condicion": "For parts or not working",
-  "url": "https://www.ebay.com/itm/137884325513",
-  "item_id": "v1|137884325513|0",
-  "referencia": "6263",
-  "mercado": {
-   "n": 1,
-   "p25": 2750,
-   "mediana": 2750
-  },
-  "triage": {
-   "modelo": "Rolex Daytona Cosmograph (lote de piezas, calibre Valjoux 72/727 según la hoja técnica)",
-   "referencia": "6263 (según título, no verificable en la foto)",
-   "precio_justo_usd": 1500,
-   "interesante": false,
-   "nota": "Es un lote de piezas sueltas, no un reloj completo; el precio de 6950 USD es muy alto para piezas y no está por debajo del valor real."
-  },
-  "motivo": "triage: Es un lote de piezas sueltas, no un reloj completo; el precio de 6950 USD es muy alto para piezas y no está por debajo del valor real. (justo 1500)"
- },
- {
-  "fecha": "2026-10-29T15:53:42.700295+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai PAM 292 Radiomir Black Seal Ceramica 44MM Box & Paper",
-  "total": 3795.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287689997660",
-  "item_id": "v1|287689997660|0",
-  "referencia": "PAM292",
-  "mercado": {
-   "n": 3,
-   "p25": 4895,
-   "mediana": 5035
-  },
-  "triage": {
-   "modelo": "Panerai Radiomir Black Seal (cerámica, 44 mm, correa de piel marrón)",
-   "referencia": "PAM 292",
-   "precio_justo_usd": 6500,
-   "interesante": false,
-   "nota": "Precio 40 %+ bajo mercado para PAM 292 con caja y papeles; sospechoso de replica o de estado/modelo mal descrito. Verificar autenticidad antes de considerarlo."
-  },
-  "motivo": "triage: Precio 40 %+ bajo mercado para PAM 292 con caja y papeles; sospechoso de replica o de estado/modelo mal descrito. Verificar autenticidad antes de considerarlo. (justo 6500)"
- },
- {
-  "fecha": "2026-10-29T15:53:42.700295+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Ploprof 1200M Titanium 227.90.55.21.01.001 Men's 55mm Watch",
-  "total": 11750.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840071846062",
-  "item_id": "v1|840071846062|0",
-  "referencia": "227.90.55.21.01.001",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Ploprof 1200M Titanium, 55 mm, con caja, estuche y papeles",
-   "referencia": "227.90.55.21.01.001 (verificar; la referencia exacta de la versión titanio puede diferir)",
-   "precio_justo_usd": 8500,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de reventa estimado para esta referencia en estado excelente; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de reventa estimado para esta referencia en estado excelente; no es una oportunidad. (justo 8500)"
- },
- {
-  "fecha": "2026-10-29T15:53:42.700295+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Classic Avi Chrono Tribute to Vought F4U Blue Watch A233801A1C1X1",
-  "total": 4850.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940049841689",
-  "item_id": "v1|940049841689|0",
-  "referencia": "A233801A1C1X1",
-  "mercado": {
-   "n": 4,
-   "p25": 4350,
-   "mediana": 4875
-  },
-  "triage": {
-   "modelo": "Breitling Classic AVI Chronograph Tribute to Vought F4U Corsair, esfera azul, acero 42 mm, correa de piel",
-   "referencia": "A233801A1C1X1",
-   "precio_justo_usd": 4900,
-   "interesante": false,
-   "nota": "Precio cercano al mercado secundario para este modelo de producción actual; el listado no indica caja ni papeles, lo que limita el valor."
-  },
-  "motivo": "triage: Precio cercano al mercado secundario para este modelo de producción actual; el listado no indica caja ni papeles, lo que limita el valor. (justo 4900)"
- },
- {
   "fecha": "2026-10-29T15:53:42.700295+00:00",
   "marca": "TAG Heuer",
   "titulo": "New Tag Heuer Monaco Chronograph Automatic Blue Men's Watch CBL2182.FT6235",
@@ -11379,5 +11189,182 @@
    "nota": "Precio pedido por encima del valor de venta cerrada estimado para esta referencia con caja y papeles; no hay descuento suficiente."
   },
   "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para esta referencia con caja y papeles; no hay descuento suficiente. (justo 3500)"
+ },
+ {
+  "fecha": "2026-10-30T21:09:40.627159+00:00",
+  "marca": "Rolex",
+  "titulo": "1967 Rolex Oyster Perpetual Ref. 1002 - Papers & Chronometer Certificate",
+  "total": 4000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227590496100",
+  "item_id": "v1|227590496100|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual (vintage, acero, esfera plateada)",
+   "referencia": "1002",
+   "precio_justo_usd": 2900,
+   "interesante": false,
+   "nota": "Ref. 1002 de finales de los 60 en estado bueno vale unos US$2.500-3.300 con papeles; el precio pedido de US$4.000 está por encima del mercado."
+  },
+  "motivo": "triage: Ref. 1002 de finales de los 60 en estado bueno vale unos US$2.500-3.300 con papeles; el precio pedido de US$4.000 está por encima del mercado. (justo 2900)"
+ },
+ {
+  "fecha": "2026-10-30T21:09:40.627159+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36mm 2009 Silver Diamond Fluted Jubilee 116233",
+  "total": 12695.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198758115188",
+  "item_id": "v1|198758115188|0",
+  "referencia": "116233",
+  "mercado": {
+   "n": 77,
+   "p25": 10990,
+   "mediana": 11345
+  },
+  "ratio_mercado": 1.155,
+  "motivo": "precio normal (116 % del cuartil bajo de 116233)"
+ },
+ {
+  "fecha": "2026-10-30T21:09:40.627159+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex rectangular “Tank” 1940s 1208 Men’s Watch ",
+  "total": 4995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147658503000",
+  "item_id": "v1|147658503000|0",
+  "triage": {
+   "modelo": "Rolex rectangular 'Shock-Resisting' vintage (años 1940, caja de acero, esfera plateada con números arábigos, manecillas doradas y subesfera)",
+   "referencia": "1208 (según el título; no confirmable con la foto)",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "El precio pedido de US$4995 queda por encima del valor estimado de venta cerrada para un vintage rectangular de acero en estado 'Good', y la referencia no se puede verificar en la foto."
+  },
+  "motivo": "triage: El precio pedido de US$4995 queda por encima del valor estimado de venta cerrada para un vintage rectangular de acero en estado 'Good', y la referencia no se puede verificar en la foto. (justo 3800)"
+ },
+ {
+  "fecha": "2026-10-30T21:09:40.627159+00:00",
+  "marca": "Rolex",
+  "titulo": "Vtg Rolex Cellini 18KT White Gold Men's Watch 3833 Swiss Made",
+  "total": 8059.98,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880066105852",
+  "item_id": "v1|880066105852|0",
+  "triage": {
+   "modelo": "Rolex Cellini (oro blanco 18k, pulsera integrada, esfera plateada)",
+   "referencia": "3833",
+   "precio_justo_usd": 5500,
+   "interesante": false,
+   "nota": "Precio pedido de US$8,060 por encima de lo que se vende este Cellini 3833 en oro blanco; el valor del oro y la pulsera pesan, pero no alcanza ese precio."
+  },
+  "motivo": "triage: Precio pedido de US$8,060 por encima de lo que se vende este Cellini 3833 en oro blanco; el valor del oro y la pulsera pesan, pero no alcanza ese precio. (justo 5500)"
+ },
+ {
+  "fecha": "2026-10-30T21:09:40.627159+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ronde Solo 36mm , W6701005 Date 30m White Roman SS w/ Box Papers. 2017",
+  "total": 2950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800856899451",
+  "item_id": "v1|800856899451|0",
+  "referencia": "W6701005",
+  "mercado": {
+   "n": 4,
+   "p25": 3645,
+   "mediana": 3770
+  },
+  "triage": {
+   "modelo": "Cartier Ronde Solo de Cartier 36 mm, cuarzo, acero, esfera blanca con números romanos",
+   "referencia": "W6701005",
+   "precio_justo_usd": 2500,
+   "interesante": false,
+   "nota": "Precio pedido de US$2950 está por encima del valor de venta real de esta referencia usada con caja y papeles; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido de US$2950 está por encima del valor de venta real de esta referencia usada con caja y papeles; no hay descuento suficiente. (justo 2500)"
+ },
+ {
+  "fecha": "2026-10-30T21:09:40.627159+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 41mm Stainless Steel M79680-0001",
+  "total": 4595.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880066121625",
+  "item_id": "v1|880066121625|0",
+  "referencia": "M79680-0001",
+  "mercado": {
+   "n": 1,
+   "p25": 4695,
+   "mediana": 4695
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 41 de acero con brazalete Jubilee, esfera negra",
+   "referencia": "M79680-0001 (según título, no verificable en la foto)",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Pedido por encima del precio de tienda y del mercado gris de nuevos; no hay descuento suficiente."
+  },
+  "motivo": "triage: Pedido por encima del precio de tienda y del mercado gris de nuevos; no hay descuento suficiente. (justo 3300)"
+ },
+ {
+  "fecha": "2026-10-30T21:09:40.627159+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay Pro 39mm Stainless Steel M79470-0004",
+  "total": 4495.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880066117420",
+  "item_id": "v1|880066117420|0",
+  "referencia": "M79470-0004",
+  "mercado": {
+   "n": 4,
+   "p25": 4270,
+   "mediana": 4385
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay Pro 39mm (esfera visible plateada, no coincide claramente con la foto del título)",
+   "referencia": "M79470-0004",
+   "precio_justo_usd": 4100,
+   "interesante": false,
+   "nota": "Precio pedido ya en retail o por encima; la foto no coincide bien con una Black Bay Pro, así que hay que verificar la referencia."
+  },
+  "motivo": "triage: Precio pedido ya en retail o por encima; la foto no coincide bien con una Black Bay Pro, así que hay que verificar la referencia. (justo 4100)"
+ },
+ {
+  "fecha": "2026-10-30T21:09:40.627159+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Royal 36mm Stainless Steel M2836C1A0-0105",
+  "total": 3295.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880066112300",
+  "item_id": "v1|880066112300|0",
+  "triage": {
+   "modelo": "Tudor Royal (acero, esfera salmón con índices arábigos y fecha)",
+   "referencia": "M2836C1A0-0105 (según título, no verificable en la imagen)",
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Tudor nuevo con caja y papeles se vende 15-35 % bajo retail; el precio pedido de 3295 USD está cerca o sobre el mercado, sin descuento claro."
+  },
+  "motivo": "triage: Tudor nuevo con caja y papeles se vende 15-35 % bajo retail; el precio pedido de 3295 USD está cerca o sobre el mercado, sin descuento claro. (justo 2800)"
+ },
+ {
+  "fecha": "2026-10-30T21:09:40.627159+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 54 37mm Stainless Steel M79000N-0001",
+  "total": 4295.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880066104991",
+  "item_id": "v1|880066104991|0",
+  "referencia": "M79000N-0001",
+  "mercado": {
+   "n": 4,
+   "p25": 4210,
+   "mediana": 4334
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 54 (37 mm, acero, bisel negro, esfera negra)",
+   "referencia": "M79000N",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Precio pedido por encima del mercado gris para BB54 nuevo con caja y papeles; no hay descuento de al menos 15 %."
+  },
+  "motivo": "triage: Precio pedido por encima del mercado gris para BB54 nuevo con caja y papeles; no hay descuento de al menos 15 %. (justo 3500)"
  }
 ]
