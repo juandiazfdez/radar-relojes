@@ -3,23 +3,6 @@
   "fecha": "2026-10-29T16:23:42.233731+00:00",
   "marca": "Omega",
   "titulo": "Omega Constellation Quartz Stainless Steel And Yellow Gold Watch",
-  "total": 1640.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820292258802",
-  "item_id": "v1|820292258802|0",
-  "triage": {
-   "modelo": "Omega Constellation Quartz bicolor (acero y oro amarillo), esfera champán con índices y numerales romanos",
-   "referencia": null,
-   "precio_justo_usd": 700,
-   "interesante": false,
-   "nota": "Modelo de cuarzo de tamaño pequeño (aprox. 24-25 mm); la referencia exacta no se distingue en la foto. Con el estado indicado, el precio pedido de US$1640 está muy por encima de lo que se vende realmente."
-  },
-  "motivo": "triage: Modelo de cuarzo de tamaño pequeño (aprox. 24-25 mm); la referencia exacta no se distingue en la foto. Con el estado indicado, el precio pedido de US$1640 está muy por encima de lo que se vende realmente. (justo 700)"
- },
- {
-  "fecha": "2026-10-29T16:23:42.233731+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Constellation Quartz Stainless Steel And Yellow Gold Watch",
   "total": 1527.0,
   "condicion": "Pre-owned - Good",
   "url": "https://www.ebay.com/itm/267827331642",
@@ -11341,5 +11324,22 @@
    "nota": "Precio ~12% bajo el estimado; la esfera con diamantes y el bisel en oro blanco pueden añadir valor, pero conviene verificar autenticidad, esfera original y estado de la caja y papeles."
   },
   "motivo": "triage: Precio ~12% bajo el estimado; la esfera con diamantes y el bisel en oro blanco pueden añadir valor, pero conviene verificar autenticidad, esfera original y estado de la caja y papeles. (justo 3300)"
+ },
+ {
+  "fecha": "2026-10-30T22:24:40.373398+00:00",
+  "marca": "Cartier",
+  "titulo": "Beautiful Cartier Tank Francaise SM 2384 Quartz Women's Watch",
+  "total": 3780.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920089004812",
+  "item_id": "v1|920089004812|0",
+  "referencia": "2384",
+  "mercado": {
+   "n": 39,
+   "p25": 3688,
+   "mediana": 4095
+  },
+  "ratio_mercado": 1.025,
+  "motivo": "precio normal (102 % del cuartil bajo de 2384)"
  }
 ]
