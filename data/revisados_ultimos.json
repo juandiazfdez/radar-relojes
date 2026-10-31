@@ -2,29 +2,6 @@
  {
   "fecha": "2026-10-29T16:53:44.591395+00:00",
   "marca": "Rolex",
-  "titulo": "1979 Rolex President Day-Date 18k Yellow Gold Bark Finish 36mm 18078 Box/Apr",
-  "total": 11230.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336869162288",
-  "item_id": "v1|336869162288|0",
-  "referencia": "18078",
-  "mercado": {
-   "n": 17,
-   "p25": 16733,
-   "mediana": 17950
-  },
-  "ratio_mercado": 0.671,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 10200,
-   "riesgo_autenticidad": "medio",
-   "estado": "Buen estado estético, caja con bisel bark conservado, pero con correa de cocodrilo aftermarket, sin brazalete President y sin papeles Rolex"
-  },
-  "motivo": "Claude descarto: Los comparables (mediana 17.950, cuartil bajo 16.733) son precios pedidos y se refieren casi seguro a relojes con brazalete President. No sirven como referencia directa para este reloj.; Un 18078 bark con brazalete President original se vende realmente entre 13.000 y 16.000 USD. Sin brazalete se resta 2.500-4.000 USD, así que el precio cerrado realista ronda 10.000-11.000."
- },
- {
-  "fecha": "2026-10-29T16:53:44.591395+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex 40mm Submariner Date Black Ceramic Steel 116610LN - Box No Card",
   "total": 10900.0,
   "condicion": "Pre-owned - Good",
@@ -11341,5 +11318,22 @@
   },
   "ratio_mercado": 0.942,
   "motivo": "precio normal (94 % del cuartil bajo de 79230B)"
+ },
+ {
+  "fecha": "2026-10-31T01:39:40.455789+00:00",
+  "marca": "Rolex",
+  "titulo": "Antique 9ct Gold Rolex Women's Watch PROJECT 1920's Wristwatch",
+  "total": 1203.95,
+  "condicion": "For parts or not working",
+  "url": "https://www.ebay.com/itm/198758705663",
+  "item_id": "v1|198758705663|0",
+  "triage": {
+   "modelo": "Reloj de pulsera de dama, caja de oro de 9 ct, años 1920 (posible Rolex de esa época, no verificable en la foto)",
+   "referencia": null,
+   "precio_justo_usd": 1000,
+   "interesante": false,
+   "nota": "No se ven la corona de Rolex ni el movimiento, y el listado indica que no funciona (para piezas). Sin verificar la marca ni el estado, el precio de 1204 USD supera lo que se paga por un proyecto así."
+  },
+  "motivo": "triage: No se ven la corona de Rolex ni el movimiento, y el listado indica que no funciona (para piezas). Sin verificar la marca ni el estado, el precio de 1204 USD supera lo que se paga por un proyecto así. (justo 1000)"
  }
 ]
