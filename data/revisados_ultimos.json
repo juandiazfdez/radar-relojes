@@ -1,69 +1,6 @@
 [
  {
   "fecha": "2026-10-29T18:08:42.230050+00:00",
-  "marca": "Cartier",
-  "titulo": "Vintage Cartier Santos Galbée  Stainless Steel Watch No Date Swiss",
-  "total": 2945.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/860095470447",
-  "item_id": "v1|860095470447|0",
-  "triage": {
-   "modelo": "Cartier Santos Galbée (cuarzo, acero, sin fecha)",
-   "referencia": null,
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta real para un Santos Galbée de acero sin fecha en estado Good; la referencia exacta no se puede confirmar en la imagen."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta real para un Santos Galbée de acero sin fecha en estado Good; la referencia exacta no se puede confirmar en la imagen. (justo 2200)"
- },
- {
-  "fecha": "2026-10-29T18:08:42.230050+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai PAM 233 Luminor 1950 GMT 8 Days \"Dot Dial\"",
-  "total": 8325.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/920085247692",
-  "item_id": "v1|920085247692|0",
-  "referencia": "PAM233",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Panerai Luminor 1950 GMT 8 Days (caja de acero, esfera negra, correa de caucho)",
-   "referencia": "PAM 233",
-   "precio_justo_usd": 9500,
-   "interesante": false,
-   "nota": "Precio cercano al mercado gris para nuevo con cajas y papeles; descuento inferior al 15 % y conviene verificar autenticidad."
-  },
-  "motivo": "triage: Precio cercano al mercado gris para nuevo con cajas y papeles; descuento inferior al 15 % y conviene verificar autenticidad. (justo 9500)"
- },
- {
-  "fecha": "2026-10-29T18:08:42.230050+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai PAM 277 Luminor 1950 8 Days GMT Monopulsante 18K Rose Gold",
-  "total": 20925.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/920085237106",
-  "item_id": "v1|920085237106|0",
-  "referencia": "PAM277",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Panerai Luminor 1950 8 Days GMT Monopulsante, oro rojo 18K, esfera azul",
-   "referencia": "PAM 277 (probable, según la imagen y el título)",
-   "precio_justo_usd": 21500,
-   "interesante": false,
-   "nota": "Precio pedido cerca del valor de mercado gris para oro rojo nuevo con caja y papeles; no hay descuento de al menos 15%."
-  },
-  "motivo": "triage: Precio pedido cerca del valor de mercado gris para oro rojo nuevo con caja y papeles; no hay descuento de al menos 15%. (justo 21500)"
- },
- {
-  "fecha": "2026-10-29T18:08:42.230050+00:00",
   "marca": "Omega",
   "titulo": "Omega Seamaster Aqua Terra 18K Rose Gold Watch 231.53.42.21.06.002",
   "total": 15000.0,
@@ -11312,5 +11249,62 @@
   },
   "ratio_mercado": 1.951,
   "motivo": "precio normal (195 % del cuartil bajo de 79360N)"
+ },
+ {
+  "fecha": "2026-10-31T17:40:12.710673+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 ROLEX YACHT-MASTER TITANIUM 42mm Sports Watch 226627 BOX & PAPERS Mens",
+  "total": 24570.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920091424064",
+  "item_id": "v1|920091424064|0",
+  "referencia": "226627",
+  "mercado": {
+   "n": 17,
+   "p25": 24899,
+   "mediana": 26700
+  },
+  "ratio_mercado": 0.987,
+  "motivo": "precio normal (99 % del cuartil bajo de 226627)"
+ },
+ {
+  "fecha": "2026-10-31T17:40:12.710673+00:00",
+  "marca": "Rolex",
+  "titulo": "1985 Rolex Day-Date President 18038 Champagne 18k Yellow Gold 36mm Watch w/ BOX",
+  "total": 21696.12,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287694842442",
+  "item_id": "v1|287694842442|0",
+  "referencia": "18038",
+  "mercado": {
+   "n": 18,
+   "p25": 9369,
+   "mediana": 10484
+  },
+  "ratio_mercado": 2.316,
+  "motivo": "precio normal (232 % del cuartil bajo de 18038)"
+ },
+ {
+  "fecha": "2026-10-31T17:40:12.710673+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Dumont WSSA0085 40MM Steel,Silver Roman Dial, BOX & PAPERS",
+  "total": 5700.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117496737160",
+  "item_id": "v1|117496737160|0",
+  "referencia": "WSSA0085",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Santos-Dumont (caja de acero, esfera plateada con numerales romanos, correa de piel negra)",
+   "referencia": "WSSA0085 (según el título; no verificable en la foto)",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Precio pedido de US$5,700 por encima de lo que suele cerrarse en el mercado usado para esta referencia; la foto no permite confirmar la referencia exacta."
+  },
+  "motivo": "triage: Precio pedido de US$5,700 por encima de lo que suele cerrarse en el mercado usado para esta referencia; la foto no permite confirmar la referencia exacta. (justo 5000)"
  }
 ]
