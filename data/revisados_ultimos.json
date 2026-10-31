@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T17:53:42.110680+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Carrera Chronograph Extreme Sport Twin-Time Men's Watch CBU2084.FT6297",
-  "total": 9350.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/267827417825",
-  "item_id": "v1|267827417825|0",
-  "referencia": "CBU2084.FT6297",
-  "mercado": {
-   "n": 1,
-   "p25": 10640,
-   "mediana": 10640
-  },
-  "triage": {
-   "modelo": "TAG Heuer Carrera Chronograph Extreme Sport (esfera esqueleto, bisel y correa verdes; el título menciona Twin-Time, que no coincide con lo que se ve)",
-   "referencia": null,
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "Precio pedido de 9350 USD muy por encima del mercado gris para caja y papeles; el título y la imagen no coinciden, así que hay que verificar la referencia real."
-  },
-  "motivo": "triage: Precio pedido de 9350 USD muy por encima del mercado gris para caja y papeles; el título y la imagen no coinciden, así que hay que verificar la referencia real. (justo 4300)"
- },
- {
   "fecha": "2026-10-29T18:08:42.230050+00:00",
   "marca": "Rolex",
   "titulo": "Rolex 126710BLNR GMT-Master II on Oyster",
@@ -11318,5 +11295,22 @@
    "nota": "Precio pedido por encima del valor de mercado secundario estimado para un usado en buen estado con caja y papeles; no hay descuento de al menos 15%."
   },
   "motivo": "triage: Precio pedido por encima del valor de mercado secundario estimado para un usado en buen estado con caja y papeles; no hay descuento de al menos 15%. (justo 3500)"
+ },
+ {
+  "fecha": "2026-10-31T16:40:13.010422+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Pelagos FXD GMT Titanium Black 42mm Auto Men's Watch 2542G247NU",
+  "total": 6088.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/327432316796",
+  "item_id": "v1|327432316796|0",
+  "triage": {
+   "modelo": "Tudor Pelagos FXD GMT (esfera azul, bisel azul, correa de tela; el título dice 'Titanium Black')",
+   "referencia": null,
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "El precio pedido (US$6088) supera con creces el mercado secundario. El título dice negro y la foto muestra esfera azul, y la referencia '2542G247NU' no sigue el formato de Tudor (M + cinco dígitos), así que el listado es inconsistente."
+  },
+  "motivo": "triage: El precio pedido (US$6088) supera con creces el mercado secundario. El título dice negro y la foto muestra esfera azul, y la referencia '2542G247NU' no sigue el formato de Tudor (M + cinco dígitos), así que el listado es inconsistente. (justo 4300)"
  }
 ]
