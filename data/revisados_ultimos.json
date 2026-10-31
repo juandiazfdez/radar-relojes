@@ -1,52 +1,6 @@
 [
  {
   "fecha": "2026-10-29T16:53:44.591395+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "New Tag Heuer Aquaracer Professional 200 Men's Watch CBP1113.BA0627",
-  "total": 2480.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/820292385856",
-  "item_id": "v1|820292385856|0",
-  "referencia": "CBP1113.BA0627",
-  "mercado": {
-   "n": 2,
-   "p25": 2588,
-   "mediana": 2593
-  },
-  "triage": {
-   "modelo": "TAG Heuer Aquaracer Professional 200 Cronógrafo, esfera azul, brazalete de acero",
-   "referencia": "CBP1113.BA0627",
-   "precio_justo_usd": 2250,
-   "interesante": false,
-   "nota": "Precio pedido por encima de la estimación de mercado gris para un modelo nuevo con caja y papeles; no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido por encima de la estimación de mercado gris para un modelo nuevo con caja y papeles; no hay descuento suficiente. (justo 2250)"
- },
- {
-  "fecha": "2026-10-29T16:53:44.591395+00:00",
-  "marca": "Jaeger-LeCoultre",
-  "titulo": "Jaeger-LeCoultre Polaris Automatic Stainless Steel Men's Watch Q9008471",
-  "total": 5830.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407324990015",
-  "item_id": "v1|407324990015|0",
-  "referencia": "Q9008471",
-  "mercado": {
-   "n": 1,
-   "p25": 6150,
-   "mediana": 6150
-  },
-  "triage": {
-   "modelo": "Jaeger-LeCoultre Polaris Automatic 42 mm, acero, esfera negra, correa de caucho",
-   "referencia": "Q9008471 (según el título; no verificable con certeza en la foto)",
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta estimado para este modelo de segunda mano en estado Good; no cumple el umbral del 15 % de descuento."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta estimado para este modelo de segunda mano en estado Good; no cumple el umbral del 15 % de descuento. (justo 4800)"
- },
- {
-  "fecha": "2026-10-29T16:53:44.591395+00:00",
   "marca": "Jaeger-LeCoultre",
   "titulo": "Jaeger-LeCoultre Polaris Chronograph Black 42mm Automatic Men's Watch Q9028651",
   "total": 16700.0,
@@ -11328,5 +11282,45 @@
   },
   "ratio_mercado": 1.233,
   "motivo": "precio normal (123 % del cuartil bajo de 6420)"
+ },
+ {
+  "fecha": "2026-10-31T03:24:52.378756+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 31MM Stainless Steel Gray Oyster Perpetual Datejust Watch",
+  "total": 7313.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940053730293",
+  "item_id": "v1|940053730293|0",
+  "triage": {
+   "modelo": "Rolex Datejust 31 acero y oro blanco, bisel acanalado, brazalete Jubilee (el título dice Oyster Perpetual, pero la imagen corresponde a un Datejust)",
+   "referencia": "178274 (probable; no verificable con certeza en la foto)",
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor estimado de venta cerrada para esta referencia en estado bueno; el título no coincide con el modelo visible."
+  },
+  "motivo": "triage: Precio pedido por encima del valor estimado de venta cerrada para esta referencia en estado bueno; el título no coincide con el modelo visible. (justo 7000)"
+ },
+ {
+  "fecha": "2026-10-31T03:24:52.378756+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Pelagos FXD M25717N-0001 - Brand New, Unworn - August 2026 Full Set, B+P",
+  "total": 4479.99,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/336871493534",
+  "item_id": "v1|336871493534|0",
+  "referencia": "M25717N-0001",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Pelagos FXD (caja de titanio, esfera negra, correa textil oliva con franja roja)",
+   "referencia": "M25717N-0001 (según el listado; no puedo confirmarla con certeza en la imagen)",
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "Nuevo con B+P en el mercado secundario suele venderse bajo retail (~US$3.900-3.975), no por encima; US$4.480 con envío está sobrepagado."
+  },
+  "motivo": "triage: Nuevo con B+P en el mercado secundario suele venderse bajo retail (~US$3.900-3.975), no por encima; US$4.480 con envío está sobrepagado. (justo 3600)"
  }
 ]
