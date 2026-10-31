@@ -1,52 +1,6 @@
 [
  {
   "fecha": "2026-10-29T17:23:41.910798+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Carrera Silver Men's Watch - CV2110-0 39mm Chronograph",
-  "total": 2400.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257823833610",
-  "item_id": "v1|257823833610|0",
-  "referencia": "CV2110",
-  "mercado": {
-   "n": 3,
-   "p25": 3674,
-   "mediana": 3674
-  },
-  "triage": {
-   "modelo": "TAG Heuer Carrera Calibre 16 cronógrafo, esfera plateada",
-   "referencia": "CV2110-0",
-   "precio_justo_usd": 2000,
-   "interesante": false,
-   "nota": "Precio pedido de 2400 USD con envío supera el valor de venta cerrada estimado para esta referencia de segunda mano en buen estado; no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido de 2400 USD con envío supera el valor de venta cerrada estimado para esta referencia de segunda mano en buen estado; no hay descuento suficiente. (justo 2000)"
- },
- {
-  "fecha": "2026-10-29T17:23:41.910798+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Carrera Calibre 17 CV2111.FC6180 Black  Mens Chronograph Watch",
-  "total": 2400.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257823831918",
-  "item_id": "v1|257823831918|0",
-  "referencia": "CV2111.FC6180",
-  "mercado": {
-   "n": 2,
-   "p25": 2100,
-   "mediana": 2812
-  },
-  "triage": {
-   "modelo": "TAG Heuer Carrera Calibre 17 Chronograph (esfera negra, caja de acero, correa de ante marrón)",
-   "referencia": "CV2111.FC6180",
-   "precio_justo_usd": 2000,
-   "interesante": false,
-   "nota": "Precio pedido de 2400 USD, unos 20 % por encima de una estimación conservadora para este modelo usado sin caja ni papeles visibles; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de 2400 USD, unos 20 % por encima de una estimación conservadora para este modelo usado sin caja ni papeles visibles; no es una oportunidad. (justo 2000)"
- },
- {
-  "fecha": "2026-10-29T17:23:41.910798+00:00",
   "marca": "IWC",
   "titulo": "iwc watch men pilot le petit prince",
   "total": 7150.0,
@@ -11342,5 +11296,39 @@
    "nota": "Acero con brazalete mixto, estado Good sin caja ni papeles; el precio pedido de US$1595 supera el valor de venta cerrada estimado."
   },
   "motivo": "triage: Acero con brazalete mixto, estado Good sin caja ni papeles; el precio pedido de US$1595 supera el valor de venta cerrada estimado. (justo 1300)"
+ },
+ {
+  "fecha": "2026-10-31T12:25:04.055097+00:00",
+  "marca": "Cartier",
+  "titulo": "2019 Cartier Santos 2 tone W20072X7",
+  "total": 6000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820299756826",
+  "item_id": "v1|820299756826|0",
+  "triage": {
+   "modelo": "Cartier Santos 100 XL (acero, esfera blanca, numerales romanos, correa de cocodrilo marrón)",
+   "referencia": "W20072X7 según título; la foto parece acero, no bicolor",
+   "precio_justo_usd": 5800,
+   "interesante": false,
+   "nota": "El título dice bicolor, pero la foto muestra acero, lo que puede ser un listado incorrecto. Con US$6000 no hay descuento de al menos 15 % frente a su valor de reventa."
+  },
+  "motivo": "triage: El título dice bicolor, pero la foto muestra acero, lo que puede ser un listado incorrecto. Con US$6000 no hay descuento de al menos 15 % frente a su valor de reventa. (justo 5800)"
+ },
+ {
+  "fecha": "2026-10-31T12:25:04.055097+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR 1926 w/ Box and COA (Papers)",
+  "total": 2520.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920090768294",
+  "item_id": "v1|920090768294|0",
+  "triage": {
+   "modelo": "Tudor 1926 (acero, esfera plateada, brazalete de eslabones)",
+   "referencia": "M91650 (probable; no confirmable con la imagen)",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Precio pedido cercano al valor de mercado para un 1926 de acero usado con caja y papeles; no hay descuento de al menos 15%."
+  },
+  "motivo": "triage: Precio pedido cercano al valor de mercado para un 1926 de acero usado con caja y papeles; no hay descuento de al menos 15%. (justo 2600)"
  }
 ]
