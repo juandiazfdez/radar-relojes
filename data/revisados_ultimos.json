@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-10-29T17:08:42.338366+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos GTS WSSA0037 Men's Automatic Watch Stainless Steel (PZ1005799)",
-  "total": 6900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198755076985",
-  "item_id": "v1|198755076985|0",
-  "referencia": "WSSA0037",
-  "mercado": {
-   "n": 10,
-   "p25": 7995,
-   "mediana": 8462
-  },
-  "ratio_mercado": 0.863,
-  "motivo": "precio normal (86 % del cuartil bajo de WSSA0037)"
- },
- {
-  "fecha": "2026-10-29T17:08:42.338366+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Pelagos 500M Blue | Titanium Automatic Chronometer | Ref. 25600TB",
   "total": 3050.0,
@@ -11317,5 +11300,35 @@
    "nota": "Si fuera un Datejust de oro macizo real, valdria bastante mas que US$2,500, pero la foto es poco nitida, el titulo es generico y el precio es demasiado bajo para oro macizo. Parece chapado en oro o replica; no es oportunidad sin verificar."
   },
   "motivo": "triage: Si fuera un Datejust de oro macizo real, valdria bastante mas que US$2,500, pero la foto es poco nitida, el titulo es generico y el precio es demasiado bajo para oro macizo. Parece chapado en oro o replica; no es oportunidad sin verificar. (justo 11000)"
+ },
+ {
+  "fecha": "2026-10-31T04:24:51.552696+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay GMT S&G M79833MN-0001 “Root Beer\" | 18k Gold | Full Set 2023",
+  "total": 4995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168827903377",
+  "item_id": "v1|168827903377|0",
+  "referencia": "M79833MN-0001",
+  "mercado": {
+   "n": 3,
+   "p25": 4100,
+   "mediana": 4900
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay GMT S&G \"Root Beer\" (acero y oro, bisel bicolor)",
+   "referencia": "M79833MN-0001",
+   "precio_justo_usd": 5900,
+   "interesante": true,
+   "nota": "Precio ~15% bajo mercado secundario para un 2023 con set completo; verificar autenticidad y el oro (el título dice 18k) antes de comprar."
+  },
+  "claude": {
+   "veredicto": "alerta",
+   "precio_justo_usd": 5500,
+   "riesgo_autenticidad": "medio",
+   "estado": "Muy buen estado, con microarañazos leves; esfera y cristal limpios, bisel y brazalete sin golpes visibles"
+  },
+  "ratio_justo": 0.908,
+  "motivo": "precio normal segun revision (91 % del justo 5500)"
  }
 ]
