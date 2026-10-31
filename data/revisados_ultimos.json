@@ -2,46 +2,6 @@
  {
   "fecha": "2026-10-29T17:23:41.910798+00:00",
   "marca": "Omega",
-  "titulo": "💥Omega SPEEDMASTER Professional Watch 18K GOLD Full Set REF 310.62.42.50.99.001",
-  "total": 23061.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840072091272",
-  "item_id": "v1|840072091272|0",
-  "referencia": "310.62.42.50.99.001",
-  "mercado": {
-   "n": 3,
-   "p25": 21250,
-   "mediana": 23648
-  },
-  "triage": {
-   "modelo": "Omega Speedmaster Moonwatch Professional Chronograph 42 mm, oro amarillo 18K, esfera champán con contadores negros, correa de caucho",
-   "referencia": "310.62.42.50.99.001",
-   "precio_justo_usd": 26500,
-   "interesante": false,
-   "nota": "Precio pedido ~13% bajo una estimación conservadora; el margen no alcanza el 15%. Verificar autenticidad, papeles y caja antes de comprar."
-  },
-  "motivo": "triage: Precio pedido ~13% bajo una estimación conservadora; el margen no alcanza el 15%. Verificar autenticidad, papeles y caja antes de comprar. (justo 26500)"
- },
- {
-  "fecha": "2026-10-29T17:23:41.910798+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Seamaster Men's",
-  "total": 1850.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840072071183",
-  "item_id": "v1|840072071183|0",
-  "triage": {
-   "modelo": "Omega Seamaster (posiblemente cuarzo, caja pequena, bisel dorado, brazalete de eslabones de acero; identificacion incierta por la foto)",
-   "referencia": null,
-   "precio_justo_usd": 900,
-   "interesante": false,
-   "nota": "El precio pedido de US$1850 supera con holgura el valor estimado de mercado para un Seamaster de cuarzo de este tipo. La foto es poco nitida y el titulo menciona hombre, pero la caja parece pequena; conviene verificar referencia, movimiento y papeles antes de cualquier decision."
-  },
-  "motivo": "triage: El precio pedido de US$1850 supera con holgura el valor estimado de mercado para un Seamaster de cuarzo de este tipo. La foto es poco nitida y el titulo menciona hombre, pero la caja parece pequena; conviene verificar referencia, movimiento y papeles antes de cualquier decision. (justo 900)"
- },
- {
-  "fecha": "2026-10-29T17:23:41.910798+00:00",
-  "marca": "Omega",
   "titulo": "💥1970s OMEGA Seamaster JEDI Chronograph Watch 38mm REF 176.006 * SERVICED * 💥",
   "total": 4030.95,
   "condicion": "Pre-owned - Good",
@@ -11336,5 +11296,39 @@
   },
   "ratio_mercado": 1.777,
   "motivo": "precio normal (178 % del cuartil bajo de 116234)"
+ },
+ {
+  "fecha": "2026-10-31T07:55:04.027088+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date \"Starbucks\" MK2 Box + Papers 2025",
+  "total": 16850.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137889140654",
+  "item_id": "v1|137889140654|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date 'Starbucks' (bisel verde/negro, acero)",
+   "referencia": "126610LV",
+   "precio_justo_usd": 14500,
+   "interesante": false,
+   "nota": "Pedido ~16 % sobre el valor de venta cerrada estimado para 126610LV con caja y papeles; no es una oportunidad."
+  },
+  "motivo": "triage: Pedido ~16 % sobre el valor de venta cerrada estimado para 126610LV con caja y papeles; no es una oportunidad. (justo 14500)"
+ },
+ {
+  "fecha": "2026-10-31T07:55:04.027088+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Heritage 79730 Box + Papers 2021",
+  "total": 3350.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137889163246",
+  "item_id": "v1|137889163246|0",
+  "referencia": "79730",
+  "mercado": {
+   "n": 6,
+   "p25": 2990,
+   "mediana": 3115
+  },
+  "ratio_mercado": 1.12,
+  "motivo": "precio normal (112 % del cuartil bajo de 79730)"
  }
 ]
