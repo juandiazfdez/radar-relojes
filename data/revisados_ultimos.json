@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-29T17:23:41.910798+00:00",
   "marca": "IWC",
-  "titulo": "iwc watch men pilot le petit prince",
-  "total": 7150.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147657041512",
-  "item_id": "v1|147657041512|0",
-  "triage": {
-   "modelo": "IWC Pilot's Watch Mark XVIII \"Le Petit Prince\" (acero, esfera azul)",
-   "referencia": "IW326501 (probable, no confirmada en la imagen)",
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "Precio pedido de 7150 USD muy por encima del mercado secundario para este modelo con caja y papeles; no hay descuento."
-  },
-  "motivo": "triage: Precio pedido de 7150 USD muy por encima del mercado secundario para este modelo con caja y papeles; no hay descuento. (justo 4800)"
- },
- {
-  "fecha": "2026-10-29T17:23:41.910798+00:00",
-  "marca": "IWC",
   "titulo": "IWC Fliegeruhr Chronograph IW377701 Pilot 43mm Stainless Steel Wristwatch + Box",
   "total": 4550.0,
   "condicion": "Pre-owned - Excellent",
@@ -11330,5 +11313,22 @@
    "nota": "Precio pedido cercano al valor de mercado para un 1926 de acero usado con caja y papeles; no hay descuento de al menos 15%."
   },
   "motivo": "triage: Precio pedido cercano al valor de mercado para un 1926 de acero usado con caja y papeles; no hay descuento de al menos 15%. (justo 2600)"
+ },
+ {
+  "fecha": "2026-10-31T13:55:13.448523+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner 14060 \"No Date\" Automatic 40mm. P Serial.",
+  "total": 9650.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128164497325",
+  "item_id": "v1|128164497325|0",
+  "referencia": "14060",
+  "mercado": {
+   "n": 45,
+   "p25": 9895,
+   "mediana": 10675
+  },
+  "ratio_mercado": 0.975,
+  "motivo": "precio normal (98 % del cuartil bajo de 14060)"
  }
 ]
