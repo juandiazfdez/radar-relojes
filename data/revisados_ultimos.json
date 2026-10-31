@@ -2,29 +2,6 @@
  {
   "fecha": "2026-10-29T19:08:42.285163+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Women's Aquaracer WAY1413.BA0920 Swiss Quartz Diamond Pearl Date Watch",
-  "total": 1795.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/377606439622",
-  "item_id": "v1|377606439622|0",
-  "referencia": "WAY1413.BA0920",
-  "mercado": {
-   "n": 3,
-   "p25": 1015,
-   "mediana": 1100
-  },
-  "triage": {
-   "modelo": "TAG Heuer Aquaracer Lady 27 mm, esfera nácar con diamantes, cuarzo, bisel de acero",
-   "referencia": "WAY1413.BA0920",
-   "precio_justo_usd": 1200,
-   "interesante": false,
-   "nota": "Precio pedido de US$1795 queda muy por encima del valor de reventa usado de esta referencia; no cumple el umbral de 15 % por debajo del mercado."
-  },
-  "motivo": "triage: Precio pedido de US$1795 queda muy por encima del valor de reventa usado de esta referencia; no cumple el umbral de 15 % por debajo del mercado. (justo 1200)"
- },
- {
-  "fecha": "2026-10-29T19:08:42.285163+00:00",
-  "marca": "TAG Heuer",
   "titulo": "TAG HEUER WAF141C.BA0813 LADIES AQUARACER BLACK DIAMOND SWISS LUXURY WATCH BOX",
   "total": 1395.0,
   "condicion": "Pre-owned - Good",
@@ -11195,5 +11172,28 @@
    "nota": "Precio pedido de US$4000 supera el valor de venta de un 1002 de 1967 en buen estado, aunque tenga papeles. La foto es de baja resolución y no permite verificar esfera, lume ni caja, y la correa parece no original."
   },
   "motivo": "triage: Precio pedido de US$4000 supera el valor de venta de un 1002 de 1967 en buen estado, aunque tenga papeles. La foto es de baja resolución y no permite verificar esfera, lume ni caja, y la correa parece no original. (justo 2800)"
+ },
+ {
+  "fecha": "2026-10-31T22:40:23.256921+00:00",
+  "marca": "Tudor",
+  "titulo": "2010s Tudor Black Bay ref. 79220B - Full set",
+  "total": 3900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267829301232",
+  "item_id": "v1|267829301232|0",
+  "referencia": "79220B",
+  "mercado": {
+   "n": 3,
+   "p25": 3800,
+   "mediana": 4000
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay (esfera negra, bisel azul, caja de acero, correa de cuero negro)",
+   "referencia": "79220B (no verificable en la imagen; el bisel azul sugiere una variante Black Bay de la familia 58 o Heritage)",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio pedido de US$3900 está por encima de lo que se vende este modelo de segunda mano; confirmar referencia y generación antes de considerar la compra."
+  },
+  "motivo": "triage: Precio pedido de US$3900 está por encima de lo que se vende este modelo de segunda mano; confirmar referencia y generación antes de considerar la compra. (justo 3300)"
  }
 ]
