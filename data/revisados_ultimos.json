@@ -1,63 +1,6 @@
 [
  {
   "fecha": "2026-10-29T18:23:42.159237+00:00",
-  "marca": "Rolex",
-  "titulo": "2020 Rolex GMT-Master II 126710 BLNR Batgirl Blue Jubilee 40mm Watch Box Papers",
-  "total": 19577.79,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900049394815",
-  "item_id": "v1|900049394815|0",
-  "referencia": "126710",
-  "mercado": {
-   "n": 27,
-   "p25": 17294,
-   "mediana": 17975
-  },
-  "ratio_mercado": 1.132,
-  "motivo": "precio normal (113 % del cuartil bajo de 126710)"
- },
- {
-  "fecha": "2026-10-29T18:23:42.159237+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Milgauss - Ref. 116400 - 40mm Stainless Steel",
-  "total": 12395.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287690225391",
-  "item_id": "v1|287690225391|0",
-  "referencia": "116400",
-  "mercado": {
-   "n": 48,
-   "p25": 11506,
-   "mediana": 12237
-  },
-  "ratio_mercado": 1.077,
-  "motivo": "precio normal (108 % del cuartil bajo de 116400)"
- },
- {
-  "fecha": "2026-10-29T18:23:42.159237+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 116710 LN Black Green Steel Ceramic Oyster 40mm Watch Box",
-  "total": 11518.97,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900049391650",
-  "item_id": "v1|900049391650|0",
-  "referencia": "116710 LN, 116710",
-  "mercado": {
-   "n": 45,
-   "p25": 13699,
-   "mediana": 14539
-  },
-  "ratio_mercado": 0.841,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 10200,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Buen estado cosmético, caja y cartones Rolex, sin papeles ni fotos del fondo de caja o movimiento"
-  },
-  "motivo": "Claude descarto: El precio pedido de $11,519 queda por encima del valor real de cierre. Un 116710LN con caja y sin papeles se vende hoy en torno a $9,800-10,800. No hay margen para reventa.; Los comparables (mediana $14,539, cuartil bajo $13,699) son precios pedidos e inflados. No sirven para justificar este precio."
- },
- {
-  "fecha": "2026-10-29T18:23:42.159237+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos  WSSA0039 ADLC FULL SET",
   "total": 7500.0,
@@ -11300,5 +11243,56 @@
   },
   "ratio_mercado": 0.962,
   "motivo": "precio normal (96 % del cuartil bajo de 126610LN)"
+ },
+ {
+  "fecha": "2026-10-31T18:40:13.521149+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master 16758 Yellow Gold, 1978–1979",
+  "total": 29630.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960137714699",
+  "item_id": "v1|960137714699|0",
+  "referencia": "16758",
+  "mercado": {
+   "n": 5,
+   "p25": 28749,
+   "mediana": 31495
+  },
+  "ratio_mercado": 1.031,
+  "motivo": "precio normal (103 % del cuartil bajo de 16758)"
+ },
+ {
+  "fecha": "2026-10-31T18:40:13.521149+00:00",
+  "marca": "Rolex",
+  "titulo": "#20-L, Vintage Rolex knockoff Women's watch gold tone",
+  "total": 38.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137887628439",
+  "item_id": "v1|137887628439|0",
+  "triage": {
+   "modelo": "Reloj de fantasía estilo Rolex (réplica o 'knockoff', no Rolex genuino)",
+   "referencia": null,
+   "precio_justo_usd": 20,
+   "interesante": false,
+   "nota": "El título dice 'knockoff' y el reloj de tono dorado con esfera rosada y brazalete parece de fantasía; no tiene valor de reventa como Rolex."
+  },
+  "motivo": "triage: El título dice 'knockoff' y el reloj de tono dorado con esfera rosada y brazalete parece de fantasía; no tiene valor de reventa como Rolex. (justo 20)"
+ },
+ {
+  "fecha": "2026-10-31T18:40:13.521149+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II Bruce Wayne on Jubilee 126710GRNR Factory Stickers 2026",
+  "total": 23900.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/287694931479",
+  "item_id": "v1|287694931479|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 62,
+   "p25": 21800,
+   "mediana": 22990
+  },
+  "ratio_mercado": 1.096,
+  "motivo": "precio normal (110 % del cuartil bajo de 126710GRNR)"
  }
 ]
