@@ -2,29 +2,6 @@
  {
   "fecha": "2026-10-29T19:23:42.013090+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Carrera CV201AE.FC6233 Goodwood Limited Edition RACING Watch Papers",
-  "total": 4995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/377606461155",
-  "item_id": "v1|377606461155|0",
-  "referencia": "CV201AE.FC6233",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "TAG Heuer Carrera Goodwood Limited Edition (cronógrafo automático, acero, bisel taquimétrico, correa de caucho perforada)",
-   "referencia": "CV201AE.FC6233",
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "Edición limitada de acero con buen estado; el precio pedido de US$4995 supera el valor de venta cerrada, aunque el listado no aclara si incluye reloj completo o solo papeles."
-  },
-  "motivo": "triage: Edición limitada de acero con buen estado; el precio pedido de US$4995 supera el valor de venta cerrada, aunque el listado no aclara si incluye reloj completo o solo papeles. (justo 2800)"
- },
- {
-  "fecha": "2026-10-29T19:23:42.013090+00:00",
-  "marca": "TAG Heuer",
   "titulo": "TAG HEUER LADIES CARRERA WV2410.BA0793 AUTOMATIC DIAMOND BLACK SWISS STEEL WATCH",
   "total": 1995.0,
   "condicion": "Pre-owned - Good",
@@ -11177,5 +11154,28 @@
    "nota": "Rolex Precision de dama vintage se vende por unos cientos de dólares aun en oro macizo; la foto solo muestra la cabeza sin correa, no se aprecia la corona ni el marcaje 18k, y el precio pedido de US$2195 es muy superior al valor real."
   },
   "motivo": "triage: Rolex Precision de dama vintage se vende por unos cientos de dólares aun en oro macizo; la foto solo muestra la cabeza sin correa, no se aprecia la corona ni el marcaje 18k, y el precio pedido de US$2195 es muy superior al valor real. (justo 300)"
+ },
+ {
+  "fecha": "2026-10-31T23:55:22.454120+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Date 115210",
+  "total": 5875.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407329992482",
+  "item_id": "v1|407329992482|0",
+  "referencia": "115210",
+  "mercado": {
+   "n": 2,
+   "p25": 6805,
+   "mediana": 7900
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date (Datejust de 34 mm), esfera plateada con números romanos, bisel acanalado, brazalete Oyster de acero",
+   "referencia": "115210",
+   "precio_justo_usd": 5400,
+   "interesante": false,
+   "nota": "Precio pedido de US$5.875 está por encima del valor de venta cerrada estimado para esta referencia en estado Good; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido de US$5.875 está por encima del valor de venta cerrada estimado para esta referencia en estado Good; no hay descuento suficiente. (justo 5400)"
  }
 ]
