@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-29T16:38:42.366843+00:00",
   "marca": "Omega",
-  "titulo": "Omega Seamaster Day/Date Vintage Automatic Men's Watch",
-  "total": 1895.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137884442377",
-  "item_id": "v1|137884442377|0",
-  "triage": {
-   "modelo": "Omega Geneve (posible Seamaster Day-Date) automático vintage, caja chapada en oro, esfera negra con ventana día/fecha",
-   "referencia": null,
-   "precio_justo_usd": 900,
-   "interesante": false,
-   "nota": "Modelo vintage de chapa de oro, probablemente años 70; el precio pedido supera con holgura lo que se vende realmente, aunque la referencia exacta no es verificable en la foto."
-  },
-  "motivo": "triage: Modelo vintage de chapa de oro, probablemente años 70; el precio pedido supera con holgura lo que se vende realmente, aunque la referencia exacta no es verificable en la foto. (justo 900)"
- },
- {
-  "fecha": "2026-10-29T16:38:42.366843+00:00",
-  "marca": "Omega",
   "titulo": "Vintage Omega Seamaster Reference # FO3647 Automatic 34mm Watch With Linen Dail!",
   "total": 950.0,
   "condicion": "Pre-owned - Good",
@@ -11348,5 +11331,22 @@
    "nota": "Precio pedido de US$4330 muy por encima del mercado secundario para un Tank Must de acero usado con caja y papeles; no es una oportunidad."
   },
   "motivo": "triage: Precio pedido de US$4330 muy por encima del mercado secundario para un Tank Must de acero usado con caja y papeles; no es una oportunidad. (justo 2500)"
+ },
+ {
+  "fecha": "2026-10-31T00:54:39.608414+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu W6920046 - Box and Papers",
+  "total": 4200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168827611308",
+  "item_id": "v1|168827611308|0",
+  "referencia": "W6920046",
+  "mercado": {
+   "n": 24,
+   "p25": 4500,
+   "mediana": 4909
+  },
+  "ratio_mercado": 0.933,
+  "motivo": "precio normal (93 % del cuartil bajo de W6920046)"
  }
 ]
