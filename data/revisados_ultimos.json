@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-10-29T16:53:44.591395+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA De VILLE DYNAMIC MEN'S WATCH AUTOMATIC ALL S/S SAPPHIRE LEA NEW",
-  "total": 1800.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/336869162405",
-  "item_id": "v1|336869162405|0",
-  "triage": {
-   "modelo": "Omega De Ville Dynamic (día-fecha, caja y bisel dorados, esfera marrón degradada, correa de piel)",
-   "referencia": null,
-   "precio_justo_usd": 450,
-   "interesante": false,
-   "nota": "La foto muestra una pieza de aspecto vintage con caja dorada, pero el título dice acero y 'nuevo con caja y papeles'. La descripción no coincide con lo visible; verificar referencia, año y origen antes de comprar."
-  },
-  "motivo": "triage: La foto muestra una pieza de aspecto vintage con caja dorada, pero el título dice acero y 'nuevo con caja y papeles'. La descripción no coincide con lo visible; verificar referencia, año y origen antes de comprar. (justo 450)"
- },
- {
-  "fecha": "2026-10-29T16:53:44.591395+00:00",
   "marca": "TAG Heuer",
   "titulo": "New Tag Heuer Aquaracer Professional 200 Men's Watch CBP1113.BA0627",
   "total": 2480.0,
@@ -11328,5 +11311,22 @@
    "nota": "La foto confirma un Black Bay bicolor con esfera champán, pero no puedo verificar la referencia ni el tamaño. Con caja y papeles, se vende en gris cerca o algo por debajo de retail, así que US$5,995 no tiene descuento claro."
   },
   "motivo": "triage: La foto confirma un Black Bay bicolor con esfera champán, pero no puedo verificar la referencia ni el tamaño. Con caja y papeles, se vende en gris cerca o algo por debajo de retail, así que US$5,995 no tiene descuento claro. (justo 4600)"
+ },
+ {
+  "fecha": "2026-10-31T02:54:51.902203+00:00",
+  "marca": "Rolex",
+  "titulo": "VINTAGE ROLEX 6420 Oyster Speedking Steel 31mm Year 1954",
+  "total": 3495.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227590790677",
+  "item_id": "v1|227590790677|0",
+  "referencia": "6420",
+  "mercado": {
+   "n": 5,
+   "p25": 2835,
+   "mediana": 2999
+  },
+  "ratio_mercado": 1.233,
+  "motivo": "precio normal (123 % del cuartil bajo de 6420)"
  }
 ]
