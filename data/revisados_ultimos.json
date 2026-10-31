@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T18:23:42.159237+00:00",
-  "marca": "Jaeger-LeCoultre",
-  "titulo": "Jaeger-LeCoultre Master Moon Steel Automatic 37mm Watch Q143842A",
-  "total": 7450.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287690230110",
-  "item_id": "v1|287690230110|0",
-  "triage": {
-   "modelo": "Jaeger-LeCoultre Master Ultra Thin Moon (acero, esfera plateada con fase lunar)",
-   "referencia": "Q143842A (según título; verificar con la caja o el reverso)",
-   "precio_justo_usd": 6000,
-   "interesante": false,
-   "nota": "Precio pedido de 7450 USD está por encima del rango de venta cerrada estimado para este modelo en estado excelente; no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido de 7450 USD está por encima del rango de venta cerrada estimado para este modelo en estado excelente; no hay descuento suficiente. (justo 6000)"
- },
- {
-  "fecha": "2026-10-29T18:23:42.159237+00:00",
-  "marca": "IWC",
-  "titulo": "IWC Portofino IW356518 150 Years Blue Stainless Steel Automatic 40mm Watch",
-  "total": 4073.81,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307255773824",
-  "item_id": "v1|307255773824|0",
-  "referencia": "IW356518",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "IWC Portofino Automatic 40 mm, esfera azul, acero, correa de cuero negra",
-   "referencia": "IW356518",
-   "precio_justo_usd": 3900,
-   "interesante": false,
-   "nota": "El precio pedido está en línea con el mercado de segunda mano para esta referencia; no alcanza el descuento del 15 % necesario."
-  },
-  "motivo": "triage: El precio pedido está en línea con el mercado de segunda mano para esta referencia; no alcanza el descuento del 15 % necesario. (justo 3900)"
- },
- {
   "fecha": "2026-10-29T18:38:42.716255+00:00",
   "marca": "Rolex",
   "titulo": "New Stickered Rolex GMT-Master II 126710 BLRO Pepsi 40mm 126710 BLRO Box Papers",
@@ -11263,5 +11223,39 @@
   },
   "ratio_mercado": 0.961,
   "motivo": "precio normal (96 % del cuartil bajo de 124300)"
+ },
+ {
+  "fecha": "2026-10-31T19:55:23.200469+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 16013 36mm 2 Tone Stainless Steel 18k Yellow Gold No Box No Papers.",
+  "total": 6300.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257825817304",
+  "item_id": "v1|257825817304|0",
+  "referencia": "16013",
+  "mercado": {
+   "n": 22,
+   "p25": 1815,
+   "mediana": 4700
+  },
+  "ratio_mercado": 3.471,
+  "motivo": "precio normal (347 % del cuartil bajo de 16013)"
+ },
+ {
+  "fecha": "2026-10-31T19:55:23.200469+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT Master II Root Beer Steel Yellow Gold Mens Watch 16713 1999",
+  "total": 15075.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366774301203",
+  "item_id": "v1|366774301203|0",
+  "referencia": "16713",
+  "mercado": {
+   "n": 41,
+   "p25": 12090,
+   "mediana": 12989
+  },
+  "ratio_mercado": 1.247,
+  "motivo": "precio normal (125 % del cuartil bajo de 16713)"
  }
 ]
