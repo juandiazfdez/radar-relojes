@@ -2,29 +2,6 @@
  {
   "fecha": "2026-10-29T17:08:42.338366+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Santos de Cartier WSSA0030",
-  "total": 8275.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/237151117630",
-  "item_id": "v1|237151117630|0",
-  "referencia": "WSSA0030",
-  "mercado": {
-   "n": 4,
-   "p25": 8305,
-   "mediana": 8400
-  },
-  "triage": {
-   "modelo": "Santos de Cartier Large (acero, esfera azul, automático)",
-   "referencia": "WSSA0030",
-   "precio_justo_usd": 6500,
-   "interesante": false,
-   "nota": "Precio pedido de 8275 USD está por encima del mercado secundario para nuevo con caja y papeles; no cumple el umbral de 15 % por debajo."
-  },
-  "motivo": "triage: Precio pedido de 8275 USD está por encima del mercado secundario para nuevo con caja y papeles; no cumple el umbral de 15 % por debajo. (justo 6500)"
- },
- {
-  "fecha": "2026-10-29T17:08:42.338366+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Santos GTS WSSA0037 Men's Automatic Watch Stainless Steel (PZ1005799)",
   "total": 6900.0,
   "condicion": "Pre-owned - Good",
@@ -11323,5 +11300,22 @@
   },
   "ratio_justo": 1.155,
   "motivo": "precio normal segun revision (116 % del justo 2900)"
+ },
+ {
+  "fecha": "2026-10-31T04:09:52.459727+00:00",
+  "marca": "Rolex",
+  "titulo": "rolex watch men",
+  "total": 2500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820298480602",
+  "item_id": "v1|820298480602|0",
+  "triage": {
+   "modelo": "Rolex Datejust (aparente oro amarillo, bisel acanalado, esfera champagne con marcadores que parecen diamantes, brazalete Jubilee)",
+   "referencia": null,
+   "precio_justo_usd": 11000,
+   "interesante": false,
+   "nota": "Si fuera un Datejust de oro macizo real, valdria bastante mas que US$2,500, pero la foto es poco nitida, el titulo es generico y el precio es demasiado bajo para oro macizo. Parece chapado en oro o replica; no es oportunidad sin verificar."
+  },
+  "motivo": "triage: Si fuera un Datejust de oro macizo real, valdria bastante mas que US$2,500, pero la foto es poco nitida, el titulo es generico y el precio es demasiado bajo para oro macizo. Parece chapado en oro o replica; no es oportunidad sin verificar. (justo 11000)"
  }
 ]
