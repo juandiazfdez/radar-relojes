@@ -2,30 +2,6 @@
  {
   "fecha": "2026-10-29T16:53:44.591395+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex 40mm Submariner Date Black Ceramic Steel 116610LN - Box No Card",
-  "total": 10900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800852370739",
-  "item_id": "v1|800852370739|0",
-  "referencia": "16610LN",
-  "mercado": {
-   "n": 59,
-   "p25": 12899,
-   "mediana": 13500
-  },
-  "ratio_mercado": 0.845,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 10800,
-   "riesgo_autenticidad": "medio",
-   "estado": "Buen estado de uso: bisel y cristal limpios, brazalete con desgaste normal de cepillado. Solo caja, sin tarjeta ni papeles."
-  },
-  "ratio_justo": 1.009,
-  "motivo": "precio normal segun revision (101 % del justo 10800)"
- },
- {
-  "fecha": "2026-10-29T16:53:44.591395+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Date 34mm Silver On Silver Stainless Steel W/ Papers",
   "total": 5875.0,
   "condicion": "Pre-owned - Excellent",
@@ -11335,5 +11311,22 @@
    "nota": "No se ven la corona de Rolex ni el movimiento, y el listado indica que no funciona (para piezas). Sin verificar la marca ni el estado, el precio de 1204 USD supera lo que se paga por un proyecto así."
   },
   "motivo": "triage: No se ven la corona de Rolex ni el movimiento, y el listado indica que no funciona (para piezas). Sin verificar la marca ni el estado, el precio de 1204 USD supera lo que se paga por un proyecto así. (justo 1000)"
+ },
+ {
+  "fecha": "2026-10-31T01:54:40.091753+00:00",
+  "marca": "Cartier",
+  "titulo": "Vintage Must de Cartier Tank Watch 925 Vermeil Mechanical + Box & COA OR G 20M",
+  "total": 1464.95,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257826187098",
+  "item_id": "v1|257826187098|0",
+  "triage": {
+   "modelo": "Must de Cartier Tank (vermeil 925, caja tipo Large/Medium, esfera crema, correa de piel negra)",
+   "referencia": null,
+   "precio_justo_usd": 600,
+   "interesante": false,
+   "nota": "Must de Cartier en plata vermeil con caja y certificado; se vende normalmente entre US$500 y 700. El listado pide US$1465, muy por encima del valor de mercado. El título dice mecánico, pero la mayoría de estos modelos son de cuarzo."
+  },
+  "motivo": "triage: Must de Cartier en plata vermeil con caja y certificado; se vende normalmente entre US$500 y 700. El listado pide US$1465, muy por encima del valor de mercado. El título dice mecánico, pero la mayoría de estos modelos son de cuarzo. (justo 600)"
  }
 ]
