@@ -1,29 +1,6 @@
 [
  {
   "fecha": "2026-10-29T17:23:41.910798+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai Luminor Marine Speccio Blu 44MM Automatic Stainless Steel PAM001316",
-  "total": 6955.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/227588918756",
-  "item_id": "v1|227588918756|0",
-  "referencia": "PAM001316",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Panerai Luminor 1950 3 Days Automatic (Marina), acero, esfera azul Speccio, 44 mm",
-   "referencia": "PAM01316",
-   "precio_justo_usd": 7200,
-   "interesante": false,
-   "nota": "Precio pedido cercano al valor de mercado para esta referencia en estado excelente; no hay descuento de al menos 15 % y no puedo verificar caja, papeles ni autenticidad solo con la foto."
-  },
-  "motivo": "triage: Precio pedido cercano al valor de mercado para esta referencia en estado excelente; no hay descuento de al menos 15 % y no puedo verificar caja, papeles ni autenticidad solo con la foto. (justo 7200)"
- },
- {
-  "fecha": "2026-10-29T17:23:41.910798+00:00",
   "marca": "Omega",
   "titulo": "💥Omega SPEEDMASTER Professional Watch 18K GOLD Full Set REF 310.62.42.50.99.001",
   "total": 23061.0,
@@ -11342,5 +11319,22 @@
    "nota": "Modelo de producción actual que suele venderse cerca o por encima de retail en el mercado secundario; el precio pedido de US$14.499 está bien por encima de ese rango."
   },
   "motivo": "triage: Modelo de producción actual que suele venderse cerca o por encima de retail en el mercado secundario; el precio pedido de US$14.499 está bien por encima de ese rango. (justo 12800)"
+ },
+ {
+  "fecha": "2026-10-31T07:39:52.416605+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 116234 “Wimbledon” | Full Set 2020",
+  "total": 15995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168828261239",
+  "item_id": "v1|168828261239|0",
+  "referencia": "116234",
+  "mercado": {
+   "n": 45,
+   "p25": 9000,
+   "mediana": 9525
+  },
+  "ratio_mercado": 1.777,
+  "motivo": "precio normal (178 % del cuartil bajo de 116234)"
  }
 ]
