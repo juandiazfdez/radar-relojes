@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T23:54:40.291118+00:00",
+ "actualizado": "2026-10-31T00:09:40.320886+00:00",
  "ventana_horas": 2.0,
  "marcas": [
   "Rolex",
@@ -7,84 +7,15 @@
   "Tudor"
  ],
  "corrida": {
-  "nuevos_vistos": 4,
+  "nuevos_vistos": 7,
   "descartes": {
-   "precio_normal": 2,
-   "titulo": 2
+   "titulo": 4,
+   "triage": 2,
+   "precio_normal": 1
   },
   "alertas_nuevas": 0,
   "llamadas_ebay": 5,
   "cuota_agotada": false
  },
- "alertas_hoy": [
-  {
-   "fecha": "2026-10-30T18:24:27.268978+00:00",
-   "marca": "Tudor",
-   "titulo": "Tudor Prince Date Day 76213 36mm Two-Tone Champagne Linen",
-   "precio": 1800.0,
-   "envio": 0.0,
-   "total": 1800.0,
-   "mercado": {
-    "fecha": "2026-10-30",
-    "consulta": "Tudor 76213",
-    "n": 7,
-    "mediana": 3039,
-    "p25": 2600,
-    "p75": 3295,
-    "min": 2275,
-    "max": 3500
-   },
-   "triage": null,
-   "vendedor": "gor-9230",
-   "valoraciones": 2,
-   "pct_positivo": "100.0",
-   "url": "https://www.ebay.com/itm/237153121389",
-   "item_id": "v1|237153121389|0",
-   "info": {
-    "departamento": "Men",
-    "referencia": "76213",
-    "modelo_esp": "TUDOR Prince",
-    "caja_mm": "36 mm",
-    "material": "Stainless Steel",
-    "ano": null,
-    "movimiento": "Mechanical (Automatic)",
-    "caja_original": "No",
-    "papeles": "No",
-    "condicion": "Pre-owned - Excellent",
-    "condicion_id": "2990",
-    "condicion_desc": "",
-    "garantia_autenticidad": false,
-    "devoluciones": false,
-    "amarillas": [],
-    "imagenes": [
-     "https://i.ebayimg.com/images/g/C~4AAeSwoMtq5N5p/s-l1600.jpg",
-     "https://i.ebayimg.com/images/g/z3MAAeSwoMFq5N5r/s-l1600.jpg",
-     "https://i.ebayimg.com/images/g/nW0AAeSwBElq5N5r/s-l1600.jpg",
-     "https://i.ebayimg.com/images/g/eJoAAeSwzjFq5N5r/s-l1600.jpg",
-     "https://i.ebayimg.com/images/g/lNYAAeSw-CVq5N5q/s-l1600.jpg",
-     "https://i.ebayimg.com/images/g/Y1QAAeSwgzNq5N5s/s-l1600.jpg"
-    ]
-   },
-   "claude": {
-    "veredicto": "alerta",
-    "modelo": "Tudor Prince Date-Day 76213, 36mm, acero y oro 18k, esfera champagne 'linen' (texturizada), automático, brazalete Jubilee",
-    "estado": "Buen estado de uso, fondo y cierre rayados, sin caja ni papeles",
-    "riesgo_autenticidad": "medio",
-    "completo": false,
-    "razones": [
-     "Las fotos parecen propias, con el mismo fondo en las cuatro. Se ven esfera, fondo, cierre y brazalete, y no hay señales de fotos de catálogo ni robadas.",
-     "La esfera 'linen' es auténtica para el 76213: escudo Tudor, 'PRINCE DATE+DAY', 'ROTOR SELF-WINDING' y 'SWISS MADE' abajo, con lupa de fecha y ventana de día. No veo repintado ni relume evidente.",
-     "El fondo muestra 'TUDOR PRINCE GENEVA' con tres escudos grabados y borde estriado. El cierre lleva el escudo Tudor y las asas tienen marcas '631B'. Todo es coherente con un Prince Date-Day de los años 90.",
-     "La corona dorada y el bisel estriado de oro son correctos. El brazalete Jubilee bicolor parece original, con estiramiento normal por la edad.",
-     "Faltan fotos del movimiento, algo importante en un reloj de este tipo. Lo mínimo sería pedir el número de serie, una foto del movimiento y un vídeo de la cuerda y la fecha. Con eso se descartaría una esfera o aguja reemplazada, o un calibre que no sea el original.",
-     "El anuncio dice 'Stainless Steel' y no menciona el oro. No indica año, no tiene descripción, no ofrece devoluciones ni garantía de autenticidad, y el vendedor tiene solo 2 valoraciones. Todo eso suma riesgo.",
-     "Sin caja ni papeles. El fondo y el cierre tienen muchos rayones y la caja podría estar pulida. El estado 'Excellent' parece algo generoso.",
-     "El precio de US$1,800 está claramente por debajo de los comparables pedidos (mediana 3,039, cuartil bajo 2,600). Esos precios están inflados, y los cierres reales de un 76213 bicolor rondan US$2,300-2,800. La esfera linen puede tener una pequeña prima. Aun descontando el riesgo y la falta de devolución, el margen es bueno si la pieza se verifica."
-    ],
-    "precio_justo_usd": 2300,
-    "precio_reventa_rd_usd": 2500
-   },
-   "ratio_justo": 0.783
-  }
- ]
+ "alertas_hoy": []
 }

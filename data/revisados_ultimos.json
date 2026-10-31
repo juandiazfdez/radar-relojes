@@ -2,57 +2,6 @@
  {
   "fecha": "2026-10-29T16:23:42.233731+00:00",
   "marca": "TAG Heuer",
-  "titulo": "Tag Heuer Formula 1 Automatic Stainless Steel Watch",
-  "total": 1730.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267827331630",
-  "item_id": "v1|267827331630|0",
-  "triage": {
-   "modelo": "TAG Heuer Formula 1 Automatic, esfera gris, bisel tachimétrico, acero, 41 mm aprox.",
-   "referencia": "WAZ2011.BA0842 (probable, no confirmada en la imagen)",
-   "precio_justo_usd": 850,
-   "interesante": false,
-   "nota": "Formula 1 de acero usada se vende aprox. US$700-950 en EE. UU.; el precio pedido de US$1730 está muy por encima del mercado y cerca del retail."
-  },
-  "motivo": "triage: Formula 1 de acero usada se vende aprox. US$700-950 en EE. UU.; el precio pedido de US$1730 está muy por encima del mercado y cerca del retail. (justo 850)"
- },
- {
-  "fecha": "2026-10-29T16:23:42.233731+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "Tag Heuer 2000 Exclusive Professional 200M Quartz Stainless Steel Watch",
-  "total": 914.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820292258326",
-  "item_id": "v1|820292258326|0",
-  "triage": {
-   "modelo": "TAG Heuer 2000 Exclusive Professional 200M (cuarzo, acero), posiblemente versión cronógrafo según la esfera",
-   "referencia": null,
-   "precio_justo_usd": 450,
-   "interesante": false,
-   "nota": "Precio pedido de $914 muy por encima del valor de venta de un 2000 Exclusive de cuarzo usado (~$350-550). La esfera de la foto parece cronógrafo, no coincide del todo con el título; referencia no verificable."
-  },
-  "motivo": "triage: Precio pedido de $914 muy por encima del valor de venta de un 2000 Exclusive de cuarzo usado (~$350-550). La esfera de la foto parece cronógrafo, no coincide del todo con el título; referencia no verificable. (justo 450)"
- },
- {
-  "fecha": "2026-10-29T16:23:42.233731+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "Tag Heuer Formula 1 Professional Quartz Stainless Steel Watch",
-  "total": 914.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267827331624",
-  "item_id": "v1|267827331624|0",
-  "triage": {
-   "modelo": "TAG Heuer Formula 1 Professional (cuarzo, acero, bisel con escala, correa de caucho azul)",
-   "referencia": null,
-   "precio_justo_usd": 250,
-   "interesante": false,
-   "nota": "Modelo cuarzo de la serie F1 de gama de entrada; por estado 'Good' y la referencia sin confirmar, se vende en torno a 200-300 USD. El precio pedido de 914 USD está muy por encima del mercado."
-  },
-  "motivo": "triage: Modelo cuarzo de la serie F1 de gama de entrada; por estado 'Good' y la referencia sin confirmar, se vende en torno a 200-300 USD. El precio pedido de 914 USD está muy por encima del mercado. (justo 250)"
- },
- {
-  "fecha": "2026-10-29T16:23:42.233731+00:00",
-  "marca": "TAG Heuer",
   "titulo": "Tag Heuer 2000 Exclusive Professional 200M Quartz Stainless Steel Watch",
   "total": 914.0,
   "condicion": "Pre-owned - Good",
@@ -11342,5 +11291,62 @@
   },
   "ratio_mercado": 0.881,
   "motivo": "precio normal (88 % del cuartil bajo de 79830RB)"
+ },
+ {
+  "fecha": "2026-10-31T00:09:40.320886+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date 14kt Yellow Gold Chevy-Pontiac Award Wristwatch",
+  "total": 1220.0,
+  "condicion": "New with box and papers",
+  "url": "https://goldin.co",
+  "item_id": "v1|366772500452|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date 14k oro amarillo (brazalete Jubilee, esfera champán, versión premio Chevy-Pontiac)",
+   "referencia": "15208 o similar (no confirmada desde la foto)",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio muy bajo para oro 14k, pero el listado dice 'nuevo con caja y papeles', lo que no encaja con una pieza de premio antigua. Hay que verificar condición, autenticidad y documentación antes de considerarlo."
+  },
+  "motivo": "triage: Precio muy bajo para oro 14k, pero el listado dice 'nuevo con caja y papeles', lo que no encaja con una pieza de premio antigua. Hay que verificar condición, autenticidad y documentación antes de considerarlo. (justo 4000)"
+ },
+ {
+  "fecha": "2026-10-31T00:09:40.320886+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu WSBB0015 - Box and Papers",
+  "total": 4850.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168827543128",
+  "item_id": "v1|168827543128|0",
+  "referencia": "WSBB0015",
+  "mercado": {
+   "n": 1,
+   "p25": 5296,
+   "mediana": 5296
+  },
+  "triage": {
+   "modelo": "Cartier Ballon Bleu 42 mm, caja de acero con PVD negro, esfera negra y correa de piel negra",
+   "referencia": "WSBB0015",
+   "precio_justo_usd": 5500,
+   "interesante": false,
+   "nota": "El precio pedido está unos 12 % por debajo de la estimación conservadora de venta real con caja y papeles; no alcanza el umbral del 15 %."
+  },
+  "motivo": "triage: El precio pedido está unos 12 % por debajo de la estimación conservadora de venta real con caja y papeles; no alcanza el umbral del 15 %. (justo 5500)"
+ },
+ {
+  "fecha": "2026-10-31T00:09:40.320886+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 79030B-0001 Pre-owned Box & Papers",
+  "total": 3160.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137888312005",
+  "item_id": "v1|137888312005|0",
+  "referencia": "79030B-0001",
+  "mercado": {
+   "n": 14,
+   "p25": 3495,
+   "mediana": 3595
+  },
+  "ratio_mercado": 0.904,
+  "motivo": "precio normal (90 % del cuartil bajo de 79030B-0001)"
  }
 ]
