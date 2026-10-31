@@ -17360,13 +17360,13 @@
   "n": 0
  },
  "Rolex 114270|usado": {
-  "fecha": "2026-10-30",
+  "fecha": "2026-10-31",
   "consulta": "Rolex 114270",
-  "n": 8,
-  "mediana": 7356,
-  "p25": 6990,
+  "n": 9,
+  "mediana": 7250,
+  "p25": 6962,
   "p75": 7845,
-  "min": 6930,
+  "min": 6555,
   "max": 8105
  },
  "Cartier WSBB0028|usado": {
@@ -17523,5 +17523,15 @@
   "fecha": "2026-10-31",
   "consulta": "Cartier WSTA0137",
   "n": 0
+ },
+ "Cartier 1300|usado": {
+  "fecha": "2026-10-31",
+  "consulta": "Cartier 1300",
+  "n": 5,
+  "mediana": 4750,
+  "p25": 4500,
+  "p75": 4895,
+  "min": 4150,
+  "max": 5500
  }
 }

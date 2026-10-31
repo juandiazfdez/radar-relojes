@@ -1,57 +1,6 @@
 [
  {
   "fecha": "2026-10-29T16:53:44.591395+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Date 34mm Silver On Silver Stainless Steel W/ Papers",
-  "total": 5875.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147657003533",
-  "item_id": "v1|147657003533|0",
-  "triage": {
-   "modelo": "Rolex Date 34 mm (acero, esfera plateada, posible Datejust), brazalete tipo jubileo",
-   "referencia": "15200 (probable; no verificable en la foto)",
-   "precio_justo_usd": 6300,
-   "interesante": false,
-   "nota": "Por la foto no se distingue con certeza entre Date 34 y Datejust 36 (la pulsera jubileo sugiere Datejust). El precio pedido está solo ~7 % por debajo de la estimación, sin llegar al 15 % necesario. Hay que verificar referencia, año y papeles."
-  },
-  "motivo": "triage: Por la foto no se distingue con certeza entre Date 34 y Datejust 36 (la pulsera jubileo sugiere Datejust). El precio pedido está solo ~7 % por debajo de la estimación, sin llegar al 15 % necesario. Hay que verificar referencia, año y papeles. (justo 6300)"
- },
- {
-  "fecha": "2026-10-29T16:53:44.591395+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Datejust Automatic Watch Stainless Steel and Yellow Gold",
-  "total": 11765.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128162779129",
-  "item_id": "v1|128162779129|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36 mm acero y oro amarillo de 18k, bisel acanalado dorado, esfera champán con índices de barra, brazalete Jubilee",
-   "referencia": "16233 (probable, por bisel acanalado de oro y esfera champán; conviene verificar con el número de serie y la caja)",
-   "precio_justo_usd": 8000,
-   "interesante": false,
-   "nota": "Con este estado y sin confirmar caja y papeles, el precio pedido de $11.765 supera bastante el valor de venta cerrada para esta referencia."
-  },
-  "motivo": "triage: Con este estado y sin confirmar caja y papeles, el precio pedido de $11.765 supera bastante el valor de venta cerrada para esta referencia. (justo 8000)"
- },
- {
-  "fecha": "2026-10-29T16:53:44.591395+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Faberge Paris LP Vintage YG Watch 38303",
-  "total": 15539.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128162793988",
-  "item_id": "v1|128162793988|0",
-  "triage": {
-   "modelo": "Cartier Fabergé Paris LP vintage, oro amarillo 18k",
-   "referencia": "38303 (no verificada; el número podría ser serie o referencia)",
-   "precio_justo_usd": 7000,
-   "interesante": false,
-   "nota": "Vintage de oro amarillo con sello LP (Lucien Piccard); el precio pedido supera con holgura lo que se vende realmente. Sin fotos ni caja/papeles, la identificación de la edición Fabergé es incierta."
-  },
-  "motivo": "triage: Vintage de oro amarillo con sello LP (Lucien Piccard); el precio pedido supera con holgura lo que se vende realmente. Sin fotos ni caja/papeles, la identificación de la edición Fabergé es incierta. (justo 7000)"
- },
- {
-  "fecha": "2026-10-29T16:53:44.591395+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Francaise Small Ladies 2-tone Yellow Gold/Steel 20mmx 25mm Box/Apr",
   "total": 5050.0,
@@ -11328,5 +11277,56 @@
    "nota": "Must de Cartier en plata vermeil con caja y certificado; se vende normalmente entre US$500 y 700. El listado pide US$1465, muy por encima del valor de mercado. El título dice mecánico, pero la mayoría de estos modelos son de cuarzo."
   },
   "motivo": "triage: Must de Cartier en plata vermeil con caja y certificado; se vende normalmente entre US$500 y 700. El listado pide US$1465, muy por encima del valor de mercado. El título dice mecánico, pero la mayoría de estos modelos son de cuarzo. (justo 600)"
+ },
+ {
+  "fecha": "2026-10-31T02:24:52.147202+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Royal Cal. 710 Reference # 4444 1950'S Unisex",
+  "total": 1325.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198758829321",
+  "item_id": "v1|198758829321|0",
+  "triage": {
+   "modelo": "Rolex Oyster Royal (vintage, años 1950, esfera crema con índices arábigos)",
+   "referencia": "4444 (según título, no verificable en la imagen)",
+   "precio_justo_usd": 1550,
+   "interesante": false,
+   "nota": "Precio cercano al mercado, pero la foto no permite confirmar la referencia, el calibre ni la autenticidad de la esfera; requiere verificación presencial antes de comprar."
+  },
+  "motivo": "triage: Precio cercano al mercado, pero la foto no permite confirmar la referencia, el calibre ni la autenticidad de la esfera; requiere verificación presencial antes de comprar. (justo 1550)"
+ },
+ {
+  "fecha": "2026-10-31T02:24:52.147202+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer 1, 36mm, REF 114270, Fully Serviced in 2026",
+  "total": 6500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287693314232",
+  "item_id": "v1|287693314232|0",
+  "referencia": "114270",
+  "mercado": {
+   "n": 9,
+   "p25": 6962,
+   "mediana": 7250
+  },
+  "ratio_mercado": 0.934,
+  "motivo": "precio normal (93 % del cuartil bajo de 114270)"
+ },
+ {
+  "fecha": "2026-10-31T02:24:52.147202+00:00",
+  "marca": "Cartier",
+  "titulo": "1990s Cartier Panthere Jumbo Ref. 1300 Stainless Steel 29mm",
+  "total": 5550.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307257956650",
+  "item_id": "v1|307257956650|0",
+  "referencia": "1300",
+  "mercado": {
+   "n": 5,
+   "p25": 4500,
+   "mediana": 4750
+  },
+  "ratio_mercado": 1.233,
+  "motivo": "precio normal (123 % del cuartil bajo de 1300)"
  }
 ]
