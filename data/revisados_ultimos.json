@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-10-29T18:23:42.159237+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Superocean Heritage Men's Black Watch - U13313 44mm Box and Papers",
-  "total": 5500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128162885073",
-  "item_id": "v1|128162885073|0",
-  "referencia": "U13313",
-  "mercado": {
-   "n": 2,
-   "p25": 5000,
-   "mediana": 6145
-  },
-  "triage": {
-   "modelo": "Breitling Superocean Heritage II Chronograph 44 (la foto muestra bisel y corona en tono dorado/bronce, no todo acero)",
-   "referencia": "U13313 según el título; no lo puedo confirmar en la foto",
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "El precio pedido no está al menos 15% por debajo del mercado, y el título (acero, negro) no coincide con lo que se ve (bicolor); conviene verificar la referencia exacta antes de comprar."
-  },
-  "motivo": "triage: El precio pedido no está al menos 15% por debajo del mercado, y el título (acero, negro) no coincide con lo que se ve (bicolor); conviene verificar la referencia exacta antes de comprar. (justo 4800)"
- },
- {
-  "fecha": "2026-10-29T18:23:42.159237+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG HEUER LADIES FORMULA 1 WAC1215.BA0852 DIAMOND LADIES SWISS QUARTZ WATCH",
-  "total": 1795.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377606363392",
-  "item_id": "v1|377606363392|0",
-  "referencia": "WAC1215.BA0852",
-  "mercado": {
-   "n": 9,
-   "p25": 1245,
-   "mediana": 1409
-  },
-  "ratio_mercado": 1.442,
-  "motivo": "precio normal (144 % del cuartil bajo de WAC1215.BA0852)"
- },
- {
-  "fecha": "2026-10-29T18:23:42.159237+00:00",
   "marca": "TAG Heuer",
   "titulo": "TAG HEUER FORMULA 1 WAC1215.BA0861 DIAMOND LADIES SWISS CERAMIC LUXURY WATCH",
   "total": 2195.0,
@@ -11269,5 +11229,39 @@
    "nota": "El precio pedido de US$20,345 está muy por encima del valor de venta real de esta Panthère de oro cuarzo en estado usado; la referencia del título no se puede confirmar en la imagen."
   },
   "motivo": "triage: El precio pedido de US$20,345 está muy por encima del valor de venta real de esta Panthère de oro cuarzo en estado usado; la referencia del título no se puede confirmar en la imagen. (justo 14000)"
+ },
+ {
+  "fecha": "2026-10-31T19:25:22.704560+00:00",
+  "marca": "Rolex",
+  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
+  "total": 16450.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327432499769",
+  "item_id": "v1|327432499769|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date (acero, bisel negro, caja y papeles)",
+   "referencia": "116610LN o 126610LN (no confirmada en la foto)",
+   "precio_justo_usd": 13500,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor estimado para set completo; la referencia no se ve en las fotos, así que hay que verificar número de serie, papeles y estado de la caja."
+  },
+  "motivo": "triage: Precio pedido por encima del valor estimado para set completo; la referencia no se ve en las fotos, así que hay que verificar número de serie, papeles y estado de la caja. (justo 13500)"
+ },
+ {
+  "fecha": "2026-10-31T19:25:22.704560+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Watch New Black And Red Notebook  With Protective Sleeve",
+  "total": 40.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860101181880",
+  "item_id": "v1|860101181880|0",
+  "triage": {
+   "modelo": "Libreta o estuche de cartón negro con logo Tudor (no es un reloj)",
+   "referencia": null,
+   "precio_justo_usd": 15,
+   "interesante": false,
+   "nota": "La foto y el título muestran una libreta o caja de presentación Tudor, no un reloj. Sin movimiento ni esfera, no hay pieza que valorar."
+  },
+  "motivo": "triage: La foto y el título muestran una libreta o caja de presentación Tudor, no un reloj. Sin movimiento ni esfera, no hay pieza que valorar. (justo 15)"
  }
 ]
