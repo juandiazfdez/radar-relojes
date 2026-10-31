@@ -6910,13 +6910,13 @@
   "max": 12400
  },
  "Rolex 126600|usado": {
-  "fecha": "2026-10-30",
+  "fecha": "2026-10-31",
   "consulta": "Rolex 126600",
-  "n": 53,
+  "n": 54,
   "mediana": 13995,
   "p25": 12999,
   "p75": 14697,
-  "min": 11500,
+  "min": 11204,
   "max": 22999
  },
  "Rolex 16018|usado": {
@@ -17688,5 +17688,20 @@
   "p75": 5900,
   "min": 3060,
   "max": 8550
+ },
+ "Cartier W4TA0021|nuevo": {
+  "fecha": "2026-10-31",
+  "consulta": "Cartier W4TA0021",
+  "n": 0
+ },
+ "Cartier WE900851|usado": {
+  "fecha": "2026-10-31",
+  "consulta": "Cartier WE900851",
+  "n": 1,
+  "mediana": 18175,
+  "p25": 18175,
+  "p75": 18175,
+  "min": 18175,
+  "max": 18175
  }
 }
