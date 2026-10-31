@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-10-29T17:08:42.338366+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 New Rolex Oyster Perpetual 41mm - Beige Dial, 134300",
-  "total": 10699.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227588904479",
-  "item_id": "v1|227588904479|0",
-  "referencia": "134300",
-  "mercado": {
-   "n": 40,
-   "p25": 11299,
-   "mediana": 12049
-  },
-  "ratio_mercado": 0.947,
-  "motivo": "precio normal (95 % del cuartil bajo de 134300)"
- },
- {
-  "fecha": "2026-10-29T17:08:42.338366+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos de Cartier WSSA0030",
   "total": 8275.0,
@@ -11316,5 +11299,29 @@
   },
   "ratio_mercado": 0.977,
   "motivo": "precio normal (98 % del cuartil bajo de 6694)"
+ },
+ {
+  "fecha": "2026-10-31T03:54:52.493546+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster 2510",
+  "total": 3349.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198758993289",
+  "item_id": "v1|198758993289|0",
+  "referencia": "2510",
+  "mercado": {
+   "n": 25,
+   "p25": 4225,
+   "mediana": 4395
+  },
+  "ratio_mercado": 0.793,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 2900,
+   "riesgo_autenticidad": "medio",
+   "estado": "Buen estado con uso: rayones finos en el bisel y una pequeña abolladura sobre las 11, según el vendedor; sin caja ni papeles"
+  },
+  "ratio_justo": 1.155,
+  "motivo": "precio normal segun revision (116 % del justo 2900)"
  }
 ]
