@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-10-29T18:08:42.230050+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 126610LN Submariner",
-  "total": 18925.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/920085236946",
-  "item_id": "v1|920085236946|0",
-  "referencia": "126610LN",
-  "mercado": {
-   "n": 31,
-   "p25": 15975,
-   "mediana": 16295
-  },
-  "ratio_mercado": 1.185,
-  "motivo": "precio normal (118 % del cuartil bajo de 126610LN)"
- },
- {
-  "fecha": "2026-10-29T18:08:42.230050+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 28mm WE902073 3009 Factory Diamond Silver Steel Ladies Watch",
-  "total": 4025.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267827424120",
-  "item_id": "v1|267827424120|0",
-  "referencia": "WE902073",
-  "mercado": {
-   "n": 2,
-   "p25": 4215,
-   "mediana": 4215
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 28 mm, esfera de nácar con diamantes, caja y brazalete de cerámica blanca (la imagen no coincide con el acero indicado en el título)",
-   "referencia": "WE902073 (según el título; verificar)",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "La foto muestra cerámica blanca, no acero como dice el título; hay que confirmar material y referencia antes de comprar. Aun así, el precio pedido no queda 15 % o más por debajo del valor de venta real."
-  },
-  "motivo": "triage: La foto muestra cerámica blanca, no acero como dice el título; hay que confirmar material y referencia antes de comprar. Aun así, el precio pedido no queda 15 % o más por debajo del valor de venta real. (justo 3800)"
- },
- {
-  "fecha": "2026-10-29T18:08:42.230050+00:00",
   "marca": "Cartier",
   "titulo": "Vintage Cartier Santos Galbée  Stainless Steel Watch No Date Swiss",
   "total": 2945.0,
@@ -11318,5 +11278,39 @@
    "nota": "Pelagos 25717 nuevo con caja y papeles se mueve alrededor de US$3,300-3,800; el listado en US$5,288 está muy por encima del mercado."
   },
   "motivo": "triage: Pelagos 25717 nuevo con caja y papeles se mueve alrededor de US$3,300-3,800; el listado en US$5,288 está muy por encima del mercado. (justo 3500)"
+ },
+ {
+  "fecha": "2026-10-31T17:10:13.343606+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 24mm Stainless Steel Watch Eb0726lrxzsa",
+  "total": 4500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840078985325",
+  "item_id": "v1|840078985325|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Lady 24 mm bicolor (acero y oro amarillo), bisel acanalado, esfera champán",
+   "referencia": "67193 o 76193 (probable; no coincide con 'Eb0726lrxzsa')",
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "El título dice acero, pero la foto muestra bicolor con bisel de oro: revisar el listado. La referencia publicada no es válida. Con el precio pedido no hay descuento suficiente."
+  },
+  "motivo": "triage: El título dice acero, pero la foto muestra bicolor con bisel de oro: revisar el listado. La referencia publicada no es válida. Con el precio pedido no hay descuento suficiente. (justo 3900)"
+ },
+ {
+  "fecha": "2026-10-31T17:10:13.343606+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay Chrono 41mm PINK JUBILEE 79360N",
+  "total": 9150.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128166538695",
+  "item_id": "v1|128166538695|0",
+  "referencia": "79360N",
+  "mercado": {
+   "n": 57,
+   "p25": 4690,
+   "mediana": 5380
+  },
+  "ratio_mercado": 1.951,
+  "motivo": "precio normal (195 % del cuartil bajo de 79360N)"
  }
 ]
