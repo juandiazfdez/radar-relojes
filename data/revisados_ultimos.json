@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-10-29T17:08:42.338366+00:00",
-  "marca": "Breitling",
-  "titulo": "Vintage Breitling Navitimer Cosmonaute 809 Gold-Tone 24-Hour Chronograph",
-  "total": 4125.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/206661633993",
-  "item_id": "v1|206661633993|0",
-  "triage": {
-   "modelo": "Breitling Navitimer Cosmonaute 809 (chronógrafo de 24 horas, versión chapada en oro, según el título)",
-   "referencia": "809",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Precio pedido por encima de un estimado conservador para versión chapada en oro en estado Fair; verificar número de referencia, autenticidad y origen de la esfera y el movimiento antes de cualquier oferta."
-  },
-  "motivo": "triage: Precio pedido por encima de un estimado conservador para versión chapada en oro en estado Fair; verificar número de referencia, autenticidad y origen de la esfera y el movimiento antes de cualquier oferta. (justo 3500)"
- },
- {
-  "fecha": "2026-10-29T17:08:42.338366+00:00",
   "marca": "TAG Heuer",
   "titulo": "TAG Heuer Carrera CV2113 Automatic Chronograph | Vintage Racing Heritage",
   "total": 2085.0,
@@ -11336,5 +11319,28 @@
   },
   "ratio_mercado": 0.958,
   "motivo": "precio normal (96 % del cuartil bajo de W1556368)"
+ },
+ {
+  "fecha": "2026-10-31T05:54:51.544504+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Drive De Cartier WSNM0004",
+  "total": 4830.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267828727599",
+  "item_id": "v1|267828727599|0",
+  "referencia": "WSNM0004",
+  "mercado": {
+   "n": 3,
+   "p25": 4950,
+   "mediana": 5045
+  },
+  "triage": {
+   "modelo": "Cartier Drive de Cartier (acero, esfera plateada, numerales romanos, segundero pequeño y ventana de fecha, correa de cocodrilo negra)",
+   "referencia": "WSNM0004",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "El precio pedido de US$4,830 está por encima de lo que suele cerrar este modelo de acero usado en EE. UU.; la referencia exacta y el estado de caja y papeles no son verificables en la imagen."
+  },
+  "motivo": "triage: El precio pedido de US$4,830 está por encima de lo que suele cerrar este modelo de acero usado en EE. UU.; la referencia exacta y el estado de caja y papeles no son verificables en la imagen. (justo 4300)"
  }
 ]
