@@ -11945,12 +11945,12 @@
   "n": 0
  },
  "Rolex 126622|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-10-31",
   "consulta": "Rolex 126622",
-  "n": 20,
-  "mediana": 15997,
+  "n": 19,
+  "mediana": 15999,
   "p25": 15284,
-  "p75": 17000,
+  "p75": 16999,
   "min": 13958,
   "max": 18288
  },
@@ -17577,6 +17577,21 @@
  "Cartier WGTA0039|nuevo": {
   "fecha": "2026-10-31",
   "consulta": "Cartier WGTA0039",
+  "n": 0
+ },
+ "Rolex 118388|usado": {
+  "fecha": "2026-10-31",
+  "consulta": "Rolex 118388",
+  "n": 4,
+  "mediana": 45875,
+  "p25": 45720,
+  "p75": 87650,
+  "min": 41990,
+  "max": 87650
+ },
+ "Cartier WJPN0048|usado": {
+  "fecha": "2026-10-31",
+  "consulta": "Cartier WJPN0048",
   "n": 0
  }
 }
