@@ -2,46 +2,6 @@
  {
   "fecha": "2026-10-29T18:38:42.716255+00:00",
   "marca": "Rolex",
-  "titulo": "New Stickered Rolex GMT-Master II 126710 BLRO Pepsi 40mm 126710 BLRO Box Papers",
-  "total": 30593.8,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/900049429435",
-  "item_id": "v1|900049429435|0",
-  "referencia": "126710",
-  "mercado": {
-   "n": 79,
-   "p25": 19997,
-   "mediana": 20565
-  },
-  "ratio_mercado": 1.53,
-  "motivo": "precio normal (153 % del cuartil bajo de 126710)"
- },
- {
-  "fecha": "2026-10-29T18:38:42.716255+00:00",
-  "marca": "Rolex",
-  "titulo": "2020 Rolex Daytona 116500 LN Panda White Stainless Steel Ceramic 40mm Box Papers",
-  "total": 32632.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900049426313",
-  "item_id": "v1|900049426313|0",
-  "referencia": "116500",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Cosmograph Daytona (acero, bisel de cerámica, esfera blanca 'Panda')",
-   "referencia": "116500LN",
-   "precio_justo_usd": 28000,
-   "interesante": false,
-   "nota": "Precio pedido de US$32.633 por encima del valor de venta cerrada estimado para 116500LN de 2020 con caja y papeles; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$32.633 por encima del valor de venta cerrada estimado para 116500LN de 2020 con caja y papeles; no es una oportunidad. (justo 28000)"
- },
- {
-  "fecha": "2026-10-29T18:38:42.716255+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Submariner Stainless Steel Watch 116610LN",
   "total": 11000.0,
   "condicion": "Pre-owned - Excellent",
@@ -11257,5 +11217,39 @@
   },
   "ratio_mercado": 1.247,
   "motivo": "precio normal (125 % del cuartil bajo de 16713)"
+ },
+ {
+  "fecha": "2026-10-31T20:10:23.181198+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Datejust Two-Tone 18K Original Jubilee Bracelet papers",
+  "total": 12525.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860101276596",
+  "item_id": "v1|860101276596|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 bicolor (acero y oro 18K) con esfera champán y brazalete Jubilee",
+   "referencia": "16233 (probable, no confirmable solo con la foto)",
+   "precio_justo_usd": 10500,
+   "interesante": false,
+   "nota": "Precio pedido US$12.525 con envío, unos 19 % por encima de la venta cerrada estimada para esta referencia y estado. No hay descuento claro."
+  },
+  "motivo": "triage: Precio pedido US$12.525 con envío, unos 19 % por encima de la venta cerrada estimada para esta referencia y estado. No hay descuento claro. (justo 10500)"
+ },
+ {
+  "fecha": "2026-10-31T20:10:23.181198+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sea-Dweller 43 18k Yellow Gold/Steel Black Mens Watch +Card '21 126603",
+  "total": 19250.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117496934864",
+  "item_id": "v1|117496934864|0",
+  "referencia": "126603",
+  "mercado": {
+   "n": 40,
+   "p25": 17358,
+   "mediana": 18050
+  },
+  "ratio_mercado": 1.109,
+  "motivo": "precio normal (111 % del cuartil bajo de 126603)"
  }
 ]
