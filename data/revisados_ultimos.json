@@ -2,40 +2,6 @@
  {
   "fecha": "2026-10-29T16:23:42.233731+00:00",
   "marca": "TAG Heuer",
-  "titulo": "Tag Heuer 2000 Exclusive Professional 200M Quartz Stainless Steel Watch",
-  "total": 914.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820292258198",
-  "item_id": "v1|820292258198|0",
-  "triage": {
-   "modelo": "TAG Heuer 2000 Exclusive Professional 200M, cronógrafo de cuarzo en acero",
-   "referencia": "CN1110 (probable, no confirmada en la imagen)",
-   "precio_justo_usd": 750,
-   "interesante": false,
-   "nota": "Precio pedido de 914 USD por encima del valor de venta cerrada estimado para este cronógrafo de acero usado; la referencia exacta no se puede confirmar solo con la foto."
-  },
-  "motivo": "triage: Precio pedido de 914 USD por encima del valor de venta cerrada estimado para este cronógrafo de acero usado; la referencia exacta no se puede confirmar solo con la foto. (justo 750)"
- },
- {
-  "fecha": "2026-10-29T16:23:42.233731+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "Tag Heuer Formula 1 Professional Quartz Stainless Steel Watch",
-  "total": 768.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267827331603",
-  "item_id": "v1|267827331603|0",
-  "triage": {
-   "modelo": "TAG Heuer Formula 1 Professional (cuarzo), según el título; la foto parece corresponder más a un reloj tipo Luminox",
-   "referencia": null,
-   "precio_justo_usd": 180,
-   "interesante": false,
-   "nota": "Precio pedido muy superior al valor de mercado de un Formula 1 de cuarzo de uso; además, la foto no coincide claramente con un TAG Heuer, así que hay que verificar la marca antes de considerarlo."
-  },
-  "motivo": "triage: Precio pedido muy superior al valor de mercado de un Formula 1 de cuarzo de uso; además, la foto no coincide claramente con un TAG Heuer, así que hay que verificar la marca antes de considerarlo. (justo 180)"
- },
- {
-  "fecha": "2026-10-29T16:23:42.233731+00:00",
-  "marca": "TAG Heuer",
   "titulo": "Tag Heuer Formula 1 Lady Stainless Steel And Rubber Watch",
   "total": 768.0,
   "condicion": "Pre-owned - Good",
@@ -11348,5 +11314,39 @@
   },
   "ratio_mercado": 0.904,
   "motivo": "precio normal (90 % del cuartil bajo de 79030B-0001)"
+ },
+ {
+  "fecha": "2026-10-31T00:24:39.632419+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex GMT-Master II \"Bruce Wayne\" 126710GRNR —Oyster, Unworn, October 2026",
+  "total": 22050.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/366772524518",
+  "item_id": "v1|366772524518|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 62,
+   "p25": 21800,
+   "mediana": 22990
+  },
+  "ratio_mercado": 1.011,
+  "motivo": "precio normal (101 % del cuartil bajo de 126710GRNR)"
+ },
+ {
+  "fecha": "2026-10-31T00:24:39.632419+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos de Cartier Large ADLC WSSA0037 | June 2025 Complete Set",
+  "total": 8500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900050042373",
+  "item_id": "v1|900050042373|0",
+  "referencia": "WSSA0037",
+  "mercado": {
+   "n": 11,
+   "p25": 7750,
+   "mediana": 8425
+  },
+  "ratio_mercado": 1.097,
+  "motivo": "precio normal (110 % del cuartil bajo de WSSA0037)"
  }
 ]
