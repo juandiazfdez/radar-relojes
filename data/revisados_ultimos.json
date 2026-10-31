@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T18:08:42.230050+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Planet Ocean Ultra Deep 215.30.46.21.03.001 Full Set Excellent",
-  "total": 9210.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307254138085",
-  "item_id": "v1|307254138085|0",
-  "referencia": "215.30.46.21.03.001",
-  "mercado": {
-   "n": 7,
-   "p25": 9000,
-   "mediana": 9500
-  },
-  "ratio_mercado": 1.023,
-  "motivo": "precio normal (102 % del cuartil bajo de 215.30.46.21.03.001)"
- },
- {
-  "fecha": "2026-10-29T18:23:42.159237+00:00",
-  "marca": "Rolex",
-  "titulo": "Unpolished 2011 Rolex Submariner No-Date 14060 Steel Randomized 40mm Box Papers",
-  "total": 12232.97,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900049407501",
-  "item_id": "v1|900049407501|0",
-  "referencia": "14060",
-  "mercado": {
-   "n": 45,
-   "p25": 9895,
-   "mediana": 10675
-  },
-  "ratio_mercado": 1.236,
-  "motivo": "precio normal (124 % del cuartil bajo de 14060)"
- },
- {
-  "fecha": "2026-10-29T18:23:42.159237+00:00",
-  "marca": "Rolex",
-  "titulo": "2023 Rolex Explorer I 224270 Black Stainless Steel Oyster 40mm Watch Box Papers",
-  "total": 9683.36,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900049400972",
-  "item_id": "v1|900049400972|0",
-  "referencia": "224270",
-  "mercado": {
-   "n": 16,
-   "p25": 9674,
-   "mediana": 9940
-  },
-  "ratio_mercado": 1.001,
-  "motivo": "precio normal (100 % del cuartil bajo de 224270)"
- },
- {
   "fecha": "2026-10-29T18:23:42.159237+00:00",
   "marca": "Rolex",
   "titulo": "2024 CPO Rolex Milgauss 116400 White Orange Stainless Steel 40mm Watch Papers",
@@ -11300,5 +11249,56 @@
   },
   "ratio_mercado": 1.448,
   "motivo": "precio normal (145 % del cuartil bajo de W5310006)"
+ },
+ {
+  "fecha": "2026-10-31T18:10:13.107933+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Datejust 36mm Stainless Steel Watch Eb0926rxxzsa",
+  "total": 10500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840079122772",
+  "item_id": "v1|840079122772|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36mm acero con bisel acanalado (posible blanco) y esfera plateada con diamantes, brazalete Oyster",
+   "referencia": "116234 (probable; podría ser 126234 según la generación)",
+   "precio_justo_usd": 9500,
+   "interesante": false,
+   "nota": "El código del título (Eb0926rxxzsa) no es una referencia Rolex. Precio justo estimado a la baja para 116234 con esfera de diamantes, estado Good y sin confirmar caja/papeles; el pedido de 10.500 no está 15 % por debajo."
+  },
+  "motivo": "triage: El código del título (Eb0926rxxzsa) no es una referencia Rolex. Precio justo estimado a la baja para 116234 con esfera de diamantes, estado Good y sin confirmar caja/papeles; el pedido de 10.500 no está 15 % por debajo. (justo 9500)"
+ },
+ {
+  "fecha": "2026-10-31T18:10:13.107933+00:00",
+  "marca": "Rolex",
+  "titulo": "1975 Rolex Cellini 4082, 24.5mm, Gold Dial, 18K Yellow Gold Ladies Watch",
+  "total": 10100.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168829078847",
+  "item_id": "v1|168829078847|0",
+  "triage": {
+   "modelo": "Rolex Cellini (cushion, oro amarillo 18K, esfera dorada, brazalete de malla)",
+   "referencia": "4082",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Cellini vintage de dama en oro 18K con brazalete; venta cerrada típica en EE. UU. unos US$4.500-6.000 en buen estado. El precio pedido de US$10.100 está muy por encima, y la miniatura no permite verificar logos, movimiento ni autenticidad."
+  },
+  "motivo": "triage: Cellini vintage de dama en oro 18K con brazalete; venta cerrada típica en EE. UU. unos US$4.500-6.000 en buen estado. El precio pedido de US$10.100 está muy por encima, y la miniatura no permite verificar logos, movimiento ni autenticidad. (justo 5000)"
+ },
+ {
+  "fecha": "2026-10-31T18:10:13.107933+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay GMT Pepsi 79830RB Complete Set on Leather",
+  "total": 3250.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880068835897",
+  "item_id": "v1|880068835897|0",
+  "referencia": "79830RB",
+  "mercado": {
+   "n": 46,
+   "p25": 3799,
+   "mediana": 4000
+  },
+  "ratio_mercado": 0.855,
+  "motivo": "precio normal (86 % del cuartil bajo de 79830RB)"
  }
 ]
