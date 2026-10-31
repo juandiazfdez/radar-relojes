@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-10-29T17:38:41.789864+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Speedmaster 326.30.40.50.01.002",
-  "total": 4486.18,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/366769424053",
-  "item_id": "v1|366769424053|0",
-  "referencia": "326.30.40.50.01.002",
-  "mercado": {
-   "n": 1,
-   "p25": 4815,
-   "mediana": 4815
-  },
-  "triage": {
-   "modelo": "Omega Speedmaster Racing (cronógrafo Co-Axial, 40 mm, esfera blanca, brazalete de acero)",
-   "referencia": "326.30.40.50.01.002",
-   "precio_justo_usd": 4900,
-   "interesante": false,
-   "nota": "Precio cercano al mercado gris con caja y papeles, con solo ~8 % de descuento; la foto no muestra claramente el bisel taquimétrico de la Racing, así que conviene verificar la referencia."
-  },
-  "motivo": "triage: Precio cercano al mercado gris con caja y papeles, con solo ~8 % de descuento; la foto no muestra claramente el bisel taquimétrico de la Racing, así que conviene verificar la referencia. (justo 4900)"
- },
- {
-  "fecha": "2026-10-29T17:38:41.789864+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Super Avenger Chronograph Black Index Steel 48mm Watch A13370 Papers",
-  "total": 4010.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336869214647",
-  "item_id": "v1|336869214647|0",
-  "referencia": "A13370",
-  "mercado": {
-   "n": 41,
-   "p25": 3800,
-   "mediana": 5000
-  },
-  "ratio_mercado": 1.055,
-  "motivo": "precio normal (106 % del cuartil bajo de A13370)"
- },
- {
-  "fecha": "2026-10-29T17:38:41.789864+00:00",
   "marca": "Breitling",
   "titulo": "Breitling Superocean 36 A17316D21A151 with Full Set Circa 2020 Appx.",
   "total": 3200.0,
@@ -11330,5 +11290,39 @@
    "nota": "Precio pedido por encima de lo que se vende este modelo de cuarzo bicolor en estado Good; el título sugiere cuarzo y el valor depende de confirmarlo."
   },
   "motivo": "triage: Precio pedido por encima de lo que se vende este modelo de cuarzo bicolor en estado Good; el título sugiere cuarzo y el valor depende de confirmarlo. (justo 1250)"
+ },
+ {
+  "fecha": "2026-10-31T14:55:13.021950+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer 39mm – Ref. 214270 - PRE - OWNED",
+  "total": 8290.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206665756789",
+  "item_id": "v1|206665756789|0",
+  "referencia": "214270",
+  "mercado": {
+   "n": 24,
+   "p25": 8615,
+   "mediana": 9120
+  },
+  "ratio_mercado": 0.962,
+  "motivo": "precio normal (96 % del cuartil bajo de 214270)"
+ },
+ {
+  "fecha": "2026-10-31T14:55:13.021950+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX COSMOGRAPH DAYTONA 116520 - PRE - OWNED",
+  "total": 25990.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206665744599",
+  "item_id": "v1|206665744599|0",
+  "referencia": "116520",
+  "mercado": {
+   "n": 18,
+   "p25": 22433,
+   "mediana": 23648
+  },
+  "ratio_mercado": 1.159,
+  "motivo": "precio normal (116 % del cuartil bajo de 116520)"
  }
 ]
