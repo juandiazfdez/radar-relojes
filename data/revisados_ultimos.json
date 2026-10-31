@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T17:08:42.338366+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Carrera CV2113 Automatic Chronograph | Vintage Racing Heritage",
-  "total": 2085.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206661631830",
-  "item_id": "v1|206661631830|0",
-  "referencia": "CV2113",
-  "mercado": {
-   "n": 3,
-   "p25": 3200,
-   "mediana": 3225
-  },
-  "triage": {
-   "modelo": "TAG Heuer Carrera Calibre 16 (cronógrafo automático, esfera negra con subesferas)",
-   "referencia": "CV2113",
-   "precio_justo_usd": 1900,
-   "interesante": false,
-   "nota": "Precio pedido de 2085 USD supera el valor de venta cerrada estimado para un CV2113 de acero en estado Good; la foto es poco nítida y la correa de cuero no parece original, así que conviene verificar la referencia."
-  },
-  "motivo": "triage: Precio pedido de 2085 USD supera el valor de venta cerrada estimado para un CV2113 de acero en estado Good; la foto es poco nítida y la correa de cuero no parece original, así que conviene verificar la referencia. (justo 1900)"
- },
- {
-  "fecha": "2026-10-29T17:23:41.910798+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 42mm Automatic Watch W69016Z4",
-  "total": 4900.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407325036463",
-  "item_id": "v1|407325036463|0",
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 42 mm automático, acero, brazalete (visto en caja Cartier)",
-   "referencia": "W69016Z4",
-   "precio_justo_usd": 4700,
-   "interesante": false,
-   "nota": "Precio cercano al mercado de segunda mano para este modelo en acero con caja; no está al menos 15 % por debajo, y no se ven papeles ni detalles del estado."
-  },
-  "motivo": "triage: Precio cercano al mercado de segunda mano para este modelo en acero con caja; no está al menos 15 % por debajo, y no se ven papeles ni detalles del estado. (justo 4700)"
- },
- {
   "fecha": "2026-10-29T17:23:41.910798+00:00",
   "marca": "Panerai",
   "titulo": "Panerai Luminor Marine Speccio Blu 44MM Automatic Stainless Steel PAM001316",
@@ -11342,5 +11302,45 @@
    "nota": "El precio pedido de US$4,830 está por encima de lo que suele cerrar este modelo de acero usado en EE. UU.; la referencia exacta y el estado de caja y papeles no son verificables en la imagen."
   },
   "motivo": "triage: El precio pedido de US$4,830 está por encima de lo que suele cerrar este modelo de acero usado en EE. UU.; la referencia exacta y el estado de caja y papeles no son verificables en la imagen. (justo 4300)"
+ },
+ {
+  "fecha": "2026-10-31T06:39:51.934081+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36, Olive Green Roman VI/IX Diamonds Dial, Steel & Yellow Gold...",
+  "total": 21000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287693703022",
+  "item_id": "v1|287693703022|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 bicolor acero y oro amarillo, esfera verde oliva con numerales romanos y diamantes en VI/IX",
+   "referencia": "126233 (probable, no verificable en la foto)",
+   "precio_justo_usd": 15000,
+   "interesante": false,
+   "nota": "Precio pedido de US$21,000 supera en unos 40 % el valor de venta cerrada estimado para esta variante en EE. UU.; no es oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$21,000 supera en unos 40 % el valor de venta cerrada estimado para esta variante en EE. UU.; no es oportunidad. (justo 15000)"
+ },
+ {
+  "fecha": "2026-10-31T06:39:51.934081+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31 Yellow Gold & Steel White Roman Oyster 278243 BRAND NEW 2026",
+  "total": 14499.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/237153828448",
+  "item_id": "v1|237153828448|0",
+  "referencia": "278243",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 31 acero y oro amarillo, esfera blanca con numerales romanos, brazalete Oyster",
+   "referencia": "278243",
+   "precio_justo_usd": 12800,
+   "interesante": false,
+   "nota": "Modelo de producción actual que suele venderse cerca o por encima de retail en el mercado secundario; el precio pedido de US$14.499 está bien por encima de ese rango."
+  },
+  "motivo": "triage: Modelo de producción actual que suele venderse cerca o por encima de retail en el mercado secundario; el precio pedido de US$14.499 está bien por encima de ese rango. (justo 12800)"
  }
 ]
