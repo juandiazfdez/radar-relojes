@@ -1,46 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T16:38:42.366843+00:00",
-  "marca": "Omega",
-  "titulo": "Vintage Omega Seamaster Reference # FO3647 Automatic 34mm Watch With Linen Dail!",
-  "total": 950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237151054870",
-  "item_id": "v1|237151054870|0",
-  "triage": {
-   "modelo": "Omega Seamaster automático vintage (c. 1955-1960), caja chapada en oro, esfera crema tipo lino",
-   "referencia": null,
-   "precio_justo_usd": 550,
-   "interesante": false,
-   "nota": "La referencia 'FO3647' no es verificable y la caja parece chapada en oro, no maciza. El precio pedido de $950 está por encima del valor de mercado para este estado."
-  },
-  "motivo": "triage: La referencia 'FO3647' no es verificable y la caja parece chapada en oro, no maciza. El precio pedido de $950 está por encima del valor de mercado para este estado. (justo 550)"
- },
- {
-  "fecha": "2026-10-29T16:38:42.366843+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Super Avenger Chronograph Steel Auto 48mm Bracelet Watch A1337011/A699",
-  "total": 2950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940049955557",
-  "item_id": "v1|940049955557|0",
-  "referencia": "A1337011/A699",
-  "mercado": {
-   "n": 41,
-   "p25": 3800,
-   "mediana": 5000
-  },
-  "ratio_mercado": 0.776,
-  "claude": {
-   "veredicto": "alerta",
-   "precio_justo_usd": 3900,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Muy buen estado visual, serviciado, sin caja ni papeles"
-  },
-  "ratio_justo": 0.756,
-  "motivo": "ALERTA"
- },
- {
   "fecha": "2026-10-29T16:53:44.591395+00:00",
   "marca": "Rolex",
   "titulo": "1979 Rolex President Day-Date 18k Yellow Gold Bark Finish 36mm 18078 Box/Apr",
@@ -11348,5 +11307,39 @@
   },
   "ratio_mercado": 0.933,
   "motivo": "precio normal (93 % del cuartil bajo de W6920046)"
+ },
+ {
+  "fecha": "2026-10-31T01:24:39.724421+00:00",
+  "marca": "Rolex",
+  "titulo": "18K Rolex Solid Gold Case 1601 1601/8 Datejust (Not Stainless or Two-Tone)",
+  "total": 7089.98,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336871392532",
+  "item_id": "v1|336871392532|0",
+  "triage": {
+   "modelo": "Rolex Datejust vintage en oro amarillo de 18k, bisel acanalado, esfera plateada/champagne con indices de barra y ventana de fecha",
+   "referencia": "1601 (probable, por el titulo y el bisel acanalado; no verificable en la foto)",
+   "precio_justo_usd": 5200,
+   "interesante": false,
+   "nota": "Precio pedido de US$7090 por encima del valor de venta cerrada estimado para un 1601 de oro con correa de piel y estado Good; el titulo sugiere caja de oro, sin confirmar autenticidad ni estado interior."
+  },
+  "motivo": "triage: Precio pedido de US$7090 por encima del valor de venta cerrada estimado para un 1601 de oro con correa de piel y estado Good; el titulo sugiere caja de oro, sin confirmar autenticidad ni estado interior. (justo 5200)"
+ },
+ {
+  "fecha": "2026-10-31T01:24:39.724421+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 79230B",
+  "total": 3250.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/377609443462",
+  "item_id": "v1|377609443462|0",
+  "referencia": "79230B",
+  "mercado": {
+   "n": 7,
+   "p25": 3450,
+   "mediana": 3630
+  },
+  "ratio_mercado": 0.942,
+  "motivo": "precio normal (94 % del cuartil bajo de 79230B)"
  }
 ]
