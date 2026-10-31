@@ -1,69 +1,6 @@
 [
  {
   "fecha": "2026-10-29T18:38:42.716255+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu Diamond 18K Rose Gold Watch WJBB0038",
-  "total": 35000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407325146870",
-  "item_id": "v1|407325146870|0",
-  "referencia": "WJBB0038",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu de Cartier 42 mm, oro rosa 18K con bisel de diamantes, brazalete integrado, esfera plateada con números romanos y fecha",
-   "referencia": "WJBB0038",
-   "precio_justo_usd": 24000,
-   "interesante": false,
-   "nota": "Precio pedido de US$35.000 muy por encima del valor de venta real de esta referencia de segunda mano (aprox. US$22.000-26.000 según estado, papeles y año); no hay descuento."
-  },
-  "motivo": "triage: Precio pedido de US$35.000 muy por encima del valor de venta real de esta referencia de segunda mano (aprox. US$22.000-26.000 según estado, papeles y año); no hay descuento. (justo 24000)"
- },
- {
-  "fecha": "2026-10-29T18:38:42.716255+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Pelagos FXD 42 Titanium Steel Mens Watch 25717 Unworn",
-  "total": 5080.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257823936774",
-  "item_id": "v1|257823936774|0",
-  "referencia": "25717",
-  "mercado": {
-   "n": 3,
-   "p25": 3800,
-   "mediana": 4150
-  },
-  "triage": {
-   "modelo": "Tudor Pelagos FXD 42 mm titanio con correa de tela",
-   "referencia": "25717",
-   "precio_justo_usd": 3900,
-   "interesante": false,
-   "nota": "Precio pedido de US$5080 supera el retail actual de este modelo y el mercado secundario; el listado dice 'Unworn' pero la condición es 'Pre-owned - Good', lo que genera dudas."
-  },
-  "motivo": "triage: Precio pedido de US$5080 supera el retail actual de este modelo y el mercado secundario; el listado dice 'Unworn' pero la condición es 'Pre-owned - Good', lo que genera dudas. (justo 3900)"
- },
- {
-  "fecha": "2026-10-29T18:38:42.716255+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Chrono 41mm \"Panda\" 79360N-0014 | October 2026 Complete Set",
-  "total": 5950.0,
-  "condicion": "New with imperfections",
-  "url": "https://www.ebay.com/itm/900049426422",
-  "item_id": "v1|900049426422|0",
-  "referencia": "79360N-0014",
-  "mercado": {
-   "n": 32,
-   "p25": 6143,
-   "mediana": 9163
-  },
-  "ratio_mercado": 0.969,
-  "motivo": "precio normal (97 % del cuartil bajo de 79360N-0014)"
- },
- {
-  "fecha": "2026-10-29T18:38:42.716255+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay Heritage 41 79540 Blue Automatic Stainless Steel 41mm Watch Box",
   "total": 3053.8,
@@ -11256,5 +11193,62 @@
   },
   "ratio_mercado": 1.102,
   "motivo": "precio normal (110 % del cuartil bajo de 79030B)"
+ },
+ {
+  "fecha": "2026-10-31T20:40:23.090932+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Date 1500 Chrome Hearts Edition",
+  "total": 20000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860101330426",
+  "item_id": "v1|860101330426|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date, esfera negra, con brazalete de acero personalizado con cruces Chrome Hearts (modificación no de fábrica)",
+   "referencia": "1500",
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "Un Date 1500 de acero en excelente estado se vende en torno a US$3.500-5.000; el brazalete Chrome Hearts es una personalización no oficial que no justifica US$20.000 y no aporta una prima verificable."
+  },
+  "motivo": "triage: Un Date 1500 de acero en excelente estado se vende en torno a US$3.500-5.000; el brazalete Chrome Hearts es una personalización no oficial que no justifica US$20.000 y no aporta una prima verificable. (justo 4500)"
+ },
+ {
+  "fecha": "2026-10-31T20:40:23.090932+00:00",
+  "marca": "Tudor",
+  "titulo": "2025 TUDOR Black Bay 58 925 M79010SG-0001 FULL SET",
+  "total": 4065.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820300807258",
+  "item_id": "v1|820300807258|0",
+  "referencia": "M79010SG-0001",
+  "mercado": {
+   "n": 4,
+   "p25": 3950,
+   "mediana": 4100
+  },
+  "triage": {
+   "modelo": "TUDOR Black Bay 58 925 (caja de plata esterlina 925, esfera gris antracita, correa de cuero marrón)",
+   "referencia": "M79010SG-0001",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Precio pedido de US$4,065 con envío está por encima de lo que se vende este modelo nuevo/casi nuevo con caja y papeles; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido de US$4,065 con envío está por encima de lo que se vende este modelo nuevo/casi nuevo con caja y papeles; no hay descuento suficiente. (justo 3500)"
+ },
+ {
+  "fecha": "2026-10-31T20:40:23.090932+00:00",
+  "marca": "Tudor",
+  "titulo": "2025 Tudor Black Bay 54 Stainless Blue Lagoon 37mm Men's Watch 79000-0001",
+  "total": 5525.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820300805486",
+  "item_id": "v1|820300805486|0",
+  "referencia": "79000-0001",
+  "mercado": {
+   "n": 23,
+   "p25": 4253,
+   "mediana": 5395
+  },
+  "ratio_mercado": 1.299,
+  "motivo": "precio normal (130 % del cuartil bajo de 79000-0001)"
  }
 ]
