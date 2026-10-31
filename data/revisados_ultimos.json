@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-10-29T17:53:42.110680+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner 40 TT Bluesy SS/18k 16613LB M Serial + Warranty",
-  "total": 11500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940050100481",
-  "item_id": "v1|940050100481|0",
-  "referencia": "16613LB",
-  "mercado": {
-   "n": 9,
-   "p25": 12000,
-   "mediana": 12429
-  },
-  "ratio_mercado": 0.958,
-  "motivo": "precio normal (96 % del cuartil bajo de 16613LB)"
- },
- {
-  "fecha": "2026-10-29T17:53:42.110680+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos 100 Automatic Stainless Steel 36mm",
   "total": 5395.0,
@@ -11336,5 +11319,22 @@
    "nota": "Precio pedido de US$3495 está por encima de lo que suele cerrarse para este modelo de acero con caja y papeles; no hay descuento suficiente para considerarlo oportunidad."
   },
   "motivo": "triage: Precio pedido de US$3495 está por encima de lo que suele cerrarse para este modelo de acero con caja y papeles; no hay descuento suficiente para considerarlo oportunidad. (justo 3200)"
+ },
+ {
+  "fecha": "2026-10-31T15:40:12.969244+00:00",
+  "marca": "Tudor",
+  "titulo": "2023 Tudor Black Bay GMT “Pepsi” Opaline — Reference 79830RB",
+  "total": 3959.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168828911986",
+  "item_id": "v1|168828911986|0",
+  "referencia": "79830RB",
+  "mercado": {
+   "n": 46,
+   "p25": 3799,
+   "mediana": 4000
+  },
+  "ratio_mercado": 1.042,
+  "motivo": "precio normal (104 % del cuartil bajo de 79830RB)"
  }
 ]
