@@ -1,116 +1,6 @@
 [
  {
   "fecha": "2026-10-29T18:23:42.159237+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos  WSSA0039 ADLC FULL SET",
-  "total": 7500.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/287690228249",
-  "item_id": "v1|287690228249|0",
-  "referencia": "WSSA0039",
-  "mercado": {
-   "n": 6,
-   "p25": 7838,
-   "mediana": 8271
-  },
-  "ratio_mercado": 0.957,
-  "motivo": "precio normal (96 % del cuartil bajo de WSSA0039)"
- },
- {
-  "fecha": "2026-10-29T18:23:42.159237+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise W51002Q3 Ladies Watch Swiss Automatic Stainless Steel",
-  "total": 4399.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198755200662",
-  "item_id": "v1|198755200662|0",
-  "triage": {
-   "modelo": "Cartier Tank Française (tamaño mediano, acero, esfera blanca con números romanos)",
-   "referencia": "W51002Q3 (según el título; esa referencia es de cuarzo, no automática)",
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "El título dice 'Swiss Automatic' pero la W51002Q3 es de cuarzo: inconsistencia que hay que verificar. El precio pedido de US$4400 está muy por encima del valor de mercado para este modelo de cuarzo en estado Good."
-  },
-  "motivo": "triage: El título dice 'Swiss Automatic' pero la W51002Q3 es de cuarzo: inconsistencia que hay que verificar. El precio pedido de US$4400 está muy por encima del valor de mercado para este modelo de cuarzo en estado Good. (justo 2300)"
- },
- {
-  "fecha": "2026-10-29T18:23:42.159237+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Stainless Steel Watch 79030",
-  "total": 2700.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407325137203",
-  "item_id": "v1|407325137203|0",
-  "referencia": "79030B",
-  "mercado": {
-   "n": 29,
-   "p25": 3600,
-   "mediana": 3750
-  },
-  "ratio_mercado": 0.75,
-  "claude": {
-   "veredicto": "alerta",
-   "precio_justo_usd": 3250,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Buen estado general; la correa textil está bastante desgastada y descolorida, la caja se ve limpia"
-  },
-  "ratio_justo": 0.831,
-  "motivo": "ALERTA"
- },
- {
-  "fecha": "2026-10-29T18:23:42.159237+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai Luminor Tre Giorni Luna Rossa Stainless Steel Ref. PAM 1653",
-  "total": 6725.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137884610915",
-  "item_id": "v1|137884610915|0",
-  "referencia": "PAM1653",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Panerai Luminor Tre Giorni Luna Rossa (acero, correa de piel con franja roja)",
-   "referencia": "PAM 1653 (según título, no verificable en la imagen)",
-   "precio_justo_usd": 6200,
-   "interesante": false,
-   "nota": "Precio pedido cerca del valor de mercado para esta edición; no hay descuento de al menos 15 % y la referencia debe confirmarse con número de serie y papeles."
-  },
-  "motivo": "triage: Precio pedido cerca del valor de mercado para esta edición; no hay descuento de al menos 15 % y la referencia debe confirmarse con número de serie y papeles. (justo 6200)"
- },
- {
-  "fecha": "2026-10-29T18:23:42.159237+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamastet Aqua Terra Stainless Steel Watch 231.10.30.61.06.001",
-  "total": 2000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407325128704",
-  "item_id": "v1|407325128704|0",
-  "referencia": "231.10.30.61.06.001",
-  "mercado": {
-   "n": 1,
-   "p25": 3615,
-   "mediana": 3615
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Aqua Terra 150M 30 mm (esfera gris, acero, fecha)",
-   "referencia": "231.10.30.61.06.001",
-   "precio_justo_usd": 2400,
-   "interesante": true,
-   "nota": "Precio ~17% bajo el valor estimado de venta cerrada para acero usado en buen estado. Verificar número de serie, estado de la caja y papeles antes de comprar."
-  },
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 1600,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Muy buen estado visual, con desgaste leve de cepillado en el brazalete; sin fotos de caja, papeles ni fondo legible"
-  },
-  "motivo": "Claude descarto: El precio de US$2000 no deja margen. Es un 30 mm de cuarzo para dama y su venta cerrada real en EE. UU. ronda US$1400-1800, según estado y si trae caja y papeles. El triage de US$2400 parece inflado.; El único comparable (US$3615) es un precio pedido de un solo anuncio, sin valor como referencia. No indica que 2000 sea una ganga."
- },
- {
-  "fecha": "2026-10-29T18:23:42.159237+00:00",
   "marca": "Breitling",
   "titulo": "Breitling Superocean Heritage Men's Black Watch - U13313 44mm Box and Papers",
   "total": 5500.0,
@@ -11294,5 +11184,90 @@
   },
   "ratio_mercado": 1.096,
   "motivo": "precio normal (110 % del cuartil bajo de 126710GRNR)"
+ },
+ {
+  "fecha": "2026-10-31T19:10:13.253262+00:00",
+  "marca": "Rolex",
+  "titulo": "$12,000 ROLEX DATEJUST Champagne 69173 18k Yellow Gold SS Ladies Watch SERVICED",
+  "total": 3959.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307259156270",
+  "item_id": "v1|307259156270|0",
+  "referencia": "69173",
+  "mercado": {
+   "n": 24,
+   "p25": 4257,
+   "mediana": 4450
+  },
+  "ratio_mercado": 0.93,
+  "motivo": "precio normal (93 % del cuartil bajo de 69173)"
+ },
+ {
+  "fecha": "2026-10-31T19:10:13.253262+00:00",
+  "marca": "Rolex",
+  "titulo": "$35,000 ROLEX DATEJUST PRESIDENT 3ct Diamond Ladies 18k Yellow Gold Watch 69173",
+  "total": 11959.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237154674977",
+  "item_id": "v1|237154674977|0",
+  "referencia": "69173",
+  "mercado": {
+   "n": 24,
+   "p25": 4257,
+   "mediana": 4450
+  },
+  "ratio_mercado": 2.809,
+  "motivo": "precio normal (281 % del cuartil bajo de 69173)"
+ },
+ {
+  "fecha": "2026-10-31T19:10:13.253262+00:00",
+  "marca": "Rolex",
+  "titulo": "$14,000 16013 3ct VS H Diamond RUBY ROLEX DATEJUST MENS 14k Yellow Gold SS Watch",
+  "total": 5759.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307259148568",
+  "item_id": "v1|307259148568|0",
+  "referencia": "16013",
+  "mercado": {
+   "n": 22,
+   "p25": 1815,
+   "mediana": 4700
+  },
+  "ratio_mercado": 3.173,
+  "motivo": "precio normal (317 % del cuartil bajo de 16013)"
+ },
+ {
+  "fecha": "2026-10-31T19:10:13.253262+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II Bruce Wayne on Jubilee 126710GRNR 2026",
+  "total": 23900.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/287694948151",
+  "item_id": "v1|287694948151|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 62,
+   "p25": 21800,
+   "mediana": 22990
+  },
+  "ratio_mercado": 1.096,
+  "motivo": "precio normal (110 % del cuartil bajo de 126710GRNR)"
+ },
+ {
+  "fecha": "2026-10-31T19:10:13.253262+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthère 18K Yellow Gold Quartz Watch 22mm Ref. 86691 Serviced Warranty",
+  "total": 20345.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940055318369",
+  "item_id": "v1|940055318369|0",
+  "triage": {
+   "modelo": "Cartier Panthère 18K oro amarillo, cuarzo, 22 mm (brazalete de eslabones)",
+   "referencia": "86691 (según título, no verificable en la foto)",
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "El precio pedido de US$20,345 está muy por encima del valor de venta real de esta Panthère de oro cuarzo en estado usado; la referencia del título no se puede confirmar en la imagen."
+  },
+  "motivo": "triage: El precio pedido de US$20,345 está muy por encima del valor de venta real de esta Panthère de oro cuarzo en estado usado; la referencia del título no se puede confirmar en la imagen. (justo 14000)"
  }
 ]
