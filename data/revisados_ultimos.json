@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-10-29T17:53:42.110680+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos 100 Automatic Stainless Steel 36mm",
-  "total": 5395.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327429154434",
-  "item_id": "v1|327429154434|0",
-  "triage": {
-   "modelo": "Cartier Santos 100 Automatic (esfera rosa con numerales romanos, correa de caucho)",
-   "referencia": null,
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta estimado para un Santos 100 de acero usado; la referencia exacta no se identifica con certeza en la foto."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta estimado para un Santos 100 de acero usado; la referencia exacta no se identifica con certeza en la foto. (justo 4000)"
- },
- {
-  "fecha": "2026-10-29T17:53:42.110680+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Seamaster Diver 300M 210.30.42.20.06.001",
-  "total": 4450.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267827419496",
-  "item_id": "v1|267827419496|0",
-  "referencia": "210.30.42.20.06.001",
-  "mercado": {
-   "n": 15,
-   "p25": 4549,
-   "mediana": 4599
-  },
-  "ratio_mercado": 0.978,
-  "motivo": "precio normal (98 % del cuartil bajo de 210.30.42.20.06.001)"
- },
- {
-  "fecha": "2026-10-29T17:53:42.110680+00:00",
   "marca": "Omega",
   "titulo": "Omega Seamaster Planet Ocean Stainless Steel 2201.50.00 Automatic Watch #LW-534",
   "total": 3250.0,
@@ -11336,5 +11302,39 @@
   },
   "ratio_mercado": 1.042,
   "motivo": "precio normal (104 % del cuartil bajo de 79830RB)"
+ },
+ {
+  "fecha": "2026-10-31T16:10:12.941498+00:00",
+  "marca": "Rolex",
+  "titulo": "EARLY VINTAGE ROLEX TRENCH WATCH WW1 ERA GOLD FILLED CASE! WORKING!",
+  "total": 861.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940055005063",
+  "item_id": "v1|940055005063|0",
+  "triage": {
+   "modelo": "Reloj de trinchera (WWI) genérico, caja tipo gold filled/plateada",
+   "referencia": null,
+   "precio_justo_usd": 400,
+   "interesante": false,
+   "nota": "En la foto no se ve firma ni corona de Rolex en la esfera ni en la caja; parece un trench de la era WWI sin identificar. Un Rolex trench auténtico y verificado valdría mucho más, pero sin prueba de firma y movimiento el precio no es atractivo."
+  },
+  "motivo": "triage: En la foto no se ve firma ni corona de Rolex en la esfera ni en la caja; parece un trench de la era WWI sin identificar. Un Rolex trench auténtico y verificado valdría mucho más, pero sin prueba de firma y movimiento el precio no es atractivo. (justo 400)"
+ },
+ {
+  "fecha": "2026-10-31T16:10:12.941498+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR  SS AUTOMATIC WITH BOX AND PAPERS",
+  "total": 1999.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920091249865",
+  "item_id": "v1|920091249865|0",
+  "triage": {
+   "modelo": "Tudor 1926 (acero, esfera blanca con numerales arábigos y ventana de fecha)",
+   "referencia": null,
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Modelo probable por la imagen, pero el listado no indica referencia ni año. Con caja y papeles, el precio pedido es solo ~13 % inferior al estimado, por debajo del umbral del 15 %. Verificar autenticidad y referencia antes de comprar."
+  },
+  "motivo": "triage: Modelo probable por la imagen, pero el listado no indica referencia ni año. Con caja y papeles, el precio pedido es solo ~13 % inferior al estimado, por debajo del umbral del 15 %. Verificar autenticidad y referencia antes de comprar. (justo 2300)"
  }
 ]
