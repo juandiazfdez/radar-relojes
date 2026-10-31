@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-29T17:23:41.910798+00:00",
   "marca": "Omega",
-  "titulo": "💥1970s OMEGA Seamaster JEDI Chronograph Watch 38mm REF 176.006 * SERVICED * 💥",
-  "total": 4030.95,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840072069202",
-  "item_id": "v1|840072069202|0",
-  "triage": {
-   "modelo": "Omega Seamaster Chronograph 'Jedi' (esfera azul, caja tonneau de acero, bracelet integrado), años 70",
-   "referencia": "176.006",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido de US$4031 por encima del valor de venta cerrada estimado para esta referencia vintage en estado 'Good' con servicio; no cumple el descuento mínimo del 15%."
-  },
-  "motivo": "triage: Precio pedido de US$4031 por encima del valor de venta cerrada estimado para esta referencia vintage en estado 'Good' con servicio; no cumple el descuento mínimo del 15%. (justo 3300)"
- },
- {
-  "fecha": "2026-10-29T17:23:41.910798+00:00",
-  "marca": "Omega",
   "titulo": "Vintage OMEGA SEAMASTER BUMPER Pie Pan Automatic Watch Ref 2767-6 SC Caliber 354",
   "total": 2004.99,
   "condicion": "Pre-owned - Good",
@@ -11330,5 +11313,28 @@
   },
   "ratio_mercado": 1.12,
   "motivo": "precio normal (112 % del cuartil bajo de 79730)"
+ },
+ {
+  "fecha": "2026-10-31T09:10:04.349055+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31 Automatic Ladies Watch 278240GYSO",
+  "total": 10497.5,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/960136199245",
+  "item_id": "v1|960136199245|0",
+  "referencia": "278240GYSO",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 31 de acero, bisel liso, esfera gris pizarra y brazalete Oyster",
+   "referencia": "278240",
+   "precio_justo_usd": 8500,
+   "interesante": false,
+   "nota": "Nuevo con caja y papeles, el precio pedido de US$10,498 está por encima de lo que se vende este modelo en el mercado secundario de EE. UU."
+  },
+  "motivo": "triage: Nuevo con caja y papeles, el precio pedido de US$10,498 está por encima de lo que se vende este modelo en el mercado secundario de EE. UU. (justo 8500)"
  }
 ]
