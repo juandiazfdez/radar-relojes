@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T17:23:41.910798+00:00",
-  "marca": "IWC",
-  "titulo": "IWC Fliegeruhr Chronograph IW377701 Pilot 43mm Stainless Steel Wristwatch + Box",
-  "total": 4550.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/227588917479",
-  "item_id": "v1|227588917479|0",
-  "referencia": "IW377701",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "IWC Pilot's Chronograph 43 mm (Fliegeruhr), esfera negra, acero, con indicación de día y fecha",
-   "referencia": "IW377701",
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "Precio pedido de US$4550 con envío, por encima del rango de venta real para esta referencia de segunda mano con caja; el listado solo menciona la caja, sin papeles."
-  },
-  "motivo": "triage: Precio pedido de US$4550 con envío, por encima del rango de venta real para esta referencia de segunda mano con caja; el listado solo menciona la caja, sin papeles. (justo 4300)"
- },
- {
-  "fecha": "2026-10-29T17:38:41.789864+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Française Small 25mm x 30mm Quartz Steel Watch 2301 W51003Q3",
-  "total": 4110.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/257823842547",
-  "item_id": "v1|257823842547|0",
-  "referencia": "2301",
-  "mercado": {
-   "n": 9,
-   "p25": 3595,
-   "mediana": 4269
-  },
-  "ratio_mercado": 1.143,
-  "motivo": "precio normal (114 % del cuartil bajo de 2301)"
- },
- {
   "fecha": "2026-10-29T17:38:41.789864+00:00",
   "marca": "Omega",
   "titulo": "OMEGA Speedmaster 326.30.40.50.01.002",
@@ -11330,5 +11290,45 @@
   },
   "ratio_mercado": 0.975,
   "motivo": "precio normal (98 % del cuartil bajo de 14060)"
+ },
+ {
+  "fecha": "2026-10-31T14:25:13.240819+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sea-Dweller Deepsea 116660",
+  "total": 9495.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860100677674",
+  "item_id": "v1|860100677674|0",
+  "referencia": "116660",
+  "mercado": {
+   "n": 48,
+   "p25": 10050,
+   "mediana": 11643
+  },
+  "ratio_mercado": 0.945,
+  "motivo": "precio normal (94 % del cuartil bajo de 116660)"
+ },
+ {
+  "fecha": "2026-10-31T14:25:13.240819+00:00",
+  "marca": "Tudor",
+  "titulo": "Vintage Tudor Prince Quartz Oysterdate 78570 Two Tone Men’s Watch Runs 1984",
+  "total": 1899.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287694469481",
+  "item_id": "v1|287694469481|0",
+  "referencia": "78570",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Prince Oysterdate (acero y oro, bisel acanalado), aprox. 1984",
+   "referencia": "78570 (según título; verificar con fotos del movimiento y del caso)",
+   "precio_justo_usd": 1250,
+   "interesante": false,
+   "nota": "Precio pedido por encima de lo que se vende este modelo de cuarzo bicolor en estado Good; el título sugiere cuarzo y el valor depende de confirmarlo."
+  },
+  "motivo": "triage: Precio pedido por encima de lo que se vende este modelo de cuarzo bicolor en estado Good; el título sugiere cuarzo y el valor depende de confirmarlo. (justo 1250)"
  }
 ]
