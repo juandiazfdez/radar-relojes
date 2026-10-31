@@ -1,79 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T16:23:42.233731+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "Tag Heuer Formula 1 Lady Stainless Steel And Rubber Watch",
-  "total": 768.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820292258136",
-  "item_id": "v1|820292258136|0",
-  "triage": {
-   "modelo": "TAG Heuer Formula 1 Lady (cuarzo, acero y caucho), posible confusión con un modelo tipo Luminox por el diseño del dial y la luneta",
-   "referencia": null,
-   "precio_justo_usd": 300,
-   "interesante": false,
-   "nota": "Precio pedido de $768 muy por encima del valor de mercado de un Formula 1 Lady usado; además, la foto sugiere otra marca, así que hay que verificar logotipo y referencia antes de cualquier oferta."
-  },
-  "motivo": "triage: Precio pedido de $768 muy por encima del valor de mercado de un Formula 1 Lady usado; además, la foto sugiere otra marca, así que hay que verificar logotipo y referencia antes de cualquier oferta. (justo 300)"
- },
- {
-  "fecha": "2026-10-29T16:23:42.233731+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "Tag Heuer Formula 1 Lady Stainless Steel And Rubber Watch",
-  "total": 768.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820292258099",
-  "item_id": "v1|820292258099|0",
-  "triage": {
-   "modelo": "TAG Heuer Formula 1 Lady, cuarzo, caja de acero, bisel y correa de caucho verdes",
-   "referencia": null,
-   "precio_justo_usd": 210,
-   "interesante": false,
-   "nota": "Modelo de cuarzo de gama de entrada; se vende usado por unos 150-300 USD. El precio de 768 USD está muy por encima del mercado."
-  },
-  "motivo": "triage: Modelo de cuarzo de gama de entrada; se vende usado por unos 150-300 USD. El precio de 768 USD está muy por encima del mercado. (justo 210)"
- },
- {
-  "fecha": "2026-10-29T16:23:42.233731+00:00",
-  "marca": "IWC",
-  "titulo": "IWC Pilot Chronograph Spitfire Bronze Mens Watch IW387902 Box Card",
-  "total": 5400.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336869126086",
-  "item_id": "v1|336869126086|0",
-  "referencia": "IW387902",
-  "mercado": {
-   "n": 3,
-   "p25": 5334,
-   "mediana": 5555
-  },
-  "triage": {
-   "modelo": "IWC Pilot's Watch Chronograph Spitfire Bronze (cronógrafo, caja de bronce, esfera verde)",
-   "referencia": "IW387902",
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "Precio pedido de 5400 USD (con envío) está por encima del precio de venta cerrada estimado para pre-owned con caja y papeles; no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido de 5400 USD (con envío) está por encima del precio de venta cerrada estimado para pre-owned con caja y papeles; no hay descuento suficiente. (justo 5000)"
- },
- {
-  "fecha": "2026-10-29T16:38:42.366843+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai Luminor GMT SS OP6554",
-  "total": 5039.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128162775218",
-  "item_id": "v1|128162775218|0",
-  "triage": {
-   "modelo": "Panerai Luminor GMT Automatic, acero, esfera negra, correa de caucho (44 mm aprox.)",
-   "referencia": "PAM00270 o similar (el título indica OP6554, que no coincide con lo visible; verificar)",
-   "precio_justo_usd": 6800,
-   "interesante": false,
-   "nota": "El precio está ~26% bajo mercado, pero la referencia del título no coincide con el modelo visible. Ese descuento junto con la discrepancia es señal de posible réplica o listado engañoso; verificar autenticidad y número de serie antes de considerarlo."
-  },
-  "motivo": "triage: El precio está ~26% bajo mercado, pero la referencia del título no coincide con el modelo visible. Ese descuento junto con la discrepancia es señal de posible réplica o listado engañoso; verificar autenticidad y número de serie antes de considerarlo. (justo 6800)"
- },
- {
   "fecha": "2026-10-29T16:38:42.366843+00:00",
   "marca": "Omega",
   "titulo": "Omega Seamaster Day/Date Vintage Automatic Men's Watch",
@@ -11348,5 +11274,79 @@
   },
   "ratio_mercado": 1.097,
   "motivo": "precio normal (110 % del cuartil bajo de WSSA0037)"
+ },
+ {
+  "fecha": "2026-10-31T00:39:39.729650+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 279173 Stainless Steel & 18K Yellow Gold 28mm Watch",
+  "total": 15840.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128165299501",
+  "item_id": "v1|128165299501|0",
+  "referencia": "279173",
+  "mercado": {
+   "n": 15,
+   "p25": 13000,
+   "mediana": 14450
+  },
+  "ratio_mercado": 1.218,
+  "motivo": "precio normal (122 % del cuartil bajo de 279173)"
+ },
+ {
+  "fecha": "2026-10-31T00:39:39.729650+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Stainless Steel & 18K Yellow Gold Watch Datejust 126233 Diamond Jubilee Di",
+  "total": 18550.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117495473423",
+  "item_id": "v1|117495473423|0",
+  "referencia": "126233",
+  "mercado": {
+   "n": 34,
+   "p25": 15295,
+   "mediana": 16398
+  },
+  "ratio_mercado": 1.213,
+  "motivo": "precio normal (121 % del cuartil bajo de 126233)"
+ },
+ {
+  "fecha": "2026-10-31T00:39:39.729650+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Stainless Steel Submariner Nondate  124060 41mm Box & Papers 2025",
+  "total": 13500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227590695558",
+  "item_id": "v1|227590695558|0",
+  "referencia": "124060",
+  "mercado": {
+   "n": 47,
+   "p25": 13590,
+   "mediana": 14095
+  },
+  "ratio_mercado": 0.993,
+  "motivo": "precio normal (99 % del cuartil bajo de 124060)"
+ },
+ {
+  "fecha": "2026-10-31T00:39:39.729650+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Stainless Steel Tank WSTA0137 Watch 22mm (Box & Papers) 2026",
+  "total": 4330.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117495472776",
+  "item_id": "v1|117495472776|0",
+  "referencia": "WSTA0137",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Tank Must (acero, cuarzo, 22 mm, esfera plateada, correa de piel negra)",
+   "referencia": "WSTA0137 (según el título; no verificable en la foto)",
+   "precio_justo_usd": 2500,
+   "interesante": false,
+   "nota": "Precio pedido de US$4330 muy por encima del mercado secundario para un Tank Must de acero usado con caja y papeles; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$4330 muy por encima del mercado secundario para un Tank Must de acero usado con caja y papeles; no es una oportunidad. (justo 2500)"
  }
 ]
