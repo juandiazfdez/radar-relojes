@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-10-29T17:23:41.910798+00:00",
-  "marca": "Omega",
-  "titulo": "Vintage OMEGA SEAMASTER BUMPER Pie Pan Automatic Watch Ref 2767-6 SC Caliber 354",
-  "total": 2004.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920085118942",
-  "item_id": "v1|920085118942|0",
-  "triage": {
-   "modelo": "Omega Seamaster Bumper Pie Pan automático (calibre 354)",
-   "referencia": "2767-6",
-   "precio_justo_usd": 1900,
-   "interesante": false,
-   "nota": "Vintage en acero, esfera pie pan; precio pedido cerca del valor de mercado, sin descuento suficiente. Verificar autenticidad, calibre y estado de servicio."
-  },
-  "motivo": "triage: Vintage en acero, esfera pie pan; precio pedido cerca del valor de mercado, sin descuento suficiente. Verificar autenticidad, calibre y estado de servicio. (justo 1900)"
- },
- {
-  "fecha": "2026-10-29T17:23:41.910798+00:00",
   "marca": "TAG Heuer",
   "titulo": "TAG Heuer Carrera Silver Men's Watch - CV2110-0 39mm Chronograph",
   "total": 2400.0,
@@ -11336,5 +11319,28 @@
    "nota": "Nuevo con caja y papeles, el precio pedido de US$10,498 está por encima de lo que se vende este modelo en el mercado secundario de EE. UU."
   },
   "motivo": "triage: Nuevo con caja y papeles, el precio pedido de US$10,498 está por encima de lo que se vende este modelo en el mercado secundario de EE. UU. (justo 8500)"
+ },
+ {
+  "fecha": "2026-10-31T10:25:04.254098+00:00",
+  "marca": "Cartier",
+  "titulo": "CARTIER 21 Mens Autoscaph Automatic Watch, Ref. 2427 - Stainless Steel",
+  "total": 1595.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267828059113",
+  "item_id": "v1|267828059113|0",
+  "referencia": "2427",
+  "mercado": {
+   "n": 2,
+   "p25": 1415,
+   "mediana": 1558
+  },
+  "triage": {
+   "modelo": "Cartier Must 21 Autoscaph (acero, automático)",
+   "referencia": "2427",
+   "precio_justo_usd": 1300,
+   "interesante": false,
+   "nota": "Acero con brazalete mixto, estado Good sin caja ni papeles; el precio pedido de US$1595 supera el valor de venta cerrada estimado."
+  },
+  "motivo": "triage: Acero con brazalete mixto, estado Good sin caja ni papeles; el precio pedido de US$1595 supera el valor de venta cerrada estimado. (justo 1300)"
  }
 ]
