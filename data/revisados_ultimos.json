@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-10-29T17:08:42.338366+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay GMT 41mm M79830RB-0002 Box & Papers 2018",
-  "total": 3450.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267827375498",
-  "item_id": "v1|267827375498|0",
-  "referencia": "M79830RB-0002",
-  "mercado": {
-   "n": 17,
-   "p25": 4000,
-   "mediana": 4297
-  },
-  "ratio_mercado": 0.863,
-  "motivo": "precio normal (86 % del cuartil bajo de M79830RB-0002)"
- },
- {
-  "fecha": "2026-10-29T17:08:42.338366+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 New Tudor Black Bay 58 Black/Gilt 8/26 Oyster Ref# 7939A1A0NU",
-  "total": 4648.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/257823795934",
-  "item_id": "v1|257823795934|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 Black/Gilt",
-   "referencia": "7939A1A0NU",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Precio pedido por encima del retail aproximado (~US$3.600 para acero); el mercado secundario de este modelo nuevo ronda US$3.300-3.700. No hay descuento."
-  },
-  "motivo": "triage: Precio pedido por encima del retail aproximado (~US$3.600 para acero); el mercado secundario de este modelo nuevo ronda US$3.300-3.700. No hay descuento. (justo 3500)"
- },
- {
-  "fecha": "2026-10-29T17:08:42.338366+00:00",
   "marca": "Breitling",
   "titulo": "Vintage Breitling Navitimer Cosmonaute 809 Gold-Tone 24-Hour Chronograph",
   "total": 4125.0,
@@ -11336,5 +11302,39 @@
    "nota": "Nuevo con caja y papeles; el precio pedido de US$5,795 está por encima de la venta secundaria típica (~US$4,500-5,000) y no muestra descuento suficiente."
   },
   "motivo": "triage: Nuevo con caja y papeles; el precio pedido de US$5,795 está por encima de la venta secundaria típica (~US$4,500-5,000) y no muestra descuento suficiente. (justo 4700)"
+ },
+ {
+  "fecha": "2026-10-31T05:09:51.933331+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 26mm Rolex Oyster Perpetual Stainless steel watch, Model: 6623",
+  "total": 3199.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940053907897",
+  "item_id": "v1|940053907897|0",
+  "referencia": "6623",
+  "mercado": {
+   "n": 9,
+   "p25": 2999,
+   "mediana": 3500
+  },
+  "ratio_mercado": 1.067,
+  "motivo": "precio normal (107 % del cuartil bajo de 6623)"
+ },
+ {
+  "fecha": "2026-10-31T05:09:51.933331+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Rotonde de Cartier W1556368",
+  "total": 5100.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287693599870",
+  "item_id": "v1|287693599870|0",
+  "referencia": "W1556368",
+  "mercado": {
+   "n": 6,
+   "p25": 5324,
+   "mediana": 5528
+  },
+  "ratio_mercado": 0.958,
+  "motivo": "precio normal (96 % del cuartil bajo de W1556368)"
  }
 ]
