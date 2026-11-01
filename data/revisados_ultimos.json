@@ -1,114 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T20:38:42.804430+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Carrera CAS2110.BA0730 Heritage Auto Chronograph Auto Men's Wristwatch",
-  "total": 3495.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940050399331",
-  "item_id": "v1|940050399331|0",
-  "referencia": "CAS2110.BA0730",
-  "mercado": {
-   "n": 2,
-   "p25": 2200,
-   "mediana": 2207
-  },
-  "triage": {
-   "modelo": "TAG Heuer Carrera Heritage Chronograph Automático (esfera negra, brazalete de acero)",
-   "referencia": "CAS2110.BA0730",
-   "precio_justo_usd": 2900,
-   "interesante": false,
-   "nota": "Precio pedido de 3495 USD supera la venta real estimada para estado excelente, sin confirmar caja y papeles; no hay descuento de al menos 15 %."
-  },
-  "motivo": "triage: Precio pedido de 3495 USD supera la venta real estimada para estado excelente, sin confirmar caja y papeles; no hay descuento de al menos 15 %. (justo 2900)"
- },
- {
-  "fecha": "2026-10-29T20:38:42.804430+00:00",
-  "marca": "IWC",
-  "titulo": "IWC Pilot's Watch Men's Black Watch - IW378001",
-  "total": 6250.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820293100860",
-  "item_id": "v1|820293100860|0",
-  "referencia": "IW378001",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "IWC Pilot's Watch Chronograph 41 mm, esfera negra, caja de acero, correa de caucho negra",
-   "referencia": "IW378001",
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta real para estado Good; sin caja ni papeles, no hay margen de compra."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta real para estado Good; sin caja ni papeles, no hay margen de compra. (justo 4800)"
- },
- {
-  "fecha": "2026-10-29T20:38:42.804430+00:00",
-  "marca": "IWC",
-  "titulo": "IWC Pilot's Watch Green Men's Watch - IW387902",
-  "total": 6000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820293098351",
-  "item_id": "v1|820293098351|0",
-  "referencia": "IW387902",
-  "mercado": {
-   "n": 3,
-   "p25": 5334,
-   "mediana": 5555
-  },
-  "triage": {
-   "modelo": "IWC Pilot's Watch Chronograph Spitfire Bronze (esfera verde)",
-   "referencia": "IW387902",
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "Precio pedido de US$6000 supera el valor de reventa estimado para estado usado; no cumple el umbral de 15 % por debajo del mercado."
-  },
-  "motivo": "triage: Precio pedido de US$6000 supera el valor de reventa estimado para estado usado; no cumple el umbral de 15 % por debajo del mercado. (justo 5000)"
- },
- {
-  "fecha": "2026-10-29T20:53:42.134622+00:00",
-  "marca": "Rolex",
-  "titulo": "2002 Rolex GMT-Master LLL “COKE” 16710, Men’s Watch W/Service Box & Papers",
-  "total": 12900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168825217865",
-  "item_id": "v1|168825217865|0",
-  "referencia": "16710",
-  "mercado": {
-   "n": 81,
-   "p25": 13990,
-   "mediana": 14510
-  },
-  "ratio_mercado": 0.922,
-  "motivo": "precio normal (92 % del cuartil bajo de 16710)"
- },
- {
-  "fecha": "2026-10-29T20:53:42.134622+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41 Stainless Steel - Fluted / Green / Oyster 126334-0027",
-  "total": 16250.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/377606608824",
-  "item_id": "v1|377606608824|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 (acero, bisel acanalado, esfera azul/gris con marcadores de bastón, brazalete Oyster)",
-   "referencia": "126334",
-   "precio_justo_usd": 12000,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del mercado secundario para un 126334 nuevo con caja y papeles; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido muy por encima del mercado secundario para un 126334 nuevo con caja y papeles; no es una oportunidad. (justo 12000)"
- },
- {
   "fecha": "2026-10-29T20:53:42.134622+00:00",
   "marca": "Rolex",
   "titulo": "2017 Rolex Yacht-Master 268655 Black 18K Rose Gold Oysterflex 37mm Box Papers",
@@ -11090,5 +10981,97 @@
    "nota": "Precio muy por debajo del mercado para un tourbillon volante en oro blanco; la imagen y el precio sugieren posible replica o listado enganoso. Verificar con serie, papeles y autenticidad antes de considerarlo."
   },
   "motivo": "triage: Precio muy por debajo del mercado para un tourbillon volante en oro blanco; la imagen y el precio sugieren posible replica o listado enganoso. Verificar con serie, papeles y autenticidad antes de considerarlo. (justo 60000)"
+ },
+ {
+  "fecha": "2026-11-01T21:41:02.843386+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 126610LN Rolex Submariner Date 41mm  Bracelet 300m Box Papers",
+  "total": 17500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/227593234124",
+  "item_id": "v1|227593234124|0",
+  "referencia": "126610LN",
+  "mercado": {
+   "n": 34,
+   "p25": 15995,
+   "mediana": 16398
+  },
+  "ratio_mercado": 1.094,
+  "motivo": "precio normal (109 % del cuartil bajo de 126610LN)"
+ },
+ {
+  "fecha": "2026-11-01T21:41:02.843386+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX Oyster Perpetual 67480 pink WATCH 761019",
+  "total": 4149.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137893310432",
+  "item_id": "v1|137893310432|0",
+  "referencia": "67480",
+  "mercado": {
+   "n": 5,
+   "p25": 4900,
+   "mediana": 6399
+  },
+  "ratio_mercado": 0.847,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 3900,
+   "riesgo_autenticidad": "medio",
+   "estado": "Muy buen estado visual, caja con bordes llenos, sin caja ni papeles; fondo con rayones y holograma verde"
+  },
+  "ratio_justo": 1.064,
+  "motivo": "precio normal segun revision (106 % del justo 3900)"
+ },
+ {
+  "fecha": "2026-11-01T21:41:02.843386+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex Bubbleback Stainless Steel Automatic 32mm Ref. 2940",
+  "total": 2363.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257829008419",
+  "item_id": "v1|257829008419|0",
+  "triage": {
+   "modelo": "Rolex Oyster Bubbleback (acero, años 1930-40)",
+   "referencia": "2940",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "El precio parece bajo para la referencia, pero la foto muestra una pulsera de malla milanesa y no se ven el logo de corona ni la forma bubbleback. Verificar autenticidad y que las fotos coincidan con el listado antes de comprar."
+  },
+  "motivo": "triage: El precio parece bajo para la referencia, pero la foto muestra una pulsera de malla milanesa y no se ven el logo de corona ni la forma bubbleback. Verificar autenticidad y que las fotos coincidan con el listado antes de comprar. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-01T21:41:02.843386+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Pelagos 39 with Box and Papers.  Active Warranty",
+  "total": 4125.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257829009380",
+  "item_id": "v1|257829009380|0",
+  "triage": {
+   "modelo": "Tudor Pelagos 39 (esfera negra, bisel cerámico negro, brazalete de titanio)",
+   "referencia": "25610TN",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Pelagos 39 de titanio con caja y papeles, usado, que se vende en torno a US$3.300-3.700. El precio pedido de US$4.125 con envío está por encima del mercado, no por debajo."
+  },
+  "motivo": "triage: Pelagos 39 de titanio con caja y papeles, usado, que se vende en torno a US$3.300-3.700. El precio pedido de US$4.125 con envío está por encima del mercado, no por debajo. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-01T21:41:02.843386+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 41 Monochrome METAS Ref. 7941A1A0NU Steel Bracelet Complete Set",
+  "total": 4388.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237156357448",
+  "item_id": "v1|237156357448|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 41 Monochrome METAS (esfera negra, brazalete de acero tipo Jubilee)",
+   "referencia": "7941A1A0NU",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio pedido de US$4388 por encima del retail actual y del mercado de segunda mano para esta referencia; no hay descuento claro."
+  },
+  "motivo": "triage: Precio pedido de US$4388 por encima del retail actual y del mercado de segunda mano para esta referencia; no hay descuento claro. (justo 3300)"
  }
 ]
