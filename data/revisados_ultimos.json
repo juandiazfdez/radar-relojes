@@ -1,77 +1,6 @@
 [
  {
   "fecha": "2026-10-29T20:08:41.778525+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Monarch 15733 Date 18K Yellow Gold Steel 34MM Men's Quartz Watch",
-  "total": 2065.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206661910534",
-  "item_id": "v1|206661910534|0",
-  "referencia": "15733",
-  "mercado": {
-   "n": 1,
-   "p25": 1735,
-   "mediana": 1735
-  },
-  "triage": {
-   "modelo": "Tudor Monarch Date bicolor (acero y oro amarillo de 18K), esfera blanca, bisel acanalado, cuarzo",
-   "referencia": "15733",
-   "precio_justo_usd": 1100,
-   "interesante": false,
-   "nota": "Precio pedido de 2065 USD muy por encima del valor de venta cerrada estimado para este modelo bicolor de cuarzo usado; la referencia y el oro deben verificarse."
-  },
-  "motivo": "triage: Precio pedido de 2065 USD muy por encima del valor de venta cerrada estimado para este modelo bicolor de cuarzo usado; la referencia y el oro deben verificarse. (justo 1100)"
- },
- {
-  "fecha": "2026-10-29T20:08:41.778525+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai Luminor Duo Luna Rossa Pam01381 1381 42mm",
-  "total": 6195.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940050349579",
-  "item_id": "v1|940050349579|0",
-  "referencia": "PAM01381",
-  "mercado": {
-   "n": 1,
-   "p25": 7044,
-   "mediana": 7044
-  },
-  "triage": {
-   "modelo": "Panerai Luminor Due Luna Rossa 42 mm (esfera blanca, acero, correa de caucho)",
-   "referencia": "PAM01381",
-   "precio_justo_usd": 5300,
-   "interesante": false,
-   "nota": "Precio pedido por encima del rango de reventa actual (~25-35 % bajo retail); no cumple el umbral del 15 % de descuento."
-  },
-  "motivo": "triage: Precio pedido por encima del rango de reventa actual (~25-35 % bajo retail); no cumple el umbral del 15 % de descuento. (justo 5300)"
- },
- {
-  "fecha": "2026-10-29T20:08:41.778525+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Constellation Calendar",
-  "total": 1500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407325297169",
-  "item_id": "v1|407325297169|0",
-  "triage": {
-   "modelo": "Omega Constellation Chronometer Automatic (dial pie-pan, fecha, acero), probablemente años 60",
-   "referencia": "168.005 (probable, sin confirmar)",
-   "precio_justo_usd": 1800,
-   "interesante": true,
-   "nota": "Precio pedido ~17% bajo estimación conservadora; verificar autenticidad, esfera, movimiento y estado de caja antes de comprar."
-  },
-  "referencia": null,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 1700,
-   "riesgo_autenticidad": "medio",
-   "estado": "Aspecto bueno y limpio, pero falta el fondo de caja y no hay movimiento; posible exceso de pulido en las asas"
-  },
-  "ratio_justo": 0.882,
-  "motivo": "precio normal segun revision (88 % del justo 1700)"
- },
- {
-  "fecha": "2026-10-29T20:08:41.778525+00:00",
   "marca": "Omega",
   "titulo": "Omega Seamaster Aqua Terra 38mm Summer Blue 220.10.38.20.03.004 Full Set",
   "total": 5780.0,
@@ -11140,5 +11069,62 @@
   },
   "ratio_mercado": 1.039,
   "motivo": "precio normal (104 % del cuartil bajo de 16613T)"
+ },
+ {
+  "fecha": "2026-11-01T15:40:54.395352+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date, President Bracelet, Champagne Dial, Yellow Gold, 18038",
+  "total": 22855.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/206668087217",
+  "item_id": "v1|206668087217|0",
+  "referencia": "18038",
+  "mercado": {
+   "n": 18,
+   "p25": 9369,
+   "mediana": 10484
+  },
+  "ratio_mercado": 2.439,
+  "motivo": "precio normal (244 % del cuartil bajo de 18038)"
+ },
+ {
+  "fecha": "2026-11-01T15:40:54.395352+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date 15200 White TO3317198",
+  "total": 8620.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237155963863",
+  "item_id": "v1|237155963863|0",
+  "referencia": "15200",
+  "mercado": {
+   "n": 18,
+   "p25": 5300,
+   "mediana": 5712
+  },
+  "ratio_mercado": 1.626,
+  "motivo": "precio normal (163 % del cuartil bajo de 15200)"
+ },
+ {
+  "fecha": "2026-11-01T15:40:54.395352+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 54 Ref. M79000N Complete Set + Extra bracelet",
+  "total": 3599.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307260476413",
+  "item_id": "v1|307260476413|0",
+  "referencia": "M79000N",
+  "mercado": {
+   "n": 1,
+   "p25": 3845,
+   "mediana": 3845
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 54 (acero, 37 mm, pulsera de eslabones tipo jubilee)",
+   "referencia": "M79000N",
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Con caja, papeles y brazalete extra, el precio pedido (US$3599 con envío) queda por encima del valor de venta cerrada del modelo de segunda mano, por lo que no hay descuento de al menos 15 %."
+  },
+  "motivo": "triage: Con caja, papeles y brazalete extra, el precio pedido (US$3599 con envío) queda por encima del valor de venta cerrada del modelo de segunda mano, por lo que no hay descuento de al menos 15 %. (justo 3100)"
  }
 ]
