@@ -1,75 +1,6 @@
 [
  {
   "fecha": "2026-10-29T20:08:41.778525+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Aqua Terra 38mm Summer Blue 220.10.38.20.03.004 Full Set",
-  "total": 5780.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840072491007",
-  "item_id": "v1|840072491007|0",
-  "referencia": "220.10.38.20.03.004",
-  "mercado": {
-   "n": 1,
-   "p25": 6550,
-   "mediana": 6550
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Aqua Terra 38mm Summer Blue, acero, Master Chronometer",
-   "referencia": "220.10.38.20.03.004",
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "Esfera azul degradada coherente con la referencia; el precio total de 5780 USD supera el rango de venta usado con caja y papeles, así que no cumple el umbral del 15 %."
-  },
-  "motivo": "triage: Esfera azul degradada coherente con la referencia; el precio total de 5780 USD supera el rango de venta usado con caja y papeles, así que no cumple el umbral del 15 %. (justo 5000)"
- },
- {
-  "fecha": "2026-10-29T20:08:41.778525+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Seamaster Planet Ocean Ultra Deep 6000M 215.30.46.21.03.002 45.5mm",
-  "total": 13895.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840072484594",
-  "item_id": "v1|840072484594|0",
-  "referencia": "215.30.46.21.03.002",
-  "mercado": {
-   "n": 2,
-   "p25": 10000,
-   "mediana": 11173
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Planet Ocean Ultra Deep 6000M 45.5 mm, esfera azul, brazalete de acero",
-   "referencia": "215.30.46.21.03.002",
-   "precio_justo_usd": 8800,
-   "interesante": false,
-   "nota": "Pedido de 13.895 USD supera ampliamente el precio de venta de mercado (aprox. 8.500-9.200 con caja y papeles); no es una oportunidad."
-  },
-  "motivo": "triage: Pedido de 13.895 USD supera ampliamente el precio de venta de mercado (aprox. 8.500-9.200 con caja y papeles); no es una oportunidad. (justo 8800)"
- },
- {
-  "fecha": "2026-10-29T20:08:41.778525+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Diver GMT Steel Mens Watch 212.30.44.52.01.001 Box Card",
-  "total": 5400.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257824063667",
-  "item_id": "v1|257824063667|0",
-  "referencia": "212.30.44.52.01.001",
-  "mercado": {
-   "n": 3,
-   "p25": 4045,
-   "mediana": 4250
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Diver 300M Co-Axial GMT Chronograph (acero, bisel de cerámica negra)",
-   "referencia": "212.30.44.52.01.001",
-   "precio_justo_usd": 4200,
-   "interesante": false,
-   "nota": "Precio pedido de US$5400 está por encima del valor de venta cerrada estimado para esta referencia de segunda mano con caja y papeles, en estado Good."
-  },
-  "motivo": "triage: Precio pedido de US$5400 está por encima del valor de venta cerrada estimado para esta referencia de segunda mano con caja y papeles, en estado Good. (justo 4200)"
- },
- {
-  "fecha": "2026-10-29T20:08:41.778525+00:00",
   "marca": "Breitling",
   "titulo": "Breitling Old Navitimer II Chronograph Stainless Steel/Yellow Gold Ref.D13022",
   "total": 5525.0,
@@ -11126,5 +11057,56 @@
    "nota": "Con caja, papeles y brazalete extra, el precio pedido (US$3599 con envío) queda por encima del valor de venta cerrada del modelo de segunda mano, por lo que no hay descuento de al menos 15 %."
   },
   "motivo": "triage: Con caja, papeles y brazalete extra, el precio pedido (US$3599 con envío) queda por encima del valor de venta cerrada del modelo de segunda mano, por lo que no hay descuento de al menos 15 %. (justo 3100)"
+ },
+ {
+  "fecha": "2026-11-01T15:55:54.749738+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Day-Date 36, President Bracelet, Diamond Dial, Yellow Gold, 18038",
+  "total": 23055.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/366776369617",
+  "item_id": "v1|366776369617|0",
+  "referencia": "18038",
+  "mercado": {
+   "n": 18,
+   "p25": 9369,
+   "mediana": 10484
+  },
+  "ratio_mercado": 2.461,
+  "motivo": "precio normal (246 % del cuartil bajo de 18038)"
+ },
+ {
+  "fecha": "2026-11-01T15:55:54.749738+00:00",
+  "marca": "Rolex",
+  "titulo": "VINTAGE Rolex Oyster Perpetual 1005 14K Gold Steel Two Tone Mens Watch RUNS",
+  "total": 4250.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800863510350",
+  "item_id": "v1|800863510350|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual bicolor acero/oro 14K con bisel acanalado",
+   "referencia": "1005 (posible, verificar en el caso)",
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Precio pedido de US$4250 muy por encima del valor de venta cerrada para esta referencia bicolor vintage en estado Good; no hay margen de compra."
+  },
+  "motivo": "triage: Precio pedido de US$4250 muy por encima del valor de venta cerrada para esta referencia bicolor vintage en estado Good; no hay margen de compra. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-01T15:55:54.749738+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank XL W5200027 Box + Papers",
+  "total": 3950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137892644428",
+  "item_id": "v1|137892644428|0",
+  "referencia": "W5200027",
+  "mercado": {
+   "n": 5,
+   "p25": 3688,
+   "mediana": 3750
+  },
+  "ratio_mercado": 1.071,
+  "motivo": "precio normal (107 % del cuartil bajo de W5200027)"
  }
 ]
