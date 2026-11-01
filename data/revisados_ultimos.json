@@ -2,57 +2,6 @@
  {
   "fecha": "2026-10-29T20:23:42.228445+00:00",
   "marca": "Omega",
-  "titulo": "Omega Aqua Terra Spectre - Ref. 231.10.42.21.03.004 - 41.5mm Stainless Steel",
-  "total": 6895.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287690438179",
-  "item_id": "v1|287690438179|0",
-  "referencia": "231.10.42.21.03.004",
-  "mercado": {
-   "n": 9,
-   "p25": 6495,
-   "mediana": 6997
-  },
-  "ratio_mercado": 1.062,
-  "motivo": "precio normal (106 % del cuartil bajo de 231.10.42.21.03.004)"
- },
- {
-  "fecha": "2026-10-29T20:23:42.228445+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Speedmaster Day-Date Chronograph Automatic Stainless Steel Watch",
-  "total": 3428.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820293068623",
-  "item_id": "v1|820293068623|0",
-  "triage": {
-   "modelo": "Omega Speedmaster Day-Date (cronógrafo automático, acero, esfera negra)",
-   "referencia": "3220.50 (probable, sin confirmar en la imagen)",
-   "precio_justo_usd": 2400,
-   "interesante": false,
-   "nota": "Precio pedido de US$3428 con envío muy por encima del mercado de segunda mano para esta referencia en estado Good; no hay descuento."
-  },
-  "motivo": "triage: Precio pedido de US$3428 con envío muy por encima del mercado de segunda mano para esta referencia en estado Good; no hay descuento. (justo 2400)"
- },
- {
-  "fecha": "2026-10-29T20:23:42.228445+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Aqua Terra 150M Quartz Stainless Steel With Diamond Markers And",
-  "total": 2394.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820293067980",
-  "item_id": "v1|820293067980|0",
-  "triage": {
-   "modelo": "Omega Seamaster Aqua Terra 150M Quartz 28 mm, acero, esfera blanca con marcadores de diamante",
-   "referencia": "220.10.28.60.55.001 (probable, no verificable en la foto)",
-   "precio_justo_usd": 2100,
-   "interesante": false,
-   "nota": "Modelo de cuarzo de producción actual; el precio pedido de 2394 USD está por encima del rango de venta real usado, así que no hay descuento suficiente."
-  },
-  "motivo": "triage: Modelo de cuarzo de producción actual; el precio pedido de 2394 USD está por encima del rango de venta real usado, así que no hay descuento suficiente. (justo 2100)"
- },
- {
-  "fecha": "2026-10-29T20:23:42.228445+00:00",
-  "marca": "Omega",
   "titulo": "Omega Seamaster 300M Quartz Stainless Steel Watch",
   "total": 1786.0,
   "condicion": "Pre-owned - Good",
@@ -11090,5 +11039,62 @@
    "nota": "Precio pedido por encima del valor de venta real de esta referencia en mercado gris; no hay descuento."
   },
   "motivo": "triage: Precio pedido por encima del valor de venta real de esta referencia en mercado gris; no hay descuento. (justo 3400)"
+ },
+ {
+  "fecha": "2026-11-01T17:55:54.120598+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona 40mm 116509 White Gold 2020",
+  "total": 49899.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147661020367",
+  "item_id": "v1|147661020367|0",
+  "referencia": "116509",
+  "mercado": {
+   "n": 17,
+   "p25": 39990,
+   "mediana": 41790
+  },
+  "ratio_mercado": 1.248,
+  "motivo": "precio normal (125 % del cuartil bajo de 116509)"
+ },
+ {
+  "fecha": "2026-11-01T17:55:54.120598+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Calibre de Cartier Diver 42mm Black DLC WSCA0006 Rubber w. Box",
+  "total": 4449.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920094410594",
+  "item_id": "v1|920094410594|0",
+  "referencia": "WSCA0006",
+  "mercado": {
+   "n": 2,
+   "p25": 4540,
+   "mediana": 4715
+  },
+  "triage": {
+   "modelo": "Cartier Calibre de Cartier Diver 42mm Black DLC",
+   "referencia": "WSCA0006",
+   "precio_justo_usd": 5800,
+   "interesante": false,
+   "nota": "Precio ~23% bajo estimado de venta usada con caja; un descuento tan grande frente a retail sugiere verificar autenticidad y papeles antes de comprar."
+  },
+  "motivo": "triage: Precio ~23% bajo estimado de venta usada con caja; un descuento tan grande frente a retail sugiere verificar autenticidad y papeles antes de comprar. (justo 5800)"
+ },
+ {
+  "fecha": "2026-11-01T17:55:54.120598+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Must Extra-Large (XL) Automatic Steel Watch Ref. WSTA0040 Full Set",
+  "total": 4800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168830934032",
+  "item_id": "v1|168830934032|0",
+  "referencia": "WSTA0040",
+  "mercado": {
+   "n": 7,
+   "p25": 4450,
+   "mediana": 5008
+  },
+  "ratio_mercado": 1.079,
+  "motivo": "precio normal (108 % del cuartil bajo de WSTA0040)"
  }
 ]
