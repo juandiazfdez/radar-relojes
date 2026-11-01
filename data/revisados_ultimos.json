@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-10-29T20:38:42.804430+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Seamaster Diver 300M - 210.30.42.20.01.001 - 2025 - Box & Papers",
-  "total": 4895.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/366767418412",
-  "item_id": "v1|366767418412|0",
-  "referencia": "210.30.42.20.01.001",
-  "mercado": {
-   "n": 14,
-   "p25": 5147,
-   "mediana": 5287
-  },
-  "ratio_mercado": 0.951,
-  "motivo": "precio normal (95 % del cuartil bajo de 210.30.42.20.01.001)"
- },
- {
-  "fecha": "2026-10-29T20:38:42.804430+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "Tag Heuer CV201AP.FC6429 Carrera 41MM Men's Chronograph Black Leather Watch",
-  "total": 4495.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377606576707",
-  "item_id": "v1|377606576707|0",
-  "referencia": "CV201AP.FC6429",
-  "mercado": {
-   "n": 2,
-   "p25": 2500,
-   "mediana": 2606
-  },
-  "triage": {
-   "modelo": "TAG Heuer Carrera Calibre 16 Chronograph 41 mm (acero, esfera negra, correa de piel negra con costuras rojas)",
-   "referencia": "CV201AP.FC6429",
-   "precio_justo_usd": 1700,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de mercado para usado en estado Good; el precio justo estimado ronda 1.500-2.000 USD."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de mercado para usado en estado Good; el precio justo estimado ronda 1.500-2.000 USD. (justo 1700)"
- },
- {
-  "fecha": "2026-10-29T20:38:42.804430+00:00",
   "marca": "TAG Heuer",
   "titulo": "TAG HEUER CARRERA CAR2B80.FC6325 FLYBACK CALIBRE 36 AUTO CHRONOGRAPH MENS WATCH",
   "total": 5995.0,
@@ -11096,5 +11056,39 @@
   },
   "ratio_mercado": 1.216,
   "motivo": "precio normal (122 % del cuartil bajo de 3009)"
+ },
+ {
+  "fecha": "2026-11-01T21:11:03.450819+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 116900 Air King 40mm  Auto Stainless Oyster w/ Box & Card 2019",
+  "total": 7533.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257828965349",
+  "item_id": "v1|257828965349|0",
+  "referencia": "116900",
+  "mercado": {
+   "n": 30,
+   "p25": 8199,
+   "mediana": 8584
+  },
+  "ratio_mercado": 0.919,
+  "motivo": "precio normal (92 % del cuartil bajo de 116900)"
+ },
+ {
+  "fecha": "2026-11-01T21:11:03.450819+00:00",
+  "marca": "Rolex",
+  "titulo": "rolex watch",
+  "total": 6500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800864411136",
+  "item_id": "v1|800864411136|0",
+  "triage": {
+   "modelo": "No identificable con la foto (aparenta ser pulsera/correa dorada; el título solo dice 'rolex watch')",
+   "referencia": null,
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Sin referencia, año ni vista completa del reloj no se puede valorar; la foto no muestra esfera, logotipo ni cierre identificable. Pedir fotos de esfera, caja, número de serie y papeles antes de considerar la compra."
+  },
+  "motivo": "triage: Sin referencia, año ni vista completa del reloj no se puede valorar; la foto no muestra esfera, logotipo ni cierre identificable. Pedir fotos de esfera, caja, número de serie y papeles antes de considerar la compra. (justo 4000)"
  }
 ]
