@@ -2,29 +2,6 @@
  {
   "fecha": "2026-10-29T20:38:42.804430+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG HEUER CARRERA CAR2B80.FC6325 FLYBACK CALIBRE 36 AUTO CHRONOGRAPH MENS WATCH",
-  "total": 5995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377606575345",
-  "item_id": "v1|377606575345|0",
-  "referencia": "CAR2B80.FC6325",
-  "mercado": {
-   "n": 1,
-   "p25": 5693,
-   "mediana": 5693
-  },
-  "triage": {
-   "modelo": "TAG Heuer Carrera Calibre 36 Flyback Chronograph (caja PVD negra, esfera negra, correa de caucho)",
-   "referencia": "CAR2B80.FC6325",
-   "precio_justo_usd": 3900,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de reventa para estado Good; retail cercano a 6.000 USD y el mercado usado está bastante por debajo. Sin caja y papeles, no hay margen para pagar casi retail."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de reventa para estado Good; retail cercano a 6.000 USD y el mercado usado está bastante por debajo. Sin caja y papeles, no hay margen para pagar casi retail. (justo 3900)"
- },
- {
-  "fecha": "2026-10-29T20:38:42.804430+00:00",
-  "marca": "TAG Heuer",
   "titulo": "TAG Heuer Carrera CAS2110.BA0730 Heritage Auto Chronograph Auto Men's Wristwatch",
   "total": 3495.0,
   "condicion": "Pre-owned - Excellent",
@@ -11090,5 +11067,28 @@
    "nota": "Sin referencia, año ni vista completa del reloj no se puede valorar; la foto no muestra esfera, logotipo ni cierre identificable. Pedir fotos de esfera, caja, número de serie y papeles antes de considerar la compra."
   },
   "motivo": "triage: Sin referencia, año ni vista completa del reloj no se puede valorar; la foto no muestra esfera, logotipo ni cierre identificable. Pedir fotos de esfera, caja, número de serie y papeles antes de considerar la compra. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-01T21:26:03.013627+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Rotonde de Cartier Flying Tourbillon White Gold 40mm Watch W1556216",
+  "total": 39950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287697723894",
+  "item_id": "v1|287697723894|0",
+  "referencia": "W1556216",
+  "mercado": {
+   "n": 1,
+   "p25": 53790,
+   "mediana": 53790
+  },
+  "triage": {
+   "modelo": "Cartier Rotonde de Cartier Flying Tourbillon",
+   "referencia": "W1556216",
+   "precio_justo_usd": 60000,
+   "interesante": false,
+   "nota": "Precio muy por debajo del mercado para un tourbillon volante en oro blanco; la imagen y el precio sugieren posible replica o listado enganoso. Verificar con serie, papeles y autenticidad antes de considerarlo."
+  },
+  "motivo": "triage: Precio muy por debajo del mercado para un tourbillon volante en oro blanco; la imagen y el precio sugieren posible replica o listado enganoso. Verificar con serie, papeles y autenticidad antes de considerarlo. (justo 60000)"
  }
 ]
