@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-10-29T20:38:42.804430+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex Oyster Princeton Men’s WW2 Military Watch",
-  "total": 1950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227589077568",
-  "item_id": "v1|227589077568|0",
-  "triage": {
-   "modelo": "Rolex Princeton (posible, reloj de vestir de oro con segundero pequeño a las 6; no es un reloj militar WW2)",
-   "referencia": null,
-   "precio_justo_usd": 1300,
-   "interesante": false,
-   "nota": "El título habla de militar WW2, pero la foto muestra una caja dorada de vestir, no un militar. Sin ver el material (oro macizo vs. chapado), el movimiento y la firma, el precio pedido de 1950 USD no está por debajo del valor de mercado."
-  },
-  "motivo": "triage: El título habla de militar WW2, pero la foto muestra una caja dorada de vestir, no un militar. Sin ver el material (oro macizo vs. chapado), el movimiento y la firma, el precio pedido de 1950 USD no está por debajo del valor de mercado. (justo 1300)"
- },
- {
-  "fecha": "2026-10-29T20:38:42.804430+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Panthère de Cartier W2PN0019",
   "total": 11000.0,
@@ -11096,5 +11079,28 @@
    "nota": "Precio pedido de US$10,050 supera el valor de venta cerrada estimado para una 16233 champán de condición buena, aunque no parezca falsa."
   },
   "motivo": "triage: Precio pedido de US$10,050 supera el valor de venta cerrada estimado para una 16233 champán de condición buena, aunque no parezca falsa. (justo 8200)"
+ },
+ {
+  "fecha": "2026-11-01T20:26:03.327899+00:00",
+  "marca": "Cartier",
+  "titulo": "CARTIER BALLON BLEU FACTORY DIAMONDS LADIES WATCH W4BB0015 3009 B&P's",
+  "total": 6395.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800864297373",
+  "item_id": "v1|800864297373|0",
+  "referencia": "W4BB0015",
+  "mercado": {
+   "n": 4,
+   "p25": 7077,
+   "mediana": 7234
+  },
+  "triage": {
+   "modelo": "Cartier Ballon Bleu 28 mm, acero con bisel de diamantes, esfera plateada",
+   "referencia": "W4BB0015",
+   "precio_justo_usd": 5500,
+   "interesante": false,
+   "nota": "El precio pedido no está 15 % o más por debajo del mercado, y el término 'Factory' en el título es una señal de posible réplica."
+  },
+  "motivo": "triage: El precio pedido no está 15 % o más por debajo del mercado, y el término 'Factory' en el título es una señal de posible réplica. (justo 5500)"
  }
 ]
