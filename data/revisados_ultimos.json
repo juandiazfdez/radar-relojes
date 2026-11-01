@@ -2,29 +2,6 @@
  {
   "fecha": "2026-10-29T19:23:42.013090+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG HEUER CARRERA CV201AR.BA0715 AUTOMATIC CHORNOGRAPH CERAMIC MENS BLUE WATCH",
-  "total": 3495.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377606445006",
-  "item_id": "v1|377606445006|0",
-  "referencia": "CV201AR.BA0715",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "TAG Heuer Carrera Calibre 16 Automatic Chronograph, esfera azul, brazalete de acero",
-   "referencia": "CV201AR.BA0715",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Precio pedido por encima de la estimación de venta cerrada en el usado; el título menciona cerámica y tiene erratas, conviene verificar bisel, papeles y estado."
-  },
-  "motivo": "triage: Precio pedido por encima de la estimación de venta cerrada en el usado; el título menciona cerámica y tiene erratas, conviene verificar bisel, papeles y estado. (justo 3000)"
- },
- {
-  "fecha": "2026-10-29T19:23:42.013090+00:00",
-  "marca": "TAG Heuer",
   "titulo": "TAG Heuer Carrera WV211N.BA0787 Brown Automatic Calibre 5 Men's Steel Watch",
   "total": 2095.0,
   "condicion": "Pre-owned - Excellent",
@@ -11165,5 +11142,22 @@
   },
   "ratio_mercado": 0.851,
   "motivo": "precio normal (85 % del cuartil bajo de 16622)"
+ },
+ {
+  "fecha": "2026-11-01T01:10:32.949463+00:00",
+  "marca": "Rolex",
+  "titulo": "Unworn Rolex Cosmograph Daytona 126500LN Watch and Paper",
+  "total": 40150.0,
+  "condicion": "New without box or papers",
+  "url": "https://www.ebay.com/itm/206666674897",
+  "item_id": "v1|206666674897|0",
+  "referencia": "126500LN",
+  "mercado": {
+   "n": 28,
+   "p25": 34750,
+   "mediana": 38122
+  },
+  "ratio_mercado": 1.155,
+  "motivo": "precio normal (116 % del cuartil bajo de 126500LN)"
  }
 ]
