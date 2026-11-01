@@ -7230,7 +7230,7 @@
   "max": 8220
  },
  "Cartier 2384|usado": {
-  "fecha": "2026-10-30",
+  "fecha": "2026-11-01",
   "consulta": "Cartier 2384",
   "n": 39,
   "mediana": 4095,
@@ -12835,10 +12835,10 @@
   "max": 1350
  },
  "Rolex 16803|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-11-01",
   "consulta": "Rolex 16803",
-  "n": 15,
-  "mediana": 11295,
+  "n": 16,
+  "mediana": 11097,
   "p25": 9974,
   "p75": 11800,
   "min": 8999,
@@ -17783,5 +17783,10 @@
   "p75": 53895,
   "min": 37500,
   "max": 53895
+ },
+ "Cartier WSTA0136|usado": {
+  "fecha": "2026-11-01",
+  "consulta": "Cartier WSTA0136",
+  "n": 0
  }
 }
