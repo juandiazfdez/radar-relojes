@@ -1,102 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T20:08:41.778525+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Aquaracer Diver Chronograph Calibre 16 CAY2112 Men's Watch 300M Auto",
-  "total": 1515.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117493256315",
-  "item_id": "v1|117493256315|0",
-  "referencia": "CAY2112",
-  "mercado": {
-   "n": 1,
-   "p25": 1599,
-   "mediana": 1599
-  },
-  "triage": {
-   "modelo": "TAG Heuer Aquaracer Calibre 16 Chronograph (acero, esfera azul, 43 mm, 300 M)",
-   "referencia": "CAY2112",
-   "precio_justo_usd": 1350,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de reventa estimado para estado Good sin confirmar caja ni papeles; no hay margen de compra."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de reventa estimado para estado Good sin confirmar caja ni papeles; no hay margen de compra. (justo 1350)"
- },
- {
-  "fecha": "2026-10-29T20:23:42.228445+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41 SS 126334 Blue Jubilee 2025 Mint",
-  "total": 16025.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940050387152",
-  "item_id": "v1|940050387152|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 1,
-   "p25": 10389,
-   "mediana": 10389
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 acero y oro blanco, bisel acanalado, esfera azul, brazalete Jubilee",
-   "referencia": "126334",
-   "precio_justo_usd": 15500,
-   "interesante": false,
-   "nota": "Precio pedido por encima de la estimación de venta real para esta referencia; no cumple el umbral de 15 % por debajo del mercado."
-  },
-  "motivo": "triage: Precio pedido por encima de la estimación de venta real para esta referencia; no cumple el umbral de 15 % por debajo del mercado. (justo 15500)"
- },
- {
-  "fecha": "2026-10-29T20:23:42.228445+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Pink Automatic Stainless Steel Watch",
-  "total": 3776.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820293068129",
-  "item_id": "v1|820293068129|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date (posible Date vintage con esfera azul)",
-   "referencia": "1500 (probable, no verificable en la foto)",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "El título dice esfera rosa, pero la foto muestra esfera azul; la discrepancia sugiere listado engañoso. Aun así, el precio está cerca del valor de mercado, no 15% por debajo."
-  },
-  "motivo": "triage: El título dice esfera rosa, pero la foto muestra esfera azul; la discrepancia sugiere listado engañoso. Aun así, el precio está cerca del valor de mercado, no 15% por debajo. (justo 4000)"
- },
- {
-  "fecha": "2026-10-29T20:23:42.228445+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master Pepsi Stainless Steel Watch 16700 w Box And Service Card",
-  "total": 12800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800852879064",
-  "item_id": "v1|800852879064|0",
-  "referencia": "16700",
-  "mercado": {
-   "n": 37,
-   "p25": 12795,
-   "mediana": 14500
-  },
-  "ratio_mercado": 1.0,
-  "motivo": "precio normal (100 % del cuartil bajo de 16700)"
- },
- {
-  "fecha": "2026-10-29T20:23:42.228445+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Pasha Seatimer Automatic Stainless Steel Watch",
-  "total": 3469.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267827529899",
-  "item_id": "v1|267827529899|0",
-  "triage": {
-   "modelo": "Cartier Pasha Seatimer Automatic, acero, esfera plateada",
-   "referencia": "2790 o W31080M7 (no verificable en la foto)",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Precio pedido de US$3469 con envío, por encima de nuestra estimación conservadora para estado Good y referencia no confirmada. Sin caja ni papeles visibles."
-  },
-  "motivo": "triage: Precio pedido de US$3469 con envío, por encima de nuestra estimación conservadora para estado Good y referencia no confirmada. Sin caja ni papeles visibles. (justo 3200)"
- },
- {
   "fecha": "2026-10-29T20:23:42.228445+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Pasha C Automatic Leather And Steel Watch",
@@ -11102,5 +11005,90 @@
   },
   "ratio_mercado": 0.993,
   "motivo": "precio normal (99 % del cuartil bajo de 79230N)"
+ },
+ {
+  "fecha": "2026-11-01T16:25:54.159172+00:00",
+  "marca": "Rolex",
+  "titulo": "2021 NEW CARD ROLEX SUBMARINER DATE 126613LN BLACK 18K GOLD STEEL TWO TONE WATCH",
+  "total": 16600.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336873562033",
+  "item_id": "v1|336873562033|0",
+  "referencia": "126613LN",
+  "mercado": {
+   "n": 19,
+   "p25": 17250,
+   "mediana": 17500
+  },
+  "ratio_mercado": 0.962,
+  "motivo": "precio normal (96 % del cuartil bajo de 126613LN)"
+ },
+ {
+  "fecha": "2026-11-01T16:25:54.159172+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 79360N",
+  "total": 4600.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227592923705",
+  "item_id": "v1|227592923705|0",
+  "referencia": "79360N",
+  "mercado": {
+   "n": 58,
+   "p25": 4700,
+   "mediana": 5346
+  },
+  "ratio_mercado": 0.979,
+  "motivo": "precio normal (98 % del cuartil bajo de 79360N)"
+ },
+ {
+  "fecha": "2026-11-01T16:25:54.159172+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Boutique Blue BB Chrono M79360B-0002 - Full Box Set ",
+  "total": 5300.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940057661117",
+  "item_id": "v1|940057661117|0",
+  "referencia": "M79360B-0002",
+  "mercado": {
+   "n": 8,
+   "p25": 5249,
+   "mediana": 5377
+  },
+  "ratio_mercado": 1.01,
+  "motivo": "precio normal (101 % del cuartil bajo de M79360B-0002)"
+ },
+ {
+  "fecha": "2026-11-01T16:25:54.159172+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 Fifty-Eight 79030B Blue 39mm Steel Full Set 2022 Warranty",
+  "total": 3515.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960141301905",
+  "item_id": "v1|960141301905|0",
+  "referencia": "79030B",
+  "mercado": {
+   "n": 15,
+   "p25": 3495,
+   "mediana": 3575
+  },
+  "ratio_mercado": 1.006,
+  "motivo": "precio normal (101 % del cuartil bajo de 79030B)"
+ },
+ {
+  "fecha": "2026-11-01T16:25:54.159172+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Pelagos 42  256000TN - Full Box set",
+  "total": 4200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940057634545",
+  "item_id": "v1|940057634545|0",
+  "triage": {
+   "modelo": "Tudor Pelagos 42 (titanio, esfera negra)",
+   "referencia": "25600TN (el título dice 256000TN, probablemente un error de tipeo)",
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta cerrada para un 25600TN usado en buen estado con caja y papeles; no hay descuento claro."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta cerrada para un 25600TN usado en buen estado con caja y papeles; no hay descuento claro. (justo 3600)"
  }
 ]
