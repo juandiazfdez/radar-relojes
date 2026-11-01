@@ -1,30 +1,6 @@
 [
  {
   "fecha": "2026-10-29T19:53:42.407721+00:00",
-  "marca": "Breitling",
-  "titulo": "BREITLING Watch A13370 SUPER AVENGER automatic chronograph BLUE dial, 48mm, WOW!",
-  "total": 2999.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940050318760",
-  "item_id": "v1|940050318760|0",
-  "referencia": "A13370",
-  "mercado": {
-   "n": 41,
-   "p25": 3800,
-   "mediana": 5000
-  },
-  "ratio_mercado": 0.789,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 3400,
-   "riesgo_autenticidad": "medio",
-   "estado": "Muy buen estado visible, con desgaste mínimo en caja y brazalete; sin fondo de caja ni movimiento a la vista"
-  },
-  "ratio_justo": 0.882,
-  "motivo": "precio normal segun revision (88 % del justo 3400)"
- },
- {
-  "fecha": "2026-10-29T19:53:42.407721+00:00",
   "marca": "TAG Heuer",
   "titulo": "TAG Heuer Aquaracer Diver Calibre 5 Automatic Men's Watch WAY201A 43mm",
   "total": 1645.0,
@@ -11159,5 +11135,22 @@
    "nota": "Referencia 1500 vintage en acero con estado Fair; el precio pedido de US$3144 está por encima del valor de venta estimado, y la esfera rosada difiere del blanco anunciado."
   },
   "motivo": "triage: Referencia 1500 vintage en acero con estado Fair; el precio pedido de US$3144 está por encima del valor de venta estimado, y la esfera rosada difiere del blanco anunciado. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-01T12:55:54.509916+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 60’s Rolex Ref 7002 Cal 1520 Automatic 14kt GF Men’s Watch Works",
+  "total": 2758.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137892223935",
+  "item_id": "v1|137892223935|0",
+  "triage": {
+   "modelo": "Rolex vintage años 60, caja chapada en oro 14k (gold filled), esfera plateada con marcadores de barra",
+   "referencia": "7002",
+   "precio_justo_usd": 950,
+   "interesante": false,
+   "nota": "Caja chapada en oro, no macizo, con movimiento sin verificar ('Works'); el precio pedido de US$2758 está muy por encima de lo que estas piezas se venden realmente."
+  },
+  "motivo": "triage: Caja chapada en oro, no macizo, con movimiento sin verificar ('Works'); el precio pedido de US$2758 está muy por encima de lo que estas piezas se venden realmente. (justo 950)"
  }
 ]
