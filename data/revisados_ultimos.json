@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-29T20:23:42.228445+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Pasha C Automatic Leather And Steel Watch",
-  "total": 3235.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820293067368",
-  "item_id": "v1|820293067368|0",
-  "triage": {
-   "modelo": "Cartier Pasha C Automatic (acero con bisel de oro rosa, correa de piel marrón)",
-   "referencia": null,
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Pasha C automático de acero y oro rosa, sin referencia legible en la foto. Precio pedido algo superior a la estimación de venta real para estado Good."
-  },
-  "motivo": "triage: Pasha C automático de acero y oro rosa, sin referencia legible en la foto. Precio pedido algo superior a la estimación de venta real para estado Good. (justo 3000)"
- },
- {
-  "fecha": "2026-10-29T20:23:42.228445+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Tank Francaise Quartz Watch Stainless Steel 25",
   "total": 4795.0,
   "condicion": "Pre-owned - Good",
@@ -11090,5 +11073,28 @@
    "nota": "Precio pedido por encima del valor de venta cerrada para un 25600TN usado en buen estado con caja y papeles; no hay descuento claro."
   },
   "motivo": "triage: Precio pedido por encima del valor de venta cerrada para un 25600TN usado en buen estado con caja y papeles; no hay descuento claro. (justo 3600)"
+ },
+ {
+  "fecha": "2026-11-01T16:40:54.273192+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex, Submariner Date, \"Bluesy\", Great Condition, 18K Gold/SS - 126613LB",
+  "total": 17250.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880072160011",
+  "item_id": "v1|880072160011|0",
+  "referencia": "126613LB",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Submariner Date bicolor (Oystersteel y oro Everose 18K), esfera y bisel azules",
+   "referencia": "126613LB",
+   "precio_justo_usd": 20000,
+   "interesante": false,
+   "nota": "Precio pedido de US$17.250 queda unos 14 % por debajo de una estimación conservadora de venta real (~US$20.000) para 126613LB usado en buen estado; no alcanza el umbral del 15 %. Verificar autenticidad, papeles y estado de la caja."
+  },
+  "motivo": "triage: Precio pedido de US$17.250 queda unos 14 % por debajo de una estimación conservadora de venta real (~US$20.000) para 126613LB usado en buen estado; no alcanza el umbral del 15 %. Verificar autenticidad, papeles y estado de la caja. (justo 20000)"
  }
 ]
