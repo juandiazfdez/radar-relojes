@@ -5,23 +5,6 @@
   "titulo": "Omega Seamaster Diver Chrono 300M Steel Auto 44mm Blue Watch 212.30.44.50.03.001",
   "total": 4650.0,
   "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940050323688",
-  "item_id": "v1|940050323688|0",
-  "referencia": "212.30.44.50.03.001",
-  "mercado": {
-   "n": 5,
-   "p25": 4250,
-   "mediana": 4650
-  },
-  "ratio_mercado": 1.094,
-  "motivo": "precio normal (109 % del cuartil bajo de 212.30.44.50.03.001)"
- },
- {
-  "fecha": "2026-10-29T19:53:42.407721+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Diver Chrono 300M Steel Auto 44mm Blue Watch 212.30.44.50.03.001",
-  "total": 4650.0,
-  "condicion": "Pre-owned - Excellent",
   "url": "https://www.ebay.com/itm/940050323480",
   "item_id": "v1|940050323480|0",
   "referencia": "212.30.44.50.03.001",
@@ -11159,5 +11142,22 @@
    "nota": "El título dice NOS pero la condición es 'Pre-owned', una contradicción. Se ve un set completo, pero el precio pedido está por encima del rango de venta cerrada de un Ronde Solo de cuarzo usado."
   },
   "motivo": "triage: El título dice NOS pero la condición es 'Pre-owned', una contradicción. Se ve un set completo, pero el precio pedido está por encima del rango de venta cerrada de un Ronde Solo de cuarzo usado. (justo 2000)"
+ },
+ {
+  "fecha": "2026-11-01T11:25:43.365482+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Stainless Steel Royal Day/Date  Watch 40mm M2840D1A0 Box & Papers 2026",
+  "total": 3180.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327433584423",
+  "item_id": "v1|327433584423|0",
+  "triage": {
+   "modelo": "Tudor Royal Day/Date (acero, esfera negra, brazalete)",
+   "referencia": "M2840D1A0 (según título; no verificable en la imagen, la referencia Royal Day/Date de 40-41 mm podría ser otra)",
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Royal de acero usado en excelente estado con caja y papeles; el precio pedido de US$3,180 está en línea con el mercado y no supera el umbral del 15 %."
+  },
+  "motivo": "triage: Royal de acero usado en excelente estado con caja y papeles; el precio pedido de US$3,180 está en línea con el mercado y no supera el umbral del 15 %. (justo 3100)"
  }
 ]
