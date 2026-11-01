@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T20:23:42.228445+00:00",
-  "marca": "Bulgari",
-  "titulo": "Bvlgari Diagono Automatic Stainless Steel Watch",
-  "total": 2470.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267827529789",
-  "item_id": "v1|267827529789|0",
-  "triage": {
-   "modelo": "Bulgari Diagono Scuba Automatic, acero",
-   "referencia": "SD38S (probable, no verificable en la imagen)",
-   "precio_justo_usd": 2100,
-   "interesante": false,
-   "nota": "Precio pedido de 2470 USD supera la venta real estimada para este modelo en estado Good; no hay indicios de caja o papeles."
-  },
-  "motivo": "triage: Precio pedido de 2470 USD supera la venta real estimada para este modelo en estado Good; no hay indicios de caja o papeles. (justo 2100)"
- },
- {
-  "fecha": "2026-10-29T20:38:42.804430+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Bubbleback Rose Gold & Steel Automatic 32mm Ref. 3696",
-  "total": 6545.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/900049639501",
-  "item_id": "v1|900049639501|0",
-  "triage": {
-   "modelo": "Reloj vintage de oro rosa, caja tipo tonneau/cojín (no se distingue con seguridad como Rolex Bubbleback)",
-   "referencia": null,
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "La foto no confirma Bubbleback ni la ref. 3696; los Bubbleback eran de cuerda manual, no automáticos, y el título menciona acero que no se ve. Precio pedido muy por encima de la estimación."
-  },
-  "motivo": "triage: La foto no confirma Bubbleback ni la ref. 3696; los Bubbleback eran de cuerda manual, no automáticos, y el título menciona acero que no se ve. Precio pedido muy por encima de la estimación. (justo 3500)"
- },
- {
   "fecha": "2026-10-29T20:38:42.804430+00:00",
   "marca": "Rolex",
   "titulo": "Vintage 25mm Rolex Oyster Perpetual Date 6917 Ladies Automatic Wristwatch 18k",
@@ -11102,5 +11068,39 @@
    "nota": "Precio pedido de US$6550 muy por encima del valor de venta real de este modelo de cuarzo usado, aunque tenga buen estado; estimado en torno a US$2,500-3,000."
   },
   "motivo": "triage: Precio pedido de US$6550 muy por encima del valor de venta real de este modelo de cuarzo usado, aunque tenga buen estado; estimado en torno a US$2,500-3,000. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-01T19:56:02.809022+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos 2656 W20073X8",
+  "total": 4979.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257828847095",
+  "item_id": "v1|257828847095|0",
+  "referencia": "2656",
+  "mercado": {
+   "n": 28,
+   "p25": 5250,
+   "mediana": 5510
+  },
+  "ratio_mercado": 0.948,
+  "motivo": "precio normal (95 % del cuartil bajo de 2656)"
+ },
+ {
+  "fecha": "2026-11-01T19:56:02.809022+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Monarch Dark Champagne Stainless Steel 39mm Automatic Mens Watch 2639W1A0U",
+  "total": 6900.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/137893097994",
+  "item_id": "v1|137893097994|0",
+  "triage": {
+   "modelo": "Tudor Monarch Dark Champagne (acero, 39 mm, automático)",
+   "referencia": "2639W1A0U (no verificable en la foto; las referencias actuales de Tudor suelen usar prefijo M)",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Nuevo con caja y papeles, el mercado gris suele estar en torno a US$3,000-3,500, muy por debajo de los US$6,900 pedidos. La foto muestra un modelo con correa azul distinto al anunciado, así que conviene verificar el listado."
+  },
+  "motivo": "triage: Nuevo con caja y papeles, el mercado gris suele estar en torno a US$3,000-3,500, muy por debajo de los US$6,900 pedidos. La foto muestra un modelo con correa azul distinto al anunciado, así que conviene verificar el listado. (justo 3300)"
  }
 ]
