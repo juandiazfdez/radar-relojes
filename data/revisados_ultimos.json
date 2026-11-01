@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-29T19:53:42.407721+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Formula 1 Swiss Made WAH1313 Women’s Watch White Ceramic Diamond 32mm",
-  "total": 1499.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128162986893",
-  "item_id": "v1|128162986893|0",
-  "referencia": "WAH1313",
-  "mercado": {
-   "n": 6,
-   "p25": 1200,
-   "mediana": 1630
-  },
-  "ratio_mercado": 1.25,
-  "motivo": "precio normal (125 % del cuartil bajo de WAH1313)"
- },
- {
-  "fecha": "2026-10-29T19:53:42.407721+00:00",
-  "marca": "TAG Heuer",
   "titulo": "Tag Heuer Carrera Chronograph Stainless Steel Watch CBN201D",
   "total": 4500.0,
   "condicion": "New with box and papers",
@@ -11146,5 +11129,22 @@
    "nota": "Precio pedido de US$2650 está muy por encima del valor de reventa del Must de Cartier vermeil usado (aprox. US$900-1,300). No se mencionan papeles y la foto no permite confirmar la referencia."
   },
   "motivo": "triage: Precio pedido de US$2650 está muy por encima del valor de reventa del Must de Cartier vermeil usado (aprox. US$900-1,300). No se mencionan papeles y la foto no permite confirmar la referencia. (justo 1100)"
+ },
+ {
+  "fecha": "2026-11-01T14:25:53.692760+00:00",
+  "marca": "Rolex",
+  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
+  "total": 16450.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327433806837",
+  "item_id": "v1|327433806837|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date (generación actual, bisel negro cerámica, acero)",
+   "referencia": "126610LN (probable, no confirmada en la foto)",
+   "precio_justo_usd": 14500,
+   "interesante": false,
+   "nota": "Set completo con caja y papeles, pero la referencia exacta no se distingue bien en la imagen. Precio pedido por encima del mercado secundario estimado para este modelo."
+  },
+  "motivo": "triage: Set completo con caja y papeles, pero la referencia exacta no se distingue bien en la imagen. Precio pedido por encima del mercado secundario estimado para este modelo. (justo 14500)"
  }
 ]
