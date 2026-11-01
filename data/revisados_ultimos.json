@@ -2,29 +2,6 @@
  {
   "fecha": "2026-10-29T19:53:42.407721+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Aquaracer Diver Calibre 5 Automatic Men's Watch WAY201A 43mm",
-  "total": 1645.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336869367111",
-  "item_id": "v1|336869367111|0",
-  "referencia": "WAY201A",
-  "mercado": {
-   "n": 1,
-   "p25": 1905,
-   "mediana": 1905
-  },
-  "triage": {
-   "modelo": "TAG Heuer Aquaracer Calibre 5 Automatic 43mm (esfera negra, bisel cerámico, correa de caucho)",
-   "referencia": "WAY201A",
-   "precio_justo_usd": 1750,
-   "interesante": false,
-   "nota": "Precio pedido de US$1645 con envío, unos 6 % por debajo de un valor de venta conservador; no alcanza el umbral del 15 % para considerarlo interesante."
-  },
-  "motivo": "triage: Precio pedido de US$1645 con envío, unos 6 % por debajo de un valor de venta conservador; no alcanza el umbral del 15 % para considerarlo interesante. (justo 1750)"
- },
- {
-  "fecha": "2026-10-29T19:53:42.407721+00:00",
-  "marca": "TAG Heuer",
   "titulo": "TAG Heuer Formula 1 Swiss Made WAH1313 Women’s Watch White Ceramic Diamond 32mm",
   "total": 1499.99,
   "condicion": "Pre-owned - Good",
@@ -11152,5 +11129,22 @@
    "nota": "Caja chapada en oro, no macizo, con movimiento sin verificar ('Works'); el precio pedido de US$2758 está muy por encima de lo que estas piezas se venden realmente."
   },
   "motivo": "triage: Caja chapada en oro, no macizo, con movimiento sin verificar ('Works'); el precio pedido de US$2758 está muy por encima de lo que estas piezas se venden realmente. (justo 950)"
+ },
+ {
+  "fecha": "2026-11-01T13:40:54.482499+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Authentic Ladies Cartier Tank Watch, Presentation Box, Cartier Gift Bag.",
+  "total": 2650.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960140792717",
+  "item_id": "v1|960140792717|0",
+  "triage": {
+   "modelo": "Cartier Tank Must de Cartier (vermeil, dorado, esfera plateada, numerales romanos, cabujón azul), tamaño pequeño/mediano, cuarzo",
+   "referencia": null,
+   "precio_justo_usd": 1100,
+   "interesante": false,
+   "nota": "Precio pedido de US$2650 está muy por encima del valor de reventa del Must de Cartier vermeil usado (aprox. US$900-1,300). No se mencionan papeles y la foto no permite confirmar la referencia."
+  },
+  "motivo": "triage: Precio pedido de US$2650 está muy por encima del valor de reventa del Must de Cartier vermeil usado (aprox. US$900-1,300). No se mencionan papeles y la foto no permite confirmar la referencia. (justo 1100)"
  }
 ]
