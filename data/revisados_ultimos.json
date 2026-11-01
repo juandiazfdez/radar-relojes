@@ -1,52 +1,6 @@
 [
  {
   "fecha": "2026-10-29T20:53:42.134622+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona 116500 LN Panda White Stainless Steel Ceramic 40mm Box Papers",
-  "total": 34500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198755454620",
-  "item_id": "v1|198755454620|0",
-  "referencia": "116500",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Cosmograph Daytona (esfera blanca, bisel de cerámica negra, brazalete Oyster de acero)",
-   "referencia": "116500LN",
-   "precio_justo_usd": 28000,
-   "interesante": false,
-   "nota": "Precio pedido de 34.500 USD supera el valor de venta cerrada de un 116500LN con caja y papeles (aprox. 26.000-30.000 USD); no hay descuento que aprovechar."
-  },
-  "motivo": "triage: Precio pedido de 34.500 USD supera el valor de venta cerrada de un 116500LN con caja y papeles (aprox. 26.000-30.000 USD); no hay descuento que aprovechar. (justo 28000)"
- },
- {
-  "fecha": "2026-10-29T20:53:42.134622+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Fastrider Black Shield 42000CR 42mm Black Ceramic Automatic Chronograph",
-  "total": 2895.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/227589088618",
-  "item_id": "v1|227589088618|0",
-  "referencia": "42000CR",
-  "mercado": {
-   "n": 4,
-   "p25": 4348,
-   "mediana": 4559
-  },
-  "triage": {
-   "modelo": "Tudor Fastrider Black Shield (cronógrafo automático, caja PVD negra, bisel de cerámica negra, acentos rojos)",
-   "referencia": "42000CR",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Referencia 42000CR de 42 mm, en buen estado, con precio de reventa cercano a US$2,900-3,400 según caja y papeles. El precio pedido queda solo ~3-4 % por debajo, sin margen suficiente para ser oportunidad."
-  },
-  "motivo": "triage: Referencia 42000CR de 42 mm, en buen estado, con precio de reventa cercano a US$2,900-3,400 según caja y papeles. El precio pedido queda solo ~3-4 % por debajo, sin margen suficiente para ser oportunidad. (justo 3000)"
- },
- {
-  "fecha": "2026-10-29T20:53:42.134622+00:00",
   "marca": "Omega",
   "titulo": "2024 Omega Seamaster Diver 300m, Stainless Steel Men’s Watch W/Box & Card",
   "total": 4850.0,
@@ -11079,5 +11033,39 @@
    "nota": "Sin firma Rolex visible ni movimiento; no funciona y requiere verificar autenticidad. Con caja de 9ct genuina podría valer algo más como pieza, pero 1204 USD no queda 15% por debajo del valor realista."
   },
   "motivo": "triage: Sin firma Rolex visible ni movimiento; no funciona y requiere verificar autenticidad. Con caja de 9ct genuina podría valer algo más como pieza, pero 1204 USD no queda 15% por debajo del valor realista. (justo 1000)"
+ },
+ {
+  "fecha": "2026-11-01T23:26:03.055363+00:00",
+  "marca": "Rolex",
+  "titulo": "2024 Rolex GMT-Master II PEPSI RED BLUE Black Steel 40mm 126710BLRO Date Watch",
+  "total": 24475.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940058404352",
+  "item_id": "v1|940058404352|0",
+  "referencia": "126710BLRO",
+  "mercado": {
+   "n": 25,
+   "p25": 24499,
+   "mediana": 24999
+  },
+  "ratio_mercado": 0.999,
+  "motivo": "precio normal (100 % del cuartil bajo de 126710BLRO)"
+ },
+ {
+  "fecha": "2026-11-01T23:26:03.055363+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Fifty-Eight 79010SG Silver Box and Papers Clean Mens Watch 925",
+  "total": 3670.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940058415005",
+  "item_id": "v1|940058415005|0",
+  "referencia": "79010SG",
+  "mercado": {
+   "n": 11,
+   "p25": 3950,
+   "mediana": 4250
+  },
+  "ratio_mercado": 0.929,
+  "motivo": "precio normal (93 % del cuartil bajo de 79010SG)"
  }
 ]
