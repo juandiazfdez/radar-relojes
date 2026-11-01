@@ -2,29 +2,6 @@
  {
   "fecha": "2026-10-29T20:38:42.804430+00:00",
   "marca": "Rolex",
-  "titulo": "Vintage 25mm Rolex Oyster Perpetual Date 6917 Ladies Automatic Wristwatch 18k",
-  "total": 3276.19,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147657207048",
-  "item_id": "v1|147657207048|0",
-  "referencia": "6917",
-  "mercado": {
-   "n": 38,
-   "p25": 3990,
-   "mediana": 4178
-  },
-  "ratio_mercado": 0.821,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 2700,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Bueno, con rayones finos; va 20 s/día adelantado, correa de cuero no original y fondo grabado"
-  },
-  "motivo": "Claude descarto: El precio de 3276 USD queda por debajo de los precios pedidos (cuartil bajo 3990, mediana 4178), pero esos comparables están inflados. Una 6917 bicolor en estado similar se vende realmente en torno a 2600-3000 USD, así que el precio no es una ganga.; Viene sin caja ni papeles y sin brazalete Rolex original. La correa de cuero con hebilla de acero genérica resta valor, porque en el mercado las 6917 valen más con su brazalete Jubilee u Oyster."
- },
- {
-  "fecha": "2026-10-29T20:38:42.804430+00:00",
-  "marca": "Rolex",
   "titulo": "Vintage Rolex Oyster Princeton Men’s WW2 Military Watch",
   "total": 1950.0,
   "condicion": "Pre-owned - Good",
@@ -11102,5 +11079,22 @@
    "nota": "Nuevo con caja y papeles, el mercado gris suele estar en torno a US$3,000-3,500, muy por debajo de los US$6,900 pedidos. La foto muestra un modelo con correa azul distinto al anunciado, así que conviene verificar el listado."
   },
   "motivo": "triage: Nuevo con caja y papeles, el mercado gris suele estar en torno a US$3,000-3,500, muy por debajo de los US$6,900 pedidos. La foto muestra un modelo con correa azul distinto al anunciado, así que conviene verificar el listado. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-01T20:11:02.911135+00:00",
+  "marca": "Rolex",
+  "titulo": "36mm Rolex Datejust Oyster Perpetual Two-Tone Jubilee Champagne Dial.",
+  "total": 10050.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206668524091",
+  "item_id": "v1|206668524091|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 mm acero y oro amarillo, bisel acanalado de oro, esfera champán con índices de barra y brazalete Jubilee",
+   "referencia": "16233 (probable, verificar grabado de serie y fecha)",
+   "precio_justo_usd": 8200,
+   "interesante": false,
+   "nota": "Precio pedido de US$10,050 supera el valor de venta cerrada estimado para una 16233 champán de condición buena, aunque no parezca falsa."
+  },
+  "motivo": "triage: Precio pedido de US$10,050 supera el valor de venta cerrada estimado para una 16233 champán de condición buena, aunque no parezca falsa. (justo 8200)"
  }
 ]
