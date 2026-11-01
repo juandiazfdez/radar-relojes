@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-29T20:23:42.228445+00:00",
   "marca": "Omega",
-  "titulo": "Omega Seamaster 300M Quartz Stainless Steel Watch",
-  "total": 1786.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820293067906",
-  "item_id": "v1|820293067906|0",
-  "triage": {
-   "modelo": "Omega Seamaster 300M Professional (cuarzo, acero, esfera azul con patrón de ondas, bisel unidireccional, tamaño pequeño aprox. 28-30 mm)",
-   "referencia": "Probablemente 2561.80 o similar; no verificable en la imagen",
-   "precio_justo_usd": 850,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de venta real de este modelo de cuarzo usado en buen estado; no parece oportunidad."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de venta real de este modelo de cuarzo usado en buen estado; no parece oportunidad. (justo 850)"
- },
- {
-  "fecha": "2026-10-29T20:23:42.228445+00:00",
-  "marca": "Omega",
   "titulo": "Omega Speedmaster Chronograph Automatic Steel Watch",
   "total": 3681.0,
   "condicion": "Pre-owned - Good",
@@ -11096,5 +11079,22 @@
   },
   "ratio_mercado": 1.079,
   "motivo": "precio normal (108 % del cuartil bajo de WSTA0040)"
+ },
+ {
+  "fecha": "2026-11-01T18:26:03.624726+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 40mm 116619LB Smurf White Gold 2014",
+  "total": 44999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147661044827",
+  "item_id": "v1|147661044827|0",
+  "referencia": "116619LB",
+  "mercado": {
+   "n": 5,
+   "p25": 43990,
+   "mediana": 50699
+  },
+  "ratio_mercado": 1.023,
+  "motivo": "precio normal (102 % del cuartil bajo de 116619LB)"
  }
 ]
