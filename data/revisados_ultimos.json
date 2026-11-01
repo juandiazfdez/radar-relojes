@@ -1,86 +1,6 @@
 [
  {
   "fecha": "2026-10-29T20:23:42.228445+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Royal Day-Date 28603",
-  "total": 4850.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820293087278",
-  "item_id": "v1|820293087278|0",
-  "referencia": "28603",
-  "mercado": {
-   "n": 2,
-   "p25": 3525,
-   "mediana": 4012
-  },
-  "triage": {
-   "modelo": "Tudor Royal (versión bicolor acero y oro, esfera champán, ventana de fecha)",
-   "referencia": "28603",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "El título dice 'Day-Date', pero la Royal no tiene esa complicación; es un modelo de fecha. Precio pedido muy por encima del valor de reventa."
-  },
-  "motivo": "triage: El título dice 'Day-Date', pero la Royal no tiene esa complicación; es un modelo de fecha. Precio pedido muy por encima del valor de reventa. (justo 3300)"
- },
- {
-  "fecha": "2026-10-29T20:23:42.228445+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Heritage Black Bay Automatic Stainless Steel Watch",
-  "total": 3767.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267827530057",
-  "item_id": "v1|267827530057|0",
-  "triage": {
-   "modelo": "Tudor Black Bay Dark 41 (caja y brazalete DLC negros)",
-   "referencia": "79230DK (probable; verificar grabado en la caja)",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Precio pedido de 3767 USD por estado Good está por encima del valor de venta cerrada en EE. UU. para esta referencia de segunda mano; no hay descuento."
-  },
-  "motivo": "triage: Precio pedido de 3767 USD por estado Good está por encima del valor de venta cerrada en EE. UU. para esta referencia de segunda mano; no hay descuento. (justo 3200)"
- },
- {
-  "fecha": "2026-10-29T20:23:42.228445+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai Luminor Marina Automatic Stainless Steel Watch",
-  "total": 4749.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820293067994",
-  "item_id": "v1|820293067994|0",
-  "triage": {
-   "modelo": "Panerai Luminor Marina 1950 3 Days Automatic (acero, esfera negra, correa de piel)",
-   "referencia": null,
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "Precio apenas 5% por debajo de la estimación conservadora; sin caja ni papeles confirmados y la referencia exacta no se puede verificar desde la foto."
-  },
-  "motivo": "triage: Precio apenas 5% por debajo de la estimación conservadora; sin caja ni papeles confirmados y la referencia exacta no se puede verificar desde la foto. (justo 5000)"
- },
- {
-  "fecha": "2026-10-29T20:23:42.228445+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Constellation 123.20.38.22.02.002 Undated Card",
-  "total": 6000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820293088519",
-  "item_id": "v1|820293088519|0",
-  "referencia": "123.20.38.22.02.002",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Omega Constellation de acero y oro amarillo, esfera plateada, brazalete integrado (generación actual, con bisel pulido)",
-   "referencia": "123.20.38.22.02.002",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Pedido de US$6000 muy por encima del precio de venta real de esta referencia usada (aprox. US$2800-3800). No cumple el criterio de oportunidad."
-  },
-  "motivo": "triage: Pedido de US$6000 muy por encima del precio de venta real de esta referencia usada (aprox. US$2800-3800). No cumple el criterio de oportunidad. (justo 3200)"
- },
- {
-  "fecha": "2026-10-29T20:23:42.228445+00:00",
   "marca": "Omega",
   "titulo": "OMEGA Speedmaster Super Racing 329.30.44.51.01.003",
   "total": 11500.0,
@@ -11102,5 +11022,79 @@
    "nota": "Precio pedido de US$3,500 supera el valor de venta de un BB58 de acero de 2025 con caja y papeles (aprox. US$3,000-3,300), así que no ofrece descuento."
   },
   "motivo": "triage: Precio pedido de US$3,500 supera el valor de venta de un BB58 de acero de 2025 con caja y papeles (aprox. US$3,000-3,300), así que no ofrece descuento. (justo 3100)"
+ },
+ {
+  "fecha": "2026-11-01T17:25:54.541997+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36 36mm Watch with original box and papers",
+  "total": 6950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147660993814",
+  "item_id": "v1|147660993814|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 (acero, bisel liso, esfera negra con numerales romanos, brazalete Oyster)",
+   "referencia": "116200",
+   "precio_justo_usd": 7200,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para la 116200 con caja y papeles en estado bueno; el descuento es menor al 15 %."
+  },
+  "motivo": "triage: Precio cercano al mercado para la 116200 con caja y papeles en estado bueno; el descuento es menor al 15 %. (justo 7200)"
+ },
+ {
+  "fecha": "2026-11-01T17:25:54.541997+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos 100MM Midsize Automatic W20126X8 Silver Excellent Condition w Box",
+  "total": 4499.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940057788137",
+  "item_id": "v1|940057788137|0",
+  "triage": {
+   "modelo": "Cartier Santos 100 (mediano, acero, automático)",
+   "referencia": "W20126X8",
+   "precio_justo_usd": 4200,
+   "interesante": false,
+   "nota": "Precio pedido cercano al valor de mercado para un Santos 100 mediano de acero en estado Good con caja; no hay descuento de al menos 15 %."
+  },
+  "motivo": "triage: Precio pedido cercano al valor de mercado para un Santos 100 mediano de acero en estado Good con caja; no hay descuento de al menos 15 %. (justo 4200)"
+ },
+ {
+  "fecha": "2026-11-01T17:25:54.541997+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster XL Chronograph 3405 Automatic Steel Watch Box Papers Runs Well",
+  "total": 6015.0,
+  "condicion": "For parts or not working",
+  "url": "https://www.ebay.com/itm/960141446819",
+  "item_id": "v1|960141446819|0",
+  "referencia": "3405",
+  "mercado": {
+   "n": 1,
+   "p25": 6495,
+   "mediana": 6495
+  },
+  "triage": {
+   "modelo": "Cartier Roadster XL Chronograph (acero), caja roja de Cartier",
+   "referencia": "3405 (según el título; no verificable en la imagen)",
+   "precio_justo_usd": 5800,
+   "interesante": false,
+   "nota": "La foto solo muestra la caja roja de Cartier, no el reloj. El título dice 'Runs Well' pero la condición indica 'For parts or not working', y no se puede verificar el estado. Con esas dudas, el precio de US$6015 no está 15 % por debajo del valor de mercado."
+  },
+  "motivo": "triage: La foto solo muestra la caja roja de Cartier, no el reloj. El título dice 'Runs Well' pero la condición indica 'For parts or not working', y no se puede verificar el estado. Con esas dudas, el precio de US$6015 no está 15 % por debajo del valor de mercado. (justo 5800)"
+ },
+ {
+  "fecha": "2026-11-01T17:25:54.541997+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Chrono 79360N White Panda Box + Papers 2026",
+  "total": 5650.0,
+  "condicion": "New with imperfections",
+  "url": "https://www.ebay.com/itm/137892826302",
+  "item_id": "v1|137892826302|0",
+  "referencia": "79360N",
+  "mercado": {
+   "n": 32,
+   "p25": 6143,
+   "mediana": 9187
+  },
+  "ratio_mercado": 0.92,
+  "motivo": "precio normal (92 % del cuartil bajo de 79360N)"
  }
 ]
