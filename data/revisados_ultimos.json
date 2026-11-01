@@ -1,29 +1,6 @@
 [
  {
   "fecha": "2026-10-29T20:08:41.778525+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Old Navitimer II Chronograph Stainless Steel/Yellow Gold Ref.D13022",
-  "total": 5525.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407325282940",
-  "item_id": "v1|407325282940|0",
-  "referencia": "D13022",
-  "mercado": {
-   "n": 3,
-   "p25": 2500,
-   "mediana": 2810
-  },
-  "triage": {
-   "modelo": "Breitling Old Navitimer II Chronograph, acero y oro amarillo",
-   "referencia": "D13022",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Precio pedido de US$5525 por encima del valor de venta cerrada para esta referencia bicolor en estado Good; no parece una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$5525 por encima del valor de venta cerrada para esta referencia bicolor en estado Good; no parece una oportunidad. (justo 3200)"
- },
- {
-  "fecha": "2026-10-29T20:08:41.778525+00:00",
   "marca": "TAG Heuer",
   "titulo": "TAG Heuer Aquaracer Diver Chronograph Calibre 16 CAY2112 Men's Watch 300M Auto",
   "total": 1515.0,
@@ -11108,5 +11085,22 @@
   },
   "ratio_mercado": 1.071,
   "motivo": "precio normal (107 % del cuartil bajo de W5200027)"
+ },
+ {
+  "fecha": "2026-11-01T16:10:54.203102+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 41 79230N Box + Papers",
+  "total": 3350.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137892649026",
+  "item_id": "v1|137892649026|0",
+  "referencia": "79230N",
+  "mercado": {
+   "n": 15,
+   "p25": 3375,
+   "mediana": 3499
+  },
+  "ratio_mercado": 0.993,
+  "motivo": "precio normal (99 % del cuartil bajo de 79230N)"
  }
 ]
