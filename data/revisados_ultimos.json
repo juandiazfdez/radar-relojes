@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T19:38:42.339782+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Aerospace F56062 40mm Titanium & Gold, Gray Dial, Watch-Only, New Batt",
-  "total": 2025.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198755337805",
-  "item_id": "v1|198755337805|0",
-  "referencia": "F56062",
-  "mercado": {
-   "n": 4,
-   "p25": 1970,
-   "mediana": 2285
-  },
-  "triage": {
-   "modelo": "Breitling Aerospace (titanio y oro, esfera gris/negra con pantalla LCD y cronógrafo digital)",
-   "referencia": "F56062",
-   "precio_justo_usd": 1000,
-   "interesante": false,
-   "nota": "Solo reloj, sin caja ni papeles; el precio pedido de US$2025 supera con creces el valor de venta real de esta referencia en ese estado."
-  },
-  "motivo": "triage: Solo reloj, sin caja ni papeles; el precio pedido de US$2025 supera con creces el valor de venta real de esta referencia en ese estado. (justo 1000)"
- },
- {
-  "fecha": "2026-10-29T19:53:42.407721+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 69173 Two-Tone 18K Yellow Gold & Steel Jubilee – Box & Papers",
-  "total": 6500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/820292938432",
-  "item_id": "v1|820292938432|0",
-  "referencia": "69173",
-  "mercado": {
-   "n": 22,
-   "p25": 4259,
-   "mediana": 4636
-  },
-  "ratio_mercado": 1.526,
-  "motivo": "precio normal (153 % del cuartil bajo de 69173)"
- },
- {
-  "fecha": "2026-10-29T19:53:42.407721+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex Bubbleback Automatic Stainless Steel Ref. 2940",
-  "total": 3295.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/900049548662",
-  "item_id": "v1|900049548662|0",
-  "triage": {
-   "modelo": "Rolex Bubbleback de acero (esfera crema, correa de cuero)",
-   "referencia": "2940",
-   "precio_justo_usd": 3600,
-   "interesante": false,
-   "nota": "Precio cercano al mercado, sin margen de 15 %. Esfera y estado no verificables en la foto; confirmar originalidad, calibre y autenticidad antes de comprar."
-  },
-  "motivo": "triage: Precio cercano al mercado, sin margen de 15 %. Esfera y estado no verificables en la foto; confirmar originalidad, calibre y autenticidad antes de comprar. (justo 3600)"
- },
- {
   "fecha": "2026-10-29T19:53:42.407721+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay Ceramic - Ref. 79210CNU - 41mm Ceramic",
@@ -11159,5 +11102,62 @@
   },
   "ratio_mercado": 0.855,
   "motivo": "precio normal (86 % del cuartil bajo de 79830RB)"
+ },
+ {
+  "fecha": "2026-11-01T04:55:32.794157+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex Oyster Perpetual Date 1503 14K Yellow Gold 34mm Unpolished 1972",
+  "total": 7288.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257827745180",
+  "item_id": "v1|257827745180|0",
+  "triage": {
+   "modelo": "Rolex Datejust (bisel acanalado) en oro amarillo 14K, posible discrepancia con el título Oyster Perpetual Date",
+   "referencia": "1601 (probable, según bisel acanalado; el título indica 1503)",
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "El bisel acanalado no coincide con el 1503 (que suele tener bisel liso), así que el listado puede ser inexacto. Aun con la referencia correcta, US$7,288 está muy por encima de lo que estos modelos de 1972 en oro 14K se venden realmente."
+  },
+  "motivo": "triage: El bisel acanalado no coincide con el 1503 (que suele tener bisel liso), así que el listado puede ser inexacto. Aun con la referencia correcta, US$7,288 está muy por encima de lo que estos modelos de 1972 en oro 14K se venden realmente. (justo 4500)"
+ },
+ {
+  "fecha": "2026-11-01T04:55:32.794157+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Official Logo Titleist Pro V1 golf balls. One Sleeve - 3 Balls - Brand New",
+  "total": 30.0,
+  "condicion": "New",
+  "url": "https://www.ebay.com/itm/198759095508",
+  "item_id": "v1|198759095508|0",
+  "triage": {
+   "modelo": "Pelotas de golf Titleist Pro V1 con logo Rolex (no es un reloj)",
+   "referencia": null,
+   "precio_justo_usd": 20,
+   "interesante": false,
+   "nota": "El listado es de pelotas de golf Titleist Pro V1 con logo Rolex, no de un reloj; está fuera de nuestro ámbito de compra."
+  },
+  "motivo": "triage: El listado es de pelotas de golf Titleist Pro V1 con logo Rolex, no de un reloj; está fuera de nuestro ámbito de compra. (justo 20)"
+ },
+ {
+  "fecha": "2026-11-01T04:55:32.794157+00:00",
+  "marca": "Tudor",
+  "titulo": "Limited Edition Tudor Black Bay Chrono “Carbon 2025”  M79377KN Set",
+  "total": 7499.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147660326224",
+  "item_id": "v1|147660326224|0",
+  "referencia": "M79377KN",
+  "mercado": {
+   "n": 3,
+   "p25": 7610,
+   "mediana": 8250
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay Chrono Carbon (edición limitada 2025)",
+   "referencia": "M79377KN",
+   "precio_justo_usd": 5300,
+   "interesante": false,
+   "nota": "Precio pedido de US$7.500 está muy por encima del mercado secundario para un usado con caja y papeles; la referencia y la edición limitada no se pueden verificar solo con la foto."
+  },
+  "motivo": "triage: Precio pedido de US$7.500 está muy por encima del mercado secundario para un usado con caja y papeles; la referencia y la edición limitada no se pueden verificar solo con la foto. (justo 5300)"
  }
 ]
