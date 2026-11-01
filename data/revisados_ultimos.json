@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-10-29T19:38:42.339782+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay 41",
-  "total": 4900.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137884760081",
-  "item_id": "v1|137884760081|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 41 (la imagen solo muestra la caja, no el reloj)",
-   "referencia": null,
-   "precio_justo_usd": 3400,
-   "interesante": false,
-   "nota": "Solo se ve la caja blanca; no se puede confirmar la referencia ni el estado. El precio pedido está muy por encima del valor de mercado de una BB41 de acero usada."
-  },
-  "motivo": "triage: Solo se ve la caja blanca; no se puede confirmar la referencia ni el estado. El precio pedido está muy por encima del valor de mercado de una BB41 de acero usada. (justo 3400)"
- },
- {
-  "fecha": "2026-10-29T19:38:42.339782+00:00",
   "marca": "Omega",
   "titulo": "Omega Seamaster Planet Ocean Skyfall 232.30.42.21.01.004 Box and Papers",
   "total": 6495.0,
@@ -11165,5 +11148,22 @@
   },
   "ratio_mercado": 1.744,
   "motivo": "precio normal (174 % del cuartil bajo de 76213)"
+ },
+ {
+  "fecha": "2026-11-01T03:40:33.247847+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 GMT M7939G1A0NRU-0003 2026 Jubilee Brand New Full Set",
+  "total": 5250.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/227592109261",
+  "item_id": "v1|227592109261|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 GMT (bisel negro/burdeos, brazalete Jubilee)",
+   "referencia": "M7939G1A0NRU-0003",
+   "precio_justo_usd": 4100,
+   "interesante": false,
+   "nota": "Nuevo con caja y papeles, pero US$5,250 supera el retail aproximado (~US$4,700-4,900); el mercado gris suele estar 15-35 % abajo. No verifico la referencia desde la foto."
+  },
+  "motivo": "triage: Nuevo con caja y papeles, pero US$5,250 supera el retail aproximado (~US$4,700-4,900); el mercado gris suele estar 15-35 % abajo. No verifico la referencia desde la foto. (justo 4100)"
  }
 ]
