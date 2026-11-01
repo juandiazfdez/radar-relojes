@@ -2,52 +2,6 @@
  {
   "fecha": "2026-10-29T19:23:42.013090+00:00",
   "marca": "TAG Heuer",
-  "titulo": "TAG HEUER LADIES CARRERA WV2410.BA0793 AUTOMATIC DIAMOND BLACK SWISS STEEL WATCH",
-  "total": 1995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377606458816",
-  "item_id": "v1|377606458816|0",
-  "referencia": "WV2410.BA0793",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "TAG Heuer Carrera Lady Automatic 29 mm, esfera negra con diamantes, bisel y brazalete de acero",
-   "referencia": "WV2410.BA0793",
-   "precio_justo_usd": 1400,
-   "interesante": false,
-   "nota": "Modelo de producción reciente de la línea Carrera Lady; en estado usado se vende cerca de US$1,300-1,600 según caja y papeles. El precio pedido de US$1995 está por encima del valor de mercado, no por debajo."
-  },
-  "motivo": "triage: Modelo de producción reciente de la línea Carrera Lady; en estado usado se vende cerca de US$1,300-1,600 según caja y papeles. El precio pedido de US$1995 está por encima del valor de mercado, no por debajo. (justo 1400)"
- },
- {
-  "fecha": "2026-10-29T19:23:42.013090+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG HEUER CARRERA WAR5010.FC6266 CHRONOMETER GRANDE DATE CALIBRE 8 GMT WATCH",
-  "total": 2795.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940050266054",
-  "item_id": "v1|940050266054|0",
-  "referencia": "WAR5010.FC6266",
-  "mercado": {
-   "n": 4,
-   "p25": 2140,
-   "mediana": 2282
-  },
-  "triage": {
-   "modelo": "TAG Heuer Carrera Calibre 8 Grand Date (título menciona GMT; la referencia corresponde a Grand Date)",
-   "referencia": "WAR5010.FC6266",
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "Precio pedido cerca del valor de mercado de segunda mano; el título menciona GMT, pero la referencia no corresponde al GMT, así que conviene verificar el modelo exacto."
-  },
-  "motivo": "triage: Precio pedido cerca del valor de mercado de segunda mano; el título menciona GMT, pero la referencia no corresponde al GMT, así que conviene verificar el modelo exacto. (justo 2600)"
- },
- {
-  "fecha": "2026-10-29T19:23:42.013090+00:00",
-  "marca": "TAG Heuer",
   "titulo": "TAG HEUER CARRERA CV201AR.BA0715 AUTOMATIC CHORNOGRAPH CERAMIC MENS BLUE WATCH",
   "total": 3495.0,
   "condicion": "Pre-owned - Good",
@@ -11177,5 +11131,39 @@
    "nota": "Precio pedido de US$5.875 está por encima del valor de venta cerrada estimado para esta referencia en estado Good; no hay descuento suficiente."
   },
   "motivo": "triage: Precio pedido de US$5.875 está por encima del valor de venta cerrada estimado para esta referencia en estado Good; no hay descuento suficiente. (justo 5400)"
+ },
+ {
+  "fecha": "2026-11-01T00:25:23.035578+00:00",
+  "marca": "Rolex",
+  "titulo": "Antique 9ct Gold Rolex Women's Watch PROJECT 1920's Wristwatch",
+  "total": 1203.95,
+  "condicion": "For parts or not working",
+  "url": "https://www.ebay.com/itm/198760975521",
+  "item_id": "v1|198760975521|0",
+  "triage": {
+   "modelo": "Reloj de pulsera de mujer, caja cojín de oro de 9 ct, años 1920 (sin logotipo Rolex visible en la foto)",
+   "referencia": null,
+   "precio_justo_usd": 500,
+   "interesante": false,
+   "nota": "La foto no muestra corona de Rolex ni firma en la esfera; la marca no se puede confirmar. Como pieza no funcional para restauración, un Rolex genuino de esa época se vendería en torno a US$400-700, por lo que US$1204 está muy por encima."
+  },
+  "motivo": "triage: La foto no muestra corona de Rolex ni firma en la esfera; la marca no se puede confirmar. Como pieza no funcional para restauración, un Rolex genuino de esa época se vendería en torno a US$400-700, por lo que US$1204 está muy por encima. (justo 500)"
+ },
+ {
+  "fecha": "2026-11-01T00:25:23.035578+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yachtmaster Ref. 16622 Case #743",
+  "total": 8850.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128167026739",
+  "item_id": "v1|128167026739|0",
+  "referencia": "16622",
+  "mercado": {
+   "n": 28,
+   "p25": 10404,
+   "mediana": 11525
+  },
+  "ratio_mercado": 0.851,
+  "motivo": "precio normal (85 % del cuartil bajo de 16622)"
  }
 ]
