@@ -1,74 +1,6 @@
 [
  {
   "fecha": "2026-10-29T19:38:42.339782+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Air King Steel White Gold Mens Watch 114234",
-  "total": 6870.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336869356004",
-  "item_id": "v1|336869356004|0",
-  "referencia": "114234",
-  "mercado": {
-   "n": 6,
-   "p25": 5798,
-   "mediana": 7612
-  },
-  "ratio_mercado": 1.185,
-  "motivo": "precio normal (118 % del cuartil bajo de 114234)"
- },
- {
-  "fecha": "2026-10-29T19:38:42.339782+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT Master II \"Sprite\" Green Left hand Oyster 40 mm Oystersteel 126720VTNR",
-  "total": 17220.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267827504637",
-  "item_id": "v1|267827504637|0",
-  "referencia": "126720VTNR",
-  "mercado": {
-   "n": 90,
-   "p25": 17999,
-   "mediana": 18524
-  },
-  "ratio_mercado": 0.957,
-  "motivo": "precio normal (96 % del cuartil bajo de 126720VTNR)"
- },
- {
-  "fecha": "2026-10-29T19:38:42.339782+00:00",
-  "marca": "Rolex",
-  "titulo": "2012 Rolex Day-Date II President 218235 41mm Chocolate Wave 18K Gold Box Papers",
-  "total": 39773.71,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900049519808",
-  "item_id": "v1|900049519808|0",
-  "referencia": "218235",
-  "mercado": {
-   "n": 16,
-   "p25": 40392,
-   "mediana": 42745
-  },
-  "ratio_mercado": 0.985,
-  "motivo": "precio normal (98 % del cuartil bajo de 218235)"
- },
- {
-  "fecha": "2026-10-29T19:38:42.339782+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona 2026 AUGUST UNWORN 126508 Green John Mayer 2.0 Oyster Gold",
-  "total": 91900.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/840072418616",
-  "item_id": "v1|840072418616|0",
-  "referencia": "126508",
-  "mercado": {
-   "n": 11,
-   "p25": 87499,
-   "mediana": 87995
-  },
-  "ratio_mercado": 1.05,
-  "motivo": "precio normal (105 % del cuartil bajo de 126508)"
- },
- {
-  "fecha": "2026-10-29T19:38:42.339782+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR Black Bay 41",
   "total": 4900.0,
@@ -11159,5 +11091,79 @@
   },
   "ratio_mercado": 1.037,
   "motivo": "precio normal (104 % del cuartil bajo de 79230N-0009)"
+ },
+ {
+  "fecha": "2026-11-01T02:25:32.438395+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date Ref. 1505 34mm Watch",
+  "total": 3300.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900055257835",
+  "item_id": "v1|900055257835|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date (bicolor acero/oro, bisel acanalado dorado, esfera plateada con marcadores de bastón)",
+   "referencia": "1505",
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "Ref. 1505 bicolor de los años 50-60 en estado bueno; el precio pedido está solo cerca de 8 % por debajo de la estimación, sin margen suficiente. Correa de cuero no original y estado real sin verificar."
+  },
+  "motivo": "triage: Ref. 1505 bicolor de los años 50-60 en estado bueno; el precio pedido está solo cerca de 8 % por debajo de la estimación, sin margen suficiente. Correa de cuero no original y estado real sin verificar. (justo 3600)"
+ },
+ {
+  "fecha": "2026-11-01T02:25:32.438395+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date 1501 Vintage 1960s Steel Riveted Oyster Bracelet",
+  "total": 2500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407330177185",
+  "item_id": "v1|407330177185|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date (caja Oyster de acero, bisel liso, esfera plateada con indices de bastón)",
+   "referencia": "1501",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio pedido ~17% bajo estimación, pero a US$2,500 un Rolex vintage de esta referencia exige verificar autenticidad, esfera, movimiento y que no sea una pieza armada; no se puede confirmar solo con la foto."
+  },
+  "motivo": "triage: Precio pedido ~17% bajo estimación, pero a US$2,500 un Rolex vintage de esta referencia exige verificar autenticidad, esfera, movimiento y que no sea una pieza armada; no se puede confirmar solo con la foto. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-01T02:25:32.438395+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Must 1810 Sterling Silver mm Quartz watch",
+  "total": 3557.5,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227592046904",
+  "item_id": "v1|227592046904|0",
+  "referencia": "1810",
+  "mercado": {
+   "n": 1,
+   "p25": 2000,
+   "mediana": 2000
+  },
+  "triage": {
+   "modelo": "Cartier Must de Cartier (Must 1810, línea Must 21/Must Ronde, cuarzo, esfera plateada con numerales romanos y segundero a las 6, correa de piel marrón)",
+   "referencia": "Must 1810 (verificar en el caso)",
+   "precio_justo_usd": 500,
+   "interesante": false,
+   "nota": "El precio de US$3558 está muy por encima del valor de mercado de un Must de cuarzo usado (aprox. US$300-700). La foto muestra un caso dorado (vermeil/chapado), mientras el título dice plata de ley; hay que aclarar el material."
+  },
+  "motivo": "triage: El precio de US$3558 está muy por encima del valor de mercado de un Must de cuarzo usado (aprox. US$300-700). La foto muestra un caso dorado (vermeil/chapado), mientras el título dice plata de ley; hay que aclarar el material. (justo 500)"
+ },
+ {
+  "fecha": "2026-11-01T02:25:32.438395+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Prince Day Date 76213 Champagne Dial. 18K Gold. 36mm. 2010 Clean& Serviced",
+  "total": 3139.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287695622240",
+  "item_id": "v1|287695622240|0",
+  "referencia": "76213",
+  "mercado": {
+   "n": 7,
+   "p25": 1800,
+   "mediana": 2500
+  },
+  "ratio_mercado": 1.744,
+  "motivo": "precio normal (174 % del cuartil bajo de 76213)"
  }
 ]
