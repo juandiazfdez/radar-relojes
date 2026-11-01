@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-10-29T20:38:42.804430+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthère de Cartier W2PN0019",
-  "total": 11000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820293095049",
-  "item_id": "v1|820293095049|0",
-  "referencia": "W2PN0019",
-  "mercado": {
-   "n": 2,
-   "p25": 9599,
-   "mediana": 9774
-  },
-  "triage": {
-   "modelo": "Cartier Panthère de Cartier bicolor (acero y oro amarillo), cuarzo, talla mediana",
-   "referencia": "W2PN0019",
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "Panthère bicolor de cuarzo de uso; el precio pedido de US$11.000 está muy por encima del valor de mercado para este modelo."
-  },
-  "motivo": "triage: Panthère bicolor de cuarzo de uso; el precio pedido de US$11.000 está muy por encima del valor de mercado para este modelo. (justo 4500)"
- },
- {
-  "fecha": "2026-10-29T20:38:42.804430+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Chronograph - Ref. 79360N - 41mm Stainless Steel",
-  "total": 6095.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287690473158",
-  "item_id": "v1|287690473158|0",
-  "referencia": "79360N",
-  "mercado": {
-   "n": 54,
-   "p25": 4690,
-   "mediana": 5274
-  },
-  "ratio_mercado": 1.3,
-  "motivo": "precio normal (130 % del cuartil bajo de 79360N)"
- },
- {
-  "fecha": "2026-10-29T20:38:42.804430+00:00",
   "marca": "Omega",
   "titulo": "Estate Vintage 18K Yellow Gold PEEK A BOO watch by OMEGA - VHK#344a",
   "total": 14000.0,
@@ -11102,5 +11062,45 @@
    "nota": "El precio pedido no está 15 % o más por debajo del mercado, y el término 'Factory' en el título es una señal de posible réplica."
   },
   "motivo": "triage: El precio pedido no está 15 % o más por debajo del mercado, y el término 'Factory' en el título es una señal de posible réplica. (justo 5500)"
+ },
+ {
+  "fecha": "2026-11-01T20:41:03.055603+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Pasha W31077U2 complete set",
+  "total": 3065.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860104165596",
+  "item_id": "v1|860104165596|0",
+  "triage": {
+   "modelo": "Cartier Pasha de Cartier (bisel de acero con tornillos, esfera negra, correa de caucho negro, cuarzo)",
+   "referencia": "W31077U2 (identificación probable, sin confirmar en la foto)",
+   "precio_justo_usd": 2200,
+   "interesante": false,
+   "nota": "Precio pedido de US$3065 está bastante por encima del valor de venta cerrada de un Pasha de cuarzo de este tamaño en estado Good, aunque tenga set completo."
+  },
+  "motivo": "triage: Precio pedido de US$3065 está bastante por encima del valor de venta cerrada de un Pasha de cuarzo de este tamaño en estado Good, aunque tenga set completo. (justo 2200)"
+ },
+ {
+  "fecha": "2026-11-01T20:41:03.055603+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank WSTA0120",
+  "total": 4150.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860101311744",
+  "item_id": "v1|860101311744|0",
+  "referencia": "WSTA0120",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Tank Must LM (Large), acero, cuarzo, esfera plateada con números romanos",
+   "referencia": "WSTA0120 (según el título; no puedo confirmarla con certeza en la foto)",
+   "precio_justo_usd": 2700,
+   "interesante": false,
+   "nota": "Precio pedido de US$4150 supera el retail actual del modelo (aprox. US$3.000-3.400); el precio de reventa de un usado excelente ronda US$2.500-2.900."
+  },
+  "motivo": "triage: Precio pedido de US$4150 supera el retail actual del modelo (aprox. US$3.000-3.400); el precio de reventa de un usado excelente ronda US$2.500-2.900. (justo 2700)"
  }
 ]
