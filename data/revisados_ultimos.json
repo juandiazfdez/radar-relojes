@@ -2,46 +2,6 @@
  {
   "fecha": "2026-10-29T20:23:42.228445+00:00",
   "marca": "Omega",
-  "titulo": "OMEGA Speedmaster Super Racing 329.30.44.51.01.003",
-  "total": 11500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820293087731",
-  "item_id": "v1|820293087731|0",
-  "referencia": "329.30.44.51.01.003",
-  "mercado": {
-   "n": 2,
-   "p25": 8675,
-   "mediana": 9835
-  },
-  "triage": {
-   "modelo": "Omega Speedmaster Super Racing (caja de acero, esfera negra, cronógrafo, brazalete de acero)",
-   "referencia": "329.30.44.51.01.003",
-   "precio_justo_usd": 6800,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del mercado de usado para esta referencia; el Super Racing se vende cerca o por debajo de retail."
-  },
-  "motivo": "triage: Precio pedido muy por encima del mercado de usado para esta referencia; el Super Racing se vende cerca o por debajo de retail. (justo 6800)"
- },
- {
-  "fecha": "2026-10-29T20:23:42.228445+00:00",
-  "marca": "Omega",
-  "titulo": "Vintage Rare Omega Solid 18k Yellow Gold Women's Watch 25 grams",
-  "total": 6845.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840072528610",
-  "item_id": "v1|840072528610|0",
-  "triage": {
-   "modelo": "Omega de dama vintage en oro amarillo de 18k, caja rectangular acanalada con brazalete extensible (aprox. años 1950-60, mecánico)",
-   "referencia": null,
-   "precio_justo_usd": 2000,
-   "interesante": false,
-   "nota": "Pedido de US$6845 muy por encima del valor de mercado; 25 g de oro 18k equivalen a unos US$1900-2100 en metal, y el valor de coleccionista de este modelo no justifica la diferencia. Referencia no identificable en la foto."
-  },
-  "motivo": "triage: Pedido de US$6845 muy por encima del valor de mercado; 25 g de oro 18k equivalen a unos US$1900-2100 en metal, y el valor de coleccionista de este modelo no justifica la diferencia. Referencia no identificable en la foto. (justo 2000)"
- },
- {
-  "fecha": "2026-10-29T20:23:42.228445+00:00",
-  "marca": "Omega",
   "titulo": "Omega Aqua Terra Spectre - Ref. 231.10.42.21.03.004 - 41.5mm Stainless Steel",
   "total": 6895.0,
   "condicion": "Pre-owned - Excellent",
@@ -11096,5 +11056,39 @@
   },
   "ratio_mercado": 0.92,
   "motivo": "precio normal (92 % del cuartil bajo de 79360N)"
+ },
+ {
+  "fecha": "2026-11-01T17:40:54.274872+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Calibre de Cartier W7100016 Steel Automatic 42mm Watch Full Set Serviced",
+  "total": 4099.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940057822528",
+  "item_id": "v1|940057822528|0",
+  "referencia": "W7100016",
+  "mercado": {
+   "n": 5,
+   "p25": 4100,
+   "mediana": 5000
+  },
+  "ratio_mercado": 1.0,
+  "motivo": "precio normal (100 % del cuartil bajo de W7100016)"
+ },
+ {
+  "fecha": "2026-11-01T17:40:54.274872+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Heritage Black Bay Steel 41mm Watch with Box and Papers 100% authentic",
+  "total": 4099.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237156099696",
+  "item_id": "v1|237156099696|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 41 Heritage (acero, bisel negro, brazalete)",
+   "referencia": "M79540 (probable; confirmar en el caso y el reverso)",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta real de esta referencia en mercado gris; no hay descuento."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta real de esta referencia en mercado gris; no hay descuento. (justo 3400)"
  }
 ]
