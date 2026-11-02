@@ -1,109 +1,5 @@
 [
  {
-  "fecha": "2026-10-30T02:23:59.592761+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai Luminor Submersible 300M Automatic Stainless Steel Watch",
-  "total": 5445.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820294005360",
-  "item_id": "v1|820294005360|0",
-  "triage": {
-   "modelo": "Panerai Luminor Submersible 47 mm automático, acero, con fecha",
-   "referencia": "PAM00024 (probable; confirmar caja y números de serie)",
-   "precio_justo_usd": 6200,
-   "interesante": false,
-   "nota": "Precio pedido 12 % por debajo de una estimación conservadora de venta cerrada; sin caja ni papeles indicados, y la condición 'Good' no justifica un descuento mayor."
-  },
-  "motivo": "triage: Precio pedido 12 % por debajo de una estimación conservadora de venta cerrada; sin caja ni papeles indicados, y la condición 'Good' no justifica un descuento mayor. (justo 6200)"
- },
- {
-  "fecha": "2026-10-30T02:38:56.837023+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 16800 Stainless Steel Watch",
-  "total": 9098.98,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/860096556574",
-  "item_id": "v1|860096556574|0",
-  "referencia": "16800",
-  "mercado": {
-   "n": 16,
-   "p25": 11770,
-   "mediana": 12700
-  },
-  "ratio_mercado": 0.773,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 8800,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, desgaste normal: arañazos en cristal y bisel, caja y brazalete con signos de pulido y estiramiento; sin caja ni papeles originales"
-  },
-  "ratio_justo": 1.034,
-  "motivo": "precio normal segun revision (103 % del justo 8800)"
- },
- {
-  "fecha": "2026-10-30T02:38:56.837023+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay Chrono S&G M79363N-0007 - New 2026 - Full set",
-  "total": 6825.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227589416493",
-  "item_id": "v1|227589416493|0",
-  "referencia": "M79363N-0007",
-  "mercado": {
-   "n": 3,
-   "p25": 6849,
-   "mediana": 7495
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay Chrono S&G (acero y oro amarillo, esfera champán, bisel negro)",
-   "referencia": "M79363N-0007",
-   "precio_justo_usd": 5600,
-   "interesante": false,
-   "nota": "El precio pedido es igual o superior al MSRP y está por encima del mercado secundario para un modelo nuevo; no cumple el umbral del 15 % de descuento."
-  },
-  "motivo": "triage: El precio pedido es igual o superior al MSRP y está por encima del mercado secundario para un modelo nuevo; no cumple el umbral del 15 % de descuento. (justo 5600)"
- },
- {
-  "fecha": "2026-10-30T02:38:56.837023+00:00",
-  "marca": "Omega",
-  "titulo": "Ladies Omega DeVille Prestige 18K Gold 27MM watch Diamonds - 413.25.27.60.55.001",
-  "total": 3445.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800853870022",
-  "item_id": "v1|800853870022|0",
-  "referencia": "413.25.27.60.55.001",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Omega De Ville Prestige, dama, cuarzo, bisel de diamantes, bicolor acero y oro",
-   "referencia": "413.25.27.60.55.001",
-   "precio_justo_usd": 1600,
-   "interesante": false,
-   "nota": "El precio pedido supera de forma clara el valor de mercado usado; además, la foto muestra brazalete bicolor de acero y oro, no oro macizo como indica el título."
-  },
-  "motivo": "triage: El precio pedido supera de forma clara el valor de mercado usado; además, la foto muestra brazalete bicolor de acero y oro, no oro macizo como indica el título. (justo 1600)"
- },
- {
-  "fecha": "2026-10-30T02:53:57.308880+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 126715CHNR Root Beer 18K Everose Gold Unpolished PPF",
-  "total": 39325.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336869910894",
-  "item_id": "v1|336869910894|0",
-  "referencia": "126715CHNR",
-  "mercado": {
-   "n": 30,
-   "p25": 44950,
-   "mediana": 45974
-  },
-  "ratio_mercado": 0.875,
-  "motivo": "precio normal (87 % del cuartil bajo de 126715CHNR)"
- },
- {
   "fecha": "2026-10-30T03:09:07.202336+00:00",
   "marca": "Omega",
   "titulo": "Omega Speedmaster Moonwatch 18K Sedna Gold Ref.310.60.42.50.01.001 2024 FullSet",
@@ -11045,5 +10941,102 @@
    "nota": "La referencia no se distingue en la foto. Con el precio pedido de US$3350 queda en línea con el mercado de segunda mano, sin descuento de al menos 15 %."
   },
   "motivo": "triage: La referencia no se distingue en la foto. Con el precio pedido de US$3350 queda en línea con el mercado de segunda mano, sin descuento de al menos 15 %. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-02T19:57:01.039127+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX -  LADIES 28MM  DATEJUST IN STEEL REF 279174",
+  "total": 13388.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407334278780",
+  "item_id": "v1|407334278780|0",
+  "referencia": "279174",
+  "mercado": {
+   "n": 10,
+   "p25": 11499,
+   "mediana": 12945
+  },
+  "ratio_mercado": 1.164,
+  "motivo": "precio normal (116 % del cuartil bajo de 279174)"
+ },
+ {
+  "fecha": "2026-11-02T19:57:01.039127+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner 16808 Just Serviced and Polished by RUSA",
+  "total": 9500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/117500514386",
+  "item_id": "v1|117500514386|0",
+  "referencia": "16808",
+  "mercado": {
+   "n": 6,
+   "p25": 27729,
+   "mediana": 28494
+  },
+  "ratio_mercado": 0.343,
+  "motivo": "demasiado barato (34 % del cuartil bajo): sospechoso"
+ },
+ {
+  "fecha": "2026-11-02T19:57:01.039127+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Solo WSSA0028 2010",
+  "total": 2960.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227594499604",
+  "item_id": "v1|227594499604|0",
+  "referencia": "WSSA0028",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Tank Solo (la foto parece ser un Tank Must, no un Tank Solo; verificar)",
+   "referencia": "WSSA0028",
+   "precio_justo_usd": 2000,
+   "interesante": false,
+   "nota": "Precio pedido US$2960 muy por encima del valor de venta de un Tank Solo de acero 2010 usado. La foto no coincide con el modelo del título, así que conviene pedir fotos reales del ejemplar."
+  },
+  "motivo": "triage: Precio pedido US$2960 muy por encima del valor de venta de un Tank Solo de acero 2010 usado. La foto no coincide con el modelo del título, así que conviene pedir fotos reales del ejemplar. (justo 2000)"
+ },
+ {
+  "fecha": "2026-11-02T19:57:01.039127+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Pelagos M25600TB-0001",
+  "total": 4550.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940060544932",
+  "item_id": "v1|940060544932|0",
+  "referencia": "M25600TB-0001",
+  "mercado": {
+   "n": 1,
+   "p25": 4500,
+   "mediana": 4500
+  },
+  "triage": {
+   "modelo": "Tudor Pelagos (esfera azul, caja de titanio, bisel azul, brazalete de titanio)",
+   "referencia": "M25600TB-0001",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Precio pedido de US$4550 con envío está por encima del valor de venta cerrada estimado para este Pelagos 25600TB usado en excelente estado; no hay descuento real."
+  },
+  "motivo": "triage: Precio pedido de US$4550 con envío está por encima del valor de venta cerrada estimado para este Pelagos 25600TB usado en excelente estado; no hay descuento real. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-02T19:57:01.039127+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Prince 76213",
+  "total": 2200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287699992982",
+  "item_id": "v1|287699992982|0",
+  "referencia": "76213",
+  "mercado": {
+   "n": 7,
+   "p25": 2275,
+   "mediana": 3039
+  },
+  "ratio_mercado": 0.967,
+  "motivo": "precio normal (97 % del cuartil bajo de 76213)"
  }
 ]
