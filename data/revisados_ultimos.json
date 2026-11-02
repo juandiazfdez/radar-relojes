@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-10-29T23:23:57.459262+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Precision Ref 5500 Mens Air King w Papers 34m Auto RA846",
-  "total": 8900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940050734641",
-  "item_id": "v1|940050734641|0",
-  "referencia": "5500",
-  "mercado": {
-   "n": 24,
-   "p25": 4000,
-   "mediana": 4470
-  },
-  "ratio_mercado": 2.225,
-  "motivo": "precio normal (222 % del cuartil bajo de 5500)"
- },
- {
-  "fecha": "2026-10-29T23:23:57.459262+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 36mm FACTORY Diamonds $21K MSRP eBay Live W3BB0004",
-  "total": 11535.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880062850838",
-  "item_id": "v1|880062850838|0",
-  "referencia": "W3BB0004",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 36mm automático, acero y oro rosa con bisel de diamantes y esfera plateada con diamantes",
-   "referencia": "W3BB0004",
-   "precio_justo_usd": 9000,
-   "interesante": false,
-   "nota": "Precio pedido de US$11.535 con envío supera la estimación de venta real para este modelo de dos tonos con diamantes; no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido de US$11.535 con envío supera la estimación de venta real para este modelo de dos tonos con diamantes; no hay descuento suficiente. (justo 9000)"
- },
- {
-  "fecha": "2026-10-29T23:23:57.459262+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Pelagos Blue 42 #25600TB Titanium 2023 Box & Papers",
   "total": 3875.0,
@@ -11088,5 +11048,39 @@
    "nota": "La foto muestra cajas, papeles y estuches de Cartier, pero no el reloj, así que no se puede confirmar la referencia, el tamaño ni el estado. El precio pedido está en línea con el mercado de acero usado con caja y papeles, sin descuento de al menos 15 %."
   },
   "motivo": "triage: La foto muestra cajas, papeles y estuches de Cartier, pero no el reloj, así que no se puede confirmar la referencia, el tamaño ni el estado. El precio pedido está en línea con el mercado de acero usado con caja y papeles, sin descuento de al menos 15 %. (justo 5700)"
+ },
+ {
+  "fecha": "2026-11-02T17:42:01.214728+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Men’s Rolex 1969 Oyster Perpetual Ref. 1005 34mm Stainless Full Kit",
+  "total": 4200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336875405999",
+  "item_id": "v1|336875405999|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual (posiblemente Date, 34 mm, acero, esfera plateada)",
+   "referencia": "1500/1501 probable (el título dice 1005, pero la ventana de fecha visible en la foto no corresponde a esa referencia)",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "El título y la foto no coinciden: el 1005 es sin fecha y la imagen muestra fecha. Con estado Good, el precio pedido de US$4200 está por encima del valor de venta real, no por debajo."
+  },
+  "motivo": "triage: El título y la foto no coinciden: el 1005 es sin fecha y la imagen muestra fecha. Con estado Good, el precio pedido de US$4200 está por encima del valor de venta real, no por debajo. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-02T17:42:01.214728+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise W51008Q3 Ladiess Watch Swiss Quartz Stainless Steel 20mm",
+  "total": 3299.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198765901403",
+  "item_id": "v1|198765901403|0",
+  "triage": {
+   "modelo": "Cartier Tank Française (versión pequeña, cuarzo, acero, esfera blanca con numerales romanos)",
+   "referencia": "W51008Q3",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Precio pedido de US$3300 está por encima del valor de mercado usado para esta referencia, que ronda US$2300-2900 según estado y papeles; no hay descuento."
+  },
+  "motivo": "triage: Precio pedido de US$3300 está por encima del valor de mercado usado para esta referencia, que ronda US$2300-2900 según estado y papeles; no hay descuento. (justo 2600)"
  }
 ]
