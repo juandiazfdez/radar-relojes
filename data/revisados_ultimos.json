@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-10-29T21:08:42.070398+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Galbée W20031C4 23mm * 35mm Steel & YG",
-  "total": 6495.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287690512600",
-  "item_id": "v1|287690512600|0",
-  "triage": {
-   "modelo": "Cartier Santos Galbée acero y oro amarillo (cuarzo, esfera taupe con números romanos)",
-   "referencia": "W20031C4",
-   "precio_justo_usd": 2900,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de mercado de reventa para este modelo de cuarzo bicolor; sin caja y papeles la diferencia es aún mayor."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de mercado de reventa para este modelo de cuarzo bicolor; sin caja y papeles la diferencia es aún mayor. (justo 2900)"
- },
- {
-  "fecha": "2026-10-29T21:08:42.070398+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR Black Bay 54mm Box and Papers",
   "total": 3400.0,
@@ -11092,5 +11075,22 @@
   },
   "ratio_justo": 0.914,
   "motivo": "precio normal segun revision (91 % del justo 3300)"
+ },
+ {
+  "fecha": "2026-11-02T01:26:12.376149+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise W51008Q3 Womens Watch Swiss Quartz Stainless Steel 20mm",
+  "total": 3299.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198763799713",
+  "item_id": "v1|198763799713|0",
+  "triage": {
+   "modelo": "Cartier Tank Française (mediana, cuarzo, acero, esfera blanca con números romanos)",
+   "referencia": "W51008Q3",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de reventa de uso para esta referencia; no hay descuento de 15 % o más."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de reventa de uso para esta referencia; no hay descuento de 15 % o más. (justo 2600)"
  }
 ]
