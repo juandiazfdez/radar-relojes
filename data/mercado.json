@@ -6830,13 +6830,13 @@
   "max": 26500
  },
  "Rolex 116710BLNR|usado": {
-  "fecha": "2026-10-28",
+  "fecha": "2026-11-02",
   "consulta": "Rolex 116710BLNR",
-  "n": 45,
-  "mediana": 16800,
-  "p25": 15999,
-  "p75": 17078,
-  "min": 14473,
+  "n": 46,
+  "mediana": 16825,
+  "p25": 15998,
+  "p75": 17110,
+  "min": 14429,
   "max": 20898
  },
  "Rolex 126719BLRO|usado": {
@@ -10970,14 +10970,14 @@
   "max": 2500
  },
  "Rolex 14000|usado": {
-  "fecha": "2026-10-31",
+  "fecha": "2026-11-02",
   "consulta": "Rolex 14000",
   "n": 27,
-  "mediana": 5000,
+  "mediana": 4999,
   "p25": 4779,
   "p75": 5094,
   "min": 865,
-  "max": 5500
+  "max": 5575
  },
  "Rolex 16753|usado": {
   "fecha": "2026-10-27",
@@ -15165,14 +15165,14 @@
   "max": 10080
  },
  "Rolex 6564|usado": {
-  "fecha": "2026-10-29",
+  "fecha": "2026-11-02",
   "consulta": "Rolex 6564",
   "n": 19,
-  "mediana": 5200,
-  "p25": 4250,
-  "p75": 6000,
-  "min": 3325,
-  "max": 8800
+  "mediana": 4500,
+  "p25": 4033,
+  "p75": 5999,
+  "min": 3100,
+  "max": 7975
  },
  "Rolex 16660|usado": {
   "fecha": "2026-10-28",
@@ -18108,5 +18108,45 @@
   "fecha": "2026-11-02",
   "consulta": "Cartier WSA0016",
   "n": 0
+ },
+ "Rolex 6580|usado": {
+  "fecha": "2026-11-02",
+  "consulta": "Rolex 6580",
+  "n": 2,
+  "mediana": 5970,
+  "p25": 5700,
+  "p75": 6240,
+  "min": 5700,
+  "max": 6240
+ },
+ "Rolex 5015|usado": {
+  "fecha": "2026-11-02",
+  "consulta": "Rolex 5015",
+  "n": 8,
+  "mediana": 7575,
+  "p25": 5165,
+  "p75": 8140,
+  "min": 2863,
+  "max": 13200
+ },
+ "Rolex 6605|usado": {
+  "fecha": "2026-11-02",
+  "consulta": "Rolex 6605",
+  "n": 11,
+  "mediana": 6309,
+  "p25": 5495,
+  "p75": 7000,
+  "min": 756,
+  "max": 23900
+ },
+ "Tudor M28600|usado": {
+  "fecha": "2026-11-02",
+  "consulta": "Tudor M28600",
+  "n": 5,
+  "mediana": 2800,
+  "p25": 2700,
+  "p75": 2900,
+  "min": 2680,
+  "max": 3257
  }
 }
