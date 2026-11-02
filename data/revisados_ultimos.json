@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-10-30T10:39:15.731648+00:00",
-  "marca": "Cartier",
-  "titulo": "Vintage Cartier Must 21 Ladies Quartz Watch - Full Set - 1990 - 31mm",
-  "total": 1595.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267828066117",
-  "item_id": "v1|267828066117|0",
-  "triage": {
-   "modelo": "Cartier Must 21 bicolor (acero y chapado en oro), cuarzo, esfera plateada con numerales romanos",
-   "referencia": null,
-   "precio_justo_usd": 900,
-   "interesante": false,
-   "nota": "Modelo de cuarzo de producción en serie; con caja y papeles se vende por debajo de US$1,000, así que US$1,595 está muy por encima del mercado."
-  },
-  "motivo": "triage: Modelo de cuarzo de producción en serie; con caja y papeles se vende por debajo de US$1,000, así que US$1,595 está muy por encima del mercado. (justo 900)"
- },
- {
-  "fecha": "2026-10-30T10:54:16.312519+00:00",
-  "marca": "Rolex",
-  "titulo": "Ladies ROLEX Watch 18K Gold & Steel Papers Datejust Jubilee Arabic 69173",
-  "total": 4750.61,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327430308765",
-  "item_id": "v1|327430308765|0",
-  "referencia": "69173",
-  "mercado": {
-   "n": 24,
-   "p25": 4257,
-   "mediana": 4450
-  },
-  "ratio_mercado": 1.116,
-  "motivo": "precio normal (112 % del cuartil bajo de 69173)"
- },
- {
-  "fecha": "2026-10-30T10:54:16.312519+00:00",
-  "marca": "Rolex",
-  "titulo": "Masters Tournament x Rolex Alloy Luxury Quartz Watch TMTHU4706",
-  "total": 61.9,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/198756912015",
-  "item_id": "v1|198756912015|497663020951",
-  "triage": {
-   "modelo": "Reloj de cuarzo de fantasía con logotipo de Masters Tournament (no es Rolex)",
-   "referencia": null,
-   "precio_justo_usd": 40,
-   "interesante": false,
-   "nota": "La imagen muestra un reloj genérico de cuarzo con logotipo de Masters, no un Rolex. El título es engañoso y no corresponde a ninguna referencia real de Rolex."
-  },
-  "motivo": "triage: La imagen muestra un reloj genérico de cuarzo con logotipo de Masters, no un Rolex. El título es engañoso y no corresponde a ninguna referencia real de Rolex. (justo 40)"
- },
- {
   "fecha": "2026-10-30T12:54:16.282254+00:00",
   "marca": "Rolex",
   "titulo": "1972 Rare Vintage 18K WHITE GOLD Rolex Date-Date President ref. 1803 \"Wide Boy\"",
@@ -11061,5 +11010,56 @@
   },
   "ratio_mercado": 0.87,
   "motivo": "precio normal (87 % del cuartil bajo de 68273)"
+ },
+ {
+  "fecha": "2026-11-02T21:12:00.974858+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1976 Rolex Ladies OP Date 6916 Steel Blue Tropical Tiffany Auto 26mm",
+  "total": 8399.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128171159907",
+  "item_id": "v1|128171159907|0",
+  "referencia": "6916",
+  "mercado": {
+   "n": 26,
+   "p25": 3500,
+   "mediana": 3754
+  },
+  "ratio_mercado": 2.4,
+  "motivo": "precio normal (240 % del cuartil bajo de 6916)"
+ },
+ {
+  "fecha": "2026-11-02T21:12:00.974858+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT Master II Batman 116710BLNR Mint Complete + Warranty",
+  "total": 15200.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920098122593",
+  "item_id": "v1|920098122593|0",
+  "referencia": "116710BLNR",
+  "mercado": {
+   "n": 46,
+   "p25": 15998,
+   "mediana": 16825
+  },
+  "ratio_mercado": 0.95,
+  "motivo": "precio normal (95 % del cuartil bajo de 116710BLNR)"
+ },
+ {
+  "fecha": "2026-11-02T21:12:00.974858+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 126710BLNR Batgirl MINT SS Jubilee Auto Men's 40MM",
+  "total": 16995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198766315147",
+  "item_id": "v1|198766315147|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 67,
+   "p25": 18200,
+   "mediana": 18900
+  },
+  "ratio_mercado": 0.934,
+  "motivo": "precio normal (93 % del cuartil bajo de 126710BLNR)"
  }
 ]
