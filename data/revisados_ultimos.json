@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-29T21:23:57.422311+00:00",
   "marca": "Breitling",
-  "titulo": "Breitling Super Avenger B01 Automatic Chronograph Titanium EB0148101C1X1 w/ B+P",
-  "total": 5545.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/900049729603",
-  "item_id": "v1|900049729603|0",
-  "triage": {
-   "modelo": "Breitling Super Avenger B01 46 Chronograph, titanio, esfera azul, correa de caucho",
-   "referencia": "EB0148101C1X1",
-   "precio_justo_usd": 5900,
-   "interesante": false,
-   "nota": "Nuevo con caja y papeles en mercado gris; el precio pedido está solo ~6% bajo la estimación, por debajo del umbral del 15%."
-  },
-  "motivo": "triage: Nuevo con caja y papeles en mercado gris; el precio pedido está solo ~6% bajo la estimación, por debajo del umbral del 15%. (justo 5900)"
- },
- {
-  "fecha": "2026-10-29T21:23:57.422311+00:00",
-  "marca": "Breitling",
   "titulo": "Breitling Stainless Steel Navitimer 1 Chronograph GMT 46mm",
   "total": 6150.0,
   "condicion": "Pre-owned - Excellent",
@@ -11092,5 +11075,22 @@
    "nota": "El código 2836C1A0-0106 no coincide con el formato de referencia Tudor (p. ej. M28xxx-xxxx); precio pedido por encima del mercado de un Royal usado en buen estado."
   },
   "motivo": "triage: El código 2836C1A0-0106 no coincide con el formato de referencia Tudor (p. ej. M28xxx-xxxx); precio pedido por encima del mercado de un Royal usado en buen estado. (justo 3100)"
+ },
+ {
+  "fecha": "2026-11-02T04:26:11.689757+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner With Paperwork Box And Bag ",
+  "total": 10829.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/377614297001",
+  "item_id": "v1|377614297001|0",
+  "triage": {
+   "modelo": "Rolex Submariner (la foto solo muestra cajas, no se ve el reloj)",
+   "referencia": null,
+   "precio_justo_usd": 11500,
+   "interesante": false,
+   "nota": "La foto solo muestra cajas vacías; no se puede verificar el reloj ni la referencia. Aun asumiendo un Submariner nuevo con caja y papeles, el precio no está claramente por debajo del mercado."
+  },
+  "motivo": "triage: La foto solo muestra cajas vacías; no se puede verificar el reloj ni la referencia. Aun asumiendo un Submariner nuevo con caja y papeles, el precio no está claramente por debajo del mercado. (justo 11500)"
  }
 ]
