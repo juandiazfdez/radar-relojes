@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T21:08:42.070398+00:00",
-  "marca": "Bulgari",
-  "titulo": "Bvlgari Octo Finissimo Chronograph GMT Titanium Auto 42mm Bracelet Watch 103068",
-  "total": 14950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940050470615",
-  "item_id": "v1|940050470615|0",
-  "referencia": "AUTO42MM",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Bulgari Octo Finissimo Chronograph GMT Automatic, titanio, 42 mm (cronógrafo con subesferas, esfera gris)",
-   "referencia": "103068",
-   "precio_justo_usd": 10500,
-   "interesante": false,
-   "nota": "Precio pedido bastante por encima del valor de venta cerrada de titanio de segunda mano; la foto no permite confirmar la función GMT."
-  },
-  "motivo": "triage: Precio pedido bastante por encima del valor de venta cerrada de titanio de segunda mano; la foto no permite confirmar la función GMT. (justo 10500)"
- },
- {
   "fecha": "2026-10-29T21:23:57.422311+00:00",
   "marca": "Rolex",
   "titulo": "Vintage $13,000 34mm ROLEX AIRKING BLUE Tiffany & Co Mens SS Watch SERVICED",
@@ -11086,5 +11063,22 @@
   },
   "ratio_mercado": 1.299,
   "motivo": "precio normal (130 % del cuartil bajo de 3489)"
+ },
+ {
+  "fecha": "2026-11-02T03:26:12.407584+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthère Small Silver",
+  "total": 5042.39,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/860104840706",
+  "item_id": "v1|860104840706|0",
+  "triage": {
+   "modelo": "Cartier Panthère (talla pequeña, acero, cuarzo, esfera plateada)",
+   "referencia": null,
+   "precio_justo_usd": 4600,
+   "interesante": false,
+   "nota": "La caja y bolsa son de Cartier, pero la referencia exacta no se distingue en la foto. Con el descuento normal del mercado gris, 5042 USD queda solo ~9 % por debajo del valor estimado, por debajo del umbral del 15 %."
+  },
+  "motivo": "triage: La caja y bolsa son de Cartier, pero la referencia exacta no se distingue en la foto. Con el descuento normal del mercado gris, 5042 USD queda solo ~9 % por debajo del valor estimado, por debajo del umbral del 15 %. (justo 4600)"
  }
 ]
