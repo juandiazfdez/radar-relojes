@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-10-29T22:23:57.500478+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Speedmaster 304.93.44.52.03.002 44.25mm “Blue Side Of The Moon” Aventurine",
-  "total": 12999.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336869588995",
-  "item_id": "v1|336869588995|0",
-  "referencia": "304.93.44.52.03.002",
-  "mercado": {
-   "n": 9,
-   "p25": 11995,
-   "mediana": 12120
-  },
-  "ratio_mercado": 1.084,
-  "motivo": "precio normal (108 % del cuartil bajo de 304.93.44.52.03.002)"
- },
- {
-  "fecha": "2026-10-29T22:23:57.500478+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "TAG Heuer Carrera Calibre 5 Automatic 39mm WV211B-0",
-  "total": 1500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128163227519",
-  "item_id": "v1|128163227519|0",
-  "referencia": "WV211B",
-  "mercado": {
-   "n": 12,
-   "p25": 1588,
-   "mediana": 1715
-  },
-  "ratio_mercado": 0.945,
-  "motivo": "precio normal (94 % del cuartil bajo de WV211B)"
- },
- {
-  "fecha": "2026-10-29T22:23:57.500478+00:00",
   "marca": "TAG Heuer",
   "titulo": "2026 TAG Heuer Aquaracer Solargraph DLC WBP1112 40mm Black Men's Watch +B&P",
   "total": 2349.0,
@@ -11075,5 +11041,45 @@
   },
   "ratio_mercado": 0.83,
   "motivo": "descripcion: as-is"
+ },
+ {
+  "fecha": "2026-11-02T15:56:45.393329+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere Medium Rose Gold Diamond Ladies Watch WJPN0009",
+  "total": 32700.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940060077644",
+  "item_id": "v1|940060077644|0",
+  "referencia": "WJPN0009",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Panthère de Cartier, talla mediana, oro rosa con bisel de diamantes, cuarzo",
+   "referencia": "WJPN0009",
+   "precio_justo_usd": 22000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del mercado de segunda mano para esta referencia en oro rosa con diamantes; no hay descuento claro."
+  },
+  "motivo": "triage: Precio pedido por encima del mercado de segunda mano para esta referencia en oro rosa con diamantes; no hay descuento claro. (justo 22000)"
+ },
+ {
+  "fecha": "2026-11-02T15:56:45.393329+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 41 Burgundy METAS Master Chronometer 5-Link M7941A1A0RU 2026 NEW",
+  "total": 4560.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800867543467",
+  "item_id": "v1|800867543467|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 41 Burgundy (bisel borgoña, esfera negra, brazalete de eslabones)",
+   "referencia": "M7941A1A0RU (según el título; no verificable en la foto)",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Precio pedido de US$4560 supera el retail y el mercado gris de un modelo nuevo con caja y papeles; no hay descuento real."
+  },
+  "motivo": "triage: Precio pedido de US$4560 supera el retail y el mercado gris de un modelo nuevo con caja y papeles; no hay descuento real. (justo 3800)"
  }
 ]
