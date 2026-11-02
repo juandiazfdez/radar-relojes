@@ -2,40 +2,6 @@
  {
   "fecha": "2026-10-29T21:53:57.060503+00:00",
   "marca": "Omega",
-  "titulo": "OMEGA Seamaster Diver 300M Black Black Ceramic 210.92.44.20.01.003 Box & Papers",
-  "total": 7279.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128163176869",
-  "item_id": "v1|128163176869|0",
-  "referencia": "210.92.44.20.01.003",
-  "mercado": {
-   "n": 17,
-   "p25": 7325,
-   "mediana": 7399
-  },
-  "ratio_mercado": 0.994,
-  "motivo": "precio normal (99 % del cuartil bajo de 210.92.44.20.01.003)"
- },
- {
-  "fecha": "2026-10-29T21:53:57.060503+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Speedmaster Moonwatch Professional 310.30.42.50.01.001 Box & Papers",
-  "total": 6379.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128163181159",
-  "item_id": "v1|128163181159|0",
-  "referencia": "310.30.42.50.01.001",
-  "mercado": {
-   "n": 29,
-   "p25": 6379,
-   "mediana": 6549
-  },
-  "ratio_mercado": 1.0,
-  "motivo": "precio normal (100 % del cuartil bajo de 310.30.42.50.01.001)"
- },
- {
-  "fecha": "2026-10-29T21:53:57.060503+00:00",
-  "marca": "Omega",
   "titulo": "Omega Speedmaster Professional Moonwatch 310.30.42.50.01.002 42mm Box and Papers",
   "total": 7350.0,
   "condicion": "Pre-owned - Excellent",
@@ -11092,5 +11058,39 @@
   },
   "ratio_mercado": 1.123,
   "motivo": "precio normal (112 % del cuartil bajo de 79470)"
+ },
+ {
+  "fecha": "2026-11-02T14:41:45.303160+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise W51012Q4 2465 25mm Medium Steel Yellow Gold Ladies Card",
+  "total": 5525.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267831081384",
+  "item_id": "v1|267831081384|0",
+  "referencia": "2465",
+  "mercado": {
+   "n": 26,
+   "p25": 3599,
+   "mediana": 3875
+  },
+  "ratio_mercado": 1.535,
+  "motivo": "precio normal (154 % del cuartil bajo de 2465)"
+ },
+ {
+  "fecha": "2026-11-02T14:41:45.303160+00:00",
+  "marca": "Cartier",
+  "titulo": "VINTAGE 23MM MUST DE CARTIER TANK .925 VERMEIL WATCH W/ BOX & PAPERS, SERVICED!",
+  "total": 3499.95,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860106165420",
+  "item_id": "v1|860106165420|0",
+  "triage": {
+   "modelo": "Must de Cartier Tank (vermeil, cuarzo, esfera negra, correa de piel negra) con caja y estuche de papeles",
+   "referencia": null,
+   "precio_justo_usd": 550,
+   "interesante": false,
+   "nota": "Must de Cartier es una línea de cuarzo de plata dorada (vermeil) de precio medio-bajo; con caja y papeles se vende en torno a US$400-700, muy por debajo de los US$3500 pedidos."
+  },
+  "motivo": "triage: Must de Cartier es una línea de cuarzo de plata dorada (vermeil) de precio medio-bajo; con caja y papeles se vende en torno a US$400-700, muy por debajo de los US$3500 pedidos. (justo 550)"
  }
 ]
