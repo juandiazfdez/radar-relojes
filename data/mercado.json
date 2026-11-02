@@ -7755,10 +7755,10 @@
   "max": 4500
  },
  "Tudor M91560|nuevo": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-11-02",
   "consulta": "Tudor M91560",
   "n": 3,
-  "mediana": 2795,
+  "mediana": 2655,
   "p25": 2295,
   "p75": 2850,
   "min": 2295,
@@ -17943,5 +17943,15 @@
   "p75": 6883,
   "min": 5085,
   "max": 14000
+ },
+ "Cartier WSBB0021|usado": {
+  "fecha": "2026-11-02",
+  "consulta": "Cartier WSBB0021",
+  "n": 4,
+  "mediana": 6668,
+  "p25": 6600,
+  "p75": 6994,
+  "min": 5720,
+  "max": 6994
  }
 }
