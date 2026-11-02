@@ -1,63 +1,6 @@
 [
  {
   "fecha": "2026-10-29T21:23:57.422311+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 54 M79000N-0001 New Box & Papers 2026",
-  "total": 4210.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/137885081006",
-  "item_id": "v1|137885081006|0",
-  "referencia": "M79000N-0001",
-  "mercado": {
-   "n": 3,
-   "p25": 4195,
-   "mediana": 4458
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay 54 (37 mm, acero, bisel negro, esfera negra)",
-   "referencia": "M79000N-0001",
-   "precio_justo_usd": 3600,
-   "interesante": false,
-   "nota": "Precio pedido cercano a retail para una BB54 nueva; el mercado secundario suele estar por debajo, así que no hay descuento claro."
-  },
-  "motivo": "triage: Precio pedido cercano a retail para una BB54 nueva; el mercado secundario suele estar por debajo, así que no hay descuento claro. (justo 3600)"
- },
- {
-  "fecha": "2026-10-29T21:23:57.422311+00:00",
-  "marca": "Omega",
-  "titulo": "2025 PAPERS OMEGA Speedmaster Anniversary 310.32.42.50.02.001 Snoopy 42mm BOX",
-  "total": 14999.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168825237254",
-  "item_id": "v1|168825237254|0",
-  "referencia": "310.32.42.50.02.001",
-  "mercado": {
-   "n": 38,
-   "p25": 15847,
-   "mediana": 16309
-  },
-  "ratio_mercado": 0.946,
-  "motivo": "precio normal (95 % del cuartil bajo de 310.32.42.50.02.001)"
- },
- {
-  "fecha": "2026-10-29T21:23:57.422311+00:00",
-  "marca": "Breitling",
-  "titulo": "2019  Breitling Premier B01 Chrono 42 (Ref AB0118) Auto Watch. BOX/BOOK. READ.",
-  "total": 4079.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800853072808",
-  "item_id": "v1|800853072808|0",
-  "referencia": "AB0118",
-  "mercado": {
-   "n": 8,
-   "p25": 4269,
-   "mediana": 4950
-  },
-  "ratio_mercado": 0.956,
-  "motivo": "precio normal (96 % del cuartil bajo de AB0118)"
- },
- {
-  "fecha": "2026-10-29T21:23:57.422311+00:00",
   "marca": "Breitling",
   "titulo": "Breitling Super Avenger B01 Automatic Chronograph Titanium EB0148101C1X1 w/ B+P",
   "total": 5545.0,
@@ -11098,5 +11041,56 @@
    "nota": "Precio pedido por encima del valor de mercado gris para un Panthère pequeño nuevo con caja y papeles; la foto no permite confirmar la referencia exacta."
   },
   "motivo": "triage: Precio pedido por encima del valor de mercado gris para un Panthère pequeño nuevo con caja y papeles; la foto no permite confirmar la referencia exacta. (justo 4300)"
+ },
+ {
+  "fecha": "2026-11-02T04:11:12.455800+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1981 Rolex Oysterquartz Datejust Quartz Wristwatch Steel & 18k 17013",
+  "total": 7119.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147661679971",
+  "item_id": "v1|147661679971|0",
+  "referencia": "17013",
+  "mercado": {
+   "n": 18,
+   "p25": 6000,
+   "mediana": 6900
+  },
+  "ratio_mercado": 1.187,
+  "motivo": "precio normal (119 % del cuartil bajo de 17013)"
+ },
+ {
+  "fecha": "2026-11-02T04:11:12.455800+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 35mm 1974 Rolex Oysterdate Precision Wristwatch 1225 Steel Full Set 6694",
+  "total": 5537.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147661679336",
+  "item_id": "v1|147661679336|0",
+  "referencia": "6694",
+  "mercado": {
+   "n": 14,
+   "p25": 3499,
+   "mediana": 3950
+  },
+  "ratio_mercado": 1.582,
+  "motivo": "precio normal (158 % del cuartil bajo de 6694)"
+ },
+ {
+  "fecha": "2026-11-02T04:11:12.455800+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Royal \"36mm - Glacier Blue\" 2836C1A0-0106",
+  "total": 4348.34,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336874395581",
+  "item_id": "v1|336874395581|0",
+  "triage": {
+   "modelo": "Tudor Royal 36mm Glacier Blue (esfera azul claro, brazalete de acero tipo Jubilee)",
+   "referencia": null,
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "El código 2836C1A0-0106 no coincide con el formato de referencia Tudor (p. ej. M28xxx-xxxx); precio pedido por encima del mercado de un Royal usado en buen estado."
+  },
+  "motivo": "triage: El código 2836C1A0-0106 no coincide con el formato de referencia Tudor (p. ej. M28xxx-xxxx); precio pedido por encima del mercado de un Royal usado en buen estado. (justo 3100)"
  }
 ]
