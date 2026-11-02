@@ -1,79 +1,5 @@
 [
  {
-  "fecha": "2026-10-30T15:54:28.720486+00:00",
-  "marca": "Rolex",
-  "titulo": "1988 Rolex DateJust Presidential 69178 - 18K Solid Gold Ladies - RSC Serviced",
-  "total": 12000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137887272905",
-  "item_id": "v1|137887272905|0",
-  "referencia": "69178",
-  "mercado": {
-   "n": 5,
-   "p25": 5450,
-   "mediana": 5950
-  },
-  "ratio_mercado": 2.202,
-  "motivo": "precio normal (220 % del cuartil bajo de 69178)"
- },
- {
-  "fecha": "2026-10-30T15:54:28.720486+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Ranger Dune/Beige 5/26 Ref# 79930 36mm",
-  "total": 4048.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/257825547848",
-  "item_id": "v1|257825547848|0",
-  "referencia": "79930",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Tudor Ranger 36 mm (dial beige/Dune)",
-   "referencia": "79930",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Reloj de producción actual; el precio pedido de US$4.048 supera el valor de reventa estimado, que ronda los US$3.300 con caja y papeles."
-  },
-  "motivo": "triage: Reloj de producción actual; el precio pedido de US$4.048 supera el valor de reventa estimado, que ronda los US$3.300 con caja y papeles. (justo 3300)"
- },
- {
-  "fecha": "2026-10-30T16:09:27.990588+00:00",
-  "marca": "Rolex",
-  "titulo": "2022 MINT Rolex Daytona 116503 Rainbow Diamond Yellow Gold Steel Sapphire 40mm",
-  "total": 22212.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307257244488",
-  "item_id": "v1|307257244488|0",
-  "referencia": "116503",
-  "mercado": {
-   "n": 24,
-   "p25": 22628,
-   "mediana": 23824
-  },
-  "ratio_mercado": 0.982,
-  "motivo": "precio normal (98 % del cuartil bajo de 116503)"
- },
- {
-  "fecha": "2026-10-30T16:09:27.990588+00:00",
-  "marca": "Rolex",
-  "titulo": "MINT PAPERS Rolex 218235 Day Date II President Rose Gold Concentric Roman 41mm",
-  "total": 42412.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287692379223",
-  "item_id": "v1|287692379223|0",
-  "referencia": "218235",
-  "mercado": {
-   "n": 17,
-   "p25": 39969,
-   "mediana": 42495
-  },
-  "ratio_mercado": 1.061,
-  "motivo": "precio normal (106 % del cuartil bajo de 218235)"
- },
- {
   "fecha": "2026-10-30T16:09:27.990588+00:00",
   "marca": "Rolex",
   "titulo": "2020 NEW PAPERS Rolex Sky-Dweller 326933 Black Two Tone Gold Steel 42mm Watch",
@@ -11134,5 +11060,79 @@
    "nota": "Precio pedido por encima de la estimación de mercado gris para un BB58 nuevo con caja y papeles; no hay descuento claro."
   },
   "motivo": "triage: Precio pedido por encima de la estimación de mercado gris para un BB58 nuevo con caja y papeles; no hay descuento claro. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-02T23:27:12.303349+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX -  DATEJUST 41MM STEEL AND ROSE GOLD REF 126331",
+  "total": 17798.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407334689193",
+  "item_id": "v1|407334689193|0",
+  "referencia": "126331",
+  "mercado": {
+   "n": 44,
+   "p25": 15990,
+   "mediana": 16653
+  },
+  "ratio_mercado": 1.113,
+  "motivo": "precio normal (111 % del cuartil bajo de 126331)"
+ },
+ {
+  "fecha": "2026-11-02T23:27:12.303349+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Lady-Datejust — Ref. 79173 | Steel & 18K Yellow Gold | Fully Serviced 2026",
+  "total": 7500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128171360729",
+  "item_id": "v1|128171360729|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 mm, acero y oro amarillo de 18K, bisel acanalado, esfera champán con numerales romanos, brazalete Jubilee",
+   "referencia": "79173",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Precio pedido de US$7.500 con envío, unos 50 % sobre el valor de venta cerrada estimado para un 79173 en buen estado."
+  },
+  "motivo": "triage: Precio pedido de US$7.500 con envío, unos 50 % sobre el valor de venta cerrada estimado para un 79173 en buen estado. (justo 5000)"
+ },
+ {
+  "fecha": "2026-11-02T23:27:12.303349+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yacht-Master II 44mm UNWORN 2026 White Blue Oyster Wood 126688",
+  "total": 65495.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/198766632859",
+  "item_id": "v1|198766632859|0",
+  "referencia": "126688",
+  "mercado": {
+   "n": 1,
+   "p25": 69999,
+   "mediana": 69999
+  },
+  "triage": {
+   "modelo": "Rolex Yacht-Master II 44 mm, oro amarillo, bisel azul, esfera blanca",
+   "referencia": "116688 (probable; el título indica 126688, que no coincide con este modelo)",
+   "precio_justo_usd": 58000,
+   "interesante": false,
+   "nota": "El precio pedido supera el valor estimado de mercado para esta pieza en oro amarillo. La referencia del título no coincide con el modelo visible y la mención de año 2026 es atípica; conviene verificar número de referencia y serie antes de cualquier oferta."
+  },
+  "motivo": "triage: El precio pedido supera el valor estimado de mercado para esta pieza en oro amarillo. La referencia del título no coincide con el modelo visible y la mención de año 2026 es atípica; conviene verificar número de referencia y serie antes de cualquier oferta. (justo 58000)"
+ },
+ {
+  "fecha": "2026-11-02T23:27:12.303349+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41mm 2021 Black Index Smooth Jubilee 126300",
+  "total": 10995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198766617534",
+  "item_id": "v1|198766617534|0",
+  "referencia": "126300",
+  "mercado": {
+   "n": 20,
+   "p25": 9878,
+   "mediana": 10208
+  },
+  "ratio_mercado": 1.113,
+  "motivo": "precio normal (111 % del cuartil bajo de 126300)"
  }
 ]
