@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-10-29T21:38:56.964310+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai Luminor Marina PAM01393 42mm Steep Blue Date Full Set MSRP $9.3k",
-  "total": 6469.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128163161061",
-  "item_id": "v1|128163161061|0",
-  "referencia": "PAM01393",
-  "mercado": {
-   "n": 7,
-   "p25": 6197,
-   "mediana": 6995
-  },
-  "ratio_mercado": 1.044,
-  "motivo": "precio normal (104 % del cuartil bajo de PAM01393)"
- },
- {
-  "fecha": "2026-10-29T21:38:56.964310+00:00",
   "marca": "Omega",
   "titulo": "Omega Speedmaster Steel Yellow Gold Mens Watch 3310.10.00",
   "total": 4770.0,
@@ -11098,5 +11081,22 @@
   },
   "ratio_mercado": 0.0,
   "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
+ },
+ {
+  "fecha": "2026-11-02T07:11:22.877929+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere Vendome SM 1-Row 24mm Ref.1057920C Quartz Watch 18KYG 167807",
+  "total": 4200.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940059154398",
+  "item_id": "v1|940059154398|0",
+  "triage": {
+   "modelo": "Cartier Panthère Vendôme SM 1-Row, cuarzo, bicolor (acero y oro amarillo en la pulsera)",
+   "referencia": "1057920",
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "El título dice 18K oro amarillo, pero la foto muestra pulsera bicolor; la versión bicolor se vende bastante por debajo de la de oro macizo, así que US$4.200 está por encima del precio de mercado."
+  },
+  "motivo": "triage: El título dice 18K oro amarillo, pero la foto muestra pulsera bicolor; la versión bicolor se vende bastante por debajo de la de oro macizo, así que US$4.200 está por encima del precio de mercado. (justo 2800)"
  }
 ]
