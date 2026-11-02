@@ -1,68 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T21:53:57.060503+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Speedmaster Professional Moonwatch 310.30.42.50.01.002 42mm Box and Papers",
-  "total": 7350.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128163182670",
-  "item_id": "v1|128163182670|0",
-  "referencia": "310.30.42.50.01.002",
-  "mercado": {
-   "n": 41,
-   "p25": 6997,
-   "mediana": 7350
-  },
-  "ratio_mercado": 1.05,
-  "motivo": "precio normal (105 % del cuartil bajo de 310.30.42.50.01.002)"
- },
- {
-  "fecha": "2026-10-29T21:53:57.060503+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling AB0413 Chronograph Automatic Men's Watch (LP9028427)",
-  "total": 3400.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327429428196",
-  "item_id": "v1|327429428196|0",
-  "referencia": "AB0413",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Breitling cronógrafo automático en acero con esfera azul (posiblemente línea Chronomat/Aerospace; identificación por imagen incierta)",
-   "referencia": "AB0413 (según título, no verificable en la foto)",
-   "precio_justo_usd": 2400,
-   "interesante": false,
-   "nota": "Precio pedido de 3400 USD está por encima del valor de venta cerrada estimado para un acero de segunda mano en buen estado; sin caja ni papeles confirmados."
-  },
-  "motivo": "triage: Precio pedido de 3400 USD está por encima del valor de venta cerrada estimado para un acero de segunda mano en buen estado; sin caja ni papeles confirmados. (justo 2400)"
- },
- {
-  "fecha": "2026-10-29T21:53:57.060503+00:00",
-  "marca": "Jaeger-LeCoultre",
-  "titulo": "Jaeger-LeCoultre Polaris Chronograph 42mm Wristwatch Q9028180",
-  "total": 8800.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840069492507",
-  "item_id": "v1|840069492507|0",
-  "referencia": "Q9028180",
-  "mercado": {
-   "n": 3,
-   "p25": 10074,
-   "mediana": 10500
-  },
-  "triage": {
-   "modelo": "Jaeger-LeCoultre Polaris Chronograph 42 mm (esfera azul, acero)",
-   "referencia": "Q9028180",
-   "precio_justo_usd": 7900,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta estimado para esta referencia de segunda mano; no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta estimado para esta referencia de segunda mano; no hay descuento suficiente. (justo 7900)"
- },
- {
   "fecha": "2026-10-29T22:08:56.526819+00:00",
   "marca": "Rolex",
   "titulo": "2018 CARD ROLEX MENS SUBMARINER DATE 40MM 116610LV HULK GREEN STEEL OYSTER WATCH",
@@ -11092,5 +11029,56 @@
    "nota": "Must de Cartier es una línea de cuarzo de plata dorada (vermeil) de precio medio-bajo; con caja y papeles se vende en torno a US$400-700, muy por debajo de los US$3500 pedidos."
   },
   "motivo": "triage: Must de Cartier es una línea de cuarzo de plata dorada (vermeil) de precio medio-bajo; con caja y papeles se vende en torno a US$400-700, muy por debajo de los US$3500 pedidos. (justo 550)"
+ },
+ {
+  "fecha": "2026-11-02T14:56:45.003592+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Française W51028Q3 2384 20mm Small Pink MOP Steel Ladies Watch",
+  "total": 3925.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267831092144",
+  "item_id": "v1|267831092144|0",
+  "referencia": "2384",
+  "mercado": {
+   "n": 40,
+   "p25": 3700,
+   "mediana": 4048
+  },
+  "ratio_mercado": 1.061,
+  "motivo": "precio normal (106 % del cuartil bajo de 2384)"
+ },
+ {
+  "fecha": "2026-11-02T14:56:45.003592+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Française W51028Q3 2384 20mm Small Pink MOP Steel Ladies Watch",
+  "total": 3925.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267831091718",
+  "item_id": "v1|267831091718|0",
+  "referencia": "2384",
+  "mercado": {
+   "n": 40,
+   "p25": 3700,
+   "mediana": 4048
+  },
+  "ratio_mercado": 1.061,
+  "motivo": "precio normal (106 % del cuartil bajo de 2384)"
+ },
+ {
+  "fecha": "2026-11-02T14:56:45.003592+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Française W51011Q3 2465 25mm Medium Silver Steel Ladies Watch",
+  "total": 4025.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257830211088",
+  "item_id": "v1|257830211088|0",
+  "referencia": "2465",
+  "mercado": {
+   "n": 26,
+   "p25": 3599,
+   "mediana": 3875
+  },
+  "ratio_mercado": 1.118,
+  "motivo": "precio normal (112 % del cuartil bajo de 2465)"
  }
 ]
