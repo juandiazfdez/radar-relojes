@@ -745,13 +745,13 @@
   "max": 31795
  },
  "Cartier WSSA0046|usado": {
-  "fecha": "2026-10-20",
+  "fecha": "2026-11-02",
   "consulta": "Cartier WSSA0046",
   "n": 3,
-  "mediana": 7810,
-  "p25": 7598,
+  "mediana": 7598,
+  "p25": 7150,
   "p75": 10263,
-  "min": 7598,
+  "min": 7150,
   "max": 10263
  },
  "Cartier WSSA0032|nuevo": {
@@ -18083,5 +18083,30 @@
   "p75": 39690,
   "min": 39690,
   "max": 39690
+ },
+ "Rolex 5109|usado": {
+  "fecha": "2026-11-02",
+  "consulta": "Rolex 5109",
+  "n": 1,
+  "mediana": 5140,
+  "p25": 5140,
+  "p75": 5140,
+  "min": 5140,
+  "max": 5140
+ },
+ "Cartier WE902031|usado": {
+  "fecha": "2026-11-02",
+  "consulta": "Cartier WE902031",
+  "n": 2,
+  "mediana": 7345,
+  "p25": 6800,
+  "p75": 7890,
+  "min": 6800,
+  "max": 7890
+ },
+ "Cartier WSA0016|usado": {
+  "fecha": "2026-11-02",
+  "consulta": "Cartier WSA0016",
+  "n": 0
  }
 }
