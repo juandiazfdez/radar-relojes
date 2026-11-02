@@ -1,29 +1,6 @@
 [
  {
   "fecha": "2026-10-29T21:08:42.070398+00:00",
-  "marca": "Jaeger-LeCoultre",
-  "titulo": "Jaeger LeCoultre Reverso Tribute Duoface Steel Mens Watch Q3988481 Box Card",
-  "total": 14850.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336869472115",
-  "item_id": "v1|336869472115|0",
-  "referencia": "Q3988481",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Jaeger-LeCoultre Reverso Tribute Duoface Acero (hombre)",
-   "referencia": "Q3988481",
-   "precio_justo_usd": 8000,
-   "interesante": false,
-   "nota": "Reverso Tribute Duoface de acero con caja y tarjeta; en el mercado de segunda mano suele venderse muy por debajo de 14.850 USD. El precio pedido está muy por encima del valor real."
-  },
-  "motivo": "triage: Reverso Tribute Duoface de acero con caja y tarjeta; en el mercado de segunda mano suele venderse muy por debajo de 14.850 USD. El precio pedido está muy por encima del valor real. (justo 8000)"
- },
- {
-  "fecha": "2026-10-29T21:08:42.070398+00:00",
   "marca": "Bulgari",
   "titulo": "Bvlgari Octo Finissimo Chronograph GMT Titanium Auto 42mm Bracelet Watch 103068",
   "total": 14950.0,
@@ -11092,5 +11069,22 @@
    "nota": "Precio pedido por encima del rango de mercado gris para un Santos Large de acero nuevo; no hay descuento suficiente y el año 2026 del título no se puede verificar desde la foto."
   },
   "motivo": "triage: Precio pedido por encima del rango de mercado gris para un Santos Large de acero nuevo; no hay descuento suficiente y el año 2026 del título no se puede verificar desde la foto. (justo 7300)"
+ },
+ {
+  "fecha": "2026-11-02T02:56:11.910771+00:00",
+  "marca": "Cartier",
+  "titulo": "CARTIER BALLON BLEU MOTHER PEARL 18K ROSE GOLD/SS 33MM WATCH 3489 W6920098 B&P's",
+  "total": 6295.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800865422993",
+  "item_id": "v1|800865422993|0",
+  "referencia": "3489",
+  "mercado": {
+   "n": 10,
+   "p25": 4845,
+   "mediana": 5277
+  },
+  "ratio_mercado": 1.299,
+  "motivo": "precio normal (130 % del cuartil bajo de 3489)"
  }
 ]
