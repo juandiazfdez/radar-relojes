@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T21:38:56.964310+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Avenger Chronograph GMT 45mm Steel Box & Papers Ref A24315101B1X1",
-  "total": 4150.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128163157994",
-  "item_id": "v1|128163157994|0",
-  "referencia": "A24315101B1X1",
-  "mercado": {
-   "n": 3,
-   "p25": 3600,
-   "mediana": 3890
-  },
-  "triage": {
-   "modelo": "Breitling Avenger Chronograph GMT 45 mm, acero, esfera negra, correa de tela negra",
-   "referencia": "A24315101B1X1",
-   "precio_justo_usd": 3600,
-   "interesante": false,
-   "nota": "Precio pedido por encima de la estimación de venta real para estado excelente con caja y papeles; no cumple el umbral del 15 %."
-  },
-  "motivo": "triage: Precio pedido por encima de la estimación de venta real para estado excelente con caja y papeles; no cumple el umbral del 15 %. (justo 3600)"
- },
- {
-  "fecha": "2026-10-29T21:53:57.060503+00:00",
-  "marca": "Rolex",
-  "titulo": "2021 PAPERS Rolex Milgauss 116400GV Black Green Stainless Steel 40mm BOX",
-  "total": 12899.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168825302649",
-  "item_id": "v1|168825302649|0",
-  "referencia": "116400GV",
-  "mercado": {
-   "n": 28,
-   "p25": 12224,
-   "mediana": 13924
-  },
-  "ratio_mercado": 1.055,
-  "motivo": "precio normal (106 % del cuartil bajo de 116400GV)"
- },
- {
-  "fecha": "2026-10-29T21:53:57.060503+00:00",
-  "marca": "Rolex",
-  "titulo": "2012 PAPERS Rolex Submariner Date 116610LN Steel Black Ceramic 40mm Watch BOX",
-  "total": 11899.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168825298815",
-  "item_id": "v1|168825298815|0",
-  "referencia": "116610LN",
-  "mercado": {
-   "n": 59,
-   "p25": 12899,
-   "mediana": 13500
-  },
-  "ratio_mercado": 0.922,
-  "motivo": "precio normal (92 % del cuartil bajo de 116610LN)"
- },
- {
   "fecha": "2026-10-29T21:53:57.060503+00:00",
   "marca": "Tudor",
   "titulo": "2023 Tudor Ranger M79950-0001 | Full Set | Original AD Receipt",
@@ -11092,5 +11035,62 @@
    "nota": "Precio pedido por encima de lo que se vende este modelo de acero de segunda mano en condición Good; la oferta no cumple el umbral de 15 % por debajo del mercado."
   },
   "motivo": "triage: Precio pedido por encima de lo que se vende este modelo de acero de segunda mano en condición Good; la oferta no cumple el umbral de 15 % por debajo del mercado. (justo 3600)"
+ },
+ {
+  "fecha": "2026-11-02T12:11:44.819131+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date Automatic Stainless Steel Watch",
+  "total": 3220.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267830955099",
+  "item_id": "v1|267830955099|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date (automático, acero, esfera crema con indicadores de bastón)",
+   "referencia": "1500 (probable, sin confirmar)",
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "Vintage probable de los años 60-80 con esfera crema y correa de cuero; sin ver caso, número de serie ni estado real, el precio pedido queda cerca del valor de mercado, no 15 % por debajo."
+  },
+  "motivo": "triage: Vintage probable de los años 60-80 con esfera crema y correa de cuero; sin ver caso, número de serie ni estado real, el precio pedido queda cerca del valor de mercado, no 15 % por debajo. (justo 3600)"
+ },
+ {
+  "fecha": "2026-11-02T12:11:44.819131+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Pasha Seatimer Automatic Stainless Steel And Rubber Watch",
+  "total": 4052.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820306629461",
+  "item_id": "v1|820306629461|0",
+  "triage": {
+   "modelo": "Cartier Pasha de Cartier Seatimer Cronógrafo, acero con correa de caucho negra, esfera negra",
+   "referencia": "W31080M2 (probable, no verificable en la foto)",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Precio pedido de US$4.052 con envío, unos 15 % por encima de lo que suele cerrar este modelo de segunda mano en EE. UU. Sin caja ni papeles visibles, el estado 'Good' no justifica pagar más."
+  },
+  "motivo": "triage: Precio pedido de US$4.052 con envío, unos 15 % por encima de lo que suele cerrar este modelo de segunda mano en EE. UU. Sin caja ni papeles visibles, el estado 'Good' no justifica pagar más. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-02T12:11:44.819131+00:00",
+  "marca": "Tudor",
+  "titulo": "New 2026 Tudor Pelagos FXD Black Titanium 10/26 Ref. 25717N",
+  "total": 4548.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/257830009212",
+  "item_id": "v1|257830009212|0",
+  "referencia": "25717N",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Pelagos FXD (titanio negro, esfera negra, correa de tela)",
+   "referencia": "25717N",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Pelagos FXD nuevo con caja y papeles se vende cerca de retail, unos 10-15 % bajo; el precio pedido de US$4548 está por encima de ese rango."
+  },
+  "motivo": "triage: Pelagos FXD nuevo con caja y papeles se vende cerca de retail, unos 10-15 % bajo; el precio pedido de US$4548 está por encima de ese rango. (justo 3800)"
  }
 ]
