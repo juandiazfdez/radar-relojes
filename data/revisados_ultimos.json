@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-10-29T21:38:56.964310+00:00",
-  "marca": "Rolex",
-  "titulo": "2023 Rolex GMT-Master II Sprite Lefty 126720VTNR 40MM Black Jubilee B/p",
-  "total": 17500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117493370091",
-  "item_id": "v1|117493370091|0",
-  "referencia": "126720VTNR",
-  "mercado": {
-   "n": 90,
-   "p25": 17999,
-   "mediana": 18524
-  },
-  "ratio_mercado": 0.972,
-  "motivo": "precio normal (97 % del cuartil bajo de 126720VTNR)"
- },
- {
-  "fecha": "2026-10-29T21:38:56.964310+00:00",
   "marca": "Panerai",
   "titulo": "Panerai Luminor Marina PAM01393 42mm Steep Blue Date Full Set MSRP $9.3k",
   "total": 6469.0,
@@ -11098,5 +11081,22 @@
    "nota": "Parece caja o cabeza sin brazalete ni correa, y el título menciona solo la caja; a US$4000 está muy por encima del valor de una pieza así."
   },
   "motivo": "triage: Parece caja o cabeza sin brazalete ni correa, y el título menciona solo la caja; a US$4000 está muy por encima del valor de una pieza así. (justo 1800)"
+ },
+ {
+  "fecha": "2026-11-02T06:41:23.078229+00:00",
+  "marca": "Rolex",
+  "titulo": "2000 ROLEX 16220 DATEJUST CREAM ARABIC COMPUTER STEEL JUBILEE WATCH $1 NR 11/6",
+  "total": 1.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800866090733",
+  "item_id": "v1|800866090733|0",
+  "referencia": "16220",
+  "mercado": {
+   "n": 33,
+   "p25": 5999,
+   "mediana": 7200
+  },
+  "ratio_mercado": 0.0,
+  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
  }
 ]
