@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-29T21:38:56.964310+00:00",
   "marca": "Rolex",
-  "titulo": "$14,000 ROLEX DATE 34mm WHITE ROMAN NUMERAL 14k Yellow Gold SS Mens Watch WTY",
-  "total": 5659.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307256033902",
-  "item_id": "v1|307256033902|0",
-  "triage": {
-   "modelo": "Rolex Datejust bicolor acero/oro amarillo 14k, bisel acanalado dorado, esfera blanca con numerales romanos, brazalete jubilee",
-   "referencia": "16233 (probable)",
-   "precio_justo_usd": 6800,
-   "interesante": false,
-   "nota": "Precio pedido ~17% bajo estimado, pero el titulo dice 34mm (el 16233 mide 36mm) y 14,000 USD, lo que sugiere listado inexacto; requiere verificacion de autenticidad y medidas antes de considerarlo."
-  },
-  "motivo": "triage: Precio pedido ~17% bajo estimado, pero el titulo dice 34mm (el 16233 mide 36mm) y 14,000 USD, lo que sugiere listado inexacto; requiere verificacion de autenticidad y medidas antes de considerarlo. (justo 6800)"
- },
- {
-  "fecha": "2026-10-29T21:38:56.964310+00:00",
-  "marca": "Rolex",
   "titulo": "2023 Rolex GMT-Master II Sprite Lefty 126720VTNR 40MM Black Jubilee B/p",
   "total": 17500.0,
   "condicion": "Pre-owned - Good",
@@ -11098,5 +11081,22 @@
    "nota": "Tank Must pequeño de acero usado en excelente estado con caja y papeles; el precio pedido de US$3500 supera el mercado secundario, que ronda US$2300-2800."
   },
   "motivo": "triage: Tank Must pequeño de acero usado en excelente estado con caja y papeles; el precio pedido de US$3500 supera el mercado secundario, que ronda US$2300-2800. (justo 2500)"
+ },
+ {
+  "fecha": "2026-11-02T05:41:11.898826+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 3131 14K Rose Solid Gold Case     ",
+  "total": 3999.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840083721839",
+  "item_id": "v1|840083721839|0",
+  "triage": {
+   "modelo": "Rolex de oro rosa 14K (posible Cellini, no identificable con certeza; se ve solo la caja y la esfera verde, sin correa)",
+   "referencia": null,
+   "precio_justo_usd": 1800,
+   "interesante": false,
+   "nota": "Parece caja o cabeza sin brazalete ni correa, y el título menciona solo la caja; a US$4000 está muy por encima del valor de una pieza así."
+  },
+  "motivo": "triage: Parece caja o cabeza sin brazalete ni correa, y el título menciona solo la caja; a US$4000 está muy por encima del valor de una pieza así. (justo 1800)"
  }
 ]
