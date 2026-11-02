@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-10-29T21:53:57.060503+00:00",
-  "marca": "Panerai",
-  "titulo": "PANERAI Luminor Luna Rossa 44mm Limited  1,500 pieces PAM01342 Box & Papers",
-  "total": 6100.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128163179306",
-  "item_id": "v1|128163179306|0",
-  "referencia": "PAM01342",
-  "mercado": {
-   "n": 6,
-   "p25": 5985,
-   "mediana": 6031
-  },
-  "ratio_mercado": 1.019,
-  "motivo": "precio normal (102 % del cuartil bajo de PAM01342)"
- },
- {
-  "fecha": "2026-10-29T21:53:57.060503+00:00",
   "marca": "Omega",
   "titulo": "OMEGA Seamaster Diver 300M Black Wave Mesh 210.30.42.20.01.010 Box & Papers",
   "total": 6600.0,
@@ -11092,5 +11075,22 @@
   },
   "ratio_mercado": 1.155,
   "motivo": "precio normal (115 % del cuartil bajo de 16263)"
+ },
+ {
+  "fecha": "2026-11-02T13:56:45.328961+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR 1926, 41 MM.Rose Gold, Automatic Date Two-Tone  Watch",
+  "total": 2100.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900059097342",
+  "item_id": "v1|900059097342|0",
+  "triage": {
+   "modelo": "Tudor 1926 41 mm bicolor (acero y oro rosa), esfera plata guilloché con índices arábigos y fecha a las 3",
+   "referencia": null,
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Precio pedido a unos 9 % por debajo de una estimación conservadora; la referencia exacta no se distingue en la foto y el estado 'Good' sugiere descuento frente a piezas con caja y papeles."
+  },
+  "motivo": "triage: Precio pedido a unos 9 % por debajo de una estimación conservadora; la referencia exacta no se distingue en la foto y el estado 'Good' sugiere descuento frente a piezas con caja y papeles. (justo 2300)"
  }
 ]
