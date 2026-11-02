@@ -5985,14 +5985,14 @@
   "max": 28995
  },
  "Rolex 126710BLRO|usado": {
-  "fecha": "2026-11-01",
+  "fecha": "2026-11-02",
   "consulta": "Rolex 126710BLRO",
-  "n": 25,
-  "mediana": 24999,
+  "n": 24,
+  "mediana": 25047,
   "p25": 24499,
-  "p75": 25960,
+  "p75": 25999,
   "min": 21000,
-  "max": 26723
+  "max": 26499
  },
  "Rolex 278274GNSJ|nuevo": {
   "fecha": "2026-10-26",
@@ -17928,5 +17928,20 @@
   "p75": 19735,
   "min": 16150,
   "max": 19735
+ },
+ "Rolex 126715CHRN|usado": {
+  "fecha": "2026-11-02",
+  "consulta": "Rolex 126715CHRN",
+  "n": 0
+ },
+ "Cartier 1566|usado": {
+  "fecha": "2026-11-02",
+  "consulta": "Cartier 1566",
+  "n": 5,
+  "mediana": 6500,
+  "p25": 6245,
+  "p75": 6883,
+  "min": 5085,
+  "max": 14000
  }
 }
