@@ -1,148 +1,5 @@
 [
  {
-  "fecha": "2026-10-30T00:08:56.934652+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Aqua Terra Chronograph White 231.10.44.50.04.001 Complete Set!!!",
-  "total": 3350.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336869726244",
-  "item_id": "v1|336869726244|0",
-  "referencia": "231.10.44.50.04.001",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Omega Seamaster Aqua Terra 150M Chronograph (esfera blanca, bisel y brazalete de acero, 44 mm aprox.)",
-   "referencia": "231.10.44.50.04.001",
-   "precio_justo_usd": 3700,
-   "interesante": false,
-   "nota": "Precio pedido de 3350 USD está solo ~9-10% bajo el valor de venta usado completo; no alcanza el umbral del 15%."
-  },
-  "motivo": "triage: Precio pedido de 3350 USD está solo ~9-10% bajo el valor de venta usado completo; no alcanza el umbral del 15%. (justo 3700)"
- },
- {
-  "fecha": "2026-10-30T00:08:56.934652+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Speedmaster Calibre 321 Ed White 39.7mm Steel 311.30.40.30.01.001 Full Set",
-  "total": 15099.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257824427757",
-  "item_id": "v1|257824427757|0",
-  "referencia": "311.30.40.30.01.001",
-  "mercado": {
-   "n": 8,
-   "p25": 16945,
-   "mediana": 17982
-  },
-  "ratio_mercado": 0.891,
-  "motivo": "precio normal (89 % del cuartil bajo de 311.30.40.30.01.001)"
- },
- {
-  "fecha": "2026-10-30T00:08:56.934652+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "tag heuer aquaracer calibre 5",
-  "total": 1800.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147657361655",
-  "item_id": "v1|147657361655|0",
-  "triage": {
-   "modelo": "TAG Heuer Aquaracer Calibre 5 (esfera negra, brazalete de acero)",
-   "referencia": "WAY2010.BA0927 (probable, no confirmable en la imagen)",
-   "precio_justo_usd": 1400,
-   "interesante": false,
-   "nota": "Precio pedido de 1800 USD está por encima del valor de venta cerrada estimado para un Aquaracer Calibre 5 de acero usado en excelente estado, aunque tenga caja."
-  },
-  "motivo": "triage: Precio pedido de 1800 USD está por encima del valor de venta cerrada estimado para un Aquaracer Calibre 5 de acero usado en excelente estado, aunque tenga caja. (justo 1400)"
- },
- {
-  "fecha": "2026-10-30T00:08:56.934652+00:00",
-  "marca": "IWC",
-  "titulo": "IWC Portugieser Silver Men's Watch - IW500107",
-  "total": 6010.8,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198755832214",
-  "item_id": "v1|198755832214|0",
-  "referencia": "IW500107",
-  "mercado": {
-   "n": 3,
-   "p25": 7000,
-   "mediana": 7800
-  },
-  "triage": {
-   "modelo": "IWC Portugieser Chronograph, acero, esfera plateada, correa de piel",
-   "referencia": "IW500107",
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "Precio pedido de 6011 USD esta alrededor de 25% por encima del valor de venta de un IW500107 usado en EE. UU. Sin verificar caja, papeles ni estado real."
-  },
-  "motivo": "triage: Precio pedido de 6011 USD esta alrededor de 25% por encima del valor de venta de un IW500107 usado en EE. UU. Sin verificar caja, papeles ni estado real. (justo 4800)"
- },
- {
-  "fecha": "2026-10-30T00:23:57.183672+00:00",
-  "marca": "Rolex",
-  "titulo": "NEW 2025 Rolex GMT-Master II \"Batman\" 40mm 126710BLNR Oyster (STICKERED)",
-  "total": 15500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287690832234",
-  "item_id": "v1|287690832234|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 67,
-   "p25": 18395,
-   "mediana": 18950
-  },
-  "ratio_mercado": 0.843,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 14500,
-   "riesgo_autenticidad": "medio",
-   "estado": "Aparenta casi nuevo, pero el vendedor dice 'pre-owned slightly worn'. Caja verde, estuche y funda de garantía presentes."
-  },
-  "motivo": "Claude descarto: El precio de US$15,500 no deja margen. El precio justo cerrado para un Batman Oyster 2025 con caja y papeles ronda US$14,500-15,000. Los comparables de US$18,400-18,950 son precios pedidos inflados, así que no sirven de referencia.; El título dice 'NEW 2025 (STICKERED)', pero las fotos no muestran stickers en el cristal ni en el brazalete. Además la condición dice 'Pre-owned - Excellent, slightly worn'. Esa contradicción indica que no es nuevo sin uso ni con stickers de fábrica."
- },
- {
-  "fecha": "2026-10-30T00:23:57.183672+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Heritage 41mm \"Harrod's\" 79230G-0001 | 2021 Full Set",
-  "total": 4950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/900050023652",
-  "item_id": "v1|900050023652|0",
-  "referencia": "79230G-0001",
-  "mercado": {
-   "n": 2,
-   "p25": 5450,
-   "mediana": 5455
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay Heritage 41mm \"Harrods\" (bisel verde, esfera negra, brazalete de acero)",
-   "referencia": "79230G-0001",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Precio pedido US$4950 por encima del valor de venta estimado para este modelo de 2021 en estado bueno, aunque la edición Harrods puede tener cierta prima de coleccionista."
-  },
-  "motivo": "triage: Precio pedido US$4950 por encima del valor de venta estimado para este modelo de 2021 en estado bueno, aunque la edición Harrods puede tener cierta prima de coleccionista. (justo 4000)"
- },
- {
-  "fecha": "2026-10-30T00:23:57.183672+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Premier B01 Chronograph",
-  "total": 4600.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407323364628",
-  "item_id": "v1|407323364628|0",
-  "triage": {
-   "modelo": "Breitling Premier B01 Chronograph 42",
-   "referencia": null,
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "Premier B01 de acero con esfera champagne y caja original; el precio pedido está algo por encima del rango de venta usado, sin descuento suficiente."
-  },
-  "motivo": "triage: Premier B01 de acero con esfera champagne y caja original; el precio pedido está algo por encima del rango de venta usado, sin descuento suficiente. (justo 4300)"
- },
- {
   "fecha": "2026-10-30T00:23:57.183672+00:00",
   "marca": "TAG Heuer",
   "titulo": "Tag Heuer Aquaracer Professional 200 Chronograph Ref. CBP1112.BA0627",
@@ -11064,5 +10921,130 @@
    "nota": "Precio nuevo en caja y papeles dentro del rango normal del mercado gris; solo ~7 % por debajo de la estimación, menos del umbral del 15 %."
   },
   "motivo": "triage: Precio nuevo en caja y papeles dentro del rango normal del mercado gris; solo ~7 % por debajo de la estimación, menos del umbral del 15 %. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-02T18:57:02.304557+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Ref 1601 Datejust 36mm 18k SS Mens 1970s Vintage Automatic RA850B",
+  "total": 8300.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257830604311",
+  "item_id": "v1|257830604311|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 mm, bisel acanalado de oro 18k, caja de acero (bicolor)",
+   "referencia": "1601",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Ref. 1601 de los años 70 en condición Good, sin caja ni papeles; el precio pedido de US$8300 está muy por encima de lo que estos se venden realmente."
+  },
+  "motivo": "triage: Ref. 1601 de los años 70 en condición Good, sin caja ni papeles; el precio pedido de US$8300 está muy por encima de lo que estos se venden realmente. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-02T18:57:02.304557+00:00",
+  "marca": "Rolex",
+  "titulo": "NEW Rolex Daytona Whie Gold MOP & Diamond Oysterflex 40mm Watch '26 B/P 126589",
+  "total": 88888.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/366779261669",
+  "item_id": "v1|366779261669|0",
+  "referencia": "126589",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Daytona 40mm, oro blanco, bisel de diamantes, esfera de nácar (MOP) con marcadores de diamante, correa Oysterflex",
+   "referencia": "126589",
+   "precio_justo_usd": 80000,
+   "interesante": false,
+   "nota": "Precio pedido de US$88,888 supera la estimación a la baja de ~US$80,000; no hay descuento claro, y el listado tiene erratas y precio llamativo que conviene verificar."
+  },
+  "motivo": "triage: Precio pedido de US$88,888 supera la estimación a la baja de ~US$80,000; no hay descuento claro, y el listado tiene erratas y precio llamativo que conviene verificar. (justo 80000)"
+ },
+ {
+  "fecha": "2026-11-02T18:57:02.304557+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sea-Dweller 43 \"2021\" 126600",
+  "total": 14040.94,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237158304530",
+  "item_id": "v1|237158304530|0",
+  "referencia": "126600",
+  "mercado": {
+   "n": 54,
+   "p25": 12999,
+   "mediana": 13995
+  },
+  "ratio_mercado": 1.08,
+  "motivo": "precio normal (108 % del cuartil bajo de 126600)"
+ },
+ {
+  "fecha": "2026-11-02T18:57:02.304557+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer II Pro Hunter Steve McQueen DLC Limited Edition 42mm Watch",
+  "total": 23895.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198766084019",
+  "item_id": "v1|198766084019|0",
+  "triage": {
+   "modelo": "Rolex Explorer II (modificado: caja y brazalete con recubrimiento DLC negro, manecilla naranja)",
+   "referencia": "216570 (base, no original)",
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "El DLC y el acabado no son de fábrica Rolex; parece una personalización. 'Steve McQueen' y 'Limited Edition' no corresponden a una edición Rolex, y el precio pedido está muy por encima del valor de una 216570 usada."
+  },
+  "motivo": "triage: El DLC y el acabado no son de fábrica Rolex; parece una personalización. 'Steve McQueen' y 'Limited Edition' no corresponden a una edición Rolex, y el precio pedido está muy por encima del valor de una 216570 usada. (justo 7000)"
+ },
+ {
+  "fecha": "2026-11-02T18:57:02.304557+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31 Stainless Steel Fluted / Oyster / Green 278274-0017",
+  "total": 13999.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/377615939462",
+  "item_id": "v1|377615939462|0",
+  "referencia": "278274",
+  "mercado": {
+   "n": 43,
+   "p25": 14515,
+   "mediana": 15495
+  },
+  "ratio_mercado": 0.964,
+  "motivo": "precio normal (96 % del cuartil bajo de 278274)"
+ },
+ {
+  "fecha": "2026-11-02T18:57:02.304557+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona Meteorite 18K White Gold Watch 116519",
+  "total": 45000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407334192505",
+  "item_id": "v1|407334192505|0",
+  "referencia": "116519",
+  "mercado": {
+   "n": 22,
+   "p25": 40392,
+   "mediana": 43492
+  },
+  "ratio_mercado": 1.114,
+  "motivo": "precio normal (111 % del cuartil bajo de 116519)"
+ },
+ {
+  "fecha": "2026-11-02T18:57:02.304557+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Prince Oysterdate 9050/0 Mens 34mm 1960s Vintage Automatic RA842B",
+  "total": 3890.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940060453234",
+  "item_id": "v1|940060453234|0",
+  "triage": {
+   "modelo": "Tudor Prince Oysterdate (Rotor Self-Winding)",
+   "referencia": "9050/0",
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Referencia vintage de los años 60 con esfera plateada y fecha; el precio pedido de US$3,890 está por encima de lo que se vende realmente en estado Good, sin caja ni papeles."
+  },
+  "motivo": "triage: Referencia vintage de los años 60 con esfera plateada y fecha; el precio pedido de US$3,890 está por encima de lo que se vende realmente en estado Good, sin caja ni papeles. (justo 2800)"
  }
 ]
