@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-10-30T00:23:57.183672+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "Tag Heuer Aquaracer Professional 200 Chronograph Ref. CBP1112.BA0627",
-  "total": 1650.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377606973960",
-  "item_id": "v1|377606973960|0",
-  "referencia": "CBP1112.BA0627",
-  "mercado": {
-   "n": 2,
-   "p25": 1700,
-   "mediana": 1703
-  },
-  "triage": {
-   "modelo": "TAG Heuer Aquaracer Professional 200 Chronograph (esfera azul, brazalete de acero)",
-   "referencia": "CBP1112.BA0627",
-   "precio_justo_usd": 1400,
-   "interesante": false,
-   "nota": "Precio pedido de US$1650 supera el valor de venta cerrada estimado para un usado en buen estado; la referencia no se puede verificar solo con la foto."
-  },
-  "motivo": "triage: Precio pedido de US$1650 supera el valor de venta cerrada estimado para un usado en buen estado; la referencia no se puede verificar solo con la foto. (justo 1400)"
- },
- {
-  "fecha": "2026-10-30T00:23:57.183672+00:00",
-  "marca": "TAG Heuer",
-  "titulo": "Tag Heuer Carrera",
-  "total": 3800.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147657380331",
-  "item_id": "v1|147657380331|0",
-  "triage": {
-   "modelo": "TAG Heuer Carrera (acero, esfera plateada, brazalete de acero)",
-   "referencia": null,
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "Con caja y papeles, un Carrera de acero usado se vende normalmente entre 2000 y 2600 USD; el pedido de 3800 USD está muy por encima. La referencia exacta no se distingue en la foto."
-  },
-  "motivo": "triage: Con caja y papeles, un Carrera de acero usado se vende normalmente entre 2000 y 2600 USD; el pedido de 3800 USD está muy por encima. La referencia exacta no se distingue en la foto. (justo 2300)"
- },
- {
-  "fecha": "2026-10-30T00:38:56.855852+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Cosmograph Daytona 116503 Silver Stainless Steel 18k TuTone CPO Aug 2024",
-  "total": 24995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840073103017",
-  "item_id": "v1|840073103017|0",
-  "referencia": "116503",
-  "mercado": {
-   "n": 24,
-   "p25": 22628,
-   "mediana": 23824
-  },
-  "ratio_mercado": 1.105,
-  "motivo": "precio normal (110 % del cuartil bajo de 116503)"
- },
- {
   "fecha": "2026-10-30T00:38:56.855852+00:00",
   "marca": "Cartier",
   "titulo": "2026 Unworn Cartier Santos-Dumont Large Full Set WGSA0139 Cartier Warranty",
@@ -11046,5 +10989,56 @@
    "nota": "Referencia vintage de los años 60 con esfera plateada y fecha; el precio pedido de US$3,890 está por encima de lo que se vende realmente en estado Good, sin caja ni papeles."
   },
   "motivo": "triage: Referencia vintage de los años 60 con esfera plateada y fecha; el precio pedido de US$3,890 está por encima de lo que se vende realmente en estado Good, sin caja ni papeles. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-02T19:12:01.657459+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Midsize 31 Steel White Gold Diamond Watch 278274 Box Card",
+  "total": 18940.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336875530360",
+  "item_id": "v1|336875530360|0",
+  "referencia": "278274",
+  "mercado": {
+   "n": 23,
+   "p25": 13533,
+   "mediana": 14569
+  },
+  "ratio_mercado": 1.4,
+  "motivo": "precio normal (140 % del cuartil bajo de 278274)"
+ },
+ {
+  "fecha": "2026-11-02T19:12:01.657459+00:00",
+  "marca": "Rolex",
+  "titulo": "41mm Rolex Datejust Two-Tone Natural Diamond Watch w/Box",
+  "total": 26000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287699898205",
+  "item_id": "v1|287699898205|0",
+  "triage": {
+   "modelo": "Rolex Datejust 41 bicolor (acero y oro) con pavé de diamantes añadido (personalización aftermarket)",
+   "referencia": null,
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "Bisel, eslabones, brazalete y esfera con diamantes posiblemente añadidos después de fábrica; el valor de reventa de este tipo de piezas es muy inferior al del reloj base, y el precio de US$26,000 está muy por encima de lo que se vende realmente."
+  },
+  "motivo": "triage: Bisel, eslabones, brazalete y esfera con diamantes posiblemente añadidos después de fábrica; el valor de reventa de este tipo de piezas es muy inferior al del reloj base, y el precio de US$26,000 está muy por encima de lo que se vende realmente. (justo 14000)"
+ },
+ {
+  "fecha": "2026-11-02T19:12:01.657459+00:00",
+  "marca": "Cartier",
+  "titulo": "Unisex Cartier Ballon Bleu 36mm 18k Rose Gold Steel Diamond Automatic Watch 3284",
+  "total": 7850.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880076077284",
+  "item_id": "v1|880076077284|0",
+  "referencia": "3284",
+  "mercado": {
+   "n": 17,
+   "p25": 4025,
+   "mediana": 5045
+  },
+  "ratio_mercado": 1.95,
+  "motivo": "precio normal (195 % del cuartil bajo de 3284)"
  }
 ]
