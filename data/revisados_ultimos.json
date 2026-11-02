@@ -1,85 +1,5 @@
 [
  {
-  "fecha": "2026-10-30T00:38:56.855852+00:00",
-  "marca": "Cartier",
-  "titulo": "2026 Unworn Cartier Santos-Dumont Large Full Set WGSA0139 Cartier Warranty",
-  "total": 16990.0,
-  "condicion": "New with imperfections",
-  "url": "https://www.ebay.com/itm/336868078723",
-  "item_id": "v1|336868078723|0",
-  "referencia": "WGSA0139",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Santos-Dumont Large, oro amarillo, esfera plateada con numerales romanos y correa de cocodrilo azul",
-   "referencia": "WGSA0139",
-   "precio_justo_usd": 15000,
-   "interesante": false,
-   "nota": "Precio pedido cercano al retail de un modelo de oro nuevo; el mercado secundario suele estar 15-30 % por debajo, así que no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido cercano al retail de un modelo de oro nuevo; el mercado secundario suele estar 15-30 % por debajo, así que no hay descuento suficiente. (justo 15000)"
- },
- {
-  "fecha": "2026-10-30T00:38:56.855852+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 New Tudor Royal 30 Light (Ice) Blue 9/26 Ref# 2830A1A0",
-  "total": 2848.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/257824474029",
-  "item_id": "v1|257824474029|0",
-  "triage": {
-   "modelo": "Tudor Royal 28/30 mm, esfera nácar blanco-azulado con numerales romanos, brazalete de acero",
-   "referencia": "2830A1A0 (según el listado; no verificable solo con la foto)",
-   "precio_justo_usd": 2900,
-   "interesante": false,
-   "nota": "Precio cercano al mercado gris para un Royal nuevo con caja y papeles; el descuento es pequeño (~2 %), por debajo del umbral del 15 %."
-  },
-  "motivo": "triage: Precio cercano al mercado gris para un Royal nuevo con caja y papeles; el descuento es pequeño (~2 %), por debajo del umbral del 15 %. (justo 2900)"
- },
- {
-  "fecha": "2026-10-30T00:38:56.855852+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 New Tudor Royal 36 Green 9/26 Ref# 2836C1A0",
-  "total": 3248.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/257824459457",
-  "item_id": "v1|257824459457|0",
-  "triage": {
-   "modelo": "Tudor Royal (esfera verde, brazalete de acero)",
-   "referencia": null,
-   "precio_justo_usd": 2900,
-   "interesante": false,
-   "nota": "La referencia '2836C1A0' no coincide con el formato habitual de Tudor (p. ej. M28500/M28600); conviene verificarla. Con caja y papeles, el precio pedido (US$3248) está en el rango de retail, por encima del mercado gris."
-  },
-  "motivo": "triage: La referencia '2836C1A0' no coincide con el formato habitual de Tudor (p. ej. M28500/M28600); conviene verificarla. Con caja y papeles, el precio pedido (US$3248) está en el rango de retail, por encima del mercado gris. (justo 2900)"
- },
- {
-  "fecha": "2026-10-30T00:38:56.855852+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Superocean Heritage Chronograph 44 Blacksteel M23370 Limited Edition",
-  "total": 4995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880060190006",
-  "item_id": "v1|880060190006|0",
-  "referencia": "M23370",
-  "mercado": {
-   "n": 2,
-   "p25": 4000,
-   "mediana": 4950
-  },
-  "triage": {
-   "modelo": "Breitling Superocean Heritage II Chronograph 44 Blacksteel (edición limitada)",
-   "referencia": "M23370",
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "Precio cercano al mercado de segunda mano para esta edición Blacksteel; no hay descuento de al menos 15 % y falta confirmar caja, papeles y autenticidad."
-  },
-  "motivo": "triage: Precio cercano al mercado de segunda mano para esta edición Blacksteel; no hay descuento de al menos 15 % y falta confirmar caja, papeles y autenticidad. (justo 4800)"
- },
- {
   "fecha": "2026-10-30T00:53:57.266190+00:00",
   "marca": "Rolex",
   "titulo": "2026 Rolex Daytona Green John Mayer 2.0 18k Yellow Gold Box/Papers/Card 126508",
@@ -11040,5 +10960,73 @@
   },
   "ratio_mercado": 1.95,
   "motivo": "precio normal (195 % del cuartil bajo de 3284)"
+ },
+ {
+  "fecha": "2026-11-02T19:27:01.434517+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpaetual Date 6917 Stainless Steel 26mm Watch 1978",
+  "total": 3110.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117500487749",
+  "item_id": "v1|117500487749|0",
+  "referencia": "6917",
+  "mercado": {
+   "n": 41,
+   "p25": 3990,
+   "mediana": 4074
+  },
+  "ratio_mercado": 0.779,
+  "motivo": "descripcion: aftermarket dial"
+ },
+ {
+  "fecha": "2026-11-02T19:27:01.434517+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpaetual Date 6917 Stainless Steel 26mm Watch 1978",
+  "total": 2800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128171008424",
+  "item_id": "v1|128171008424|0",
+  "referencia": "6917",
+  "mercado": {
+   "n": 41,
+   "p25": 3990,
+   "mediana": 4074
+  },
+  "ratio_mercado": 0.702,
+  "motivo": "descripcion: aftermarket dial"
+ },
+ {
+  "fecha": "2026-11-02T19:27:01.434517+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 100% genuine 19mm folded Swiss 7835  bracelet parts, Great unpolished!",
+  "total": 396.5,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940060504516",
+  "item_id": "v1|940060504516|0",
+  "triage": {
+   "modelo": "Pulsera Rolex Oyster de eslabones plegados (folded) con cierre desplegable, 19 mm, piezas sueltas (no es reloj completo)",
+   "referencia": "Cierre 7835 (pulsera de 19 mm)",
+   "precio_justo_usd": 300,
+   "interesante": false,
+   "nota": "Solo son piezas de pulsera y cierre, sin esfera ni caja. El precio pedido de US$396 está por encima de lo que se paga por este conjunto usado. El título 'genuine' no se puede verificar en la foto."
+  },
+  "motivo": "triage: Solo son piezas de pulsera y cierre, sin esfera ni caja. El precio pedido de US$396 está por encima de lo que se paga por este conjunto usado. El título 'genuine' no se puede verificar en la foto. (justo 300)"
+ },
+ {
+  "fecha": "2026-11-02T19:27:01.434517+00:00",
+  "marca": "Rolex",
+  "titulo": "41877: Rolex Datejust 36, Ref. 16203, Circa 2001",
+  "total": 7150.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900059808915",
+  "item_id": "v1|900059808915|0",
+  "referencia": "16203",
+  "mercado": {
+   "n": 12,
+   "p25": 8190,
+   "mediana": 8950
+  },
+  "ratio_mercado": 0.873,
+  "motivo": "precio normal (87 % del cuartil bajo de 16203)"
  }
 ]
