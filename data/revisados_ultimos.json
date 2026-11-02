@@ -1,79 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T22:38:57.275832+00:00",
-  "marca": "Breitling",
-  "titulo": "MNS. BREITLING COLT SKYRACER ULTRALIGHT WATCH",
-  "total": 1799.95,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840072826368",
-  "item_id": "v1|840072826368|0",
-  "triage": {
-   "modelo": "Breitling Colt Skyracer Ultralight (cuarzo, caja negra, correa de caucho)",
-   "referencia": null,
-   "precio_justo_usd": 1100,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta real estimado para un Colt Skyracer de cuarzo en estado Good; la referencia exacta no es legible en la foto."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta real estimado para un Colt Skyracer de cuarzo en estado Good; la referencia exacta no es legible en la foto. (justo 1100)"
- },
- {
-  "fecha": "2026-10-29T22:38:57.275832+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling Superocean Heritage II Chronograph 44 Two Tone U13313121B1A1 Full Set",
-  "total": 5832.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940050633096",
-  "item_id": "v1|940050633096|0",
-  "referencia": "U13313121B1A1",
-  "mercado": {
-   "n": 2,
-   "p25": 5000,
-   "mediana": 6145
-  },
-  "triage": {
-   "modelo": "Breitling Superocean Heritage II Chronograph 44 Two Tone (acero y bronce, bisel bicolor, esfera negra, brazalete de malla)",
-   "referencia": "U13313121B1A1",
-   "precio_justo_usd": 5300,
-   "interesante": false,
-   "nota": "Precio pedido de 5832 USD con envío supera el valor de venta cerrada estimado para estado Good con caja y papeles; no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido de 5832 USD con envío supera el valor de venta cerrada estimado para estado Good con caja y papeles; no hay descuento suficiente. (justo 5300)"
- },
- {
-  "fecha": "2026-10-29T22:38:57.275832+00:00",
-  "marca": "Breitling",
-  "titulo": "Breitling superocean 42 abyss with original box and papers",
-  "total": 2315.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128163238222",
-  "item_id": "v1|128163238222|0",
-  "triage": {
-   "modelo": "Breitling Superocean 42 (posible Abyss, no verificable en la foto)",
-   "referencia": "A17366 (probable)",
-   "precio_justo_usd": 2400,
-   "interesante": false,
-   "nota": "Acero, esfera negra, con caja y papeles, estado Good. El precio pedido queda cerca del valor de venta real, sin un descuento de al menos 15 %. El nombre 'Abyss' no se distingue en la foto."
-  },
-  "motivo": "triage: Acero, esfera negra, con caja y papeles, estado Good. El precio pedido queda cerca del valor de venta real, sin un descuento de al menos 15 %. El nombre 'Abyss' no se distingue en la foto. (justo 2400)"
- },
- {
-  "fecha": "2026-10-29T23:08:56.934277+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Oyster-Prince Ref 7809 Mens 34mm Automatic 1950s Vintage RA843",
-  "total": 4900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940050699927",
-  "item_id": "v1|940050699927|0",
-  "triage": {
-   "modelo": "Tudor Oyster Prince (Oyster Prince Automatic, esfera plateada con marcadores aplicados dorados)",
-   "referencia": "7809",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Referencia 7809 de los años 50 con caja de 34 mm, en condición Good. Se vende en torno a 2.800-3.600 USD; el precio pedido de 4.900 USD está por encima del mercado."
-  },
-  "motivo": "triage: Referencia 7809 de los años 50 con caja de 34 mm, en condición Good. Se vende en torno a 2.800-3.600 USD; el precio pedido de 4.900 USD está por encima del mercado. (justo 3200)"
- },
- {
   "fecha": "2026-10-29T23:08:56.934277+00:00",
   "marca": "Panerai",
   "titulo": "Panerai Luminor Days GMT Automatic Tuttonero Ref. PAM01438 extras ",
@@ -11081,5 +11007,92 @@
   },
   "ratio_mercado": 0.951,
   "motivo": "precio normal (95 % del cuartil bajo de WE902077)"
+ },
+ {
+  "fecha": "2026-11-02T17:11:45.809926+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 41 Two Tone SS/18k Yellow Gold Bluesy Mint 126618LB",
+  "total": 17750.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920097529506",
+  "item_id": "v1|920097529506|0",
+  "referencia": "126613lb",
+  "mercado": {
+   "n": 17,
+   "p25": 42950,
+   "mediana": 43995
+  },
+  "ratio_mercado": 0.413,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 15000,
+   "riesgo_autenticidad": "bajo",
+   "estado": "Muy bueno/Mint con microrayas superficiales, set completo con garantía de 2023"
+  },
+  "motivo": "Claude descarto: El título dice 126618LB (oro amarillo macizo), pero las fotos, la descripción y las especificaciones corresponden a la 126613LB bicolor. El título está mal. Si alguien lo toma por oro macizo, el precio parece una ganga que no existe.; Los comparables de eBay (mediana US$43,995) no sirven. Son precios pedidos e inflados, y probablemente mezclan la 126618LB de oro macizo. No hay que usarlos como referencia."
+ },
+ {
+  "fecha": "2026-11-02T17:11:45.809926+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 30mm 1970 Rolex Oysterdate Precision Mechanical Wristwatch Steel 6466",
+  "total": 2373.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147662436495",
+  "item_id": "v1|147662436495|0",
+  "referencia": "6466",
+  "mercado": {
+   "n": 7,
+   "p25": 3429,
+   "mediana": 4200
+  },
+  "ratio_mercado": 0.692,
+  "motivo": "descripcion: broken"
+ },
+ {
+  "fecha": "2026-11-02T17:11:45.809926+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage ROLEX  18kt Gold Ladies, Total Weight 50 Grams Battery-Modified-Elegant!",
+  "total": 7750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960145364337",
+  "item_id": "v1|960145364337|0",
+  "triage": {
+   "modelo": "Reloj de dama vintage en oro 18k con pulsera integrada (marca Rolex no verificable en la imagen)",
+   "referencia": null,
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "El título indica movimiento modificado a batería y el peso total de 50 g incluye la pulsera; el valor de fundido del oro ronda los US$3.000-4.000 y la pieza no justifica US$7.750."
+  },
+  "motivo": "triage: El título indica movimiento modificado a batería y el peso total de 50 g incluye la pulsera; el valor de fundido del oro ronda los US$3.000-4.000 y la pieza no justifica US$7.750. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-02T17:11:45.809926+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR 1926 M91650-0002",
+  "total": 1949.44,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860106442850",
+  "item_id": "v1|860106442850|0",
+  "referencia": "M91650-0002",
+  "mercado": {
+   "n": 4,
+   "p25": 2098,
+   "mediana": 2298
+  },
+  "triage": {
+   "modelo": "Tudor 1926 (acero, esfera oscura, brazalete de eslabones)",
+   "referencia": "M91650-0002",
+   "precio_justo_usd": 2300,
+   "interesante": true,
+   "nota": "Precio ~15% bajo estimación conservadora de venta cerrada; verificar autenticidad, papeles y estado antes de comprar, ya que descuentos tan grandes en Tudor también pueden indicar replica."
+  },
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 2050,
+   "riesgo_autenticidad": "medio",
+   "estado": "Casi nuevo según el vendedor (comprado en dic. 2025, usado unas 5 veces), pero se ven marcas finas en el cristal y el bisel pulido"
+  },
+  "ratio_justo": 0.951,
+  "motivo": "precio normal segun revision (95 % del justo 2050)"
  }
 ]
