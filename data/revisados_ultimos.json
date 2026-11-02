@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T23:08:56.934277+00:00",
-  "marca": "Panerai",
-  "titulo": "Panerai Luminor Days GMT Automatic Tuttonero Ref. PAM01438 extras ",
-  "total": 5999.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206662221191",
-  "item_id": "v1|206662221191|0",
-  "referencia": "PAM01438",
-  "mercado": {
-   "n": 2,
-   "p25": 8006,
-   "mediana": 8502
-  },
-  "triage": {
-   "modelo": "Panerai Luminor Days GMT Automatic Tuttonero (extras: correa de piel y cubierta blanca)",
-   "referencia": "PAM01438",
-   "precio_justo_usd": 7000,
-   "interesante": false,
-   "nota": "El precio pedido está solo ~14% por debajo de la estimación, por debajo del umbral del 15%. La foto muestra brazalete metálico, no la correa indicada, y la referencia no se puede verificar desde la imagen."
-  },
-  "motivo": "triage: El precio pedido está solo ~14% por debajo de la estimación, por debajo del umbral del 15%. La foto muestra brazalete metálico, no la correa indicada, y la referencia no se puede verificar desde la imagen. (justo 7000)"
- },
- {
-  "fecha": "2026-10-29T23:08:56.934277+00:00",
-  "marca": "Omega",
-  "titulo": "OMEGA Dynamic 5200.5 Wrist Watch 2000 - Full Kit",
-  "total": 1250.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237151631288",
-  "item_id": "v1|237151631288|0",
-  "triage": {
-   "modelo": "Omega Dynamic (automático, c. 2000)",
-   "referencia": "5200.50 (según título; no verificable en la foto)",
-   "precio_justo_usd": 1300,
-   "interesante": false,
-   "nota": "Precio cercano al mercado para usado con kit completo; descuento insuficiente (~4%) y la foto no permite confirmar referencia ni estado."
-  },
-  "motivo": "triage: Precio cercano al mercado para usado con kit completo; descuento insuficiente (~4%) y la foto no permite confirmar referencia ni estado. (justo 1300)"
- },
- {
   "fecha": "2026-10-29T23:23:57.459262+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Precision Ref 5500 Mens Air King w Papers 34m Auto RA846",
@@ -11094,5 +11054,39 @@
   },
   "ratio_justo": 0.951,
   "motivo": "precio normal segun revision (95 % del justo 2050)"
+ },
+ {
+  "fecha": "2026-11-02T17:27:01.358165+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner",
+  "total": 10005.19,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840085377368",
+  "item_id": "v1|840085377368|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date 'Hulk' (bisel y esfera verdes)",
+   "referencia": "116610LV (probable; no se distingue con claridad en la foto)",
+   "precio_justo_usd": 12000,
+   "interesante": false,
+   "nota": "Precio ~17% bajo estimado para 116610LV usado, pero el listado no indica referencia ni papeles y el precio es bajo para un Hulk, así que el riesgo de réplica es alto; verificar autenticidad y número de serie antes de considerarlo."
+  },
+  "motivo": "triage: Precio ~17% bajo estimado para 116610LV usado, pero el listado no indica referencia ni papeles y el precio es bajo para un Hulk, así que el riesgo de réplica es alto; verificar autenticidad y número de serie antes de considerarlo. (justo 12000)"
+ },
+ {
+  "fecha": "2026-11-02T17:27:01.358165+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos de Cartier Men's Stainless Steel Wristwatch",
+  "total": 5630.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860106480234",
+  "item_id": "v1|860106480234|0",
+  "triage": {
+   "modelo": "Cartier Santos de Cartier (acero, hombre)",
+   "referencia": null,
+   "precio_justo_usd": 5700,
+   "interesante": false,
+   "nota": "La foto muestra cajas, papeles y estuches de Cartier, pero no el reloj, así que no se puede confirmar la referencia, el tamaño ni el estado. El precio pedido está en línea con el mercado de acero usado con caja y papeles, sin descuento de al menos 15 %."
+  },
+  "motivo": "triage: La foto muestra cajas, papeles y estuches de Cartier, pero no el reloj, así que no se puede confirmar la referencia, el tamaño ni el estado. El precio pedido está en línea con el mercado de acero usado con caja y papeles, sin descuento de al menos 15 %. (justo 5700)"
  }
 ]
