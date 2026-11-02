@@ -1,57 +1,6 @@
 [
  {
   "fecha": "2026-10-29T21:08:42.070398+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay 54mm Box and Papers",
-  "total": 3400.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800853012487",
-  "item_id": "v1|800853012487|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 54",
-   "referencia": "M79000N (probable, no verificable con certeza en la foto)",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Black Bay 54 de acero con caja y papeles; el precio pedido de US$3400 está por encima del precio de venta cerrado estimado."
-  },
-  "motivo": "triage: Black Bay 54 de acero con caja y papeles; el precio pedido de US$3400 está por encima del precio de venta cerrado estimado. (justo 3200)"
- },
- {
-  "fecha": "2026-10-29T21:08:42.070398+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Chronograph 79360N-0002 New Box & Papers 2026",
-  "total": 5270.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/137885077104",
-  "item_id": "v1|137885077104|0",
-  "referencia": "79360N-0002",
-  "mercado": {
-   "n": 32,
-   "p25": 6143,
-   "mediana": 9163
-  },
-  "ratio_mercado": 0.858,
-  "motivo": "precio normal (86 % del cuartil bajo de 79360N-0002)"
- },
- {
-  "fecha": "2026-10-29T21:08:42.070398+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Small Block 79280",
-  "total": 5300.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/820293218680",
-  "item_id": "v1|820293218680|0",
-  "referencia": "79280",
-  "mercado": {
-   "n": 9,
-   "p25": 4930,
-   "mediana": 5113
-  },
-  "ratio_mercado": 1.075,
-  "motivo": "precio normal (108 % del cuartil bajo de 79280)"
- },
- {
-  "fecha": "2026-10-29T21:08:42.070398+00:00",
   "marca": "Omega",
   "titulo": "Omega Speedmaster Moon 310.60.42.60.10.001 Green Dial/Bezel 18K Gold Box Cards",
   "total": 29550.0,
@@ -11092,5 +11041,56 @@
    "nota": "Precio pedido por encima del valor de reventa de uso para esta referencia; no hay descuento de 15 % o más."
   },
   "motivo": "triage: Precio pedido por encima del valor de reventa de uso para esta referencia; no hay descuento de 15 % o más. (justo 2600)"
+ },
+ {
+  "fecha": "2026-11-02T01:41:11.955624+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Unworn Brand New Rolex Datejust 41 Blue Roman Jubilee 126300 Full Set.",
+  "total": 11999.99,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/960142877600",
+  "item_id": "v1|960142877600|0",
+  "referencia": "126300",
+  "mercado": {
+   "n": 52,
+   "p25": 11918,
+   "mediana": 12056
+  },
+  "ratio_mercado": 1.007,
+  "motivo": "precio normal (101 % del cuartil bajo de 126300)"
+ },
+ {
+  "fecha": "2026-11-02T01:41:11.955624+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 41mm Black Dial/Bezel Steel Bracelet Auto Date",
+  "total": 14090.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407332252854",
+  "item_id": "v1|407332252854|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date 41 mm, esfera y bisel negros, brazalete de acero",
+   "referencia": "126610LN (probable, no verificable con la imagen)",
+   "precio_justo_usd": 12000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del mercado secundario de referencia; la foto no permite confirmar referencia ni autenticidad."
+  },
+  "motivo": "triage: Precio pedido por encima del mercado secundario de referencia; la foto no permite confirmar referencia ni autenticidad. (justo 12000)"
+ },
+ {
+  "fecha": "2026-11-02T01:41:11.955624+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Ranger 39mm Dune White Beige M79950 | Full Set | Included!!",
+  "total": 3418.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137893869352",
+  "item_id": "v1|137893869352|0",
+  "referencia": "M79950",
+  "mercado": {
+   "n": 8,
+   "p25": 2980,
+   "mediana": 3325
+  },
+  "ratio_mercado": 1.147,
+  "motivo": "precio normal (115 % del cuartil bajo de M79950)"
  }
 ]
