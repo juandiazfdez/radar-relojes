@@ -1,73 +1,5 @@
 [
  {
-  "fecha": "2026-10-30T14:09:16.386260+00:00",
-  "marca": "Rolex",
-  "titulo": "Circa 1981 ROLEX AIR KING 5500 26 Jewel Stainless Steel 34mm Diamond Wristwatch",
-  "total": 4699.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128164515119",
-  "item_id": "v1|128164515119|0",
-  "referencia": "5500",
-  "mercado": {
-   "n": 24,
-   "p25": 4000,
-   "mediana": 4470
-  },
-  "ratio_mercado": 1.175,
-  "motivo": "precio normal (117 % del cuartil bajo de 5500)"
- },
- {
-  "fecha": "2026-10-30T14:24:16.288892+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date Ref 1500 18k Gold (Non-Quickset)",
-  "total": 6400.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287692120356",
-  "item_id": "v1|287692120356|0",
-  "triage": {
-   "modelo": "Rolex Datejust (bisel acanalado, bicolor acero/oro, esfera champán, brazalete Jubilee); el título dice Oyster Perpetual Date 1500 de oro 18k, que no coincide con la foto",
-   "referencia": "16233 (probable, por ver)",
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "La foto muestra un Datejust bicolor con bisel acanalado, no un 1500 de oro macizo (ese modelo tiene bisel liso), así que el listado parece engañoso. Aun con la referencia del título, US$6400 queda por encima del valor de venta real de ambas versiones."
-  },
-  "motivo": "triage: La foto muestra un Datejust bicolor con bisel acanalado, no un 1500 de oro macizo (ese modelo tiene bisel liso), así que el listado parece engañoso. Aun con la referencia del título, US$6400 queda por encima del valor de venta real de ambas versiones. (justo 5000)"
- },
- {
-  "fecha": "2026-10-30T14:24:16.288892+00:00",
-  "marca": "Rolex",
-  "titulo": "2022 Rolex Yacht-Master 268622 Rhodium 37mm Steel Grey Blue Watch Box Papers",
-  "total": 13244.07,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267828196179",
-  "item_id": "v1|267828196179|0",
-  "referencia": "268622",
-  "mercado": {
-   "n": 7,
-   "p25": 12938,
-   "mediana": 13000
-  },
-  "ratio_mercado": 1.024,
-  "motivo": "precio normal (102 % del cuartil bajo de 268622)"
- },
- {
-  "fecha": "2026-10-30T14:24:16.288892+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 116713 LN Ceramic Black Two-Tone 18K Gold Steel 40mm Watch",
-  "total": 13244.07,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960133089781",
-  "item_id": "v1|960133089781|0",
-  "referencia": "116713",
-  "mercado": {
-   "n": 52,
-   "p25": 14395,
-   "mediana": 15208
-  },
-  "ratio_mercado": 0.92,
-  "motivo": "precio normal (92 % del cuartil bajo de 116713)"
- },
- {
   "fecha": "2026-10-30T14:39:27.268642+00:00",
   "marca": "Rolex",
   "titulo": "2023 Rolex GMT-Master II 126711 CHNR Black Root Beer Two-Tone 40mm Box Papers",
@@ -11097,5 +11029,79 @@
    "nota": "Precio pedido por encima de la venta secundaria estimada para este modelo pre-owned con caja y papeles; la referencia es plausible según la imagen."
   },
   "motivo": "triage: Precio pedido por encima de la venta secundaria estimada para este modelo pre-owned con caja y papeles; la referencia es plausible según la imagen. (justo 4600)"
+ },
+ {
+  "fecha": "2026-11-02T22:12:02.529077+00:00",
+  "marca": "Rolex",
+  "titulo": "1991 Rolex DateJust 16233 36mm Champagne Diamond Two-Tone 18K Gold Jubilee Watch",
+  "total": 6800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/117498881592",
+  "item_id": "v1|117498881592|0",
+  "referencia": "16233",
+  "mercado": {
+   "n": 28,
+   "p25": 5399,
+   "mediana": 6152
+  },
+  "ratio_mercado": 1.259,
+  "motivo": "precio normal (126 % del cuartil bajo de 16233)"
+ },
+ {
+  "fecha": "2026-11-02T22:12:02.529077+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Day-Date 36, 18388, Yellow Gold, Champagne String Diamond Dial,...",
+  "total": 34635.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/366779572353",
+  "item_id": "v1|366779572353|0",
+  "referencia": "18388",
+  "mercado": {
+   "n": 2,
+   "p25": 28046,
+   "mediana": 36768
+  },
+  "triage": {
+   "modelo": "Rolex Day-Date 36 de oro amarillo con bisel de diamantes y esfera champán con diamantes (brazalete President)",
+   "referencia": "18388",
+   "precio_justo_usd": 36000,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para esta versión con diamantes, pero 'Renewed/refurbished' sin certificado de fábrica genera dudas sobre originalidad de la esfera y bisel; no hay margen de 15 %."
+  },
+  "motivo": "triage: Precio cercano al mercado para esta versión con diamantes, pero 'Renewed/refurbished' sin certificado de fábrica genera dudas sobre originalidad de la esfera y bisel; no hay margen de 15 %. (justo 36000)"
+ },
+ {
+  "fecha": "2026-11-02T22:12:02.529077+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 218239 Day Date II Blue Wave Full Set",
+  "total": 39888.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327436071336",
+  "item_id": "v1|327436071336|0",
+  "referencia": "218239",
+  "mercado": {
+   "n": 13,
+   "p25": 38949,
+   "mediana": 42289
+  },
+  "ratio_mercado": 1.024,
+  "motivo": "precio normal (102 % del cuartil bajo de 218239)"
+ },
+ {
+  "fecha": "2026-11-02T22:12:02.529077+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Chrono “Panda” 41mm White Jubilee Bracelet 79360N",
+  "total": 5715.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407334528002",
+  "item_id": "v1|407334528002|0",
+  "referencia": "79360N",
+  "mercado": {
+   "n": 57,
+   "p25": 4675,
+   "mediana": 5298
+  },
+  "ratio_mercado": 1.222,
+  "motivo": "precio normal (122 % del cuartil bajo de 79360N)"
  }
 ]
