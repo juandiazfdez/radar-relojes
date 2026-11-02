@@ -2,57 +2,6 @@
  {
   "fecha": "2026-10-30T14:54:26.764855+00:00",
   "marca": "Rolex",
-  "titulo": "2019 Rolex GMT-Master II 116719 BLRO Meteorite Pepsi 18K Gold Watch Box Papers",
-  "total": 61388.81,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960133212150",
-  "item_id": "v1|960133212150|0",
-  "referencia": "116719",
-  "mercado": {
-   "n": 12,
-   "p25": 40897,
-   "mediana": 43214
-  },
-  "ratio_mercado": 1.501,
-  "motivo": "precio normal (150 % del cuartil bajo de 116719)"
- },
- {
-  "fecha": "2026-10-30T14:54:26.764855+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona Cosmograph 116520 Black Steel Random Serial 40mm Watch Box Papers",
-  "total": 25178.29,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267828211607",
-  "item_id": "v1|267828211607|0",
-  "referencia": "116520",
-  "mercado": {
-   "n": 18,
-   "p25": 23138,
-   "mediana": 23722
-  },
-  "ratio_mercado": 1.088,
-  "motivo": "precio normal (109 % del cuartil bajo de 116520)"
- },
- {
-  "fecha": "2026-10-30T14:54:26.764855+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sea-Dweller 116600 SD4K 40mm Ceramic July 2017 Full Set",
-  "total": 14775.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137887147689",
-  "item_id": "v1|137887147689|0",
-  "referencia": "116600",
-  "mercado": {
-   "n": 10,
-   "p25": 14468,
-   "mediana": 14516
-  },
-  "ratio_mercado": 1.021,
-  "motivo": "precio normal (102 % del cuartil bajo de 116600)"
- },
- {
-  "fecha": "2026-10-30T14:54:26.764855+00:00",
-  "marca": "Rolex",
   "titulo": "2023 Rolex Sky-Dweller 326238 Champagne 18K Gold Oysterflex 42mm Box Papers",
   "total": 34868.2,
   "condicion": "Pre-owned - Excellent",
@@ -11122,5 +11071,68 @@
    "nota": "Precio pedido de US$5495 está muy por encima del valor de venta cerrada estimado para esta referencia de acero en estado excelente."
   },
   "motivo": "triage: Precio pedido de US$5495 está muy por encima del valor de venta cerrada estimado para esta referencia de acero en estado excelente. (justo 3900)"
+ },
+ {
+  "fecha": "2026-11-02T22:42:01.596087+00:00",
+  "marca": "Rolex",
+  "titulo": "2018 Rolex Datejust 36MM Blue Stick Pristine Condition",
+  "total": 9506.63,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820308389040",
+  "item_id": "v1|820308389040|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 mm, acero con bisel de oro blanco acanalado, esfera azul (stick), brazalete Oyster",
+   "referencia": "126234",
+   "precio_justo_usd": 9300,
+   "interesante": false,
+   "nota": "Precio pedido cercano al valor de mercado para 2018 con caja y papeles; no hay descuento de al menos 15 %. Confirmar tipo de índices y estado de la caja/papeles."
+  },
+  "motivo": "triage: Precio pedido cercano al valor de mercado para 2018 con caja y papeles; no hay descuento de al menos 15 %. Confirmar tipo de índices y estado de la caja/papeles. (justo 9300)"
+ },
+ {
+  "fecha": "2026-11-02T22:42:01.596087+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yachmaster II 44mm Stainless Steel 116680 Box & Papers",
+  "total": 21800.0,
+  "condicion": "New without box or papers",
+  "url": "https://www.ebay.com/itm/287700238689",
+  "item_id": "v1|287700238689|0",
+  "referencia": "116680",
+  "mercado": {
+   "n": 4,
+   "p25": 23345,
+   "mediana": 23922
+  },
+  "triage": {
+   "modelo": "Rolex Yacht-Master II 44mm acero (aspecto de bisel azul/blanco en la foto)",
+   "referencia": "116680",
+   "precio_justo_usd": 20000,
+   "interesante": false,
+   "nota": "Precio cercano al mercado, no hay descuento de 15%. El título dice con caja y papeles, pero eBay indica sin caja ni papeles; hay que aclararlo antes de comprar."
+  },
+  "motivo": "triage: Precio cercano al mercado, no hay descuento de 15%. El título dice con caja y papeles, pero eBay indica sin caja ni papeles; hay que aclararlo antes de comprar. (justo 20000)"
+ },
+ {
+  "fecha": "2026-11-02T22:42:01.596087+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Dumont Large Steel Mens Watch WSSA0046 Box Card",
+  "total": 9180.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257830898071",
+  "item_id": "v1|257830898071|0",
+  "referencia": "WSSA0046",
+  "mercado": {
+   "n": 3,
+   "p25": 7150,
+   "mediana": 7598
+  },
+  "triage": {
+   "modelo": "Cartier Santos-Dumont Large (LM) acero, esfera negra con números romanos, correa de cocodrilo negra",
+   "referencia": "WSSA0046",
+   "precio_justo_usd": 6000,
+   "interesante": false,
+   "nota": "Precio pedido de US$9.180 está muy por encima del mercado secundario (aprox. US$5.500-6.500 con caja y papeles); no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$9.180 está muy por encima del mercado secundario (aprox. US$5.500-6.500 con caja y papeles); no es una oportunidad. (justo 6000)"
  }
 ]
