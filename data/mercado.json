@@ -515,9 +515,14 @@
   "n": 0
  },
  "Cartier WSBB0062|nuevo": {
-  "fecha": "2026-10-20",
+  "fecha": "2026-11-02",
   "consulta": "Cartier WSBB0062",
-  "n": 0
+  "n": 1,
+  "mediana": 6895,
+  "p25": 6895,
+  "p75": 6895,
+  "min": 6895,
+  "max": 6895
  },
  "cartier ballon bleu 33mm|nuevo": {
   "fecha": "2026-10-20",
@@ -18148,5 +18153,35 @@
   "p75": 2900,
   "min": 2680,
   "max": 3257
+ },
+ "Cartier WGTA0342|nuevo": {
+  "fecha": "2026-11-02",
+  "consulta": "Cartier WGTA0342",
+  "n": 0
+ },
+ "Cartier WSSA0029|nuevo": {
+  "fecha": "2026-11-02",
+  "consulta": "Cartier WSSA0029",
+  "n": 2,
+  "mediana": 8393,
+  "p25": 8292,
+  "p75": 8494,
+  "min": 8292,
+  "max": 8494
+ },
+ "Cartier WSBB0049|nuevo": {
+  "fecha": "2026-11-02",
+  "consulta": "Cartier WSBB0049",
+  "n": 1,
+  "mediana": 7100,
+  "p25": 7100,
+  "p75": 7100,
+  "min": 7100,
+  "max": 7100
+ },
+ "Cartier W6920097|nuevo": {
+  "fecha": "2026-11-02",
+  "consulta": "Cartier W6920097",
+  "n": 0
  }
 }
