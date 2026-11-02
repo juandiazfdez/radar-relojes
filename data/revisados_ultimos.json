@@ -1,130 +1,5 @@
 [
  {
-  "fecha": "2026-10-30T14:54:26.764855+00:00",
-  "marca": "Rolex",
-  "titulo": "2023 Rolex Sky-Dweller 326238 Champagne 18K Gold Oysterflex 42mm Box Papers",
-  "total": 34868.2,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940052383901",
-  "item_id": "v1|940052383901|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller, oro amarillo 18K, esfera champán, bisel acanalado, correa Oysterflex, 42 mm",
-   "referencia": "326238",
-   "precio_justo_usd": 38000,
-   "interesante": false,
-   "nota": "Precio ~8% por debajo de la estimación de venta real; no alcanza el umbral del 15%. Sin verificar autenticidad ni estado en persona."
-  },
-  "motivo": "triage: Precio ~8% por debajo de la estimación de venta real; no alcanza el umbral del 15%. Sin verificar autenticidad ni estado en persona. (justo 38000)"
- },
- {
-  "fecha": "2026-10-30T14:54:26.764855+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 1950s 18kt Gold Oyster Perpetual Roulette Datejust Model 6305",
-  "total": 7500.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/147658130723",
-  "item_id": "v1|147658130723|0",
-  "referencia": "6305",
-  "mercado": {
-   "n": 10,
-   "p25": 6054,
-   "mediana": 6838
-  },
-  "ratio_mercado": 1.239,
-  "motivo": "precio normal (124 % del cuartil bajo de 6305)"
- },
- {
-  "fecha": "2026-10-30T14:54:26.764855+00:00",
-  "marca": "Rolex",
-  "titulo": "New Sept 2026 Rolex Land-Dweller 127334 White Stainless Steel 40mm Box Papers",
-  "total": 25178.29,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/960133199797",
-  "item_id": "v1|960133199797|0",
-  "referencia": "127334",
-  "mercado": {
-   "n": 19,
-   "p25": 25495,
-   "mediana": 26520
-  },
-  "ratio_mercado": 0.988,
-  "motivo": "precio normal (99 % del cuartil bajo de 127334)"
- },
- {
-  "fecha": "2026-10-30T14:54:26.764855+00:00",
-  "marca": "Rolex",
-  "titulo": "New Oct 2026 Rolex Submariner Date 126610 LN 41mm Steel Black Ceramic Box Papers",
-  "total": 16508.38,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/267828207714",
-  "item_id": "v1|267828207714|0",
-  "referencia": "126610",
-  "mercado": {
-   "n": 73,
-   "p25": 16095,
-   "mediana": 16495
-  },
-  "ratio_mercado": 1.026,
-  "motivo": "precio normal (103 % del cuartil bajo de 126610)"
- },
- {
-  "fecha": "2026-10-30T15:09:28.686560+00:00",
-  "marca": "Rolex",
-  "titulo": "2014 Rolex Sea-Dweller 40mm Stainless Steel 116600",
-  "total": 13995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880065340805",
-  "item_id": "v1|880065340805|0",
-  "referencia": "116600",
-  "mercado": {
-   "n": 10,
-   "p25": 14468,
-   "mediana": 14516
-  },
-  "ratio_mercado": 0.967,
-  "motivo": "precio normal (97 % del cuartil bajo de 116600)"
- },
- {
-  "fecha": "2026-10-30T15:09:28.686560+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Ronde 32mm Stainless Steel Quartz Watch 1561-1",
-  "total": 2905.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206663666892",
-  "item_id": "v1|206663666892|0",
-  "referencia": "1561",
-  "mercado": {
-   "n": 2,
-   "p25": 2543,
-   "mediana": 3522
-  },
-  "triage": {
-   "modelo": "Cartier Santos Ronde (cuarzo, acero, esfera blanca con números romanos)",
-   "referencia": "1561-1 (según el título; no verificable en la foto)",
-   "precio_justo_usd": 1700,
-   "interesante": false,
-   "nota": "El precio pedido de US$2,905 supera con holgura lo que este Santos Ronde de cuarzo de acero se vende de segunda mano en EE. UU., incluso en buen estado."
-  },
-  "motivo": "triage: El precio pedido de US$2,905 supera con holgura lo que este Santos Ronde de cuarzo de acero se vende de segunda mano en EE. UU., incluso en buen estado. (justo 1700)"
- },
- {
-  "fecha": "2026-10-30T15:09:28.686560+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 28mm 18k Yellow Gold Diamond Encrusted Watch W69001Z2",
-  "total": 17000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/257825498056",
-  "item_id": "v1|257825498056|0",
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 28 mm oro amarillo 18k con bisel de diamantes (cuarzo)",
-   "referencia": "W69001Z2",
-   "precio_justo_usd": 15500,
-   "interesante": false,
-   "nota": "Precio pedido de US$17.000 con envío, unos 10 % por encima de la estimación de venta real de este modelo de segunda mano; no cumple el umbral del 15 % por debajo."
-  },
-  "motivo": "triage: Precio pedido de US$17.000 con envío, unos 10 % por encima de la estimación de venta real de este modelo de segunda mano; no cumple el umbral del 15 % por debajo. (justo 15500)"
- },
- {
   "fecha": "2026-10-30T15:24:26.922991+00:00",
   "marca": "Rolex",
   "titulo": "2019 Rolex Submariner Date \"Bluesy\" | Ref. 116613LB",
@@ -11134,5 +11009,130 @@
    "nota": "Precio pedido de US$9.180 está muy por encima del mercado secundario (aprox. US$5.500-6.500 con caja y papeles); no es una oportunidad."
   },
   "motivo": "triage: Precio pedido de US$9.180 está muy por encima del mercado secundario (aprox. US$5.500-6.500 con caja y papeles); no es una oportunidad. (justo 6000)"
+ },
+ {
+  "fecha": "2026-11-02T22:57:01.419255+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 26mm 2016 MOP Pearl Diamond Fluted Jubilee 179174",
+  "total": 10495.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198766569122",
+  "item_id": "v1|198766569122|0",
+  "referencia": "179174",
+  "mercado": {
+   "n": 63,
+   "p25": 8495,
+   "mediana": 9190
+  },
+  "ratio_mercado": 1.235,
+  "motivo": "precio normal (124 % del cuartil bajo de 179174)"
+ },
+ {
+  "fecha": "2026-11-02T22:57:01.419255+00:00",
+  "marca": "Rolex",
+  "titulo": "2006 Rolex GMT-Master II 116718LN 40MM Green 18K Yellow Gold D-Serial",
+  "total": 40000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880076746632",
+  "item_id": "v1|880076746632|0",
+  "referencia": "116718LN",
+  "mercado": {
+   "n": 6,
+   "p25": 38999,
+   "mediana": 42950
+  },
+  "ratio_mercado": 1.026,
+  "motivo": "precio normal (103 % del cuartil bajo de 116718LN)"
+ },
+ {
+  "fecha": "2026-11-02T22:57:01.419255+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Galbée Moonphase — 119901 | Steel & 18K Yellow Gold | Vintage",
+  "total": 7900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128171309196",
+  "item_id": "v1|128171309196|0",
+  "triage": {
+   "modelo": "Cartier Santos Galbée Moonphase, acero y oro amarillo 18K, esfera plateada con numerales romanos y subesfera de fase lunar",
+   "referencia": "119901 (según el título del listado; no verificable en la foto)",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Precio pedido de US$7,900 por encima de lo que suele cerrarse para este modelo bimetal en estado Good; la referencia indicada no se puede confirmar con la imagen."
+  },
+  "motivo": "triage: Precio pedido de US$7,900 por encima de lo que suele cerrarse para este modelo bimetal en estado Good; la referencia indicada no se puede confirmar con la imagen. (justo 5000)"
+ },
+ {
+  "fecha": "2026-11-02T22:57:01.419255+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster XL Chronograph Silver Roman Steel 43mm W62019X6 2618 Box/Apr",
+  "total": 5510.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237158843536",
+  "item_id": "v1|237158843536|0",
+  "referencia": "2618",
+  "mercado": {
+   "n": 13,
+   "p25": 5289,
+   "mediana": 5950
+  },
+  "ratio_mercado": 1.042,
+  "motivo": "precio normal (104 % del cuartil bajo de 2618)"
+ },
+ {
+  "fecha": "2026-11-02T22:57:01.419255+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Monarch 39mm Stainless Steel M2639W1A0U-0001",
+  "total": 6995.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880076774091",
+  "item_id": "v1|880076774091|0",
+  "triage": {
+   "modelo": "Tudor Monarch 39mm acero",
+   "referencia": "M2639W1A0U-0001",
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del mercado para un Monarch de acero nuevo con caja y papeles; no es una oportunidad. La referencia exacta no pude verificarla con certeza."
+  },
+  "motivo": "triage: Precio pedido muy por encima del mercado para un Monarch de acero nuevo con caja y papeles; no es una oportunidad. La referencia exacta no pude verificarla con certeza. (justo 3100)"
+ },
+ {
+  "fecha": "2026-11-02T22:57:01.419255+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 GMT 39mm M7939G1A0NRU-0001",
+  "total": 4463.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117500734423",
+  "item_id": "v1|117500734423|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 GMT 39mm (bisel rojo y negro, acero)",
+   "referencia": "M7939G1A0NRU-0001",
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "Pre-owned con precio pedido por encima de lo que este modelo de 2024 se vende de segunda mano; no hay descuento claro."
+  },
+  "motivo": "triage: Pre-owned con precio pedido por encima de lo que este modelo de 2024 se vende de segunda mano; no hay descuento claro. (justo 3900)"
+ },
+ {
+  "fecha": "2026-11-02T22:57:01.419255+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Hydronaut 89190 40mm Steel Diver 2004 Automatic 200m Original Papers",
+  "total": 2247.5,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137896277273",
+  "item_id": "v1|137896277273|0",
+  "referencia": "89190",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Hydronaut (serie 89190), acero, 40 mm, bisel giratorio, fecha",
+   "referencia": "89190",
+   "precio_justo_usd": 1900,
+   "interesante": false,
+   "nota": "El precio pedido de US$2248 está por encima del valor estimado de venta cerrada (~US$1900) para esta referencia y año, con papeles y estado excelente. La identificación se basa en la foto y debe confirmarse con el número de referencia en la caja."
+  },
+  "motivo": "triage: El precio pedido de US$2248 está por encima del valor estimado de venta cerrada (~US$1900) para esta referencia y año, con papeles y estado excelente. La identificación se basa en la foto y debe confirmarse con el número de referencia en la caja. (justo 1900)"
  }
 ]
