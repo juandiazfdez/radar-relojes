@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-10-29T21:08:42.070398+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 26mm 2015 White Roman Fluted Jubilee 179174",
-  "total": 8495.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198755481588",
-  "item_id": "v1|198755481588|0",
-  "referencia": "179174",
-  "mercado": {
-   "n": 62,
-   "p25": 8500,
-   "mediana": 9195
-  },
-  "ratio_mercado": 0.999,
-  "motivo": "precio normal (100 % del cuartil bajo de 179174)"
- },
- {
-  "fecha": "2026-10-29T21:08:42.070398+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36mm 1991 Champagne Diamond Fluted Jubilee 16233",
-  "total": 8495.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198755480906",
-  "item_id": "v1|198755480906|0",
-  "referencia": "16233",
-  "mercado": {
-   "n": 28,
-   "p25": 5399,
-   "mediana": 6152
-  },
-  "ratio_mercado": 1.573,
-  "motivo": "precio normal (157 % del cuartil bajo de 16233)"
- },
- {
-  "fecha": "2026-10-29T21:08:42.070398+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos Galbée W20031C4 23mm * 35mm Steel & YG",
   "total": 6495.0,
@@ -11079,5 +11045,52 @@
   },
   "ratio_mercado": 1.215,
   "motivo": "precio normal (121 % del cuartil bajo de 126300)"
+ },
+ {
+  "fecha": "2026-11-02T00:56:12.124371+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Ranger 39mm – Ref. 79950 – Black Dial, Steel Bracelet, Complete Set",
+  "total": 3314.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237156579694",
+  "item_id": "v1|237156579694|0",
+  "referencia": "79950",
+  "mercado": {
+   "n": 13,
+   "p25": 3047,
+   "mediana": 3350
+  },
+  "ratio_mercado": 1.088,
+  "motivo": "precio normal (109 % del cuartil bajo de 79950)"
+ },
+ {
+  "fecha": "2026-11-02T00:56:12.124371+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Pelagos FXD Alinghi Red Bull Racing Edition 25707KN",
+  "total": 3015.45,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940058558840",
+  "item_id": "v1|940058558840|0",
+  "referencia": "M25707KN-0001",
+  "mercado": {
+   "n": 3,
+   "p25": 3350,
+   "mediana": 3595
+  },
+  "triage": {
+   "modelo": "TUDOR Pelagos FXD Alinghi Red Bull Racing Edition (titanio, bisel y correa rojos, caja original)",
+   "referencia": "M25707KN-0001",
+   "precio_justo_usd": 4200,
+   "interesante": true,
+   "nota": "Precio ~28% bajo el mercado de cerrados para esta edición limitada; verificar autenticidad, número de serie, papeles y estado de la correa antes de comprar."
+  },
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 3300,
+   "riesgo_autenticidad": "medio",
+   "estado": "Aparentemente como nuevo o muy poco usado, con la etiqueta colgando, pero sin fotos del fondo de caja ni del movimiento, y con papeles dudosos."
+  },
+  "ratio_justo": 0.914,
+  "motivo": "precio normal segun revision (91 % del justo 3300)"
  }
 ]
