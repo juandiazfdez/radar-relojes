@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-10-29T20:53:42.134622+00:00",
-  "marca": "Omega",
-  "titulo": "Omega Seamaster Men’s Automatic Watch,  Ref. 2577-3, Cal. 351 Bumper ",
-  "total": 1214.95,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/377604247534",
-  "item_id": "v1|377604247534|0",
-  "triage": {
-   "modelo": "Omega Seamaster automático vintage (calibre bumper)",
-   "referencia": "2577-3 (según título, no verificable en la foto)",
-   "precio_justo_usd": 650,
-   "interesante": false,
-   "nota": "Caja dorada y esfera crema de estilo años 50; si es chapado en oro o gold-filled, vale mucho menos que una versión de oro macizo. El precio pedido supera el valor de venta real."
-  },
-  "motivo": "triage: Caja dorada y esfera crema de estilo años 50; si es chapado en oro o gold-filled, vale mucho menos que una versión de oro macizo. El precio pedido supera el valor de venta real. (justo 650)"
- },
- {
-  "fecha": "2026-10-29T21:08:42.070398+00:00",
-  "marca": "Rolex",
-  "titulo": "Unworn 2025 Rolex Daytona 126500 LN Cosmograph White Panda Steel Watch Box Paper",
-  "total": 37418.5,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/267827569705",
-  "item_id": "v1|267827569705|0",
-  "referencia": "126500",
-  "mercado": {
-   "n": 28,
-   "p25": 34085,
-   "mediana": 36679
-  },
-  "ratio_mercado": 1.098,
-  "motivo": "precio normal (110 % del cuartil bajo de 126500)"
- },
- {
   "fecha": "2026-10-29T21:08:42.070398+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 31mm Meteorite Diamond Fluted Jubilee Watch&Box 178274",
@@ -11079,5 +11045,39 @@
    "nota": "Precio pedido de US$8450 por encima del rango de venta cerrada de esta referencia de segunda mano en EE. UU. (aprox. US$7000-8500, según caja y papeles); sin margen de compra."
   },
   "motivo": "triage: Precio pedido de US$8450 por encima del rango de venta cerrada de esta referencia de segunda mano en EE. UU. (aprox. US$7000-8500, según caja y papeles); sin margen de compra. (justo 7800)"
+ },
+ {
+  "fecha": "2026-11-02T00:11:12.969689+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos 100 XL W20073X8 Watch + Box",
+  "total": 4800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/377613800855",
+  "item_id": "v1|377613800855|0",
+  "triage": {
+   "modelo": "Cartier Santos 100 XL (caja de acero, bisel con tornillos, esfera blanca con números romanos, correa de cuero negro)",
+   "referencia": "W20073X8",
+   "precio_justo_usd": 5300,
+   "interesante": false,
+   "nota": "Precio pedido US$4,800 unos 9 % bajo la estimación; no alcanza el umbral del 15 %. Confirmar caja, papeles y autenticidad antes de comprar."
+  },
+  "motivo": "triage: Precio pedido US$4,800 unos 9 % bajo la estimación; no alcanza el umbral del 15 %. Confirmar caja, papeles y autenticidad antes de comprar. (justo 5300)"
+ },
+ {
+  "fecha": "2026-11-02T00:11:12.969689+00:00",
+  "marca": "Tudor",
+  "titulo": "mens tudor prince oysterdate watch",
+  "total": 1617.18,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336874105875",
+  "item_id": "v1|336874105875|0",
+  "triage": {
+   "modelo": "Tudor Prince Oysterdate vintage (caja dorada, esfera champán con ventanilla de fecha)",
+   "referencia": null,
+   "precio_justo_usd": 900,
+   "interesante": false,
+   "nota": "Parece una Oysterdate vintage de caja chapada en oro sobre correa de piel; la referencia no se distingue en la foto. Con estado excelente, el precio pedido de US$1617 está por encima del valor de venta real. Si fuera de acero o de oro macizo, la valoración cambiaría."
+  },
+  "motivo": "triage: Parece una Oysterdate vintage de caja chapada en oro sobre correa de piel; la referencia no se distingue en la foto. Con estado excelente, el precio pedido de US$1617 está por encima del valor de venta real. Si fuera de acero o de oro macizo, la valoración cambiaría. (justo 900)"
  }
 ]
