@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-10-29T22:38:57.275832+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu Ref. 3001 42mm Stainless Steel Automatic Watch",
-  "total": 4999.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820293494457",
-  "item_id": "v1|820293494457|0",
-  "referencia": "3001",
-  "mercado": {
-   "n": 21,
-   "p25": 4999,
-   "mediana": 6490
-  },
-  "ratio_mercado": 1.0,
-  "motivo": "precio normal (100 % del cuartil bajo de 3001)"
- },
- {
-  "fecha": "2026-10-29T22:38:57.275832+00:00",
-  "marca": "Tudor",
-  "titulo": "2024 Tudor Black Bay Chrono 41mm Steel Flamingo Pink 79360N Full Set",
-  "total": 8049.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257824293728",
-  "item_id": "v1|257824293728|0",
-  "referencia": "79360N",
-  "mercado": {
-   "n": 54,
-   "p25": 4690,
-   "mediana": 5274
-  },
-  "ratio_mercado": 1.716,
-  "motivo": "precio normal (172 % del cuartil bajo de 79360N)"
- },
- {
-  "fecha": "2026-10-29T22:38:57.275832+00:00",
   "marca": "Breitling",
   "titulo": "Breitling Superocean Heritage II 42mm AB2010 Black Steel Mesh Bracelet Full Set",
   "total": 4100.0,
@@ -11081,5 +11047,39 @@
    "nota": "Precio pedido cerca del retail actual (~US$4,300) y por encima del mercado de segunda mano para estado 'Good'; no alcanza el descuento del 15 %."
   },
   "motivo": "triage: Precio pedido cerca del retail actual (~US$4,300) y por encima del mercado de segunda mano para estado 'Good'; no alcanza el descuento del 15 %. (justo 3450)"
+ },
+ {
+  "fecha": "2026-11-02T16:26:44.997880+00:00",
+  "marca": "Rolex",
+  "titulo": "NINE ORIGINAL AUTHENTIC ROLEX WARRANTY PAPER HOLDERS - ALL FOR ONE PRICE",
+  "total": 43.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257830369541",
+  "item_id": "v1|257830369541|0",
+  "triage": {
+   "modelo": "Lote de 9 fundas de papel de garantía Rolex (verde, sin reloj)",
+   "referencia": null,
+   "precio_justo_usd": 10,
+   "interesante": false,
+   "nota": "Las fotos muestran solo fundas de cartón de garantía vacías, no relojes. Tienen poco valor de reventa como lote; el precio de US$43 no es una oportunidad."
+  },
+  "motivo": "triage: Las fotos muestran solo fundas de cartón de garantía vacías, no relojes. Tienen poco valor de reventa como lote; el precio de US$43 no es una oportunidad. (justo 10)"
+ },
+ {
+  "fecha": "2026-11-02T16:26:44.997880+00:00",
+  "marca": "Tudor",
+  "titulo": "2019 TUDOR Heritage Black Bay 79230N Automatic Men's Watch 41MM",
+  "total": 3006.63,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168832899183",
+  "item_id": "v1|168832899183|0",
+  "referencia": "79230N",
+  "mercado": {
+   "n": 16,
+   "p25": 3350,
+   "mediana": 3574
+  },
+  "ratio_mercado": 0.898,
+  "motivo": "precio normal (90 % del cuartil bajo de 79230N)"
  }
 ]
