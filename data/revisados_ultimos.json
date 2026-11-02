@@ -2,29 +2,6 @@
  {
   "fecha": "2026-10-29T21:38:56.964310+00:00",
   "marca": "Omega",
-  "titulo": "Omega Speedmaster Steel Yellow Gold Mens Watch 3310.10.00",
-  "total": 4770.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940050533057",
-  "item_id": "v1|940050533057|0",
-  "referencia": "3310.10.00",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Omega Speedmaster Reduced automático, acero y oro amarillo, esfera champán",
-   "referencia": "3310.10.00",
-   "precio_justo_usd": 3600,
-   "interesante": false,
-   "nota": "Precio pedido unos 30 % por encima del valor de venta cerrada estimado para esta referencia en estado Good."
-  },
-  "motivo": "triage: Precio pedido unos 30 % por encima del valor de venta cerrada estimado para esta referencia en estado Good. (justo 3600)"
- },
- {
-  "fecha": "2026-10-29T21:38:56.964310+00:00",
-  "marca": "Omega",
   "titulo": "Omega Speedmaster Professional Moonwatch 310.30.42.50.01.002 42mm Box and Papers",
   "total": 7350.0,
   "condicion": "Pre-owned - Excellent",
@@ -11098,5 +11075,22 @@
    "nota": "El título dice 18K oro amarillo, pero la foto muestra pulsera bicolor; la versión bicolor se vende bastante por debajo de la de oro macizo, así que US$4.200 está por encima del precio de mercado."
   },
   "motivo": "triage: El título dice 18K oro amarillo, pero la foto muestra pulsera bicolor; la versión bicolor se vende bastante por debajo de la de oro macizo, así que US$4.200 está por encima del precio de mercado. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-02T07:56:23.272778+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Precision Steel Watch",
+  "total": 3614.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267830805582",
+  "item_id": "v1|267830805582|0",
+  "triage": {
+   "modelo": "Rolex Oyster Precision (acero, esfera plateada, brazalete Oyster)",
+   "referencia": "14000 (probable; confirmar con número de serie y fondo)",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta cerrada estimado para un 14000 de acero en estado Good; identificación visual aproximada."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para un 14000 de acero en estado Good; identificación visual aproximada. (justo 3000)"
  }
 ]
