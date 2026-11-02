@@ -1,74 +1,6 @@
 [
  {
   "fecha": "2026-10-29T21:23:57.422311+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage $13,000 34mm ROLEX AIRKING BLUE Tiffany & Co Mens SS Watch SERVICED",
-  "total": 4659.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407325432789",
-  "item_id": "v1|407325432789|0",
-  "triage": {
-   "modelo": "Rolex Air-King, acero, 34 mm, brazalete Oyster, esfera azul estilo Tiffany",
-   "referencia": "5500 o 14000 (no verificable en la foto)",
-   "precio_justo_usd": 4200,
-   "interesante": false,
-   "nota": "El precio pedido (US$4659) está por encima del valor estimado. La esfera azul suele ser una refinición, que reduce el valor, y el título 'Tiffany & Co' y '$13,000' parecen engañosos."
-  },
-  "motivo": "triage: El precio pedido (US$4659) está por encima del valor estimado. La esfera azul suele ser una refinición, que reduce el valor, y el título 'Tiffany & Co' y '$13,000' parecen engañosos. (justo 4200)"
- },
- {
-  "fecha": "2026-10-29T21:23:57.422311+00:00",
-  "marca": "Rolex",
-  "titulo": "Estate Rolex Oyster Perpetual Datejust Automatic Watch Ref#1603",
-  "total": 6322.47,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198755539406",
-  "item_id": "v1|198755539406|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Datejust 36 mm, acero, bisel acanalado, esfera plateada con índices de bastón y brazalete Jubilee",
-   "referencia": "1603",
-   "precio_justo_usd": 5800,
-   "interesante": false,
-   "nota": "Ref. 1603 de acero en estado Good se vende hoy en torno a 5.500-6.500 USD; el precio pedido con envío queda dentro del rango, sin descuento del 15 %."
-  },
-  "motivo": "triage: Ref. 1603 de acero en estado Good se vende hoy en torno a 5.500-6.500 USD; el precio pedido con envío queda dentro del rango, sin descuento del 15 %. (justo 5800)"
- },
- {
-  "fecha": "2026-10-29T21:23:57.422311+00:00",
-  "marca": "Rolex",
-  "titulo": "Estate Rolex GMT-Master II Automatic Watch Ref#M126710BLNR-0003",
-  "total": 24032.47,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206662039344",
-  "item_id": "v1|206662039344|0",
-  "triage": {
-   "modelo": "Rolex GMT-Master II 'Batman' (bisel azul/negro, brazalete Oyster de acero)",
-   "referencia": "126710BLNR",
-   "precio_justo_usd": 20500,
-   "interesante": false,
-   "nota": "Referencia actual de producción; el precio pedido queda unos 17 % por encima de lo que se vende de segunda mano, y el estado 'Good' no justifica ese sobreprecio."
-  },
-  "motivo": "triage: Referencia actual de producción; el precio pedido queda unos 17 % por encima de lo que se vende de segunda mano, y el estado 'Good' no justifica ese sobreprecio. (justo 20500)"
- },
- {
-  "fecha": "2026-10-29T21:23:57.422311+00:00",
-  "marca": "Rolex",
-  "titulo": "$15,000 31mm ROLEX 14k Yellow Gold SS REF 6824 DATEJUST Ladies Watch SERVICED",
-  "total": 5959.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237151451975",
-  "item_id": "v1|237151451975|0",
-  "referencia": "6824",
-  "mercado": {
-   "n": 9,
-   "p25": 4959,
-   "mediana": 10389
-  },
-  "ratio_mercado": 1.202,
-  "motivo": "precio normal (120 % del cuartil bajo de 6824)"
- },
- {
-  "fecha": "2026-10-29T21:23:57.422311+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay GMT Pepsi 41mm #79830RB Box & Papers",
   "total": 3385.0,
@@ -11080,5 +11012,91 @@
    "nota": "La caja y bolsa son de Cartier, pero la referencia exacta no se distingue en la foto. Con el descuento normal del mercado gris, 5042 USD queda solo ~9 % por debajo del valor estimado, por debajo del umbral del 15 %."
   },
   "motivo": "triage: La caja y bolsa son de Cartier, pero la referencia exacta no se distingue en la foto. Con el descuento normal del mercado gris, 5042 USD queda solo ~9 % por debajo del valor estimado, por debajo del umbral del 15 %. (justo 4600)"
+ },
+ {
+  "fecha": "2026-11-02T03:41:12.070850+00:00",
+  "marca": "Cartier",
+  "titulo": "Authentic Cartier Santos de Cartier Large WSSA0062 Iced Out",
+  "total": 7070.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237156775648",
+  "item_id": "v1|237156775648|0",
+  "referencia": "WSSA0062",
+  "mercado": {
+   "n": 4,
+   "p25": 8000,
+   "mediana": 8272
+  },
+  "triage": {
+   "modelo": "Cartier Santos de Cartier Large (40 mm) iced out, acero, con caja y papeles",
+   "referencia": "WSSA0062",
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "Precio muy por debajo de una Santos Large con diamantes genuina; alto riesgo de modificacion aftermarket o replica. Verificar autenticidad, numero de serie y papeles antes de considerarlo."
+  },
+  "motivo": "triage: Precio muy por debajo de una Santos Large con diamantes genuina; alto riesgo de modificacion aftermarket o replica. Verificar autenticidad, numero de serie y papeles antes de considerarlo. (justo 14000)"
+ },
+ {
+  "fecha": "2026-11-02T03:41:12.070850+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise 1840 Automatic 18K Gold Women's  Watch.",
+  "total": 7200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257829430637",
+  "item_id": "v1|257829430637|0",
+  "referencia": "1840",
+  "mercado": {
+   "n": 14,
+   "p25": 12500,
+   "mediana": 19718
+  },
+  "ratio_mercado": 0.576,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 5800,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado con golpes y rayones visibles en caja y asas; sin caja ni papeles"
+  },
+  "motivo": "Claude descarto: Los comparables (mediana US$19.7k, cuartil bajo US$12.5k) son precios pedidos y están inflados. No sirven de referencia. Las ventas reales de un Tank Française 1840 en oro 18K sobre piel suelen estar en US$5,500-6,800, según estado y si trae caja y papeles.; A US$7,200 el precio queda por encima de mi estimación conservadora para un reloj sin caja ni papeles y con desgaste. No hay margen de reventa."
+ },
+ {
+  "fecha": "2026-11-02T03:41:12.070850+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Watch - Must de Cartier 21  Authoscaph 2427 Automatic.",
+  "total": 1700.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257829428757",
+  "item_id": "v1|257829428757|0",
+  "referencia": "2427",
+  "mercado": {
+   "n": 2,
+   "p25": 1415,
+   "mediana": 1505
+  },
+  "triage": {
+   "modelo": "Must de Cartier 21 Authoscaph (Autoscaph), automático, acero, esfera azul texturizada con fecha",
+   "referencia": "2427",
+   "precio_justo_usd": 1400,
+   "interesante": false,
+   "nota": "Precio pedido de US$1700 está por encima del rango de venta cerrada estimado para estado Good; no cumple el umbral de 15% por debajo."
+  },
+  "motivo": "triage: Precio pedido de US$1700 está por encima del rango de venta cerrada estimado para estado Good; no cumple el umbral de 15% por debajo. (justo 1400)"
+ },
+ {
+  "fecha": "2026-11-02T03:41:12.070850+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise Steel Rose Gold Mother of Pearl Ladies Watch W51027Q4",
+  "total": 5080.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257829420295",
+  "item_id": "v1|257829420295|0",
+  "triage": {
+   "modelo": "Cartier Tank Française acero y oro rosa, esfera de nácar, tamaño pequeño (cuarzo)",
+   "referencia": "W51027Q4",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "El precio pedido de US$5080 está muy por encima de lo que se vende este modelo de cuarzo pequeño en EE. UU., incluso en buen estado."
+  },
+  "motivo": "triage: El precio pedido de US$5080 está muy por encima de lo que se vende este modelo de cuarzo pequeño en EE. UU., incluso en buen estado. (justo 2600)"
  }
 ]
