@@ -3550,7 +3550,7 @@
   "max": 10035
  },
  "Rolex 6518|usado": {
-  "fecha": "2026-10-21",
+  "fecha": "2026-11-02",
   "consulta": "Rolex 6518",
   "n": 1,
   "mediana": 5150,
@@ -4510,13 +4510,13 @@
   "max": 3299
  },
  "Cartier W1018355|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-11-02",
   "consulta": "Cartier W1018355",
   "n": 7,
-  "mediana": 3500,
-  "p25": 3195,
-  "p75": 3758,
-  "min": 3099,
+  "mediana": 3249,
+  "p25": 3099,
+  "p75": 3750,
+  "min": 2889,
   "max": 3860
  },
  "IWC IW391031|usado": {
@@ -7350,12 +7350,12 @@
   "max": 8950
  },
  "Cartier WSPN0006|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-11-02",
   "consulta": "Cartier WSPN0006",
-  "n": 4,
-  "mediana": 5250,
+  "n": 5,
+  "mediana": 5040,
   "p25": 5000,
-  "p75": 5795,
+  "p75": 5500,
   "min": 4950,
   "max": 5795
  },
@@ -18258,5 +18258,25 @@
   "fecha": "2026-11-02",
   "consulta": "Tudor 89190",
   "n": 0
+ },
+ "Rolex 178240|usado": {
+  "fecha": "2026-11-02",
+  "consulta": "Rolex 178240",
+  "n": 24,
+  "mediana": 8815,
+  "p25": 8145,
+  "p75": 9178,
+  "min": 6895,
+  "max": 19845
+ },
+ "Cartier WSTA0018|usado": {
+  "fecha": "2026-11-02",
+  "consulta": "Cartier WSTA0018",
+  "n": 1,
+  "mediana": 5500,
+  "p25": 5500,
+  "p75": 5500,
+  "min": 5500,
+  "max": 5500
  }
 }
