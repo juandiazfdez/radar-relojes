@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-10-30T17:09:27.301413+00:00",
-  "marca": "Rolex",
-  "titulo": "1999 Rolex Lady-Datejust White Roman Jubilee 69173 Complete Steel & YG",
-  "total": 7349.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920088288940",
-  "item_id": "v1|920088288940|0",
-  "referencia": "69173",
-  "mercado": {
-   "n": 24,
-   "p25": 4257,
-   "mediana": 4450
-  },
-  "ratio_mercado": 1.726,
-  "motivo": "precio normal (173 % del cuartil bajo de 69173)"
- },
- {
-  "fecha": "2026-10-30T17:09:27.301413+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36 Steel & Gold White Roman Fluted Jubilee 36mm 116233 Full Set",
-  "total": 9000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307257318762",
-  "item_id": "v1|307257318762|0",
-  "referencia": "116233",
-  "mercado": {
-   "n": 77,
-   "p25": 10990,
-   "mediana": 11345
-  },
-  "ratio_mercado": 0.819,
-  "motivo": "descripcion: as-is"
- },
- {
-  "fecha": "2026-10-30T17:24:27.016900+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sky-Dweller 326938",
-  "total": 46485.94,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237153062135",
-  "item_id": "v1|237153062135|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller oro amarillo, bisel acanalado, esfera champán",
-   "referencia": "326938",
-   "precio_justo_usd": 43000,
-   "interesante": false,
-   "nota": "Precio pedido por encima de la estimación de venta cerrada para esta referencia en oro amarillo; no hay descuento de al menos 15 %."
-  },
-  "motivo": "triage: Precio pedido por encima de la estimación de venta cerrada para esta referencia en oro amarillo; no hay descuento de al menos 15 %. (justo 43000)"
- },
- {
   "fecha": "2026-10-30T17:24:27.016900+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Yachtmaster 40 Rose Gold Oysterflex 116655 Mint + Warranty",
@@ -11152,5 +11101,56 @@
    "nota": "Precio pedido de US$4100 está en o por encima de retail para un Tudor de producción actual usado; el mercado gris suele estar 15-35 % abajo."
   },
   "motivo": "triage: Precio pedido de US$4100 está en o por encima de retail para un Tudor de producción actual usado; el mercado gris suele estar 15-35 % abajo. (justo 3100)"
+ },
+ {
+  "fecha": "2026-11-03T02:27:12.128550+00:00",
+  "marca": "Rolex",
+  "titulo": "2018 Rolex Submariner No Date 116610 41mm Black Steel Ceramic Watch Box Papers",
+  "total": 13545.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327436465003",
+  "item_id": "v1|327436465003|0",
+  "referencia": "116610",
+  "mercado": {
+   "n": 45,
+   "p25": 12499,
+   "mediana": 12695
+  },
+  "ratio_mercado": 1.084,
+  "motivo": "precio normal (108 % del cuartil bajo de 116610)"
+ },
+ {
+  "fecha": "2026-11-03T02:27:12.128550+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 116710BLNR-001 116710BLNR-001 Watch and Paper",
+  "total": 16850.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206671647530",
+  "item_id": "v1|206671647530|0",
+  "referencia": "116710BLNR",
+  "mercado": {
+   "n": 48,
+   "p25": 15990,
+   "mediana": 16770
+  },
+  "ratio_mercado": 1.054,
+  "motivo": "precio normal (105 % del cuartil bajo de 116710BLNR)"
+ },
+ {
+  "fecha": "2026-11-03T02:27:12.128550+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay Ceramic M79210CNU-0001",
+  "total": 3499.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407335047899",
+  "item_id": "v1|407335047899|0",
+  "triage": {
+   "modelo": "TUDOR Black Bay Ceramic (esfera sin fecha, correa de cuero negra)",
+   "referencia": "M79210CNU (según el título; no verificable en la foto)",
+   "precio_justo_usd": 3050,
+   "interesante": false,
+   "nota": "Precio pedido por encima de la estimación para estado Good con correa de cuero; sin caja y papeles confirmados, no hay margen de compra."
+  },
+  "motivo": "triage: Precio pedido por encima de la estimación para estado Good con correa de cuero; sin caja y papeles confirmados, no hay margen de compra. (justo 3050)"
  }
 ]
