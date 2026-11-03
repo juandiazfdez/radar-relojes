@@ -6460,9 +6460,14 @@
   "max": 22370
  },
  "Rolex 279384RBR|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-11-03",
   "consulta": "Rolex 279384RBR",
-  "n": 0
+  "n": 1,
+  "mediana": 19395,
+  "p25": 19395,
+  "p75": 19395,
+  "min": 19395,
+  "max": 19395
  },
  "Rolex 127234|usado": {
   "fecha": "2026-10-26",
@@ -7680,13 +7685,13 @@
   "max": 3700
  },
  "Tudor M25407N|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-11-03",
   "consulta": "Tudor M25407N",
-  "n": 6,
-  "mediana": 4724,
-  "p25": 4590,
+  "n": 7,
+  "mediana": 4699,
+  "p25": 4364,
   "p75": 4825,
-  "min": 4364,
+  "min": 3800,
   "max": 5299
  },
  "Tudor M79830RB|usado": {
@@ -18005,14 +18010,14 @@
   "max": 43388
  },
  "Rolex 126660|nuevo": {
-  "fecha": "2026-11-02",
+  "fecha": "2026-11-03",
   "consulta": "Rolex 126660",
-  "n": 4,
-  "mediana": 16504,
+  "n": 5,
+  "mediana": 17359,
   "p25": 15650,
   "p75": 18425,
   "min": 12650,
-  "max": 18425
+  "max": 20150
  },
  "Cartier WGBB0016|usado": {
   "fecha": "2026-11-02",
@@ -18518,5 +18523,25 @@
   "p75": 38928,
   "min": 33955,
   "max": 39088
+ },
+ "Cartier WGBL0002|usado": {
+  "fecha": "2026-11-03",
+  "consulta": "Cartier WGBL0002",
+  "n": 1,
+  "mediana": 8230,
+  "p25": 8230,
+  "p75": 8230,
+  "min": 8230,
+  "max": 8230
+ },
+ "Tudor 25407N|usado": {
+  "fecha": "2026-11-03",
+  "consulta": "Tudor 25407N",
+  "n": 14,
+  "mediana": 4775,
+  "p25": 4590,
+  "p75": 4900,
+  "min": 3800,
+  "max": 5799
  }
 }
