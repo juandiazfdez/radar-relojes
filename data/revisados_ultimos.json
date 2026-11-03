@@ -1,73 +1,5 @@
 [
  {
-  "fecha": "2026-10-31T18:40:13.521149+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master 16758 Yellow Gold, 1978–1979",
-  "total": 29630.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960137714699",
-  "item_id": "v1|960137714699|0",
-  "referencia": "16758",
-  "mercado": {
-   "n": 5,
-   "p25": 28749,
-   "mediana": 31495
-  },
-  "ratio_mercado": 1.031,
-  "motivo": "precio normal (103 % del cuartil bajo de 16758)"
- },
- {
-  "fecha": "2026-10-31T18:40:13.521149+00:00",
-  "marca": "Rolex",
-  "titulo": "#20-L, Vintage Rolex knockoff Women's watch gold tone",
-  "total": 38.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137887628439",
-  "item_id": "v1|137887628439|0",
-  "triage": {
-   "modelo": "Reloj de fantasía estilo Rolex (réplica o 'knockoff', no Rolex genuino)",
-   "referencia": null,
-   "precio_justo_usd": 20,
-   "interesante": false,
-   "nota": "El título dice 'knockoff' y el reloj de tono dorado con esfera rosada y brazalete parece de fantasía; no tiene valor de reventa como Rolex."
-  },
-  "motivo": "triage: El título dice 'knockoff' y el reloj de tono dorado con esfera rosada y brazalete parece de fantasía; no tiene valor de reventa como Rolex. (justo 20)"
- },
- {
-  "fecha": "2026-10-31T18:40:13.521149+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II Bruce Wayne on Jubilee 126710GRNR Factory Stickers 2026",
-  "total": 23900.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/287694931479",
-  "item_id": "v1|287694931479|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 62,
-   "p25": 21800,
-   "mediana": 22990
-  },
-  "ratio_mercado": 1.096,
-  "motivo": "precio normal (110 % del cuartil bajo de 126710GRNR)"
- },
- {
-  "fecha": "2026-10-31T19:10:13.253262+00:00",
-  "marca": "Rolex",
-  "titulo": "$12,000 ROLEX DATEJUST Champagne 69173 18k Yellow Gold SS Ladies Watch SERVICED",
-  "total": 3959.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307259156270",
-  "item_id": "v1|307259156270|0",
-  "referencia": "69173",
-  "mercado": {
-   "n": 24,
-   "p25": 4257,
-   "mediana": 4450
-  },
-  "ratio_mercado": 0.93,
-  "motivo": "precio normal (93 % del cuartil bajo de 69173)"
- },
- {
   "fecha": "2026-10-31T19:10:13.253262+00:00",
   "marca": "Rolex",
   "titulo": "$35,000 ROLEX DATEJUST PRESIDENT 3ct Diamond Ladies 18k Yellow Gold Watch 69173",
@@ -10978,5 +10910,79 @@
   },
   "ratio_mercado": 1.087,
   "motivo": "precio normal (109 % del cuartil bajo de 79030B)"
+ },
+ {
+  "fecha": "2026-11-03T22:57:59.880709+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Datejust 31, 78274, Steel & White Gold, Black Mother of Pearl D...",
+  "total": 12073.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/366782947519",
+  "item_id": "v1|366782947519|0",
+  "triage": {
+   "modelo": "Rolex Datejust 31 acero y oro blanco, esfera de madre perla negra (posible variante con marcadores de diamante)",
+   "referencia": "78274",
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "Precio pedido de US$12.073 muy por encima del valor de venta cerrada de esta referencia; el listado 'Renewed' de vendedor refurbished tampoco justifica una prima así."
+  },
+  "motivo": "triage: Precio pedido de US$12.073 muy por encima del valor de venta cerrada de esta referencia; el listado 'Renewed' de vendedor refurbished tampoco justifica una prima así. (justo 7000)"
+ },
+ {
+  "fecha": "2026-11-03T22:57:59.880709+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Day-Date 36, 18388, Yellow Gold, Champagne Diamond Dial, Diamon...",
+  "total": 33637.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/206673708346",
+  "item_id": "v1|206673708346|0",
+  "referencia": "18388",
+  "mercado": {
+   "n": 3,
+   "p25": 28046,
+   "mediana": 34635
+  },
+  "triage": {
+   "modelo": "Rolex Day-Date 36 de oro amarillo con bisel de diamantes, esfera champán con marcadores de diamantes, brazalete President",
+   "referencia": "18388",
+   "precio_justo_usd": 29000,
+   "interesante": false,
+   "nota": "Precio pedido por encima de la estimación de venta real; el 'seller refurbished' puede reducir el valor frente a una pieza original con papeles."
+  },
+  "motivo": "triage: Precio pedido por encima de la estimación de venta real; el 'seller refurbished' puede reducir el valor frente a una pieza original con papeles. (justo 29000)"
+ },
+ {
+  "fecha": "2026-11-03T22:57:59.880709+00:00",
+  "marca": "Rolex",
+  "titulo": "2019 Rolex Daytona Paul Newman 116508 40MM Black 18K Yellow Gold Box Paper",
+  "total": 52500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117502868878",
+  "item_id": "v1|117502868878|0",
+  "referencia": "116508",
+  "mercado": {
+   "n": 31,
+   "p25": 59349,
+   "mediana": 70569
+  },
+  "ratio_mercado": 0.885,
+  "motivo": "precio normal (88 % del cuartil bajo de 116508)"
+ },
+ {
+  "fecha": "2026-11-03T22:57:59.880709+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Must de Cartier 21 Yellow Gold & Steel Quartz 28MM W10051F4 12500P",
+  "total": 1955.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137899789578",
+  "item_id": "v1|137899789578|0",
+  "triage": {
+   "modelo": "Cartier Must de Cartier 21, acero y oro amarillo, cuarzo, 28 mm",
+   "referencia": "W10051F4",
+   "precio_justo_usd": 1100,
+   "interesante": false,
+   "nota": "Must 21 bicolor de cuarzo en estado usado; el precio pedido de US$1955 queda muy por encima de su valor de venta real."
+  },
+  "motivo": "triage: Must 21 bicolor de cuarzo en estado usado; el precio pedido de US$1955 queda muy por encima de su valor de venta real. (justo 1100)"
  }
 ]
