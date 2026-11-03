@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-30T16:39:27.317022+00:00",
   "marca": "Rolex",
-  "titulo": "2026 Rolex Sky-Dweller 336934 Black 42mm Jubilee 18K Gold Steel Box Papers",
-  "total": 23138.08,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940052583524",
-  "item_id": "v1|940052583524|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller (acero Oystersteel y oro blanco, bisel acanalado, esfera negra, brazalete Jubilee)",
-   "referencia": "336934",
-   "precio_justo_usd": 27000,
-   "interesante": false,
-   "nota": "Referencia 336934 de producción actual con precio pedido ~15 % bajo estimación conservadora; título con año '2026' y descripción de material ambiguos, así que no justifica marcarlo como oportunidad clara."
-  },
-  "motivo": "triage: Referencia 336934 de producción actual con precio pedido ~15 % bajo estimación conservadora; título con año '2026' y descripción de material ambiguos, así que no justifica marcarlo como oportunidad clara. (justo 27000)"
- },
- {
-  "fecha": "2026-10-30T16:39:27.317022+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust 36MM 2Tone 18K Gold Stainless Steel Jubilee 16013 ROMAN NUMERAL",
   "total": 5500.0,
   "condicion": "Pre-owned - Fair",
@@ -11140,5 +11123,22 @@
   },
   "ratio_mercado": 1.637,
   "motivo": "precio normal (164 % del cuartil bajo de 17000)"
+ },
+ {
+  "fecha": "2026-11-03T01:42:12.065739+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex Ladies Watch | Diamonds & Emeralds | Elegant 1920s Design",
+  "total": 6695.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327436412505",
+  "item_id": "v1|327436412505|0",
+  "triage": {
+   "modelo": "Rolex vintage de dama en oro amarillo 18k con bisel de diamantes y marcadores de esmeralda, brazalete texturizado (probablemente años 70; el título de 1920s no coincide)",
+   "referencia": null,
+   "precio_justo_usd": 6800,
+   "interesante": false,
+   "nota": "El título 'Elegant 1920s Design' parece engañoso: el diseño es de los años 70. Sin referencia visible ni caja y papeles, el precio pedido no está claramente por debajo del mercado."
+  },
+  "motivo": "triage: El título 'Elegant 1920s Design' parece engañoso: el diseño es de los años 70. Sin referencia visible ni caja y papeles, el precio pedido no está claramente por debajo del mercado. (justo 6800)"
  }
 ]
