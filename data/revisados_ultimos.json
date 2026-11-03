@@ -1,73 +1,5 @@
 [
  {
-  "fecha": "2026-10-31T18:10:13.107933+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Datejust 36mm Stainless Steel Watch Eb0926rxxzsa",
-  "total": 10500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840079122772",
-  "item_id": "v1|840079122772|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36mm acero con bisel acanalado (posible blanco) y esfera plateada con diamantes, brazalete Oyster",
-   "referencia": "116234 (probable; podría ser 126234 según la generación)",
-   "precio_justo_usd": 9500,
-   "interesante": false,
-   "nota": "El código del título (Eb0926rxxzsa) no es una referencia Rolex. Precio justo estimado a la baja para 116234 con esfera de diamantes, estado Good y sin confirmar caja/papeles; el pedido de 10.500 no está 15 % por debajo."
-  },
-  "motivo": "triage: El código del título (Eb0926rxxzsa) no es una referencia Rolex. Precio justo estimado a la baja para 116234 con esfera de diamantes, estado Good y sin confirmar caja/papeles; el pedido de 10.500 no está 15 % por debajo. (justo 9500)"
- },
- {
-  "fecha": "2026-10-31T18:10:13.107933+00:00",
-  "marca": "Rolex",
-  "titulo": "1975 Rolex Cellini 4082, 24.5mm, Gold Dial, 18K Yellow Gold Ladies Watch",
-  "total": 10100.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168829078847",
-  "item_id": "v1|168829078847|0",
-  "triage": {
-   "modelo": "Rolex Cellini (cushion, oro amarillo 18K, esfera dorada, brazalete de malla)",
-   "referencia": "4082",
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "Cellini vintage de dama en oro 18K con brazalete; venta cerrada típica en EE. UU. unos US$4.500-6.000 en buen estado. El precio pedido de US$10.100 está muy por encima, y la miniatura no permite verificar logos, movimiento ni autenticidad."
-  },
-  "motivo": "triage: Cellini vintage de dama en oro 18K con brazalete; venta cerrada típica en EE. UU. unos US$4.500-6.000 en buen estado. El precio pedido de US$10.100 está muy por encima, y la miniatura no permite verificar logos, movimiento ni autenticidad. (justo 5000)"
- },
- {
-  "fecha": "2026-10-31T18:10:13.107933+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay GMT Pepsi 79830RB Complete Set on Leather",
-  "total": 3250.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880068835897",
-  "item_id": "v1|880068835897|0",
-  "referencia": "79830RB",
-  "mercado": {
-   "n": 46,
-   "p25": 3799,
-   "mediana": 4000
-  },
-  "ratio_mercado": 0.855,
-  "motivo": "precio normal (86 % del cuartil bajo de 79830RB)"
- },
- {
-  "fecha": "2026-10-31T18:25:12.858135+00:00",
-  "marca": "Rolex",
-  "titulo": "NEW 2026 Rolex Submariner Date 41mm Stainless Steel Black Ceramic 126610LN Watch",
-  "total": 15395.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/168829093999",
-  "item_id": "v1|168829093999|0",
-  "referencia": "126610LN",
-  "mercado": {
-   "n": 32,
-   "p25": 15995,
-   "mediana": 16398
-  },
-  "ratio_mercado": 0.962,
-  "motivo": "precio normal (96 % del cuartil bajo de 126610LN)"
- },
- {
   "fecha": "2026-10-31T18:40:13.521149+00:00",
   "marca": "Rolex",
   "titulo": "Rolex GMT-Master 16758 Yellow Gold, 1978–1979",
@@ -10978,5 +10910,73 @@
   },
   "ratio_mercado": 1.023,
   "motivo": "precio normal (102 % del cuartil bajo de 6619)"
+ },
+ {
+  "fecha": "2026-11-03T22:42:59.922262+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Date 34 mm Two Tone White Roman Oyster Automatic Watch 15053 Circa 1984",
+  "total": 5700.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147665048873",
+  "item_id": "v1|147665048873|0",
+  "referencia": "15053",
+  "mercado": {
+   "n": 19,
+   "p25": 5750,
+   "mediana": 5984
+  },
+  "ratio_mercado": 0.991,
+  "motivo": "precio normal (99 % del cuartil bajo de 15053)"
+ },
+ {
+  "fecha": "2026-11-03T22:42:59.922262+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier 2.21 Carats Total Pavé Diamond and Emerald Panthere 1925 Watch 18K Gold",
+  "total": 36030.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128173506746",
+  "item_id": "v1|128173506746|0",
+  "triage": {
+   "modelo": "Cartier Panthère 1925 con pavé de diamantes y ojos de esmeralda, oro 18K (línea Panthère Joaillerie)",
+   "referencia": null,
+   "precio_justo_usd": 34000,
+   "interesante": false,
+   "nota": "Precio pedido ~6% sobre el estimado conservador; no está 15% por debajo del mercado. El título tiene palabras clave repetidas y no indica referencia, así que conviene verificar autenticidad y piedras antes de comprar."
+  },
+  "motivo": "triage: Precio pedido ~6% sobre el estimado conservador; no está 15% por debajo del mercado. El título tiene palabras clave repetidas y no indica referencia, así que conviene verificar autenticidad y piedras antes de comprar. (justo 34000)"
+ },
+ {
+  "fecha": "2026-11-03T22:42:59.922262+00:00",
+  "marca": "Tudor",
+  "titulo": "Mint Unpolished 2021 Tudor Black Bay Chrono Panda 79360N 41MM White Steel B/p",
+  "total": 4550.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117502862522",
+  "item_id": "v1|117502862522|0",
+  "referencia": "79360N",
+  "mercado": {
+   "n": 58,
+   "p25": 4675,
+   "mediana": 5339
+  },
+  "ratio_mercado": 0.973,
+  "motivo": "precio normal (97 % del cuartil bajo de 79360N)"
+ },
+ {
+  "fecha": "2026-11-03T22:42:59.922262+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 Blue 79030B 39mm 2023 Full Set Box Papers Bracelet Unpolished",
+  "total": 3800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147665053023",
+  "item_id": "v1|147665053023|0",
+  "referencia": "79030B",
+  "mercado": {
+   "n": 14,
+   "p25": 3495,
+   "mediana": 3532
+  },
+  "ratio_mercado": 1.087,
+  "motivo": "precio normal (109 % del cuartil bajo de 79030B)"
  }
 ]
