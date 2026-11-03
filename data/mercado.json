@@ -1250,13 +1250,13 @@
   "n": 0
  },
  "Rolex 116900|usado": {
-  "fecha": "2026-11-01",
+  "fecha": "2026-11-03",
   "consulta": "Rolex 116900",
-  "n": 30,
-  "mediana": 8584,
-  "p25": 8199,
+  "n": 29,
+  "mediana": 8569,
+  "p25": 8145,
   "p75": 9550,
-  "min": 7419,
+  "min": 7850,
   "max": 15995
  },
  "Rolex 124300|usado": {
@@ -7835,14 +7835,14 @@
   "max": 4990
  },
  "Tudor M79680|nuevo": {
-  "fecha": "2026-10-30",
+  "fecha": "2026-11-03",
   "consulta": "Tudor M79680",
-  "n": 1,
-  "mediana": 4695,
-  "p25": 4695,
-  "p75": 4695,
-  "min": 4695,
-  "max": 4695
+  "n": 2,
+  "mediana": 4528,
+  "p25": 4460,
+  "p75": 4595,
+  "min": 4460,
+  "max": 4595
  },
  "Tudor M25717N|usado": {
   "fecha": "2026-10-26",
@@ -18557,6 +18557,11 @@
  "Tudor 42197|usado": {
   "fecha": "2026-11-03",
   "consulta": "Tudor 42197",
+  "n": 0
+ },
+ "Tudor M79230DK|nuevo": {
+  "fecha": "2026-11-03",
+  "consulta": "Tudor M79230DK",
   "n": 0
  }
 }

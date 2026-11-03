@@ -1,120 +1,5 @@
 [
  {
-  "fecha": "2026-10-30T23:39:39.894128+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Pro Ref. M79470-0001 Case #737",
-  "total": 2995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128165204874",
-  "item_id": "v1|128165204874|0",
-  "referencia": "M79470-0001",
-  "mercado": {
-   "n": 8,
-   "p25": 3799,
-   "mediana": 4047
-  },
-  "ratio_mercado": 0.788,
-  "claude": {
-   "veredicto": "alerta",
-   "precio_justo_usd": 3500,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Usado en buen estado: desgaste moderado en caja y brazalete, 3 golpes en el bisel, pequeña picadura en el cristal"
-  },
-  "ratio_justo": 0.856,
-  "motivo": "precio normal segun revision (86 % del justo 3500)"
- },
- {
-  "fecha": "2026-10-30T23:54:40.291118+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX YACHT-MASTER II 116681 TWO-TONE 18KT ROSE GOLD & STEEL MERCEDES HAND 44MM",
-  "total": 20499.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137888284330",
-  "item_id": "v1|137888284330|0",
-  "referencia": "116681",
-  "mercado": {
-   "n": 32,
-   "p25": 21575,
-   "mediana": 23003
-  },
-  "ratio_mercado": 0.95,
-  "motivo": "precio normal (95 % del cuartil bajo de 116681)"
- },
- {
-  "fecha": "2026-10-30T23:54:40.291118+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay 79830RB",
-  "total": 3348.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168827529349",
-  "item_id": "v1|168827529349|0",
-  "referencia": "79830RB",
-  "mercado": {
-   "n": 45,
-   "p25": 3800,
-   "mediana": 4000
-  },
-  "ratio_mercado": 0.881,
-  "motivo": "precio normal (88 % del cuartil bajo de 79830RB)"
- },
- {
-  "fecha": "2026-10-31T00:09:40.320886+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date 14kt Yellow Gold Chevy-Pontiac Award Wristwatch",
-  "total": 1220.0,
-  "condicion": "New with box and papers",
-  "url": "https://goldin.co",
-  "item_id": "v1|366772500452|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date 14k oro amarillo (brazalete Jubilee, esfera champán, versión premio Chevy-Pontiac)",
-   "referencia": "15208 o similar (no confirmada desde la foto)",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Precio muy bajo para oro 14k, pero el listado dice 'nuevo con caja y papeles', lo que no encaja con una pieza de premio antigua. Hay que verificar condición, autenticidad y documentación antes de considerarlo."
-  },
-  "motivo": "triage: Precio muy bajo para oro 14k, pero el listado dice 'nuevo con caja y papeles', lo que no encaja con una pieza de premio antigua. Hay que verificar condición, autenticidad y documentación antes de considerarlo. (justo 4000)"
- },
- {
-  "fecha": "2026-10-31T00:09:40.320886+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu WSBB0015 - Box and Papers",
-  "total": 4850.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168827543128",
-  "item_id": "v1|168827543128|0",
-  "referencia": "WSBB0015",
-  "mercado": {
-   "n": 1,
-   "p25": 5296,
-   "mediana": 5296
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 42 mm, caja de acero con PVD negro, esfera negra y correa de piel negra",
-   "referencia": "WSBB0015",
-   "precio_justo_usd": 5500,
-   "interesante": false,
-   "nota": "El precio pedido está unos 12 % por debajo de la estimación conservadora de venta real con caja y papeles; no alcanza el umbral del 15 %."
-  },
-  "motivo": "triage: El precio pedido está unos 12 % por debajo de la estimación conservadora de venta real con caja y papeles; no alcanza el umbral del 15 %. (justo 5500)"
- },
- {
-  "fecha": "2026-10-31T00:09:40.320886+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 58 79030B-0001 Pre-owned Box & Papers",
-  "total": 3160.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137888312005",
-  "item_id": "v1|137888312005|0",
-  "referencia": "79030B-0001",
-  "mercado": {
-   "n": 14,
-   "p25": 3495,
-   "mediana": 3595
-  },
-  "ratio_mercado": 0.904,
-  "motivo": "precio normal (90 % del cuartil bajo de 79030B-0001)"
- },
- {
   "fecha": "2026-10-31T00:24:39.632419+00:00",
   "marca": "Rolex",
   "titulo": "2026 Rolex GMT-Master II \"Bruce Wayne\" 126710GRNR —Oyster, Unworn, October 2026",
@@ -11034,5 +10919,119 @@
   },
   "ratio_mercado": 1.022,
   "motivo": "precio normal (102 % del cuartil bajo de 126234)"
+ },
+ {
+  "fecha": "2026-11-03T20:27:49.599359+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex Datejust 41 126333 White Roman Two tone Unworn Complete Set",
+  "total": 21750.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/327437883908",
+  "item_id": "v1|327437883908|0",
+  "referencia": "126333",
+  "mercado": {
+   "n": 38,
+   "p25": 19069,
+   "mediana": 20201
+  },
+  "ratio_mercado": 1.141,
+  "motivo": "precio normal (114 % del cuartil bajo de 126333)"
+ },
+ {
+  "fecha": "2026-11-03T20:27:49.599359+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Air-King \"2021\" 116900",
+  "total": 8633.44,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237161439978",
+  "item_id": "v1|237161439978|0",
+  "referencia": "116900",
+  "mercado": {
+   "n": 29,
+   "p25": 8145,
+   "mediana": 8569
+  },
+  "ratio_mercado": 1.06,
+  "motivo": "precio normal (106 % del cuartil bajo de 116900)"
+ },
+ {
+  "fecha": "2026-11-03T20:27:49.599359+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Champagne Index 2-tone Yellow Gold/Steel Jubilee 31mm Papers/Tag",
+  "total": 8390.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257832853667",
+  "item_id": "v1|257832853667|0",
+  "triage": {
+   "modelo": "Rolex Datejust 31 bicolor acero/oro amarillo, bisel acanalado, esfera champagne con índices, brazalete Jubilee",
+   "referencia": "68273 (posible 78273 según generación)",
+   "precio_justo_usd": 6800,
+   "interesante": false,
+   "nota": "Precio pedido de US$8.390 está bastante por encima del mercado de cerrados para esta referencia en estado excelente con papeles; no cumple el umbral de compra."
+  },
+  "motivo": "triage: Precio pedido de US$8.390 está bastante por encima del mercado de cerrados para esta referencia en estado excelente con papeles; no cumple el umbral de compra. (justo 6800)"
+ },
+ {
+  "fecha": "2026-11-03T20:27:49.599359+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex Datejust 41mm Wimbledon Two-Tone Yellow Gold Fluted Jubilee 126333",
+  "total": 21690.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/227596251230",
+  "item_id": "v1|227596251230|0",
+  "referencia": "126333",
+  "mercado": {
+   "n": 38,
+   "p25": 19069,
+   "mediana": 20201
+  },
+  "ratio_mercado": 1.137,
+  "motivo": "precio normal (114 % del cuartil bajo de 126333)"
+ },
+ {
+  "fecha": "2026-11-03T20:27:49.599359+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay One 41mm Stainless Steel Men's Watch M79680-0001",
+  "total": 4775.0,
+  "condicion": "New with imperfections",
+  "url": "https://www.ebay.com/itm/227596276751",
+  "item_id": "v1|227596276751|0",
+  "referencia": "M79680-0001",
+  "mercado": {
+   "n": 2,
+   "p25": 4460,
+   "mediana": 4528
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay One 41mm (acero, esfera negra, brazalete Jubilee)",
+   "referencia": "M79680-0001",
+   "precio_justo_usd": 3700,
+   "interesante": false,
+   "nota": "Precio pedido por encima del retail y del mercado gris de un modelo nuevo; condición 'con imperfecciones' no justifica el sobreprecio."
+  },
+  "motivo": "triage: Precio pedido por encima del retail y del mercado gris de un modelo nuevo; condición 'con imperfecciones' no justifica el sobreprecio. (justo 3700)"
+ },
+ {
+  "fecha": "2026-11-03T20:27:49.599359+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Geneve 41mm Heritage Black Bay Dark Automatic Men's Watch M79230DK-0008",
+  "total": 4525.0,
+  "condicion": "New with imperfections",
+  "url": "https://www.ebay.com/itm/327437881146",
+  "item_id": "v1|327437881146|0",
+  "referencia": "M79230DK-0008",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay Dark 41 mm (acero con PVD negro)",
+   "referencia": "M79230DK",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio pedido de US$4525 (con envío) muy por encima del valor de mercado para esta referencia en condición nueva con imperfecciones."
+  },
+  "motivo": "triage: Precio pedido de US$4525 (con envío) muy por encima del valor de mercado para esta referencia en condición nueva con imperfecciones. (justo 3300)"
  }
 ]
