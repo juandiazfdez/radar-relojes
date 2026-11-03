@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-10-30T17:54:26.712787+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos 100 2656 W20073X8 Steel Mid-Size 38MM Men's Automatic Watch",
-  "total": 4935.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206663929866",
-  "item_id": "v1|206663929866|0",
-  "referencia": "2656",
-  "mercado": {
-   "n": 27,
-   "p25": 5400,
-   "mediana": 5705
-  },
-  "ratio_mercado": 0.914,
-  "motivo": "precio normal (91 % del cuartil bajo de 2656)"
- },
- {
-  "fecha": "2026-10-30T17:54:26.712787+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay 58 \"2021 - Never Polished\" 79030B",
   "total": 4020.74,
@@ -11093,5 +11076,22 @@
    "nota": "Precio cercano al mercado secundario para acero azul, pero sin ahorro de al menos 15%; verificar referencia, papeles y autenticidad."
   },
   "motivo": "triage: Precio cercano al mercado secundario para acero azul, pero sin ahorro de al menos 15%; verificar referencia, papeles y autenticidad. (justo 8800)"
+ },
+ {
+  "fecha": "2026-11-03T13:42:35.767012+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay GMT \"Pepsi\"  M79830RB-0001",
+  "total": 3549.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407336430605",
+  "item_id": "v1|407336430605|0",
+  "referencia": "M79830RB-0001",
+  "mercado": {
+   "n": 18,
+   "p25": 4000,
+   "mediana": 4240
+  },
+  "ratio_mercado": 0.887,
+  "motivo": "precio normal (89 % del cuartil bajo de M79830RB-0001)"
  }
 ]
