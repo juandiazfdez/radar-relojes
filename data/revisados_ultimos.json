@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-10-31T17:55:13.141352+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Anglaise Steel Rose Gold Auto Rectangle Watch 47mm x 36mm W5310006",
-  "total": 6950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900054386844",
-  "item_id": "v1|900054386844|0",
-  "referencia": "W5310006",
-  "mercado": {
-   "n": 8,
-   "p25": 4800,
-   "mediana": 5472
-  },
-  "ratio_mercado": 1.448,
-  "motivo": "precio normal (145 % del cuartil bajo de W5310006)"
- },
- {
   "fecha": "2026-10-31T18:10:13.107933+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual Datejust 36mm Stainless Steel Watch Eb0926rxxzsa",
@@ -10978,5 +10961,22 @@
    "nota": "Solo se ve la cabeza y un brazalete suelto, y el logo y la esfera no son legibles, así que la autenticidad y si las piezas son originales no se pueden verificar. Si fuera un 6234 genuino en buen estado, el valor sería mucho mayor, pero como cabeza incompleta con dudas de autenticidad no se puede confiar en esa cifra."
   },
   "motivo": "triage: Solo se ve la cabeza y un brazalete suelto, y el logo y la esfera no son legibles, así que la autenticidad y si las piezas son originales no se pueden verificar. Si fuera un 6234 genuino en buen estado, el valor sería mucho mayor, pero como cabeza incompleta con dudas de autenticidad no se puede confiar en esa cifra. (justo 40000)"
+ },
+ {
+  "fecha": "2026-11-03T22:28:00.059793+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Ladies 26mm Blue Turquoise Two Tone Watch 6619 Circa 1967",
+  "total": 3990.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407337745357",
+  "item_id": "v1|407337745357|0",
+  "referencia": "6619",
+  "mercado": {
+   "n": 10,
+   "p25": 3900,
+   "mediana": 4295
+  },
+  "ratio_mercado": 1.023,
+  "motivo": "precio normal (102 % del cuartil bajo de 6619)"
  }
 ]
