@@ -1,73 +1,5 @@
 [
  {
-  "fecha": "2026-10-31T02:24:52.147202+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Royal Cal. 710 Reference # 4444 1950'S Unisex",
-  "total": 1325.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198758829321",
-  "item_id": "v1|198758829321|0",
-  "triage": {
-   "modelo": "Rolex Oyster Royal (vintage, años 1950, esfera crema con índices arábigos)",
-   "referencia": "4444 (según título, no verificable en la imagen)",
-   "precio_justo_usd": 1550,
-   "interesante": false,
-   "nota": "Precio cercano al mercado, pero la foto no permite confirmar la referencia, el calibre ni la autenticidad de la esfera; requiere verificación presencial antes de comprar."
-  },
-  "motivo": "triage: Precio cercano al mercado, pero la foto no permite confirmar la referencia, el calibre ni la autenticidad de la esfera; requiere verificación presencial antes de comprar. (justo 1550)"
- },
- {
-  "fecha": "2026-10-31T02:24:52.147202+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Explorer 1, 36mm, REF 114270, Fully Serviced in 2026",
-  "total": 6500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287693314232",
-  "item_id": "v1|287693314232|0",
-  "referencia": "114270",
-  "mercado": {
-   "n": 9,
-   "p25": 6962,
-   "mediana": 7250
-  },
-  "ratio_mercado": 0.934,
-  "motivo": "precio normal (93 % del cuartil bajo de 114270)"
- },
- {
-  "fecha": "2026-10-31T02:24:52.147202+00:00",
-  "marca": "Cartier",
-  "titulo": "1990s Cartier Panthere Jumbo Ref. 1300 Stainless Steel 29mm",
-  "total": 5550.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307257956650",
-  "item_id": "v1|307257956650|0",
-  "referencia": "1300",
-  "mercado": {
-   "n": 5,
-   "p25": 4500,
-   "mediana": 4750
-  },
-  "ratio_mercado": 1.233,
-  "motivo": "precio normal (123 % del cuartil bajo de 1300)"
- },
- {
-  "fecha": "2026-10-31T02:39:51.573578+00:00",
-  "marca": "Rolex",
-  "titulo": "1981 Rolex Air-King 5500 34mm Stainless Steel Automatic Vintage Watch With Box",
-  "total": 3950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940053676824",
-  "item_id": "v1|940053676824|0",
-  "referencia": "5500",
-  "mercado": {
-   "n": 25,
-   "p25": 4000,
-   "mediana": 4450
-  },
-  "ratio_mercado": 0.988,
-  "motivo": "precio normal (99 % del cuartil bajo de 5500)"
- },
- {
   "fecha": "2026-10-31T02:39:51.573578+00:00",
   "marca": "Tudor",
   "titulo": "2026 Tudor Black Bay One S&G 41mm Stainless Steel/Yellow Gold M79683-0008",
@@ -11033,5 +10965,85 @@
    "nota": "Ref. 92413 de 25 mm en acero y oro amarillo; el título dice 'Prince' pero es Princess. Precio pedido por encima de la estimación de venta real."
   },
   "motivo": "triage: Ref. 92413 de 25 mm en acero y oro amarillo; el título dice 'Prince' pero es Princess. Precio pedido por encima de la estimación de venta real. (justo 1600)"
+ },
+ {
+  "fecha": "2026-11-03T20:57:50.673434+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex",
+  "total": 2650.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287702689665",
+  "item_id": "v1|287702689665|0",
+  "triage": {
+   "modelo": "Posible Rolex bicolor de dama (no identificable con certeza en la foto)",
+   "referencia": null,
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "El título no indica referencia y la foto no permite confirmar modelo, año ni autenticidad; pedir referencia, número de serie y papeles antes de valorar."
+  },
+  "motivo": "triage: El título no indica referencia y la foto no permite confirmar modelo, año ni autenticidad; pedir referencia, número de serie y papeles antes de valorar. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-03T20:57:50.673434+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Skydweller Blue SS Jubilee 326934 Jubilee 2023",
+  "total": 23575.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940063258541",
+  "item_id": "v1|940063258541|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller, esfera azul, bisel acanalado, pulsera Jubilee, acero y oro blanco",
+   "referencia": "326934",
+   "precio_justo_usd": 26000,
+   "interesante": false,
+   "nota": "Precio pedido ~9% bajo la estimación conservadora de venta real; no alcanza el umbral del 15%. Verificar autenticidad, caja y papeles."
+  },
+  "motivo": "triage: Precio pedido ~9% bajo la estimación conservadora de venta real; no alcanza el umbral del 15%. Verificar autenticidad, caja y papeles. (justo 26000)"
+ },
+ {
+  "fecha": "2026-11-03T20:57:50.673434+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay GMT 41mm Stainless Steel Men's Watch M79830RB-0010",
+  "total": 5175.0,
+  "condicion": "New with imperfections",
+  "url": "https://www.ebay.com/itm/327437909268",
+  "item_id": "v1|327437909268|0",
+  "referencia": "M79830RB-0010",
+  "mercado": {
+   "n": 4,
+   "p25": 4129,
+   "mediana": 4199
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay GMT 41mm acero, bisel Pepsi azul/rojo, esfera blanca",
+   "referencia": "M79830RB-0010",
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "Precio pedido de US$5175 por un modelo nuevo con imperfecciones, por encima del retail y del mercado gris. La esfera blanca de la foto no coincide con la versión que suele asociarse a esta referencia, así que conviene verificar el listado."
+  },
+  "motivo": "triage: Precio pedido de US$5175 por un modelo nuevo con imperfecciones, por encima del retail y del mercado gris. La esfera blanca de la foto no coincide con la versión que suele asociarse a esta referencia, así que conviene verificar el listado. (justo 3900)"
+ },
+ {
+  "fecha": "2026-11-03T20:57:50.673434+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor 1926 39mm Stainless Steel Men's Watch M91550-0005",
+  "total": 2475.0,
+  "condicion": "New with imperfections",
+  "url": "https://www.ebay.com/itm/227596325988",
+  "item_id": "v1|227596325988|0",
+  "referencia": "M91550-0005",
+  "mercado": {
+   "n": 1,
+   "p25": 2560,
+   "mediana": 2560
+  },
+  "triage": {
+   "modelo": "Tudor 1926 39mm, acero, esfera blanca con numerales arábigos, automático",
+   "referencia": "M91550-0005",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Precio cercano al mercado gris para un 1926 nuevo; la condición 'with imperfections' no justifica un descuento mayor de 15 %. La imagen es pequeña, así que la referencia es la del título."
+  },
+  "motivo": "triage: Precio cercano al mercado gris para un 1926 nuevo; la condición 'with imperfections' no justifica un descuento mayor de 15 %. La imagen es pequeña, así que la referencia es la del título. (justo 2600)"
  }
 ]
