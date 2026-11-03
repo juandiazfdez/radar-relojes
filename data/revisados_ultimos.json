@@ -1,73 +1,5 @@
 [
  {
-  "fecha": "2026-10-30T19:09:26.631914+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise Quartz Watch Stainless Steel with Diamond Markers 20",
-  "total": 6265.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117495062060",
-  "item_id": "v1|117495062060|0",
-  "triage": {
-   "modelo": "Cartier Tank Française de cuarzo, acero, esfera plateada con numerales romanos (talla pequeña/mediana)",
-   "referencia": "2384 (probable, no verificable en la foto)",
-   "precio_justo_usd": 1600,
-   "interesante": false,
-   "nota": "El título menciona marcadores de diamante, que no se ven en la foto. Precio pedido de US$6,265 muy por encima del mercado para este modelo de acero usado."
-  },
-  "motivo": "triage: El título menciona marcadores de diamante, que no se ven en la foto. Precio pedido de US$6,265 muy por encima del mercado para este modelo de acero usado. (justo 1600)"
- },
- {
-  "fecha": "2026-10-30T19:09:26.631914+00:00",
-  "marca": "Tudor",
-  "titulo": "2024 Tudor Black Bay Chrono 79360 B Blue Stainless Steel 41mm Watch Box Papers",
-  "total": 5492.01,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940052892467",
-  "item_id": "v1|940052892467|0",
-  "referencia": "79360",
-  "mercado": {
-   "n": 82,
-   "p25": 4950,
-   "mediana": 5558
-  },
-  "ratio_mercado": 1.109,
-  "motivo": "precio normal (111 % del cuartil bajo de 79360)"
- },
- {
-  "fecha": "2026-10-30T19:24:26.915519+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner No Date 114060",
-  "total": 10471.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237153189419",
-  "item_id": "v1|237153189419|0",
-  "referencia": "114060",
-  "mercado": {
-   "n": 42,
-   "p25": 11612,
-   "mediana": 12969
-  },
-  "ratio_mercado": 0.902,
-  "motivo": "precio normal (90 % del cuartil bajo de 114060)"
- },
- {
-  "fecha": "2026-10-30T19:24:26.915519+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Men’s Watch 36mm Datejust 16013 18k/stainless",
-  "total": 5801.95,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840075911929",
-  "item_id": "v1|840075911929|0",
-  "referencia": "16013",
-  "mercado": {
-   "n": 21,
-   "p25": 1815,
-   "mediana": 4700
-  },
-  "ratio_mercado": 3.197,
-  "motivo": "precio normal (320 % del cuartil bajo de 16013)"
- },
- {
   "fecha": "2026-10-30T19:24:26.915519+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual 34mm Midsize Diamond Pearl Steel Iced Out Watch ",
@@ -11056,5 +10988,73 @@
    "nota": "Precio pedido de US$4770 supera el valor de venta cerrada estimado para un Santos-Dumont de acero usado con caja y papeles; no hay descuento suficiente."
   },
   "motivo": "triage: Precio pedido de US$4770 supera el valor de venta cerrada estimado para un Santos-Dumont de acero usado con caja y papeles; no hay descuento suficiente. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-03T15:42:35.869803+00:00",
+  "marca": "Rolex",
+  "titulo": "2024 Rolex GMT-Master II 126710 BLNR Batgirl Blue Jubilee 40mm Watch Box Papers",
+  "total": 19823.79,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267832165421",
+  "item_id": "v1|267832165421|0",
+  "referencia": "126710",
+  "mercado": {
+   "n": 27,
+   "p25": 17220,
+   "mediana": 17900
+  },
+  "ratio_mercado": 1.151,
+  "motivo": "precio normal (115 % del cuartil bajo de 126710)"
+ },
+ {
+  "fecha": "2026-11-03T15:42:35.869803+00:00",
+  "marca": "Rolex",
+  "titulo": "1988 Rolex DateJust 16233 Champagne Diamond 18K Gold Jubilee 36mm Watch Box",
+  "total": 7328.84,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267832161559",
+  "item_id": "v1|267832161559|0",
+  "referencia": "16233",
+  "mercado": {
+   "n": 29,
+   "p25": 5399,
+   "mediana": 6095
+  },
+  "ratio_mercado": 1.357,
+  "motivo": "precio normal (136 % del cuartil bajo de 16233)"
+ },
+ {
+  "fecha": "2026-11-03T15:42:35.869803+00:00",
+  "marca": "Rolex",
+  "titulo": "2015 PAPERS Rolex Daytona Cosmograph BLACK Sundust 40mm 18K Rose Gold 116505 BOX",
+  "total": 42323.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267832163774",
+  "item_id": "v1|267832163774|0",
+  "referencia": "116505",
+  "mercado": {
+   "n": 35,
+   "p25": 48750,
+   "mediana": 52632
+  },
+  "ratio_mercado": 0.868,
+  "motivo": "precio normal (87 % del cuartil bajo de 116505)"
+ },
+ {
+  "fecha": "2026-11-03T15:42:35.869803+00:00",
+  "marca": "Cartier",
+  "titulo": "NEW Cartier Panthere Quartz Stainless Steel Silver (medium) ",
+  "total": 5100.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/137898486966",
+  "item_id": "v1|137898486966|0",
+  "triage": {
+   "modelo": "Cartier Panthère de acero, cuarzo, esfera plateada (talla mediana)",
+   "referencia": "W25033P5 (probable, no confirmable en la imagen)",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "Precio pedido de US$5100 está cerca del retail y no muestra descuento suficiente frente al mercado gris para un modelo nuevo con caja y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$5100 está cerca del retail y no muestra descuento suficiente frente al mercado gris para un modelo nuevo con caja y papeles. (justo 4300)"
  }
 ]
