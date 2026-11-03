@@ -2,29 +2,6 @@
  {
   "fecha": "2026-10-30T17:39:26.691543+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Diabolo 30.5mm W1507651 18K Yellow Gold Women's Watch",
-  "total": 13690.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840075586047",
-  "item_id": "v1|840075586047|0",
-  "referencia": "W1507651",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Diabolo de Cartier, 30.5 mm, oro amarillo 18K, esfera plateada, correa de piel de cocodrilo negra",
-   "referencia": "W1507651",
-   "precio_justo_usd": 5500,
-   "interesante": false,
-   "nota": "Precio pedido muy superior al de venta real de esta referencia en oro 18K de uso; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido muy superior al de venta real de esta referencia en oro 18K de uso; no es una oportunidad. (justo 5500)"
- },
- {
-  "fecha": "2026-10-30T17:39:26.691543+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Tank Americaine 34.8x19mm WB707931 18K Yellow Gold Unisex Watch",
   "total": 12454.0,
   "condicion": "Pre-owned - Good",
@@ -11142,5 +11119,22 @@
    "nota": "El título dice 'Fake Rolex' y el precio ($506) es imposible para un Rolex verde genuino; casi seguro es réplica o listado engañoso."
   },
   "motivo": "triage: El título dice 'Fake Rolex' y el precio ($506) es imposible para un Rolex verde genuino; casi seguro es réplica o listado engañoso. (justo 0)"
+ },
+ {
+  "fecha": "2026-11-03T04:27:11.914089+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Silver Men's Watch - 16014",
+  "total": 4861.3,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800869670417",
+  "item_id": "v1|800869670417|0",
+  "referencia": "16014",
+  "mercado": {
+   "n": 13,
+   "p25": 4550,
+   "mediana": 5099
+  },
+  "ratio_mercado": 1.068,
+  "motivo": "precio normal (107 % del cuartil bajo de 16014)"
  }
 ]
