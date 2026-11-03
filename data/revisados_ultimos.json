@@ -1,53 +1,6 @@
 [
  {
   "fecha": "2026-10-30T20:39:40.141576+00:00",
-  "marca": "Rolex",
-  "titulo": "2025 Rolex Submariner Date 41mm 126610LN Full Set ",
-  "total": 14249.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940053024844",
-  "item_id": "v1|940053024844|0",
-  "referencia": "126610LN",
-  "mercado": {
-   "n": 79,
-   "p25": 14499,
-   "mediana": 14995
-  },
-  "ratio_mercado": 0.983,
-  "motivo": "precio normal (98 % del cuartil bajo de 126610LN)"
- },
- {
-  "fecha": "2026-10-30T20:39:40.141576+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 42mm Auto W69012Z4 7.5” Bracelet",
-  "total": 3449.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840076064479",
-  "item_id": "v1|840076064479|0",
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 42mm automático, acero, esfera plateada con numerales romanos, brazalete",
-   "referencia": "W69012Z4",
-   "precio_justo_usd": 4300,
-   "interesante": true,
-   "nota": "Precio ~20% bajo el valor de mercado usado; verificar autenticidad, caja, papeles y estado del movimiento antes de comprar."
-  },
-  "referencia": "W69012Z4",
-  "mercado": {
-   "n": 28,
-   "p25": 4995,
-   "mediana": 5762
-  },
-  "claude": {
-   "veredicto": "alerta",
-   "precio_justo_usd": 4000,
-   "riesgo_autenticidad": "medio",
-   "estado": "Muy buen estado aparente, con caja interior dañada, sin papeles"
-  },
-  "ratio_justo": 0.862,
-  "motivo": "precio normal segun revision (86 % del justo 4000)"
- },
- {
-  "fecha": "2026-10-30T20:39:40.141576+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Pelagos \"2021\" 25600TN",
   "total": 4348.34,
@@ -11039,5 +10992,45 @@
   },
   "ratio_mercado": 1.057,
   "motivo": "precio normal (106 % del cuartil bajo de 6694)"
+ },
+ {
+  "fecha": "2026-11-03T17:42:51.989310+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex 1950’s Pre-Explorer 6098 36mm Case Automatic Men’s Watch Cal A296",
+  "total": 3958.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137898835526",
+  "item_id": "v1|137898835526|0",
+  "referencia": "6098",
+  "mercado": {
+   "n": 2,
+   "p25": 5570,
+   "mediana": 7535
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Precision/Pre-Explorer, caja de acero de 36 mm, esfera crema (años 1950)",
+   "referencia": "6098",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Referencia 6098 de los años 50 en estado Good; el precio pedido está cerca del valor de mercado y no hay descuento de al menos 15 %. La esfera y el estado real deben verificarse en fotos detalladas."
+  },
+  "motivo": "triage: Referencia 6098 de los años 50 en estado Good; el precio pedido está cerca del valor de mercado y no hay descuento de al menos 15 %. La esfera y el estado real deben verificarse en fotos detalladas. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-03T17:42:51.989310+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthère Vendome 24 mm Diamond Quartz 18K Yellow Gold WF5032FF 66925",
+  "total": 28200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960149860975",
+  "item_id": "v1|960149860975|0",
+  "triage": {
+   "modelo": "Cartier Panthère Vendôme (quartz, oro amarillo 18K, bisel y brazalete pavé de diamantes)",
+   "referencia": "WF5032FF (según título; no verificable en la imagen)",
+   "precio_justo_usd": 12000,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de mercado estimado (oro + diamantes + estado Good); verificar referencia y autenticidad."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de mercado estimado (oro + diamantes + estado Good); verificar referencia y autenticidad. (justo 12000)"
  }
 ]
