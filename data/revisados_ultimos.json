@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-10-30T17:39:26.691543+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Solo Ladies 24.4 x 31mm WSTA0030 Stainless Steel Wristwatch",
-  "total": 3149.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137887483333",
-  "item_id": "v1|137887483333|0",
-  "referencia": "WSTA0030",
-  "mercado": {
-   "n": 2,
-   "p25": 2995,
-   "mediana": 3140
-  },
-  "triage": {
-   "modelo": "Cartier Tank Solo (mediano, cuarzo, acero, esfera blanca con números romanos, correa de cuero negro)",
-   "referencia": "WSTA0030",
-   "precio_justo_usd": 2400,
-   "interesante": false,
-   "nota": "Precio pedido de US$3149 por encima del valor de venta secundaria estimado para un WSTA0030 usado en buen estado; retail actual está en torno a US$3.300-3.400 y el mercado usado suele cerrar bastante por debajo."
-  },
-  "motivo": "triage: Precio pedido de US$3149 por encima del valor de venta secundaria estimado para un WSTA0030 usado en buen estado; retail actual está en torno a US$3.300-3.400 y el mercado usado suele cerrar bastante por debajo. (justo 2400)"
- },
- {
   "fecha": "2026-10-30T17:54:26.712787+00:00",
   "marca": "Rolex",
   "titulo": "Wilsdorf & Davis (Rolex) Vintage Pre-1920 Women's Watch. 9KT Solid Gold.",
@@ -11112,5 +11089,22 @@
   },
   "ratio_mercado": 1.222,
   "motivo": "precio normal (122 % del cuartil bajo de 79360N)"
+ },
+ {
+  "fecha": "2026-11-03T08:27:21.188106+00:00",
+  "marca": "Rolex",
+  "titulo": "Rare 30's Rolex 1st Model Oyster Perpetual Chronometer Bubbleback Solid 18K Gold",
+  "total": 17575.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880078185151",
+  "item_id": "v1|880078185151|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Bubbleback (años 30), caja de oro 18k, esfera negra con numerales arábigos y subesfera de segundos",
+   "referencia": "null (posiblemente 2444 o 2445, no verificable en la foto)",
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "Precio pedido por encima de lo que suele cerrarse para un bubbleback de oro en condición Good; la autenticidad y originalidad de la esfera no pueden confirmarse solo con la foto."
+  },
+  "motivo": "triage: Precio pedido por encima de lo que suele cerrarse para un bubbleback de oro en condición Good; la autenticidad y originalidad de la esfera no pueden confirmarse solo con la foto. (justo 14000)"
  }
 ]
