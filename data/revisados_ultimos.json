@@ -1,57 +1,6 @@
 [
  {
   "fecha": "2026-10-31T19:10:13.253262+00:00",
-  "marca": "Rolex",
-  "titulo": "$35,000 ROLEX DATEJUST PRESIDENT 3ct Diamond Ladies 18k Yellow Gold Watch 69173",
-  "total": 11959.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237154674977",
-  "item_id": "v1|237154674977|0",
-  "referencia": "69173",
-  "mercado": {
-   "n": 24,
-   "p25": 4257,
-   "mediana": 4450
-  },
-  "ratio_mercado": 2.809,
-  "motivo": "precio normal (281 % del cuartil bajo de 69173)"
- },
- {
-  "fecha": "2026-10-31T19:10:13.253262+00:00",
-  "marca": "Rolex",
-  "titulo": "$14,000 16013 3ct VS H Diamond RUBY ROLEX DATEJUST MENS 14k Yellow Gold SS Watch",
-  "total": 5759.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307259148568",
-  "item_id": "v1|307259148568|0",
-  "referencia": "16013",
-  "mercado": {
-   "n": 22,
-   "p25": 1815,
-   "mediana": 4700
-  },
-  "ratio_mercado": 3.173,
-  "motivo": "precio normal (317 % del cuartil bajo de 16013)"
- },
- {
-  "fecha": "2026-10-31T19:10:13.253262+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II Bruce Wayne on Jubilee 126710GRNR 2026",
-  "total": 23900.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/287694948151",
-  "item_id": "v1|287694948151|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 62,
-   "p25": 21800,
-   "mediana": 22990
-  },
-  "ratio_mercado": 1.096,
-  "motivo": "precio normal (110 % del cuartil bajo de 126710GRNR)"
- },
- {
-  "fecha": "2026-10-31T19:10:13.253262+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Panthère 18K Yellow Gold Quartz Watch 22mm Ref. 86691 Serviced Warranty",
   "total": 20345.0,
@@ -10984,5 +10933,62 @@
    "nota": "Must 21 bicolor de cuarzo en estado usado; el precio pedido de US$1955 queda muy por encima de su valor de venta real."
   },
   "motivo": "triage: Must 21 bicolor de cuarzo en estado usado; el precio pedido de US$1955 queda muy por encima de su valor de venta real. (justo 1100)"
+ },
+ {
+  "fecha": "2026-11-03T23:13:00.677426+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Datejust Ref. 1601–Two-Tone 18K Gold & Steel– c.1968",
+  "total": 8600.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840090064188",
+  "item_id": "v1|840090064188|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Datejust bicolor oro 18K y acero (con caja)",
+   "referencia": "1601",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de mercado para un 1601 bicolor de c.1968 en estado Good. La caja verde visible parece de época posterior y el estuche exterior con imagen de caballo no es típico de Rolex, así que hay que verificar autenticidad, cuadrante, bisel y papeles."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de mercado para un 1601 bicolor de c.1968 en estado Good. La caja verde visible parece de época posterior y el estuche exterior con imagen de caballo no es típico de Rolex, así que hay que verificar autenticidad, cuadrante, bisel y papeles. (justo 5000)"
+ },
+ {
+  "fecha": "2026-11-03T23:13:00.677426+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Pasha GMT Automatic ref. 2388 Power Reserve 24Hr Steel 38mm Box Papers",
+  "total": 2346.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940063477331",
+  "item_id": "v1|940063477331|0",
+  "referencia": "2388",
+  "mercado": {
+   "n": 1,
+   "p25": 3550,
+   "mediana": 3550
+  },
+  "triage": {
+   "modelo": "Cartier Pasha de Cartier 38 mm, acero, con cronógrafo (la foto muestra tres subesferas y pulsadores; el título dice GMT Power Reserve)",
+   "referencia": null,
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "El título (GMT, ref. 2388) no coincide con la foto, que parece un cronógrafo Pasha. Sin referencia verificable, el precio está unos 10 % por debajo de una estimación conservadora, sin llegar al 15 % necesario."
+  },
+  "motivo": "triage: El título (GMT, ref. 2388) no coincide con la foto, que parece un cronógrafo Pasha. Sin referencia verificable, el precio está unos 10 % por debajo de una estimación conservadora, sin llegar al 15 % necesario. (justo 2600)"
+ },
+ {
+  "fecha": "2026-11-03T23:13:00.677426+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank MC - Ref. W5330003 - 34.3mm * 44mm Stainless Steel",
+  "total": 4195.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287702887493",
+  "item_id": "v1|287702887493|0",
+  "referencia": "W5330003",
+  "mercado": {
+   "n": 7,
+   "p25": 4405,
+   "mediana": 5139
+  },
+  "ratio_mercado": 0.952,
+  "motivo": "precio normal (95 % del cuartil bajo de W5330003)"
  }
 ]
