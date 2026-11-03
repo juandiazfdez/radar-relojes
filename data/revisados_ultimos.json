@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-10-30T22:54:39.700290+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR SS watch Men Automatic with box and papers",
-  "total": 2200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920089089904",
-  "item_id": "v1|920089089904|0",
-  "triage": {
-   "modelo": "Tudor 1926 (estilo Heritage, esfera plateada con numerales arábigos, brazalete de acero, fecha a las 3)",
-   "referencia": "91650 o 91550 (no confirmada; depende del tamaño y del caso)",
-   "precio_justo_usd": 2400,
-   "interesante": false,
-   "nota": "Precio pedido de US$2,200 solo ~8 % bajo el valor estimado de venta con caja y papeles; el título genérico y la referencia no confirmada exigen verificar número de serie y fotos antes de comprar."
-  },
-  "motivo": "triage: Precio pedido de US$2,200 solo ~8 % bajo el valor estimado de venta con caja y papeles; el título genérico y la referencia no confirmada exigen verificar número de serie y fotos antes de comprar. (justo 2400)"
- },
- {
-  "fecha": "2026-10-30T23:24:39.585386+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Prince Oysterdate 9050/0 Mens 34mm 1960s Automatic Vintage RA842",
-  "total": 3900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267828540670",
-  "item_id": "v1|267828540670|0",
-  "triage": {
-   "modelo": "Tudor Prince Oysterdate (Oyster Self-Winding), años 1960",
-   "referencia": "9050/0",
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "Precio pedido de US$3,900 muy por encima del valor de venta cerrada para esta referencia vintage en estado Good; no parece pieza ni replica, pero no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$3,900 muy por encima del valor de venta cerrada para esta referencia vintage en estado Good; no parece pieza ni replica, pero no es una oportunidad. (justo 2200)"
- },
- {
   "fecha": "2026-10-30T23:39:39.894128+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay Pro Ref. M79470-0001 Case #737",
@@ -11034,5 +11000,39 @@
   },
   "ratio_justo": 0.911,
   "motivo": "precio normal segun revision (91 % del justo 10600)"
+ },
+ {
+  "fecha": "2026-11-03T20:12:58.789232+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex Datejust 41mm Two-Tone Champagne Fluted Jubilee Complete Set 126333",
+  "total": 19990.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/327437866587",
+  "item_id": "v1|327437866587|0",
+  "referencia": "126333",
+  "mercado": {
+   "n": 38,
+   "p25": 19069,
+   "mediana": 20201
+  },
+  "ratio_mercado": 1.048,
+  "motivo": "precio normal (105 % del cuartil bajo de 126333)"
+ },
+ {
+  "fecha": "2026-11-03T20:12:58.789232+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36 Wimbledon 126234 Flutted Jubilee 2026",
+  "total": 13250.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920101751055",
+  "item_id": "v1|920101751055|0",
+  "referencia": "126234",
+  "mercado": {
+   "n": 32,
+   "p25": 12959,
+   "mediana": 14224
+  },
+  "ratio_mercado": 1.022,
+  "motivo": "precio normal (102 % del cuartil bajo de 126234)"
  }
 ]
