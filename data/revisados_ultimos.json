@@ -2,40 +2,6 @@
  {
   "fecha": "2026-10-30T16:39:27.317022+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Cosmograph Daytona 126505 40mm Black and Sundust 2026",
-  "total": 59999.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377608538276",
-  "item_id": "v1|377608538276|0",
-  "referencia": "126505",
-  "mercado": {
-   "n": 14,
-   "p25": 58329,
-   "mediana": 61436
-  },
-  "ratio_mercado": 1.029,
-  "motivo": "precio normal (103 % del cuartil bajo de 126505)"
- },
- {
-  "fecha": "2026-10-30T16:39:27.317022+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41 \"2020\" 126333",
-  "total": 15879.49,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237152953017",
-  "item_id": "v1|237152953017|0",
-  "referencia": "126333",
-  "mercado": {
-   "n": 31,
-   "p25": 14950,
-   "mediana": 15466
-  },
-  "ratio_mercado": 1.062,
-  "motivo": "precio normal (106 % del cuartil bajo de 126333)"
- },
- {
-  "fecha": "2026-10-30T16:39:27.317022+00:00",
-  "marca": "Rolex",
   "titulo": "2026 Rolex Sky-Dweller 336934 Black 42mm Jubilee 18K Gold Steel Box Papers",
   "total": 23138.08,
   "condicion": "Pre-owned - Excellent",
@@ -11140,5 +11106,39 @@
   },
   "ratio_mercado": 0.985,
   "motivo": "precio normal (98 % del cuartil bajo de 79230N)"
+ },
+ {
+  "fecha": "2026-11-03T01:27:11.820434+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex datejust 26 mm 14k gold",
+  "total": 3799.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206671542519",
+  "item_id": "v1|206671542519|0",
+  "triage": {
+   "modelo": "Rolex Datejust Lady 26 mm (esfera champagne, brazalete jubilee)",
+   "referencia": "Posiblemente 6917 (oro amarillo 14k) o 69173 (bicolor); no verificable en la foto",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "La foto no permite confirmar si la caja es oro 14k o acero/bicolor; el brazalete parece de eslabones de acero. Pedir fotos de la caja, sellos y numero de serie antes de comprar."
+  },
+  "motivo": "triage: La foto no permite confirmar si la caja es oro 14k o acero/bicolor; el brazalete parece de eslabones de acero. Pedir fotos de la caja, sellos y numero de serie antes de comprar. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-03T01:27:11.820434+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 17000 Oysterquartz Datejust Stainless Steel Watch",
+  "total": 9006.1,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940061157730",
+  "item_id": "v1|940061157730|0",
+  "referencia": "17000",
+  "mercado": {
+   "n": 7,
+   "p25": 5500,
+   "mediana": 6250
+  },
+  "ratio_mercado": 1.637,
+  "motivo": "precio normal (164 % del cuartil bajo de 17000)"
  }
 ]
