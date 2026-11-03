@@ -2,69 +2,6 @@
  {
   "fecha": "2026-10-30T21:09:40.627159+00:00",
   "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay 41mm Stainless Steel M79680-0001",
-  "total": 4595.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880066121625",
-  "item_id": "v1|880066121625|0",
-  "referencia": "M79680-0001",
-  "mercado": {
-   "n": 1,
-   "p25": 4695,
-   "mediana": 4695
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay 41 de acero con brazalete Jubilee, esfera negra",
-   "referencia": "M79680-0001 (según título, no verificable en la foto)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Pedido por encima del precio de tienda y del mercado gris de nuevos; no hay descuento suficiente."
-  },
-  "motivo": "triage: Pedido por encima del precio de tienda y del mercado gris de nuevos; no hay descuento suficiente. (justo 3300)"
- },
- {
-  "fecha": "2026-10-30T21:09:40.627159+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay Pro 39mm Stainless Steel M79470-0004",
-  "total": 4495.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880066117420",
-  "item_id": "v1|880066117420|0",
-  "referencia": "M79470-0004",
-  "mercado": {
-   "n": 4,
-   "p25": 4270,
-   "mediana": 4385
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay Pro 39mm (esfera visible plateada, no coincide claramente con la foto del título)",
-   "referencia": "M79470-0004",
-   "precio_justo_usd": 4100,
-   "interesante": false,
-   "nota": "Precio pedido ya en retail o por encima; la foto no coincide bien con una Black Bay Pro, así que hay que verificar la referencia."
-  },
-  "motivo": "triage: Precio pedido ya en retail o por encima; la foto no coincide bien con una Black Bay Pro, así que hay que verificar la referencia. (justo 4100)"
- },
- {
-  "fecha": "2026-10-30T21:09:40.627159+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Royal 36mm Stainless Steel M2836C1A0-0105",
-  "total": 3295.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880066112300",
-  "item_id": "v1|880066112300|0",
-  "triage": {
-   "modelo": "Tudor Royal (acero, esfera salmón con índices arábigos y fecha)",
-   "referencia": "M2836C1A0-0105 (según título, no verificable en la imagen)",
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "Tudor nuevo con caja y papeles se vende 15-35 % bajo retail; el precio pedido de 3295 USD está cerca o sobre el mercado, sin descuento claro."
-  },
-  "motivo": "triage: Tudor nuevo con caja y papeles se vende 15-35 % bajo retail; el precio pedido de 3295 USD está cerca o sobre el mercado, sin descuento claro. (justo 2800)"
- },
- {
-  "fecha": "2026-10-30T21:09:40.627159+00:00",
-  "marca": "Tudor",
   "titulo": "2026 Tudor Black Bay 54 37mm Stainless Steel M79000N-0001",
   "total": 4295.0,
   "condicion": "New with box and papers",
@@ -11032,5 +10969,56 @@
    "nota": "Modelo actual de Tudor casi nuevo (fecha 7/26); el precio pedido está en torno al mercado secundario, sin descuento de 15 %."
   },
   "motivo": "triage: Modelo actual de Tudor casi nuevo (fecha 7/26); el precio pedido está en torno al mercado secundario, sin descuento de 15 %. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-03T18:57:59.597601+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer II 40mm 16570 \"Polar White\"",
+  "total": 9499.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147664569948",
+  "item_id": "v1|147664569948|0",
+  "referencia": "16570",
+  "mercado": {
+   "n": 36,
+   "p25": 8445,
+   "mediana": 8970
+  },
+  "ratio_mercado": 1.125,
+  "motivo": "precio normal (112 % del cuartil bajo de 16570)"
+ },
+ {
+  "fecha": "2026-11-03T18:57:59.597601+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 41 Monochrome Oyster 8/26 Ref# 7941A1A0NU",
+  "total": 4048.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257832715975",
+  "item_id": "v1|257832715975|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 41 Monochrome, acero Oyster",
+   "referencia": "7941A1A0NU",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Precio pedido por encima de retail (~US$3.800); el usado de acero con caja y papeles se vende por debajo. El titulo menciona 2026 y 8/26, conviene verificar la tarjeta de garantia."
+  },
+  "motivo": "triage: Precio pedido por encima de retail (~US$3.800); el usado de acero con caja y papeles se vende por debajo. El titulo menciona 2026 y 8/26, conviene verificar la tarjeta de garantia. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-03T18:57:59.597601+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 TUDOR Black Bay 58 GMT COKE M7939G1A0NRU-0002 Full Set NEW",
+  "total": 4575.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/820311666671",
+  "item_id": "v1|820311666671|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 'Coke' (bisel rojo/negro, esfera negra, correa de caucho)",
+   "referencia": "M7939G1A0NRU-0002 (según el listado, no verificable en la imagen)",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Nuevo con caja y papeles, el mercado gris lo sitúa cerca de 3.800-4.200 USD; el precio pedido de 4.575 USD está por encima, no por debajo."
+  },
+  "motivo": "triage: Nuevo con caja y papeles, el mercado gris lo sitúa cerca de 3.800-4.200 USD; el precio pedido de 4.575 USD está por encima, no por debajo. (justo 4000)"
  }
 ]
