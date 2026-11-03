@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-10-30T16:54:26.598717+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36MM 16233 18k Yellow Gold, Two-Tone and Jubilee 2003",
-  "total": 7495.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960133545930",
-  "item_id": "v1|960133545930|0",
-  "referencia": "16233",
-  "mercado": {
-   "n": 28,
-   "p25": 5399,
-   "mediana": 6152
-  },
-  "ratio_mercado": 1.388,
-  "motivo": "precio normal (139 % del cuartil bajo de 16233)"
- },
- {
-  "fecha": "2026-10-30T16:54:26.598717+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Deepsea Seadweller James Cameron 136660 2023",
-  "total": 14600.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/377608552548",
-  "item_id": "v1|377608552548|0",
-  "referencia": "136660",
-  "mercado": {
-   "n": 56,
-   "p25": 15500,
-   "mediana": 16012
-  },
-  "ratio_mercado": 0.942,
-  "motivo": "precio normal (94 % del cuartil bajo de 136660)"
- },
- {
   "fecha": "2026-10-30T17:09:27.301413+00:00",
   "marca": "Rolex",
   "titulo": "1999 Rolex Lady-Datejust White Roman Jubilee 69173 Complete Steel & YG",
@@ -11152,5 +11118,39 @@
    "nota": "El título dice oro amarillo 79018V, pero la foto muestra caja de bronce; el precio pedido de US$11,999 supera con creces el valor de mercado para cualquiera de las dos versiones. Revisar la descripción y el listado antes de comprar."
   },
   "motivo": "triage: El título dice oro amarillo 79018V, pero la foto muestra caja de bronce; el precio pedido de US$11,999 supera con creces el valor de mercado para cualquiera de las dos versiones. Revisar la descripción y el listado antes de comprar. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-03T02:12:11.571753+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Solo XL Ref:W5200027 Box And Papers",
+  "total": 3710.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900060593966",
+  "item_id": "v1|900060593966|0",
+  "referencia": "W5200027",
+  "mercado": {
+   "n": 6,
+   "p25": 3688,
+   "mediana": 3850
+  },
+  "ratio_mercado": 1.006,
+  "motivo": "precio normal (101 % del cuartil bajo de W5200027)"
+ },
+ {
+  "fecha": "2026-11-03T02:12:11.571753+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 TUDOR Black Bay M7941A1A0RU, B&P, Ex Condition, Rubber with deployant",
+  "total": 4100.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257831194534",
+  "item_id": "v1|257831194534|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 41 (bisel burdeos, esfera azul, correa de caucho)",
+   "referencia": "M7941A1A0RU",
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Precio pedido de US$4100 está en o por encima de retail para un Tudor de producción actual usado; el mercado gris suele estar 15-35 % abajo."
+  },
+  "motivo": "triage: Precio pedido de US$4100 está en o por encima de retail para un Tudor de producción actual usado; el mercado gris suele estar 15-35 % abajo. (justo 3100)"
  }
 ]
