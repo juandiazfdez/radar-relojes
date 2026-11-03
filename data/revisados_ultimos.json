@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-30T17:39:26.691543+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Panther  23.5mm Vintage 18K Yellow Gold Women's Watch",
-  "total": 16265.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168827061439",
-  "item_id": "v1|168827061439|0",
-  "triage": {
-   "modelo": "Cartier Panthère Vendôme (dama, cuarzo, oro amarillo 18K)",
-   "referencia": null,
-   "precio_justo_usd": 6000,
-   "interesante": false,
-   "nota": "Precio pedido de US$16,265 muy por encima del valor de venta cerrada para este modelo en oro 18K; la referencia exacta no es verificable en la foto."
-  },
-  "motivo": "triage: Precio pedido de US$16,265 muy por encima del valor de venta cerrada para este modelo en oro 18K; la referencia exacta no es verificable en la foto. (justo 6000)"
- },
- {
-  "fecha": "2026-10-30T17:39:26.691543+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Diabolo 30.5mm W1507651 18K Yellow Gold Women's Watch",
   "total": 13690.0,
   "condicion": "Pre-owned - Good",
@@ -11142,5 +11125,22 @@
   },
   "ratio_justo": 0.789,
   "motivo": "ALERTA"
+ },
+ {
+  "fecha": "2026-11-03T04:12:12.560645+00:00",
+  "marca": "Rolex",
+  "titulo": "Fake Rolex ",
+  "total": 505.63,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840087115149",
+  "item_id": "v1|840087115149|0",
+  "triage": {
+   "modelo": "Rolex con esfera y bisel verdes (posible Submariner 'Hulk', no confirmable en esta foto), con caja y papeles",
+   "referencia": null,
+   "precio_justo_usd": 0,
+   "interesante": false,
+   "nota": "El título dice 'Fake Rolex' y el precio ($506) es imposible para un Rolex verde genuino; casi seguro es réplica o listado engañoso."
+  },
+  "motivo": "triage: El título dice 'Fake Rolex' y el precio ($506) es imposible para un Rolex verde genuino; casi seguro es réplica o listado engañoso. (justo 0)"
  }
 ]
