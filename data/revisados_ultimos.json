@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-10-30T16:39:27.317022+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36MM 2Tone 18K Gold Stainless Steel Jubilee 16013 ROMAN NUMERAL",
-  "total": 5500.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/147656998806",
-  "item_id": "v1|147656998806|0",
-  "referencia": "16013",
-  "mercado": {
-   "n": 21,
-   "p25": 1815,
-   "mediana": 4700
-  },
-  "ratio_mercado": 3.03,
-  "motivo": "precio normal (303 % del cuartil bajo de 16013)"
- },
- {
-  "fecha": "2026-10-30T16:39:27.317022+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex Daytona Green John Mayer 2.0 Yellow Gold Box/Papers/Card 126508",
-  "total": 84000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880065537011",
-  "item_id": "v1|880065537011|0",
-  "referencia": "126508",
-  "mercado": {
-   "n": 11,
-   "p25": 76065,
-   "mediana": 84000
-  },
-  "ratio_mercado": 1.104,
-  "motivo": "precio normal (110 % del cuartil bajo de 126508)"
- },
- {
   "fecha": "2026-10-30T16:54:26.598717+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 36MM 16233 18k Yellow Gold, Two-Tone and Jubilee 2003",
@@ -11140,5 +11106,51 @@
    "nota": "El título 'Elegant 1920s Design' parece engañoso: el diseño es de los años 70. Sin referencia visible ni caja y papeles, el precio pedido no está claramente por debajo del mercado."
   },
   "motivo": "triage: El título 'Elegant 1920s Design' parece engañoso: el diseño es de los años 70. Sin referencia visible ni caja y papeles, el precio pedido no está claramente por debajo del mercado. (justo 6800)"
+ },
+ {
+  "fecha": "2026-11-03T01:57:12.467214+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex Oyster Royal 6144 32mm Stainless Steel",
+  "total": 2995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206629500744",
+  "item_id": "v1|206629500744|0",
+  "referencia": "6144",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Royal (cuerda manual, años 50)",
+   "referencia": "6144",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para esta referencia en estado bueno; no hay descuento de al menos 15 %. Verificar esfera, agujas y movimiento en persona."
+  },
+  "motivo": "triage: Precio cercano al mercado para esta referencia en estado bueno; no hay descuento de al menos 15 %. Verificar esfera, agujas y movimiento en persona. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-03T01:57:12.467214+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Fifty-Eight 39mm Yellow Gold Auto Green Watch 79018V",
+  "total": 11999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940061160298",
+  "item_id": "v1|940061160298|0",
+  "referencia": "79018V",
+  "mercado": {
+   "n": 2,
+   "p25": 13450,
+   "mediana": 13850
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay Fifty-Eight 39mm, esfera y bisel verdes, caja de bronce (la imagen no coincide con el oro amarillo del título)",
+   "referencia": null,
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "El título dice oro amarillo 79018V, pero la foto muestra caja de bronce; el precio pedido de US$11,999 supera con creces el valor de mercado para cualquiera de las dos versiones. Revisar la descripción y el listado antes de comprar."
+  },
+  "motivo": "triage: El título dice oro amarillo 79018V, pero la foto muestra caja de bronce; el precio pedido de US$11,999 supera con creces el valor de mercado para cualquiera de las dos versiones. Revisar la descripción y el listado antes de comprar. (justo 3500)"
  }
 ]
