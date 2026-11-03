@@ -1,113 +1,5 @@
 [
  {
-  "fecha": "2026-10-30T21:09:40.627159+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay 54 37mm Stainless Steel M79000N-0001",
-  "total": 4295.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880066104991",
-  "item_id": "v1|880066104991|0",
-  "referencia": "M79000N-0001",
-  "mercado": {
-   "n": 4,
-   "p25": 4210,
-   "mediana": 4334
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay 54 (37 mm, acero, bisel negro, esfera negra)",
-   "referencia": "M79000N",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Precio pedido por encima del mercado gris para BB54 nuevo con caja y papeles; no hay descuento de al menos 15 %."
-  },
-  "motivo": "triage: Precio pedido por encima del mercado gris para BB54 nuevo con caja y papeles; no hay descuento de al menos 15 %. (justo 3500)"
- },
- {
-  "fecha": "2026-10-30T21:24:40.276558+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Unworn Rolex Yacht-Master RLX Titanium Intense Black 42mm 226627 Box/Papers",
-  "total": 27600.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/336871143245",
-  "item_id": "v1|336871143245|0",
-  "referencia": "226627",
-  "mercado": {
-   "n": 15,
-   "p25": 26198,
-   "mediana": 28400
-  },
-  "ratio_mercado": 1.054,
-  "motivo": "precio normal (105 % del cuartil bajo de 226627)"
- },
- {
-  "fecha": "2026-10-30T21:24:40.276558+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust Stainless Steel Watch 16014",
-  "total": 5500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407327834496",
-  "item_id": "v1|407327834496|0",
-  "referencia": "16014",
-  "mercado": {
-   "n": 13,
-   "p25": 4550,
-   "mediana": 5099
-  },
-  "ratio_mercado": 1.209,
-  "motivo": "precio normal (121 % del cuartil bajo de 16014)"
- },
- {
-  "fecha": "2026-10-30T21:24:40.276558+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Day-Date 36, 118235, Rose Gold, Silver Diamond, President Bracelet",
-  "total": 30043.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/206664206206",
-  "item_id": "v1|206664206206|0",
-  "referencia": "118235",
-  "mercado": {
-   "n": 21,
-   "p25": 29990,
-   "mediana": 33337
-  },
-  "ratio_mercado": 1.002,
-  "motivo": "precio normal (100 % del cuartil bajo de 118235)"
- },
- {
-  "fecha": "2026-10-30T21:39:40.271649+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona Stainless Steel Watch 116520",
-  "total": 22000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407327858375",
-  "item_id": "v1|407327858375|0",
-  "referencia": "116520",
-  "mercado": {
-   "n": 18,
-   "p25": 23138,
-   "mediana": 23722
-  },
-  "ratio_mercado": 0.951,
-  "motivo": "precio normal (95 % del cuartil bajo de 116520)"
- },
- {
-  "fecha": "2026-10-30T21:39:40.271649+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual. Automatic. No box or papers.",
-  "total": 5100.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/168827358223",
-  "item_id": "v1|168827358223|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual bicolor (acero y bisel dorado), esfera azul, correa de cuero verde, posiblemente años 60-70",
-   "referencia": null,
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "Referencia no verificable en la foto; la esfera azul puede ser reesfera y el estado es Fair sin caja ni papeles. El precio pedido de US$5.100 está muy por encima del valor de venta real."
-  },
-  "motivo": "triage: Referencia no verificable en la foto; la esfera azul puede ser reesfera y el estado es Fair sin caja ni papeles. El precio pedido de US$5.100 está muy por encima del valor de venta real. (justo 2800)"
- },
- {
   "fecha": "2026-10-30T21:54:40.118236+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Stainless Steel Oyster Perpetual Date 69190 Watch 26mm (Box & Papers) 1986",
@@ -11020,5 +10912,113 @@
    "nota": "Nuevo con caja y papeles, el mercado gris lo sitúa cerca de 3.800-4.200 USD; el precio pedido de 4.575 USD está por encima, no por debajo."
   },
   "motivo": "triage: Nuevo con caja y papeles, el mercado gris lo sitúa cerca de 3.800-4.200 USD; el precio pedido de 4.575 USD está por encima, no por debajo. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-03T19:13:00.066553+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex Datejust 41mm Slate Dial, Worn once, purchased days ago.",
+  "total": 10600.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287702544816",
+  "item_id": "v1|287702544816|0",
+  "triage": {
+   "modelo": "Rolex Datejust 41 acero, esfera pizarra (slate)",
+   "referencia": "126300 (probable, sin confirmar en la foto)",
+   "precio_justo_usd": 10300,
+   "interesante": false,
+   "nota": "Precio pedido cercano al valor de mercado secundario para un Datejust 41 actual de acero con caja; no hay descuento de al menos 15 % y la autenticidad no se puede verificar solo con la foto."
+  },
+  "motivo": "triage: Precio pedido cercano al valor de mercado secundario para un Datejust 41 actual de acero con caja; no hay descuento de al menos 15 % y la autenticidad no se puede verificar solo con la foto. (justo 10300)"
+ },
+ {
+  "fecha": "2026-11-03T19:13:00.066553+00:00",
+  "marca": "Rolex",
+  "titulo": "🔥 2022 Rolex Seadweller Ref. 126660 with Box & Papers",
+  "total": 11980.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147664601915",
+  "item_id": "v1|147664601915|0",
+  "referencia": "126660",
+  "mercado": {
+   "n": 76,
+   "p25": 13000,
+   "mediana": 13994
+  },
+  "ratio_mercado": 0.922,
+  "motivo": "precio normal (92 % del cuartil bajo de 126660)"
+ },
+ {
+  "fecha": "2026-11-03T19:13:00.066553+00:00",
+  "marca": "Rolex",
+  "titulo": "🔥 2003 Rolex Yacht-Master Ref. 16622 Platinum with Box & Papers",
+  "total": 9875.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147664597228",
+  "item_id": "v1|147664597228|0",
+  "referencia": "16622",
+  "mercado": {
+   "n": 26,
+   "p25": 10250,
+   "mediana": 11525
+  },
+  "ratio_mercado": 0.963,
+  "motivo": "precio normal (96 % del cuartil bajo de 16622)"
+ },
+ {
+  "fecha": "2026-11-03T19:13:00.066553+00:00",
+  "marca": "Rolex",
+  "titulo": "Duplicate Rolex Submariner Date 41mm Green Dial/Bezel Auto Date 300m Steel",
+  "total": 150.0,
+  "condicion": "New without box or papers",
+  "url": "https://www.ebay.com/itm/820311781723",
+  "item_id": "v1|820311781723|0",
+  "triage": {
+   "modelo": "Réplica tipo Submariner Date 'Hulk' (esfera y bisel verdes, 41 mm, acero), no genuina",
+   "referencia": null,
+   "precio_justo_usd": 0,
+   "interesante": false,
+   "nota": "El título dice 'Duplicate', es decir, una réplica sin valor de reventa como Rolex; no comprar como si fuera original."
+  },
+  "motivo": "triage: El título dice 'Duplicate', es decir, una réplica sin valor de reventa como Rolex; no comprar como si fuera original. (justo 0)"
+ },
+ {
+  "fecha": "2026-11-03T19:13:00.066553+00:00",
+  "marca": "Rolex",
+  "titulo": "🔥 2005 Rolex Sea-Dweller Ref. 16600 with Papers",
+  "total": 9850.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147664592702",
+  "item_id": "v1|147664592702|0",
+  "referencia": "16600",
+  "mercado": {
+   "n": 53,
+   "p25": 9750,
+   "mediana": 10000
+  },
+  "ratio_mercado": 1.01,
+  "motivo": "precio normal (101 % del cuartil bajo de 16600)"
+ },
+ {
+  "fecha": "2026-11-03T19:13:00.066553+00:00",
+  "marca": "Cartier",
+  "titulo": "Santos de Cartier Stainless Steel Automatic Watch 40mm wssa0030",
+  "total": 12225.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168835707733",
+  "item_id": "v1|168835707733|0",
+  "referencia": "WSSA0030",
+  "mercado": {
+   "n": 2,
+   "p25": 7800,
+   "mediana": 17400
+  },
+  "triage": {
+   "modelo": "Santos de Cartier Large (40 mm) acero, posible versión con bisel de diamantes según la foto",
+   "referencia": "WSSA0030",
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "El precio pedido de US$12,225 supera con holgura el valor de mercado de esta referencia en acero. La foto muestra un bisel y esfera con diamantes, que no coincide con el título de acero y puede ser una variante distinta o un listado engañoso. Conviene verificarlo antes de comprar."
+  },
+  "motivo": "triage: El precio pedido de US$12,225 supera con holgura el valor de mercado de esta referencia en acero. La foto muestra un bisel y esfera con diamantes, que no coincide con el título de acero y puede ser una variante distinta o un listado engañoso. Conviene verificarlo antes de comprar. (justo 7000)"
  }
 ]
