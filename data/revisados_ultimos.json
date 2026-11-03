@@ -1,113 +1,5 @@
 [
  {
-  "fecha": "2026-10-30T20:54:39.941038+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor  Pelagos Titanium LHD 42MM Watch  25610TNL Box & Paper Complete",
-  "total": 3925.95,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147658498581",
-  "item_id": "v1|147658498581|0",
-  "triage": {
-   "modelo": "Tudor Pelagos (titanio, LHD, bisel negro, esfera negra, 42 mm)",
-   "referencia": "25610TNL",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta cerrada estimado para esta referencia con caja y papeles; no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para esta referencia con caja y papeles; no hay descuento suficiente. (justo 3500)"
- },
- {
-  "fecha": "2026-10-30T21:09:40.627159+00:00",
-  "marca": "Rolex",
-  "titulo": "1967 Rolex Oyster Perpetual Ref. 1002 - Papers & Chronometer Certificate",
-  "total": 4000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227590496100",
-  "item_id": "v1|227590496100|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual (vintage, acero, esfera plateada)",
-   "referencia": "1002",
-   "precio_justo_usd": 2900,
-   "interesante": false,
-   "nota": "Ref. 1002 de finales de los 60 en estado bueno vale unos US$2.500-3.300 con papeles; el precio pedido de US$4.000 está por encima del mercado."
-  },
-  "motivo": "triage: Ref. 1002 de finales de los 60 en estado bueno vale unos US$2.500-3.300 con papeles; el precio pedido de US$4.000 está por encima del mercado. (justo 2900)"
- },
- {
-  "fecha": "2026-10-30T21:09:40.627159+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36mm 2009 Silver Diamond Fluted Jubilee 116233",
-  "total": 12695.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198758115188",
-  "item_id": "v1|198758115188|0",
-  "referencia": "116233",
-  "mercado": {
-   "n": 77,
-   "p25": 10990,
-   "mediana": 11345
-  },
-  "ratio_mercado": 1.155,
-  "motivo": "precio normal (116 % del cuartil bajo de 116233)"
- },
- {
-  "fecha": "2026-10-30T21:09:40.627159+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex rectangular “Tank” 1940s 1208 Men’s Watch ",
-  "total": 4995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147658503000",
-  "item_id": "v1|147658503000|0",
-  "triage": {
-   "modelo": "Rolex rectangular 'Shock-Resisting' vintage (años 1940, caja de acero, esfera plateada con números arábigos, manecillas doradas y subesfera)",
-   "referencia": "1208 (según el título; no confirmable con la foto)",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "El precio pedido de US$4995 queda por encima del valor estimado de venta cerrada para un vintage rectangular de acero en estado 'Good', y la referencia no se puede verificar en la foto."
-  },
-  "motivo": "triage: El precio pedido de US$4995 queda por encima del valor estimado de venta cerrada para un vintage rectangular de acero en estado 'Good', y la referencia no se puede verificar en la foto. (justo 3800)"
- },
- {
-  "fecha": "2026-10-30T21:09:40.627159+00:00",
-  "marca": "Rolex",
-  "titulo": "Vtg Rolex Cellini 18KT White Gold Men's Watch 3833 Swiss Made",
-  "total": 8059.98,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880066105852",
-  "item_id": "v1|880066105852|0",
-  "triage": {
-   "modelo": "Rolex Cellini (oro blanco 18k, pulsera integrada, esfera plateada)",
-   "referencia": "3833",
-   "precio_justo_usd": 5500,
-   "interesante": false,
-   "nota": "Precio pedido de US$8,060 por encima de lo que se vende este Cellini 3833 en oro blanco; el valor del oro y la pulsera pesan, pero no alcanza ese precio."
-  },
-  "motivo": "triage: Precio pedido de US$8,060 por encima de lo que se vende este Cellini 3833 en oro blanco; el valor del oro y la pulsera pesan, pero no alcanza ese precio. (justo 5500)"
- },
- {
-  "fecha": "2026-10-30T21:09:40.627159+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ronde Solo 36mm , W6701005 Date 30m White Roman SS w/ Box Papers. 2017",
-  "total": 2950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800856899451",
-  "item_id": "v1|800856899451|0",
-  "referencia": "W6701005",
-  "mercado": {
-   "n": 4,
-   "p25": 3645,
-   "mediana": 3770
-  },
-  "triage": {
-   "modelo": "Cartier Ronde Solo de Cartier 36 mm, cuarzo, acero, esfera blanca con números romanos",
-   "referencia": "W6701005",
-   "precio_justo_usd": 2500,
-   "interesante": false,
-   "nota": "Precio pedido de US$2950 está por encima del valor de venta real de esta referencia usada con caja y papeles; no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido de US$2950 está por encima del valor de venta real de esta referencia usada con caja y papeles; no hay descuento suficiente. (justo 2500)"
- },
- {
   "fecha": "2026-10-30T21:09:40.627159+00:00",
   "marca": "Tudor",
   "titulo": "2026 Tudor Black Bay 41mm Stainless Steel M79680-0001",
@@ -11032,5 +10924,113 @@
   },
   "ratio_mercado": 0.988,
   "motivo": "precio normal (99 % del cuartil bajo de 79030B)"
+ },
+ {
+  "fecha": "2026-11-03T18:42:56.929470+00:00",
+  "marca": "Rolex",
+  "titulo": "2024 Rolex Yacht-Master 18K Yellow Gold Oysterflex 42mm 226658 Watch Box Papers",
+  "total": 35888.3,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940063041345",
+  "item_id": "v1|940063041345|0",
+  "referencia": "226658",
+  "mercado": {
+   "n": 10,
+   "p25": 34332,
+   "mediana": 35997
+  },
+  "ratio_mercado": 1.045,
+  "motivo": "precio normal (105 % del cuartil bajo de 226658)"
+ },
+ {
+  "fecha": "2026-11-03T18:42:56.929470+00:00",
+  "marca": "Rolex",
+  "titulo": "NEW Rolex Datejust 41MM 126303 Two-Tone w/ Box , Papers & Tag (full set)",
+  "total": 17999.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/137899007405",
+  "item_id": "v1|137899007405|0",
+  "referencia": "126303",
+  "mercado": {
+   "n": 19,
+   "p25": 16217,
+   "mediana": 18375
+  },
+  "ratio_mercado": 1.11,
+  "motivo": "precio normal (111 % del cuartil bajo de 126303)"
+ },
+ {
+  "fecha": "2026-11-03T18:42:56.929470+00:00",
+  "marca": "Rolex",
+  "titulo": "ladies Vintage Rolex 7834 Two Tone Oyster Bracelet (missing End Piece )",
+  "total": 1075.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336877675779",
+  "item_id": "v1|336877675779|0",
+  "triage": {
+   "modelo": "Brazalete Oyster bicolor (acero y oro) para reloj Rolex de damas, solo la pulsera",
+   "referencia": "7834 (código de brazalete, no de reloj completo)",
+   "precio_justo_usd": 250,
+   "interesante": false,
+   "nota": "La foto muestra solo el brazalete, sin caja ni esfera, y falta el cierre final. El título sugiere un reloj completo, pero el precio de US$1075 es muy alto para una pieza suelta."
+  },
+  "motivo": "triage: La foto muestra solo el brazalete, sin caja ni esfera, y falta el cierre final. El título sugiere un reloj completo, pero el precio de US$1075 es muy alto para una pieza suelta. (justo 250)"
+ },
+ {
+  "fecha": "2026-11-03T18:42:56.929470+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu 3284 Stainless Steel 36MM Unisex Automatic Watch with box",
+  "total": 4530.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327437755554",
+  "item_id": "v1|327437755554|0",
+  "referencia": "3284",
+  "mercado": {
+   "n": 18,
+   "p25": 4025,
+   "mediana": 5170
+  },
+  "ratio_mercado": 1.125,
+  "motivo": "precio normal (113 % del cuartil bajo de 3284)"
+ },
+ {
+  "fecha": "2026-11-03T18:42:56.929470+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Pelagos FXD Chrono Alinghi Red Bull Racing 43mm Men's Watch M25807KN-0001",
+  "total": 6000.0,
+  "condicion": "New with imperfections",
+  "url": "https://www.ebay.com/itm/327437766790",
+  "item_id": "v1|327437766790|0",
+  "referencia": "M25807KN-0001",
+  "mercado": {
+   "n": 3,
+   "p25": 4155,
+   "mediana": 4270
+  },
+  "triage": {
+   "modelo": "Tudor Pelagos FXD Chrono Alinghi Red Bull Racing (titanio, esfera azul, correa de tela)",
+   "referencia": "M25807KN-0001",
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "Es un modelo de produccion actual; en el mercado gris nuevo, con caja y papeles, se mueve por debajo de US$6000 y el listado con imperfecciones no ofrece descuento."
+  },
+  "motivo": "triage: Es un modelo de produccion actual; en el mercado gris nuevo, con caja y papeles, se mueve por debajo de US$6000 y el listado con imperfecciones no ofrece descuento. (justo 4500)"
+ },
+ {
+  "fecha": "2026-11-03T18:42:56.929470+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 41 Red METAS Jubilee 7/26 7941A1A0RU",
+  "total": 3648.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257832704009",
+  "item_id": "v1|257832704009|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 41 Red (bisel rojo, esfera burdeos, brazalete Jubilee, versión METAS)",
+   "referencia": "7941A1A0RU",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Modelo actual de Tudor casi nuevo (fecha 7/26); el precio pedido está en torno al mercado secundario, sin descuento de 15 %."
+  },
+  "motivo": "triage: Modelo actual de Tudor casi nuevo (fecha 7/26); el precio pedido está en torno al mercado secundario, sin descuento de 15 %. (justo 3500)"
  }
 ]
