@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-10-30T20:39:40.141576+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Pelagos \"2021\" 25600TN",
-  "total": 4348.34,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237153260168",
-  "item_id": "v1|237153260168|0",
-  "referencia": "25600TN",
-  "mercado": {
-   "n": 6,
-   "p25": 4400,
-   "mediana": 4574
-  },
-  "ratio_mercado": 0.988,
-  "motivo": "precio normal (99 % del cuartil bajo de 25600TN)"
- },
- {
   "fecha": "2026-10-30T20:54:39.941038+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Pelagos LHD \"2021\" 25610TNL",
@@ -11032,5 +11015,22 @@
    "nota": "Precio pedido muy por encima del valor de mercado estimado (oro + diamantes + estado Good); verificar referencia y autenticidad."
   },
   "motivo": "triage: Precio pedido muy por encima del valor de mercado estimado (oro + diamantes + estado Good); verificar referencia y autenticidad. (justo 12000)"
+ },
+ {
+  "fecha": "2026-11-03T17:57:52.771185+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise W51008Q3 Women's Watch Swiss Quartz Stainless Steel 20mm",
+  "total": 3299.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198768928059",
+  "item_id": "v1|198768928059|0",
+  "triage": {
+   "modelo": "Cartier Tank Française (tamaño pequeño, cuarzo, acero, esfera blanca con números romanos)",
+   "referencia": "W51008Q3",
+   "precio_justo_usd": 2200,
+   "interesante": false,
+   "nota": "Precio pedido de US$3300 muy por encima del valor de venta usado (aprox. US$1,800-2,500 según estado, caja y papeles). No es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$3300 muy por encima del valor de venta usado (aprox. US$1,800-2,500 según estado, caja y papeles). No es una oportunidad. (justo 2200)"
  }
 ]
