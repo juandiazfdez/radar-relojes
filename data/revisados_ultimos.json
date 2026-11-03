@@ -1,85 +1,5 @@
 [
  {
-  "fecha": "2026-10-30T20:09:26.706450+00:00",
-  "marca": "Tudor",
-  "titulo": "Brand New Tudor 1926 Ref. M91650-0011",
-  "total": 1950.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/940052985047",
-  "item_id": "v1|940052985047|0",
-  "referencia": "M91650-0011",
-  "mercado": {
-   "n": 1,
-   "p25": 2350,
-   "mediana": 2350
-  },
-  "triage": {
-   "modelo": "Tudor 1926 39 mm, acero con brazalete, esfera blanca con índices arábigos y ventana de fecha a las 3",
-   "referencia": "M91650-0011 (según el listado; no verificable en la foto)",
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "Precio pedido ~30 % bajo un valor de mercado gris de ~US$2.800, descuento demasiado grande para un Tudor nuevo con caja y papeles; alta sospecha de réplica o listado engañoso, verificar autenticidad antes de comprar."
-  },
-  "motivo": "triage: Precio pedido ~30 % bajo un valor de mercado gris de ~US$2.800, descuento demasiado grande para un Tudor nuevo con caja y papeles; alta sospecha de réplica o listado engañoso, verificar autenticidad antes de comprar. (justo 2800)"
- },
- {
-  "fecha": "2026-10-30T20:24:40.196779+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 178384, 31MM, Black Diamond Dial, Stainless Steel Ladies Watch",
-  "total": 13500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960134123908",
-  "item_id": "v1|960134123908|0",
-  "referencia": "178384",
-  "mercado": {
-   "n": 12,
-   "p25": 15990,
-   "mediana": 17170
-  },
-  "ratio_mercado": 0.844,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 10000,
-   "riesgo_autenticidad": "medio",
-   "estado": "Buen estado cosmético según el vendedor, sin caja ni papeles, fotos de catálogo"
-  },
-  "motivo": "Claude descarto: El precio de US$13,500 está por encima de lo que se cierra hoy esta referencia sin caja ni papeles. Las ventas reales rondan US$9,500-10,500. Los comparables de US$16-17k son precios pedidos e inflados, no sirven de referencia.; No hay margen: pagando 13,500 habría que revender cerca de 14-15k para ganar algo, y ese precio no se alcanza en el mercado real."
- },
- {
-  "fecha": "2026-10-30T20:24:40.196779+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date Presidential, Pink Sunburst Dial, 18K Rose Gold Unisex Watch",
-  "total": 31500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840076052277",
-  "item_id": "v1|840076052277|0",
-  "triage": {
-   "modelo": "Rolex Day-Date 36 (President), oro Everose 18K, bisel acanalado, brazalete President",
-   "referencia": "118235 (probable; confirmar en el reloj)",
-   "precio_justo_usd": 33000,
-   "interesante": false,
-   "nota": "Precio pedido solo ~5 % bajo el estimado para esta referencia en Everose con esfera rosa. Imagen de baja resolución; verificar autenticidad, número de serie y estado antes de comprar."
-  },
-  "motivo": "triage: Precio pedido solo ~5 % bajo el estimado para esta referencia en Everose con esfera rosa. Imagen de baja resolución; verificar autenticidad, número de serie y estado antes de comprar. (justo 33000)"
- },
- {
-  "fecha": "2026-10-30T20:24:40.196779+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 126710GRNR Bruce Wayne 2025 Box Papers Oyster - Mint ",
-  "total": 22150.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137887848558",
-  "item_id": "v1|137887848558|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 85,
-   "p25": 22149,
-   "mediana": 23395
-  },
-  "ratio_mercado": 1.0,
-  "motivo": "precio normal (100 % del cuartil bajo de 126710GRNR)"
- },
- {
   "fecha": "2026-10-30T20:24:40.196779+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 1601",
@@ -11051,5 +10971,73 @@
    "nota": "Precio pedido de US$16,450 supera con claridad el valor de venta cerrada de esta referencia con caja y papeles; la foto es pequeña, así que la referencia debe verificarse por número de serie y tarjeta."
   },
   "motivo": "triage: Precio pedido de US$16,450 supera con claridad el valor de venta cerrada de esta referencia con caja y papeles; la foto es pequeña, así que la referencia debe verificarse por número de serie y tarjeta. (justo 13000)"
+ },
+ {
+  "fecha": "2026-11-03T16:57:49.421754+00:00",
+  "marca": "Rolex",
+  "titulo": "2023 Rolex Submariner Date 41 126619 LB Blueberry 18K White Gold Blue Box Papers",
+  "total": 37928.5,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960149714176",
+  "item_id": "v1|960149714176|0",
+  "referencia": "126619",
+  "mercado": {
+   "n": 24,
+   "p25": 38995,
+   "mediana": 40462
+  },
+  "ratio_mercado": 0.973,
+  "motivo": "precio normal (97 % del cuartil bajo de 126619)"
+ },
+ {
+  "fecha": "2026-11-03T16:57:49.421754+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date 1550 Gold Shell Cal. 1570 Mens Watch 34mm",
+  "total": 5074.95,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860109752282",
+  "item_id": "v1|860109752282|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date (gold shell/chapado en oro, caja con revestimiento de oro)",
+   "referencia": "1550",
+   "precio_justo_usd": 1800,
+   "interesante": false,
+   "nota": "Caja de oro laminado/chapado (gold shell), no oro macizo; con calibre 1570 y estado 'Good' se vende en torno a US$1.500-2.000, muy por debajo de los US$5.075 pedidos."
+  },
+  "motivo": "triage: Caja de oro laminado/chapado (gold shell), no oro macizo; con calibre 1570 y estado 'Good' se vende en torno a US$1.500-2.000, muy por debajo de los US$5.075 pedidos. (justo 1800)"
+ },
+ {
+  "fecha": "2026-11-03T16:57:49.421754+00:00",
+  "marca": "Rolex",
+  "titulo": "2021 Rolex Daytona Cosmograph 116509 Silver Ghost 18K White Gold Box Papers",
+  "total": 46088.31,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960149711765",
+  "item_id": "v1|960149711765|0",
+  "referencia": "116509",
+  "mercado": {
+   "n": 16,
+   "p25": 39990,
+   "mediana": 41469
+  },
+  "ratio_mercado": 1.152,
+  "motivo": "precio normal (115 % del cuartil bajo de 116509)"
+ },
+ {
+  "fecha": "2026-11-03T16:57:49.421754+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank - Ref. W5200025 - 34.8mm * 27.4mm Rose Gold",
+  "total": 6095.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287702264985",
+  "item_id": "v1|287702264985|0",
+  "referencia": "W5200025",
+  "mercado": {
+   "n": 13,
+   "p25": 6970,
+   "mediana": 7080
+  },
+  "ratio_mercado": 0.874,
+  "motivo": "precio normal (87 % del cuartil bajo de W5200025)"
  }
 ]
