@@ -2,86 +2,6 @@
  {
   "fecha": "2026-10-30T17:39:26.691543+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Trinity 26.5mm WG200246 18K Rose Gold Women's Watch",
-  "total": 11115.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840075606749",
-  "item_id": "v1|840075606749|0",
-  "referencia": "WG200246",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Trinity 26.5 mm, versión con bisel de diamantes (oro tricolor en la imagen)",
-   "referencia": "WG200246 (no verificable con la imagen)",
-   "precio_justo_usd": 6500,
-   "interesante": false,
-   "nota": "El precio pedido está muy por encima del valor de reventa estimado. La foto es de catálogo, muestra tres tonos de oro y el título dice solo oro rosa, así que conviene verificar la referencia y el estado reales."
-  },
-  "motivo": "triage: El precio pedido está muy por encima del valor de reventa estimado. La foto es de catálogo, muestra tres tonos de oro y el título dice solo oro rosa, así que conviene verificar la referencia y el estado reales. (justo 6500)"
- },
- {
-  "fecha": "2026-10-30T17:39:26.691543+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Solo 31x24mm W5200002 18K Yellow Gold/Stainless Watch",
-  "total": 7323.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840075605607",
-  "item_id": "v1|840075605607|0",
-  "referencia": "W5200002",
-  "mercado": {
-   "n": 5,
-   "p25": 5855,
-   "mediana": 6897
-  },
-  "ratio_mercado": 1.251,
-  "motivo": "precio normal (125 % del cuartil bajo de W5200002)"
- },
- {
-  "fecha": "2026-10-30T17:39:26.691543+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Pasha 35mm W3109699 Stainless Steel Women's Watch",
-  "total": 5193.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168827069599",
-  "item_id": "v1|168827069599|0",
-  "referencia": "W3109699",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Pasha de Cartier 35 mm, acero, cuarzo, esfera negra con motivo floral (edición especial o variante de esfera)",
-   "referencia": "W3109699 (según el título; no verificable en la imagen)",
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "Precio pedido de US$5193 por encima del valor de venta cerrada estimado para esta variante de esfera; sin confirmar caja, papeles ni referencia exacta."
-  },
-  "motivo": "triage: Precio pedido de US$5193 por encima del valor de venta cerrada estimado para esta variante de esfera; sin confirmar caja, papeles ni referencia exacta. (justo 4300)"
- },
- {
-  "fecha": "2026-10-30T17:39:26.691543+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 36mm W6920046 Stainless Steel Men's Watch",
-  "total": 6258.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168827069282",
-  "item_id": "v1|168827069282|0",
-  "referencia": "W6920046",
-  "mercado": {
-   "n": 22,
-   "p25": 4285,
-   "mediana": 4909
-  },
-  "ratio_mercado": 1.46,
-  "motivo": "precio normal (146 % del cuartil bajo de W6920046)"
- },
- {
-  "fecha": "2026-10-30T17:39:26.691543+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Ballon Bleu 36mm W6920047 18K Yellow Gold/Stainless Steel Unisex Watch",
   "total": 7323.0,
   "condicion": "Pre-owned - Good",
@@ -11146,5 +11066,79 @@
    "nota": "Precio pedido de US$4599 queda cerca del mercado secundario para un usado en excelente estado con set completo; no hay descuento de al menos 15%."
   },
   "motivo": "triage: Precio pedido de US$4599 queda cerca del mercado secundario para un usado en excelente estado con set completo; no hay descuento de al menos 15%. (justo 4300)"
+ },
+ {
+  "fecha": "2026-11-03T03:42:11.924374+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41mm jubilee two tone",
+  "total": 19000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327436563138",
+  "item_id": "v1|327436563138|0",
+  "triage": {
+   "modelo": "Rolex Datejust 41 bicolor (acero y oro amarillo) con brazalete Jubilee, esfera plateada",
+   "referencia": "126303 (probable)",
+   "precio_justo_usd": 15000,
+   "interesante": false,
+   "nota": "El bisel liso sugiere la 126303; el precio pedido de US$19,000 está por encima del valor de venta real para esa referencia en estado Good."
+  },
+  "motivo": "triage: El bisel liso sugiere la 126303; el precio pedido de US$19,000 está por encima del valor de venta real para esa referencia en estado Good. (justo 15000)"
+ },
+ {
+  "fecha": "2026-11-03T03:42:11.924374+00:00",
+  "marca": "Cartier",
+  "titulo": "Santos de Cartier Stainless Steel Automatic Watch 40mm wssa0030",
+  "total": 12225.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168833952569",
+  "item_id": "v1|168833952569|0",
+  "referencia": "WSSA0030",
+  "mercado": {
+   "n": 2,
+   "p25": 7800,
+   "mediana": 17400
+  },
+  "triage": {
+   "modelo": "Santos de Cartier Large (40 mm) acero automático, con brazalete de acero",
+   "referencia": "WSSA0030",
+   "precio_justo_usd": 7500,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del mercado. La foto parece mostrar una versión con bisel de diamantes, distinta al título, así que conviene verificar la referencia real."
+  },
+  "motivo": "triage: Precio pedido muy por encima del mercado. La foto parece mostrar una versión con bisel de diamantes, distinta al título, así que conviene verificar la referencia real. (justo 7500)"
+ },
+ {
+  "fecha": "2026-11-03T03:42:11.924374+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 54 Sapphire Blue 37mm Full Set",
+  "total": 3599.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336876323422",
+  "item_id": "v1|336876323422|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 54 Sapphire (esfera azul, bisel azul, brazalete de acero)",
+   "referencia": "M79030B (probable, a confirmar en la caja o el reverso de la caja)",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta cerrada estimado para pieza usada en excelente estado con set completo; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para pieza usada en excelente estado con set completo; no hay descuento suficiente. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-03T03:42:11.924374+00:00",
+  "marca": "Tudor",
+  "titulo": "Vintage Tudor Prince Oysterdate Ranger 9050",
+  "total": 1500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920099214101",
+  "item_id": "v1|920099214101|0",
+  "triage": {
+   "modelo": "Tudor Oysterdate Ranger (Prince Oysterdate), acero, esfera negra",
+   "referencia": "9050",
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Precio muy por debajo del mercado para un 9050, pero podría tener esfera restaurada o piezas no originales; verificar autenticidad y estado antes de comprar."
+  },
+  "motivo": "triage: Precio muy por debajo del mercado para un 9050, pero podría tener esfera restaurada o piezas no originales; verificar autenticidad y estado antes de comprar. (justo 2800)"
  }
 ]
