@@ -2,40 +2,6 @@
  {
   "fecha": "2026-10-30T20:54:39.941038+00:00",
   "marca": "Tudor",
-  "titulo": "Tudor Pelagos LHD \"2021\" 25610TNL",
-  "total": 5003.54,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237153278703",
-  "item_id": "v1|237153278703|0",
-  "triage": {
-   "modelo": "Tudor Pelagos LHD (bisel cerámico negro, esfera negra, brazalete de titanio)",
-   "referencia": "25610TNL",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Precio pedido de US$5,004 con envío supera el mercado secundario de esta referencia (aprox. US$3,800-4,300 en estado bueno). Sin verificar la corona ni los papeles desde la foto."
-  },
-  "motivo": "triage: Precio pedido de US$5,004 con envío supera el mercado secundario de esta referencia (aprox. US$3,800-4,300 en estado bueno). Sin verificar la corona ni los papeles desde la foto. (justo 4000)"
- },
- {
-  "fecha": "2026-10-30T20:54:39.941038+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Oyster-Prince Ref 7809 Mens 34mm 1950s Automatic Vintage RA843B",
-  "total": 4300.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257825872304",
-  "item_id": "v1|257825872304|0",
-  "triage": {
-   "modelo": "Tudor Oyster Prince Rotor Self-Winding (Oyster-Prince, años 1950)",
-   "referencia": "7809",
-   "precio_justo_usd": 2500,
-   "interesante": false,
-   "nota": "Reloj vintage de acero de 34 mm en estado Good; se vende típicamente en torno a US$2,000-3,000, y US$4,300 queda muy por encima del mercado."
-  },
-  "motivo": "triage: Reloj vintage de acero de 34 mm en estado Good; se vende típicamente en torno a US$2,000-3,000, y US$4,300 queda muy por encima del mercado. (justo 2500)"
- },
- {
-  "fecha": "2026-10-30T20:54:39.941038+00:00",
-  "marca": "Tudor",
   "titulo": "Tudor  Pelagos Titanium LHD 42MM Watch  25610TNL Box & Paper Complete",
   "total": 3925.95,
   "condicion": "Pre-owned - Excellent",
@@ -11032,5 +10998,39 @@
    "nota": "Precio pedido de US$3300 muy por encima del valor de venta usado (aprox. US$1,800-2,500 según estado, caja y papeles). No es una oportunidad."
   },
   "motivo": "triage: Precio pedido de US$3300 muy por encima del valor de venta usado (aprox. US$1,800-2,500 según estado, caja y papeles). No es una oportunidad. (justo 2200)"
+ },
+ {
+  "fecha": "2026-11-03T18:27:58.537180+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust - Ref. 16233 - 36mm Stainless Steel & Yellow Gold",
+  "total": 7695.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287702448119",
+  "item_id": "v1|287702448119|0",
+  "referencia": "16233",
+  "mercado": {
+   "n": 29,
+   "p25": 5399,
+   "mediana": 6095
+  },
+  "ratio_mercado": 1.425,
+  "motivo": "precio normal (143 % del cuartil bajo de 16233)"
+ },
+ {
+  "fecha": "2026-11-03T18:27:58.537180+00:00",
+  "marca": "Tudor",
+  "titulo": "2021 Tudor Black Bay 58 79030B Blue Stainless Automatic 39mm Watch Box Papers",
+  "total": 3451.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267832286286",
+  "item_id": "v1|267832286286|0",
+  "referencia": "79030B",
+  "mercado": {
+   "n": 14,
+   "p25": 3495,
+   "mediana": 3532
+  },
+  "ratio_mercado": 0.988,
+  "motivo": "precio normal (99 % del cuartil bajo de 79030B)"
  }
 ]
