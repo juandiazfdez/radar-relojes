@@ -1334,5 +1334,67 @@
    "precio_reventa_rd_usd": 2500
   },
   "ratio_justo": 0.783
+ },
+ {
+  "fecha": "2026-11-03T03:57:11.620784+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Oyster Prince Ranger 7995/0",
+  "precio": 1500.0,
+  "envio": 0.0,
+  "total": 1500.0,
+  "mercado": null,
+  "triage": {
+   "modelo": "Tudor Oyster Prince Ranger (vintage, dial con 'RANGER' y 'SELF-WINDING')",
+   "referencia": "7995/0",
+   "precio_justo_usd": 2000,
+   "interesante": true,
+   "nota": "Ranger vintage en acero con esfera original visible; precio ~25% bajo el estimado conservador. Verificar autenticidad, esfera, manecillas y estado del movimiento antes de comprar."
+  },
+  "vendedor": "wristwatch26",
+  "valoraciones": 12,
+  "pct_positivo": "100.0",
+  "url": "https://www.ebay.com/itm/920099275080",
+  "item_id": "v1|920099275080|0",
+  "info": {
+   "departamento": "Men",
+   "referencia": null,
+   "modelo_esp": "TUDOR Oyster Prince",
+   "caja_mm": null,
+   "material": null,
+   "ano": null,
+   "movimiento": "Mechanical (Automatic)",
+   "caja_original": "No",
+   "papeles": "No",
+   "condicion": "Pre-owned - Good",
+   "condicion_id": "3000",
+   "condicion_desc": "",
+   "garantia_autenticidad": false,
+   "devoluciones": false,
+   "amarillas": [],
+   "imagenes": [
+    "https://i.ebayimg.com/images/g/~R4AAeSwShpq6Vjd/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/93MAAeSwMxJq6Vjd/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/bQQAAeSww9hq6Vjd/s-l1600.jpg"
+   ]
+  },
+  "claude": {
+   "veredicto": "alerta",
+   "modelo": "Tudor Oyster Prince Ranger 7995/0 (acero, 34mm, automático, vintage)",
+   "estado": "Bueno para su edad: caja pulida con lugs algo suaves, esfera con pátina, correa de cuero no original, servicio desconocido",
+   "riesgo_autenticidad": "medio",
+   "completo": false,
+   "razones": [
+    "Esfera negra con 'TUDOR OYSTER-PRINCE', 'RANGER', 'SELF-WINDING' y 'T SWISS T' abajo, números 12-9-3-6 con bastones y lume envejecido. Coincide con un Ranger 7995 y no tiene señales evidentes de réplica.",
+    "Fondo con 'ORIGINAL OYSTER CASE BY ROLEX GENEVA', correcto para Tudor de esa época. La caja (34mm, bisel liso, corona tipo Rolex) es coherente con la 7995/0.",
+    "Fotos propias de la pieza, no de catálogo ni robadas. Falta foto del movimiento y del interior del fondo, y no se ve el número de serie ni de referencia entre los lugs. Hay que pedirlos para confirmar que la referencia y el movimiento son originales.",
+    "Las manecillas son el punto débil: la minutera tiene un bloque de lume rectangular raro y el lume de las agujas tiene un tono distinto al de los índices. Pueden ser repuestos o estar relumadas. En un Ranger esto resta valor, y hay que confirmar si la esfera es original o está repintada.",
+    "Servicio desconocido, sin garantía de resistencia al agua, sin caja ni papeles, correa genérica. Habrá que invertir en revisión o servicio, unos US$250-400.",
+    "El vendedor no ofrece garantía de autenticidad ni devoluciones, y avisa de que no garantiza la originalidad de todos los componentes. Tiene solo 12 valoraciones. Eso se toma como información, pero con compra final el riesgo es mayor.",
+    "A US$1,500 está unos 20-25% bajo un valor conservador de cierre para un 7995/0 con esfera de aspecto original pero sin servicio ni papeles (~US$1,900-2,000). El margen es razonable si las agujas y la esfera resultan originales, pero se reduce si hay que cambiarlas o dar servicio completo."
+   ],
+   "precio_justo_usd": 1900,
+   "precio_reventa_rd_usd": 2300
+  },
+  "ratio_justo": 0.789
  }
 ]

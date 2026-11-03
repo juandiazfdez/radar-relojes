@@ -2,46 +2,6 @@
  {
   "fecha": "2026-10-30T17:39:26.691543+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 36mm W6920047 18K Yellow Gold/Stainless Steel Unisex Watch",
-  "total": 7323.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840075596118",
-  "item_id": "v1|840075596118|0",
-  "referencia": "W6920047",
-  "mercado": {
-   "n": 6,
-   "p25": 6200,
-   "mediana": 6600
-  },
-  "ratio_mercado": 1.181,
-  "motivo": "precio normal (118 % del cuartil bajo de W6920047)"
- },
- {
-  "fecha": "2026-10-30T17:39:26.691543+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Cle De Cartier  WSCL0005 Stainless Steel Unisex Watch",
-  "total": 4660.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840075593121",
-  "item_id": "v1|840075593121|0",
-  "referencia": "WSCL0005",
-  "mercado": {
-   "n": 4,
-   "p25": 3200,
-   "mediana": 3714
-  },
-  "triage": {
-   "modelo": "Cartier Clé de Cartier 40 mm acero automático, esfera plateada con numerales romanos azules",
-   "referencia": "WSCL0005",
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "Precio pedido cercano al valor de mercado para usado en buen estado; no hay descuento de al menos 15 % y faltan datos sobre caja y papeles."
-  },
-  "motivo": "triage: Precio pedido cercano al valor de mercado para usado en buen estado; no hay descuento de al menos 15 % y faltan datos sobre caja y papeles. (justo 4500)"
- },
- {
-  "fecha": "2026-10-30T17:39:26.691543+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Panther  23.5mm Vintage 18K Yellow Gold Women's Watch",
   "total": 16265.0,
   "condicion": "Pre-owned - Good",
@@ -11140,5 +11100,47 @@
    "nota": "Precio muy por debajo del mercado para un 9050, pero podría tener esfera restaurada o piezas no originales; verificar autenticidad y estado antes de comprar."
   },
   "motivo": "triage: Precio muy por debajo del mercado para un 9050, pero podría tener esfera restaurada o piezas no originales; verificar autenticidad y estado antes de comprar. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-03T03:57:11.620784+00:00",
+  "marca": "Rolex",
+  "titulo": "2002 Rolex Submariner Blue 16613 40mm 18k Yellow Gold Stainless Steel Box Paper",
+  "total": 12895.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206662110187",
+  "item_id": "v1|206662110187|0",
+  "referencia": "16613",
+  "mercado": {
+   "n": 88,
+   "p25": 11770,
+   "mediana": 12000
+  },
+  "ratio_mercado": 1.096,
+  "motivo": "precio normal (110 % del cuartil bajo de 16613)"
+ },
+ {
+  "fecha": "2026-11-03T03:57:11.620784+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Oyster Prince Ranger 7995/0",
+  "total": 1500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920099275080",
+  "item_id": "v1|920099275080|0",
+  "triage": {
+   "modelo": "Tudor Oyster Prince Ranger (vintage, dial con 'RANGER' y 'SELF-WINDING')",
+   "referencia": "7995/0",
+   "precio_justo_usd": 2000,
+   "interesante": true,
+   "nota": "Ranger vintage en acero con esfera original visible; precio ~25% bajo el estimado conservador. Verificar autenticidad, esfera, manecillas y estado del movimiento antes de comprar."
+  },
+  "referencia": null,
+  "claude": {
+   "veredicto": "alerta",
+   "precio_justo_usd": 1900,
+   "riesgo_autenticidad": "medio",
+   "estado": "Bueno para su edad: caja pulida con lugs algo suaves, esfera con pátina, correa de cuero no original, servicio desconocido"
+  },
+  "ratio_justo": 0.789,
+  "motivo": "ALERTA"
  }
 ]
