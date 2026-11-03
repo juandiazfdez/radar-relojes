@@ -2,29 +2,6 @@
  {
   "fecha": "2026-10-30T17:54:26.712787+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Santos Large SS/Yellow Gold W2sa0030 Warranty Until 8/2033",
-  "total": 9950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377608667389",
-  "item_id": "v1|377608667389|0",
-  "referencia": "W2SA0030",
-  "mercado": {
-   "n": 1,
-   "p25": 13097,
-   "mediana": 13097
-  },
-  "triage": {
-   "modelo": "Cartier Santos de Cartier Large, acero y oro amarillo, esfera gris con numerales romanos",
-   "referencia": "W2SA0030",
-   "precio_justo_usd": 7800,
-   "interesante": false,
-   "nota": "Precio pedido de US$9.950 supera el mercado secundario para un Santos Large bicolor de garantía reciente; no hay descuento."
-  },
-  "motivo": "triage: Precio pedido de US$9.950 supera el mercado secundario para un Santos Large bicolor de garantía reciente; no hay descuento. (justo 7800)"
- },
- {
-  "fecha": "2026-10-30T17:54:26.712787+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Santos 100 2656 W20073X8 Steel Mid-Size 38MM Men's Automatic Watch",
   "total": 4935.0,
   "condicion": "Pre-owned - Excellent",
@@ -11099,5 +11076,22 @@
    "nota": "El título de '1920s' no es coherente con este diseño ni con Rolex; probablemente sea un reloj de los años 70. Sin referencia visible ni papeles, el precio pedido de 5995 está por encima de lo que se vende realmente."
   },
   "motivo": "triage: El título de '1920s' no es coherente con este diseño ni con Rolex; probablemente sea un reloj de los años 70. Sin referencia visible ni papeles, el precio pedido de 5995 está por encima de lo que se vende realmente. (justo 4500)"
+ },
+ {
+  "fecha": "2026-11-03T12:42:36.094658+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust - BARELY used - only worn ONCE EVER!",
+  "total": 8108.4,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407332160298",
+  "item_id": "v1|407332160298|0",
+  "triage": {
+   "modelo": "Rolex Datejust 41 (esfera azul, bisel acanalado, brazalete Jubilee)",
+   "referencia": "126300 (probable; si el bisel es de oro blanco podría ser 126334)",
+   "precio_justo_usd": 8800,
+   "interesante": false,
+   "nota": "Precio cercano al mercado secundario para acero azul, pero sin ahorro de al menos 15%; verificar referencia, papeles y autenticidad."
+  },
+  "motivo": "triage: Precio cercano al mercado secundario para acero azul, pero sin ahorro de al menos 15%; verificar referencia, papeles y autenticidad. (justo 8800)"
  }
 ]
