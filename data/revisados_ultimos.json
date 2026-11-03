@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-10-30T22:39:39.876533+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay Ceramic 41mm M7941A1ACNU Black Ceramic Bracelet Unworn",
-  "total": 9291.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/860099016928",
-  "item_id": "v1|860099016928|0",
-  "triage": {
-   "modelo": "Tudor Black Bay Ceramic 41mm (bisel y esfera negros, brazalete)",
-   "referencia": "M7941A1ACNU (no verificable en la foto)",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del retail (~US$4,400) y del mercado gris; la referencia del título no coincide con lo visible y conviene verificarla."
-  },
-  "motivo": "triage: Precio pedido muy por encima del retail (~US$4,400) y del mercado gris; la referencia del título no coincide con lo visible y conviene verificarla. (justo 4000)"
- },
- {
-  "fecha": "2026-10-30T22:54:39.700290+00:00",
-  "marca": "Rolex",
-  "titulo": "2016 Rolex Submariner Date 40mm 18K Yellow Gold & Steel Bluesy 116613LB Full Set",
-  "total": 15099.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257826003153",
-  "item_id": "v1|257826003153|0",
-  "referencia": "116613LB",
-  "mercado": {
-   "n": 53,
-   "p25": 15990,
-   "mediana": 16000
-  },
-  "ratio_mercado": 0.944,
-  "motivo": "precio normal (94 % del cuartil bajo de 116613LB)"
- },
- {
-  "fecha": "2026-10-30T22:54:39.700290+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date 1500 34mm 1960s Mens Automatic All Original RA809",
-  "total": 7300.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940053270174",
-  "item_id": "v1|940053270174|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date (Datejust sin cyclops, bisel liso)",
-   "referencia": "1500",
-   "precio_justo_usd": 5500,
-   "interesante": false,
-   "nota": "Esfera plateada con texto 'Superlative Chronometer' y bisel liso compatibles con la 1500 de 34 mm; el precio pedido de US$7300 supera el valor de venta cerrada para un ejemplar en estado 'Good', y el 'RA809' del título no aclara la autenticidad."
-  },
-  "motivo": "triage: Esfera plateada con texto 'Superlative Chronometer' y bisel liso compatibles con la 1500 de 34 mm; el precio pedido de US$7300 supera el valor de venta cerrada para un ejemplar en estado 'Good', y el 'RA809' del título no aclara la autenticidad. (justo 5500)"
- },
- {
   "fecha": "2026-10-30T22:54:39.700290+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR SS watch Men Automatic with box and papers",
@@ -11027,5 +10976,63 @@
    "nota": "El precio pedido de US$9.000 supera ampliamente el mercado gris de un Tudor actual con caja y papeles; la referencia del título no se corresponde claramente con lo que se ve."
   },
   "motivo": "triage: El precio pedido de US$9.000 supera ampliamente el mercado gris de un Tudor actual con caja y papeles; la referencia del título no se corresponde claramente con lo que se ve. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-03T19:57:50.788994+00:00",
+  "marca": "Rolex",
+  "titulo": "J41568: Rolex DeepSea Sea-Dweller, Ref 126660, 2019 Full Set + 2026 Service Card",
+  "total": 14500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900062880116",
+  "item_id": "v1|900062880116|0",
+  "referencia": "126660",
+  "mercado": {
+   "n": 76,
+   "p25": 13000,
+   "mediana": 13994
+  },
+  "ratio_mercado": 1.115,
+  "motivo": "precio normal (112 % del cuartil bajo de 126660)"
+ },
+ {
+  "fecha": "2026-11-03T19:57:50.788994+00:00",
+  "marca": "Rolex",
+  "titulo": "42064: Rolex Ladies Datejust, Ref. 69173, Box and Papers Circa 1984",
+  "total": 6800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237161383793",
+  "item_id": "v1|237161383793|0",
+  "referencia": "69173",
+  "mercado": {
+   "n": 24,
+   "p25": 4257,
+   "mediana": 4450
+  },
+  "ratio_mercado": 1.597,
+  "motivo": "precio normal (160 % del cuartil bajo de 69173)"
+ },
+ {
+  "fecha": "2026-11-03T19:57:50.788994+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX -  2-Tone EXPLORER I REF 124273",
+  "total": 9660.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407334287418",
+  "item_id": "v1|407334287418|0",
+  "referencia": "124273_used_black_oys",
+  "mercado": {
+   "n": 13,
+   "p25": 11500,
+   "mediana": 12122
+  },
+  "ratio_mercado": 0.84,
+  "claude": {
+   "veredicto": "alerta",
+   "precio_justo_usd": 10600,
+   "riesgo_autenticidad": "bajo",
+   "estado": "Muy buen estado, casi nuevo; el brazalete tiene algunos rayones leves en los eslabones de oro, con caja y papeles de 2022"
+  },
+  "ratio_justo": 0.911,
+  "motivo": "precio normal segun revision (91 % del justo 10600)"
  }
 ]
