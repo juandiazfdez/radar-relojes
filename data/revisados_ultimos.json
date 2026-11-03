@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-10-31T17:40:12.710673+00:00",
-  "marca": "Rolex",
-  "titulo": "1985 Rolex Day-Date President 18038 Champagne 18k Yellow Gold 36mm Watch w/ BOX",
-  "total": 21696.12,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287694842442",
-  "item_id": "v1|287694842442|0",
-  "referencia": "18038",
-  "mercado": {
-   "n": 18,
-   "p25": 9369,
-   "mediana": 10484
-  },
-  "ratio_mercado": 2.316,
-  "motivo": "precio normal (232 % del cuartil bajo de 18038)"
- },
- {
-  "fecha": "2026-10-31T17:40:12.710673+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Dumont WSSA0085 40MM Steel,Silver Roman Dial, BOX & PAPERS",
-  "total": 5700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117496737160",
-  "item_id": "v1|117496737160|0",
-  "referencia": "WSSA0085",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Santos-Dumont (caja de acero, esfera plateada con numerales romanos, correa de piel negra)",
-   "referencia": "WSSA0085 (según el título; no verificable en la foto)",
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "Precio pedido de US$5,700 por encima de lo que suele cerrarse en el mercado usado para esta referencia; la foto no permite confirmar la referencia exacta."
-  },
-  "motivo": "triage: Precio pedido de US$5,700 por encima de lo que suele cerrarse en el mercado usado para esta referencia; la foto no permite confirmar la referencia exacta. (justo 5000)"
- },
- {
-  "fecha": "2026-10-31T17:55:13.141352+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex Bubbleback Stainless Steel Automatic 32mm Ref. 2940",
-  "total": 2363.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257827121239",
-  "item_id": "v1|257827121239|0",
-  "triage": {
-   "modelo": "Rolex Bubbleback (Oyster) de acero, carcasa de 32 mm, cuerda manual, años 1930-40",
-   "referencia": "2940",
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "La foto no muestra claramente la corona ni el logo Rolex, y la pulsera de malla es atípica para esta referencia. Sin verificar autenticidad no hay oportunidad clara; si fuera genuino, el precio rondaría US$2,500-3,500 según esfera y estado."
-  },
-  "motivo": "triage: La foto no muestra claramente la corona ni el logo Rolex, y la pulsera de malla es atípica para esta referencia. Sin verificar autenticidad no hay oportunidad clara; si fuera genuino, el precio rondaría US$2,500-3,500 según esfera y estado. (justo 2800)"
- },
- {
   "fecha": "2026-10-31T17:55:13.141352+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Anglaise Steel Rose Gold Auto Rectangle Watch 47mm x 36mm W5310006",
@@ -10978,5 +10921,62 @@
   },
   "ratio_mercado": 1.201,
   "motivo": "precio normal (120 % del cuartil bajo de 2878)"
+ },
+ {
+  "fecha": "2026-11-03T22:13:01.774386+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX 18K White Gold 40mm Daytona Cosmograph 116519 Box Warranty MINTY",
+  "total": 26990.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237161603488",
+  "item_id": "v1|237161603488|0",
+  "referencia": "116519",
+  "mercado": {
+   "n": 23,
+   "p25": 40392,
+   "mediana": 43895
+  },
+  "ratio_mercado": 0.668,
+  "motivo": "descripcion: broken"
+ },
+ {
+  "fecha": "2026-11-03T22:13:01.774386+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master 16758 Watch 18K Yellow Gold",
+  "total": 107881.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257829866560",
+  "item_id": "v1|257829866560|0",
+  "referencia": "16758",
+  "mercado": {
+   "n": 6,
+   "p25": 28749,
+   "mediana": 30562
+  },
+  "ratio_mercado": 3.753,
+  "motivo": "precio normal (375 % del cuartil bajo de 16758)"
+ },
+ {
+  "fecha": "2026-11-03T22:13:01.774386+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 6234 Chronograph Watch Head Stainless Steel with Detached Bracelet",
+  "total": 30000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920090924442",
+  "item_id": "v1|920090924442|0",
+  "referencia": "6234",
+  "mercado": {
+   "n": 2,
+   "p25": 42995,
+   "mediana": 44022
+  },
+  "triage": {
+   "modelo": "Rolex Cosmograph vintage (cabeza de cronógrafo de acero, con brazalete suelto); identificación no confirmada en la imagen",
+   "referencia": "6234",
+   "precio_justo_usd": 40000,
+   "interesante": false,
+   "nota": "Solo se ve la cabeza y un brazalete suelto, y el logo y la esfera no son legibles, así que la autenticidad y si las piezas son originales no se pueden verificar. Si fuera un 6234 genuino en buen estado, el valor sería mucho mayor, pero como cabeza incompleta con dudas de autenticidad no se puede confiar en esa cifra."
+  },
+  "motivo": "triage: Solo se ve la cabeza y un brazalete suelto, y el logo y la esfera no son legibles, así que la autenticidad y si las piezas son originales no se pueden verificar. Si fuera un 6234 genuino en buen estado, el valor sería mucho mayor, pero como cabeza incompleta con dudas de autenticidad no se puede confiar en esa cifra. (justo 40000)"
  }
 ]
