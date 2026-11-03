@@ -1,68 +1,5 @@
 [
  {
-  "fecha": "2026-10-31T20:10:23.181198+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sea-Dweller 43 18k Yellow Gold/Steel Black Mens Watch +Card '21 126603",
-  "total": 19250.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117496934864",
-  "item_id": "v1|117496934864|0",
-  "referencia": "126603",
-  "mercado": {
-   "n": 40,
-   "p25": 17358,
-   "mediana": 18050
-  },
-  "ratio_mercado": 1.109,
-  "motivo": "precio normal (111 % del cuartil bajo de 126603)"
- },
- {
-  "fecha": "2026-10-31T20:25:22.764484+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank A Guichets WGTA0234",
-  "total": 118000.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/860101300776",
-  "item_id": "v1|860101300776|0",
-  "referencia": "WGTA0234",
-  "mercado": {
-   "n": 2,
-   "p25": 102189,
-   "mediana": 105092
-  },
-  "triage": {
-   "modelo": "Cartier Tank à Guichets (oro amarillo, correa de cocodrilo verde)",
-   "referencia": "WGTA0234 (según título, no verificable en la foto)",
-   "precio_justo_usd": 22000,
-   "interesante": false,
-   "nota": "Precio pedido de US$118.000 muy por encima del valor de mercado estimado para este modelo nuevo con caja y papeles."
-  },
-  "motivo": "triage: Precio pedido de US$118.000 muy por encima del valor de mercado estimado para este modelo nuevo con caja y papeles. (justo 22000)"
- },
- {
-  "fecha": "2026-10-31T20:25:22.764484+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor 76100",
-  "total": 5500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336872415889",
-  "item_id": "v1|336872415889|0",
-  "referencia": "76100",
-  "mercado": {
-   "n": 5,
-   "p25": 7280,
-   "mediana": 9500
-  },
-  "ratio_mercado": 0.755,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 3200,
-   "riesgo_autenticidad": "medio",
-   "estado": "Head de reloj sin brazalete original, bisel desgastado, corona que parece de Rolex, sin fondo de caja, sin caja ni papeles, servicio sin documentar"
-  },
-  "motivo": "Claude descarto: La foto lateral muestra una corona con la corona de cinco puntas de Rolex en un reloj que debería llevar el escudo/rosa de Tudor. Es una pieza no original o una foto de otro reloj. En ambos casos es una señal grave y baja el valor.; Además, la caja de la foto lateral parece distinta a la de las otras fotos (asa pulida con agujero pasante). Puede ser otro reloj, y entonces las fotos no corresponden al reloj en venta."
- },
- {
   "fecha": "2026-10-31T20:25:22.764484+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay Fifty-Eight 39mm Blue – 79030B – Box & Papers",
@@ -11009,5 +10946,56 @@
    "nota": "Precio pedido por encima del valor estimado para un 2022 con caja y papeles en estado excelente; no hay descuento de al menos 15%."
   },
   "motivo": "triage: Precio pedido por encima del valor estimado para un 2022 con caja y papeles en estado excelente; no hay descuento de al menos 15%. (justo 3400)"
+ },
+ {
+  "fecha": "2026-11-03T23:43:00.579712+00:00",
+  "marca": "Rolex",
+  "titulo": "SEPT 2026 UNWORN Rolex Oyster Perpetual 134303 100 Year Anniversary 41mm Watch",
+  "total": 15487.14,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/366783033068",
+  "item_id": "v1|366783033068|0",
+  "referencia": "134303",
+  "mercado": {
+   "n": 6,
+   "p25": 14999,
+   "mediana": 15395
+  },
+  "ratio_mercado": 1.033,
+  "motivo": "precio normal (103 % del cuartil bajo de 134303)"
+ },
+ {
+  "fecha": "2026-11-03T23:43:00.579712+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner 16613 Two Tone. Very Good Condition. Excellent Time Accuracy ",
+  "total": 10047.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307264962774",
+  "item_id": "v1|307264962774|0",
+  "referencia": "16613",
+  "mercado": {
+   "n": 88,
+   "p25": 11770,
+   "mediana": 12000
+  },
+  "ratio_mercado": 0.854,
+  "motivo": "precio normal (85 % del cuartil bajo de 16613)"
+ },
+ {
+  "fecha": "2026-11-03T23:43:00.579712+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Chrono Flamingo Blue - 79360N-0024",
+  "total": 10497.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800873279442",
+  "item_id": "v1|800873279442|0",
+  "referencia": "79360N-0024",
+  "mercado": {
+   "n": 58,
+   "p25": 4675,
+   "mediana": 5339
+  },
+  "ratio_mercado": 2.245,
+  "motivo": "precio normal (225 % del cuartil bajo de 79360N-0024)"
  }
 ]
