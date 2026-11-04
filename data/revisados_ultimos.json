@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-01T02:10:33.428526+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Heritage 79230N-0009 Swiss Automatic Dive Watch",
-  "total": 3500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198761134592",
-  "item_id": "v1|198761134592|0",
-  "referencia": "79230N-0009",
-  "mercado": {
-   "n": 15,
-   "p25": 3375,
-   "mediana": 3499
-  },
-  "ratio_mercado": 1.037,
-  "motivo": "precio normal (104 % del cuartil bajo de 79230N-0009)"
- },
- {
   "fecha": "2026-11-01T02:25:32.438395+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual Date Ref. 1505 34mm Watch",
@@ -10999,5 +10982,28 @@
    "nota": "El título dice oro blanco, pero la foto muestra brazalete de acero, probablemente un modelo de acero. Para acero, US$4,740 está por encima del mercado; si fuera oro blanco el precio sería bajo, pero el listado es contradictorio y podría ser engañoso."
   },
   "motivo": "triage: El título dice oro blanco, pero la foto muestra brazalete de acero, probablemente un modelo de acero. Para acero, US$4,740 está por encima del mercado; si fuera oro blanco el precio sería bajo, pero el listado es contradictorio y podría ser engañoso. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-04T09:13:09.988263+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX DAYTONA COSMOGRAPH 16519 40MM BLACK ZENITH 18K GOLD LEATHER WATCH w/ PAPER",
+  "total": 32690.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880081605022",
+  "item_id": "v1|880081605022|0",
+  "referencia": "16519",
+  "mercado": {
+   "n": 4,
+   "p25": 41465,
+   "mediana": 67872
+  },
+  "triage": {
+   "modelo": "Rolex Daytona Cosmograph (esfera negra, bisel tachymeter, oro blanco aparente)",
+   "referencia": "16519 (según título; la foto parece una 116519 de oro blanco)",
+   "precio_justo_usd": 30000,
+   "interesante": false,
+   "nota": "El título dice 16519 (18K, Zenith) pero la foto muestra un Daytona de oro blanco, más propio de la 116519, que vale bastante más; con la referencia del título, el precio pedido no está 15 % por debajo del mercado."
+  },
+  "motivo": "triage: El título dice 16519 (18K, Zenith) pero la foto muestra un Daytona de oro blanco, más propio de la 116519, que vale bastante más; con la referencia del título, el precio pedido no está 15 % por debajo del mercado. (justo 30000)"
  }
 ]
