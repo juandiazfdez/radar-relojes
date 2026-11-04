@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-01T11:25:43.365482+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Stainless Steel Royal Day/Date  Watch 40mm M2840D1A0 Box & Papers 2026",
-  "total": 3180.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/327433584423",
-  "item_id": "v1|327433584423|0",
-  "triage": {
-   "modelo": "Tudor Royal Day/Date (acero, esfera negra, brazalete)",
-   "referencia": "M2840D1A0 (según título; no verificable en la imagen, la referencia Royal Day/Date de 40-41 mm podría ser otra)",
-   "precio_justo_usd": 3100,
-   "interesante": false,
-   "nota": "Royal de acero usado en excelente estado con caja y papeles; el precio pedido de US$3,180 está en línea con el mercado y no supera el umbral del 15 %."
-  },
-  "motivo": "triage: Royal de acero usado en excelente estado con caja y papeles; el precio pedido de US$3,180 está en línea con el mercado y no supera el umbral del 15 %. (justo 3100)"
- },
- {
   "fecha": "2026-11-01T11:55:42.493133+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Date 1500 Oyster Perpetual White Roman Steel Automatic Wristwatch",
@@ -11006,5 +10989,28 @@
    "nota": "El precio pedido de US$8,860 está por encima del valor de venta cerrada estimado para este modelo de segunda mano, así que no cumple el umbral del 15 % por debajo."
   },
   "motivo": "triage: El precio pedido de US$8,860 está por encima del valor de venta cerrada estimado para este modelo de segunda mano, así que no cumple el umbral del 15 % por debajo. (justo 7000)"
+ },
+ {
+  "fecha": "2026-11-04T13:13:20.944892+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Calibre de Cartier Diver 42mm Black Rubber W7100056 2017 Box & Card",
+  "total": 4315.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800876290719",
+  "item_id": "v1|800876290719|0",
+  "referencia": "W7100056",
+  "mercado": {
+   "n": 1,
+   "p25": 5900,
+   "mediana": 5900
+  },
+  "triage": {
+   "modelo": "Cartier Calibre de Cartier Diver 42 mm, esfera negra, bisel negro, caja de acero, correa de caucho negra",
+   "referencia": "W7100056",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Precio pedido unos 14 % por debajo de un estimado conservador de venta cerrada para W7100056 de 2017 con caja y tarjeta, pero no llega al umbral del 15 %."
+  },
+  "motivo": "triage: Precio pedido unos 14 % por debajo de un estimado conservador de venta cerrada para W7100056 de 2017 con caja y tarjeta, pero no llega al umbral del 15 %. (justo 5000)"
  }
 ]
