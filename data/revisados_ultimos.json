@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-02T03:56:11.435508+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthère Small Silver",
-  "total": 5033.99,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/860104897710",
-  "item_id": "v1|860104897710|0",
-  "triage": {
-   "modelo": "Cartier Panthère Small (cuarzo, acero, esfera plateada)",
-   "referencia": null,
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de mercado gris para un Panthère pequeño nuevo con caja y papeles; la foto no permite confirmar la referencia exacta."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de mercado gris para un Panthère pequeño nuevo con caja y papeles; la foto no permite confirmar la referencia exacta. (justo 4300)"
- },
- {
-  "fecha": "2026-11-02T04:11:12.455800+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 1981 Rolex Oysterquartz Datejust Quartz Wristwatch Steel & 18k 17013",
-  "total": 7119.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147661679971",
-  "item_id": "v1|147661679971|0",
-  "referencia": "17013",
-  "mercado": {
-   "n": 18,
-   "p25": 6000,
-   "mediana": 6900
-  },
-  "ratio_mercado": 1.187,
-  "motivo": "precio normal (119 % del cuartil bajo de 17013)"
- },
- {
-  "fecha": "2026-11-02T04:11:12.455800+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 35mm 1974 Rolex Oysterdate Precision Wristwatch 1225 Steel Full Set 6694",
-  "total": 5537.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147661679336",
-  "item_id": "v1|147661679336|0",
-  "referencia": "6694",
-  "mercado": {
-   "n": 14,
-   "p25": 3499,
-   "mediana": 3950
-  },
-  "ratio_mercado": 1.582,
-  "motivo": "precio normal (158 % del cuartil bajo de 6694)"
- },
- {
   "fecha": "2026-11-02T04:11:12.455800+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Royal \"36mm - Glacier Blue\" 2836C1A0-0106",
@@ -11048,5 +10997,62 @@
    "nota": "Referencia 79270 de acero usada, estado bueno; el precio pedido de US$8600 está muy por encima del valor de mercado, y el título de 'rara' no lo justifica."
   },
   "motivo": "triage: Referencia 79270 de acero usada, estado bueno; el precio pedido de US$8600 está muy por encima del valor de mercado, y el título de 'rara' no lo justifica. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-04T17:28:31.939055+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX VINTAGE 15003 14K GOLD /Stainless Steel DATE  34MM OYSTER PERPETUAL",
+  "total": 6264.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336879724249",
+  "item_id": "v1|336879724249|0",
+  "referencia": "15003",
+  "mercado": {
+   "n": 4,
+   "p25": 6491,
+   "mediana": 6745
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date 34 mm, bicolor acero y oro 14K",
+   "referencia": "15003",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Referencia 15003 bicolor de la era 1977-1988; el precio pedido de US$6264 está muy por encima del mercado de venta cerrada, aunque depende de esfera, estado y papeles."
+  },
+  "motivo": "triage: Referencia 15003 bicolor de la era 1977-1988; el precio pedido de US$6264 está muy por encima del mercado de venta cerrada, aunque depende de esfera, estado y papeles. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-04T17:28:31.939055+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX 16600 SEA DWELLER STAINLESS OYSTER DATE (B08002542)",
+  "total": 10140.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/900065524502",
+  "item_id": "v1|900065524502|0",
+  "referencia": "16600",
+  "mercado": {
+   "n": 54,
+   "p25": 9845,
+   "mediana": 10000
+  },
+  "ratio_mercado": 1.03,
+  "motivo": "precio normal (103 % del cuartil bajo de 16600)"
+ },
+ {
+  "fecha": "2026-11-04T17:28:31.939055+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX Gent's Wristwatch 116660 DEEP SEA SEA DWELLER - STAINLESS (B08003317)",
+  "total": 15045.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307266537761",
+  "item_id": "v1|307266537761|0",
+  "referencia": "116660",
+  "mercado": {
+   "n": 48,
+   "p25": 10092,
+   "mediana": 11936
+  },
+  "ratio_mercado": 1.491,
+  "motivo": "precio normal (149 % del cuartil bajo de 116660)"
  }
 ]
