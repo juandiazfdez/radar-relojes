@@ -1,136 +1,5 @@
 [
  {
-  "fecha": "2026-11-02T16:11:46.278362+00:00",
-  "marca": "Rolex",
-  "titulo": "2023 Rolex Submariner STARBUCKS Green Stainless Steel 41mm 126610 LV BOX PAPERS",
-  "total": 16587.39,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940060105897",
-  "item_id": "v1|940060105897|0",
-  "referencia": "126610",
-  "mercado": {
-   "n": 78,
-   "p25": 14468,
-   "mediana": 14925
-  },
-  "ratio_mercado": 1.146,
-  "motivo": "precio normal (115 % del cuartil bajo de 126610)"
- },
- {
-  "fecha": "2026-11-02T16:11:46.278362+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR HERITAGE Black Bay Bronze 43mm M79250BM-001 Wristwatch w/ Bx & Bk",
-  "total": 3999.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128170705784",
-  "item_id": "v1|128170705784|0",
-  "referencia": "M79250BM",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay Bronze 43 mm (Heritage)",
-   "referencia": "M79250BM-0001 (según el título; la correa naranja de caucho no es la original)",
-   "precio_justo_usd": 3450,
-   "interesante": false,
-   "nota": "Precio pedido cerca del retail actual (~US$4,300) y por encima del mercado de segunda mano para estado 'Good'; no alcanza el descuento del 15 %."
-  },
-  "motivo": "triage: Precio pedido cerca del retail actual (~US$4,300) y por encima del mercado de segunda mano para estado 'Good'; no alcanza el descuento del 15 %. (justo 3450)"
- },
- {
-  "fecha": "2026-11-02T16:26:44.997880+00:00",
-  "marca": "Rolex",
-  "titulo": "NINE ORIGINAL AUTHENTIC ROLEX WARRANTY PAPER HOLDERS - ALL FOR ONE PRICE",
-  "total": 43.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257830369541",
-  "item_id": "v1|257830369541|0",
-  "triage": {
-   "modelo": "Lote de 9 fundas de papel de garantía Rolex (verde, sin reloj)",
-   "referencia": null,
-   "precio_justo_usd": 10,
-   "interesante": false,
-   "nota": "Las fotos muestran solo fundas de cartón de garantía vacías, no relojes. Tienen poco valor de reventa como lote; el precio de US$43 no es una oportunidad."
-  },
-  "motivo": "triage: Las fotos muestran solo fundas de cartón de garantía vacías, no relojes. Tienen poco valor de reventa como lote; el precio de US$43 no es una oportunidad. (justo 10)"
- },
- {
-  "fecha": "2026-11-02T16:26:44.997880+00:00",
-  "marca": "Tudor",
-  "titulo": "2019 TUDOR Heritage Black Bay 79230N Automatic Men's Watch 41MM",
-  "total": 3006.63,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168832899183",
-  "item_id": "v1|168832899183|0",
-  "referencia": "79230N",
-  "mercado": {
-   "n": 16,
-   "p25": 3350,
-   "mediana": 3574
-  },
-  "ratio_mercado": 0.898,
-  "motivo": "precio normal (90 % del cuartil bajo de 79230N)"
- },
- {
-  "fecha": "2026-11-02T16:41:45.079064+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 33mm WE902077 3753 Rose Gold Diamonds Ladies Watch Papers",
-  "total": 10025.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257830370069",
-  "item_id": "v1|257830370069|0",
-  "referencia": "WE902077",
-  "mercado": {
-   "n": 5,
-   "p25": 10540,
-   "mediana": 11452
-  },
-  "ratio_mercado": 0.951,
-  "motivo": "precio normal (95 % del cuartil bajo de WE902077)"
- },
- {
-  "fecha": "2026-11-02T17:11:45.809926+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 41 Two Tone SS/18k Yellow Gold Bluesy Mint 126618LB",
-  "total": 17750.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920097529506",
-  "item_id": "v1|920097529506|0",
-  "referencia": "126613lb",
-  "mercado": {
-   "n": 17,
-   "p25": 42950,
-   "mediana": 43995
-  },
-  "ratio_mercado": 0.413,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 15000,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Muy bueno/Mint con microrayas superficiales, set completo con garantía de 2023"
-  },
-  "motivo": "Claude descarto: El título dice 126618LB (oro amarillo macizo), pero las fotos, la descripción y las especificaciones corresponden a la 126613LB bicolor. El título está mal. Si alguien lo toma por oro macizo, el precio parece una ganga que no existe.; Los comparables de eBay (mediana US$43,995) no sirven. Son precios pedidos e inflados, y probablemente mezclan la 126618LB de oro macizo. No hay que usarlos como referencia."
- },
- {
-  "fecha": "2026-11-02T17:11:45.809926+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 30mm 1970 Rolex Oysterdate Precision Mechanical Wristwatch Steel 6466",
-  "total": 2373.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147662436495",
-  "item_id": "v1|147662436495|0",
-  "referencia": "6466",
-  "mercado": {
-   "n": 7,
-   "p25": 3429,
-   "mediana": 4200
-  },
-  "ratio_mercado": 0.692,
-  "motivo": "descripcion: broken"
- },
- {
   "fecha": "2026-11-02T17:11:45.809926+00:00",
   "marca": "Rolex",
   "titulo": "Vintage ROLEX  18kt Gold Ladies, Total Weight 50 Grams Battery-Modified-Elegant!",
@@ -11116,5 +10985,130 @@
   },
   "ratio_mercado": 1.835,
   "motivo": "precio normal (183 % del cuartil bajo de 69178)"
+ },
+ {
+  "fecha": "2026-11-04T19:58:32.457901+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 41mm Cookie Monster White Gold Oyster 126619LB B&P 2023",
+  "total": 40995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128175395749",
+  "item_id": "v1|128175395749|0",
+  "referencia": "126619LB",
+  "mercado": {
+   "n": 22,
+   "p25": 37999,
+   "mediana": 39960
+  },
+  "ratio_mercado": 1.079,
+  "motivo": "precio normal (108 % del cuartil bajo de 126619LB)"
+ },
+ {
+  "fecha": "2026-11-04T19:58:32.457901+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Bubbleback Vintage Watch",
+  "total": 4014.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840093596058",
+  "item_id": "v1|840093596058|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Bubbleback (vintage)",
+   "referencia": null,
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Referencia no identificable en la foto; precio pedido de US$4015 supera la estimación conservadora para un Bubbleback vintage en condición Good, y el certificado mostrado no confirma el modelo."
+  },
+  "motivo": "triage: Referencia no identificable en la foto; precio pedido de US$4015 supera la estimación conservadora para un Bubbleback vintage en condición Good, y el certificado mostrado no confirma el modelo. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-04T19:58:32.457901+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yacht-Master 16622 2007",
+  "total": 9000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407340394091",
+  "item_id": "v1|407340394091|0",
+  "referencia": "16622",
+  "mercado": {
+   "n": 26,
+   "p25": 9990,
+   "mediana": 11283
+  },
+  "ratio_mercado": 0.901,
+  "motivo": "precio normal (90 % del cuartil bajo de 16622)"
+ },
+ {
+  "fecha": "2026-11-04T19:58:32.457901+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Blue Sub 18k Yellow Gold Stainless Steel Watch No Holes 16613T",
+  "total": 13999.98,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147666632642",
+  "item_id": "v1|147666632642|0",
+  "referencia": "16613T",
+  "mercado": {
+   "n": 11,
+   "p25": 13600,
+   "mediana": 13700
+  },
+  "ratio_mercado": 1.029,
+  "motivo": "precio normal (103 % del cuartil bajo de 16613T)"
+ },
+ {
+  "fecha": "2026-11-04T19:58:32.457901+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 40mm Steel and Rose Gold Root Beer 126711CHNR 2023 Full Set!",
+  "total": 18950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206675826754",
+  "item_id": "v1|206675826754|0",
+  "referencia": "126711CHNR",
+  "mercado": {
+   "n": 93,
+   "p25": 20589,
+   "mediana": 21500
+  },
+  "ratio_mercado": 0.92,
+  "motivo": "precio normal (92 % del cuartil bajo de 126711CHNR)"
+ },
+ {
+  "fecha": "2026-11-04T19:58:32.457901+00:00",
+  "marca": "Rolex",
+  "titulo": "42147: Rolex GMT-Master II \"Coke\", Ref. 16710, Circa 2002",
+  "total": 13600.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237163883774",
+  "item_id": "v1|237163883774|0",
+  "referencia": "16710",
+  "mercado": {
+   "n": 76,
+   "p25": 13627,
+   "mediana": 14499
+  },
+  "ratio_mercado": 0.998,
+  "motivo": "precio normal (100 % del cuartil bajo de 16710)"
+ },
+ {
+  "fecha": "2026-11-04T19:58:32.457901+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise Ref 1820 18k Yellow Gold Ladies Watch 20mm x 25mm",
+  "total": 5850.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128175388236",
+  "item_id": "v1|128175388236|0",
+  "referencia": "1820",
+  "mercado": {
+   "n": 2,
+   "p25": 6818,
+   "mediana": 11409
+  },
+  "triage": {
+   "modelo": "Cartier Tank Française (tamaño pequeño, oro amarillo 18k, cuarzo, esfera con numerales romanos, correa de piel tipo lagarto burdeos)",
+   "referencia": "1820",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio pedido de US$5850 está muy por encima del valor de venta cerrada para esta referencia de oro en estado Good; la diferencia supera ampliamente el 15 %."
+  },
+  "motivo": "triage: Precio pedido de US$5850 está muy por encima del valor de venta cerrada para esta referencia de oro en estado Good; la diferencia supera ampliamente el 15 %. (justo 4000)"
  }
 ]
