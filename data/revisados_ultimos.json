@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-01T02:25:32.438395+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date 1501 Vintage 1960s Steel Riveted Oyster Bracelet",
-  "total": 2500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407330177185",
-  "item_id": "v1|407330177185|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date (caja Oyster de acero, bisel liso, esfera plateada con indices de bastón)",
-   "referencia": "1501",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Precio pedido ~17% bajo estimación, pero a US$2,500 un Rolex vintage de esta referencia exige verificar autenticidad, esfera, movimiento y que no sea una pieza armada; no se puede confirmar solo con la foto."
-  },
-  "motivo": "triage: Precio pedido ~17% bajo estimación, pero a US$2,500 un Rolex vintage de esta referencia exige verificar autenticidad, esfera, movimiento y que no sea una pieza armada; no se puede confirmar solo con la foto. (justo 3000)"
- },
- {
-  "fecha": "2026-11-01T02:25:32.438395+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Must 1810 Sterling Silver mm Quartz watch",
   "total": 3557.5,
@@ -11018,5 +11001,22 @@
   },
   "ratio_justo": 0.881,
   "motivo": "precio normal segun revision (88 % del justo 3350)"
+ },
+ {
+  "fecha": "2026-11-04T11:13:21.471782+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 40mm Black Dial/Bezel, Inner/Outer Box, 16610 AUTH papers",
+  "total": 11000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407339193410",
+  "item_id": "v1|407339193410|0",
+  "referencia": "16610",
+  "mercado": {
+   "n": 75,
+   "p25": 9878,
+   "mediana": 10345
+  },
+  "ratio_mercado": 1.114,
+  "motivo": "precio normal (111 % del cuartil bajo de 16610)"
  }
 ]
