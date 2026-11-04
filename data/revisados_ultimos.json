@@ -1,73 +1,5 @@
 [
  {
-  "fecha": "2026-11-02T17:42:01.214728+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Men’s Rolex 1969 Oyster Perpetual Ref. 1005 34mm Stainless Full Kit",
-  "total": 4200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336875405999",
-  "item_id": "v1|336875405999|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual (posiblemente Date, 34 mm, acero, esfera plateada)",
-   "referencia": "1500/1501 probable (el título dice 1005, pero la ventana de fecha visible en la foto no corresponde a esa referencia)",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "El título y la foto no coinciden: el 1005 es sin fecha y la imagen muestra fecha. Con estado Good, el precio pedido de US$4200 está por encima del valor de venta real, no por debajo."
-  },
-  "motivo": "triage: El título y la foto no coinciden: el 1005 es sin fecha y la imagen muestra fecha. Con estado Good, el precio pedido de US$4200 está por encima del valor de venta real, no por debajo. (justo 3000)"
- },
- {
-  "fecha": "2026-11-02T17:42:01.214728+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise W51008Q3 Ladiess Watch Swiss Quartz Stainless Steel 20mm",
-  "total": 3299.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198765901403",
-  "item_id": "v1|198765901403|0",
-  "triage": {
-   "modelo": "Cartier Tank Française (versión pequeña, cuarzo, acero, esfera blanca con numerales romanos)",
-   "referencia": "W51008Q3",
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "Precio pedido de US$3300 está por encima del valor de mercado usado para esta referencia, que ronda US$2300-2900 según estado y papeles; no hay descuento."
-  },
-  "motivo": "triage: Precio pedido de US$3300 está por encima del valor de mercado usado para esta referencia, que ronda US$2300-2900 según estado y papeles; no hay descuento. (justo 2600)"
- },
- {
-  "fecha": "2026-11-02T17:57:00.942938+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Yacht-Master II 44mm 116681 Everose Gold Steel Automatic Watch",
-  "total": 22495.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/117500355841",
-  "item_id": "v1|117500355841|0",
-  "referencia": "116681",
-  "mercado": {
-   "n": 33,
-   "p25": 21388,
-   "mediana": 23000
-  },
-  "ratio_mercado": 1.052,
-  "motivo": "precio normal (105 % del cuartil bajo de 116681)"
- },
- {
-  "fecha": "2026-11-02T18:12:01.353854+00:00",
-  "marca": "Rolex",
-  "titulo": "RARE $13,000 ROLEX REF 1601 14k Yellow Gold SS BLUE Tiffany & Co Mens Watch WTY",
-  "total": 4453.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407334126568",
-  "item_id": "v1|407334126568|0",
-  "triage": {
-   "modelo": "Rolex Datejust (acero y oro amarillo 14k, bisel acanalado, esfera azul tipo Tiffany, correa de cuero)",
-   "referencia": "1601",
-   "precio_justo_usd": 6000,
-   "interesante": false,
-   "nota": "Un 1601 con esfera Tiffany auténtica se vende mucho más alto; a este precio hay alto riesgo de esfera repintada, reemplazada o réplica. Verificar firma Tiffany, originalidad de la esfera y papeles antes de considerarlo."
-  },
-  "motivo": "triage: Un 1601 con esfera Tiffany auténtica se vende mucho más alto; a este precio hay alto riesgo de esfera repintada, reemplazada o réplica. Verificar firma Tiffany, originalidad de la esfera y papeles antes de considerarlo. (justo 6000)"
- },
- {
   "fecha": "2026-11-02T18:12:01.353854+00:00",
   "marca": "Rolex",
   "titulo": "Rolex CPO 16610LV Submariner",
@@ -11097,5 +11029,79 @@
   },
   "ratio_mercado": 1.135,
   "motivo": "precio normal (114 % del cuartil bajo de 126610LV)"
+ },
+ {
+  "fecha": "2026-11-04T20:28:32.256505+00:00",
+  "marca": "Rolex",
+  "titulo": "J42116: Rolex 18k Yellow Gold President, Ref. 18038, Circa 1984",
+  "total": 9000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237163916572",
+  "item_id": "v1|237163916572|0",
+  "referencia": "18038",
+  "mercado": {
+   "n": 19,
+   "p25": 9165,
+   "mediana": 10459
+  },
+  "ratio_mercado": 0.982,
+  "motivo": "precio normal (98 % del cuartil bajo de 18038)"
+ },
+ {
+  "fecha": "2026-11-04T20:28:32.256505+00:00",
+  "marca": "Rolex",
+  "titulo": "1985 Rolex Oyster Perpetual Date Gold Capped 15505 \"Golden Egg\" Watch p66729",
+  "total": 4999.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820316506849",
+  "item_id": "v1|820316506849|0",
+  "referencia": "15505",
+  "mercado": {
+   "n": 1,
+   "p25": 12990,
+   "mediana": 12990
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date en oro amarillo (bisel liso, esfera champán), probablemente chapado en oro (gold-capped)",
+   "referencia": "15505",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Referencia 15505 de 1985, con bracelet y esfera champán. Si es chapado en oro, se vende bien por debajo de 5.000 US$; el precio pedido queda por encima del mercado, sin margen de compra."
+  },
+  "motivo": "triage: Referencia 15505 de 1985, con bracelet y esfera champán. Si es chapado en oro, se vende bien por debajo de 5.000 US$; el precio pedido queda por encima del mercado, sin margen de compra. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-04T20:28:32.256505+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos 100 XL W20072X7 Two-Tone 38mm Automatic Full Set Excellent",
+  "total": 5800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860113626032",
+  "item_id": "v1|860113626032|0",
+  "triage": {
+   "modelo": "Cartier Santos 100 XL two-tone (acero y oro amarillo, correa de piel marrón)",
+   "referencia": "W20072X7",
+   "precio_justo_usd": 5500,
+   "interesante": false,
+   "nota": "Precio pedido cerca del valor de mercado, sin margen del 15 %. El título dice 38 mm, pero el XL mide unos 41 mm de ancho, así que hay que verificar la medida."
+  },
+  "motivo": "triage: Precio pedido cerca del valor de mercado, sin margen del 15 %. El título dice 38 mm, pero el XL mide unos 41 mm de ancho, así que hay que verificar la medida. (justo 5500)"
+ },
+ {
+  "fecha": "2026-11-04T20:28:32.256505+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Pasha Seatimer Chronograph Steel Auto 38mm Silver Bracelet W31030H3",
+  "total": 4450.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940065908862",
+  "item_id": "v1|940065908862|0",
+  "triage": {
+   "modelo": "Cartier Pasha de Cartier Seatimer Chronograph 38mm, automático, esfera plateada, brazalete de acero",
+   "referencia": "W31030H3",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "Precio pedido de US$4450 está apenas por encima del valor estimado de venta para esta referencia en estado excelente; no cumple el umbral de 15 % por debajo."
+  },
+  "motivo": "triage: Precio pedido de US$4450 está apenas por encima del valor estimado de venta para esta referencia en estado excelente; no cumple el umbral de 15 % por debajo. (justo 4300)"
  }
 ]
