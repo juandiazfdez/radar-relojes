@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-02T13:26:44.976765+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 16263  -Turn O Graph -Box And Paper (anniversary Dial) Original",
-  "total": 8500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/900056422737",
-  "item_id": "v1|900056422737|0",
-  "referencia": "16263",
-  "mercado": {
-   "n": 28,
-   "p25": 7360,
-   "mediana": 7720
-  },
-  "ratio_mercado": 1.155,
-  "motivo": "precio normal (115 % del cuartil bajo de 16263)"
- },
- {
   "fecha": "2026-11-02T13:56:45.328961+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR 1926, 41 MM.Rose Gold, Automatic Date Two-Tone  Watch",
@@ -11079,5 +11062,22 @@
    "nota": "Precio pedido de US$4095 está por encima del rango de mercado gris para un modelo nuevo con caja y papeles; no hay descuento suficiente."
   },
   "motivo": "triage: Precio pedido de US$4095 está por encima del rango de mercado gris para un modelo nuevo con caja y papeles; no hay descuento suficiente. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-04T18:43:32.226979+00:00",
+  "marca": "Rolex",
+  "titulo": "2024 Rolex Datejust White Index 2-tone YG/Steel 126203 36mm Jubilee Box/Papers",
+  "total": 14010.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237163756553",
+  "item_id": "v1|237163756553|0",
+  "referencia": "126203",
+  "mercado": {
+   "n": 5,
+   "p25": 13245,
+   "mediana": 13895
+  },
+  "ratio_mercado": 1.058,
+  "motivo": "precio normal (106 % del cuartil bajo de 126203)"
  }
 ]
