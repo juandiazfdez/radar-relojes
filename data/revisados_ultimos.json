@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-01T12:55:54.509916+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 60’s Rolex Ref 7002 Cal 1520 Automatic 14kt GF Men’s Watch Works",
-  "total": 2758.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137892223935",
-  "item_id": "v1|137892223935|0",
-  "triage": {
-   "modelo": "Rolex vintage años 60, caja chapada en oro 14k (gold filled), esfera plateada con marcadores de barra",
-   "referencia": "7002",
-   "precio_justo_usd": 950,
-   "interesante": false,
-   "nota": "Caja chapada en oro, no macizo, con movimiento sin verificar ('Works'); el precio pedido de US$2758 está muy por encima de lo que estas piezas se venden realmente."
-  },
-  "motivo": "triage: Caja chapada en oro, no macizo, con movimiento sin verificar ('Works'); el precio pedido de US$2758 está muy por encima de lo que estas piezas se venden realmente. (justo 950)"
- },
- {
   "fecha": "2026-11-01T13:40:54.482499+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Authentic Ladies Cartier Tank Watch, Presentation Box, Cartier Gift Bag.",
@@ -11012,5 +10995,22 @@
   },
   "ratio_mercado": 1.122,
   "motivo": "precio normal (112 % del cuartil bajo de 16264)"
+ },
+ {
+  "fecha": "2026-11-04T14:13:21.550249+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Ref. 4542 Sabre Lugs — Circa 1946, 33mm",
+  "total": 2768.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257834436108",
+  "item_id": "v1|257834436108|0",
+  "triage": {
+   "modelo": "Reloj de vestir vintage, esfera plateada, caja redonda de acero, correa de cuero marrón (Rolex según el título, no verificable en la foto)",
+   "referencia": "4542",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "La foto no muestra corona ni logotipo Rolex visibles; autenticidad no verificable. Si fuera genuino, el precio está cerca del mercado, sin descuento de 15 %."
+  },
+  "motivo": "triage: La foto no muestra corona ni logotipo Rolex visibles; autenticidad no verificable. Si fuera genuino, el precio está cerca del mercado, sin descuento de 15 %. (justo 3000)"
  }
 ]
