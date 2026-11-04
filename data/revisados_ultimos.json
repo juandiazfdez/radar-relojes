@@ -1,63 +1,6 @@
 [
  {
   "fecha": "2026-11-02T19:57:01.039127+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX -  LADIES 28MM  DATEJUST IN STEEL REF 279174",
-  "total": 13388.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407334278780",
-  "item_id": "v1|407334278780|0",
-  "referencia": "279174",
-  "mercado": {
-   "n": 10,
-   "p25": 11499,
-   "mediana": 12945
-  },
-  "ratio_mercado": 1.164,
-  "motivo": "precio normal (116 % del cuartil bajo de 279174)"
- },
- {
-  "fecha": "2026-11-02T19:57:01.039127+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner 16808 Just Serviced and Polished by RUSA",
-  "total": 9500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/117500514386",
-  "item_id": "v1|117500514386|0",
-  "referencia": "16808",
-  "mercado": {
-   "n": 6,
-   "p25": 27729,
-   "mediana": 28494
-  },
-  "ratio_mercado": 0.343,
-  "motivo": "demasiado barato (34 % del cuartil bajo): sospechoso"
- },
- {
-  "fecha": "2026-11-02T19:57:01.039127+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Solo WSSA0028 2010",
-  "total": 2960.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/227594499604",
-  "item_id": "v1|227594499604|0",
-  "referencia": "WSSA0028",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Tank Solo (la foto parece ser un Tank Must, no un Tank Solo; verificar)",
-   "referencia": "WSSA0028",
-   "precio_justo_usd": 2000,
-   "interesante": false,
-   "nota": "Precio pedido US$2960 muy por encima del valor de venta de un Tank Solo de acero 2010 usado. La foto no coincide con el modelo del título, así que conviene pedir fotos reales del ejemplar."
-  },
-  "motivo": "triage: Precio pedido US$2960 muy por encima del valor de venta de un Tank Solo de acero 2010 usado. La foto no coincide con el modelo del título, así que conviene pedir fotos reales del ejemplar. (justo 2000)"
- },
- {
-  "fecha": "2026-11-02T19:57:01.039127+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Pelagos M25600TB-0001",
   "total": 4550.0,
@@ -11056,5 +10999,56 @@
   },
   "ratio_mercado": 1.005,
   "motivo": "precio normal (100 % del cuartil bajo de WSSA0089)"
+ },
+ {
+  "fecha": "2026-11-04T23:43:43.440356+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex Sea-Dweller Stickered Complete Set 126600",
+  "total": 15470.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257835423561",
+  "item_id": "v1|257835423561|0",
+  "referencia": "126600",
+  "mercado": {
+   "n": 51,
+   "p25": 13122,
+   "mediana": 13999
+  },
+  "ratio_mercado": 1.179,
+  "motivo": "precio normal (118 % del cuartil bajo de 126600)"
+ },
+ {
+  "fecha": "2026-11-04T23:43:43.440356+00:00",
+  "marca": "Rolex",
+  "titulo": "1971 Rolex Day-Date 36 Ref. 1803 18k Yellow Gold",
+  "total": 10705.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820316989495",
+  "item_id": "v1|820316989495|0",
+  "triage": {
+   "modelo": "Rolex Day-Date 36 (oro amarillo 18k, bisel acanalado, esfera champán)",
+   "referencia": "1803",
+   "precio_justo_usd": 11500,
+   "interesante": false,
+   "nota": "Ref. 1803 de oro amarillo, de finales de los 60 a los 70, con correa de cuero en vez de brazalete. Su precio de cierre típico ronda los 11-12 mil; el listado queda cerca del mercado, sin descuento de 15 %."
+  },
+  "motivo": "triage: Ref. 1803 de oro amarillo, de finales de los 60 a los 70, con correa de cuero en vez de brazalete. Su precio de cierre típico ronda los 11-12 mil; el listado queda cerca del mercado, sin descuento de 15 %. (justo 11500)"
+ },
+ {
+  "fecha": "2026-11-04T23:43:43.440356+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II Root Beer Tiger Iron Oyster 126715CHNR Complete 2026",
+  "total": 85150.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/900066195376",
+  "item_id": "v1|900066195376|0",
+  "referencia": "126715CHNR",
+  "mercado": {
+   "n": 9,
+   "p25": 47270,
+   "mediana": 48988
+  },
+  "ratio_mercado": 1.801,
+  "motivo": "precio normal (180 % del cuartil bajo de 126715CHNR)"
  }
 ]
