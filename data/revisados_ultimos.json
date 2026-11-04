@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-01T19:26:03.238391+00:00",
   "marca": "Cartier",
-  "titulo": "Vintage Cartier Women's Gold Vermeil Quartz Dress Watch 24mm",
-  "total": 3849.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940058010481",
-  "item_id": "v1|940058010481|0",
-  "triage": {
-   "modelo": "Cartier Must de Cartier (vermeil, cuarzo, esfera blanca con números romanos)",
-   "referencia": null,
-   "precio_justo_usd": 400,
-   "interesante": false,
-   "nota": "Probable Must de Cartier vermeil de cuarzo; el precio pedido de US$3850 está muy por encima de su valor de reventa, que ronda los US$300-500 según estado y papeles."
-  },
-  "motivo": "triage: Probable Must de Cartier vermeil de cuarzo; el precio pedido de US$3850 está muy por encima de su valor de reventa, que ronda los US$300-500 según estado y papeles. (justo 400)"
- },
- {
-  "fecha": "2026-11-01T19:26:03.238391+00:00",
-  "marca": "Cartier",
   "titulo": "Vintage Cartier Panthere 1057917 22mm Ladies Two-Tone Quartz Watch",
   "total": 6549.99,
   "condicion": "Pre-owned - Good",
@@ -11030,5 +11013,22 @@
    "nota": "Modelo de cuarzo vermeil de bajo valor. Como pieza para repuestos o reparación (no funciona), se vende muy por debajo de los US$2,000 pedidos."
   },
   "motivo": "triage: Modelo de cuarzo vermeil de bajo valor. Como pieza para repuestos o reparación (no funciona), se vende muy por debajo de los US$2,000 pedidos. (justo 150)"
+ },
+ {
+  "fecha": "2026-11-04T14:58:21.409581+00:00",
+  "marca": "Cartier",
+  "titulo": "2023 Cartier Santos de Cartier Large – Ref. WSSA0029 – Full Set – Good Condition",
+  "total": 6900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336879414589",
+  "item_id": "v1|336879414589|0",
+  "referencia": "WSSA0029",
+  "mercado": {
+   "n": 6,
+   "p25": 7495,
+   "mediana": 7752
+  },
+  "ratio_mercado": 0.921,
+  "motivo": "precio normal (92 % del cuartil bajo de WSSA0029)"
  }
 ]
