@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-11-01T01:40:32.817309+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Bronze Bucherer Blue Edition (Ref. 79250BB) 43mm.  Full Set",
-  "total": 3560.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/117497337719",
-  "item_id": "v1|117497337719|0",
-  "referencia": "79250BB",
-  "mercado": {
-   "n": 2,
-   "p25": 4999,
-   "mediana": 5000
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay Bronze Bucherer Blue Edition 43mm",
-   "referencia": "79250BB",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "Precio pedido unos 6 % por debajo de la estimación de venta real; el bronce varía en patina y el estado debe verificarse."
-  },
-  "motivo": "triage: Precio pedido unos 6 % por debajo de la estimación de venta real; el bronce varía en patina y el estado debe verificarse. (justo 3800)"
- },
- {
   "fecha": "2026-11-01T02:10:33.428526+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay Heritage 79230N-0009 Swiss Automatic Dive Watch",
@@ -11005,5 +10982,22 @@
    "nota": "La referencia '2639W1A0U' no sigue el formato habitual de Tudor y no la puedo verificar; a US$6,995 supera con creces el mercado de un Monarch nuevo, así que no es una oportunidad."
   },
   "motivo": "triage: La referencia '2639W1A0U' no sigue el formato habitual de Tudor y no la puedo verificar; a US$6,995 supera con creces el mercado de un Monarch nuevo, así que no es una oportunidad. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-04T08:28:09.831137+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthère de Cartier Women’s White Gold Silver Watch Mini Model",
+  "total": 4740.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920099898924",
+  "item_id": "v1|920099898924|0",
+  "triage": {
+   "modelo": "Cartier Panthère de Cartier Mini (acero, cuarzo, esfera blanca; según la foto)",
+   "referencia": null,
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "El título dice oro blanco, pero la foto muestra brazalete de acero, probablemente un modelo de acero. Para acero, US$4,740 está por encima del mercado; si fuera oro blanco el precio sería bajo, pero el listado es contradictorio y podría ser engañoso."
+  },
+  "motivo": "triage: El título dice oro blanco, pero la foto muestra brazalete de acero, probablemente un modelo de acero. Para acero, US$4,740 está por encima del mercado; si fuera oro blanco el precio sería bajo, pero el listado es contradictorio y podría ser engañoso. (justo 3800)"
  }
 ]
