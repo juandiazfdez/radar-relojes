@@ -1,103 +1,5 @@
 [
  {
-  "fecha": "2026-11-02T15:26:45.203269+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Bronze 43mm Gray 79250BA - Beautiful Patina!",
-  "total": 3066.28,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168832806123",
-  "item_id": "v1|168832806123|0",
-  "referencia": "79250BA",
-  "mercado": {
-   "n": 7,
-   "p25": 3893,
-   "mediana": 4015
-  },
-  "ratio_mercado": 0.788,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 3200,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Muy buen estado, pátina natural de bronce, correa de cuero genérica con desgaste"
-  },
-  "ratio_justo": 0.958,
-  "motivo": "precio normal segun revision (96 % del justo 3200)"
- },
- {
-  "fecha": "2026-11-02T15:41:45.470006+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II Two-Tone Black Dial/Jubilee Automatic Date Luminous (Zombie)",
-  "total": 25500.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880075498174",
-  "item_id": "v1|880075498174|0",
-  "triage": {
-   "modelo": "Rolex GMT-Master II 'Zombie' bicolor (acero y oro amarillo), esfera negra, bisel cerámica/aluminio negro y oro, brazalete Jubilee",
-   "referencia": "116713LN",
-   "precio_justo_usd": 21000,
-   "interesante": false,
-   "nota": "Referencia descatalogada; el precio pedido queda unos 20 % por encima de las ventas cerradas de NOS con caja y papeles."
-  },
-  "motivo": "triage: Referencia descatalogada; el precio pedido queda unos 20 % por encima de las ventas cerradas de NOS con caja y papeles. (justo 21000)"
- },
- {
-  "fecha": "2026-11-02T15:41:45.470006+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 1951 Rolex Oyster Perpetual Bubble Back Ref. 6085 Automatic Wristwatch",
-  "total": 3300.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168832828089",
-  "item_id": "v1|168832828089|0",
-  "referencia": "6085",
-  "mercado": {
-   "n": 18,
-   "p25": 3975,
-   "mediana": 4617
-  },
-  "ratio_mercado": 0.83,
-  "motivo": "descripcion: as-is"
- },
- {
-  "fecha": "2026-11-02T15:56:45.393329+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere Medium Rose Gold Diamond Ladies Watch WJPN0009",
-  "total": 32700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940060077644",
-  "item_id": "v1|940060077644|0",
-  "referencia": "WJPN0009",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Panthère de Cartier, talla mediana, oro rosa con bisel de diamantes, cuarzo",
-   "referencia": "WJPN0009",
-   "precio_justo_usd": 22000,
-   "interesante": false,
-   "nota": "Precio pedido por encima del mercado de segunda mano para esta referencia en oro rosa con diamantes; no hay descuento claro."
-  },
-  "motivo": "triage: Precio pedido por encima del mercado de segunda mano para esta referencia en oro rosa con diamantes; no hay descuento claro. (justo 22000)"
- },
- {
-  "fecha": "2026-11-02T15:56:45.393329+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 41 Burgundy METAS Master Chronometer 5-Link M7941A1A0RU 2026 NEW",
-  "total": 4560.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/800867543467",
-  "item_id": "v1|800867543467|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 41 Burgundy (bisel borgoña, esfera negra, brazalete de eslabones)",
-   "referencia": "M7941A1A0RU (según el título; no verificable en la foto)",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "Precio pedido de US$4560 supera el retail y el mercado gris de un modelo nuevo con caja y papeles; no hay descuento real."
-  },
-  "motivo": "triage: Precio pedido de US$4560 supera el retail y el mercado gris de un modelo nuevo con caja y papeles; no hay descuento real. (justo 3800)"
- },
- {
   "fecha": "2026-11-02T16:11:46.278362+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Stainless Steel Tapestry Datejust 16200 36mm - WGACA",
@@ -11111,5 +11013,108 @@
    "nota": "Modelo reconocible, pero 'Modified' y 'Fair' sin caja ni papeles reducen mucho el valor y añaden riesgo de piezas no originales; el precio pedido queda solo ~10% bajo el estimado."
   },
   "motivo": "triage: Modelo reconocible, pero 'Modified' y 'Fair' sin caja ni papeles reducen mucho el valor y añaden riesgo de piezas no originales; el precio pedido queda solo ~10% bajo el estimado. (justo 2000)"
+ },
+ {
+  "fecha": "2026-11-04T19:28:32.250611+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex GMT-Master II 126710GRNR Ceramic Steel Bruce Wayne Jubilee NEW",
+  "total": 23750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206675792886",
+  "item_id": "v1|206675792886|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 87,
+   "p25": 21997,
+   "mediana": 23138
+  },
+  "ratio_mercado": 1.08,
+  "motivo": "precio normal (108 % del cuartil bajo de 126710GRNR)"
+ },
+ {
+  "fecha": "2026-11-04T19:28:32.250611+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Bubbleback 6334 Outer Perpetual Golden Egg Patina 34mm Watch ",
+  "total": 3490.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128175339141",
+  "item_id": "v1|128175339141|0",
+  "referencia": "6334",
+  "mercado": {
+   "n": 2,
+   "p25": 3990,
+   "mediana": 4129
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Bubbleback (cuerpo dorado, esfera crema con patina)",
+   "referencia": "6334",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Precio cercano al mercado pero sin ventaja clara (~8% bajo estimado); confirmar si es oro macizo o chapado y autenticidad del dial y la caja."
+  },
+  "motivo": "triage: Precio cercano al mercado pero sin ventaja clara (~8% bajo estimado); confirmar si es oro macizo o chapado y autenticidad del dial y la caja. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-04T19:28:32.250611+00:00",
+  "marca": "Cartier",
+  "titulo": "Estate Vintage Must de CARTIER 6 81006 TANK 925 Vermeil Quartz 23.5 x 30.5mm",
+  "total": 2995.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/237163829204",
+  "item_id": "v1|237163829204|0",
+  "triage": {
+   "modelo": "Cartier Must de Cartier Tank (vermeil 925, cuarzo)",
+   "referencia": "81006",
+   "precio_justo_usd": 450,
+   "interesante": false,
+   "nota": "Must de Cartier en vermeil de cuarzo, esfera crema y condición Fair; se vende normalmente entre US$350 y 600. El precio pedido de US$2995 está muy por encima del mercado."
+  },
+  "motivo": "triage: Must de Cartier en vermeil de cuarzo, esfera crema y condición Fair; se vende normalmente entre US$350 y 600. El precio pedido de US$2995 está muy por encima del mercado. (justo 450)"
+ },
+ {
+  "fecha": "2026-11-04T19:28:32.250611+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Must XL 2023 BOX + PAPERS / CARD WSTA0053 Automatic Bracelet WATCH",
+  "total": 4483.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366785544026",
+  "item_id": "v1|366785544026|0",
+  "referencia": "WSTA0053",
+  "mercado": {
+   "n": 2,
+   "p25": 5354,
+   "mediana": 5427
+  },
+  "triage": {
+   "modelo": "Cartier Tank Must XL (esfera plateada, números romanos, cuerda con cabujón azul, brazalete de acero)",
+   "referencia": "WSTA0053",
+   "precio_justo_usd": 2500,
+   "interesante": false,
+   "nota": "Precio pedido de US$4484 muy por encima del mercado de segunda mano con caja y papeles, incluso con retail actual cercano a US$3.300. Tampoco es una oferta."
+  },
+  "motivo": "triage: Precio pedido de US$4484 muy por encima del mercado de segunda mano con caja y papeles, incluso con retail actual cercano a US$3.300. Tampoco es una oferta. (justo 2500)"
+ },
+ {
+  "fecha": "2026-11-04T19:28:32.250611+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Classic Date Day 23010 DIAMOND DIAL! *FULL SET ORIGINAL!*",
+  "total": 3025.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128175336601",
+  "item_id": "v1|128175336601|0",
+  "referencia": "23010",
+  "mercado": {
+   "n": 1,
+   "p25": 2200,
+   "mediana": 2200
+  },
+  "triage": {
+   "modelo": "Tudor Classic Date Day (esfera con diamantes, brazalete de acero, bisel acanalado)",
+   "referencia": "23010",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Precio pedido de US$3.025 por encima de lo que se vende este modelo de segunda mano, aunque tenga esfera de diamantes y juego completo."
+  },
+  "motivo": "triage: Precio pedido de US$3.025 por encima de lo que se vende este modelo de segunda mano, aunque tenga esfera de diamantes y juego completo. (justo 2600)"
  }
 ]

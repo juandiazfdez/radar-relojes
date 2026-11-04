@@ -7055,13 +7055,13 @@
   "max": 1595
  },
  "Cartier WSTA0053|usado": {
-  "fecha": "2026-11-03",
+  "fecha": "2026-11-04",
   "consulta": "Cartier WSTA0053",
-  "n": 3,
-  "mediana": 5354,
-  "p25": 5000,
+  "n": 2,
+  "mediana": 5427,
+  "p25": 5354,
   "p75": 5500,
-  "min": 5000,
+  "min": 5354,
   "max": 5500
  },
  "Cartier W5200028|usado": {
@@ -14350,14 +14350,14 @@
   "n": 0
  },
  "Rolex 6334|usado": {
-  "fecha": "2026-10-28",
+  "fecha": "2026-11-04",
   "consulta": "Rolex 6334",
-  "n": 1,
-  "mediana": 3990,
+  "n": 2,
+  "mediana": 4129,
   "p25": 3990,
-  "p75": 3990,
+  "p75": 4269,
   "min": 3990,
-  "max": 3990
+  "max": 4269
  },
  "TAG Heuer WH1115|usado": {
   "fecha": "2026-10-28",
@@ -18335,9 +18335,14 @@
   "n": 0
  },
  "Tudor 23010|usado": {
-  "fecha": "2026-11-03",
+  "fecha": "2026-11-04",
   "consulta": "Tudor 23010",
-  "n": 0
+  "n": 1,
+  "mediana": 2200,
+  "p25": 2200,
+  "p75": 2200,
+  "min": 2200,
+  "max": 2200
  },
  "Cartier WSSA0030|usado": {
   "fecha": "2026-11-03",
