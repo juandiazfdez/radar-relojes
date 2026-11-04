@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-31T21:25:22.610901+00:00",
   "marca": "Tudor",
-  "titulo": "2022 TUDOR Ranger 39mm M79950-0001 MINT Complete set",
-  "total": 3195.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/820300892578",
-  "item_id": "v1|820300892578|0",
-  "referencia": "M79950-0001",
-  "mercado": {
-   "n": 8,
-   "p25": 2980,
-   "mediana": 3425
-  },
-  "ratio_mercado": 1.072,
-  "motivo": "precio normal (107 % del cuartil bajo de M79950-0001)"
- },
- {
-  "fecha": "2026-10-31T21:25:22.610901+00:00",
-  "marca": "Tudor",
   "titulo": "2026 TUDOR Ranger 39mm M79950-0001 MINT Complete set",
   "total": 3455.0,
   "condicion": "Pre-owned - Excellent",
@@ -10986,5 +10969,22 @@
   },
   "ratio_justo": 0.938,
   "motivo": "precio normal segun revision (94 % del justo 2400)"
+ },
+ {
+  "fecha": "2026-11-04T00:43:00.404149+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona 116520-0015 Pre-owned Watch Only",
+  "total": 21060.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137900044581",
+  "item_id": "v1|137900044581|0",
+  "referencia": "116520",
+  "mercado": {
+   "n": 21,
+   "p25": 22628,
+   "mediana": 23648
+  },
+  "ratio_mercado": 0.931,
+  "motivo": "precio normal (93 % del cuartil bajo de 116520)"
  }
 ]
