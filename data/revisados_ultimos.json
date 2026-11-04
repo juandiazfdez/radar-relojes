@@ -1,85 +1,5 @@
 [
  {
-  "fecha": "2026-11-02T18:12:01.353854+00:00",
-  "marca": "Tudor",
-  "titulo": "Pre-Owned Tudor Pelagos 42 Black Ref. M25600TN-0001",
-  "total": 4850.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940060364187",
-  "item_id": "v1|940060364187|0",
-  "referencia": "M25600TN-0001",
-  "mercado": {
-   "n": 1,
-   "p25": 4553,
-   "mediana": 4553
-  },
-  "triage": {
-   "modelo": "Tudor Pelagos 42 (titanio, esfera negra, bisel negro)",
-   "referencia": "M25600TN-0001",
-   "precio_justo_usd": 3600,
-   "interesante": false,
-   "nota": "Precio pedido de US$4,850 está muy por encima del valor de venta real de esta referencia de uso, que ronda US$3,400-3,900."
-  },
-  "motivo": "triage: Precio pedido de US$4,850 está muy por encima del valor de venta real de esta referencia de uso, que ronda US$3,400-3,900. (justo 3600)"
- },
- {
-  "fecha": "2026-11-02T18:27:01.683693+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II Pepsi Stainless Steel Black Jubilee 40mm 126710BLRO Full Set",
-  "total": 28000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307262424818",
-  "item_id": "v1|307262424818|0",
-  "referencia": "126710BLRO",
-  "mercado": {
-   "n": 24,
-   "p25": 24499,
-   "mediana": 25047
-  },
-  "ratio_mercado": 1.143,
-  "motivo": "precio normal (114 % del cuartil bajo de 126710BLRO)"
- },
- {
-  "fecha": "2026-11-02T18:27:01.683693+00:00",
-  "marca": "Rolex",
-  "titulo": "rolex GMT II 40mm 126710BLRO Pepsi On Jubilee 2023",
-  "total": 25999.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147662530951",
-  "item_id": "v1|147662530951|0",
-  "referencia": "126710BLRO",
-  "mercado": {
-   "n": 24,
-   "p25": 24499,
-   "mediana": 25047
-  },
-  "ratio_mercado": 1.061,
-  "motivo": "precio normal (106 % del cuartil bajo de 126710BLRO)"
- },
- {
-  "fecha": "2026-11-02T18:27:01.683693+00:00",
-  "marca": "Rolex",
-  "titulo": "2019 Rolex GMT Master II 126715CHRN 18k Everose Gold \"Root Beer\"",
-  "total": 39599.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/366779186106",
-  "item_id": "v1|366779186106|0",
-  "referencia": "126715CHRN",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex GMT-Master II 'Root Beer' en oro Everose 18k con brazalete Oyster",
-   "referencia": "126715CHNR (el listado dice 126715CHRN; verificar la referencia exacta)",
-   "precio_justo_usd": 40000,
-   "interesante": false,
-   "nota": "Precio cercano al mercado para esta referencia en Everose completo; no hay descuento de 15 %. Confirmar referencia, serie, caja y papeles."
-  },
-  "motivo": "triage: Precio cercano al mercado para esta referencia en Everose completo; no hay descuento de 15 %. Confirmar referencia, serie, caja y papeles. (justo 40000)"
- },
- {
   "fecha": "2026-11-02T18:27:01.683693+00:00",
   "marca": "Cartier",
   "titulo": "Cartier 1566 Santos Galbee Quartz 18k Yellow Gold Steel 29mm Women’s Watch",
@@ -11078,5 +10998,80 @@
    "nota": "Precio pedido de US$25,240 muy por encima del valor de reventa de esta pieza en oro amarillo usada en excelente estado; el listado parece sobrevalorado."
   },
   "motivo": "triage: Precio pedido de US$25,240 muy por encima del valor de reventa de esta pieza en oro amarillo usada en excelente estado; el listado parece sobrevalorado. (justo 13000)"
+ },
+ {
+  "fecha": "2026-11-04T21:13:43.209909+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX 18K Rose Gold 36mm  Day-Date President 118205  Box Warranty MINTY",
+  "total": 26990.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287705278071",
+  "item_id": "v1|287705278071|0",
+  "referencia": "118205",
+  "mercado": {
+   "n": 16,
+   "p25": 27890,
+   "mediana": 28990
+  },
+  "ratio_mercado": 0.968,
+  "motivo": "precio normal (97 % del cuartil bajo de 118205)"
+ },
+ {
+  "fecha": "2026-11-04T21:13:43.209909+00:00",
+  "marca": "Rolex",
+  "titulo": "$8000 ROLEX Oyster Perpetual Champagne 14k Yellow Gold SS Ladies Watch SERVICED",
+  "total": 2494.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407340502714",
+  "item_id": "v1|407340502714|0",
+  "triage": {
+   "modelo": "Rolex Lady Oyster Perpetual, acero y oro amarillo 14k, esfera champán (aparenta 26 mm)",
+   "referencia": "67193 (probable, no verificable en la foto)",
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "Precio cercano al valor de mercado para este modelo en estado Good. El título menciona $8000, que no refleja ningún precio de venta real. La revisión 'serviced' no está verificada."
+  },
+  "motivo": "triage: Precio cercano al valor de mercado para este modelo en estado Good. El título menciona $8000, que no refleja ningún precio de venta real. La revisión 'serviced' no está verificada. (justo 2400)"
+ },
+ {
+  "fecha": "2026-11-04T21:13:43.209909+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Men's Tank Francaise Automatic Date 18k Gold Steel Watch LIQUIDATION",
+  "total": 7459.77,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227598357860",
+  "item_id": "v1|227598357860|0",
+  "triage": {
+   "modelo": "Cartier Tank Française acero y oro amarillo 18k (esfera blanca, numerales romanos)",
+   "referencia": null,
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Precio pedido de US$7460 muy por encima del valor de reventa de esta versión bicolor (acero y oro), aunque el título anuncia oro 18k, que se aprecia en la imagen. Referencia exacta no verificable en la foto."
+  },
+  "motivo": "triage: Precio pedido de US$7460 muy por encima del valor de reventa de esta versión bicolor (acero y oro), aunque el título anuncia oro 18k, que se aprecia en la imagen. Referencia exacta no verificable en la foto. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-04T21:13:43.209909+00:00",
+  "marca": "Tudor",
+  "titulo": "2016 Tudor Pelagos 42mm Blue Titanium 25600TB Box Papers Serviced",
+  "total": 3595.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840093779930",
+  "item_id": "v1|840093779930|0",
+  "referencia": "25600TB",
+  "mercado": {
+   "n": 8,
+   "p25": 4500,
+   "mediana": 4550
+  },
+  "ratio_mercado": 0.799,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 3350,
+   "riesgo_autenticidad": "bajo",
+   "estado": "Usado bueno; lume del bisel con desprendimientos (según el vendedor), brazalete de titanio con desgaste leve"
+  },
+  "ratio_justo": 1.073,
+  "motivo": "precio normal segun revision (107 % del justo 3350)"
  }
 ]
