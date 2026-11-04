@@ -1,79 +1,5 @@
 [
  {
-  "fecha": "2026-11-01T23:26:03.055363+00:00",
-  "marca": "Rolex",
-  "titulo": "2024 Rolex GMT-Master II PEPSI RED BLUE Black Steel 40mm 126710BLRO Date Watch",
-  "total": 24475.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940058404352",
-  "item_id": "v1|940058404352|0",
-  "referencia": "126710BLRO",
-  "mercado": {
-   "n": 25,
-   "p25": 24499,
-   "mediana": 24999
-  },
-  "ratio_mercado": 0.999,
-  "motivo": "precio normal (100 % del cuartil bajo de 126710BLRO)"
- },
- {
-  "fecha": "2026-11-01T23:26:03.055363+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Fifty-Eight 79010SG Silver Box and Papers Clean Mens Watch 925",
-  "total": 3670.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940058415005",
-  "item_id": "v1|940058415005|0",
-  "referencia": "79010SG",
-  "mercado": {
-   "n": 11,
-   "p25": 3950,
-   "mediana": 4250
-  },
-  "ratio_mercado": 0.929,
-  "motivo": "precio normal (93 % del cuartil bajo de 79010SG)"
- },
- {
-  "fecha": "2026-11-01T23:41:02.887809+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust",
-  "total": 6999.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/860104435547",
-  "item_id": "v1|860104435547|0",
-  "triage": {
-   "modelo": "Rolex Datejust (acero, esfera clara, posible 36 mm)",
-   "referencia": null,
-   "precio_justo_usd": 7000,
-   "interesante": false,
-   "nota": "La imagen no permite confirmar la referencia ni el tamaño; el precio está en línea con el mercado de un Datejust de acero usado, sin descuento claro."
-  },
-  "motivo": "triage: La imagen no permite confirmar la referencia ni el tamaño; el precio está en línea con el mercado de un Datejust de acero usado, sin descuento claro. (justo 7000)"
- },
- {
-  "fecha": "2026-11-01T23:56:03.168161+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu Steel Automatic 36mm Diamond Bracelet Watch W4BB0017",
-  "total": 8450.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287697962910",
-  "item_id": "v1|287697962910|0",
-  "referencia": "W4BB0017",
-  "mercado": {
-   "n": 1,
-   "p25": 8450,
-   "mediana": 8450
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 36 mm acero con bisel de diamantes, esfera plateada, automático",
-   "referencia": "W4BB0017",
-   "precio_justo_usd": 7000,
-   "interesante": false,
-   "nota": "Precio pedido de US$8,450 está unos 20 % por encima de lo que este modelo de acero con bisel de diamantes suele cerrar en EE. UU. usado en excelente estado."
-  },
-  "motivo": "triage: Precio pedido de US$8,450 está unos 20 % por encima de lo que este modelo de acero con bisel de diamantes suele cerrar en EE. UU. usado en excelente estado. (justo 7000)"
- },
- {
   "fecha": "2026-11-01T23:56:03.168161+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Ballon Bleu Steel Automatic 36mm Diamond Bracelet Watch W4BB0017",
@@ -11049,5 +10975,85 @@
    "nota": "Precio pedido de US$3945 muy por encima del valor de mercado de una 79220R de 2012 usada en buen estado; no hay descuento que aprovechar."
   },
   "motivo": "triage: Precio pedido de US$3945 muy por encima del valor de mercado de una 79220R de 2012 usada en buen estado; no hay descuento que aprovechar. (justo 2600)"
+ },
+ {
+  "fecha": "2026-11-04T16:13:31.578898+00:00",
+  "marca": "Rolex",
+  "titulo": "2023 Rolex Sky-Dweller 326934 White 42mm Steel Fluted Jubilee Watch Box Papers",
+  "total": 21096.86,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940065391004",
+  "item_id": "v1|940065391004|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller (acero con bisel estriado de oro blanco, esfera blanca, brazalete Jubilee)",
+   "referencia": "326934",
+   "precio_justo_usd": 22500,
+   "interesante": false,
+   "nota": "Precio cercano al mercado secundario para esta referencia con caja y papeles; no hay descuento de al menos 15%."
+  },
+  "motivo": "triage: Precio cercano al mercado secundario para esta referencia con caja y papeles; no hay descuento de al menos 15%. (justo 22500)"
+ },
+ {
+  "fecha": "2026-11-04T16:13:31.578898+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster W62031Y4 2510 18K/SS 38MM Auto Watch. Minty. Boxes.",
+  "total": 7560.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287704868970",
+  "item_id": "v1|287704868970|0",
+  "referencia": "2510",
+  "mercado": {
+   "n": 26,
+   "p25": 4030,
+   "mediana": 4372
+  },
+  "ratio_mercado": 1.876,
+  "motivo": "precio normal (188 % del cuartil bajo de 2510)"
+ },
+ {
+  "fecha": "2026-11-04T16:13:31.578898+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor 1926 28mm Stainless Steel M91350-0005",
+  "total": 1895.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880082693759",
+  "item_id": "v1|880082693759|0",
+  "referencia": "M91350-0005",
+  "mercado": {
+   "n": 1,
+   "p25": 1895,
+   "mediana": 1895
+  },
+  "triage": {
+   "modelo": "Tudor 1926 28mm, acero con brazalete tipo Jubilee, esfera plateada con numerales arábigos y manecillas azules",
+   "referencia": "M91350-0005",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "El precio es muy bajo para un 1926 nuevo de 28 mm; podría ser réplica o listado engañoso. Verificar autenticidad y el vendedor antes de cualquier compra."
+  },
+  "motivo": "triage: El precio es muy bajo para un 1926 nuevo de 28 mm; podría ser réplica o listado engañoso. Verificar autenticidad y el vendedor antes de cualquier compra. (justo 2600)"
+ },
+ {
+  "fecha": "2026-11-04T16:13:31.578898+00:00",
+  "marca": "Tudor",
+  "titulo": "2018 TUDOR Heritage Chrono 70330B Swiss Made Chronograph Date - Full set",
+  "total": 4455.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820315754416",
+  "item_id": "v1|820315754416|0",
+  "referencia": "70330B",
+  "mercado": {
+   "n": 1,
+   "p25": 5040,
+   "mediana": 5040
+  },
+  "triage": {
+   "modelo": "Tudor Heritage Chrono (acero, bracelet, esfera azul, cronógrafo con fecha)",
+   "referencia": "70330B",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Precio pedido US$4,455 está muy por encima del mercado de usados en buen estado con caja y papeles (~US$2,900-3,400). Los straps extra suman algo, pero no justifican el precio."
+  },
+  "motivo": "triage: Precio pedido US$4,455 está muy por encima del mercado de usados en buen estado con caja y papeles (~US$2,900-3,400). Los straps extra suman algo, pero no justifican el precio. (justo 3200)"
  }
 ]
