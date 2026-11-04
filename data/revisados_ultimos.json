@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-02T05:41:11.898826+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 3131 14K Rose Solid Gold Case     ",
-  "total": 3999.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840083721839",
-  "item_id": "v1|840083721839|0",
-  "triage": {
-   "modelo": "Rolex de oro rosa 14K (posible Cellini, no identificable con certeza; se ve solo la caja y la esfera verde, sin correa)",
-   "referencia": null,
-   "precio_justo_usd": 1800,
-   "interesante": false,
-   "nota": "Parece caja o cabeza sin brazalete ni correa, y el título menciona solo la caja; a US$4000 está muy por encima del valor de una pieza así."
-  },
-  "motivo": "triage: Parece caja o cabeza sin brazalete ni correa, y el título menciona solo la caja; a US$4000 está muy por encima del valor de una pieza así. (justo 1800)"
- },
- {
   "fecha": "2026-11-02T06:41:23.078229+00:00",
   "marca": "Rolex",
   "titulo": "2000 ROLEX 16220 DATEJUST CREAM ARABIC COMPUTER STEEL JUBILEE WATCH $1 NR 11/6",
@@ -11055,5 +11038,22 @@
   },
   "ratio_justo": 1.386,
   "motivo": "precio normal segun revision (139 % del justo 1100)"
+ },
+ {
+  "fecha": "2026-11-04T17:58:32.207117+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Land Dweller 40mm Steel and White Gold 127334 2026 Full Set!",
+  "total": 24750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206675659017",
+  "item_id": "v1|206675659017|0",
+  "referencia": "127334",
+  "mercado": {
+   "n": 5,
+   "p25": 28350,
+   "mediana": 29999
+  },
+  "ratio_mercado": 0.873,
+  "motivo": "precio normal (87 % del cuartil bajo de 127334)"
  }
 ]
