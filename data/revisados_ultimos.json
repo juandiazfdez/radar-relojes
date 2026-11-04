@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-01T02:25:32.438395+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date Ref. 1505 34mm Watch",
-  "total": 3300.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/900055257835",
-  "item_id": "v1|900055257835|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date (bicolor acero/oro, bisel acanalado dorado, esfera plateada con marcadores de bastón)",
-   "referencia": "1505",
-   "precio_justo_usd": 3600,
-   "interesante": false,
-   "nota": "Ref. 1505 bicolor de los años 50-60 en estado bueno; el precio pedido está solo cerca de 8 % por debajo de la estimación, sin margen suficiente. Correa de cuero no original y estado real sin verificar."
-  },
-  "motivo": "triage: Ref. 1505 bicolor de los años 50-60 en estado bueno; el precio pedido está solo cerca de 8 % por debajo de la estimación, sin margen suficiente. Correa de cuero no original y estado real sin verificar. (justo 3600)"
- },
- {
-  "fecha": "2026-11-01T02:25:32.438395+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual Date 1501 Vintage 1960s Steel Riveted Oyster Bracelet",
   "total": 2500.0,
   "condicion": "Pre-owned - Excellent",
@@ -11005,5 +10988,35 @@
    "nota": "El título dice 16519 (18K, Zenith) pero la foto muestra un Daytona de oro blanco, más propio de la 116519, que vale bastante más; con la referencia del título, el precio pedido no está 15 % por debajo del mercado."
   },
   "motivo": "triage: El título dice 16519 (18K, Zenith) pero la foto muestra un Daytona de oro blanco, más propio de la 116519, que vale bastante más; con la referencia del título, el precio pedido no está 15 % por debajo del mercado. (justo 30000)"
+ },
+ {
+  "fecha": "2026-11-04T10:28:21.772404+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Pelagos FXD Alinghi Red Bull Racing Edition 25707KN",
+  "total": 2950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940064582840",
+  "item_id": "v1|940064582840|0",
+  "referencia": "M25707KN-0001",
+  "mercado": {
+   "n": 3,
+   "p25": 3350,
+   "mediana": 3595
+  },
+  "triage": {
+   "modelo": "TUDOR Pelagos FXD Alinghi Red Bull Racing Edition (titanio, edición limitada)",
+   "referencia": "M25707KN",
+   "precio_justo_usd": 3500,
+   "interesante": true,
+   "nota": "Modelo real con caja y papeles visibles; verificar número de serie, estado de la caja y autenticidad antes de comprar."
+  },
+  "claude": {
+   "veredicto": "alerta",
+   "precio_justo_usd": 3350,
+   "riesgo_autenticidad": "bajo",
+   "estado": "Aspecto de casi nuevo: etiqueta colgante aún puesta, caja interior y exterior completas, sin daños visibles en bisel, cristal ni esfera."
+  },
+  "ratio_justo": 0.881,
+  "motivo": "precio normal segun revision (88 % del justo 3350)"
  }
 ]
