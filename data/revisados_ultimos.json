@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-10-31T21:40:23.178136+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner 16610LV Kermit 50th Anniversary F Serial 2005 Full Set",
-  "total": 17995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/168829309622",
-  "item_id": "v1|168829309622|0",
-  "referencia": "16610LV",
-  "mercado": {
-   "n": 32,
-   "p25": 15274,
-   "mediana": 16580
-  },
-  "ratio_mercado": 1.178,
-  "motivo": "precio normal (118 % del cuartil bajo de 16610LV)"
- },
- {
-  "fecha": "2026-10-31T21:40:23.178136+00:00",
-  "marca": "Tudor",
-  "titulo": "2023 TUDOR Black Bay Pepsi Opaline GMT M79830RB-0010 Full Set MINT",
-  "total": 4225.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/820300902372",
-  "item_id": "v1|820300902372|0",
-  "referencia": "M79830RB-0010",
-  "mercado": {
-   "n": 18,
-   "p25": 4000,
-   "mediana": 4276
-  },
-  "ratio_mercado": 1.056,
-  "motivo": "precio normal (106 % del cuartil bajo de M79830RB-0010)"
- },
- {
   "fecha": "2026-10-31T21:55:22.866314+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Ref 6917 Lady Oyster Date 14k Gold SS All Original 1970s Automatic RA808",
@@ -10992,5 +10958,39 @@
    "nota": "Precio cercano al mercado para un 6294 bicolor de 1953 en estado Good, pero sin margen de 15 % y la autenticidad y el estado del bisel dorado deben verificarse."
   },
   "motivo": "triage: Precio cercano al mercado para un 6294 bicolor de 1953 en estado Good, pero sin margen de 15 % y la autenticidad y el estado del bisel dorado deben verificarse. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-04T01:12:59.732921+00:00",
+  "marca": "Rolex",
+  "titulo": " Rolex “Tank” NO RESERVE - 1940s 1208 Men’s Watch ",
+  "total": 4995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147663001116",
+  "item_id": "v1|147663001116|0",
+  "triage": {
+   "modelo": "Rolex rectangular vintage (estilo Tank, años 1940s), esfera blanca con numerales arábigos y 'Shock-Resisting'",
+   "referencia": "1208 (según título, sin verificar)",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Título 'Tank' es engañoso (Tank es de Cartier); precio pedido de US$4995 está por encima del valor de mercado para un vintage rectangular Rolex de estado 'Good'."
+  },
+  "motivo": "triage: Título 'Tank' es engañoso (Tank es de Cartier); precio pedido de US$4995 está por encima del valor de mercado para un vintage rectangular Rolex de estado 'Good'. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-04T01:12:59.732921+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 41 79230N Box + Papers 2022",
+  "total": 3400.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137900124601",
+  "item_id": "v1|137900124601|0",
+  "referencia": "79230N",
+  "mercado": {
+   "n": 18,
+   "p25": 3300,
+   "mediana": 3447
+  },
+  "ratio_mercado": 1.03,
+  "motivo": "precio normal (103 % del cuartil bajo de 79230N)"
  }
 ]
