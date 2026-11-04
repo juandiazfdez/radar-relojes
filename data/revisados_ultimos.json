@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-31T23:25:23.010728+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Submariner 116613LN Steel and Gold Oyster Bracelet with Black Dial/Bezel",
-  "total": 14000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960138440620",
-  "item_id": "v1|960138440620|0",
-  "referencia": "116613LN",
-  "mercado": {
-   "n": 29,
-   "p25": 15200,
-   "mediana": 15900
-  },
-  "ratio_mercado": 0.921,
-  "motivo": "precio normal (92 % del cuartil bajo de 116613LN)"
- },
- {
-  "fecha": "2026-10-31T23:25:23.010728+00:00",
-  "marca": "Rolex",
   "titulo": "Vintage Rolex Precision Ladies 18k Yellow Gold Cocktail Watch",
   "total": 2195.0,
   "condicion": "Pre-owned - Fair",
@@ -10998,5 +10981,29 @@
   },
   "ratio_mercado": 0.976,
   "motivo": "precio normal (98 % del cuartil bajo de 25807KN)"
+ },
+ {
+  "fecha": "2026-11-04T04:43:10.620238+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise Small W51008Q3 Quartz Steel Bracelet Box & Papers 2384",
+  "total": 3095.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920102839406",
+  "item_id": "v1|920102839406|0",
+  "referencia": "W51008Q3",
+  "mercado": {
+   "n": 38,
+   "p25": 3700,
+   "mediana": 4145
+  },
+  "ratio_mercado": 0.836,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 2600,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado, buen estado pero con rayones visibles en la caja y el cristal; no es 'nunca usado'"
+  },
+  "ratio_justo": 1.19,
+  "motivo": "precio normal segun revision (119 % del justo 2600)"
  }
 ]
