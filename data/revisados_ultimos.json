@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-10-31T23:25:23.010728+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex Precision Ladies 18k Yellow Gold Cocktail Watch",
-  "total": 2195.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/147659942195",
-  "item_id": "v1|147659942195|0",
-  "triage": {
-   "modelo": "Rolex Precision (dama, estilo cocktail, oro amarillo)",
-   "referencia": null,
-   "precio_justo_usd": 300,
-   "interesante": false,
-   "nota": "Rolex Precision de dama vintage se vende por unos cientos de dólares aun en oro macizo; la foto solo muestra la cabeza sin correa, no se aprecia la corona ni el marcaje 18k, y el precio pedido de US$2195 es muy superior al valor real."
-  },
-  "motivo": "triage: Rolex Precision de dama vintage se vende por unos cientos de dólares aun en oro macizo; la foto solo muestra la cabeza sin correa, no se aprecia la corona ni el marcaje 18k, y el precio pedido de US$2195 es muy superior al valor real. (justo 300)"
- },
- {
-  "fecha": "2026-10-31T23:55:22.454120+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Date 115210",
-  "total": 5875.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407329992482",
-  "item_id": "v1|407329992482|0",
-  "referencia": "115210",
-  "mercado": {
-   "n": 2,
-   "p25": 6805,
-   "mediana": 7900
-  },
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date (Datejust de 34 mm), esfera plateada con números romanos, bisel acanalado, brazalete Oyster de acero",
-   "referencia": "115210",
-   "precio_justo_usd": 5400,
-   "interesante": false,
-   "nota": "Precio pedido de US$5.875 está por encima del valor de venta cerrada estimado para esta referencia en estado Good; no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido de US$5.875 está por encima del valor de venta cerrada estimado para esta referencia en estado Good; no hay descuento suficiente. (justo 5400)"
- },
- {
   "fecha": "2026-11-01T00:25:23.035578+00:00",
   "marca": "Rolex",
   "titulo": "Antique 9ct Gold Rolex Women's Watch PROJECT 1920's Wristwatch",
@@ -11005,5 +10965,39 @@
   },
   "ratio_justo": 1.19,
   "motivo": "precio normal segun revision (119 % del justo 2600)"
+ },
+ {
+  "fecha": "2026-11-04T04:58:09.815041+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yacht-Master 40mm 116622 Platinum Red Seconds Hand 2015",
+  "total": 13499.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147665619267",
+  "item_id": "v1|147665619267|0",
+  "referencia": "116622",
+  "mercado": {
+   "n": 13,
+   "p25": 12945,
+   "mediana": 13990
+  },
+  "ratio_mercado": 1.043,
+  "motivo": "precio normal (104 % del cuartil bajo de 116622)"
+ },
+ {
+  "fecha": "2026-11-04T04:58:09.815041+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Cellini 3805 Vintage Yellow gold Watch With Box",
+  "total": 3515.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327438525016",
+  "item_id": "v1|327438525016|0",
+  "triage": {
+   "modelo": "Rolex Cellini (caja cojín/tonneau dorada, esfera dorada, correa de cocodrilo negra)",
+   "referencia": "3805 (identificación aproximada; la imagen es de baja resolución)",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Oro amarillo de 18k, manual y vintage; con caja pero sin confirmar papeles. El precio pedido está en el rango de mercado y no supera el 15 % de descuento."
+  },
+  "motivo": "triage: Oro amarillo de 18k, manual y vintage; con caja pero sin confirmar papeles. El precio pedido está en el rango de mercado y no supera el 15 % de descuento. (justo 3300)"
  }
 ]
