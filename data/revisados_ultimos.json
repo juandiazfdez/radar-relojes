@@ -1,51 +1,5 @@
 [
  {
-  "fecha": "2026-10-31T23:10:23.173953+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise Stainless Steel Diamond Watch W4TA0021 Medium $11,800",
-  "total": 8995.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/198760855572",
-  "item_id": "v1|198760855572|0",
-  "referencia": "W4TA0021",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Tank Française, bisel de diamantes, acero, esfera plateada con números romanos (talla mediana)",
-   "referencia": "W4TA0021",
-   "precio_justo_usd": 9200,
-   "interesante": false,
-   "nota": "Nuevo con caja y papeles, el mercado secundario lo sitúa cerca de US$9.000-9.500, así que el precio de US$8.995 es normal y no está al menos un 15 % por debajo."
-  },
-  "motivo": "triage: Nuevo con caja y papeles, el mercado secundario lo sitúa cerca de US$9.000-9.500, así que el precio de US$8.995 es normal y no está al menos un 15 % por debajo. (justo 9200)"
- },
- {
-  "fecha": "2026-10-31T23:10:23.173953+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier 18k Rose Gold Ballon Bleu WE900851 Diamond Watch 42mm Full Service $45K",
-  "total": 16995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880069458132",
-  "item_id": "v1|880069458132|0",
-  "referencia": "WE900851",
-  "mercado": {
-   "n": 1,
-   "p25": 18175,
-   "mediana": 18175
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 42mm oro rosa 18k con bisel de diamantes, automático",
-   "referencia": "WE900851",
-   "precio_justo_usd": 24000,
-   "interesante": false,
-   "nota": "Precio unos 29% bajo el estimado de venta, demasiado bajo para esta referencia; verificar autenticidad, diamantes originales y papeles antes de considerar."
-  },
-  "motivo": "triage: Precio unos 29% bajo el estimado de venta, demasiado bajo para esta referencia; verificar autenticidad, diamantes originales y papeles antes de considerar. (justo 24000)"
- },
- {
   "fecha": "2026-10-31T23:25:23.010728+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Daytona 116519LN Watch with original box and papers",
@@ -11010,5 +10964,45 @@
    "nota": "El título cita Rolex W1509, pero no se distingue corona ni marca en la foto y la referencia no encaja con ningún Rolex de cóctel conocido. Con esos materiales el valor de venta ronda US$3,000-4,000; el precio pedido es demasiado alto."
   },
   "motivo": "triage: El título cita Rolex W1509, pero no se distingue corona ni marca en la foto y la referencia no encaja con ningún Rolex de cóctel conocido. Con esos materiales el valor de venta ronda US$3,000-4,000; el precio pedido es demasiado alto. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-04T03:12:59.851141+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex 16750 Gmt Master Two Tone Gold 8 Mil Serial Number Look Authentic",
+  "total": 11030.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366783424839",
+  "item_id": "v1|366783424839|0",
+  "referencia": "16750",
+  "mercado": {
+   "n": 9,
+   "p25": 14031,
+   "mediana": 16000
+  },
+  "ratio_mercado": 0.786,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 8300,
+   "riesgo_autenticidad": "medio",
+   "estado": "Desgaste visible: brazalete estirado y rayado, cristal rayado, esfera con manchas y bisel con numerales desgastados"
+  },
+  "motivo": "Claude descarto: El precio pedido de US$11,030 está por encima del valor real de cierre. Un 16753 bicolor nipple en estado correcto cierra más cerca de US$8,000-9,500. Los comparables de eBay (mediana 16,000) son precios pedidos e inflados, así que no sirven como referencia.; La referencia del título parece incorrecta. El 16750 es de acero y el GMT bicolor suele ser el 16753. El vendedor no domina el modelo, y esto puede esconder piezas cambiadas."
+ },
+ {
+  "fecha": "2026-11-04T03:12:59.851141+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 41mm 126610LN · 2026 · Brand New",
+  "total": 15900.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/307265223920",
+  "item_id": "v1|307265223920|0",
+  "referencia": "126610LN",
+  "mercado": {
+   "n": 34,
+   "p25": 15999,
+   "mediana": 16415
+  },
+  "ratio_mercado": 0.994,
+  "motivo": "precio normal (99 % del cuartil bajo de 126610LN)"
  }
 ]
