@@ -2,80 +2,6 @@
  {
   "fecha": "2026-11-02T19:42:01.711967+00:00",
   "marca": "Rolex",
-  "titulo": "NEW Rolex Submariner Date 41mm Steel Ceramic Mens Watch Box/Papers '24 126610",
-  "total": 17950.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/117500510460",
-  "item_id": "v1|117500510460|0",
-  "referencia": "126610",
-  "mercado": {
-   "n": 71,
-   "p25": 16095,
-   "mediana": 16495
-  },
-  "ratio_mercado": 1.115,
-  "motivo": "precio normal (112 % del cuartil bajo de 126610)"
- },
- {
-  "fecha": "2026-11-02T19:42:01.711967+00:00",
-  "marca": "Rolex",
-  "titulo": "NEW Rolex Daytona Chronograph Steel & Ceramic Watch Black B/P '22 116500",
-  "total": 37930.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/147662599341",
-  "item_id": "v1|147662599341|0",
-  "referencia": "116500",
-  "mercado": {
-   "n": 10,
-   "p25": 35745,
-   "mediana": 35944
-  },
-  "ratio_mercado": 1.061,
-  "motivo": "precio normal (106 % del cuartil bajo de 116500)"
- },
- {
-  "fecha": "2026-11-02T19:42:01.711967+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Pearlmaster 18k White Gold MOP Diamond Ladies 29mm Watch +Box 80309 BRIL",
-  "total": 32700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366779327526",
-  "item_id": "v1|366779327526|0",
-  "triage": {
-   "modelo": "Rolex Pearlmaster 29 mm, oro blanco 18k, esfera de nácar con diamantes y bisel de diamantes baguette",
-   "referencia": "80309 (según el título; verificar en el reloj)",
-   "precio_justo_usd": 30000,
-   "interesante": false,
-   "nota": "Precio pedido ~9% sobre la estimación de venta real; estado 'Good', con caja, sin confirmar papeles ni autenticidad de diamantes."
-  },
-  "motivo": "triage: Precio pedido ~9% sobre la estimación de venta real; estado 'Good', con caja, sin confirmar papeles ni autenticidad de diamantes. (justo 30000)"
- },
- {
-  "fecha": "2026-11-02T19:42:01.711967+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Cameron Deepsea Sea-Dweller D-Blue Steel/Ceramic 44mm Watch B/P '21 126660",
-  "total": 20150.0,
-  "condicion": "New without box or papers",
-  "url": "https://www.ebay.com/itm/147662599330",
-  "item_id": "v1|147662599330|0",
-  "referencia": "126660",
-  "mercado": {
-   "n": 4,
-   "p25": 15650,
-   "mediana": 16504
-  },
-  "triage": {
-   "modelo": "Rolex Sea-Dweller Deepsea Cameron Edition (D-Blue), acero y cerámica, 44 mm",
-   "referencia": "126660",
-   "precio_justo_usd": 19500,
-   "interesante": false,
-   "nota": "El precio no está al menos 15 % por debajo del mercado, y el título dice 'B/P' pero la condición dice 'sin caja ni papeles', lo que hace el listado contradictorio."
-  },
-  "motivo": "triage: El precio no está al menos 15 % por debajo del mercado, y el título dice 'B/P' pero la condición dice 'sin caja ni papeles', lo que hace el listado contradictorio. (justo 19500)"
- },
- {
-  "fecha": "2026-11-02T19:42:01.711967+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Submariner No date 114060- TRUE full set-",
   "total": 10538.0,
   "condicion": "Pre-owned - Good",
@@ -11068,5 +10994,79 @@
    "nota": "El número 866911 del título no parece una referencia Cartier estándar; verificar referencia real. Precio pedido US$18.000 por encima de lo que se vende este modelo en el mercado secundario."
   },
   "motivo": "triage: El número 866911 del título no parece una referencia Cartier estándar; verificar referencia real. Precio pedido US$18.000 por encima de lo que se vende este modelo en el mercado secundario. (justo 12500)"
+ },
+ {
+  "fecha": "2026-11-04T22:58:43.264827+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II Rootbeer Two Tone Black Oyster 126711CHNR Complete 2021",
+  "total": 20300.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287705449385",
+  "item_id": "v1|287705449385|0",
+  "referencia": "126711CHNR",
+  "mercado": {
+   "n": 93,
+   "p25": 20589,
+   "mediana": 21500
+  },
+  "ratio_mercado": 0.986,
+  "motivo": "precio normal (99 % del cuartil bajo de 126711CHNR)"
+ },
+ {
+  "fecha": "2026-11-04T22:58:43.264827+00:00",
+  "marca": "Rolex",
+  "titulo": "Antique 9ct Gold Rolex Women's Watch PROJECT 1920's Wristwatch",
+  "total": 1203.95,
+  "condicion": "For parts or not working",
+  "url": "https://www.ebay.com/itm/198772831558",
+  "item_id": "v1|198772831558|0",
+  "triage": {
+   "modelo": "Reloj de pulsera antiguo de mujer, caja de oro 9 quilates (años 1920), posible Rolex sin verificar",
+   "referencia": null,
+   "precio_justo_usd": 450,
+   "interesante": false,
+   "nota": "No se ve la corona de Rolex ni el movimiento; el estado es 'para piezas', así que el precio pedido de US$1204 supera con creces su valor real aunque sea un Rolex auténtico."
+  },
+  "motivo": "triage: No se ve la corona de Rolex ni el movimiento; el estado es 'para piezas', así que el precio pedido de US$1204 supera con creces su valor real aunque sea un Rolex auténtico. (justo 450)"
+ },
+ {
+  "fecha": "2026-11-04T22:58:43.264827+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 14203M Yellow Gold Stainless Steel 34mm Autom (PD4055435)",
+  "total": 4999.99,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/227598457653",
+  "item_id": "v1|227598457653|0",
+  "referencia": "14203M",
+  "mercado": {
+   "n": 1,
+   "p25": 6000,
+   "mediana": 6000
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual 34 mm bicolor (acero y oro amarillo), esfera oscura",
+   "referencia": "14203M (según título; no verificable en la foto)",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Precio pedido de US$5000 está muy por encima del valor de mercado para este bicolor en estado Fair; la foto no permite confirmar la referencia."
+  },
+  "motivo": "triage: Precio pedido de US$5000 está muy por encima del valor de mercado para este bicolor en estado Fair; la foto no permite confirmar la referencia. (justo 2600)"
+ },
+ {
+  "fecha": "2026-11-04T22:58:43.264827+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX Gent's Wristwatch 16013 18K STEEL & GOLD OYSTER PERPETUAL DATE (PD4060113)",
+  "total": 8024.99,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/227598456044",
+  "item_id": "v1|227598456044|0",
+  "referencia": "16013",
+  "mercado": {
+   "n": 24,
+   "p25": 3859,
+   "mediana": 4700
+  },
+  "ratio_mercado": 2.08,
+  "motivo": "precio normal (208 % del cuartil bajo de 16013)"
  }
 ]
