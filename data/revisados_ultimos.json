@@ -1,136 +1,5 @@
 [
  {
-  "fecha": "2026-11-01T02:25:32.438395+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Must 1810 Sterling Silver mm Quartz watch",
-  "total": 3557.5,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227592046904",
-  "item_id": "v1|227592046904|0",
-  "referencia": "1810",
-  "mercado": {
-   "n": 1,
-   "p25": 2000,
-   "mediana": 2000
-  },
-  "triage": {
-   "modelo": "Cartier Must de Cartier (Must 1810, línea Must 21/Must Ronde, cuarzo, esfera plateada con numerales romanos y segundero a las 6, correa de piel marrón)",
-   "referencia": "Must 1810 (verificar en el caso)",
-   "precio_justo_usd": 500,
-   "interesante": false,
-   "nota": "El precio de US$3558 está muy por encima del valor de mercado de un Must de cuarzo usado (aprox. US$300-700). La foto muestra un caso dorado (vermeil/chapado), mientras el título dice plata de ley; hay que aclarar el material."
-  },
-  "motivo": "triage: El precio de US$3558 está muy por encima del valor de mercado de un Must de cuarzo usado (aprox. US$300-700). La foto muestra un caso dorado (vermeil/chapado), mientras el título dice plata de ley; hay que aclarar el material. (justo 500)"
- },
- {
-  "fecha": "2026-11-01T02:25:32.438395+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Prince Day Date 76213 Champagne Dial. 18K Gold. 36mm. 2010 Clean& Serviced",
-  "total": 3139.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287695622240",
-  "item_id": "v1|287695622240|0",
-  "referencia": "76213",
-  "mercado": {
-   "n": 7,
-   "p25": 1800,
-   "mediana": 2500
-  },
-  "ratio_mercado": 1.744,
-  "motivo": "precio normal (174 % del cuartil bajo de 76213)"
- },
- {
-  "fecha": "2026-11-01T03:40:33.247847+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 58 GMT M7939G1A0NRU-0003 2026 Jubilee Brand New Full Set",
-  "total": 5250.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227592109261",
-  "item_id": "v1|227592109261|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 GMT (bisel negro/burdeos, brazalete Jubilee)",
-   "referencia": "M7939G1A0NRU-0003",
-   "precio_justo_usd": 4100,
-   "interesante": false,
-   "nota": "Nuevo con caja y papeles, pero US$5,250 supera el retail aproximado (~US$4,700-4,900); el mercado gris suele estar 15-35 % abajo. No verifico la referencia desde la foto."
-  },
-  "motivo": "triage: Nuevo con caja y papeles, pero US$5,250 supera el retail aproximado (~US$4,700-4,900); el mercado gris suele estar 15-35 % abajo. No verifico la referencia desde la foto. (justo 4100)"
- },
- {
-  "fecha": "2026-11-01T04:40:33.483976+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay GMT Pepsi 79830RB Complete Set on Leather",
-  "total": 3250.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880070223460",
-  "item_id": "v1|880070223460|0",
-  "referencia": "79830RB",
-  "mercado": {
-   "n": 48,
-   "p25": 3800,
-   "mediana": 4000
-  },
-  "ratio_mercado": 0.855,
-  "motivo": "precio normal (86 % del cuartil bajo de 79830RB)"
- },
- {
-  "fecha": "2026-11-01T04:55:32.794157+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex Oyster Perpetual Date 1503 14K Yellow Gold 34mm Unpolished 1972",
-  "total": 7288.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257827745180",
-  "item_id": "v1|257827745180|0",
-  "triage": {
-   "modelo": "Rolex Datejust (bisel acanalado) en oro amarillo 14K, posible discrepancia con el título Oyster Perpetual Date",
-   "referencia": "1601 (probable, según bisel acanalado; el título indica 1503)",
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "El bisel acanalado no coincide con el 1503 (que suele tener bisel liso), así que el listado puede ser inexacto. Aun con la referencia correcta, US$7,288 está muy por encima de lo que estos modelos de 1972 en oro 14K se venden realmente."
-  },
-  "motivo": "triage: El bisel acanalado no coincide con el 1503 (que suele tener bisel liso), así que el listado puede ser inexacto. Aun con la referencia correcta, US$7,288 está muy por encima de lo que estos modelos de 1972 en oro 14K se venden realmente. (justo 4500)"
- },
- {
-  "fecha": "2026-11-01T04:55:32.794157+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Official Logo Titleist Pro V1 golf balls. One Sleeve - 3 Balls - Brand New",
-  "total": 30.0,
-  "condicion": "New",
-  "url": "https://www.ebay.com/itm/198759095508",
-  "item_id": "v1|198759095508|0",
-  "triage": {
-   "modelo": "Pelotas de golf Titleist Pro V1 con logo Rolex (no es un reloj)",
-   "referencia": null,
-   "precio_justo_usd": 20,
-   "interesante": false,
-   "nota": "El listado es de pelotas de golf Titleist Pro V1 con logo Rolex, no de un reloj; está fuera de nuestro ámbito de compra."
-  },
-  "motivo": "triage: El listado es de pelotas de golf Titleist Pro V1 con logo Rolex, no de un reloj; está fuera de nuestro ámbito de compra. (justo 20)"
- },
- {
-  "fecha": "2026-11-01T04:55:32.794157+00:00",
-  "marca": "Tudor",
-  "titulo": "Limited Edition Tudor Black Bay Chrono “Carbon 2025”  M79377KN Set",
-  "total": 7499.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147660326224",
-  "item_id": "v1|147660326224|0",
-  "referencia": "M79377KN",
-  "mercado": {
-   "n": 3,
-   "p25": 7610,
-   "mediana": 8250
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay Chrono Carbon (edición limitada 2025)",
-   "referencia": "M79377KN",
-   "precio_justo_usd": 5300,
-   "interesante": false,
-   "nota": "Precio pedido de US$7.500 está muy por encima del mercado secundario para un usado con caja y papeles; la referencia y la edición limitada no se pueden verificar solo con la foto."
-  },
-  "motivo": "triage: Precio pedido de US$7.500 está muy por encima del mercado secundario para un usado con caja y papeles; la referencia y la edición limitada no se pueden verificar solo con la foto. (justo 5300)"
- },
- {
   "fecha": "2026-11-01T06:10:33.246001+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust Ladies Two-tone",
@@ -11018,5 +10887,124 @@
   },
   "ratio_mercado": 1.114,
   "motivo": "precio normal (111 % del cuartil bajo de 16610)"
+ },
+ {
+  "fecha": "2026-11-04T12:13:20.763871+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Precision Steel Watch",
+  "total": 3602.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820314719016",
+  "item_id": "v1|820314719016|0",
+  "triage": {
+   "modelo": "Rolex Oyster Precision con fecha (acero, esfera negra)",
+   "referencia": null,
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Modelo vintage de acero con ventana de fecha; la referencia no es legible en la foto. Precio pedido de US$3602 está por encima del rango de venta cerrada para estado 'Good'."
+  },
+  "motivo": "triage: Modelo vintage de acero con ventana de fecha; la referencia no es legible en la foto. Precio pedido de US$3602 está por encima del rango de venta cerrada para estado 'Good'. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-04T12:13:20.763871+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date Automatic Stainless Steel Watch",
+  "total": 5698.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820314718389",
+  "item_id": "v1|820314718389|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date (bisel liso, índices de barra, brazalete Oyster)",
+   "referencia": "1500 (probable; posible 1501, según año y dial)",
+   "precio_justo_usd": 5200,
+   "interesante": false,
+   "nota": "Modelo vintage de acero de 34 mm en estado bueno; el precio pedido está cerca del valor de mercado, sin descuento de al menos 15 %."
+  },
+  "motivo": "triage: Modelo vintage de acero de 34 mm en estado bueno; el precio pedido está cerca del valor de mercado, sin descuento de al menos 15 %. (justo 5200)"
+ },
+ {
+  "fecha": "2026-11-04T12:13:20.763871+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oysterquartz Datejust Stainless Steel And Yellow Gold Watch",
+  "total": 7161.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267833134075",
+  "item_id": "v1|267833134075|0",
+  "triage": {
+   "modelo": "Rolex Oysterquartz Datejust, acero y oro amarillo (bisel acanalado de oro)",
+   "referencia": "17013",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Modelo de cuarzo de acero y oro, con precio de venta cerrada normalmente entre US$2.500 y 4.000 según estado y papeles. El precio pedido de US$7.161 está muy por encima del mercado."
+  },
+  "motivo": "triage: Modelo de cuarzo de acero y oro, con precio de venta cerrada normalmente entre US$2.500 y 4.000 según estado y papeles. El precio pedido de US$7.161 está muy por encima del mercado. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-04T12:13:20.763871+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date Automatic Stainless Steel And Yellow Gold With",
+  "total": 2245.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267833133552",
+  "item_id": "v1|267833133552|0",
+  "triage": {
+   "modelo": "Rolex Datejust vintage (esfera plateada, bisel acanalado, brazalete Jubilee)",
+   "referencia": "null",
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "La foto muestra acero, pero el título menciona acero y oro amarillo; hay que verificar el material. El modelo parece un Datejust de los años 70 (posiblemente 1601/1603), no un Oyster Perpetual Date."
+  },
+  "motivo": "triage: La foto muestra acero, pero el título menciona acero y oro amarillo; hay que verificar el material. El modelo parece un Datejust de los años 70 (posiblemente 1601/1603), no un Oyster Perpetual Date. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-04T12:13:20.763871+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Pasha Seatimer Automatic Stainless Steel Watch",
+  "total": 4397.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267833134401",
+  "item_id": "v1|267833134401|0",
+  "triage": {
+   "modelo": "Cartier Pasha de Cartier Seatimer Chronograph (acero, esfera blanca)",
+   "referencia": "W31077M7 (probable, no verificable en la foto)",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Precio pedido de US$4397 supera el valor de venta cerrada estimado para estado Good; el título dice automático, pero la referencia no se confirma en la imagen."
+  },
+  "motivo": "triage: Precio pedido de US$4397 supera el valor de venta cerrada estimado para estado Good; el título dice automático, pero la referencia no se confirma en la imagen. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-04T12:13:20.763871+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Must De Cartier Tank Quartz Stainless Steel Watch",
+  "total": 4926.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820314718769",
+  "item_id": "v1|820314718769|0",
+  "triage": {
+   "modelo": "Cartier Must de Cartier Tank (cuarzo, acero, esfera plateada con números romanos, corona con cabujón azul)",
+   "referencia": "WSTA0029 (probable; confirmar en el reverso de la caja o en los papeles)",
+   "precio_justo_usd": 2100,
+   "interesante": false,
+   "nota": "Tank Must de cuarzo en acero de uso habitual; el precio pedido de US$4926 está muy por encima de lo que se vende realmente en EE. UU., aunque no hay dudas de autenticidad por la imagen."
+  },
+  "motivo": "triage: Tank Must de cuarzo en acero de uso habitual; el precio pedido de US$4926 está muy por encima de lo que se vende realmente en EE. UU., aunque no hay dudas de autenticidad por la imagen. (justo 2100)"
+ },
+ {
+  "fecha": "2026-11-04T12:13:20.763871+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Oyster Date Chronotime Chronograph Automatic Stainless Steel Watch",
+  "total": 6687.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820314720746",
+  "item_id": "v1|820314720746|0",
+  "triage": {
+   "modelo": "Tudor Oyster Date Chronotime (cronógrafo automático, acero, bisel negro)",
+   "referencia": "null (posiblemente 79280 o 79260; no verificable en la foto)",
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Cronógrafo de acero de la era 2000s; precio pedido de US$6687 muy por encima del valor de venta cerrada estimado para su estado, sin ver caja ni papeles."
+  },
+  "motivo": "triage: Cronógrafo de acero de la era 2000s; precio pedido de US$6687 muy por encima del valor de venta cerrada estimado para su estado, sin ver caja ni papeles. (justo 2800)"
  }
 ]
