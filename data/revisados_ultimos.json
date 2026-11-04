@@ -1,85 +1,5 @@
 [
  {
-  "fecha": "2026-11-02T02:56:11.910771+00:00",
-  "marca": "Cartier",
-  "titulo": "CARTIER BALLON BLEU MOTHER PEARL 18K ROSE GOLD/SS 33MM WATCH 3489 W6920098 B&P's",
-  "total": 6295.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800865422993",
-  "item_id": "v1|800865422993|0",
-  "referencia": "3489",
-  "mercado": {
-   "n": 10,
-   "p25": 4845,
-   "mediana": 5277
-  },
-  "ratio_mercado": 1.299,
-  "motivo": "precio normal (130 % del cuartil bajo de 3489)"
- },
- {
-  "fecha": "2026-11-02T03:26:12.407584+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthère Small Silver",
-  "total": 5042.39,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/860104840706",
-  "item_id": "v1|860104840706|0",
-  "triage": {
-   "modelo": "Cartier Panthère (talla pequeña, acero, cuarzo, esfera plateada)",
-   "referencia": null,
-   "precio_justo_usd": 4600,
-   "interesante": false,
-   "nota": "La caja y bolsa son de Cartier, pero la referencia exacta no se distingue en la foto. Con el descuento normal del mercado gris, 5042 USD queda solo ~9 % por debajo del valor estimado, por debajo del umbral del 15 %."
-  },
-  "motivo": "triage: La caja y bolsa son de Cartier, pero la referencia exacta no se distingue en la foto. Con el descuento normal del mercado gris, 5042 USD queda solo ~9 % por debajo del valor estimado, por debajo del umbral del 15 %. (justo 4600)"
- },
- {
-  "fecha": "2026-11-02T03:41:12.070850+00:00",
-  "marca": "Cartier",
-  "titulo": "Authentic Cartier Santos de Cartier Large WSSA0062 Iced Out",
-  "total": 7070.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237156775648",
-  "item_id": "v1|237156775648|0",
-  "referencia": "WSSA0062",
-  "mercado": {
-   "n": 4,
-   "p25": 8000,
-   "mediana": 8272
-  },
-  "triage": {
-   "modelo": "Cartier Santos de Cartier Large (40 mm) iced out, acero, con caja y papeles",
-   "referencia": "WSSA0062",
-   "precio_justo_usd": 14000,
-   "interesante": false,
-   "nota": "Precio muy por debajo de una Santos Large con diamantes genuina; alto riesgo de modificacion aftermarket o replica. Verificar autenticidad, numero de serie y papeles antes de considerarlo."
-  },
-  "motivo": "triage: Precio muy por debajo de una Santos Large con diamantes genuina; alto riesgo de modificacion aftermarket o replica. Verificar autenticidad, numero de serie y papeles antes de considerarlo. (justo 14000)"
- },
- {
-  "fecha": "2026-11-02T03:41:12.070850+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise 1840 Automatic 18K Gold Women's  Watch.",
-  "total": 7200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257829430637",
-  "item_id": "v1|257829430637|0",
-  "referencia": "1840",
-  "mercado": {
-   "n": 14,
-   "p25": 12500,
-   "mediana": 19718
-  },
-  "ratio_mercado": 0.576,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 5800,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado con golpes y rayones visibles en caja y asas; sin caja ni papeles"
-  },
-  "motivo": "Claude descarto: Los comparables (mediana US$19.7k, cuartil bajo US$12.5k) son precios pedidos y están inflados. No sirven de referencia. Las ventas reales de un Tank Française 1840 en oro 18K sobre piel suelen estar en US$5,500-6,800, según estado y si trae caja y papeles.; A US$7,200 el precio queda por encima de mi estimación conservadora para un reloj sin caja ni papeles y con desgaste. No hay margen de reventa."
- },
- {
   "fecha": "2026-11-02T03:41:12.070850+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Watch - Must de Cartier 21  Authoscaph 2427 Automatic.",
@@ -11048,5 +10968,85 @@
    "nota": "Precio no está ≥15 % por debajo del valor de mercado; el código 2836C1A0-0102 no coincide con una referencia Tudor conocida, verificar autenticidad y papeles antes de considerar la compra."
   },
   "motivo": "triage: Precio no está ≥15 % por debajo del valor de mercado; el código 2836C1A0-0102 no coincide con una referencia Tudor conocida, verificar autenticidad y papeles antes de considerar la compra. (justo 2850)"
+ },
+ {
+  "fecha": "2026-11-04T16:58:32.838454+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Rolex GMT-Master II Bruce Wayne Jubilee Brac 126710GRNR Box and Papers",
+  "total": 22835.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800877096107",
+  "item_id": "v1|800877096107|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 87,
+   "p25": 21997,
+   "mediana": 23138
+  },
+  "ratio_mercado": 1.038,
+  "motivo": "precio normal (104 % del cuartil bajo de 126710GRNR)"
+ },
+ {
+  "fecha": "2026-11-04T16:58:32.838454+00:00",
+  "marca": "Rolex",
+  "titulo": "NEW Rolex 126710BLRO GMT-Master II PEPSI Steel Jubilee 126710 BOX&PAPERS #RL405",
+  "total": 32495.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840093009994",
+  "item_id": "v1|840093009994|0",
+  "referencia": "126710BLRO",
+  "mercado": {
+   "n": 12,
+   "p25": 28995,
+   "mediana": 32762
+  },
+  "ratio_mercado": 1.121,
+  "motivo": "precio normal (112 % del cuartil bajo de 126710BLRO)"
+ },
+ {
+  "fecha": "2026-11-04T16:58:32.838454+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise W51008Q3 2300 20mm Small Steel Ladies Watch Box Papers",
+  "total": 3425.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257834720081",
+  "item_id": "v1|257834720081|0",
+  "referencia": "2300",
+  "mercado": {
+   "n": 2,
+   "p25": 3500,
+   "mediana": 4700
+  },
+  "triage": {
+   "modelo": "Cartier Tank Française, tamaño pequeño 20 mm, acero, cuarzo, esfera blanca con números romanos",
+   "referencia": "W51008Q3",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio pedido de US$3425 con envío está por encima del rango de venta real para esta referencia usada con caja y papeles, por lo que no hay descuento."
+  },
+  "motivo": "triage: Precio pedido de US$3425 con envío está por encima del rango de venta real para esta referencia usada con caja y papeles, por lo que no hay descuento. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-04T16:58:32.838454+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 79220R Smiley 2012",
+  "total": 3945.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880082806117",
+  "item_id": "v1|880082806117|0",
+  "referencia": "79220R",
+  "mercado": {
+   "n": 4,
+   "p25": 3750,
+   "mediana": 3775
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 41 (bisel rojo, esfera negra, brazalete de acero)",
+   "referencia": "79220R",
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "Precio pedido de 3945 USD por un Smiley 2012 en excelente estado; el precio justo estimado está por debajo del pedido sin caja ni papeles confirmados. Verificar la referencia y el estado de la pieza."
+  },
+  "motivo": "triage: Precio pedido de 3945 USD por un Smiley 2012 en excelente estado; el precio justo estimado está por debajo del pedido sin caja ni papeles confirmados. Verificar la referencia y el estado de la pieza. (justo 3600)"
  }
 ]
