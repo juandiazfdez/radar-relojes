@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-02T04:11:12.455800+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Royal \"36mm - Glacier Blue\" 2836C1A0-0106",
-  "total": 4348.34,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336874395581",
-  "item_id": "v1|336874395581|0",
-  "triage": {
-   "modelo": "Tudor Royal 36mm Glacier Blue (esfera azul claro, brazalete de acero tipo Jubilee)",
-   "referencia": null,
-   "precio_justo_usd": 3100,
-   "interesante": false,
-   "nota": "El código 2836C1A0-0106 no coincide con el formato de referencia Tudor (p. ej. M28xxx-xxxx); precio pedido por encima del mercado de un Royal usado en buen estado."
-  },
-  "motivo": "triage: El código 2836C1A0-0106 no coincide con el formato de referencia Tudor (p. ej. M28xxx-xxxx); precio pedido por encima del mercado de un Royal usado en buen estado. (justo 3100)"
- },
- {
-  "fecha": "2026-11-02T04:26:11.689757+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner With Paperwork Box And Bag ",
-  "total": 10829.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/377614297001",
-  "item_id": "v1|377614297001|0",
-  "triage": {
-   "modelo": "Rolex Submariner (la foto solo muestra cajas, no se ve el reloj)",
-   "referencia": null,
-   "precio_justo_usd": 11500,
-   "interesante": false,
-   "nota": "La foto solo muestra cajas vacías; no se puede verificar el reloj ni la referencia. Aun asumiendo un Submariner nuevo con caja y papeles, el precio no está claramente por debajo del mercado."
-  },
-  "motivo": "triage: La foto solo muestra cajas vacías; no se puede verificar el reloj ni la referencia. Aun asumiendo un Submariner nuevo con caja y papeles, el precio no está claramente por debajo del mercado. (justo 11500)"
- },
- {
-  "fecha": "2026-11-02T05:26:11.887038+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Must WSTA0051 Small 22x29.5mm SS Bracelet Quartz Box Papers Receipt",
-  "total": 3500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/366777710531",
-  "item_id": "v1|366777710531|0",
-  "referencia": "WSTA0051",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Tank Must (pequeño, cuarzo, acero, brazalete integrado, esfera plateada con números romanos)",
-   "referencia": "WSTA0051",
-   "precio_justo_usd": 2500,
-   "interesante": false,
-   "nota": "Tank Must pequeño de acero usado en excelente estado con caja y papeles; el precio pedido de US$3500 supera el mercado secundario, que ronda US$2300-2800."
-  },
-  "motivo": "triage: Tank Must pequeño de acero usado en excelente estado con caja y papeles; el precio pedido de US$3500 supera el mercado secundario, que ronda US$2300-2800. (justo 2500)"
- },
- {
   "fecha": "2026-11-02T05:41:11.898826+00:00",
   "marca": "Rolex",
   "titulo": "Rolex 3131 14K Rose Solid Gold Case     ",
@@ -11054,5 +10997,63 @@
   },
   "ratio_mercado": 1.491,
   "motivo": "precio normal (149 % del cuartil bajo de 116660)"
+ },
+ {
+  "fecha": "2026-11-04T17:43:32.141506+00:00",
+  "marca": "Rolex",
+  "titulo": "Genuine Rolex Diamond Watch. 14k YG Ladies Rolex Mechanical Windup Watch.",
+  "total": 4180.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257834804466",
+  "item_id": "v1|257834804466|0",
+  "triage": {
+   "modelo": "Reloj de dama vintage en oro amarillo 14k, caja tonel, brazalete de malla con diamantes en los extremos; marca Rolex no verificable en la foto",
+   "referencia": null,
+   "precio_justo_usd": 2500,
+   "interesante": false,
+   "nota": "La foto no muestra logotipo ni referencia legibles, y el título parece optimizado para buscadores. Sin verificar autenticidad, movimiento ni diamantes, el precio pedido de 4180 USD está por encima del valor de mercado estimado."
+  },
+  "motivo": "triage: La foto no muestra logotipo ni referencia legibles, y el título parece optimizado para buscadores. Sin verificar autenticidad, movimiento ni diamantes, el precio pedido de 4180 USD está por encima del valor de mercado estimado. (justo 2500)"
+ },
+ {
+  "fecha": "2026-11-04T17:43:32.141506+00:00",
+  "marca": "Rolex",
+  "titulo": "36mm Rolex Oyster Datejust 1600",
+  "total": 3850.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820315952233",
+  "item_id": "v1|820315952233|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Datejust 36mm acero y oro amarillo (bisel acanalado de oro, esfera plateada con índices de barra, probable generación vintage)",
+   "referencia": "1601 (probable; el título dice 1600, pero la foto muestra bicolor, no acero puro)",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "El título indica 1600 (acero), pero la imagen muestra bicolor, más compatible con 1601. Con esa referencia, el precio pedido de US$3,850 está por encima del valor de venta cerrada estimado. Verificar referencia, número de serie y estado de la esfera."
+  },
+  "motivo": "triage: El título indica 1600 (acero), pero la imagen muestra bicolor, más compatible con 1601. Con esa referencia, el precio pedido de US$3,850 está por encima del valor de venta cerrada estimado. Verificar referencia, número de serie y estado de la esfera. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-04T17:43:32.141506+00:00",
+  "marca": "Tudor",
+  "titulo": "VINTAGE TUDOR 34mm MEN's STEEL & 18K GOLD AUTOMATIC OYSTERDATE Ref. 74000 C 1984",
+  "total": 1524.95,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840093167213",
+  "item_id": "v1|840093167213|0",
+  "referencia": "74000",
+  "mercado": {
+   "n": 6,
+   "p25": 1850,
+   "mediana": 2350
+  },
+  "ratio_mercado": 0.824,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 1100,
+   "riesgo_autenticidad": "medio",
+   "estado": "Buen estado cosmético, pero con esfera y corona probablemente no originales, y sin caja de fondo ni papeles"
+  },
+  "ratio_justo": 1.386,
+  "motivo": "precio normal segun revision (139 % del justo 1100)"
  }
 ]
