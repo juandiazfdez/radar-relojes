@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-02T16:11:46.278362+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Stainless Steel Tapestry Datejust 16200 36mm - WGACA",
-  "total": 8262.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820307228439",
-  "item_id": "v1|820307228439|0",
-  "referencia": "16200",
-  "mercado": {
-   "n": 29,
-   "p25": 7381,
-   "mediana": 7525
-  },
-  "ratio_mercado": 1.119,
-  "motivo": "precio normal (112 % del cuartil bajo de 16200)"
- },
- {
-  "fecha": "2026-11-02T16:11:46.278362+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX Datejust SS/18k Rose Gold 41mm Mens Watch w/ Box & Papers Ref 126301",
-  "total": 14000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/257830335601",
-  "item_id": "v1|257830335601|0",
-  "referencia": "126301",
-  "mercado": {
-   "n": 19,
-   "p25": 15690,
-   "mediana": 16150
-  },
-  "ratio_mercado": 0.892,
-  "motivo": "precio normal (89 % del cuartil bajo de 126301)"
- },
- {
-  "fecha": "2026-11-02T16:11:46.278362+00:00",
-  "marca": "Rolex",
   "titulo": "2023 Rolex Submariner STARBUCKS Green Stainless Steel 41mm 126610 LV BOX PAPERS",
   "total": 16587.39,
   "condicion": "Pre-owned - Good",
@@ -11116,5 +11082,39 @@
    "nota": "Precio pedido de US$3.025 por encima de lo que se vende este modelo de segunda mano, aunque tenga esfera de diamantes y juego completo."
   },
   "motivo": "triage: Precio pedido de US$3.025 por encima de lo que se vende este modelo de segunda mano, aunque tenga esfera de diamantes y juego completo. (justo 2600)"
+ },
+ {
+  "fecha": "2026-11-04T19:43:31.784012+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX Gent's Wristwatch OYSTER DATE ADJUST (B07010212)",
+  "total": 6120.95,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/307266694784",
+  "item_id": "v1|307266694784|0",
+  "triage": {
+   "modelo": "Rolex Oyster Date (aparente Oyster Perpetual Date vintage, esfera negra con índices de bastón, brazalete Oyster y caja Rolex)",
+   "referencia": null,
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "La referencia 'B07010212' no tiene formato Rolex y el título 'Oyster Date Adjust' no es una denominación Rolex; hay que verificar el modelo real y el número de serie. Aun así, US$6121 supera el valor estimado para este estado."
+  },
+  "motivo": "triage: La referencia 'B07010212' no tiene formato Rolex y el título 'Oyster Date Adjust' no es una denominación Rolex; hay que verificar el modelo real y el número de serie. Aun así, US$6121 supera el valor estimado para este estado. (justo 4500)"
+ },
+ {
+  "fecha": "2026-11-04T19:43:31.784012+00:00",
+  "marca": "Rolex",
+  "titulo": "18K Ladies Rolex 69178 Datejust 26mm Wristwatch! With 18K 8570F Rolex Bracelet!",
+  "total": 9999.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257835068947",
+  "item_id": "v1|257835068947|0",
+  "referencia": "69178",
+  "mercado": {
+   "n": 6,
+   "p25": 5450,
+   "mediana": 5975
+  },
+  "ratio_mercado": 1.835,
+  "motivo": "precio normal (183 % del cuartil bajo de 69178)"
  }
 ]
