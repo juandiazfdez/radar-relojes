@@ -1,113 +1,5 @@
 [
  {
-  "fecha": "2026-11-02T18:57:02.304557+00:00",
-  "marca": "Rolex",
-  "titulo": "NEW Rolex Daytona Whie Gold MOP & Diamond Oysterflex 40mm Watch '26 B/P 126589",
-  "total": 88888.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/366779261669",
-  "item_id": "v1|366779261669|0",
-  "referencia": "126589",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Daytona 40mm, oro blanco, bisel de diamantes, esfera de nácar (MOP) con marcadores de diamante, correa Oysterflex",
-   "referencia": "126589",
-   "precio_justo_usd": 80000,
-   "interesante": false,
-   "nota": "Precio pedido de US$88,888 supera la estimación a la baja de ~US$80,000; no hay descuento claro, y el listado tiene erratas y precio llamativo que conviene verificar."
-  },
-  "motivo": "triage: Precio pedido de US$88,888 supera la estimación a la baja de ~US$80,000; no hay descuento claro, y el listado tiene erratas y precio llamativo que conviene verificar. (justo 80000)"
- },
- {
-  "fecha": "2026-11-02T18:57:02.304557+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sea-Dweller 43 \"2021\" 126600",
-  "total": 14040.94,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237158304530",
-  "item_id": "v1|237158304530|0",
-  "referencia": "126600",
-  "mercado": {
-   "n": 54,
-   "p25": 12999,
-   "mediana": 13995
-  },
-  "ratio_mercado": 1.08,
-  "motivo": "precio normal (108 % del cuartil bajo de 126600)"
- },
- {
-  "fecha": "2026-11-02T18:57:02.304557+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Explorer II Pro Hunter Steve McQueen DLC Limited Edition 42mm Watch",
-  "total": 23895.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198766084019",
-  "item_id": "v1|198766084019|0",
-  "triage": {
-   "modelo": "Rolex Explorer II (modificado: caja y brazalete con recubrimiento DLC negro, manecilla naranja)",
-   "referencia": "216570 (base, no original)",
-   "precio_justo_usd": 7000,
-   "interesante": false,
-   "nota": "El DLC y el acabado no son de fábrica Rolex; parece una personalización. 'Steve McQueen' y 'Limited Edition' no corresponden a una edición Rolex, y el precio pedido está muy por encima del valor de una 216570 usada."
-  },
-  "motivo": "triage: El DLC y el acabado no son de fábrica Rolex; parece una personalización. 'Steve McQueen' y 'Limited Edition' no corresponden a una edición Rolex, y el precio pedido está muy por encima del valor de una 216570 usada. (justo 7000)"
- },
- {
-  "fecha": "2026-11-02T18:57:02.304557+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 31 Stainless Steel Fluted / Oyster / Green 278274-0017",
-  "total": 13999.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/377615939462",
-  "item_id": "v1|377615939462|0",
-  "referencia": "278274",
-  "mercado": {
-   "n": 43,
-   "p25": 14515,
-   "mediana": 15495
-  },
-  "ratio_mercado": 0.964,
-  "motivo": "precio normal (96 % del cuartil bajo de 278274)"
- },
- {
-  "fecha": "2026-11-02T18:57:02.304557+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona Meteorite 18K White Gold Watch 116519",
-  "total": 45000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407334192505",
-  "item_id": "v1|407334192505|0",
-  "referencia": "116519",
-  "mercado": {
-   "n": 22,
-   "p25": 40392,
-   "mediana": 43492
-  },
-  "ratio_mercado": 1.114,
-  "motivo": "precio normal (111 % del cuartil bajo de 116519)"
- },
- {
-  "fecha": "2026-11-02T18:57:02.304557+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Prince Oysterdate 9050/0 Mens 34mm 1960s Vintage Automatic RA842B",
-  "total": 3890.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940060453234",
-  "item_id": "v1|940060453234|0",
-  "triage": {
-   "modelo": "Tudor Prince Oysterdate (Rotor Self-Winding)",
-   "referencia": "9050/0",
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "Referencia vintage de los años 60 con esfera plateada y fecha; el precio pedido de US$3,890 está por encima de lo que se vende realmente en estado Good, sin caja ni papeles."
-  },
-  "motivo": "triage: Referencia vintage de los años 60 con esfera plateada y fecha; el precio pedido de US$3,890 está por encima de lo que se vende realmente en estado Good, sin caja ni papeles. (justo 2800)"
- },
- {
   "fecha": "2026-11-02T19:12:01.657459+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust Midsize 31 Steel White Gold Diamond Watch 278274 Box Card",
@@ -11080,5 +10972,113 @@
   },
   "ratio_mercado": 1.054,
   "motivo": "precio normal (105 % del cuartil bajo de 118205)"
+ },
+ {
+  "fecha": "2026-11-04T21:58:43.511352+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 41 \"2026\" 134300",
+  "total": 12634.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336880230784",
+  "item_id": "v1|336880230784|0",
+  "referencia": "134300",
+  "mercado": {
+   "n": 19,
+   "p25": 11888,
+   "mediana": 12485
+  },
+  "ratio_mercado": 1.063,
+  "motivo": "precio normal (106 % del cuartil bajo de 134300)"
+ },
+ {
+  "fecha": "2026-11-04T21:58:43.511352+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 26mm in 18k and stainless steel",
+  "total": 19401.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206676035327",
+  "item_id": "v1|206676035327|0",
+  "triage": {
+   "modelo": "Rolex Datejust 26 mm acero y oro amarillo de 18k, bisel acanalado, esfera azul, brazalete Jubilee",
+   "referencia": "69173 (probable)",
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de mercado para esta referencia; si no hay diamantes ni variante especial, el listado parece sobrevalorado."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de mercado para esta referencia; si no hay diamantes ni variante especial, el listado parece sobrevalorado. (justo 4500)"
+ },
+ {
+  "fecha": "2026-11-04T21:58:43.511352+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona 116520 Stainless Steel 40mm auto watch",
+  "total": 35610.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198772721901",
+  "item_id": "v1|198772721901|0",
+  "referencia": "116520",
+  "mercado": {
+   "n": 21,
+   "p25": 22628,
+   "mediana": 23648
+  },
+  "ratio_mercado": 1.574,
+  "motivo": "precio normal (157 % del cuartil bajo de 116520)"
+ },
+ {
+  "fecha": "2026-11-04T21:58:43.511352+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Cellini Danaos 18K White Gold Watch 4233",
+  "total": 8000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407340556403",
+  "item_id": "v1|407340556403|0",
+  "triage": {
+   "modelo": "Rolex Cellini Danaos (caja cojín, esfera blanca, correa de cocodrilo marrón)",
+   "referencia": "4233",
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "Precio pedido en línea con el mercado para la 4233 de oro blanco de 18K; la foto parece mostrar bicolor, conviene verificar el material real y el estado de la caja y papeles."
+  },
+  "motivo": "triage: Precio pedido en línea con el mercado para la 4233 de oro blanco de 18K; la foto parece mostrar bicolor, conviene verificar el material real y el estado de la caja y papeles. (justo 7000)"
+ },
+ {
+  "fecha": "2026-11-04T21:58:43.511352+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Vintage 14k Yellow Gold Date, Ref. 1500/7, Circa 1979, Rolex Service Card ",
+  "total": 15750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900066013928",
+  "item_id": "v1|900066013928|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date 34 mm en oro amarillo de 14k, brazalete tipo jubileo, esfera champán con índices de barra (aspecto de c. 1979)",
+   "referencia": "1500 (el sufijo /7 del título no lo puedo verificar en la foto)",
+   "precio_justo_usd": 9500,
+   "interesante": false,
+   "nota": "Precio pedido bastante por encima del valor de venta cerrada de esta referencia en oro de 14k con servicio; el sobreprecio no se justifica sin confirmar originalidad de la esfera y las manecillas."
+  },
+  "motivo": "triage: Precio pedido bastante por encima del valor de venta cerrada de esta referencia en oro de 14k con servicio; el sobreprecio no se justifica sin confirmar originalidad de la esfera y las manecillas. (justo 9500)"
+ },
+ {
+  "fecha": "2026-11-04T21:58:43.511352+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu W4BB0023 Stainless Steel 33mm auto watch",
+  "total": 11381.06,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198772720271",
+  "item_id": "v1|198772720271|0",
+  "referencia": "W4BB0023",
+  "mercado": {
+   "n": 1,
+   "p25": 9890,
+   "mediana": 9890
+  },
+  "triage": {
+   "modelo": "Cartier Ballon Bleu 33 mm automático, acero con bisel de diamantes, esfera plateada",
+   "referencia": "W4BB0023",
+   "precio_justo_usd": 7200,
+   "interesante": false,
+   "nota": "Precio pedido de US$11.381 muy por encima del mercado de segunda mano para este modelo; no hay descuento."
+  },
+  "motivo": "triage: Precio pedido de US$11.381 muy por encima del mercado de segunda mano para este modelo; no hay descuento. (justo 7200)"
  }
 ]
