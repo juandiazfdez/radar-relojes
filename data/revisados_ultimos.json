@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-10-31T22:40:23.256921+00:00",
-  "marca": "Tudor",
-  "titulo": "2010s Tudor Black Bay ref. 79220B - Full set",
-  "total": 3900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267829301232",
-  "item_id": "v1|267829301232|0",
-  "referencia": "79220B",
-  "mercado": {
-   "n": 3,
-   "p25": 3800,
-   "mediana": 4000
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay (esfera negra, bisel azul, caja de acero, correa de cuero negro)",
-   "referencia": "79220B (no verificable en la imagen; el bisel azul sugiere una variante Black Bay de la familia 58 o Heritage)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido de US$3900 está por encima de lo que se vende este modelo de segunda mano; confirmar referencia y generación antes de considerar la compra."
-  },
-  "motivo": "triage: Precio pedido de US$3900 está por encima de lo que se vende este modelo de segunda mano; confirmar referencia y generación antes de considerar la compra. (justo 3300)"
- },
- {
-  "fecha": "2026-10-31T23:10:23.173953+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex SeaDweller 43mm 126600 Red Letter Black Complete Set",
-  "total": 12249.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880069451833",
-  "item_id": "v1|880069451833|0",
-  "referencia": "126600",
-  "mercado": {
-   "n": 54,
-   "p25": 12999,
-   "mediana": 13995
-  },
-  "ratio_mercado": 0.942,
-  "motivo": "precio normal (94 % del cuartil bajo de 126600)"
- },
- {
-  "fecha": "2026-10-31T23:10:23.173953+00:00",
-  "marca": "Rolex",
-  "titulo": "Circa 1936 Vintage Rolex 2705 Astrua Pre-Daytona Steel Chronograph Watch",
-  "total": 34999.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198760855578",
-  "item_id": "v1|198760855578|0",
-  "triage": {
-   "modelo": "Rolex Astrua (cronógrafo de acero tipo pre-Daytona, años 30; dial con escala de taquímetro)",
-   "referencia": null,
-   "precio_justo_usd": 22000,
-   "interesante": false,
-   "nota": "No puedo verificar la referencia '2705' ni la marca 'Astrua' en el dial; sin autenticación y con calibre, dial y estado sin confirmar, el precio pedido no es claramente bajo."
-  },
-  "motivo": "triage: No puedo verificar la referencia '2705' ni la marca 'Astrua' en el dial; sin autenticación y con calibre, dial y estado sin confirmar, el precio pedido no es claramente bajo. (justo 22000)"
- },
- {
   "fecha": "2026-10-31T23:10:23.173953+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Francaise Stainless Steel Diamond Watch W4TA0021 Medium $11,800",
@@ -11010,5 +10953,62 @@
    "nota": "Precio pedido por encima del valor de mercado gris para un modelo nuevo; el título dice 'October 2026', fecha que conviene verificar."
   },
   "motivo": "triage: Precio pedido por encima del valor de mercado gris para un modelo nuevo; el título dice 'October 2026', fecha que conviene verificar. (justo 4300)"
+ },
+ {
+  "fecha": "2026-11-04T02:58:00.058900+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex Submariner Date 168000 — “Triple Zero”",
+  "total": 10500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327438405180",
+  "item_id": "v1|327438405180|0",
+  "referencia": "168000",
+  "mercado": {
+   "n": 4,
+   "p25": 10000,
+   "mediana": 10194
+  },
+  "triage": {
+   "modelo": "Rolex Submariner (No-Date, serie 'Triple Zero')",
+   "referencia": "168000",
+   "precio_justo_usd": 9000,
+   "interesante": false,
+   "nota": "Precio por encima del mercado para 168000 en estado Good. En la foto parece haber ventana de fecha: verificar la referencia real antes de comprar."
+  },
+  "motivo": "triage: Precio por encima del mercado para 168000 en estado Good. En la foto parece haber ventana de fecha: verificar la referencia real antes de comprar. (justo 9000)"
+ },
+ {
+  "fecha": "2026-11-04T02:58:00.058900+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 SEPT ROLEX SUBMARINER DATE 126610LN 41MM CERAMIC BLACK STEEL WATCH",
+  "total": 16190.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880080735957",
+  "item_id": "v1|880080735957|0",
+  "referencia": "126610LN",
+  "mercado": {
+   "n": 34,
+   "p25": 15999,
+   "mediana": 16415
+  },
+  "ratio_mercado": 1.012,
+  "motivo": "precio normal (101 % del cuartil bajo de 126610LN)"
+ },
+ {
+  "fecha": "2026-11-04T02:58:00.058900+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex 18k Yellow White Gold Diamond Cocktail Watch 15mm 6.25\" W1509",
+  "total": 6245.51,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327438392209",
+  "item_id": "v1|327438392209|0",
+  "triage": {
+   "modelo": "Reloj de cóctel de dama vintage, oro amarillo 18k con bisel de oro blanco y diamantes, esfera blanca (marca no visible en la foto)",
+   "referencia": null,
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "El título cita Rolex W1509, pero no se distingue corona ni marca en la foto y la referencia no encaja con ningún Rolex de cóctel conocido. Con esos materiales el valor de venta ronda US$3,000-4,000; el precio pedido es demasiado alto."
+  },
+  "motivo": "triage: El título cita Rolex W1509, pero no se distingue corona ni marca en la foto y la referencia no encaja con ningún Rolex de cóctel conocido. Con esos materiales el valor de venta ronda US$3,000-4,000; el precio pedido es demasiado alto. (justo 3500)"
  }
 ]
