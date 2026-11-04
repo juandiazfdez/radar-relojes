@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-02T06:41:23.078229+00:00",
-  "marca": "Rolex",
-  "titulo": "2000 ROLEX 16220 DATEJUST CREAM ARABIC COMPUTER STEEL JUBILEE WATCH $1 NR 11/6",
-  "total": 1.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800866090733",
-  "item_id": "v1|800866090733|0",
-  "referencia": "16220",
-  "mercado": {
-   "n": 33,
-   "p25": 5999,
-   "mediana": 7200
-  },
-  "ratio_mercado": 0.0,
-  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
- },
- {
   "fecha": "2026-11-02T07:11:22.877929+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Panthere Vendome SM 1-Row 24mm Ref.1057920C Quartz Watch 18KYG 167807",
@@ -11055,5 +11038,22 @@
   },
   "ratio_mercado": 0.873,
   "motivo": "precio normal (87 % del cuartil bajo de 127334)"
+ },
+ {
+  "fecha": "2026-11-04T18:13:33.545170+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Solo Rose Gold Ladies Watch W5200024",
+  "total": 6450.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336879870069",
+  "item_id": "v1|336879870069|0",
+  "referencia": "W5200024",
+  "mercado": {
+   "n": 11,
+   "p25": 6700,
+   "mediana": 7216
+  },
+  "ratio_mercado": 0.963,
+  "motivo": "precio normal (96 % del cuartil bajo de W5200024)"
  }
 ]
