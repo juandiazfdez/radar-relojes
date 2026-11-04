@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-01T00:25:23.035578+00:00",
   "marca": "Rolex",
-  "titulo": "Antique 9ct Gold Rolex Women's Watch PROJECT 1920's Wristwatch",
-  "total": 1203.95,
-  "condicion": "For parts or not working",
-  "url": "https://www.ebay.com/itm/198760975521",
-  "item_id": "v1|198760975521|0",
-  "triage": {
-   "modelo": "Reloj de pulsera de mujer, caja cojín de oro de 9 ct, años 1920 (sin logotipo Rolex visible en la foto)",
-   "referencia": null,
-   "precio_justo_usd": 500,
-   "interesante": false,
-   "nota": "La foto no muestra corona de Rolex ni firma en la esfera; la marca no se puede confirmar. Como pieza no funcional para restauración, un Rolex genuino de esa época se vendería en torno a US$400-700, por lo que US$1204 está muy por encima."
-  },
-  "motivo": "triage: La foto no muestra corona de Rolex ni firma en la esfera; la marca no se puede confirmar. Como pieza no funcional para restauración, un Rolex genuino de esa época se vendería en torno a US$400-700, por lo que US$1204 está muy por encima. (justo 500)"
- },
- {
-  "fecha": "2026-11-01T00:25:23.035578+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Yachtmaster Ref. 16622 Case #743",
   "total": 8850.0,
   "condicion": "Pre-owned - Good",
@@ -10999,5 +10982,28 @@
    "nota": "Oro amarillo de 18k, manual y vintage; con caja pero sin confirmar papeles. El precio pedido está en el rango de mercado y no supera el 15 % de descuento."
   },
   "motivo": "triage: Oro amarillo de 18k, manual y vintage; con caja pero sin confirmar papeles. El precio pedido está en el rango de mercado y no supera el 15 % de descuento. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-04T05:28:10.626756+00:00",
+  "marca": "Cartier",
+  "titulo": "CARTIER Calibre de Cartier Diver W7100057 Black Stainless Steel Men's Automatic",
+  "total": 4695.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257833711556",
+  "item_id": "v1|257833711556|0",
+  "referencia": "W7100057",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Calibre de Cartier Diver 42 mm, esfera negra, automático con fecha",
+   "referencia": "W7100057",
+   "precio_justo_usd": 5300,
+   "interesante": false,
+   "nota": "Precio pedido unos 11 % por debajo de un estimado conservador de venta real para estado Good; sin caja ni papeles mencionados, no alcanza el umbral del 15 %."
+  },
+  "motivo": "triage: Precio pedido unos 11 % por debajo de un estimado conservador de venta real para estado Good; sin caja ni papeles mencionados, no alcanza el umbral del 15 %. (justo 5300)"
  }
 ]
