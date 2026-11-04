@@ -2,23 +2,6 @@
  {
   "fecha": "2026-10-31T22:10:22.742423+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Explorer 224270 Watch with original box and papers",
-  "total": 10945.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800860638204",
-  "item_id": "v1|800860638204|0",
-  "referencia": "224270",
-  "mercado": {
-   "n": 19,
-   "p25": 9674,
-   "mediana": 9890
-  },
-  "ratio_mercado": 1.131,
-  "motivo": "precio normal (113 % del cuartil bajo de 224270)"
- },
- {
-  "fecha": "2026-10-31T22:10:22.742423+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Ref 1002 Watch with Stainless Steel Case & Bracelet",
   "total": 4560.0,
   "condicion": "Pre-owned - Good",
@@ -11004,5 +10987,22 @@
    "nota": "Referencia descontinuada de acero con set completo; el precio pedido de US$4254 supera claramente el valor de venta cerrada en EE. UU."
   },
   "motivo": "triage: Referencia descontinuada de acero con set completo; el precio pedido de US$4254 supera claramente el valor de venta cerrada en EE. UU. (justo 2600)"
+ },
+ {
+  "fecha": "2026-11-04T02:28:00.176165+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Ceramic 41mm M79210CNU-0001 | October 2026 Complete Set",
+  "total": 5250.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/900063617827",
+  "item_id": "v1|900063617827|0",
+  "triage": {
+   "modelo": "Tudor Black Bay Ceramic 41mm (esfera negra, bisel negro, correa de cuero negra)",
+   "referencia": "M79210CNU-0001",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio pedido por encima de la estimación de mercado para esta referencia nueva; además, la fecha de los papeles (octubre 2026) debe verificarse con el vendedor."
+  },
+  "motivo": "triage: Precio pedido por encima de la estimación de mercado para esta referencia nueva; además, la fecha de los papeles (octubre 2026) debe verificarse con el vendedor. (justo 4000)"
  }
 ]
