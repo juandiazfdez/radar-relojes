@@ -1515,7 +1515,7 @@
   "max": 15647
  },
  "Rolex 16570|nuevo": {
-  "fecha": "2026-10-29",
+  "fecha": "2026-11-04",
   "consulta": "Rolex 16570",
   "n": 10,
   "mediana": 13473,
@@ -5440,14 +5440,14 @@
   "max": 22628
  },
  "Cartier 1820|usado": {
-  "fecha": "2026-11-03",
+  "fecha": "2026-11-04",
   "consulta": "Cartier 1820",
   "n": 2,
-  "mediana": 11759,
+  "mediana": 11409,
   "p25": 6818,
-  "p75": 16700,
+  "p75": 16000,
   "min": 6818,
-  "max": 16700
+  "max": 16000
  },
  "Breitling A59028|usado": {
   "fecha": "2026-10-22",
@@ -5840,12 +5840,12 @@
   "max": 5900
  },
  "Rolex 18038|usado": {
-  "fecha": "2026-11-03",
+  "fecha": "2026-11-04",
   "consulta": "Rolex 18038",
-  "n": 18,
-  "mediana": 10484,
+  "n": 19,
+  "mediana": 10459,
   "p25": 9165,
-  "p75": 13072,
+  "p75": 11529,
   "min": 395,
   "max": 13559
  },
@@ -7315,13 +7315,13 @@
   "n": 0
  },
  "Cartier WSRN0032|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-11-04",
   "consulta": "Cartier WSRN0032",
   "n": 3,
   "mediana": 4000,
-  "p25": 2900,
+  "p25": 3950,
   "p75": 4225,
-  "min": 2900,
+  "min": 3950,
   "max": 4225
  },
  "Cartier W5200027|usado": {
@@ -15025,10 +15025,10 @@
   "max": 28900
  },
  "Cartier 2385|usado": {
-  "fecha": "2026-11-03",
+  "fecha": "2026-11-04",
   "consulta": "Cartier 2385",
-  "n": 6,
-  "mediana": 16248,
+  "n": 7,
+  "mediana": 16350,
   "p25": 6950,
   "p75": 17356,
   "min": 5995,
@@ -18873,5 +18873,35 @@
   "p75": 8750,
   "min": 6663,
   "max": 8750
+ },
+ "Rolex 16518|usado": {
+  "fecha": "2026-11-04",
+  "consulta": "Rolex 16518",
+  "n": 8,
+  "mediana": 30700,
+  "p25": 30000,
+  "p75": 34100,
+  "min": 28700,
+  "max": 38191
+ },
+ "Cartier 3003|usado": {
+  "fecha": "2026-11-04",
+  "consulta": "Cartier 3003",
+  "n": 7,
+  "mediana": 23000,
+  "p25": 12990,
+  "p75": 27990,
+  "min": 9499,
+  "max": 28640
+ },
+ "Cartier 2300|usado": {
+  "fecha": "2026-11-04",
+  "consulta": "Cartier 2300",
+  "n": 2,
+  "mediana": 4700,
+  "p25": 3500,
+  "p75": 5900,
+  "min": 3500,
+  "max": 5900
  }
 }
