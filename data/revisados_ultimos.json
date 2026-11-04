@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-01T19:26:03.238391+00:00",
-  "marca": "Cartier",
-  "titulo": "Vintage Cartier Panthere 1057917 22mm Ladies Two-Tone Quartz Watch",
-  "total": 6549.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287697523400",
-  "item_id": "v1|287697523400|0",
-  "triage": {
-   "modelo": "Cartier Panthère de dos tonos (acero y oro amarillo), cuarzo, caja rectangular pequeña, versión femenina",
-   "referencia": "1057917",
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "Precio pedido de US$6550 muy por encima del valor de venta real de este modelo de cuarzo usado, aunque tenga buen estado; estimado en torno a US$2,500-3,000."
-  },
-  "motivo": "triage: Precio pedido de US$6550 muy por encima del valor de venta real de este modelo de cuarzo usado, aunque tenga buen estado; estimado en torno a US$2,500-3,000. (justo 2800)"
- },
- {
-  "fecha": "2026-11-01T19:56:02.809022+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos 2656 W20073X8",
-  "total": 4979.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/257828847095",
-  "item_id": "v1|257828847095|0",
-  "referencia": "2656",
-  "mercado": {
-   "n": 28,
-   "p25": 5250,
-   "mediana": 5510
-  },
-  "ratio_mercado": 0.948,
-  "motivo": "precio normal (95 % del cuartil bajo de 2656)"
- },
- {
-  "fecha": "2026-11-01T19:56:02.809022+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Monarch Dark Champagne Stainless Steel 39mm Automatic Mens Watch 2639W1A0U",
-  "total": 6900.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/137893097994",
-  "item_id": "v1|137893097994|0",
-  "triage": {
-   "modelo": "Tudor Monarch Dark Champagne (acero, 39 mm, automático)",
-   "referencia": "2639W1A0U (no verificable en la foto; las referencias actuales de Tudor suelen usar prefijo M)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Nuevo con caja y papeles, el mercado gris suele estar en torno a US$3,000-3,500, muy por debajo de los US$6,900 pedidos. La foto muestra un modelo con correa azul distinto al anunciado, así que conviene verificar el listado."
-  },
-  "motivo": "triage: Nuevo con caja y papeles, el mercado gris suele estar en torno a US$3,000-3,500, muy por debajo de los US$6,900 pedidos. La foto muestra un modelo con correa azul distinto al anunciado, así que conviene verificar el listado. (justo 3300)"
- },
- {
   "fecha": "2026-11-01T20:11:02.911135+00:00",
   "marca": "Rolex",
   "titulo": "36mm Rolex Datejust Oyster Perpetual Two-Tone Jubilee Champagne Dial.",
@@ -11030,5 +10979,62 @@
   },
   "ratio_mercado": 0.921,
   "motivo": "precio normal (92 % del cuartil bajo de WSSA0029)"
+ },
+ {
+  "fecha": "2026-11-04T15:28:31.736820+00:00",
+  "marca": "Rolex",
+  "titulo": "1978 Rolex Ref. 1500 Date 18K Solid Gold 35mm Automatic Watch - Box & Papers",
+  "total": 8000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137902140085",
+  "item_id": "v1|137902140085|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date (caja de oro amarillo 18K, esfera champán, correa de cuero)",
+   "referencia": "1500",
+   "precio_justo_usd": 5500,
+   "interesante": false,
+   "nota": "Ref. 1500 en oro 18K de 1978 con caja y papeles; el precio pedido de US$8000 supera el valor de venta cerrada. El listado dice 35 mm, aunque la 1500 suele medir 34 mm."
+  },
+  "motivo": "triage: Ref. 1500 en oro 18K de 1978 con caja y papeles; el precio pedido de US$8000 supera el valor de venta cerrada. El listado dice 35 mm, aunque la 1500 suele medir 34 mm. (justo 5500)"
+ },
+ {
+  "fecha": "2026-11-04T15:28:31.736820+00:00",
+  "marca": "Rolex",
+  "titulo": "VINTAGE 1978 Rolex GMT-Master Red Blue PEPSI Black Oyster Steel 40mm 1675 Watch",
+  "total": 13500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267833304000",
+  "item_id": "v1|267833304000|0",
+  "triage": {
+   "modelo": "Rolex GMT-Master ref. 1675 (\"Pepsi\", bisel rojo/azul, esfera oscura posiblemente con pátina)",
+   "referencia": "1675",
+   "precio_justo_usd": 15000,
+   "interesante": false,
+   "nota": "Precio pedido ~10% bajo estimación; la caja mostrada es Tudor, así que verificar papeles, esfera (posible tropical) y autenticidad del bisel y la caja antes de cerrar."
+  },
+  "motivo": "triage: Precio pedido ~10% bajo estimación; la caja mostrada es Tudor, así que verificar papeles, esfera (posible tropical) y autenticidad del bisel y la caja antes de cerrar. (justo 15000)"
+ },
+ {
+  "fecha": "2026-11-04T15:28:31.736820+00:00",
+  "marca": "Tudor",
+  "titulo": "2025 Tudor Black Bay 54 37mm Stainless Steel M79000N-0001",
+  "total": 3895.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880082584745",
+  "item_id": "v1|880082584745|0",
+  "referencia": "M79000N-0001",
+  "mercado": {
+   "n": 4,
+   "p25": 4295,
+   "mediana": 4376
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 54 37mm (acero, esfera negra, bisel negro)",
+   "referencia": "M79000N-0001",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "El precio pedido está por encima del valor de mercado gris estimado para un BB54 nuevo con caja y papeles; no hay descuento suficiente para considerarlo oportunidad."
+  },
+  "motivo": "triage: El precio pedido está por encima del valor de mercado gris estimado para un BB54 nuevo con caja y papeles; no hay descuento suficiente para considerarlo oportunidad. (justo 3400)"
  }
 ]
