@@ -1,104 +1,6 @@
 [
  {
   "fecha": "2026-11-02T18:12:01.353854+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 1975 Rolex Oyster Perpetual Steel Ref 6723 26mm Ladies Watch",
-  "total": 3510.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/820307580210",
-  "item_id": "v1|820307580210|0",
-  "referencia": "6723",
-  "mercado": {
-   "n": 2,
-   "p25": 3550,
-   "mediana": 4495
-  },
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Lady de acero, esfera plateada, bisel liso, brazalete Oyster (años 70)",
-   "referencia": "6723 (según el título, no verificable en la foto)",
-   "precio_justo_usd": 2400,
-   "interesante": false,
-   "nota": "Precio pedido de US$3,510 por un Lady OP vintage de acero sin caja ni papeles está muy por encima del mercado; verificar la referencia exacta y el estado del cristal y la caja."
-  },
-  "motivo": "triage: Precio pedido de US$3,510 por un Lady OP vintage de acero sin caja ni papeles está muy por encima del mercado; verificar la referencia exacta y el estado del cristal y la caja. (justo 2400)"
- },
- {
-  "fecha": "2026-11-02T18:12:01.353854+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Paris Vendome Ellipse 18k Watch 67113",
-  "total": 7280.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/820307625095",
-  "item_id": "v1|820307625095|0",
-  "triage": {
-   "modelo": "Cartier Vendôme (Louis Cartier), bicolor acero y oro amarillo, caja redonda, esfera con números romanos",
-   "referencia": null,
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "El título dice Ellipse 18k 67113, pero la caja que se ve es redonda, no elíptica; la referencia no se puede confirmar desde la foto. Con precio de US$7280 queda muy por encima del valor de venta cerrada para un bicolor de este tipo."
-  },
-  "motivo": "triage: El título dice Ellipse 18k 67113, pero la caja que se ve es redonda, no elíptica; la referencia no se puede confirmar desde la foto. Con precio de US$7280 queda muy por encima del valor de venta cerrada para un bicolor de este tipo. (justo 3500)"
- },
- {
-  "fecha": "2026-11-02T18:12:01.353854+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Heritage Steel 79730 Watch Only",
-  "total": 2695.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/860106561838",
-  "item_id": "v1|860106561838|0",
-  "referencia": "79730",
-  "mercado": {
-   "n": 5,
-   "p25": 2990,
-   "mediana": 3200
-  },
-  "ratio_mercado": 0.901,
-  "motivo": "precio normal (90 % del cuartil bajo de 79730)"
- },
- {
-  "fecha": "2026-11-02T18:12:01.353854+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor 7939A1A0RU Black Bay 58 Burgundy",
-  "total": 4425.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/920097661719",
-  "item_id": "v1|920097661719|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 Burgundy (39 mm, bisel y esfera burdeos, brazalete de acero)",
-   "referencia": "M7939A1A0RU",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido por encima del retail aproximado (~US$3.900) y del mercado gris de nuevo con caja y papeles; no hay descuento real."
-  },
-  "motivo": "triage: Precio pedido por encima del retail aproximado (~US$3.900) y del mercado gris de nuevo con caja y papeles; no hay descuento real. (justo 3300)"
- },
- {
-  "fecha": "2026-11-02T18:12:01.353854+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Prince Date Day 76213 36mm Two-Tone Champagne Linen",
-  "total": 1800.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237158157244",
-  "item_id": "v1|237158157244|0",
-  "referencia": "76213",
-  "mercado": {
-   "n": 7,
-   "p25": 2275,
-   "mediana": 3039
-  },
-  "ratio_mercado": 0.791,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 1900,
-   "riesgo_autenticidad": "medio",
-   "estado": "Buen aspecto general, pero con bisel y brazalete chapados de recambio; fondo con rayones"
-  },
-  "ratio_justo": 0.947,
-  "motivo": "precio normal segun revision (95 % del justo 1900)"
- },
- {
-  "fecha": "2026-11-02T18:12:01.353854+00:00",
   "marca": "Tudor",
   "titulo": "Pre-Owned Tudor Pelagos 42 Black Ref. M25600TN-0001",
   "total": 4850.0,
@@ -11085,5 +10987,96 @@
    "nota": "Con caja y papeles, un Santos bicolor de cuarzo se vende en el mercado secundario por unos 5.000-5.500 USD. El precio pedido de 10.000 USD está muy por encima."
   },
   "motivo": "triage: Con caja y papeles, un Santos bicolor de cuarzo se vende en el mercado secundario por unos 5.000-5.500 USD. El precio pedido de 10.000 USD está muy por encima. (justo 5300)"
+ },
+ {
+  "fecha": "2026-11-04T20:58:31.513061+00:00",
+  "marca": "Rolex",
+  "titulo": "1999 Rolex Daytona Cosmograph Zenith 16523 Large White Roman Watch p32512",
+  "total": 16999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820316609823",
+  "item_id": "v1|820316609823|0",
+  "referencia": "16523",
+  "mercado": {
+   "n": 21,
+   "p25": 18500,
+   "mediana": 19405
+  },
+  "ratio_mercado": 0.919,
+  "motivo": "precio normal (92 % del cuartil bajo de 16523)"
+ },
+ {
+  "fecha": "2026-11-04T20:58:31.513061+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Stainless Steel Watch 126300",
+  "total": 12000.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/407340491099",
+  "item_id": "v1|407340491099|0",
+  "referencia": "126300",
+  "mercado": {
+   "n": 51,
+   "p25": 11925,
+   "mediana": 12017
+  },
+  "ratio_mercado": 1.006,
+  "motivo": "precio normal (101 % del cuartil bajo de 126300)"
+ },
+ {
+  "fecha": "2026-11-04T20:58:31.513061+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex New GMT-Master II Rose Gold Ceramic 126715 *BOX&WARRANRYCARD2024 #RL404.24",
+  "total": 46495.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206675930812",
+  "item_id": "v1|206675930812|0",
+  "referencia": "126715",
+  "mercado": {
+   "n": 9,
+   "p25": 47270,
+   "mediana": 48988
+  },
+  "ratio_mercado": 0.984,
+  "motivo": "precio normal (98 % del cuartil bajo de 126715)"
+ },
+ {
+  "fecha": "2026-11-04T20:58:31.513061+00:00",
+  "marca": "Rolex",
+  "titulo": "Unpolished Rolex DateJust Silver Roman Numeral 36mm 16234 No-Holes Watch",
+  "total": 6818.33,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940065938775",
+  "item_id": "v1|940065938775|0",
+  "referencia": "16234",
+  "mercado": {
+   "n": 29,
+   "p25": 6160,
+   "mediana": 6470
+  },
+  "ratio_mercado": 1.107,
+  "motivo": "precio normal (111 % del cuartil bajo de 16234)"
+ },
+ {
+  "fecha": "2026-11-04T20:58:31.513061+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere Small Yellow Gold Mens Watch WGPN0031 Box Cards",
+  "total": 25240.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336880144194",
+  "item_id": "v1|336880144194|0",
+  "referencia": "WGPN0031",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Panthère de Cartier (small) en oro amarillo, esfera champán, cuarzo",
+   "referencia": "WGPN0031",
+   "precio_justo_usd": 13000,
+   "interesante": false,
+   "nota": "Precio pedido de US$25,240 muy por encima del valor de reventa de esta pieza en oro amarillo usada en excelente estado; el listado parece sobrevalorado."
+  },
+  "motivo": "triage: Precio pedido de US$25,240 muy por encima del valor de reventa de esta pieza en oro amarillo usada en excelente estado; el listado parece sobrevalorado. (justo 13000)"
  }
 ]
