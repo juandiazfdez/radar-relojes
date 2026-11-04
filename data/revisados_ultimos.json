@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-10-31T21:55:22.866314+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date 1500 Mens 34mm 1960s Vintage Automatic RA809B",
-  "total": 6900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257827352025",
-  "item_id": "v1|257827352025|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date",
-   "referencia": "1500",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Ref. 1500 de los años 60-70 en acero de 34 mm; con esfera plateada original y estado bueno, se vende aprox. US$3.500-4.500. El pedido de US$6.900 está muy por encima del mercado."
-  },
-  "motivo": "triage: Ref. 1500 de los años 60-70 en acero de 34 mm; con esfera plateada original y estado bueno, se vende aprox. US$3.500-4.500. El pedido de US$6.900 está muy por encima del mercado. (justo 4000)"
- },
- {
-  "fecha": "2026-10-31T21:55:22.866314+00:00",
-  "marca": "Rolex",
-  "titulo": "$8000 ROLEX Oyster Perpetual 14k Yellow Gold SS CHAMPAGNE Ladies Watch SERVICED",
-  "total": 2494.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407329817777",
-  "item_id": "v1|407329817777|0",
-  "triage": {
-   "modelo": "Rolex Lady Oyster Perpetual 26 mm bicolor (acero y oro amarillo de 14k, bisel acanalado, esfera champán)",
-   "referencia": "67193 o 69173 (probable, no verificable en la imagen)",
-   "precio_justo_usd": 2700,
-   "interesante": false,
-   "nota": "Precio pedido cercano al mercado (~8 % bajo). El título de '$8000' es una referencia inflada y no un precio real de venta."
-  },
-  "motivo": "triage: Precio pedido cercano al mercado (~8 % bajo). El título de '$8000' es una referencia inflada y no un precio real de venta. (justo 2700)"
- },
- {
-  "fecha": "2026-10-31T21:55:22.866314+00:00",
-  "marca": "Rolex",
-  "titulo": "$7000 TUDOR by ROLEX DATEJUST QS Emerald Diamond SS Ladies Watch SERVICED",
-  "total": 1759.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237154853702",
-  "item_id": "v1|237154853702|0",
-  "triage": {
-   "modelo": "Tudor Princess Date (mujer, acero, esfera nacarada) - el título menciona 'Datejust QS Emerald', que no encaja",
-   "referencia": null,
-   "precio_justo_usd": 2000,
-   "interesante": false,
-   "nota": "Título contradictorio (Tudor no es Datejust y el 'QS' sugiere cuarzo, pero la Princess Date es automática); 'Emerald Diamond' y el precio de referencia de $7000 no encajan. Sin verificar autenticidad ni referencia, no es una oportunidad clara."
-  },
-  "motivo": "triage: Título contradictorio (Tudor no es Datejust y el 'QS' sugiere cuarzo, pero la Princess Date es automática); 'Emerald Diamond' y el precio de referencia de $7000 no encajan. Sin verificar autenticidad ni referencia, no es una oportunidad clara. (justo 2000)"
- },
- {
   "fecha": "2026-10-31T22:10:22.742423+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Explorer 224270 Watch with original box and papers",
@@ -10992,5 +10941,68 @@
    "nota": "El título dice oro 18K, pero la foto muestra un brazalete bicolor, lo que sugiere acero/chapado y no oro macizo. Con ese material el precio sería mucho menor que el pedido; hay que verificar el metal."
   },
   "motivo": "triage: El título dice oro 18K, pero la foto muestra un brazalete bicolor, lo que sugiere acero/chapado y no oro macizo. Con ese material el precio sería mucho menor que el pedido; hay que verificar el metal. (justo 1200)"
+ },
+ {
+  "fecha": "2026-11-04T02:12:59.924351+00:00",
+  "marca": "Rolex",
+  "titulo": "rolex mens watch gold 18 k",
+  "total": 37495.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307265100884",
+  "item_id": "v1|307265100884|0",
+  "triage": {
+   "modelo": "No identificable como Rolex; la foto muestra un reloj de esfera negra con correa de cuero negra y adornos dorados tipo medallón, sin marcas Rolex visibles",
+   "referencia": null,
+   "precio_justo_usd": 800,
+   "interesante": false,
+   "nota": "Nada en la foto confirma Rolex ni 18 k; el título parece engañoso y el precio pedido de US$37,495 no corresponde. Pedir fotos del caso, movimiento, corona y papeles antes de considerarlo."
+  },
+  "motivo": "triage: Nada en la foto confirma Rolex ni 18 k; el título parece engañoso y el precio pedido de US$37,495 no corresponde. Pedir fotos del caso, movimiento, corona y papeles antes de considerarlo. (justo 800)"
+ },
+ {
+  "fecha": "2026-11-04T02:12:59.924351+00:00",
+  "marca": "Rolex",
+  "titulo": "2024 Rolex Daytona Cosmograph - 40mm - 18k Everose gold - Sundust - 126515LN",
+  "total": 49998.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800873743485",
+  "item_id": "v1|800873743485|0",
+  "referencia": "126515LN",
+  "mercado": {
+   "n": 4,
+   "p25": 55000,
+   "mediana": 55000
+  },
+  "triage": {
+   "modelo": "Rolex Daytona Cosmograph (Everose, bisel cerámica negra, esfera Sundust)",
+   "referencia": "126515LN",
+   "precio_justo_usd": 50000,
+   "interesante": false,
+   "nota": "Precio cercano al mercado secundario para esta referencia, sin descuento de 15 %. Verificar autenticidad, caja, papeles y estado real antes de comprar."
+  },
+  "motivo": "triage: Precio cercano al mercado secundario para esta referencia, sin descuento de 15 %. Verificar autenticidad, caja, papeles y estado real antes de comprar. (justo 50000)"
+ },
+ {
+  "fecha": "2026-11-04T02:12:59.924351+00:00",
+  "marca": "Tudor",
+  "titulo": "Discontinued TUDOR North Flag Ref. 91210N Complete Set In  Excellent Condition",
+  "total": 4254.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960151305162",
+  "item_id": "v1|960151305162|0",
+  "referencia": "91210N",
+  "mercado": {
+   "n": 1,
+   "p25": 4999,
+   "mediana": 4999
+  },
+  "triage": {
+   "modelo": "Tudor North Flag (automático, esfera negra con indicador amarillo)",
+   "referencia": "91210N",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Referencia descontinuada de acero con set completo; el precio pedido de US$4254 supera claramente el valor de venta cerrada en EE. UU."
+  },
+  "motivo": "triage: Referencia descontinuada de acero con set completo; el precio pedido de US$4254 supera claramente el valor de venta cerrada en EE. UU. (justo 2600)"
  }
 ]
