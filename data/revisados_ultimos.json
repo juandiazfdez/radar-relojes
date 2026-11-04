@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-11-02T19:57:01.039127+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Pelagos M25600TB-0001",
-  "total": 4550.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940060544932",
-  "item_id": "v1|940060544932|0",
-  "referencia": "M25600TB-0001",
-  "mercado": {
-   "n": 1,
-   "p25": 4500,
-   "mediana": 4500
-  },
-  "triage": {
-   "modelo": "Tudor Pelagos (esfera azul, caja de titanio, bisel azul, brazalete de titanio)",
-   "referencia": "M25600TB-0001",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Precio pedido de US$4550 con envío está por encima del valor de venta cerrada estimado para este Pelagos 25600TB usado en excelente estado; no hay descuento real."
-  },
-  "motivo": "triage: Precio pedido de US$4550 con envío está por encima del valor de venta cerrada estimado para este Pelagos 25600TB usado en excelente estado; no hay descuento real. (justo 3500)"
- },
- {
-  "fecha": "2026-11-02T19:57:01.039127+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Prince 76213",
-  "total": 2200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287699992982",
-  "item_id": "v1|287699992982|0",
-  "referencia": "76213",
-  "mercado": {
-   "n": 7,
-   "p25": 2275,
-   "mediana": 3039
-  },
-  "ratio_mercado": 0.967,
-  "motivo": "precio normal (97 % del cuartil bajo de 76213)"
- },
- {
   "fecha": "2026-11-02T20:12:01.125632+00:00",
   "marca": "Rolex",
   "titulo": "1968 Rolex Oyster Perpetual No box No papers Pre-owned",
@@ -11050,5 +11010,45 @@
   },
   "ratio_mercado": 1.801,
   "motivo": "precio normal (180 % del cuartil bajo de 126715CHNR)"
+ },
+ {
+  "fecha": "2026-11-04T23:58:43.579762+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex GMT-Master II 126710GRNR Ceramic Steel Bruce Wayne Jubilee NEW",
+  "total": 23950.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/237164186943",
+  "item_id": "v1|237164186943|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 62,
+   "p25": 21748,
+   "mediana": 22862
+  },
+  "ratio_mercado": 1.101,
+  "motivo": "precio normal (110 % del cuartil bajo de 126710GRNR)"
+ },
+ {
+  "fecha": "2026-11-04T23:58:43.579762+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos-Dumont WSSA0032 Watch Only",
+  "total": 6100.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237164189537",
+  "item_id": "v1|237164189537|0",
+  "referencia": "WSSA0032",
+  "mercado": {
+   "n": 3,
+   "p25": 6888,
+   "mediana": 7065
+  },
+  "triage": {
+   "modelo": "Cartier Santos-Dumont (modelo grande, acero, esfera plateada con números romanos, correa de cocodrilo negra)",
+   "referencia": "WSSA0032 (según el título, no verificable en la foto)",
+   "precio_justo_usd": 5600,
+   "interesante": false,
+   "nota": "Solo el reloj, sin caja ni papeles y en estado Good; con envío, US$6100 queda por encima de lo que se vende realmente en el mercado de usados."
+  },
+  "motivo": "triage: Solo el reloj, sin caja ni papeles y en estado Good; con envío, US$6100 queda por encima de lo que se vende realmente en el mercado de usados. (justo 5600)"
  }
 ]
