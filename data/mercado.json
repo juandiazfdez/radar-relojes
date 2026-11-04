@@ -18485,13 +18485,13 @@
   "max": 4350
  },
  "Tudor M91550|nuevo": {
-  "fecha": "2026-11-03",
+  "fecha": "2026-11-04",
   "consulta": "Tudor M91550",
-  "n": 1,
-  "mediana": 2560,
-  "p25": 2560,
+  "n": 2,
+  "mediana": 2328,
+  "p25": 2095,
   "p75": 2560,
-  "min": 2560,
+  "min": 2095,
   "max": 2560
  },
  "Cartier W5200025|usado": {
@@ -18943,5 +18943,15 @@
   "p75": 5040,
   "min": 5040,
   "max": 5040
+ },
+ "Cartier WSSA0071|nuevo": {
+  "fecha": "2026-11-04",
+  "consulta": "Cartier WSSA0071",
+  "n": 1,
+  "mediana": 8500,
+  "p25": 8500,
+  "p75": 8500,
+  "min": 8500,
+  "max": 8500
  }
 }

@@ -1,160 +1,5 @@
 [
  {
-  "fecha": "2026-11-01T23:56:03.168161+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu Steel Automatic 36mm Diamond Bracelet Watch W4BB0017",
-  "total": 8450.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287697962920",
-  "item_id": "v1|287697962920|0",
-  "referencia": "W4BB0017",
-  "mercado": {
-   "n": 1,
-   "p25": 8450,
-   "mediana": 8450
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 36 mm acero automático con bisel de diamantes, esfera plateada, brazalete de acero",
-   "referencia": "W4BB0017",
-   "precio_justo_usd": 7800,
-   "interesante": false,
-   "nota": "Precio pedido de US$8450 por encima del rango de venta cerrada de esta referencia de segunda mano en EE. UU. (aprox. US$7000-8500, según caja y papeles); sin margen de compra."
-  },
-  "motivo": "triage: Precio pedido de US$8450 por encima del rango de venta cerrada de esta referencia de segunda mano en EE. UU. (aprox. US$7000-8500, según caja y papeles); sin margen de compra. (justo 7800)"
- },
- {
-  "fecha": "2026-11-02T00:11:12.969689+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos 100 XL W20073X8 Watch + Box",
-  "total": 4800.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/377613800855",
-  "item_id": "v1|377613800855|0",
-  "triage": {
-   "modelo": "Cartier Santos 100 XL (caja de acero, bisel con tornillos, esfera blanca con números romanos, correa de cuero negro)",
-   "referencia": "W20073X8",
-   "precio_justo_usd": 5300,
-   "interesante": false,
-   "nota": "Precio pedido US$4,800 unos 9 % bajo la estimación; no alcanza el umbral del 15 %. Confirmar caja, papeles y autenticidad antes de comprar."
-  },
-  "motivo": "triage: Precio pedido US$4,800 unos 9 % bajo la estimación; no alcanza el umbral del 15 %. Confirmar caja, papeles y autenticidad antes de comprar. (justo 5300)"
- },
- {
-  "fecha": "2026-11-02T00:11:12.969689+00:00",
-  "marca": "Tudor",
-  "titulo": "mens tudor prince oysterdate watch",
-  "total": 1617.18,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336874105875",
-  "item_id": "v1|336874105875|0",
-  "triage": {
-   "modelo": "Tudor Prince Oysterdate vintage (caja dorada, esfera champán con ventanilla de fecha)",
-   "referencia": null,
-   "precio_justo_usd": 900,
-   "interesante": false,
-   "nota": "Parece una Oysterdate vintage de caja chapada en oro sobre correa de piel; la referencia no se distingue en la foto. Con estado excelente, el precio pedido de US$1617 está por encima del valor de venta real. Si fuera de acero o de oro macizo, la valoración cambiaría."
-  },
-  "motivo": "triage: Parece una Oysterdate vintage de caja chapada en oro sobre correa de piel; la referencia no se distingue en la foto. Con estado excelente, el precio pedido de US$1617 está por encima del valor de venta real. Si fuera de acero o de oro macizo, la valoración cambiaría. (justo 900)"
- },
- {
-  "fecha": "2026-11-02T00:26:11.965412+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX DATEJUST 126300",
-  "total": 12000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/377613835216",
-  "item_id": "v1|377613835216|0",
-  "referencia": "126300",
-  "mercado": {
-   "n": 20,
-   "p25": 9878,
-   "mediana": 10208
-  },
-  "ratio_mercado": 1.215,
-  "motivo": "precio normal (121 % del cuartil bajo de 126300)"
- },
- {
-  "fecha": "2026-11-02T00:56:12.124371+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Ranger 39mm – Ref. 79950 – Black Dial, Steel Bracelet, Complete Set",
-  "total": 3314.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237156579694",
-  "item_id": "v1|237156579694|0",
-  "referencia": "79950",
-  "mercado": {
-   "n": 13,
-   "p25": 3047,
-   "mediana": 3350
-  },
-  "ratio_mercado": 1.088,
-  "motivo": "precio normal (109 % del cuartil bajo de 79950)"
- },
- {
-  "fecha": "2026-11-02T00:56:12.124371+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Pelagos FXD Alinghi Red Bull Racing Edition 25707KN",
-  "total": 3015.45,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940058558840",
-  "item_id": "v1|940058558840|0",
-  "referencia": "M25707KN-0001",
-  "mercado": {
-   "n": 3,
-   "p25": 3350,
-   "mediana": 3595
-  },
-  "triage": {
-   "modelo": "TUDOR Pelagos FXD Alinghi Red Bull Racing Edition (titanio, bisel y correa rojos, caja original)",
-   "referencia": "M25707KN-0001",
-   "precio_justo_usd": 4200,
-   "interesante": true,
-   "nota": "Precio ~28% bajo el mercado de cerrados para esta edición limitada; verificar autenticidad, número de serie, papeles y estado de la correa antes de comprar."
-  },
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 3300,
-   "riesgo_autenticidad": "medio",
-   "estado": "Aparentemente como nuevo o muy poco usado, con la etiqueta colgando, pero sin fotos del fondo de caja ni del movimiento, y con papeles dudosos."
-  },
-  "ratio_justo": 0.914,
-  "motivo": "precio normal segun revision (91 % del justo 3300)"
- },
- {
-  "fecha": "2026-11-02T01:26:12.376149+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise W51008Q3 Womens Watch Swiss Quartz Stainless Steel 20mm",
-  "total": 3299.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198763799713",
-  "item_id": "v1|198763799713|0",
-  "triage": {
-   "modelo": "Cartier Tank Française (mediana, cuarzo, acero, esfera blanca con números romanos)",
-   "referencia": "W51008Q3",
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de reventa de uso para esta referencia; no hay descuento de 15 % o más."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de reventa de uso para esta referencia; no hay descuento de 15 % o más. (justo 2600)"
- },
- {
-  "fecha": "2026-11-02T01:41:11.955624+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Unworn Brand New Rolex Datejust 41 Blue Roman Jubilee 126300 Full Set.",
-  "total": 11999.99,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/960142877600",
-  "item_id": "v1|960142877600|0",
-  "referencia": "126300",
-  "mercado": {
-   "n": 52,
-   "p25": 11918,
-   "mediana": 12056
-  },
-  "ratio_mercado": 1.007,
-  "motivo": "precio normal (101 % del cuartil bajo de 126300)"
- },
- {
   "fecha": "2026-11-02T01:41:11.955624+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Submariner Date 41mm Black Dial/Bezel Steel Bracelet Auto Date",
@@ -11055,5 +10900,159 @@
    "nota": "Precio pedido US$4,455 está muy por encima del mercado de usados en buen estado con caja y papeles (~US$2,900-3,400). Los straps extra suman algo, pero no justifican el precio."
   },
   "motivo": "triage: Precio pedido US$4,455 está muy por encima del mercado de usados en buen estado con caja y papeles (~US$2,900-3,400). Los straps extra suman algo, pero no justifican el precio. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-04T16:28:32.089147+00:00",
+  "marca": "Rolex",
+  "titulo": "1990 Rolex President Datejust Champagne Diamond Yellow Gold 26mm Box/Papers/Tag",
+  "total": 12790.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237163379517",
+  "item_id": "v1|237163379517|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust President, oro amarillo de 18k, bisel acanalado, esfera champán con diamantes, 26 mm",
+   "referencia": "69178",
+   "precio_justo_usd": 9000,
+   "interesante": false,
+   "nota": "Precio pedido de US$12,790 está muy por encima del valor de venta cerrada en EE. UU. para esta referencia, aunque tenga caja y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$12,790 está muy por encima del valor de venta cerrada en EE. UU. para esta referencia, aunque tenga caja y papeles. (justo 9000)"
+ },
+ {
+  "fecha": "2026-11-04T16:28:32.089147+00:00",
+  "marca": "Cartier",
+  "titulo": "2026 Cartier Santos de Cartier Large 39.8 x 47.5mm Stainless Steel WSSA0071",
+  "total": 8495.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880082714826",
+  "item_id": "v1|880082714826|0",
+  "referencia": "WSSA0071",
+  "mercado": {
+   "n": 1,
+   "p25": 8500,
+   "mediana": 8500
+  },
+  "triage": {
+   "modelo": "Cartier Santos de Cartier Large (acero, esfera azul)",
+   "referencia": "WSSA0071 (según el título; no puedo verificarla solo con la foto)",
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "Precio pedido de US$8495 está en o por encima del retail de este modelo, y el mercado gris nuevo con caja y papeles ronda US$6.800-7.500. No cumple el umbral del 15% de descuento."
+  },
+  "motivo": "triage: Precio pedido de US$8495 está en o por encima del retail de este modelo, y el mercado gris nuevo con caja y papeles ronda US$6.800-7.500. No cumple el umbral del 15% de descuento. (justo 7000)"
+ },
+ {
+  "fecha": "2026-11-04T16:28:32.089147+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Montre Vintage Cartier Must 21 Bracelet En Cuir Watch",
+  "total": 803.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820315776839",
+  "item_id": "v1|820315776839|0",
+  "triage": {
+   "modelo": "Cartier Must 21 de dos tonos (acero y chapado en oro), cuarzo, esfera blanca con numerales romanos, corona con cabochon azul, correa de piel",
+   "referencia": null,
+   "precio_justo_usd": 400,
+   "interesante": false,
+   "nota": "Must 21 de cuarzo vintage con correa de piel; en estado Good se vende normalmente entre US$350 y 450, así que US$803 está muy por encima del mercado."
+  },
+  "motivo": "triage: Must 21 de cuarzo vintage con correa de piel; en estado Good se vende normalmente entre US$350 y 450, así que US$803 está muy por encima del mercado. (justo 400)"
+ },
+ {
+  "fecha": "2026-11-04T16:28:32.089147+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Must De Cartier 21 Stainless Steel Watch",
+  "total": 1442.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820315776008",
+  "item_id": "v1|820315776008|0",
+  "triage": {
+   "modelo": "Cartier Must de Cartier 21 (acero y oro, cuarzo)",
+   "referencia": "1340 (probable; no verificable con la foto)",
+   "precio_justo_usd": 1000,
+   "interesante": false,
+   "nota": "La foto muestra bicolor acero/oro, pero el título dice solo acero; el precio pedido de US$1442 supera el valor de venta cerrada del modelo."
+  },
+  "motivo": "triage: La foto muestra bicolor acero/oro, pero el título dice solo acero; el precio pedido de US$1442 supera el valor de venta cerrada del modelo. (justo 1000)"
+ },
+ {
+  "fecha": "2026-11-04T16:28:32.089147+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 58 39mm Stainless Steel M7939A1A0NU-0002",
+  "total": 4795.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880082735235",
+  "item_id": "v1|880082735235|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 39mm acero (bisel negro, brazalete de acero)",
+   "referencia": "M7939A1A0NU (según el título; no verificable en la foto)",
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "Precio pedido por encima del mercado secundario para un BB58 39mm nuevo con caja y papeles; no hay descuento claro."
+  },
+  "motivo": "triage: Precio pedido por encima del mercado secundario para un BB58 39mm nuevo con caja y papeles; no hay descuento claro. (justo 3600)"
+ },
+ {
+  "fecha": "2026-11-04T16:28:32.089147+00:00",
+  "marca": "Tudor",
+  "titulo": "2025 Tudor Black Bay 54 37mm Stainless Steel M79000N-0001",
+  "total": 4095.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880082733626",
+  "item_id": "v1|880082733626|0",
+  "referencia": "M79000N-0001",
+  "mercado": {
+   "n": 4,
+   "p25": 4295,
+   "mediana": 4376
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 54 37 mm, acero, esfera negra",
+   "referencia": "M79000N-0001",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Nuevo con caja y papeles, por encima del precio de mercado gris habitual; la foto es pequeña y no permite confirmar la referencia con certeza."
+  },
+  "motivo": "triage: Nuevo con caja y papeles, por encima del precio de mercado gris habitual; la foto es pequeña y no permite confirmar la referencia con certeza. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-04T16:28:32.089147+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Monarch 39mm Stainless Steel M2639W1A0U-0001",
+  "total": 6995.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880082722971",
+  "item_id": "v1|880082722971|0",
+  "triage": {
+   "modelo": "Tudor Monarch 39 mm acero, esfera crema con subesfera de segundos (identificación visual aproximada)",
+   "referencia": "M2639W1A0U-0001",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del mercado gris para un Tudor nuevo con caja y papeles; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido muy por encima del mercado gris para un Tudor nuevo con caja y papeles; no es una oportunidad. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-04T16:28:32.089147+00:00",
+  "marca": "Tudor",
+  "titulo": "1026 Tudor 1926 Luna 39mm Stainless Steel M91550-0011",
+  "total": 2295.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880082717881",
+  "item_id": "v1|880082717881|0",
+  "referencia": "M91550-0011",
+  "mercado": {
+   "n": 2,
+   "p25": 2095,
+   "mediana": 2328
+  },
+  "triage": {
+   "modelo": "Tudor 1926 Luna 39mm acero (esfera plateada, numerales arábigos, brazalete de acero)",
+   "referencia": "M91550-0011",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Precio ~12 % bajo un estimado de mercado gris de 2600 USD para caja y papeles nuevos; descuento normal, no supera el umbral del 15 %."
+  },
+  "motivo": "triage: Precio ~12 % bajo un estimado de mercado gris de 2600 USD para caja y papeles nuevos; descuento normal, no supera el umbral del 15 %. (justo 2600)"
  }
 ]
