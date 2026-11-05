@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-02T22:12:02.529077+00:00",
   "marca": "Rolex",
-  "titulo": "1991 Rolex DateJust 16233 36mm Champagne Diamond Two-Tone 18K Gold Jubilee Watch",
-  "total": 6800.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/117498881592",
-  "item_id": "v1|117498881592|0",
-  "referencia": "16233",
-  "mercado": {
-   "n": 28,
-   "p25": 5399,
-   "mediana": 6152
-  },
-  "ratio_mercado": 1.259,
-  "motivo": "precio normal (126 % del cuartil bajo de 16233)"
- },
- {
-  "fecha": "2026-11-02T22:12:02.529077+00:00",
-  "marca": "Rolex",
   "titulo": "Renewed Rolex Day-Date 36, 18388, Yellow Gold, Champagne String Diamond Dial,...",
   "total": 34635.0,
   "condicion": "Seller refurbished",
@@ -11015,5 +10998,28 @@
    "nota": "Precio pedido muy por encima del mercado de reventa para este modelo en estado Good; no es una oportunidad."
   },
   "motivo": "triage: Precio pedido muy por encima del mercado de reventa para este modelo en estado Good; no es una oportunidad. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-05T11:59:07.346610+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos de Cartier WSSA0018 - Brand New and Authentic",
+  "total": 9200.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/128176702856",
+  "item_id": "v1|128176702856|0",
+  "referencia": "WSSA0018",
+  "mercado": {
+   "n": 1,
+   "p25": 8800,
+   "mediana": 8800
+  },
+  "triage": {
+   "modelo": "Cartier Santos de Cartier (acero, esfera blanca, números romanos, manecillas azules)",
+   "referencia": "WSSA0018",
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "Precio pedido de US$9,200 está por encima del mercado gris de un modelo nuevo con caja y papeles (aprox. US$6,500-7,500). Verificar que la referencia coincida con el tamaño en la foto."
+  },
+  "motivo": "triage: Precio pedido de US$9,200 está por encima del mercado gris de un modelo nuevo con caja y papeles (aprox. US$6,500-7,500). Verificar que la referencia coincida con el tamaño en la foto. (justo 7000)"
  }
 ]
