@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-03T14:42:36.050402+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 42mm 18k Yellow Gold & Steel Mens Automatic Watch 3001",
-  "total": 7950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117502056900",
-  "item_id": "v1|117502056900|0",
-  "referencia": "3001",
-  "mercado": {
-   "n": 21,
-   "p25": 4999,
-   "mediana": 6350
-  },
-  "ratio_mercado": 1.59,
-  "motivo": "precio normal (159 % del cuartil bajo de 3001)"
- },
- {
-  "fecha": "2026-11-03T14:57:36.489747+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date II President 18k Yellow Gold Black Wave Arabic 41mm Watch 218238",
-  "total": 45088.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117502071610",
-  "item_id": "v1|117502071610|0",
-  "referencia": "218238",
-  "mercado": {
-   "n": 15,
-   "p25": 43000,
-   "mediana": 43950
-  },
-  "ratio_mercado": 1.049,
-  "motivo": "precio normal (105 % del cuartil bajo de 218238)"
- },
- {
   "fecha": "2026-11-03T14:57:36.489747+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Submariner 18k Yellow Gold Black Dial/Bezel Mens 40mm Watch/ Box X 16618",
@@ -10946,5 +10912,39 @@
    "nota": "Nuevo con caja y papeles se vende en mercado secundario unos 15-25 % bajo retail; el precio pedido de US$8795 está por encima de ese rango."
   },
   "motivo": "triage: Nuevo con caja y papeles se vende en mercado secundario unos 15-25 % bajo retail; el precio pedido de US$8795 está por encima de ese rango. (justo 6400)"
+ },
+ {
+  "fecha": "2026-11-05T17:29:18.646305+00:00",
+  "marca": "Rolex",
+  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
+  "total": 16450.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327441543100",
+  "item_id": "v1|327441543100|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date (acero, bisel negro, caja y papeles)",
+   "referencia": null,
+   "precio_justo_usd": 12500,
+   "interesante": false,
+   "nota": "Referencia no legible en la foto; probablemente 116610LN o 126610LN. US$16,450 supera el valor de cierre estimado en EE. UU., incluso con caja y papeles."
+  },
+  "motivo": "triage: Referencia no legible en la foto; probablemente 116610LN o 126610LN. US$16,450 supera el valor de cierre estimado en EE. UU., incluso con caja y papeles. (justo 12500)"
+ },
+ {
+  "fecha": "2026-11-05T17:29:18.646305+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay GMT Pepsi Black 41mm 79830RB-0001 | 2018 Complete Set",
+  "total": 4000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900068469241",
+  "item_id": "v1|900068469241|0",
+  "referencia": "79830RB-0001",
+  "mercado": {
+   "n": 49,
+   "p25": 3799,
+   "mediana": 4000
+  },
+  "ratio_mercado": 1.053,
+  "motivo": "precio normal (105 % del cuartil bajo de 79830RB-0001)"
  }
 ]
