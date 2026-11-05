@@ -2,57 +2,6 @@
  {
   "fecha": "2026-11-03T15:27:36.072241+00:00",
   "marca": "Rolex",
-  "titulo": "1979 Rolex DateJust 16013 White 18K Yellow Gold Steel Fluted Oyster 36mm Watch",
-  "total": 5798.32,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960149472730",
-  "item_id": "v1|960149472730|0",
-  "referencia": "16013",
-  "mercado": {
-   "n": 22,
-   "p25": 1815,
-   "mediana": 4700
-  },
-  "ratio_mercado": 3.195,
-  "motivo": "precio normal (319 % del cuartil bajo de 16013)"
- },
- {
-  "fecha": "2026-11-03T15:27:36.072241+00:00",
-  "marca": "Rolex",
-  "titulo": "PAPERS Rolex DateJust President 31mm Champagne 18K Yellow Gold 68278 Watch BOX",
-  "total": 17500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128172952894",
-  "item_id": "v1|128172952894|0",
-  "referencia": "68278",
-  "mercado": {
-   "n": 39,
-   "p25": 19630,
-   "mediana": 21058
-  },
-  "ratio_mercado": 0.891,
-  "motivo": "precio normal (89 % del cuartil bajo de 68278)"
- },
- {
-  "fecha": "2026-11-03T15:27:36.072241+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona Cosmograph 116505 18k Rose Gold Ivory 40mm Oyster Watch",
-  "total": 43853.1,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900062329250",
-  "item_id": "v1|900062329250|0",
-  "referencia": "116505",
-  "mercado": {
-   "n": 35,
-   "p25": 48750,
-   "mediana": 52632
-  },
-  "ratio_mercado": 0.9,
-  "motivo": "precio normal (90 % del cuartil bajo de 116505)"
- },
- {
-  "fecha": "2026-11-03T15:27:36.072241+00:00",
-  "marca": "Rolex",
   "titulo": "2018 Rolex GMT-Master II 126715 CHNR Root Beer 18K Rose Gold 40mm Box Papers",
   "total": 39662.71,
   "condicion": "Pre-owned - Excellent",
@@ -10959,5 +10908,56 @@
   },
   "ratio_mercado": 1.031,
   "motivo": "precio normal (103 % del cuartil bajo de M25407N-0001)"
+ },
+ {
+  "fecha": "2026-11-05T19:59:18.606956+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Wimbledon Datejust 41 Two Tone Steel 18K Gold Jubilee Box Papers 126333",
+  "total": 15599.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267834683335",
+  "item_id": "v1|267834683335|0",
+  "referencia": "126333",
+  "mercado": {
+   "n": 31,
+   "p25": 14950,
+   "mediana": 15466
+  },
+  "ratio_mercado": 1.043,
+  "motivo": "precio normal (104 % del cuartil bajo de 126333)"
+ },
+ {
+  "fecha": "2026-11-05T19:59:18.606956+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date 115200 White Steel Oyster 34mm Box/Appraisal/Tag",
+  "total": 6900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336882029411",
+  "item_id": "v1|336882029411|0",
+  "referencia": "115200",
+  "mercado": {
+   "n": 8,
+   "p25": 6500,
+   "mediana": 7200
+  },
+  "ratio_mercado": 1.062,
+  "motivo": "precio normal (106 % del cuartil bajo de 115200)"
+ },
+ {
+  "fecha": "2026-11-05T19:59:18.606956+00:00",
+  "marca": "Cartier",
+  "titulo": "Panthere de Cartier Watch One-Row Yellow Gold & Steel - New Battery",
+  "total": 3995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267834683915",
+  "item_id": "v1|267834683915|0",
+  "triage": {
+   "modelo": "Cartier Panthère de dos tonos (acero y oro amarillo), cuarzo, talla mediana, esfera plateada con numerales romanos",
+   "referencia": "1057930 / W25028B5 (probable, no confirmada en las fotos)",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Precio pedido de US$3,995 está unos 35 % por encima del rango de venta cerrada para un Panthère mediano de cuarzo en estado Good sin caja confirmada."
+  },
+  "motivo": "triage: Precio pedido de US$3,995 está unos 35 % por encima del rango de venta cerrada para un Panthère mediano de cuarzo en estado Good sin caja confirmada. (justo 2600)"
  }
 ]
