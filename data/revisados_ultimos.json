@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-03T14:57:36.489747+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Vintage 1940's Hooded Bubbleback 14k Gold & Steel Mens Watch & Box 3065",
-  "total": 15450.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147663956975",
-  "item_id": "v1|147663956975|0",
-  "triage": {
-   "modelo": "Rolex Bubbleback con capuchón (hooded), caja bicolor acero y oro 14k, años 1940",
-   "referencia": "3065 (según título, no verificable en la foto)",
-   "precio_justo_usd": 12000,
-   "interesante": false,
-   "nota": "Vintage bicolor raro; el precio pedido está por encima de la estimación conservadora. Requiere verificar referencia, autenticidad y estado del movimiento."
-  },
-  "motivo": "triage: Vintage bicolor raro; el precio pedido está por encima de la estimación conservadora. Requiere verificar referencia, autenticidad y estado del movimiento. (justo 12000)"
- },
- {
-  "fecha": "2026-11-03T14:57:36.489747+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust President 18k Yellow Gold Diamond Roman Ladies 31mm Watch E 68278",
-  "total": 23695.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366781781686",
-  "item_id": "v1|366781781686|0",
-  "referencia": "68278",
-  "mercado": {
-   "n": 39,
-   "p25": 19630,
-   "mediana": 21058
-  },
-  "ratio_mercado": 1.207,
-  "motivo": "precio normal (121 % del cuartil bajo de 68278)"
- },
- {
-  "fecha": "2026-11-03T14:57:36.489747+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Submariner Date 18k Gold/Steel Blue Ceramic Mens 40mm Watch V 116613",
   "total": 17950.0,
   "condicion": "Pre-owned - Good",
@@ -10958,5 +10924,45 @@
   },
   "ratio_mercado": 1.168,
   "motivo": "precio normal (117 % del cuartil bajo de 3009)"
+ },
+ {
+  "fecha": "2026-11-05T18:44:19.514717+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master Black TT Steel Gold Date 16753 Watch Head Quick Set 1986",
+  "total": 6525.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/287707521880",
+  "item_id": "v1|287707521880|0",
+  "referencia": "16753",
+  "mercado": {
+   "n": 21,
+   "p25": 11900,
+   "mediana": 12630
+  },
+  "ratio_mercado": 0.548,
+  "motivo": "descripcion: aftermarket bezel"
+ },
+ {
+  "fecha": "2026-11-05T18:44:19.514717+00:00",
+  "marca": "Cartier",
+  "titulo": "1990s Ladies' Cartier Diablo Quartz watch 18K Yellow Gold w/Diamonds Ref.1440 0",
+  "total": 6900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327441631166",
+  "item_id": "v1|327441631166|0",
+  "referencia": "1440",
+  "mercado": {
+   "n": 2,
+   "p25": 6500,
+   "mediana": 6922
+  },
+  "triage": {
+   "modelo": "Cartier Diabolo de dama, cuarzo, oro amarillo 18K con bisel de diamantes",
+   "referencia": "1440 (según título; no verificable en la foto)",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de venta cerrada para esta referencia de los años 90 en estado Good; sin caja ni papeles se estima aún más bajo."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de venta cerrada para esta referencia de los años 90 en estado Good; sin caja ni papeles se estima aún más bajo. (justo 3800)"
  }
 ]
