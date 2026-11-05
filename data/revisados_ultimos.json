@@ -1,130 +1,5 @@
 [
  {
-  "fecha": "2026-11-03T18:27:58.537180+00:00",
-  "marca": "Tudor",
-  "titulo": "2021 Tudor Black Bay 58 79030B Blue Stainless Automatic 39mm Watch Box Papers",
-  "total": 3451.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267832286286",
-  "item_id": "v1|267832286286|0",
-  "referencia": "79030B",
-  "mercado": {
-   "n": 14,
-   "p25": 3495,
-   "mediana": 3532
-  },
-  "ratio_mercado": 0.988,
-  "motivo": "precio normal (99 % del cuartil bajo de 79030B)"
- },
- {
-  "fecha": "2026-11-03T18:42:56.929470+00:00",
-  "marca": "Rolex",
-  "titulo": "2024 Rolex Yacht-Master 18K Yellow Gold Oysterflex 42mm 226658 Watch Box Papers",
-  "total": 35888.3,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940063041345",
-  "item_id": "v1|940063041345|0",
-  "referencia": "226658",
-  "mercado": {
-   "n": 10,
-   "p25": 34332,
-   "mediana": 35997
-  },
-  "ratio_mercado": 1.045,
-  "motivo": "precio normal (105 % del cuartil bajo de 226658)"
- },
- {
-  "fecha": "2026-11-03T18:42:56.929470+00:00",
-  "marca": "Rolex",
-  "titulo": "NEW Rolex Datejust 41MM 126303 Two-Tone w/ Box , Papers & Tag (full set)",
-  "total": 17999.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/137899007405",
-  "item_id": "v1|137899007405|0",
-  "referencia": "126303",
-  "mercado": {
-   "n": 19,
-   "p25": 16217,
-   "mediana": 18375
-  },
-  "ratio_mercado": 1.11,
-  "motivo": "precio normal (111 % del cuartil bajo de 126303)"
- },
- {
-  "fecha": "2026-11-03T18:42:56.929470+00:00",
-  "marca": "Rolex",
-  "titulo": "ladies Vintage Rolex 7834 Two Tone Oyster Bracelet (missing End Piece )",
-  "total": 1075.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336877675779",
-  "item_id": "v1|336877675779|0",
-  "triage": {
-   "modelo": "Brazalete Oyster bicolor (acero y oro) para reloj Rolex de damas, solo la pulsera",
-   "referencia": "7834 (código de brazalete, no de reloj completo)",
-   "precio_justo_usd": 250,
-   "interesante": false,
-   "nota": "La foto muestra solo el brazalete, sin caja ni esfera, y falta el cierre final. El título sugiere un reloj completo, pero el precio de US$1075 es muy alto para una pieza suelta."
-  },
-  "motivo": "triage: La foto muestra solo el brazalete, sin caja ni esfera, y falta el cierre final. El título sugiere un reloj completo, pero el precio de US$1075 es muy alto para una pieza suelta. (justo 250)"
- },
- {
-  "fecha": "2026-11-03T18:42:56.929470+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 3284 Stainless Steel 36MM Unisex Automatic Watch with box",
-  "total": 4530.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327437755554",
-  "item_id": "v1|327437755554|0",
-  "referencia": "3284",
-  "mercado": {
-   "n": 18,
-   "p25": 4025,
-   "mediana": 5170
-  },
-  "ratio_mercado": 1.125,
-  "motivo": "precio normal (113 % del cuartil bajo de 3284)"
- },
- {
-  "fecha": "2026-11-03T18:42:56.929470+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Pelagos FXD Chrono Alinghi Red Bull Racing 43mm Men's Watch M25807KN-0001",
-  "total": 6000.0,
-  "condicion": "New with imperfections",
-  "url": "https://www.ebay.com/itm/327437766790",
-  "item_id": "v1|327437766790|0",
-  "referencia": "M25807KN-0001",
-  "mercado": {
-   "n": 3,
-   "p25": 4155,
-   "mediana": 4270
-  },
-  "triage": {
-   "modelo": "Tudor Pelagos FXD Chrono Alinghi Red Bull Racing (titanio, esfera azul, correa de tela)",
-   "referencia": "M25807KN-0001",
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "Es un modelo de produccion actual; en el mercado gris nuevo, con caja y papeles, se mueve por debajo de US$6000 y el listado con imperfecciones no ofrece descuento."
-  },
-  "motivo": "triage: Es un modelo de produccion actual; en el mercado gris nuevo, con caja y papeles, se mueve por debajo de US$6000 y el listado con imperfecciones no ofrece descuento. (justo 4500)"
- },
- {
-  "fecha": "2026-11-03T18:42:56.929470+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay 41 Red METAS Jubilee 7/26 7941A1A0RU",
-  "total": 3648.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257832704009",
-  "item_id": "v1|257832704009|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 41 Red (bisel rojo, esfera burdeos, brazalete Jubilee, versión METAS)",
-   "referencia": "7941A1A0RU",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Modelo actual de Tudor casi nuevo (fecha 7/26); el precio pedido está en torno al mercado secundario, sin descuento de 15 %."
-  },
-  "motivo": "triage: Modelo actual de Tudor casi nuevo (fecha 7/26); el precio pedido está en torno al mercado secundario, sin descuento de 15 %. (justo 3500)"
- },
- {
   "fecha": "2026-11-03T18:57:59.597601+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Explorer II 40mm 16570 \"Polar White\"",
@@ -11003,5 +10878,130 @@
    "nota": "El precio pedido (US$4,980 con envío) supera el rango de venta real del mercado gris para un Black Bay Chrono de acero nuevo con caja y papeles; no hay descuento suficiente."
   },
   "motivo": "triage: El precio pedido (US$4,980 con envío) supera el rango de venta real del mercado gris para un Black Bay Chrono de acero nuevo con caja y papeles; no hay descuento suficiente. (justo 4300)"
+ },
+ {
+  "fecha": "2026-11-05T22:59:28.594411+00:00",
+  "marca": "Rolex",
+  "titulo": "2003 Rolex Submariner Date 16610 40MM Black Oyster Steel Box Paper",
+  "total": 10250.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117506959019",
+  "item_id": "v1|117506959019|0",
+  "referencia": "16610",
+  "mercado": {
+   "n": 74,
+   "p25": 9900,
+   "mediana": 10370
+  },
+  "ratio_mercado": 1.035,
+  "motivo": "precio normal (104 % del cuartil bajo de 16610)"
+ },
+ {
+  "fecha": "2026-11-05T22:59:28.594411+00:00",
+  "marca": "Rolex",
+  "titulo": "1996 Rolex Submariner Date 16610 40MM Black Oyster Steel Box Paper",
+  "total": 9800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117506958946",
+  "item_id": "v1|117506958946|0",
+  "referencia": "16610",
+  "mercado": {
+   "n": 74,
+   "p25": 9900,
+   "mediana": 10370
+  },
+  "ratio_mercado": 0.99,
+  "motivo": "precio normal (99 % del cuartil bajo de 16610)"
+ },
+ {
+  "fecha": "2026-11-05T22:59:28.594411+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 18K Yellow Gold Watch 6620",
+  "total": 9000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407343171973",
+  "item_id": "v1|407343171973|0",
+  "referencia": "6620",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Lady (oro amarillo 18K, brazalete President)",
+   "referencia": "6620",
+   "precio_justo_usd": 7800,
+   "interesante": false,
+   "nota": "Estimación por el oro 18K del brazalete y la caja y la referencia 6620; el precio pedido no está al menos 15 % por debajo del valor de venta. Sin verificar fotos detalladas ni peso del oro."
+  },
+  "motivo": "triage: Estimación por el oro 18K del brazalete y la caja y la referencia 6620; el precio pedido no está al menos 15 % por debajo del valor de venta. Sin verificar fotos detalladas ni peso del oro. (justo 7800)"
+ },
+ {
+  "fecha": "2026-11-05T22:59:28.594411+00:00",
+  "marca": "Rolex",
+  "titulo": "1997 Rolex Submariner No Date 14060 40MM Black Oyster Steel Box U-Serial",
+  "total": 9250.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880087088842",
+  "item_id": "v1|880087088842|0",
+  "referencia": "14060",
+  "mercado": {
+   "n": 45,
+   "p25": 9800,
+   "mediana": 10738
+  },
+  "ratio_mercado": 0.944,
+  "motivo": "precio normal (94 % del cuartil bajo de 14060)"
+ },
+ {
+  "fecha": "2026-11-05T22:59:28.594411+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer II 16570 Polar White Dial, year 2002. Stainless Steel GMT Watch",
+  "total": 8060.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840098133876",
+  "item_id": "v1|840098133876|0",
+  "referencia": "16570",
+  "mercado": {
+   "n": 38,
+   "p25": 8495,
+   "mediana": 8990
+  },
+  "ratio_mercado": 0.949,
+  "motivo": "precio normal (95 % del cuartil bajo de 16570)"
+ },
+ {
+  "fecha": "2026-11-05T22:59:28.594411+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Rolex Daytona Chronograph 126505 40MM Black 18K Everose Gold Box Paper",
+  "total": 57000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880087087957",
+  "item_id": "v1|880087087957|0",
+  "referencia": "126505",
+  "mercado": {
+   "n": 15,
+   "p25": 59348,
+   "mediana": 60368
+  },
+  "ratio_mercado": 0.96,
+  "motivo": "precio normal (96 % del cuartil bajo de 126505)"
+ },
+ {
+  "fecha": "2026-11-05T22:59:28.594411+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yacht-Master 126621 Black 40mm Watch 2025",
+  "total": 16900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960159394135",
+  "item_id": "v1|960159394135|0",
+  "referencia": "126621",
+  "mercado": {
+   "n": 22,
+   "p25": 17264,
+   "mediana": 17902
+  },
+  "ratio_mercado": 0.979,
+  "motivo": "precio normal (98 % del cuartil bajo de 126621)"
  }
 ]
