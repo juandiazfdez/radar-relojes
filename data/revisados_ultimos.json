@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-02T22:27:00.713311+00:00",
   "marca": "Rolex",
-  "titulo": "1999 Rolex Explorer II Polar 16570 40MM White Oyster Steel Box Paper",
-  "total": 9500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117500701756",
-  "item_id": "v1|117500701756|0",
-  "referencia": "16570",
-  "mercado": {
-   "n": 36,
-   "p25": 8445,
-   "mediana": 8970
-  },
-  "ratio_mercado": 1.125,
-  "motivo": "precio normal (112 % del cuartil bajo de 16570)"
- },
- {
-  "fecha": "2026-11-02T22:27:00.713311+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex GMT-Master II 116718LN 40MM Green 18K Yellow Gold",
   "total": 40000.0,
   "condicion": "Pre-owned - Good",
@@ -11015,5 +10998,28 @@
    "nota": "Pasha Seatimer de acero usado en buen estado; el precio pedido de US$3262 con envío está por encima del precio de venta cerrada estimado. La referencia exacta no es legible en la foto."
   },
   "motivo": "triage: Pasha Seatimer de acero usado en buen estado; el precio pedido de US$3262 con envío está por encima del precio de venta cerrada estimado. La referencia exacta no es legible en la foto. (justo 2700)"
+ },
+ {
+  "fecha": "2026-11-05T12:29:07.372267+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos de Cartier WSSA0018",
+  "total": 9200.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/128176753684",
+  "item_id": "v1|128176753684|0",
+  "referencia": "WSSA0018",
+  "mercado": {
+   "n": 1,
+   "p25": 8800,
+   "mediana": 8800
+  },
+  "triage": {
+   "modelo": "Cartier Santos de Cartier Medium (acero, esfera blanca, numerales romanos, automático)",
+   "referencia": "WSSA0018",
+   "precio_justo_usd": 6200,
+   "interesante": false,
+   "nota": "Precio pedido de US$9200 muy por encima del valor de mercado gris para este modelo nuevo con caja y papeles; no hay oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$9200 muy por encima del valor de mercado gris para este modelo nuevo con caja y papeles; no hay oportunidad. (justo 6200)"
  }
 ]
