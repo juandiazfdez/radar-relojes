@@ -1,85 +1,5 @@
 [
  {
-  "fecha": "2026-11-02T21:27:01.199514+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise 20mm Ladies 18k Yellow Gold W50002N2",
-  "total": 19735.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/117500631394",
-  "item_id": "v1|117500631394|0",
-  "triage": {
-   "modelo": "Cartier Tank Française 20 mm (talla pequeña, dama) en oro amarillo 18k con brazalete",
-   "referencia": "W50002N2",
-   "precio_justo_usd": 12500,
-   "interesante": false,
-   "nota": "Esfera blanca con números romanos y brazalete integrado de oro 18k; el precio pedido de US$19,735 está muy por encima del valor de venta real para esta referencia, incluso reacondicionada."
-  },
-  "motivo": "triage: Esfera blanca con números romanos y brazalete integrado de oro 18k; el precio pedido de US$19,735 está muy por encima del valor de venta real para esta referencia, incluso reacondicionada. (justo 12500)"
- },
- {
-  "fecha": "2026-11-02T21:42:00.965197+00:00",
-  "marca": "Cartier",
-  "titulo": "VINTAGE CARTIER Ladies Santos Galbee 18K Yellow Gold Stainless Steel 24mm",
-  "total": 10995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227594636479",
-  "item_id": "v1|227594636479|0",
-  "triage": {
-   "modelo": "Cartier Santos Galbée (dama, acero y oro amarillo 18K, cuarzo)",
-   "referencia": null,
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Reloj de dama de cuarzo de los años 90-2000, de uso; se vende en torno a US$3.500-4.500. El precio pedido de US$10.995 está muy por encima del mercado."
-  },
-  "motivo": "triage: Reloj de dama de cuarzo de los años 90-2000, de uso; se vende en torno a US$3.500-4.500. El precio pedido de US$10.995 está muy por encima del mercado. (justo 4000)"
- },
- {
-  "fecha": "2026-11-02T21:42:00.965197+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Louis Cartier WGTA0342 / 29 x 22mm / Yellow Gold / Full Set",
-  "total": 14950.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227594635079",
-  "item_id": "v1|227594635079|0",
-  "referencia": "WGTA0342",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Tank Louis Cartier (oro amarillo, correa de cocodrilo marrón)",
-   "referencia": "WGTA0342",
-   "precio_justo_usd": 10800,
-   "interesante": false,
-   "nota": "Precio pedido de US$14.950 supera el valor de mercado nuevo con caja y papeles (aprox. US$10.500-11.500 en dealers); no es oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$14.950 supera el valor de mercado nuevo con caja y papeles (aprox. US$10.500-11.500 en dealers); no es oportunidad. (justo 10800)"
- },
- {
-  "fecha": "2026-11-02T21:42:00.965197+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu de Cartier WSBB0062 / 33mm / Steel / Full Set",
-  "total": 8250.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227594635086",
-  "item_id": "v1|227594635086|0",
-  "referencia": "WSBB0062",
-  "mercado": {
-   "n": 1,
-   "p25": 6895,
-   "mediana": 6895
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu de Cartier 33 mm, acero, esfera azul clara (cuarzo)",
-   "referencia": "WSBB0062",
-   "precio_justo_usd": 5500,
-   "interesante": false,
-   "nota": "Nuevo con caja y papeles se vende normalmente 15-30 % bajo retail, unos US$5.000-5.800. El precio pedido de US$8.250 está por encima de retail, así que no es una oportunidad."
-  },
-  "motivo": "triage: Nuevo con caja y papeles se vende normalmente 15-30 % bajo retail, unos US$5.000-5.800. El precio pedido de US$8.250 está por encima de retail, así que no es una oportunidad. (justo 5500)"
- },
- {
   "fecha": "2026-11-02T21:42:00.965197+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos WSSA0029 / 35mm / Stainless Steel / Full Set",
@@ -11044,5 +10964,73 @@
   },
   "ratio_mercado": 0.898,
   "motivo": "precio normal (90 % del cuartil bajo de 79030N)"
+ },
+ {
+  "fecha": "2026-11-05T03:58:56.448545+00:00",
+  "marca": "Rolex",
+  "titulo": "eLive- Rolex GMT-Master II Bruce Wayne Jubilee 126710GRNR",
+  "total": 1.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/128176017282",
+  "item_id": "v1|128176017282|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 63,
+   "p25": 21748,
+   "mediana": 22900
+  },
+  "ratio_mercado": 0.0,
+  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
+ },
+ {
+  "fecha": "2026-11-05T03:58:56.448545+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise Ladies Stainless Steel W51028Q3 Watch.",
+  "total": 4250.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880084296981",
+  "item_id": "v1|880084296981|0",
+  "triage": {
+   "modelo": "Cartier Tank Française (dama, acero, cuarzo)",
+   "referencia": "W51028Q3",
+   "precio_justo_usd": 2200,
+   "interesante": false,
+   "nota": "Precio pedido de US$4250 está muy por encima del valor de venta cerrada de esta referencia en EE. UU. (aprox. US$1800-2600 según estado y papeles)."
+  },
+  "motivo": "triage: Precio pedido de US$4250 está muy por encima del valor de venta cerrada de esta referencia en EE. UU. (aprox. US$1800-2600 según estado y papeles). (justo 2200)"
+ },
+ {
+  "fecha": "2026-11-05T03:58:56.448545+00:00",
+  "marca": "Cartier",
+  "titulo": "CARTIER 18K Yellow Gold PASHA DE CARTIER 38mm Automatic Chronograph Watch",
+  "total": 10998.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327440348480",
+  "item_id": "v1|327440348480|0",
+  "triage": {
+   "modelo": "Cartier Pasha de Cartier Chronograph 38 mm, oro amarillo 18k, automático, esfera blanca, correa de cuero negro",
+   "referencia": "1030 (probable, sin confirmar en la imagen)",
+   "precio_justo_usd": 8000,
+   "interesante": false,
+   "nota": "El precio pedido de US$10,998 está por encima de la venta real estimada para este cronógrafo en oro usado; no cumple el umbral de 15 % por debajo."
+  },
+  "motivo": "triage: El precio pedido de US$10,998 está por encima de la venta real estimada para este cronógrafo en oro usado; no cumple el umbral de 15 % por debajo. (justo 8000)"
+ },
+ {
+  "fecha": "2026-11-05T03:58:56.448545+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 | Ref. 79030N | 2026 | Excellent Condition",
+  "total": 4299.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257835745314",
+  "item_id": "v1|257835745314|0",
+  "referencia": "79030N",
+  "mercado": {
+   "n": 13,
+   "p25": 3840,
+   "mediana": 3971
+  },
+  "ratio_mercado": 1.12,
+  "motivo": "precio normal (112 % del cuartil bajo de 79030N)"
  }
 ]
