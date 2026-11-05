@@ -2,52 +2,6 @@
  {
   "fecha": "2026-11-02T21:42:00.965197+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Santos WSSA0029 / 35mm / Stainless Steel / Full Set",
-  "total": 9950.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227594635089",
-  "item_id": "v1|227594635089|0",
-  "referencia": "WSSA0029",
-  "mercado": {
-   "n": 2,
-   "p25": 8292,
-   "mediana": 8393
-  },
-  "triage": {
-   "modelo": "Cartier Santos de Cartier (mediano, 35 mm), acero, esfera blanca con números romanos, automático",
-   "referencia": "WSSA0029",
-   "precio_justo_usd": 6200,
-   "interesante": false,
-   "nota": "El precio pedido de US$9950 está muy por encima del mercado gris para este modelo nuevo con caja y papeles (retail aprox. US$7.250); no es una oportunidad."
-  },
-  "motivo": "triage: El precio pedido de US$9950 está muy por encima del mercado gris para este modelo nuevo con caja y papeles (retail aprox. US$7.250); no es una oportunidad. (justo 6200)"
- },
- {
-  "fecha": "2026-11-02T21:42:00.965197+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu de Cartier WSBB0049 / 42mm / Steel / Full Set",
-  "total": 6950.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227594635094",
-  "item_id": "v1|227594635094|0",
-  "referencia": "WSBB0049",
-  "mercado": {
-   "n": 1,
-   "p25": 7100,
-   "mediana": 7100
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu de Cartier 42 mm, acero, esfera plateada con números romanos (automático)",
-   "referencia": "WSBB0049",
-   "precio_justo_usd": 5900,
-   "interesante": false,
-   "nota": "Nuevo con caja y papeles a US$6950, por encima del precio justo estimado en mercado gris (~US$5900); no hay descuento suficiente."
-  },
-  "motivo": "triage: Nuevo con caja y papeles a US$6950, por encima del precio justo estimado en mercado gris (~US$5900); no hay descuento suficiente. (justo 5900)"
- },
- {
-  "fecha": "2026-11-02T21:42:00.965197+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Ballon Bleu de Cartier W6920097 / 33mm / Rose Gold / Full Set",
   "total": 9850.0,
   "condicion": "New with box and papers",
@@ -11032,5 +10986,45 @@
   },
   "ratio_mercado": 1.12,
   "motivo": "precio normal (112 % del cuartil bajo de 79030N)"
+ },
+ {
+  "fecha": "2026-11-05T04:43:56.193596+00:00",
+  "marca": "Rolex",
+  "titulo": "2024 CPO Rolex Seadweller 40mm 16600 Black Patina 1991",
+  "total": 9799.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147667196146",
+  "item_id": "v1|147667196146|0",
+  "referencia": "16600",
+  "mercado": {
+   "n": 56,
+   "p25": 9845,
+   "mediana": 10000
+  },
+  "ratio_mercado": 0.995,
+  "motivo": "precio normal (100 % del cuartil bajo de 16600)"
+ },
+ {
+  "fecha": "2026-11-05T04:43:56.193596+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos de Cartier WSSA0018 - BRAND NEW and Authentic",
+  "total": 10270.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/128176065849",
+  "item_id": "v1|128176065849|0",
+  "referencia": "WSSA0018",
+  "mercado": {
+   "n": 1,
+   "p25": 8800,
+   "mediana": 8800
+  },
+  "triage": {
+   "modelo": "Cartier Santos de Cartier (acero, esfera plateada, numerales romanos, manecillas azules, brazalete de acero)",
+   "referencia": "WSSA0018",
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "Nuevo con caja y papeles se vende en el mercado secundario por debajo de retail (~US$7.800-8.000), no por encima. El precio pedido de US$10.270 está muy por encima del valor de mercado."
+  },
+  "motivo": "triage: Nuevo con caja y papeles se vende en el mercado secundario por debajo de retail (~US$7.800-8.000), no por encima. El precio pedido de US$10.270 está muy por encima del valor de mercado. (justo 6500)"
  }
 ]
