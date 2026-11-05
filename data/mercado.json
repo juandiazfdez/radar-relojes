@@ -5955,22 +5955,22 @@
   "max": 8520
  },
  "Rolex 126713GRNR|usado": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-11-05",
   "consulta": "Rolex 126713GRNR",
-  "n": 41,
-  "mediana": 23600,
+  "n": 38,
+  "mediana": 23550,
   "p25": 22950,
   "p75": 24500,
   "min": 21000,
   "max": 28091
  },
  "Rolex 126711CHNR|usado": {
-  "fecha": "2026-11-04",
+  "fecha": "2026-11-05",
   "consulta": "Rolex 126711CHNR",
-  "n": 93,
-  "mediana": 21500,
+  "n": 92,
+  "mediana": 21498,
   "p25": 20589,
-  "p75": 22199,
+  "p75": 22100,
   "min": 18600,
   "max": 34895
  },
@@ -5985,22 +5985,22 @@
   "max": 20050
  },
  "Rolex 126720VTNR|usado": {
-  "fecha": "2026-11-04",
+  "fecha": "2026-11-05",
   "consulta": "Rolex 126720VTNR",
   "n": 91,
-  "mediana": 18500,
-  "p25": 17999,
-  "p75": 19770,
+  "mediana": 18458,
+  "p25": 17990,
+  "p75": 19557,
   "min": 15999,
   "max": 28995
  },
  "Rolex 126710BLRO|usado": {
-  "fecha": "2026-11-03",
+  "fecha": "2026-11-05",
   "consulta": "Rolex 126710BLRO",
-  "n": 23,
-  "mediana": 24999,
+  "n": 21,
+  "mediana": 24995,
   "p25": 24100,
-  "p75": 25560,
+  "p75": 25480,
   "min": 21000,
   "max": 26198
  },
@@ -7415,13 +7415,13 @@
   "max": 5495
  },
  "Cartier WSSA0062|usado": {
-  "fecha": "2026-11-02",
+  "fecha": "2026-11-05",
   "consulta": "Cartier WSSA0062",
-  "n": 4,
-  "mediana": 8272,
-  "p25": 8000,
-  "p75": 8633,
-  "min": 7899,
+  "n": 5,
+  "mediana": 8000,
+  "p25": 7899,
+  "p75": 8545,
+  "min": 7070,
   "max": 8633
  },
  "Cartier W2601556|usado": {
@@ -18065,14 +18065,14 @@
   "max": 15025
  },
  "Rolex 16808|usado": {
-  "fecha": "2026-11-02",
+  "fecha": "2026-11-05",
   "consulta": "Rolex 16808",
-  "n": 6,
-  "mediana": 28494,
+  "n": 5,
+  "mediana": 28239,
   "p25": 27729,
-  "p75": 29895,
+  "p75": 28749,
   "min": 14900,
-  "max": 33950
+  "max": 29895
  },
  "Cartier WSSA0028|usado": {
   "fecha": "2026-11-02",
@@ -19312,6 +19312,11 @@
  "Cartier 2935|usado": {
   "fecha": "2026-11-05",
   "consulta": "Cartier 2935",
+  "n": 0
+ },
+ "Cartier W1505453|usado": {
+  "fecha": "2026-11-05",
+  "consulta": "Cartier W1505453",
   "n": 0
  }
 }
