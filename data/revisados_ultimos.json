@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-02T20:57:01.401945+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual ref 1002 Mens 34mm Vintage 1960s Automatic RA793B",
-  "total": 7400.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940060651287",
-  "item_id": "v1|940060651287|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual, esfera plateada con índices de bastón, caja de acero, correa de cuero negro",
-   "referencia": "1002",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Ref. 1002 de los años 60 en estado Good se vende en torno a US$3.000-4.000; el código RA793B del título no es un formato de referencia Rolex, así que conviene verificar el número de caja y el calibre."
-  },
-  "motivo": "triage: Ref. 1002 de los años 60 en estado Good se vende en torno a US$3.000-4.000; el código RA793B del título no es un formato de referencia Rolex, así que conviene verificar el número de caja y el calibre. (justo 3500)"
- },
- {
-  "fecha": "2026-11-02T20:57:01.401945+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Oyster Ref 1601 Datejust 36mm 18k SS Mens Vintage 1970s Automatic RA790",
   "total": 8300.0,
   "condicion": "Pre-owned - Good",
@@ -11038,5 +11021,22 @@
    "nota": "Precio pedido por encima del valor estimado; la caja puede ser chapada u oro laminado, lo que reduce mucho el valor frente a oro macizo. Verificar material y estado de la caja en la foto."
   },
   "motivo": "triage: Precio pedido por encima del valor estimado; la caja puede ser chapada u oro laminado, lo que reduce mucho el valor frente a oro macizo. Verificar material y estado de la caja en la foto. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-05T02:43:43.674979+00:00",
+  "marca": "Rolex",
+  "titulo": "Antique 9ct Gold Rolex Women's Watch PROJECT 1920's Wristwatch",
+  "total": 1203.95,
+  "condicion": "For parts or not working",
+  "url": "https://www.ebay.com/itm/198773280370",
+  "item_id": "v1|198773280370|0",
+  "triage": {
+   "modelo": "Reloj de pulsera de dama vintage de los años 1920, caja de oro de 9 quilates (no funcional, para piezas); no se distingue el logotipo Rolex en la foto",
+   "referencia": null,
+   "precio_justo_usd": 400,
+   "interesante": false,
+   "nota": "Sin funcionar y sin marca visible en la imagen; aunque tuviera firma Rolex, el precio pedido de US$1204 supera con creces lo que se paga por una pieza así en estado de piezas."
+  },
+  "motivo": "triage: Sin funcionar y sin marca visible en la imagen; aunque tuviera firma Rolex, el precio pedido de US$1204 supera con creces lo que se paga por una pieza así en estado de piezas. (justo 400)"
  }
 ]
