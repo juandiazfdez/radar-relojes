@@ -1,155 +1,5 @@
 [
  {
-  "fecha": "2026-11-02T22:27:00.713311+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 116718LN 40MM Green 18K Yellow Gold",
-  "total": 40000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137896244445",
-  "item_id": "v1|137896244445|0",
-  "referencia": "116718LN",
-  "mercado": {
-   "n": 6,
-   "p25": 38999,
-   "mediana": 42950
-  },
-  "ratio_mercado": 1.026,
-  "motivo": "precio normal (103 % del cuartil bajo de 116718LN)"
- },
- {
-  "fecha": "2026-11-02T22:27:00.713311+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 16700 Pepsi / Black and Cold Oyster and Jubilee Bracelet",
-  "total": 15000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137896238198",
-  "item_id": "v1|137896238198|0",
-  "referencia": "16700",
-  "mercado": {
-   "n": 37,
-   "p25": 12795,
-   "mediana": 14500
-  },
-  "ratio_mercado": 1.172,
-  "motivo": "precio normal (117 % del cuartil bajo de 16700)"
- },
- {
-  "fecha": "2026-11-02T22:27:00.713311+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 36 Rose Gold Ladies Watch WGBB0009 Papers",
-  "total": 10440.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336875820494",
-  "item_id": "v1|336875820494|0",
-  "referencia": "WGBB0009",
-  "mercado": {
-   "n": 2,
-   "p25": 12999,
-   "mediana": 13941
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 36 mm oro rosa, esfera plateada, automático, correa de piel rosa",
-   "referencia": "WGBB0009",
-   "precio_justo_usd": 13000,
-   "interesante": true,
-   "nota": "Precio ~20% bajo un valor de venta cerrada estimado; verificar autenticidad (papeles, movimiento, grabados y calidad de la correa) antes de comprar."
-  },
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 10600,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Buen estado visual, sin golpes ni rayones evidentes; correa no original y caja de presentación no Cartier"
-  },
-  "ratio_justo": 0.985,
-  "motivo": "precio normal segun revision (98 % del justo 10600)"
- },
- {
-  "fecha": "2026-11-02T22:27:00.713311+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Anglaise Large Silver Roman Bracelet W5310037",
-  "total": 5495.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198766490378",
-  "item_id": "v1|198766490378|0",
-  "referencia": "W5310037",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Tank Anglaise (talla grande, acero)",
-   "referencia": "W5310037",
-   "precio_justo_usd": 3900,
-   "interesante": false,
-   "nota": "Precio pedido de US$5495 está muy por encima del valor de venta cerrada estimado para esta referencia de acero en estado excelente."
-  },
-  "motivo": "triage: Precio pedido de US$5495 está muy por encima del valor de venta cerrada estimado para esta referencia de acero en estado excelente. (justo 3900)"
- },
- {
-  "fecha": "2026-11-02T22:42:01.596087+00:00",
-  "marca": "Rolex",
-  "titulo": "2018 Rolex Datejust 36MM Blue Stick Pristine Condition",
-  "total": 9506.63,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/820308389040",
-  "item_id": "v1|820308389040|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36 mm, acero con bisel de oro blanco acanalado, esfera azul (stick), brazalete Oyster",
-   "referencia": "126234",
-   "precio_justo_usd": 9300,
-   "interesante": false,
-   "nota": "Precio pedido cercano al valor de mercado para 2018 con caja y papeles; no hay descuento de al menos 15 %. Confirmar tipo de índices y estado de la caja/papeles."
-  },
-  "motivo": "triage: Precio pedido cercano al valor de mercado para 2018 con caja y papeles; no hay descuento de al menos 15 %. Confirmar tipo de índices y estado de la caja/papeles. (justo 9300)"
- },
- {
-  "fecha": "2026-11-02T22:42:01.596087+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Yachmaster II 44mm Stainless Steel 116680 Box & Papers",
-  "total": 21800.0,
-  "condicion": "New without box or papers",
-  "url": "https://www.ebay.com/itm/287700238689",
-  "item_id": "v1|287700238689|0",
-  "referencia": "116680",
-  "mercado": {
-   "n": 4,
-   "p25": 23345,
-   "mediana": 23922
-  },
-  "triage": {
-   "modelo": "Rolex Yacht-Master II 44mm acero (aspecto de bisel azul/blanco en la foto)",
-   "referencia": "116680",
-   "precio_justo_usd": 20000,
-   "interesante": false,
-   "nota": "Precio cercano al mercado, no hay descuento de 15%. El título dice con caja y papeles, pero eBay indica sin caja ni papeles; hay que aclararlo antes de comprar."
-  },
-  "motivo": "triage: Precio cercano al mercado, no hay descuento de 15%. El título dice con caja y papeles, pero eBay indica sin caja ni papeles; hay que aclararlo antes de comprar. (justo 20000)"
- },
- {
-  "fecha": "2026-11-02T22:42:01.596087+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Dumont Large Steel Mens Watch WSSA0046 Box Card",
-  "total": 9180.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257830898071",
-  "item_id": "v1|257830898071|0",
-  "referencia": "WSSA0046",
-  "mercado": {
-   "n": 3,
-   "p25": 7150,
-   "mediana": 7598
-  },
-  "triage": {
-   "modelo": "Cartier Santos-Dumont Large (LM) acero, esfera negra con números romanos, correa de cocodrilo negra",
-   "referencia": "WSSA0046",
-   "precio_justo_usd": 6000,
-   "interesante": false,
-   "nota": "Precio pedido de US$9.180 está muy por encima del mercado secundario (aprox. US$5.500-6.500 con caja y papeles); no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$9.180 está muy por encima del mercado secundario (aprox. US$5.500-6.500 con caja y papeles); no es una oportunidad. (justo 6000)"
- },
- {
   "fecha": "2026-11-02T22:57:01.419255+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 26mm 2016 MOP Pearl Diamond Fluted Jubilee 179174",
@@ -11021,5 +10871,124 @@
    "nota": "Precio pedido de US$9200 muy por encima del valor de mercado gris para este modelo nuevo con caja y papeles; no hay oportunidad."
   },
   "motivo": "triage: Precio pedido de US$9200 muy por encima del valor de mercado gris para este modelo nuevo con caja y papeles; no hay oportunidad. (justo 6200)"
+ },
+ {
+  "fecha": "2026-11-05T14:14:07.541929+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Datejust Automatic Watch Stainless Steel and Yellow Gold",
+  "total": 8295.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128176934165",
+  "item_id": "v1|128176934165|0",
+  "triage": {
+   "modelo": "Rolex Datejust 26 mm, acero y oro amarillo, bisel acanalado, esfera gris con numerales romanos, brazalete jubilee",
+   "referencia": "79173 (probable; podría ser 69173)",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Datejust de dama bicolor de los años 90; con estado Good se vende en torno a US$2,800-3,800. El precio pedido de US$8,295 está muy por encima del mercado."
+  },
+  "motivo": "triage: Datejust de dama bicolor de los años 90; con estado Good se vende en torno a US$2,800-3,800. El precio pedido de US$8,295 está muy por encima del mercado. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-05T14:14:07.541929+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Automatic Watch Stainless Steel 26",
+  "total": 8365.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117506243890",
+  "item_id": "v1|117506243890|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual 26 mm, acero, esfera blanca con índices de bastón",
+   "referencia": "176200 (posiblemente 276200, según generación; verificar en el reverso de la caja)",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "El precio pedido de US$8365 está muy por encima del valor de venta cerrada de esta referencia en estado bueno, incluso con caja y papeles."
+  },
+  "motivo": "triage: El precio pedido de US$8365 está muy por encima del valor de venta cerrada de esta referencia en estado bueno, incluso con caja y papeles. (justo 5000)"
+ },
+ {
+  "fecha": "2026-11-05T14:14:07.541929+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Automatic Watch Stainless Steel 39",
+  "total": 12920.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128176934048",
+  "item_id": "v1|128176934048|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual 39 (esfera gris, bisel liso, brazalete Oyster)",
+   "referencia": "114300",
+   "precio_justo_usd": 7500,
+   "interesante": false,
+   "nota": "Precio pedido de US$12,920 muy por encima del valor de venta real de esta referencia, aunque el estado sea bueno."
+  },
+  "motivo": "triage: Precio pedido de US$12,920 muy por encima del valor de venta real de esta referencia, aunque el estado sea bueno. (justo 7500)"
+ },
+ {
+  "fecha": "2026-11-05T14:14:07.541929+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Datejust Automatic Watch Stainless Steel and White Gold",
+  "total": 13350.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117506243796",
+  "item_id": "v1|117506243796|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 mm, acero y oro blanco, bisel acanalado, esfera negra con diamantes, brazalete Jubilee",
+   "referencia": "179174 (probable; verificar en el interior de la pulsera)",
+   "precio_justo_usd": 7500,
+   "interesante": false,
+   "nota": "Precio pedido de US$13,350 muy por encima del valor de venta real de esta referencia en condición Good; no parece una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$13,350 muy por encima del valor de venta real de esta referencia en condición Good; no parece una oportunidad. (justo 7500)"
+ },
+ {
+  "fecha": "2026-11-05T14:14:07.541929+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Automatic Watch Stainless Steel 31",
+  "total": 8435.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128176933455",
+  "item_id": "v1|128176933455|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual 31 mm, acero, esfera negra con indices rosa/fucsia",
+   "referencia": "177200",
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "Precio pedido de US$8435 con envio queda unos 30 % por encima del valor de venta cerrada estimado para esta referencia en estado bueno."
+  },
+  "motivo": "triage: Precio pedido de US$8435 con envio queda unos 30 % por encima del valor de venta cerrada estimado para esta referencia en estado bueno. (justo 6500)"
+ },
+ {
+  "fecha": "2026-11-05T14:14:07.541929+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Automatic Watch Stainless Steel 31",
+  "total": 8595.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128176933418",
+  "item_id": "v1|128176933418|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual 31 (esfera blanca con números romanos azules)",
+   "referencia": "277200 (probable, no confirmable en la imagen)",
+   "precio_justo_usd": 7300,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta cerrada estimado para este modelo de acero con esfera blanca de romanos azules, en estado Good."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para este modelo de acero con esfera blanca de romanos azules, en estado Good. (justo 7300)"
+ },
+ {
+  "fecha": "2026-11-05T14:14:07.541929+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ronde Solo de Cartier Quartz Watch Stainless Steel 36",
+  "total": 3705.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128176945024",
+  "item_id": "v1|128176945024|0",
+  "triage": {
+   "modelo": "Cartier Ronde Solo de Cartier, cuarzo, acero, 36 mm, con fecha",
+   "referencia": "WSRN0021 (probable; podría ser W6701011 de la generación anterior)",
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Precio pedido de US$3,705 con envío, por encima del valor de venta usado en EE. UU. para este modelo en buen estado (aprox. US$2,600-3,000). No es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$3,705 con envío, por encima del valor de venta usado en EE. UU. para este modelo en buen estado (aprox. US$2,600-3,000). No es una oportunidad. (justo 2800)"
  }
 ]
