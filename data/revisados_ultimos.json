@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-03T15:42:35.869803+00:00",
-  "marca": "Cartier",
-  "titulo": "NEW Cartier Panthere Quartz Stainless Steel Silver (medium) ",
-  "total": 5100.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/137898486966",
-  "item_id": "v1|137898486966|0",
-  "triage": {
-   "modelo": "Cartier Panthère de acero, cuarzo, esfera plateada (talla mediana)",
-   "referencia": "W25033P5 (probable, no confirmable en la imagen)",
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "Precio pedido de US$5100 está cerca del retail y no muestra descuento suficiente frente al mercado gris para un modelo nuevo con caja y papeles."
-  },
-  "motivo": "triage: Precio pedido de US$5100 está cerca del retail y no muestra descuento suficiente frente al mercado gris para un modelo nuevo con caja y papeles. (justo 4300)"
- },
- {
-  "fecha": "2026-11-03T15:57:36.083083+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex Cosmograph Daytona \"Panda\", Unworn Full Set, 126500LN-0001",
-  "total": 40200.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/117502182534",
-  "item_id": "v1|117502182534|0",
-  "referencia": "126500LN",
-  "mercado": {
-   "n": 29,
-   "p25": 34000,
-   "mediana": 38825
-  },
-  "ratio_mercado": 1.182,
-  "motivo": "precio normal (118 % del cuartil bajo de 126500LN)"
- },
- {
-  "fecha": "2026-11-03T15:57:36.083083+00:00",
-  "marca": "Rolex",
-  "titulo": "2025 Rolex GMT-Master II 126710 GRNR Bruce Wayne Black Steel 40mm Box Papers",
-  "total": 20384.79,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267832166195",
-  "item_id": "v1|267832166195|0",
-  "referencia": "126710",
-  "mercado": {
-   "n": 27,
-   "p25": 17220,
-   "mediana": 17900
-  },
-  "ratio_mercado": 1.184,
-  "motivo": "precio normal (118 % del cuartil bajo de 126710)"
- },
- {
   "fecha": "2026-11-03T16:12:37.157923+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual 6719 14K Yellow Gold Ladies Jubilee Bracelet Watch",
@@ -10966,5 +10915,56 @@
   },
   "ratio_justo": 0.899,
   "motivo": "precio normal segun revision (90 % del justo 1800)"
+ },
+ {
+  "fecha": "2026-11-05T20:29:28.593240+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 126720VTNR Sprite Left-Hand 40mm Oyster Box Papers 2023",
+  "total": 19498.7,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327441753884",
+  "item_id": "v1|327441753884|0",
+  "referencia": "126720VTNR",
+  "mercado": {
+   "n": 91,
+   "p25": 17990,
+   "mediana": 18458
+  },
+  "ratio_mercado": 1.084,
+  "motivo": "precio normal (108 % del cuartil bajo de 126720VTNR)"
+ },
+ {
+  "fecha": "2026-11-05T20:29:28.593240+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 126331 41MM Two Tone Steel and Rose Gold Iced Out Diamond Watch",
+  "total": 17000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940068678161",
+  "item_id": "v1|940068678161|0",
+  "referencia": "126331",
+  "mercado": {
+   "n": 43,
+   "p25": 15990,
+   "mediana": 16500
+  },
+  "ratio_mercado": 1.063,
+  "motivo": "precio normal (106 % del cuartil bajo de 126331)"
+ },
+ {
+  "fecha": "2026-11-05T20:29:28.593240+00:00",
+  "marca": "Rolex",
+  "titulo": "18k Yellow Gold Rolex Cellini 4084",
+  "total": 7500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960158955912",
+  "item_id": "v1|960158955912|0",
+  "triage": {
+   "modelo": "Rolex Cellini (caja cojín en oro amarillo 18k, esfera dorada, correa de cuero marrón)",
+   "referencia": "4084",
+   "precio_justo_usd": 5800,
+   "interesante": false,
+   "nota": "Precio pedido de US$7500 está por encima del valor de venta estimado para esta referencia en oro 18k y estado excelente; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido de US$7500 está por encima del valor de venta estimado para esta referencia en oro 18k y estado excelente; no hay descuento suficiente. (justo 5800)"
  }
 ]
