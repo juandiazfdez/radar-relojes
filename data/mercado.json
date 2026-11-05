@@ -3580,14 +3580,14 @@
   "max": 5535
  },
  "Cartier WSTA0141|usado": {
-  "fecha": "2026-10-21",
+  "fecha": "2026-11-05",
   "consulta": "Cartier WSTA0141",
-  "n": 1,
-  "mediana": 5603,
-  "p25": 5603,
-  "p75": 5603,
-  "min": 5603,
-  "max": 5603
+  "n": 2,
+  "mediana": 4967,
+  "p25": 4840,
+  "p75": 5094,
+  "min": 4840,
+  "max": 5094
  },
  "Tudor 79360|usado": {
   "fecha": "2026-10-30",
@@ -5735,14 +5735,14 @@
   "n": 0
  },
  "Tudor M79950|nuevo": {
-  "fecha": "2026-10-22",
+  "fecha": "2026-11-05",
   "consulta": "Tudor M79950",
-  "n": 4,
-  "mediana": 3745,
-  "p25": 3600,
-  "p75": 4840,
-  "min": 3500,
-  "max": 4840
+  "n": 5,
+  "mediana": 3500,
+  "p25": 3415,
+  "p75": 3600,
+  "min": 3150,
+  "max": 3890
  },
  "Tudor M25807KN|nuevo": {
   "fecha": "2026-11-03",
@@ -6115,12 +6115,12 @@
   "max": 11444
  },
  "Rolex 6917|usado": {
-  "fecha": "2026-11-02",
+  "fecha": "2026-11-05",
   "consulta": "Rolex 6917",
-  "n": 41,
-  "mediana": 4074,
+  "n": 42,
+  "mediana": 4127,
   "p25": 3990,
-  "p75": 4290,
+  "p75": 4406,
   "min": 190,
   "max": 4858
  },
@@ -7765,13 +7765,13 @@
   "max": 4500
  },
  "Tudor M91560|nuevo": {
-  "fecha": "2026-11-02",
+  "fecha": "2026-11-05",
   "consulta": "Tudor M91560",
   "n": 3,
   "mediana": 2655,
-  "p25": 2295,
+  "p25": 2595,
   "p75": 2850,
-  "min": 2295,
+  "min": 2595,
   "max": 2850
  },
  "Tudor 25600TB|usado": {
@@ -12220,14 +12220,14 @@
   "max": 1688
  },
  "Rolex 68274|usado": {
-  "fecha": "2026-11-03",
+  "fecha": "2026-11-05",
   "consulta": "Rolex 68274",
-  "n": 32,
-  "mediana": 9439,
-  "p25": 8395,
+  "n": 33,
+  "mediana": 9400,
+  "p25": 8000,
   "p75": 9587,
   "min": 5714,
-  "max": 11500
+  "max": 11200
  },
  "Panerai PAM00024|usado": {
   "fecha": "2026-10-27",
@@ -13555,13 +13555,13 @@
   "max": 7100
  },
  "Tudor M79360N|nuevo": {
-  "fecha": "2026-10-27",
+  "fecha": "2026-11-05",
   "consulta": "Tudor M79360N",
-  "n": 16,
-  "mediana": 9670,
-  "p25": 6350,
+  "n": 17,
+  "mediana": 9448,
+  "p25": 6000,
   "p75": 10323,
-  "min": 5410,
+  "min": 5125,
   "max": 14395
  },
  "Breitling UB2010|usado": {
@@ -17360,10 +17360,10 @@
   "n": 0
  },
  "Rolex 6516|usado": {
-  "fecha": "2026-10-30",
+  "fecha": "2026-11-05",
   "consulta": "Rolex 6516",
   "n": 17,
-  "mediana": 3619,
+  "mediana": 3550,
   "p25": 3459,
   "p75": 5073,
   "min": 2000,
@@ -19442,6 +19442,21 @@
  "Rolex 6620|usado": {
   "fecha": "2026-11-05",
   "consulta": "Rolex 6620",
+  "n": 0
+ },
+ "Tudor M28603|nuevo": {
+  "fecha": "2026-11-05",
+  "consulta": "Tudor M28603",
+  "n": 0
+ },
+ "Tudor M25600TB|nuevo": {
+  "fecha": "2026-11-05",
+  "consulta": "Tudor M25600TB",
+  "n": 0
+ },
+ "Tudor M35500|nuevo": {
+  "fecha": "2026-11-05",
+  "consulta": "Tudor M35500",
   "n": 0
  }
 }
