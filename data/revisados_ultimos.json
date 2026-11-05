@@ -1,158 +1,5 @@
 [
  {
-  "fecha": "2026-11-03T21:12:53.315992+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere 84083242 Two Rows 18K Yellow Gold & Steel Ladies Watch",
-  "total": 7675.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128173379855",
-  "item_id": "v1|128173379855|0",
-  "triage": {
-   "modelo": "Cartier Panthère de dos filas, acero y oro amarillo 18K, esfera crema con números romanos (cuarzo, tamaño mediano)",
-   "referencia": null,
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "El precio pedido de US$7,675 está muy por encima del valor de mercado; el número 84083242 del título no coincide con una referencia Panthère conocida."
-  },
-  "motivo": "triage: El precio pedido de US$7,675 está muy por encima del valor de mercado; el número 84083242 del título no coincide con una referencia Panthère conocida. (justo 3500)"
- },
- {
-  "fecha": "2026-11-03T21:12:53.315992+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Galbée Ref. 0902 24mm 18K Gold & Stainless Steel Ladies Watch",
-  "total": 3914.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840089735418",
-  "item_id": "v1|840089735418|0",
-  "triage": {
-   "modelo": "Cartier Santos Galbée (dama, cuarzo)",
-   "referencia": "0902 (según título; la foto parece mostrar acero, no bicolor)",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "La foto muestra acero, pero el título dice oro 18K y acero; verificar material. Si es bicolor, el precio pedido está cerca del valor; si es solo acero, está por encima."
-  },
-  "motivo": "triage: La foto muestra acero, pero el título dice oro 18K y acero; verificar material. Si es bicolor, el precio pedido está cerca del valor; si es solo acero, está por encima. (justo 3200)"
- },
- {
-  "fecha": "2026-11-03T21:27:56.869641+00:00",
-  "marca": "Rolex",
-  "titulo": "New 2026 Rolex Datejust 126234 36MM Blue Fluted Jubilee Steel Box Paper",
-  "total": 14499.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/137899539321",
-  "item_id": "v1|137899539321|0",
-  "referencia": "126234",
-  "mercado": {
-   "n": 43,
-   "p25": 14858,
-   "mediana": 15308
-  },
-  "ratio_mercado": 0.976,
-  "motivo": "precio normal (98 % del cuartil bajo de 126234)"
- },
- {
-  "fecha": "2026-11-03T21:27:56.869641+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex Sky-Dweller 336934 42MM Blue Fluted Oyster Steel Box Paper",
-  "total": 23750.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880079956535",
-  "item_id": "v1|880079956535|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller, esfera azul, bisel acanalado, acero Oyster",
-   "referencia": "336934",
-   "precio_justo_usd": 22000,
-   "interesante": false,
-   "nota": "Precio pedido un poco por encima del valor estimado para 336934 de acero con caja y papeles; el título dice 2026, dato a verificar."
-  },
-  "motivo": "triage: Precio pedido un poco por encima del valor estimado para 336934 de acero con caja y papeles; el título dice 2026, dato a verificar. (justo 22000)"
- },
- {
-  "fecha": "2026-11-03T21:27:56.869641+00:00",
-  "marca": "Rolex",
-  "titulo": "1996 Rolex 69178MR Datejust 26mm President 18K Yellow Gold Diamond Lady's Watch",
-  "total": 14488.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407337551177",
-  "item_id": "v1|407337551177|0",
-  "triage": {
-   "modelo": "Rolex Lady-Datejust 26 mm, oro amarillo 18K, bisel acanalado, brazalete President, esfera champán con marcadores de diamante",
-   "referencia": "69178MR",
-   "precio_justo_usd": 9500,
-   "interesante": false,
-   "nota": "Precio pedido bastante por encima del valor de venta cerrada estimado para esta referencia de 1996 en estado bueno; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido bastante por encima del valor de venta cerrada estimado para esta referencia de 1996 en estado bueno; no es una oportunidad. (justo 9500)"
- },
- {
-  "fecha": "2026-11-03T21:27:56.869641+00:00",
-  "marca": "Rolex",
-  "titulo": "New 2026 Rolex GMT-Master II Bruce Wayne 126710GRNR 40MM Black Oyster Steel B/p",
-  "total": 20250.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/117502721661",
-  "item_id": "v1|117502721661|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 63,
-   "p25": 21750,
-   "mediana": 22990
-  },
-  "ratio_mercado": 0.931,
-  "motivo": "precio normal (93 % del cuartil bajo de 126710GRNR)"
- },
- {
-  "fecha": "2026-11-03T21:27:56.869641+00:00",
-  "marca": "Rolex",
-  "titulo": "New 2026 Rolex Air King 126900 40MM Black Smooth Oyster Steel Box Paper",
-  "total": 10000.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/117502721684",
-  "item_id": "v1|117502721684|0",
-  "referencia": "126900",
-  "mercado": {
-   "n": 11,
-   "p25": 10249,
-   "mediana": 10500
-  },
-  "ratio_mercado": 0.976,
-  "motivo": "precio normal (98 % del cuartil bajo de 126900)"
- },
- {
-  "fecha": "2026-11-03T21:27:56.869641+00:00",
-  "marca": "Cartier",
-  "titulo": "Pasha de Cartier Winter Flower Limited Edition Steel Automatic 35mm",
-  "total": 3430.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137899558885",
-  "item_id": "v1|137899558885|0",
-  "triage": {
-   "modelo": "Cartier Pasha de Cartier 35 mm automático en acero, esfera negra, correa de piel negra con fecha",
-   "referencia": null,
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "La referencia no se puede confirmar en la foto y el título de 'Winter Flower Limited Edition' no lo puedo verificar; el precio está en línea con el mercado de un Pasha estándar de acero, sin descuento suficiente."
-  },
-  "motivo": "triage: La referencia no se puede confirmar en la foto y el título de 'Winter Flower Limited Edition' no lo puedo verificar; el precio está en línea con el mercado de un Pasha estándar de acero, sin descuento suficiente. (justo 3300)"
- },
- {
-  "fecha": "2026-11-03T21:27:56.869641+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay Chrono M79360N-0001 \"Reverse Panda\"",
-  "total": 4475.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198769337724",
-  "item_id": "v1|198769337724|0",
-  "referencia": "M79360N-0001",
-  "mercado": {
-   "n": 23,
-   "p25": 4815,
-   "mediana": 5500
-  },
-  "ratio_mercado": 0.929,
-  "motivo": "precio normal (93 % del cuartil bajo de M79360N-0001)"
- },
- {
   "fecha": "2026-11-03T21:27:56.869641+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR Black Bay GMT M79830RB-0010 \"Pepsi\" Opaline",
@@ -10983,5 +10830,158 @@
   },
   "ratio_mercado": 1.053,
   "motivo": "precio normal (105 % del cuartil bajo de 79830)"
+ },
+ {
+  "fecha": "2026-11-05T23:44:29.284817+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 26mm Champagne Diamond Fluted President Watch&Box 69178",
+  "total": 14295.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198775857808",
+  "item_id": "v1|198775857808|0",
+  "referencia": "69178",
+  "mercado": {
+   "n": 6,
+   "p25": 5450,
+   "mediana": 5975
+  },
+  "ratio_mercado": 2.623,
+  "motivo": "precio normal (262 % del cuartil bajo de 69178)"
+ },
+ {
+  "fecha": "2026-11-05T23:44:29.284817+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yaughtmaster Mens 40mm Platnum Stainless Steel Automatic No Box/paper",
+  "total": 9750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198775849986",
+  "item_id": "v1|198775849986|0",
+  "triage": {
+   "modelo": "Rolex Yacht-Master 40mm (bisel de platino, caja de acero)",
+   "referencia": "16622 (probable; podría ser 116622 según generación)",
+   "precio_justo_usd": 10800,
+   "interesante": false,
+   "nota": "Precio aún no suficientemente bajo: sin caja ni papeles, y 16622 de estado Good se vende en torno a US$10.500-11.000; el precio pedido está solo ~10 % por debajo. Verificar referencia, autenticidad y estado de la esfera/bisel."
+  },
+  "motivo": "triage: Precio aún no suficientemente bajo: sin caja ni papeles, y 16622 de estado Good se vende en torno a US$10.500-11.000; el precio pedido está solo ~10 % por debajo. Verificar referencia, autenticidad y estado de la esfera/bisel. (justo 10800)"
+ },
+ {
+  "fecha": "2026-11-05T23:44:29.284817+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Air-King 40mm Oyster Bracelet 126900",
+  "total": 10455.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128177788389",
+  "item_id": "v1|128177788389|0",
+  "referencia": "126900",
+  "mercado": {
+   "n": 24,
+   "p25": 9529,
+   "mediana": 10046
+  },
+  "ratio_mercado": 1.097,
+  "motivo": "precio normal (110 % del cuartil bajo de 126900)"
+ },
+ {
+  "fecha": "2026-11-05T23:44:29.284817+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Air-King 40mm Oyster Bracelet 126900",
+  "total": 10455.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128177788359",
+  "item_id": "v1|128177788359|0",
+  "referencia": "126900",
+  "mercado": {
+   "n": 24,
+   "p25": 9529,
+   "mediana": 10046
+  },
+  "ratio_mercado": 1.097,
+  "motivo": "precio normal (110 % del cuartil bajo de 126900)"
+ },
+ {
+  "fecha": "2026-11-05T23:44:29.284817+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Airking 126900 B&P 2024",
+  "total": 10455.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128177787472",
+  "item_id": "v1|128177787472|0",
+  "referencia": "126900",
+  "mercado": {
+   "n": 24,
+   "p25": 9529,
+   "mediana": 10046
+  },
+  "ratio_mercado": 1.097,
+  "motivo": "precio normal (110 % del cuartil bajo de 126900)"
+ },
+ {
+  "fecha": "2026-11-05T23:44:29.284817+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Air-King 40mm Oyster Bracelet 126900 B&P 2024",
+  "total": 10455.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128177787439",
+  "item_id": "v1|128177787439|0",
+  "referencia": "126900",
+  "mercado": {
+   "n": 24,
+   "p25": 9529,
+   "mediana": 10046
+  },
+  "ratio_mercado": 1.097,
+  "motivo": "precio normal (110 % del cuartil bajo de 126900)"
+ },
+ {
+  "fecha": "2026-11-05T23:44:29.284817+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer 36mm Oyster Bracelet 124270 B&P 2025",
+  "total": 11035.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128177787428",
+  "item_id": "v1|128177787428|0",
+  "referencia": "124270",
+  "mercado": {
+   "n": 18,
+   "p25": 9165,
+   "mediana": 9500
+  },
+  "ratio_mercado": 1.204,
+  "motivo": "precio normal (120 % del cuartil bajo de 124270)"
+ },
+ {
+  "fecha": "2026-11-05T23:44:29.284817+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sea Dweller 16600 SD Z Serial 40MM No Hole Case / SEL B&P",
+  "total": 10994.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860117203577",
+  "item_id": "v1|860117203577|0",
+  "referencia": "16600",
+  "mercado": {
+   "n": 56,
+   "p25": 9845,
+   "mediana": 10000
+  },
+  "ratio_mercado": 1.117,
+  "motivo": "precio normal (112 % del cuartil bajo de 16600)"
+ },
+ {
+  "fecha": "2026-11-05T23:44:29.284817+00:00",
+  "marca": "Tudor",
+  "titulo": "2025 TUDOR Black Bay 79210CNU Master Chronometer 41mm Ceramic Complete Set",
+  "total": 3540.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960159549117",
+  "item_id": "v1|960159549117|0",
+  "triage": {
+   "modelo": "Tudor Black Bay Ceramic (41 mm, esfera negra, bisel cerámico, correa de cuero)",
+   "referencia": "79210CNU",
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "Precio pedido ~9 % bajo estimación de venta cerrada para un 2025 completo; no llega al umbral del 15 %. La foto muestra caja casi toda negra con correa de cuero, así que conviene verificar que coincida con la referencia del listado."
+  },
+  "motivo": "triage: Precio pedido ~9 % bajo estimación de venta cerrada para un 2025 completo; no llega al umbral del 15 %. La foto muestra caja casi toda negra con correa de cuero, así que conviene verificar que coincida con la referencia del listado. (justo 3900)"
  }
 ]
