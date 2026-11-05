@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-11-02T21:57:01.162160+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Roadster S \"Large\" W6206017",
-  "total": 4348.34,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237158699096",
-  "item_id": "v1|237158699096|0",
-  "referencia": "W6206017",
-  "mercado": {
-   "n": 1,
-   "p25": 3785,
-   "mediana": 3785
-  },
-  "triage": {
-   "modelo": "Cartier Roadster S Large (acero, esfera plateada con números romanos)",
-   "referencia": "W6206017",
-   "precio_justo_usd": 4200,
-   "interesante": false,
-   "nota": "Precio pedido de US$4348 con envío, en línea con el mercado secundario para esta referencia en acero y condición Good. No hay descuento claro de al menos 15 %."
-  },
-  "motivo": "triage: Precio pedido de US$4348 con envío, en línea con el mercado secundario para esta referencia en acero y condición Good. No hay descuento claro de al menos 15 %. (justo 4200)"
- },
- {
-  "fecha": "2026-11-02T21:57:01.162160+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Americaine 1741/W26055L1 18k White Gold Automatic 45mm Watch",
-  "total": 26450.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840086129857",
-  "item_id": "v1|840086129857|0",
-  "referencia": "1741",
-  "mercado": {
-   "n": 7,
-   "p25": 7125,
-   "mediana": 9499
-  },
-  "ratio_mercado": 3.712,
-  "motivo": "precio normal (371 % del cuartil bajo de 1741)"
- },
- {
-  "fecha": "2026-11-02T21:57:01.162160+00:00",
   "marca": "Tudor",
   "titulo": "Tudor 79683-0005 2025 Pre-Owned Excellent Watch, Box and Card",
   "total": 5500.0,
@@ -11014,5 +10974,52 @@
   },
   "ratio_mercado": 0.955,
   "motivo": "precio normal (96 % del cuartil bajo de 25407N)"
+ },
+ {
+  "fecha": "2026-11-05T08:59:07.205591+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Anglaise Small Rose Gold Diamond Ladies Watch WJTA0007",
+  "total": 6035.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860115054490",
+  "item_id": "v1|860115054490|0",
+  "referencia": "WJTA0007",
+  "mercado": {
+   "n": 2,
+   "p25": 7144,
+   "mediana": 7217
+  },
+  "triage": {
+   "modelo": "Cartier Tank Anglaise Small, oro rosa 18k, cuarzo, esfera plateada con marcadores de diamantes",
+   "referencia": "WJTA0007",
+   "precio_justo_usd": 7200,
+   "interesante": true,
+   "nota": "Precio ~16 % por debajo de cierres de mercado para usado con caja y papeles; verificar autenticidad, papeles, caja y que los marcadores sean diamantes reales."
+  },
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 6000,
+   "riesgo_autenticidad": "medio",
+   "estado": "Bueno a muy bueno: caja con rayones leves y correa de aligátor con arrugas y marcas de uso"
+  },
+  "ratio_justo": 1.006,
+  "motivo": "precio normal segun revision (101 % del justo 6000)"
+ },
+ {
+  "fecha": "2026-11-05T08:59:07.205591+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster Timepiece Automatic Swiss Watch Men's Luxury Watch Date Silver",
+  "total": 4629.98,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237164849890",
+  "item_id": "v1|237164849890|0",
+  "triage": {
+   "modelo": "Cartier Roadster XL de acero, automático, esfera plateada con números romanos y ventana de fecha (posiblemente con correa de caucho)",
+   "referencia": "W62025V3 (probable, verificar en el reverso de la caja)",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Precio pedido de US$4630 por encima del valor estimado de venta cerrada (~US$3800); la foto es de baja resolución y conviene verificar referencia y autenticidad."
+  },
+  "motivo": "triage: Precio pedido de US$4630 por encima del valor estimado de venta cerrada (~US$3800); la foto es de baja resolución y conviene verificar referencia y autenticidad. (justo 3800)"
  }
 ]
