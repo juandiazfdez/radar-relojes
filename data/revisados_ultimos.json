@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-11-02T21:57:01.162160+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor 79683-0005 2025 Pre-Owned Excellent Watch, Box and Card",
-  "total": 5500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147662785544",
-  "item_id": "v1|147662785544|0",
-  "referencia": "79683-0005",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay 36 S&G (acero y oro amarillo, esfera champán, brazalete Jubilee)",
-   "referencia": "79683",
-   "precio_justo_usd": 4600,
-   "interesante": false,
-   "nota": "Precio pedido por encima de la venta secundaria estimada para este modelo pre-owned con caja y papeles; la referencia es plausible según la imagen."
-  },
-  "motivo": "triage: Precio pedido por encima de la venta secundaria estimada para este modelo pre-owned con caja y papeles; la referencia es plausible según la imagen. (justo 4600)"
- },
- {
   "fecha": "2026-11-02T22:12:02.529077+00:00",
   "marca": "Rolex",
   "titulo": "1991 Rolex DateJust 16233 36mm Champagne Diamond Two-Tone 18K Gold Jubilee Watch",
@@ -11021,5 +10998,22 @@
    "nota": "Precio pedido de US$4630 por encima del valor estimado de venta cerrada (~US$3800); la foto es de baja resolución y conviene verificar referencia y autenticidad."
   },
   "motivo": "triage: Precio pedido de US$4630 por encima del valor estimado de venta cerrada (~US$3800); la foto es de baja resolución y conviene verificar referencia y autenticidad. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-05T09:44:07.587003+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Two Tone Ladies Watch",
+  "total": 4750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137901202451",
+  "item_id": "v1|137901202451|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual 26 bicolor (acero y oro amarillo), esfera gris pizarra, bisel liso dorado",
+   "referencia": "176203 (probable; no se ven los detalles suficientes para confirmarla)",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del mercado de reventa para este modelo en estado Good; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido muy por encima del mercado de reventa para este modelo en estado Good; no es una oportunidad. (justo 3200)"
  }
 ]
