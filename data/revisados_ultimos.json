@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-02T21:12:00.974858+00:00",
   "marca": "Rolex",
-  "titulo": "Vintage 1976 Rolex Ladies OP Date 6916 Steel Blue Tropical Tiffany Auto 26mm",
-  "total": 8399.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128171159907",
-  "item_id": "v1|128171159907|0",
-  "referencia": "6916",
-  "mercado": {
-   "n": 26,
-   "p25": 3500,
-   "mediana": 3754
-  },
-  "ratio_mercado": 2.4,
-  "motivo": "precio normal (240 % del cuartil bajo de 6916)"
- },
- {
-  "fecha": "2026-11-02T21:12:00.974858+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex GMT Master II Batman 116710BLNR Mint Complete + Warranty",
   "total": 15200.0,
   "condicion": "Pre-owned - Excellent",
@@ -11044,5 +11027,22 @@
    "nota": "Precio pedido cercano a retail; el mercado secundario de esta referencia ronda 3000-3300 USD. No cumple el umbral del 15%."
   },
   "motivo": "triage: Precio pedido cercano a retail; el mercado secundario de esta referencia ronda 3000-3300 USD. No cumple el umbral del 15%. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-05T03:28:56.206928+00:00",
+  "marca": "Cartier",
+  "titulo": "Vintage Cartier Panthere 1057917 18k Gold & Stainless Steel 22 mm Ladies Watch",
+  "total": 6520.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168839646466",
+  "item_id": "v1|168839646466|0",
+  "triage": {
+   "modelo": "Cartier Panthère de dos tonos (acero y oro amarillo 18k), cuarzo, bisel dorado, esfera crema con números romanos",
+   "referencia": "1057917",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Precio pedido de US$6520 muy por encima del valor de venta real de esta referencia de cuarzo de dos tonos, aunque esté en excelente estado; no es oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$6520 muy por encima del valor de venta real de esta referencia de cuarzo de dos tonos, aunque esté en excelente estado; no es oportunidad. (justo 3200)"
  }
 ]
