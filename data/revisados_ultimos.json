@@ -1,64 +1,5 @@
 [
  {
-  "fecha": "2026-11-03T03:57:11.620784+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Oyster Prince Ranger 7995/0",
-  "total": 1500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920099275080",
-  "item_id": "v1|920099275080|0",
-  "triage": {
-   "modelo": "Tudor Oyster Prince Ranger (vintage, dial con 'RANGER' y 'SELF-WINDING')",
-   "referencia": "7995/0",
-   "precio_justo_usd": 2000,
-   "interesante": true,
-   "nota": "Ranger vintage en acero con esfera original visible; precio ~25% bajo el estimado conservador. Verificar autenticidad, esfera, manecillas y estado del movimiento antes de comprar."
-  },
-  "referencia": null,
-  "claude": {
-   "veredicto": "alerta",
-   "precio_justo_usd": 1900,
-   "riesgo_autenticidad": "medio",
-   "estado": "Bueno para su edad: caja pulida con lugs algo suaves, esfera con pátina, correa de cuero no original, servicio desconocido"
-  },
-  "ratio_justo": 0.789,
-  "motivo": "ALERTA"
- },
- {
-  "fecha": "2026-11-03T04:12:12.560645+00:00",
-  "marca": "Rolex",
-  "titulo": "Fake Rolex ",
-  "total": 505.63,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840087115149",
-  "item_id": "v1|840087115149|0",
-  "triage": {
-   "modelo": "Rolex con esfera y bisel verdes (posible Submariner 'Hulk', no confirmable en esta foto), con caja y papeles",
-   "referencia": null,
-   "precio_justo_usd": 0,
-   "interesante": false,
-   "nota": "El título dice 'Fake Rolex' y el precio ($506) es imposible para un Rolex verde genuino; casi seguro es réplica o listado engañoso."
-  },
-  "motivo": "triage: El título dice 'Fake Rolex' y el precio ($506) es imposible para un Rolex verde genuino; casi seguro es réplica o listado engañoso. (justo 0)"
- },
- {
-  "fecha": "2026-11-03T04:27:11.914089+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust Silver Men's Watch - 16014",
-  "total": 4861.3,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800869670417",
-  "item_id": "v1|800869670417|0",
-  "referencia": "16014",
-  "mercado": {
-   "n": 13,
-   "p25": 4550,
-   "mediana": 5099
-  },
-  "ratio_mercado": 1.068,
-  "motivo": "precio normal (107 % del cuartil bajo de 16014)"
- },
- {
   "fecha": "2026-11-03T04:42:11.812840+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay Heritage 41mm \"Smiley Rose\" 79220B-0001 | 2016 Box and Papers",
@@ -10966,5 +10907,56 @@
    "nota": "Precio pedido US$22.090 por encima del valor de mercado de un oro amarillo en estado Good; la estimación es aproximada y depende de caja, papeles y tamaño exacto."
   },
   "motivo": "triage: Precio pedido US$22.090 por encima del valor de mercado de un oro amarillo en estado Good; la estimación es aproximada y depende de caja, papeles y tamaño exacto. (justo 14500)"
+ },
+ {
+  "fecha": "2026-11-05T15:29:19.140553+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Silver Men's 116234",
+  "total": 9450.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920108750413",
+  "item_id": "v1|920108750413|0",
+  "referencia": "116234",
+  "mercado": {
+   "n": 42,
+   "p25": 9000,
+   "mediana": 9500
+  },
+  "ratio_mercado": 1.05,
+  "motivo": "precio normal (105 % del cuartil bajo de 116234)"
+ },
+ {
+  "fecha": "2026-11-05T15:29:19.140553+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster 2675 Silver dial-Roman Numerals Quartz  Stainless Steel Watch",
+  "total": 3795.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960158105563",
+  "item_id": "v1|960158105563|0",
+  "referencia": "2675",
+  "mercado": {
+   "n": 12,
+   "p25": 3758,
+   "mediana": 4260
+  },
+  "ratio_mercado": 1.01,
+  "motivo": "precio normal (101 % del cuartil bajo de 2675)"
+ },
+ {
+  "fecha": "2026-11-05T15:29:19.140553+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Pasha W31029M7",
+  "total": 2860.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800881187003",
+  "item_id": "v1|800881187003|0",
+  "triage": {
+   "modelo": "Cartier Pasha de Cartier Chronograph (acero, esfera plateada, brazalete de acero)",
+   "referencia": "W31029M7",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Precio pedido por encima de la estimación de venta cerrada para estado Good; la caja se ve, pero no se aprecian papeles ni certificado."
+  },
+  "motivo": "triage: Precio pedido por encima de la estimación de venta cerrada para estado Good; la caja se ve, pero no se aprecian papeles ni certificado. (justo 2600)"
  }
 ]
