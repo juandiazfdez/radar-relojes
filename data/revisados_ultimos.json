@@ -1,73 +1,5 @@
 [
  {
-  "fecha": "2026-11-03T14:12:35.907292+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sea-Dweller 116660 Silver Oyster Bracelet with Papers 2008",
-  "total": 10499.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/257832252828",
-  "item_id": "v1|257832252828|0",
-  "referencia": "116660",
-  "mercado": {
-   "n": 49,
-   "p25": 10045,
-   "mediana": 11408
-  },
-  "ratio_mercado": 1.045,
-  "motivo": "precio normal (105 % del cuartil bajo de 116660)"
- },
- {
-  "fecha": "2026-11-03T14:42:36.050402+00:00",
-  "marca": "Rolex",
-  "titulo": "NEW Rolex Daytona Chronograph Steel & Ceramic Watch Black B/P '23 116500",
-  "total": 34088.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/147663941133",
-  "item_id": "v1|147663941133|0",
-  "referencia": "116500",
-  "mercado": {
-   "n": 10,
-   "p25": 35888,
-   "mediana": 36222
-  },
-  "ratio_mercado": 0.95,
-  "motivo": "precio normal (95 % del cuartil bajo de 116500)"
- },
- {
-  "fecha": "2026-11-03T14:42:36.050402+00:00",
-  "marca": "Rolex",
-  "titulo": "NOS Rolex GMT-Master II Black/Blue Mens Ceramic Oyster Steel B/P '22 126710",
-  "total": 21700.0,
-  "condicion": "New with imperfections",
-  "url": "https://www.ebay.com/itm/366781765836",
-  "item_id": "v1|366781765836|0",
-  "referencia": "126710",
-  "mercado": {
-   "n": 78,
-   "p25": 20200,
-   "mediana": 20712
-  },
-  "ratio_mercado": 1.074,
-  "motivo": "precio normal (107 % del cuartil bajo de 126710)"
- },
- {
-  "fecha": "2026-11-03T14:42:36.050402+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II Steel Ceramic Black/Green Mens 40mm Watch B/P V 116710",
-  "total": 16950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117502056904",
-  "item_id": "v1|117502056904|0",
-  "referencia": "116710",
-  "mercado": {
-   "n": 45,
-   "p25": 13699,
-   "mediana": 14468
-  },
-  "ratio_mercado": 1.237,
-  "motivo": "precio normal (124 % del cuartil bajo de 116710)"
- },
- {
   "fecha": "2026-11-03T14:42:36.050402+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Day-Date II President 18k WG Ivory Concentric 41mm Watch '12 B/P 218239",
@@ -10958,5 +10890,73 @@
    "nota": "La referencia del título no es verificable (la cadena parece un código de calibre 2836); el precio pedido está unos 8 % por encima de un valor de mercado conservador para un Royal de acero usado de este tipo."
   },
   "motivo": "triage: La referencia del título no es verificable (la cadena parece un código de calibre 2836); el precio pedido está unos 8 % por encima de un valor de mercado conservador para un Royal de acero usado de este tipo. (justo 3100)"
+ },
+ {
+  "fecha": "2026-11-05T16:14:19.200260+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer II 40mm Stainless Steel, Polar, 3186 Automatic Movement, M Series",
+  "total": 8500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168841213069",
+  "item_id": "v1|168841213069|0",
+  "triage": {
+   "modelo": "Rolex Explorer II 40mm, esfera blanca 'Polar', acero",
+   "referencia": "16570 (probable, serie M)",
+   "precio_justo_usd": 8500,
+   "interesante": false,
+   "nota": "Precio en línea con el mercado para 16570 en buen estado; la foto no permite confirmar la referencia ni ver papeles, y el precio no está al menos 15 % por debajo."
+  },
+  "motivo": "triage: Precio en línea con el mercado para 16570 en buen estado; la foto no permite confirmar la referencia ni ver papeles, y el precio no está al menos 15 % por debajo. (justo 8500)"
+ },
+ {
+  "fecha": "2026-11-05T16:14:19.200260+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 116334,41mm,Silver Diamond Dial,Stainless Steel Men’s Watch W/Box",
+  "total": 11500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840097023568",
+  "item_id": "v1|840097023568|0",
+  "referencia": "116334",
+  "mercado": {
+   "n": 24,
+   "p25": 10850,
+   "mediana": 10950
+  },
+  "ratio_mercado": 1.06,
+  "motivo": "precio normal (106 % del cuartil bajo de 116334)"
+ },
+ {
+  "fecha": "2026-11-05T16:14:19.200260+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos 100",
+  "total": 5750.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206677825050",
+  "item_id": "v1|206677825050|0",
+  "triage": {
+   "modelo": "Cartier Santos 100 (tamaño XL, caja rectangular con bisel atornillado)",
+   "referencia": "no confirmada (posible W20073X8 si es acero; verificar con foto del caso y papeles)",
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "Precio pedido ~11-12 % bajo estimación de mercado; con caja y sin confirmar papeles ni referencia exacta, no alcanza el umbral del 15 %."
+  },
+  "motivo": "triage: Precio pedido ~11-12 % bajo estimación de mercado; con caja y sin confirmar papeles ni referencia exacta, no alcanza el umbral del 15 %. (justo 6500)"
+ },
+ {
+  "fecha": "2026-11-05T16:14:19.200260+00:00",
+  "marca": "Tudor",
+  "titulo": "Vintage 1966 TUDOR Prince OysterDate Small Rose 7996 Automatic Cal.2462 Watch",
+  "total": 2533.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227599640870",
+  "item_id": "v1|227599640870|0",
+  "triage": {
+   "modelo": "Tudor Prince Oysterdate (small rose), esfera plateada con ventana de fecha a las 3",
+   "referencia": "7996",
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Precio pedido de US$2533 está ~10% bajo una estimación conservadora para este modelo vintage en estado Good; no cumple el umbral del 15%. Correa de caucho no original; la foto es de baja resolución para verificar detalles."
+  },
+  "motivo": "triage: Precio pedido de US$2533 está ~10% bajo una estimación conservadora para este modelo vintage en estado Good; no cumple el umbral del 15%. Correa de caucho no original; la foto es de baja resolución para verificar detalles. (justo 2800)"
  }
 ]
