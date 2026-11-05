@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-02T21:12:00.974858+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT Master II Batman 116710BLNR Mint Complete + Warranty",
-  "total": 15200.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920098122593",
-  "item_id": "v1|920098122593|0",
-  "referencia": "116710BLNR",
-  "mercado": {
-   "n": 46,
-   "p25": 15998,
-   "mediana": 16825
-  },
-  "ratio_mercado": 0.95,
-  "motivo": "precio normal (95 % del cuartil bajo de 116710BLNR)"
- },
- {
-  "fecha": "2026-11-02T21:12:00.974858+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 126710BLNR Batgirl MINT SS Jubilee Auto Men's 40MM",
-  "total": 16995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198766315147",
-  "item_id": "v1|198766315147|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 67,
-   "p25": 18200,
-   "mediana": 18900
-  },
-  "ratio_mercado": 0.934,
-  "motivo": "precio normal (93 % del cuartil bajo de 126710BLNR)"
- },
- {
-  "fecha": "2026-11-02T21:27:01.199514+00:00",
-  "marca": "Cartier",
-  "titulo": "1980s Cartier Vendôme 24mm Vermeil Cartier Service 2026",
-  "total": 2465.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/820308213818",
-  "item_id": "v1|820308213818|0",
-  "triage": {
-   "modelo": "Cartier Must de Cartier Vendôme vermeil (cuarzo, circa 1980s, caja de 24 mm, esfera crema con números romanos)",
-   "referencia": null,
-   "precio_justo_usd": 850,
-   "interesante": false,
-   "nota": "Vermeil Vendôme de cuarzo de los 80 en buen estado se vende aprox. US$700-1,000; el precio pedido de US$2,465 está muy por encima del mercado."
-  },
-  "motivo": "triage: Vermeil Vendôme de cuarzo de los 80 en buen estado se vende aprox. US$700-1,000; el precio pedido de US$2,465 está muy por encima del mercado. (justo 850)"
- },
- {
   "fecha": "2026-11-02T21:27:01.199514+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Francaise 20mm Ladies 18k Yellow Gold W50002N2",
@@ -11044,5 +10993,56 @@
    "nota": "Precio pedido de US$6520 muy por encima del valor de venta real de esta referencia de cuarzo de dos tonos, aunque esté en excelente estado; no es oportunidad."
   },
   "motivo": "triage: Precio pedido de US$6520 muy por encima del valor de venta real de esta referencia de cuarzo de dos tonos, aunque esté en excelente estado; no es oportunidad. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-05T03:43:56.159356+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer 124270 36MM 2021 Box & Papers",
+  "total": 10031.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860114504907",
+  "item_id": "v1|860114504907|0",
+  "referencia": "124270",
+  "mercado": {
+   "n": 18,
+   "p25": 9165,
+   "mediana": 9500
+  },
+  "ratio_mercado": 1.094,
+  "motivo": "precio normal (109 % del cuartil bajo de 124270)"
+ },
+ {
+  "fecha": "2026-11-05T03:43:56.159356+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX Datejust 36mm Jubilee 1601 - White Gold & SS - 💯 AUTHENTIC ",
+  "total": 4048.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227596780038",
+  "item_id": "v1|227596780038|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 mm, acero con bisel acanalado y brazalete Jubilee (aspecto vintage)",
+   "referencia": "1601",
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "El título dice oro blanco y acero, pero la foto muestra acero inoxidable completo; la 1601 es de acero. Si es acero, el precio no está 15 % por debajo del mercado; verificar material y estado."
+  },
+  "motivo": "triage: El título dice oro blanco y acero, pero la foto muestra acero inoxidable completo; la 1601 es de acero. Si es acero, el precio no está 15 % por debajo del mercado; verificar material y estado. (justo 4500)"
+ },
+ {
+  "fecha": "2026-11-05T03:43:56.159356+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 58 Ref. 79030N Full Set - Very Good Condition",
+  "total": 3450.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860114489682",
+  "item_id": "v1|860114489682|0",
+  "referencia": "79030N",
+  "mercado": {
+   "n": 13,
+   "p25": 3840,
+   "mediana": 3971
+  },
+  "ratio_mercado": 0.898,
+  "motivo": "precio normal (90 % del cuartil bajo de 79030N)"
  }
 ]
