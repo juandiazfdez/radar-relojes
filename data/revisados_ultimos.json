@@ -2,57 +2,6 @@
  {
   "fecha": "2026-11-03T14:57:36.489747+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 18k YG & Steel Black Ceramic Mens 40mm Watch Scramble 116713",
-  "total": 16695.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117502071630",
-  "item_id": "v1|117502071630|0",
-  "referencia": "116713",
-  "mercado": {
-   "n": 50,
-   "p25": 14125,
-   "mediana": 15027
-  },
-  "ratio_mercado": 1.182,
-  "motivo": "precio normal (118 % del cuartil bajo de 116713)"
- },
- {
-  "fecha": "2026-11-03T14:57:36.489747+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner 18k Yellow Gold/Steel Serti Diamond 40mm Watch +Papers A 16613",
-  "total": 14650.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147663956944",
-  "item_id": "v1|147663956944|0",
-  "referencia": "16613",
-  "mercado": {
-   "n": 88,
-   "p25": 11770,
-   "mediana": 12000
-  },
-  "ratio_mercado": 1.245,
-  "motivo": "precio normal (124 % del cuartil bajo de 16613)"
- },
- {
-  "fecha": "2026-11-03T14:57:36.489747+00:00",
-  "marca": "Rolex",
-  "titulo": "NOS Rolex Submariner Date 18k Gold Steel Ceramic Black 41mm Watch B/P '21 126613",
-  "total": 19195.0,
-  "condicion": "New with imperfections",
-  "url": "https://www.ebay.com/itm/147663956965",
-  "item_id": "v1|147663956965|0",
-  "referencia": "126613",
-  "mercado": {
-   "n": 23,
-   "p25": 20632,
-   "mediana": 21625
-  },
-  "ratio_mercado": 0.93,
-  "motivo": "precio normal (93 % del cuartil bajo de 126613)"
- },
- {
-  "fecha": "2026-11-03T14:57:36.489747+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Day-Date II President 18k White Gold Black Roman 41mm Watch B/P '13 218239",
   "total": 43088.0,
   "condicion": "Pre-owned - Good",
@@ -10958,5 +10907,56 @@
   },
   "ratio_mercado": 0.77,
   "motivo": "descripcion: broken"
+ },
+ {
+  "fecha": "2026-11-05T18:14:18.877684+00:00",
+  "marca": "Rolex",
+  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
+  "total": 15990.01,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327441602299",
+  "item_id": "v1|327441602299|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date (bisel negro, caja y papeles originales; referencia no verificable en la imagen)",
+   "referencia": "126610LN (probable, no confirmada)",
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "Precio pedido ~14% sobre la estimación para un 126610LN completo; la referencia y el 'unpolished' no se verifican en las fotos, y 'rare' no aporta valor."
+  },
+  "motivo": "triage: Precio pedido ~14% sobre la estimación para un 126610LN completo; la referencia y el 'unpolished' no se verifican en las fotos, y 'rare' no aporta valor. (justo 14000)"
+ },
+ {
+  "fecha": "2026-11-05T18:14:18.877684+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Must Large 31mm X41mm Stainless Steel Watch Automatic W/card",
+  "total": 4999.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206678039275",
+  "item_id": "v1|206678039275|0",
+  "triage": {
+   "modelo": "Cartier Tank Must / Tank Française (tamaño grande, acero, bracelet integrado)",
+   "referencia": null,
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "El título dice automático, pero los Tank Must de acero suelen ser cuarzo; el precio pedido de US$4,999 está muy por encima del valor de venta real."
+  },
+  "motivo": "triage: El título dice automático, pero los Tank Must de acero suelen ser cuarzo; el precio pedido de US$4,999 está muy por encima del valor de venta real. (justo 2400)"
+ },
+ {
+  "fecha": "2026-11-05T18:14:18.877684+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier 88105 Tank Louis 23mm Solid Gold Quartz",
+  "total": 9000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198775281092",
+  "item_id": "v1|198775281092|0",
+  "triage": {
+   "modelo": "Cartier Tank Louis 23mm oro macizo, cuarzo (esfera blanca, números romanos, correa roja de piel)",
+   "referencia": "88105 según el título, no verificable en la foto",
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de venta cerrada para un Tank Louis de oro de cuarzo en estado excelente. La referencia no se puede confirmar en la imagen."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de venta cerrada para un Tank Louis de oro de cuarzo en estado excelente. La referencia no se puede confirmar en la imagen. (justo 4500)"
  }
 ]
