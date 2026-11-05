@@ -1,64 +1,6 @@
 [
  {
   "fecha": "2026-11-03T16:27:50.111567+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner No Date 40mm 5513 Black Aluminum",
-  "total": 9999.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147664104530",
-  "item_id": "v1|147664104530|0",
-  "referencia": "5513",
-  "mercado": {
-   "n": 31,
-   "p25": 11918,
-   "mediana": 14500
-  },
-  "ratio_mercado": 0.839,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 9300,
-   "riesgo_autenticidad": "medio",
-   "estado": "Buen estado vintage con patina uniforme y desgaste normal; sin caja ni papeles"
-  },
-  "ratio_justo": 1.075,
-  "motivo": "precio normal segun revision (108 % del justo 9300)"
- },
- {
-  "fecha": "2026-11-03T16:27:50.111567+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 1956 Tudor by Rolex Super Rare Early Automatic Stainless Watch ロレックス",
-  "total": 2031.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920101197473",
-  "item_id": "v1|920101197473|0",
-  "triage": {
-   "modelo": "Tudor Oyster Automatic (vintage, años 50, aspecto Oyster Prince)",
-   "referencia": null,
-   "precio_justo_usd": 2000,
-   "interesante": false,
-   "nota": "Precio cercano al mercado para un Tudor vintage automático en buen estado; sin referencia exacta visible, no hay margen claro de compra."
-  },
-  "motivo": "triage: Precio cercano al mercado para un Tudor vintage automático en buen estado; sin referencia exacta visible, no hay margen claro de compra. (justo 2000)"
- },
- {
-  "fecha": "2026-11-03T16:27:50.111567+00:00",
-  "marca": "Rolex",
-  "titulo": "2024 CPO Rolex Submariner Date 116613 LN Ceramic Black 40mm 18K Gold Steel Watch",
-  "total": 13958.18,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960149639209",
-  "item_id": "v1|960149639209|0",
-  "referencia": "116613",
-  "mercado": {
-   "n": 67,
-   "p25": 15200,
-   "mediana": 15950
-  },
-  "ratio_mercado": 0.918,
-  "motivo": "precio normal (92 % del cuartil bajo de 116613)"
- },
- {
-  "fecha": "2026-11-03T16:27:50.111567+00:00",
   "marca": "Tudor",
   "titulo": "2026 Tudor 1926 39mm Stainless Steel M91550-0005",
   "total": 2095.0,
@@ -10978,5 +10920,69 @@
    "nota": "Nuevo con caja y papeles, se vende en mercado gris cerca de 3.200-3.400 USD; el precio pedido de 3.995 USD está por encima del mercado."
   },
   "motivo": "triage: Nuevo con caja y papeles, se vende en mercado gris cerca de 3.200-3.400 USD; el precio pedido de 3.995 USD está por encima del mercado. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-05T21:14:29.428486+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31 mm Steel 18K Yellow Gold Ivory Roman Watch 68273 N Series 1991",
+  "total": 6900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147668172293",
+  "item_id": "v1|147668172293|0",
+  "referencia": "68273",
+  "mercado": {
+   "n": 43,
+   "p25": 8242,
+   "mediana": 8990
+  },
+  "ratio_mercado": 0.837,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 4600,
+   "riesgo_autenticidad": "medio",
+   "estado": "Aspecto bueno en las fotos, sin caja ni papeles, y sin fotos del fondo ni del movimiento"
+  },
+  "motivo": "Claude descarto: A US$6,900 está unos 40 % por encima del valor real de venta cerrada de un 68273 de acero y oro sin caja ni papeles. Esos suelen cerrar entre US$4,200 y 5,200. Los comparables de eBay (mediana 8,990) son precios pedidos e inflados, y no justifican este precio.; No tiene caja ni papeles ni garantía de autenticidad. Esto resta valor frente a un set completo y deja sin respaldo la antigüedad y la originalidad de las piezas."
+ },
+ {
+  "fecha": "2026-11-05T21:14:29.428486+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Date 34 mm White Roman Oyster Steel Automatic Watch 15053 Circa 1985",
+  "total": 4700.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407343031180",
+  "item_id": "v1|407343031180|0",
+  "referencia": "15000",
+  "mercado": {
+   "n": 20,
+   "p25": 5750,
+   "mediana": 5882
+  },
+  "ratio_mercado": 0.817,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 3300,
+   "riesgo_autenticidad": "medio",
+   "estado": "Caja y brazalete con desgaste moderado. Cyclops dañado o despegado, esfera con posibles retoques. Sin caja ni papeles."
+  },
+  "ratio_justo": 1.424,
+  "motivo": "precio normal segun revision (142 % del justo 3300)"
+ },
+ {
+  "fecha": "2026-11-05T21:14:29.428486+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31 Midsize Steel Rose Gold MOP Diamond Ladies Watch 178341",
+  "total": 18790.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257837311906",
+  "item_id": "v1|257837311906|0",
+  "referencia": "178341",
+  "mercado": {
+   "n": 14,
+   "p25": 14495,
+   "mediana": 16258
+  },
+  "ratio_mercado": 1.296,
+  "motivo": "precio normal (130 % del cuartil bajo de 178341)"
  }
 ]
