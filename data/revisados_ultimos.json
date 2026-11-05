@@ -1,57 +1,6 @@
 [
  {
   "fecha": "2026-11-02T22:57:01.419255+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 26mm 2016 MOP Pearl Diamond Fluted Jubilee 179174",
-  "total": 10495.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198766569122",
-  "item_id": "v1|198766569122|0",
-  "referencia": "179174",
-  "mercado": {
-   "n": 63,
-   "p25": 8495,
-   "mediana": 9190
-  },
-  "ratio_mercado": 1.235,
-  "motivo": "precio normal (124 % del cuartil bajo de 179174)"
- },
- {
-  "fecha": "2026-11-02T22:57:01.419255+00:00",
-  "marca": "Rolex",
-  "titulo": "2006 Rolex GMT-Master II 116718LN 40MM Green 18K Yellow Gold D-Serial",
-  "total": 40000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880076746632",
-  "item_id": "v1|880076746632|0",
-  "referencia": "116718LN",
-  "mercado": {
-   "n": 6,
-   "p25": 38999,
-   "mediana": 42950
-  },
-  "ratio_mercado": 1.026,
-  "motivo": "precio normal (103 % del cuartil bajo de 116718LN)"
- },
- {
-  "fecha": "2026-11-02T22:57:01.419255+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Galbée Moonphase — 119901 | Steel & 18K Yellow Gold | Vintage",
-  "total": 7900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128171309196",
-  "item_id": "v1|128171309196|0",
-  "triage": {
-   "modelo": "Cartier Santos Galbée Moonphase, acero y oro amarillo 18K, esfera plateada con numerales romanos y subesfera de fase lunar",
-   "referencia": "119901 (según el título del listado; no verificable en la foto)",
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "Precio pedido de US$7,900 por encima de lo que suele cerrarse para este modelo bimetal en estado Good; la referencia indicada no se puede confirmar con la imagen."
-  },
-  "motivo": "triage: Precio pedido de US$7,900 por encima de lo que suele cerrarse para este modelo bimetal en estado Good; la referencia indicada no se puede confirmar con la imagen. (justo 5000)"
- },
- {
-  "fecha": "2026-11-02T22:57:01.419255+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Roadster XL Chronograph Silver Roman Steel 43mm W62019X6 2618 Box/Apr",
   "total": 5510.0,
@@ -10990,5 +10939,56 @@
    "nota": "Precio pedido de US$3,705 con envío, por encima del valor de venta usado en EE. UU. para este modelo en buen estado (aprox. US$2,600-3,000). No es una oportunidad."
   },
   "motivo": "triage: Precio pedido de US$3,705 con envío, por encima del valor de venta usado en EE. UU. para este modelo en buen estado (aprox. US$2,600-3,000). No es una oportunidad. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-05T14:29:18.863585+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Authentic Ladies Cartier Tank Watch Presentation Box Cartier Gift Bag",
+  "total": 2650.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800880986741",
+  "item_id": "v1|800880986741|0",
+  "triage": {
+   "modelo": "Cartier Tank Must (vermeil, cuarzo, esfera blanca con números romanos)",
+   "referencia": null,
+   "precio_justo_usd": 1000,
+   "interesante": false,
+   "nota": "Precio pedido de US$2650 muy por encima del valor de mercado de un Tank Must de vermeil usado; el titulo menciona caja y bolsa, posible listado enganoso o sobrevalorado."
+  },
+  "motivo": "triage: Precio pedido de US$2650 muy por encima del valor de mercado de un Tank Must de vermeil usado; el titulo menciona caja y bolsa, posible listado enganoso o sobrevalorado. (justo 1000)"
+ },
+ {
+  "fecha": "2026-11-05T14:29:18.863585+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise Automatic Watch Stainless Steel and Yellow Gold 28",
+  "total": 6830.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128176957702",
+  "item_id": "v1|128176957702|0",
+  "triage": {
+   "modelo": "Cartier Tank Française acero y oro amarillo, 28 mm",
+   "referencia": null,
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "Precio pedido de US$6,830 muy por encima del mercado de segunda mano para este modelo bicolor; la referencia exacta no se distingue en la foto."
+  },
+  "motivo": "triage: Precio pedido de US$6,830 muy por encima del mercado de segunda mano para este modelo bicolor; la referencia exacta no se distingue en la foto. (justo 4500)"
+ },
+ {
+  "fecha": "2026-11-05T14:29:18.863585+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu de Cartier Automatic Watch Stainless Steel 36",
+  "total": 4745.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117506247835",
+  "item_id": "v1|117506247835|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu de Cartier Automatic 36 mm, acero",
+   "referencia": "W69012Z4 (probable; no verificable en la imagen)",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "Esfera plateada con números romanos y manecillas azules, en acero con brazalete; precio pedido unos 10 % por encima de la estimación de venta real para estado 'Good' sin confirmar caja y papeles."
+  },
+  "motivo": "triage: Esfera plateada con números romanos y manecillas azules, en acero con brazalete; precio pedido unos 10 % por encima de la estimación de venta real para estado 'Good' sin confirmar caja y papeles. (justo 4300)"
  }
 ]
