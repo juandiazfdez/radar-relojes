@@ -1,209 +1,5 @@
 [
  {
-  "fecha": "2026-11-03T06:12:21.301280+00:00",
-  "marca": "Rolex",
-  "titulo": "1961 Rolex Oyster Perpetual Zephyr 1008 34mm Champagne 14K Gold Steel",
-  "total": 4520.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/128171966844",
-  "item_id": "v1|128171966844|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Zephyr, bicolor acero y oro 14K, esfera champán",
-   "referencia": "1008",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "Precio pedido de 4520 USD por una 1008 de 1961 en estado Fair; el precio justo estimado es ~3800 USD, así que no está 15% por debajo. Verificar esfera y bisel originales."
-  },
-  "motivo": "triage: Precio pedido de 4520 USD por una 1008 de 1961 en estado Fair; el precio justo estimado es ~3800 USD, así que no está 15% por debajo. Verificar esfera y bisel originales. (justo 3800)"
- },
- {
-  "fecha": "2026-11-03T06:12:21.301280+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos 100 W20072X7 Automatic Two Tone Leather Watch",
-  "total": 5800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267831778276",
-  "item_id": "v1|267831778276|0",
-  "triage": {
-   "modelo": "Cartier Santos 100 de dos tonos (acero y oro amarillo), correa de cocodrilo marrón, esfera plateada con números romanos",
-   "referencia": "W20072X7",
-   "precio_justo_usd": 6200,
-   "interesante": false,
-   "nota": "Precio pedido un 6-7 % por debajo de la estimación conservadora; no supera el umbral del 15 %. Sin confirmar caja ni papeles en el listado."
-  },
-  "motivo": "triage: Precio pedido un 6-7 % por debajo de la estimación conservadora; no supera el umbral del 15 %. Sin confirmar caja ni papeles en el listado. (justo 6200)"
- },
- {
-  "fecha": "2026-11-03T06:42:21.447124+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II \"2021 - Pepsi\" 126710BLRO",
-  "total": 25937.44,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336876520268",
-  "item_id": "v1|336876520268|0",
-  "referencia": "126710BLRO",
-  "mercado": {
-   "n": 23,
-   "p25": 24100,
-   "mediana": 24999
-  },
-  "ratio_mercado": 1.076,
-  "motivo": "precio normal (108 % del cuartil bajo de 126710BLRO)"
- },
- {
-  "fecha": "2026-11-03T06:42:21.447124+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 36 \"Candy Pink - 2023\" 126000",
-  "total": 12418.69,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336876520270",
-  "item_id": "v1|336876520270|0",
-  "referencia": "126000",
-  "mercado": {
-   "n": 37,
-   "p25": 10450,
-   "mediana": 12362
-  },
-  "ratio_mercado": 1.188,
-  "motivo": "precio normal (119 % del cuartil bajo de 126000)"
- },
- {
-  "fecha": "2026-11-03T06:42:21.447124+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 31mm Blue Dial, Fluted Jubilee, Stainless Steel (68274)",
-  "total": 7307.29,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/860105162981",
-  "item_id": "v1|860105162981|0",
-  "referencia": "68274",
-  "mercado": {
-   "n": 32,
-   "p25": 8395,
-   "mediana": 9439
-  },
-  "ratio_mercado": 0.87,
-  "motivo": "precio normal (87 % del cuartil bajo de 68274)"
- },
- {
-  "fecha": "2026-11-03T06:42:21.447124+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 68 \"2025\" M7943A1A0NU-0002",
-  "total": 4675.94,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336876520267",
-  "item_id": "v1|336876520267|0",
-  "triage": {
-   "modelo": "Tudor Black Bay (familia Black Bay 58/68, esfera plata, bisel negro, brazalete de acero; identificación visual incierta)",
-   "referencia": "M7943A1A0NU-0002 (según el título)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Reloj nuevo de producción actual; el precio pedido de US$4676 con envío supera el retail y está muy por encima del mercado gris."
-  },
-  "motivo": "triage: Reloj nuevo de producción actual; el precio pedido de US$4676 con envío supera el retail y está muy por encima del mercado gris. (justo 3300)"
- },
- {
-  "fecha": "2026-11-03T07:12:21.393438+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Chrono “Panda” 41mm White Jubilee Bracelet 79360N",
-  "total": 5715.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407335510128",
-  "item_id": "v1|407335510128|0",
-  "referencia": "79360N",
-  "mercado": {
-   "n": 58,
-   "p25": 4675,
-   "mediana": 5339
-  },
-  "ratio_mercado": 1.222,
-  "motivo": "precio normal (122 % del cuartil bajo de 79360N)"
- },
- {
-  "fecha": "2026-11-03T08:27:21.188106+00:00",
-  "marca": "Rolex",
-  "titulo": "Rare 30's Rolex 1st Model Oyster Perpetual Chronometer Bubbleback Solid 18K Gold",
-  "total": 17575.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880078185151",
-  "item_id": "v1|880078185151|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Bubbleback (años 30), caja de oro 18k, esfera negra con numerales arábigos y subesfera de segundos",
-   "referencia": "null (posiblemente 2444 o 2445, no verificable en la foto)",
-   "precio_justo_usd": 14000,
-   "interesante": false,
-   "nota": "Precio pedido por encima de lo que suele cerrarse para un bubbleback de oro en condición Good; la autenticidad y originalidad de la esfera no pueden confirmarse solo con la foto."
-  },
-  "motivo": "triage: Precio pedido por encima de lo que suele cerrarse para un bubbleback de oro en condición Good; la autenticidad y originalidad de la esfera no pueden confirmarse solo con la foto. (justo 14000)"
- },
- {
-  "fecha": "2026-11-03T10:12:21.599645+00:00",
-  "marca": "Rolex",
-  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
-  "total": 16450.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/327437110435",
-  "item_id": "v1|327437110435|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date (bisel negro, acero)",
-   "referencia": "126610LN (probable, no confirmable en la foto)",
-   "precio_justo_usd": 14500,
-   "interesante": false,
-   "nota": "Precio pedido de US$16,450 por encima de la venta real estimada para un 126610LN usado en excelente estado con caja y papeles; referencia no verificable en la imagen."
-  },
-  "motivo": "triage: Precio pedido de US$16,450 por encima de la venta real estimada para un 126610LN usado en excelente estado con caja y papeles; referencia no verificable en la imagen. (justo 14500)"
- },
- {
-  "fecha": "2026-11-03T11:27:36.018350+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex Ladies Watch | Diamonds & Emeralds | Elegant 1920s Design",
-  "total": 5995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327437230958",
-  "item_id": "v1|327437230958|0",
-  "triage": {
-   "modelo": "Rolex de señora en oro 18k con bisel de diamantes y esmeraldas, caja cojín y pulsera de eslabones texturizados (posiblemente de la línea Precision o Cellini, aprox. años 1970)",
-   "referencia": null,
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "El título de '1920s' no es coherente con este diseño ni con Rolex; probablemente sea un reloj de los años 70. Sin referencia visible ni papeles, el precio pedido de 5995 está por encima de lo que se vende realmente."
-  },
-  "motivo": "triage: El título de '1920s' no es coherente con este diseño ni con Rolex; probablemente sea un reloj de los años 70. Sin referencia visible ni papeles, el precio pedido de 5995 está por encima de lo que se vende realmente. (justo 4500)"
- },
- {
-  "fecha": "2026-11-03T12:42:36.094658+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust - BARELY used - only worn ONCE EVER!",
-  "total": 8108.4,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407332160298",
-  "item_id": "v1|407332160298|0",
-  "triage": {
-   "modelo": "Rolex Datejust 41 (esfera azul, bisel acanalado, brazalete Jubilee)",
-   "referencia": "126300 (probable; si el bisel es de oro blanco podría ser 126334)",
-   "precio_justo_usd": 8800,
-   "interesante": false,
-   "nota": "Precio cercano al mercado secundario para acero azul, pero sin ahorro de al menos 15%; verificar referencia, papeles y autenticidad."
-  },
-  "motivo": "triage: Precio cercano al mercado secundario para acero azul, pero sin ahorro de al menos 15%; verificar referencia, papeles y autenticidad. (justo 8800)"
- },
- {
-  "fecha": "2026-11-03T13:42:35.767012+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay GMT \"Pepsi\"  M79830RB-0001",
-  "total": 3549.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407336430605",
-  "item_id": "v1|407336430605|0",
-  "referencia": "M79830RB-0001",
-  "mercado": {
-   "n": 18,
-   "p25": 4000,
-   "mediana": 4240
-  },
-  "ratio_mercado": 0.887,
-  "motivo": "precio normal (89 % del cuartil bajo de M79830RB-0001)"
- },
- {
   "fecha": "2026-11-03T14:12:35.907292+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Sea-Dweller 116660 Silver Oyster Bracelet with Papers 2008",
@@ -10946,5 +10742,221 @@
    "nota": "El título dice Cartier Cougar, pero la foto muestra un reloj de caja redonda con bisel estriado, índices romanos y brazalete integrado que no corresponde al Cougar. Listado posiblemente engañoso; aunque fuera un Cougar de cuarzo, US$3.707 estaría muy por encima de su precio de venta real."
   },
   "motivo": "triage: El título dice Cartier Cougar, pero la foto muestra un reloj de caja redonda con bisel estriado, índices romanos y brazalete integrado que no corresponde al Cougar. Listado posiblemente engañoso; aunque fuera un Cougar de cuarzo, US$3.707 estaría muy por encima de su precio de venta real. (justo 450)"
+ },
+ {
+  "fecha": "2026-11-05T15:59:19.428032+00:00",
+  "marca": "Rolex",
+  "titulo": "Preowned Rolex Oyster Perpetual 34mm Air-King Mother of Pearl Diamond",
+  "total": 3235.05,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237165496567",
+  "item_id": "v1|237165496567|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual 34mm con bisel de diamantes y esfera de nácar rosa (el título dice Air-King, pero la imagen no encaja con ese modelo)",
+   "referencia": null,
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "El Air-King no suele llevar bisel de diamantes; la foto es de baja resolución y no muestra la corona ni el grabado. Autenticidad y referencia sin confirmar, así que no es una oportunidad clara."
+  },
+  "motivo": "triage: El Air-King no suele llevar bisel de diamantes; la foto es de baja resolución y no muestra la corona ni el grabado. Autenticidad y referencia sin confirmar, así que no es una oportunidad clara. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-05T15:59:19.428032+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II  \"2017 - Batman\" 116710BLNR",
+  "total": 17285.44,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237165490241",
+  "item_id": "v1|237165490241|0",
+  "referencia": "116710BLNR",
+  "mercado": {
+   "n": 44,
+   "p25": 15999,
+   "mediana": 16850
+  },
+  "ratio_mercado": 1.08,
+  "motivo": "precio normal (108 % del cuartil bajo de 116710BLNR)"
+ },
+ {
+  "fecha": "2026-11-05T15:59:19.428032+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41 \"2024 - Wimbledon\" 126300",
+  "total": 11986.09,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237165485850",
+  "item_id": "v1|237165485850|0",
+  "referencia": "126300",
+  "mercado": {
+   "n": 22,
+   "p25": 9850,
+   "mediana": 10314
+  },
+  "ratio_mercado": 1.217,
+  "motivo": "precio normal (122 % del cuartil bajo de 126300)"
+ },
+ {
+  "fecha": "2026-11-05T15:59:19.428032+00:00",
+  "marca": "Rolex",
+  "titulo": "2010 Rolex Cosmograph Daytona 116520 40mm Steel Chronograph Complete Set B&P",
+  "total": 23999.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960158186669",
+  "item_id": "v1|960158186669|0",
+  "referencia": "116520",
+  "mercado": {
+   "n": 22,
+   "p25": 22000,
+   "mediana": 23627
+  },
+  "ratio_mercado": 1.091,
+  "motivo": "precio normal (109 % del cuartil bajo de 116520)"
+ },
+ {
+  "fecha": "2026-11-05T15:59:19.428032+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer 40 \"2024\" 224270",
+  "total": 10688.29,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336881565883",
+  "item_id": "v1|336881565883|0",
+  "referencia": "224270",
+  "mercado": {
+   "n": 20,
+   "p25": 9674,
+   "mediana": 9910
+  },
+  "ratio_mercado": 1.105,
+  "motivo": "precio normal (110 % del cuartil bajo de 224270)"
+ },
+ {
+  "fecha": "2026-11-05T15:59:19.428032+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer I \"2026 CPO\" 114270",
+  "total": 8633.44,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237165482708",
+  "item_id": "v1|237165482708|0",
+  "referencia": "114270",
+  "mercado": {
+   "n": 8,
+   "p25": 6990,
+   "mediana": 7356
+  },
+  "ratio_mercado": 1.235,
+  "motivo": "precio normal (124 % del cuartil bajo de 114270)"
+ },
+ {
+  "fecha": "2026-11-05T15:59:19.428032+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36mm Two-Tone Natural Diamond Watch Solid-Link Jubilee Bracelet",
+  "total": 18042.95,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117506395092",
+  "item_id": "v1|117506395092|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 bicolor (acero y oro) con bisel de diamantes, esfera champán con marcadores de diamante y brazalete Jubilee",
+   "referencia": null,
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "La foto muestra un bisel muy engastado que parece modificación posterior o aftermarket, lo que reduce el valor frente a un diamond-set de fábrica. Sin referencia verificable ni autenticidad confirmada, el precio pedido no está 15 % por debajo del mercado."
+  },
+  "motivo": "triage: La foto muestra un bisel muy engastado que parece modificación posterior o aftermarket, lo que reduce el valor frente a un diamond-set de fábrica. Sin referencia verificable ni autenticidad confirmada, el precio pedido no está 15 % por debajo del mercado. (justo 14000)"
+ },
+ {
+  "fecha": "2026-11-05T15:59:19.428032+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer II BLACK Red Stainless Steel NO-HOLES 40mm Automatic Oyster 16570",
+  "total": 8042.54,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267834463516",
+  "item_id": "v1|267834463516|0",
+  "referencia": "16570",
+  "mercado": {
+   "n": 38,
+   "p25": 8495,
+   "mediana": 8990
+  },
+  "ratio_mercado": 0.947,
+  "motivo": "precio normal (95 % del cuartil bajo de 16570)"
+ },
+ {
+  "fecha": "2026-11-05T15:59:19.428032+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster Chronograph W6206020 Box & papers",
+  "total": 5999.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336881581658",
+  "item_id": "v1|336881581658|0",
+  "referencia": "W6206020",
+  "mercado": {
+   "n": 1,
+   "p25": 4199,
+   "mediana": 4199
+  },
+  "triage": {
+   "modelo": "Cartier Roadster Chronograph (acero, esfera blanca, correa de caucho negra)",
+   "referencia": "W6206020",
+   "precio_justo_usd": 4200,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta cerrada para esta referencia de acero de segunda mano; no cumple el descuento del 15 %."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta cerrada para esta referencia de acero de segunda mano; no cumple el descuento del 15 %. (justo 4200)"
+ },
+ {
+  "fecha": "2026-11-05T15:59:19.428032+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 41 \"2025\" 7941A1A0NU",
+  "total": 4785.14,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237165482003",
+  "item_id": "v1|237165482003|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 41 (esfera negra, brazalete de acero)",
+   "referencia": "M7941A1A0NU",
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Precio pedido de US$4785 por encima del retail (~US$3975) y del mercado gris actual; estimo US$3100 para usado en buen estado."
+  },
+  "motivo": "triage: Precio pedido de US$4785 por encima del retail (~US$3975) y del mercado gris actual; estimo US$3100 para usado en buen estado. (justo 3100)"
+ },
+ {
+  "fecha": "2026-11-05T15:59:19.428032+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor 1926 Luna \"2026 - Champagne\" M91560-0001",
+  "total": 2710.34,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336881564318",
+  "item_id": "v1|336881564318|0",
+  "referencia": "M91560-0001",
+  "mercado": {
+   "n": 3,
+   "p25": 2000,
+   "mediana": 2730
+  },
+  "triage": {
+   "modelo": "Tudor 1926 Moon (esfera champagne, fase lunar, brazalete de acero tipo Jubilee)",
+   "referencia": "M91560-0001 (no verificada; confirmar con el número de serie y la caja)",
+   "precio_justo_usd": 2900,
+   "interesante": false,
+   "nota": "Modelo de producción reciente con fase lunar; el precio pedido está solo ~7% bajo una estimación conservadora de venta cerrada y no supera el umbral del 15%."
+  },
+  "motivo": "triage: Modelo de producción reciente con fase lunar; el precio pedido está solo ~7% bajo una estimación conservadora de venta cerrada y no supera el umbral del 15%. (justo 2900)"
+ },
+ {
+  "fecha": "2026-11-05T15:59:19.428032+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Royal \"2026 - 36mm - Green\" 2836C1A0-0103",
+  "total": 3365.54,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237165480764",
+  "item_id": "v1|237165480764|0",
+  "triage": {
+   "modelo": "Tudor Royal, esfera verde, brazalete de acero (pulsera tipo Jubilee)",
+   "referencia": null,
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "La referencia del título no es verificable (la cadena parece un código de calibre 2836); el precio pedido está unos 8 % por encima de un valor de mercado conservador para un Royal de acero usado de este tipo."
+  },
+  "motivo": "triage: La referencia del título no es verificable (la cadena parece un código de calibre 2836); el precio pedido está unos 8 % por encima de un valor de mercado conservador para un Royal de acero usado de este tipo. (justo 3100)"
  }
 ]
