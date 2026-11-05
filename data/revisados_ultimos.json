@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-02T21:42:00.965197+00:00",
-  "marca": "Cartier",
-  "titulo": "2023 Cartier Ballon Bleu de Cartier Complete Set",
-  "total": 5700.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840086084860",
-  "item_id": "v1|840086084860|0",
-  "triage": {
-   "modelo": "Cartier Ballon Bleu de Cartier de acero (esfera plateada, numerales romanos, ventanilla de fecha)",
-   "referencia": null,
-   "precio_justo_usd": 5300,
-   "interesante": false,
-   "nota": "Reloj de acero de produccion reciente (2023) con caja y papeles; el precio pedido de US$5,700 esta por encima de la venta real estimada. La referencia exacta no se puede confirmar desde la foto."
-  },
-  "motivo": "triage: Reloj de acero de produccion reciente (2023) con caja y papeles; el precio pedido de US$5,700 esta por encima de la venta real estimada. La referencia exacta no se puede confirmar desde la foto. (justo 5300)"
- },
- {
   "fecha": "2026-11-02T21:57:01.162160+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust II - Ref. 116333 - 41mm Stainless Steel & Yellow Gold",
@@ -11020,5 +11003,22 @@
   },
   "ratio_mercado": 0.976,
   "motivo": "precio normal (98 % del cuartil bajo de 126610LN)"
+ },
+ {
+  "fecha": "2026-11-05T08:13:56.154921+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 126610LV \"Starbucks\" MK2 Box + Papers",
+  "total": 15900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137904146949",
+  "item_id": "v1|137904146949|0",
+  "referencia": "126610LV",
+  "mercado": {
+   "n": 76,
+   "p25": 15500,
+   "mediana": 16000
+  },
+  "ratio_mercado": 1.026,
+  "motivo": "precio normal (103 % del cuartil bajo de 126610LV)"
  }
 ]
