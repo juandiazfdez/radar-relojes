@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-02T20:57:01.401945+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Ref 1601 Datejust 36mm 18k SS Mens Vintage 1970s Automatic RA790",
-  "total": 8300.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267831386094",
-  "item_id": "v1|267831386094|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36mm acero y oro blanco de 18k (bisel acanalado), años 1970, esfera negra con índices de barra, correa de cuero rojo no original",
-   "referencia": "1601",
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "Precio pedido de US$8,300 muy por encima del valor de venta cerrada para esta referencia en buen estado; la correa roja no es original y reduce algo el valor."
-  },
-  "motivo": "triage: Precio pedido de US$8,300 muy por encima del valor de venta cerrada para esta referencia en buen estado; la correa roja no es original y reduce algo el valor. (justo 4500)"
- },
- {
-  "fecha": "2026-11-02T20:57:01.401945+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Explorer II 216570 Polar 42mm Stainless Steel Oyster Watch",
-  "total": 9999.95,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137896064159",
-  "item_id": "v1|137896064159|0",
-  "referencia": "216570",
-  "mercado": {
-   "n": 14,
-   "p25": 9572,
-   "mediana": 9872
-  },
-  "ratio_mercado": 1.045,
-  "motivo": "precio normal (104 % del cuartil bajo de 216570)"
- },
- {
-  "fecha": "2026-11-02T20:57:01.401945+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 68273 Oyster Perpetual Two Tone Jubilee Black 31mm Women's Watch",
-  "total": 7299.95,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147662717282",
-  "item_id": "v1|147662717282|0",
-  "referencia": "68273",
-  "mercado": {
-   "n": 42,
-   "p25": 8395,
-   "mediana": 8992
-  },
-  "ratio_mercado": 0.87,
-  "motivo": "precio normal (87 % del cuartil bajo de 68273)"
- },
- {
   "fecha": "2026-11-02T21:12:00.974858+00:00",
   "marca": "Rolex",
   "titulo": "Vintage 1976 Rolex Ladies OP Date 6916 Steel Blue Tropical Tiffany Auto 26mm",
@@ -11038,5 +10987,62 @@
    "nota": "Sin funcionar y sin marca visible en la imagen; aunque tuviera firma Rolex, el precio pedido de US$1204 supera con creces lo que se paga por una pieza así en estado de piezas."
   },
   "motivo": "triage: Sin funcionar y sin marca visible en la imagen; aunque tuviera firma Rolex, el precio pedido de US$1204 supera con creces lo que se paga por una pieza así en estado de piezas. (justo 400)"
+ },
+ {
+  "fecha": "2026-11-05T03:13:55.974244+00:00",
+  "marca": "Rolex",
+  "titulo": "eLive- Rolex GMT-Master II Rootbeer Two Tone Oyster Bracelet 126711CHNR",
+  "total": 1.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/128175969895",
+  "item_id": "v1|128175969895|0",
+  "referencia": "126711CHNR",
+  "mercado": {
+   "n": 25,
+   "p25": 23445,
+   "mediana": 23750
+  },
+  "ratio_mercado": 0.0,
+  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
+ },
+ {
+  "fecha": "2026-11-05T03:13:55.974244+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 GMT, 39 mm, reference M7939G1A0NRU-0001 box and papers",
+  "total": 4200.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820317937184",
+  "item_id": "v1|820317937184|0",
+  "triage": {
+   "modelo": "Tudor Black Bay GMT (bisel rojo/negro, esfera negra, brazalete de acero)",
+   "referencia": "M7939G1A0NRU-0001 (según el título; no verificable en la foto)",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "Precio pedido en línea con el mercado de segunda mano para esta referencia con caja y papeles; no alcanza el 15 % de descuento. Verificar referencia y autenticidad en persona."
+  },
+  "motivo": "triage: Precio pedido en línea con el mercado de segunda mano para esta referencia con caja y papeles; no alcanza el 15 % de descuento. Verificar referencia y autenticidad en persona. (justo 4300)"
+ },
+ {
+  "fecha": "2026-11-05T03:13:55.974244+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 54 79000B 37mm Blue - Full set",
+  "total": 3803.2,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900066646006",
+  "item_id": "v1|900066646006|0",
+  "referencia": "79000B",
+  "mercado": {
+   "n": 3,
+   "p25": 3795,
+   "mediana": 3950
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 54 37mm azul (acero)",
+   "referencia": "79000B (según título; no verificable en la imagen)",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Precio pedido cercano a retail; el mercado secundario de esta referencia ronda 3000-3300 USD. No cumple el umbral del 15%."
+  },
+  "motivo": "triage: Precio pedido cercano a retail; el mercado secundario de esta referencia ronda 3000-3300 USD. No cumple el umbral del 15%. (justo 3200)"
  }
 ]
