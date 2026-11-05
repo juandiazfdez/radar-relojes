@@ -1,108 +1,5 @@
 [
  {
-  "fecha": "2026-11-02T20:27:00.830959+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu - Ref. WE902031 - 36mm Stainless Steel",
-  "total": 6300.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287700036077",
-  "item_id": "v1|287700036077|0",
-  "referencia": "WE902031",
-  "mercado": {
-   "n": 2,
-   "p25": 6800,
-   "mediana": 7345
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 36mm (bicolor acero y oro, esfera plateada con números romanos)",
-   "referencia": "WE902031 (según el título; no verificable en la foto)",
-   "precio_justo_usd": 5800,
-   "interesante": false,
-   "nota": "El título dice acero inoxidable, pero la foto muestra bicolor con corona dorada, así que la descripción no coincide. Con bicolor el precio pedido de US$6300 no está 15 % por debajo del mercado; verificar material, papeles y autenticidad."
-  },
-  "motivo": "triage: El título dice acero inoxidable, pero la foto muestra bicolor con corona dorada, así que la descripción no coincide. Con bicolor el precio pedido de US$6300 no está 15 % por debajo del mercado; verificar material, papeles y autenticidad. (justo 5800)"
- },
- {
-  "fecha": "2026-11-02T20:27:00.830959+00:00",
-  "marca": "Cartier",
-  "titulo": "2026 CARTIER Ref 4075 WSA0016 Santos Medium 18K Yellow Gold Steel BOX PAPER",
-  "total": 11995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227594530551",
-  "item_id": "v1|227594530551|0",
-  "referencia": "WSA0016",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Santos de Cartier Medium bicolor (acero y oro amarillo 18k), con esfera clara y números romanos, con caja y tarjeta de garantía",
-   "referencia": "WSSA0016 (la ref. 4075 del título parece un código interno de caja; no lo verifiqué)",
-   "precio_justo_usd": 6800,
-   "interesante": false,
-   "nota": "El precio pedido de US$11,995 supera el retail actual de este modelo, y un usado 'Good' con caja y papeles se vende bastante por debajo del mercado gris."
-  },
-  "motivo": "triage: El precio pedido de US$11,995 supera el retail actual de este modelo, y un usado 'Good' con caja y papeles se vende bastante por debajo del mercado gris. (justo 6800)"
- },
- {
-  "fecha": "2026-11-02T20:42:01.789370+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Ref 1625 Turn-O-Graph Thunderbird 14k SS Mens 1960s 36mm Automatic RA759C",
-  "total": 8460.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257830763742",
-  "item_id": "v1|257830763742|0",
-  "triage": {
-   "modelo": "Rolex Datejust Turn-O-Graph (Thunderbird), acero y oro amarillo 14k, esfera champán",
-   "referencia": "1625",
-   "precio_justo_usd": 6800,
-   "interesante": false,
-   "nota": "Ref. 1625 de los años 60-70 en acero/oro con bisel Turn-O-Graph; el precio pedido de US$8.460 con envío está por encima del rango de venta real para su estado 'Good', sin caja ni papeles."
-  },
-  "motivo": "triage: Ref. 1625 de los años 60-70 en acero/oro con bisel Turn-O-Graph; el precio pedido de US$8.460 con envío está por encima del rango de venta real para su estado 'Good', sin caja ni papeles. (justo 6800)"
- },
- {
-  "fecha": "2026-11-02T20:42:01.789370+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Ref 6580 Mens 34mm 14k Gold SS 1950s Vintage Automatic RA786",
-  "total": 8800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940060648609",
-  "item_id": "v1|940060648609|0",
-  "referencia": "6580",
-  "mercado": {
-   "n": 2,
-   "p25": 5700,
-   "mediana": 5970
-  },
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual bimetal (acero con bisel de oro 14k), años 1950",
-   "referencia": "6580",
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "Precio pedido de US$8,800 muy por encima de lo que se vende este vintage bimetal en EE. UU.; la referencia y el estado no justifican ese precio."
-  },
-  "motivo": "triage: Precio pedido de US$8,800 muy por encima de lo que se vende este vintage bimetal en EE. UU.; la referencia y el estado no justifican ese precio. (justo 5000)"
- },
- {
-  "fecha": "2026-11-02T20:42:01.789370+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Ref 1007 18k Solid Gold Mens 1970s 34mm Automatic RA797",
-  "total": 14900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257830762901",
-  "item_id": "v1|257830762901|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual 18k oro amarillo, bisel acanalado, esfera plateada con índices de bastón",
-   "referencia": "1007",
-   "precio_justo_usd": 8000,
-   "interesante": false,
-   "nota": "Ref. 1007 de los años 70 en oro de 18k, estado bueno; el precio pedido de US$14,900 está muy por encima de las ventas cerradas actuales."
-  },
-  "motivo": "triage: Ref. 1007 de los años 70 en oro de 18k, estado bueno; el precio pedido de US$14,900 está muy por encima de las ventas cerradas actuales. (justo 8000)"
- },
- {
   "fecha": "2026-11-02T20:42:01.789370+00:00",
   "marca": "Rolex",
   "titulo": "Rolex 1002 Oyster Perpetual 14k Gold Mens 34mm 1960s Vintage Automatic RA796",
@@ -11050,5 +10947,96 @@
    "nota": "Precio pedido de US$3,300 muy por encima del valor de venta cerrada de esta referencia de acero usada, incluso con caja y papeles."
   },
   "motivo": "triage: Precio pedido de US$3,300 muy por encima del valor de venta cerrada de esta referencia de acero usada, incluso con caja y papeles. (justo 2000)"
+ },
+ {
+  "fecha": "2026-11-05T00:28:42.948954+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 18k Yellow Gold President Lady-Datejust 26mm Automatic Watch",
+  "total": 12006.75,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117505116280",
+  "item_id": "v1|117505116280|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust President 26 mm en oro amarillo de 18k, bisel acanalado, esfera champán",
+   "referencia": "69178",
+   "precio_justo_usd": 9500,
+   "interesante": false,
+   "nota": "El precio pedido de US$12.007 supera el valor de venta cerrada de esta referencia en condición usada, por lo que no representa una oportunidad."
+  },
+  "motivo": "triage: El precio pedido de US$12.007 supera el valor de venta cerrada de esta referencia en condición usada, por lo que no representa una oportunidad. (justo 9500)"
+ },
+ {
+  "fecha": "2026-11-05T00:28:42.948954+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier 18k White Gold Diamond Tank Américaine Women’s Watch",
+  "total": 18006.75,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117505116240",
+  "item_id": "v1|117505116240|0",
+  "triage": {
+   "modelo": "Cartier Tank Américaine de oro blanco 18k con bisel de diamantes (esfera plateada guilloché, números romanos, brazalete integrado)",
+   "referencia": null,
+   "precio_justo_usd": 12000,
+   "interesante": false,
+   "nota": "La referencia no es verificable en la foto; el precio pedido de US$18,007 supera con holgura lo que este modelo de oro blanco con diamantes se vende realmente en EE. UU."
+  },
+  "motivo": "triage: La referencia no es verificable en la foto; el precio pedido de US$18,007 supera con holgura lo que este modelo de oro blanco con diamantes se vende realmente en EE. UU. (justo 12000)"
+ },
+ {
+  "fecha": "2026-11-05T00:28:42.948954+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Royal 40mm Stainless Steel M2840D1A0-0002",
+  "total": 3495.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880083794130",
+  "item_id": "v1|880083794130|0",
+  "triage": {
+   "modelo": "Tudor Royal (esfera azul, bisel pulido, brazalete de acero)",
+   "referencia": null,
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "El precio pedido supera la estimación de mercado gris para un Royal nuevo; la referencia del título (M2840D1A0-0002) no coincide con el formato habitual de Tudor y conviene verificarla."
+  },
+  "motivo": "triage: El precio pedido supera la estimación de mercado gris para un Royal nuevo; la referencia del título (M2840D1A0-0002) no coincide con el formato habitual de Tudor y conviene verificarla. (justo 3100)"
+ },
+ {
+  "fecha": "2026-11-05T00:28:42.948954+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 Blue 79030B – Discontinued – Full Set – Tudor Serviced",
+  "total": 3545.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147666910774",
+  "item_id": "v1|147666910774|0",
+  "referencia": "79030B",
+  "mercado": {
+   "n": 16,
+   "p25": 3495,
+   "mediana": 3545
+  },
+  "ratio_mercado": 1.014,
+  "motivo": "precio normal (101 % del cuartil bajo de 79030B)"
+ },
+ {
+  "fecha": "2026-11-05T00:28:42.948954+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 41mm Stainless Steel/Yellow Gold M79733N-0004",
+  "total": 5495.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880083785701",
+  "item_id": "v1|880083785701|0",
+  "referencia": "M79733N-0004",
+  "mercado": {
+   "n": 1,
+   "p25": 6170,
+   "mediana": 6170
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay S&G (acero y oro amarillo, bisel negro, esfera dorada)",
+   "referencia": "M79733N-0004 (según el listado; la foto parece corresponder más a la línea Black Bay 58 S&G)",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del mercado secundario para un modelo actual nuevo con caja y papeles; además, el tamaño del listado (41 mm) podría no coincidir con lo que se ve en la foto."
+  },
+  "motivo": "triage: Precio pedido muy por encima del mercado secundario para un modelo actual nuevo con caja y papeles; además, el tamaño del listado (41 mm) podría no coincidir con lo que se ve en la foto. (justo 3800)"
  }
 ]
