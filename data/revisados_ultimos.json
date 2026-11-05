@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-03T21:27:56.869641+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay GMT M79830RB-0010 \"Pepsi\" Opaline",
-  "total": 4400.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198769335952",
-  "item_id": "v1|198769335952|0",
-  "referencia": "M79830RB-0010",
-  "mercado": {
-   "n": 18,
-   "p25": 4000,
-   "mediana": 4240
-  },
-  "ratio_mercado": 1.1,
-  "motivo": "precio normal (110 % del cuartil bajo de M79830RB-0010)"
- },
- {
   "fecha": "2026-11-03T21:42:52.588529+00:00",
   "marca": "Rolex",
   "titulo": "2026 NEW PAPERS Rolex 126720VTNR GMT-Master II Sprite Green Black Oyster Steel",
@@ -10983,5 +10966,22 @@
    "nota": "Precio pedido ~9 % bajo estimación de venta cerrada para un 2025 completo; no llega al umbral del 15 %. La foto muestra caja casi toda negra con correa de cuero, así que conviene verificar que coincida con la referencia del listado."
   },
   "motivo": "triage: Precio pedido ~9 % bajo estimación de venta cerrada para un 2025 completo; no llega al umbral del 15 %. La foto muestra caja casi toda negra con correa de cuero, así que conviene verificar que coincida con la referencia del listado. (justo 3900)"
+ },
+ {
+  "fecha": "2026-11-05T23:59:28.630063+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 26mm 2010 Rose Pink Sundust Index Fluted Jubilee 179171",
+  "total": 10395.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198775869306",
+  "item_id": "v1|198775869306|0",
+  "referencia": "179171",
+  "mercado": {
+   "n": 21,
+   "p25": 10649,
+   "mediana": 11495
+  },
+  "ratio_mercado": 0.976,
+  "motivo": "precio normal (98 % del cuartil bajo de 179171)"
  }
 ]
