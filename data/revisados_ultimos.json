@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-02T20:42:01.789370+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Ref 6564 All Original Mens 1950s 34mm Automatic RA794",
-  "total": 7900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257830760776",
-  "item_id": "v1|257830760776|0",
-  "referencia": "6564",
-  "mercado": {
-   "n": 19,
-   "p25": 4033,
-   "mediana": 4500
-  },
-  "ratio_mercado": 1.959,
-  "motivo": "precio normal (196 % del cuartil bajo de 6564)"
- },
- {
-  "fecha": "2026-11-02T20:42:01.789370+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Precision Men's Watch 1950's Swiss Mechanical 14k Gold Case 34mm",
-  "total": 7699.95,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198765991633",
-  "item_id": "v1|198765991633|0",
-  "triage": {
-   "modelo": "Rolex Oyster Precision (años 1950, caja de oro)",
-   "referencia": null,
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor estimado; la referencia exacta no se distingue en la foto y el oro de la caja (14k vs. chapado) hay que verificarlo."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor estimado; la referencia exacta no se distingue en la foto y el oro de la caja (14k vs. chapado) hay que verificarlo. (justo 3000)"
- },
- {
-  "fecha": "2026-11-02T20:42:01.789370+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Ref 1510 Oyster Perpetual Date Mens 35mm 1980s Vintage Automatic RA753C",
   "total": 6900.0,
   "condicion": "Pre-owned - Good",
@@ -11038,5 +11004,39 @@
    "nota": "La imagen muestra una Tank de caja plateada y esfera blanca con números romanos, probablemente Must de Cartier de cuarzo. La referencia 681006 del título no pude confirmarla. Pedido de US$2000 muy por encima del valor de venta de este modelo."
   },
   "motivo": "triage: La imagen muestra una Tank de caja plateada y esfera blanca con números romanos, probablemente Must de Cartier de cuarzo. La referencia 681006 del título no pude confirmarla. Pedido de US$2000 muy por encima del valor de venta de este modelo. (justo 850)"
+ },
+ {
+  "fecha": "2026-11-05T01:13:43.537159+00:00",
+  "marca": "Rolex",
+  "titulo": "2002 Rolex Explorer 114270 with Papers & Rolex Service Card",
+  "total": 7950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137903371071",
+  "item_id": "v1|137903371071|0",
+  "referencia": "114270",
+  "mercado": {
+   "n": 8,
+   "p25": 6990,
+   "mediana": 7356
+  },
+  "ratio_mercado": 1.137,
+  "motivo": "precio normal (114 % del cuartil bajo de 114270)"
+ },
+ {
+  "fecha": "2026-11-05T01:13:43.537159+00:00",
+  "marca": "Rolex",
+  "titulo": "2021 Rolex GMT-Master II 40mm Steel Jubilee “Batgirl” Black & Blue 126710BLNR FS",
+  "total": 19249.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257835538523",
+  "item_id": "v1|257835538523|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 67,
+   "p25": 18200,
+   "mediana": 18900
+  },
+  "ratio_mercado": 1.058,
+  "motivo": "precio normal (106 % del cuartil bajo de 126710BLNR)"
  }
 ]
