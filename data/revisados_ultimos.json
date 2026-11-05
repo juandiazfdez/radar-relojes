@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-02T20:42:01.789370+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex 1002 Oyster Perpetual 14k Gold Mens 34mm 1960s Vintage Automatic RA796",
-  "total": 13900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940060647246",
-  "item_id": "v1|940060647246|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual 34 mm en oro amarillo, esfera champán con índices de bastón (vintage, aprox. años 60)",
-   "referencia": "1002",
-   "precio_justo_usd": 6000,
-   "interesante": false,
-   "nota": "Ref. 1002 en oro amarillo, estado Good; el precio pedido de US$13.900 está muy por encima de lo que se vende realmente, aunque la referencia es buscada."
-  },
-  "motivo": "triage: Ref. 1002 en oro amarillo, estado Good; el precio pedido de US$13.900 está muy por encima de lo que se vende realmente, aunque la referencia es buscada. (justo 6000)"
- },
- {
-  "fecha": "2026-11-02T20:42:01.789370+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Oyster Precision Ref 14000 1990s Mens Air King 34m Automatic RA795",
   "total": 7900.0,
   "condicion": "Pre-owned - Good",
@@ -11038,5 +11021,22 @@
    "nota": "Precio pedido muy por encima del mercado secundario para un modelo actual nuevo con caja y papeles; además, el tamaño del listado (41 mm) podría no coincidir con lo que se ve en la foto."
   },
   "motivo": "triage: Precio pedido muy por encima del mercado secundario para un modelo actual nuevo con caja y papeles; además, el tamaño del listado (41 mm) podría no coincidir con lo que se ve en la foto. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-05T00:43:43.481534+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona 116509-0071 Blue",
+  "total": 44450.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147666923758",
+  "item_id": "v1|147666923758|0",
+  "referencia": "116509",
+  "mercado": {
+   "n": 16,
+   "p25": 39990,
+   "mediana": 41469
+  },
+  "ratio_mercado": 1.112,
+  "motivo": "precio normal (111 % del cuartil bajo de 116509)"
  }
 ]
