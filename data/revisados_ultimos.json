@@ -2,63 +2,6 @@
  {
   "fecha": "2026-11-02T20:57:01.401945+00:00",
   "marca": "Rolex",
-  "titulo": "2022 Rolex Daytona | Ref. 116500",
-  "total": 28080.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267831396528",
-  "item_id": "v1|267831396528|0",
-  "referencia": "116500",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Daytona (acero, bisel cerámica negra, esfera negra)",
-   "referencia": "116500LN",
-   "precio_justo_usd": 27000,
-   "interesante": false,
-   "nota": "Precio cercano al mercado secundario para un 116500LN de 2022 en estado Good; no hay descuento de al menos 15%. Verificar autenticidad, caja y papeles."
-  },
-  "motivo": "triage: Precio cercano al mercado secundario para un 116500LN de 2022 en estado Good; no hay descuento de al menos 15%. Verificar autenticidad, caja y papeles. (justo 27000)"
- },
- {
-  "fecha": "2026-11-02T20:57:01.401945+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Precision Ref 14000 Mens Air King 34m Automatic 1990s RA795B",
-  "total": 7400.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940060653452",
-  "item_id": "v1|940060653452|0",
-  "referencia": "14000",
-  "mercado": {
-   "n": 27,
-   "p25": 4779,
-   "mediana": 4999
-  },
-  "ratio_mercado": 1.548,
-  "motivo": "precio normal (155 % del cuartil bajo de 14000)"
- },
- {
-  "fecha": "2026-11-02T20:57:01.401945+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Ref 6564 Mens 1950s 34mm Vintage Automatic RA794B",
-  "total": 7200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940060652473",
-  "item_id": "v1|940060652473|0",
-  "referencia": "6564",
-  "mercado": {
-   "n": 19,
-   "p25": 4033,
-   "mediana": 4500
-  },
-  "ratio_mercado": 1.785,
-  "motivo": "precio normal (179 % del cuartil bajo de 6564)"
- },
- {
-  "fecha": "2026-11-02T20:57:01.401945+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual ref 1002 Mens 34mm Vintage 1960s Automatic RA793B",
   "total": 7400.0,
   "condicion": "Pre-owned - Good",
@@ -11038,5 +10981,62 @@
   },
   "ratio_mercado": 1.062,
   "motivo": "precio normal (106 % del cuartil bajo de 79030B-0002)"
+ },
+ {
+  "fecha": "2026-11-05T02:28:42.837607+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer II 16570 Watch Oyster Bracelet Excellent Condition FULL SET!",
+  "total": 9885.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327440261651",
+  "item_id": "v1|327440261651|0",
+  "referencia": "16570",
+  "mercado": {
+   "n": 38,
+   "p25": 8495,
+   "mediana": 8990
+  },
+  "ratio_mercado": 1.164,
+  "motivo": "precio normal (116 % del cuartil bajo de 16570)"
+ },
+ {
+  "fecha": "2026-11-05T02:28:42.837607+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX SUBMARINER DATE 126610 LN 41MM 2026 NEVER WORN!",
+  "total": 16995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128175912806",
+  "item_id": "v1|128175912806|0",
+  "referencia": "126610",
+  "mercado": {
+   "n": 75,
+   "p25": 14468,
+   "mediana": 14898
+  },
+  "ratio_mercado": 1.175,
+  "motivo": "precio normal (117 % del cuartil bajo de 126610)"
+ },
+ {
+  "fecha": "2026-11-05T02:28:42.837607+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 1958 Oyster Perpetual Model #6332",
+  "total": 4600.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198773235727",
+  "item_id": "v1|198773235727|0",
+  "referencia": "6332",
+  "mercado": {
+   "n": 2,
+   "p25": 3500,
+   "mediana": 4070
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual (caja dorada, esfera plateada texturizada, correa de cuero negra no original)",
+   "referencia": "6332",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor estimado; la caja puede ser chapada u oro laminado, lo que reduce mucho el valor frente a oro macizo. Verificar material y estado de la caja en la foto."
+  },
+  "motivo": "triage: Precio pedido por encima del valor estimado; la caja puede ser chapada u oro laminado, lo que reduce mucho el valor frente a oro macizo. Verificar material y estado de la caja en la foto. (justo 3000)"
  }
 ]
