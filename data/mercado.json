@@ -1985,13 +1985,13 @@
   "max": 4767
  },
  "Tudor 79830|usado": {
-  "fecha": "2026-10-28",
+  "fecha": "2026-11-05",
   "consulta": "Tudor 79830",
-  "n": 47,
-  "mediana": 4038,
+  "n": 54,
+  "mediana": 4000,
   "p25": 3800,
   "p75": 4300,
-  "min": 3375,
+  "min": 3250,
   "max": 5625
  },
  "Tudor M79830RB-0003|nuevo": {
@@ -4375,14 +4375,14 @@
   "n": 0
  },
  "Rolex 14270|usado": {
-  "fecha": "2026-10-21",
+  "fecha": "2026-11-05",
   "consulta": "Rolex 14270",
-  "n": 4,
-  "mediana": 7070,
-  "p25": 7045,
-  "p75": 7995,
+  "n": 2,
+  "mediana": 6750,
+  "p25": 6500,
+  "p75": 7000,
   "min": 6500,
-  "max": 7995
+  "max": 7000
  },
  "Cartier WJBB0009|usado": {
   "fecha": "2026-10-21",
@@ -17140,7 +17140,7 @@
   "max": 70999
  },
  "Rolex 116200|usado": {
-  "fecha": "2026-10-30",
+  "fecha": "2026-11-05",
   "consulta": "Rolex 116200",
   "n": 58,
   "mediana": 8879,
@@ -19457,6 +19457,11 @@
  "Tudor M35500|nuevo": {
   "fecha": "2026-11-05",
   "consulta": "Tudor M35500",
+  "n": 0
+ },
+ "Rolex 278285RBR|usado": {
+  "fecha": "2026-11-05",
+  "consulta": "Rolex 278285RBR",
   "n": 0
  }
 }
