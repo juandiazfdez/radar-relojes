@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-02T20:42:01.789370+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Royal 38mm Two-Tone Black. Diamond Set. Model M28600-0005",
-  "total": 3299.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840085931733",
-  "item_id": "v1|840085931733|0",
-  "referencia": "M28600-0005",
-  "mercado": {
-   "n": 5,
-   "p25": 2700,
-   "mediana": 2800
-  },
-  "ratio_mercado": 1.222,
-  "motivo": "precio normal (122 % del cuartil bajo de M28600-0005)"
- },
- {
   "fecha": "2026-11-02T20:57:01.401945+00:00",
   "marca": "Rolex",
   "titulo": "2022 Rolex Daytona | Ref. 116500",
@@ -11038,5 +11021,22 @@
    "nota": "La imagen y el título muestran una gorra, no un reloj Tudor; no hay referencia ni valor de reloj que evaluar."
   },
   "motivo": "triage: La imagen y el título muestran una gorra, no un reloj Tudor; no hay referencia ni valor de reloj que evaluar. (justo 35)"
+ },
+ {
+  "fecha": "2026-11-05T02:13:42.950004+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 Ref: 79030B-0002 Box And Papers",
+  "total": 3710.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900066485654",
+  "item_id": "v1|900066485654|0",
+  "referencia": "79030B-0002",
+  "mercado": {
+   "n": 16,
+   "p25": 3495,
+   "mediana": 3545
+  },
+  "ratio_mercado": 1.062,
+  "motivo": "precio normal (106 % del cuartil bajo de 79030B-0002)"
  }
 ]
