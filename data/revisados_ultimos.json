@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-02T20:42:01.789370+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Ref 1510 Oyster Perpetual Date Mens 35mm 1980s Vintage Automatic RA753C",
-  "total": 6900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257830760384",
-  "item_id": "v1|257830760384|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date, acero, esfera plateada, años 80",
-   "referencia": "1500/1510 (no confirmada en la imagen)",
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "Precio pedido de US$6900 muy por encima del valor de venta cerrada para esta familia de referencias en estado Good, sin caja ni papeles. Verificar referencia exacta y autenticidad antes de cualquier oferta."
-  },
-  "motivo": "triage: Precio pedido de US$6900 muy por encima del valor de venta cerrada para esta familia de referencias en estado Good, sin caja ni papeles. Verificar referencia exacta y autenticidad antes de cualquier oferta. (justo 4500)"
- },
- {
-  "fecha": "2026-11-02T20:42:01.789370+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex GMT-Master II Batman Stainless Steel Black Oyster 40mm 116710BLNR Full Set",
   "total": 15950.0,
   "condicion": "Pre-owned - Excellent",
@@ -11038,5 +11021,22 @@
   },
   "ratio_mercado": 1.058,
   "motivo": "precio normal (106 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-05T01:43:42.802890+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay GMT M79830RB-0001",
+  "total": 4100.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880084006993",
+  "item_id": "v1|880084006993|0",
+  "referencia": "M79830RB-0001",
+  "mercado": {
+   "n": 22,
+   "p25": 3895,
+   "mediana": 4240
+  },
+  "ratio_mercado": 1.053,
+  "motivo": "precio normal (105 % del cuartil bajo de M79830RB-0001)"
  }
 ]
