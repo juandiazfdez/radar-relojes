@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T21:59:28.713988+00:00",
+ "actualizado": "2026-11-05T22:14:28.477281+00:00",
  "ventana_horas": 2.0,
  "marcas": [
   "Rolex",
@@ -7,14 +7,89 @@
   "Tudor"
  ],
  "corrida": {
-  "nuevos_vistos": 6,
+  "nuevos_vistos": 10,
   "descartes": {
+   "triage": 1,
+   "titulo": 6,
    "precio_normal": 1,
-   "titulo": 5
+   "claude": 1
   },
-  "alertas_nuevas": 0,
-  "llamadas_ebay": 4,
+  "alertas_nuevas": 1,
+  "llamadas_ebay": 7,
   "cuota_agotada": false
  },
- "alertas_hoy": []
+ "alertas_hoy": [
+  {
+   "fecha": "2026-11-05T22:14:28.477281+00:00",
+   "marca": "Tudor",
+   "titulo": "Tudor Royal “Day Date” 28600, 41 MM in Great Shape - No Box/ Papers",
+   "precio": 1800.0,
+   "envio": 45.0,
+   "total": 1845.0,
+   "mercado": {
+    "fecha": "2026-11-05",
+    "consulta": "Tudor 28600",
+    "n": 10,
+    "mediana": 2850,
+    "p25": 2800,
+    "p75": 3257,
+    "min": 2570,
+    "max": 3540
+   },
+   "triage": null,
+   "vendedor": "webb3201",
+   "valoraciones": 778,
+   "pct_positivo": "100.0",
+   "url": "https://www.ebay.com/itm/307268764367",
+   "item_id": "v1|307268764367|0",
+   "info": {
+    "departamento": "Men",
+    "referencia": "28600",
+    "modelo_esp": "TUDOR Royal",
+    "caja_mm": "41 mm",
+    "material": "Steel",
+    "ano": "2023",
+    "movimiento": "Mechanical (Automatic)",
+    "caja_original": "Yes",
+    "papeles": "Yes",
+    "condicion": "Pre-owned - Good",
+    "condicion_id": "3000",
+    "condicion_desc": "In great shape with no major issues with bracelet, case or crystal.   Beautiful watch",
+    "garantia_autenticidad": false,
+    "devoluciones": false,
+    "amarillas": [
+     "no box"
+    ],
+    "imagenes": [
+     "https://i.ebayimg.com/images/g/XDkAAeSw5Ntq7Pr8/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/cS0AAeSwdMZq7Pr8/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/L7MAAeSw7LZq7Pr8/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/WxcAAeSw1FBq7Pr8/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/W3AAAeSwhrlq7Pr9/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/V5IAAeSwUxFq7Pr9/s-l1600.jpg"
+    ]
+   },
+   "claude": {
+    "veredicto": "alerta",
+    "modelo": "Tudor Royal Day-Date 28600, 41 mm, acero, esfera azul con números romanos, brazalete de acero (aprox. 2023)",
+    "estado": "Muy buen estado visible, sin golpes ni rayones notorios; solo reloj, sin caja ni papeles",
+    "riesgo_autenticidad": "medio",
+    "completo": false,
+    "razones": [
+     "Las 4 fotos son propias, tomadas en la muñeca junto a una piscina y con distintos ángulos. No son de catálogo ni robadas. Se ven el bisel estriado, la ventana de día y fecha (THURSDAY / 5), la esfera azul con romanos y el brazalete de eslabones.",
+     "La corona, el logo TUDOR GENEVE y el 'SWISS MADE' de la esfera parecen correctos. El broche está firmado TUDOR y tiene buen acabado. No veo señales claras de réplica, esfera repintada ni piezas cambiadas.",
+     "Los reflejos amarillos del bisel y del broche vienen de la arena y el sol. En las fotos 3 y 4 el bisel se ve de acero, coherente con el 28600 (el 28603 es el de acero y oro).",
+     "La esfera tiene un moteado o polvo visible bajo el cristal en la foto 1. Parece menor, pero conviene verlo en persona.",
+     "Faltan fotos del fondo de caja y del movimiento. El anuncio dice 'solid caseback', así que no se puede verificar el número de serie ni el año.",
+     "Hay datos contradictorios. El título y la descripción dicen sin caja ni papeles, pero las especificaciones dicen caja y papeles = Yes. Hay que asumir que no vienen.",
+     "El vendedor no ofrece garantía de autenticidad ni devoluciones. Eso sube el riesgo aunque su historial sea limpio.",
+     "A US$1,845 el precio queda por debajo del mercado. Los comparables piden 2,800-2,850, pero son precios pedidos e inflados. Un 28600 usado de acero y sin caja ni papeles se vende cerrado en unos 2,200-2,400.",
+     "El margen es de unos US$450-500 antes de comisiones y envío. Es una oportunidad razonable si se confirma el número de serie y el fondo de caja antes de pagar."
+    ],
+    "precio_justo_usd": 2300,
+    "precio_reventa_rd_usd": 2750
+   },
+   "ratio_justo": 0.802
+  }
+ ]
 }
