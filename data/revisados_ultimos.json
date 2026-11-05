@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-03T16:42:49.297314+00:00",
-  "marca": "Rolex",
-  "titulo": "2024 CPO Rolex Submariner Date 116610 LV Hulk Green Ceramic Steel 40mm Watch",
-  "total": 19568.69,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267832203717",
-  "item_id": "v1|267832203717|0",
-  "referencia": "116610",
-  "mercado": {
-   "n": 45,
-   "p25": 12499,
-   "mediana": 12695
-  },
-  "ratio_mercado": 1.566,
-  "motivo": "precio normal (157 % del cuartil bajo de 116610)"
- },
- {
-  "fecha": "2026-11-03T16:42:49.297314+00:00",
-  "marca": "Rolex",
-  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
-  "total": 16450.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/327437621799",
-  "item_id": "v1|327437621799|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date (acero, bisel negro)",
-   "referencia": "126610LN (probable, no verificable en la foto)",
-   "precio_justo_usd": 13000,
-   "interesante": false,
-   "nota": "Precio pedido de US$16,450 supera con claridad el valor de venta cerrada de esta referencia con caja y papeles; la foto es pequeña, así que la referencia debe verificarse por número de serie y tarjeta."
-  },
-  "motivo": "triage: Precio pedido de US$16,450 supera con claridad el valor de venta cerrada de esta referencia con caja y papeles; la foto es pequeña, así que la referencia debe verificarse por número de serie y tarjeta. (justo 13000)"
- },
- {
-  "fecha": "2026-11-03T16:57:49.421754+00:00",
-  "marca": "Rolex",
-  "titulo": "2023 Rolex Submariner Date 41 126619 LB Blueberry 18K White Gold Blue Box Papers",
-  "total": 37928.5,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960149714176",
-  "item_id": "v1|960149714176|0",
-  "referencia": "126619",
-  "mercado": {
-   "n": 24,
-   "p25": 38995,
-   "mediana": 40462
-  },
-  "ratio_mercado": 0.973,
-  "motivo": "precio normal (97 % del cuartil bajo de 126619)"
- },
- {
   "fecha": "2026-11-03T16:57:49.421754+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual Date 1550 Gold Shell Cal. 1570 Mens Watch 34mm",
@@ -10984,5 +10933,62 @@
    "nota": "Referencia 56000 de acero con ventana de fecha y día; con caja y papeles se vende alrededor de US$1,800-2,000, así que el precio pedido de US$2,200 está por encima del mercado."
   },
   "motivo": "triage: Referencia 56000 de acero con ventana de fecha y día; con caja y papeles se vende alrededor de US$1,800-2,000, así que el precio pedido de US$2,200 está por encima del mercado. (justo 1900)"
+ },
+ {
+  "fecha": "2026-11-05T21:44:29.027999+00:00",
+  "marca": "Rolex",
+  "titulo": "1965 Rolex Oyster Perpetual 1005 Steel/Yellow Gold 34mm Auto eBay authentic Box",
+  "total": 4200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168839084624",
+  "item_id": "v1|168839084624|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual bicolor (acero y oro amarillo), 34 mm",
+   "referencia": "1005",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio pedido de 4200 USD queda por encima de la venta real estimada para esta referencia bicolor de 1965 en estado bueno, aunque incluye caja original."
+  },
+  "motivo": "triage: Precio pedido de 4200 USD queda por encima de la venta real estimada para esta referencia bicolor de 1965 en estado bueno, aunque incluye caja original. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-05T21:44:29.027999+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu de Cartier Quartz Swiss 3009.  28MM‼️ STEAL DEAL‼️",
+  "total": 2950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198775606561",
+  "item_id": "v1|198775606561|0",
+  "referencia": "3009",
+  "mercado": {
+   "n": 14,
+   "p25": 4025,
+   "mediana": 4330
+  },
+  "ratio_mercado": 0.733,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 2400,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado, desgaste visible en el brazalete; solo reloj, sin caja ni papeles"
+  },
+  "motivo": "Claude descarto: El precio de US$2950 NO es una ganga a pesar del título 'STEAL DEAL'. La mediana de US$4330 de los comparables son precios pedidos e inflados. Los precios de venta cerrada de este 28mm de cuarzo, solo reloj, están más cerca de US$2200-2700.; Sin caja ni papeles, el reloj pierde valor de reventa. Para el margen necesitaría comprarlo claramente por debajo de US$2400."
+ },
+ {
+  "fecha": "2026-11-05T21:44:29.027999+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Heritage Black Bay Steel Automatic 41mm Black Burgundy Watch 79230R",
+  "total": 3950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900068912339",
+  "item_id": "v1|900068912339|0",
+  "referencia": "79230R",
+  "mercado": {
+   "n": 10,
+   "p25": 3295,
+   "mediana": 3348
+  },
+  "ratio_mercado": 1.199,
+  "motivo": "precio normal (120 % del cuartil bajo de 79230R)"
  }
 ]
