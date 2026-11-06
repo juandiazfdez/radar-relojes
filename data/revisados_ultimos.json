@@ -1,63 +1,6 @@
 [
  {
   "fecha": "2026-11-04T00:28:00.771357+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Ladies 26 mm Two Tone Champagne Zephyr Watch 67343 1984",
-  "total": 4900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147665227173",
-  "item_id": "v1|147665227173|0",
-  "referencia": "67343",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Lady 26 mm acero y oro amarillo de 18k, esfera champagne",
-   "referencia": "67343 (según el título; no verificable en la imagen)",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Reloj vintage de los años 80 con estado 'Good'. El precio pedido de US$4,900 está muy por encima de las ventas cerradas de esta referencia en EE. UU."
-  },
-  "motivo": "triage: Reloj vintage de los años 80 con estado 'Good'. El precio pedido de US$4,900 está muy por encima de las ventas cerradas de esta referencia en EE. UU. (justo 3200)"
- },
- {
-  "fecha": "2026-11-04T00:28:00.771357+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Air King Precision 34 mm White Roman Oyster Steel Watch 14000M U Series 97",
-  "total": 5200.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147665222527",
-  "item_id": "v1|147665222527|0",
-  "referencia": "14000M",
-  "mercado": {
-   "n": 8,
-   "p25": 5350,
-   "mediana": 6000
-  },
-  "ratio_mercado": 0.972,
-  "motivo": "precio normal (97 % del cuartil bajo de 14000M)"
- },
- {
-  "fecha": "2026-11-04T00:28:00.771357+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Date 34 mm Two Tone White Roman Oyster Automatic Watch 1505F Circa 1979",
-  "total": 4590.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800873399056",
-  "item_id": "v1|800873399056|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date, bicolor acero y oro amarillo, bisel acanalado, esfera blanca con numerales romanos",
-   "referencia": "1505",
-   "precio_justo_usd": 4700,
-   "interesante": false,
-   "nota": "Precio cercano al mercado para un 1505 bicolor de 1979 en buen estado; no cumple el descuento del 15 %. Conviene verificar la referencia exacta (el sufijo 'F' del título no es habitual) y la autenticidad del bisel y la esfera."
-  },
-  "motivo": "triage: Precio cercano al mercado para un 1505 bicolor de 1979 en buen estado; no cumple el descuento del 15 %. Conviene verificar la referencia exacta (el sufijo 'F' del título no es habitual) y la autenticidad del bisel y la esfera. (justo 4700)"
- },
- {
-  "fecha": "2026-11-04T00:28:00.771357+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR RANGER 79950",
   "total": 2250.0,
@@ -11007,5 +10950,56 @@
    "nota": "Precio pedido de US$2750 está por encima del valor de venta cerrada para este modelo de 2017 con caja y papeles; no hay descuento significativo."
   },
   "motivo": "triage: Precio pedido de US$2750 está por encima del valor de venta cerrada para este modelo de 2017 con caja y papeles; no hay descuento significativo. (justo 2400)"
+ },
+ {
+  "fecha": "2026-11-06T13:14:47.506835+00:00",
+  "marca": "Rolex",
+  "titulo": "VINTAGE 1963 ROLEX GMT-MASTER 1675 WATCH CASE",
+  "total": 8450.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/800884552632",
+  "item_id": "v1|800884552632|0",
+  "triage": {
+   "modelo": "Rolex GMT-Master (caja desnuda, sin esfera ni movimiento)",
+   "referencia": "1675",
+   "precio_justo_usd": 600,
+   "interesante": false,
+   "nota": "Solo es una caja de acero sin esfera ni movimiento; como pieza suelta vale unos cientos de dólares, y US$8450 es muy superior a ese valor."
+  },
+  "motivo": "triage: Solo es una caja de acero sin esfera ni movimiento; como pieza suelta vale unos cientos de dólares, y US$8450 es muy superior a ese valor. (justo 600)"
+ },
+ {
+  "fecha": "2026-11-06T13:14:47.506835+00:00",
+  "marca": "Rolex",
+  "titulo": "NEW Rolex Explorer Oyster, 40 mm, Oystersteel Ref. 224270, full set",
+  "total": 9545.0,
+  "condicion": "New with imperfections",
+  "url": "https://www.ebay.com/itm/287706854353",
+  "item_id": "v1|287706854353|0",
+  "referencia": "224270",
+  "mercado": {
+   "n": 10,
+   "p25": 10825,
+   "mediana": 10858
+  },
+  "ratio_mercado": 0.882,
+  "motivo": "precio normal (88 % del cuartil bajo de 224270)"
+ },
+ {
+  "fecha": "2026-11-06T13:14:47.506835+00:00",
+  "marca": "Rolex",
+  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
+  "total": 15990.01,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327443122600",
+  "item_id": "v1|327443122600|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date (con caja y papeles originales)",
+   "referencia": null,
+   "precio_justo_usd": 13500,
+   "interesante": false,
+   "nota": "La referencia no es legible en la foto; con 126610LN o 116610LN el precio de venta cerrada es similar o inferior al pedido, y 'unpolished' no se puede verificar."
+  },
+  "motivo": "triage: La referencia no es legible en la foto; con 126610LN o 116610LN el precio de venta cerrada es similar o inferior al pedido, y 'unpolished' no se puede verificar. (justo 13500)"
  }
 ]
