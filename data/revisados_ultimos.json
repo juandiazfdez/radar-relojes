@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-11-03T23:43:00.579712+00:00",
-  "marca": "Rolex",
-  "titulo": "SEPT 2026 UNWORN Rolex Oyster Perpetual 134303 100 Year Anniversary 41mm Watch",
-  "total": 15487.14,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/366783033068",
-  "item_id": "v1|366783033068|0",
-  "referencia": "134303",
-  "mercado": {
-   "n": 6,
-   "p25": 14999,
-   "mediana": 15395
-  },
-  "ratio_mercado": 1.033,
-  "motivo": "precio normal (103 % del cuartil bajo de 134303)"
- },
- {
-  "fecha": "2026-11-03T23:43:00.579712+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner 16613 Two Tone. Very Good Condition. Excellent Time Accuracy ",
-  "total": 10047.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307264962774",
-  "item_id": "v1|307264962774|0",
-  "referencia": "16613",
-  "mercado": {
-   "n": 88,
-   "p25": 11770,
-   "mediana": 12000
-  },
-  "ratio_mercado": 0.854,
-  "motivo": "precio normal (85 % del cuartil bajo de 16613)"
- },
- {
-  "fecha": "2026-11-03T23:43:00.579712+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay Chrono Flamingo Blue - 79360N-0024",
   "total": 10497.0,
@@ -10977,5 +10943,45 @@
   },
   "ratio_mercado": 0.974,
   "motivo": "precio normal (97 % del cuartil bajo de 126660)"
+ },
+ {
+  "fecha": "2026-11-06T06:14:36.750973+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner No Date 124060 Black 41mm Automatic Men's Watch + Box & Papers",
+  "total": 13199.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206679217213",
+  "item_id": "v1|206679217213|0",
+  "referencia": "124060",
+  "mercado": {
+   "n": 44,
+   "p25": 13627,
+   "mediana": 14227
+  },
+  "ratio_mercado": 0.969,
+  "motivo": "precio normal (97 % del cuartil bajo de 124060)"
+ },
+ {
+  "fecha": "2026-11-06T06:14:36.750973+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Pelagos FXD 42mm M25717N-0001 | 2023 Full Set",
+  "total": 4275.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900069730587",
+  "item_id": "v1|900069730587|0",
+  "referencia": "M25717N-0001",
+  "mercado": {
+   "n": 1,
+   "p25": 4150,
+   "mediana": 4150
+  },
+  "triage": {
+   "modelo": "Tudor Pelagos FXD 42mm (esfera negra, bisel negro, correa FXD)",
+   "referencia": "M25717N-0001",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Pelagos FXD de 2023 con caja y papeles se vende en el mercado secundario en torno a US$3,300-3,800; el pedido de US$4,275 está por encima, sin descuento claro."
+  },
+  "motivo": "triage: Pelagos FXD de 2023 con caja y papeles se vende en el mercado secundario en torno a US$3,300-3,800; el pedido de US$4,275 está por encima, sin descuento claro. (justo 3500)"
  }
 ]
