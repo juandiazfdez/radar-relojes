@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-11-03T23:13:00.677426+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Datejust Ref. 1601–Two-Tone 18K Gold & Steel– c.1968",
-  "total": 8600.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840090064188",
-  "item_id": "v1|840090064188|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Datejust bicolor oro 18K y acero (con caja)",
-   "referencia": "1601",
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de mercado para un 1601 bicolor de c.1968 en estado Good. La caja verde visible parece de época posterior y el estuche exterior con imagen de caballo no es típico de Rolex, así que hay que verificar autenticidad, cuadrante, bisel y papeles."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de mercado para un 1601 bicolor de c.1968 en estado Good. La caja verde visible parece de época posterior y el estuche exterior con imagen de caballo no es típico de Rolex, así que hay que verificar autenticidad, cuadrante, bisel y papeles. (justo 5000)"
- },
- {
-  "fecha": "2026-11-03T23:13:00.677426+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Pasha GMT Automatic ref. 2388 Power Reserve 24Hr Steel 38mm Box Papers",
-  "total": 2346.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940063477331",
-  "item_id": "v1|940063477331|0",
-  "referencia": "2388",
-  "mercado": {
-   "n": 1,
-   "p25": 3550,
-   "mediana": 3550
-  },
-  "triage": {
-   "modelo": "Cartier Pasha de Cartier 38 mm, acero, con cronógrafo (la foto muestra tres subesferas y pulsadores; el título dice GMT Power Reserve)",
-   "referencia": null,
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "El título (GMT, ref. 2388) no coincide con la foto, que parece un cronógrafo Pasha. Sin referencia verificable, el precio está unos 10 % por debajo de una estimación conservadora, sin llegar al 15 % necesario."
-  },
-  "motivo": "triage: El título (GMT, ref. 2388) no coincide con la foto, que parece un cronógrafo Pasha. Sin referencia verificable, el precio está unos 10 % por debajo de una estimación conservadora, sin llegar al 15 % necesario. (justo 2600)"
- },
- {
-  "fecha": "2026-11-03T23:13:00.677426+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank MC - Ref. W5330003 - 34.3mm * 44mm Stainless Steel",
   "total": 4195.0,
@@ -11002,5 +10962,39 @@
    "nota": "Precio pedido de US$2000 está cerca del valor de mercado para esta referencia en estado Good; no cumple el descuento mínimo del 15%."
   },
   "motivo": "triage: Precio pedido de US$2000 está cerca del valor de mercado para esta referencia en estado Good; no cumple el descuento mínimo del 15%. (justo 1800)"
+ },
+ {
+  "fecha": "2026-11-06T04:44:37.537095+00:00",
+  "marca": "Rolex",
+  "titulo": "Genuine Diamond Rolex 2652 Watch. Ladies Rolex Vintage 1972 SERVICED Watch.",
+  "total": 2750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257837912575",
+  "item_id": "v1|257837912575|0",
+  "triage": {
+   "modelo": "Rolex dama vintage de oro blanco con bisel de diamantes y pulsera tejida (cal. manual, ~1972)",
+   "referencia": "2652 (según el título, no verificable en la foto)",
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para una dama vintage de oro blanco con diamantes; no hay descuento de al menos 15 % y la referencia y los diamantes no están verificados."
+  },
+  "motivo": "triage: Precio cercano al mercado para una dama vintage de oro blanco con diamantes; no hay descuento de al menos 15 % y la referencia y los diamantes no están verificados. (justo 2300)"
+ },
+ {
+  "fecha": "2026-11-06T04:44:37.537095+00:00",
+  "marca": "Rolex",
+  "titulo": "Genuine Diamond Ruby 2629 Rolex Watch. Ladies 18k Rolex SERVICED Watch.",
+  "total": 3300.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257837912563",
+  "item_id": "v1|257837912563|0",
+  "triage": {
+   "modelo": "Rolex de dama tipo cóctel vintage, caja cojín en oro blanco de 18k con bisel de diamantes y piedras rojas/rosas, brazalete de malla",
+   "referencia": "2629 (según título, no verificable en la foto)",
+   "precio_justo_usd": 3700,
+   "interesante": false,
+   "nota": "Precio pedido un 11 % por debajo de una estimación conservadora; sin confirmar referencia, autenticidad de piedras ni estado de la maquinaria."
+  },
+  "motivo": "triage: Precio pedido un 11 % por debajo de una estimación conservadora; sin confirmar referencia, autenticidad de piedras ni estado de la maquinaria. (justo 3700)"
  }
 ]
