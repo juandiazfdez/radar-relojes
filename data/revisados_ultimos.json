@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-03T23:28:00.584264+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Chronograph Panda Jubilee Bracelet Full Set 2023",
-  "total": 4500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920102175622",
-  "item_id": "v1|920102175622|0",
-  "triage": {
-   "modelo": "Tudor Black Bay Chrono 41 'Panda' con brazalete Jubilee (acero, esfera blanca)",
-   "referencia": "M79360N-0001 (probable)",
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "Precio pedido de 4500 USD está cerca del valor de mercado de un modelo reciente con set completo; no supera el umbral del 15 % por debajo."
-  },
-  "motivo": "triage: Precio pedido de 4500 USD está cerca del valor de mercado de un modelo reciente con set completo; no supera el umbral del 15 % por debajo. (justo 4300)"
- },
- {
-  "fecha": "2026-11-03T23:28:00.584264+00:00",
-  "marca": "Tudor",
-  "titulo": "2020 Tudor Black Shield 42000CN",
-  "total": 3150.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147665120148",
-  "item_id": "v1|147665120148|0",
-  "referencia": "42000CN",
-  "mercado": {
-   "n": 4,
-   "p25": 3700,
-   "mediana": 3830
-  },
-  "triage": {
-   "modelo": "Tudor Black Shield cronógrafo (caja negra, correa de caucho)",
-   "referencia": "42000CN",
-   "precio_justo_usd": 2900,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor estimado de reventa para este cronógrafo usado en buen estado; la referencia y el año no están verificados en la foto."
-  },
-  "motivo": "triage: Precio pedido por encima del valor estimado de reventa para este cronógrafo usado en buen estado; la referencia y el año no están verificados en la foto. (justo 2900)"
- },
- {
-  "fecha": "2026-11-03T23:28:00.584264+00:00",
-  "marca": "Tudor",
-  "titulo": "2022 TUDOR Black Bay 58 39mm Blue Box Papers",
-  "total": 3584.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147665125833",
-  "item_id": "v1|147665125833|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 Navy Blue (bisel azul, esfera azul, brazalete de acero)",
-   "referencia": "M79030B-0001",
-   "precio_justo_usd": 3400,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor estimado para un 2022 con caja y papeles en estado excelente; no hay descuento de al menos 15%."
-  },
-  "motivo": "triage: Precio pedido por encima del valor estimado para un 2022 con caja y papeles en estado excelente; no hay descuento de al menos 15%. (justo 3400)"
- },
- {
   "fecha": "2026-11-03T23:43:00.579712+00:00",
   "marca": "Rolex",
   "titulo": "SEPT 2026 UNWORN Rolex Oyster Perpetual 134303 100 Year Anniversary 41mm Watch",
@@ -10983,5 +10926,56 @@
    "nota": "El precio pedido de US$4650 supera el retail de esta referencia y muy por encima del mercado secundario para un usado en excelente estado."
   },
   "motivo": "triage: El precio pedido de US$4650 supera el retail de esta referencia y muy por encima del mercado secundario para un usado en excelente estado. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-06T05:29:37.273218+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Ref 16233  2Tone 36mm DATEJUST QUICK SET 31Jewels Cal 3135 Automatic Watch",
+  "total": 4895.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237166708053",
+  "item_id": "v1|237166708053|0",
+  "referencia": "16233",
+  "mercado": {
+   "n": 28,
+   "p25": 5695,
+   "mediana": 6170
+  },
+  "ratio_mercado": 0.86,
+  "motivo": "precio normal (86 % del cuartil bajo de 16233)"
+ },
+ {
+  "fecha": "2026-11-06T05:29:37.273218+00:00",
+  "marca": "Rolex",
+  "titulo": "Genuine Rolex Diamond Watch. 14k WG Ladies Rolex 40475 Cocktail Windup Watch.",
+  "total": 2640.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257837972443",
+  "item_id": "v1|257837972443|0",
+  "triage": {
+   "modelo": "Reloj de dama tipo cocktail vintage, caja de oro blanco 14k con lunetas de diamantes (marca no verificable en la foto)",
+   "referencia": null,
+   "precio_justo_usd": 1200,
+   "interesante": false,
+   "nota": "La referencia 40475 no encaja con el formato habitual de Rolex y no se ve la esfera completa ni el movimiento; sin verificar la marca, el precio pedido de US$2640 está muy por encima del valor estimado."
+  },
+  "motivo": "triage: La referencia 40475 no encaja con el formato habitual de Rolex y no se ve la esfera completa ni el movimiento; sin verificar la marca, el precio pedido de US$2640 está muy por encima del valor estimado. (justo 1200)"
+ },
+ {
+  "fecha": "2026-11-06T05:29:37.273218+00:00",
+  "marca": "Rolex",
+  "titulo": "Mint 2022 Rolex 126660 Deep Sea Sea Dweller B&P with Warranty",
+  "total": 12695.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/377625428617",
+  "item_id": "v1|377625428617|0",
+  "referencia": "126660",
+  "mercado": {
+   "n": 72,
+   "p25": 13040,
+   "mediana": 14100
+  },
+  "ratio_mercado": 0.974,
+  "motivo": "precio normal (97 % del cuartil bajo de 126660)"
  }
 ]
