@@ -1468,5 +1468,75 @@
    "precio_reventa_rd_usd": 2750
   },
   "ratio_justo": 0.802
+ },
+ {
+  "fecha": "2026-11-06T21:15:15.270974+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay \"Panda\" Watch Black Bay Chronograph 79360N Panda - Inventory",
+  "precio": 3299.0,
+  "envio": 0.0,
+  "total": 3299.0,
+  "mercado": {
+   "fecha": "2026-11-06",
+   "consulta": "Tudor 79360N",
+   "n": 59,
+   "mediana": 5250,
+   "p25": 4630,
+   "p75": 6049,
+   "min": 4250,
+   "max": 11000
+  },
+  "triage": null,
+  "vendedor": "delraywatchsupply",
+  "valoraciones": 447,
+  "pct_positivo": "100.0",
+  "url": "https://www.ebay.com/itm/287710160616",
+  "item_id": "v1|287710160616|0",
+  "info": {
+   "departamento": "Unisex Adult",
+   "referencia": "79360N",
+   "modelo_esp": "Black Bay \"Panda\"",
+   "caja_mm": "41mm",
+   "material": "Stainless Steel",
+   "ano": null,
+   "movimiento": "Mechanical (Automatic)",
+   "caja_original": null,
+   "papeles": "Yes",
+   "condicion": "Pre-owned - Good",
+   "condicion_id": "3000",
+   "condicion_desc": "",
+   "garantia_autenticidad": false,
+   "devoluciones": false,
+   "amarillas": [
+    "wear"
+   ],
+   "imagenes": [
+    "https://i.ebayimg.com/images/g/Xe0AAeSwsdVq7kGL/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/Vj8AAeSwWfFq7kGK/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/WakAAeSwA49q7kGL/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/ZSEAAeSwEclq7kGK/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/ZSAAAeSwEclq7kGK/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/ewUAAeSwN9Jq7kGK/s-l1600.jpg"
+   ]
+  },
+  "claude": {
+   "veredicto": "alerta",
+   "modelo": "Tudor Black Bay Chrono 'Panda' 79360N, acero, 41mm, brazalete, 2023",
+   "estado": "Usado muy bueno, con marcas leves de uso; caja y papeles según el vendedor",
+   "riesgo_autenticidad": "medio",
+   "completo": true,
+   "razones": [
+    "Precio de US$3,299 muy por debajo de los comparables pedidos (cuartil bajo 4,630, mediana 5,250). Frente a un precio de venta cerrada realista de ~US$3,900-4,200 para un 2023 con caja y papeles, el descuento es de ~20%.",
+    "Las fotos muestran un reloj real y no de catálogo. Se ven la esfera blanca con subesferas negras, el bisel taquimétrico, el logo Tudor y 'Geneve', la leyenda '200m/660ft Chronometer', la fecha a las 6 y la corona con la rosa Tudor grabada. El brazalete con tornillos y el cierre parecen coherentes con el modelo original. No veo señales evidentes de réplica ni de esfera repintada.",
+    "Faltan fotos del fondo de caja y del movimiento, y no se muestran la caja ni los papeles. Hay que pedir fotos del fondo, del número de serie entre los cuernos, de la tarjeta con serie y fecha, y del cierre con su grabado.",
+    "Hay inconsistencias en el anuncio. La ficha dice 'Band Type: Strap' aunque es brazalete. Garantía de autenticidad y devoluciones figuran como no, pero el texto dice 'Seller Warranty: Yes'. La condición del listado es 'Good' y la descripción dice 'Very Good'. Sin devoluciones, un fallo de autenticidad sería difícil de reclamar.",
+    "El vendedor es un dealer con 447 valoraciones y 100% positivo, y el anuncio es de 'Inventory'. Es solo información, pero no empeora el riesgo.",
+    "El estado es bueno, con 'light signs of wear and swirls', y el cristal y el bisel se ven limpios. Con la referencia actual (2023), el margen existe si se confirma la autenticidad y el set completo.",
+    "Se estima a la baja. Un 79360N usado con caja y papeles se vende realmente alrededor de US$3,900-4,200, no a los precios pedidos de eBay."
+   ],
+   "precio_justo_usd": 4000,
+   "precio_reventa_rd_usd": 4600
+  },
+  "ratio_justo": 0.825
  }
 ]
