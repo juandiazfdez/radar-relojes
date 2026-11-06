@@ -1,74 +1,6 @@
 [
  {
   "fecha": "2026-11-04T20:43:32.337579+00:00",
-  "marca": "Rolex",
-  "titulo": "2010 Rolex Submariner Date 40mm Ceramic Steel Automatic Watch 116610 *2025 CPO*",
-  "total": 11299.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267833504483",
-  "item_id": "v1|267833504483|0",
-  "referencia": "116610",
-  "mercado": {
-   "n": 46,
-   "p25": 12499,
-   "mediana": 12697
-  },
-  "ratio_mercado": 0.904,
-  "motivo": "precio normal (90 % del cuartil bajo de 116610)"
- },
- {
-  "fecha": "2026-11-04T20:43:32.337579+00:00",
-  "marca": "Rolex",
-  "titulo": "42038: Rolex Land-Dweller 40, Ref. 127334, 2026 Full Set",
-  "total": 27300.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237163934237",
-  "item_id": "v1|237163934237|0",
-  "referencia": "127334",
-  "mercado": {
-   "n": 5,
-   "p25": 28350,
-   "mediana": 29999
-  },
-  "ratio_mercado": 0.963,
-  "motivo": "precio normal (96 % del cuartil bajo de 127334)"
- },
- {
-  "fecha": "2026-11-04T20:43:32.337579+00:00",
-  "marca": "Rolex",
-  "titulo": "Mint Unpolished 2003 Rolex Explorer II Polar 16570 40MM White Steel Box Paper",
-  "total": 11999.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880083297339",
-  "item_id": "v1|880083297339|0",
-  "referencia": "16570",
-  "mercado": {
-   "n": 38,
-   "p25": 8495,
-   "mediana": 8990
-  },
-  "ratio_mercado": 1.412,
-  "motivo": "precio normal (141 % del cuartil bajo de 16570)"
- },
- {
-  "fecha": "2026-11-04T20:43:32.337579+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 40mm Steel and Yellow Gold Bluesy 116613LB 2014 Full Set!",
-  "total": 15750.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206675888249",
-  "item_id": "v1|206675888249|0",
-  "referencia": "116613LB",
-  "mercado": {
-   "n": 53,
-   "p25": 15779,
-   "mediana": 16000
-  },
-  "ratio_mercado": 0.998,
-  "motivo": "precio normal (100 % del cuartil bajo de 116613LB)"
- },
- {
-  "fecha": "2026-11-04T20:43:32.337579+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos de Cartier W2SA0033 Silver Roman Steel 18K Gold Box Card 2026",
   "total": 10000.0,
@@ -10938,5 +10870,80 @@
   },
   "ratio_mercado": 1.129,
   "motivo": "precio normal (113 % del cuartil bajo de 2656)"
+ },
+ {
+  "fecha": "2026-11-06T22:15:15.716391+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oysterdate Precision 6466 1985",
+  "total": 2800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940071514948",
+  "item_id": "v1|940071514948|0",
+  "referencia": "6466",
+  "mercado": {
+   "n": 8,
+   "p25": 3305,
+   "mediana": 4150
+  },
+  "ratio_mercado": 0.847,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 2100,
+   "riesgo_autenticidad": "medio",
+   "estado": "Vintage usado con mala hermeticidad, cristal acrílico con astilla o grieta en el borde y manchas de humedad en la esfera"
+  },
+  "ratio_justo": 1.333,
+  "motivo": "precio normal segun revision (133 % del justo 2100)"
+ },
+ {
+  "fecha": "2026-11-06T22:15:15.716391+00:00",
+  "marca": "Rolex",
+  "titulo": "2024 Rolex 126900 Air king Full Set Box and Papers",
+  "total": 8500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880090307877",
+  "item_id": "v1|880090307877|0",
+  "referencia": "126900",
+  "mercado": {
+   "n": 25,
+   "p25": 9529,
+   "mediana": 10097
+  },
+  "ratio_mercado": 0.892,
+  "motivo": "precio normal (89 % del cuartil bajo de 126900)"
+ },
+ {
+  "fecha": "2026-11-06T22:15:15.716391+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41 Bluestick",
+  "total": 16990.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880090292706",
+  "item_id": "v1|880090292706|0",
+  "triage": {
+   "modelo": "Rolex Datejust 41 acero y oro blanco, esfera azul con índices de barra, bisel acanalado y brazalete jubilee",
+   "referencia": "126334",
+   "precio_justo_usd": 15500,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor estimado en el mercado secundario para esta referencia nueva con caja y papeles; no hay descuento claro."
+  },
+  "motivo": "triage: Precio pedido por encima del valor estimado en el mercado secundario para esta referencia nueva con caja y papeles; no hay descuento claro. (justo 15500)"
+ },
+ {
+  "fecha": "2026-11-06T22:15:15.716391+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Datejust Watch SS & 14K Yellow Gold w/Diamonds Ref.6916",
+  "total": 4900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327443679987",
+  "item_id": "v1|327443679987|0",
+  "referencia": "6916",
+  "mercado": {
+   "n": 26,
+   "p25": 3500,
+   "mediana": 3754
+  },
+  "ratio_mercado": 1.4,
+  "motivo": "precio normal (140 % del cuartil bajo de 6916)"
  }
 ]
