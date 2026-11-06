@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-03T21:42:52.588529+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Explorer 5504 Black Matte Steel 36mm Watch",
-  "total": 7062.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940063347367",
-  "item_id": "v1|940063347367|0",
-  "referencia": "5504",
-  "mercado": {
-   "n": 4,
-   "p25": 7150,
-   "mediana": 7350
-  },
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Explorer (3-6-9, esfera negra, brazalete Oyster de acero, 36 mm)",
-   "referencia": "5504 (según el título; no confirmable solo con la foto)",
-   "precio_justo_usd": 8500,
-   "interesante": false,
-   "nota": "Precio pedido algo bajo para un vintage 5504, pero la autenticidad no se puede verificar con estas fotos y el descuento no llega al 15 %."
-  },
-  "motivo": "triage: Precio pedido algo bajo para un vintage 5504, pero la autenticidad no se puede verificar con estas fotos y el descuento no llega al 15 %. (justo 8500)"
- },
- {
-  "fecha": "2026-11-03T21:42:52.588529+00:00",
-  "marca": "Rolex",
   "titulo": "2026 NEW PAPERS Rolex GMT Master II Bruce Wayne 40mm Jubilee 126710GRNR Watch",
   "total": 22717.05,
   "condicion": "New with box and papers",
@@ -10989,5 +10966,22 @@
    "nota": "Precio pedido de US$4800 con envío, por encima del valor de mercado para un modelo de 2025 en estado excelente con caja y papeles. Sin descuento claro."
   },
   "motivo": "triage: Precio pedido de US$4800 con envío, por encima del valor de mercado para un modelo de 2025 en estado excelente con caja y papeles. Sin descuento claro. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-06T00:29:29.064930+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere Quartz Watch 29mm Date 2-Tone SS 2-Row Yellow Gold Bracelet Box",
+  "total": 8600.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336882396616",
+  "item_id": "v1|336882396616|0",
+  "triage": {
+   "modelo": "Cartier Panthère Quartz, acero y oro amarillo de 2 tonos, brazalete de 2 filas, fecha (Ø aprox. 29 mm)",
+   "referencia": null,
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Panthère de cuarzo bitono de los años 90-2000 usado; el precio pedido de US$8600 está muy por encima de lo que se vende realmente en EE. UU., aunque incluya caja."
+  },
+  "motivo": "triage: Panthère de cuarzo bitono de los años 90-2000 usado; el precio pedido de US$8600 está muy por encima de lo que se vende realmente en EE. UU., aunque incluya caja. (justo 3500)"
  }
 ]
