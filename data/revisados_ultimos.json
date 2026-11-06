@@ -1,46 +1,5 @@
 [
  {
-  "fecha": "2026-11-03T23:13:00.677426+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank MC - Ref. W5330003 - 34.3mm * 44mm Stainless Steel",
-  "total": 4195.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287702887493",
-  "item_id": "v1|287702887493|0",
-  "referencia": "W5330003",
-  "mercado": {
-   "n": 7,
-   "p25": 4405,
-   "mediana": 5139
-  },
-  "ratio_mercado": 0.952,
-  "motivo": "precio normal (95 % del cuartil bajo de W5330003)"
- },
- {
-  "fecha": "2026-11-03T23:28:00.584264+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex President Day-Date Champagne 18038 18K Yellow Gold R557XXXX Watch Only",
-  "total": 7659.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/860110684768",
-  "item_id": "v1|860110684768|0",
-  "referencia": "18038",
-  "mercado": {
-   "n": 18,
-   "p25": 9165,
-   "mediana": 10484
-  },
-  "ratio_mercado": 0.836,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 7800,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Caja de oro con golpes visibles, esfera cambiada en 10/1988, sin brazalete (solo la cabeza con correa gastada), sin caja ni papeles"
-  },
-  "ratio_justo": 0.982,
-  "motivo": "precio normal segun revision (98 % del justo 7800)"
- },
- {
   "fecha": "2026-11-03T23:28:00.584264+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Panthere 18K/Stainless Steel Watch 83949",
@@ -10996,5 +10955,39 @@
    "nota": "Precio pedido un 11 % por debajo de una estimación conservadora; sin confirmar referencia, autenticidad de piedras ni estado de la maquinaria."
   },
   "motivo": "triage: Precio pedido un 11 % por debajo de una estimación conservadora; sin confirmar referencia, autenticidad de piedras ni estado de la maquinaria. (justo 3700)"
+ },
+ {
+  "fecha": "2026-11-06T04:59:37.082991+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 2021 Complete GMT-Master II Pepsi Jubilee SS 40mm Watch 126710BLRO",
+  "total": 25200.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257837922605",
+  "item_id": "v1|257837922605|0",
+  "referencia": "126710BLRO",
+  "mercado": {
+   "n": 13,
+   "p25": 23525,
+   "mediana": 24100
+  },
+  "ratio_mercado": 1.071,
+  "motivo": "precio normal (107 % del cuartil bajo de 126710BLRO)"
+ },
+ {
+  "fecha": "2026-11-06T04:59:37.082991+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 2023 Submariner Date 41mm Stainless Steel Watch 126610LN",
+  "total": 14500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257837917325",
+  "item_id": "v1|257837917325|0",
+  "referencia": "126610LN",
+  "mercado": {
+   "n": 85,
+   "p25": 14527,
+   "mediana": 15068
+  },
+  "ratio_mercado": 0.998,
+  "motivo": "precio normal (100 % del cuartil bajo de 126610LN)"
  }
 ]
