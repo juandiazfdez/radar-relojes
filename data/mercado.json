@@ -600,13 +600,13 @@
   "max": 8950
  },
  "Cartier W6920046|usado": {
-  "fecha": "2026-11-04",
+  "fecha": "2026-11-06",
   "consulta": "Cartier W6920046",
   "n": 21,
-  "mediana": 5000,
-  "p25": 4680,
+  "mediana": 4945,
+  "p25": 4595,
   "p75": 5193,
-  "min": 4025,
+  "min": 3850,
   "max": 6900
  },
  "Cartier 2675|usado": {
@@ -15880,13 +15880,13 @@
   "max": 20990
  },
  "Cartier W660022I|usado": {
-  "fecha": "2026-10-29",
+  "fecha": "2026-11-06",
   "consulta": "Cartier W660022I",
-  "n": 3,
-  "mediana": 5850,
+  "n": 4,
+  "mediana": 5800,
   "p25": 5750,
   "p75": 6895,
-  "min": 5750,
+  "min": 5725,
   "max": 6895
  },
  "Rolex 6532|usado": {
@@ -19723,5 +19723,35 @@
   "p75": 8020,
   "min": 5000,
   "max": 8020
+ },
+ "Rolex 16610T|usado": {
+  "fecha": "2026-11-06",
+  "consulta": "Rolex 16610T",
+  "n": 8,
+  "mediana": 12387,
+  "p25": 10920,
+  "p75": 15200,
+  "min": 9555,
+  "max": 24999
+ },
+ "Cartier W6206007|usado": {
+  "fecha": "2026-11-06",
+  "consulta": "Cartier W6206007",
+  "n": 1,
+  "mediana": 5695,
+  "p25": 5695,
+  "p75": 5695,
+  "min": 5695,
+  "max": 5695
+ },
+ "Tudor 22010|usado": {
+  "fecha": "2026-11-06",
+  "consulta": "Tudor 22010",
+  "n": 2,
+  "mediana": 1625,
+  "p25": 1250,
+  "p75": 2000,
+  "min": 1250,
+  "max": 2000
  }
 }

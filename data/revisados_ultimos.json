@@ -1,154 +1,5 @@
 [
  {
-  "fecha": "2026-11-04T19:13:32.127517+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36 mm Two Tone Jubilee Champagne Automatic Watch 1601 Circa 1974",
-  "total": 4615.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128175331290",
-  "item_id": "v1|128175331290|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36 mm acero y oro amarillo, bisel acanalado, esfera champán, brazalete Jubilee",
-   "referencia": "1601",
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "Precio cercano al mercado para un 1601 de los años 70 en buen estado; no hay descuento de al menos 15 %."
-  },
-  "motivo": "triage: Precio cercano al mercado para un 1601 de los años 70 en buen estado; no hay descuento de al menos 15 %. (justo 4800)"
- },
- {
-  "fecha": "2026-11-04T19:13:32.127517+00:00",
-  "marca": "Rolex",
-  "titulo": "2023 Rolex Datejust Silver Index 2-Tone YG/Steel Jubilee 41mm 126333 Box/Papers",
-  "total": 17200.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237163820197",
-  "item_id": "v1|237163820197|0",
-  "referencia": "126333",
-  "mercado": {
-   "n": 30,
-   "p25": 14950,
-   "mediana": 15309
-  },
-  "ratio_mercado": 1.151,
-  "motivo": "precio normal (115 % del cuartil bajo de 126333)"
- },
- {
-  "fecha": "2026-11-04T19:13:32.127517+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 28 279173 'Ladies' Stainless Steel Yellow Gold Mother of Pearl",
-  "total": 22850.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206675768628",
-  "item_id": "v1|206675768628|0",
-  "referencia": "279173",
-  "mercado": {
-   "n": 16,
-   "p25": 13000,
-   "mediana": 14472
-  },
-  "ratio_mercado": 1.758,
-  "motivo": "precio normal (176 % del cuartil bajo de 279173)"
- },
- {
-  "fecha": "2026-11-04T19:13:32.127517+00:00",
-  "marca": "Cartier",
-  "titulo": "2016 Cartier Ballon Bleu WSBB0007 watch and card",
-  "total": 4300.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237163814218",
-  "item_id": "v1|237163814218|0",
-  "referencia": "WSBB0007",
-  "mercado": {
-   "n": 1,
-   "p25": 4950,
-   "mediana": 4950
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 36 mm acero, esfera rosa, correa de piel (cuarzo)",
-   "referencia": "WSBB0007 (según título, no verificable en la foto)",
-   "precio_justo_usd": 3400,
-   "interesante": false,
-   "nota": "Precio pedido de US$4300 está unos 25 % por encima del valor de venta cerrada estimado para este modelo de 2016 en estado Good, aunque el listado incluya tarjeta."
-  },
-  "motivo": "triage: Precio pedido de US$4300 está unos 25 % por encima del valor de venta cerrada estimado para este modelo de 2016 en estado Good, aunque el listado incluya tarjeta. (justo 3400)"
- },
- {
-  "fecha": "2026-11-04T19:13:32.127517+00:00",
-  "marca": "Cartier",
-  "titulo": "2015 Cartier Ballon Bleu W6920046 Watch & 2015 Card",
-  "total": 3850.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237163813947",
-  "item_id": "v1|237163813947|0",
-  "referencia": "W6920046",
-  "mercado": {
-   "n": 21,
-   "p25": 4680,
-   "mediana": 5000
-  },
-  "ratio_mercado": 0.823,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 3100,
-   "riesgo_autenticidad": "medio",
-   "estado": "Bueno a muy bueno; rayones visibles en bisel y brazalete, sin caja original, solo tarjeta"
-  },
-  "ratio_justo": 1.242,
-  "motivo": "precio normal segun revision (124 % del justo 3100)"
- },
- {
-  "fecha": "2026-11-04T19:13:32.127517+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay m79360N-0019 2024",
-  "total": 9000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407340318201",
-  "item_id": "v1|407340318201|0",
-  "referencia": "M79360N-0019",
-  "mercado": {
-   "n": 24,
-   "p25": 4815,
-   "mediana": 5500
-  },
-  "ratio_mercado": 1.869,
-  "motivo": "precio normal (187 % del cuartil bajo de M79360N-0019)"
- },
- {
-  "fecha": "2026-11-04T19:13:32.127517+00:00",
-  "marca": "Tudor",
-  "titulo": "Modified TUDOR Pelagos Titanium 39mm watch only",
-  "total": 1800.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/377621897725",
-  "item_id": "v1|377621897725|0",
-  "triage": {
-   "modelo": "Tudor Pelagos 39 Titanium (bisel negro, brazalete de titanio); el título indica modificaciones",
-   "referencia": "M25600TN (probable)",
-   "precio_justo_usd": 2000,
-   "interesante": false,
-   "nota": "Modelo reconocible, pero 'Modified' y 'Fair' sin caja ni papeles reducen mucho el valor y añaden riesgo de piezas no originales; el precio pedido queda solo ~10% bajo el estimado."
-  },
-  "motivo": "triage: Modelo reconocible, pero 'Modified' y 'Fair' sin caja ni papeles reducen mucho el valor y añaden riesgo de piezas no originales; el precio pedido queda solo ~10% bajo el estimado. (justo 2000)"
- },
- {
-  "fecha": "2026-11-04T19:28:32.250611+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex GMT-Master II 126710GRNR Ceramic Steel Bruce Wayne Jubilee NEW",
-  "total": 23750.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206675792886",
-  "item_id": "v1|206675792886|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 87,
-   "p25": 21997,
-   "mediana": 23138
-  },
-  "ratio_mercado": 1.08,
-  "motivo": "precio normal (108 % del cuartil bajo de 126710GRNR)"
- },
- {
   "fecha": "2026-11-04T19:28:32.250611+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Bubbleback 6334 Outer Perpetual Golden Egg Patina 34mm Watch ",
@@ -10906,5 +10757,165 @@
   },
   "ratio_mercado": 1.667,
   "motivo": "precio normal (167 % del cuartil bajo de M79360N-0024)"
+ },
+ {
+  "fecha": "2026-11-06T20:45:15.154668+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 39mm 1984 Rolex GMT Master Men's Automatic Wristwatch 3075 Steel 16750",
+  "total": 11865.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137908714740",
+  "item_id": "v1|137908714740|0",
+  "referencia": "16750",
+  "mercado": {
+   "n": 9,
+   "p25": 14031,
+   "mediana": 15249
+  },
+  "ratio_mercado": 0.846,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 9000,
+   "riesgo_autenticidad": "medio",
+   "estado": "Aceptable. Caja con rayones y posible pulido, brazalete estirado, esfera y agujas de servicio (no originales)."
+  },
+  "motivo": "Claude descarto: El precio de US$11,865 es alto para esta pieza. Con esfera y agujas de servicio, sin caja ni papeles, el mercado cerrado ronda US$8,500-9,800. Un 16750 con esfera original tritio y buen estado sí supera US$11k, pero este no lo es.; El propio vendedor declara 'factory service dial' y 'factory service hands'. Eso quita el valor de la esfera tritio original, que es lo que más buscan los coleccionistas del 16750, y reduce el precio entre 20 y 30 %."
+ },
+ {
+  "fecha": "2026-11-06T20:45:15.154668+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex 6251H 1970s  St.Steel 20mm Swiss folded bracelet,X.long,added ends",
+  "total": 662.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940071314299",
+  "item_id": "v1|940071314299|0",
+  "triage": {
+   "modelo": "Pulsera Jubilee de eslabones de acero 20 mm, estilo Rolex, con cierre plegable (solo pulsera, sin reloj)",
+   "referencia": null,
+   "precio_justo_usd": 250,
+   "interesante": false,
+   "nota": "El listado es solo la pulsera, no un reloj completo; la referencia 6251H no corresponde a una pulsera. Con extensiones añadidas, una pieza usada se vende normalmente por debajo de US$300, así que US$662 está muy por encima del mercado."
+  },
+  "motivo": "triage: El listado es solo la pulsera, no un reloj completo; la referencia 6251H no corresponde a una pulsera. Con extensiones añadidas, una pieza usada se vende normalmente por debajo de US$300, así que US$662 está muy por encima del mercado. (justo 250)"
+ },
+ {
+  "fecha": "2026-11-06T20:45:15.154668+00:00",
+  "marca": "Rolex",
+  "titulo": "Wilsdorf & Davis (W&D) (Rolex) Vintage Pre-1908 Women's Watch. 9CT Gold.",
+  "total": 1500.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/860119889338",
+  "item_id": "v1|860119889338|0",
+  "triage": {
+   "modelo": "Wilsdorf & Davis (Rolex) de dama, caja de oro 9ct, esfera de esmalte con numeración romana y XII rojo (c. 1910-1920)",
+   "referencia": null,
+   "precio_justo_usd": 1200,
+   "interesante": false,
+   "nota": "Reloj vintage de dama en oro 9ct, estado Fair. El título de 'pre-1908' es dudoso, porque el nombre Rolex se adoptó en 1908. Sin cifras de venta fiables para esta pieza concreta, el precio pedido de 1500 no está claramente 15% por debajo del mercado. Verificar marcas, autenticidad y peso de la caja."
+  },
+  "motivo": "triage: Reloj vintage de dama en oro 9ct, estado Fair. El título de 'pre-1908' es dudoso, porque el nombre Rolex se adoptó en 1908. Sin cifras de venta fiables para esta pieza concreta, el precio pedido de 1500 no está claramente 15% por debajo del mercado. Verificar marcas, autenticidad y peso de la caja. (justo 1200)"
+ },
+ {
+  "fecha": "2026-11-06T20:45:15.154668+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner 16610T No-Holes Case Men's 40mm Automatic Wristwatch - 2006",
+  "total": 9500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287710121109",
+  "item_id": "v1|287710121109|0",
+  "referencia": "16610T",
+  "mercado": {
+   "n": 8,
+   "p25": 10920,
+   "mediana": 12387
+  },
+  "ratio_mercado": 0.87,
+  "motivo": "precio normal (87 % del cuartil bajo de 16610T)"
+ },
+ {
+  "fecha": "2026-11-06T20:45:15.154668+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster Purple Mother of Pearl Steel Ladies Watch W6206007 Papers",
+  "total": 4980.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940071319799",
+  "item_id": "v1|940071319799|0",
+  "referencia": "W6206007",
+  "mercado": {
+   "n": 1,
+   "p25": 5695,
+   "mediana": 5695
+  },
+  "triage": {
+   "modelo": "Cartier Roadster pequeño (dama), acero, esfera de nácar morado, fecha a las 3, cuarzo",
+   "referencia": "W6206007",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del mercado para este modelo de dama en acero con papeles, que suele venderse entre US$2,200 y 2,800."
+  },
+  "motivo": "triage: Precio pedido muy por encima del mercado para este modelo de dama en acero con papeles, que suele venderse entre US$2,200 y 2,800. (justo 2600)"
+ },
+ {
+  "fecha": "2026-11-06T20:45:15.154668+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier La Dona de Cartier W660022I 2835 28mm Large Silver Steel Ladies Watch",
+  "total": 5425.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267835865818",
+  "item_id": "v1|267835865818|0",
+  "referencia": "W660022I",
+  "mercado": {
+   "n": 4,
+   "p25": 5750,
+   "mediana": 5800
+  },
+  "triage": {
+   "modelo": "Cartier La Dona de Cartier (caja tonneau de acero, esfera plateada con números romanos, brazalete de eslabones)",
+   "referencia": "W660022I",
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "El precio pedido de US$5,425 está muy por encima de lo que se vende realmente un La Dona de acero de esta referencia, incluso con caja y papeles; no es una oportunidad."
+  },
+  "motivo": "triage: El precio pedido de US$5,425 está muy por encima de lo que se vende realmente un La Dona de acero de esta referencia, incluso con caja y papeles; no es una oportunidad. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-06T20:45:15.154668+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu W6920046 Watch and 2017 Card",
+  "total": 4090.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237168125728",
+  "item_id": "v1|237168125728|0",
+  "referencia": "W6920046",
+  "mercado": {
+   "n": 21,
+   "p25": 4595,
+   "mediana": 4945
+  },
+  "ratio_mercado": 0.89,
+  "motivo": "precio normal (89 % del cuartil bajo de W6920046)"
+ },
+ {
+  "fecha": "2026-11-06T20:45:15.154668+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Classic Date 28mm 22010 10p Diamond Ladies Timepeice ",
+  "total": 1800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307270280515",
+  "item_id": "v1|307270280515|0",
+  "referencia": "22010",
+  "mercado": {
+   "n": 2,
+   "p25": 1250,
+   "mediana": 1625
+  },
+  "triage": {
+   "modelo": "Tudor Classic Date 28 mm, esfera blanca con diamantes (versión señora)",
+   "referencia": "22010",
+   "precio_justo_usd": 1600,
+   "interesante": false,
+   "nota": "Precio pedido de 1800 USD está por encima del valor de venta cerrada estimado (~1600 USD) para esta referencia en condición Good; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido de 1800 USD está por encima del valor de venta cerrada estimado (~1600 USD) para esta referencia en condición Good; no hay descuento suficiente. (justo 1600)"
  }
 ]
