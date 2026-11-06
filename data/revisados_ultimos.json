@@ -1,125 +1,5 @@
 [
  {
-  "fecha": "2026-11-04T15:43:32.010274+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Air King Vintage Men’s 34mm",
-  "total": 3200.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/227595840128",
-  "item_id": "v1|227595840128|0",
-  "triage": {
-   "modelo": "Rolex Air King vintage, caja Oyster 34 mm con esfera azul modificada con marcadores de diamante",
-   "referencia": "5500 o 14000 (probable, no confirmable en la foto)",
-   "precio_justo_usd": 2500,
-   "interesante": false,
-   "nota": "La esfera parece personalizada (azul con diamantes), lo que reduce mucho el valor frente a una original; el listado no lo menciona y 'refurbished' sugiere restauración. Verificar autenticidad y esfera original antes de pagar $3200."
-  },
-  "motivo": "triage: La esfera parece personalizada (azul con diamantes), lo que reduce mucho el valor frente a una original; el listado no lo menciona y 'refurbished' sugiere restauración. Verificar autenticidad y esfera original antes de pagar $3200. (justo 2500)"
- },
- {
-  "fecha": "2026-11-04T15:43:32.010274+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 18k Rose Gold & Diamond 36mm Automatic Watch 3003",
-  "total": 14400.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117504323684",
-  "item_id": "v1|117504323684|0",
-  "referencia": "3003",
-  "mercado": {
-   "n": 7,
-   "p25": 12990,
-   "mediana": 23000
-  },
-  "ratio_mercado": 1.109,
-  "motivo": "precio normal (111 % del cuartil bajo de 3003)"
- },
- {
-  "fecha": "2026-11-04T15:43:32.010274+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise Small 18k Yellow Gold Champagne Diamond Ladies Watch 2385",
-  "total": 16350.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117504323688",
-  "item_id": "v1|117504323688|0",
-  "referencia": "2385",
-  "mercado": {
-   "n": 7,
-   "p25": 6950,
-   "mediana": 16350
-  },
-  "ratio_mercado": 2.353,
-  "motivo": "precio normal (235 % del cuartil bajo de 2385)"
- },
- {
-  "fecha": "2026-11-04T15:43:32.010274+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise Small 18k Yellow Gold/Steel Ladies Watch W51007Q4 2300",
-  "total": 4025.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128175011710",
-  "item_id": "v1|128175011710|0",
-  "referencia": "2300",
-  "mercado": {
-   "n": 2,
-   "p25": 3500,
-   "mediana": 4700
-  },
-  "triage": {
-   "modelo": "Cartier Tank Française Small, acero y oro amarillo 18k, cuarzo",
-   "referencia": "W51007Q4",
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "Precio pedido de US$4025 muy por encima del valor de venta real de este modelo de cuarzo bicolor usado; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$4025 muy por encima del valor de venta real de este modelo de cuarzo bicolor usado; no es una oportunidad. (justo 2200)"
- },
- {
-  "fecha": "2026-11-04T15:43:32.010274+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise Small 18k Yellow Gold Diamond Ladies Watch 1820",
-  "total": 16700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128175011722",
-  "item_id": "v1|128175011722|0",
-  "referencia": "1820",
-  "mercado": {
-   "n": 2,
-   "p25": 6818,
-   "mediana": 11409
-  },
-  "triage": {
-   "modelo": "Cartier Tank Française Small, oro amarillo 18k con diamantes (bisel y eslabones), cuarzo, esfera plateada de números romanos",
-   "referencia": null,
-   "precio_justo_usd": 12500,
-   "interesante": false,
-   "nota": "La referencia del título (1820) no se puede confirmar en la foto; el precio pedido de US$16,700 queda por encima de lo que se vende este modelo de oro con diamantes en EE. UU."
-  },
-  "motivo": "triage: La referencia del título (1820) no se puede confirmar en la foto; el precio pedido de US$16,700 queda por encima de lo que se vende este modelo de oro con diamantes en EE. UU. (justo 12500)"
- },
- {
-  "fecha": "2026-11-04T15:43:32.010274+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ronde Must de Cartier . REF- WSRN0032",
-  "total": 4450.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198771941924",
-  "item_id": "v1|198771941924|0",
-  "referencia": "WSRN0032",
-  "mercado": {
-   "n": 3,
-   "p25": 3950,
-   "mediana": 4000
-  },
-  "triage": {
-   "modelo": "Cartier Ronde Must de Cartier (40 mm, acero, cuarzo, esfera blanca con números romanos, correa de cuero negra)",
-   "referencia": "WSRN0032",
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "Precio pedido de US$4,450 muy por encima del mercado de segunda mano (aprox. US$2,000-2,400 para estado Good); no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$4,450 muy por encima del mercado de segunda mano (aprox. US$2,000-2,400 para estado Good); no es una oportunidad. (justo 2200)"
- },
- {
   "fecha": "2026-11-04T15:58:32.075300+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual Automatic Watch Stainless Steel 31",
@@ -10986,5 +10866,107 @@
    "nota": "Precio cercano al mercado secundario para esta referencia con bisel de diamantes. El descuento frente al precio pedido no llega al 15 %; el margen de compra es limitado."
   },
   "motivo": "triage: Precio cercano al mercado secundario para esta referencia con bisel de diamantes. El descuento frente al precio pedido no llega al 15 %; el margen de compra es limitado. (justo 16000)"
+ },
+ {
+  "fecha": "2026-11-06T17:30:00.172032+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II Pepsi Steel 40mm 126710BLRO 2020 Box Papers",
+  "total": 24200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960162832565",
+  "item_id": "v1|960162832565|0",
+  "referencia": "126710BLRO",
+  "mercado": {
+   "n": 13,
+   "p25": 23525,
+   "mediana": 24100
+  },
+  "ratio_mercado": 1.029,
+  "motivo": "precio normal (103 % del cuartil bajo de 126710BLRO)"
+ },
+ {
+  "fecha": "2026-11-06T17:30:00.172032+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Large With 23.0 cts Natural Diamonds ",
+  "total": 9500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/377626788605",
+  "item_id": "v1|377626788605|0",
+  "triage": {
+   "modelo": "Cartier Santos de Cartier Large, caja cuadrada de acero con bisel y/o esfera con diamantes (posible modificación)",
+   "referencia": "WSSA0029 (probable, no verificable en la foto)",
+   "precio_justo_usd": 8000,
+   "interesante": false,
+   "nota": "El título de 23 ct de diamantes naturales no es verificable en la foto y un Santos Large de acero engastado a medida es una modificación que vende muy por debajo del precio de un modelo original. Sin certificado de Cartier no se puede justificar US$9.500."
+  },
+  "motivo": "triage: El título de 23 ct de diamantes naturales no es verificable en la foto y un Santos Large de acero engastado a medida es una modificación que vende muy por debajo del precio de un modelo original. Sin certificado de Cartier no se puede justificar US$9.500. (justo 8000)"
+ },
+ {
+  "fecha": "2026-11-06T17:30:00.172032+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Solo 3169 W5200003 Medium Size Stainless Steel 27MM Men's Quartz",
+  "total": 3235.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880089696690",
+  "item_id": "v1|880089696690|0",
+  "referencia": "3169",
+  "mercado": {
+   "n": 13,
+   "p25": 3170,
+   "mediana": 3360
+  },
+  "ratio_mercado": 1.021,
+  "motivo": "precio normal (102 % del cuartil bajo de 3169)"
+ },
+ {
+  "fecha": "2026-11-06T17:30:00.172032+00:00",
+  "marca": "Tudor",
+  "titulo": "Preowned  Tudor Black Bay Burgundy Ref. M7941A1A0RU-0003",
+  "total": 3950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940070972246",
+  "item_id": "v1|940070972246|0",
+  "triage": {
+   "modelo": "Tudor Black Bay Burgundy (bisel granate, esfera negra, brazalete de acero tipo Jubilee)",
+   "referencia": "M7941A1A0RU-0003",
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Precio pedido de US$3950 está en o por encima de retail y bastante por encima del mercado secundario para un usado de esta referencia; no cumple el umbral de 15 % por debajo."
+  },
+  "motivo": "triage: Precio pedido de US$3950 está en o por encima de retail y bastante por encima del mercado secundario para un usado de esta referencia; no cumple el umbral de 15 % por debajo. (justo 3100)"
+ },
+ {
+  "fecha": "2026-11-06T17:30:00.172032+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay Pink Flamingo BLACKED OUT PVD Coating Full Set 79360N Full Set",
+  "total": 16999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128179434538",
+  "item_id": "v1|128179434538|0",
+  "referencia": "79360N",
+  "mercado": {
+   "n": 59,
+   "p25": 4630,
+   "mediana": 5250
+  },
+  "ratio_mercado": 3.671,
+  "motivo": "precio normal (367 % del cuartil bajo de 79360N)"
+ },
+ {
+  "fecha": "2026-11-06T17:30:00.172032+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 68 (2026) 7943A1A0NU",
+  "total": 3995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860119480738",
+  "item_id": "v1|860119480738|0",
+  "triage": {
+   "modelo": "Tudor Black Bay (familia Black Bay 58/68, caja de 39 mm, bisel negro, esfera plateada, brazalete de acero)",
+   "referencia": null,
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "La referencia 7943A1A0NU no se distingue con certeza en la foto; el precio pedido de US$3995 supera el mercado de segunda mano para un Black Bay de acero en estado Good."
+  },
+  "motivo": "triage: La referencia 7943A1A0NU no se distingue con certeza en la foto; el precio pedido de US$3995 supera el mercado de segunda mano para un Black Bay de acero en estado Good. (justo 3100)"
  }
 ]
