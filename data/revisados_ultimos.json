@@ -1,109 +1,5 @@
 [
  {
-  "fecha": "2026-11-04T15:58:32.075300+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Ranger 79950 39mm Automatic Steel Bracelet – Excellent Condition",
-  "total": 2699.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/327439433835",
-  "item_id": "v1|327439433835|0",
-  "referencia": "79950",
-  "mercado": {
-   "n": 11,
-   "p25": 3299,
-   "mediana": 3594
-  },
-  "ratio_mercado": 0.818,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 2550,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Poco uso, esfera y cristal limpios, desgaste leve en el brazalete y marcas visibles en el cierre. Solo el reloj, sin caja ni papeles."
-  },
-  "ratio_justo": 1.058,
-  "motivo": "precio normal segun revision (106 % del justo 2550)"
- },
- {
-  "fecha": "2026-11-04T15:58:32.075300+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay 79220R Smiley 2012",
-  "total": 3945.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880082650008",
-  "item_id": "v1|880082650008|0",
-  "referencia": "79220R",
-  "mercado": {
-   "n": 4,
-   "p25": 3750,
-   "mediana": 3775
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay (bisel rojo, esfera negra, brazalete de acero)",
-   "referencia": "79220R",
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "Precio pedido de US$3945 muy por encima del valor de mercado de una 79220R de 2012 usada en buen estado; no hay descuento que aprovechar."
-  },
-  "motivo": "triage: Precio pedido de US$3945 muy por encima del valor de mercado de una 79220R de 2012 usada en buen estado; no hay descuento que aprovechar. (justo 2600)"
- },
- {
-  "fecha": "2026-11-04T16:13:31.578898+00:00",
-  "marca": "Rolex",
-  "titulo": "2023 Rolex Sky-Dweller 326934 White 42mm Steel Fluted Jubilee Watch Box Papers",
-  "total": 21096.86,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940065391004",
-  "item_id": "v1|940065391004|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller (acero con bisel estriado de oro blanco, esfera blanca, brazalete Jubilee)",
-   "referencia": "326934",
-   "precio_justo_usd": 22500,
-   "interesante": false,
-   "nota": "Precio cercano al mercado secundario para esta referencia con caja y papeles; no hay descuento de al menos 15%."
-  },
-  "motivo": "triage: Precio cercano al mercado secundario para esta referencia con caja y papeles; no hay descuento de al menos 15%. (justo 22500)"
- },
- {
-  "fecha": "2026-11-04T16:13:31.578898+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Roadster W62031Y4 2510 18K/SS 38MM Auto Watch. Minty. Boxes.",
-  "total": 7560.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287704868970",
-  "item_id": "v1|287704868970|0",
-  "referencia": "2510",
-  "mercado": {
-   "n": 26,
-   "p25": 4030,
-   "mediana": 4372
-  },
-  "ratio_mercado": 1.876,
-  "motivo": "precio normal (188 % del cuartil bajo de 2510)"
- },
- {
-  "fecha": "2026-11-04T16:13:31.578898+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor 1926 28mm Stainless Steel M91350-0005",
-  "total": 1895.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880082693759",
-  "item_id": "v1|880082693759|0",
-  "referencia": "M91350-0005",
-  "mercado": {
-   "n": 1,
-   "p25": 1895,
-   "mediana": 1895
-  },
-  "triage": {
-   "modelo": "Tudor 1926 28mm, acero con brazalete tipo Jubilee, esfera plateada con numerales arábigos y manecillas azules",
-   "referencia": "M91350-0005",
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "El precio es muy bajo para un 1926 nuevo de 28 mm; podría ser réplica o listado engañoso. Verificar autenticidad y el vendedor antes de cualquier compra."
-  },
-  "motivo": "triage: El precio es muy bajo para un 1926 nuevo de 28 mm; podría ser réplica o listado engañoso. Verificar autenticidad y el vendedor antes de cualquier compra. (justo 2600)"
- },
- {
   "fecha": "2026-11-04T16:13:31.578898+00:00",
   "marca": "Tudor",
   "titulo": "2018 TUDOR Heritage Chrono 70330B Swiss Made Chronograph Date - Full set",
@@ -10962,5 +10858,90 @@
    "nota": "Modelo plausible, pero el precio está solo ~11% por debajo de lo estimado y la foto no permite verificar autenticidad, movimiento ni estado real."
   },
   "motivo": "triage: Modelo plausible, pero el precio está solo ~11% por debajo de lo estimado y la foto no permite verificar autenticidad, movimiento ni estado real. (justo 6500)"
+ },
+ {
+  "fecha": "2026-11-06T18:00:01.095815+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex Oyster Perpetual 36mm Pistachio Green 126000 Full Set Excellent",
+  "total": 11060.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407345092879",
+  "item_id": "v1|407345092879|0",
+  "referencia": "126000",
+  "mercado": {
+   "n": 36,
+   "p25": 11229,
+   "mediana": 12421
+  },
+  "ratio_mercado": 0.985,
+  "motivo": "precio normal (98 % del cuartil bajo de 126000)"
+ },
+ {
+  "fecha": "2026-11-06T18:00:01.095815+00:00",
+  "marca": "Rolex",
+  "titulo": "2023 PAPERS Rolex GMT Master II \"Batman\" Steel Oyster Bracelet 126710BLNR BOX",
+  "total": 17199.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168843707050",
+  "item_id": "v1|168843707050|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 66,
+   "p25": 18200,
+   "mediana": 18900
+  },
+  "ratio_mercado": 0.945,
+  "motivo": "precio normal (94 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-06T18:00:01.095815+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Oysterquartz 36mm 18k Yellow Gold & Stainless Steel 17013",
+  "total": 5455.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327443451376",
+  "item_id": "v1|327443451376|0",
+  "referencia": "17013",
+  "mercado": {
+   "n": 17,
+   "p25": 6000,
+   "mediana": 7000
+  },
+  "ratio_mercado": 0.909,
+  "motivo": "precio normal (91 % del cuartil bajo de 17013)"
+ },
+ {
+  "fecha": "2026-11-06T18:00:01.095815+00:00",
+  "marca": "Rolex",
+  "titulo": "1990 Rolex Submariner \"Bluesy\" 16613 18K Gold & Stainless Steel Wristwatch",
+  "total": 10299.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137908308462",
+  "item_id": "v1|137908308462|0",
+  "referencia": "16613",
+  "mercado": {
+   "n": 89,
+   "p25": 11506,
+   "mediana": 12000
+  },
+  "ratio_mercado": 0.895,
+  "motivo": "precio normal (90 % del cuartil bajo de 16613)"
+ },
+ {
+  "fecha": "2026-11-06T18:00:01.095815+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36 Rolesor Everose Fluted / Jubilee / Chocolate MOP 116231-0105",
+  "total": 15799.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377626824802",
+  "item_id": "v1|377626824802|0",
+  "referencia": "116231",
+  "mercado": {
+   "n": 46,
+   "p25": 11612,
+   "mediana": 12497
+  },
+  "ratio_mercado": 1.361,
+  "motivo": "precio normal (136 % del cuartil bajo de 116231)"
  }
 ]
