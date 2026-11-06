@@ -2,64 +2,6 @@
  {
   "fecha": "2026-11-04T15:43:32.010274+00:00",
   "marca": "Rolex",
-  "titulo": "Original Rolex 1530 / 1570 8106 BALANCE COMPLETE Blue Hairspring Swiss Made",
-  "total": 499.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880082628720",
-  "item_id": "v1|880082628720|0",
-  "triage": {
-   "modelo": "Volante completo (balance complete) para calibre Rolex 1570/1575 (serie 1530/1570)",
-   "referencia": "null",
-   "precio_justo_usd": 180,
-   "interesante": false,
-   "nota": "Es una pieza suelta de recambio, no un reloj completo. Rolex no suele vender volantes originales por separado, así que el 'Original' del título es dudoso. Precio de referencia para una pieza de segunda mano."
-  },
-  "motivo": "triage: Es una pieza suelta de recambio, no un reloj completo. Rolex no suele vender volantes originales por separado, así que el 'Original' del título es dudoso. Precio de referencia para una pieza de segunda mano. (justo 180)"
- },
- {
-  "fecha": "2026-11-04T15:43:32.010274+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36 mm Two Tone Jubilee Champagne Automatic Watch 1601 Circa 1974",
-  "total": 5500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800876917385",
-  "item_id": "v1|800876917385|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36 mm bicolor (acero y oro amarillo), bisel acanalado, esfera champagne, brazalete Jubilee",
-   "referencia": "1601",
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "Referencia 1601 de c. 1974 en buen estado; el precio pedido de US$5500 está por encima de lo que suele cerrarse para esta pieza, sin margen de descuento."
-  },
-  "motivo": "triage: Referencia 1601 de c. 1974 en buen estado; el precio pedido de US$5500 está por encima de lo que suele cerrarse para esta pieza, sin margen de descuento. (justo 4800)"
- },
- {
-  "fecha": "2026-11-04T15:43:32.010274+00:00",
-  "marca": "Rolex",
-  "titulo": "2006 Rolex Oyster Perpetual Explorer II 16570 No-Holes Box & Papers",
-  "total": 9500.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/960153783861",
-  "item_id": "v1|960153783861|0",
-  "referencia": "16570",
-  "mercado": {
-   "n": 10,
-   "p25": 13169,
-   "mediana": 13473
-  },
-  "ratio_mercado": 0.721,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 9500,
-   "riesgo_autenticidad": "medio",
-   "estado": "Aparentemente excelente, con caja y papeles, pero sin fotos de fondo de caja ni movimiento"
-  },
-  "ratio_justo": 1.0,
-  "motivo": "precio normal segun revision (100 % del justo 9500)"
- },
- {
-  "fecha": "2026-11-04T15:43:32.010274+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Air King Vintage Men’s 34mm",
   "total": 3200.0,
   "condicion": "Seller refurbished",
@@ -10987,5 +10929,62 @@
    "nota": "Precio pedido de US$6900 muy por encima del valor de mercado usado; la referencia es plausible según el título, pero no lo verifico desde la foto."
   },
   "motivo": "triage: Precio pedido de US$6900 muy por encima del valor de mercado usado; la referencia es plausible según el título, pero no lo verifico desde la foto. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-06T17:15:00.043498+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX Submariner 126619LB COOKIE MONSTER 41mm 18K White Gold BOX PAPER",
+  "total": 38995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227601603537",
+  "item_id": "v1|227601603537|0",
+  "referencia": "126619LB",
+  "mercado": {
+   "n": 22,
+   "p25": 37999,
+   "mediana": 39960
+  },
+  "ratio_mercado": 1.026,
+  "motivo": "precio normal (103 % del cuartil bajo de 126619LB)"
+ },
+ {
+  "fecha": "2026-11-06T17:15:00.043498+00:00",
+  "marca": "Rolex",
+  "titulo": "Circa 1981 ROLEX AIR KING 5500 26 Jewel Stainless Steel 34mm Diamond Wristwatch",
+  "total": 4699.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128179380921",
+  "item_id": "v1|128179380921|0",
+  "referencia": "5500",
+  "mercado": {
+   "n": 22,
+   "p25": 4000,
+   "mediana": 4325
+  },
+  "ratio_mercado": 1.175,
+  "motivo": "precio normal (117 % del cuartil bajo de 5500)"
+ },
+ {
+  "fecha": "2026-11-06T17:15:00.043498+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu 40mm WE902055 2661 Silver Gold Diamond Mens Watch Card 2017",
+  "total": 15025.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257838870200",
+  "item_id": "v1|257838870200|0",
+  "referencia": "WE902055",
+  "mercado": {
+   "n": 2,
+   "p25": 13199,
+   "mediana": 13449
+  },
+  "triage": {
+   "modelo": "Cartier Ballon Bleu 40 mm oro rosa con bisel de diamantes, esfera plateada, numerales romanos y correa de cocodrilo marrón",
+   "referencia": "WE902055 (según el título del listado; verificar en la caja o el certificado)",
+   "precio_justo_usd": 16000,
+   "interesante": false,
+   "nota": "Precio cercano al mercado secundario para esta referencia con bisel de diamantes. El descuento frente al precio pedido no llega al 15 %; el margen de compra es limitado."
+  },
+  "motivo": "triage: Precio cercano al mercado secundario para esta referencia con bisel de diamantes. El descuento frente al precio pedido no llega al 15 %; el margen de compra es limitado. (justo 16000)"
  }
 ]
