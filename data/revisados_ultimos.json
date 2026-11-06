@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-04T18:28:32.349800+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 35mm Day-Date President Reference 1803 750/18k Gold Watch",
-  "total": 10000.0,
-  "condicion": "For parts or not working",
-  "url": "https://www.ebay.com/itm/366785413420",
-  "item_id": "v1|366785413420|0",
-  "triage": {
-   "modelo": "Rolex Day-Date (President) en oro amarillo 18k, bisel acanalado, esfera champán, brazalete President",
-   "referencia": "1803",
-   "precio_justo_usd": 9000,
-   "interesante": false,
-   "nota": "El título dice 35 mm y Oyster Perpetual, pero la 1803 es Day-Date de 36 mm. Estado no funcional (piezas), así que el precio de US$10,000 no está por debajo del valor de mercado para este estado."
-  },
-  "motivo": "triage: El título dice 35 mm y Oyster Perpetual, pero la 1803 es Day-Date de 36 mm. Estado no funcional (piezas), así que el precio de US$10,000 no está por debajo del valor de mercado para este estado. (justo 9000)"
- },
- {
-  "fecha": "2026-11-04T18:28:32.349800+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Submariner Date, 126610LN, 41mm, Steel, Black Dial, Oyster Bracelet",
   "total": 13621.0,
   "condicion": "Pre-owned - Excellent",
@@ -10937,5 +10920,22 @@
   },
   "ratio_mercado": 0.856,
   "motivo": "precio normal (86 % del cuartil bajo de 79377KN)"
+ },
+ {
+  "fecha": "2026-11-06T19:45:14.884438+00:00",
+  "marca": "Rolex",
+  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
+  "total": 15990.01,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327443558005",
+  "item_id": "v1|327443558005|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date (bisel negro, brazalete de acero), referencia no legible en la imagen",
+   "referencia": null,
+   "precio_justo_usd": 12500,
+   "interesante": false,
+   "nota": "Referencia no visible; con caja y papeles completos, el precio pedido está por encima de lo que se vende este modelo en EE. UU. Sin confirmar referencia ni generación, no es una oportunidad."
+  },
+  "motivo": "triage: Referencia no visible; con caja y papeles completos, el precio pedido está por encima de lo que se vende este modelo en EE. UU. Sin confirmar referencia ni generación, no es una oportunidad. (justo 12500)"
  }
 ]
