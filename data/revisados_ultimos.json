@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-03T21:57:49.393540+00:00",
   "marca": "Rolex",
-  "titulo": "2004 MINT Rolex 114270 Explorer Black Arabic Steel 36mm Oyster Watch Box",
-  "total": 6759.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307264828204",
-  "item_id": "v1|307264828204|0",
-  "referencia": "114270",
-  "mercado": {
-   "n": 8,
-   "p25": 6990,
-   "mediana": 7356
-  },
-  "ratio_mercado": 0.967,
-  "motivo": "precio normal (97 % del cuartil bajo de 114270)"
- },
- {
-  "fecha": "2026-11-03T21:57:49.393540+00:00",
-  "marca": "Rolex",
-  "titulo": "MINT 2008 Rolex Submariner 16613LB Yellow Gold Two Tone Steel Blue Watch Box",
-  "total": 12415.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307264828170",
-  "item_id": "v1|307264828170|0",
-  "referencia": "16613LB",
-  "mercado": {
-   "n": 8,
-   "p25": 12000,
-   "mediana": 12615
-  },
-  "ratio_mercado": 1.035,
-  "motivo": "precio normal (103 % del cuartil bajo de 16613LB)"
- },
- {
-  "fecha": "2026-11-03T21:57:49.393540+00:00",
-  "marca": "Rolex",
   "titulo": "MINT PAPERS Rolex 116400GV Milgauss Green Anniversary Orange Black Steel Watch",
   "total": 10597.05,
   "condicion": "Pre-owned - Excellent",
@@ -10983,5 +10949,45 @@
   },
   "ratio_mercado": 1.089,
   "motivo": "precio normal (109 % del cuartil bajo de 124270)"
+ },
+ {
+  "fecha": "2026-11-06T02:59:36.909978+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 126331 “Motif Dial” Full Set",
+  "total": 20100.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206678922431",
+  "item_id": "v1|206678922431|0",
+  "referencia": "126331",
+  "mercado": {
+   "n": 43,
+   "p25": 15990,
+   "mediana": 16500
+  },
+  "ratio_mercado": 1.257,
+  "motivo": "precio normal (126 % del cuartil bajo de 126331)"
+ },
+ {
+  "fecha": "2026-11-06T02:59:36.909978+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust, 126334 White Roman Dial, Jubilee Bracelet",
+  "total": 15495.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/117507177160",
+  "item_id": "v1|117507177160|0",
+  "referencia": "126334",
+  "mercado": {
+   "n": 1,
+   "p25": 10389,
+   "mediana": 10389
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 41 (acero y oro blanco, bisel acanalado, esfera blanca con numerales romanos, brazalete Jubilee)",
+   "referencia": "126334",
+   "precio_justo_usd": 13500,
+   "interesante": false,
+   "nota": "Referencia de producción actual, por encima del retail en el mercado secundario, pero el precio pedido de US$15,495 supera claramente el valor de venta real estimado para estado excelente."
+  },
+  "motivo": "triage: Referencia de producción actual, por encima del retail en el mercado secundario, pero el precio pedido de US$15,495 supera claramente el valor de venta real estimado para estado excelente. (justo 13500)"
  }
 ]
