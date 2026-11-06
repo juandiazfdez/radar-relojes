@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-04T14:13:21.550249+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Ref. 4542 Sabre Lugs — Circa 1946, 33mm",
-  "total": 2768.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/257834436108",
-  "item_id": "v1|257834436108|0",
-  "triage": {
-   "modelo": "Reloj de vestir vintage, esfera plateada, caja redonda de acero, correa de cuero marrón (Rolex según el título, no verificable en la foto)",
-   "referencia": "4542",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "La foto no muestra corona ni logotipo Rolex visibles; autenticidad no verificable. Si fuera genuino, el precio está cerca del mercado, sin descuento de 15 %."
-  },
-  "motivo": "triage: La foto no muestra corona ni logotipo Rolex visibles; autenticidad no verificable. Si fuera genuino, el precio está cerca del mercado, sin descuento de 15 %. (justo 3000)"
- },
- {
-  "fecha": "2026-11-04T14:28:21.517321+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona Chronograph 18k Yellow Gold White Arabic 40mm Watch B/P P 116518",
-  "total": 38150.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366784965695",
-  "item_id": "v1|366784965695|0",
-  "referencia": "116518",
-  "mercado": {
-   "n": 37,
-   "p25": 36999,
-   "mediana": 47445
-  },
-  "ratio_mercado": 1.031,
-  "motivo": "precio normal (103 % del cuartil bajo de 116518)"
- },
- {
   "fecha": "2026-11-04T14:28:21.517321+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Pearlmaster 18k Rose Gold Chocolate Diamond VI Ladies 34mm Watch 81315",
@@ -10981,5 +10947,39 @@
    "nota": "Precio pedido de US$3295 está cerca del valor de mercado para un Royal bicolor en buen estado con caja y papeles; no hay descuento de al menos 15 %."
   },
   "motivo": "triage: Precio pedido de US$3295 está cerca del valor de mercado para un Royal bicolor en buen estado con caja y papeles; no hay descuento de al menos 15 %. (justo 3400)"
+ },
+ {
+  "fecha": "2026-11-06T15:29:59.852422+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 16013 Navy Blue Silver Script 18K Gold Steel Jubilee 1985 Box",
+  "total": 5285.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137907964567",
+  "item_id": "v1|137907964567|0",
+  "referencia": "16013",
+  "mercado": {
+   "n": 25,
+   "p25": 3859,
+   "mediana": 4700
+  },
+  "ratio_mercado": 1.37,
+  "motivo": "precio normal (137 % del cuartil bajo de 16013)"
+ },
+ {
+  "fecha": "2026-11-06T15:29:59.852422+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster XL Chronograph Steel Automatic Mens Watch W62020X6 Box Papers",
+  "total": 6340.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336883587358",
+  "item_id": "v1|336883587358|0",
+  "triage": {
+   "modelo": "Cartier Roadster XL Chronograph (acero, automático, esfera negra)",
+   "referencia": "W62020X6",
+   "precio_justo_usd": 6800,
+   "interesante": false,
+   "nota": "Precio pedido unos 7 % por debajo de una estimación conservadora para este modelo con caja y papeles; no alcanza el umbral del 15 %."
+  },
+  "motivo": "triage: Precio pedido unos 7 % por debajo de una estimación conservadora para este modelo con caja y papeles; no alcanza el umbral del 15 %. (justo 6800)"
  }
 ]
