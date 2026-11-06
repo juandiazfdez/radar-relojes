@@ -2,63 +2,6 @@
  {
   "fecha": "2026-11-03T21:57:49.393540+00:00",
   "marca": "Rolex",
-  "titulo": "MINT PAPERS Rolex 116400GV Milgauss Green Anniversary Orange Black Steel Watch",
-  "total": 10597.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307264828136",
-  "item_id": "v1|307264828136|0",
-  "referencia": "116400GV",
-  "mercado": {
-   "n": 29,
-   "p25": 11918,
-   "mediana": 13627
-  },
-  "ratio_mercado": 0.889,
-  "motivo": "precio normal (89 % del cuartil bajo de 116400GV)"
- },
- {
-  "fecha": "2026-11-03T21:57:49.393540+00:00",
-  "marca": "Rolex",
-  "titulo": "MINT 2023 Ladies Rolex DateJust 31mm Aubergine Roman Gold Diamond 278384RBR",
-  "total": 18172.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287702773454",
-  "item_id": "v1|287702773454|0",
-  "referencia": "278384RBR",
-  "mercado": {
-   "n": 1,
-   "p25": 21950,
-   "mediana": 21950
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 31 acero con bisel de diamantes, esfera aubergine con numerales romanos y diamantes",
-   "referencia": "278384RBR",
-   "precio_justo_usd": 12500,
-   "interesante": false,
-   "nota": "Precio pedido de US$18.172 muy por encima del valor de mercado para esta referencia (2023, con caja y papeles); no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$18.172 muy por encima del valor de mercado para esta referencia (2023, con caja y papeles); no es una oportunidad. (justo 12500)"
- },
- {
-  "fecha": "2026-11-03T21:57:49.393540+00:00",
-  "marca": "Rolex",
-  "titulo": "MINT 2018 Rolex 214270 Explorer Black Arabic Lume Steel 39mm Mk2 Oyster Watch",
-  "total": 8375.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307264825052",
-  "item_id": "v1|307264825052|0",
-  "referencia": "214270",
-  "mercado": {
-   "n": 23,
-   "p25": 8349,
-   "mediana": 9486
-  },
-  "ratio_mercado": 1.003,
-  "motivo": "precio normal (100 % del cuartil bajo de 214270)"
- },
- {
-  "fecha": "2026-11-03T21:57:49.393540+00:00",
-  "marca": "Rolex",
   "titulo": "MINT 2018 PAPERS Rolex 214270 Explorer Black BLUE LUME 3-6-9 Steel 39mm Watch",
   "total": 9486.05,
   "condicion": "Pre-owned - Excellent",
@@ -10989,5 +10932,62 @@
    "nota": "Referencia de producción actual, por encima del retail en el mercado secundario, pero el precio pedido de US$15,495 supera claramente el valor de venta real estimado para estado excelente."
   },
   "motivo": "triage: Referencia de producción actual, por encima del retail en el mercado secundario, pero el precio pedido de US$15,495 supera claramente el valor de venta real estimado para estado excelente. (justo 13500)"
+ },
+ {
+  "fecha": "2026-11-06T03:44:37.500827+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 116610LV Green Hulk 2019 FULL SET Oyster Steel",
+  "total": 22150.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840098782619",
+  "item_id": "v1|840098782619|0",
+  "referencia": "116610LV",
+  "mercado": {
+   "n": 29,
+   "p25": 19890,
+   "mediana": 20997
+  },
+  "ratio_mercado": 1.114,
+  "motivo": "precio normal (111 % del cuartil bajo de 116610LV)"
+ },
+ {
+  "fecha": "2026-11-06T03:44:37.500827+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 36mm DayDate President  1803 18k Solid Yellow Gold Automatic 1954-58s",
+  "total": 8900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257837833435",
+  "item_id": "v1|257837833435|0",
+  "triage": {
+   "modelo": "Rolex Day-Date 36 mm, oro amarillo 18k, esfera negra con indices de diamante (posible variante no estandar)",
+   "referencia": "1803",
+   "precio_justo_usd": 11500,
+   "interesante": false,
+   "nota": "Precio 20-25% bajo mercado, pero el titulo da fechas inconsistentes (1803 es de 1962-77, no 1954-58), la correa de piel no es el President original y la esfera con diamantes podria no ser original. Requiere verificacion de autenticidad y papeles antes de comprar."
+  },
+  "motivo": "triage: Precio 20-25% bajo mercado, pero el titulo da fechas inconsistentes (1803 es de 1962-77, no 1954-58), la correa de piel no es el President original y la esfera con diamantes podria no ser original. Requiere verificacion de autenticidad y papeles antes de comprar. (justo 11500)"
+ },
+ {
+  "fecha": "2026-11-06T03:44:37.500827+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos WSSA0018 39.8mm Automatic Steel No Box or Card",
+  "total": 6490.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820322238331",
+  "item_id": "v1|820322238331|0",
+  "referencia": "WSSA0018",
+  "mercado": {
+   "n": 31,
+   "p25": 8175,
+   "mediana": 9999
+  },
+  "ratio_mercado": 0.794,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 5600,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado con desgaste visible: rayones en caja y brazalete, bisel pulido y suavizado, sin caja ni papeles"
+  },
+  "motivo": "Claude descarto: Precio pedido de US$6,490 sin caja ni papeles. Un WSSA0018 usado y completo cierra aprox. entre US$5,800 y 6,800, y sin caja ni papeles y con desgaste ronda US$5,400-5,900. No queda margen para reventa.; Los comparables de eBay (mediana US$9,999, cuartil bajo US$8,175) son precios pedidos inflados y no sirven como referencia de venta real. Precio justo conservador: ~US$5,600."
  }
 ]
