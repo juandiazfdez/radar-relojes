@@ -1,80 +1,6 @@
 [
  {
   "fecha": "2026-11-04T15:58:32.075300+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Automatic Watch Stainless Steel 31",
-  "total": 8000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128175014844",
-  "item_id": "v1|128175014844|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual 31 mm, acero, esfera blanca con marcadores de color",
-   "referencia": "177200 o 277200 (no se distingue con certeza en la foto)",
-   "precio_justo_usd": 6000,
-   "interesante": false,
-   "nota": "Precio pedido de US$8,000 con envío, bastante por encima del valor de venta cerrada para una OP 31 en buen estado; no se ve caja ni papeles. Sin oferta clara."
-  },
-  "motivo": "triage: Precio pedido de US$8,000 con envío, bastante por encima del valor de venta cerrada para una OP 31 en buen estado; no se ve caja ni papeles. Sin oferta clara. (justo 6000)"
- },
- {
-  "fecha": "2026-11-04T15:58:32.075300+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Datejust Automatic Watch Stainless Steel and White Gold",
-  "total": 8940.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117504326189",
-  "item_id": "v1|117504326189|0",
-  "triage": {
-   "modelo": "Rolex Lady-Datejust 26 mm, acero y oro blanco, bisel acanalado, esfera blanca con marcadores de diamante, brazalete Jubilee",
-   "referencia": "69174 o 79174 (probable, sin confirmar)",
-   "precio_justo_usd": 6000,
-   "interesante": false,
-   "nota": "Precio pedido de US$8.940 con envío, muy por encima del mercado secundario estimado para esta referencia en estado Good. Confirmar referencia, esfera y papeles antes de cualquier decisión."
-  },
-  "motivo": "triage: Precio pedido de US$8.940 con envío, muy por encima del mercado secundario estimado para esta referencia en estado Good. Confirmar referencia, esfera y papeles antes de cualquier decisión. (justo 6000)"
- },
- {
-  "fecha": "2026-11-04T15:58:32.075300+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Americaine 2490 Automatic 18K White Gold Diamond Bracelet",
-  "total": 31595.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880082665584",
-  "item_id": "v1|880082665584|0",
-  "referencia": "2490",
-  "mercado": {
-   "n": 2,
-   "p25": 7250,
-   "mediana": 16125
-  },
-  "triage": {
-   "modelo": "Cartier Tank Américaine (diamantes en bisel y brazalete, oro blanco 18K)",
-   "referencia": "2490 (según título; no verificable en la foto)",
-   "precio_justo_usd": 24000,
-   "interesante": false,
-   "nota": "Precio pedido por encima de lo que estas piezas de diamantes en oro blanco suelen cerrar en EE. UU.; el título menciona automático y no se puede verificar en la imagen."
-  },
-  "motivo": "triage: Precio pedido por encima de lo que estas piezas de diamantes en oro blanco suelen cerrar en EE. UU.; el título menciona automático y no se puede verificar en la imagen. (justo 24000)"
- },
- {
-  "fecha": "2026-11-04T15:58:32.075300+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere Vendome W25030B6 15744 24mm Small Steel Yellow Gold Ladies",
-  "total": 4025.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257834583893",
-  "item_id": "v1|257834583893|0",
-  "triage": {
-   "modelo": "Cartier Panthère Vendôme (acero y oro amarillo, cuarzo, 24 mm, dama)",
-   "referencia": "W25030B6 (el título menciona también 15744; no coinciden, hay que verificarla)",
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "Precio pedido de US$4,025 muy por encima del valor de venta real de este modelo de cuarzo bitono usado, aunque la referencia del título no coincide con la imagen."
-  },
-  "motivo": "triage: Precio pedido de US$4,025 muy por encima del valor de venta real de este modelo de cuarzo bitono usado, aunque la referencia del título no coincide con la imagen. (justo 2200)"
- },
- {
-  "fecha": "2026-11-04T15:58:32.075300+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Ranger 79950 39mm Automatic Steel Bracelet – Excellent Condition",
   "total": 2699.0,
@@ -10968,5 +10894,73 @@
    "nota": "La referencia 7943A1A0NU no se distingue con certeza en la foto; el precio pedido de US$3995 supera el mercado de segunda mano para un Black Bay de acero en estado Good."
   },
   "motivo": "triage: La referencia 7943A1A0NU no se distingue con certeza en la foto; el precio pedido de US$3995 supera el mercado de segunda mano para un Black Bay de acero en estado Good. (justo 3100)"
+ },
+ {
+  "fecha": "2026-11-06T17:45:00.242497+00:00",
+  "marca": "Rolex",
+  "titulo": "Ladies' Rolex Oyster Perpetual Watch in Stainless Steel w/Diamonds Ref.6618",
+  "total": 3500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327443447355",
+  "item_id": "v1|327443447355|0",
+  "referencia": "6618",
+  "mercado": {
+   "n": 9,
+   "p25": 2635,
+   "mediana": 2825
+  },
+  "ratio_mercado": 1.328,
+  "motivo": "precio normal (133 % del cuartil bajo de 6618)"
+ },
+ {
+  "fecha": "2026-11-06T17:45:00.242497+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer Ref. 214270 MK1 39mm Automatic Oyster Perpetual Wristwatch",
+  "total": 7599.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137908297293",
+  "item_id": "v1|137908297293|0",
+  "referencia": "214270",
+  "mercado": {
+   "n": 23,
+   "p25": 8375,
+   "mediana": 9486
+  },
+  "ratio_mercado": 0.907,
+  "motivo": "precio normal (91 % del cuartil bajo de 214270)"
+ },
+ {
+  "fecha": "2026-11-06T17:45:00.242497+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 126710GRNR GMT-Master II 40 mm Bruce Wayne Jubilee Box & Papers 2026",
+  "total": 23500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800885643424",
+  "item_id": "v1|800885643424|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 63,
+   "p25": 21450,
+   "mediana": 22825
+  },
+  "ratio_mercado": 1.096,
+  "motivo": "precio normal (110 % del cuartil bajo de 126710GRNR)"
+ },
+ {
+  "fecha": "2026-11-06T17:45:00.242497+00:00",
+  "marca": "Rolex",
+  "titulo": "1947 Rolex \"Bubbleback\" Ref. 3372 - Gold & Steel - Automatic Oyster Perpetual",
+  "total": 5800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137908293986",
+  "item_id": "v1|137908293986|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Bubbleback bicolor (acero y oro), años 1940",
+   "referencia": "3372 (no verificable en la foto; la esfera y el dorso no son legibles)",
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "Modelo plausible, pero el precio está solo ~11% por debajo de lo estimado y la foto no permite verificar autenticidad, movimiento ni estado real."
+  },
+  "motivo": "triage: Modelo plausible, pero el precio está solo ~11% por debajo de lo estimado y la foto no permite verificar autenticidad, movimiento ni estado real. (justo 6500)"
  }
 ]
