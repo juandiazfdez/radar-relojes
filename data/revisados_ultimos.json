@@ -2,57 +2,6 @@
  {
   "fecha": "2026-11-03T21:42:52.588529+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex President Day-Date Champagne 18038 Quickset Yellow Gold Leather Watch Box",
-  "total": 10092.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940063347014",
-  "item_id": "v1|940063347014|0",
-  "referencia": "18038",
-  "mercado": {
-   "n": 18,
-   "p25": 9165,
-   "mediana": 10484
-  },
-  "ratio_mercado": 1.101,
-  "motivo": "precio normal (110 % del cuartil bajo de 18038)"
- },
- {
-  "fecha": "2026-11-03T21:42:52.588529+00:00",
-  "marca": "Rolex",
-  "titulo": "MINT Rolex GMT-Master II Pepsi Blue Red Steel 16700 40mm Watch Box",
-  "total": 13526.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307264821465",
-  "item_id": "v1|307264821465|0",
-  "referencia": "16700",
-  "mercado": {
-   "n": 38,
-   "p25": 12800,
-   "mediana": 14539
-  },
-  "ratio_mercado": 1.057,
-  "motivo": "precio normal (106 % del cuartil bajo de 16700)"
- },
- {
-  "fecha": "2026-11-03T21:42:52.588529+00:00",
-  "marca": "Rolex",
-  "titulo": "2003 MINT PAPERS Rolex GMT-Master II Pepsi Blue Red Steel 16710 40mm Watch Box",
-  "total": 16152.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307264821377",
-  "item_id": "v1|307264821377|0",
-  "referencia": "16710",
-  "mercado": {
-   "n": 78,
-   "p25": 13770,
-   "mediana": 14499
-  },
-  "ratio_mercado": 1.173,
-  "motivo": "precio normal (117 % del cuartil bajo de 16710)"
- },
- {
-  "fecha": "2026-11-03T21:42:52.588529+00:00",
-  "marca": "Rolex",
   "titulo": "2023 MINT Rolex Sky-Dweller Yellow Gold Black Oysterflex 336238 Watch Box",
   "total": 34332.05,
   "condicion": "Pre-owned - Excellent",
@@ -10983,5 +10932,62 @@
   },
   "ratio_mercado": 0.951,
   "motivo": "precio normal (95 % del cuartil bajo de 14060M)"
+ },
+ {
+  "fecha": "2026-11-06T01:14:29.349634+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Pelagos 39 2025 Ref (M25407N-0001)",
+  "total": 4700.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/307268945902",
+  "item_id": "v1|307268945902|0",
+  "referencia": "M25407N-0001",
+  "mercado": {
+   "n": 9,
+   "p25": 4364,
+   "mediana": 4590
+  },
+  "ratio_mercado": 1.077,
+  "motivo": "precio normal (108 % del cuartil bajo de M25407N-0001)"
+ },
+ {
+  "fecha": "2026-11-06T01:14:29.349634+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Monarch 2639W1A0U Stainless Steel 39.0mm Box and Papers 8/2026",
+  "total": 6575.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940069174922",
+  "item_id": "v1|940069174922|0",
+  "triage": {
+   "modelo": "Tudor Monarch 39 mm, esfera champán, acero, con subesfera de segundos",
+   "referencia": "2639W1A0U (según título; no verificable en la imagen)",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Pedido de US$6575 muy por encima del mercado secundario para un Monarch de acero con caja y papeles recientes (aprox. US$3,000-3,800). Sobreprecio evidente."
+  },
+  "motivo": "triage: Pedido de US$6575 muy por encima del mercado secundario para un Monarch de acero con caja y papeles recientes (aprox. US$3,000-3,800). Sobreprecio evidente. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-06T01:14:29.349634+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 54 Stainless BLUE 37mm Automatic Watch Men M79000B-0001",
+  "total": 4175.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/237166406541",
+  "item_id": "v1|237166406541|0",
+  "referencia": "M79000B-0001",
+  "mercado": {
+   "n": 2,
+   "p25": 3950,
+   "mediana": 4300
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 54 acero, esfera azul, 37 mm",
+   "referencia": "M79000N-0001 (el listado indica M79000B-0001; verificar)",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Pedido de US$4175 supera el retail actual de este modelo; en estado Fair un precio justo ronda US$3000, y la referencia del listado no coincide con lo que se ve."
+  },
+  "motivo": "triage: Pedido de US$4175 supera el retail actual de este modelo; en estado Fair un precio justo ronda US$3000, y la referencia del listado no coincide con lo que se ve. (justo 3000)"
  }
 ]
