@@ -1,73 +1,5 @@
 [
  {
-  "fecha": "2026-11-04T21:43:43.480352+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX -  36MM ROSE GOLD PRESIDENT REF 118205",
-  "total": 29400.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407340536373",
-  "item_id": "v1|407340536373|0",
-  "referencia": "118205",
-  "mercado": {
-   "n": 16,
-   "p25": 27890,
-   "mediana": 28990
-  },
-  "ratio_mercado": 1.054,
-  "motivo": "precio normal (105 % del cuartil bajo de 118205)"
- },
- {
-  "fecha": "2026-11-04T21:58:43.511352+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 41 \"2026\" 134300",
-  "total": 12634.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336880230784",
-  "item_id": "v1|336880230784|0",
-  "referencia": "134300",
-  "mercado": {
-   "n": 19,
-   "p25": 11888,
-   "mediana": 12485
-  },
-  "ratio_mercado": 1.063,
-  "motivo": "precio normal (106 % del cuartil bajo de 134300)"
- },
- {
-  "fecha": "2026-11-04T21:58:43.511352+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 26mm in 18k and stainless steel",
-  "total": 19401.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206676035327",
-  "item_id": "v1|206676035327|0",
-  "triage": {
-   "modelo": "Rolex Datejust 26 mm acero y oro amarillo de 18k, bisel acanalado, esfera azul, brazalete Jubilee",
-   "referencia": "69173 (probable)",
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de mercado para esta referencia; si no hay diamantes ni variante especial, el listado parece sobrevalorado."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de mercado para esta referencia; si no hay diamantes ni variante especial, el listado parece sobrevalorado. (justo 4500)"
- },
- {
-  "fecha": "2026-11-04T21:58:43.511352+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona 116520 Stainless Steel 40mm auto watch",
-  "total": 35610.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198772721901",
-  "item_id": "v1|198772721901|0",
-  "referencia": "116520",
-  "mercado": {
-   "n": 21,
-   "p25": 22628,
-   "mediana": 23648
-  },
-  "ratio_mercado": 1.574,
-  "motivo": "precio normal (157 % del cuartil bajo de 116520)"
- },
- {
   "fecha": "2026-11-04T21:58:43.511352+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Cellini Danaos 18K White Gold Watch 4233",
@@ -10907,5 +10839,79 @@
    "nota": "Precio pedido por encima del mercado secundario para el 126610LV con caja y papeles; verificar referencia y papeles antes de considerar."
   },
   "motivo": "triage: Precio pedido por encima del mercado secundario para el 126610LV con caja y papeles; verificar referencia y papeles antes de considerar. (justo 16000)"
+ },
+ {
+  "fecha": "2026-11-06T23:30:14.956335+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual DateJust Watch in Stainless Steel w/Diamonds Ref.6519",
+  "total": 4800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327443766964",
+  "item_id": "v1|327443766964|0",
+  "referencia": "6519",
+  "mercado": {
+   "n": 2,
+   "p25": 3300,
+   "mediana": 5091
+  },
+  "triage": {
+   "modelo": "Rolex Datejust de señora, acero, bisel de diamantes, esfera de nácar con marcadores de diamante, brazalete Jubilee (probable Datejust de 26 mm de los años 70-90)",
+   "referencia": null,
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "La referencia 6519 del título no coincide con el tamaño y la esfera visibles; sin confirmar la referencia real, el precio de 4800 USD está por encima del valor estimado."
+  },
+  "motivo": "triage: La referencia 6519 del título no coincide con el tamaño y la esfera visibles; sin confirmar la referencia real, el precio de 4800 USD está por encima del valor estimado. (justo 4300)"
+ },
+ {
+  "fecha": "2026-11-06T23:30:14.956335+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex Oyster Perpetual Datejust 6917 Two Tone 26 mm Ladies Watch",
+  "total": 5020.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168844281852",
+  "item_id": "v1|168844281852|0",
+  "referencia": "6917",
+  "mercado": {
+   "n": 43,
+   "p25": 3990,
+   "mediana": 4100
+  },
+  "ratio_mercado": 1.258,
+  "motivo": "precio normal (126 % del cuartil bajo de 6917)"
+ },
+ {
+  "fecha": "2026-11-06T23:30:14.956335+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sky-Dweller 2026 OCTOBER UNWORN 336934 Blue Jubilee Steel",
+  "total": 27550.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840101871801",
+  "item_id": "v1|840101871801|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller (acero, esfera azul, bisel acanalado, brazalete Jubilee)",
+   "referencia": "336934",
+   "precio_justo_usd": 27000,
+   "interesante": false,
+   "nota": "Precio en línea con el mercado secundario para acero nuevo con caja y papeles; no hay descuento claro de 15 %. Conviene verificar el año indicado en el título (2026) con la tarjeta de garantía."
+  },
+  "motivo": "triage: Precio en línea con el mercado secundario para acero nuevo con caja y papeles; no hay descuento claro de 15 %. Conviene verificar el año indicado en el título (2026) con la tarjeta de garantía. (justo 27000)"
+ },
+ {
+  "fecha": "2026-11-06T23:30:14.956335+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ronde Watch",
+  "total": 2665.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206681013716",
+  "item_id": "v1|206681013716|0",
+  "triage": {
+   "modelo": "Cartier Ronde Solo de Cartier (o Ronde Must) de cuarzo, acero, esfera plateada con números romanos",
+   "referencia": null,
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Modelo probable por estilo de esfera y brazalete; la referencia exacta no se distingue en la foto. El precio pedido está por encima del rango de venta secundaria estimado."
+  },
+  "motivo": "triage: Modelo probable por estilo de esfera y brazalete; la referencia exacta no se distingue en la foto. El precio pedido está por encima del rango de venta secundaria estimado. (justo 2300)"
  }
 ]
