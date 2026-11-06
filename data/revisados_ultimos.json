@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-03T21:42:52.588529+00:00",
   "marca": "Rolex",
-  "titulo": "2026 NEW PAPERS Rolex GMT Master II Bruce Wayne 40mm Jubilee 126710GRNR Watch",
-  "total": 22717.05,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/307264821844",
-  "item_id": "v1|307264821844|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 63,
-   "p25": 21750,
-   "mediana": 22990
-  },
-  "ratio_mercado": 1.044,
-  "motivo": "precio normal (104 % del cuartil bajo de 126710GRNR)"
- },
- {
-  "fecha": "2026-11-03T21:42:52.588529+00:00",
-  "marca": "Rolex",
-  "titulo": "MINT 2023 Rolex Oyster Perpetual 41mm Blue Stick Oyster Watch 124300 Box",
-  "total": 9587.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940063347337",
-  "item_id": "v1|940063347337|0",
-  "referencia": "124300",
-  "mercado": {
-   "n": 35,
-   "p25": 10039,
-   "mediana": 11025
-  },
-  "ratio_mercado": 0.955,
-  "motivo": "precio normal (95 % del cuartil bajo de 124300)"
- },
- {
-  "fecha": "2026-11-03T21:42:52.588529+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Sea-Dweller UNWORN 2026- 43mm Black/Black Oyster 126600",
   "total": 16495.0,
   "condicion": "New with box and papers",
@@ -10983,5 +10949,39 @@
    "nota": "Panthère de cuarzo bitono de los años 90-2000 usado; el precio pedido de US$8600 está muy por encima de lo que se vende realmente en EE. UU., aunque incluya caja."
   },
   "motivo": "triage: Panthère de cuarzo bitono de los años 90-2000 usado; el precio pedido de US$8600 está muy por encima de lo que se vende realmente en EE. UU., aunque incluya caja. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-06T00:44:28.907266+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 26 69173 Pre-owned Box & Papers 1997",
+  "total": 6850.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137906123612",
+  "item_id": "v1|137906123612|0",
+  "referencia": "69173",
+  "mercado": {
+   "n": 25,
+   "p25": 4257,
+   "mediana": 4494
+  },
+  "ratio_mercado": 1.609,
+  "motivo": "precio normal (161 % del cuartil bajo de 69173)"
+ },
+ {
+  "fecha": "2026-11-06T00:44:28.907266+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sky-Dweller 336934-0003 Pre-owned Box & Papers 2024",
+  "total": 20790.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137906122815",
+  "item_id": "v1|137906122815|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller (acero y oro blanco, bisel acanalado blanco, esfera plateada, brazalete Oyster)",
+   "referencia": "336934",
+   "precio_justo_usd": 28000,
+   "interesante": false,
+   "nota": "Precio muy por debajo del mercado secundario para un Sky-Dweller 2024 con caja y papeles; el precio es sospechosamente bajo, así que hay que verificar autenticidad antes de considerarlo."
+  },
+  "motivo": "triage: Precio muy por debajo del mercado secundario para un Sky-Dweller 2024 con caja y papeles; el precio es sospechosamente bajo, así que hay que verificar autenticidad antes de considerarlo. (justo 28000)"
  }
 ]
