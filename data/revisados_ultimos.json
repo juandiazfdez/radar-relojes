@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-04T01:12:59.732921+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 41 79230N Box + Papers 2022",
-  "total": 3400.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137900124601",
-  "item_id": "v1|137900124601|0",
-  "referencia": "79230N",
-  "mercado": {
-   "n": 18,
-   "p25": 3300,
-   "mediana": 3447
-  },
-  "ratio_mercado": 1.03,
-  "motivo": "precio normal (103 % del cuartil bajo de 79230N)"
- },
- {
   "fecha": "2026-11-04T01:28:00.159736+00:00",
   "marca": "Rolex",
   "titulo": "LADIES ROLEX Stainless Steel & 18K Yellow Gold 26mm Datejust 69163 SERVICED ",
@@ -10988,5 +10971,22 @@
    "nota": "Precio pedido US$3585 por encima de lo que se vende este modelo usado con caja y papeles de 2022; no hay descuento suficiente."
   },
   "motivo": "triage: Precio pedido US$3585 por encima de lo que se vende este modelo usado con caja y papeles de 2022; no hay descuento suficiente. (justo 3100)"
+ },
+ {
+  "fecha": "2026-11-06T14:30:00.515041+00:00",
+  "marca": "Rolex",
+  "titulo": "2022 Rolex GMT-Master II #126710BLNR  Jubilee Bracelet “Batgirl” Box & Papers",
+  "total": 18845.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860119090733",
+  "item_id": "v1|860119090733|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 66,
+   "p25": 18200,
+   "mediana": 18900
+  },
+  "ratio_mercado": 1.035,
+  "motivo": "precio normal (104 % del cuartil bajo de 126710BLNR)"
  }
 ]
