@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-03T21:42:52.588529+00:00",
   "marca": "Rolex",
-  "titulo": "2020 NEW PAPERS Rolex 126334 DateJust 41 Blue Roman Jubilee Fluted Watch Box",
-  "total": 15142.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287702770451",
-  "item_id": "v1|287702770451|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 1,
-   "p25": 10389,
-   "mediana": 10389
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 (esfera azul con números romanos, bisel acanalado, brazalete Jubilee, acero y oro blanco)",
-   "referencia": "126334",
-   "precio_justo_usd": 14500,
-   "interesante": false,
-   "nota": "Precio pedido de US$15.142 queda por encima del valor de venta estimado para esta referencia con caja y papeles de 2020, sin descuento de al menos 15 %."
-  },
-  "motivo": "triage: Precio pedido de US$15.142 queda por encima del valor de venta estimado para esta referencia con caja y papeles de 2020, sin descuento de al menos 15 %. (justo 14500)"
- },
- {
-  "fecha": "2026-11-03T21:42:52.588529+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust 14k Gold/Steel Champagne USA Bracelet 36mm Vintage Watch '73 1601",
   "total": 5450.0,
   "condicion": "Pre-owned - Good",
@@ -10989,5 +10966,22 @@
   },
   "ratio_mercado": 0.876,
   "motivo": "precio normal (88 % del cuartil bajo de 179163)"
+ },
+ {
+  "fecha": "2026-11-06T02:14:37.181798+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date 228238 “Ombre Dial” Full Set",
+  "total": 67400.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206678817997",
+  "item_id": "v1|206678817997|0",
+  "referencia": "228238",
+  "mercado": {
+   "n": 31,
+   "p25": 48500,
+   "mediana": 48990
+  },
+  "ratio_mercado": 1.39,
+  "motivo": "precio normal (139 % del cuartil bajo de 228238)"
  }
 ]
