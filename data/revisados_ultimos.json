@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-11-04T00:58:00.874714+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 1953 Rolex Oysterdate - Ref.6294 - 34mm - Two Tone - Red Date Wheel",
-  "total": 2824.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227596640497",
-  "item_id": "v1|227596640497|0",
-  "referencia": "6294",
-  "mercado": {
-   "n": 2,
-   "p25": 3600,
-   "mediana": 3840
-  },
-  "triage": {
-   "modelo": "Rolex Oysterdate (bicolor acero/oro, 34 mm, con ventana de fecha)",
-   "referencia": "6294",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Precio cercano al mercado para un 6294 bicolor de 1953 en estado Good, pero sin margen de 15 % y la autenticidad y el estado del bisel dorado deben verificarse."
-  },
-  "motivo": "triage: Precio cercano al mercado para un 6294 bicolor de 1953 en estado Good, pero sin margen de 15 % y la autenticidad y el estado del bisel dorado deben verificarse. (justo 3000)"
- },
- {
-  "fecha": "2026-11-04T01:12:59.732921+00:00",
-  "marca": "Rolex",
-  "titulo": " Rolex “Tank” NO RESERVE - 1940s 1208 Men’s Watch ",
-  "total": 4995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147663001116",
-  "item_id": "v1|147663001116|0",
-  "triage": {
-   "modelo": "Rolex rectangular vintage (estilo Tank, años 1940s), esfera blanca con numerales arábigos y 'Shock-Resisting'",
-   "referencia": "1208 (según título, sin verificar)",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Título 'Tank' es engañoso (Tank es de Cartier); precio pedido de US$4995 está por encima del valor de mercado para un vintage rectangular Rolex de estado 'Good'."
-  },
-  "motivo": "triage: Título 'Tank' es engañoso (Tank es de Cartier); precio pedido de US$4995 está por encima del valor de mercado para un vintage rectangular Rolex de estado 'Good'. (justo 3000)"
- },
- {
   "fecha": "2026-11-04T01:12:59.732921+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay 41 79230N Box + Papers 2022",
@@ -10994,5 +10954,39 @@
   },
   "ratio_mercado": 0.998,
   "motivo": "precio normal (100 % del cuartil bajo de 16220)"
+ },
+ {
+  "fecha": "2026-11-06T14:15:00.659872+00:00",
+  "marca": "Tudor",
+  "titulo": "New 2026 Tudor Black Bay 58 GMT 9/26 7939G1A0NRU “Coke”",
+  "total": 4848.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/257838624151",
+  "item_id": "v1|257838624151|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 GMT \"Coke\" (acero, bisel negro/burdeos, bracelet Jubilee)",
+   "referencia": "M7939G1A0NRU",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del mercado gris para un modelo nuevo con caja y papeles; no hay descuento significativo."
+  },
+  "motivo": "triage: Precio pedido por encima del mercado gris para un modelo nuevo con caja y papeles; no hay descuento significativo. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-06T14:15:00.659872+00:00",
+  "marca": "Tudor",
+  "titulo": "2022 TUDOR Black Bay 58 39mm Blue Box Papers",
+  "total": 3584.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147669105536",
+  "item_id": "v1|147669105536|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 39mm Navy Blue (esfera negra, bisel azul, brazalete de acero)",
+   "referencia": "M79030B-0001",
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Precio pedido US$3585 por encima de lo que se vende este modelo usado con caja y papeles de 2022; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido US$3585 por encima de lo que se vende este modelo usado con caja y papeles de 2022; no hay descuento suficiente. (justo 3100)"
  }
 ]
