@@ -485,9 +485,14 @@
   "max": 32450
  },
  "Cartier WSBB0044|usado": {
-  "fecha": "2026-10-20",
+  "fecha": "2026-11-06",
   "consulta": "Cartier WSBB0044",
-  "n": 0
+  "n": 1,
+  "mediana": 4800,
+  "p25": 4800,
+  "p75": 4800,
+  "min": 4800,
+  "max": 4800
  },
  "Cartier WSBB0022|usado": {
   "fecha": "2026-10-20",
@@ -3345,14 +3350,14 @@
   "max": 25850
  },
  "Cartier 2324|usado": {
-  "fecha": "2026-10-30",
+  "fecha": "2026-11-06",
   "consulta": "Cartier 2324",
   "n": 22,
-  "mediana": 2397,
+  "mediana": 2475,
   "p25": 2300,
-  "p75": 2622,
+  "p75": 2895,
   "min": 1830,
-  "max": 3150
+  "max": 3353
  },
  "Cartier WSSA0063|usado": {
   "fecha": "2026-10-26",
@@ -7455,11 +7460,11 @@
   "max": 18999
  },
  "Cartier W5310007|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-11-06",
   "consulta": "Cartier W5310007",
-  "n": 3,
-  "mediana": 6548,
-  "p25": 4295,
+  "n": 4,
+  "mediana": 6243,
+  "p25": 5938,
   "p75": 6666,
   "min": 4295,
   "max": 6666
@@ -19698,5 +19703,15 @@
   "p75": 24000,
   "min": 24000,
   "max": 24000
+ },
+ "Tudor 79377KN|usado": {
+  "fecha": "2026-11-06",
+  "consulta": "Tudor 79377KN",
+  "n": 15,
+  "mediana": 8495,
+  "p25": 7940,
+  "p75": 9100,
+  "min": 7500,
+  "max": 11716
  }
 }
