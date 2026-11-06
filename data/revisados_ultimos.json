@@ -1,63 +1,6 @@
 [
  {
   "fecha": "2026-11-03T23:28:00.584264+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere 18K/Stainless Steel Watch 83949",
-  "total": 7500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407337897946",
-  "item_id": "v1|407337897946|0",
-  "triage": {
-   "modelo": "Cartier Panthère de dos tonos (acero y oro amarillo 18K), cuarzo, tamaño mediano",
-   "referencia": "83949",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Precio pedido de US$7500 muy por encima del valor de venta cerrada en EE. UU. para esta referencia de dos tonos; verificar referencia, caja y papeles."
-  },
-  "motivo": "triage: Precio pedido de US$7500 muy por encima del valor de venta cerrada en EE. UU. para esta referencia de dos tonos; verificar referencia, caja y papeles. (justo 4000)"
- },
- {
-  "fecha": "2026-11-03T23:28:00.584264+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Française 1820 18K Yellow Gold Ladies Watch Solid Gold Bracelet",
-  "total": 16000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/820312409092",
-  "item_id": "v1|820312409092|0",
-  "referencia": "1820",
-  "mercado": {
-   "n": 2,
-   "p25": 6818,
-   "mediana": 11759
-  },
-  "triage": {
-   "modelo": "Cartier Tank Française de dama, caja cuadrada en oro amarillo 18K con brazalete integrado de eslabones",
-   "referencia": "null (el listado indica 1820, pero el aspecto corresponde a una Tank Française de oro amarillo, probablemente ref. 2465; verificar)",
-   "precio_justo_usd": 8000,
-   "interesante": false,
-   "nota": "Precio pedido de US$16,000 muy por encima del valor de mercado para este modelo de oro 18K usado; la referencia del título tampoco parece coincidir."
-  },
-  "motivo": "triage: Precio pedido de US$16,000 muy por encima del valor de mercado para este modelo de oro 18K usado; la referencia del título tampoco parece coincidir. (justo 8000)"
- },
- {
-  "fecha": "2026-11-03T23:28:00.584264+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Pelagos 39 M25407N-0001 Full Set",
-  "total": 4295.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960150848429",
-  "item_id": "v1|960150848429|0",
-  "referencia": "M25407N-0001",
-  "mercado": {
-   "n": 7,
-   "p25": 4364,
-   "mediana": 4699
-  },
-  "ratio_mercado": 0.984,
-  "motivo": "precio normal (98 % del cuartil bajo de M25407N-0001)"
- },
- {
-  "fecha": "2026-11-03T23:28:00.584264+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay Chronograph Panda Jubilee Bracelet Full Set 2023",
   "total": 4500.0,
@@ -10989,5 +10932,56 @@
   },
   "ratio_mercado": 0.998,
   "motivo": "precio normal (100 % del cuartil bajo de 126610LN)"
+ },
+ {
+  "fecha": "2026-11-06T05:14:37.011519+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Pasha de Cartier C | Ref 2475 Automatic | 35mm Unisex Watch W/Box",
+  "total": 2399.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227600514937",
+  "item_id": "v1|227600514937|0",
+  "referencia": "2475",
+  "mercado": {
+   "n": 11,
+   "p25": 2515,
+   "mediana": 3128
+  },
+  "ratio_mercado": 0.954,
+  "motivo": "precio normal (95 % del cuartil bajo de 2475)"
+ },
+ {
+  "fecha": "2026-11-06T05:14:37.011519+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise Large Automatic Steel Watch",
+  "total": 5800.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/227598813629",
+  "item_id": "v1|227598813629|0",
+  "triage": {
+   "modelo": "Cartier Tank Française Large (el listado dice Tank Française, pero la imagen muestra una caja cuadrada con tornillos en el bisel y brazalete de eslabones, que se parece más a un Santos de Cartier; verificar)",
+   "referencia": "null",
+   "precio_justo_usd": 4800,
+   "interesante": false,
+   "nota": "Título y fotos no coinciden; para Tank Française Large nuevo en mercado gris, US$5,800 está por encima del precio normal. Si es Santos, el precio sería distinto, así que hay que confirmar referencia y papeles."
+  },
+  "motivo": "triage: Título y fotos no coinciden; para Tank Française Large nuevo en mercado gris, US$5,800 está por encima del precio normal. Si es Santos, el precio sería distinto, así que hay que confirmar referencia y papeles. (justo 4800)"
+ },
+ {
+  "fecha": "2026-11-06T05:14:37.011519+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 Burgundy Jubilee 39mm M7939A1A0RU-0001",
+  "total": 4650.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920110780184",
+  "item_id": "v1|920110780184|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 Burgundy (39 mm, brazalete Jubilee)",
+   "referencia": "M7939A1A0RU-0001",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "El precio pedido de US$4650 supera el retail de esta referencia y muy por encima del mercado secundario para un usado en excelente estado."
+  },
+  "motivo": "triage: El precio pedido de US$4650 supera el retail de esta referencia y muy por encima del mercado secundario para un usado en excelente estado. (justo 3500)"
  }
 ]
