@@ -2,57 +2,6 @@
  {
   "fecha": "2026-11-04T14:43:20.985583+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 18k Yellow Gold/Steel Blue Mens 40mm Watch B/P D 16613",
-  "total": 15200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147666262896",
-  "item_id": "v1|147666262896|0",
-  "referencia": "16613",
-  "mercado": {
-   "n": 91,
-   "p25": 11695,
-   "mediana": 12000
-  },
-  "ratio_mercado": 1.3,
-  "motivo": "precio normal (130 % del cuartil bajo de 16613)"
- },
- {
-  "fecha": "2026-11-04T14:43:20.985583+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II Root Beer Ceramic 18k Rose Gold/Steel B/P '20 126711CHNR",
-  "total": 21088.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147666262900",
-  "item_id": "v1|147666262900|0",
-  "referencia": "126711CHNR",
-  "mercado": {
-   "n": 93,
-   "p25": 20589,
-   "mediana": 21500
-  },
-  "ratio_mercado": 1.024,
-  "motivo": "precio normal (102 % del cuartil bajo de 126711CHNR)"
- },
- {
-  "fecha": "2026-11-04T14:43:20.985583+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust Oysterquartz 14k Yellow Gold/Steel Champagne 36mm Watch '79 17013",
-  "total": 6650.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147666262902",
-  "item_id": "v1|147666262902|0",
-  "referencia": "17013",
-  "mercado": {
-   "n": 18,
-   "p25": 6000,
-   "mediana": 6950
-  },
-  "ratio_mercado": 1.108,
-  "motivo": "precio normal (111 % del cuartil bajo de 17013)"
- },
- {
-  "fecha": "2026-11-04T14:43:20.985583+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex GMT-Master II Steel Ceramic Black/Green 40mm Watch Scrambled 116710",
   "total": 17300.0,
   "condicion": "Pre-owned - Good",
@@ -10969,5 +10918,62 @@
    "nota": "Precio pedido muy por encima del valor de venta real de esta referencia de segunda mano; el listado parece sobrevalorado."
   },
   "motivo": "triage: Precio pedido muy por encima del valor de venta real de esta referencia de segunda mano; el listado parece sobrevalorado. (justo 2300)"
+ },
+ {
+  "fecha": "2026-11-06T16:30:01.950646+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1946 Rolex Bubbleback 14k Pink Gold Perpetual Chronometer Watch Ref.3131",
+  "total": 9033.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920112600785",
+  "item_id": "v1|920112600785|0",
+  "triage": {
+   "modelo": "Rolex Bubbleback (Oyster Perpetual), caja de oro rosa 14k, esfera negra con números árabes",
+   "referencia": "3131 (según el título; no verificable en la foto)",
+   "precio_justo_usd": 10000,
+   "interesante": false,
+   "nota": "Precio cercano al valor de mercado para un bubbleback de oro rosa 14k en buen estado; el 'Perpetual Chronometer' del título es un término de marketing, y la referencia debe verificarse con fotos del movimiento y la caja."
+  },
+  "motivo": "triage: Precio cercano al valor de mercado para un bubbleback de oro rosa 14k en buen estado; el 'Perpetual Chronometer' del título es un término de marketing, y la referencia debe verificarse con fotos del movimiento y la caja. (justo 10000)"
+ },
+ {
+  "fecha": "2026-11-06T16:30:01.950646+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Automatic Watch Stainless Steel 31",
+  "total": 5935.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117508099244",
+  "item_id": "v1|117508099244|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual 31 (esfera salmón, acero, brazalete Oyster)",
+   "referencia": "277200 (probable; confirmar número en el reverso de la caja)",
+   "precio_justo_usd": 6200,
+   "interesante": false,
+   "nota": "Precio pedido de US$5,935 cerca del valor de mercado para esta referencia en estado usado bueno; no hay descuento de al menos 15%."
+  },
+  "motivo": "triage: Precio pedido de US$5,935 cerca del valor de mercado para esta referencia en estado usado bueno; no hay descuento de al menos 15%. (justo 6200)"
+ },
+ {
+  "fecha": "2026-11-06T16:30:01.950646+00:00",
+  "marca": "Tudor",
+  "titulo": "Preowned Tudor Royal Black Roman Ref. M28500-0003",
+  "total": 2450.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940070844420",
+  "item_id": "v1|940070844420|0",
+  "referencia": "M28500-0003",
+  "mercado": {
+   "n": 1,
+   "p25": 3607,
+   "mediana": 3607
+  },
+  "triage": {
+   "modelo": "Tudor Royal (esfera negra, numerales romanos, fecha a las 3, brazalete de acero)",
+   "referencia": "M28500-0003",
+   "precio_justo_usd": 2500,
+   "interesante": false,
+   "nota": "Precio pedido de US$2450 está cerca del valor de mercado para un Royal de acero usado en excelente estado; no supera el umbral del 15 % de descuento."
+  },
+  "motivo": "triage: Precio pedido de US$2450 está cerca del valor de mercado para un Royal de acero usado en excelente estado; no supera el umbral del 15 % de descuento. (justo 2500)"
  }
 ]
