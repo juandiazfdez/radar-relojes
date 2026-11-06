@@ -1,46 +1,5 @@
 [
  {
-  "fecha": "2026-11-04T00:28:00.771357+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR RANGER 79950",
-  "total": 2250.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168836255944",
-  "item_id": "v1|168836255944|0",
-  "referencia": "79950",
-  "mercado": {
-   "n": 11,
-   "p25": 3299,
-   "mediana": 3594
-  },
-  "ratio_mercado": 0.682,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 2400,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Buen estado con desgaste leve en caja; correa NATO no original; caja interior, tarjeta y hang tag incluidos"
-  },
-  "ratio_justo": 0.938,
-  "motivo": "precio normal segun revision (94 % del justo 2400)"
- },
- {
-  "fecha": "2026-11-04T00:43:00.404149+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona 116520-0015 Pre-owned Watch Only",
-  "total": 21060.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137900044581",
-  "item_id": "v1|137900044581|0",
-  "referencia": "116520",
-  "mercado": {
-   "n": 21,
-   "p25": 22628,
-   "mediana": 23648
-  },
-  "ratio_mercado": 0.931,
-  "motivo": "precio normal (93 % del cuartil bajo de 116520)"
- },
- {
   "fecha": "2026-11-04T00:58:00.874714+00:00",
   "marca": "Rolex",
   "titulo": "Vintage 1953 Rolex Oysterdate - Ref.6294 - 34mm - Two Tone - Red Date Wheel",
@@ -11001,5 +10960,39 @@
    "nota": "La referencia no es legible en la foto; con 126610LN o 116610LN el precio de venta cerrada es similar o inferior al pedido, y 'unpolished' no se puede verificar."
   },
   "motivo": "triage: La referencia no es legible en la foto; con 126610LN o 116610LN el precio de venta cerrada es similar o inferior al pedido, y 'unpolished' no se puede verificar. (justo 13500)"
+ },
+ {
+  "fecha": "2026-11-06T14:00:00.634560+00:00",
+  "marca": "Rolex",
+  "titulo": "1947 Rolex \"Bubbleback\" Ref. 3372 - Gold & Steel - Automatic Oyster Perpetual",
+  "total": 5800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137907735633",
+  "item_id": "v1|137907735633|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Bubbleback bicolor (acero y oro), años 40",
+   "referencia": "3372",
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para un bubbleback bicolor de los 40 en estado bueno, pero queda por encima del 15 % de descuento necesario. Verificar autenticidad y ref. exacta antes de comprar."
+  },
+  "motivo": "triage: Precio cercano al mercado para un bubbleback bicolor de los 40 en estado bueno, pero queda por encima del 15 % de descuento necesario. Verificar autenticidad y ref. exacta antes de comprar. (justo 6500)"
+ },
+ {
+  "fecha": "2026-11-06T14:00:00.634560+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 16220 — Oyster Bracelet — Excellent Condition",
+  "total": 5990.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407344591894",
+  "item_id": "v1|407344591894|0",
+  "referencia": "16220",
+  "mercado": {
+   "n": 31,
+   "p25": 6000,
+   "mediana": 7007
+  },
+  "ratio_mercado": 0.998,
+  "motivo": "precio normal (100 % del cuartil bajo de 16220)"
  }
 ]
