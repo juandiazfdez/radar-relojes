@@ -1,86 +1,5 @@
 [
  {
-  "fecha": "2026-11-04T18:58:31.447926+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona Cosmograph BLACK Stainless Steel 40mm 16520 Watch",
-  "total": 24000.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/128173223582",
-  "item_id": "v1|128173223582|0",
-  "referencia": "16520",
-  "mercado": {
-   "n": 16,
-   "p25": 29259,
-   "mediana": 33736
-  },
-  "ratio_mercado": 0.82,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 23500,
-   "riesgo_autenticidad": "medio",
-   "estado": "Aceptable a bueno: caja pulida en servicio, esfera y cristal con marcas visibles, sin caja ni papeles"
-  },
-  "ratio_justo": 1.021,
-  "motivo": "precio normal segun revision (102 % del justo 23500)"
- },
- {
-  "fecha": "2026-11-04T18:58:31.447926+00:00",
-  "marca": "Rolex",
-  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
-  "total": 16450.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/327439684893",
-  "item_id": "v1|327439684893|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date (bisel negro, brazalete de acero)",
-   "referencia": "126610LN (probable; no confirmable en la foto, verificar número de referencia y serie)",
-   "precio_justo_usd": 15000,
-   "interesante": false,
-   "nota": "Set completo a US$16.450 queda por encima de la estimación conservadora de mercado secundario; la referencia y el estado 'unpolished' deben verificarse antes de cualquier oferta."
-  },
-  "motivo": "triage: Set completo a US$16.450 queda por encima de la estimación conservadora de mercado secundario; la referencia y el estado 'unpolished' deben verificarse antes de cualquier oferta. (justo 15000)"
- },
- {
-  "fecha": "2026-11-04T18:58:31.447926+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Solo Small SM 3170 W5200013 Steel Quartz Ladies Watch w/ Papers",
-  "total": 3599.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206675745370",
-  "item_id": "v1|206675745370|0",
-  "referencia": "3170",
-  "mercado": {
-   "n": 4,
-   "p25": 3225,
-   "mediana": 3250
-  },
-  "triage": {
-   "modelo": "Cartier Tank Solo (acero, cuarzo, esfera plateada con números romanos)",
-   "referencia": "W5200013 (verificar; el título menciona \"SM 3170\", que no coincide)",
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "Precio pedido de US$3599 está por encima del valor de venta cerrada estimado para un Tank Solo de acero usado en buen estado con papeles; no hay descuento claro."
-  },
-  "motivo": "triage: Precio pedido de US$3599 está por encima del valor de venta cerrada estimado para un Tank Solo de acero usado en buen estado con papeles; no hay descuento claro. (justo 2800)"
- },
- {
-  "fecha": "2026-11-04T19:13:32.127517+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 40mm 126720VTNR \"Sprite\" On Oyster 2023",
-  "total": 17250.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147666618839",
-  "item_id": "v1|147666618839|0",
-  "referencia": "126720VTNR",
-  "mercado": {
-   "n": 91,
-   "p25": 17999,
-   "mediana": 18500
-  },
-  "ratio_mercado": 0.958,
-  "motivo": "precio normal (96 % del cuartil bajo de 126720VTNR)"
- },
- {
   "fecha": "2026-11-04T19:13:32.127517+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 36 mm Two Tone Jubilee Champagne Automatic Watch 1601 Circa 1974",
@@ -10919,5 +10838,73 @@
   },
   "ratio_mercado": 1.12,
   "motivo": "precio normal (112 % del cuartil bajo de 79230N)"
+ },
+ {
+  "fecha": "2026-11-06T20:30:15.444241+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex DateJust 36MM 16013 18k Gold & SS Jubilee, Fluted 1979 Watch Only",
+  "total": 5500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198778041196",
+  "item_id": "v1|198778041196|0",
+  "referencia": "16013",
+  "mercado": {
+   "n": 25,
+   "p25": 3859,
+   "mediana": 4700
+  },
+  "ratio_mercado": 1.425,
+  "motivo": "precio normal (143 % del cuartil bajo de 16013)"
+ },
+ {
+  "fecha": "2026-11-06T20:30:15.444241+00:00",
+  "marca": "Rolex",
+  "titulo": "RARE EARLY PRODUCTION SUBMARINER CASE Rolex Yacht-Master 16628 18k Gold Bracelet",
+  "total": 23765.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820325280258",
+  "item_id": "v1|820325280258|0",
+  "referencia": "16628",
+  "mercado": {
+   "n": 7,
+   "p25": 24950,
+   "mediana": 25995
+  },
+  "ratio_mercado": 0.953,
+  "motivo": "precio normal (95 % del cuartil bajo de 16628)"
+ },
+ {
+  "fecha": "2026-11-06T20:30:15.444241+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster W62001V3 2510 38mm Large Grey Steel Mens Watch",
+  "total": 4025.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257839181767",
+  "item_id": "v1|257839181767|0",
+  "referencia": "2510",
+  "mercado": {
+   "n": 27,
+   "p25": 4030,
+   "mediana": 4395
+  },
+  "ratio_mercado": 0.999,
+  "motivo": "precio normal (100 % del cuartil bajo de 2510)"
+ },
+ {
+  "fecha": "2026-11-06T20:30:15.444241+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Chronograph Flamingo M79360N-0024 New Box & Papers 2026",
+  "total": 9999.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/137908653791",
+  "item_id": "v1|137908653791|0",
+  "referencia": "M79360N-0024",
+  "mercado": {
+   "n": 17,
+   "p25": 6000,
+   "mediana": 9750
+  },
+  "ratio_mercado": 1.667,
+  "motivo": "precio normal (167 % del cuartil bajo de M79360N-0024)"
  }
 ]
