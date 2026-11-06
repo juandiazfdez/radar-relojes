@@ -1,85 +1,5 @@
 [
  {
-  "fecha": "2026-11-04T16:13:31.578898+00:00",
-  "marca": "Tudor",
-  "titulo": "2018 TUDOR Heritage Chrono 70330B Swiss Made Chronograph Date - Full set",
-  "total": 4455.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/820315754416",
-  "item_id": "v1|820315754416|0",
-  "referencia": "70330B",
-  "mercado": {
-   "n": 1,
-   "p25": 5040,
-   "mediana": 5040
-  },
-  "triage": {
-   "modelo": "Tudor Heritage Chrono (acero, bracelet, esfera azul, cronógrafo con fecha)",
-   "referencia": "70330B",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Precio pedido US$4,455 está muy por encima del mercado de usados en buen estado con caja y papeles (~US$2,900-3,400). Los straps extra suman algo, pero no justifican el precio."
-  },
-  "motivo": "triage: Precio pedido US$4,455 está muy por encima del mercado de usados en buen estado con caja y papeles (~US$2,900-3,400). Los straps extra suman algo, pero no justifican el precio. (justo 3200)"
- },
- {
-  "fecha": "2026-11-04T16:28:32.089147+00:00",
-  "marca": "Rolex",
-  "titulo": "1990 Rolex President Datejust Champagne Diamond Yellow Gold 26mm Box/Papers/Tag",
-  "total": 12790.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237163379517",
-  "item_id": "v1|237163379517|0",
-  "triage": {
-   "modelo": "Rolex Lady-Datejust President, oro amarillo de 18k, bisel acanalado, esfera champán con diamantes, 26 mm",
-   "referencia": "69178",
-   "precio_justo_usd": 9000,
-   "interesante": false,
-   "nota": "Precio pedido de US$12,790 está muy por encima del valor de venta cerrada en EE. UU. para esta referencia, aunque tenga caja y papeles."
-  },
-  "motivo": "triage: Precio pedido de US$12,790 está muy por encima del valor de venta cerrada en EE. UU. para esta referencia, aunque tenga caja y papeles. (justo 9000)"
- },
- {
-  "fecha": "2026-11-04T16:28:32.089147+00:00",
-  "marca": "Cartier",
-  "titulo": "2026 Cartier Santos de Cartier Large 39.8 x 47.5mm Stainless Steel WSSA0071",
-  "total": 8495.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880082714826",
-  "item_id": "v1|880082714826|0",
-  "referencia": "WSSA0071",
-  "mercado": {
-   "n": 1,
-   "p25": 8500,
-   "mediana": 8500
-  },
-  "triage": {
-   "modelo": "Cartier Santos de Cartier Large (acero, esfera azul)",
-   "referencia": "WSSA0071 (según el título; no puedo verificarla solo con la foto)",
-   "precio_justo_usd": 7000,
-   "interesante": false,
-   "nota": "Precio pedido de US$8495 está en o por encima del retail de este modelo, y el mercado gris nuevo con caja y papeles ronda US$6.800-7.500. No cumple el umbral del 15% de descuento."
-  },
-  "motivo": "triage: Precio pedido de US$8495 está en o por encima del retail de este modelo, y el mercado gris nuevo con caja y papeles ronda US$6.800-7.500. No cumple el umbral del 15% de descuento. (justo 7000)"
- },
- {
-  "fecha": "2026-11-04T16:28:32.089147+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Montre Vintage Cartier Must 21 Bracelet En Cuir Watch",
-  "total": 803.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820315776839",
-  "item_id": "v1|820315776839|0",
-  "triage": {
-   "modelo": "Cartier Must 21 de dos tonos (acero y chapado en oro), cuarzo, esfera blanca con numerales romanos, corona con cabochon azul, correa de piel",
-   "referencia": null,
-   "precio_justo_usd": 400,
-   "interesante": false,
-   "nota": "Must 21 de cuarzo vintage con correa de piel; en estado Good se vende normalmente entre US$350 y 450, así que US$803 está muy por encima del mercado."
-  },
-  "motivo": "triage: Must 21 de cuarzo vintage con correa de piel; en estado Good se vende normalmente entre US$350 y 450, así que US$803 está muy por encima del mercado. (justo 400)"
- },
- {
   "fecha": "2026-11-04T16:28:32.089147+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Must De Cartier 21 Stainless Steel Watch",
@@ -10943,5 +10863,79 @@
   },
   "ratio_mercado": 1.361,
   "motivo": "precio normal (136 % del cuartil bajo de 116231)"
+ },
+ {
+  "fecha": "2026-11-06T18:15:00.611363+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 33mm 1954 Rolex Dress Watch Men's Mechanical Wristwatch C.1215 14k Gold",
+  "total": 5650.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137908354588",
+  "item_id": "v1|137908354588|0",
+  "triage": {
+   "modelo": "Tudor vintage de oro 14k, reloj de vestir (posible error de marca en el listado: el dial muestra el escudo de Tudor, no la corona de Rolex)",
+   "referencia": null,
+   "precio_justo_usd": 1800,
+   "interesante": false,
+   "nota": "El dial parece Tudor, no Rolex, y el listado indica Rolex. Aunque sea Tudor de oro 14k de los años 50, el precio pedido de US$5650 está muy por encima de lo que se vende realmente; además la marca sin verificar es una señal de alerta."
+  },
+  "motivo": "triage: El dial parece Tudor, no Rolex, y el listado indica Rolex. Aunque sea Tudor de oro 14k de los años 50, el precio pedido de US$5650 está muy por encima de lo que se vende realmente; además la marca sin verificar es una señal de alerta. (justo 1800)"
+ },
+ {
+  "fecha": "2026-11-06T18:15:00.611363+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31 NEW 2026 Dark Grey Roman Diamond Scattered Diamond Jubilee",
+  "total": 22995.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800885724058",
+  "item_id": "v1|800885724058|0",
+  "triage": {
+   "modelo": "Rolex Datejust 31, acero, bisel acanalado, esfera gris oscuro con numerales romanos y diamantes, brazalete Jubilee",
+   "referencia": "Probablemente 278240 (no verificable con la foto)",
+   "precio_justo_usd": 13500,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de mercado secundario para una Datejust 31 de acero con esfera de diamantes; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de mercado secundario para una Datejust 31 de acero con esfera de diamantes; no es una oportunidad. (justo 13500)"
+ },
+ {
+  "fecha": "2026-11-06T18:15:00.611363+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex Submariner No Date 124060 41mm Automatic Watch - Pristine Box Papers",
+  "total": 13999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137908335593",
+  "item_id": "v1|137908335593|0",
+  "referencia": "124060",
+  "mercado": {
+   "n": 44,
+   "p25": 13627,
+   "mediana": 14227
+  },
+  "ratio_mercado": 1.027,
+  "motivo": "precio normal (103 % del cuartil bajo de 124060)"
+ },
+ {
+  "fecha": "2026-11-06T18:15:00.611363+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Skeleton Stainless Steel Watch & Card WHSA0026 39.8MM",
+  "total": 21488.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257838963877",
+  "item_id": "v1|257838963877|0",
+  "referencia": "WHSA0026",
+  "mercado": {
+   "n": 1,
+   "p25": 24000,
+   "mediana": 24000
+  },
+  "triage": {
+   "modelo": "Cartier Santos Skeleton (esfera esqueleto, acero, bisel azul)",
+   "referencia": "WHSA0026",
+   "precio_justo_usd": 13500,
+   "interesante": false,
+   "nota": "Precio pedido de US$21,488 está muy por encima del valor de venta real de esta referencia de segunda mano en buen estado; la imagen parece un render o foto promocional, conviene verificar que el reloj físico coincida."
+  },
+  "motivo": "triage: Precio pedido de US$21,488 está muy por encima del valor de venta real de esta referencia de segunda mano en buen estado; la imagen parece un render o foto promocional, conviene verificar que el reloj físico coincida. (justo 13500)"
  }
 ]
