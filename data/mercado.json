@@ -3525,13 +3525,13 @@
   "max": 8995
  },
  "Tudor 79833MN|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-11-06",
   "consulta": "Tudor 79833MN",
-  "n": 5,
-  "mediana": 4650,
-  "p25": 4500,
+  "n": 6,
+  "mediana": 4375,
+  "p25": 3895,
   "p75": 4900,
-  "min": 3799,
+  "min": 3772,
   "max": 5395
  },
  "Panerai PAM00297|usado": {
@@ -19603,5 +19603,15 @@
   "fecha": "2026-11-06",
   "consulta": "Tudor 91053",
   "n": 0
+ },
+ "Rolex 5019|usado": {
+  "fecha": "2026-11-06",
+  "consulta": "Rolex 5019",
+  "n": 1,
+  "mediana": 299,
+  "p25": 299,
+  "p75": 299,
+  "min": 299,
+  "max": 299
  }
 }
