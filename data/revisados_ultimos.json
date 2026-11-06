@@ -1,73 +1,5 @@
 [
  {
-  "fecha": "2026-11-04T16:43:32.200499+00:00",
-  "marca": "Rolex",
-  "titulo": "Original Rolex 2030 / 2035 4432 BALANCE Complete Swiss Made",
-  "total": 419.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880082771540",
-  "item_id": "v1|880082771540|0",
-  "triage": {
-   "modelo": "Pieza suelta: volante de balance (balance complete) de movimiento Rolex 2030/2035 (calibre 4432), no un reloj completo",
-   "referencia": "null",
-   "precio_justo_usd": 250,
-   "interesante": false,
-   "nota": "La imagen muestra solo un volante de balance, no un reloj. Es un repuesto de servicio, no un Rolex completo, así que no aplica la lógica de reventa de relojes."
-  },
-  "motivo": "triage: La imagen muestra solo un volante de balance, no un reloj. Es un repuesto de servicio, no un Rolex completo, así que no aplica la lógica de reventa de relojes. (justo 250)"
- },
- {
-  "fecha": "2026-11-04T16:43:32.200499+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36 126203 Motif Diamond Steel Yellow Gold Mens Watch 2024",
-  "total": 15025.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257834690746",
-  "item_id": "v1|257834690746|0",
-  "referencia": "126203",
-  "mercado": {
-   "n": 5,
-   "p25": 13245,
-   "mediana": 13895
-  },
-  "ratio_mercado": 1.134,
-  "motivo": "precio normal (113 % del cuartil bajo de 126203)"
- },
- {
-  "fecha": "2026-11-04T16:43:32.200499+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Royal 2836C1A0-0102 36mm",
-  "total": 2999.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168838508566",
-  "item_id": "v1|168838508566|0",
-  "triage": {
-   "modelo": "Tudor Royal 36mm (calibre 2836, acero)",
-   "referencia": null,
-   "precio_justo_usd": 2850,
-   "interesante": false,
-   "nota": "Precio no está ≥15 % por debajo del valor de mercado; el código 2836C1A0-0102 no coincide con una referencia Tudor conocida, verificar autenticidad y papeles antes de considerar la compra."
-  },
-  "motivo": "triage: Precio no está ≥15 % por debajo del valor de mercado; el código 2836C1A0-0102 no coincide con una referencia Tudor conocida, verificar autenticidad y papeles antes de considerar la compra. (justo 2850)"
- },
- {
-  "fecha": "2026-11-04T16:58:32.838454+00:00",
-  "marca": "Rolex",
-  "titulo": "2025 Rolex GMT-Master II Bruce Wayne Jubilee Brac 126710GRNR Box and Papers",
-  "total": 22835.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800877096107",
-  "item_id": "v1|800877096107|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 87,
-   "p25": 21997,
-   "mediana": 23138
-  },
-  "ratio_mercado": 1.038,
-  "motivo": "precio normal (104 % del cuartil bajo de 126710GRNR)"
- },
- {
   "fecha": "2026-11-04T16:58:32.838454+00:00",
   "marca": "Rolex",
   "titulo": "NEW Rolex 126710BLRO GMT-Master II PEPSI Steel Jubilee 126710 BOX&PAPERS #RL405",
@@ -10932,5 +10864,85 @@
   },
   "ratio_justo": 1.136,
   "motivo": "precio normal segun revision (114 % del justo 5300)"
+ },
+ {
+  "fecha": "2026-11-06T18:45:00.256963+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex Datejust GREEN OMBRE 126334 Jubilee Steel Box Papers Tag Full Set",
+  "total": 21499.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128179631929",
+  "item_id": "v1|128179631929|0",
+  "referencia": "126334",
+  "mercado": {
+   "n": 1,
+   "p25": 10389,
+   "mediana": 10389
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 41 acero con bisel acanalado, esfera verde degradada (ombré), brazalete Jubilee",
+   "referencia": "126334",
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "Precio pedido de US$21.499 muy por encima del valor de venta real de esta referencia en EE. UU.; la descripción de 2026 y el precio elevado no lo justifican."
+  },
+  "motivo": "triage: Precio pedido de US$21.499 muy por encima del valor de venta real de esta referencia en EE. UU.; la descripción de 2026 y el precio elevado no lo justifican. (justo 14000)"
+ },
+ {
+  "fecha": "2026-11-06T18:45:00.256963+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX  Stainless Steel 36mm Datejust 126234 Warranty Box 2024",
+  "total": 12990.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237167944198",
+  "item_id": "v1|237167944198|0",
+  "referencia": "126234",
+  "mercado": {
+   "n": 32,
+   "p25": 12959,
+   "mediana": 14224
+  },
+  "ratio_mercado": 1.002,
+  "motivo": "precio normal (100 % del cuartil bajo de 126234)"
+ },
+ {
+  "fecha": "2026-11-06T18:45:00.256963+00:00",
+  "marca": "Tudor",
+  "titulo": "2024 Tudor Black Bay GMT \"Pepsi\" White Opaline 79830RB-0010 41mm Complete Set!",
+  "total": 3958.95,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880089856569",
+  "item_id": "v1|880089856569|0",
+  "referencia": "79830RB-0010",
+  "mercado": {
+   "n": 50,
+   "p25": 3800,
+   "mediana": 4000
+  },
+  "ratio_mercado": 1.042,
+  "motivo": "precio normal (104 % del cuartil bajo de 79830RB-0010)"
+ },
+ {
+  "fecha": "2026-11-06T18:45:00.256963+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Bronze Bucherer Blue 43mm 79250BB Full Set Excellent Patina",
+  "total": 3915.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198777852869",
+  "item_id": "v1|198777852869|0",
+  "referencia": "79250BB",
+  "mercado": {
+   "n": 2,
+   "p25": 4999,
+   "mediana": 5000
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay Bronze 'Bucherer Blue' 43mm",
+   "referencia": "79250BB",
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "Bronce con esfera azul, edición Bucherer Blue; el precio pedido ronda el retail y está por encima del valor de venta cerrada estimado."
+  },
+  "motivo": "triage: Bronce con esfera azul, edición Bucherer Blue; el precio pedido ronda el retail y está por encima del valor de venta cerrada estimado. (justo 3600)"
  }
 ]
