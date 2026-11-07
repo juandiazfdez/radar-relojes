@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-04T23:13:43.316151+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 2026 SEPTEMBER UNWORN 126710BLRO Pepsi Oyster Steel",
-  "total": 32850.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/840094151600",
-  "item_id": "v1|840094151600|0",
-  "referencia": "126710BLRO",
-  "mercado": {
-   "n": 12,
-   "p25": 28995,
-   "mediana": 32762
-  },
-  "ratio_mercado": 1.133,
-  "motivo": "precio normal (113 % del cuartil bajo de 126710BLRO)"
- },
- {
-  "fecha": "2026-11-04T23:13:43.316151+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Submariner 2026 OCTOBER UNWORN 124060 Steel",
   "total": 15050.0,
   "condicion": "New with box and papers",
@@ -10946,5 +10929,22 @@
    "nota": "Precio pedido por encima del mercado gris para un Tudor nuevo con caja y papeles; referencia exacta y año '2026' no verificables en la foto."
   },
   "motivo": "triage: Precio pedido por encima del mercado gris para un Tudor nuevo con caja y papeles; referencia exacta y año '2026' no verificables en la foto. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-07T04:30:25.830498+00:00",
+  "marca": "Rolex",
+  "titulo": "eLive- Rolex Land-Dweller 40mm Stainless Steel Bracelet 127334",
+  "total": 1.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/128180367872",
+  "item_id": "v1|128180367872|0",
+  "referencia": "127334",
+  "mercado": {
+   "n": 19,
+   "p25": 25178,
+   "mediana": 25747
+  },
+  "ratio_mercado": 0.0,
+  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
  }
 ]
