@@ -2,57 +2,6 @@
  {
   "fecha": "2026-11-05T15:59:19.428032+00:00",
   "marca": "Rolex",
-  "titulo": "Preowned Rolex Oyster Perpetual 34mm Air-King Mother of Pearl Diamond",
-  "total": 3235.05,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237165496567",
-  "item_id": "v1|237165496567|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual 34mm con bisel de diamantes y esfera de nácar rosa (el título dice Air-King, pero la imagen no encaja con ese modelo)",
-   "referencia": null,
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "El Air-King no suele llevar bisel de diamantes; la foto es de baja resolución y no muestra la corona ni el grabado. Autenticidad y referencia sin confirmar, así que no es una oportunidad clara."
-  },
-  "motivo": "triage: El Air-King no suele llevar bisel de diamantes; la foto es de baja resolución y no muestra la corona ni el grabado. Autenticidad y referencia sin confirmar, así que no es una oportunidad clara. (justo 3800)"
- },
- {
-  "fecha": "2026-11-05T15:59:19.428032+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II  \"2017 - Batman\" 116710BLNR",
-  "total": 17285.44,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237165490241",
-  "item_id": "v1|237165490241|0",
-  "referencia": "116710BLNR",
-  "mercado": {
-   "n": 44,
-   "p25": 15999,
-   "mediana": 16850
-  },
-  "ratio_mercado": 1.08,
-  "motivo": "precio normal (108 % del cuartil bajo de 116710BLNR)"
- },
- {
-  "fecha": "2026-11-05T15:59:19.428032+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41 \"2024 - Wimbledon\" 126300",
-  "total": 11986.09,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237165485850",
-  "item_id": "v1|237165485850|0",
-  "referencia": "126300",
-  "mercado": {
-   "n": 22,
-   "p25": 9850,
-   "mediana": 10314
-  },
-  "ratio_mercado": 1.217,
-  "motivo": "precio normal (122 % del cuartil bajo de 126300)"
- },
- {
-  "fecha": "2026-11-05T15:59:19.428032+00:00",
-  "marca": "Rolex",
   "titulo": "2010 Rolex Cosmograph Daytona 116520 40mm Steel Chronograph Complete Set B&P",
   "total": 23999.0,
   "condicion": "Pre-owned - Good",
@@ -11008,5 +10957,56 @@
    "nota": "Precio pedido de US$8000 está por encima del retail actual de esta referencia (aprox. US$7.000-7.300) y del mercado secundario; no representa una oportunidad."
   },
   "motivo": "triage: Precio pedido de US$8000 está por encima del retail actual de esta referencia (aprox. US$7.000-7.300) y del mercado secundario; no representa una oportunidad. (justo 6000)"
+ },
+ {
+  "fecha": "2026-11-07T20:00:57.282602+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 126710BLRO Pepsi Oyster Bracelet Full Set 2023",
+  "total": 24800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407347427200",
+  "item_id": "v1|407347427200|0",
+  "referencia": "126710BLRO",
+  "mercado": {
+   "n": 15,
+   "p25": 23655,
+   "mediana": 24200
+  },
+  "ratio_mercado": 1.048,
+  "motivo": "precio normal (105 % del cuartil bajo de 126710BLRO)"
+ },
+ {
+  "fecha": "2026-11-07T20:00:57.282602+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sky Dweller Two Tone Jubilee Bracelet Ref. 326933-0010",
+  "total": 22500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137911403882",
+  "item_id": "v1|137911403882|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller bicolor (acero y oro amarillo) con brazalete Jubilee y esfera plateada",
+   "referencia": "326933",
+   "precio_justo_usd": 23500,
+   "interesante": false,
+   "nota": "Referencia 326933 bicolor de produccion actual; el precio pedido queda cerca del valor de mercado, no 15% por debajo, y depende de caja y papeles."
+  },
+  "motivo": "triage: Referencia 326933 bicolor de produccion actual; el precio pedido queda cerca del valor de mercado, no 15% por debajo, y depende de caja y papeles. (justo 23500)"
+ },
+ {
+  "fecha": "2026-11-07T20:00:57.282602+00:00",
+  "marca": "Cartier",
+  "titulo": "2020 Cartier Tank Solo Small | Ref W5200013 3170 | Steel Quartz | Box & Papers",
+  "total": 3695.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880092996453",
+  "item_id": "v1|880092996453|0",
+  "referencia": "W5200013",
+  "mercado": {
+   "n": 6,
+   "p25": 3350,
+   "mediana": 3512
+  },
+  "ratio_mercado": 1.103,
+  "motivo": "precio normal (110 % del cuartil bajo de W5200013)"
  }
 ]
