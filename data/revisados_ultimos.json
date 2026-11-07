@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T14:14:07.541929+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ronde Solo de Cartier Quartz Watch Stainless Steel 36",
-  "total": 3705.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128176945024",
-  "item_id": "v1|128176945024|0",
-  "triage": {
-   "modelo": "Cartier Ronde Solo de Cartier, cuarzo, acero, 36 mm, con fecha",
-   "referencia": "WSRN0021 (probable; podría ser W6701011 de la generación anterior)",
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "Precio pedido de US$3,705 con envío, por encima del valor de venta usado en EE. UU. para este modelo en buen estado (aprox. US$2,600-3,000). No es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$3,705 con envío, por encima del valor de venta usado en EE. UU. para este modelo en buen estado (aprox. US$2,600-3,000). No es una oportunidad. (justo 2800)"
- },
- {
-  "fecha": "2026-11-05T14:29:18.863585+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Authentic Ladies Cartier Tank Watch Presentation Box Cartier Gift Bag",
-  "total": 2650.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800880986741",
-  "item_id": "v1|800880986741|0",
-  "triage": {
-   "modelo": "Cartier Tank Must (vermeil, cuarzo, esfera blanca con números romanos)",
-   "referencia": null,
-   "precio_justo_usd": 1000,
-   "interesante": false,
-   "nota": "Precio pedido de US$2650 muy por encima del valor de mercado de un Tank Must de vermeil usado; el titulo menciona caja y bolsa, posible listado enganoso o sobrevalorado."
-  },
-  "motivo": "triage: Precio pedido de US$2650 muy por encima del valor de mercado de un Tank Must de vermeil usado; el titulo menciona caja y bolsa, posible listado enganoso o sobrevalorado. (justo 1000)"
- },
- {
-  "fecha": "2026-11-05T14:29:18.863585+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise Automatic Watch Stainless Steel and Yellow Gold 28",
-  "total": 6830.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128176957702",
-  "item_id": "v1|128176957702|0",
-  "triage": {
-   "modelo": "Cartier Tank Française acero y oro amarillo, 28 mm",
-   "referencia": null,
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "Precio pedido de US$6,830 muy por encima del mercado de segunda mano para este modelo bicolor; la referencia exacta no se distingue en la foto."
-  },
-  "motivo": "triage: Precio pedido de US$6,830 muy por encima del mercado de segunda mano para este modelo bicolor; la referencia exacta no se distingue en la foto. (justo 4500)"
- },
- {
   "fecha": "2026-11-05T14:29:18.863585+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Ballon Bleu de Cartier Automatic Watch Stainless Steel 36",
@@ -10940,5 +10889,56 @@
    "nota": "Precio pedido cercano al valor de mercado para esta variante full pavé; no cumple el 15% de descuento y conviene verificar autenticidad de diamantes y movimiento."
   },
   "motivo": "triage: Precio pedido cercano al valor de mercado para esta variante full pavé; no cumple el 15% de descuento y conviene verificar autenticidad de diamantes y movimiento. (justo 27000)"
+ },
+ {
+  "fecha": "2026-11-07T15:00:46.564516+00:00",
+  "marca": "Rolex",
+  "titulo": "2021 RSC Rolex Milgauss 116400 White Orange Stainless Steel 40mm Box Papers",
+  "total": 10897.87,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940073148270",
+  "item_id": "v1|940073148270|0",
+  "referencia": "116400",
+  "mercado": {
+   "n": 46,
+   "p25": 11575,
+   "mediana": 12134
+  },
+  "ratio_mercado": 0.942,
+  "motivo": "precio normal (94 % del cuartil bajo de 116400)"
+ },
+ {
+  "fecha": "2026-11-07T15:00:46.564516+00:00",
+  "marca": "Rolex",
+  "titulo": "2016 Rolex Submariner Date 116610 LN Black Stainless Steel 40mm Watch Box Papers",
+  "total": 12632.07,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940073136345",
+  "item_id": "v1|940073136345|0",
+  "referencia": "116610",
+  "mercado": {
+   "n": 46,
+   "p25": 12450,
+   "mediana": 12670
+  },
+  "ratio_mercado": 1.015,
+  "motivo": "precio normal (101 % del cuartil bajo de 116610)"
+ },
+ {
+  "fecha": "2026-11-07T15:00:46.564516+00:00",
+  "marca": "Rolex",
+  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
+  "total": 15991.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327444674318",
+  "item_id": "v1|327444674318|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date (bisel y esfera negros, acero)",
+   "referencia": "116610LN o 126610LN (no legible en la imagen)",
+   "precio_justo_usd": 13000,
+   "interesante": false,
+   "nota": "Set completo con caja y papeles, pero el precio pedido supera el valor de venta estimado; el listado indica que no está pulido, lo que reduce su valor."
+  },
+  "motivo": "triage: Set completo con caja y papeles, pero el precio pedido supera el valor de venta estimado; el listado indica que no está pulido, lo que reduce su valor. (justo 13000)"
  }
 ]
