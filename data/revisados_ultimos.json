@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T14:29:18.863585+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu de Cartier Automatic Watch Stainless Steel 36",
-  "total": 4745.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117506247835",
-  "item_id": "v1|117506247835|0",
-  "triage": {
-   "modelo": "Cartier Ballon Bleu de Cartier Automatic 36 mm, acero",
-   "referencia": "W69012Z4 (probable; no verificable en la imagen)",
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "Esfera plateada con números romanos y manecillas azules, en acero con brazalete; precio pedido unos 10 % por encima de la estimación de venta real para estado 'Good' sin confirmar caja y papeles."
-  },
-  "motivo": "triage: Esfera plateada con números romanos y manecillas azules, en acero con brazalete; precio pedido unos 10 % por encima de la estimación de venta real para estado 'Good' sin confirmar caja y papeles. (justo 4300)"
- },
- {
-  "fecha": "2026-11-05T14:44:19.013772+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust Thunderbird Turnograph Steel Mens 36mm Watch W 16264",
-  "total": 7150.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117506292170",
-  "item_id": "v1|117506292170|0",
-  "referencia": "16264",
-  "mercado": {
-   "n": 5,
-   "p25": 6995,
-   "mediana": 7270
-  },
-  "ratio_mercado": 1.022,
-  "motivo": "precio normal (102 % del cuartil bajo de 16264)"
- },
- {
-  "fecha": "2026-11-05T14:44:19.013772+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona Chronograph Steel & Ceramic Black 40mm Watch +Card '24 126500",
-  "total": 36150.0,
-  "condicion": "New with imperfections",
-  "url": "https://www.ebay.com/itm/117506292171",
-  "item_id": "v1|117506292171|0",
-  "referencia": "126500",
-  "mercado": {
-   "n": 30,
-   "p25": 34085,
-   "mediana": 37960
-  },
-  "ratio_mercado": 1.061,
-  "motivo": "precio normal (106 % del cuartil bajo de 126500)"
- },
- {
   "fecha": "2026-11-05T14:44:19.013772+00:00",
   "marca": "Rolex",
   "titulo": "NEW Rolex Submariner Date \"Starbucks\" Steel Oyster 41mm Watch B/P '25 126610",
@@ -10940,5 +10889,56 @@
    "nota": "Set completo con caja y papeles, pero el precio pedido supera el valor de venta estimado; el listado indica que no está pulido, lo que reduce su valor."
   },
   "motivo": "triage: Set completo con caja y papeles, pero el precio pedido supera el valor de venta estimado; el listado indica que no está pulido, lo que reduce su valor. (justo 13000)"
+ },
+ {
+  "fecha": "2026-11-07T15:15:46.046507+00:00",
+  "marca": "Rolex",
+  "titulo": "2015 Rolex Oyster Perpetual 114200 Silver 3-6-9 Steel Oyster 34mm Box Papers",
+  "total": 6818.33,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267836497872",
+  "item_id": "v1|267836497872|0",
+  "referencia": "114200",
+  "mercado": {
+   "n": 31,
+   "p25": 6995,
+   "mediana": 7500
+  },
+  "ratio_mercado": 0.975,
+  "motivo": "precio normal (97 % del cuartil bajo de 114200)"
+ },
+ {
+  "fecha": "2026-11-07T15:15:46.046507+00:00",
+  "marca": "Rolex",
+  "titulo": "2024 Rolex GMT-Master II 126710 GRNR Bruce Wayne Ceramic Steel Oyster Box Papers",
+  "total": 20078.79,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940073166334",
+  "item_id": "v1|940073166334|0",
+  "referencia": "126710",
+  "mercado": {
+   "n": 27,
+   "p25": 17199,
+   "mediana": 17900
+  },
+  "ratio_mercado": 1.167,
+  "motivo": "precio normal (117 % del cuartil bajo de 126710)"
+ },
+ {
+  "fecha": "2026-11-07T15:15:46.046507+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Fifty-Eight 79010SG Silver Box and Papers Clean Mens Watch 925",
+  "total": 4014.98,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/117509583220",
+  "item_id": "v1|117509583220|0",
+  "referencia": "79010SG",
+  "mercado": {
+   "n": 12,
+   "p25": 3950,
+   "mediana": 4158
+  },
+  "ratio_mercado": 1.016,
+  "motivo": "precio normal (102 % del cuartil bajo de 79010SG)"
  }
 ]
