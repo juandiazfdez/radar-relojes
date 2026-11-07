@@ -1,69 +1,6 @@
 [
  {
   "fecha": "2026-11-05T15:59:19.428032+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Roadster Chronograph W6206020 Box & papers",
-  "total": 5999.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336881581658",
-  "item_id": "v1|336881581658|0",
-  "referencia": "W6206020",
-  "mercado": {
-   "n": 1,
-   "p25": 4199,
-   "mediana": 4199
-  },
-  "triage": {
-   "modelo": "Cartier Roadster Chronograph (acero, esfera blanca, correa de caucho negra)",
-   "referencia": "W6206020",
-   "precio_justo_usd": 4200,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta cerrada para esta referencia de acero de segunda mano; no cumple el descuento del 15 %."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta cerrada para esta referencia de acero de segunda mano; no cumple el descuento del 15 %. (justo 4200)"
- },
- {
-  "fecha": "2026-11-05T15:59:19.428032+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 41 \"2025\" 7941A1A0NU",
-  "total": 4785.14,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237165482003",
-  "item_id": "v1|237165482003|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 41 (esfera negra, brazalete de acero)",
-   "referencia": "M7941A1A0NU",
-   "precio_justo_usd": 3100,
-   "interesante": false,
-   "nota": "Precio pedido de US$4785 por encima del retail (~US$3975) y del mercado gris actual; estimo US$3100 para usado en buen estado."
-  },
-  "motivo": "triage: Precio pedido de US$4785 por encima del retail (~US$3975) y del mercado gris actual; estimo US$3100 para usado en buen estado. (justo 3100)"
- },
- {
-  "fecha": "2026-11-05T15:59:19.428032+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor 1926 Luna \"2026 - Champagne\" M91560-0001",
-  "total": 2710.34,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336881564318",
-  "item_id": "v1|336881564318|0",
-  "referencia": "M91560-0001",
-  "mercado": {
-   "n": 3,
-   "p25": 2000,
-   "mediana": 2730
-  },
-  "triage": {
-   "modelo": "Tudor 1926 Moon (esfera champagne, fase lunar, brazalete de acero tipo Jubilee)",
-   "referencia": "M91560-0001 (no verificada; confirmar con el número de serie y la caja)",
-   "precio_justo_usd": 2900,
-   "interesante": false,
-   "nota": "Modelo de producción reciente con fase lunar; el precio pedido está solo ~7% bajo una estimación conservadora de venta cerrada y no supera el umbral del 15%."
-  },
-  "motivo": "triage: Modelo de producción reciente con fase lunar; el precio pedido está solo ~7% bajo una estimación conservadora de venta cerrada y no supera el umbral del 15%. (justo 2900)"
- },
- {
-  "fecha": "2026-11-05T15:59:19.428032+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Royal \"2026 - 36mm - Green\" 2836C1A0-0103",
   "total": 3365.54,
@@ -11020,5 +10957,62 @@
    "nota": "La imagen muestra una libreta negra con el escudo Tudor y acento rojo, con funda protectora; no es un reloj ni incluye movimiento o caja de reloj."
   },
   "motivo": "triage: La imagen muestra una libreta negra con el escudo Tudor y acento rojo, con funda protectora; no es un reloj ni incluye movimiento o caja de reloj. (justo 10)"
+ },
+ {
+  "fecha": "2026-11-07T20:45:56.825919+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 16710 40mm (Y serial - 2001/2002)",
+  "total": 11999.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168846660309",
+  "item_id": "v1|168846660309|0",
+  "referencia": "16710",
+  "mercado": {
+   "n": 74,
+   "p25": 13627,
+   "mediana": 14455
+  },
+  "ratio_mercado": 0.881,
+  "motivo": "precio normal (88 % del cuartil bajo de 16710)"
+ },
+ {
+  "fecha": "2026-11-07T20:45:56.825919+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex DateJust 41 126234 White Roman Stainless Steel 36mm Oyster Watch",
+  "total": 10193.87,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267836756890",
+  "item_id": "v1|267836756890|0",
+  "referencia": "126334",
+  "mercado": {
+   "n": 33,
+   "p25": 12959,
+   "mediana": 14199
+  },
+  "ratio_mercado": 0.787,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 8300,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado, buen aspecto en las fotos, sin caja ni papeles originales"
+  },
+  "motivo": "Claude descarto: El precio de US$10,194 es demasiado alto para un 126234 sin caja ni papeles. Un 126234 esfera blanca romanos vendido de verdad en EE. UU. ronda US$8,000-9,000 si es solo reloj, y llega a unos US$9,000-9,500 si es full set reciente. Aquí se paga un precio de full set sin recibirlo.; La publicación se contradice. El título dice 'Datejust 41 126234 ... 36mm'. Las especificaciones dicen 126334 y 41 mm, y el año figura como 2010-2019. Las fotos muestran un 36 mm 126234. Esto indica un listado automatizado o descuidado y exige confirmar la referencia y el número de serie."
+ },
+ {
+  "fecha": "2026-11-07T20:45:56.825919+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Pelagos 39 Titanium Dive Watch m25407n-0001 - Excellent Condition",
+  "total": 3957.42,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336885870520",
+  "item_id": "v1|336885870520|0",
+  "referencia": "M25407N-0001",
+  "mercado": {
+   "n": 10,
+   "p25": 4500,
+   "mediana": 4644
+  },
+  "ratio_mercado": 0.879,
+  "motivo": "precio normal (88 % del cuartil bajo de M25407N-0001)"
  }
 ]
