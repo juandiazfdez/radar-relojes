@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T17:59:19.107993+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX 18K Yellow Gold 36mm  Day-Date Oysterquartz President 19018  Box Warranty",
-  "total": 18490.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237165800454",
-  "item_id": "v1|237165800454|0",
-  "referencia": "19018",
-  "mercado": {
-   "n": 13,
-   "p25": 24000,
-   "mediana": 24137
-  },
-  "ratio_mercado": 0.77,
-  "motivo": "descripcion: broken"
- },
- {
   "fecha": "2026-11-05T18:14:18.877684+00:00",
   "marca": "Rolex",
   "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
@@ -11027,5 +11010,22 @@
    "nota": "Precio pedido de 2900 USD está por encima del valor de venta cerrada para un 79500 usado con caja y papeles; la foto no muestra claramente el smiley."
   },
   "motivo": "triage: Precio pedido de 2900 USD está por encima del valor de venta cerrada para un 79500 usado con caja y papeles; la foto no muestra claramente el smiley. (justo 2600)"
+ },
+ {
+  "fecha": "2026-11-07T23:45:57.494771+00:00",
+  "marca": "Cartier",
+  "titulo": "Virtually Unworn 2024 Complete Set Black ADLC Cartier Santos WSSA0039",
+  "total": 8150.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960164024819",
+  "item_id": "v1|960164024819|0",
+  "referencia": "WSSA0039",
+  "mercado": {
+   "n": 8,
+   "p25": 7643,
+   "mediana": 8129
+  },
+  "ratio_mercado": 1.066,
+  "motivo": "precio normal (107 % del cuartil bajo de WSSA0039)"
  }
 ]
