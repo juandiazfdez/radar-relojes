@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T15:59:19.428032+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Royal \"2026 - 36mm - Green\" 2836C1A0-0103",
-  "total": 3365.54,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237165480764",
-  "item_id": "v1|237165480764|0",
-  "triage": {
-   "modelo": "Tudor Royal, esfera verde, brazalete de acero (pulsera tipo Jubilee)",
-   "referencia": null,
-   "precio_justo_usd": 3100,
-   "interesante": false,
-   "nota": "La referencia del título no es verificable (la cadena parece un código de calibre 2836); el precio pedido está unos 8 % por encima de un valor de mercado conservador para un Royal de acero usado de este tipo."
-  },
-  "motivo": "triage: La referencia del título no es verificable (la cadena parece un código de calibre 2836); el precio pedido está unos 8 % por encima de un valor de mercado conservador para un Royal de acero usado de este tipo. (justo 3100)"
- },
- {
-  "fecha": "2026-11-05T16:14:19.200260+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Explorer II 40mm Stainless Steel, Polar, 3186 Automatic Movement, M Series",
-  "total": 8500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168841213069",
-  "item_id": "v1|168841213069|0",
-  "triage": {
-   "modelo": "Rolex Explorer II 40mm, esfera blanca 'Polar', acero",
-   "referencia": "16570 (probable, serie M)",
-   "precio_justo_usd": 8500,
-   "interesante": false,
-   "nota": "Precio en línea con el mercado para 16570 en buen estado; la foto no permite confirmar la referencia ni ver papeles, y el precio no está al menos 15 % por debajo."
-  },
-  "motivo": "triage: Precio en línea con el mercado para 16570 en buen estado; la foto no permite confirmar la referencia ni ver papeles, y el precio no está al menos 15 % por debajo. (justo 8500)"
- },
- {
-  "fecha": "2026-11-05T16:14:19.200260+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 116334,41mm,Silver Diamond Dial,Stainless Steel Men’s Watch W/Box",
-  "total": 11500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840097023568",
-  "item_id": "v1|840097023568|0",
-  "referencia": "116334",
-  "mercado": {
-   "n": 24,
-   "p25": 10850,
-   "mediana": 10950
-  },
-  "ratio_mercado": 1.06,
-  "motivo": "precio normal (106 % del cuartil bajo de 116334)"
- },
- {
   "fecha": "2026-11-05T16:14:19.200260+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos 100",
@@ -11014,5 +10963,56 @@
   },
   "ratio_mercado": 0.879,
   "motivo": "precio normal (88 % del cuartil bajo de M25407N-0001)"
+ },
+ {
+  "fecha": "2026-11-07T21:00:56.910062+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise Large W51002Q3 28mm Automatic Steel Bracelet",
+  "total": 3045.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336885897900",
+  "item_id": "v1|336885897900|0",
+  "triage": {
+   "modelo": "Cartier Tank Française Large (acero, esfera plateada, numerales romanos)",
+   "referencia": "W51002Q3 (según título; verificar)",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "El título dice 'Automatic' pero la W51002Q3 corresponde a una versión de cuarzo, lo que indica posible error en el listado. Con esa referencia, US$3,045 está por encima del precio de venta real de uso. Sin caja/papeles y con estado 'Good', no hay margen para un 15 % de descuento."
+  },
+  "motivo": "triage: El título dice 'Automatic' pero la W51002Q3 corresponde a una versión de cuarzo, lo que indica posible error en el listado. Con esa referencia, US$3,045 está por encima del precio de venta real de uso. Sin caja/papeles y con estado 'Good', no hay margen para un 15 % de descuento. (justo 2600)"
+ },
+ {
+  "fecha": "2026-11-07T21:00:56.910062+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier tank musk rose gold  Numerals Quartz Date Silver Square Watch w/ Box,",
+  "total": 800.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800886204098",
+  "item_id": "v1|800886204098|0",
+  "triage": {
+   "modelo": "Cartier Tank Must (cuarzo, chapado en oro rosa, esfera plateada, numerales romanos; el título indica fecha, pero no es visible en la foto)",
+   "referencia": null,
+   "precio_justo_usd": 900,
+   "interesante": false,
+   "nota": "Título con errores y foto que no confirma el modelo ni el chapado; los Tank Must chapados nuevos con caja y papeles se venden cerca de US$900-1,000, y el precio pedido no supera el umbral del 15 %, así que hay que verificar autenticidad y papeles antes de considerarlo."
+  },
+  "motivo": "triage: Título con errores y foto que no confirma el modelo ni el chapado; los Tank Must chapados nuevos con caja y papeles se venden cerca de US$900-1,000, y el precio pedido no supera el umbral del 15 %, así que hay que verificar autenticidad y papeles antes de considerarlo. (justo 900)"
+ },
+ {
+  "fecha": "2026-11-07T21:00:56.910062+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 58 Burgundy Jubilee – Brand New, Never Worn – Full Set",
+  "total": 4599.99,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/366793333025",
+  "item_id": "v1|366793333025|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 Burgundy (bisel granate, brazalete Jubilee)",
+   "referencia": null,
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "Precio pedido de US$4600 por encima del precio de venta estimado para un BB58 nuevo con papeles, incluso con la variante granate. La referencia exacta no se distingue en la foto."
+  },
+  "motivo": "triage: Precio pedido de US$4600 por encima del precio de venta estimado para un BB58 nuevo con papeles, incluso con la variante granate. La referencia exacta no se distingue en la foto. (justo 3600)"
  }
 ]
