@@ -1,73 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T15:29:19.140553+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust Silver Men's 116234",
-  "total": 9450.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920108750413",
-  "item_id": "v1|920108750413|0",
-  "referencia": "116234",
-  "mercado": {
-   "n": 42,
-   "p25": 9000,
-   "mediana": 9500
-  },
-  "ratio_mercado": 1.05,
-  "motivo": "precio normal (105 % del cuartil bajo de 116234)"
- },
- {
-  "fecha": "2026-11-05T15:29:19.140553+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Roadster 2675 Silver dial-Roman Numerals Quartz  Stainless Steel Watch",
-  "total": 3795.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960158105563",
-  "item_id": "v1|960158105563|0",
-  "referencia": "2675",
-  "mercado": {
-   "n": 12,
-   "p25": 3758,
-   "mediana": 4260
-  },
-  "ratio_mercado": 1.01,
-  "motivo": "precio normal (101 % del cuartil bajo de 2675)"
- },
- {
-  "fecha": "2026-11-05T15:29:19.140553+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Pasha W31029M7",
-  "total": 2860.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800881187003",
-  "item_id": "v1|800881187003|0",
-  "triage": {
-   "modelo": "Cartier Pasha de Cartier Chronograph (acero, esfera plateada, brazalete de acero)",
-   "referencia": "W31029M7",
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "Precio pedido por encima de la estimación de venta cerrada para estado Good; la caja se ve, pero no se aprecian papeles ni certificado."
-  },
-  "motivo": "triage: Precio pedido por encima de la estimación de venta cerrada para estado Good; la caja se ve, pero no se aprecian papeles ni certificado. (justo 2600)"
- },
- {
-  "fecha": "2026-11-05T15:44:19.444474+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36 126203 Black Diamond Steel 18k Yellow Gold Watch Card 2022",
-  "total": 16025.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257836677636",
-  "item_id": "v1|257836677636|0",
-  "referencia": "126203",
-  "mercado": {
-   "n": 7,
-   "p25": 13245,
-   "mediana": 14010
-  },
-  "ratio_mercado": 1.21,
-  "motivo": "precio normal (121 % del cuartil bajo de 126203)"
- },
- {
   "fecha": "2026-11-05T15:44:19.444474+00:00",
   "marca": "Rolex",
   "titulo": "2020 PAPERS Rolex GMT-Master II BATGIRL Blue Steel JUBILEE 40mm 126710 BLNR BOX",
@@ -10996,5 +10928,79 @@
    "nota": "Precio pedido de US$12.495 a ~12 % sobre mi estimación conservadora de venta cerrada (~US$11.000) para estado Good; sin confirmar caja y papeles. No llega al umbral del 15 % por debajo."
   },
   "motivo": "triage: Precio pedido de US$12.495 a ~12 % sobre mi estimación conservadora de venta cerrada (~US$11.000) para estado Good; sin confirmar caja y papeles. No llega al umbral del 15 % por debajo. (justo 11000)"
+ },
+ {
+  "fecha": "2026-11-07T19:15:57.098463+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Turnograph Thunderbird Yellow Gold/Steel Diamond 36mm Watch 16263",
+  "total": 8750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366793176895",
+  "item_id": "v1|366793176895|0",
+  "referencia": "16263",
+  "mercado": {
+   "n": 28,
+   "p25": 7360,
+   "mediana": 7800
+  },
+  "ratio_mercado": 1.189,
+  "motivo": "precio normal (119 % del cuartil bajo de 16263)"
+ },
+ {
+  "fecha": "2026-11-07T19:15:57.098463+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX Land-Dweller | White Rolesor Oystersteel & 18K Ref. 127334-0001 | Full Set",
+  "total": 24495.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257840878902",
+  "item_id": "v1|257840878902|0",
+  "referencia": "127334",
+  "mercado": {
+   "n": 6,
+   "p25": 24950,
+   "mediana": 28650
+  },
+  "ratio_mercado": 0.982,
+  "motivo": "precio normal (98 % del cuartil bajo de 127334)"
+ },
+ {
+  "fecha": "2026-11-07T19:15:57.098463+00:00",
+  "marca": "Rolex",
+  "titulo": "Authentic Rolex oyster submariner Anchor chain 1000 ft /300 meters",
+  "total": 135.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900071209110",
+  "item_id": "v1|900071209110|0",
+  "triage": {
+   "modelo": "Accesorio: dije/cadena tipo ancla con grabado 'Rolex Oyster Perpetual Submariner 300 m' (no es un reloj)",
+   "referencia": null,
+   "precio_justo_usd": 40,
+   "interesante": false,
+   "nota": "La foto muestra un dije de ancla plateado, no un reloj; el título 'Authentic Rolex' no está respaldado por ningún número de referencia ni por la pieza en sí, y no es un producto oficial verificable."
+  },
+  "motivo": "triage: La foto muestra un dije de ancla plateado, no un reloj; el título 'Authentic Rolex' no está respaldado por ningún número de referencia ni por la pieza en sí, y no es un producto oficial verificable. (justo 40)"
+ },
+ {
+  "fecha": "2026-11-07T19:15:57.098463+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank WSTA0010 - Box and Papers",
+  "total": 5200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168843848668",
+  "item_id": "v1|168843848668|0",
+  "referencia": "WSTA0010",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Tank Américaine (acero, esfera azul, correa de cuero)",
+   "referencia": "WSTA0010 (según título, no verificable en la foto)",
+   "precio_justo_usd": 4800,
+   "interesante": false,
+   "nota": "Precio pedido de US$5200 está por encima del rango estimado para este modelo en acero con caja y papeles y estado Good; no cumple el umbral de 15% por debajo."
+  },
+  "motivo": "triage: Precio pedido de US$5200 está por encima del rango estimado para este modelo en acero con caja y papeles y estado Good; no cumple el umbral de 15% por debajo. (justo 4800)"
  }
 ]
