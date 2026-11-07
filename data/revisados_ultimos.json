@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T15:44:19.444474+00:00",
-  "marca": "Rolex",
-  "titulo": "2020 PAPERS Rolex GMT-Master II BATGIRL Blue Steel JUBILEE 40mm 126710 BLNR BOX",
-  "total": 18557.69,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307268282894",
-  "item_id": "v1|307268282894|0",
-  "referencia": "126710",
-  "mercado": {
-   "n": 27,
-   "p25": 17220,
-   "mediana": 17900
-  },
-  "ratio_mercado": 1.078,
-  "motivo": "precio normal (108 % del cuartil bajo de 126710)"
- },
- {
-  "fecha": "2026-11-05T15:44:19.444474+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere Cougar Quartz Stainless Steel Watch",
-  "total": 3707.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267834462214",
-  "item_id": "v1|267834462214|0",
-  "triage": {
-   "modelo": "Reloj de cuarzo en acero con estilo Ebel (posiblemente de la línea Classic/Sport), no un Cartier Panthère Cougar",
-   "referencia": null,
-   "precio_justo_usd": 450,
-   "interesante": false,
-   "nota": "El título dice Cartier Cougar, pero la foto muestra un reloj de caja redonda con bisel estriado, índices romanos y brazalete integrado que no corresponde al Cougar. Listado posiblemente engañoso; aunque fuera un Cougar de cuarzo, US$3.707 estaría muy por encima de su precio de venta real."
-  },
-  "motivo": "triage: El título dice Cartier Cougar, pero la foto muestra un reloj de caja redonda con bisel estriado, índices romanos y brazalete integrado que no corresponde al Cougar. Listado posiblemente engañoso; aunque fuera un Cougar de cuarzo, US$3.707 estaría muy por encima de su precio de venta real. (justo 450)"
- },
- {
   "fecha": "2026-11-05T15:59:19.428032+00:00",
   "marca": "Rolex",
   "titulo": "Preowned Rolex Oyster Perpetual 34mm Air-King Mother of Pearl Diamond",
@@ -11002,5 +10968,45 @@
    "nota": "Precio pedido de US$5200 está por encima del rango estimado para este modelo en acero con caja y papeles y estado Good; no cumple el umbral de 15% por debajo."
   },
   "motivo": "triage: Precio pedido de US$5200 está por encima del rango estimado para este modelo en acero con caja y papeles y estado Good; no cumple el umbral de 15% por debajo. (justo 4800)"
+ },
+ {
+  "fecha": "2026-11-07T19:45:57.443987+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 18K Gold Datejust President 6917",
+  "total": 9430.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237170102698",
+  "item_id": "v1|237170102698|0",
+  "referencia": "6917",
+  "mercado": {
+   "n": 42,
+   "p25": 3990,
+   "mediana": 4178
+  },
+  "ratio_mercado": 2.363,
+  "motivo": "precio normal (236 % del cuartil bajo de 6917)"
+ },
+ {
+  "fecha": "2026-11-07T19:45:57.443987+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Medium Stainless Steel Watch WSSA0063",
+  "total": 8000.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/407347406356",
+  "item_id": "v1|407347406356|0",
+  "referencia": "WSSA0063",
+  "mercado": {
+   "n": 1,
+   "p25": 8790,
+   "mediana": 8790
+  },
+  "triage": {
+   "modelo": "Cartier Santos de Cartier Medium (acero, esfera azul, automático)",
+   "referencia": "WSSA0063",
+   "precio_justo_usd": 6000,
+   "interesante": false,
+   "nota": "Precio pedido de US$8000 está por encima del retail actual de esta referencia (aprox. US$7.000-7.300) y del mercado secundario; no representa una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$8000 está por encima del retail actual de esta referencia (aprox. US$7.000-7.300) y del mercado secundario; no representa una oportunidad. (justo 6000)"
  }
 ]

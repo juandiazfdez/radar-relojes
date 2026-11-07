@@ -6120,14 +6120,14 @@
   "max": 11444
  },
  "Rolex 6917|usado": {
-  "fecha": "2026-11-06",
+  "fecha": "2026-11-07",
   "consulta": "Rolex 6917",
-  "n": 43,
-  "mediana": 4100,
+  "n": 42,
+  "mediana": 4178,
   "p25": 3990,
   "p75": 4406,
-  "min": 190,
-  "max": 4858
+  "min": 2800,
+  "max": 4890
  },
  "Rolex 116660|usado": {
   "fecha": "2026-11-05",
@@ -19968,5 +19968,15 @@
   "fecha": "2026-11-07",
   "consulta": "Cartier WSTA0010",
   "n": 0
+ },
+ "Cartier WSSA0063|nuevo": {
+  "fecha": "2026-11-07",
+  "consulta": "Cartier WSSA0063",
+  "n": 1,
+  "mediana": 8790,
+  "p25": 8790,
+  "p75": 8790,
+  "min": 8790,
+  "max": 8790
  }
 }
