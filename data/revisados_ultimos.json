@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T16:29:19.374837+00:00",
-  "marca": "Rolex",
-  "titulo": "1989 Rolex Explorer II 16570 Black Stainless Steel Red Oyster 40mm Watch",
-  "total": 7337.03,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900068326903",
-  "item_id": "v1|900068326903|0",
-  "referencia": "16570",
-  "mercado": {
-   "n": 38,
-   "p25": 8495,
-   "mediana": 8990
-  },
-  "ratio_mercado": 0.864,
-  "motivo": "precio normal (86 % del cuartil bajo de 16570)"
- },
- {
-  "fecha": "2026-11-05T16:29:19.374837+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex DateJust 41 ICE BLUE Diamond 18k & Steel 41mm JUBILEE 126333 BOX + BOOK",
-  "total": 18475.5,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940068198355",
-  "item_id": "v1|940068198355|0",
-  "referencia": "126333",
-  "mercado": {
-   "n": 31,
-   "p25": 14950,
-   "mediana": 15466
-  },
-  "ratio_mercado": 1.236,
-  "motivo": "precio normal (124 % del cuartil bajo de 126333)"
- },
- {
-  "fecha": "2026-11-05T16:44:19.564889+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date 18078 36mm 18k Yellow Gold 1981 Watch with Bark Bracelet",
-  "total": 20890.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128177249828",
-  "item_id": "v1|128177249828|0",
-  "referencia": "18078",
-  "mercado": {
-   "n": 17,
-   "p25": 16000,
-   "mediana": 17509
-  },
-  "ratio_mercado": 1.306,
-  "motivo": "precio normal (131 % del cuartil bajo de 18078)"
- },
- {
   "fecha": "2026-11-05T16:44:19.564889+00:00",
   "marca": "Rolex",
   "titulo": "J42116: Rolex 18k Yellow Gold President, Ref. 18038, Circa 1984",
@@ -11020,5 +10969,62 @@
    "nota": "Milgauss 116400GV de 2020 completo; el pedido de US$13,000 supera el precio de venta cerrada estimado para este estado."
   },
   "motivo": "triage: Milgauss 116400GV de 2020 completo; el pedido de US$13,000 supera el precio de venta cerrada estimado para este estado. (justo 10000)"
+ },
+ {
+  "fecha": "2026-11-07T22:15:57.187086+00:00",
+  "marca": "Rolex",
+  "titulo": "Tudor Oyster Prince Rolex 7909 SS",
+  "total": 3500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198780121400",
+  "item_id": "v1|198780121400|0",
+  "triage": {
+   "modelo": "Tudor Oyster Prince (vintage, esfera negra, manecillas doradas)",
+   "referencia": "7909",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Tudor vintage de acero, probablemente años 50-60. Precio pedido de US$3500 está por encima de lo que suele cerrarse para estado 'Good'. La referencia no se distingue en la foto y el título mezcla Tudor y Rolex; conviene verificar la esfera y la caja antes de considerarlo."
+  },
+  "motivo": "triage: Tudor vintage de acero, probablemente años 50-60. Precio pedido de US$3500 está por encima de lo que suele cerrarse para estado 'Good'. La referencia no se distingue en la foto y el título mezcla Tudor y Rolex; conviene verificar la esfera y la caja antes de considerarlo. (justo 2600)"
+ },
+ {
+  "fecha": "2026-11-07T22:15:57.187086+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II Men's Black Watch - 16713",
+  "total": 21500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/820328979085",
+  "item_id": "v1|820328979085|0",
+  "referencia": "16713",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex GMT-Master II bicolor (acero y oro amarillo), bisel negro, esfera negra",
+   "referencia": "116713LN (la imagen parece corresponder a esta; el título dice 16713, referencia discontinuada hace años)",
+   "precio_justo_usd": 18000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de mercado usado; el título 'New' y la referencia 16713 no encajan con lo que se ve en la foto, lo que exige verificar el listado."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de mercado usado; el título 'New' y la referencia 16713 no encajan con lo que se ve en la foto, lo que exige verificar el listado. (justo 18000)"
+ },
+ {
+  "fecha": "2026-11-07T22:15:57.187086+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Princess Oysterdate 7637/4 Stainless Steel Runs Very Good!!",
+  "total": 1535.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137911656385",
+  "item_id": "v1|137911656385|0",
+  "triage": {
+   "modelo": "Tudor Princess Oysterdate (vintage, bisel acanalado, ventana de fecha a las 3)",
+   "referencia": "7637/4",
+   "precio_justo_usd": 1100,
+   "interesante": false,
+   "nota": "Reloj vintage de mujer en acero, de uso con signos de desgaste; el precio pedido de US$1535 supera el valor de venta cerrada estimado para esta referencia en estado Good."
+  },
+  "motivo": "triage: Reloj vintage de mujer en acero, de uso con signos de desgaste; el precio pedido de US$1535 supera el valor de venta cerrada estimado para esta referencia en estado Good. (justo 1100)"
  }
 ]
