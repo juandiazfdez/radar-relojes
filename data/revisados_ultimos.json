@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-05T16:29:19.374837+00:00",
   "marca": "Rolex",
-  "titulo": "1995 Rolex Day-Date 18248 Champagne Roman 36mm 18K Gold Bark Patina Box Papers",
-  "total": 23453.08,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900068330577",
-  "item_id": "v1|900068330577|0",
-  "referencia": "18248",
-  "mercado": {
-   "n": 5,
-   "p25": 20990,
-   "mediana": 22495
-  },
-  "ratio_mercado": 1.117,
-  "motivo": "precio normal (112 % del cuartil bajo de 18248)"
- },
- {
-  "fecha": "2026-11-05T16:29:19.374837+00:00",
-  "marca": "Rolex",
   "titulo": "1989 Rolex Explorer II 16570 Black Stainless Steel Red Oyster 40mm Watch",
   "total": 7337.03,
   "condicion": "Pre-owned - Excellent",
@@ -11020,5 +11003,22 @@
    "nota": "La referencia no se puede leer en la foto; con 116610LN o 126610LN el precio de venta real ronda 12.500-14.500 USD, así que 15.990 queda por encima. Verificar referencia y serie antes de cualquier oferta."
   },
   "motivo": "triage: La referencia no se puede leer en la foto; con 116610LN o 126610LN el precio de venta real ronda 12.500-14.500 USD, así que 15.990 queda por encima. Verificar referencia y serie antes de cualquier oferta. (justo 13500)"
+ },
+ {
+  "fecha": "2026-11-07T22:00:56.778992+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Milgauss Oyster Perpetual 2020 Complete Set Still factory stickers on!!!",
+  "total": 13000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/307271922240",
+  "item_id": "v1|307271922240|0",
+  "triage": {
+   "modelo": "Rolex Milgauss (esfera negra, cristal verde, manecilla de segundos naranja)",
+   "referencia": "116400GV",
+   "precio_justo_usd": 10000,
+   "interesante": false,
+   "nota": "Milgauss 116400GV de 2020 completo; el pedido de US$13,000 supera el precio de venta cerrada estimado para este estado."
+  },
+  "motivo": "triage: Milgauss 116400GV de 2020 completo; el pedido de US$13,000 supera el precio de venta cerrada estimado para este estado. (justo 10000)"
  }
 ]
