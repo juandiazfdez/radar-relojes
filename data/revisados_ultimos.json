@@ -1,63 +1,6 @@
 [
  {
   "fecha": "2026-11-05T00:13:43.438751+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex Sea-Dweller Stickered Complete Set 126600",
-  "total": 15470.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/257835447416",
-  "item_id": "v1|257835447416|0",
-  "referencia": "126600",
-  "mercado": {
-   "n": 51,
-   "p25": 13122,
-   "mediana": 13999
-  },
-  "ratio_mercado": 1.179,
-  "motivo": "precio normal (118 % del cuartil bajo de 126600)"
- },
- {
-  "fecha": "2026-11-05T00:13:43.438751+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Watch Santos 100 2878 - Inventory 5800 Stainless Steel/Rose Gold 33mm",
-  "total": 5799.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287705553332",
-  "item_id": "v1|287705553332|0",
-  "referencia": "2878",
-  "mercado": {
-   "n": 18,
-   "p25": 4975,
-   "mediana": 5372
-  },
-  "ratio_mercado": 1.166,
-  "motivo": "precio normal (117 % del cuartil bajo de 2878)"
- },
- {
-  "fecha": "2026-11-05T00:13:43.438751+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank W5310046 Watch and 2016 papers.",
-  "total": 4500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237164199767",
-  "item_id": "v1|237164199767|0",
-  "referencia": "W5310046",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Tank Américaine (talla pequeña, acero y oro amarillo)",
-   "referencia": "W5310046 (según título, sin verificar)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido de US$4,500 supera con creces el valor de venta real de este modelo de dos tonos con papeles de 2016; la referencia y el movimiento deben verificarse."
-  },
-  "motivo": "triage: Precio pedido de US$4,500 supera con creces el valor de venta real de este modelo de dos tonos con papeles de 2016; la referencia y el movimiento deben verificarse. (justo 3300)"
- },
- {
-  "fecha": "2026-11-05T00:13:43.438751+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Ballon Bleu W6920083 Comes With Watch and 2022 Card.",
   "total": 9850.0,
@@ -10953,5 +10896,56 @@
   },
   "ratio_mercado": 0.891,
   "motivo": "precio normal (89 % del cuartil bajo de 16618)"
+ },
+ {
+  "fecha": "2026-11-07T13:30:46.604833+00:00",
+  "marca": "Rolex",
+  "titulo": "rolex oyster perpetual 24mm",
+  "total": 4200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287711666723",
+  "item_id": "v1|287711666723|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual 24 mm (esfera azul, brazalete Oyster de acero)",
+   "referencia": null,
+   "precio_justo_usd": 4900,
+   "interesante": false,
+   "nota": "Referencia no identificable en la foto; precio pedido ~14% por debajo de la estimación conservadora. Sin confirmar generación, estado real ni autenticidad."
+  },
+  "motivo": "triage: Referencia no identificable en la foto; precio pedido ~14% por debajo de la estimación conservadora. Sin confirmar generación, estado real ni autenticidad. (justo 4900)"
+ },
+ {
+  "fecha": "2026-11-07T13:30:46.604833+00:00",
+  "marca": "Rolex",
+  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
+  "total": 15990.01,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327444600139",
+  "item_id": "v1|327444600139|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date (esfera negra, bisel negro, acero)",
+   "referencia": "126610LN (probable, verificar número en caja de la pieza y papeles)",
+   "precio_justo_usd": 14500,
+   "interesante": false,
+   "nota": "Set completo con caja y papeles de un Submariner Date reciente; el precio pedido de US$15,990 está por encima del valor de venta cerrada estimado, y la referencia no se puede confirmar solo con la foto."
+  },
+  "motivo": "triage: Set completo con caja y papeles de un Submariner Date reciente; el precio pedido de US$15,990 está por encima del valor de venta cerrada estimado, y la referencia no se puede confirmar solo con la foto. (justo 14500)"
+ },
+ {
+  "fecha": "2026-11-07T13:30:46.604833+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR 1926 w/ Box and COA (Papers)",
+  "total": 2520.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920115345477",
+  "item_id": "v1|920115345477|0",
+  "triage": {
+   "modelo": "Tudor 1926 (acero, esfera plateada, brazalete Jubilee)",
+   "referencia": "M91650 (probable, no verificable en la foto)",
+   "precio_justo_usd": 2650,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para un 1926 de acero con caja y papeles; no hay descuento de al menos 15 % sobre el valor de venta real."
+  },
+  "motivo": "triage: Precio cercano al mercado para un 1926 de acero con caja y papeles; no hay descuento de al menos 15 % sobre el valor de venta real. (justo 2650)"
  }
 ]
