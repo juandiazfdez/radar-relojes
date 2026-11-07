@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-04T22:13:43.530785+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day Date II \"2026 CPO\" 218239",
-  "total": 39996.94,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237164050588",
-  "item_id": "v1|237164050588|0",
-  "referencia": "218239",
-  "mercado": {
-   "n": 14,
-   "p25": 38949,
-   "mediana": 40640
-  },
-  "ratio_mercado": 1.027,
-  "motivo": "precio normal (103 % del cuartil bajo de 218239)"
- },
- {
-  "fecha": "2026-11-04T22:13:43.530785+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Nov Unworn Rolex Submariner 41mm No-Date Ceramic Black Steel 124060Complete",
-  "total": 14700.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/147666799069",
-  "item_id": "v1|147666799069|0",
-  "triage": {
-   "modelo": "Rolex Submariner No-Date 41mm (cerámica negra, acero)",
-   "referencia": "124060",
-   "precio_justo_usd": 11000,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del mercado secundario para un 124060 nuevo con caja y papeles; además, la fecha '2026 Nov' del título es inusual y conviene verificar autenticidad y documentos."
-  },
-  "motivo": "triage: Precio pedido muy por encima del mercado secundario para un 124060 nuevo con caja y papeles; además, la fecha '2026 Nov' del título es inusual y conviene verificar autenticidad y documentos. (justo 11000)"
- },
- {
-  "fecha": "2026-11-04T22:13:43.530785+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Watch Santos Galbee W20057C4 - Inventory 9348 24mm",
-  "total": 5299.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287705386996",
-  "item_id": "v1|287705386996|0",
-  "triage": {
-   "modelo": "Cartier Santos Galbée (acero y oro amarillo, cuarzo, esfera plateada con números romanos)",
-   "referencia": "W20057C4",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Precio pedido de US$5299 muy por encima del mercado de reventa para esta referencia de cuarzo bicolor de 24 mm; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$5299 muy por encima del mercado de reventa para esta referencia de cuarzo bicolor de 24 mm; no es una oportunidad. (justo 3000)"
- },
- {
   "fecha": "2026-11-04T22:28:43.374950+00:00",
   "marca": "Rolex",
   "titulo": "2023 Rolex Datejust 126300 Mint Green Index Steel Oyster 41mm Watch Box Papers",
@@ -10920,5 +10869,76 @@
   },
   "ratio_justo": 1.066,
   "motivo": "precio normal segun revision (107 % del justo 3000)"
+ },
+ {
+  "fecha": "2026-11-07T01:15:26.129053+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Air King Ref. 5500",
+  "total": 3129.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198778446610",
+  "item_id": "v1|198778446610|0",
+  "referencia": "5500",
+  "mercado": {
+   "n": 23,
+   "p25": 4000,
+   "mediana": 4350
+  },
+  "ratio_mercado": 0.782,
+  "claude": {
+   "veredicto": "alerta",
+   "precio_justo_usd": 3000,
+   "riesgo_autenticidad": "bajo",
+   "estado": "Bueno, solo cabeza; caja con rayones y pulida, sin brazalete, sin caja ni papeles"
+  },
+  "ratio_justo": 1.043,
+  "motivo": "precio normal segun revision (104 % del justo 3000)"
+ },
+ {
+  "fecha": "2026-11-07T01:15:26.129053+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay \"Panda\" Watch Black Bay Chronograph 79360N Panda - Inventory",
+  "total": 3299.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287710531344",
+  "item_id": "v1|287710531344|0",
+  "referencia": "79360N",
+  "mercado": {
+   "n": 59,
+   "p25": 4600,
+   "mediana": 5250
+  },
+  "ratio_mercado": 0.717,
+  "claude": {
+   "veredicto": "alerta",
+   "precio_justo_usd": 4000,
+   "riesgo_autenticidad": "medio",
+   "estado": "Muy buen estado, con leves marcas de uso y swirls; caja y papeles según la descripción"
+  },
+  "ratio_justo": 0.825,
+  "motivo": "ALERTA"
+ },
+ {
+  "fecha": "2026-11-07T01:15:26.129053+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Princess Oyster date Quartz 26MM Stainless Steel 93500",
+  "total": 435.0,
+  "condicion": "For parts or not working",
+  "url": "https://www.ebay.com/itm/307270606683",
+  "item_id": "v1|307270606683|0",
+  "referencia": "93500",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Princess Oyster Date (cuarzo), según el título; la foto parece mostrar un reloj de estilo Rolex Lady Oyster Date",
+   "referencia": "93500 (según el título, no verificable en la foto)",
+   "precio_justo_usd": 200,
+   "interesante": false,
+   "nota": "Listado de piezas/no funciona; el precio pedido de US$435 supera el valor de piezas y la foto no muestra claramente una Tudor, así que hay riesgo de listado engañoso."
+  },
+  "motivo": "triage: Listado de piezas/no funciona; el precio pedido de US$435 supera el valor de piezas y la foto no muestra claramente una Tudor, así que hay riesgo de listado engañoso. (justo 200)"
  }
 ]

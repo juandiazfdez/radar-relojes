@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07T01:00:26.782886+00:00",
+ "actualizado": "2026-11-07T01:15:26.129053+00:00",
  "ventana_horas": 2.0,
  "marcas": [
   "Rolex",
@@ -7,13 +7,86 @@
   "Tudor"
  ],
  "corrida": {
-  "nuevos_vistos": 1,
+  "nuevos_vistos": 8,
   "descartes": {
-   "precio_justo": 1
+   "precio_justo": 1,
+   "titulo": 5,
+   "triage": 1
   },
-  "alertas_nuevas": 0,
-  "llamadas_ebay": 5,
+  "alertas_nuevas": 1,
+  "llamadas_ebay": 8,
   "cuota_agotada": false
  },
- "alertas_hoy": []
+ "alertas_hoy": [
+  {
+   "fecha": "2026-11-07T01:15:26.129053+00:00",
+   "marca": "Tudor",
+   "titulo": "Tudor Black Bay \"Panda\" Watch Black Bay Chronograph 79360N Panda - Inventory",
+   "precio": 3299.0,
+   "envio": 0.0,
+   "total": 3299.0,
+   "mercado": {
+    "fecha": "2026-11-07",
+    "consulta": "Tudor 79360N",
+    "n": 59,
+    "mediana": 5250,
+    "p25": 4600,
+    "p75": 6049,
+    "min": 4250,
+    "max": 11000
+   },
+   "triage": null,
+   "vendedor": "delraywatchsupply",
+   "valoraciones": 447,
+   "pct_positivo": "100.0",
+   "url": "https://www.ebay.com/itm/287710531344",
+   "item_id": "v1|287710531344|0",
+   "info": {
+    "departamento": "Unisex Adult",
+    "referencia": "79360N",
+    "modelo_esp": "Black Bay \"Panda\"",
+    "caja_mm": "41mm",
+    "material": "Stainless Steel",
+    "ano": null,
+    "movimiento": "Mechanical (Automatic)",
+    "caja_original": null,
+    "papeles": "Yes",
+    "condicion": "Pre-owned - Good",
+    "condicion_id": "3000",
+    "condicion_desc": "",
+    "garantia_autenticidad": false,
+    "devoluciones": false,
+    "amarillas": [
+     "wear"
+    ],
+    "imagenes": [
+     "https://i.ebayimg.com/images/g/oG0AAeSw4TFq7nnW/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/oxgAAeSwo1hq7nnW/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/ms4AAeSwQrZq7nnW/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/sCsAAeSwudhq7nnW/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/pIEAAeSwNz5q7nnW/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/qlIAAeSwmxNq7nnW/s-l1600.jpg"
+    ]
+   },
+   "claude": {
+    "veredicto": "alerta",
+    "modelo": "Tudor Black Bay Chrono 79360N 'Panda' (acero, 41mm, brazalete, 2023)",
+    "estado": "Muy buen estado, con leves marcas de uso y swirls; caja y papeles según la descripción",
+    "riesgo_autenticidad": "medio",
+    "completo": false,
+    "razones": [
+     "Precio de US$3,299 frente a un precio justo de venta cerrada de unos US$3,900-4,200 para un 79360N de 2023 con caja y papeles. Queda por debajo del mercado secundario, con un margen aproximado del 15-20%.",
+     "Los comparables de eBay (cuartil bajo 4,600, mediana 5,250) son precios pedidos e inflados, así que no sirven de referencia. El nuevo en mercado gris ronda los US$4,300-4,700, y 3,299 queda claramente por debajo.",
+     "Las fotos parecen del reloj real y no de catálogo: cuatro ángulos coherentes, con el mismo reloj, el mismo desgaste y la fecha en 11. La esfera panda opalina con subesferas negras, la tipografía, el bisel taquimétrico, los pulsadores y la corona con la rosa Tudor son consistentes con un original. No veo señales evidentes de réplica, de esfera repintada ni de piezas no originales.",
+     "Faltan fotos del fondo de caja y del movimiento, y no hay foto del cierre desplegado ni de la caja y los papeles. Con estas fotos no puedo verificar el número de serie ni que los papeles correspondan a este reloj.",
+     "La ficha dice 'Band Type: Strap' aunque es un brazalete, y menciona 'Seller Warranty: Yes' mientras la garantía de autenticidad y las devoluciones figuran como no. Son incoherencias en el listado, y sin devoluciones el riesgo recae en el comprador.",
+     "El vendedor tiene 447 valoraciones y 100% positivo (solo informativo). El título incluye 'Inventory', lo que apunta a un dealer con stock real.",
+     "Antes de comprar, pedir fotos del fondo de caja, del cierre T-fit, de la caja y de los papeles con fecha y serie coincidentes, y confirmar la política de devolución."
+    ],
+    "precio_justo_usd": 4000,
+    "precio_reventa_rd_usd": 4500
+   },
+   "ratio_justo": 0.825
+  }
+ ]
 }
