@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-04T23:13:43.316151+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos De Cartier Titanium WSSA0089 Box & papers",
-  "total": 10549.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336880323848",
-  "item_id": "v1|336880323848|0",
-  "referencia": "WSSA0089",
-  "mercado": {
-   "n": 5,
-   "p25": 10499,
-   "mediana": 10995
-  },
-  "ratio_mercado": 1.005,
-  "motivo": "precio normal (100 % del cuartil bajo de WSSA0089)"
- },
- {
   "fecha": "2026-11-04T23:43:43.440356+00:00",
   "marca": "Rolex",
   "titulo": "2026 Rolex Sea-Dweller Stickered Complete Set 126600",
@@ -10953,5 +10936,28 @@
   },
   "ratio_mercado": 0.989,
   "motivo": "precio normal (99 % del cuartil bajo de 79090)"
+ },
+ {
+  "fecha": "2026-11-07T09:45:36.278111+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Prince 79180",
+  "total": 7600.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257840197769",
+  "item_id": "v1|257840197769|0",
+  "referencia": "79180",
+  "mercado": {
+   "n": 3,
+   "p25": 6500,
+   "mediana": 7500
+  },
+  "triage": {
+   "modelo": "Tudor Prince Oysterdate Chronograph (esfera negra, subesferas crema, acero)",
+   "referencia": "79180",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio pedido de US$7600 muy por encima del valor de mercado para este cronógrafo de acero usado; no hay señal de oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$7600 muy por encima del valor de mercado para este cronógrafo de acero usado; no hay señal de oportunidad. (justo 3300)"
  }
 ]
