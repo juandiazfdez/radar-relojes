@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-11-04T23:58:43.579762+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos-Dumont WSSA0032 Watch Only",
-  "total": 6100.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237164189537",
-  "item_id": "v1|237164189537|0",
-  "referencia": "WSSA0032",
-  "mercado": {
-   "n": 3,
-   "p25": 6888,
-   "mediana": 7065
-  },
-  "triage": {
-   "modelo": "Cartier Santos-Dumont (modelo grande, acero, esfera plateada con números romanos, correa de cocodrilo negra)",
-   "referencia": "WSSA0032 (según el título, no verificable en la foto)",
-   "precio_justo_usd": 5600,
-   "interesante": false,
-   "nota": "Solo el reloj, sin caja ni papeles y en estado Good; con envío, US$6100 queda por encima de lo que se vende realmente en el mercado de usados."
-  },
-  "motivo": "triage: Solo el reloj, sin caja ni papeles y en estado Good; con envío, US$6100 queda por encima de lo que se vende realmente en el mercado de usados. (justo 5600)"
- },
- {
-  "fecha": "2026-11-05T00:13:43.438751+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36 126233 White Mother of Pearl Diamond Oyster Brand New 2026",
-  "total": 24310.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/287705551039",
-  "item_id": "v1|287705551039|0",
-  "referencia": "126233",
-  "mercado": {
-   "n": 41,
-   "p25": 19261,
-   "mediana": 20359
-  },
-  "ratio_mercado": 1.262,
-  "motivo": "precio normal (126 % del cuartil bajo de 126233)"
- },
- {
   "fecha": "2026-11-05T00:13:43.438751+00:00",
   "marca": "Rolex",
   "titulo": "2026 Rolex Sea-Dweller Stickered Complete Set 126600",
@@ -10959,5 +10919,39 @@
   },
   "ratio_mercado": 1.035,
   "motivo": "precio normal (103 % del cuartil bajo de 79360N)"
+ },
+ {
+  "fecha": "2026-11-07T11:45:36.295918+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sky-Dweller 336933 Champagne",
+  "total": 22900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147670380661",
+  "item_id": "v1|147670380661|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller two-tone (Oystersteel y oro amarillo, bisel acanalado, esfera champán)",
+   "referencia": "336933",
+   "precio_justo_usd": 26000,
+   "interesante": false,
+   "nota": "Precio pedido ~12% bajo estimado; sin certificar caja/papeles ni año, y un precio así en un Sky-Dweller bicolor reciente exige verificar autenticidad antes de considerarlo."
+  },
+  "motivo": "triage: Precio pedido ~12% bajo estimado; sin certificar caja/papeles ni año, y un precio así en un Sky-Dweller bicolor reciente exige verificar autenticidad antes de considerarlo. (justo 26000)"
+ },
+ {
+  "fecha": "2026-11-07T11:45:36.295918+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner 16618 Black",
+  "total": 27500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147670377204",
+  "item_id": "v1|147670377204|0",
+  "referencia": "16618",
+  "mercado": {
+   "n": 19,
+   "p25": 30859,
+   "mediana": 34750
+  },
+  "ratio_mercado": 0.891,
+  "motivo": "precio normal (89 % del cuartil bajo de 16618)"
  }
 ]
