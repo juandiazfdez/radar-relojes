@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-04T22:43:43.609633+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II RootBeer 40mm 18k Rose Gold & Steel Watch 126711CHNR",
-  "total": 21999.99,
-  "condicion": "New with imperfections",
-  "url": "https://www.ebay.com/itm/377622242213",
-  "item_id": "v1|377622242213|0",
-  "referencia": "126711CHNR",
-  "mercado": {
-   "n": 24,
-   "p25": 23495,
-   "mediana": 23765
-  },
-  "ratio_mercado": 0.936,
-  "motivo": "precio normal (94 % del cuartil bajo de 126711CHNR)"
- },
- {
-  "fecha": "2026-11-04T22:43:43.609633+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere Diamond 18K Yellow Gold Watch 866911",
-  "total": 18000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407340620763",
-  "item_id": "v1|407340620763|0",
-  "triage": {
-   "modelo": "Cartier Panthère (oro amarillo 18K con bisel de diamantes, cuarzo, esfera blanca con números romanos)",
-   "referencia": null,
-   "precio_justo_usd": 12500,
-   "interesante": false,
-   "nota": "El número 866911 del título no parece una referencia Cartier estándar; verificar referencia real. Precio pedido US$18.000 por encima de lo que se vende este modelo en el mercado secundario."
-  },
-  "motivo": "triage: El número 866911 del título no parece una referencia Cartier estándar; verificar referencia real. Precio pedido US$18.000 por encima de lo que se vende este modelo en el mercado secundario. (justo 12500)"
- },
- {
   "fecha": "2026-11-04T22:58:43.264827+00:00",
   "marca": "Rolex",
   "titulo": "Rolex GMT-Master II Rootbeer Two Tone Black Oyster 126711CHNR Complete 2021",
@@ -10946,5 +10912,39 @@
   },
   "ratio_mercado": 3.463,
   "motivo": "precio normal (346 % del cuartil bajo de 16013)"
+ },
+ {
+  "fecha": "2026-11-07T03:00:26.245500+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41MM Wimbledon 126301 18K RG Gold/SS Jubilee Mens Watch Box Paper",
+  "total": 17100.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128178059748",
+  "item_id": "v1|128178059748|0",
+  "referencia": "126301",
+  "mercado": {
+   "n": 17,
+   "p25": 15950,
+   "mediana": 16380
+  },
+  "ratio_mercado": 1.072,
+  "motivo": "precio normal (107 % del cuartil bajo de 126301)"
+ },
+ {
+  "fecha": "2026-11-07T03:00:26.245500+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Ranger 79950-0008 New Box & Papers 2026",
+  "total": 4210.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/137909478769",
+  "item_id": "v1|137909478769|0",
+  "referencia": "79950-0008",
+  "mercado": {
+   "n": 8,
+   "p25": 3415,
+   "mediana": 3550
+  },
+  "ratio_mercado": 1.233,
+  "motivo": "precio normal (123 % del cuartil bajo de 79950-0008)"
  }
 ]
