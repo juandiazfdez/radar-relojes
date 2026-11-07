@@ -2,57 +2,6 @@
  {
   "fecha": "2026-11-05T15:14:18.983146+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex GMT Master II 40mm Sprite Jubilee Bracelet 126720VTNR",
-  "total": 19995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237165439142",
-  "item_id": "v1|237165439142|0",
-  "referencia": "126720VTNR",
-  "mercado": {
-   "n": 91,
-   "p25": 17990,
-   "mediana": 18458
-  },
-  "ratio_mercado": 1.111,
-  "motivo": "precio normal (111 % del cuartil bajo de 126720VTNR)"
- },
- {
-  "fecha": "2026-11-05T15:14:18.983146+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT Master II 40mm Pepsi Jubilee Bracelet 126710BLRO 2020",
-  "total": 32000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237165439148",
-  "item_id": "v1|237165439148|0",
-  "referencia": "126710BLRO",
-  "mercado": {
-   "n": 21,
-   "p25": 24100,
-   "mediana": 24995
-  },
-  "ratio_mercado": 1.328,
-  "motivo": "precio normal (133 % del cuartil bajo de 126710BLRO)"
- },
- {
-  "fecha": "2026-11-05T15:14:18.983146+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona Chronograph 18k White Gold Blue Dial/Bezel 40mm Watch Z 116509",
-  "total": 42700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117506316937",
-  "item_id": "v1|117506316937|0",
-  "referencia": "116509",
-  "mercado": {
-   "n": 16,
-   "p25": 39990,
-   "mediana": 41469
-  },
-  "ratio_mercado": 1.068,
-  "motivo": "precio normal (107 % del cuartil bajo de 116509)"
- },
- {
-  "fecha": "2026-11-05T15:14:18.983146+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Submariner Date 18k Yellow Gold Blue Sapphire/Diamond 40mm Watch 16808",
   "total": 33650.0,
   "condicion": "Pre-owned - Good",
@@ -10984,5 +10933,62 @@
   },
   "ratio_justo": 0.944,
   "motivo": "precio normal segun revision (94 % del justo 900)"
+ },
+ {
+  "fecha": "2026-11-07T18:30:57.337360+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 126334 Blue Diamond 41mm 18k Fluted Jubilee Stainless Steel Watch",
+  "total": 15293.28,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267836612616",
+  "item_id": "v1|267836612616|0",
+  "referencia": "126334",
+  "mercado": {
+   "n": 1,
+   "p25": 10194,
+   "mediana": 10194
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 41 acero y oro blanco, bisel acanalado, esfera azul con diamantes, brazalete Jubilee",
+   "referencia": "126334",
+   "precio_justo_usd": 14500,
+   "interesante": false,
+   "nota": "Referencia 126334 de generación actual; con esfera azul de diamantes se vende en torno a US$14-15k. El precio pedido de US$15.293 está por encima de ese rango, así que no es una oportunidad."
+  },
+  "motivo": "triage: Referencia 126334 de generación actual; con esfera azul de diamantes se vende en torno a US$14-15k. El precio pedido de US$15.293 está por encima de ese rango, así que no es una oportunidad. (justo 14500)"
+ },
+ {
+  "fecha": "2026-11-07T18:30:57.337360+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX 31MM Midsize Datejust 278273 MOP Diamond Oyster 31MM 2023",
+  "total": 22487.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327444895254",
+  "item_id": "v1|327444895254|0",
+  "referencia": "278273",
+  "mercado": {
+   "n": 16,
+   "p25": 16840,
+   "mediana": 18504
+  },
+  "ratio_mercado": 1.335,
+  "motivo": "precio normal (134 % del cuartil bajo de 278273)"
+ },
+ {
+  "fecha": "2026-11-07T18:30:57.337360+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Vintage Stainless Steel 2 Tone 34mm Hand Wind Watch",
+  "total": 5500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137911218663",
+  "item_id": "v1|137911218663|0",
+  "triage": {
+   "modelo": "Rolex vintage de cuerda manual, caja redonda de estilo Oyster (posiblemente chapada en oro o de oro bajo, años 40-50)",
+   "referencia": null,
+   "precio_justo_usd": 1800,
+   "interesante": false,
+   "nota": "El título dice acero bitono, pero la foto muestra caja dorada sin pulsera; el precio pedido supera con creces el valor estimado y falta verificar material, referencia y autenticidad."
+  },
+  "motivo": "triage: El título dice acero bitono, pero la foto muestra caja dorada sin pulsera; el precio pedido supera con creces el valor estimado y falta verificar material, referencia y autenticidad. (justo 1800)"
  }
 ]
