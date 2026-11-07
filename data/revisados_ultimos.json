@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-04T23:13:43.316151+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Submariner 2026 OCTOBER UNWORN 124060 Steel",
-  "total": 15050.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/840094148986",
-  "item_id": "v1|840094148986|0",
-  "referencia": "124060",
-  "mercado": {
-   "n": 22,
-   "p25": 14495,
-   "mediana": 14675
-  },
-  "ratio_mercado": 1.038,
-  "motivo": "precio normal (104 % del cuartil bajo de 124060)"
- },
- {
-  "fecha": "2026-11-04T23:13:43.316151+00:00",
-  "marca": "Rolex",
   "titulo": "eLive- Rolex Air-King 40mm 126900",
   "total": 1.0,
   "condicion": "New with box and papers",
@@ -10943,6 +10926,23 @@
    "n": 19,
    "p25": 25178,
    "mediana": 25747
+  },
+  "ratio_mercado": 0.0,
+  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
+ },
+ {
+  "fecha": "2026-11-07T05:00:26.212339+00:00",
+  "marca": "Rolex",
+  "titulo": "eLive- Rolex GMT-Master II Bruce Wayne Jubilee 126710GRNR",
+  "total": 1.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/128180411243",
+  "item_id": "v1|128180411243|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 64,
+   "p25": 21450,
+   "mediana": 22862
   },
   "ratio_mercado": 0.0,
   "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
