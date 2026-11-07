@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-04T23:43:43.440356+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II Root Beer Tiger Iron Oyster 126715CHNR Complete 2026",
-  "total": 85150.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/900066195376",
-  "item_id": "v1|900066195376|0",
-  "referencia": "126715CHNR",
-  "mercado": {
-   "n": 9,
-   "p25": 47270,
-   "mediana": 48988
-  },
-  "ratio_mercado": 1.801,
-  "motivo": "precio normal (180 % del cuartil bajo de 126715CHNR)"
- },
- {
-  "fecha": "2026-11-04T23:58:43.579762+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex GMT-Master II 126710GRNR Ceramic Steel Bruce Wayne Jubilee NEW",
-  "total": 23950.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/237164186943",
-  "item_id": "v1|237164186943|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 62,
-   "p25": 21748,
-   "mediana": 22862
-  },
-  "ratio_mercado": 1.101,
-  "motivo": "precio normal (110 % del cuartil bajo de 126710GRNR)"
- },
- {
   "fecha": "2026-11-04T23:58:43.579762+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos-Dumont WSSA0032 Watch Only",
@@ -10959,5 +10925,39 @@
    "nota": "El listado dice explícitamente que es FAKE, prop o pieza sin autenticidad y que no funciona; no tiene valor de reventa como Rolex genuino."
   },
   "motivo": "triage: El listado dice explícitamente que es FAKE, prop o pieza sin autenticidad y que no funciona; no tiene valor de reventa como Rolex genuino. (justo 15)"
+ },
+ {
+  "fecha": "2026-11-07T11:00:36.557088+00:00",
+  "marca": "Rolex",
+  "titulo": "Mens 18K Yellow Solid Gold Rolex President Type 8.0 Inch Bracelet  16MM",
+  "total": 13400.0,
+  "condicion": "New without box or papers",
+  "url": "https://www.ebay.com/itm/198779227690",
+  "item_id": "v1|198779227690|0",
+  "triage": {
+   "modelo": "Pulsera tipo President de oro amarillo 18K (solo brazalete, sin reloj, 16 mm)",
+   "referencia": null,
+   "precio_justo_usd": 10000,
+   "interesante": false,
+   "nota": "Solo se vende la pulsera, sin reloj, caja ni papeles, y Rolex no vende brazaletes nuevos por separado. El precio se acerca al valor del oro y el listado es engañoso o posiblemente replica o pieza aftermarket."
+  },
+  "motivo": "triage: Solo se vende la pulsera, sin reloj, caja ni papeles, y Rolex no vende brazaletes nuevos por separado. El precio se acerca al valor del oro y el listado es engañoso o posiblemente replica o pieza aftermarket. (justo 10000)"
+ },
+ {
+  "fecha": "2026-11-07T11:00:36.557088+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Chronograph Panda Ref:79360N Box And Papers",
+  "total": 4760.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900072726654",
+  "item_id": "v1|900072726654|0",
+  "referencia": "79360N",
+  "mercado": {
+   "n": 59,
+   "p25": 4600,
+   "mediana": 5250
+  },
+  "ratio_mercado": 1.035,
+  "motivo": "precio normal (103 % del cuartil bajo de 79360N)"
  }
 ]
