@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-05T15:14:18.983146+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 18k Yellow Gold Blue Sapphire/Diamond 40mm Watch 16808",
-  "total": 33650.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117506316947",
-  "item_id": "v1|117506316947|0",
-  "referencia": "16808",
-  "mercado": {
-   "n": 5,
-   "p25": 27729,
-   "mediana": 28239
-  },
-  "ratio_mercado": 1.214,
-  "motivo": "precio normal (121 % del cuartil bajo de 16808)"
- },
- {
-  "fecha": "2026-11-05T15:14:18.983146+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos 100 Medium Steel White Rubber Automatic Watch W20122U2 2878",
   "total": 4749.0,
@@ -10990,5 +10973,22 @@
    "nota": "El título dice acero bitono, pero la foto muestra caja dorada sin pulsera; el precio pedido supera con creces el valor estimado y falta verificar material, referencia y autenticidad."
   },
   "motivo": "triage: El título dice acero bitono, pero la foto muestra caja dorada sin pulsera; el precio pedido supera con creces el valor estimado y falta verificar material, referencia y autenticidad. (justo 1800)"
+ },
+ {
+  "fecha": "2026-11-07T18:45:57.805255+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 126710BLNR Batgirl Full Set Jubilee Box & Papers 2026",
+  "total": 20889.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800889662720",
+  "item_id": "v1|800889662720|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 68,
+   "p25": 18172,
+   "mediana": 18825
+  },
+  "ratio_mercado": 1.15,
+  "motivo": "precio normal (115 % del cuartil bajo de 126710BLNR)"
  }
 ]
