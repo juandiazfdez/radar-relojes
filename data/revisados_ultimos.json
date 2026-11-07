@@ -1,51 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T17:44:19.719586+00:00",
-  "marca": "Cartier",
-  "titulo": "41963: Cartier Tank Anglaise, Quartz, Ref. W5310022, Box and 2017 Card",
-  "total": 3700.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237165741671",
-  "item_id": "v1|237165741671|0",
-  "referencia": "W5310022",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Tank Anglaise (acero, cuarzo, esfera plateada con números romanos, brazalete integrado)",
-   "referencia": "W5310022",
-   "precio_justo_usd": 2900,
-   "interesante": false,
-   "nota": "El precio pedido de US$3,700 está por encima de lo que este modelo de acero de cuarzo se vende de segunda mano en EE. UU., aunque tenga caja y tarjeta de 2017."
-  },
-  "motivo": "triage: El precio pedido de US$3,700 está por encima de lo que este modelo de acero de cuarzo se vende de segunda mano en EE. UU., aunque tenga caja y tarjeta de 2017. (justo 2900)"
- },
- {
-  "fecha": "2026-11-05T17:44:19.719586+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Heritage Black Bay Blue Smiley *BOX + PAPERS* Rare Collectors Watch 79220B",
-  "total": 4488.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/820320383479",
-  "item_id": "v1|820320383479|0",
-  "referencia": "79220B",
-  "mercado": {
-   "n": 4,
-   "p25": 4000,
-   "mediana": 4175
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay Blue (Heritage Black Bay), acero con bisel azul",
-   "referencia": "79220B",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido de US$4488 está por encima del mercado de segunda mano para esta referencia; el término 'rare' no justifica la prima. La identificación se basa en una imagen pequeña y debe verificarse."
-  },
-  "motivo": "triage: Precio pedido de US$4488 está por encima del mercado de segunda mano para esta referencia; el término 'rare' no justifica la prima. La identificación se basa en una imagen pequeña y debe verificarse. (justo 3300)"
- },
- {
   "fecha": "2026-11-05T17:59:19.107993+00:00",
   "marca": "Rolex",
   "titulo": "ROLEX 18K Yellow Gold 36mm  Day-Date Oysterquartz President 19018  Box Warranty",
@@ -11033,5 +10987,45 @@
    "nota": "Base Santos LG de acero usada, pero el precio depende casi solo del trabajo de pavé aftermarket, que se revende muy por debajo de su coste; las 20ct anunciadas parecen exageradas y no hay referencia verificable."
   },
   "motivo": "triage: Base Santos LG de acero usada, pero el precio depende casi solo del trabajo de pavé aftermarket, que se revende muy por debajo de su coste; las 20ct anunciadas parecen exageradas y no hay referencia verificable. (justo 14000)"
+ },
+ {
+  "fecha": "2026-11-07T23:30:57.611164+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 40mm Black Dial/Bezel Steel Auto 300m Vintage w/Box",
+  "total": 9500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287712780711",
+  "item_id": "v1|287712780711|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date (negro, bisel cerámica/aluminio negro, brazalete de acero)",
+   "referencia": "16610 (probable; no se distingue con certeza en la foto)",
+   "precio_justo_usd": 7800,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta estimado para una 16610 de estado bueno con caja y sin papeles confirmados; no cumple el umbral del 15 %."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta estimado para una 16610 de estado bueno con caja y sin papeles confirmados; no cumple el umbral del 15 %. (justo 7800)"
+ },
+ {
+  "fecha": "2026-11-07T23:30:57.611164+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Heritage Black Bay 36 Smiley with Box and Papers (Ref. 79500)",
+  "total": 2900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377629360390",
+  "item_id": "v1|377629360390|0",
+  "referencia": "79500",
+  "mercado": {
+   "n": 1,
+   "p25": 2550,
+   "mediana": 2550
+  },
+  "triage": {
+   "modelo": "Tudor Heritage Black Bay 36 Smiley (no se distingue el smiley en la foto)",
+   "referencia": "79500",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Precio pedido de 2900 USD está por encima del valor de venta cerrada para un 79500 usado con caja y papeles; la foto no muestra claramente el smiley."
+  },
+  "motivo": "triage: Precio pedido de 2900 USD está por encima del valor de venta cerrada para un 79500 usado con caja y papeles; la foto no muestra claramente el smiley. (justo 2600)"
  }
 ]
