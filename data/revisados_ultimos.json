@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T15:14:18.983146+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos 100 Medium Steel White Rubber Automatic Watch W20122U2 2878",
-  "total": 4749.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128177083058",
-  "item_id": "v1|128177083058|0",
-  "referencia": "2878",
-  "mercado": {
-   "n": 18,
-   "p25": 4975,
-   "mediana": 5372
-  },
-  "ratio_mercado": 0.955,
-  "motivo": "precio normal (95 % del cuartil bajo de 2878)"
- },
- {
-  "fecha": "2026-11-05T15:14:18.983146+00:00",
-  "marca": "Cartier",
-  "titulo": "2025 Cartier Santos de Cartier Large – Ref. WSSA0062 – Full Set – Very Good Cond",
-  "total": 7775.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336879421083",
-  "item_id": "v1|336879421083|0",
-  "referencia": "WSSA0062",
-  "mercado": {
-   "n": 5,
-   "p25": 7899,
-   "mediana": 8000
-  },
-  "ratio_mercado": 0.984,
-  "motivo": "precio normal (98 % del cuartil bajo de WSSA0062)"
- },
- {
-  "fecha": "2026-11-05T15:14:18.983146+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Dumont Extra-Flat Yellow Gold Mens Watch W1505453",
-  "total": 22090.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336881514779",
-  "item_id": "v1|336881514779|0",
-  "referencia": "W1505453",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Santos-Dumont Extra-Flat (oro amarillo, esfera blanca con numerales romanos)",
-   "referencia": "W1505453 (según el título; no verificable en la foto)",
-   "precio_justo_usd": 14500,
-   "interesante": false,
-   "nota": "Precio pedido US$22.090 por encima del valor de mercado de un oro amarillo en estado Good; la estimación es aproximada y depende de caja, papeles y tamaño exacto."
-  },
-  "motivo": "triage: Precio pedido US$22.090 por encima del valor de mercado de un oro amarillo en estado Good; la estimación es aproximada y depende de caja, papeles y tamaño exacto. (justo 14500)"
- },
- {
   "fecha": "2026-11-05T15:29:19.140553+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust Silver Men's 116234",
@@ -10990,5 +10933,68 @@
   },
   "ratio_mercado": 1.15,
   "motivo": "precio normal (115 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-07T19:00:57.531362+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date 36 Florentine Finish Yellow Gold (1806/8)",
+  "total": 16500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800889719200",
+  "item_id": "v1|800889719200|0",
+  "triage": {
+   "modelo": "Rolex Day-Date 36 oro amarillo, esfera champán con día en español/inglés (Thursday) y fecha, correa de cuero negra",
+   "referencia": null,
+   "precio_justo_usd": 21000,
+   "interesante": false,
+   "nota": "El título cita '1806/8' pero la referencia no encaja con lo visible (correa de cuero, no brazalete). Requiere verificar referencia, esfera y autenticidad antes de comprar."
+  },
+  "motivo": "triage: El título cita '1806/8' pero la referencia no encaja con lo visible (correa de cuero, no brazalete). Requiere verificar referencia, esfera y autenticidad antes de comprar. (justo 21000)"
+ },
+ {
+  "fecha": "2026-11-07T19:00:57.531362+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex President No-Date Yellow Gold Diamond Ladies Watch 67198",
+  "total": 10540.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336885754097",
+  "item_id": "v1|336885754097|0",
+  "referencia": "67198",
+  "mercado": {
+   "n": 2,
+   "p25": 7000,
+   "mediana": 9616
+  },
+  "triage": {
+   "modelo": "Rolex Lady President No-Date, oro amarillo 18k, esfera negra con marcadores de diamante",
+   "referencia": "67198",
+   "precio_justo_usd": 8800,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta cerrada estimado para este modelo de oro con esfera de diamantes en estado usado; no hay descuento significativo."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para este modelo de oro con esfera de diamantes en estado usado; no hay descuento significativo. (justo 8800)"
+ },
+ {
+  "fecha": "2026-11-07T19:00:57.531362+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Drive Retrograde Rose Gold Mens Watch WGNM0005",
+  "total": 12495.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940073598795",
+  "item_id": "v1|940073598795|0",
+  "referencia": "WGNM0005",
+  "mercado": {
+   "n": 2,
+   "p25": 16320,
+   "mediana": 16630
+  },
+  "triage": {
+   "modelo": "Cartier Drive de Cartier Retrograde, oro rosa 18k, esfera plateada con numeración romana",
+   "referencia": "WGNM0005 (según título; no verificable solo con la foto)",
+   "precio_justo_usd": 11000,
+   "interesante": false,
+   "nota": "Precio pedido de US$12.495 a ~12 % sobre mi estimación conservadora de venta cerrada (~US$11.000) para estado Good; sin confirmar caja y papeles. No llega al umbral del 15 % por debajo."
+  },
+  "motivo": "triage: Precio pedido de US$12.495 a ~12 % sobre mi estimación conservadora de venta cerrada (~US$11.000) para estado Good; sin confirmar caja y papeles. No llega al umbral del 15 % por debajo. (justo 11000)"
  }
 ]

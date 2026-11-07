@@ -19943,5 +19943,25 @@
   "fecha": "2026-11-07",
   "consulta": "Cartier WHSA0027",
   "n": 0
+ },
+ "Rolex 67198|usado": {
+  "fecha": "2026-11-07",
+  "consulta": "Rolex 67198",
+  "n": 2,
+  "mediana": 9616,
+  "p25": 7000,
+  "p75": 12233,
+  "min": 7000,
+  "max": 12233
+ },
+ "Cartier WGNM0005|usado": {
+  "fecha": "2026-11-07",
+  "consulta": "Cartier WGNM0005",
+  "n": 2,
+  "mediana": 16630,
+  "p25": 16320,
+  "p75": 16939,
+  "min": 16320,
+  "max": 16939
  }
 }
