@@ -1,91 +1,6 @@
 [
  {
   "fecha": "2026-11-05T15:59:19.428032+00:00",
-  "marca": "Rolex",
-  "titulo": "2010 Rolex Cosmograph Daytona 116520 40mm Steel Chronograph Complete Set B&P",
-  "total": 23999.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960158186669",
-  "item_id": "v1|960158186669|0",
-  "referencia": "116520",
-  "mercado": {
-   "n": 22,
-   "p25": 22000,
-   "mediana": 23627
-  },
-  "ratio_mercado": 1.091,
-  "motivo": "precio normal (109 % del cuartil bajo de 116520)"
- },
- {
-  "fecha": "2026-11-05T15:59:19.428032+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Explorer 40 \"2024\" 224270",
-  "total": 10688.29,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336881565883",
-  "item_id": "v1|336881565883|0",
-  "referencia": "224270",
-  "mercado": {
-   "n": 20,
-   "p25": 9674,
-   "mediana": 9910
-  },
-  "ratio_mercado": 1.105,
-  "motivo": "precio normal (110 % del cuartil bajo de 224270)"
- },
- {
-  "fecha": "2026-11-05T15:59:19.428032+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Explorer I \"2026 CPO\" 114270",
-  "total": 8633.44,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237165482708",
-  "item_id": "v1|237165482708|0",
-  "referencia": "114270",
-  "mercado": {
-   "n": 8,
-   "p25": 6990,
-   "mediana": 7356
-  },
-  "ratio_mercado": 1.235,
-  "motivo": "precio normal (124 % del cuartil bajo de 114270)"
- },
- {
-  "fecha": "2026-11-05T15:59:19.428032+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36mm Two-Tone Natural Diamond Watch Solid-Link Jubilee Bracelet",
-  "total": 18042.95,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117506395092",
-  "item_id": "v1|117506395092|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36 bicolor (acero y oro) con bisel de diamantes, esfera champán con marcadores de diamante y brazalete Jubilee",
-   "referencia": null,
-   "precio_justo_usd": 14000,
-   "interesante": false,
-   "nota": "La foto muestra un bisel muy engastado que parece modificación posterior o aftermarket, lo que reduce el valor frente a un diamond-set de fábrica. Sin referencia verificable ni autenticidad confirmada, el precio pedido no está 15 % por debajo del mercado."
-  },
-  "motivo": "triage: La foto muestra un bisel muy engastado que parece modificación posterior o aftermarket, lo que reduce el valor frente a un diamond-set de fábrica. Sin referencia verificable ni autenticidad confirmada, el precio pedido no está 15 % por debajo del mercado. (justo 14000)"
- },
- {
-  "fecha": "2026-11-05T15:59:19.428032+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Explorer II BLACK Red Stainless Steel NO-HOLES 40mm Automatic Oyster 16570",
-  "total": 8042.54,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267834463516",
-  "item_id": "v1|267834463516|0",
-  "referencia": "16570",
-  "mercado": {
-   "n": 38,
-   "p25": 8495,
-   "mediana": 8990
-  },
-  "ratio_mercado": 0.947,
-  "motivo": "precio normal (95 % del cuartil bajo de 16570)"
- },
- {
-  "fecha": "2026-11-05T15:59:19.428032+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Roadster Chronograph W6206020 Box & papers",
   "total": 5999.0,
@@ -11008,5 +10923,102 @@
   },
   "ratio_mercado": 1.103,
   "motivo": "precio normal (110 % del cuartil bajo de W5200013)"
+ },
+ {
+  "fecha": "2026-11-07T20:15:57.196198+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex Oyster Perpetual Ladies 26mm Two Tone Zephyr Watch 6621 Circa 1966",
+  "total": 3990.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147670843478",
+  "item_id": "v1|147670843478|0",
+  "referencia": "6621",
+  "mercado": {
+   "n": 8,
+   "p25": 6899,
+   "mediana": 10754
+  },
+  "ratio_mercado": 0.578,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 3000,
+   "riesgo_autenticidad": "medio",
+   "estado": "Aspecto bueno y esfera limpia, pero con desgaste visible en el brazalete y sin fotos del fondo ni del movimiento"
+  },
+  "motivo": "Claude descarto: Precio pedido de US$3,990, por encima de lo que suele cerrarse un 6621 Zephyr dama sin caja ni papeles (aprox. US$2,600-3,400). No hay margen de reventa a ese precio.; Los comparables de eBay (mediana US$10,754) son precios pedidos inflados y no sirven de referencia. Las ventas cerradas de esta referencia están muy por debajo."
+ },
+ {
+  "fecha": "2026-11-07T20:15:57.196198+00:00",
+  "marca": "Rolex",
+  "titulo": "W/Papers 1974 Rolex Ladies Date 26 mm Steel White Roman Oyster Watch 6919",
+  "total": 4550.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147670843479",
+  "item_id": "v1|147670843479|0",
+  "referencia": "6919",
+  "mercado": {
+   "n": 7,
+   "p25": 3890,
+   "mediana": 4499
+  },
+  "ratio_mercado": 1.17,
+  "motivo": "precio normal (117 % del cuartil bajo de 6919)"
+ },
+ {
+  "fecha": "2026-11-07T20:15:57.196198+00:00",
+  "marca": "Rolex",
+  "titulo": "W/Box Rolex Cellini Prince 28 x 47 mm 18K White Gold Leather Watch 5443 9",
+  "total": 14550.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147670840221",
+  "item_id": "v1|147670840221|0",
+  "referencia": "5443",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Cellini Prince (doble huso), oro blanco 18K, correa de cuero",
+   "referencia": "5443/9",
+   "precio_justo_usd": 15000,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para esta referencia en oro blanco con caja y papeles; no hay descuento de al menos 15 %. La identificación se basa en el título y en la esfera de la foto, que es pequeña."
+  },
+  "motivo": "triage: Precio cercano al mercado para esta referencia en oro blanco con caja y papeles; no hay descuento de al menos 15 %. La identificación se basa en el título y en la esfera de la foto, que es pequeña. (justo 15000)"
+ },
+ {
+  "fecha": "2026-11-07T20:15:57.196198+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Ladies Rolex Precision 18K Solid White Gold Case Cocktail Watch– Runs",
+  "total": 2200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137911437258",
+  "item_id": "v1|137911437258|0",
+  "triage": {
+   "modelo": "Rolex Precision dama vintage, caja de oro blanco declarada (no verificable en la foto)",
+   "referencia": null,
+   "precio_justo_usd": 650,
+   "interesante": false,
+   "nota": "Rolex Precision de dama, cuerda manual, con pulsera extensible; la foto no permite confirmar el oro 18K ni la autenticidad. Con oro macizo y funcionamiento, el mercado la cierra en torno a US$600-700; a US$2200 está muy sobrevalorado."
+  },
+  "motivo": "triage: Rolex Precision de dama, cuerda manual, con pulsera extensible; la foto no permite confirmar el oro 18K ni la autenticidad. Con oro macizo y funcionamiento, el mercado la cierra en torno a US$600-700; a US$2200 está muy sobrevalorado. (justo 650)"
+ },
+ {
+  "fecha": "2026-11-07T20:15:57.196198+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Watch New Black And Red Notebook  With Protective Sleeve",
+  "total": 40.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860122616582",
+  "item_id": "v1|860122616582|0",
+  "triage": {
+   "modelo": "Libreta o cuaderno promocional Tudor (no es un reloj)",
+   "referencia": null,
+   "precio_justo_usd": 10,
+   "interesante": false,
+   "nota": "La imagen muestra una libreta negra con el escudo Tudor y acento rojo, con funda protectora; no es un reloj ni incluye movimiento o caja de reloj."
+  },
+  "motivo": "triage: La imagen muestra una libreta negra con el escudo Tudor y acento rojo, con funda protectora; no es un reloj ni incluye movimiento o caja de reloj. (justo 10)"
  }
 ]
