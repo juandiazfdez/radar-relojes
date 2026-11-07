@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-05T16:14:19.200260+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos 100",
-  "total": 5750.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206677825050",
-  "item_id": "v1|206677825050|0",
-  "triage": {
-   "modelo": "Cartier Santos 100 (tamaño XL, caja rectangular con bisel atornillado)",
-   "referencia": "no confirmada (posible W20073X8 si es acero; verificar con foto del caso y papeles)",
-   "precio_justo_usd": 6500,
-   "interesante": false,
-   "nota": "Precio pedido ~11-12 % bajo estimación de mercado; con caja y sin confirmar papeles ni referencia exacta, no alcanza el umbral del 15 %."
-  },
-  "motivo": "triage: Precio pedido ~11-12 % bajo estimación de mercado; con caja y sin confirmar papeles ni referencia exacta, no alcanza el umbral del 15 %. (justo 6500)"
- },
- {
-  "fecha": "2026-11-05T16:14:19.200260+00:00",
   "marca": "Tudor",
   "titulo": "Vintage 1966 TUDOR Prince OysterDate Small Rose 7996 Automatic Cal.2462 Watch",
   "total": 2533.0,
@@ -11014,5 +10997,28 @@
    "nota": "Precio pedido de US$4600 por encima del precio de venta estimado para un BB58 nuevo con papeles, incluso con la variante granate. La referencia exacta no se distingue en la foto."
   },
   "motivo": "triage: Precio pedido de US$4600 por encima del precio de venta estimado para un BB58 nuevo con papeles, incluso con la variante granate. La referencia exacta no se distingue en la foto. (justo 3600)"
+ },
+ {
+  "fecha": "2026-11-07T21:15:57.247915+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay P01 M70150-0001",
+  "total": 3175.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198780018613",
+  "item_id": "v1|198780018613|0",
+  "referencia": "M70150-0001",
+  "mercado": {
+   "n": 2,
+   "p25": 2700,
+   "mediana": 2950
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay P01 (esfera negra, bisel de acero, correa de cuero marrón)",
+   "referencia": "M70150-0001",
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Precio cercano al mercado de usado en excelente estado con papeles; no hay descuento de al menos 15 %."
+  },
+  "motivo": "triage: Precio cercano al mercado de usado en excelente estado con papeles; no hay descuento de al menos 15 %. (justo 3100)"
  }
 ]
