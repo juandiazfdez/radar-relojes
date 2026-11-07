@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-05T14:44:19.013772+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Sea-Dweller Deepsea 44 Steel & Ceramic Black Mens Dive Watch B/P V 116660",
-  "total": 13450.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366787584401",
-  "item_id": "v1|366787584401|0",
-  "referencia": "116660",
-  "mercado": {
-   "n": 46,
-   "p25": 10045,
-   "mediana": 11936
-  },
-  "ratio_mercado": 1.339,
-  "motivo": "precio normal (134 % del cuartil bajo de 116660)"
- },
- {
-  "fecha": "2026-11-05T14:44:19.013772+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Yacht-Master Stainless Steel & Platinum Mens 40mm Automatic Watch M 16622",
-  "total": 11700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366787584407",
-  "item_id": "v1|366787584407|0",
-  "referencia": "16622",
-  "mercado": {
-   "n": 27,
-   "p25": 9878,
-   "mediana": 11100
-  },
-  "ratio_mercado": 1.184,
-  "motivo": "precio normal (118 % del cuartil bajo de 16622)"
- },
- {
-  "fecha": "2026-11-05T14:44:19.013772+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Submariner Date 18k Yellow Gold Blue Ceramic 40mm Watch +Card '19 116618",
   "total": 43088.0,
   "condicion": "Pre-owned - Good",
@@ -10952,5 +10918,45 @@
   },
   "ratio_mercado": 0.83,
   "motivo": "descripcion: as-is"
+ },
+ {
+  "fecha": "2026-11-07T16:15:46.194673+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex DateJust 16233 Pave Roman Diamond Two-Tone Gold Steel Jubilee 36mm Watch",
+  "total": 6113.83,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267836527578",
+  "item_id": "v1|267836527578|0",
+  "referencia": "16233",
+  "mercado": {
+   "n": 28,
+   "p25": 5695,
+   "mediana": 6170
+  },
+  "ratio_mercado": 1.074,
+  "motivo": "precio normal (107 % del cuartil bajo de 16233)"
+ },
+ {
+  "fecha": "2026-11-07T16:15:46.194673+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Americaine WSTA0018 3972 Large Steel Automatic Men's Watch B&P.",
+  "total": 4950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257840712511",
+  "item_id": "v1|257840712511|0",
+  "referencia": "WSTA0018",
+  "mercado": {
+   "n": 2,
+   "p25": 4500,
+   "mediana": 5000
+  },
+  "triage": {
+   "modelo": "Cartier Tank Américaine Large, acero, automático, con correa de cuero negra",
+   "referencia": "WSTA0018",
+   "precio_justo_usd": 5300,
+   "interesante": false,
+   "nota": "Precio pedido de US$4950 queda solo ~7 % bajo la estimación conservadora de venta real con caja y papeles; no alcanza el umbral del 15 %. La referencia no se puede verificar solo con la foto."
+  },
+  "motivo": "triage: Precio pedido de US$4950 queda solo ~7 % bajo la estimación conservadora de venta real con caja y papeles; no alcanza el umbral del 15 %. La referencia no se puede verificar solo con la foto. (justo 5300)"
  }
 ]
