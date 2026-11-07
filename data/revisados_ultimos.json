@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T16:44:19.564889+00:00",
-  "marca": "Rolex",
-  "titulo": "J42116: Rolex 18k Yellow Gold President, Ref. 18038, Circa 1984",
-  "total": 9000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237165559709",
-  "item_id": "v1|237165559709|0",
-  "referencia": "18038",
-  "mercado": {
-   "n": 19,
-   "p25": 9165,
-   "mediana": 10459
-  },
-  "ratio_mercado": 0.982,
-  "motivo": "precio normal (98 % del cuartil bajo de 18038)"
- },
- {
-  "fecha": "2026-11-05T16:44:19.564889+00:00",
-  "marca": "Tudor",
-  "titulo": "Brand New Tudor Black Bay Pro Opaline Ref. M79470-0004",
-  "total": 4600.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/940068251851",
-  "item_id": "v1|940068251851|0",
-  "referencia": "M79470-0004",
-  "mercado": {
-   "n": 6,
-   "p25": 3995,
-   "mediana": 4383
-  },
-  "ratio_mercado": 1.151,
-  "motivo": "precio normal (115 % del cuartil bajo de M79470-0004)"
- },
- {
-  "fecha": "2026-11-05T16:44:19.564889+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay Chronograph 79350 Box and Papers JUST SERVICED BY TUDOR",
-  "total": 6018.93,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198775131140",
-  "item_id": "v1|198775131140|0",
-  "referencia": "79350",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "TUDOR Black Bay Chronograph (acero, esfera negra, brazalete de acero)",
-   "referencia": "79350",
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "Precio pedido de US$6019 está por encima del valor de venta cerrada estimado para esta referencia usada con caja y papeles; el servicio reciente de Tudor no compensa la diferencia."
-  },
-  "motivo": "triage: Precio pedido de US$6019 está por encima del valor de venta cerrada estimado para esta referencia usada con caja y papeles; el servicio reciente de Tudor no compensa la diferencia. (justo 5000)"
- },
- {
   "fecha": "2026-11-05T16:59:19.056755+00:00",
   "marca": "Rolex",
   "titulo": "Rolex GMT-Master II 2026 OCTOBER UNWORN 126713GRNR Zombie Jubilee Gold Steel",
@@ -11026,5 +10969,63 @@
    "nota": "Reloj vintage de mujer en acero, de uso con signos de desgaste; el precio pedido de US$1535 supera el valor de venta cerrada estimado para esta referencia en estado Good."
   },
   "motivo": "triage: Reloj vintage de mujer en acero, de uso con signos de desgaste; el precio pedido de US$1535 supera el valor de venta cerrada estimado para esta referencia en estado Good. (justo 1100)"
+ },
+ {
+  "fecha": "2026-11-07T22:30:57.175267+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Submariner \"Kermit\" Ref. 16610T, No Box Or Papers. 40mm",
+  "total": 13800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267836884675",
+  "item_id": "v1|267836884675|0",
+  "referencia": "16610T",
+  "mercado": {
+   "n": 9,
+   "p25": 10914,
+   "mediana": 11199
+  },
+  "ratio_mercado": 1.264,
+  "motivo": "precio normal (126 % del cuartil bajo de 16610T)"
+ },
+ {
+  "fecha": "2026-11-07T22:30:57.175267+00:00",
+  "marca": "Rolex",
+  "titulo": "1987 Rolex Oyster Perpetual Date 15000",
+  "total": 4200.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/336884182549",
+  "item_id": "v1|336884182549|0",
+  "referencia": "15000",
+  "mercado": {
+   "n": 25,
+   "p25": 4959,
+   "mediana": 5500
+  },
+  "ratio_mercado": 0.847,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 3700,
+   "riesgo_autenticidad": "medio",
+   "estado": "Aceptable: cristal astillado, brazalete estirado, caja con pulidos previos y servicio desconocido"
+  },
+  "ratio_justo": 1.135,
+  "motivo": "precio normal segun revision (114 % del justo 3700)"
+ },
+ {
+  "fecha": "2026-11-07T22:30:57.175267+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Must Tank Navy Watch PRISTINE Box + Papers",
+  "total": 3850.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900073866345",
+  "item_id": "v1|900073866345|0",
+  "triage": {
+   "modelo": "Cartier Must de Cartier Tank (esfera navy)",
+   "referencia": null,
+   "precio_justo_usd": 1200,
+   "interesante": false,
+   "nota": "La foto no muestra claramente el reloj. Por título, es un Must Tank de cuarzo en acero, que se vende usado con caja y papeles en torno a US$1,000-1,400. El precio pedido de US$3,850 está muy por encima de ese rango."
+  },
+  "motivo": "triage: La foto no muestra claramente el reloj. Por título, es un Must Tank de cuarzo en acero, que se vende usado con caja y papeles en torno a US$1,000-1,400. El precio pedido de US$3,850 está muy por encima de ese rango. (justo 1200)"
  }
 ]
