@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T20:59:28.882004+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay One 31mm Stainless Steel M79600-0003",
-  "total": 3995.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880086809140",
-  "item_id": "v1|880086809140|0",
-  "referencia": "M79600-0003",
-  "mercado": {
-   "n": 1,
-   "p25": 3995,
-   "mediana": 3995
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay 31, acero, esfera champán con índices aplicados, brazalete jubilé (el título dice 'Black Bay One', pero la referencia M79600 corresponde a la Black Bay 31)",
-   "referencia": "M79600-0003",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Nuevo con caja y papeles, se vende en mercado gris cerca de 3.200-3.400 USD; el precio pedido de 3.995 USD está por encima del mercado."
-  },
-  "motivo": "triage: Nuevo con caja y papeles, se vende en mercado gris cerca de 3.200-3.400 USD; el precio pedido de 3.995 USD está por encima del mercado. (justo 3300)"
- },
- {
   "fecha": "2026-11-05T21:14:29.428486+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 31 mm Steel 18K Yellow Gold Ivory Roman Watch 68273 N Series 1991",
@@ -11033,5 +11010,22 @@
    "nota": "Referencia 116500LN (2016-2023) con juego completo. El precio pedido está cerca del mercado secundario y no supera el umbral del 15 % de descuento."
   },
   "motivo": "triage: Referencia 116500LN (2016-2023) con juego completo. El precio pedido está cerca del mercado secundario y no supera el umbral del 15 % de descuento. (justo 29000)"
+ },
+ {
+  "fecha": "2026-11-08T15:46:29.238602+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sky-Dweller 326934 Full Set 42mm Steel",
+  "total": 24195.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147671955393",
+  "item_id": "v1|147671955393|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller (acero Oystersteel y oro blanco, esfera azul, bisel acanalado, brazalete Jubilee)",
+   "referencia": "326934",
+   "precio_justo_usd": 24500,
+   "interesante": false,
+   "nota": "Precio en línea con el mercado secundario para esta referencia con caja y papeles; no hay descuento de al menos 15 %."
+  },
+  "motivo": "triage: Precio en línea con el mercado secundario para esta referencia con caja y papeles; no hay descuento de al menos 15 %. (justo 24500)"
  }
 ]
