@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-05T21:29:29.442332+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Ladies 26 mm Two Tone Blue Turquoise Diamond Watch 6619",
-  "total": 3990.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800882185929",
-  "item_id": "v1|800882185929|0",
-  "referencia": "6619",
-  "mercado": {
-   "n": 11,
-   "p25": 3900,
-   "mediana": 4150
-  },
-  "ratio_mercado": 1.023,
-  "motivo": "precio normal (102 % del cuartil bajo de 6619)"
- },
- {
-  "fecha": "2026-11-05T21:29:29.442332+00:00",
-  "marca": "Rolex",
-  "titulo": "W/Papers 2003 Rolex Air King Precision 34 mm White Roman Oyster Watch 14000M",
-  "total": 6500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147668181849",
-  "item_id": "v1|147668181849|0",
-  "referencia": "14000M",
-  "mercado": {
-   "n": 9,
-   "p25": 5200,
-   "mediana": 6000
-  },
-  "ratio_mercado": 1.25,
-  "motivo": "precio normal (125 % del cuartil bajo de 14000M)"
- },
- {
-  "fecha": "2026-11-05T21:29:29.442332+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex GMT-Master II Rose Gold Rootbeer Black Oyster 126715CHNR - 2024",
   "total": 44900.0,
   "condicion": "Pre-owned - Excellent",
@@ -11008,5 +10974,39 @@
   },
   "ratio_mercado": 0.827,
   "motivo": "descripcion: aftermarket bezel"
+ },
+ {
+  "fecha": "2026-11-08T18:01:39.242329+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex Oysterquartz Datejust 17000 – Single Owner Factory Service Records",
+  "total": 6495.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880096043200",
+  "item_id": "v1|880096043200|0",
+  "referencia": "17000",
+  "mercado": {
+   "n": 7,
+   "p25": 5500,
+   "mediana": 6250
+  },
+  "ratio_mercado": 1.181,
+  "motivo": "precio normal (118 % del cuartil bajo de 17000)"
+ },
+ {
+  "fecha": "2026-11-08T18:01:39.242329+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex Oyster Lincoln Cushion Case WW2 Men’s Military Watch",
+  "total": 1350.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227604421249",
+  "item_id": "v1|227604421249|0",
+  "triage": {
+   "modelo": "Rolex Oyster Lincoln (cushion case, posible modelo militar de la Segunda Guerra Mundial, caja dorada)",
+   "referencia": null,
+   "precio_justo_usd": 2500,
+   "interesante": false,
+   "nota": "No se ve la firma Rolex ni la corona en la foto, y la caja dorada no encaja bien con los Lincoln militares originales. Sin autenticar y sin referencia exacta, no hay margen claro del 15 %."
+  },
+  "motivo": "triage: No se ve la firma Rolex ni la corona en la foto, y la caja dorada no encaja bien con los Lincoln militares originales. Sin autenticar y sin referencia exacta, no hay margen claro del 15 %. (justo 2500)"
  }
 ]
