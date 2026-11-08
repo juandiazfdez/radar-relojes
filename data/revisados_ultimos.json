@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-05T20:44:29.003918+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36 mm Two Tone Jubilee Champagne Automatic Watch 1601 Circa 1990s",
-  "total": 4800.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336882104270",
-  "item_id": "v1|336882104270|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36 mm acero y oro amarillo, bisel acanalado, esfera champagne con índices de barra, brazalete Jubilee",
-   "referencia": "1601",
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "El precio pedido de US$4.800 está por encima del valor de venta cerrada estimado para esta referencia en buen estado. El título indica años 90, pero la 1601 se fabricó sobre todo hasta los años 80, así que conviene verificar el año y la autenticidad."
-  },
-  "motivo": "triage: El precio pedido de US$4.800 está por encima del valor de venta cerrada estimado para esta referencia en buen estado. El título indica años 90, pero la 1601 se fabricó sobre todo hasta los años 80, así que conviene verificar el año y la autenticidad. (justo 4300)"
- },
- {
-  "fecha": "2026-11-05T20:44:29.003918+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR Black Bay 41",
   "total": 4900.0,
@@ -11033,5 +11016,22 @@
    "nota": "Precio pedido por debajo del mercado secundario, pero sin caja ni papeles y de un listado de eBay, así que la autenticidad no se puede verificar; la foto tampoco confirma la referencia exacta."
   },
   "motivo": "triage: Precio pedido por debajo del mercado secundario, pero sin caja ni papeles y de un listado de eBay, así que la autenticidad no se puede verificar; la foto tampoco confirma la referencia exacta. (justo 16500)"
+ },
+ {
+  "fecha": "2026-11-08T11:46:28.970256+00:00",
+  "marca": "Rolex",
+  "titulo": "New Rolex Daytona Pikachu 126518LN 40MM Champagne Oysterflex 18K Yg +Box Papers",
+  "total": 61999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227603998302",
+  "item_id": "v1|227603998302|0",
+  "referencia": "126518LN",
+  "mercado": {
+   "n": 5,
+   "p25": 56093,
+   "mediana": 61194
+  },
+  "ratio_mercado": 1.105,
+  "motivo": "precio normal (111 % del cuartil bajo de 126518LN)"
  }
 ]
