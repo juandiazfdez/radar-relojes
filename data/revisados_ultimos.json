@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-05T19:59:18.606956+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Wimbledon Datejust 41 Two Tone Steel 18K Gold Jubilee Box Papers 126333",
-  "total": 15599.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267834683335",
-  "item_id": "v1|267834683335|0",
-  "referencia": "126333",
-  "mercado": {
-   "n": 31,
-   "p25": 14950,
-   "mediana": 15466
-  },
-  "ratio_mercado": 1.043,
-  "motivo": "precio normal (104 % del cuartil bajo de 126333)"
- },
- {
-  "fecha": "2026-11-05T19:59:18.606956+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual Date 115200 White Steel Oyster 34mm Box/Appraisal/Tag",
   "total": 6900.0,
   "condicion": "Pre-owned - Excellent",
@@ -11028,5 +11011,28 @@
   },
   "ratio_mercado": 3.542,
   "motivo": "precio normal (354 % del cuartil bajo de 6619)"
+ },
+ {
+  "fecha": "2026-11-08T04:16:07.253837+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Dumont Small W2009251 18K Rose Gold Quartz 2018 Full Set",
+  "total": 8100.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960168878665",
+  "item_id": "v1|960168878665|0",
+  "referencia": "W2009251",
+  "mercado": {
+   "n": 1,
+   "p25": 9199,
+   "mediana": 9199
+  },
+  "triage": {
+   "modelo": "Cartier Santos-Dumont Small, oro rosa 18K, cuarzo, con caja y papeles (2018)",
+   "referencia": "W2009251",
+   "precio_justo_usd": 6800,
+   "interesante": false,
+   "nota": "El precio pedido de US$8.100 supera la venta cerrada estimada para este modelo de oro rosa 18K de 2018, aunque esté completo; no hay descuento claro."
+  },
+  "motivo": "triage: El precio pedido de US$8.100 supera la venta cerrada estimada para este modelo de oro rosa 18K de 2018, aunque esté completo; no hay descuento claro. (justo 6800)"
  }
 ]
