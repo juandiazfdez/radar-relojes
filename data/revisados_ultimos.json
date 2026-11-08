@@ -1,35 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T20:14:30.268242+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Oyster Prince",
-  "total": 1619.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/860116776524",
-  "item_id": "v1|860116776524|0",
-  "triage": {
-   "modelo": "Tudor Oyster Prince (vintage, años 1950, caja de acero, esfera plateada con marcadores aplicados)",
-   "referencia": "Probablemente 7909 o similar (no confirmable solo con la foto)",
-   "precio_justo_usd": 2000,
-   "interesante": true,
-   "nota": "Precio ~19% bajo una estimación conservadora para un Oyster Prince vintage en buen estado; verificar referencia, originalidad de esfera/manecillas, movimiento y estado de la correa antes de comprar."
-  },
-  "referencia": "7809",
-  "mercado": {
-   "n": 3,
-   "p25": 1900,
-   "mediana": 3655
-  },
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 1800,
-   "riesgo_autenticidad": "medio",
-   "estado": "Buen aspecto general, caja probablemente pulida, correa de cuero nueva, sin fotos del fondo ni del movimiento"
-  },
-  "ratio_justo": 0.899,
-  "motivo": "precio normal segun revision (90 % del justo 1800)"
- },
- {
   "fecha": "2026-11-05T20:29:28.593240+00:00",
   "marca": "Rolex",
   "titulo": "Rolex GMT-Master II 126720VTNR Sprite Left-Hand 40mm Oyster Box Papers 2023",
@@ -11040,5 +11010,22 @@
   },
   "ratio_mercado": 0.958,
   "motivo": "precio normal (96 % del cuartil bajo de W6701011)"
+ },
+ {
+  "fecha": "2026-11-08T06:16:18.238570+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ronde Solo XL 42mm W6701011 Automatic Stainless Steel Men's Watch",
+  "total": 3199.89,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840106241284",
+  "item_id": "v1|840106241284|0",
+  "referencia": "W6701011",
+  "mercado": {
+   "n": 8,
+   "p25": 3650,
+   "mediana": 3964
+  },
+  "ratio_mercado": 0.877,
+  "motivo": "precio normal (88 % del cuartil bajo de W6701011)"
  }
 ]
