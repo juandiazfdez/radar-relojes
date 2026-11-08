@@ -1,46 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T21:14:29.428486+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Date 34 mm White Roman Oyster Steel Automatic Watch 15053 Circa 1985",
-  "total": 4700.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407343031180",
-  "item_id": "v1|407343031180|0",
-  "referencia": "15000",
-  "mercado": {
-   "n": 20,
-   "p25": 5750,
-   "mediana": 5882
-  },
-  "ratio_mercado": 0.817,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 3300,
-   "riesgo_autenticidad": "medio",
-   "estado": "Caja y brazalete con desgaste moderado. Cyclops dañado o despegado, esfera con posibles retoques. Sin caja ni papeles."
-  },
-  "ratio_justo": 1.424,
-  "motivo": "precio normal segun revision (142 % del justo 3300)"
- },
- {
-  "fecha": "2026-11-05T21:14:29.428486+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 31 Midsize Steel Rose Gold MOP Diamond Ladies Watch 178341",
-  "total": 18790.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257837311906",
-  "item_id": "v1|257837311906|0",
-  "referencia": "178341",
-  "mercado": {
-   "n": 14,
-   "p25": 14495,
-   "mediana": 16258
-  },
-  "ratio_mercado": 1.296,
-  "motivo": "precio normal (130 % del cuartil bajo de 178341)"
- },
- {
   "fecha": "2026-11-05T21:29:29.442332+00:00",
   "marca": "Rolex",
   "titulo": "Vintage Rolex Midsize Oyster Perpetual 30mm Steel Automatic Watch 6549 Year 1964",
@@ -11021,5 +10980,39 @@
    "nota": "El título 'Pelagos Ultra' no corresponde a una línea Tudor conocida; verificar referencia real y autenticidad. Aun así, US$5,500 supera ampliamente el valor de mercado de un Pelagos con caja y papeles."
   },
   "motivo": "triage: El título 'Pelagos Ultra' no corresponde a una línea Tudor conocida; verificar referencia real y autenticidad. Aun así, US$5,500 supera ampliamente el valor de mercado de un Pelagos con caja y papeles. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-08T16:31:28.559196+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date Ref. 1500",
+  "total": 3800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377630959311",
+  "item_id": "v1|377630959311|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date (esfera plateada, brazalete de cuero marrón, acero)",
+   "referencia": "1500",
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "Vintage de los años 70-80 con esfera plateada; precio pedido cercano al valor de mercado para estado Good, sin caja ni papeles, y no hay descuento de al menos 15 %."
+  },
+  "motivo": "triage: Vintage de los años 70-80 con esfera plateada; precio pedido cercano al valor de mercado para estado Good, sin caja ni papeles, y no hay descuento de al menos 15 %. (justo 3600)"
+ },
+ {
+  "fecha": "2026-11-08T16:31:28.559196+00:00",
+  "marca": "Cartier",
+  "titulo": "vintage two tone CARTIER lady quartz watch",
+  "total": 47.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880095827531",
+  "item_id": "v1|880095827531|0",
+  "triage": {
+   "modelo": "Cartier Pasha de Cartier (cuarzo, dos tonos acero y dorado, versión dama)",
+   "referencia": null,
+   "precio_justo_usd": 800,
+   "interesante": false,
+   "nota": "Precio de US$48 muy por debajo de cualquier Pasha genuino; probable réplica o pieza sin funcionar. Sin caja, papeles ni número de referencia visibles."
+  },
+  "motivo": "triage: Precio de US$48 muy por debajo de cualquier Pasha genuino; probable réplica o pieza sin funcionar. Sin caja, papeles ni número de referencia visibles. (justo 800)"
  }
 ]
