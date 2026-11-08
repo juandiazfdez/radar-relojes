@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-05T18:14:18.877684+00:00",
-  "marca": "Rolex",
-  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
-  "total": 15990.01,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/327441602299",
-  "item_id": "v1|327441602299|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date (bisel negro, caja y papeles originales; referencia no verificable en la imagen)",
-   "referencia": "126610LN (probable, no confirmada)",
-   "precio_justo_usd": 14000,
-   "interesante": false,
-   "nota": "Precio pedido ~14% sobre la estimación para un 126610LN completo; la referencia y el 'unpolished' no se verifican en las fotos, y 'rare' no aporta valor."
-  },
-  "motivo": "triage: Precio pedido ~14% sobre la estimación para un 126610LN completo; la referencia y el 'unpolished' no se verifican en las fotos, y 'rare' no aporta valor. (justo 14000)"
- },
- {
-  "fecha": "2026-11-05T18:14:18.877684+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Must Large 31mm X41mm Stainless Steel Watch Automatic W/card",
   "total": 4999.0,
@@ -11027,5 +11010,22 @@
   },
   "ratio_mercado": 1.066,
   "motivo": "precio normal (107 % del cuartil bajo de WSSA0039)"
+ },
+ {
+  "fecha": "2026-11-08T00:01:06.877991+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Silver Men's Watch",
+  "total": 6070.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840105419218",
+  "item_id": "v1|840105419218|0",
+  "triage": {
+   "modelo": "Cartier Santos de Cartier (modelo grande, acero, esfera verde con numeración romana)",
+   "referencia": null,
+   "precio_justo_usd": 6300,
+   "interesante": false,
+   "nota": "Precio muy cercano al mercado gris para un Santos grande de acero nuevo con caja y papeles; el título genérico 'Silver Men's Watch' no especifica modelo ni referencia."
+  },
+  "motivo": "triage: Precio muy cercano al mercado gris para un Santos grande de acero nuevo con caja y papeles; el título genérico 'Silver Men's Watch' no especifica modelo ni referencia. (justo 6300)"
  }
 ]
