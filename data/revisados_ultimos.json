@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T19:59:18.606956+00:00",
-  "marca": "Cartier",
-  "titulo": "Panthere de Cartier Watch One-Row Yellow Gold & Steel - New Battery",
-  "total": 3995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267834683915",
-  "item_id": "v1|267834683915|0",
-  "triage": {
-   "modelo": "Cartier Panthère de dos tonos (acero y oro amarillo), cuarzo, talla mediana, esfera plateada con numerales romanos",
-   "referencia": "1057930 / W25028B5 (probable, no confirmada en las fotos)",
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "Precio pedido de US$3,995 está unos 35 % por encima del rango de venta cerrada para un Panthère mediano de cuarzo en estado Good sin caja confirmada."
-  },
-  "motivo": "triage: Precio pedido de US$3,995 está unos 35 % por encima del rango de venta cerrada para un Panthère mediano de cuarzo en estado Good sin caja confirmada. (justo 2600)"
- },
- {
   "fecha": "2026-11-05T20:14:30.268242+00:00",
   "marca": "Rolex",
   "titulo": "2020 Rolex Datejust 41 Chocolate 126331 Index Two Tone Rose Gold Fluted Jubilee",
@@ -11034,5 +11017,22 @@
    "nota": "Precio pedido cerca del valor de mercado (~3% bajo), no cumple el umbral del 15%. Confirmar referencia, bisel, estado de la esfera y papeles antes de comprar."
   },
   "motivo": "triage: Precio pedido cerca del valor de mercado (~3% bajo), no cumple el umbral del 15%. Confirmar referencia, bisel, estado de la esfera y papeles antes de comprar. (justo 16500)"
+ },
+ {
+  "fecha": "2026-11-08T04:46:07.424019+00:00",
+  "marca": "Rolex",
+  "titulo": "2000 Rolex Air-King ref. 14000 - Full set",
+  "total": 5999.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267837186245",
+  "item_id": "v1|267837186245|0",
+  "referencia": "14000",
+  "mercado": {
+   "n": 25,
+   "p25": 4859,
+   "mediana": 4999
+  },
+  "ratio_mercado": 1.235,
+  "motivo": "precio normal (123 % del cuartil bajo de 14000)"
  }
 ]
