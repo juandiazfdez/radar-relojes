@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T22:44:28.484813+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex men's SS/WG Datejust 36mm, silver sticks, Jubilee \"S\" 16234 with box",
-  "total": 7195.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267834888479",
-  "item_id": "v1|267834888479|0",
-  "referencia": "16234",
-  "mercado": {
-   "n": 30,
-   "p25": 6160,
-   "mediana": 6485
-  },
-  "ratio_mercado": 1.168,
-  "motivo": "precio normal (117 % del cuartil bajo de 16234)"
- },
- {
-  "fecha": "2026-11-05T22:44:28.484813+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 TUDOR Heritage Black Bay Panda Men's Watch",
-  "total": 4980.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/920109955755",
-  "item_id": "v1|920109955755|0",
-  "triage": {
-   "modelo": "Tudor Black Bay Chrono (línea Heritage) esfera \"Panda\" plateada con subesferas oscuras, brazalete Jubilee de acero",
-   "referencia": null,
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "El precio pedido (US$4,980 con envío) supera el rango de venta real del mercado gris para un Black Bay Chrono de acero nuevo con caja y papeles; no hay descuento suficiente."
-  },
-  "motivo": "triage: El precio pedido (US$4,980 con envío) supera el rango de venta real del mercado gris para un Black Bay Chrono de acero nuevo con caja y papeles; no hay descuento suficiente. (justo 4300)"
- },
- {
   "fecha": "2026-11-05T22:59:28.594411+00:00",
   "marca": "Rolex",
   "titulo": "2003 Rolex Submariner Date 16610 40MM Black Oyster Steel Box Paper",
@@ -11004,5 +10970,39 @@
   },
   "ratio_mercado": 1.229,
   "motivo": "precio normal (123 % del cuartil bajo de 126300)"
+ },
+ {
+  "fecha": "2026-11-08T21:01:39.857561+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 2000 Oysterquartz 17000 2000",
+  "total": 7900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407349388573",
+  "item_id": "v1|407349388573|0",
+  "referencia": "17000",
+  "mercado": {
+   "n": 7,
+   "p25": 5500,
+   "mediana": 6250
+  },
+  "ratio_mercado": 1.436,
+  "motivo": "precio normal (144 % del cuartil bajo de 17000)"
+ },
+ {
+  "fecha": "2026-11-08T21:01:39.857561+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 1995 Datejust Lady President 69178",
+  "total": 15900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407349381996",
+  "item_id": "v1|407349381996|0",
+  "referencia": "69178",
+  "mercado": {
+   "n": 6,
+   "p25": 5450,
+   "mediana": 5975
+  },
+  "ratio_mercado": 2.917,
+  "motivo": "precio normal (292 % del cuartil bajo de 69178)"
  }
 ]
