@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-05T20:14:30.268242+00:00",
   "marca": "Tudor",
-  "titulo": "Unpolished Full Set White Panda Tudor Black Bay Chrono M79360N / 79360N / 79360",
-  "total": 4500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960158919846",
-  "item_id": "v1|960158919846|0",
-  "referencia": "M79360N",
-  "mercado": {
-   "n": 25,
-   "p25": 4650,
-   "mediana": 5500
-  },
-  "ratio_mercado": 0.968,
-  "motivo": "precio normal (97 % del cuartil bajo de M79360N)"
- },
- {
-  "fecha": "2026-11-05T20:14:30.268242+00:00",
-  "marca": "Tudor",
   "titulo": "Tudor Oyster Prince",
   "total": 1619.0,
   "condicion": "Pre-owned - Excellent",
@@ -11040,5 +11023,22 @@
   },
   "ratio_mercado": 2.061,
   "motivo": "precio normal (206 % del cuartil bajo de 69178)"
+ },
+ {
+  "fecha": "2026-11-08T05:46:17.989794+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ronde de Cartier | Automatic | 42mm Ref W6701011",
+  "total": 3495.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880094269873",
+  "item_id": "v1|880094269873|0",
+  "referencia": "W6701011",
+  "mercado": {
+   "n": 8,
+   "p25": 3650,
+   "mediana": 3964
+  },
+  "ratio_mercado": 0.958,
+  "motivo": "precio normal (96 % del cuartil bajo de W6701011)"
  }
 ]
