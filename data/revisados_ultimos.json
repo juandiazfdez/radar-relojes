@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-05T23:14:28.603293+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Lady Datejust 26MM #6917 Two Tone Steel & 18K Gold Jubilee",
-  "total": 3375.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/860117140293",
-  "item_id": "v1|860117140293|0",
-  "referencia": "6917",
-  "mercado": {
-   "n": 42,
-   "p25": 3990,
-   "mediana": 4127
-  },
-  "ratio_mercado": 0.846,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 3000,
-   "riesgo_autenticidad": "medio",
-   "estado": "Bueno, con desgaste normal: caja con rayones leves y brazalete con poca elongación. Sin fotos del fondo de caja ni del movimiento."
-  },
-  "motivo": "Claude descarto: Las fotos concuerdan con un 6917 de época: esfera \"Oyster Perpetual Date\", marcador \"T SWISS T\" (tritio), cyclops, corona y broche Rolex. No veo señales claras de réplica.; Faltan el fondo de caja, el movimiento y los números de serie y referencia entre las asas. No puedo confirmar el año, el calibre (2030), que el brazalete y la caja sean originales ni que la esfera y las agujas no hayan sido repintadas o cambiadas."
- },
- {
-  "fecha": "2026-11-05T23:14:28.603293+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust Diamond Stainless Steel Watch 68274",
   "total": 7500.0,
   "condicion": "Pre-owned - Excellent",
@@ -11016,5 +10993,28 @@
    "nota": "Es solo la pulsera, no un reloj completo. US$1016 supera con holgura lo que se paga por una pulsera usada de esta referencia. Los eslabones de la foto parecen Jubilee, así que conviene verificar la compatibilidad con la referencia."
   },
   "motivo": "triage: Es solo la pulsera, no un reloj completo. US$1016 supera con holgura lo que se paga por una pulsera usada de esta referencia. Los eslabones de la foto parecen Jubilee, así que conviene verificar la compatibilidad con la referencia. (justo 450)"
+ },
+ {
+  "fecha": "2026-11-08T23:46:48.787228+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Grandtour Chronograph Ref 20350N OEM Bracelet Running Beautifully",
+  "total": 2250.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327446922078",
+  "item_id": "v1|327446922078|0",
+  "referencia": "20350N",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Grand Tour Chronograph (acero, bisel negro, esfera plateada, brazalete de eslabones)",
+   "referencia": "20350N (no confirmada con la imagen)",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Descuento de ~30% sobre el valor estimado en condición usada; una rebaja tan grande en un Tudor cronógrafo es señal de posible réplica. Verificar autenticidad, números de serie y funcionamiento antes de comprar."
+  },
+  "motivo": "triage: Descuento de ~30% sobre el valor estimado en condición usada; una rebaja tan grande en un Tudor cronógrafo es señal de posible réplica. Verificar autenticidad, números de serie y funcionamiento antes de comprar. (justo 3200)"
  }
 ]
