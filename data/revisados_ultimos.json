@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-05T20:14:30.268242+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 1972 Rolex GMT-Master 1675 Pepsi Oyster Stainless Steel Watch",
-  "total": 12999.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/128177530750",
-  "item_id": "v1|128177530750|0",
-  "triage": {
-   "modelo": "Rolex GMT-Master (bisel Pepsi, acero, bracelet Oyster)",
-   "referencia": "1675",
-   "precio_justo_usd": 13500,
-   "interesante": false,
-   "nota": "Parece GMT-Master 1675 con bisel Pepsi; precio cercano al mercado para estado Fair. Sin verificar autenticidad, dial ni bisel originales en la foto."
-  },
-  "motivo": "triage: Parece GMT-Master 1675 con bisel Pepsi; precio cercano al mercado para estado Fair. Sin verificar autenticidad, dial ni bisel originales en la foto. (justo 13500)"
- },
- {
-  "fecha": "2026-11-05T20:14:30.268242+00:00",
   "marca": "Tudor",
   "titulo": "Unpolished Full Set White Panda Tudor Black Bay Chrono M79360N / 79360N / 79360",
   "total": 4500.0,
@@ -11040,5 +11023,22 @@
    "nota": "Precio pedido de US$3.277 con envío supera el valor de venta cerrada de una 79730 de acero de segunda mano en condición Good, sobre todo sin confirmar caja y papeles."
   },
   "motivo": "triage: Precio pedido de US$3.277 con envío supera el valor de venta cerrada de una 79730 de acero de segunda mano en condición Good, sobre todo sin confirmar caja y papeles. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-08T05:16:07.187448+00:00",
+  "marca": "Rolex",
+  "titulo": "Ladies' Presidential Rolex Datejust 69178 Yellow 18K Gold Dia Dial+ReplcmntBezel",
+  "total": 11234.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227602344129",
+  "item_id": "v1|227602344129|0",
+  "referencia": "69178",
+  "mercado": {
+   "n": 6,
+   "p25": 5450,
+   "mediana": 5975
+  },
+  "ratio_mercado": 2.061,
+  "motivo": "precio normal (206 % del cuartil bajo de 69178)"
  }
 ]
