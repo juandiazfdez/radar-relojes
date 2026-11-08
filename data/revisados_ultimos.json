@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-11-05T21:44:29.027999+00:00",
-  "marca": "Rolex",
-  "titulo": "1965 Rolex Oyster Perpetual 1005 Steel/Yellow Gold 34mm Auto eBay authentic Box",
-  "total": 4200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168839084624",
-  "item_id": "v1|168839084624|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual bicolor (acero y oro amarillo), 34 mm",
-   "referencia": "1005",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Precio pedido de 4200 USD queda por encima de la venta real estimada para esta referencia bicolor de 1965 en estado bueno, aunque incluye caja original."
-  },
-  "motivo": "triage: Precio pedido de 4200 USD queda por encima de la venta real estimada para esta referencia bicolor de 1965 en estado bueno, aunque incluye caja original. (justo 4000)"
- },
- {
-  "fecha": "2026-11-05T21:44:29.027999+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu de Cartier Quartz Swiss 3009.  28MM‼️ STEAL DEAL‼️",
-  "total": 2950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198775606561",
-  "item_id": "v1|198775606561|0",
-  "referencia": "3009",
-  "mercado": {
-   "n": 14,
-   "p25": 4025,
-   "mediana": 4330
-  },
-  "ratio_mercado": 0.733,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 2400,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, desgaste visible en el brazalete; solo reloj, sin caja ni papeles"
-  },
-  "motivo": "Claude descarto: El precio de US$2950 NO es una ganga a pesar del título 'STEAL DEAL'. La mediana de US$4330 de los comparables son precios pedidos e inflados. Los precios de venta cerrada de este 28mm de cuarzo, solo reloj, están más cerca de US$2200-2700.; Sin caja ni papeles, el reloj pierde valor de reventa. Para el margen necesitaría comprarlo claramente por debajo de US$2400."
- },
- {
-  "fecha": "2026-11-05T21:44:29.027999+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Heritage Black Bay Steel Automatic 41mm Black Burgundy Watch 79230R",
   "total": 3950.0,
@@ -11008,5 +10968,46 @@
    "nota": "Listado de Must Tank de cuarzo usado con caja y papeles: el mercado suele rondar US$1,200-1,600. Los US$4,850 pedidos están muy por encima, y la referencia exacta no se puede verificar en la foto."
   },
   "motivo": "triage: Listado de Must Tank de cuarzo usado con caja y papeles: el mercado suele rondar US$1,200-1,600. Los US$4,850 pedidos están muy por encima, y la referencia exacta no se puede verificar en la foto. (justo 1400)"
+ },
+ {
+  "fecha": "2026-11-08T19:16:39.067616+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Air King 5501 Two-Tone Watch 34mm Serviced",
+  "total": 2850.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147672136750",
+  "item_id": "v1|147672136750|0",
+  "referencia": "5501",
+  "mercado": {
+   "n": 5,
+   "p25": 6499,
+   "mediana": 6698
+  },
+  "ratio_mercado": 0.439,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 2300,
+   "riesgo_autenticidad": "medio",
+   "estado": "Desgastado y pulido, esfera con pátina y marcas, cristal acrílico rayado, correa de cuero no original; la ref. de la caja no cuadra con el título"
+  },
+  "ratio_justo": 1.239,
+  "motivo": "precio normal segun revision (124 % del justo 2300)"
+ },
+ {
+  "fecha": "2026-11-08T19:16:39.067616+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date Two-Tone Blue – Ref. 16613T –2004-2005, 40mm size = 7.75",
+  "total": 12450.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117509869161",
+  "item_id": "v1|117509869161|0",
+  "referencia": "16613T",
+  "mercado": {
+   "n": 11,
+   "p25": 13600,
+   "mediana": 13700
+  },
+  "ratio_mercado": 0.915,
+  "motivo": "precio normal (92 % del cuartil bajo de 16613T)"
  }
 ]
