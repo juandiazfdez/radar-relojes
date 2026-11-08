@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-05T21:29:29.442332+00:00",
   "marca": "Rolex",
-  "titulo": "Vintage Rolex Midsize Oyster Perpetual 30mm Steel Automatic Watch 6549 Year 1964",
-  "total": 4550.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407343057209",
-  "item_id": "v1|407343057209|0",
-  "referencia": "6549",
-  "mercado": {
-   "n": 1,
-   "p25": 5499,
-   "mediana": 5499
-  },
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual (midsize, años 60, automático, acero, esfera plateada)",
-   "referencia": "6549",
-   "precio_justo_usd": 2500,
-   "interesante": false,
-   "nota": "Precio pedido de US$4550 muy por encima del valor de venta cerrada de un 6549 vintage en excelente estado; el precio no es atractivo."
-  },
-  "motivo": "triage: Precio pedido de US$4550 muy por encima del valor de venta cerrada de un 6549 vintage en excelente estado; el precio no es atractivo. (justo 2500)"
- },
- {
-  "fecha": "2026-11-05T21:29:29.442332+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual Ladies 26 mm Two Tone Blue Turquoise Diamond Watch 6619",
   "total": 3990.0,
   "condicion": "Pre-owned - Excellent",
@@ -11014,5 +10991,22 @@
    "nota": "Precio de US$48 muy por debajo de cualquier Pasha genuino; probable réplica o pieza sin funcionar. Sin caja, papeles ni número de referencia visibles."
   },
   "motivo": "triage: Precio de US$48 muy por debajo de cualquier Pasha genuino; probable réplica o pieza sin funcionar. Sin caja, papeles ni número de referencia visibles. (justo 800)"
+ },
+ {
+  "fecha": "2026-11-08T16:46:29.499484+00:00",
+  "marca": "Tudor",
+  "titulo": "VINTAGE GENTS TUDOR PRINCE SUBMARINER 79090 40MM AUTOMATIC WRISTWATCH SS",
+  "total": 5630.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820331653616",
+  "item_id": "v1|820331653616|0",
+  "referencia": "79090",
+  "mercado": {
+   "n": 9,
+   "p25": 6809,
+   "mediana": 6900
+  },
+  "ratio_mercado": 0.827,
+  "motivo": "descripcion: aftermarket bezel"
  }
 ]
