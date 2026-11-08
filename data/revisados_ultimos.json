@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-05T19:59:18.606956+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date 115200 White Steel Oyster 34mm Box/Appraisal/Tag",
-  "total": 6900.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336882029411",
-  "item_id": "v1|336882029411|0",
-  "referencia": "115200",
-  "mercado": {
-   "n": 8,
-   "p25": 6500,
-   "mediana": 7200
-  },
-  "ratio_mercado": 1.062,
-  "motivo": "precio normal (106 % del cuartil bajo de 115200)"
- },
- {
-  "fecha": "2026-11-05T19:59:18.606956+00:00",
   "marca": "Cartier",
   "titulo": "Panthere de Cartier Watch One-Row Yellow Gold & Steel - New Battery",
   "total": 3995.0,
@@ -11034,5 +11017,22 @@
    "nota": "El precio pedido de US$8.100 supera la venta cerrada estimada para este modelo de oro rosa 18K de 2018, aunque esté completo; no hay descuento claro."
   },
   "motivo": "triage: El precio pedido de US$8.100 supera la venta cerrada estimada para este modelo de oro rosa 18K de 2018, aunque esté completo; no hay descuento claro. (justo 6800)"
+ },
+ {
+  "fecha": "2026-11-08T04:31:07.523376+00:00",
+  "marca": "Rolex",
+  "titulo": "1997 Presidential Rolex 36 mm Day Date",
+  "total": 15950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237170658829",
+  "item_id": "v1|237170658829|0",
+  "triage": {
+   "modelo": "Rolex Day-Date 36 mm Presidential, oro amarillo 18k, esfera champán, con caja",
+   "referencia": "18038 (posiblemente 18238 si el bisel es acanalado)",
+   "precio_justo_usd": 16500,
+   "interesante": false,
+   "nota": "Precio pedido cerca del valor de mercado (~3% bajo), no cumple el umbral del 15%. Confirmar referencia, bisel, estado de la esfera y papeles antes de comprar."
+  },
+  "motivo": "triage: Precio pedido cerca del valor de mercado (~3% bajo), no cumple el umbral del 15%. Confirmar referencia, bisel, estado de la esfera y papeles antes de comprar. (justo 16500)"
  }
 ]
