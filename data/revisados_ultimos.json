@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T20:44:29.003918+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay 41",
-  "total": 4900.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137905639255",
-  "item_id": "v1|137905639255|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 41 (acero, probable)",
-   "referencia": "M79540 (probable, no verificable en la foto)",
-   "precio_justo_usd": 3600,
-   "interesante": false,
-   "nota": "La foto solo muestra una caja blanca sin referencia visible; el precio pedido de US$4900 supera con creces el mercado secundario de un BB41 de acero usado en buen estado (aprox. US$3.300-3.900)."
-  },
-  "motivo": "triage: La foto solo muestra una caja blanca sin referencia visible; el precio pedido de US$4900 supera con creces el mercado secundario de un BB41 de acero usado en buen estado (aprox. US$3.300-3.900). (justo 3600)"
- },
- {
   "fecha": "2026-11-05T20:59:28.882004+00:00",
   "marca": "Rolex",
   "titulo": "Rolex GMT Master Pepsi 16700 Swiss Only Complete 1999 A Serial",
@@ -11033,5 +11016,22 @@
   },
   "ratio_mercado": 1.105,
   "motivo": "precio normal (111 % del cuartil bajo de 126518LN)"
+ },
+ {
+  "fecha": "2026-11-08T12:46:28.783796+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sea-Dweller 4000 116600 40mm Steel 2017 Box & Papers",
+  "total": 14059.95,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880095235743",
+  "item_id": "v1|880095235743|0",
+  "referencia": "116600",
+  "mercado": {
+   "n": 9,
+   "p25": 14273,
+   "mediana": 14536
+  },
+  "ratio_mercado": 0.985,
+  "motivo": "precio normal (99 % del cuartil bajo de 116600)"
  }
 ]
