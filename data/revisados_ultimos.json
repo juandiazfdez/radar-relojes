@@ -1,120 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T21:59:28.713988+00:00",
-  "marca": "Rolex",
-  "titulo": "1995 Rolex Lady-Datejust Champagne Roman Jubilee 69173 Papers Steel & YG",
-  "total": 6450.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920109859906",
-  "item_id": "v1|920109859906|0",
-  "referencia": "69173",
-  "mercado": {
-   "n": 25,
-   "p25": 4257,
-   "mediana": 4494
-  },
-  "ratio_mercado": 1.515,
-  "motivo": "precio normal (152 % del cuartil bajo de 69173)"
- },
- {
-  "fecha": "2026-11-05T22:14:28.477281+00:00",
-  "marca": "Rolex",
-  "titulo": "Original Rolex 1530 / 1570 8106 BALANCE COMPLETE Blue Hairspring Swiss Made",
-  "total": 499.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880087000525",
-  "item_id": "v1|880087000525|0",
-  "triage": {
-   "modelo": "Pieza de repuesto: balancín completo (balance complete) para calibre Rolex 1570/1575 (serie 1530/1570)",
-   "referencia": null,
-   "precio_justo_usd": 250,
-   "interesante": false,
-   "nota": "Es una pieza suelta, no un reloj completo; la foto muestra solo el balancín con espiral. No puedo verificar el origen ni el color azul de la espiral, y el precio es alto para un componente usado."
-  },
-  "motivo": "triage: Es una pieza suelta, no un reloj completo; la foto muestra solo el balancín con espiral. No puedo verificar el origen ni el color azul de la espiral, y el precio es alto para un componente usado. (justo 250)"
- },
- {
-  "fecha": "2026-11-05T22:14:28.477281+00:00",
-  "marca": "Rolex",
-  "titulo": "NEW Old Stock 2022 Rolex Submariner \"Starbucks\" Green Stainless Steel 126610 B&P",
-  "total": 15570.49,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/267834862425",
-  "item_id": "v1|267834862425|0",
-  "referencia": "126610",
-  "mercado": {
-   "n": 70,
-   "p25": 16050,
-   "mediana": 16429
-  },
-  "ratio_mercado": 0.97,
-  "motivo": "precio normal (97 % del cuartil bajo de 126610)"
- },
- {
-  "fecha": "2026-11-05T22:14:28.477281+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 16233 Diamond Two-Tone Watch",
-  "total": 10200.0,
-  "condicion": "New without box or papers",
-  "url": "https://www.ebay.com/itm/366788559153",
-  "item_id": "v1|366788559153|0",
-  "referencia": "16233",
-  "mercado": {
-   "n": 8,
-   "p25": 16000,
-   "mediana": 16000
-  },
-  "ratio_mercado": 0.637,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 5800,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado con modificaciones aftermarket; caja y brazalete con desgaste visible; sin caja original"
-  },
-  "motivo": "Claude descarto: Precio de US$10,200 muy por encima del valor real. Un 16233 con esfera Jubilee de diamantes y bisel de diamantes aftermarket cierra en torno a US$5,500-6,500. El bisel aftermarket resta valor frente a uno original de fábrica o liso.; Los comparables de eBay (mediana US$16,000) son precios pedidos e inflados. No sirven para justificar este precio."
- },
- {
-  "fecha": "2026-11-05T22:14:28.477281+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Royal “Day Date” 28600, 41 MM in Great Shape - No Box/ Papers",
-  "total": 1845.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307268764367",
-  "item_id": "v1|307268764367|0",
-  "referencia": "28600",
-  "mercado": {
-   "n": 10,
-   "p25": 2800,
-   "mediana": 2850
-  },
-  "ratio_mercado": 0.659,
-  "claude": {
-   "veredicto": "alerta",
-   "precio_justo_usd": 2300,
-   "riesgo_autenticidad": "medio",
-   "estado": "Muy buen estado visible, sin golpes ni rayones notorios; solo reloj, sin caja ni papeles"
-  },
-  "ratio_justo": 0.802,
-  "motivo": "ALERTA"
- },
- {
-  "fecha": "2026-11-05T22:29:29.359067+00:00",
-  "marca": "Cartier",
-  "titulo": "Vintage Cartier 1960 Platinum 5.50ct Diamond Backwinding Cocktail Bracelet Watch",
-  "total": 26000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960159317870",
-  "item_id": "v1|960159317870|0",
-  "triage": {
-   "modelo": "Cartier vintage de dama tipo cocktail, bisel y brazalete con diamantes, platino (c. 1960, según título)",
-   "referencia": null,
-   "precio_justo_usd": 16000,
-   "interesante": false,
-   "nota": "Precio pedido US$26.000 por encima del rango realista para platino con ~5 ct de diamantes; la autenticidad y el peso real de diamantes y metal no se pueden verificar en la foto."
-  },
-  "motivo": "triage: Precio pedido US$26.000 por encima del rango realista para platino con ~5 ct de diamantes; la autenticidad y el peso real de diamantes y metal no se pueden verificar en la foto. (justo 16000)"
- },
- {
   "fecha": "2026-11-05T22:29:29.359067+00:00",
   "marca": "Cartier",
   "titulo": "Vintage 1990s Cartier Panthere 18K Yellow Gold Ladies Quartz Watch",
@@ -11016,5 +10901,114 @@
   },
   "ratio_justo": 0.886,
   "motivo": "precio normal segun revision (89 % del justo 7900)"
+ },
+ {
+  "fecha": "2026-11-08T20:01:38.832302+00:00",
+  "marca": "Rolex",
+  "titulo": "Ladies Rolex Datejust Watch 79173 SS 18k 2002 26mm Arabic Warranty W1448",
+  "total": 7259.76,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327446619862",
+  "item_id": "v1|327446619862|0",
+  "triage": {
+   "modelo": "Rolex Lady Datejust 26 mm, acero y oro amarillo de 18k, bisel acanalado, esfera blanca con índices arábigos, brazalete Jubilee",
+   "referencia": "79173",
+   "precio_justo_usd": 5800,
+   "interesante": false,
+   "nota": "Referencia 79173 de 2002 en buen estado; el precio pedido de US$7.260 supera el valor de venta cerrada estimado, así que no hay descuento."
+  },
+  "motivo": "triage: Referencia 79173 de 2002 en buen estado; el precio pedido de US$7.260 supera el valor de venta cerrada estimado, así que no hay descuento. (justo 5800)"
+ },
+ {
+  "fecha": "2026-11-08T20:01:38.832302+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 34mm Oyster Perpetual Silver Men's Watch 115200.",
+  "total": 5540.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137913978846",
+  "item_id": "v1|137913978846|0",
+  "referencia": "115200",
+  "mercado": {
+   "n": 9,
+   "p25": 6500,
+   "mediana": 6900
+  },
+  "ratio_mercado": 0.852,
+  "motivo": "precio normal (85 % del cuartil bajo de 115200)"
+ },
+ {
+  "fecha": "2026-11-08T20:01:38.832302+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date Two-Tone Automatic Black Dial/Bezel Date 300m Diver",
+  "total": 12000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287714551278",
+  "item_id": "v1|287714551278|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date two-tone (acero y oro amarillo), bisel y esfera negros, brazalete Oyster",
+   "referencia": "16613 (probable; confirmar con número de serie y eslabones)",
+   "precio_justo_usd": 10000,
+   "interesante": false,
+   "nota": "Precio pedido de US$12,000 está unos 20% por encima de la venta cerrada estimada para esta referencia en estado excelente; sin caja ni papeles mencionados."
+  },
+  "motivo": "triage: Precio pedido de US$12,000 está unos 20% por encima de la venta cerrada estimada para esta referencia en estado excelente; sin caja ni papeles mencionados. (justo 10000)"
+ },
+ {
+  "fecha": "2026-11-08T20:01:38.832302+00:00",
+  "marca": "Rolex",
+  "titulo": "36mm Rolex Datejust Oyster Perpetual Two-Tone Jubilee Champagne Dial.",
+  "total": 10050.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206685113209",
+  "item_id": "v1|206685113209|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 mm acero y oro amarillo, bisel acanalado, esfera champán con índices de barra, brazalete Jubilee",
+   "referencia": "16233 (probable)",
+   "precio_justo_usd": 8800,
+   "interesante": false,
+   "nota": "Referencia probable 16233; el precio pedido de US$10.050 queda por encima del valor de venta cerrada para esta configuración en estado Good. Sin confirmar año, caja ni papeles."
+  },
+  "motivo": "triage: Referencia probable 16233; el precio pedido de US$10.050 queda por encima del valor de venta cerrada para esta configuración en estado Good. Sin confirmar año, caja ni papeles. (justo 8800)"
+ },
+ {
+  "fecha": "2026-11-08T20:01:38.832302+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 GMT \"2024 - Coke\" M7939G1A0NRU-0002",
+  "total": 4894.34,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237171861026",
+  "item_id": "v1|237171861026|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 GMT 'Coke' (bisel negro y rojo, esfera negra, caja de acero, 39 mm)",
+   "referencia": "M7939G1A0NRU-0002",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de reventa estimado para un usado en estado Good; la imagen es pequeña y no permite verificar caja, papeles ni estado real."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de reventa estimado para un usado en estado Good; la imagen es pequeña y no permite verificar caja, papeles ni estado real. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-08T20:01:38.832302+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR HERITAGE BLACK BAY 79250BA 43mm Bronze Gray Automatic Men's Watches used",
+  "total": 2899.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307273184059",
+  "item_id": "v1|307273184059|0",
+  "referencia": "79250BA",
+  "mercado": {
+   "n": 8,
+   "p25": 3893,
+   "mediana": 4007
+  },
+  "ratio_mercado": 0.745,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 3050,
+   "riesgo_autenticidad": "bajo",
+   "estado": "Buen estado, patina natural y rayones leves en la caja de bronce; caja interior y exterior con manchas"
+  },
+  "ratio_justo": 0.95,
+  "motivo": "precio normal segun revision (95 % del justo 3050)"
  }
 ]
