@@ -2,57 +2,6 @@
  {
   "fecha": "2026-11-05T20:14:30.268242+00:00",
   "marca": "Rolex",
-  "titulo": "2020 Rolex Datejust 41 Chocolate 126331 Index Two Tone Rose Gold Fluted Jubilee",
-  "total": 21000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327441739749",
-  "item_id": "v1|327441739749|0",
-  "referencia": "126331",
-  "mercado": {
-   "n": 43,
-   "p25": 15990,
-   "mediana": 16500
-  },
-  "ratio_mercado": 1.313,
-  "motivo": "precio normal (131 % del cuartil bajo de 126331)"
- },
- {
-  "fecha": "2026-11-05T20:14:30.268242+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 126710BLRO Pepsi Oyster Bracelet Full Set 2022 40mm 2021",
-  "total": 26000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327441739750",
-  "item_id": "v1|327441739750|0",
-  "referencia": "126710BLRO",
-  "mercado": {
-   "n": 21,
-   "p25": 24100,
-   "mediana": 24995
-  },
-  "ratio_mercado": 1.079,
-  "motivo": "precio normal (108 % del cuartil bajo de 126710BLRO)"
- },
- {
-  "fecha": "2026-11-05T20:14:30.268242+00:00",
-  "marca": "Rolex",
-  "titulo": "2010 Rolex Submariner Date 16610 No Holes Oyster Stainless Steel 40mm Watch",
-  "total": 12500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327441739752",
-  "item_id": "v1|327441739752|0",
-  "referencia": "16610",
-  "mercado": {
-   "n": 74,
-   "p25": 9900,
-   "mediana": 10370
-  },
-  "ratio_mercado": 1.263,
-  "motivo": "precio normal (126 % del cuartil bajo de 16610)"
- },
- {
-  "fecha": "2026-11-05T20:14:30.268242+00:00",
-  "marca": "Rolex",
   "titulo": "Vintage 1972 Rolex GMT-Master 1675 Pepsi Oyster Stainless Steel Watch",
   "total": 12999.0,
   "condicion": "Pre-owned - Fair",
@@ -11034,5 +10983,62 @@
   },
   "ratio_mercado": 1.235,
   "motivo": "precio normal (123 % del cuartil bajo de 14000)"
+ },
+ {
+  "fecha": "2026-11-08T05:01:07.164700+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 35mm 1962 Rolex Datejust 25J Automatic Wristwatch 1565 Steel & 18k 1601",
+  "total": 4068.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137912417134",
+  "item_id": "v1|137912417134|0",
+  "triage": {
+   "modelo": "Rolex Datejust 1601 acero y oro 18k, esfera champán, 1962 (calibre 1570)",
+   "referencia": "1601",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para este bicolor vintage con esfera champán; la correa de cuero no es original y el estado 'Good' limita el valor."
+  },
+  "motivo": "triage: Precio cercano al mercado para este bicolor vintage con esfera champán; la correa de cuero no es original y el estado 'Good' limita el valor. (justo 4300)"
+ },
+ {
+  "fecha": "2026-11-08T05:01:07.164700+00:00",
+  "marca": "Cartier",
+  "titulo": "Vintage Cartier Must de 21 Women’s Quartz 28mm Wristwatch Reference 1340 ",
+  "total": 994.95,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/377629982343",
+  "item_id": "v1|377629982343|0",
+  "referencia": "1340",
+  "mercado": {
+   "n": 8,
+   "p25": 1519,
+   "mediana": 1600
+  },
+  "ratio_mercado": 0.655,
+  "motivo": "descripcion: as is"
+ },
+ {
+  "fecha": "2026-11-08T05:01:07.164700+00:00",
+  "marca": "Tudor",
+  "titulo": "41mm Tudor Heritage Black bay 26J Men's Automatic Wristwatch MT5612 Steel 79730",
+  "total": 3277.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147671459534",
+  "item_id": "v1|147671459534|0",
+  "referencia": "79730",
+  "mercado": {
+   "n": 4,
+   "p25": 3200,
+   "mediana": 3300
+  },
+  "triage": {
+   "modelo": "Tudor Heritage Black Bay 41 mm (MT5612)",
+   "referencia": "79730",
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Precio pedido de US$3.277 con envío supera el valor de venta cerrada de una 79730 de acero de segunda mano en condición Good, sobre todo sin confirmar caja y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$3.277 con envío supera el valor de venta cerrada de una 79730 de acero de segunda mano en condición Good, sobre todo sin confirmar caja y papeles. (justo 2800)"
  }
 ]
