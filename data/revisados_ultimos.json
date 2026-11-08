@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-05T21:29:29.442332+00:00",
-  "marca": "Rolex",
-  "titulo": "1987 Rolex Datejust 16013 36MM Champagne Fluted Two-Tone 18K Yg",
-  "total": 4310.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900068878748",
-  "item_id": "v1|900068878748|0",
-  "referencia": "16013",
-  "mercado": {
-   "n": 24,
-   "p25": 3859,
-   "mediana": 4700
-  },
-  "ratio_mercado": 1.117,
-  "motivo": "precio normal (112 % del cuartil bajo de 16013)"
- },
- {
-  "fecha": "2026-11-05T21:29:29.442332+00:00",
   "marca": "Tudor",
   "titulo": "2017 Tudor Glamour Date-Day Steel Diamond 56000 Watch 39mm With Box and Papers",
   "total": 2199.99,
@@ -11008,5 +10991,28 @@
    "nota": "Sin caja, en estado Good, el precio pedido de US$4,700 queda muy por encima de lo que se vende este modelo en EE. UU. (aprox. US$3,000-3,600). Referencia visual, no confirmada."
   },
   "motivo": "triage: Sin caja, en estado Good, el precio pedido de US$4,700 queda muy por encima de lo que se vende este modelo en EE. UU. (aprox. US$3,000-3,600). Referencia visual, no confirmada. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-08T18:31:39.482271+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Lady Date Just 18K Yellow Gold 6927 Womens Luxury Wristwatch Vintage 1983",
+  "total": 15520.28,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840108033800",
+  "item_id": "v1|840108033800|0",
+  "referencia": "6927",
+  "mercado": {
+   "n": 3,
+   "p25": 10194,
+   "mediana": 11000
+  },
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 18K oro amarillo, brazalete President, esfera negra con indices de barra",
+   "referencia": "6927",
+   "precio_justo_usd": 11000,
+   "interesante": false,
+   "nota": "Precio pedido por encima de lo que se vende realmente este modelo de oro amarillo de 1980s; no parece una ganga."
+  },
+  "motivo": "triage: Precio pedido por encima de lo que se vende realmente este modelo de oro amarillo de 1980s; no parece una ganga. (justo 11000)"
  }
 ]
