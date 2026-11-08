@@ -1,46 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T19:29:19.653523+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Chronograph Reverse Panda 41mm Automatic 79360N Box&Papers",
-  "total": 4479.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940068587595",
-  "item_id": "v1|940068587595|0",
-  "referencia": "79360N",
-  "mercado": {
-   "n": 58,
-   "p25": 4650,
-   "mediana": 5274
-  },
-  "ratio_mercado": 0.963,
-  "motivo": "precio normal (96 % del cuartil bajo de 79360N)"
- },
- {
-  "fecha": "2026-11-05T19:44:19.400834+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 41 Green 134300 Mint 2026",
-  "total": 9950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920109469039",
-  "item_id": "v1|920109469039|0",
-  "referencia": "134300",
-  "mercado": {
-   "n": 19,
-   "p25": 11888,
-   "mediana": 12485
-  },
-  "ratio_mercado": 0.837,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 9800,
-   "riesgo_autenticidad": "medio",
-   "estado": "Prácticamente nuevo, tarjeta de garantía 2/2026, con caja y papeles según el vendedor"
-  },
-  "ratio_justo": 1.015,
-  "motivo": "precio normal segun revision (101 % del justo 9800)"
- },
- {
   "fecha": "2026-11-05T19:44:19.400834+00:00",
   "marca": "Rolex",
   "titulo": "Vintage Rolex Explorer II 1655 Steve McQueen Patina UNPOLISHED Steel Box Paper",
@@ -11053,5 +11012,39 @@
   },
   "ratio_mercado": 1.03,
   "motivo": "precio normal (103 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-08T01:46:07.290779+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX DATEJUST 36mm",
+  "total": 13999.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227603447668",
+  "item_id": "v1|227603447668|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 mm bicolor (acero y oro amarillo), bisel acanalado, esfera negra con marcadores de diamante, brazalete Jubilee",
+   "referencia": "16233 (probable, por bisel acanalado y 36 mm; verificar en el reverso de la pulsera)",
+   "precio_justo_usd": 10000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor estimado para un 16233 con esfera de diamantes. Verificar autenticidad de la esfera (posible reemplazo) y el número de serie antes de considerar la compra."
+  },
+  "motivo": "triage: Precio pedido por encima del valor estimado para un 16233 con esfera de diamantes. Verificar autenticidad de la esfera (posible reemplazo) y el número de serie antes de considerar la compra. (justo 10000)"
+ },
+ {
+  "fecha": "2026-11-08T01:46:07.290779+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Pelagos 25600TB Blue Titanium Automatic Dive Watch – Full Set 2026 SMURF",
+  "total": 5000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840105646634",
+  "item_id": "v1|840105646634|0",
+  "referencia": "25600TB",
+  "mercado": {
+   "n": 6,
+   "p25": 4500,
+   "mediana": 4550
+  },
+  "ratio_mercado": 1.111,
+  "motivo": "precio normal (111 % del cuartil bajo de 25600TB)"
  }
 ]
