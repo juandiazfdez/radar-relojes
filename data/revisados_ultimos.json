@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-11-05T19:29:19.653523+00:00",
-  "marca": "Rolex",
-  "titulo": "Unpolished Rolex DateJust 116263 Turn-O-Graph Slate 36mm 18K Steel Box Papers",
-  "total": 11212.87,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307268619497",
-  "item_id": "v1|307268619497|0",
-  "referencia": "116263",
-  "mercado": {
-   "n": 10,
-   "p25": 10796,
-   "mediana": 10983
-  },
-  "ratio_mercado": 1.039,
-  "motivo": "precio normal (104 % del cuartil bajo de 116263)"
- },
- {
-  "fecha": "2026-11-05T19:29:19.653523+00:00",
-  "marca": "Cartier",
-  "titulo": "Authentic CARTIER Care Box Jewellery & Watches Cleaning Kit Set C0000362 France",
-  "total": 52.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/840093484851",
-  "item_id": "v1|840093484851|0",
-  "triage": {
-   "modelo": "Kit de limpieza Cartier (Care Box para joyas y relojes), no es un reloj",
-   "referencia": "C0000362",
-   "precio_justo_usd": 40,
-   "interesante": false,
-   "nota": "La imagen y el título muestran un kit de limpieza de joyas y relojes en caja, no un reloj. No aplica como compra de reventa de relojes."
-  },
-  "motivo": "triage: La imagen y el título muestran un kit de limpieza de joyas y relojes en caja, no un reloj. No aplica como compra de reventa de relojes. (justo 40)"
- },
- {
-  "fecha": "2026-11-05T19:29:19.653523+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay Chronograph Reverse Panda 41mm Automatic 79360N Box&Papers",
   "total": 4479.0,
@@ -11053,5 +11019,39 @@
    "nota": "Producción actual con precio pedido de US$4600, bastante por encima del mercado secundario (aprox. US$3000-3400 con caja y papeles). No hay descuento."
   },
   "motivo": "triage: Producción actual con precio pedido de US$4600, bastante por encima del mercado secundario (aprox. US$3000-3400 con caja y papeles). No hay descuento. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-08T01:31:07.156663+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31 NEW 2024 Champagne Index Two Tone Yellow Gold Fluted Jubilee",
+  "total": 17868.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/960168423890",
+  "item_id": "v1|960168423890|0",
+  "triage": {
+   "modelo": "Rolex Datejust 31 bicolor acero y oro amarillo, bisel acanalado, esfera champán con índices, brazalete Jubilee",
+   "referencia": "278273",
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "Nuevo con caja y papeles, el precio pedido de US$17.868 está muy por encima del mercado secundario estimado para esta referencia, y no hay descuento que justifique la compra."
+  },
+  "motivo": "triage: Nuevo con caja y papeles, el precio pedido de US$17.868 está muy por encima del mercado secundario estimado para esta referencia, y no hay descuento que justifique la compra. (justo 14000)"
+ },
+ {
+  "fecha": "2026-11-08T01:31:07.156663+00:00",
+  "marca": "Rolex",
+  "titulo": "NEW 2026 Rolex GMT-Master II BATGIRL Steel JUBILEE 40mm 126710BLNR UNWORN",
+  "total": 20550.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/168847020651",
+  "item_id": "v1|168847020651|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 61,
+   "p25": 19950,
+   "mediana": 20815
+  },
+  "ratio_mercado": 1.03,
+  "motivo": "precio normal (103 % del cuartil bajo de 126710BLNR)"
  }
 ]
