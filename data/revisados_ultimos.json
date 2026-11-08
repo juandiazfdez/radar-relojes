@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-05T20:59:28.882004+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX 18kt Gold Day Date President Silver Diamond 2018 Rolex Service Card 118238",
-  "total": 27950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/377624669662",
-  "item_id": "v1|377624669662|0",
-  "referencia": "118238",
-  "mercado": {
-   "n": 53,
-   "p25": 27990,
-   "mediana": 28990
-  },
-  "ratio_mercado": 0.999,
-  "motivo": "precio normal (100 % del cuartil bajo de 118238)"
- },
- {
-  "fecha": "2026-11-05T20:59:28.882004+00:00",
   "marca": "Tudor",
   "titulo": "2026 Tudor Black Bay One 31mm Stainless Steel M79600-0002",
   "total": 3495.0,
@@ -11033,5 +11016,22 @@
   },
   "ratio_mercado": 1.02,
   "motivo": "precio normal (102 % del cuartil bajo de 126003)"
+ },
+ {
+  "fecha": "2026-11-08T15:01:28.726911+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Authentic Ladies Cartier Tank Watch Red Presentation Box and Cartier Bag",
+  "total": 2650.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800892811669",
+  "item_id": "v1|800892811669|0",
+  "triage": {
+   "modelo": "Cartier Tank Must (vermeil/chapado en oro, cuarzo, esfera blanca con números romanos y agujas azules)",
+   "referencia": null,
+   "precio_justo_usd": 900,
+   "interesante": false,
+   "nota": "Precio pedido de US$2650 muy por encima del valor de mercado para un Tank Must de vermeil usado; la referencia exacta no se puede confirmar solo con la foto."
+  },
+  "motivo": "triage: Precio pedido de US$2650 muy por encima del valor de mercado para un Tank Must de vermeil usado; la referencia exacta no se puede confirmar solo con la foto. (justo 900)"
  }
 ]
