@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T20:29:28.593240+00:00",
-  "marca": "Rolex",
-  "titulo": "18k Yellow Gold Rolex Cellini 4084",
-  "total": 7500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960158955912",
-  "item_id": "v1|960158955912|0",
-  "triage": {
-   "modelo": "Rolex Cellini (caja cojín en oro amarillo 18k, esfera dorada, correa de cuero marrón)",
-   "referencia": "4084",
-   "precio_justo_usd": 5800,
-   "interesante": false,
-   "nota": "Precio pedido de US$7500 está por encima del valor de venta estimado para esta referencia en oro 18k y estado excelente; no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido de US$7500 está por encima del valor de venta estimado para esta referencia en oro 18k y estado excelente; no hay descuento suficiente. (justo 5800)"
- },
- {
   "fecha": "2026-11-05T20:44:29.003918+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 36 mm Two Tone Jubilee Champagne Automatic Watch 1601 Circa 1990s",
@@ -11033,5 +11016,22 @@
    "nota": "Precio por debajo del justo estimado solo ~12-13 %, sin llegar al umbral del 15 %. La referencia exacta y la autenticidad no se pueden verificar con la foto y el título es vago."
   },
   "motivo": "triage: Precio por debajo del justo estimado solo ~12-13 %, sin llegar al umbral del 15 %. La referencia exacta y la autenticidad no se pueden verificar con la foto y el título es vago. (justo 2400)"
+ },
+ {
+  "fecha": "2026-11-08T09:31:18.615045+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sea Dweller Deepsea · Steel · Automatic",
+  "total": 13899.0,
+  "condicion": "New without box or papers",
+  "url": "https://www.ebay.com/itm/860124118539",
+  "item_id": "v1|860124118539|0",
+  "triage": {
+   "modelo": "Rolex Sea-Dweller Deepsea (acero, automático)",
+   "referencia": "126660 (probable, por el título; la foto no permite confirmarla)",
+   "precio_justo_usd": 16500,
+   "interesante": false,
+   "nota": "Precio pedido por debajo del mercado secundario, pero sin caja ni papeles y de un listado de eBay, así que la autenticidad no se puede verificar; la foto tampoco confirma la referencia exacta."
+  },
+  "motivo": "triage: Precio pedido por debajo del mercado secundario, pero sin caja ni papeles y de un listado de eBay, así que la autenticidad no se puede verificar; la foto tampoco confirma la referencia exacta. (justo 16500)"
  }
 ]
