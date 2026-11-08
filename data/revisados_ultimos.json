@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-05T23:14:28.603293+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual DateJust Watch Stainless Steel & 14K Yellow Gold Ref.6516",
-  "total": 4700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327442006839",
-  "item_id": "v1|327442006839|0",
-  "referencia": "6516",
-  "mercado": {
-   "n": 17,
-   "p25": 3459,
-   "mediana": 3550
-  },
-  "ratio_mercado": 1.359,
-  "motivo": "precio normal (136 % del cuartil bajo de 6516)"
- },
- {
-  "fecha": "2026-11-05T23:14:28.603293+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Lady Datejust 26MM #6917 Two Tone Steel & 18K Gold Jubilee",
   "total": 3375.0,
   "condicion": "Pre-owned - Good",
@@ -11016,5 +10999,22 @@
   },
   "ratio_mercado": 1.111,
   "motivo": "precio normal (111 % del cuartil bajo de 14060M)"
+ },
+ {
+  "fecha": "2026-11-08T23:31:49.503719+00:00",
+  "marca": "Rolex",
+  "titulo": "Genuine Rolex 62510H  St.Steel 20mm bracelet extra long",
+  "total": 1015.75,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940076816790",
+  "item_id": "v1|940076816790|0",
+  "triage": {
+   "modelo": "Pulsera de acero Rolex de 20 mm (eslabones tipo Jubilee), extra larga, solo pulsera",
+   "referencia": "62510H",
+   "precio_justo_usd": 450,
+   "interesante": false,
+   "nota": "Es solo la pulsera, no un reloj completo. US$1016 supera con holgura lo que se paga por una pulsera usada de esta referencia. Los eslabones de la foto parecen Jubilee, así que conviene verificar la compatibilidad con la referencia."
+  },
+  "motivo": "triage: Es solo la pulsera, no un reloj completo. US$1016 supera con holgura lo que se paga por una pulsera usada de esta referencia. Los eslabones de la foto parecen Jubilee, así que conviene verificar la compatibilidad con la referencia. (justo 450)"
  }
 ]
