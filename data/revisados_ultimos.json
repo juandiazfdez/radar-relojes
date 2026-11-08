@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T21:44:29.027999+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Heritage Black Bay Steel Automatic 41mm Black Burgundy Watch 79230R",
-  "total": 3950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900068912339",
-  "item_id": "v1|900068912339|0",
-  "referencia": "79230R",
-  "mercado": {
-   "n": 10,
-   "p25": 3295,
-   "mediana": 3348
-  },
-  "ratio_mercado": 1.199,
-  "motivo": "precio normal (120 % del cuartil bajo de 79230R)"
- },
- {
   "fecha": "2026-11-05T21:59:28.713988+00:00",
   "marca": "Rolex",
   "titulo": "1995 Rolex Lady-Datejust Champagne Roman Jubilee 69173 Papers Steel & YG",
@@ -11009,5 +10992,29 @@
   },
   "ratio_mercado": 0.915,
   "motivo": "precio normal (92 % del cuartil bajo de 16613T)"
+ },
+ {
+  "fecha": "2026-11-08T19:46:39.434948+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer II Black Stainless Steel 40mm GMT Oyster Automatic Watch 16570",
+  "total": 7000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147670819360",
+  "item_id": "v1|147670819360|0",
+  "referencia": "16570",
+  "mercado": {
+   "n": 41,
+   "p25": 8445,
+   "mediana": 8990
+  },
+  "ratio_mercado": 0.829,
+  "claude": {
+   "veredicto": "alerta",
+   "precio_justo_usd": 7900,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado, desgaste visible: bisel y caja con rayones, sin caja ni papeles de Rolex"
+  },
+  "ratio_justo": 0.886,
+  "motivo": "precio normal segun revision (89 % del justo 7900)"
  }
 ]
