@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T22:29:29.359067+00:00",
-  "marca": "Cartier",
-  "titulo": "Vintage 1990s Cartier Panthere 18K Yellow Gold Ladies Quartz Watch",
-  "total": 7800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960159317296",
-  "item_id": "v1|960159317296|0",
-  "triage": {
-   "modelo": "Cartier Panthère (dama, cuarzo, oro amarillo 18K, caja rectangular, correa de piel azul marino)",
-   "referencia": null,
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "Precio pedido ~73 % por encima de un estimado conservador; la referencia exacta y el año no son verificables en la foto, y la correa no es la original."
-  },
-  "motivo": "triage: Precio pedido ~73 % por encima de un estimado conservador; la referencia exacta y el año no son verificables en la foto, y la correa no es la original. (justo 4500)"
- },
- {
-  "fecha": "2026-11-05T22:29:29.359067+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Chronograph Steel Auto 41mm Flamingo Blue Bracelet Watch 79360N",
-  "total": 12450.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940068898661",
-  "item_id": "v1|940068898661|0",
-  "referencia": "79360N",
-  "mercado": {
-   "n": 58,
-   "p25": 4650,
-   "mediana": 5274
-  },
-  "ratio_mercado": 2.677,
-  "motivo": "precio normal (268 % del cuartil bajo de 79360N)"
- },
- {
   "fecha": "2026-11-05T22:44:28.484813+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 41 Stainless Steel 126334 Blue Diamond Jubilee 2026 Box/Papers",
@@ -11010,5 +10976,39 @@
   },
   "ratio_justo": 0.95,
   "motivo": "precio normal segun revision (95 % del justo 3050)"
+ },
+ {
+  "fecha": "2026-11-08T20:16:38.535037+00:00",
+  "marca": "Rolex",
+  "titulo": "FULL SET, SINGLE OWNER! 2024 Rolex Datejust 41mm with White 18k Fluted/Jubilee",
+  "total": 15273.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800893687620",
+  "item_id": "v1|800893687620|0",
+  "triage": {
+   "modelo": "Rolex Datejust 41 bicolor (acero y oro, bisel acanalado, brazalete Jubilee, esfera blanca)",
+   "referencia": "126333 (probable; el bisel parece dorado, no blanco como indica el título)",
+   "precio_justo_usd": 13500,
+   "interesante": false,
+   "nota": "Precio pedido ~13% sobre el valor estimado de venta cerrada para esta referencia con caja y papeles; el título menciona oro blanco, pero la foto muestra bisel dorado, así que conviene verificar la referencia."
+  },
+  "motivo": "triage: Precio pedido ~13% sobre el valor estimado de venta cerrada para esta referencia con caja y papeles; el título menciona oro blanco, pero la foto muestra bisel dorado, así que conviene verificar la referencia. (justo 13500)"
+ },
+ {
+  "fecha": "2026-11-08T20:16:38.535037+00:00",
+  "marca": "Rolex",
+  "titulo": "1997 Ladies Rolex Oyster Perpetual Steel Warranty 24mm 6.75\" 67180 W1431",
+  "total": 3835.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327445247383",
+  "item_id": "v1|327445247383|0",
+  "referencia": "67180",
+  "mercado": {
+   "n": 16,
+   "p25": 4000,
+   "mediana": 4573
+  },
+  "ratio_mercado": 0.959,
+  "motivo": "precio normal (96 % del cuartil bajo de 67180)"
  }
 ]
