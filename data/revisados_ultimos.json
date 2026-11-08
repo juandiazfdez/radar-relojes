@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-05T19:29:19.653523+00:00",
   "marca": "Rolex",
-  "titulo": "2020 Rolex Sky-Dweller 326135 Dark Rhodium 42mm 18K Rose Gold Leather Box Papers",
-  "total": 35693.3,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900068690515",
-  "item_id": "v1|900068690515|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller Everose (oro rosa 18K), bisel acanalado, esfera dark rhodium, correa de cocodrilo",
-   "referencia": "326135",
-   "precio_justo_usd": 33000,
-   "interesante": false,
-   "nota": "Precio pedido algo superior a la estimación de venta cerrada para esta referencia; no cumple el umbral del 15% por debajo."
-  },
-  "motivo": "triage: Precio pedido algo superior a la estimación de venta cerrada para esta referencia; no cumple el umbral del 15% por debajo. (justo 33000)"
- },
- {
-  "fecha": "2026-11-05T19:29:19.653523+00:00",
-  "marca": "Rolex",
   "titulo": "2004 Rolex DateJust 16238 White Arabic 18K Yellow Gold 36mm Jubilee Box Papers",
   "total": 19883.79,
   "condicion": "Pre-owned - Excellent",
@@ -11047,5 +11030,28 @@
    "nota": "Precio pedido de US$4.785 supera el retail actual (~US$3.900) y el mercado gris de un modelo de 2025 en estado usado; no hay descuento real."
   },
   "motivo": "triage: Precio pedido de US$4.785 supera el retail actual (~US$3.900) y el mercado gris de un modelo de 2025 en estado usado; no hay descuento real. (justo 3400)"
+ },
+ {
+  "fecha": "2026-11-08T01:01:06.638818+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Hydronaut 89190 40mm Steel Diver 2004 Automatic 200m Original Papers Like",
+  "total": 2487.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137911976465",
+  "item_id": "v1|137911976465|0",
+  "referencia": "89190",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Hydronaut (acero, bisel giratorio, esfera negra, fecha)",
+   "referencia": "89190",
+   "precio_justo_usd": 1800,
+   "interesante": false,
+   "nota": "Precio pedido de US$2487 por encima del mercado de segunda mano para esta referencia; el título dice 'Papers Like', es decir, no incluye papeles originales."
+  },
+  "motivo": "triage: Precio pedido de US$2487 por encima del mercado de segunda mano para esta referencia; el título dice 'Papers Like', es decir, no incluye papeles originales. (justo 1800)"
  }
 ]
