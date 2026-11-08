@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-05T22:59:28.594411+00:00",
   "marca": "Rolex",
-  "titulo": "2025 Rolex Daytona Chronograph 126505 40MM Black 18K Everose Gold Box Paper",
-  "total": 57000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880087087957",
-  "item_id": "v1|880087087957|0",
-  "referencia": "126505",
-  "mercado": {
-   "n": 15,
-   "p25": 59348,
-   "mediana": 60368
-  },
-  "ratio_mercado": 0.96,
-  "motivo": "precio normal (96 % del cuartil bajo de 126505)"
- },
- {
-  "fecha": "2026-11-05T22:59:28.594411+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Yacht-Master 126621 Black 40mm Watch 2025",
   "total": 16900.0,
   "condicion": "Pre-owned - Excellent",
@@ -11016,5 +10999,22 @@
    "nota": "Precio ~19% bajo estimado, pero sin referencia en el título, con el término 'READ' inexplicado y con un precio sospechosamente bajo para un Rolex dos tonos; requiere verificar autenticidad, referencia y papeles antes de considerarlo."
   },
   "motivo": "triage: Precio ~19% bajo estimado, pero sin referencia en el título, con el término 'READ' inexplicado y con un precio sospechosamente bajo para un Rolex dos tonos; requiere verificar autenticidad, referencia y papeles antes de considerarlo. (justo 4300)"
+ },
+ {
+  "fecha": "2026-11-08T22:31:39.158592+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 126000 OYSTER PERPETUAL 36 TIFFANY TURQUOISE 2024 FULL SET Unworn New",
+  "total": 17500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/960171906585",
+  "item_id": "v1|960171906585|0",
+  "referencia": "126000",
+  "mercado": {
+   "n": 35,
+   "p25": 10999,
+   "mediana": 11500
+  },
+  "ratio_mercado": 1.591,
+  "motivo": "precio normal (159 % del cuartil bajo de 126000)"
  }
 ]
