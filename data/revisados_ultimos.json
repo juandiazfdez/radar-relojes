@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-05T22:44:28.484813+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Datejust 41 Stainless Steel 126334 Blue Diamond Jubilee 2026 Box/Papers",
-  "total": 18500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198775748956",
-  "item_id": "v1|198775748956|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 1,
-   "p25": 10389,
-   "mediana": 10389
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 acero con bisel acanalado, esfera azul con diamantes y brazalete Jubilee",
-   "referencia": "126334",
-   "precio_justo_usd": 13500,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de venta real de esta referencia de segunda mano con caja y papeles; el listado de 2026 y estado 'Good' tampoco justifican ese precio."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de venta real de esta referencia de segunda mano con caja y papeles; el listado de 2026 y estado 'Good' tampoco justifican ese precio. (justo 13500)"
- },
- {
-  "fecha": "2026-11-05T22:44:28.484813+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex men's SS/WG Datejust 36mm, silver sticks, Jubilee \"S\" 16234 with box",
   "total": 7195.0,
   "condicion": "Pre-owned - Excellent",
@@ -11010,5 +10987,22 @@
   },
   "ratio_mercado": 0.959,
   "motivo": "precio normal (96 % del cuartil bajo de 67180)"
+ },
+ {
+  "fecha": "2026-11-08T20:46:39.408634+00:00",
+  "marca": "Rolex",
+  "titulo": "2019 Rolex Datejust 126300 Wimbledon Roman SS Jubilee With Papers 41mm",
+  "total": 11900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168848584251",
+  "item_id": "v1|168848584251|0",
+  "referencia": "126300",
+  "mercado": {
+   "n": 22,
+   "p25": 9683,
+   "mediana": 10217
+  },
+  "ratio_mercado": 1.229,
+  "motivo": "precio normal (123 % del cuartil bajo de 126300)"
  }
 ]
