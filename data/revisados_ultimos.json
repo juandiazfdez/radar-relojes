@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T22:59:28.594411+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Yacht-Master 126621 Black 40mm Watch 2025",
-  "total": 16900.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960159394135",
-  "item_id": "v1|960159394135|0",
-  "referencia": "126621",
-  "mercado": {
-   "n": 22,
-   "p25": 17264,
-   "mediana": 17902
-  },
-  "ratio_mercado": 0.979,
-  "motivo": "precio normal (98 % del cuartil bajo de 126621)"
- },
- {
   "fecha": "2026-11-05T23:14:28.603293+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual DateJust Watch Stainless Steel & 14K Yellow Gold Ref.6516",
@@ -11016,5 +10999,22 @@
   },
   "ratio_mercado": 1.591,
   "motivo": "precio normal (159 % del cuartil bajo de 126000)"
+ },
+ {
+  "fecha": "2026-11-08T23:16:49.271461+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner 14060M No Date 4-Liner Box & Card 2010 Serviced 40mm Steel",
+  "total": 11888.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257842676425",
+  "item_id": "v1|257842676425|0",
+  "referencia": "14060M",
+  "mercado": {
+   "n": 18,
+   "p25": 10700,
+   "mediana": 11190
+  },
+  "ratio_mercado": 1.111,
+  "motivo": "precio normal (111 % del cuartil bajo de 14060M)"
  }
 ]
