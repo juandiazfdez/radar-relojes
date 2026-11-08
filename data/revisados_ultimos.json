@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T18:44:19.514717+00:00",
-  "marca": "Cartier",
-  "titulo": "1990s Ladies' Cartier Diablo Quartz watch 18K Yellow Gold w/Diamonds Ref.1440 0",
-  "total": 6900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327441631166",
-  "item_id": "v1|327441631166|0",
-  "referencia": "1440",
-  "mercado": {
-   "n": 2,
-   "p25": 6500,
-   "mediana": 6922
-  },
-  "triage": {
-   "modelo": "Cartier Diabolo de dama, cuarzo, oro amarillo 18K con bisel de diamantes",
-   "referencia": "1440 (según título; no verificable en la foto)",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de venta cerrada para esta referencia de los años 90 en estado Good; sin caja ni papeles se estima aún más bajo."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de venta cerrada para esta referencia de los años 90 en estado Good; sin caja ni papeles se estima aún más bajo. (justo 3800)"
- },
- {
-  "fecha": "2026-11-05T18:59:18.914981+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sky-Dweller 326933-0002 Pre-owned Box & Papers 2022",
-  "total": 20000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137905506712",
-  "item_id": "v1|137905506712|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller two-tone (acero y oro amarillo), bisel acanalado, esfera negra, 42 mm",
-   "referencia": "326933",
-   "precio_justo_usd": 24000,
-   "interesante": false,
-   "nota": "Precio pedido por debajo del mercado secundario para esta referencia, lo que obliga a verificar autenticidad y estado antes de comprar; la foto no permite confirmarlo."
-  },
-  "motivo": "triage: Precio pedido por debajo del mercado secundario para esta referencia, lo que obliga a verificar autenticidad y estado antes de comprar; la foto no permite confirmarlo. (justo 24000)"
- },
- {
-  "fecha": "2026-11-05T19:14:19.000950+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Datejust Submariner  \"Starbucks\"",
-  "total": 19025.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227599858524",
-  "item_id": "v1|227599858524|0",
-  "triage": null,
-  "motivo": "triage no disponible"
- },
- {
   "fecha": "2026-11-05T19:29:19.653523+00:00",
   "marca": "Rolex",
   "titulo": "2020 Rolex Sky-Dweller 326135 Dark Rhodium 42mm 18K Rose Gold Leather Box Papers",
@@ -11041,5 +10990,62 @@
    "nota": "Precio pedido por encima del estimado de venta real para un Submariner Date de acero con caja y papeles; no hay descuento claro."
   },
   "motivo": "triage: Precio pedido por encima del estimado de venta real para un Submariner Date de acero con caja y papeles; no hay descuento claro. (justo 14500)"
+ },
+ {
+  "fecha": "2026-11-08T00:46:06.946055+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex Datejust 41 126300, Stainless Steel, green Dial, Papers",
+  "total": 13045.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117508673136",
+  "item_id": "v1|117508673136|0",
+  "referencia": "126300",
+  "mercado": {
+   "n": 22,
+   "p25": 9683,
+   "mediana": 10217
+  },
+  "ratio_mercado": 1.347,
+  "motivo": "precio normal (135 % del cuartil bajo de 126300)"
+ },
+ {
+  "fecha": "2026-11-08T00:46:06.946055+00:00",
+  "marca": "Cartier",
+  "titulo": "2018 Cartier Tank Anglaise Small 18k Rose Gold  Ref W5310027 W/ CARD",
+  "total": 5965.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820329340408",
+  "item_id": "v1|820329340408|0",
+  "referencia": "W5310027",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Tank Anglaise Small, oro rosa 18k, esfera plateada con numerales romanos, correa de cocodrilo marrón",
+   "referencia": "W5310027",
+   "precio_justo_usd": 8000,
+   "interesante": false,
+   "nota": "Precio 25-30 % bajo el mercado para oro rosa 18k con tarjeta, pero la foto parece de catálogo y los Cartier de oro a este precio suelen ser falsificaciones; requiere autenticación antes de considerarlo."
+  },
+  "motivo": "triage: Precio 25-30 % bajo el mercado para oro rosa 18k con tarjeta, pero la foto parece de catálogo y los Cartier de oro a este precio suelen ser falsificaciones; requiere autenticación antes de considerarlo. (justo 8000)"
+ },
+ {
+  "fecha": "2026-11-08T00:46:06.946055+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 41 \"2025\" 7941A1A0NU",
+  "total": 4785.14,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336886156257",
+  "item_id": "v1|336886156257|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 41 (esfera negra, brazalete de eslabones de acero)",
+   "referencia": "M7941A1A0NU",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "Precio pedido de US$4.785 supera el retail actual (~US$3.900) y el mercado gris de un modelo de 2025 en estado usado; no hay descuento real."
+  },
+  "motivo": "triage: Precio pedido de US$4.785 supera el retail actual (~US$3.900) y el mercado gris de un modelo de 2025 en estado usado; no hay descuento real. (justo 3400)"
  }
 ]
