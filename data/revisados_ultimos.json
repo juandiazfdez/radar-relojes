@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-05T21:14:29.428486+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Datejust 31 mm Steel 18K Yellow Gold Ivory Roman Watch 68273 N Series 1991",
-  "total": 6900.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147668172293",
-  "item_id": "v1|147668172293|0",
-  "referencia": "68273",
-  "mercado": {
-   "n": 43,
-   "p25": 8242,
-   "mediana": 8990
-  },
-  "ratio_mercado": 0.837,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 4600,
-   "riesgo_autenticidad": "medio",
-   "estado": "Aspecto bueno en las fotos, sin caja ni papeles, y sin fotos del fondo ni del movimiento"
-  },
-  "motivo": "Claude descarto: A US$6,900 está unos 40 % por encima del valor real de venta cerrada de un 68273 de acero y oro sin caja ni papeles. Esos suelen cerrar entre US$4,200 y 5,200. Los comparables de eBay (mediana 8,990) son precios pedidos e inflados, y no justifican este precio.; No tiene caja ni papeles ni garantía de autenticidad. Esto resta valor frente a un set completo y deja sin respaldo la antigüedad y la originalidad de las piezas."
- },
- {
-  "fecha": "2026-11-05T21:14:29.428486+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Date 34 mm White Roman Oyster Steel Automatic Watch 15053 Circa 1985",
   "total": 4700.0,
   "condicion": "Pre-owned - Excellent",
@@ -11027,5 +11004,22 @@
    "nota": "Precio en línea con el mercado secundario para esta referencia con caja y papeles; no hay descuento de al menos 15 %."
   },
   "motivo": "triage: Precio en línea con el mercado secundario para esta referencia con caja y papeles; no hay descuento de al menos 15 %. (justo 24500)"
+ },
+ {
+  "fecha": "2026-11-08T16:16:28.954014+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Pelagos Ultra  2026 Box and Papers.",
+  "total": 5500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880095758573",
+  "item_id": "v1|880095758573|0",
+  "triage": {
+   "modelo": "Tudor Pelagos (posiblemente Pelagos 39), con brazalete de acero y esfera negra",
+   "referencia": null,
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "El título 'Pelagos Ultra' no corresponde a una línea Tudor conocida; verificar referencia real y autenticidad. Aun así, US$5,500 supera ampliamente el valor de mercado de un Pelagos con caja y papeles."
+  },
+  "motivo": "triage: El título 'Pelagos Ultra' no corresponde a una línea Tudor conocida; verificar referencia real y autenticidad. Aun así, US$5,500 supera ampliamente el valor de mercado de un Pelagos con caja y papeles. (justo 3500)"
  }
 ]
