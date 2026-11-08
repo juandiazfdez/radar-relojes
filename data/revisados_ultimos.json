@@ -2,46 +2,6 @@
  {
   "fecha": "2026-11-05T19:44:19.400834+00:00",
   "marca": "Rolex",
-  "titulo": "Vintage Rolex Explorer II 1655 Steve McQueen Patina UNPOLISHED Steel Box Paper",
-  "total": 32995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206556995227",
-  "item_id": "v1|206556995227|0",
-  "triage": {
-   "modelo": "Rolex Explorer II (aparentemente 1655 vintage, según el título)",
-   "referencia": "1655",
-   "precio_justo_usd": 26000,
-   "interesante": false,
-   "nota": "El precio pedido supera el valor estimado para un 1655 con caja y papeles. La foto no confirma la referencia, así que hay que verificarla antes de comprar."
-  },
-  "motivo": "triage: El precio pedido supera el valor estimado para un 1655 con caja y papeles. La foto no confirma la referencia, así que hay que verificarla antes de comprar. (justo 26000)"
- },
- {
-  "fecha": "2026-11-05T19:44:19.400834+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sea-Dweller Deepsea 44mm James Cameron 116660 Watch | 2026 Brand New",
-  "total": 19330.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/336882019755",
-  "item_id": "v1|336882019755|0",
-  "referencia": "116660",
-  "mercado": {
-   "n": 3,
-   "p25": 9695,
-   "mediana": 14978
-  },
-  "triage": {
-   "modelo": "Rolex Sea-Dweller Deepsea 44mm 'James Cameron' (esfera D-Blue)",
-   "referencia": "126660",
-   "precio_justo_usd": 20500,
-   "interesante": false,
-   "nota": "La esfera corresponde a la 126660 (D-Blue, Cerachrom), pero el título dice 116660, que es un modelo anterior. Confirmar la referencia con el número de serie y los papeles antes de comprar."
-  },
-  "motivo": "triage: La esfera corresponde a la 126660 (D-Blue, Cerachrom), pero el título dice 116660, que es un modelo anterior. Confirmar la referencia con el número de serie y los papeles antes de comprar. (justo 20500)"
- },
- {
-  "fecha": "2026-11-05T19:44:19.400834+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust 41 Mint Green Fluted Jubilee 126334",
   "total": 19261.37,
   "condicion": "New with imperfections",
@@ -11046,5 +11006,39 @@
   },
   "ratio_mercado": 1.111,
   "motivo": "precio normal (111 % del cuartil bajo de 25600TB)"
+ },
+ {
+  "fecha": "2026-11-08T03:01:07.435029+00:00",
+  "marca": "Rolex",
+  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
+  "total": 15991.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327445385460",
+  "item_id": "v1|327445385460|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date (acero, bisel y esfera negros, caja y papeles originales)",
+   "referencia": "126610LN (probable, no verificable en la foto; podría ser 116610LN)",
+   "precio_justo_usd": 14500,
+   "interesante": false,
+   "nota": "Precio pedido por encima del mercado secundario estimado para este modelo; 'rare' no aplica a un Submariner Date de producción actual. Sin número de serie ni fotos de cerca, no se puede verificar autenticidad ni estado."
+  },
+  "motivo": "triage: Precio pedido por encima del mercado secundario estimado para este modelo; 'rare' no aplica a un Submariner Date de producción actual. Sin número de serie ni fotos de cerca, no se puede verificar autenticidad ni estado. (justo 14500)"
+ },
+ {
+  "fecha": "2026-11-08T03:01:07.435029+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Large Model Diamond Automatic . Guaranteed to be authentic by eBa",
+  "total": 8800.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/198778560714",
+  "item_id": "v1|198778560714|0",
+  "triage": {
+   "modelo": "Cartier Santos Large (XL) con pavé de diamantes aparentemente aftermarket",
+   "referencia": null,
+   "precio_justo_usd": 5500,
+   "interesante": false,
+   "nota": "Se ve un Santos XL de acero con esfera y brazalete cubiertos de diamantes, probablemente una modificación posterior y no una pieza de fábrica. Aunque el precio pedido no es alto, no hay descuento claro frente al valor del reloj base; verificar referencia, número de serie y diamantes antes de comprar."
+  },
+  "motivo": "triage: Se ve un Santos XL de acero con esfera y brazalete cubiertos de diamantes, probablemente una modificación posterior y no una pieza de fábrica. Aunque el precio pedido no es alto, no hay descuento claro frente al valor del reloj base; verificar referencia, número de serie y diamantes antes de comprar. (justo 5500)"
  }
 ]
