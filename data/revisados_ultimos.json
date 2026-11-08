@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-05T19:29:19.653523+00:00",
   "marca": "Rolex",
-  "titulo": "2004 Rolex DateJust 16238 White Arabic 18K Yellow Gold 36mm Jubilee Box Papers",
-  "total": 19883.79,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900068689970",
-  "item_id": "v1|900068689970|0",
-  "referencia": "16238",
-  "mercado": {
-   "n": 4,
-   "p25": 21608,
-   "mediana": 28301
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 36mm oro amarillo 18K, bisel acanalado, esfera blanca con numerales arábigos, brazalete Jubilee",
-   "referencia": "16238",
-   "precio_justo_usd": 15500,
-   "interesante": false,
-   "nota": "Referencia y estética coherentes con la foto; el precio pedido queda unos 28 % por encima de lo que suele cerrarse para un 16238 con caja y papeles."
-  },
-  "motivo": "triage: Referencia y estética coherentes con la foto; el precio pedido queda unos 28 % por encima de lo que suele cerrarse para un 16238 con caja y papeles. (justo 15500)"
- },
- {
-  "fecha": "2026-11-05T19:29:19.653523+00:00",
-  "marca": "Rolex",
   "titulo": "Unpolished Rolex DateJust 116263 Turn-O-Graph Slate 36mm 18K Steel Box Papers",
   "total": 11212.87,
   "condicion": "Pre-owned - Excellent",
@@ -11053,5 +11030,28 @@
    "nota": "Precio pedido de US$2487 por encima del mercado de segunda mano para esta referencia; el título dice 'Papers Like', es decir, no incluye papeles originales."
   },
   "motivo": "triage: Precio pedido de US$2487 por encima del mercado de segunda mano para esta referencia; el título dice 'Papers Like', es decir, no incluye papeles originales. (justo 1800)"
+ },
+ {
+  "fecha": "2026-11-08T01:16:06.846389+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere Small WSPN0019 2024",
+  "total": 4600.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960168422252",
+  "item_id": "v1|960168422252|0",
+  "referencia": "WSPN0019",
+  "mercado": {
+   "n": 2,
+   "p25": 5000,
+   "mediana": 5398
+  },
+  "triage": {
+   "modelo": "Cartier Panthère de Cartier Small (22 x 30 mm), esfera blanca con números romanos, brazalete de acero, cuarzo",
+   "referencia": "WSPN0019",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Producción actual con precio pedido de US$4600, bastante por encima del mercado secundario (aprox. US$3000-3400 con caja y papeles). No hay descuento."
+  },
+  "motivo": "triage: Producción actual con precio pedido de US$4600, bastante por encima del mercado secundario (aprox. US$3000-3400 con caja y papeles). No hay descuento. (justo 3200)"
  }
 ]
