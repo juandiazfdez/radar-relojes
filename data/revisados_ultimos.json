@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T19:44:19.400834+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Pelagos 39 M25407N-0001",
-  "total": 4500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/860116729269",
-  "item_id": "v1|860116729269|0",
-  "referencia": "M25407N-0001",
-  "mercado": {
-   "n": 8,
-   "p25": 4364,
-   "mediana": 4644
-  },
-  "ratio_mercado": 1.031,
-  "motivo": "precio normal (103 % del cuartil bajo de M25407N-0001)"
- },
- {
   "fecha": "2026-11-05T19:59:18.606956+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Wimbledon Datejust 41 Two Tone Steel 18K Gold Jubilee Box Papers 126333",
@@ -11028,5 +11011,22 @@
    "nota": "Precio pedido de 6.500 US$ por encima de lo que se vende este modelo usado; no hay señal de descuento."
   },
   "motivo": "triage: Precio pedido de 6.500 US$ por encima de lo que se vende este modelo usado; no hay señal de descuento. (justo 5500)"
+ },
+ {
+  "fecha": "2026-11-08T03:46:07.582171+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1964 Ladies Rolex ref 6619 Oyster Perpetual 18k Gold Watch.",
+  "total": 12750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206683607849",
+  "item_id": "v1|206683607849|0",
+  "referencia": "6619",
+  "mercado": {
+   "n": 13,
+   "p25": 3600,
+   "mediana": 3990
+  },
+  "ratio_mercado": 3.542,
+  "motivo": "precio normal (354 % del cuartil bajo de 6619)"
  }
 ]
