@@ -5,23 +5,6 @@
   "titulo": "Rolex GMT-Master II 40mm Root Beer Two Tone Oyster Bracelet 126711CHNR B&P 2024",
   "total": 22495.0,
   "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128177783352",
-  "item_id": "v1|128177783352|0",
-  "referencia": "126711CHNR",
-  "mercado": {
-   "n": 92,
-   "p25": 20589,
-   "mediana": 21498
-  },
-  "ratio_mercado": 1.093,
-  "motivo": "precio normal (109 % del cuartil bajo de 126711CHNR)"
- },
- {
-  "fecha": "2026-11-05T23:29:29.457714+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 40mm Root Beer Two Tone Oyster Bracelet 126711CHNR B&P 2024",
-  "total": 22495.0,
-  "condicion": "Pre-owned - Excellent",
   "url": "https://www.ebay.com/itm/128177783356",
   "item_id": "v1|128177783356|0",
   "referencia": "126711CHNR",
@@ -11080,5 +11063,28 @@
   },
   "ratio_justo": 0.969,
   "motivo": "precio normal segun revision (97 % del justo 2600)"
+ },
+ {
+  "fecha": "2026-11-09T13:32:08.597018+00:00",
+  "marca": "Cartier",
+  "titulo": "CARTIER TANK MUST Photovoltaic Solarbeat WSTA0060 29x22mm Stainless Steel Watch",
+  "total": 4129.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128184939000",
+  "item_id": "v1|128184939000|0",
+  "referencia": "WSTA0060",
+  "mercado": {
+   "n": 2,
+   "p25": 3400,
+   "mediana": 3475
+  },
+  "triage": {
+   "modelo": "Cartier Tank Must SolarBeat (acero, esfera blanca, correa de piel negra)",
+   "referencia": "WSTA0060",
+   "precio_justo_usd": 1300,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de reventa de este modelo en estado excelente; el precio de referencia de mercado está muy por debajo de US$4.129."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de reventa de este modelo en estado excelente; el precio de referencia de mercado está muy por debajo de US$4.129. (justo 1300)"
  }
 ]
