@@ -2,74 +2,6 @@
  {
   "fecha": "2026-11-06T14:45:00.111992+00:00",
   "marca": "Rolex",
-  "titulo": "NEW Rolex GMT-Master II Steel Black/Grey Bruce Wayne Watch B/P '26 126710GRNR",
-  "total": 27700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117507966346",
-  "item_id": "v1|117507966346|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 95,
-   "p25": 22298,
-   "mediana": 23498
-  },
-  "ratio_mercado": 1.242,
-  "motivo": "precio normal (124 % del cuartil bajo de 126710GRNR)"
- },
- {
-  "fecha": "2026-11-06T14:45:00.111992+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Masterpiece 18k Yellow Gold Lapis Lazuli Diamond 39mm Watch B/P Z 18948",
-  "total": 98800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147669138968",
-  "item_id": "v1|147669138968|0",
-  "referencia": "18948",
-  "mercado": {
-   "n": 16,
-   "p25": 52700,
-   "mediana": 57800
-  },
-  "ratio_mercado": 1.875,
-  "motivo": "precio normal (187 % del cuartil bajo de 18948)"
- },
- {
-  "fecha": "2026-11-06T14:45:00.111992+00:00",
-  "marca": "Rolex",
-  "titulo": "NOS Rolex GMT-Master II 18k YG & Ceramic 40mm Jubilee Watch B/P '25 126718GRNR",
-  "total": 55700.0,
-  "condicion": "New with imperfections",
-  "url": "https://www.ebay.com/itm/147669138969",
-  "item_id": "v1|147669138969|0",
-  "referencia": "126718GRNR",
-  "mercado": {
-   "n": 5,
-   "p25": 50990,
-   "mediana": 51999
-  },
-  "ratio_mercado": 1.092,
-  "motivo": "precio normal (109 % del cuartil bajo de 126718GRNR)"
- },
- {
-  "fecha": "2026-11-06T14:45:00.111992+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust President 18k Yellow Gold Champagne 31mm Watch +Papers '88 68278",
-  "total": 23000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147669138972",
-  "item_id": "v1|147669138972|0",
-  "referencia": "68278",
-  "mercado": {
-   "n": 39,
-   "p25": 19630,
-   "mediana": 21058
-  },
-  "ratio_mercado": 1.172,
-  "motivo": "precio normal (117 % del cuartil bajo de 68278)"
- },
- {
-  "fecha": "2026-11-06T14:45:00.111992+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust President 18k Yellow Gold Silver Tapestry 31mm Watch '84 68278",
   "total": 22450.0,
   "condicion": "Pre-owned - Good",
@@ -11085,5 +11017,85 @@
    "nota": "El precio pedido de US$3945 supera el retail actual (~US$3825) y el mercado secundario de esta referencia suele estar bajo retail. La correa no es la original y la foto no permite confirmar referencia ni estado."
   },
   "motivo": "triage: El precio pedido de US$3945 supera el retail actual (~US$3825) y el mercado secundario de esta referencia suele estar bajo retail. La correa no es la original y la foto no permite confirmar referencia ni estado. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-09T18:47:16.824824+00:00",
+  "marca": "Rolex",
+  "titulo": "2022 Rolex Sea-Dweller 43mm 126603 - Two Tone Yellow Gold - Full Set Watch",
+  "total": 16999.95,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168850778041",
+  "item_id": "v1|168850778041|0",
+  "referencia": "126603",
+  "mercado": {
+   "n": 38,
+   "p25": 17715,
+   "mediana": 18206
+  },
+  "ratio_mercado": 0.96,
+  "motivo": "precio normal (96 % del cuartil bajo de 126603)"
+ },
+ {
+  "fecha": "2026-11-09T18:47:16.824824+00:00",
+  "marca": "Rolex",
+  "titulo": "2023 Rolex Datejust 41mm 126334 - Black - Fluted - Oyster - Full Set Watch",
+  "total": 14499.95,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257844168692",
+  "item_id": "v1|257844168692|0",
+  "referencia": "126334",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 41 (acero Oyster, bisel estriado de oro blanco, esfera negra)",
+   "referencia": "126334",
+   "precio_justo_usd": 11500,
+   "interesante": false,
+   "nota": "Precio pedido de US$14,500 queda muy por encima del valor de venta cerrada de un 126334 de 2023 con caja y papeles, que ronda US$11,000-12,500."
+  },
+  "motivo": "triage: Precio pedido de US$14,500 queda muy por encima del valor de venta cerrada de un 126334 de 2023 con caja y papeles, que ronda US$11,000-12,500. (justo 11500)"
+ },
+ {
+  "fecha": "2026-11-09T18:47:16.824824+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Royal 41mm",
+  "total": 2500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267838844308",
+  "item_id": "v1|267838844308|0",
+  "triage": {
+   "modelo": "Tudor Royal 41mm, esfera azul, brazalete de acero tipo Jubilee",
+   "referencia": "M28600 (probable; no se distingue con certeza en la foto)",
+   "precio_justo_usd": 2750,
+   "interesante": false,
+   "nota": "Precio pedido ~9 % bajo la estimación de venta cerrada con caja; no llega al umbral del 15 %. Verificar referencia, papeles y autenticidad."
+  },
+  "motivo": "triage: Precio pedido ~9 % bajo la estimación de venta cerrada con caja; no llega al umbral del 15 %. Verificar referencia, papeles y autenticidad. (justo 2750)"
+ },
+ {
+  "fecha": "2026-11-09T18:47:16.824824+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Ranger Dune/Beige 5/26 Ref# 79930 36mm",
+  "total": 3998.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257844172480",
+  "item_id": "v1|257844172480|0",
+  "referencia": "79930",
+  "mercado": {
+   "n": 1,
+   "p25": 3802,
+   "mediana": 3802
+  },
+  "triage": {
+   "modelo": "Tudor Ranger (esfera Dune/beige)",
+   "referencia": "79930",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio pedido de US$3,998 está por encima del retail aproximado y del mercado gris; el precio justo para un estado excelente con caja y papeles ronda los US$3,000."
+  },
+  "motivo": "triage: Precio pedido de US$3,998 está por encima del retail aproximado y del mercado gris; el precio justo para un estado excelente con caja y papeles ronda los US$3,000. (justo 3000)"
  }
 ]
