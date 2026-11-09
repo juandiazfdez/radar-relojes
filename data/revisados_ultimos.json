@@ -1,142 +1,5 @@
 [
  {
-  "fecha": "2026-11-06T14:45:00.111992+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 44mm 18k White Gold Chrono Automatic Watch W6920031 3195",
-  "total": 38050.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366790417410",
-  "item_id": "v1|366790417410|0",
-  "referencia": "W6920031",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 44mm Chronograph (caja y brazalete de acero, esfera plateada)",
-   "referencia": "W6920031 (según título; la foto muestra acero, no oro blanco)",
-   "precio_justo_usd": 8000,
-   "interesante": false,
-   "nota": "El título dice oro blanco 18k, pero la foto muestra acero: listado contradictorio. Aun como oro blanco, US$38,050 está muy por encima del mercado; el acero se vende alrededor de US$7,000-9,000."
-  },
-  "motivo": "triage: El título dice oro blanco 18k, pero la foto muestra acero: listado contradictorio. Aun como oro blanco, US$38,050 está muy por encima del mercado; el acero se vende alrededor de US$7,000-9,000. (justo 8000)"
- },
- {
-  "fecha": "2026-11-06T15:00:00.480461+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 31 18k Rose Gold/Steel Slate Gray Diamond VI Ladies Watch 278271",
-  "total": 20500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117507975649",
-  "item_id": "v1|117507975649|0",
-  "referencia": "278271",
-  "mercado": {
-   "n": 15,
-   "p25": 18650,
-   "mediana": 19448
-  },
-  "ratio_mercado": 1.099,
-  "motivo": "precio normal (110 % del cuartil bajo de 278271)"
- },
- {
-  "fecha": "2026-11-06T15:15:00.210340+00:00",
-  "marca": "Rolex",
-  "titulo": "1995 MINT Rolex Submariner 16613LB Gold Steel Two Tone Yellow Gold Sunburst Blue",
-  "total": 11506.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307269866509",
-  "item_id": "v1|307269866509|0",
-  "referencia": "16613LB",
-  "mercado": {
-   "n": 9,
-   "p25": 12000,
-   "mediana": 12429
-  },
-  "ratio_mercado": 0.959,
-  "motivo": "precio normal (96 % del cuartil bajo de 16613LB)"
- },
- {
-  "fecha": "2026-11-06T15:15:00.210340+00:00",
-  "marca": "Rolex",
-  "titulo": "2020 NEW PAPERS Rolex Daytona Oysterflex 116519LN White Gold Ceramic Diamond",
-  "total": 40392.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307269866438",
-  "item_id": "v1|307269866438|0",
-  "referencia": "116519LN",
-  "mercado": {
-   "n": 19,
-   "p25": 46598,
-   "mediana": 48200
-  },
-  "ratio_mercado": 0.867,
-  "motivo": "precio normal (87 % del cuartil bajo de 116519LN)"
- },
- {
-  "fecha": "2026-11-06T15:15:00.210340+00:00",
-  "marca": "Rolex",
-  "titulo": "2024 PAPERS Rolex 126334 DateJust 41 Wimbledon steel White Gold Jubilee Watch",
-  "total": 16152.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287709585004",
-  "item_id": "v1|287709585004|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 1,
-   "p25": 10389,
-   "mediana": 10389
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 Wimbledon, acero y oro blanco, brazalete Jubilee",
-   "referencia": "126334",
-   "precio_justo_usd": 15800,
-   "interesante": false,
-   "nota": "Por el dial Wimbledon, bisel acanalado de oro blanco y brazalete Jubilee, parece 126334 con caja y papeles. El precio pedido está en línea con el mercado secundario actual, sin descuento de al menos 15 %."
-  },
-  "motivo": "triage: Por el dial Wimbledon, bisel acanalado de oro blanco y brazalete Jubilee, parece 126334 con caja y papeles. El precio pedido está en línea con el mercado secundario actual, sin descuento de al menos 15 %. (justo 15800)"
- },
- {
-  "fecha": "2026-11-06T15:15:00.210340+00:00",
-  "marca": "Rolex",
-  "titulo": "MINT Ladies Rolex 68273 Two Tone 18k Yellow Gold Fluted Steel 31mm Pearl Diamond",
-  "total": 8880.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307269866320",
-  "item_id": "v1|307269866320|0",
-  "referencia": "68273",
-  "mercado": {
-   "n": 43,
-   "p25": 7995,
-   "mediana": 8981
-  },
-  "ratio_mercado": 1.111,
-  "motivo": "precio normal (111 % del cuartil bajo de 68273)"
- },
- {
-  "fecha": "2026-11-06T15:15:00.210340+00:00",
-  "marca": "Rolex",
-  "titulo": "2023 NEW PAPERS Rolex 126613LB Submariner 41mm Blue Two Tone Gold Steel Watch",
-  "total": 18677.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940070669875",
-  "item_id": "v1|940070669875|0",
-  "referencia": "126613LB",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Submariner Date 41 mm bicolor acero/oro amarillo, bisel y esfera azules",
-   "referencia": "126613LB",
-   "precio_justo_usd": 19000,
-   "interesante": false,
-   "nota": "Referencia correcta; el precio pedido está en línea con el mercado secundario y no supera el umbral del 15 % por debajo."
-  },
-  "motivo": "triage: Referencia correcta; el precio pedido está en línea con el mercado secundario y no supera el umbral del 15 % por debajo. (justo 19000)"
- },
- {
   "fecha": "2026-11-06T15:15:00.210340+00:00",
   "marca": "Rolex",
   "titulo": "MINT Rolex Day Date II 218239 White Gold 41mm President Chocolate Roman Watch",
@@ -11086,5 +10949,138 @@
   },
   "ratio_mercado": 1.034,
   "motivo": "precio normal (103 % del cuartil bajo de W1529856)"
+ },
+ {
+  "fecha": "2026-11-09T20:17:17.457268+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Bubbleback 2940 WW2 Era Men’s Vintage Watch",
+  "total": 3150.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227606301217",
+  "item_id": "v1|227606301217|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Bubbleback (era de la Segunda Guerra Mundial)",
+   "referencia": "2940",
+   "precio_justo_usd": 2200,
+   "interesante": false,
+   "nota": "En la foto se ve una caja dorada (posiblemente chapada u gold-filled) y no se distinguen marcas Rolex en la esfera. Si es chapado, el precio justo es bastante menor; solo sería interesante con oro macizo verificado o con papeles de autenticidad."
+  },
+  "motivo": "triage: En la foto se ve una caja dorada (posiblemente chapada u gold-filled) y no se distinguen marcas Rolex en la esfera. Si es chapado, el precio justo es bastante menor; solo sería interesante con oro macizo verificado o con papeles de autenticidad. (justo 2200)"
+ },
+ {
+  "fecha": "2026-11-09T20:17:17.457268+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu de Cartier",
+  "total": 5325.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257844268207",
+  "item_id": "v1|257844268207|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu de Cartier 42 mm automático, acero, esfera negra con numerales romanos",
+   "referencia": "W69012Z2 (probable; no verificable solo con la foto)",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor estimado de venta cerrada en EE. UU. para este modelo en estado excelente; sin caja y papeles visibles, el precio no parece atractivo."
+  },
+  "motivo": "triage: Precio pedido por encima del valor estimado de venta cerrada en EE. UU. para este modelo en estado excelente; sin caja y papeles visibles, el precio no parece atractivo. (justo 5000)"
+ },
+ {
+  "fecha": "2026-11-09T20:17:17.457268+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Dumont 35mm 2651 W2007051 White Gold Black Leather",
+  "total": 7450.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900078452279",
+  "item_id": "v1|900078452279|0",
+  "referencia": "2651",
+  "mercado": {
+   "n": 1,
+   "p25": 8995,
+   "mediana": 8995
+  },
+  "triage": {
+   "modelo": "Cartier Santos-Dumont, caja de oro blanco con correa de piel negra (con caja y papeles)",
+   "referencia": "W2007051 (el título también menciona 2651, que no coincide; verificar)",
+   "precio_justo_usd": 6800,
+   "interesante": false,
+   "nota": "El título mezcla referencias (2651 y W2007051) y el tamaño de 35 mm no parece corresponder; el precio pedido queda por encima de la estimación de venta cerrada, sin descuento suficiente."
+  },
+  "motivo": "triage: El título mezcla referencias (2651 y W2007051) y el tamaño de 35 mm no parece corresponder; el precio pedido queda por encima de la estimación de venta cerrada, sin descuento suficiente. (justo 6800)"
+ },
+ {
+  "fecha": "2026-11-09T20:17:17.457268+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Chrono 2026 UNWORN Flamingo Blue - 79360N-0024",
+  "total": 10199.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/860128816557",
+  "item_id": "v1|860128816557|0",
+  "referencia": "79360N-0024",
+  "mercado": {
+   "n": 35,
+   "p25": 5999,
+   "mediana": 6745
+  },
+  "ratio_mercado": 1.7,
+  "motivo": "precio normal (170 % del cuartil bajo de 79360N-0024)"
+ },
+ {
+  "fecha": "2026-11-09T20:17:17.457268+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Fifty-Eight 79030B 39mm Blue Steel Mens Watch Box Card",
+  "total": 3625.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257844287473",
+  "item_id": "v1|257844287473|0",
+  "referencia": "79030B",
+  "mercado": {
+   "n": 16,
+   "p25": 3495,
+   "mediana": 3582
+  },
+  "ratio_mercado": 1.037,
+  "motivo": "precio normal (104 % del cuartil bajo de 79030B)"
+ },
+ {
+  "fecha": "2026-11-09T20:17:17.457268+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay Heritage Bronze 43 mm",
+  "total": 2486.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327448413190",
+  "item_id": "v1|327448413190|0",
+  "triage": {
+   "modelo": "Tudor Black Bay Bronze 43 mm (Heritage), esfera marrón, correa de cuero",
+   "referencia": "M79250BA-0001",
+   "precio_justo_usd": 3000,
+   "interesante": true,
+   "nota": "Con caja y papeles, el precio pedido está unos 17 % bajo el mercado de reventa. Verificar autenticidad, estado del bronce y papeles antes de comprar."
+  },
+  "referencia": null,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 2700,
+   "riesgo_autenticidad": "medio",
+   "estado": "Bueno, con patina natural en el bronce y correa muy gastada; cristal y esfera sin defectos visibles"
+  },
+  "ratio_justo": 0.921,
+  "motivo": "precio normal segun revision (92 % del justo 2700)"
+ },
+ {
+  "fecha": "2026-11-09T20:17:17.457268+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 39mm Stainless Steel 7939A1A0NU 2026 B&P",
+  "total": 4600.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820336062989",
+  "item_id": "v1|820336062989|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 39 (acero, bisel negro, esfera negra, correa de caucho)",
+   "referencia": "7939A1A0NU",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio pedido por encima de retail; la referencia nueva se vende en mercado gris ~15-25% bajo retail, y 'Pre-owned' con B&P 2026 es contradictorio."
+  },
+  "motivo": "triage: Precio pedido por encima de retail; la referencia nueva se vende en mercado gris ~15-25% bajo retail, y 'Pre-owned' con B&P 2026 es contradictorio. (justo 3300)"
  }
 ]
