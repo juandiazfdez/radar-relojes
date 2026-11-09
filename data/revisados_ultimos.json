@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-05T23:29:29.457714+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 40mm Batman Oyster Bracelet 126710BLNR B&P 2025",
-  "total": 21095.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128177784041",
-  "item_id": "v1|128177784041|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 67,
-   "p25": 18200,
-   "mediana": 18900
-  },
-  "ratio_mercado": 1.159,
-  "motivo": "precio normal (116 % del cuartil bajo de 126710BLNR)"
- },
- {
-  "fecha": "2026-11-05T23:29:29.457714+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex GMT Master II 40mm Batman Jubilee Bracelet 126710BLNR B&P 2021",
   "total": 21095.0,
   "condicion": "Pre-owned - Good",
@@ -11055,5 +11038,22 @@
   },
   "ratio_mercado": 0.924,
   "motivo": "precio normal (92 % del cuartil bajo de 79360N)"
+ },
+ {
+  "fecha": "2026-11-09T07:01:57.983141+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere Vendome SM 1-Row 24mm Ref.1057920C Quartz Watch 18KYG 167807",
+  "total": 4200.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940077563680",
+  "item_id": "v1|940077563680|0",
+  "triage": {
+   "modelo": "Cartier Panthère Vendôme SM (1 fila), cuarzo, caja de oro amarillo 18k con brazalete bicolor acero/oro (según la foto)",
+   "referencia": "1057920 (según el título; no verificable en la foto)",
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "El precio pedido de US$4200 supera el valor de venta típico de esta referencia en cuarzo, y la foto muestra brazalete bicolor, que vale menos que oro macizo. Confirmar material y papeles."
+  },
+  "motivo": "triage: El precio pedido de US$4200 supera el valor de venta típico de esta referencia en cuarzo, y la foto muestra brazalete bicolor, que vale menos que oro macizo. Confirmar material y papeles. (justo 2800)"
  }
 ]
