@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-06T13:14:47.506835+00:00",
-  "marca": "Rolex",
-  "titulo": "NEW Rolex Explorer Oyster, 40 mm, Oystersteel Ref. 224270, full set",
-  "total": 9545.0,
-  "condicion": "New with imperfections",
-  "url": "https://www.ebay.com/itm/287706854353",
-  "item_id": "v1|287706854353|0",
-  "referencia": "224270",
-  "mercado": {
-   "n": 10,
-   "p25": 10825,
-   "mediana": 10858
-  },
-  "ratio_mercado": 0.882,
-  "motivo": "precio normal (88 % del cuartil bajo de 224270)"
- },
- {
-  "fecha": "2026-11-06T13:14:47.506835+00:00",
-  "marca": "Rolex",
-  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
-  "total": 15990.01,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/327443122600",
-  "item_id": "v1|327443122600|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date (con caja y papeles originales)",
-   "referencia": null,
-   "precio_justo_usd": 13500,
-   "interesante": false,
-   "nota": "La referencia no es legible en la foto; con 126610LN o 116610LN el precio de venta cerrada es similar o inferior al pedido, y 'unpolished' no se puede verificar."
-  },
-  "motivo": "triage: La referencia no es legible en la foto; con 126610LN o 116610LN el precio de venta cerrada es similar o inferior al pedido, y 'unpolished' no se puede verificar. (justo 13500)"
- },
- {
-  "fecha": "2026-11-06T14:00:00.634560+00:00",
-  "marca": "Rolex",
-  "titulo": "1947 Rolex \"Bubbleback\" Ref. 3372 - Gold & Steel - Automatic Oyster Perpetual",
-  "total": 5800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137907735633",
-  "item_id": "v1|137907735633|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Bubbleback bicolor (acero y oro), años 40",
-   "referencia": "3372",
-   "precio_justo_usd": 6500,
-   "interesante": false,
-   "nota": "Precio cercano al mercado para un bubbleback bicolor de los 40 en estado bueno, pero queda por encima del 15 % de descuento necesario. Verificar autenticidad y ref. exacta antes de comprar."
-  },
-  "motivo": "triage: Precio cercano al mercado para un bubbleback bicolor de los 40 en estado bueno, pero queda por encima del 15 % de descuento necesario. Verificar autenticidad y ref. exacta antes de comprar. (justo 6500)"
- },
- {
   "fecha": "2026-11-06T14:00:00.634560+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 16220 — Oyster Bracelet — Excellent Condition",
@@ -11079,5 +11028,62 @@
    "nota": "Precio pedido de US$3605 con envío, por encima del estimado de venta real (~US$3200) para un Ranger 36mm nuevo con papeles; no hay descuento suficiente."
   },
   "motivo": "triage: Precio pedido de US$3605 con envío, por encima del estimado de venta real (~US$3200) para un Ranger 36mm nuevo con papeles; no hay descuento suficiente. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-09T18:02:18.937807+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Love 18k Solid White Gold Factory Diamond 23mm Quartz Ladies Watch",
+  "total": 4999.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206687536869",
+  "item_id": "v1|206687536869|0",
+  "triage": {
+   "modelo": "Cartier Love (esfera blanca, bisel con diamantes, cuarzo, correa de cuero)",
+   "referencia": null,
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Por la imagen parece un Love de cuarzo en oro blanco 18k con diamantes; la referencia no es visible. El precio pedido de US$5000 está por encima del valor estimado de venta cerrada, así que no es una oportunidad."
+  },
+  "motivo": "triage: Por la imagen parece un Love de cuarzo en oro blanco 18k con diamantes; la referencia no es visible. El precio pedido de US$5000 está por encima del valor estimado de venta cerrada, así que no es una oportunidad. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-09T18:02:18.937807+00:00",
+  "marca": "Tudor",
+  "titulo": "Brand New Tudor Ranger “Dune White” Ref. M79950-0008",
+  "total": 4300.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940078818255",
+  "item_id": "v1|940078818255|0",
+  "referencia": "M79950-0008",
+  "mercado": {
+   "n": 5,
+   "p25": 3500,
+   "mediana": 3600
+  },
+  "ratio_mercado": 1.229,
+  "motivo": "precio normal (123 % del cuartil bajo de M79950-0008)"
+ },
+ {
+  "fecha": "2026-11-09T18:02:18.937807+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR HERITAGE Black Bay Bronze 43mm M79250BM-001 Wristwatch w/ Bx & Bk",
+  "total": 3899.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128185377690",
+  "item_id": "v1|128185377690|0",
+  "referencia": "M79250BM",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay Bronze 43mm (Heritage)",
+   "referencia": "M79250BM-0001",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "Bronce 43mm con caja y papeles, de uso; el precio pedido está en línea con el mercado y la correa naranja no original resta algo de valor."
+  },
+  "motivo": "triage: Bronce 43mm con caja y papeles, de uso; el precio pedido está en línea con el mercado y la correa naranja no original resta algo de valor. (justo 3400)"
  }
 ]
