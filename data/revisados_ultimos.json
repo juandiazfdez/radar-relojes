@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-06T16:15:00.129101+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ronde Must de Cartier Watch Stainless Steel White",
-  "total": 4522.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366787783257",
-  "item_id": "v1|366787783257|0",
-  "triage": {
-   "modelo": "Cartier Ronde Must de Cartier 31 mm, acero, esfera plateada con numerales romanos (cuarzo)",
-   "referencia": "WSRN0002 (probable, sin confirmar en la foto)",
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de venta real de esta referencia de segunda mano; el listado parece sobrevalorado."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de venta real de esta referencia de segunda mano; el listado parece sobrevalorado. (justo 2300)"
- },
- {
-  "fecha": "2026-11-06T16:30:01.950646+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 1946 Rolex Bubbleback 14k Pink Gold Perpetual Chronometer Watch Ref.3131",
-  "total": 9033.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920112600785",
-  "item_id": "v1|920112600785|0",
-  "triage": {
-   "modelo": "Rolex Bubbleback (Oyster Perpetual), caja de oro rosa 14k, esfera negra con números árabes",
-   "referencia": "3131 (según el título; no verificable en la foto)",
-   "precio_justo_usd": 10000,
-   "interesante": false,
-   "nota": "Precio cercano al valor de mercado para un bubbleback de oro rosa 14k en buen estado; el 'Perpetual Chronometer' del título es un término de marketing, y la referencia debe verificarse con fotos del movimiento y la caja."
-  },
-  "motivo": "triage: Precio cercano al valor de mercado para un bubbleback de oro rosa 14k en buen estado; el 'Perpetual Chronometer' del título es un término de marketing, y la referencia debe verificarse con fotos del movimiento y la caja. (justo 10000)"
- },
- {
   "fecha": "2026-11-06T16:30:01.950646+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual Automatic Watch Stainless Steel 31",
@@ -11081,5 +11047,39 @@
   },
   "ratio_mercado": 1.105,
   "motivo": "precio normal (110 % del cuartil bajo de W5200025)"
+ },
+ {
+  "fecha": "2026-11-09T21:17:16.927534+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 RSC Rolex Datejust 41mm 126333 Mother of Pearl Diamond Two-Tone 18k Watch",
+  "total": 20393.79,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960175873817",
+  "item_id": "v1|960175873817|0",
+  "referencia": "126333",
+  "mercado": {
+   "n": 32,
+   "p25": 14783,
+   "mediana": 15380
+  },
+  "ratio_mercado": 1.38,
+  "motivo": "precio normal (138 % del cuartil bajo de 126333)"
+ },
+ {
+  "fecha": "2026-11-09T21:17:16.927534+00:00",
+  "marca": "Rolex",
+  "titulo": "1995 Rolex Submariner Date, 16610, 40mm, Black Dial, Oyster Bracelet, Box & P...",
+  "total": 9977.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366797547131",
+  "item_id": "v1|366797547131|0",
+  "referencia": "16610",
+  "mercado": {
+   "n": 79,
+   "p25": 9950,
+   "mediana": 10450
+  },
+  "ratio_mercado": 1.003,
+  "motivo": "precio normal (100 % del cuartil bajo de 16610)"
  }
 ]
