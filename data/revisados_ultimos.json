@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-05T23:29:29.457714+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 40mm Root Beer Two Tone Oyster Bracelet 126711CHNR B&P 2024",
-  "total": 22495.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128177783356",
-  "item_id": "v1|128177783356|0",
-  "referencia": "126711CHNR",
-  "mercado": {
-   "n": 92,
-   "p25": 20589,
-   "mediana": 21498
-  },
-  "ratio_mercado": 1.093,
-  "motivo": "precio normal (109 % del cuartil bajo de 126711CHNR)"
- },
- {
-  "fecha": "2026-11-05T23:29:29.457714+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex GMT-Master II 40mm Root Beer Two Tone Oyster Bracelet 126711CHNR B&P 2025",
   "total": 22595.0,
   "condicion": "Pre-owned - Excellent",
@@ -11086,5 +11069,22 @@
    "nota": "Precio pedido muy por encima del valor de reventa de este modelo en estado excelente; el precio de referencia de mercado está muy por debajo de US$4.129."
   },
   "motivo": "triage: Precio pedido muy por encima del valor de reventa de este modelo en estado excelente; el precio de referencia de mercado está muy por debajo de US$4.129. (justo 1300)"
+ },
+ {
+  "fecha": "2026-11-09T13:47:08.055790+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise 25mm Stainless Steel Quartz Watch Pre-Owned W51011Q3",
+  "total": 3995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366794726528",
+  "item_id": "v1|366794726528|0",
+  "triage": {
+   "modelo": "Cartier Tank Française (tamaño mediano, cuarzo, acero)",
+   "referencia": "W51011Q3",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Referencia de cuarzo de acero de 25 mm; el precio pedido de US$3995 está muy por encima del valor de venta cerrada de este modelo, incluso en buen estado."
+  },
+  "motivo": "triage: Referencia de cuarzo de acero de 25 mm; el precio pedido de US$3995 está muy por encima del valor de venta cerrada de este modelo, incluso en buen estado. (justo 2600)"
  }
 ]
