@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-11-05T23:14:28.603293+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust Diamond Stainless Steel Watch 68274",
-  "total": 7500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407343177581",
-  "item_id": "v1|407343177581|0",
-  "referencia": "68274",
-  "mercado": {
-   "n": 33,
-   "p25": 8000,
-   "mediana": 9400
-  },
-  "ratio_mercado": 0.938,
-  "motivo": "precio normal (94 % del cuartil bajo de 68274)"
- },
- {
-  "fecha": "2026-11-05T23:14:28.603293+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Must XL Automatic Stainless Steel Blue Leather Men's Watch WSTA0141",
-  "total": 4500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128177762607",
-  "item_id": "v1|128177762607|0",
-  "referencia": "WSTA0141",
-  "mercado": {
-   "n": 2,
-   "p25": 4840,
-   "mediana": 4967
-  },
-  "triage": {
-   "modelo": "Cartier Tank Must XL (esfera plateada, numerales romanos, correa de piel negra)",
-   "referencia": "WSTA0141 (según el título; no verificable en la imagen, y el título dice 'Automatic', algo poco habitual en esta línea)",
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del mercado de segunda mano para un Tank Must XL de acero, aunque sea 'Excellent'. La referencia y el movimiento declarados deben verificarse antes de cualquier oferta."
-  },
-  "motivo": "triage: Precio pedido muy por encima del mercado de segunda mano para un Tank Must XL de acero, aunque sea 'Excellent'. La referencia y el movimiento declarados deben verificarse antes de cualquier oferta. (justo 2600)"
- },
- {
-  "fecha": "2026-11-05T23:14:28.603293+00:00",
   "marca": "Tudor",
   "titulo": "2026 Tudor Black Bay 68 43mm Stainless Steel M7943A1A0NU-0002",
   "total": 4695.0,
@@ -11016,5 +10976,39 @@
    "nota": "Descuento de ~30% sobre el valor estimado en condición usada; una rebaja tan grande en un Tudor cronógrafo es señal de posible réplica. Verificar autenticidad, números de serie y funcionamiento antes de comprar."
   },
   "motivo": "triage: Descuento de ~30% sobre el valor estimado en condición usada; una rebaja tan grande en un Tudor cronógrafo es señal de posible réplica. Verificar autenticidad, números de serie y funcionamiento antes de comprar. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-09T00:01:49.152332+00:00",
+  "marca": "Rolex",
+  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
+  "total": 15991.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327446941574",
+  "item_id": "v1|327446941574|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date (esfera negra, bisel negro, acero)",
+   "referencia": "126610LN (probable, verificar número de serie y tarjeta)",
+   "precio_justo_usd": 13800,
+   "interesante": false,
+   "nota": "Precio pedido US$15,991 está ~16% por encima de lo que se cierra un 126610LN con caja y papeles. 'Rare' en el título no aplica; es un modelo de producción."
+  },
+  "motivo": "triage: Precio pedido US$15,991 está ~16% por encima de lo que se cierra un 126610LN con caja y papeles. 'Rare' en el título no aplica; es un modelo de producción. (justo 13800)"
+ },
+ {
+  "fecha": "2026-11-09T00:01:49.152332+00:00",
+  "marca": "Tudor",
+  "titulo": "mens tudor prince oysterdate watch",
+  "total": 1617.18,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336887504647",
+  "item_id": "v1|336887504647|0",
+  "triage": {
+   "modelo": "Tudor Prince Oysterdate (date), esfera champagne, caja aparentemente dorada, correa de cuero marrón",
+   "referencia": "posiblemente 74000 (no verificable en la foto)",
+   "precio_justo_usd": 1200,
+   "interesante": false,
+   "nota": "Si la caja es chapada en oro o gold-filled, el precio de venta cerrada suele ser bajo; el precio pedido está por encima de ese rango. Sin ver el reverso ni confirmar el material, no hay margen claro de compra."
+  },
+  "motivo": "triage: Si la caja es chapada en oro o gold-filled, el precio de venta cerrada suele ser bajo; el precio pedido está por encima de ese rango. Sin ver el reverso ni confirmar el material, no hay margen claro de compra. (justo 1200)"
  }
 ]
