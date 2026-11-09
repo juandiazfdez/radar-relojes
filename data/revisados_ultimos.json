@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-05T23:14:28.603293+00:00",
   "marca": "Tudor",
-  "titulo": "2026 Tudor 1926 Luna 39mm Stainless Steel M91560-0002",
-  "total": 2195.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880087114218",
-  "item_id": "v1|880087114218|0",
-  "referencia": "M91560-0002",
-  "mercado": {
-   "n": 3,
-   "p25": 2595,
-   "mediana": 2655
-  },
-  "triage": {
-   "modelo": "Tudor 1926 Moon Phase 39 mm, acero, esfera azul, brazalete de acero",
-   "referencia": "M91560-0002 (según el título; no puedo confirmarla con la foto)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio 33 % bajo un estimado de mercado gris para un modelo nuevo con caja y papeles, demasiado bajo para ser fiable; verificar autenticidad, número de serie y papeles antes de comprar."
-  },
-  "motivo": "triage: Precio 33 % bajo un estimado de mercado gris para un modelo nuevo con caja y papeles, demasiado bajo para ser fiable; verificar autenticidad, número de serie y papeles antes de comprar. (justo 3300)"
- },
- {
-  "fecha": "2026-11-05T23:14:28.603293+00:00",
-  "marca": "Tudor",
   "titulo": "2026 Tudor Royal 30mm Stainless Steel M2830A1A0-0003",
   "total": 2795.0,
   "condicion": "New with box and papers",
@@ -11023,5 +11000,28 @@
    "nota": "Precio pedido de US$10,270 está muy por encima del mercado gris para un Santos nuevo con caja y papeles; no es una oportunidad."
   },
   "motivo": "triage: Precio pedido de US$10,270 está muy por encima del mercado gris para un Santos nuevo con caja y papeles; no es una oportunidad. (justo 6200)"
+ },
+ {
+  "fecha": "2026-11-09T01:31:49.032754+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX Oyster Perpetual - Reference 14203 - with original box",
+  "total": 6868.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940077020730",
+  "item_id": "v1|940077020730|0",
+  "referencia": "14203",
+  "mercado": {
+   "n": 4,
+   "p25": 5000,
+   "mediana": 5500
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual 34 mm, acero y oro amarillo (bicolor), esfera plateada",
+   "referencia": "14203",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Precio pedido muy superior al valor de mercado de un bicolor 14203 en estado Good, aunque tenga caja; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido muy superior al valor de mercado de un bicolor 14203 en estado Good, aunque tenga caja; no es una oportunidad. (justo 3500)"
  }
 ]
