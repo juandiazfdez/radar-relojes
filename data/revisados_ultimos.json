@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-05T23:14:28.603293+00:00",
   "marca": "Tudor",
-  "titulo": "2026 Tudor 1926 Luna 39mm Stainless Steel M91560-0001",
-  "total": 2595.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880087110106",
-  "item_id": "v1|880087110106|0",
-  "referencia": "M91560-0001",
-  "mercado": {
-   "n": 3,
-   "p25": 2595,
-   "mediana": 2655
-  },
-  "triage": {
-   "modelo": "Tudor 1926 Moon (fase lunar), esfera champán, bisel liso, brazalete de acero",
-   "referencia": "M91650-0001 (el listado indica M91560-0001; verificar la referencia exacta)",
-   "precio_justo_usd": 2850,
-   "interesante": false,
-   "nota": "Precio pedido unos 9 % por debajo del estimado para un Tudor 1926 Moon nuevo con caja y papeles; el descuento no llega al 15 % y la referencia del título no coincide con la de la foto."
-  },
-  "motivo": "triage: Precio pedido unos 9 % por debajo del estimado para un Tudor 1926 Moon nuevo con caja y papeles; el descuento no llega al 15 % y la referencia del título no coincide con la de la foto. (justo 2850)"
- },
- {
-  "fecha": "2026-11-05T23:14:28.603293+00:00",
-  "marca": "Tudor",
   "titulo": "2026 Tudor Black Bay 58 GMT 39mm Stainless Steel M7939G1A0NRU-0003",
   "total": 5195.0,
   "condicion": "New with box and papers",
@@ -11043,5 +11020,22 @@
   },
   "ratio_justo": 0.862,
   "motivo": "precio normal segun revision (86 % del justo 2900)"
+ },
+ {
+  "fecha": "2026-11-09T03:31:48.708065+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36 116233 Champagne Diamond Jubilee Two Tone CPO Papers",
+  "total": 11775.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860126584505",
+  "item_id": "v1|860126584505|0",
+  "referencia": "116233",
+  "mercado": {
+   "n": 72,
+   "p25": 10990,
+   "mediana": 11360
+  },
+  "ratio_mercado": 1.071,
+  "motivo": "precio normal (107 % del cuartil bajo de 116233)"
  }
 ]
