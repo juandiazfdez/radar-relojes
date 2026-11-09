@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-06T17:15:00.043498+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX Submariner 126619LB COOKIE MONSTER 41mm 18K White Gold BOX PAPER",
-  "total": 38995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227601603537",
-  "item_id": "v1|227601603537|0",
-  "referencia": "126619LB",
-  "mercado": {
-   "n": 22,
-   "p25": 37999,
-   "mediana": 39960
-  },
-  "ratio_mercado": 1.026,
-  "motivo": "precio normal (103 % del cuartil bajo de 126619LB)"
- },
- {
-  "fecha": "2026-11-06T17:15:00.043498+00:00",
-  "marca": "Rolex",
-  "titulo": "Circa 1981 ROLEX AIR KING 5500 26 Jewel Stainless Steel 34mm Diamond Wristwatch",
-  "total": 4699.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128179380921",
-  "item_id": "v1|128179380921|0",
-  "referencia": "5500",
-  "mercado": {
-   "n": 22,
-   "p25": 4000,
-   "mediana": 4325
-  },
-  "ratio_mercado": 1.175,
-  "motivo": "precio normal (117 % del cuartil bajo de 5500)"
- },
- {
-  "fecha": "2026-11-06T17:15:00.043498+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 40mm WE902055 2661 Silver Gold Diamond Mens Watch Card 2017",
-  "total": 15025.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257838870200",
-  "item_id": "v1|257838870200|0",
-  "referencia": "WE902055",
-  "mercado": {
-   "n": 2,
-   "p25": 13199,
-   "mediana": 13449
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 40 mm oro rosa con bisel de diamantes, esfera plateada, numerales romanos y correa de cocodrilo marrón",
-   "referencia": "WE902055 (según el título del listado; verificar en la caja o el certificado)",
-   "precio_justo_usd": 16000,
-   "interesante": false,
-   "nota": "Precio cercano al mercado secundario para esta referencia con bisel de diamantes. El descuento frente al precio pedido no llega al 15 %; el margen de compra es limitado."
-  },
-  "motivo": "triage: Precio cercano al mercado secundario para esta referencia con bisel de diamantes. El descuento frente al precio pedido no llega al 15 %; el margen de compra es limitado. (justo 16000)"
- },
- {
   "fecha": "2026-11-06T17:30:00.172032+00:00",
   "marca": "Rolex",
   "titulo": "Rolex GMT-Master II Pepsi Steel 40mm 126710BLRO 2020 Box Papers",
@@ -11051,5 +10994,62 @@
    "nota": "Precio pedido de US$4700 está muy por encima del valor de mercado usado de esta referencia, aunque sea de 'buen' estado."
   },
   "motivo": "triage: Precio pedido de US$4700 está muy por encima del valor de mercado usado de esta referencia, aunque sea de 'buen' estado. (justo 3400)"
+ },
+ {
+  "fecha": "2026-11-09T23:02:26.878124+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 126720VTNR GMT-Master II Lefty \"Sprite\" 40mm Jubilee Box and Papers 2026",
+  "total": 18900.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800897838165",
+  "item_id": "v1|800897838165|0",
+  "referencia": "126720VTNR",
+  "mercado": {
+   "n": 61,
+   "p25": 18250,
+   "mediana": 18950
+  },
+  "ratio_mercado": 1.036,
+  "motivo": "precio normal (104 % del cuartil bajo de 126720VTNR)"
+ },
+ {
+  "fecha": "2026-11-09T23:02:26.878124+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Pelagos 39 39mm Titanium M25407N-0001",
+  "total": 4895.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880100327681",
+  "item_id": "v1|880100327681|0",
+  "referencia": "M25407N-0001",
+  "mercado": {
+   "n": 10,
+   "p25": 4364,
+   "mediana": 4644
+  },
+  "ratio_mercado": 1.122,
+  "motivo": "precio normal (112 % del cuartil bajo de M25407N-0001)"
+ },
+ {
+  "fecha": "2026-11-09T23:02:26.878124+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Steel Gold Auto 36mm Black Diamond Bracelet Watch 79653",
+  "total": 7950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940079348352",
+  "item_id": "v1|940079348352|0",
+  "referencia": "79653",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay S&G 36 mm (acero y oro amarillo, esfera negra, bisel dorado)",
+   "referencia": "79653",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "Precio pedido de US$7,950 muy por encima del valor de mercado de esta referencia (~US$4,000-4,600 usado en excelente estado). El título menciona 'Black Diamond', que no es una designación oficial de Tudor; verificar la pieza."
+  },
+  "motivo": "triage: Precio pedido de US$7,950 muy por encima del valor de mercado de esta referencia (~US$4,000-4,600 usado en excelente estado). El título menciona 'Black Diamond', que no es una designación oficial de Tudor; verificar la pieza. (justo 4300)"
  }
 ]
