@@ -2,63 +2,6 @@
  {
   "fecha": "2026-11-06T16:59:59.863279+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Santos 40mm WSSA0018 Stainless Steel Men's Watch",
-  "total": 9313.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168843629661",
-  "item_id": "v1|168843629661|0",
-  "referencia": "WSSA0018",
-  "mercado": {
-   "n": 31,
-   "p25": 8175,
-   "mediana": 9999
-  },
-  "ratio_mercado": 1.139,
-  "motivo": "precio normal (114 % del cuartil bajo de WSSA0018)"
- },
- {
-  "fecha": "2026-11-06T16:59:59.863279+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tortue 34x43mm WA503851 18K White Gold Unisex Watch",
-  "total": 18325.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168843625932",
-  "item_id": "v1|168843625932|0",
-  "referencia": "WA503851",
-  "mercado": {
-   "n": 2,
-   "p25": 14995,
-   "mediana": 16442
-  },
-  "triage": {
-   "modelo": "Cartier Tortue (Large, 34x43 mm, bisel de diamantes, oro blanco 18K)",
-   "referencia": "WA503851",
-   "precio_justo_usd": 16500,
-   "interesante": false,
-   "nota": "Precio pedido algo por encima de la estimación conservadora de venta cerrada; sin ahorro claro de al menos 15 %."
-  },
-  "motivo": "triage: Precio pedido algo por encima de la estimación conservadora de venta cerrada; sin ahorro claro de al menos 15 %. (justo 16500)"
- },
- {
-  "fecha": "2026-11-06T16:59:59.863279+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Roadster 44mmx38.5mm W62031Y4 Stainless Steel Unisex Watch",
-  "total": 7323.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840100834951",
-  "item_id": "v1|840100834951|0",
-  "triage": {
-   "modelo": "Cartier Roadster 38.5 mm bicolor (acero y oro rosa), cuarzo",
-   "referencia": "W62031Y4 (según el título; la foto muestra bicolor, no acero)",
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "El título dice acero, pero la foto muestra bicolor acero/oro, que se vende más caro; aun así, US$7,323 está muy por encima del valor de mercado para un Roadster de cuarzo en estado Good."
-  },
-  "motivo": "triage: El título dice acero, pero la foto muestra bicolor acero/oro, que se vende más caro; aun así, US$7,323 está muy por encima del valor de mercado para un Roadster de cuarzo en estado Good. (justo 4500)"
- },
- {
-  "fecha": "2026-11-06T16:59:59.863279+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Ballon Bleu 28mm WGBB0007 18K Rose Gold Women's Watch",
   "total": 6790.0,
   "condicion": "Pre-owned - Good",
@@ -11075,5 +11018,62 @@
   },
   "ratio_mercado": 1.205,
   "motivo": "precio normal (121 % del cuartil bajo de 126710BLRO)"
+ },
+ {
+  "fecha": "2026-11-09T22:32:27.308335+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 New Rolex Oyster Perpetual 41mm Lavender - Stainless Steel Reference 134300",
+  "total": 14510.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/267839004919",
+  "item_id": "v1|267839004919|0",
+  "referencia": "134300",
+  "mercado": {
+   "n": 43,
+   "p25": 11299,
+   "mediana": 12098
+  },
+  "ratio_mercado": 1.284,
+  "motivo": "precio normal (128 % del cuartil bajo de 134300)"
+ },
+ {
+  "fecha": "2026-11-09T22:32:27.308335+00:00",
+  "marca": "Rolex",
+  "titulo": ": Rolex Submariner Starbucks 126610LV 2023",
+  "total": 14500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920123407835",
+  "item_id": "v1|920123407835|0",
+  "referencia": "126610LV",
+  "mercado": {
+   "n": 73,
+   "p25": 15550,
+   "mediana": 16000
+  },
+  "ratio_mercado": 0.932,
+  "motivo": "precio normal (93 % del cuartil bajo de 126610LV)"
+ },
+ {
+  "fecha": "2026-11-09T22:32:27.308335+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ronde Must de Cartier 40mm Dress Watch WSRN0032 Ref. 4440",
+  "total": 3549.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168851071524",
+  "item_id": "v1|168851071524|0",
+  "referencia": "WSRN0032",
+  "mercado": {
+   "n": 3,
+   "p25": 4000,
+   "mediana": 4225
+  },
+  "triage": {
+   "modelo": "Cartier Ronde Must de Cartier 40mm automático (esfera plateada, numerales romanos, fecha a las 3)",
+   "referencia": "WSRN0032 (el título menciona 'Ref. 4440', que no coincide con el formato Cartier; verificar)",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del rango de venta cerrada para acero usado en condición Good; la referencia del título es inconsistente y conviene verificarla antes de comprar."
+  },
+  "motivo": "triage: Precio pedido por encima del rango de venta cerrada para acero usado en condición Good; la referencia del título es inconsistente y conviene verificarla antes de comprar. (justo 3000)"
  }
 ]
