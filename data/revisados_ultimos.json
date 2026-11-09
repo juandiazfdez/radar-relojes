@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-05T23:29:29.457714+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 41mm Oyster Bracelet 126610LN B&P 2026",
-  "total": 23095.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128177784487",
-  "item_id": "v1|128177784487|0",
-  "referencia": "126610LN",
-  "mercado": {
-   "n": 81,
-   "p25": 14500,
-   "mediana": 14995
-  },
-  "ratio_mercado": 1.593,
-  "motivo": "precio normal (159 % del cuartil bajo de 126610LN)"
- },
- {
-  "fecha": "2026-11-05T23:29:29.457714+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 40mm Batman Oyster Bracelet 126710BLNR B&P 2025",
-  "total": 21095.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128177784111",
-  "item_id": "v1|128177784111|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 67,
-   "p25": 18200,
-   "mediana": 18900
-  },
-  "ratio_mercado": 1.159,
-  "motivo": "precio normal (116 % del cuartil bajo de 126710BLNR)"
- },
- {
-  "fecha": "2026-11-05T23:29:29.457714+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex GMT-Master II 40mm Batman Oyster Bracelet 126710BLNR B&P 2022",
   "total": 21095.0,
   "condicion": "Pre-owned - Excellent",
@@ -11043,5 +11009,51 @@
    "nota": "La foto solo muestra caja y papeles, sin el reloj; el precio pedido queda por encima del mercado gris para un modelo nuevo de oro 18K."
   },
   "motivo": "triage: La foto solo muestra caja y papeles, sin el reloj; el precio pedido queda por encima del mercado gris para un modelo nuevo de oro 18K. (justo 16000)"
+ },
+ {
+  "fecha": "2026-11-09T04:16:49.016117+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Dumont 1576 pre cpcp 18K Yellow Gold. Cartier Serviced in 2023",
+  "total": 19800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147672726077",
+  "item_id": "v1|147672726077|0",
+  "referencia": "1576",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Santos-Dumont (Dumont) de oro amarillo 18K, cuarzo, pre-CPCP",
+   "referencia": "1576",
+   "precio_justo_usd": 8500,
+   "interesante": false,
+   "nota": "Por la foto parece un Dumont de oro 18K con esfera blanca y correa de cuero; el precio pedido de US$19.800 está muy por encima de lo que se vende este modelo, aunque tenga servicio de 2023."
+  },
+  "motivo": "triage: Por la foto parece un Dumont de oro 18K con esfera blanca y correa de cuero; el precio pedido de US$19.800 está muy por encima de lo que se vende este modelo, aunque tenga servicio de 2023. (justo 8500)"
+ },
+ {
+  "fecha": "2026-11-09T04:16:49.016117+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 79220N Full Box and Papers",
+  "total": 4750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147672758656",
+  "item_id": "v1|147672758656|0",
+  "referencia": "79220N",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay Fifty-Eight (39 mm, esfera negra, brazalete de acero)",
+   "referencia": "79220N (según el título; no verificable con la foto)",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "Pedido de US$4.750 está muy por encima del precio de venta real de este modelo usado con caja y papeles (aprox. US$3.200-3.600)."
+  },
+  "motivo": "triage: Pedido de US$4.750 está muy por encima del precio de venta real de este modelo usado con caja y papeles (aprox. US$3.200-3.600). (justo 3400)"
  }
 ]
