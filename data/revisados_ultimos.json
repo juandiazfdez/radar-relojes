@@ -1,79 +1,5 @@
 [
  {
-  "fecha": "2026-11-05T23:14:28.603293+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay 58 GMT 39mm Stainless Steel M7939G1A0NRU-0003",
-  "total": 5195.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880087109802",
-  "item_id": "v1|880087109802|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 GMT 39mm, acero, bisel rojo/negro, brazalete Jubilee",
-   "referencia": "M7939G1A0NRU-0003",
-   "precio_justo_usd": 3900,
-   "interesante": false,
-   "nota": "Producción actual nueva con caja y papeles; el precio pedido de US$5,195 está por encima del retail y del mercado gris, que ronda los US$3,800-4,300."
-  },
-  "motivo": "triage: Producción actual nueva con caja y papeles; el precio pedido de US$5,195 está por encima del retail y del mercado gris, que ronda los US$3,800-4,300. (justo 3900)"
- },
- {
-  "fecha": "2026-11-05T23:14:28.603293+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Clair de Rose 30mm Stainless Steel M35500-0009",
-  "total": 2695.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880087107938",
-  "item_id": "v1|880087107938|0",
-  "referencia": "M35500-0009",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Tudor Clair de Rose 30mm acero, esfera azul, brazalete de eslabones (la imagen no muestra con claridad el diamante ni el detalle de la esfera)",
-   "referencia": "M35500-0009",
-   "precio_justo_usd": 2400,
-   "interesante": false,
-   "nota": "Precio pedido a unos 10 % del retail, dentro del rango normal de descuento en mercado gris para Tudor nuevo con caja y papeles; no cumple el umbral del 15 %."
-  },
-  "motivo": "triage: Precio pedido a unos 10 % del retail, dentro del rango normal de descuento en mercado gris para Tudor nuevo con caja y papeles; no cumple el umbral del 15 %. (justo 2400)"
- },
- {
-  "fecha": "2026-11-05T23:29:29.457714+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 41mm Oyster Bracelet 126610LN B&P 2025",
-  "total": 22095.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128177784639",
-  "item_id": "v1|128177784639|0",
-  "referencia": "126610LN",
-  "mercado": {
-   "n": 81,
-   "p25": 14500,
-   "mediana": 14995
-  },
-  "ratio_mercado": 1.524,
-  "motivo": "precio normal (152 % del cuartil bajo de 126610LN)"
- },
- {
-  "fecha": "2026-11-05T23:29:29.457714+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 41mm Oyster Bracelet 126610LN B&P 2026",
-  "total": 23095.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128177784629",
-  "item_id": "v1|128177784629|0",
-  "referencia": "126610LN",
-  "mercado": {
-   "n": 81,
-   "p25": 14500,
-   "mediana": 14995
-  },
-  "ratio_mercado": 1.593,
-  "motivo": "precio normal (159 % del cuartil bajo de 126610LN)"
- },
- {
   "fecha": "2026-11-05T23:29:29.457714+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Submariner Date 41mm Oyster Bracelet 126610LN B&P 2026",
@@ -11037,5 +10963,85 @@
   },
   "ratio_mercado": 1.071,
   "motivo": "precio normal (107 % del cuartil bajo de 116233)"
+ },
+ {
+  "fecha": "2026-11-09T03:46:49.472260+00:00",
+  "marca": "Rolex",
+  "titulo": "VINTAGE LADIES ROLEX OYSTER PERPETUAL DATE 6517 AUTOMATIC WRISTWATCH 18K GOLD",
+  "total": 5900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820333407171",
+  "item_id": "v1|820333407171|0",
+  "referencia": "6517",
+  "mercado": {
+   "n": 22,
+   "p25": 3950,
+   "mediana": 4625
+  },
+  "ratio_mercado": 1.494,
+  "motivo": "precio normal (149 % del cuartil bajo de 6517)"
+ },
+ {
+  "fecha": "2026-11-09T03:46:49.472260+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 CPO Rolex Yacht Master II 116680 Mercedes Hand Blue Ceramic Steel Box Paper",
+  "total": 17995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880083496548",
+  "item_id": "v1|880083496548|0",
+  "referencia": "116680",
+  "mercado": {
+   "n": 29,
+   "p25": 17950,
+   "mediana": 18987
+  },
+  "ratio_mercado": 1.003,
+  "motivo": "precio normal (100 % del cuartil bajo de 116680)"
+ },
+ {
+  "fecha": "2026-11-09T03:46:49.472260+00:00",
+  "marca": "Cartier",
+  "titulo": "Authentic Cartier Santos de Cartier Large WSSA0062 Iced Out",
+  "total": 7070.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237172464842",
+  "item_id": "v1|237172464842|0",
+  "referencia": "WSSA0062",
+  "mercado": {
+   "n": 4,
+   "p25": 8000,
+   "mediana": 8272
+  },
+  "triage": {
+   "modelo": "Cartier Santos de Cartier Large (versión con diamantes/iced out)",
+   "referencia": "WSSA0062 (según el título; no confirmable en la foto)",
+   "precio_justo_usd": 8000,
+   "interesante": false,
+   "nota": "El título mezcla referencia de acero con 'iced out' y la foto no permite verificar autenticidad ni la configuración de diamantes. Aun con el precio pedido, el descuento frente al valor estimado es inferior al 15 %."
+  },
+  "motivo": "triage: El título mezcla referencia de acero con 'iced out' y la foto no permite verificar autenticidad ni la configuración de diamantes. Aun con el precio pedido, el descuento frente al valor estimado es inferior al 15 %. (justo 8000)"
+ },
+ {
+  "fecha": "2026-11-09T03:46:49.472260+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Glamour Double Date 42mm  Diamond SS 57100 FREE SHIP!",
+  "total": 2255.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840109230374",
+  "item_id": "v1|840109230374|0",
+  "referencia": "57100",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Glamour Double Date 42 mm, acero, esfera plateada con marcadores dorados",
+   "referencia": "57100 (según título; no verificable en la foto)",
+   "precio_justo_usd": 2500,
+   "interesante": false,
+   "nota": "Precio pedido unos 10 % por debajo de la estimación conservadora; estado 'Good' y sin confirmar caja/papeles, así que no alcanza el umbral del 15 %."
+  },
+  "motivo": "triage: Precio pedido unos 10 % por debajo de la estimación conservadora; estado 'Good' y sin confirmar caja/papeles, así que no alcanza el umbral del 15 %. (justo 2500)"
  }
 ]
