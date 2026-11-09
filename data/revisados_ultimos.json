@@ -1,69 +1,6 @@
 [
  {
   "fecha": "2026-11-06T14:45:00.111992+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41 18k Yellow Gold/Steel Wimbledon Watch +Papers '19 126303",
-  "total": 15450.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366790417406",
-  "item_id": "v1|366790417406|0",
-  "referencia": "126303",
-  "mercado": {
-   "n": 13,
-   "p25": 14400,
-   "mediana": 15009
-  },
-  "ratio_mercado": 1.073,
-  "motivo": "precio normal (107 % del cuartil bajo de 126303)"
- },
- {
-  "fecha": "2026-11-06T14:45:00.111992+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date President 18k Yellow Gold Bark Diamond 36mm Watch W 18308",
-  "total": 22900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366790417411",
-  "item_id": "v1|366790417411|0",
-  "referencia": "18308",
-  "mercado": {
-   "n": 2,
-   "p25": 23400,
-   "mediana": 24245
-  },
-  "triage": {
-   "modelo": "Rolex Day-Date 36 President, oro amarillo 18k con acabado bark y bisel de diamantes, esfera blanca con números romanos",
-   "referencia": "18308",
-   "precio_justo_usd": 24000,
-   "interesante": false,
-   "nota": "Precio pedido unos 5 % por debajo de la estimación de venta cerrada; sin caja ni papeles visibles, y la referencia exacta y el estado deben verificarse."
-  },
-  "motivo": "triage: Precio pedido unos 5 % por debajo de la estimación de venta cerrada; sin caja ni papeles visibles, y la referencia exacta y el estado deben verificarse. (justo 24000)"
- },
- {
-  "fecha": "2026-11-06T14:45:00.111992+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 36mm Rose Gold/Steel Diamond Automatic Watch W3BB0013 3754",
-  "total": 11650.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117507966334",
-  "item_id": "v1|117507966334|0",
-  "referencia": "W3BB0013",
-  "mercado": {
-   "n": 1,
-   "p25": 9025,
-   "mediana": 9025
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 36mm automático, acero y oro rosa, esfera plateada con marcadores de diamantes",
-   "referencia": "W3BB0013",
-   "precio_justo_usd": 7000,
-   "interesante": false,
-   "nota": "Precio pedido de US$11,650 muy por encima del valor de venta cerrada para esta referencia bicolor usada; la referencia y el estado deben verificarse."
-  },
-  "motivo": "triage: Precio pedido de US$11,650 muy por encima del valor de venta cerrada para esta referencia bicolor usada; la referencia y el estado deben verificarse. (justo 7000)"
- },
- {
-  "fecha": "2026-11-06T14:45:00.111992+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos 100 XL Chrono 18k YG/Steel Mens Automatic Watch W20091X7 2740",
   "total": 9650.0,
@@ -11097,5 +11034,69 @@
    "nota": "Precio pedido en línea con el mercado para 25610TNL usado con caja y papeles. En la foto la pulsera parece de acero; verificar material del brazalete y el lado de la corona."
   },
   "motivo": "triage: Precio pedido en línea con el mercado para 25610TNL usado con caja y papeles. En la foto la pulsera parece de acero; verificar material del brazalete y el lado de la corona. (justo 4100)"
+ },
+ {
+  "fecha": "2026-11-09T19:32:17.681344+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex Oyster Perpetual 36, 126000, 36mm, Jubilee Motif Dial, Oyster Brac...",
+  "total": 19461.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800897382285",
+  "item_id": "v1|800897382285|0",
+  "referencia": "126000",
+  "mercado": {
+   "n": 36,
+   "p25": 11229,
+   "mediana": 12421
+  },
+  "ratio_mercado": 1.733,
+  "motivo": "precio normal (173 % del cuartil bajo de 126000)"
+ },
+ {
+  "fecha": "2026-11-09T19:32:17.681344+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 126622 Yacht-Master 40 DARK RHODIUM & Ice Blue Arrow Stainless Steel 40mm",
+  "total": 14500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237173763498",
+  "item_id": "v1|237173763498|0",
+  "referencia": "126622",
+  "mercado": {
+   "n": 21,
+   "p25": 14975,
+   "mediana": 15995
+  },
+  "ratio_mercado": 0.968,
+  "motivo": "precio normal (97 % del cuartil bajo de 126622)"
+ },
+ {
+  "fecha": "2026-11-09T19:32:17.681344+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR 1926 M91550-0005 - 2026 - Box & Papers",
+  "total": 2049.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840111718819",
+  "item_id": "v1|840111718819|0",
+  "referencia": "M91550-0005",
+  "mercado": {
+   "n": 2,
+   "p25": 2475,
+   "mediana": 2562
+  },
+  "triage": {
+   "modelo": "Tudor 1926 39 mm (esfera plateada, índices aplicados con numerales arábigos, brazalete de acero)",
+   "referencia": "M91550-0005",
+   "precio_justo_usd": 2450,
+   "interesante": true,
+   "nota": "Precio ~16 % bajo el valor estimado de mercado gris para caja y papeles; el margen es modesto, verificar autenticidad, estado real y papeles antes de comprar."
+  },
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 2150,
+   "riesgo_autenticidad": "bajo",
+   "estado": "Aparentemente casi nuevo, sin desgaste visible en caja, cristal ni brazalete; con caja y tarjeta de garantía"
+  },
+  "ratio_justo": 0.953,
+  "motivo": "precio normal segun revision (95 % del justo 2150)"
  }
 ]
