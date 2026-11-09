@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-05T23:14:28.603293+00:00",
   "marca": "Tudor",
-  "titulo": "2026 Tudor Royal 36mm Stainless Steel M2836C1A0-0102",
-  "total": 3295.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880087114693",
-  "item_id": "v1|880087114693|0",
-  "triage": {
-   "modelo": "Tudor Royal (acero, esfera azul, brazalete integrado)",
-   "referencia": "M2836C1A0-0102 (según el título; no verificable en la imagen)",
-   "precio_justo_usd": 3050,
-   "interesante": false,
-   "nota": "Precio pedido por encima de la estimación de mercado gris para Royal nuevo con caja y papeles; no cumple el umbral del 15 % de descuento."
-  },
-  "motivo": "triage: Precio pedido por encima de la estimación de mercado gris para Royal nuevo con caja y papeles; no cumple el umbral del 15 % de descuento. (justo 3050)"
- },
- {
-  "fecha": "2026-11-05T23:14:28.603293+00:00",
-  "marca": "Tudor",
   "titulo": "2026 Tudor Northflag 40mm Stainless Steel M9140G1A0U-0001",
   "total": 5895.0,
   "condicion": "New with box and papers",
@@ -11017,5 +11000,22 @@
   },
   "ratio_justo": 1.016,
   "motivo": "precio normal segun revision (102 % del justo 3050)"
+ },
+ {
+  "fecha": "2026-11-09T00:31:49.329270+00:00",
+  "marca": "Rolex",
+  "titulo": "\"Vintage 1950s Rolex Oyster Perpetual 6567 18k Gold Dauphine Block Markers Runs\"",
+  "total": 5900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237172237014",
+  "item_id": "v1|237172237014|0",
+  "referencia": "6567",
+  "mercado": {
+   "n": 5,
+   "p25": 5950,
+   "mediana": 7490
+  },
+  "ratio_mercado": 0.992,
+  "motivo": "precio normal (99 % del cuartil bajo de 6567)"
  }
 ]
