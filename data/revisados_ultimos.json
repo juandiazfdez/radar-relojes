@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-05T23:14:28.603293+00:00",
   "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay 68 43mm Stainless Steel M7943A1A0NU-0002",
-  "total": 4695.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880087114969",
-  "item_id": "v1|880087114969|0",
-  "triage": {
-   "modelo": "Tudor Black Bay (estilo Black Bay 58, esfera plateada, bisel gris, brazalete de acero)",
-   "referencia": null,
-   "precio_justo_usd": 3600,
-   "interesante": false,
-   "nota": "El precio pedido supera el retail de un Black Bay de acero nuevo; la referencia y los 43 mm del título no encajan con el reloj de la foto."
-  },
-  "motivo": "triage: El precio pedido supera el retail de un Black Bay de acero nuevo; la referencia y los 43 mm del título no encajan con el reloj de la foto. (justo 3600)"
- },
- {
-  "fecha": "2026-11-05T23:14:28.603293+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Ranger 39mm Stainless Steel M79950-0008",
-  "total": 4295.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880087114852",
-  "item_id": "v1|880087114852|0",
-  "referencia": "M79950-0008",
-  "mercado": {
-   "n": 5,
-   "p25": 3415,
-   "mediana": 3500
-  },
-  "ratio_mercado": 1.258,
-  "motivo": "precio normal (126 % del cuartil bajo de M79950-0008)"
- },
- {
-  "fecha": "2026-11-05T23:14:28.603293+00:00",
-  "marca": "Tudor",
   "titulo": "2026 Tudor Royal 36mm Stainless Steel M2836C1A0-0102",
   "total": 3295.0,
   "condicion": "New with box and papers",
@@ -11010,5 +10976,46 @@
    "nota": "Si la caja es chapada en oro o gold-filled, el precio de venta cerrada suele ser bajo; el precio pedido está por encima de ese rango. Sin ver el reverso ni confirmar el material, no hay margen claro de compra."
   },
   "motivo": "triage: Si la caja es chapada en oro o gold-filled, el precio de venta cerrada suele ser bajo; el precio pedido está por encima de ese rango. Sin ver el reverso ni confirmar el material, no hay margen claro de compra. (justo 1200)"
+ },
+ {
+  "fecha": "2026-11-09T00:16:48.902584+00:00",
+  "marca": "Cartier",
+  "titulo": "Men's Cartier Steel Pasha De Cartier 38mm grid watch",
+  "total": 15000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840108767043",
+  "item_id": "v1|840108767043|0",
+  "triage": {
+   "modelo": "Cartier Pasha de Cartier 38 mm, esfera tipo rejilla (grid), acero",
+   "referencia": "Posiblemente W31089M7 (no se distingue con certeza en la imagen)",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio pedido de US$15.000 muy por encima del mercado secundario para este modelo de acero; el precio justo estimado es de unos US$4.000 según estado, caja y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$15.000 muy por encima del mercado secundario para este modelo de acero; el precio justo estimado es de unos US$4.000 según estado, caja y papeles. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-09T00:16:48.902584+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay Fifty-Eight 39mm Watch Black Dial, Steel Case, 79030N",
+  "total": 3100.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840108728889",
+  "item_id": "v1|840108728889|0",
+  "referencia": "79030N",
+  "mercado": {
+   "n": 13,
+   "p25": 3840,
+   "mediana": 3971
+  },
+  "ratio_mercado": 0.807,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 3050,
+   "riesgo_autenticidad": "medio",
+   "estado": "Bueno, con desgaste visible en brazalete, laterales y fondo de caja; cristal limpio"
+  },
+  "ratio_justo": 1.016,
+  "motivo": "precio normal segun revision (102 % del justo 3050)"
  }
 ]
