@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-05T23:14:28.603293+00:00",
   "marca": "Tudor",
-  "titulo": "2026 Tudor Royal 36mm Stainless Steel M2836C1A0-0105",
-  "total": 3295.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880087111157",
-  "item_id": "v1|880087111157|0",
-  "triage": {
-   "modelo": "Tudor Royal (esfera salmón, bisel de acero, brazalete de eslabones, ventana de fecha)",
-   "referencia": "null",
-   "precio_justo_usd": 3400,
-   "interesante": false,
-   "nota": "El precio pedido (US$3295) está cerca del mercado gris para un Royal nuevo con caja y papeles, sin descuento de ≥15%. El título dice 36 mm, que no coincide con las medidas oficiales de la línea Royal; verifica la referencia y el tamaño antes de comprar."
-  },
-  "motivo": "triage: El precio pedido (US$3295) está cerca del mercado gris para un Royal nuevo con caja y papeles, sin descuento de ≥15%. El título dice 36 mm, que no coincide con las medidas oficiales de la línea Royal; verifica la referencia y el tamaño antes de comprar. (justo 3400)"
- },
- {
-  "fecha": "2026-11-05T23:14:28.603293+00:00",
-  "marca": "Tudor",
   "titulo": "2026 Tudor 1926 Luna 39mm Stainless Steel M91560-0001",
   "total": 2595.0,
   "condicion": "New with box and papers",
@@ -11030,5 +11013,35 @@
    "nota": "Tudor Prince vintage con caja chapada en oro y esfera crema; sin referencia verificable en la foto. Precio pedido por encima del rango de venta cerrada para este estado."
   },
   "motivo": "triage: Tudor Prince vintage con caja chapada en oro y esfera crema; sin referencia verificable en la foto. Precio pedido por encima del rango de venta cerrada para este estado. (justo 1100)"
+ },
+ {
+  "fecha": "2026-11-09T03:16:49.427156+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Heritage Black Bay 41 SMILEY With Box And Paper",
+  "total": 2499.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336887701984",
+  "item_id": "v1|336887701984|0",
+  "triage": {
+   "modelo": "Tudor Heritage Black Bay 41 Smiley",
+   "referencia": "M79540 (Smiley, verificar número exacto)",
+   "precio_justo_usd": 3000,
+   "interesante": true,
+   "nota": "Con caja y papeles, a US$2499 queda unos 15-20 % bajo el precio de venta cerrada estimado; verificar número de referencia, serie y correa en fotos antes de comprar."
+  },
+  "referencia": "M79540-0007",
+  "mercado": {
+   "n": 2,
+   "p25": 3425,
+   "mediana": 3712
+  },
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 2900,
+   "riesgo_autenticidad": "medio",
+   "estado": "Aparentemente casi nuevo (2024, tarjeta del 17-10-2024), pero sin foto del fondo de caja ni del cierre"
+  },
+  "ratio_justo": 0.862,
+  "motivo": "precio normal segun revision (86 % del justo 2900)"
  }
 ]
