@@ -1,68 +1,5 @@
 [
  {
-  "fecha": "2026-11-06T10:14:46.880573+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex Oyster Perpetual Date Blue 34mm Automatic Watch Ref 15200",
-  "total": 5006.75,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117507598311",
-  "item_id": "v1|117507598311|0",
-  "referencia": "15200",
-  "mercado": {
-   "n": 17,
-   "p25": 5000,
-   "mediana": 5599
-  },
-  "ratio_mercado": 1.001,
-  "motivo": "precio normal (100 % del cuartil bajo de 15200)"
- },
- {
-  "fecha": "2026-11-06T10:14:46.880573+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Dumont  WSSA0022,Steel,Silver Roman Dial, BOX & PAPERS",
-  "total": 4795.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287708926233",
-  "item_id": "v1|287708926233|0",
-  "referencia": "WSSA0022",
-  "mercado": {
-   "n": 1,
-   "p25": 5015,
-   "mediana": 5015
-  },
-  "triage": {
-   "modelo": "Cartier Santos-Dumont (XL/Large, acero, esfera plateada con números romanos, correa de piel azul)",
-   "referencia": "WSSA0022",
-   "precio_justo_usd": 5800,
-   "interesante": true,
-   "nota": "Precio ~17% bajo estimado de venta real para acero con caja y papeles en condición buena; verificar referencia, tamaño y autenticidad antes de comprar."
-  },
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 3700,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Aparentemente bueno, con ligeros rayones de uso. Esfera, agujas y bisel con tornillos se ven correctos."
-  },
-  "motivo": "Claude descarto: El precio de US$4,795 no es una ganga. El WSSA0022 usado, de acero y cuarzo, con caja y papeles, se vende realmente en torno a US$3,400-4,000. Los dealers lo ofrecen nuevo con 15-35% bajo retail, que es un precio normal. El estimado de US$5,800 del triage parece inflado.; El único comparable (US$5,015) es un precio pedido, no una venta cerrada, y no sirve de ancla. Pagar 4,795 deja poco margen de reventa y dejaría pérdida."
- },
- {
-  "fecha": "2026-11-06T12:29:46.913501+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT Master II “Root Beer” Everose Gold 40mm 126715CHNR – Complete Set",
-  "total": 40500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407344411230",
-  "item_id": "v1|407344411230|0",
-  "referencia": "126715CHNR",
-  "mercado": {
-   "n": 34,
-   "p25": 43000,
-   "mediana": 45475
-  },
-  "ratio_mercado": 0.942,
-  "motivo": "precio normal (94 % del cuartil bajo de 126715CHNR)"
- },
- {
   "fecha": "2026-11-06T12:44:47.507385+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Ronde Solo 36mm , W6701005 Date 30m White Roman SS w/ Box Papers. 2017",
@@ -11091,5 +11028,56 @@
   },
   "ratio_mercado": 1.305,
   "motivo": "precio normal (130 % del cuartil bajo de W6700455)"
+ },
+ {
+  "fecha": "2026-11-09T17:32:16.629976+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Men's Vintage Oyster Perpetual Datejust 36mm Stainless Steel Watch",
+  "total": 3700.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227606082625",
+  "item_id": "v1|227606082625|0",
+  "triage": {
+   "modelo": "Rolex Datejust vintage, acero, esfera negra (posible 36 mm, años 1970)",
+   "referencia": "1601 o 1603 (probable, no verificable en la foto)",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Precio pedido de 3700 supera el valor estimado; la esfera y el estado no se ven con claridad, así que habría que verificar autenticidad, esfera original y servicio."
+  },
+  "motivo": "triage: Precio pedido de 3700 supera el valor estimado; la esfera y el estado no se ven con claridad, así que habría que verificar autenticidad, esfera original y servicio. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-09T17:32:16.629976+00:00",
+  "marca": "Rolex",
+  "titulo": "1992 Tudor rolex 79160 oysterdate big block panda chronograph wrist watch",
+  "total": 4500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237173621391",
+  "item_id": "v1|237173621391|0",
+  "triage": {
+   "modelo": "Tudor Oysterdate Chronograph 'Big Block' panda (Tudor, no Rolex)",
+   "referencia": "79160",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de mercado para 79160 de 1992 en estado Good. El título menciona 'rolex' aunque es un Tudor."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de mercado para 79160 de 1992 en estado Good. El título menciona 'rolex' aunque es un Tudor. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-09T17:32:16.629976+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere Ruban WG3001T7 Diamond 18K Yellow Gold Ladies Watch",
+  "total": 24699.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227606072131",
+  "item_id": "v1|227606072131|0",
+  "triage": {
+   "modelo": "Cartier Panthère Ruban de oro amarillo 18K con bisel de diamantes y esfera de nácar (dama)",
+   "referencia": "WG3001T7 (según título; no verificable en la foto)",
+   "precio_justo_usd": 9000,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de reventa estimado para este modelo en oro amarillo con diamantes; la referencia no se puede confirmar en la imagen."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de reventa estimado para este modelo en oro amarillo con diamantes; la referencia no se puede confirmar en la imagen. (justo 9000)"
  }
 ]
