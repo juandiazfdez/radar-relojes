@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-11-06T12:44:47.507385+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ronde Solo 36mm , W6701005 Date 30m White Roman SS w/ Box Papers. 2017",
-  "total": 2750.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800884470875",
-  "item_id": "v1|800884470875|0",
-  "referencia": "W6701005",
-  "mercado": {
-   "n": 4,
-   "p25": 3645,
-   "mediana": 3770
-  },
-  "triage": {
-   "modelo": "Cartier Ronde Solo de Cartier 36 mm, cuarzo, acero, esfera blanca con números romanos y fecha",
-   "referencia": "W6701005",
-   "precio_justo_usd": 2400,
-   "interesante": false,
-   "nota": "Precio pedido de US$2750 está por encima del valor de venta cerrada para este modelo de 2017 con caja y papeles; no hay descuento significativo."
-  },
-  "motivo": "triage: Precio pedido de US$2750 está por encima del valor de venta cerrada para este modelo de 2017 con caja y papeles; no hay descuento significativo. (justo 2400)"
- },
- {
-  "fecha": "2026-11-06T13:14:47.506835+00:00",
-  "marca": "Rolex",
-  "titulo": "VINTAGE 1963 ROLEX GMT-MASTER 1675 WATCH CASE",
-  "total": 8450.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/800884552632",
-  "item_id": "v1|800884552632|0",
-  "triage": {
-   "modelo": "Rolex GMT-Master (caja desnuda, sin esfera ni movimiento)",
-   "referencia": "1675",
-   "precio_justo_usd": 600,
-   "interesante": false,
-   "nota": "Solo es una caja de acero sin esfera ni movimiento; como pieza suelta vale unos cientos de dólares, y US$8450 es muy superior a ese valor."
-  },
-  "motivo": "triage: Solo es una caja de acero sin esfera ni movimiento; como pieza suelta vale unos cientos de dólares, y US$8450 es muy superior a ese valor. (justo 600)"
- },
- {
   "fecha": "2026-11-06T13:14:47.506835+00:00",
   "marca": "Rolex",
   "titulo": "NEW Rolex Explorer Oyster, 40 mm, Oystersteel Ref. 224270, full set",
@@ -11079,5 +11039,45 @@
    "nota": "Precio pedido muy por encima del valor de reventa estimado para este modelo en oro amarillo con diamantes; la referencia no se puede confirmar en la imagen."
   },
   "motivo": "triage: Precio pedido muy por encima del valor de reventa estimado para este modelo en oro amarillo con diamantes; la referencia no se puede confirmar en la imagen. (justo 9000)"
+ },
+ {
+  "fecha": "2026-11-09T17:47:17.305940+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere W25028B8 Three Row Midsize Ladies Watch",
+  "total": 9199.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237173650861",
+  "item_id": "v1|237173650861|0",
+  "triage": {
+   "modelo": "Cartier Panthère de Cartier, tamaño mediano, acero y oro amarillo, brazalete de tres filas, cuarzo",
+   "referencia": "W25028B8",
+   "precio_justo_usd": 4200,
+   "interesante": false,
+   "nota": "Precio pedido de US$9.199 muy por encima del valor de venta real de este modelo bicolor en buen estado, estimado en unos US$3.500-4.500."
+  },
+  "motivo": "triage: Precio pedido de US$9.199 muy por encima del valor de venta real de este modelo bicolor en buen estado, estimado en unos US$3.500-4.500. (justo 4200)"
+ },
+ {
+  "fecha": "2026-11-09T17:47:17.305940+00:00",
+  "marca": "Tudor",
+  "titulo": "Brand New Tudor Ranger 36mm Ref. M79930 Complete Set",
+  "total": 3605.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/960175295573",
+  "item_id": "v1|960175295573|0",
+  "referencia": "M79930",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Ranger 36mm",
+   "referencia": "M79930",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Precio pedido de US$3605 con envío, por encima del estimado de venta real (~US$3200) para un Ranger 36mm nuevo con papeles; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido de US$3605 con envío, por encima del estimado de venta real (~US$3200) para un Ranger 36mm nuevo con papeles; no hay descuento suficiente. (justo 3200)"
  }
 ]
