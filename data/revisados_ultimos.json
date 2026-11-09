@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-05T23:29:29.457714+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 40mm Batman Jubilee Bracelet 126710BLNR B&P 2026",
-  "total": 21495.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128177783464",
-  "item_id": "v1|128177783464|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 67,
-   "p25": 18200,
-   "mediana": 18900
-  },
-  "ratio_mercado": 1.181,
-  "motivo": "precio normal (118 % del cuartil bajo de 126710BLNR)"
- },
- {
-  "fecha": "2026-11-05T23:29:29.457714+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 40mm Root Beer Two Tone Oyster Bracelet 126711CHNR B&P 2024",
-  "total": 22495.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128177783455",
-  "item_id": "v1|128177783455|0",
-  "referencia": "126711CHNR",
-  "mercado": {
-   "n": 92,
-   "p25": 20589,
-   "mediana": 21498
-  },
-  "ratio_mercado": 1.093,
-  "motivo": "precio normal (109 % del cuartil bajo de 126711CHNR)"
- },
- {
-  "fecha": "2026-11-05T23:29:29.457714+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex GMT-Master II 40mm Root Beer Two Tone Oyster Bracelet 126711CHNR B&P 2024",
   "total": 22495.0,
   "condicion": "Pre-owned - Excellent",
@@ -11073,5 +11039,39 @@
    "nota": "Esfera rosa y bisel burdeos no corresponden a producción estándar de Rolex; posible modificación, réplica o homenaje. Sin referencia ni papeles verificables, no se puede confirmar autenticidad."
   },
   "motivo": "triage: Esfera rosa y bisel burdeos no corresponden a producción estándar de Rolex; posible modificación, réplica o homenaje. Sin referencia ni papeles verificables, no se puede confirmar autenticidad. (justo 1500)"
+ },
+ {
+  "fecha": "2026-11-09T12:17:07.738138+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Cellini Vintage 18K White Gold / Leather Watch",
+  "total": 3861.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267838538592",
+  "item_id": "v1|267838538592|0",
+  "triage": {
+   "modelo": "Rolex Cellini Cellinium vintage, oro blanco 18K, esfera degradada azul, correa de piel",
+   "referencia": "Probablemente 4084 o similar (no confirmable en la imagen)",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para un Cellini vintage de oro blanco 18K en estado Good; el descuento no llega al 15 % y la referencia exacta no se puede verificar en la foto."
+  },
+  "motivo": "triage: Precio cercano al mercado para un Cellini vintage de oro blanco 18K en estado Good; el descuento no llega al 15 % y la referencia exacta no se puede verificar en la foto. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-09T12:17:07.738138+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Automatic Stainless Steel Watch",
+  "total": 4100.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820334782468",
+  "item_id": "v1|820334782468|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual vintage (esfera plateada, indices de barra, bisel liso, brazalete Oyster)",
+   "referencia": "1002 (probable, sin confirmar)",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Parece un OP vintage de los años 60-70 en acero, pero la referencia y la generación no se ven con claridad. Con esa incertidumbre, el precio de US$4,100 está por encima del rango de venta cerrada estimado."
+  },
+  "motivo": "triage: Parece un OP vintage de los años 60-70 en acero, pero la referencia y la generación no se ven con claridad. Con esa incertidumbre, el precio de US$4,100 está por encima del rango de venta cerrada estimado. (justo 3000)"
  }
 ]
