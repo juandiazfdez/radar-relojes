@@ -1,57 +1,6 @@
 [
  {
   "fecha": "2026-11-06T16:44:59.824482+00:00",
-  "marca": "Rolex",
-  "titulo": "2024 Rolex Day-Date 40 228235 Olive Green 18K Rose Gold 40mm Watch Box Papers",
-  "total": 57308.42,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960162728254",
-  "item_id": "v1|960162728254|0",
-  "referencia": "228235",
-  "mercado": {
-   "n": 50,
-   "p25": 52999,
-   "mediana": 56700
-  },
-  "ratio_mercado": 1.081,
-  "motivo": "precio normal (108 % del cuartil bajo de 228235)"
- },
- {
-  "fecha": "2026-11-06T16:44:59.824482+00:00",
-  "marca": "Rolex",
-  "titulo": "2025 Rolex GMT-Master II Batman 126710 BLNR Black Jubilee 40mm Watch Box Papers",
-  "total": 20078.79,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960162728262",
-  "item_id": "v1|960162728262|0",
-  "referencia": "126710",
-  "mercado": {
-   "n": 28,
-   "p25": 17294,
-   "mediana": 17940
-  },
-  "ratio_mercado": 1.161,
-  "motivo": "precio normal (116 % del cuartil bajo de 126710)"
- },
- {
-  "fecha": "2026-11-06T16:44:59.824482+00:00",
-  "marca": "Rolex",
-  "titulo": "2024 Rolex Day-Date 40 228235 Slate Ombre 18K Rose Gold 40mm Watch Box Papers",
-  "total": 63428.02,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960162728265",
-  "item_id": "v1|960162728265|0",
-  "referencia": "228235",
-  "mercado": {
-   "n": 50,
-   "p25": 52999,
-   "mediana": 56700
-  },
-  "ratio_mercado": 1.197,
-  "motivo": "precio normal (120 % del cuartil bajo de 228235)"
- },
- {
-  "fecha": "2026-11-06T16:44:59.824482+00:00",
   "marca": "Cartier",
   "titulo": "2020 Cartier Ronde Croisière 3886 / WSRN0003 Steel 42mm Watch Box Papers",
   "total": 3758.3,
@@ -11075,5 +11024,62 @@
   },
   "ratio_mercado": 0.98,
   "motivo": "precio normal (98 % del cuartil bajo de 126505)"
+ },
+ {
+  "fecha": "2026-11-09T21:47:17.474141+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1930/40s Rolex 9K Yellow Gold Mechanical Dress Watch 30mm",
+  "total": 14500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960175975383",
+  "item_id": "v1|960175975383|0",
+  "triage": {
+   "modelo": "Reloj de pulsera dorado con brazalete integrado; no se distinguen logotipo de Rolex ni referencia en la foto",
+   "referencia": null,
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "La foto no muestra marcas Rolex ni detalles de caja o esfera que permitan confirmar el modelo, y el precio pedido supera con creces el valor típico de un Rolex de oro amarillo de 9K de los años 30-40. Pedir fotos de la caja, la esfera y el movimiento antes de considerarlo."
+  },
+  "motivo": "triage: La foto no muestra marcas Rolex ni detalles de caja o esfera que permitan confirmar el modelo, y el precio pedido supera con creces el valor típico de un Rolex de oro amarillo de 9K de los años 30-40. Pedir fotos de la caja, la esfera y el movimiento antes de considerarlo. (justo 5000)"
+ },
+ {
+  "fecha": "2026-11-09T21:47:17.474141+00:00",
+  "marca": "Cartier",
+  "titulo": "1970's Vintage Vermeil Cartier Must de Tank Vermeil Small Model - Serviced",
+  "total": 3050.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407351692754",
+  "item_id": "v1|407351692754|0",
+  "triage": {
+   "modelo": "Cartier Must de Tank vermeil (modelo pequeño, años 70)",
+   "referencia": null,
+   "precio_justo_usd": 1800,
+   "interesante": false,
+   "nota": "Vermeil pequeño de cuarzo o cuerda, esfera crema con romanos; el precio pedido de US$3050 supera lo que se vende normalmente en EE. UU. para esta pieza."
+  },
+  "motivo": "triage: Vermeil pequeño de cuarzo o cuerda, esfera crema con romanos; el precio pedido de US$3050 supera lo que se vende normalmente en EE. UU. para esta pieza. (justo 1800)"
+ },
+ {
+  "fecha": "2026-11-09T21:47:17.474141+00:00",
+  "marca": "Cartier",
+  "titulo": "Vintage 24mm Cartier Tank Basculante Quartz Wristwatch 059 Stainless Steel 2405",
+  "total": 6893.83,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147673658587",
+  "item_id": "v1|147673658587|0",
+  "referencia": "2405",
+  "mercado": {
+   "n": 1,
+   "p25": 6623,
+   "mediana": 6623
+  },
+  "triage": {
+   "modelo": "Cartier Tank Basculante (cuarzo, acero)",
+   "referencia": "2405",
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Tank Basculante de acero y cuarzo de la serie vintage; el precio pedido de US$6.894 está muy por encima de lo que se vende realmente, sin llegar a ser oportunidad."
+  },
+  "motivo": "triage: Tank Basculante de acero y cuarzo de la serie vintage; el precio pedido de US$6.894 está muy por encima de lo que se vende realmente, sin llegar a ser oportunidad. (justo 2800)"
  }
 ]
