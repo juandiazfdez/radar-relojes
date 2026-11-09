@@ -5,23 +5,6 @@
   "titulo": "Rolex Submariner Date 41mm Oyster Bracelet 126610LN B&P 2026",
   "total": 23095.0,
   "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128177784495",
-  "item_id": "v1|128177784495|0",
-  "referencia": "126610LN",
-  "mercado": {
-   "n": 81,
-   "p25": 14500,
-   "mediana": 14995
-  },
-  "ratio_mercado": 1.593,
-  "motivo": "precio normal (159 % del cuartil bajo de 126610LN)"
- },
- {
-  "fecha": "2026-11-05T23:29:29.457714+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 41mm Oyster Bracelet 126610LN B&P 2026",
-  "total": 23095.0,
-  "condicion": "Pre-owned - Excellent",
   "url": "https://www.ebay.com/itm/128177784487",
   "item_id": "v1|128177784487|0",
   "referencia": "126610LN",
@@ -11043,5 +11026,22 @@
    "nota": "Precio pedido unos 10 % por debajo de la estimación conservadora; estado 'Good' y sin confirmar caja/papeles, así que no alcanza el umbral del 15 %."
   },
   "motivo": "triage: Precio pedido unos 10 % por debajo de la estimación conservadora; estado 'Good' y sin confirmar caja/papeles, así que no alcanza el umbral del 15 %. (justo 2500)"
+ },
+ {
+  "fecha": "2026-11-09T04:01:49.352989+00:00",
+  "marca": "Cartier",
+  "titulo": "NEW CARTIER LARGE 18K YELLOW GOLD TANK AMERICAINE WATCH",
+  "total": 18000.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/237172478878",
+  "item_id": "v1|237172478878|0",
+  "triage": {
+   "modelo": "Cartier Tank Américaine Large, oro amarillo 18K",
+   "referencia": null,
+   "precio_justo_usd": 16000,
+   "interesante": false,
+   "nota": "La foto solo muestra caja y papeles, sin el reloj; el precio pedido queda por encima del mercado gris para un modelo nuevo de oro 18K."
+  },
+  "motivo": "triage: La foto solo muestra caja y papeles, sin el reloj; el precio pedido queda por encima del mercado gris para un modelo nuevo de oro 18K. (justo 16000)"
  }
 ]
