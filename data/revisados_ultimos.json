@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-06T14:45:00.111992+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Datejust 28 18k Yellow Gold/Steel Champagne Ladies Watch +Card '19 279173",
-  "total": 14950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366790417397",
-  "item_id": "v1|366790417397|0",
-  "referencia": "279173",
-  "mercado": {
-   "n": 16,
-   "p25": 13000,
-   "mediana": 14472
-  },
-  "ratio_mercado": 1.15,
-  "motivo": "precio normal (115 % del cuartil bajo de 279173)"
- },
- {
-  "fecha": "2026-11-06T14:45:00.111992+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Masterpiece Tridor 18k Tri Gold Diamond Dial/Bezel Mens 39mm Watch V 18948",
-  "total": 52700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366790417404",
-  "item_id": "v1|366790417404|0",
-  "referencia": "18948",
-  "mercado": {
-   "n": 16,
-   "p25": 52700,
-   "mediana": 57800
-  },
-  "ratio_mercado": 1.0,
-  "motivo": "precio normal (100 % del cuartil bajo de 18948)"
- },
- {
-  "fecha": "2026-11-06T14:45:00.111992+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust 41 18k Yellow Gold/Steel Wimbledon Watch +Papers '19 126303",
   "total": 15450.0,
   "condicion": "Pre-owned - Good",
@@ -11097,5 +11063,39 @@
    "nota": "Precio pedido cerca del valor de mercado; el título menciona fondo skeleton, que no se aprecia en la foto y conviene verificarlo."
   },
   "motivo": "triage: Precio pedido cerca del valor de mercado; el título menciona fondo skeleton, que no se aprecia en la foto y conviene verificarlo. (justo 4300)"
+ },
+ {
+  "fecha": "2026-11-09T19:17:17.640860+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere Three Rows Midsize Ladies Watch",
+  "total": 8699.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227606255685",
+  "item_id": "v1|227606255685|0",
+  "triage": {
+   "modelo": "Cartier Panthère de Cartier, versión mediana de acero y oro amarillo, cuarzo, esfera blanca con números romanos, brazalete de tres filas",
+   "referencia": "1057930 o W25028B6 (no se distingue con certeza en la foto)",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "El precio pedido de US$8699 está muy por encima del valor de reventa de este modelo mediano de cuarzo bicolor, incluso en excelente estado."
+  },
+  "motivo": "triage: El precio pedido de US$8699 está muy por encima del valor de reventa de este modelo mediano de cuarzo bicolor, incluso en excelente estado. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-09T19:17:17.640860+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Pelagos LHD 25610TNL Titanium 42mm Left Hand Drive Box & Papers + Rubber",
+  "total": 4295.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960175566707",
+  "item_id": "v1|960175566707|0",
+  "triage": {
+   "modelo": "Tudor Pelagos LHD (titanio, 42 mm, bisel negro unidireccional)",
+   "referencia": "25610TNL",
+   "precio_justo_usd": 4100,
+   "interesante": false,
+   "nota": "Precio pedido en línea con el mercado para 25610TNL usado con caja y papeles. En la foto la pulsera parece de acero; verificar material del brazalete y el lado de la corona."
+  },
+  "motivo": "triage: Precio pedido en línea con el mercado para 25610TNL usado con caja y papeles. En la foto la pulsera parece de acero; verificar material del brazalete y el lado de la corona. (justo 4100)"
  }
 ]
