@@ -2,63 +2,6 @@
  {
   "fecha": "2026-11-06T14:45:00.111992+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Santos 100 XL Chrono 18k YG/Steel Mens Automatic Watch W20091X7 2740",
-  "total": 9650.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117507966338",
-  "item_id": "v1|117507966338|0",
-  "referencia": "2740",
-  "mercado": {
-   "n": 3,
-   "p25": 6500,
-   "mediana": 6690
-  },
-  "triage": {
-   "modelo": "Cartier Santos 100 XL Chronograph, acero y oro amarillo, esfera blanca, correa de cuero negro",
-   "referencia": "W20091X7",
-   "precio_justo_usd": 7000,
-   "interesante": false,
-   "nota": "El precio pedido de US$9,650 está bastante por encima del valor de venta cerrada estimado para este modelo de segunda mano en EE. UU., aunque se confirme la referencia y el estado."
-  },
-  "motivo": "triage: El precio pedido de US$9,650 está bastante por encima del valor de venta cerrada estimado para este modelo de segunda mano en EE. UU., aunque se confirme la referencia y el estado. (justo 7000)"
- },
- {
-  "fecha": "2026-11-06T14:45:00.111992+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise Small Stainless Steel Ladies Quartz 20mm Watch 2384",
-  "total": 4095.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117507966344",
-  "item_id": "v1|117507966344|0",
-  "referencia": "2384",
-  "mercado": {
-   "n": 37,
-   "p25": 3700,
-   "mediana": 4195
-  },
-  "ratio_mercado": 1.107,
-  "motivo": "precio normal (111 % del cuartil bajo de 2384)"
- },
- {
-  "fecha": "2026-11-06T14:45:00.111992+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise Stainless Steel Quartz Ladies Midsize Date Watch 2465",
-  "total": 4850.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147669138986",
-  "item_id": "v1|147669138986|0",
-  "referencia": "2465",
-  "mercado": {
-   "n": 28,
-   "p25": 3514,
-   "mediana": 3742
-  },
-  "ratio_mercado": 1.38,
-  "motivo": "precio normal (138 % del cuartil bajo de 2465)"
- },
- {
-  "fecha": "2026-11-06T14:45:00.111992+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Tank Francaise Small Rose Gold/Steel 160th Anniversary Ladies Watch 2384",
   "total": 6000.0,
   "condicion": "Pre-owned - Good",
@@ -11098,5 +11041,56 @@
   },
   "ratio_justo": 0.953,
   "motivo": "precio normal segun revision (95 % del justo 2150)"
+ },
+ {
+  "fecha": "2026-11-09T19:47:17.449478+00:00",
+  "marca": "Rolex",
+  "titulo": "2022 Rolex Datejust 36, 126200, 36mm, Olive Green Dial, Oyster Bracelet, Box ...",
+  "total": 10875.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206687725233",
+  "item_id": "v1|206687725233|0",
+  "referencia": "126200",
+  "mercado": {
+   "n": 24,
+   "p25": 10077,
+   "mediana": 11354
+  },
+  "ratio_mercado": 1.079,
+  "motivo": "precio normal (108 % del cuartil bajo de 126200)"
+ },
+ {
+  "fecha": "2026-11-09T19:47:17.449478+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 41mm 100th Anniversary Slate 18k Gold 134303 New BoxPaper",
+  "total": 16850.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/117512966638",
+  "item_id": "v1|117512966638|0",
+  "referencia": "134303",
+  "mercado": {
+   "n": 6,
+   "p25": 14250,
+   "mediana": 15441
+  },
+  "ratio_mercado": 1.182,
+  "motivo": "precio normal (118 % del cuartil bajo de 134303)"
+ },
+ {
+  "fecha": "2026-11-09T19:47:17.449478+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay",
+  "total": 3675.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257844229699",
+  "item_id": "v1|257844229699|0",
+  "triage": {
+   "modelo": "Tudor Black Bay (generación no identificada, probablemente acero)",
+   "referencia": null,
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Sin referencia ni confirmación de caja y papeles; el precio pedido está por encima de lo que se vende realmente este modelo en acero usado."
+  },
+  "motivo": "triage: Sin referencia ni confirmación de caja y papeles; el precio pedido está por encima de lo que se vende realmente este modelo en acero usado. (justo 3200)"
  }
 ]
