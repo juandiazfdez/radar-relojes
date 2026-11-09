@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-05T23:29:29.457714+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 40mm Root Beer Two Tone Oyster Bracelet 126711CHNR B&P 2026",
-  "total": 22695.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128177782925",
-  "item_id": "v1|128177782925|0",
-  "referencia": "126711CHNR",
-  "mercado": {
-   "n": 92,
-   "p25": 20589,
-   "mediana": 21498
-  },
-  "ratio_mercado": 1.102,
-  "motivo": "precio normal (110 % del cuartil bajo de 126711CHNR)"
- },
- {
-  "fecha": "2026-11-05T23:29:29.457714+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 40mm Bruce Wayne Jubilee Bracelet 126710GRNR B&P 2026",
-  "total": 23695.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128177782916",
-  "item_id": "v1|128177782916|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 86,
-   "p25": 21997,
-   "mediana": 23267
-  },
-  "ratio_mercado": 1.077,
-  "motivo": "precio normal (108 % del cuartil bajo de 126710GRNR)"
- },
- {
-  "fecha": "2026-11-05T23:29:29.457714+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex GMT-Master II 40mm Bruce Wayne Oyster Bracelet 126710GRNR B&P 2026",
   "total": 24095.0,
   "condicion": "Pre-owned - Excellent",
@@ -11092,5 +11058,39 @@
    "nota": "Precio pedido de US$1723 supera la estimación de venta cerrada para este vintage en buen estado; la referencia y el tipo de calibre (el título dice automático) no están confirmados."
   },
   "motivo": "triage: Precio pedido de US$1723 supera la estimación de venta cerrada para este vintage en buen estado; la referencia y el tipo de calibre (el título dice automático) no están confirmados. (justo 1500)"
+ },
+ {
+  "fecha": "2026-11-09T14:47:07.688076+00:00",
+  "marca": "Cartier",
+  "titulo": "Vintage Cartier Watch Must de Cartier Vendome Vermeil Quartz 3 Color Gold Watch",
+  "total": 1317.76,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137916097559",
+  "item_id": "v1|137916097559|0",
+  "triage": {
+   "modelo": "Must de Cartier Vendôme (quartz, vermeil)",
+   "referencia": null,
+   "precio_justo_usd": 450,
+   "interesante": false,
+   "nota": "Vermeil (plata chapada en oro), esfera plateada con numerales romanos y correa de piel. Se vende en torno a US$350-550 según estado y si incluye caja y papeles; el precio pedido de US$1318 está muy por encima."
+  },
+  "motivo": "triage: Vermeil (plata chapada en oro), esfera plateada con numerales romanos y correa de piel. Se vende en torno a US$350-550 según estado y si incluye caja y papeles; el precio pedido de US$1318 está muy por encima. (justo 450)"
+ },
+ {
+  "fecha": "2026-11-09T14:47:07.688076+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Pelagius FXD 25707B/24-0001 Marine Nationale Blue Titanium 42mm 2024 Full",
+  "total": 4060.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840111029380",
+  "item_id": "v1|840111029380|0",
+  "referencia": "25707B",
+  "mercado": {
+   "n": 7,
+   "p25": 4000,
+   "mediana": 4299
+  },
+  "ratio_mercado": 1.015,
+  "motivo": "precio normal (101 % del cuartil bajo de 25707B)"
  }
 ]
