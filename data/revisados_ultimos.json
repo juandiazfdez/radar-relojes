@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-06T14:00:00.634560+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 16220 — Oyster Bracelet — Excellent Condition",
-  "total": 5990.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407344591894",
-  "item_id": "v1|407344591894|0",
-  "referencia": "16220",
-  "mercado": {
-   "n": 31,
-   "p25": 6000,
-   "mediana": 7007
-  },
-  "ratio_mercado": 0.998,
-  "motivo": "precio normal (100 % del cuartil bajo de 16220)"
- },
- {
-  "fecha": "2026-11-06T14:15:00.659872+00:00",
-  "marca": "Tudor",
-  "titulo": "New 2026 Tudor Black Bay 58 GMT 9/26 7939G1A0NRU “Coke”",
-  "total": 4848.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/257838624151",
-  "item_id": "v1|257838624151|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 GMT \"Coke\" (acero, bisel negro/burdeos, bracelet Jubilee)",
-   "referencia": "M7939G1A0NRU",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Precio pedido por encima del mercado gris para un modelo nuevo con caja y papeles; no hay descuento significativo."
-  },
-  "motivo": "triage: Precio pedido por encima del mercado gris para un modelo nuevo con caja y papeles; no hay descuento significativo. (justo 4000)"
- },
- {
-  "fecha": "2026-11-06T14:15:00.659872+00:00",
-  "marca": "Tudor",
-  "titulo": "2022 TUDOR Black Bay 58 39mm Blue Box Papers",
-  "total": 3584.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147669105536",
-  "item_id": "v1|147669105536|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 39mm Navy Blue (esfera negra, bisel azul, brazalete de acero)",
-   "referencia": "M79030B-0001",
-   "precio_justo_usd": 3100,
-   "interesante": false,
-   "nota": "Precio pedido US$3585 por encima de lo que se vende este modelo usado con caja y papeles de 2022; no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido US$3585 por encima de lo que se vende este modelo usado con caja y papeles de 2022; no hay descuento suficiente. (justo 3100)"
- },
- {
   "fecha": "2026-11-06T14:30:00.515041+00:00",
   "marca": "Rolex",
   "titulo": "2022 Rolex GMT-Master II #126710BLNR  Jubilee Bracelet “Batgirl” Box & Papers",
@@ -11085,5 +11034,56 @@
    "nota": "Bronce 43mm con caja y papeles, de uso; el precio pedido está en línea con el mercado y la correa naranja no original resta algo de valor."
   },
   "motivo": "triage: Bronce 43mm con caja y papeles, de uso; el precio pedido está en línea con el mercado y la correa naranja no original resta algo de valor. (justo 3400)"
+ },
+ {
+  "fecha": "2026-11-09T18:17:17.505976+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu 33 Steel Rose Gold Ladies Watch W2BB0002 Card",
+  "total": 7080.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336888924004",
+  "item_id": "v1|336888924004|0",
+  "referencia": "W2BB0002",
+  "mercado": {
+   "n": 7,
+   "p25": 7245,
+   "mediana": 7500
+  },
+  "ratio_mercado": 0.977,
+  "motivo": "precio normal (98 % del cuartil bajo de W2BB0002)"
+ },
+ {
+  "fecha": "2026-11-09T18:17:17.505976+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster XL Chronograph Steel Automatic Mens Watch W62020X6 Papers",
+  "total": 6760.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257844144714",
+  "item_id": "v1|257844144714|0",
+  "triage": {
+   "modelo": "Cartier Roadster XL Chronograph, acero, automático, esfera negra",
+   "referencia": "W62020X6",
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "Referencia correcta con papeles, pero el precio con envío (US$6760) está por encima de la venta realista de esta versión en estado Good; no hay descuento de al menos 15%."
+  },
+  "motivo": "triage: Referencia correcta con papeles, pero el precio con envío (US$6760) está por encima de la venta realista de esta versión en estado Good; no hay descuento de al menos 15%. (justo 6500)"
+ },
+ {
+  "fecha": "2026-11-09T18:17:17.505976+00:00",
+  "marca": "Tudor",
+  "titulo": "Brand New Tudor Black Bay Ref. M7941A1A0RU-0003",
+  "total": 4595.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940078839424",
+  "item_id": "v1|940078839424|0",
+  "triage": {
+   "modelo": "Tudor Black Bay (bisel rojo, esfera negra, brazalete Jubilee, acero; generación actual)",
+   "referencia": "null",
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "Precio pedido por encima de lo que se vende este modelo nuevo con caja y papeles en el mercado secundario; no es una oportunidad. La referencia exacta no se puede confirmar solo con la foto."
+  },
+  "motivo": "triage: Precio pedido por encima de lo que se vende este modelo nuevo con caja y papeles en el mercado secundario; no es una oportunidad. La referencia exacta no se puede confirmar solo con la foto. (justo 3600)"
  }
 ]
