@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-06T22:45:15.542150+00:00",
   "marca": "Rolex",
-  "titulo": "eLive- Rolex Submariner Date 41mm 126610LN",
-  "total": 1.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/128179904675",
-  "item_id": "v1|128179904675|0",
-  "referencia": "126610LN",
-  "mercado": {
-   "n": 34,
-   "p25": 15975,
-   "mediana": 16322
-  },
-  "ratio_mercado": 0.0,
-  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
- },
- {
-  "fecha": "2026-11-06T22:45:15.542150+00:00",
-  "marca": "Rolex",
-  "titulo": "eLive- Rolex Air-King 40mm 126900",
-  "total": 1.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/128179904678",
-  "item_id": "v1|128179904678|0",
-  "referencia": "126900",
-  "mercado": {
-   "n": 12,
-   "p25": 10000,
-   "mediana": 10412
-  },
-  "ratio_mercado": 0.0,
-  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
- },
- {
-  "fecha": "2026-11-06T22:45:15.542150+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual Datejust Watch SS & 18K Yellow Gold w/Diamonds Ref.69173",
   "total": 5400.0,
   "condicion": "Pre-owned - Good",
@@ -11013,5 +10979,45 @@
    "nota": "Nuevo con caja y papeles se vende en mercado gris unos 15-25 % bajo retail; US$6575 queda cerca de retail, no por debajo del mercado."
   },
   "motivo": "triage: Nuevo con caja y papeles se vende en mercado gris unos 15-25 % bajo retail; US$6575 queda cerca de retail, no por debajo del mercado. (justo 5800)"
+ },
+ {
+  "fecha": "2026-11-10T04:32:37.535964+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner green ceramic Unworn rare fully stickered 126610LV B & C 2026.",
+  "total": 16499.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/327448891881",
+  "item_id": "v1|327448891881|0",
+  "referencia": "126610LV",
+  "mercado": {
+   "n": 39,
+   "p25": 16225,
+   "mediana": 16499
+  },
+  "ratio_mercado": 1.017,
+  "motivo": "precio normal (102 % del cuartil bajo de 126610LV)"
+ },
+ {
+  "fecha": "2026-11-10T04:32:37.535964+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 54 79000N Full Set 2026",
+  "total": 3849.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900079230137",
+  "item_id": "v1|900079230137|0",
+  "referencia": "79000N",
+  "mercado": {
+   "n": 3,
+   "p25": 3845,
+   "mediana": 4253
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 54 (según el título; el reloj de la foto parece coherente)",
+   "referencia": "79000N",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio pedido de US$3849 con envío está por encima del valor de reventa usado en EE. UU. (aprox. US$2,900-3,200 con caja y papeles); no alcanza el umbral del 15 % de descuento."
+  },
+  "motivo": "triage: Precio pedido de US$3849 con envío está por encima del valor de reventa usado en EE. UU. (aprox. US$2,900-3,200 con caja y papeles); no alcanza el umbral del 15 % de descuento. (justo 3000)"
  }
 ]
