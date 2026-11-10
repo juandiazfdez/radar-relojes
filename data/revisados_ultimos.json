@@ -2,46 +2,6 @@
  {
   "fecha": "2026-11-07T03:15:26.345239+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Datejust 41 Wimbledon | 126334 | 2026 | Unworn Full Set | Oyster",
-  "total": 16495.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880090997957",
-  "item_id": "v1|880090997957|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 Wimbledon (acero y oro blanco, bisel acanalado, brazalete Oyster)",
-   "referencia": "126334",
-   "precio_justo_usd": 16000,
-   "interesante": false,
-   "nota": "Precio pedido apenas por encima de la estimación de mercado secundario para esta referencia nueva con caja y papeles; no hay descuento de 15 % y conviene verificar el color de la esfera en fotos reales."
-  },
-  "motivo": "triage: Precio pedido apenas por encima de la estimación de mercado secundario para esta referencia nueva con caja y papeles; no hay descuento de 15 % y conviene verificar el color de la esfera en fotos reales. (justo 16000)"
- },
- {
-  "fecha": "2026-11-07T03:15:26.345239+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex Oyster Perpetual Stainless Steel & 14k Yellow Gold 24mm Watch",
-  "total": 4006.75,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117508816204",
-  "item_id": "v1|117508816204|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual vintage bicolor (acero y oro amarillo de 14k), bisel acanalado, esfera champán con índices de bastón, brazalete tipo Jubilee",
-   "referencia": null,
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Referencia no identificable con certeza en la foto; el precio pedido de US$4007 supera el valor de venta cerrada estimado para este modelo vintage en estado Good."
-  },
-  "motivo": "triage: Referencia no identificable con certeza en la foto; el precio pedido de US$4007 supera el valor de venta cerrada estimado para este modelo vintage en estado Good. (justo 3200)"
- },
- {
-  "fecha": "2026-11-07T03:15:26.345239+00:00",
-  "marca": "Rolex",
   "titulo": "Vintage Rolex 18k Yellow Gold Lady-Datejust President 26mm Automatic Watch",
   "total": 11006.75,
   "condicion": "Pre-owned - Good",
@@ -11010,5 +10970,45 @@
    "nota": "Título con 'Diamond' y 'UGL Cert' poco claros; el dial parece sin diamantes y el certificado no es un autenticador conocido. Precio cercano al mercado, sin margen de compra."
   },
   "motivo": "triage: Título con 'Diamond' y 'UGL Cert' poco claros; el dial parece sin diamantes y el certificado no es un autenticador conocido. Precio cercano al mercado, sin margen de compra. (justo 4200)"
+ },
+ {
+  "fecha": "2026-11-10T14:32:47.229964+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 54 2025 full set excellent condition.",
+  "total": 3725.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366799336020",
+  "item_id": "v1|366799336020|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 54 (acero, esfera negra, brazalete de acero)",
+   "referencia": "M79000N (probable, según el título; sin confirmar en la foto)",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Precio pedido cercano al retail; el mercado gris de la BB54 de acero suele estar por debajo, así que no hay descuento del 15 % o más."
+  },
+  "motivo": "triage: Precio pedido cercano al retail; el mercado gris de la BB54 de acero suele estar por debajo, así que no hay descuento del 15 % o más. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-10T14:32:47.229964+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Pelagos FXD 42 Titanium Mens Watch 25717 Box Card",
+  "total": 5080.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257845587056",
+  "item_id": "v1|257845587056|0",
+  "referencia": "25717",
+  "mercado": {
+   "n": 4,
+   "p25": 4275,
+   "mediana": 4312
+  },
+  "triage": {
+   "modelo": "Tudor Pelagos FXD 42 mm, titanio, esfera negra, correa de caucho",
+   "referencia": "25717 (Pelagos FXD titanio, 42 mm)",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Precio pedido de US$5.080 está muy por encima del mercado secundario para un Pelagos FXD de titanio pre-owned, aunque tenga caja y tarjeta."
+  },
+  "motivo": "triage: Precio pedido de US$5.080 está muy por encima del mercado secundario para un Pelagos FXD de titanio pre-owned, aunque tenga caja y tarjeta. (justo 3800)"
  }
 ]
