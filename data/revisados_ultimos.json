@@ -2,57 +2,6 @@
  {
   "fecha": "2026-11-06T21:15:15.270974+00:00",
   "marca": "Rolex",
-  "titulo": "2000 PAPERS Rolex Oyster Perpetual Air-King 14000 Blue Steel Oyster 34mm BOX",
-  "total": 5899.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168844062865",
-  "item_id": "v1|168844062865|0",
-  "referencia": "14000",
-  "mercado": {
-   "n": 26,
-   "p25": 4859,
-   "mediana": 5000
-  },
-  "ratio_mercado": 1.214,
-  "motivo": "precio normal (121 % del cuartil bajo de 14000)"
- },
- {
-  "fecha": "2026-11-06T21:15:15.270974+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Cosmograph Daytona 40mm Platona",
-  "total": 124000.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880090182088",
-  "item_id": "v1|880090182088|0",
-  "triage": {
-   "modelo": "Rolex Cosmograph Daytona 40 mm, acero, esfera azul hielo/platino (posiblemente 'Platona')",
-   "referencia": "126500LN (probable, verificar)",
-   "precio_justo_usd": 42000,
-   "interesante": false,
-   "nota": "Acero con esfera platino/azul hielo; el precio de US$124.000 está muy por encima del mercado secundario para esta referencia, y el título sugiere una variante en oro blanco que no coincide con la foto."
-  },
-  "motivo": "triage: Acero con esfera platino/azul hielo; el precio de US$124.000 está muy por encima del mercado secundario para esta referencia, y el título sugiere una variante en oro blanco que no coincide con la foto. (justo 42000)"
- },
- {
-  "fecha": "2026-11-06T21:15:15.270974+00:00",
-  "marca": "Rolex",
-  "titulo": "BNIB 2026 Rolex 909010LN SUBMARINER DATE DESK STAINLESS STEEL 80MM",
-  "total": 12950.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/920113314336",
-  "item_id": "v1|920113314336|0",
-  "triage": {
-   "modelo": "Reloj de escritorio Rolex estilo Submariner Date (no es reloj de pulsera)",
-   "referencia": "909010LN (según el título, no verificable)",
-   "precio_justo_usd": 2500,
-   "interesante": false,
-   "nota": "La imagen muestra un reloj de escritorio de 80 mm, no un Submariner. Precio pedido muy por encima del valor de mercado."
-  },
-  "motivo": "triage: La imagen muestra un reloj de escritorio de 80 mm, no un Submariner. Precio pedido muy por encima del valor de mercado. (justo 2500)"
- },
- {
-  "fecha": "2026-11-06T21:15:15.270974+00:00",
-  "marca": "Rolex",
   "titulo": "1991 Rolex GMT-Master 16700 Pepsi Deep Matching Patina",
   "total": 13930.0,
   "condicion": "Pre-owned - Good",
@@ -10995,5 +10944,63 @@
    "nota": "Precio pedido de US$3195 está por encima del valor de venta cerrada estimado para esta referencia bicolor en estado excelente; no hay descuento."
   },
   "motivo": "triage: Precio pedido de US$3195 está por encima del valor de venta cerrada estimado para esta referencia bicolor en estado excelente; no hay descuento. (justo 2400)"
+ },
+ {
+  "fecha": "2026-11-10T01:47:27.288579+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT Master II - 116710LN - 2011 - Full Set - Great Condition",
+  "total": 13500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168851338434",
+  "item_id": "v1|168851338434|0",
+  "referencia": "116710LN",
+  "mercado": {
+   "n": 39,
+   "p25": 14539,
+   "mediana": 15900
+  },
+  "ratio_mercado": 0.929,
+  "motivo": "precio normal (93 % del cuartil bajo de 116710LN)"
+ },
+ {
+  "fecha": "2026-11-10T01:47:27.288579+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner 2006 Z Serial Original Inner & Outer Box, No Paper Work  16610T",
+  "total": 8710.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900078984602",
+  "item_id": "v1|900078984602|0",
+  "referencia": "16610T",
+  "mercado": {
+   "n": 10,
+   "p25": 10920,
+   "mediana": 12097
+  },
+  "ratio_mercado": 0.798,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 8300,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado, buen estado general, con rayones visibles en caja y cristal, caja interna y externa originales, sin papeles"
+  },
+  "ratio_justo": 1.049,
+  "motivo": "precio normal segun revision (105 % del justo 8300)"
+ },
+ {
+  "fecha": "2026-11-10T01:47:27.288579+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos 100 XL W20072X7 18K Gold Steel Automatic Watch Papers Box",
+  "total": 6025.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287715064938",
+  "item_id": "v1|287715064938|0",
+  "triage": {
+   "modelo": "Cartier Santos 100 XL bicolor acero y oro amarillo 18K, esfera blanca con números romanos, correa de cocodrilo marrón",
+   "referencia": "W20072X7",
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "Precio pedido unos 7 % por debajo de una estimación conservadora de venta cerrada con caja y papeles; no alcanza el umbral del 15 %."
+  },
+  "motivo": "triage: Precio pedido unos 7 % por debajo de una estimación conservadora de venta cerrada con caja y papeles; no alcanza el umbral del 15 %. (justo 6500)"
  }
 ]
