@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-11-08T05:01:07.164700+00:00",
-  "marca": "Cartier",
-  "titulo": "Vintage Cartier Must de 21 Women’s Quartz 28mm Wristwatch Reference 1340 ",
-  "total": 994.95,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/377629982343",
-  "item_id": "v1|377629982343|0",
-  "referencia": "1340",
-  "mercado": {
-   "n": 8,
-   "p25": 1519,
-   "mediana": 1600
-  },
-  "ratio_mercado": 0.655,
-  "motivo": "descripcion: as is"
- },
- {
-  "fecha": "2026-11-08T05:01:07.164700+00:00",
-  "marca": "Tudor",
-  "titulo": "41mm Tudor Heritage Black bay 26J Men's Automatic Wristwatch MT5612 Steel 79730",
-  "total": 3277.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147671459534",
-  "item_id": "v1|147671459534|0",
-  "referencia": "79730",
-  "mercado": {
-   "n": 4,
-   "p25": 3200,
-   "mediana": 3300
-  },
-  "triage": {
-   "modelo": "Tudor Heritage Black Bay 41 mm (MT5612)",
-   "referencia": "79730",
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "Precio pedido de US$3.277 con envío supera el valor de venta cerrada de una 79730 de acero de segunda mano en condición Good, sobre todo sin confirmar caja y papeles."
-  },
-  "motivo": "triage: Precio pedido de US$3.277 con envío supera el valor de venta cerrada de una 79730 de acero de segunda mano en condición Good, sobre todo sin confirmar caja y papeles. (justo 2800)"
- },
- {
   "fecha": "2026-11-08T05:16:07.187448+00:00",
   "marca": "Rolex",
   "titulo": "Ladies' Presidential Rolex Datejust 69178 Yellow 18K Gold Dia Dial+ReplcmntBezel",
@@ -10937,5 +10897,45 @@
   },
   "ratio_mercado": 0.92,
   "motivo": "precio normal (92 % del cuartil bajo de 116300)"
+ },
+ {
+  "fecha": "2026-11-10T21:48:06.048597+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Submariner 79090",
+  "total": 7199.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880103405564",
+  "item_id": "v1|880103405564|0",
+  "referencia": "79090",
+  "mercado": {
+   "n": 9,
+   "p25": 6809,
+   "mediana": 6900
+  },
+  "ratio_mercado": 1.057,
+  "motivo": "precio normal (106 % del cuartil bajo de 79090)"
+ },
+ {
+  "fecha": "2026-11-10T21:48:06.048597+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 54 79000N Full Set 2026",
+  "total": 3849.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900081091157",
+  "item_id": "v1|900081091157|0",
+  "referencia": "79000N",
+  "mercado": {
+   "n": 3,
+   "p25": 3845,
+   "mediana": 4253
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 54 (bisel negro, brazalete de acero)",
+   "referencia": "79000N",
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Precio pedido de US$3849 con envío está por encima del valor de venta cerrada para esta referencia usada con caja y papeles; el año '2026' del título no es verificable en la foto."
+  },
+  "motivo": "triage: Precio pedido de US$3849 con envío está por encima del valor de venta cerrada para esta referencia usada con caja y papeles; el año '2026' del título no es verificable en la foto. (justo 3100)"
  }
 ]
