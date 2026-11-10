@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-07T00:45:14.729708+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 58 Burgundy 39mm – M7939A1A0RU-0001 – 2026 Unworn – Complete Set",
-  "total": 5310.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/860120365455",
-  "item_id": "v1|860120365455|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 Burgundy 39mm (bisel burdeos, esfera negra, brazalete de acero)",
-   "referencia": "M7939A1A0RU-0001 (según el listado, no verificable en la imagen)",
-   "precio_justo_usd": 3900,
-   "interesante": false,
-   "nota": "Precio pedido de US$5,310 por encima del mercado gris de un modelo nuevo con caja y papeles, que ronda los US$3,700-4,100."
-  },
-  "motivo": "triage: Precio pedido de US$5,310 por encima del mercado gris de un modelo nuevo con caja y papeles, que ronda los US$3,700-4,100. (justo 3900)"
- },
- {
   "fecha": "2026-11-07T01:00:26.782886+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Roadster 2510",
@@ -11043,5 +11026,22 @@
    "nota": "Precio cercano al mercado, sin descuento de 15%. El listado dice automático, pero el Tank Must XL de esta referencia suele ser de cuarzo; conviene verificar el calibre."
   },
   "motivo": "triage: Precio cercano al mercado, sin descuento de 15%. El listado dice automático, pero el Tank Must XL de esta referencia suele ser de cuarzo; conviene verificar el calibre. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-10T12:02:47.023263+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 126711CHNR Everose Two Tone 18k Rootbeer 2023",
+  "total": 19950.0,
+  "condicion": "New with imperfections",
+  "url": "https://www.ebay.com/itm/206689452462",
+  "item_id": "v1|206689452462|0",
+  "referencia": "126711CHNR",
+  "mercado": {
+   "n": 25,
+   "p25": 23300,
+   "mediana": 23750
+  },
+  "ratio_mercado": 0.856,
+  "motivo": "precio normal (86 % del cuartil bajo de 126711CHNR)"
  }
 ]
