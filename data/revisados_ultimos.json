@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-06T23:15:15.004465+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Datejust Watch Stainless Steel & 18K Yellow Gold Ref.6917",
-  "total": 5600.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327443749277",
-  "item_id": "v1|327443749277|0",
-  "referencia": "6917",
-  "mercado": {
-   "n": 43,
-   "p25": 3990,
-   "mediana": 4100
-  },
-  "ratio_mercado": 1.404,
-  "motivo": "precio normal (140 % del cuartil bajo de 6917)"
- },
- {
-  "fecha": "2026-11-06T23:15:15.004465+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 40mm Hulk",
-  "total": 19500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880090390453",
-  "item_id": "v1|880090390453|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date 'Hulk' (bisel verde, esfera negra)",
-   "referencia": "126610LV (posible 116610LV; el título dice 40 mm, pero el 126610LV actual mide 41 mm)",
-   "precio_justo_usd": 16000,
-   "interesante": false,
-   "nota": "Precio pedido por encima del mercado secundario para el 126610LV con caja y papeles; verificar referencia y papeles antes de considerar."
-  },
-  "motivo": "triage: Precio pedido por encima del mercado secundario para el 126610LV con caja y papeles; verificar referencia y papeles antes de considerar. (justo 16000)"
- },
- {
   "fecha": "2026-11-06T23:30:14.956335+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual DateJust Watch in Stainless Steel w/Diamonds Ref.6519",
@@ -11037,5 +11003,39 @@
    "nota": "Modelo de producción reciente en platino; el mercado secundario suele estar cerca o por encima de retail. El precio pedido no tiene margen de al menos 15 %. Verificar la referencia exacta y la autenticidad del listado."
   },
   "motivo": "triage: Modelo de producción reciente en platino; el mercado secundario suele estar cerca o por encima de retail. El precio pedido no tiene margen de al menos 15 %. Verificar la referencia exacta y la autenticidad del listado. (justo 45000)"
+ },
+ {
+  "fecha": "2026-11-10T05:32:38.227837+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex Oyster Perpetual watch. Running well!!!",
+  "total": 2979.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267839298738",
+  "item_id": "v1|267839298738|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual bicolor (acero y oro), posible generación vintage. Identificación incierta por la foto",
+   "referencia": null,
+   "precio_justo_usd": 2000,
+   "interesante": false,
+   "nota": "Brazalete bicolor tipo Jubilee y caja redonda sin fecha visible; la referencia no se distingue en la foto y el listado no da número, año ni papeles. Con esos datos, el precio pedido de US$2980 queda por encima del valor probable."
+  },
+  "motivo": "triage: Brazalete bicolor tipo Jubilee y caja redonda sin fecha visible; la referencia no se distingue en la foto y el listado no da número, año ni papeles. Con esos datos, el precio pedido de US$2980 queda por encima del valor probable. (justo 2000)"
+ },
+ {
+  "fecha": "2026-11-10T05:32:38.227837+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 40mm 116619LB  White Gold Smurf 2020",
+  "total": 44499.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147674127526",
+  "item_id": "v1|147674127526|0",
+  "referencia": "116619LB",
+  "mercado": {
+   "n": 5,
+   "p25": 49999,
+   "mediana": 50699
+  },
+  "ratio_mercado": 0.89,
+  "motivo": "precio normal (89 % del cuartil bajo de 116619LB)"
  }
 ]
