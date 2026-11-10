@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-07T02:00:27.434816+00:00",
   "marca": "Rolex",
-  "titulo": "eLive- Rolex GMT-Master II Sprite Oyster Bracelet 126720VTNR",
-  "total": 1.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/128180225059",
-  "item_id": "v1|128180225059|0",
-  "referencia": "126720VTNR",
-  "mercado": {
-   "n": 59,
-   "p25": 18470,
-   "mediana": 19294
-  },
-  "ratio_mercado": 0.0,
-  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
- },
- {
-  "fecha": "2026-11-07T02:00:27.434816+00:00",
-  "marca": "Rolex",
   "titulo": "eLive- Rolex Sea-Dweller 43mm 126600",
   "total": 1.0,
   "condicion": "New with box and papers",
@@ -11010,5 +10993,22 @@
    "nota": "Modelo de acero de tamaño mediano, con referencia no visible. Precio pedido por encima del estimado de venta real para estado Good."
   },
   "motivo": "triage: Modelo de acero de tamaño mediano, con referencia no visible. Precio pedido por encima del estimado de venta real para estado Good. (justo 1300)"
+ },
+ {
+  "fecha": "2026-11-10T13:02:46.691085+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II Batgirl 2026 Jubilee Steel Automatic 40mm Box Papers",
+  "total": 20450.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407353050165",
+  "item_id": "v1|407353050165|0",
+  "triage": {
+   "modelo": "Rolex GMT-Master II 'Batgirl' (bisel azul/negro, brazalete Jubilee, acero, 40 mm)",
+   "referencia": "126710BLNR",
+   "precio_justo_usd": 18500,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta cerrada estimado para este estado con caja y papeles; el '2026' del título no corresponde a un año de producción real."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para este estado con caja y papeles; el '2026' del título no corresponde a un año de producción real. (justo 18500)"
  }
 ]
