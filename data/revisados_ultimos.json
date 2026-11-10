@@ -1,140 +1,5 @@
 [
  {
-  "fecha": "2026-11-07T01:00:26.782886+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Roadster 2510",
-  "total": 3199.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206681198139",
-  "item_id": "v1|206681198139|0",
-  "referencia": "2510",
-  "mercado": {
-   "n": 28,
-   "p25": 4030,
-   "mediana": 4372
-  },
-  "ratio_mercado": 0.794,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 3000,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, buen estado con rayones visibles en la caja y el cristal; caja con almohadilla desgastada"
-  },
-  "ratio_justo": 1.066,
-  "motivo": "precio normal segun revision (107 % del justo 3000)"
- },
- {
-  "fecha": "2026-11-07T01:15:26.129053+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Air King Ref. 5500",
-  "total": 3129.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198778446610",
-  "item_id": "v1|198778446610|0",
-  "referencia": "5500",
-  "mercado": {
-   "n": 23,
-   "p25": 4000,
-   "mediana": 4350
-  },
-  "ratio_mercado": 0.782,
-  "claude": {
-   "veredicto": "alerta",
-   "precio_justo_usd": 3000,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Bueno, solo cabeza; caja con rayones y pulida, sin brazalete, sin caja ni papeles"
-  },
-  "ratio_justo": 1.043,
-  "motivo": "precio normal segun revision (104 % del justo 3000)"
- },
- {
-  "fecha": "2026-11-07T01:15:26.129053+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay \"Panda\" Watch Black Bay Chronograph 79360N Panda - Inventory",
-  "total": 3299.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287710531344",
-  "item_id": "v1|287710531344|0",
-  "referencia": "79360N",
-  "mercado": {
-   "n": 59,
-   "p25": 4600,
-   "mediana": 5250
-  },
-  "ratio_mercado": 0.717,
-  "claude": {
-   "veredicto": "alerta",
-   "precio_justo_usd": 4000,
-   "riesgo_autenticidad": "medio",
-   "estado": "Muy buen estado, con leves marcas de uso y swirls; caja y papeles según la descripción"
-  },
-  "ratio_justo": 0.825,
-  "motivo": "ALERTA"
- },
- {
-  "fecha": "2026-11-07T01:15:26.129053+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Princess Oyster date Quartz 26MM Stainless Steel 93500",
-  "total": 435.0,
-  "condicion": "For parts or not working",
-  "url": "https://www.ebay.com/itm/307270606683",
-  "item_id": "v1|307270606683|0",
-  "referencia": "93500",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Tudor Princess Oyster Date (cuarzo), según el título; la foto parece mostrar un reloj de estilo Rolex Lady Oyster Date",
-   "referencia": "93500 (según el título, no verificable en la foto)",
-   "precio_justo_usd": 200,
-   "interesante": false,
-   "nota": "Listado de piezas/no funciona; el precio pedido de US$435 supera el valor de piezas y la foto no muestra claramente una Tudor, así que hay riesgo de listado engañoso."
-  },
-  "motivo": "triage: Listado de piezas/no funciona; el precio pedido de US$435 supera el valor de piezas y la foto no muestra claramente una Tudor, así que hay riesgo de listado engañoso. (justo 200)"
- },
- {
-  "fecha": "2026-11-07T01:45:26.062427+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41 Wimbledon 126333 Two Tone Yellow Gold Steel 2018 Box Papers",
-  "total": 16500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/257839594648",
-  "item_id": "v1|257839594648|0",
-  "referencia": "126333",
-  "mercado": {
-   "n": 31,
-   "p25": 14950,
-   "mediana": 15466
-  },
-  "ratio_mercado": 1.104,
-  "motivo": "precio normal (110 % del cuartil bajo de 126333)"
- },
- {
-  "fecha": "2026-11-07T01:45:26.062427+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Must XL Automatic 41mm WSTA0053 Stainless Steel Watch Box 4324",
-  "total": 5000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267836038171",
-  "item_id": "v1|267836038171|0",
-  "referencia": "WSTA0053",
-  "mercado": {
-   "n": 3,
-   "p25": 4750,
-   "mediana": 5354
-  },
-  "triage": {
-   "modelo": "Cartier Tank Must XL Automatic 41mm, acero",
-   "referencia": "WSTA0053",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido de US$5000 está muy por encima del valor de venta real de este modelo de segunda mano (aprox. US$3000-3600). Revisar si el título menciona solo la caja."
-  },
-  "motivo": "triage: Precio pedido de US$5000 está muy por encima del valor de venta real de este modelo de segunda mano (aprox. US$3000-3600). Revisar si el título menciona solo la caja. (justo 3300)"
- },
- {
   "fecha": "2026-11-07T02:00:27.434816+00:00",
   "marca": "Rolex",
   "titulo": "eLive- Rolex GMT-Master II Sprite Oyster Bracelet 126720VTNR",
@@ -11043,5 +10908,107 @@
   },
   "ratio_mercado": 0.856,
   "motivo": "precio normal (86 % del cuartil bajo de 126711CHNR)"
+ },
+ {
+  "fecha": "2026-11-10T12:32:47.243408+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Precision Stainless Steel / Leather Watch",
+  "total": 2971.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820338372977",
+  "item_id": "v1|820338372977|0",
+  "triage": {
+   "modelo": "Rolex Oyster Precision vintage, cuerda manual, acero, esfera plateada, correa de piel",
+   "referencia": "null (probablemente de la serie 6420/6426, no verificable en la foto)",
+   "precio_justo_usd": 1400,
+   "interesante": false,
+   "nota": "Precio pedido de US$2971 muy por encima del valor de mercado para un Precision vintage de acero en estado Good; sin confirmar referencia ni papeles."
+  },
+  "motivo": "triage: Precio pedido de US$2971 muy por encima del valor de mercado para un Precision vintage de acero en estado Good; sin confirmar referencia ni papeles. (justo 1400)"
+ },
+ {
+  "fecha": "2026-11-10T12:32:47.243408+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Must De Cartier 21 Quartz Stainless Steel Watch",
+  "total": 1510.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267839592865",
+  "item_id": "v1|267839592865|0",
+  "triage": {
+   "modelo": "Cartier Must de Cartier 21, cuarzo, acero inoxidable, esfera de nácar con numerales romanos",
+   "referencia": null,
+   "precio_justo_usd": 950,
+   "interesante": false,
+   "nota": "Precio pedido de US$1510 está muy por encima de lo que se vende este modelo de acero (aprox. US$700-1,100 según estado y papeles). Verificar referencia en el reverso de la caja."
+  },
+  "motivo": "triage: Precio pedido de US$1510 está muy por encima de lo que se vende este modelo de acero (aprox. US$700-1,100 según estado y papeles). Verificar referencia en el reverso de la caja. (justo 950)"
+ },
+ {
+  "fecha": "2026-11-10T12:32:47.243408+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere Cougar Quartz Stainless Steel Watch",
+  "total": 3289.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267839592792",
+  "item_id": "v1|267839592792|0",
+  "triage": {
+   "modelo": "Cartier Cougar (cuarzo, acero) - el título dice Panthère, pero la esfera y el bisel corresponden a la línea Cougar",
+   "referencia": null,
+   "precio_justo_usd": 1500,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de mercado para un Cougar de cuarzo de acero usado; además el título menciona Panthère y la foto muestra un Cougar."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de mercado para un Cougar de cuarzo de acero usado; además el título menciona Panthère y la foto muestra un Cougar. (justo 1500)"
+ },
+ {
+  "fecha": "2026-11-10T12:32:47.243408+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere Cougar Quartz Stainless Steel Watch",
+  "total": 3470.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267839592695",
+  "item_id": "v1|267839592695|0",
+  "triage": {
+   "modelo": "Cartier Cougar (cuarzo, acero, esfera plateada con números romanos); el título dice 'Panthère', pero el diseño de la foto corresponde a Cougar",
+   "referencia": null,
+   "precio_justo_usd": 1500,
+   "interesante": false,
+   "nota": "Precio pedido de US$3470 muy por encima del valor de venta real de un Cougar de cuarzo en acero usado; además el título menciona 'Panthère', que es otro modelo."
+  },
+  "motivo": "triage: Precio pedido de US$3470 muy por encima del valor de venta real de un Cougar de cuarzo en acero usado; además el título menciona 'Panthère', que es otro modelo. (justo 1500)"
+ },
+ {
+  "fecha": "2026-11-10T12:32:47.243408+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ronde Solo De Cartier Quartz Stainless Steel Watch",
+  "total": 2527.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267839592568",
+  "item_id": "v1|267839592568|0",
+  "triage": {
+   "modelo": "Cartier Ronde Solo de Cartier, cuarzo, acero, esfera plateada con numeración romana (tamaño no confirmado en el listado)",
+   "referencia": "WSRN0017 (probable, 36 mm; no confirmada)",
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "Precio pedido de US$2527 con envío, algo por encima de lo que se vende un Ronde Solo de cuarzo de acero en buen estado. Sin tamaño ni papeles en el listado, y el margen no llega al 15 %."
+  },
+  "motivo": "triage: Precio pedido de US$2527 con envío, algo por encima de lo que se vende un Ronde Solo de cuarzo de acero en buen estado. Sin tamaño ni papeles en el listado, y el margen no llega al 15 %. (justo 2400)"
+ },
+ {
+  "fecha": "2026-11-10T12:32:47.243408+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Clair De Rose Automatic Stainless Steel / Stainless Steel Watch",
+  "total": 1856.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820338373562",
+  "item_id": "v1|820338373562|0",
+  "triage": {
+   "modelo": "Tudor Clair de Rose Automatic (acero, esfera blanca con numerales romanos azules)",
+   "referencia": null,
+   "precio_justo_usd": 1300,
+   "interesante": false,
+   "nota": "Modelo de acero de tamaño mediano, con referencia no visible. Precio pedido por encima del estimado de venta real para estado Good."
+  },
+  "motivo": "triage: Modelo de acero de tamaño mediano, con referencia no visible. Precio pedido por encima del estimado de venta real para estado Good. (justo 1300)"
  }
 ]
