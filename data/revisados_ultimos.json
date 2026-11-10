@@ -1,127 +1,5 @@
 [
  {
-  "fecha": "2026-11-08T18:31:39.482271+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Lady Date Just 18K Yellow Gold 6927 Womens Luxury Wristwatch Vintage 1983",
-  "total": 15520.28,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840108033800",
-  "item_id": "v1|840108033800|0",
-  "referencia": "6927",
-  "mercado": {
-   "n": 3,
-   "p25": 10194,
-   "mediana": 11000
-  },
-  "triage": {
-   "modelo": "Rolex Lady-Datejust 18K oro amarillo, brazalete President, esfera negra con indices de barra",
-   "referencia": "6927",
-   "precio_justo_usd": 11000,
-   "interesante": false,
-   "nota": "Precio pedido por encima de lo que se vende realmente este modelo de oro amarillo de 1980s; no parece una ganga."
-  },
-  "motivo": "triage: Precio pedido por encima de lo que se vende realmente este modelo de oro amarillo de 1980s; no parece una ganga. (justo 11000)"
- },
- {
-  "fecha": "2026-11-08T18:46:38.724130+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Must Tank Navy Watch PRISTINE Box + Papers",
-  "total": 4850.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900075847895",
-  "item_id": "v1|900075847895|0",
-  "triage": {
-   "modelo": "Cartier Must de Cartier Tank (cuarzo, acero, correa azul marino de cocodrilo)",
-   "referencia": null,
-   "precio_justo_usd": 1400,
-   "interesante": false,
-   "nota": "Listado de Must Tank de cuarzo usado con caja y papeles: el mercado suele rondar US$1,200-1,600. Los US$4,850 pedidos están muy por encima, y la referencia exacta no se puede verificar en la foto."
-  },
-  "motivo": "triage: Listado de Must Tank de cuarzo usado con caja y papeles: el mercado suele rondar US$1,200-1,600. Los US$4,850 pedidos están muy por encima, y la referencia exacta no se puede verificar en la foto. (justo 1400)"
- },
- {
-  "fecha": "2026-11-08T19:16:39.067616+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Air King 5501 Two-Tone Watch 34mm Serviced",
-  "total": 2850.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147672136750",
-  "item_id": "v1|147672136750|0",
-  "referencia": "5501",
-  "mercado": {
-   "n": 5,
-   "p25": 6499,
-   "mediana": 6698
-  },
-  "ratio_mercado": 0.439,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 2300,
-   "riesgo_autenticidad": "medio",
-   "estado": "Desgastado y pulido, esfera con pátina y marcas, cristal acrílico rayado, correa de cuero no original; la ref. de la caja no cuadra con el título"
-  },
-  "ratio_justo": 1.239,
-  "motivo": "precio normal segun revision (124 % del justo 2300)"
- },
- {
-  "fecha": "2026-11-08T19:16:39.067616+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date Two-Tone Blue – Ref. 16613T –2004-2005, 40mm size = 7.75",
-  "total": 12450.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117509869161",
-  "item_id": "v1|117509869161|0",
-  "referencia": "16613T",
-  "mercado": {
-   "n": 11,
-   "p25": 13600,
-   "mediana": 13700
-  },
-  "ratio_mercado": 0.915,
-  "motivo": "precio normal (92 % del cuartil bajo de 16613T)"
- },
- {
-  "fecha": "2026-11-08T19:46:39.434948+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Explorer II Black Stainless Steel 40mm GMT Oyster Automatic Watch 16570",
-  "total": 7000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147670819360",
-  "item_id": "v1|147670819360|0",
-  "referencia": "16570",
-  "mercado": {
-   "n": 41,
-   "p25": 8445,
-   "mediana": 8990
-  },
-  "ratio_mercado": 0.829,
-  "claude": {
-   "veredicto": "alerta",
-   "precio_justo_usd": 7900,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, desgaste visible: bisel y caja con rayones, sin caja ni papeles de Rolex"
-  },
-  "ratio_justo": 0.886,
-  "motivo": "precio normal segun revision (89 % del justo 7900)"
- },
- {
-  "fecha": "2026-11-08T20:01:38.832302+00:00",
-  "marca": "Rolex",
-  "titulo": "Ladies Rolex Datejust Watch 79173 SS 18k 2002 26mm Arabic Warranty W1448",
-  "total": 7259.76,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327446619862",
-  "item_id": "v1|327446619862|0",
-  "triage": {
-   "modelo": "Rolex Lady Datejust 26 mm, acero y oro amarillo de 18k, bisel acanalado, esfera blanca con índices arábigos, brazalete Jubilee",
-   "referencia": "79173",
-   "precio_justo_usd": 5800,
-   "interesante": false,
-   "nota": "Referencia 79173 de 2002 en buen estado; el precio pedido de US$7.260 supera el valor de venta cerrada estimado, así que no hay descuento."
-  },
-  "motivo": "triage: Referencia 79173 de 2002 en buen estado; el precio pedido de US$7.260 supera el valor de venta cerrada estimado, así que no hay descuento. (justo 5800)"
- },
- {
   "fecha": "2026-11-08T20:01:38.832302+00:00",
   "marca": "Rolex",
   "titulo": "Rolex 34mm Oyster Perpetual Silver Men's Watch 115200.",
@@ -10943,5 +10821,107 @@
   },
   "ratio_mercado": 1.208,
   "motivo": "precio normal (121 % del cuartil bajo de 1330)"
+ },
+ {
+  "fecha": "2026-11-10T23:03:06.473877+00:00",
+  "marca": "Rolex",
+  "titulo": "Original Rolex 1530 / 1570 8106 BALANCE COMPLETE with Hairspring Swiss Made",
+  "total": 419.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880103560127",
+  "item_id": "v1|880103560127|0",
+  "triage": {
+   "modelo": "Volante (balance wheel) completo para calibre Rolex, con espiral",
+   "referencia": "1530 / 1570 / 8106 (compatibilidad no verificable en la imagen)",
+   "precio_justo_usd": 220,
+   "interesante": false,
+   "nota": "Es una pieza de repuesto, no un reloj. El título mezcla referencias y el precio es alto para un volante usado; además, la compatibilidad con 8106 no se puede confirmar."
+  },
+  "motivo": "triage: Es una pieza de repuesto, no un reloj. El título mezcla referencias y el precio es alto para un volante usado; además, la compatibilidad con 8106 no se puede confirmar. (justo 220)"
+ },
+ {
+  "fecha": "2026-11-10T23:03:06.473877+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Datejust 36, 16234, Steel & White Gold, White Dial, Oyster Brac...",
+  "total": 9078.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/206690576946",
+  "item_id": "v1|206690576946|0",
+  "referencia": "16234",
+  "mercado": {
+   "n": 33,
+   "p25": 6160,
+   "mediana": 6500
+  },
+  "ratio_mercado": 1.474,
+  "motivo": "precio normal (147 % del cuartil bajo de 16234)"
+ },
+ {
+  "fecha": "2026-11-10T23:03:06.473877+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Datejust 36, Silver Tapestry Dial, Steel & White Gold, 16234",
+  "total": 9078.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/800901431181",
+  "item_id": "v1|800901431181|0",
+  "referencia": "16234",
+  "mercado": {
+   "n": 33,
+   "p25": 6160,
+   "mediana": 6500
+  },
+  "ratio_mercado": 1.474,
+  "motivo": "precio normal (147 % del cuartil bajo de 16234)"
+ },
+ {
+  "fecha": "2026-11-10T23:03:06.473877+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Datejust 41mm Stainless Steel Watch Eb0926erxzde",
+  "total": 19000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800901430943",
+  "item_id": "v1|800901430943|0",
+  "triage": {
+   "modelo": "Rolex Datejust 41 acero y oro Everose, esfera blanca con índices de barra",
+   "referencia": "126331",
+   "precio_justo_usd": 15000,
+   "interesante": false,
+   "nota": "El título dice solo acero, pero es bicolor con bisel acanalado Everose; el precio pedido supera el mercado de segunda mano y el código del título no parece una referencia válida."
+  },
+  "motivo": "triage: El título dice solo acero, pero es bicolor con bisel acanalado Everose; el precio pedido supera el mercado de segunda mano y el código del título no parece una referencia válida. (justo 15000)"
+ },
+ {
+  "fecha": "2026-11-10T23:03:06.473877+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36 NEW 2025 Wimbledon Two Tone Yellow Gold Fluted Jubilee",
+  "total": 16500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/147675102324",
+  "item_id": "v1|147675102324|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 bicolor acero y oro amarillo, bisel acanalado, brazalete Jubilee",
+   "referencia": "126233 (probable)",
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "El cuadrante se ve azul/grisáceo, no verde Wimbledon como indica el título; verificar la variante. El precio pedido está por encima de lo que se vende este modelo en el mercado secundario."
+  },
+  "motivo": "triage: El cuadrante se ve azul/grisáceo, no verde Wimbledon como indica el título; verificar la variante. El precio pedido está por encima de lo que se vende este modelo en el mercado secundario. (justo 14000)"
+ },
+ {
+  "fecha": "2026-11-10T23:03:06.473877+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Datejust 41mm Stainless Steel Watch Eb1026exxzde",
+  "total": 12500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920128111798",
+  "item_id": "v1|920128111798|0",
+  "triage": {
+   "modelo": "Rolex Datejust 41 (esfera azul, indices de barra, brazalete Jubilee)",
+   "referencia": "126300 (la referencia del título, Eb1026exxzde, no tiene formato Rolex y debe verificarse)",
+   "precio_justo_usd": 10800,
+   "interesante": false,
+   "nota": "Precio pedido US$12,500 está por encima del mercado secundario actual para el 126300 de acero; verificar referencia real, papeles y autenticidad."
+  },
+  "motivo": "triage: Precio pedido US$12,500 está por encima del mercado secundario actual para el 126300 de acero; verificar referencia real, papeles y autenticidad. (justo 10800)"
  }
 ]
