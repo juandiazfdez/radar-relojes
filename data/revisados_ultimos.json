@@ -1,113 +1,5 @@
 [
  {
-  "fecha": "2026-11-07T09:45:36.278111+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Prince 79180",
-  "total": 7600.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257840197769",
-  "item_id": "v1|257840197769|0",
-  "referencia": "79180",
-  "mercado": {
-   "n": 3,
-   "p25": 6500,
-   "mediana": 7500
-  },
-  "triage": {
-   "modelo": "Tudor Prince Oysterdate Chronograph (esfera negra, subesferas crema, acero)",
-   "referencia": "79180",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido de US$7600 muy por encima del valor de mercado para este cronógrafo de acero usado; no hay señal de oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$7600 muy por encima del valor de mercado para este cronógrafo de acero usado; no hay señal de oportunidad. (justo 3300)"
- },
- {
-  "fecha": "2026-11-07T10:15:35.692501+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 40mm 116613LN Yellow Gold Two Tone 2018",
-  "total": 15045.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287708918241",
-  "item_id": "v1|287708918241|0",
-  "referencia": "116613LN",
-  "mercado": {
-   "n": 27,
-   "p25": 14990,
-   "mediana": 15900
-  },
-  "ratio_mercado": 1.004,
-  "motivo": "precio normal (100 % del cuartil bajo de 116613LN)"
- },
- {
-  "fecha": "2026-11-07T10:30:35.876574+00:00",
-  "marca": "Rolex",
-  "titulo": "FAKE Rolex Watch no gold not authenic props or parts",
-  "total": 27.99,
-  "condicion": "For parts or not working",
-  "url": "https://www.ebay.com/itm/860118488086",
-  "item_id": "v1|860118488086|0",
-  "triage": {
-   "modelo": "Rolex Datejust (bisel acanalado, brazalete jubilee, esfera champán; aspecto de tono oro)",
-   "referencia": null,
-   "precio_justo_usd": 15,
-   "interesante": false,
-   "nota": "El listado dice explícitamente que es FAKE, prop o pieza sin autenticidad y que no funciona; no tiene valor de reventa como Rolex genuino."
-  },
-  "motivo": "triage: El listado dice explícitamente que es FAKE, prop o pieza sin autenticidad y que no funciona; no tiene valor de reventa como Rolex genuino. (justo 15)"
- },
- {
-  "fecha": "2026-11-07T11:00:36.557088+00:00",
-  "marca": "Rolex",
-  "titulo": "Mens 18K Yellow Solid Gold Rolex President Type 8.0 Inch Bracelet  16MM",
-  "total": 13400.0,
-  "condicion": "New without box or papers",
-  "url": "https://www.ebay.com/itm/198779227690",
-  "item_id": "v1|198779227690|0",
-  "triage": {
-   "modelo": "Pulsera tipo President de oro amarillo 18K (solo brazalete, sin reloj, 16 mm)",
-   "referencia": null,
-   "precio_justo_usd": 10000,
-   "interesante": false,
-   "nota": "Solo se vende la pulsera, sin reloj, caja ni papeles, y Rolex no vende brazaletes nuevos por separado. El precio se acerca al valor del oro y el listado es engañoso o posiblemente replica o pieza aftermarket."
-  },
-  "motivo": "triage: Solo se vende la pulsera, sin reloj, caja ni papeles, y Rolex no vende brazaletes nuevos por separado. El precio se acerca al valor del oro y el listado es engañoso o posiblemente replica o pieza aftermarket. (justo 10000)"
- },
- {
-  "fecha": "2026-11-07T11:00:36.557088+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Chronograph Panda Ref:79360N Box And Papers",
-  "total": 4760.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/900072726654",
-  "item_id": "v1|900072726654|0",
-  "referencia": "79360N",
-  "mercado": {
-   "n": 59,
-   "p25": 4600,
-   "mediana": 5250
-  },
-  "ratio_mercado": 1.035,
-  "motivo": "precio normal (103 % del cuartil bajo de 79360N)"
- },
- {
-  "fecha": "2026-11-07T11:45:36.295918+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sky-Dweller 336933 Champagne",
-  "total": 22900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147670380661",
-  "item_id": "v1|147670380661|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller two-tone (Oystersteel y oro amarillo, bisel acanalado, esfera champán)",
-   "referencia": "336933",
-   "precio_justo_usd": 26000,
-   "interesante": false,
-   "nota": "Precio pedido ~12% bajo estimado; sin certificar caja/papeles ni año, y un precio así en un Sky-Dweller bicolor reciente exige verificar autenticidad antes de considerarlo."
-  },
-  "motivo": "triage: Precio pedido ~12% bajo estimado; sin certificar caja/papeles ni año, y un precio así en un Sky-Dweller bicolor reciente exige verificar autenticidad antes de considerarlo. (justo 26000)"
- },
- {
   "fecha": "2026-11-07T11:45:36.295918+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Submariner 16618 Black",
@@ -10997,5 +10889,107 @@
    "nota": "Título genérico y referencia no confirmada; el precio pedido de US$3200 está por encima del valor de venta real de este modelo en uso."
   },
   "motivo": "triage: Título genérico y referencia no confirmada; el precio pedido de US$3200 está por encima del valor de venta real de este modelo en uso. (justo 2600)"
+ },
+ {
+  "fecha": "2026-11-10T15:47:57.782324+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yacht-Master II 116688 Full Set Yachtmaster Complete Set Box & Papers 2021",
+  "total": 42150.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800900394605",
+  "item_id": "v1|800900394605|0",
+  "referencia": "116688",
+  "mercado": {
+   "n": 36,
+   "p25": 39905,
+   "mediana": 42906
+  },
+  "ratio_mercado": 1.056,
+  "motivo": "precio normal (106 % del cuartil bajo de 116688)"
+ },
+ {
+  "fecha": "2026-11-10T15:47:57.782324+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 126710GRNR GMT Master II on Jubilee",
+  "total": 24725.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/920126687398",
+  "item_id": "v1|920126687398|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 65,
+   "p25": 21410,
+   "mediana": 22825
+  },
+  "ratio_mercado": 1.155,
+  "motivo": "precio normal (115 % del cuartil bajo de 126710GRNR)"
+ },
+ {
+  "fecha": "2026-11-10T15:47:57.782324+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II \"Root Beer\" Oyster Black Ceramic 126711CHNR 2021",
+  "total": 18800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366799466573",
+  "item_id": "v1|366799466573|0",
+  "referencia": "126711CHNR",
+  "mercado": {
+   "n": 98,
+   "p25": 20900,
+   "mediana": 21850
+  },
+  "ratio_mercado": 0.9,
+  "motivo": "precio normal (90 % del cuartil bajo de 126711CHNR)"
+ },
+ {
+  "fecha": "2026-11-10T15:47:57.782324+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 126610LN Submariner Date 41",
+  "total": 18925.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/920126677119",
+  "item_id": "v1|920126677119|0",
+  "referencia": "126610LN",
+  "mercado": {
+   "n": 31,
+   "p25": 15975,
+   "mediana": 16313
+  },
+  "ratio_mercado": 1.185,
+  "motivo": "precio normal (118 % del cuartil bajo de 126610LN)"
+ },
+ {
+  "fecha": "2026-11-10T15:47:57.782324+00:00",
+  "marca": "Rolex",
+  "titulo": "rolex datejust 36mm oyster bracelet",
+  "total": 5400.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227607842562",
+  "item_id": "v1|227607842562|0",
+  "triage": {
+   "modelo": "Rolex Datejust (acero y oro Everose/Rolesor, bisel liso, esfera chocolate con índices de barra)",
+   "referencia": "null",
+   "precio_justo_usd": 9500,
+   "interesante": false,
+   "nota": "Precio ~40% bajo el mercado para un Datejust bicolor con esfera chocolate; el título dice 36 mm pero la foto parece de 41 mm y no hay número de referencia, serie ni papeles. Sospecha de réplica o listado engañoso; verificar antes de comprar."
+  },
+  "motivo": "triage: Precio ~40% bajo el mercado para un Datejust bicolor con esfera chocolate; el título dice 36 mm pero la foto parece de 41 mm y no hay número de referencia, serie ni papeles. Sospecha de réplica o listado engañoso; verificar antes de comprar. (justo 9500)"
+ },
+ {
+  "fecha": "2026-11-10T15:47:57.782324+00:00",
+  "marca": "Rolex",
+  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
+  "total": 15991.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327449668194",
+  "item_id": "v1|327449668194|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date (bisel negro, acero)",
+   "referencia": null,
+   "precio_justo_usd": 14500,
+   "interesante": false,
+   "nota": "La referencia no se distingue en la foto; el precio pedido queda por encima de la estimación para un Submariner Date de acero con caja y papeles, y la afirmación 'unpolished' requiere verificación."
+  },
+  "motivo": "triage: La referencia no se distingue en la foto; el precio pedido queda por encima de la estimación para un Submariner Date de acero con caja y papeles, y la afirmación 'unpolished' requiere verificación. (justo 14500)"
  }
 ]
