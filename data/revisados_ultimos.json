@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-07T03:00:26.245500+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Ranger 79950-0008 New Box & Papers 2026",
-  "total": 4210.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/137909478769",
-  "item_id": "v1|137909478769|0",
-  "referencia": "79950-0008",
-  "mercado": {
-   "n": 8,
-   "p25": 3415,
-   "mediana": 3550
-  },
-  "ratio_mercado": 1.233,
-  "motivo": "precio normal (123 % del cuartil bajo de 79950-0008)"
- },
- {
   "fecha": "2026-11-07T03:15:26.345239+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 41 Wimbledon | 126334 | 2026 | Unworn Full Set | Oyster",
@@ -11010,5 +10993,22 @@
    "nota": "El precio pedido está por encima del valor estimado de mercado para estas referencias. El título 'rare' es engañoso, porque el Submariner Date es un modelo de producción habitual. Falta verificar referencia y número de serie."
   },
   "motivo": "triage: El precio pedido está por encima del valor estimado de mercado para estas referencias. El título 'rare' es engañoso, porque el Submariner Date es un modelo de producción habitual. Falta verificar referencia y número de serie. (justo 13500)"
+ },
+ {
+  "fecha": "2026-11-10T14:17:47.209635+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX Oyster Perpetual Date Just Diamond Watch 26mm Two- Tone UGL Cert",
+  "total": 4300.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227607700192",
+  "item_id": "v1|227607700192|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 mm acero y oro amarillo, bisel acanalado, brazalete Jubilee (dial con numerales romanos)",
+   "referencia": "69173 o 79173 (probable, según la generación)",
+   "precio_justo_usd": 4200,
+   "interesante": false,
+   "nota": "Título con 'Diamond' y 'UGL Cert' poco claros; el dial parece sin diamantes y el certificado no es un autenticador conocido. Precio cercano al mercado, sin margen de compra."
+  },
+  "motivo": "triage: Título con 'Diamond' y 'UGL Cert' poco claros; el dial parece sin diamantes y el certificado no es un autenticador conocido. Precio cercano al mercado, sin margen de compra. (justo 4200)"
  }
 ]
