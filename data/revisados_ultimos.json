@@ -1,110 +1,5 @@
 [
  {
-  "fecha": "2026-11-06T21:00:15.573604+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Cellini Classic Yellow Gold Mother Of Pearl Watch 5112",
-  "total": 6340.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336884052156",
-  "item_id": "v1|336884052156|0",
-  "referencia": "5112",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Cellini Classic, oro amarillo 18k, esfera de nácar con índices dorados, correa de cuero negra",
-   "referencia": "5112",
-   "precio_justo_usd": 8500,
-   "interesante": true,
-   "nota": "Precio pedido ~25% bajo el valor estimado de venta cerrada; verificar autenticidad, esfera original, caja y papeles antes de comprar."
-  },
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 6000,
-   "riesgo_autenticidad": "medio",
-   "estado": "Buen estado visual según las fotos, caja sin pulir en exceso aparente, pero sin caja ni papeles de Rolex y con correa no original"
-  },
-  "ratio_justo": 1.057,
-  "motivo": "precio normal segun revision (106 % del justo 6000)"
- },
- {
-  "fecha": "2026-11-06T21:00:15.573604+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex Ladies Oyster Perpetual Stainless Steel Watch 24mm 78340 Bracelet",
-  "total": 2799.0,
-  "condicion": "For parts or not working",
-  "url": "https://www.ebay.com/itm/860116882968",
-  "item_id": "v1|860116882968|0",
-  "triage": {
-   "modelo": "Rolex Lady Oyster Perpetual 24 mm, acero, brazalete Oyster (aparentemente de finales de los 80 a principios de los 2000)",
-   "referencia": "78340",
-   "precio_justo_usd": 1900,
-   "interesante": false,
-   "nota": "Pedido de US$2.799 por un reloj 'para piezas o no funciona'; incluso funcionando en buen estado vale bastante menos, así que el precio está muy por encima del mercado."
-  },
-  "motivo": "triage: Pedido de US$2.799 por un reloj 'para piezas o no funciona'; incluso funcionando en buen estado vale bastante menos, así que el precio está muy por encima del mercado. (justo 1900)"
- },
- {
-  "fecha": "2026-11-06T21:00:15.573604+00:00",
-  "marca": "Rolex",
-  "titulo": "RARE $10,000 REF 67193 Champagne ROLEX 18k Yellow Gold SS Ladies Watch SERVICED",
-  "total": 3759.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237168162109",
-  "item_id": "v1|237168162109|0",
-  "referencia": "67193",
-  "mercado": {
-   "n": 22,
-   "p25": 4800,
-   "mediana": 5052
-  },
-  "ratio_mercado": 0.783,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 3300,
-   "riesgo_autenticidad": "medio",
-   "estado": "Buen estado general, con marcas de uso en el brazalete y el cierre, sin caja ni papeles"
-  },
-  "ratio_justo": 1.139,
-  "motivo": "precio normal segun revision (114 % del justo 3300)"
- },
- {
-  "fecha": "2026-11-06T21:00:15.573604+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay GMT M79830RB-0010",
-  "total": 4300.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920113264712",
-  "item_id": "v1|920113264712|0",
-  "referencia": "M79830RB-0010",
-  "mercado": {
-   "n": 23,
-   "p25": 3895,
-   "mediana": 4225
-  },
-  "ratio_mercado": 1.104,
-  "motivo": "precio normal (110 % del cuartil bajo de M79830RB-0010)"
- },
- {
-  "fecha": "2026-11-06T21:15:15.270974+00:00",
-  "marca": "Rolex",
-  "titulo": "2023 PAPERS Rolex Submariner Date 41mm Black Ceramic 126610LN Watch BOX",
-  "total": 13999.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/168844064845",
-  "item_id": "v1|168844064845|0",
-  "referencia": "126610LN",
-  "mercado": {
-   "n": 85,
-   "p25": 14527,
-   "mediana": 15068
-  },
-  "ratio_mercado": 0.964,
-  "motivo": "precio normal (96 % del cuartil bajo de 126610LN)"
- },
- {
   "fecha": "2026-11-06T21:15:15.270974+00:00",
   "marca": "Rolex",
   "titulo": "2000 PAPERS Rolex Oyster Perpetual Air-King 14000 Blue Steel Oyster 34mm BOX",
@@ -11003,5 +10898,102 @@
    "nota": "El precio pedido de US$2868 está muy por encima de lo que se vende este modelo de cuarzo usado; el precio justo ronda los US$600-800 según estado y papeles."
   },
   "motivo": "triage: El precio pedido de US$2868 está muy por encima de lo que se vende este modelo de cuarzo usado; el precio justo ronda los US$600-800 según estado y papeles. (justo 700)"
+ },
+ {
+  "fecha": "2026-11-10T01:32:26.942801+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex GMT-Master II 126710GRNR Bruce Wayne 40mm Oyster Bracelet Full Set ",
+  "total": 21888.0,
+  "condicion": "New with imperfections",
+  "url": "https://www.ebay.com/itm/960176559772",
+  "item_id": "v1|960176559772|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 65,
+   "p25": 21410,
+   "mediana": 22825
+  },
+  "ratio_mercado": 1.022,
+  "motivo": "precio normal (102 % del cuartil bajo de 126710GRNR)"
+ },
+ {
+  "fecha": "2026-11-10T01:32:26.942801+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex Datejust 41, 126334, 41mm, Slate Dial, Jubilee Bracelet, Box & Papers",
+  "total": 20359.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366797957340",
+  "item_id": "v1|366797957340|0",
+  "referencia": "126334",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 41 (acero y oro blanco, bisel acanalado, esfera slate, brazalete Jubilee)",
+   "referencia": "126334",
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del mercado secundario para esta referencia actual; no hay descuento real."
+  },
+  "motivo": "triage: Precio pedido muy por encima del mercado secundario para esta referencia actual; no hay descuento real. (justo 14000)"
+ },
+ {
+  "fecha": "2026-11-10T01:32:26.942801+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay - 41mm - 7941A1A0NU - Jubilee Bracelet - 2024 Full Set",
+  "total": 4250.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168851294699",
+  "item_id": "v1|168851294699|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 41 (esfera negra, bisel negro, brazalete Jubilee)",
+   "referencia": "M7941A1A0NU",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio pedido de US$4250 está por encima del valor de mercado secundario para un 2024 con caja y papeles; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$4250 está por encima del valor de mercado secundario para un 2024 con caja y papeles; no es una oportunidad. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-10T01:32:26.942801+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 41mm Monochrome Jubilee M7941A1A0NU Full Set 2031 Warranty",
+  "total": 4495.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880100614321",
+  "item_id": "v1|880100614321|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 41 Monochrome (Jubilee)",
+   "referencia": "M7941A1A0NU",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Precio pedido de US$4495 con envío está muy por encima del mercado secundario para un Black Bay 41 Monochrome de esta referencia, incluso con caja y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$4495 con envío está muy por encima del mercado secundario para un Black Bay 41 Monochrome de esta referencia, incluso con caja y papeles. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-10T01:32:26.942801+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Royal 41MM Two Tone Ref. 28603 Case #758",
+  "total": 3195.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128185903784",
+  "item_id": "v1|128185903784|0",
+  "referencia": "28603",
+  "mercado": {
+   "n": 4,
+   "p25": 3525,
+   "mediana": 3762
+  },
+  "triage": {
+   "modelo": "Tudor Royal 41 mm bicolor (acero y oro amarillo), esfera con numerales romanos y fecha",
+   "referencia": "28603",
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "Precio pedido de US$3195 está por encima del valor de venta cerrada estimado para esta referencia bicolor en estado excelente; no hay descuento."
+  },
+  "motivo": "triage: Precio pedido de US$3195 está por encima del valor de venta cerrada estimado para esta referencia bicolor en estado excelente; no hay descuento. (justo 2400)"
  }
 ]
