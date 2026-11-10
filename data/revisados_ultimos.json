@@ -1,130 +1,5 @@
 [
  {
-  "fecha": "2026-11-08T14:01:28.799640+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 100 Year of the Oyster Edition 126003 2026 Brand New 36mm",
-  "total": 13000.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/257842019463",
-  "item_id": "v1|257842019463|0",
-  "referencia": "126003",
-  "mercado": {
-   "n": 8,
-   "p25": 12743,
-   "mediana": 13290
-  },
-  "ratio_mercado": 1.02,
-  "motivo": "precio normal (102 % del cuartil bajo de 126003)"
- },
- {
-  "fecha": "2026-11-08T15:01:28.726911+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Authentic Ladies Cartier Tank Watch Red Presentation Box and Cartier Bag",
-  "total": 2650.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800892811669",
-  "item_id": "v1|800892811669|0",
-  "triage": {
-   "modelo": "Cartier Tank Must (vermeil/chapado en oro, cuarzo, esfera blanca con números romanos y agujas azules)",
-   "referencia": null,
-   "precio_justo_usd": 900,
-   "interesante": false,
-   "nota": "Precio pedido de US$2650 muy por encima del valor de mercado para un Tank Must de vermeil usado; la referencia exacta no se puede confirmar solo con la foto."
-  },
-  "motivo": "triage: Precio pedido de US$2650 muy por encima del valor de mercado para un Tank Must de vermeil usado; la referencia exacta no se puede confirmar solo con la foto. (justo 900)"
- },
- {
-  "fecha": "2026-11-08T15:31:29.226505+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona 116500LN Full Set 40mm Steel",
-  "total": 28895.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147671949017",
-  "item_id": "v1|147671949017|0",
-  "referencia": "116500LN",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Cosmograph Daytona, esfera negra, bisel de cerámica negra, acero",
-   "referencia": "116500LN",
-   "precio_justo_usd": 29000,
-   "interesante": false,
-   "nota": "Referencia 116500LN (2016-2023) con juego completo. El precio pedido está cerca del mercado secundario y no supera el umbral del 15 % de descuento."
-  },
-  "motivo": "triage: Referencia 116500LN (2016-2023) con juego completo. El precio pedido está cerca del mercado secundario y no supera el umbral del 15 % de descuento. (justo 29000)"
- },
- {
-  "fecha": "2026-11-08T15:46:29.238602+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sky-Dweller 326934 Full Set 42mm Steel",
-  "total": 24195.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147671955393",
-  "item_id": "v1|147671955393|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller (acero Oystersteel y oro blanco, esfera azul, bisel acanalado, brazalete Jubilee)",
-   "referencia": "326934",
-   "precio_justo_usd": 24500,
-   "interesante": false,
-   "nota": "Precio en línea con el mercado secundario para esta referencia con caja y papeles; no hay descuento de al menos 15 %."
-  },
-  "motivo": "triage: Precio en línea con el mercado secundario para esta referencia con caja y papeles; no hay descuento de al menos 15 %. (justo 24500)"
- },
- {
-  "fecha": "2026-11-08T16:16:28.954014+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Pelagos Ultra  2026 Box and Papers.",
-  "total": 5500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880095758573",
-  "item_id": "v1|880095758573|0",
-  "triage": {
-   "modelo": "Tudor Pelagos (posiblemente Pelagos 39), con brazalete de acero y esfera negra",
-   "referencia": null,
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "El título 'Pelagos Ultra' no corresponde a una línea Tudor conocida; verificar referencia real y autenticidad. Aun así, US$5,500 supera ampliamente el valor de mercado de un Pelagos con caja y papeles."
-  },
-  "motivo": "triage: El título 'Pelagos Ultra' no corresponde a una línea Tudor conocida; verificar referencia real y autenticidad. Aun así, US$5,500 supera ampliamente el valor de mercado de un Pelagos con caja y papeles. (justo 3500)"
- },
- {
-  "fecha": "2026-11-08T16:31:28.559196+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date Ref. 1500",
-  "total": 3800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377630959311",
-  "item_id": "v1|377630959311|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date (esfera plateada, brazalete de cuero marrón, acero)",
-   "referencia": "1500",
-   "precio_justo_usd": 3600,
-   "interesante": false,
-   "nota": "Vintage de los años 70-80 con esfera plateada; precio pedido cercano al valor de mercado para estado Good, sin caja ni papeles, y no hay descuento de al menos 15 %."
-  },
-  "motivo": "triage: Vintage de los años 70-80 con esfera plateada; precio pedido cercano al valor de mercado para estado Good, sin caja ni papeles, y no hay descuento de al menos 15 %. (justo 3600)"
- },
- {
-  "fecha": "2026-11-08T16:31:28.559196+00:00",
-  "marca": "Cartier",
-  "titulo": "vintage two tone CARTIER lady quartz watch",
-  "total": 47.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880095827531",
-  "item_id": "v1|880095827531|0",
-  "triage": {
-   "modelo": "Cartier Pasha de Cartier (cuarzo, dos tonos acero y dorado, versión dama)",
-   "referencia": null,
-   "precio_justo_usd": 800,
-   "interesante": false,
-   "nota": "Precio de US$48 muy por debajo de cualquier Pasha genuino; probable réplica o pieza sin funcionar. Sin caja, papeles ni número de referencia visibles."
-  },
-  "motivo": "triage: Precio de US$48 muy por debajo de cualquier Pasha genuino; probable réplica o pieza sin funcionar. Sin caja, papeles ni número de referencia visibles. (justo 800)"
- },
- {
   "fecha": "2026-11-08T16:46:29.499484+00:00",
   "marca": "Tudor",
   "titulo": "VINTAGE GENTS TUDOR PRINCE SUBMARINER 79090 40MM AUTOMATIC WRISTWATCH SS",
@@ -10943,5 +10818,130 @@
    "nota": "El precio pedido de US$8.105 está muy por encima del valor de mercado para esta referencia en estado usado; no parece una oportunidad."
   },
   "motivo": "triage: El precio pedido de US$8.105 está muy por encima del valor de mercado para esta referencia en estado usado; no parece una oportunidad. (justo 4500)"
+ },
+ {
+  "fecha": "2026-11-10T22:33:06.501786+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona 116520 Steel White + Warranty",
+  "total": 20425.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920127988307",
+  "item_id": "v1|920127988307|0",
+  "referencia": "116520",
+  "mercado": {
+   "n": 23,
+   "p25": 22628,
+   "mediana": 23795
+  },
+  "ratio_mercado": 0.903,
+  "motivo": "precio normal (90 % del cuartil bajo de 116520)"
+ },
+ {
+  "fecha": "2026-11-10T22:33:06.501786+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II Ceramic BLACK Two-Tone 18K Gold Steel 40mm 116713 LN Watch",
+  "total": 15995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147675085989",
+  "item_id": "v1|147675085989|0",
+  "referencia": "116713",
+  "mercado": {
+   "n": 50,
+   "p25": 14132,
+   "mediana": 15208
+  },
+  "ratio_mercado": 1.132,
+  "motivo": "precio normal (113 % del cuartil bajo de 116713)"
+ },
+ {
+  "fecha": "2026-11-10T22:33:06.501786+00:00",
+  "marca": "Rolex",
+  "titulo": "2018 Rolex Datejust 116334 41MM Silver Stick Fluted Oyster Steel B/p",
+  "total": 10250.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117514808076",
+  "item_id": "v1|117514808076|0",
+  "referencia": "116334",
+  "mercado": {
+   "n": 22,
+   "p25": 10592,
+   "mediana": 10950
+  },
+  "ratio_mercado": 0.968,
+  "motivo": "precio normal (97 % del cuartil bajo de 116334)"
+ },
+ {
+  "fecha": "2026-11-10T22:33:06.501786+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Rolex Daytona 126503 40MM Black Two-Tone 18K Yg Box Paper",
+  "total": 26000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880103493069",
+  "item_id": "v1|880103493069|0",
+  "referencia": "126503",
+  "mercado": {
+   "n": 17,
+   "p25": 26708,
+   "mediana": 28900
+  },
+  "ratio_mercado": 0.973,
+  "motivo": "precio normal (97 % del cuartil bajo de 126503)"
+ },
+ {
+  "fecha": "2026-11-10T22:33:06.501786+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Pearlmaster 29mm Datejust 80318 Diamond 18k Yellow Gold Silver Diamond",
+  "total": 21000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287719804361",
+  "item_id": "v1|287719804361|0",
+  "triage": {
+   "modelo": "Rolex Pearlmaster 29 mm (Datejust Pearlmaster) en oro amarillo de 18k, bisel de diamantes, esfera plateada con índices romanos y diamantes",
+   "referencia": "80318",
+   "precio_justo_usd": 24500,
+   "interesante": false,
+   "nota": "Precio por debajo del justo estimado pero dentro del margen normal (~14%). Verificar autenticidad, diamantes, desgaste del brazalete y papeles antes de comprar."
+  },
+  "motivo": "triage: Precio por debajo del justo estimado pero dentro del margen normal (~14%). Verificar autenticidad, diamantes, desgaste del brazalete y papeles antes de comprar. (justo 24500)"
+ },
+ {
+  "fecha": "2026-11-10T22:33:06.501786+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 18K/Stainless Steel Watch 68273",
+  "total": 8000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407354009151",
+  "item_id": "v1|407354009151|0",
+  "referencia": "68273",
+  "mercado": {
+   "n": 41,
+   "p25": 8395,
+   "mediana": 8990
+  },
+  "ratio_mercado": 0.953,
+  "motivo": "precio normal (95 % del cuartil bajo de 68273)"
+ },
+ {
+  "fecha": "2026-11-10T22:33:06.501786+00:00",
+  "marca": "Cartier",
+  "titulo": "New 2026 Cartier Santos Medium WSSA0063 38MM Blue Steel Box Paper",
+  "total": 7599.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/117514807591",
+  "item_id": "v1|117514807591|0",
+  "referencia": "WSSA0063",
+  "mercado": {
+   "n": 2,
+   "p25": 8000,
+   "mediana": 8395
+  },
+  "triage": {
+   "modelo": "Cartier Santos de Cartier (acero, esfera azul, numerales romanos), tamaño medio",
+   "referencia": "WSSA0063 (según título, no verificable en la imagen)",
+   "precio_justo_usd": 6400,
+   "interesante": false,
+   "nota": "Precio pedido por encima del retail aproximado y del mercado gris para un Santos acero nuevo con caja y papeles; no hay descuento de al menos 15 %."
+  },
+  "motivo": "triage: Precio pedido por encima del retail aproximado y del mercado gris para un Santos acero nuevo con caja y papeles; no hay descuento de al menos 15 %. (justo 6400)"
  }
 ]
