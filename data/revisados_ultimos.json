@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-07T03:15:26.345239+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Chronograph Panda M79360N-0014 New Box & Papers 2026",
-  "total": 5790.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/137909479361",
-  "item_id": "v1|137909479361|0",
-  "referencia": "M79360N-0014",
-  "mercado": {
-   "n": 18,
-   "p25": 6295,
-   "mediana": 9599
-  },
-  "ratio_mercado": 0.92,
-  "motivo": "precio normal (92 % del cuartil bajo de M79360N-0014)"
- },
- {
-  "fecha": "2026-11-07T03:30:26.549119+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 134300 Oyster Perpetual 41 OP Beige DEC 2025 Box & Papers",
-  "total": 9800.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336884550658",
-  "item_id": "v1|336884550658|0",
-  "referencia": "134300",
-  "mercado": {
-   "n": 18,
-   "p25": 11888,
-   "mediana": 12632
-  },
-  "ratio_mercado": 0.824,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 9300,
-   "riesgo_autenticidad": "medio",
-   "estado": "Casi nuevo (2025), con caja y papeles, solo un rayón en el cierre según el vendedor"
-  },
-  "motivo": "Claude descarto: Precio de US$9,800 sin margen: en el mercado secundario real la 134300 de esfera blanca con caja y papeles de 2025 se cierra alrededor de US$9,000-9,600. Los comparables de eBay (mediana 12.6k) son precios pedidos e inflados, así que no sirven de referencia.; Al precio pedido no queda margen de reventa. Un comprador en RD pagaría como máximo precio gris, y el vendedor ya está pidiendo ese precio."
- },
- {
-  "fecha": "2026-11-07T03:45:26.148211+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 TUDOR Black Bay 58 GMT “Coke” - New & Unworn",
-  "total": 4850.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/860120691523",
-  "item_id": "v1|860120691523|0",
-  "triage": {
-   "modelo": "Tudor Black Bay GMT \"Coke\" (bisel negro/rojo, esfera negra, brazalete de acero)",
-   "referencia": "null",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "Precio pedido por encima del mercado gris para un Tudor nuevo con caja y papeles; referencia exacta y año '2026' no verificables en la foto."
-  },
-  "motivo": "triage: Precio pedido por encima del mercado gris para un Tudor nuevo con caja y papeles; referencia exacta y año '2026' no verificables en la foto. (justo 3800)"
- },
- {
   "fecha": "2026-11-07T04:30:25.830498+00:00",
   "marca": "Rolex",
   "titulo": "eLive- Rolex Land-Dweller 40mm Stainless Steel Bracelet 127334",
@@ -11010,5 +10953,56 @@
    "nota": "Chapado en oro, no 14K macizo; el precio pedido de US$4286 está muy por encima del valor de mercado, incluso con caja."
   },
   "motivo": "triage: Chapado en oro, no 14K macizo; el precio pedido de US$4286 está muy por encima del valor de mercado, incluso con caja. (justo 900)"
+ },
+ {
+  "fecha": "2026-11-10T15:17:57.521912+00:00",
+  "marca": "Rolex",
+  "titulo": "2024 Rolex Sky-Dweller, 336934, 42mm, Black Dial, Oyster Bracelet, Box & Papers",
+  "total": 25151.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800900322272",
+  "item_id": "v1|800900322272|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller, acero y oro blanco, esfera negra, brazalete Oyster",
+   "referencia": "336934",
+   "precio_justo_usd": 29000,
+   "interesante": false,
+   "nota": "Precio pedido unos 13 % bajo una estimación conservadora de venta real; no llega al umbral del 15 %. Caja y papeles de 2024 visibles en la foto."
+  },
+  "motivo": "triage: Precio pedido unos 13 % bajo una estimación conservadora de venta real; no llega al umbral del 15 %. Caja y papeles de 2024 visibles en la foto. (justo 29000)"
+ },
+ {
+  "fecha": "2026-11-10T15:17:57.521912+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos-100 Large W20072X7 Two Tones Mens Watch Box Papers",
+  "total": 6999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227607821308",
+  "item_id": "v1|227607821308|0",
+  "triage": {
+   "modelo": "Cartier Santos-100 XL bicolor (acero y oro amarillo), esfera plateada con números romanos, correa de cocodrilo marrón",
+   "referencia": "W20072X7",
+   "precio_justo_usd": 5800,
+   "interesante": false,
+   "nota": "Precio pedido de US$6999 está unos 20% por encima de la venta cerrada estimada para esta referencia bicolor con caja y papeles, sin señales de pieza ni replica en el listado."
+  },
+  "motivo": "triage: Precio pedido de US$6999 está unos 20% por encima de la venta cerrada estimada para esta referencia bicolor con caja y papeles, sin señales de pieza ni replica en el listado. (justo 5800)"
+ },
+ {
+  "fecha": "2026-11-10T15:17:57.521912+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tortue GGC98000 1945 24mm Silver Yellow Gold Ladies Watch Box Papers",
+  "total": 9025.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257845639182",
+  "item_id": "v1|257845639182|0",
+  "triage": {
+   "modelo": "Cartier Tortue (dama, caja tonneau de oro amarillo, esfera blanca con numerales romanos, correa de cocodrilo roja)",
+   "referencia": null,
+   "precio_justo_usd": 5500,
+   "interesante": false,
+   "nota": "La referencia 'GGC98000' y el año 1945 del título no los reconozco como válidos para Cartier; verificar con el número de serie. Precio pedido muy por encima de lo estimado para una Tortue dama de oro."
+  },
+  "motivo": "triage: La referencia 'GGC98000' y el año 1945 del título no los reconozco como válidos para Cartier; verificar con el número de serie. Precio pedido muy por encima de lo estimado para una Tortue dama de oro. (justo 5500)"
  }
 ]
