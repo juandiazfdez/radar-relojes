@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-07T00:00:14.665260+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Medium Stainless Steel 33mm \"Vendome Ronde\" Watch",
-  "total": 2734.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/407343231164",
-  "item_id": "v1|407343231164|0",
-  "triage": {
-   "modelo": "Cartier Santos Ronde 'Vendôme' de cuarzo, acero, 33 mm (aprox.)",
-   "referencia": "probable 1567 (no verificable en la foto)",
-   "precio_justo_usd": 1900,
-   "interesante": false,
-   "nota": "Pieza de cuarzo de acero con estado 'Fair'. Su precio de venta cerrada en EE. UU. ronda US$1,600-2,200, por lo que el listado de US$2,734 está muy por encima."
-  },
-  "motivo": "triage: Pieza de cuarzo de acero con estado 'Fair'. Su precio de venta cerrada en EE. UU. ronda US$1,600-2,200, por lo que el listado de US$2,734 está muy por encima. (justo 1900)"
- },
- {
   "fecha": "2026-11-07T00:30:14.912521+00:00",
   "marca": "Cartier",
   "titulo": "Vintage CARTIER \"Oreiller\" Cushion 1970's  (Please Read)",
@@ -11043,5 +11026,28 @@
    "nota": "Acero con brazalete Jubilee y caja/papeles, usado en excelente estado; el precio pedido queda por encima de la estimación de mercado."
   },
   "motivo": "triage: Acero con brazalete Jubilee y caja/papeles, usado en excelente estado; el precio pedido queda por encima de la estimación de mercado. (justo 4500)"
+ },
+ {
+  "fecha": "2026-11-10T07:32:37.615220+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Anglaise XL | Ref. W5310008 | 2017 | Excellent Condition",
+  "total": 4299.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257845109546",
+  "item_id": "v1|257845109546|0",
+  "referencia": "W5310008",
+  "mercado": {
+   "n": 1,
+   "p25": 4464,
+   "mediana": 4464
+  },
+  "triage": {
+   "modelo": "Cartier Tank Anglaise XL automático, acero, esfera plateada con numerales romanos",
+   "referencia": "W5310008",
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "Referencia plausible para la foto; el precio pedido (US$4299) está solo unos 4-5 % por debajo de la estimación, no el 15 % exigido."
+  },
+  "motivo": "triage: Referencia plausible para la foto; el precio pedido (US$4299) está solo unos 4-5 % por debajo de la estimación, no el 15 % exigido. (justo 4500)"
  }
 ]
