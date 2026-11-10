@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-08T12:46:28.783796+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sea-Dweller 4000 116600 40mm Steel 2017 Box & Papers",
-  "total": 14059.95,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880095235743",
-  "item_id": "v1|880095235743|0",
-  "referencia": "116600",
-  "mercado": {
-   "n": 9,
-   "p25": 14273,
-   "mediana": 14536
-  },
-  "ratio_mercado": 0.985,
-  "motivo": "precio normal (99 % del cuartil bajo de 116600)"
- },
- {
-  "fecha": "2026-11-08T13:46:28.849928+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex GMT-Master II 126720VTNR — Box & Card",
-  "total": 18630.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/137913295805",
-  "item_id": "v1|137913295805|0",
-  "referencia": "126720VTNR",
-  "mercado": {
-   "n": 60,
-   "p25": 18354,
-   "mediana": 19122
-  },
-  "ratio_mercado": 1.015,
-  "motivo": "precio normal (102 % del cuartil bajo de 126720VTNR)"
- },
- {
   "fecha": "2026-11-08T14:01:28.799640+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual 100 Year of the Oyster Edition 126003 2026 Brand New 36mm",
@@ -10937,5 +10903,45 @@
    "nota": "Precio pedido de US$2212 solo ~6 % bajo un valor de venta estimado de US$2350 para esta referencia en estado excelente; la identificación se basa en la foto y el título."
   },
   "motivo": "triage: Precio pedido de US$2212 solo ~6 % bajo un valor de venta estimado de US$2350 para esta referencia en estado excelente; la identificación se basa en la foto y el título. (justo 2350)"
+ },
+ {
+  "fecha": "2026-11-10T22:18:05.694499+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 6332 Bubbleback Mens 33mm Stainless Steel TS 366571",
+  "total": 3999.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257846210962",
+  "item_id": "v1|257846210962|0",
+  "referencia": "6332",
+  "mercado": {
+   "n": 3,
+   "p25": 3500,
+   "mediana": 4600
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual (bubbleback), posiblemente ref. 6332; la foto muestra caja dorada, no de acero",
+   "referencia": "6332",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "El título dice acero, pero la foto muestra caja dorada, lo que no coincide. Si es acero, el precio pedido de US$4,000 está por encima del mercado; si es chapado u oro laminado, vale mucho menos."
+  },
+  "motivo": "triage: El título dice acero, pero la foto muestra caja dorada, lo que no coincide. Si es acero, el precio pedido de US$4,000 está por encima del mercado; si es chapado u oro laminado, vale mucho menos. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-10T22:18:05.694499+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Datejust Automatic Watch Stainless Steel and Yellow Gold",
+  "total": 8105.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117514802860",
+  "item_id": "v1|117514802860|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 mm, acero y oro amarillo, bisel acanalado dorado, esfera champán con índices de bastón, pulsera Jubilee",
+   "referencia": "69173 (posible 79173, según año de fabricación y detalles no visibles)",
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "El precio pedido de US$8.105 está muy por encima del valor de mercado para esta referencia en estado usado; no parece una oportunidad."
+  },
+  "motivo": "triage: El precio pedido de US$8.105 está muy por encima del valor de mercado para esta referencia en estado usado; no parece una oportunidad. (justo 4500)"
  }
 ]
