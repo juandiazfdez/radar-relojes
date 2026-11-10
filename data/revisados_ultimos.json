@@ -2,57 +2,6 @@
  {
   "fecha": "2026-11-06T21:30:15.408519+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Datejust 36 16233 Champagne Diamond Steel Gold Mens Watch",
-  "total": 7825.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267835906133",
-  "item_id": "v1|267835906133|0",
-  "referencia": "16233",
-  "mercado": {
-   "n": 28,
-   "p25": 5695,
-   "mediana": 6170
-  },
-  "ratio_mercado": 1.374,
-  "motivo": "precio normal (137 % del cuartil bajo de 16233)"
- },
- {
-  "fecha": "2026-11-06T21:30:15.408519+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 26 176200 Silver Steel Oyster Ladies Watch Card 2012",
-  "total": 5025.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267835906021",
-  "item_id": "v1|267835906021|0",
-  "referencia": "176200",
-  "mercado": {
-   "n": 8,
-   "p25": 4514,
-   "mediana": 5244
-  },
-  "ratio_mercado": 1.113,
-  "motivo": "precio normal (111 % del cuartil bajo de 176200)"
- },
- {
-  "fecha": "2026-11-06T21:30:15.408519+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36 16013 Champagne Jubilee Fluted Steel Gold Mens Watch 1987",
-  "total": 6525.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267835904902",
-  "item_id": "v1|267835904902|0",
-  "referencia": "16013",
-  "mercado": {
-   "n": 25,
-   "p25": 3859,
-   "mediana": 4700
-  },
-  "ratio_mercado": 1.691,
-  "motivo": "precio normal (169 % del cuartil bajo de 16013)"
- },
- {
-  "fecha": "2026-11-06T21:30:15.408519+00:00",
-  "marca": "Rolex",
   "titulo": "New Rolex Day-Date 40 228235 Slate Ombre 2026 Rose Gold Wood Card Box/Papers",
   "total": 68000.0,
   "condicion": "New with box and papers",
@@ -11001,5 +10950,63 @@
    "nota": "Precio pedido por encima del valor estimado para este estado; la foto es pequeña y no permite confirmar referencia ni autenticidad."
   },
   "motivo": "triage: Precio pedido por encima del valor estimado para este estado; la foto es pequeña y no permite confirmar referencia ni autenticidad. (justo 7000)"
+ },
+ {
+  "fecha": "2026-11-10T02:17:27.505762+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Rolex Submariner Date 126610LN 41mm Black Ceramic Stainless Steel Box Paper",
+  "total": 15095.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840112209675",
+  "item_id": "v1|840112209675|0",
+  "referencia": "126610LN",
+  "mercado": {
+   "n": 84,
+   "p25": 14500,
+   "mediana": 15082
+  },
+  "ratio_mercado": 1.041,
+  "motivo": "precio normal (104 % del cuartil bajo de 126610LN)"
+ },
+ {
+  "fecha": "2026-11-10T02:17:27.505762+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Heritage Black Bay 79230N Authentic Automatic Men's Watch",
+  "total": 2600.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336889435440",
+  "item_id": "v1|336889435440|0",
+  "referencia": "79230N",
+  "mercado": {
+   "n": 17,
+   "p25": 3350,
+   "mediana": 3499
+  },
+  "ratio_mercado": 0.776,
+  "claude": {
+   "veredicto": "alerta",
+   "precio_justo_usd": 3000,
+   "riesgo_autenticidad": "bajo",
+   "estado": "Muy buen estado con rayones de uso en el brazalete, juego completo con caja interna y externa, tarjeta de garantía y correa extra"
+  },
+  "ratio_justo": 0.867,
+  "motivo": "precio normal segun revision (87 % del justo 3000)"
+ },
+ {
+  "fecha": "2026-11-10T02:17:27.505762+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 58 Ref. M7939A1A0NU Jubilee 39mm",
+  "total": 4400.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/920124110791",
+  "item_id": "v1|920124110791|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 (esfera verde, brazalete Jubilee, 39 mm)",
+   "referencia": "M7939A1A0NU (según título, no verificable en la imagen)",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Nuevo con caja y papeles; el precio pedido de US$4400 está cerca o por encima del retail, mientras que el mercado gris de Tudor suele estar 15-35 % por debajo."
+  },
+  "motivo": "triage: Nuevo con caja y papeles; el precio pedido de US$4400 está cerca o por encima del retail, mientras que el mercado gris de Tudor suele estar 15-35 % por debajo. (justo 3500)"
  }
 ]
