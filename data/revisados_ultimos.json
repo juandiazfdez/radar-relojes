@@ -1,16 +1,5 @@
 [
  {
-  "fecha": "2026-11-08T03:16:06.817360+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Cle de Cartier in stainless steel",
-  "total": 4895.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198780479648",
-  "item_id": "v1|198780479648|0",
-  "triage": null,
-  "motivo": "triage no disponible"
- },
- {
   "fecha": "2026-11-08T03:31:07.091652+00:00",
   "marca": "Rolex",
   "titulo": "Ladies 18K ROLEX DATEJUST PRESIDETIAL Automatic Watch Ref 6917 with Diamonds",
@@ -10925,5 +10914,22 @@
   },
   "ratio_justo": 1.056,
   "motivo": "precio normal segun revision (106 % del justo 2250)"
+ },
+ {
+  "fecha": "2026-11-10T21:03:06.614089+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Datejust 36, 116234,  Steel & White Gold, Blue Roman Dial, Oyst...",
+  "total": 10676.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/366800052745",
+  "item_id": "v1|366800052745|0",
+  "referencia": "116234",
+  "mercado": {
+   "n": 42,
+   "p25": 9000,
+   "mediana": 9500
+  },
+  "ratio_mercado": 1.186,
+  "motivo": "precio normal (119 % del cuartil bajo de 116234)"
  }
 ]
