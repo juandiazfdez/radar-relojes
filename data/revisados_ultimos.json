@@ -2,57 +2,6 @@
  {
   "fecha": "2026-11-07T14:45:45.952271+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 14k Yellow Gold MOP & Diamond Ladies 24mm Watch '82 6719",
-  "total": 8200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128181192205",
-  "item_id": "v1|128181192205|0",
-  "referencia": "6719",
-  "mercado": {
-   "n": 16,
-   "p25": 3990,
-   "mediana": 5585
-  },
-  "ratio_mercado": 2.055,
-  "motivo": "precio normal (206 % del cuartil bajo de 6719)"
- },
- {
-  "fecha": "2026-11-07T14:45:45.952271+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41 Steel Rainbow Diamond Iced Out Jubilee Watch +Card '17 126300",
-  "total": 19300.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128181192206",
-  "item_id": "v1|128181192206|0",
-  "referencia": "126300",
-  "mercado": {
-   "n": 22,
-   "p25": 9850,
-   "mediana": 10314
-  },
-  "ratio_mercado": 1.959,
-  "motivo": "precio normal (196 % del cuartil bajo de 126300)"
- },
- {
-  "fecha": "2026-11-07T14:45:45.952271+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 18k Yellow Gold/Steel Blue Vignette Diamond 36mm Watch E 16233",
-  "total": 9650.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128181192208",
-  "item_id": "v1|128181192208|0",
-  "referencia": "16233",
-  "mercado": {
-   "n": 28,
-   "p25": 5695,
-   "mediana": 6170
-  },
-  "ratio_mercado": 1.694,
-  "motivo": "precio normal (169 % del cuartil bajo de 16233)"
- },
- {
-  "fecha": "2026-11-07T14:45:45.952271+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust President 18k Yellow Gold Bark Pave Diamond 26mm Watch '79 6927",
   "total": 15300.0,
   "condicion": "Pre-owned - Good",
@@ -10997,5 +10946,68 @@
    "nota": "Referencia no legible en la foto; si es 116610LN el precio pedido está muy por encima del mercado, y aunque fuera 126610LN, tampoco sería una oportunidad clara."
   },
   "motivo": "triage: Referencia no legible en la foto; si es 116610LN el precio pedido está muy por encima del mercado, y aunque fuera 126610LN, tampoco sería una oportunidad clara. (justo 12500)"
+ },
+ {
+  "fecha": "2026-11-10T18:02:56.869257+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sea Dweller Oyester Perpetual Date 40mm Stainless Steel Watch Eb0626clrxde",
+  "total": 11500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920127090761",
+  "item_id": "v1|920127090761|0",
+  "triage": {
+   "modelo": "Rolex Sea-Dweller (Oyster Perpetual Sea-Dweller, 40 mm, acero)",
+   "referencia": "16600 (probable, por el bisel y la esfera; no es verificable con certeza en la foto)",
+   "precio_justo_usd": 10500,
+   "interesante": false,
+   "nota": "Precio pedido de US$11,500 con envío, por encima de lo que se vende un 16600 de acero en estado Good; sin caja y papeles confirmados, no hay descuento claro."
+  },
+  "motivo": "triage: Precio pedido de US$11,500 con envío, por encima de lo que se vende un 16600 de acero en estado Good; sin caja y papeles confirmados, no hay descuento claro. (justo 10500)"
+ },
+ {
+  "fecha": "2026-11-10T18:02:56.869257+00:00",
+  "marca": "Rolex",
+  "titulo": "2023 Rolex Daytona Cosmograph 116500 LN Panda White Ceramic 40mm Box Papers",
+  "total": 34868.2,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267839861601",
+  "item_id": "v1|267839861601|0",
+  "referencia": "116500",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Cosmograph Daytona, esfera blanca 'Panda' con bisel de cerámica negra, acero Oyster",
+   "referencia": "116500LN",
+   "precio_justo_usd": 31000,
+   "interesante": false,
+   "nota": "Referencia 116500LN de 2023 con caja y papeles en excelente estado; el precio pedido (US$34,868 con envío) queda por encima del rango de venta real estimado."
+  },
+  "motivo": "triage: Referencia 116500LN de 2023 con caja y papeles en excelente estado; el precio pedido (US$34,868 con envío) queda por encima del rango de venta real estimado. (justo 31000)"
+ },
+ {
+  "fecha": "2026-11-10T18:02:56.869257+00:00",
+  "marca": "Rolex",
+  "titulo": "2020 Rolex Daytona 116500 LN Black Stainless Steel Ceramic 40mm Watch Box Papers",
+  "total": 27218.49,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940081459574",
+  "item_id": "v1|940081459574|0",
+  "referencia": "116500",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Daytona (acero, bisel de cerámica negra, esfera negra)",
+   "referencia": "116500LN",
+   "precio_justo_usd": 28500,
+   "interesante": false,
+   "nota": "Precio dentro del rango de mercado para 116500LN de 2020 con caja y papeles; el descuento es menor al 15 % exigido."
+  },
+  "motivo": "triage: Precio dentro del rango de mercado para 116500LN de 2020 con caja y papeles; el descuento es menor al 15 % exigido. (justo 28500)"
  }
 ]
