@@ -1,130 +1,5 @@
 [
  {
-  "fecha": "2026-11-08T05:16:07.187448+00:00",
-  "marca": "Rolex",
-  "titulo": "Ladies' Presidential Rolex Datejust 69178 Yellow 18K Gold Dia Dial+ReplcmntBezel",
-  "total": 11234.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/227602344129",
-  "item_id": "v1|227602344129|0",
-  "referencia": "69178",
-  "mercado": {
-   "n": 6,
-   "p25": 5450,
-   "mediana": 5975
-  },
-  "ratio_mercado": 2.061,
-  "motivo": "precio normal (206 % del cuartil bajo de 69178)"
- },
- {
-  "fecha": "2026-11-08T05:46:17.989794+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ronde de Cartier | Automatic | 42mm Ref W6701011",
-  "total": 3495.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880094269873",
-  "item_id": "v1|880094269873|0",
-  "referencia": "W6701011",
-  "mercado": {
-   "n": 8,
-   "p25": 3650,
-   "mediana": 3964
-  },
-  "ratio_mercado": 0.958,
-  "motivo": "precio normal (96 % del cuartil bajo de W6701011)"
- },
- {
-  "fecha": "2026-11-08T06:16:18.238570+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ronde Solo XL 42mm W6701011 Automatic Stainless Steel Men's Watch",
-  "total": 3199.89,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840106241284",
-  "item_id": "v1|840106241284|0",
-  "referencia": "W6701011",
-  "mercado": {
-   "n": 8,
-   "p25": 3650,
-   "mediana": 3964
-  },
-  "ratio_mercado": 0.877,
-  "motivo": "precio normal (88 % del cuartil bajo de W6701011)"
- },
- {
-  "fecha": "2026-11-08T06:31:18.415450+00:00",
-  "marca": "Rolex",
-  "titulo": "2019 Rolex Submariner Bluesy 126613LB 41 Two-Tone 18k Gold Watch Box Papers",
-  "total": 15655.0,
-  "condicion": "New with imperfections",
-  "url": "https://www.ebay.com/itm/137909883550",
-  "item_id": "v1|137909883550|0",
-  "referencia": "126613LB",
-  "mercado": {
-   "n": 11,
-   "p25": 21499,
-   "mediana": 22399
-  },
-  "ratio_mercado": 0.728,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 16000,
-   "riesgo_autenticidad": "alto",
-   "estado": "Usado, con rayones visibles en el brazalete; presentado como nuevo con imperfecciones. Sin foto del fondo de caja ni del movimiento."
-  },
-  "motivo": "Claude descarto: Incoherencia de fechas: la tarjeta de garantía de la foto 3 dice 21-MAR-2019 (Oriental Watch Co., Hong Kong), pero la 126613LB de 41mm salió en 2020. En 2019 se vendía la 116613LB de 40mm. O la referencia del título es falsa, o la tarjeta no corresponde al reloj. Es señal clásica de reloj franken o réplica con caja y papeles de otro.; El precio de US$15,655 está muy por debajo de los comparables (cuartil bajo 21.5k, mediana 22.4k). Aun descontando que son precios pedidos, la 126613LB real se vende hoy cerca de 17-19k. Un descuento así en un reloj de 'full set' es sospechoso."
- },
- {
-  "fecha": "2026-11-08T06:31:18.415450+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor day date",
-  "total": 2100.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800885786680",
-  "item_id": "v1|800885786680|0",
-  "triage": {
-   "modelo": "Tudor Prince Day-Date (probable, esfera negra con ventana de día y fecha, brazalete de eslabones de acero)",
-   "referencia": null,
-   "precio_justo_usd": 2400,
-   "interesante": false,
-   "nota": "Precio por debajo del justo estimado solo ~12-13 %, sin llegar al umbral del 15 %. La referencia exacta y la autenticidad no se pueden verificar con la foto y el título es vago."
-  },
-  "motivo": "triage: Precio por debajo del justo estimado solo ~12-13 %, sin llegar al umbral del 15 %. La referencia exacta y la autenticidad no se pueden verificar con la foto y el título es vago. (justo 2400)"
- },
- {
-  "fecha": "2026-11-08T09:31:18.615045+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sea Dweller Deepsea · Steel · Automatic",
-  "total": 13899.0,
-  "condicion": "New without box or papers",
-  "url": "https://www.ebay.com/itm/860124118539",
-  "item_id": "v1|860124118539|0",
-  "triage": {
-   "modelo": "Rolex Sea-Dweller Deepsea (acero, automático)",
-   "referencia": "126660 (probable, por el título; la foto no permite confirmarla)",
-   "precio_justo_usd": 16500,
-   "interesante": false,
-   "nota": "Precio pedido por debajo del mercado secundario, pero sin caja ni papeles y de un listado de eBay, así que la autenticidad no se puede verificar; la foto tampoco confirma la referencia exacta."
-  },
-  "motivo": "triage: Precio pedido por debajo del mercado secundario, pero sin caja ni papeles y de un listado de eBay, así que la autenticidad no se puede verificar; la foto tampoco confirma la referencia exacta. (justo 16500)"
- },
- {
-  "fecha": "2026-11-08T11:46:28.970256+00:00",
-  "marca": "Rolex",
-  "titulo": "New Rolex Daytona Pikachu 126518LN 40MM Champagne Oysterflex 18K Yg +Box Papers",
-  "total": 61999.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/227603998302",
-  "item_id": "v1|227603998302|0",
-  "referencia": "126518LN",
-  "mercado": {
-   "n": 5,
-   "p25": 56093,
-   "mediana": 61194
-  },
-  "ratio_mercado": 1.105,
-  "motivo": "precio normal (111 % del cuartil bajo de 126518LN)"
- },
- {
   "fecha": "2026-11-08T12:46:28.783796+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Sea-Dweller 4000 116600 40mm Steel 2017 Box & Papers",
@@ -10937,5 +10812,130 @@
    "nota": "Precio pedido de US$3849 con envío está por encima del valor de venta cerrada para esta referencia usada con caja y papeles; el año '2026' del título no es verificable en la foto."
   },
   "motivo": "triage: Precio pedido de US$3849 con envío está por encima del valor de venta cerrada para esta referencia usada con caja y papeles; el año '2026' del título no es verificable en la foto. (justo 3100)"
+ },
+ {
+  "fecha": "2026-11-10T22:03:06.095217+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date 40mm 2024 Olive Green Roman Fluted President 228239",
+  "total": 46490.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198786364496",
+  "item_id": "v1|198786364496|0",
+  "referencia": "228239",
+  "mercado": {
+   "n": 17,
+   "p25": 45000,
+   "mediana": 48500
+  },
+  "ratio_mercado": 1.033,
+  "motivo": "precio normal (103 % del cuartil bajo de 228239)"
+ },
+ {
+  "fecha": "2026-11-10T22:03:06.095217+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II Men's 40MM 18K Yellow Gold & Stainless Steel W/ Papers 1998",
+  "total": 13500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880103433180",
+  "item_id": "v1|880103433180|0",
+  "triage": {
+   "modelo": "Rolex GMT-Master II bicolor (acero y oro amarillo 18k), bisel negro con numeración dorada",
+   "referencia": "16713",
+   "precio_justo_usd": 12000,
+   "interesante": false,
+   "nota": "Precio pedido de US$13.500 por encima del valor de venta estimado (~US$11.500-12.500) para una 16713 bicolor de 1998 con papeles en excelente estado; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$13.500 por encima del valor de venta estimado (~US$11.500-12.500) para una 16713 bicolor de 1998 con papeles en excelente estado; no es una oportunidad. (justo 12000)"
+ },
+ {
+  "fecha": "2026-11-10T22:03:06.095217+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer 2 Oyster Perpetual Date 40mm Stainless Steel Watch Eb1026crxzde",
+  "total": 10000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800901287262",
+  "item_id": "v1|800901287262|0",
+  "triage": {
+   "modelo": "Rolex Explorer II (esfera blanca, acero, 40 mm)",
+   "referencia": "16570 (probable; podría ser 16550 si es de finales de los 80)",
+   "precio_justo_usd": 10500,
+   "interesante": false,
+   "nota": "El precio pedido está en línea con el mercado para esta referencia; no hay descuento de al menos 15 %. Confirmar referencia, año y papeles antes de comprar."
+  },
+  "motivo": "triage: El precio pedido está en línea con el mercado para esta referencia; no hay descuento de al menos 15 %. Confirmar referencia, año y papeles antes de comprar. (justo 10500)"
+ },
+ {
+  "fecha": "2026-11-10T22:03:06.095217+00:00",
+  "marca": "Rolex",
+  "titulo": "TUDOR Prince Oysterdate \"Mini-Sub\" By Rolex Ref. 94401 33mm Automatic Wristwatch",
+  "total": 1949.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128187537146",
+  "item_id": "v1|128187537146|0",
+  "triage": {
+   "modelo": "TUDOR Prince Oysterdate Mini-Sub (bicolor acero/oro, bisel dorado, esfera champán)",
+   "referencia": "94401",
+   "precio_justo_usd": 2200,
+   "interesante": false,
+   "nota": "Precio pedido unos 11 % por debajo de mi estimación conservadora; la referencia y el estado (Good, bracelet con posible desgaste) no justifican un descuento de 15 % o más. Verificar autenticidad, inspeccionar el bracelet y revisar el dial y la corona antes de decidir."
+  },
+  "motivo": "triage: Precio pedido unos 11 % por debajo de mi estimación conservadora; la referencia y el estado (Good, bracelet con posible desgaste) no justifican un descuento de 15 % o más. Verificar autenticidad, inspeccionar el bracelet y revisar el dial y la corona antes de decidir. (justo 2200)"
+ },
+ {
+  "fecha": "2026-11-10T22:03:06.095217+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master GMT-Master II Stainless Steel / BLNR / Jubilee 126710BLNR-0002",
+  "total": 19615.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267840114289",
+  "item_id": "v1|267840114289|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 68,
+   "p25": 18145,
+   "mediana": 18825
+  },
+  "ratio_mercado": 1.081,
+  "motivo": "precio normal (108 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-10T22:03:06.095217+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Octagon Diamond 18K Yellow Gold Watch",
+  "total": 12000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407353972811",
+  "item_id": "v1|407353972811|0",
+  "triage": {
+   "modelo": "Cartier Santos Octagon (cuarzo, oro amarillo 18k, esfera nácar con índices de diamante)",
+   "referencia": "1057930 (probable; no confirmada en la foto)",
+   "precio_justo_usd": 7500,
+   "interesante": false,
+   "nota": "Precio pedido US$12,000 está muy por encima del valor de venta cerrada estimado para este modelo de oro cuarzo; referencia estimada desde la foto."
+  },
+  "motivo": "triage: Precio pedido US$12,000 está muy por encima del valor de venta cerrada estimado para este modelo de oro cuarzo; referencia estimada desde la foto. (justo 7500)"
+ },
+ {
+  "fecha": "2026-11-10T22:03:06.095217+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Royal M28400-0001 Excellent condition",
+  "total": 2211.8,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860132168214",
+  "item_id": "v1|860132168214|0",
+  "referencia": "M28400-0001",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Royal (38 mm, acero, esfera plateada, bisel negro)",
+   "referencia": "M28400-0001",
+   "precio_justo_usd": 2350,
+   "interesante": false,
+   "nota": "Precio pedido de US$2212 solo ~6 % bajo un valor de venta estimado de US$2350 para esta referencia en estado excelente; la identificación se basa en la foto y el título."
+  },
+  "motivo": "triage: Precio pedido de US$2212 solo ~6 % bajo un valor de venta estimado de US$2350 para esta referencia en estado excelente; la identificación se basa en la foto y el título. (justo 2350)"
  }
 ]
