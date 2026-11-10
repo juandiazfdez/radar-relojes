@@ -2,63 +2,6 @@
  {
   "fecha": "2026-11-07T14:30:45.993713+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 18k Yellow Gold/Steel Ceramic Black Mens 40mm Watch 116613",
-  "total": 17200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147670531284",
-  "item_id": "v1|147670531284|0",
-  "referencia": "116613",
-  "mercado": {
-   "n": 65,
-   "p25": 15410,
-   "mediana": 15900
-  },
-  "ratio_mercado": 1.116,
-  "motivo": "precio normal (112 % del cuartil bajo de 116613)"
- },
- {
-  "fecha": "2026-11-07T14:30:45.993713+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 28 Rose Gold/Steel Olive Green Diamond Watch +Card '22 279381RBR",
-  "total": 28450.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147670531319",
-  "item_id": "v1|147670531319|0",
-  "referencia": "279381RBR",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 28 acero y Everose con bisel de diamantes, esfera verde oliva con diamantes y brazalete jubilee",
-   "referencia": "279381RBR",
-   "precio_justo_usd": 18500,
-   "interesante": false,
-   "nota": "Referencia correcta, pero el precio pedido (US$28,450) está muy por encima de las ventas cerradas de esta referencia con esfera verde oliva en 2022, que rondan US$17,000-20,000."
-  },
-  "motivo": "triage: Referencia correcta, pero el precio pedido (US$28,450) está muy por encima de las ventas cerradas de esta referencia con esfera verde oliva en 2022, que rondan US$17,000-20,000. (justo 18500)"
- },
- {
-  "fecha": "2026-11-07T14:30:45.993713+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Pearlmaster 18k Rose Gold Goldust Dream MOP Diamond 34mm Watch 81315",
-  "total": 40000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147670531326",
-  "item_id": "v1|147670531326|0",
-  "triage": {
-   "modelo": "Rolex Pearlmaster 34 mm en oro Everose de 18 k, bisel de diamantes, esfera de madre perlada tipo Goldust",
-   "referencia": "81315",
-   "precio_justo_usd": 36000,
-   "interesante": false,
-   "nota": "Precio pedido de US$40,000 por encima de la estimación de venta cerrada (~US$34-38k) para estado usado; sin margen de compra claro."
-  },
-  "motivo": "triage: Precio pedido de US$40,000 por encima de la estimación de venta cerrada (~US$34-38k) para estado usado; sin margen de compra claro. (justo 36000)"
- },
- {
-  "fecha": "2026-11-07T14:30:45.993713+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust Steel Jubilee Diamond Dial/Bezel Ladies 26mm Watch A 79240",
   "total": 9050.0,
   "condicion": "Pre-owned - Good",
@@ -11003,5 +10946,56 @@
    "nota": "El precio pedido de US$4050 está por encima de retail y del mercado gris de un Tudor nuevo con caja y papeles. Además, la foto muestra esfera azul, así que hay que confirmar que la referencia coincida."
   },
   "motivo": "triage: El precio pedido de US$4050 está por encima de retail y del mercado gris de un Tudor nuevo con caja y papeles. Además, la foto muestra esfera azul, así que hay que confirmar que la referencia coincida. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-10T17:02:57.280703+00:00",
+  "marca": "Rolex",
+  "titulo": "New 2026 Rolex Submariner Date 126610LN 41MM Black Oyster Steel B/p Engraved",
+  "total": 15550.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880102747394",
+  "item_id": "v1|880102747394|0",
+  "referencia": "126610LN",
+  "mercado": {
+   "n": 31,
+   "p25": 15975,
+   "mediana": 16313
+  },
+  "ratio_mercado": 0.973,
+  "motivo": "precio normal (97 % del cuartil bajo de 126610LN)"
+ },
+ {
+  "fecha": "2026-11-10T17:02:57.280703+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Datejust 36, 16234, Steel & White Gold, Silver Jubilee Diamond ...",
+  "total": 9977.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/366799672306",
+  "item_id": "v1|366799672306|0",
+  "referencia": "16234",
+  "mercado": {
+   "n": 33,
+   "p25": 6160,
+   "mediana": 6500
+  },
+  "ratio_mercado": 1.62,
+  "motivo": "precio normal (162 % del cuartil bajo de 16234)"
+ },
+ {
+  "fecha": "2026-11-10T17:02:57.280703+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Rolex Daytona 126518 LN Turquoise Blue Oysterflex 18K Gold Watch Box Papers",
+  "total": 98108.81,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940081338632",
+  "item_id": "v1|940081338632|0",
+  "referencia": "126518",
+  "mercado": {
+   "n": 6,
+   "p25": 56288,
+   "mediana": 61694
+  },
+  "ratio_mercado": 1.743,
+  "motivo": "precio normal (174 % del cuartil bajo de 126518)"
  }
 ]
