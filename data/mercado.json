@@ -20453,5 +20453,25 @@
   "fecha": "2026-11-10",
   "consulta": "Cartier WJPA0021",
   "n": 0
+ },
+ "Rolex 16253|usado": {
+  "fecha": "2026-11-10",
+  "consulta": "Rolex 16253",
+  "n": 11,
+  "mediana": 6595,
+  "p25": 6375,
+  "p75": 7180,
+  "min": 5995,
+  "max": 9542
+ },
+ "Cartier WSBB0061|nuevo": {
+  "fecha": "2026-11-10",
+  "consulta": "Cartier WSBB0061",
+  "n": 1,
+  "mediana": 8950,
+  "p25": 8950,
+  "p75": 8950,
+  "min": 8950,
+  "max": 8950
  }
 }

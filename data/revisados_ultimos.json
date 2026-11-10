@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-06T22:30:14.984622+00:00",
-  "marca": "Rolex",
-  "titulo": "2002 Ladies Rolex Datejust 26mm 18K Yellow Gold & Steel Silver Roman 79163 Watch",
-  "total": 6649.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257839333448",
-  "item_id": "v1|257839333448|0",
-  "triage": {
-   "modelo": "Rolex Lady-Datejust 26 mm, acero y oro amarillo de 18 k, esfera plateada con numerales romanos, brazalete Oyster",
-   "referencia": "79163",
-   "precio_justo_usd": 6500,
-   "interesante": false,
-   "nota": "Precio cercano a mercado para 79163 de 2002 en estado bueno; no hay descuento de 15 % y falta confirmar caja, papeles y estado real."
-  },
-  "motivo": "triage: Precio cercano a mercado para 79163 de 2002 en estado bueno; no hay descuento de 15 % y falta confirmar caja, papeles y estado real. (justo 6500)"
- },
- {
-  "fecha": "2026-11-06T22:30:14.984622+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Chrono \"Flamingo Blue\" – Ref. M79360N-0024",
-  "total": 9950.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880090317711",
-  "item_id": "v1|880090317711|0",
-  "referencia": "M79360N-0024",
-  "mercado": {
-   "n": 17,
-   "p25": 6000,
-   "mediana": 9750
-  },
-  "ratio_mercado": 1.658,
-  "motivo": "precio normal (166 % del cuartil bajo de M79360N-0024)"
- },
- {
   "fecha": "2026-11-06T22:45:15.542150+00:00",
   "marca": "Rolex",
   "titulo": "eLive- Rolex Submariner Date 41mm 126610LN",
@@ -11007,5 +10973,45 @@
    "nota": "Con caja y papeles en estado excelente, se vende en torno a US$13.000-14.000; el precio pedido queda cerca del valor de mercado, no con descuento del 15 %. Verificar la referencia y la función cronógrafo antes de comprar."
   },
   "motivo": "triage: Con caja y papeles en estado excelente, se vende en torno a US$13.000-14.000; el precio pedido queda cerca del valor de mercado, no con descuento del 15 %. Verificar la referencia y la función cronógrafo antes de comprar. (justo 13500)"
+ },
+ {
+  "fecha": "2026-11-10T04:17:36.840557+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Thunderbird Turnograph 16253 SS 18k 36mm Jubilee Warranty W1497",
+  "total": 7236.03,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377634250663",
+  "item_id": "v1|377634250663|0",
+  "referencia": "16253",
+  "mercado": {
+   "n": 11,
+   "p25": 6375,
+   "mediana": 6595
+  },
+  "ratio_mercado": 1.135,
+  "motivo": "precio normal (114 % del cuartil bajo de 16253)"
+ },
+ {
+  "fecha": "2026-11-10T04:17:36.840557+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu 40mm Unisex Large Stainless Steel Watch #WSBB0061!",
+  "total": 6575.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/307275330216",
+  "item_id": "v1|307275330216|0",
+  "referencia": "WSBB0061",
+  "mercado": {
+   "n": 1,
+   "p25": 8950,
+   "mediana": 8950
+  },
+  "triage": {
+   "modelo": "Cartier Ballon Bleu de Cartier 40 mm, esfera azul, acero, automático",
+   "referencia": "WSBB0061",
+   "precio_justo_usd": 5800,
+   "interesante": false,
+   "nota": "Nuevo con caja y papeles se vende en mercado gris unos 15-25 % bajo retail; US$6575 queda cerca de retail, no por debajo del mercado."
+  },
+  "motivo": "triage: Nuevo con caja y papeles se vende en mercado gris unos 15-25 % bajo retail; US$6575 queda cerca de retail, no por debajo del mercado. (justo 5800)"
  }
 ]
