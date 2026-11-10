@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10T07:47:38.155639+00:00",
+ "actualizado": "2026-11-10T08:02:37.716262+00:00",
  "ventana_horas": 2.0,
  "marcas": [
   "Rolex",
@@ -7,10 +7,12 @@
   "Tudor"
  ],
  "corrida": {
-  "nuevos_vistos": 0,
-  "descartes": {},
+  "nuevos_vistos": 1,
+  "descartes": {
+   "precio_normal": 1
+  },
   "alertas_nuevas": 0,
-  "llamadas_ebay": 3,
+  "llamadas_ebay": 4,
   "cuota_agotada": false
  },
  "alertas_hoy": []
