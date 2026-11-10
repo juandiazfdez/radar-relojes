@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-11-06T22:45:15.542150+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Datejust Watch SS & 18K Yellow Gold w/Diamonds Ref.69173",
-  "total": 5400.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327443723316",
-  "item_id": "v1|327443723316|0",
-  "referencia": "69173",
-  "mercado": {
-   "n": 25,
-   "p25": 4257,
-   "mediana": 4494
-  },
-  "ratio_mercado": 1.268,
-  "motivo": "precio normal (127 % del cuartil bajo de 69173)"
- },
- {
-  "fecha": "2026-11-06T22:45:15.542150+00:00",
-  "marca": "Cartier",
-  "titulo": "Vintage 1980's Cartier Large Panthere Watch in 18 Karat Yellow Gold",
-  "total": 30005.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137908958369",
-  "item_id": "v1|137908958369|0",
-  "triage": {
-   "modelo": "Cartier Panthère (grand modèle) en oro amarillo 18k, cuarzo, pulsera integrada",
-   "referencia": "Probablemente 1057916 (no confirmable solo con la foto)",
-   "precio_justo_usd": 13000,
-   "interesante": false,
-   "nota": "Reloj auténtico y de buen estado aparente, pero US$30.005 está muy por encima de lo que se vende realmente (aprox. US$12.000-16.000 según estado, papeles y referencia exacta)."
-  },
-  "motivo": "triage: Reloj auténtico y de buen estado aparente, pero US$30.005 está muy por encima de lo que se vende realmente (aprox. US$12.000-16.000 según estado, papeles y referencia exacta). (justo 13000)"
- },
- {
-  "fecha": "2026-11-06T22:45:15.542150+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay 58 Navy Blue 79030B 39mm Steel Bracelet 2023 Full Set Box Papers",
   "total": 3750.0,
@@ -11019,5 +10985,39 @@
    "nota": "Precio pedido de US$3849 con envío está por encima del valor de reventa usado en EE. UU. (aprox. US$2,900-3,200 con caja y papeles); no alcanza el umbral del 15 % de descuento."
   },
   "motivo": "triage: Precio pedido de US$3849 con envío está por encima del valor de reventa usado en EE. UU. (aprox. US$2,900-3,200 con caja y papeles); no alcanza el umbral del 15 % de descuento. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-10T04:47:37.770632+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 2024 GMT-Master II Factory Meteorite 18k White Gold Pepsi 126719BLRO",
+  "total": 62000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257844926351",
+  "item_id": "v1|257844926351|0",
+  "referencia": "126719BLRO",
+  "mercado": {
+   "n": 15,
+   "p25": 64253,
+   "mediana": 69376
+  },
+  "ratio_mercado": 0.965,
+  "motivo": "precio normal (96 % del cuartil bajo de 126719BLRO)"
+ },
+ {
+  "fecha": "2026-11-10T04:47:37.770632+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere Stainless Steel Ladies Watch #WSPN0013!!!",
+  "total": 6750.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880101074860",
+  "item_id": "v1|880101074860|0",
+  "referencia": "WSPN0013",
+  "mercado": {
+   "n": 5,
+   "p25": 4735,
+   "mediana": 4750
+  },
+  "ratio_mercado": 1.426,
+  "motivo": "precio normal (143 % del cuartil bajo de WSPN0013)"
  }
 ]
