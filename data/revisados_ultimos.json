@@ -1,96 +1,5 @@
 [
  {
-  "fecha": "2026-11-08T03:46:07.582171+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 1964 Ladies Rolex ref 6619 Oyster Perpetual 18k Gold Watch.",
-  "total": 12750.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206683607849",
-  "item_id": "v1|206683607849|0",
-  "referencia": "6619",
-  "mercado": {
-   "n": 13,
-   "p25": 3600,
-   "mediana": 3990
-  },
-  "ratio_mercado": 3.542,
-  "motivo": "precio normal (354 % del cuartil bajo de 6619)"
- },
- {
-  "fecha": "2026-11-08T04:16:07.253837+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Dumont Small W2009251 18K Rose Gold Quartz 2018 Full Set",
-  "total": 8100.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960168878665",
-  "item_id": "v1|960168878665|0",
-  "referencia": "W2009251",
-  "mercado": {
-   "n": 1,
-   "p25": 9199,
-   "mediana": 9199
-  },
-  "triage": {
-   "modelo": "Cartier Santos-Dumont Small, oro rosa 18K, cuarzo, con caja y papeles (2018)",
-   "referencia": "W2009251",
-   "precio_justo_usd": 6800,
-   "interesante": false,
-   "nota": "El precio pedido de US$8.100 supera la venta cerrada estimada para este modelo de oro rosa 18K de 2018, aunque esté completo; no hay descuento claro."
-  },
-  "motivo": "triage: El precio pedido de US$8.100 supera la venta cerrada estimada para este modelo de oro rosa 18K de 2018, aunque esté completo; no hay descuento claro. (justo 6800)"
- },
- {
-  "fecha": "2026-11-08T04:31:07.523376+00:00",
-  "marca": "Rolex",
-  "titulo": "1997 Presidential Rolex 36 mm Day Date",
-  "total": 15950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237170658829",
-  "item_id": "v1|237170658829|0",
-  "triage": {
-   "modelo": "Rolex Day-Date 36 mm Presidential, oro amarillo 18k, esfera champán, con caja",
-   "referencia": "18038 (posiblemente 18238 si el bisel es acanalado)",
-   "precio_justo_usd": 16500,
-   "interesante": false,
-   "nota": "Precio pedido cerca del valor de mercado (~3% bajo), no cumple el umbral del 15%. Confirmar referencia, bisel, estado de la esfera y papeles antes de comprar."
-  },
-  "motivo": "triage: Precio pedido cerca del valor de mercado (~3% bajo), no cumple el umbral del 15%. Confirmar referencia, bisel, estado de la esfera y papeles antes de comprar. (justo 16500)"
- },
- {
-  "fecha": "2026-11-08T04:46:07.424019+00:00",
-  "marca": "Rolex",
-  "titulo": "2000 Rolex Air-King ref. 14000 - Full set",
-  "total": 5999.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267837186245",
-  "item_id": "v1|267837186245|0",
-  "referencia": "14000",
-  "mercado": {
-   "n": 25,
-   "p25": 4859,
-   "mediana": 4999
-  },
-  "ratio_mercado": 1.235,
-  "motivo": "precio normal (123 % del cuartil bajo de 14000)"
- },
- {
-  "fecha": "2026-11-08T05:01:07.164700+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 35mm 1962 Rolex Datejust 25J Automatic Wristwatch 1565 Steel & 18k 1601",
-  "total": 4068.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137912417134",
-  "item_id": "v1|137912417134|0",
-  "triage": {
-   "modelo": "Rolex Datejust 1601 acero y oro 18k, esfera champán, 1962 (calibre 1570)",
-   "referencia": "1601",
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "Precio cercano al mercado para este bicolor vintage con esfera champán; la correa de cuero no es original y el estado 'Good' limita el valor."
-  },
-  "motivo": "triage: Precio cercano al mercado para este bicolor vintage con esfera champán; la correa de cuero no es original y el estado 'Good' limita el valor. (justo 4300)"
- },
- {
   "fecha": "2026-11-08T05:01:07.164700+00:00",
   "marca": "Cartier",
   "titulo": "Vintage Cartier Must de 21 Women’s Quartz 28mm Wristwatch Reference 1340 ",
@@ -10943,5 +10852,90 @@
    "nota": "Precio pedido de US$7,390 muy por encima del valor de venta cerrada de segunda mano con caja y tarjeta; el listado sugiere solo caja y tarjeta, no papeles completos."
   },
   "motivo": "triage: Precio pedido de US$7,390 muy por encima del valor de venta cerrada de segunda mano con caja y tarjeta; el listado sugiere solo caja y tarjeta, no papeles completos. (justo 4800)"
+ },
+ {
+  "fecha": "2026-11-10T21:33:06.195582+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Datejust 31mm Stainless Steel Watch Eb1026irxzde",
+  "total": 8000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800901246303",
+  "item_id": "v1|800901246303|0",
+  "triage": {
+   "modelo": "Rolex Datejust 31mm acero, bisel liso, esfera azul con numerales romanos, brazalete Oyster",
+   "referencia": "178240 (probable; confirmar en el caso y el interior de la caja)",
+   "precio_justo_usd": 6800,
+   "interesante": false,
+   "nota": "Precio pedido de US$8,000 por encima del cierre estimado (~US$6,500-7,000) para un 178240 usado en buen estado; el 'Eb1026irxzde' del título no es una referencia."
+  },
+  "motivo": "triage: Precio pedido de US$8,000 por encima del cierre estimado (~US$6,500-7,000) para un 178240 usado en buen estado; el 'Eb1026irxzde' del título no es una referencia. (justo 6800)"
+ },
+ {
+  "fecha": "2026-11-10T21:33:06.195582+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 SEPTEMBER Rolex GMT Master II \"Batman\"Black Steel 126710BLNR 40mm B&P",
+  "total": 18399.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267840096978",
+  "item_id": "v1|267840096978|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 68,
+   "p25": 18145,
+   "mediana": 18825
+  },
+  "ratio_mercado": 1.014,
+  "motivo": "precio normal (101 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-10T21:33:06.195582+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Steel White Gold Salmon Ladies Watch 79174",
+  "total": 6870.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940081883926",
+  "item_id": "v1|940081883926|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 mm, acero y oro blanco, bisel acanalado, esfera salmón con índices romanos, brazalete Jubilee",
+   "referencia": "79174",
+   "precio_justo_usd": 6300,
+   "interesante": false,
+   "nota": "Precio pedido US$6,870 supera la estimación de venta real para esta referencia y estado; el dial salmón con índices no compensa el sobreprecio."
+  },
+  "motivo": "triage: Precio pedido US$6,870 supera la estimación de venta real para esta referencia y estado; el dial salmón con índices no compensa el sobreprecio. (justo 6300)"
+ },
+ {
+  "fecha": "2026-11-10T21:33:06.195582+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer Oyster Perpetual 39mm Stainless Steel Watch Eb1026cxxzde",
+  "total": 10000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920127702527",
+  "item_id": "v1|920127702527|0",
+  "triage": {
+   "modelo": "Rolex Explorer Oyster Perpetual 39 mm, acero (aspecto de la generación 2010-2021)",
+   "referencia": "214270 (probable; el código del título 'Eb1026cxxzde' no es un formato de referencia Rolex)",
+   "precio_justo_usd": 9000,
+   "interesante": false,
+   "nota": "Precio 10.000 US$ por encima de la estimación de venta cerrada para este estado. El código del título no corresponde a una referencia Rolex válida, así que hay que verificar número de serie y autenticidad antes de cualquier oferta."
+  },
+  "motivo": "triage: Precio 10.000 US$ por encima de la estimación de venta cerrada para este estado. El código del título no corresponde a una referencia Rolex válida, así que hay que verificar número de serie y autenticidad antes de cualquier oferta. (justo 9000)"
+ },
+ {
+  "fecha": "2026-11-10T21:33:06.195582+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust II #116300 Stainless Steel 41mm Watch + Box",
+  "total": 9020.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377635799414",
+  "item_id": "v1|377635799414|0",
+  "referencia": "116300",
+  "mercado": {
+   "n": 34,
+   "p25": 9800,
+   "mediana": 10500
+  },
+  "ratio_mercado": 0.92,
+  "motivo": "precio normal (92 % del cuartil bajo de 116300)"
  }
 ]
