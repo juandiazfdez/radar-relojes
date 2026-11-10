@@ -5990,13 +5990,13 @@
   "max": 19999
  },
  "Rolex 126720VTNR|usado": {
-  "fecha": "2026-11-09",
+  "fecha": "2026-11-10",
   "consulta": "Rolex 126720VTNR",
-  "n": 93,
+  "n": 95,
   "mediana": 18500,
   "p25": 17999,
   "p75": 19770,
-  "min": 15999,
+  "min": 15499,
   "max": 28995
  },
  "Rolex 126710BLRO|usado": {
@@ -20447,6 +20447,11 @@
  "Cartier WGSA0097|nuevo": {
   "fecha": "2026-11-10",
   "consulta": "Cartier WGSA0097",
+  "n": 0
+ },
+ "Cartier WJPA0021|usado": {
+  "fecha": "2026-11-10",
+  "consulta": "Cartier WJPA0021",
   "n": 0
  }
 }

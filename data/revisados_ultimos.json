@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-06T22:15:15.716391+00:00",
-  "marca": "Rolex",
-  "titulo": "2024 Rolex 126900 Air king Full Set Box and Papers",
-  "total": 8500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880090307877",
-  "item_id": "v1|880090307877|0",
-  "referencia": "126900",
-  "mercado": {
-   "n": 25,
-   "p25": 9529,
-   "mediana": 10097
-  },
-  "ratio_mercado": 0.892,
-  "motivo": "precio normal (89 % del cuartil bajo de 126900)"
- },
- {
-  "fecha": "2026-11-06T22:15:15.716391+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41 Bluestick",
-  "total": 16990.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880090292706",
-  "item_id": "v1|880090292706|0",
-  "triage": {
-   "modelo": "Rolex Datejust 41 acero y oro blanco, esfera azul con índices de barra, bisel acanalado y brazalete jubilee",
-   "referencia": "126334",
-   "precio_justo_usd": 15500,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor estimado en el mercado secundario para esta referencia nueva con caja y papeles; no hay descuento claro."
-  },
-  "motivo": "triage: Precio pedido por encima del valor estimado en el mercado secundario para esta referencia nueva con caja y papeles; no hay descuento claro. (justo 15500)"
- },
- {
-  "fecha": "2026-11-06T22:15:15.716391+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Datejust Watch SS & 14K Yellow Gold w/Diamonds Ref.6916",
-  "total": 4900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327443679987",
-  "item_id": "v1|327443679987|0",
-  "referencia": "6916",
-  "mercado": {
-   "n": 26,
-   "p25": 3500,
-   "mediana": 3754
-  },
-  "ratio_mercado": 1.4,
-  "motivo": "precio normal (140 % del cuartil bajo de 6916)"
- },
- {
   "fecha": "2026-11-06T22:30:14.984622+00:00",
   "marca": "Rolex",
   "titulo": "2002 Ladies Rolex Datejust 26mm 18K Yellow Gold & Steel Silver Roman 79163 Watch",
@@ -11001,5 +10950,62 @@
    "nota": "Precio pedido de US$8700 muy por encima del mercado de segunda mano para este modelo bicolor de cuarzo, aunque se ve con caja; sin papeles visibles."
   },
   "motivo": "triage: Precio pedido de US$8700 muy por encima del mercado de segunda mano para este modelo bicolor de cuarzo, aunque se ve con caja; sin papeles visibles. (justo 4200)"
+ },
+ {
+  "fecha": "2026-11-10T03:47:36.831363+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 126720VTNR Silver Jubilee Bracelet with Black and Green 2025",
+  "total": 18499.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960176959487",
+  "item_id": "v1|960176959487|0",
+  "referencia": "126720VTNR",
+  "mercado": {
+   "n": 95,
+   "p25": 17999,
+   "mediana": 18500
+  },
+  "ratio_mercado": 1.028,
+  "motivo": "precio normal (103 % del cuartil bajo de 126720VTNR)"
+ },
+ {
+  "fecha": "2026-11-10T03:47:36.831363+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41mm jubilee two tone",
+  "total": 19000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327448832164",
+  "item_id": "v1|327448832164|0",
+  "triage": {
+   "modelo": "Rolex Datejust 41 bicolor (acero Oystersteel y oro amarillo) con bisel liso, brazalete Jubilee y esfera plateada con índices de barra",
+   "referencia": "126303 (probable; confirmar en el grabado entre cuernos, con la referencia y el número de serie)",
+   "precio_justo_usd": 16500,
+   "interesante": false,
+   "nota": "Precio pedido US$19.000 está unos 15 % por encima de la estimación de venta real para esta referencia en estado usado; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido US$19.000 está unos 15 % por encima de la estimación de venta real para esta referencia en estado usado; no es una oportunidad. (justo 16500)"
+ },
+ {
+  "fecha": "2026-11-10T03:47:36.831363+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Pasha Chronograph 18k Rose Gold Ladies WJPA0021 Diamond Watch",
+  "total": 15950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840112771562",
+  "item_id": "v1|840112771562|0",
+  "referencia": "WJPA0021",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Pasha de Cartier (dama, oro rosa 18k, con diamantes), posiblemente Pasha 35 mm; el título dice 'Chronograph', pero el modelo femenino habitual no es cronógrafo",
+   "referencia": "WJPA0021 (según título; no verificable en la imagen)",
+   "precio_justo_usd": 13500,
+   "interesante": false,
+   "nota": "Con caja y papeles en estado excelente, se vende en torno a US$13.000-14.000; el precio pedido queda cerca del valor de mercado, no con descuento del 15 %. Verificar la referencia y la función cronógrafo antes de comprar."
+  },
+  "motivo": "triage: Con caja y papeles en estado excelente, se vende en torno a US$13.000-14.000; el precio pedido queda cerca del valor de mercado, no con descuento del 15 %. Verificar la referencia y la función cronógrafo antes de comprar. (justo 13500)"
  }
 ]
