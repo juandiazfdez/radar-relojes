@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-07T03:15:26.345239+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex 18k Yellow Gold Lady-Datejust President 26mm Automatic Watch",
-  "total": 11006.75,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117508815741",
-  "item_id": "v1|117508815741|0",
-  "triage": {
-   "modelo": "Rolex Lady-Datejust President 26 mm en oro amarillo 18k, bisel acanalado, esfera champán",
-   "referencia": "69178 (probable; confirmar con número de serie y fotos de la caja)",
-   "precio_justo_usd": 8000,
-   "interesante": false,
-   "nota": "Precio de venta cerrada estimado ~US$6.500-9.000 para estado bueno; el listado de US$11.007 con envío queda muy por encima."
-  },
-  "motivo": "triage: Precio de venta cerrada estimado ~US$6.500-9.000 para estado bueno; el listado de US$11.007 con envío queda muy por encima. (justo 8000)"
- },
- {
-  "fecha": "2026-11-07T03:15:26.345239+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay Chronograph Panda M79360N-0014 New Box & Papers 2026",
   "total": 5790.0,
@@ -11010,5 +10993,22 @@
    "nota": "Precio pedido de US$5.080 está muy por encima del mercado secundario para un Pelagos FXD de titanio pre-owned, aunque tenga caja y tarjeta."
   },
   "motivo": "triage: Precio pedido de US$5.080 está muy por encima del mercado secundario para un Pelagos FXD de titanio pre-owned, aunque tenga caja y tarjeta. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-10T14:47:46.664849+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Auto Date 1550 Gold 14K Filled 34mm incredible CONDITION BOX /book",
+  "total": 4286.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900080318840",
+  "item_id": "v1|900080318840|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date vintage, bisel y brazalete chapados en oro (gold-filled, no macizo), esfera plateada",
+   "referencia": "1550 (según título, no verificable en la foto)",
+   "precio_justo_usd": 900,
+   "interesante": false,
+   "nota": "Chapado en oro, no 14K macizo; el precio pedido de US$4286 está muy por encima del valor de mercado, incluso con caja."
+  },
+  "motivo": "triage: Chapado en oro, no 14K macizo; el precio pedido de US$4286 está muy por encima del valor de mercado, incluso con caja. (justo 900)"
  }
 ]
