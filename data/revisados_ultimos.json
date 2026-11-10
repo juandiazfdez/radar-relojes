@@ -1,63 +1,5 @@
 [
  {
-  "fecha": "2026-11-06T21:15:15.270974+00:00",
-  "marca": "Rolex",
-  "titulo": "1991 Rolex GMT-Master 16700 Pepsi Deep Matching Patina",
-  "total": 13930.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336882143107",
-  "item_id": "v1|336882143107|0",
-  "referencia": "16700",
-  "mercado": {
-   "n": 41,
-   "p25": 12695,
-   "mediana": 14250
-  },
-  "ratio_mercado": 1.097,
-  "motivo": "precio normal (110 % del cuartil bajo de 16700)"
- },
- {
-  "fecha": "2026-11-06T21:15:15.270974+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay \"Panda\" Watch Black Bay Chronograph 79360N Panda - Inventory",
-  "total": 3299.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287710160616",
-  "item_id": "v1|287710160616|0",
-  "referencia": "79360N",
-  "mercado": {
-   "n": 59,
-   "p25": 4630,
-   "mediana": 5250
-  },
-  "ratio_mercado": 0.713,
-  "claude": {
-   "veredicto": "alerta",
-   "precio_justo_usd": 4000,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado muy bueno, con marcas leves de uso; caja y papeles según el vendedor"
-  },
-  "ratio_justo": 0.825,
-  "motivo": "ALERTA"
- },
- {
-  "fecha": "2026-11-06T21:30:15.408519+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 24 76080 Pink Salmon Steel Oyster Ladies Watch",
-  "total": 3925.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267835906731",
-  "item_id": "v1|267835906731|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual 24 (esfera salmón rosada, acero, brazalete Oyster)",
-   "referencia": "76080",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Ref. 76080 de finales de los 90 a 2000s en acero con esfera salmón; el precio pedido de US$3925 supera el mercado de venta cerrada, que ronda los US$2800-3300 según estado."
-  },
-  "motivo": "triage: Ref. 76080 de finales de los 90 a 2000s en acero con esfera salmón; el precio pedido de US$3925 supera el mercado de venta cerrada, que ronda los US$2800-3300 según estado. (justo 3000)"
- },
- {
   "fecha": "2026-11-06T21:30:15.408519+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 36 16233 Champagne Diamond Steel Gold Mens Watch",
@@ -11002,5 +10944,62 @@
    "nota": "Precio pedido unos 7 % por debajo de una estimación conservadora de venta cerrada con caja y papeles; no alcanza el umbral del 15 %."
   },
   "motivo": "triage: Precio pedido unos 7 % por debajo de una estimación conservadora de venta cerrada con caja y papeles; no alcanza el umbral del 15 %. (justo 6500)"
+ },
+ {
+  "fecha": "2026-11-10T02:02:26.703323+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1966 Rolex Oyster Precision \"Speedking\" Ref. 6430",
+  "total": 4000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206688391249",
+  "item_id": "v1|206688391249|0",
+  "referencia": "6430",
+  "mercado": {
+   "n": 4,
+   "p25": 3250,
+   "mediana": 3375
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Precision 'Speedking' (caja de acero, esfera plateada, manecillas de bastón, correa de piel negra)",
+   "referencia": "6430",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Ref. 6430 vintage de cuerda manual, estado Good, con correa no original; el precio pedido de US$4000 está por encima del rango de venta cerrada y no se verifica el año 1966 en la foto."
+  },
+  "motivo": "triage: Ref. 6430 vintage de cuerda manual, estado Good, con correa no original; el precio pedido de US$4000 está por encima del rango de venta cerrada y no se verifica el año 1966 en la foto. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-10T02:02:26.703323+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 126301 Sundust Pre-owned · Excellent",
+  "total": 17650.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960176657783",
+  "item_id": "v1|960176657783|0",
+  "referencia": "126301",
+  "mercado": {
+   "n": 17,
+   "p25": 15950,
+   "mediana": 16170
+  },
+  "ratio_mercado": 1.107,
+  "motivo": "precio normal (111 % del cuartil bajo de 126301)"
+ },
+ {
+  "fecha": "2026-11-10T02:02:26.703323+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex  Oyster Perpetual Datejust 18k Yellow Gold SS Mens Watch Original Owner",
+  "total": 7800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257842892620",
+  "item_id": "v1|257842892620|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 bicolor (acero y oro amarillo de 18k), esfera negra con marcadores de barra y bisel acanalado",
+   "referencia": "16233 (posible 16013; no verificable con la foto)",
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor estimado para este estado; la foto es pequeña y no permite confirmar referencia ni autenticidad."
+  },
+  "motivo": "triage: Precio pedido por encima del valor estimado para este estado; la foto es pequeña y no permite confirmar referencia ni autenticidad. (justo 7000)"
  }
 ]
