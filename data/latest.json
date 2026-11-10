@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10T20:02:56.707417+00:00",
+ "actualizado": "2026-11-10T20:17:57.184745+00:00",
  "ventana_horas": 2.0,
  "marcas": [
   "Rolex",
@@ -7,16 +7,87 @@
   "Tudor"
  ],
  "corrida": {
-  "nuevos_vistos": 30,
+  "nuevos_vistos": 45,
   "descartes": {
-   "titulo": 10,
-   "precio_normal": 16,
-   "triage": 3,
+   "precio_normal": 19,
+   "titulo": 15,
+   "triage": 9,
    "precio_justo": 1
   },
-  "alertas_nuevas": 0,
-  "llamadas_ebay": 14,
+  "alertas_nuevas": 1,
+  "llamadas_ebay": 18,
   "cuota_agotada": false
  },
- "alertas_hoy": []
+ "alertas_hoy": [
+  {
+   "fecha": "2026-11-10T20:17:57.184745+00:00",
+   "marca": "Rolex",
+   "titulo": "Rolex Submariner 16800, Black Dial, Stainless Steel Case & Oyster Bracelet, Vtg",
+   "precio": 8750.0,
+   "envio": 0.0,
+   "total": 8750.0,
+   "mercado": {
+    "fecha": "2026-11-10",
+    "consulta": "Rolex 16800",
+    "n": 15,
+    "mediana": 12900,
+    "p25": 11950,
+    "p75": 15000,
+    "min": 8750,
+    "max": 18099
+   },
+   "triage": null,
+   "vendedor": "southjerseystyle",
+   "valoraciones": 1385,
+   "pct_positivo": "100.0",
+   "url": "https://www.ebay.com/itm/377635710119",
+   "item_id": "v1|377635710119|0",
+   "info": {
+    "departamento": "Men",
+    "referencia": "16800",
+    "modelo_esp": "Rolex Submariner",
+    "caja_mm": "40 mm",
+    "material": "Stainless Steel",
+    "ano": null,
+    "movimiento": "Mechanical (Automatic)",
+    "caja_original": "Yes",
+    "papeles": "Yes",
+    "condicion": "Pre-owned - Good",
+    "condicion_id": "3000",
+    "condicion_desc": "",
+    "garantia_autenticidad": false,
+    "devoluciones": true,
+    "amarillas": [],
+    "imagenes": [
+     "https://i.ebayimg.com/images/g/dFMAAeSwhItq71zj/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/6DIAAeSwvAdq71zj/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/IeAAAeSwr8Bq71zk/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/raYAAeSwKkpq71zl/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/D4wAAeSwm9Bq71zm/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/yswAAeSwSS9q71zm/s-l1600.jpg"
+    ]
+   },
+   "claude": {
+    "veredicto": "alerta",
+    "modelo": "Rolex Submariner Date 16800 (acero, 40 mm, esfera negra gloss con tritio, zafiro, c. 1985-86)",
+    "estado": "Bueno, con desgaste normal de 40 años: brazalete algo estirado, perla del bisel envejecida y posible daño en la ventana del fechador",
+    "riesgo_autenticidad": "medio",
+    "completo": true,
+    "razones": [
+     "El precio de US$8,750 está unos 17 % por debajo de lo que cierra un 16800 en buen estado con caja y papeles. Se vende normalmente en US$10,000-12,000, y un set completo de primer dueño puede llegar a US$12-13k. Los US$12-13k de los comparables son precios pedidos e inflados.",
+     "Las fotos coinciden con un 16800: esfera gloss con texto 'SUBMARINER 1000ft=300m SUPERLATIVE CHROMETER OFFICIALLY CERTIFIED', marcadores de tritio con aro metálico, cristal de zafiro con cyclops, brazalete Oyster de eslabones plegados y bisel de 60 min. Todo es coherente con la referencia.",
+     "Caja verde original de la época, con la etiqueta '16800' y el número 9160513 en la Attestation de Chronomètre Officiel. Ese número coincide con el serial del anuncio, y el rango 9.1M encaja con 1985-86. La descripción dice que es de primer dueño.",
+     "Faltan fotos del fondo de caja, de los laterales de la caja donde está el serial (entre los cuernos) y del movimiento. No puedo confirmar que el serial del reloj coincida con el del papel. Tampoco veo la tarjeta de garantía perforada que menciona la descripción; la foto solo muestra el libreto de cronómetro y una tarjeta con mapa.",
+     "La ventana del fechador (cyclops y disco de fecha) se ve manchada o con reflejos raros en las fotos. Puede ser humedad, un cristal dañado o solo reflejo. Hay que pedir fotos nítidas, porque un cristal o fechador no original resta valor.",
+     "La perla del bisel está amarillenta y el inserto se ve algo gastado. Es envejecimiento normal que muchos coleccionistas valoran, pero hay que confirmar que el inserto sea original y no un reemplazo.",
+     "El brazalete tiene rayones, y por el aspecto probablemente esté estirado, algo habitual en el 7206/78360. El anuncio no indica si los eslabones y el cierre son originales; hay que pedir fotos del cierre y de los códigos de los eslabones.",
+     "Hay devolución, lo que reduce el riesgo. El vendedor tiene 1,385 valoraciones con 100 % positivo, solo como información. No hay garantía de autenticidad.",
+     "Si el reloj resulta correcto (serial coincidente, agujas y esfera originales, cristal sin problemas), el margen de reventa es bueno. Con devolución aceptada, vale la pena pedir las fotos y comprar."
+    ],
+    "precio_justo_usd": 10500,
+    "precio_reventa_rd_usd": 11800
+   },
+   "ratio_justo": 0.833
+  }
+ ]
 }
