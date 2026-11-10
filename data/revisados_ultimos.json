@@ -1,187 +1,5 @@
 [
  {
-  "fecha": "2026-11-06T19:30:15.107463+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Pasha C W31074M7 2324 35mm Silver Steel Mens Watch Box",
-  "total": 2925.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257839106534",
-  "item_id": "v1|257839106534|0",
-  "referencia": "2324",
-  "mercado": {
-   "n": 22,
-   "p25": 2300,
-   "mediana": 2475
-  },
-  "ratio_mercado": 1.272,
-  "motivo": "precio normal (127 % del cuartil bajo de 2324)"
- },
- {
-  "fecha": "2026-11-06T19:30:15.107463+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay 79377KN Carbon Chrono Full Set Box Papers White Limited",
-  "total": 6799.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128179675939",
-  "item_id": "v1|128179675939|0",
-  "referencia": "79377KN",
-  "mercado": {
-   "n": 15,
-   "p25": 7940,
-   "mediana": 8495
-  },
-  "ratio_mercado": 0.856,
-  "motivo": "precio normal (86 % del cuartil bajo de 79377KN)"
- },
- {
-  "fecha": "2026-11-06T19:45:14.884438+00:00",
-  "marca": "Rolex",
-  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
-  "total": 15990.01,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/327443558005",
-  "item_id": "v1|327443558005|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date (bisel negro, brazalete de acero), referencia no legible en la imagen",
-   "referencia": null,
-   "precio_justo_usd": 12500,
-   "interesante": false,
-   "nota": "Referencia no visible; con caja y papeles completos, el precio pedido está por encima de lo que se vende este modelo en EE. UU. Sin confirmar referencia ni generación, no es una oportunidad."
-  },
-  "motivo": "triage: Referencia no visible; con caja y papeles completos, el precio pedido está por encima de lo que se vende este modelo en EE. UU. Sin confirmar referencia ni generación, no es una oportunidad. (justo 12500)"
- },
- {
-  "fecha": "2026-11-06T20:00:15.327960+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT Master II 116710BLNR Batman Blue/Black Oyster 2017 B&P",
-  "total": 17093.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/860119787843",
-  "item_id": "v1|860119787843|0",
-  "referencia": "116710BLNR",
-  "mercado": {
-   "n": 45,
-   "p25": 15999,
-   "mediana": 16850
-  },
-  "ratio_mercado": 1.068,
-  "motivo": "precio normal (107 % del cuartil bajo de 116710BLNR)"
- },
- {
-  "fecha": "2026-11-06T20:00:15.327960+00:00",
-  "marca": "Rolex",
-  "titulo": "2018 Rolex Datejust 31 mm 178274 Steel & White Gold Box and Papers/card Excelnt.",
-  "total": 8295.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920113109810",
-  "item_id": "v1|920113109810|0",
-  "referencia": "178274",
-  "mercado": {
-   "n": 51,
-   "p25": 10790,
-   "mediana": 11674
-  },
-  "ratio_mercado": 0.769,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 6300,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Buen estado, esfera y brazalete limpios, con algo de desgaste y posibles rayones; juego completo"
-  },
-  "motivo": "Claude descarto: Precio pedido de US$8,295, bastante por encima de lo que se cierra hoy. Un 178274 de acero y oro blanco con caja y papeles se vende de forma realista en US$5,800-6,800. La referencia fue reemplazada por la 278274, y las ventas cerradas de la 178274 están claramente por debajo de los precios pedidos.; Los comparables de eBay (cuartil bajo 10,790, mediana 11,674) son precios pedidos inflados y no sirven como referencia de cierre. Aun así, con este precio de compra no queda margen de reventa."
- },
- {
-  "fecha": "2026-11-06T20:00:15.327960+00:00",
-  "marca": "Rolex",
-  "titulo": "NEW 2026 Rolex GMT-Master II Bruce Wayne 40mm 126710GRNR Oyster (STICKERED)",
-  "total": 21410.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/147669493305",
-  "item_id": "v1|147669493305|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 63,
-   "p25": 21450,
-   "mediana": 22825
-  },
-  "ratio_mercado": 0.998,
-  "motivo": "precio normal (100 % del cuartil bajo de 126710GRNR)"
- },
- {
-  "fecha": "2026-11-06T20:00:15.327960+00:00",
-  "marca": "Cartier",
-  "titulo": "Brand New 2025 Complete Set Cartier Santos Dumont WSSA0046",
-  "total": 7650.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/960158906552",
-  "item_id": "v1|960158906552|0",
-  "referencia": "WSSA0046",
-  "mercado": {
-   "n": 9,
-   "p25": 7973,
-   "mediana": 8349
-  },
-  "ratio_mercado": 0.959,
-  "motivo": "precio normal (96 % del cuartil bajo de WSSA0046)"
- },
- {
-  "fecha": "2026-11-06T20:15:15.448048+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36 16233 Vintage Champagne Steel Yellow Gold Mens Watch Papers",
-  "total": 9225.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257839171360",
-  "item_id": "v1|257839171360|0",
-  "referencia": "16233",
-  "mercado": {
-   "n": 28,
-   "p25": 5695,
-   "mediana": 6170
-  },
-  "ratio_mercado": 1.62,
-  "motivo": "precio normal (162 % del cuartil bajo de 16233)"
- },
- {
-  "fecha": "2026-11-06T20:15:15.448048+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 6509 25 mm White Watch Only 1927",
-  "total": 4250.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336882051525",
-  "item_id": "v1|336882051525|0",
-  "referencia": "6509",
-  "mercado": {
-   "n": 2,
-   "p25": 5000,
-   "mediana": 6510
-  },
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual de señora, acero, esfera blanca (posible vintage)",
-   "referencia": null,
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "El título dice 6509 y 1927, pero esa referencia no encaja con la fecha y la foto no permite confirmarla. Con esa incertidumbre, US$4,250 está por encima del valor de venta realista."
-  },
-  "motivo": "triage: El título dice 6509 y 1927, pero esa referencia no encaja con la fecha y la foto no permite confirmarla. Con esa incertidumbre, US$4,250 está por encima del valor de venta realista. (justo 2800)"
- },
- {
-  "fecha": "2026-11-06T20:15:15.448048+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos de Cartier Large Watch Santos de Large WSSA0089 2026 - Inventory",
-  "total": 9599.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287710061588",
-  "item_id": "v1|287710061588|0",
-  "referencia": "WSSA0089",
-  "mercado": {
-   "n": 5,
-   "p25": 10549,
-   "mediana": 10995
-  },
-  "ratio_mercado": 0.91,
-  "motivo": "precio normal (91 % del cuartil bajo de WSSA0089)"
- },
- {
   "fecha": "2026-11-06T20:15:15.448048+00:00",
   "marca": "Cartier",
   "titulo": "CARTIER Tank Francaise Automatic Stainless Steel Watch W51002Q3 2302 Box&Papers",
@@ -11033,5 +10851,181 @@
   },
   "ratio_mercado": 0.974,
   "motivo": "precio normal (97 % del cuartil bajo de 2465)"
+ },
+ {
+  "fecha": "2026-11-10T00:32:27.399769+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Ref 6917 Lady Oyster Date 18k Gold SS Automatic 1980s Swiss Luxury RA735B",
+  "total": 5890.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267839100410",
+  "item_id": "v1|267839100410|0",
+  "referencia": "6917",
+  "mercado": {
+   "n": 42,
+   "p25": 3990,
+   "mediana": 4127
+  },
+  "ratio_mercado": 1.476,
+  "motivo": "precio normal (148 % del cuartil bajo de 6917)"
+ },
+ {
+  "fecha": "2026-11-10T00:32:27.399769+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 3372 Chronometre Rose Gold SS Men Automatic 1940s 32mm Bubbleback RA750B",
+  "total": 9100.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940079523652",
+  "item_id": "v1|940079523652|0",
+  "triage": {
+   "modelo": "Rolex Bubbleback (1940s) bicolor acero/oro rosa, posible ref. 3372 Chronometre",
+   "referencia": "3372 (no verificable en la imagen)",
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del rango estimado para un bubbleback bicolor de 1940s en estado Good; la imagen no permite confirmar la referencia ni la autenticidad del dial y la caja, así que requiere verificación presencial."
+  },
+  "motivo": "triage: Precio pedido por encima del rango estimado para un bubbleback bicolor de 1940s en estado Good; la imagen no permite confirmar la referencia ni la autenticidad del dial y la caja, así que requiere verificación presencial. (justo 7000)"
+ },
+ {
+  "fecha": "2026-11-10T00:32:27.399769+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Ref 6580 14k Gold SS Mens 1950s Vintage Automatic RA786B",
+  "total": 7800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940079523301",
+  "item_id": "v1|940079523301|0",
+  "referencia": "6580",
+  "mercado": {
+   "n": 2,
+   "p25": 5700,
+   "mediana": 6370
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual bicolor acero/oro 14k, esfera crema con índices dorados (años 1950)",
+   "referencia": "6580",
+   "precio_justo_usd": 5200,
+   "interesante": false,
+   "nota": "Bicolor 14k de los años 50 en buen estado suele venderse entre 4.000 y 6.000 USD según estado de la esfera, bisel y servicio. El precio pedido de 7.800 USD está muy por encima; verificar autenticidad y estado real."
+  },
+  "motivo": "triage: Bicolor 14k de los años 50 en buen estado suele venderse entre 4.000 y 6.000 USD según estado de la esfera, bisel y servicio. El precio pedido de 7.800 USD está muy por encima; verificar autenticidad y estado real. (justo 5200)"
+ },
+ {
+  "fecha": "2026-11-10T00:32:27.399769+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex President Day Date 1803 18k Solid Gold Mens Diamond 1970s Automatic RA659",
+  "total": 16900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257844651221",
+  "item_id": "v1|257844651221|0",
+  "triage": {
+   "modelo": "Rolex Day-Date (President) 36 mm en oro amarillo 18k, bisel acanalado, esfera negra con marcadores de diamante",
+   "referencia": "1803",
+   "precio_justo_usd": 17500,
+   "interesante": false,
+   "nota": "Referencia 1803 de los años 70 con esfera de diamantes; el código 'RA659' del título no es referencia Rolex. Precio cercano al justo, sin descuento suficiente. Verificar esfera original, autenticidad y servicio."
+  },
+  "motivo": "triage: Referencia 1803 de los años 70 con esfera de diamantes; el código 'RA659' del título no es referencia Rolex. Precio cercano al justo, sin descuento suficiente. Verificar esfera original, autenticidad y servicio. (justo 17500)"
+ },
+ {
+  "fecha": "2026-11-10T00:32:27.399769+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Ref 1601 Datejust Mens 36mm 1970s 18k SS Vintage Automatic RA790B",
+  "total": 8360.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267839095429",
+  "item_id": "v1|267839095429|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Datejust (acero con bisel estriado de oro de 18k, esfera negra)",
+   "referencia": "1601",
+   "precio_justo_usd": 4800,
+   "interesante": false,
+   "nota": "Ref. 1601 de los años 70 en acero con bisel de oro; el precio pedido de US$8,360 supera con holgura lo que se vende realmente, y la esfera negra y la correa de piel no son la configuración habitual."
+  },
+  "motivo": "triage: Ref. 1601 de los años 70 en acero con bisel de oro; el precio pedido de US$8,360 supera con holgura lo que se vende realmente, y la esfera negra y la correa de piel no son la configuración habitual. (justo 4800)"
+ },
+ {
+  "fecha": "2026-11-10T00:32:27.399769+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 26mm Champagne Diamond Fluted President Watch&Box 179178",
+  "total": 19995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198784266375",
+  "item_id": "v1|198784266375|0",
+  "referencia": "179178",
+  "mercado": {
+   "n": 15,
+   "p25": 19270,
+   "mediana": 21495
+  },
+  "ratio_mercado": 1.038,
+  "motivo": "precio normal (104 % del cuartil bajo de 179178)"
+ },
+ {
+  "fecha": "2026-11-10T00:32:27.399769+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Datejust Ref 1603 Mens 36mm 1960s Vintage Automatic RA684C",
+  "total": 7880.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940079521071",
+  "item_id": "v1|940079521071|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Datejust (acero, bisel acanalado, esfera plateada, cristal de época)",
+   "referencia": "1603",
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "Ref. 1603 de acero de 36 mm en estado Good, sin caja ni papeles; el precio pedido de US$7.880 queda por encima del mercado. Autenticidad no verificable solo con la foto."
+  },
+  "motivo": "triage: Ref. 1603 de acero de 36 mm en estado Good, sin caja ni papeles; el precio pedido de US$7.880 queda por encima del mercado. Autenticidad no verificable solo con la foto. (justo 6500)"
+ },
+ {
+  "fecha": "2026-11-10T00:32:27.399769+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Datejust Ref 6605 Mens 18k Solid Gold 36mm 1960s Automatic RA701C",
+  "total": 14900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257844648541",
+  "item_id": "v1|257844648541|0",
+  "referencia": "6605",
+  "mercado": {
+   "n": 11,
+   "p25": 5495,
+   "mediana": 6114
+  },
+  "ratio_mercado": 2.712,
+  "motivo": "precio normal (271 % del cuartil bajo de 6605)"
+ },
+ {
+  "fecha": "2026-11-10T00:32:27.399769+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 1803 Oyster Day Date 18k Gold Mens 1970s 36mm Diamond President RA854",
+  "total": 16390.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940079516756",
+  "item_id": "v1|940079516756|0",
+  "triage": {
+   "modelo": "Rolex Day-Date 'President' de oro amarillo 18k, esfera champán con marcadores de diamantes",
+   "referencia": "1803",
+   "precio_justo_usd": 16500,
+   "interesante": false,
+   "nota": "La 1803 vintage con esfera de diamantes se vende en torno a US$15-18k; el precio pedido está en ese rango, sin descuento. 'RA854' no es una referencia Rolex conocida, así que hay que verificar la esfera y el autenticidad."
+  },
+  "motivo": "triage: La 1803 vintage con esfera de diamantes se vende en torno a US$15-18k; el precio pedido está en ese rango, sin descuento. 'RA854' no es una referencia Rolex conocida, así que hay que verificar la esfera y el autenticidad. (justo 16500)"
+ },
+ {
+  "fecha": "2026-11-10T00:32:27.399769+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex Oyster Perpetual Date (Ladies-Date), two-tone steel & gold Works",
+  "total": 3504.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307275125743",
+  "item_id": "v1|307275125743|0",
+  "triage": {
+   "modelo": "Rolex Ladies Date (Oyster Perpetual Date) de acero y oro amarillo, bisel acanalado, brazalete Jubilee",
+   "referencia": "69173 (probable; 6917 o 6916 según la generación, sin confirmar)",
+   "precio_justo_usd": 2200,
+   "interesante": false,
+   "nota": "Precio pedido por encima de lo que se vende este modelo vintage bicolor en condición Good; sin caja ni papeles confirmados, y el precio no muestra descuento."
+  },
+  "motivo": "triage: Precio pedido por encima de lo que se vende este modelo vintage bicolor en condición Good; sin caja ni papeles confirmados, y el precio no muestra descuento. (justo 2200)"
  }
 ]
