@@ -1,85 +1,5 @@
 [
  {
-  "fecha": "2026-11-06T20:45:15.154668+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier La Dona de Cartier W660022I 2835 28mm Large Silver Steel Ladies Watch",
-  "total": 5425.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267835865818",
-  "item_id": "v1|267835865818|0",
-  "referencia": "W660022I",
-  "mercado": {
-   "n": 4,
-   "p25": 5750,
-   "mediana": 5800
-  },
-  "triage": {
-   "modelo": "Cartier La Dona de Cartier (caja tonneau de acero, esfera plateada con números romanos, brazalete de eslabones)",
-   "referencia": "W660022I",
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "El precio pedido de US$5,425 está muy por encima de lo que se vende realmente un La Dona de acero de esta referencia, incluso con caja y papeles; no es una oportunidad."
-  },
-  "motivo": "triage: El precio pedido de US$5,425 está muy por encima de lo que se vende realmente un La Dona de acero de esta referencia, incluso con caja y papeles; no es una oportunidad. (justo 2800)"
- },
- {
-  "fecha": "2026-11-06T20:45:15.154668+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu W6920046 Watch and 2017 Card",
-  "total": 4090.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237168125728",
-  "item_id": "v1|237168125728|0",
-  "referencia": "W6920046",
-  "mercado": {
-   "n": 21,
-   "p25": 4595,
-   "mediana": 4945
-  },
-  "ratio_mercado": 0.89,
-  "motivo": "precio normal (89 % del cuartil bajo de W6920046)"
- },
- {
-  "fecha": "2026-11-06T20:45:15.154668+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Classic Date 28mm 22010 10p Diamond Ladies Timepeice ",
-  "total": 1800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307270280515",
-  "item_id": "v1|307270280515|0",
-  "referencia": "22010",
-  "mercado": {
-   "n": 2,
-   "p25": 1250,
-   "mediana": 1625
-  },
-  "triage": {
-   "modelo": "Tudor Classic Date 28 mm, esfera blanca con diamantes (versión señora)",
-   "referencia": "22010",
-   "precio_justo_usd": 1600,
-   "interesante": false,
-   "nota": "Precio pedido de 1800 USD está por encima del valor de venta cerrada estimado (~1600 USD) para esta referencia en condición Good; no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido de 1800 USD está por encima del valor de venta cerrada estimado (~1600 USD) para esta referencia en condición Good; no hay descuento suficiente. (justo 1600)"
- },
- {
-  "fecha": "2026-11-06T21:00:15.573604+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Explorer II 16570-0003 Pre-owned Box & Papers 2002",
-  "total": 10000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137908728769",
-  "item_id": "v1|137908728769|0",
-  "referencia": "16570",
-  "mercado": {
-   "n": 41,
-   "p25": 8445,
-   "mediana": 8990
-  },
-  "ratio_mercado": 1.184,
-  "motivo": "precio normal (118 % del cuartil bajo de 16570)"
- },
- {
   "fecha": "2026-11-06T21:00:15.573604+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Cellini Classic Yellow Gold Mother Of Pearl Watch 5112",
@@ -11015,5 +10935,73 @@
    "nota": "El precio pedido supera el valor de venta típico de un 89190 usado en buen estado. La foto muestra brazalete de malla milanesa, no el correa de cuero del título; verificar el listado."
   },
   "motivo": "triage: El precio pedido supera el valor de venta típico de un 89190 usado en buen estado. La foto muestra brazalete de malla milanesa, no el correa de cuero del título; verificar el listado. (justo 1400)"
+ },
+ {
+  "fecha": "2026-11-10T01:17:27.230259+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36 Wimbledon 126233 Two-Tone Jubilee BRAND NEW Box&Papers 2026",
+  "total": 16995.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/117513352093",
+  "item_id": "v1|117513352093|0",
+  "referencia": "126233",
+  "mercado": {
+   "n": 42,
+   "p25": 19261,
+   "mediana": 20414
+  },
+  "ratio_mercado": 0.882,
+  "motivo": "precio normal (88 % del cuartil bajo de 126233)"
+ },
+ {
+  "fecha": "2026-11-10T01:17:27.230259+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date",
+  "total": 4110.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128185892470",
+  "item_id": "v1|128185892470|429588068791",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date 34 mm, esfera blanca con números romanos",
+   "referencia": "15000 o 15200 (probable, no confirmable en la foto)",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "Precio pedido unos 4 % por debajo de la estimación; el descuento no alcanza el 15 % y la referencia exacta no es verificable solo con la foto."
+  },
+  "motivo": "triage: Precio pedido unos 4 % por debajo de la estimación; el descuento no alcanza el 15 % y la referencia exacta no es verificable solo con la foto. (justo 4300)"
+ },
+ {
+  "fecha": "2026-11-10T01:17:27.230259+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster Automatic Chronograph Swiss Made 100m ref. W62019X6",
+  "total": 4999.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800898161794",
+  "item_id": "v1|800898161794|0",
+  "triage": {
+   "modelo": "Cartier Roadster Chronograph (automático, acero, caja tonneau)",
+   "referencia": "W62019X6",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "Roadster cronógrafo de acero en buen estado; el precio pedido de US$4999 con envío está por encima del rango de venta cerrada, sin ventaja clara de compra."
+  },
+  "motivo": "triage: Roadster cronógrafo de acero en buen estado; el precio pedido de US$4999 con envío está por encima del rango de venta cerrada, sin ventaja clara de compra. (justo 4300)"
+ },
+ {
+  "fecha": "2026-11-10T01:17:27.230259+00:00",
+  "marca": "Cartier",
+  "titulo": "Must de Cartier 21 Two-Tone Swiss Quartz Watch – Full-Length Bracelet – Excellen",
+  "total": 2868.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860129306672",
+  "item_id": "v1|860129306672|0",
+  "triage": {
+   "modelo": "Must de Cartier 21 two-tone (acero y chapa de oro), cuarzo suizo, esfera blanca con números romanos",
+   "referencia": null,
+   "precio_justo_usd": 700,
+   "interesante": false,
+   "nota": "El precio pedido de US$2868 está muy por encima de lo que se vende este modelo de cuarzo usado; el precio justo ronda los US$600-800 según estado y papeles."
+  },
+  "motivo": "triage: El precio pedido de US$2868 está muy por encima de lo que se vende este modelo de cuarzo usado; el precio justo ronda los US$600-800 según estado y papeles. (justo 700)"
  }
 ]
