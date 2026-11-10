@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-06T23:00:15.265233+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Chrono M79360N-0014 41mm Steel 2025 Jubilee",
-  "total": 5750.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960163868208",
-  "item_id": "v1|960163868208|0",
-  "referencia": "M79360N-0014",
-  "mercado": {
-   "n": 26,
-   "p25": 4650,
-   "mediana": 5500
-  },
-  "ratio_mercado": 1.237,
-  "motivo": "precio normal (124 % del cuartil bajo de M79360N-0014)"
- },
- {
-  "fecha": "2026-11-06T23:00:15.265233+00:00",
-  "marca": "Tudor",
-  "titulo": "2025 Tudor Black Bay 58 GMT \"Coke\" ref. 7939G1A0NRU 39mm",
-  "total": 4000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287710324207",
-  "item_id": "v1|287710324207|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 GMT 39 mm 'Coke'",
-   "referencia": "7939G1A0NRU",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Reloj de producción reciente con bisel Coke y brazalete de acero; con 4.000 US$ queda por encima del mercado gris, aunque el estado 'Good' y la falta de papeles visibles justifican un precio menor."
-  },
-  "motivo": "triage: Reloj de producción reciente con bisel Coke y brazalete de acero; con 4.000 US$ queda por encima del mercado gris, aunque el estado 'Good' y la falta de papeles visibles justifican un precio menor. (justo 3500)"
- },
- {
-  "fecha": "2026-11-06T23:15:15.004465+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT Master II 40mm Batgirl",
-  "total": 18200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880090407188",
-  "item_id": "v1|880090407188|0",
-  "triage": {
-   "modelo": "Rolex GMT-Master II 40mm, bisel cerámica azul/negra (\"Batman\"), brazalete Jubilee, acero",
-   "referencia": "126710BLNR",
-   "precio_justo_usd": 19000,
-   "interesante": false,
-   "nota": "El título dice \"Batgirl\", pero el reloj de la foto corresponde a un 126710BLNR (Batman). Precio pedido ~4 % por debajo del valor estimado de mercado, sin descuento de 15 %."
-  },
-  "motivo": "triage: El título dice \"Batgirl\", pero el reloj de la foto corresponde a un 126710BLNR (Batman). Precio pedido ~4 % por debajo del valor estimado de mercado, sin descuento de 15 %. (justo 19000)"
- },
- {
   "fecha": "2026-11-06T23:15:15.004465+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual Datejust Watch Stainless Steel & 18K Yellow Gold Ref.6917",
@@ -11025,5 +10974,68 @@
   },
   "ratio_mercado": 0.975,
   "motivo": "precio normal (98 % del cuartil bajo de 126600)"
+ },
+ {
+  "fecha": "2026-11-10T05:17:38.113366+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 31mm 2026 NOVEMBER UNWORN 277200 Beige Steel",
+  "total": 9200.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840112991529",
+  "item_id": "v1|840112991529|0",
+  "referencia": "277200",
+  "mercado": {
+   "n": 17,
+   "p25": 9715,
+   "mediana": 11950
+  },
+  "ratio_mercado": 0.947,
+  "motivo": "precio normal (95 % del cuartil bajo de 277200)"
+ },
+ {
+  "fecha": "2026-11-10T05:17:38.113366+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Land-Dweller 36mm 2026 OCTOBER UNWORN 127234 White Steel",
+  "total": 20300.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840112990435",
+  "item_id": "v1|840112990435|0",
+  "referencia": "127234",
+  "mercado": {
+   "n": 3,
+   "p25": 19995,
+   "mediana": 20945
+  },
+  "triage": {
+   "modelo": "Rolex de acero con bisel acanalado, esfera blanca texturizada y brazalete Jubilee (parece Datejust 36, no Land-Dweller; el título no coincide con la foto)",
+   "referencia": null,
+   "precio_justo_usd": 17000,
+   "interesante": false,
+   "nota": "La foto muestra brazalete Jubilee, que no corresponde a un Land-Dweller 127234 (usa brazalete Oyster). Discrepancia título/foto y precio por encima del mercado secundario estimado."
+  },
+  "motivo": "triage: La foto muestra brazalete Jubilee, que no corresponde a un Land-Dweller 127234 (usa brazalete Oyster). Discrepancia título/foto y precio por encima del mercado secundario estimado. (justo 17000)"
+ },
+ {
+  "fecha": "2026-11-10T05:17:38.113366+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 1908 2026 OCTOBER UNWORN 52506 Ice Blue Platinum Black Leather",
+  "total": 42400.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840112988264",
+  "item_id": "v1|840112988264|0",
+  "referencia": "52506",
+  "mercado": {
+   "n": 1,
+   "p25": 44400,
+   "mediana": 44400
+  },
+  "triage": {
+   "modelo": "Rolex 1908 platino con esfera azul hielo (small seconds)",
+   "referencia": "52506",
+   "precio_justo_usd": 45000,
+   "interesante": false,
+   "nota": "Modelo de producción reciente en platino; el mercado secundario suele estar cerca o por encima de retail. El precio pedido no tiene margen de al menos 15 %. Verificar la referencia exacta y la autenticidad del listado."
+  },
+  "motivo": "triage: Modelo de producción reciente en platino; el mercado secundario suele estar cerca o por encima de retail. El precio pedido no tiene margen de al menos 15 %. Verificar la referencia exacta y la autenticidad del listado. (justo 45000)"
  }
 ]
