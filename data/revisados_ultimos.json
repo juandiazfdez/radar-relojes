@@ -1,63 +1,5 @@
 [
  {
-  "fecha": "2026-11-09T12:17:07.738138+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Automatic Stainless Steel Watch",
-  "total": 4100.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820334782468",
-  "item_id": "v1|820334782468|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual vintage (esfera plateada, indices de barra, bisel liso, brazalete Oyster)",
-   "referencia": "1002 (probable, sin confirmar)",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Parece un OP vintage de los años 60-70 en acero, pero la referencia y la generación no se ven con claridad. Con esa incertidumbre, el precio de US$4,100 está por encima del rango de venta cerrada estimado."
-  },
-  "motivo": "triage: Parece un OP vintage de los años 60-70 en acero, pero la referencia y la generación no se ven con claridad. Con esa incertidumbre, el precio de US$4,100 está por encima del rango de venta cerrada estimado. (justo 3000)"
- },
- {
-  "fecha": "2026-11-09T13:02:08.427082+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date Ref. 1500",
-  "total": 3800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377632828982",
-  "item_id": "v1|377632828982|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date (acero, esfera plateada, indices de barra)",
-   "referencia": "1500",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Ref. 1500 vintage (aprox. 1969-1988) en estado Good sin caja ni papeles; el precio pedido queda solo ~5% bajo el valor de venta estimado, por debajo del umbral del 15%. Verificar autenticidad, esfera y movimiento antes de comprar."
-  },
-  "motivo": "triage: Ref. 1500 vintage (aprox. 1969-1988) en estado Good sin caja ni papeles; el precio pedido queda solo ~5% bajo el valor de venta estimado, por debajo del umbral del 15%. Verificar autenticidad, esfera y movimiento antes de comprar. (justo 4000)"
- },
- {
-  "fecha": "2026-11-09T13:02:08.427082+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise 2302 Automatic 28mm Stainless Steel Watch Only - a1",
-  "total": 2519.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377632838706",
-  "item_id": "v1|377632838706|0",
-  "referencia": "2302",
-  "mercado": {
-   "n": 40,
-   "p25": 3950,
-   "mediana": 4372
-  },
-  "ratio_mercado": 0.638,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 2600,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, arañazos visibles en caja y brazalete, esfera aparentemente original"
-  },
-  "ratio_justo": 0.969,
-  "motivo": "precio normal segun revision (97 % del justo 2600)"
- },
- {
   "fecha": "2026-11-09T13:32:08.597018+00:00",
   "marca": "Cartier",
   "titulo": "CARTIER TANK MUST Photovoltaic Solarbeat WSTA0060 29x22mm Stainless Steel Watch",
@@ -10895,5 +10837,56 @@
    "nota": "Precio pedido de US$2700 muy por encima del mercado para un Cougar de cuarzo de acero sin caja, en estado Good; el título menciona 'Panthère', que no coincide con el modelo visible."
   },
   "motivo": "triage: Precio pedido de US$2700 muy por encima del mercado para un Cougar de cuarzo de acero sin caja, en estado Good; el título menciona 'Panthère', que no coincide con el modelo visible. (justo 1000)"
+ },
+ {
+  "fecha": "2026-11-11T04:03:15.688879+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 126710GRNR Bruce Wayne 40mm Oyster Bracelet Full Set",
+  "total": 21725.0,
+  "condicion": "New with imperfections",
+  "url": "https://www.ebay.com/itm/940082562466",
+  "item_id": "v1|940082562466|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 65,
+   "p25": 21450,
+   "mediana": 22825
+  },
+  "ratio_mercado": 1.013,
+  "motivo": "precio normal (101 % del cuartil bajo de 126710GRNR)"
+ },
+ {
+  "fecha": "2026-11-11T04:03:15.688879+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 Blue 79030B 39mm 2022 Full Set",
+  "total": 3680.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920129021895",
+  "item_id": "v1|920129021895|0",
+  "referencia": "79030B",
+  "mercado": {
+   "n": 15,
+   "p25": 3495,
+   "mediana": 3590
+  },
+  "ratio_mercado": 1.053,
+  "motivo": "precio normal (105 % del cuartil bajo de 79030B)"
+ },
+ {
+  "fecha": "2026-11-11T04:03:15.688879+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 36 Smiley - Black Dial- Full Set - Box & Warranty until 2027",
+  "total": 3890.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860133025223",
+  "item_id": "v1|860133025223|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 36 (esfera negra, versión Smiley según el título)",
+   "referencia": "M79640 (probable, no verificable en la imagen)",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio pedido US$3890 supera el valor de venta cerrada estimado (~US$3300) con caja, papeles y estado excelente; la foto es pequeña para confirmar la referencia exacta."
+  },
+  "motivo": "triage: Precio pedido US$3890 supera el valor de venta cerrada estimado (~US$3300) con caja, papeles y estado excelente; la foto es pequeña para confirmar la referencia exacta. (justo 3300)"
  }
 ]
