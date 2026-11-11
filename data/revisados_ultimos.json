@@ -1,73 +1,5 @@
 [
  {
-  "fecha": "2026-11-09T19:17:17.640860+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere Three Rows Midsize Ladies Watch",
-  "total": 8699.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/227606255685",
-  "item_id": "v1|227606255685|0",
-  "triage": {
-   "modelo": "Cartier Panthère de Cartier, versión mediana de acero y oro amarillo, cuarzo, esfera blanca con números romanos, brazalete de tres filas",
-   "referencia": "1057930 o W25028B6 (no se distingue con certeza en la foto)",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "El precio pedido de US$8699 está muy por encima del valor de reventa de este modelo mediano de cuarzo bicolor, incluso en excelente estado."
-  },
-  "motivo": "triage: El precio pedido de US$8699 está muy por encima del valor de reventa de este modelo mediano de cuarzo bicolor, incluso en excelente estado. (justo 3200)"
- },
- {
-  "fecha": "2026-11-09T19:17:17.640860+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Pelagos LHD 25610TNL Titanium 42mm Left Hand Drive Box & Papers + Rubber",
-  "total": 4295.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960175566707",
-  "item_id": "v1|960175566707|0",
-  "triage": {
-   "modelo": "Tudor Pelagos LHD (titanio, 42 mm, bisel negro unidireccional)",
-   "referencia": "25610TNL",
-   "precio_justo_usd": 4100,
-   "interesante": false,
-   "nota": "Precio pedido en línea con el mercado para 25610TNL usado con caja y papeles. En la foto la pulsera parece de acero; verificar material del brazalete y el lado de la corona."
-  },
-  "motivo": "triage: Precio pedido en línea con el mercado para 25610TNL usado con caja y papeles. En la foto la pulsera parece de acero; verificar material del brazalete y el lado de la corona. (justo 4100)"
- },
- {
-  "fecha": "2026-11-09T19:32:17.681344+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex Oyster Perpetual 36, 126000, 36mm, Jubilee Motif Dial, Oyster Brac...",
-  "total": 19461.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800897382285",
-  "item_id": "v1|800897382285|0",
-  "referencia": "126000",
-  "mercado": {
-   "n": 36,
-   "p25": 11229,
-   "mediana": 12421
-  },
-  "ratio_mercado": 1.733,
-  "motivo": "precio normal (173 % del cuartil bajo de 126000)"
- },
- {
-  "fecha": "2026-11-09T19:32:17.681344+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 126622 Yacht-Master 40 DARK RHODIUM & Ice Blue Arrow Stainless Steel 40mm",
-  "total": 14500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237173763498",
-  "item_id": "v1|237173763498|0",
-  "referencia": "126622",
-  "mercado": {
-   "n": 21,
-   "p25": 14975,
-   "mediana": 15995
-  },
-  "ratio_mercado": 0.968,
-  "motivo": "precio normal (97 % del cuartil bajo de 126622)"
- },
- {
   "fecha": "2026-11-09T19:32:17.681344+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR 1926 M91550-0005 - 2026 - Box & Papers",
@@ -10978,5 +10910,73 @@
   },
   "ratio_justo": 0.988,
   "motivo": "precio normal segun revision (99 % del justo 10000)"
+ },
+ {
+  "fecha": "2026-11-11T19:34:11.948915+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Submariner 14060 No Date Mens Watch",
+  "total": 10699.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227609924796",
+  "item_id": "v1|227609924796|0",
+  "referencia": "14060",
+  "mercado": {
+   "n": 46,
+   "p25": 9800,
+   "mediana": 10749
+  },
+  "ratio_mercado": 1.092,
+  "motivo": "precio normal (109 % del cuartil bajo de 14060)"
+ },
+ {
+  "fecha": "2026-11-11T19:34:11.948915+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36mm UNWORN 2026 MOP Pearl Diamond Fluted Jubilee Wood 126234",
+  "total": 18795.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/198788183498",
+  "item_id": "v1|198788183498|0",
+  "referencia": "126234",
+  "mercado": {
+   "n": 46,
+   "p25": 14858,
+   "mediana": 15325
+  },
+  "ratio_mercado": 1.265,
+  "motivo": "precio normal (126 % del cuartil bajo de 126234)"
+ },
+ {
+  "fecha": "2026-11-11T19:34:11.948915+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36mm 16233 Cream Jubilee Index Yellow Gold/Steel  Jubilee Watch",
+  "total": 7780.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336892491766",
+  "item_id": "v1|336892491766|0",
+  "referencia": "16233",
+  "mercado": {
+   "n": 29,
+   "p25": 5695,
+   "mediana": 6245
+  },
+  "ratio_mercado": 1.366,
+  "motivo": "precio normal (137 % del cuartil bajo de 16233)"
+ },
+ {
+  "fecha": "2026-11-11T19:34:11.948915+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Vendome 18K Solid Gold Quartz Watch 24mm",
+  "total": 3199.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880106448527",
+  "item_id": "v1|880106448527|0",
+  "triage": {
+   "modelo": "Cartier Vendôme (cuarzo, oro 18K, caja redonda de 24 mm, esfera blanca con numerales romanos)",
+   "referencia": null,
+   "precio_justo_usd": 2700,
+   "interesante": false,
+   "nota": "Precio pedido US$3199 por encima de un valor estimado de ~US$2700 para oro 18K de cuarzo en estado Good; sin margen de compra."
+  },
+  "motivo": "triage: Precio pedido US$3199 por encima de un valor estimado de ~US$2700 para oro 18K de cuarzo en estado Good; sin margen de compra. (justo 2700)"
  }
 ]
