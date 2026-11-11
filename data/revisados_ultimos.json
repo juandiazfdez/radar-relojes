@@ -1,51 +1,5 @@
 [
  {
-  "fecha": "2026-11-09T01:01:48.929016+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos de Cartier WSSA0018",
-  "total": 10270.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/128183787843",
-  "item_id": "v1|128183787843|0",
-  "referencia": "WSSA0018",
-  "mercado": {
-   "n": 2,
-   "p25": 8795,
-   "mediana": 8797
-  },
-  "triage": {
-   "modelo": "Cartier Santos de Cartier Large (40 mm), automático, acero, esfera plateada con números romanos",
-   "referencia": "WSSA0018",
-   "precio_justo_usd": 6200,
-   "interesante": false,
-   "nota": "Precio pedido de US$10,270 está muy por encima del mercado gris para un Santos nuevo con caja y papeles; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$10,270 está muy por encima del mercado gris para un Santos nuevo con caja y papeles; no es una oportunidad. (justo 6200)"
- },
- {
-  "fecha": "2026-11-09T01:31:49.032754+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX Oyster Perpetual - Reference 14203 - with original box",
-  "total": 6868.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940077020730",
-  "item_id": "v1|940077020730|0",
-  "referencia": "14203",
-  "mercado": {
-   "n": 4,
-   "p25": 5000,
-   "mediana": 5500
-  },
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual 34 mm, acero y oro amarillo (bicolor), esfera plateada",
-   "referencia": "14203",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Precio pedido muy superior al valor de mercado de un bicolor 14203 en estado Good, aunque tenga caja; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido muy superior al valor de mercado de un bicolor 14203 en estado Good, aunque tenga caja; no es una oportunidad. (justo 3500)"
- },
- {
   "fecha": "2026-11-09T02:01:49.083856+00:00",
   "marca": "Rolex",
   "titulo": "Vintage Tudor Oyster 7804 Small Rose Shock Resisting 34mm Watch Rolex Case 1950s",
@@ -10903,5 +10857,45 @@
    "nota": "Reloj de producción actual con caja y papeles; el precio pedido de US$4350 está al nivel del retail y por encima del mercado gris estimado para este modelo."
   },
   "motivo": "triage: Reloj de producción actual con caja y papeles; el precio pedido de US$4350 está al nivel del retail y por encima del mercado gris estimado para este modelo. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-11T00:48:06.157497+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Lady 76193 Steel & 18k Gold Champagne 24mm 2005 Papers",
+  "total": 6895.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267840239669",
+  "item_id": "v1|267840239669|0",
+  "triage": {
+   "modelo": "Rolex Lady Oyster Perpetual, acero y oro amarillo de 18k, bisel acanalado, esfera champán (aspecto de 2000-2008)",
+   "referencia": "76193",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "El precio pedido de US$6895 está muy por encima del valor de mercado. El título dice 24 mm, pero la 76193 es de 26 mm (la de 24 mm sería la 67193), así que hay una inconsistencia en el listado."
+  },
+  "motivo": "triage: El precio pedido de US$6895 está muy por encima del valor de mercado. El título dice 24 mm, pero la 76193 es de 26 mm (la de 24 mm sería la 67193), así que hay una inconsistencia en el listado. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-11T00:48:06.157497+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Calibre Stainless Steel Watch W7100016",
+  "total": 4500.0,
+  "condicion": "New with imperfections",
+  "url": "https://www.ebay.com/itm/407354154136",
+  "item_id": "v1|407354154136|0",
+  "referencia": "W7100016",
+  "mercado": {
+   "n": 1,
+   "p25": 6945,
+   "mediana": 6945
+  },
+  "triage": {
+   "modelo": "Cartier Calibre de Cartier, acero, esfera negra, automático, 42 mm (con reserva de marcha)",
+   "referencia": "W7100016",
+   "precio_justo_usd": 4700,
+   "interesante": false,
+   "nota": "Precio cercano al mercado de usado en acero; el descuento es menor al 15 %, y 'New with imperfections' sugiere estado no nuevo."
+  },
+  "motivo": "triage: Precio cercano al mercado de usado en acero; el descuento es menor al 15 %, y 'New with imperfections' sugiere estado no nuevo. (justo 4700)"
  }
 ]
