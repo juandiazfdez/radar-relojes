@@ -6110,14 +6110,14 @@
   "max": 12530
  },
  "Rolex 116334|usado": {
-  "fecha": "2026-11-10",
+  "fecha": "2026-11-11",
   "consulta": "Rolex 116334",
-  "n": 22,
+  "n": 24,
   "mediana": 10950,
   "p25": 10592,
-  "p75": 10990,
+  "p75": 11000,
   "min": 9785,
-  "max": 11390
+  "max": 11405
  },
  "Rolex 6917|usado": {
   "fecha": "2026-11-10",
@@ -6810,13 +6810,13 @@
   "max": 16999
  },
  "Rolex 136660|usado": {
-  "fecha": "2026-11-09",
+  "fecha": "2026-11-11",
   "consulta": "Rolex 136660",
-  "n": 51,
-  "mediana": 16150,
+  "n": 52,
+  "mediana": 16086,
   "p25": 15500,
   "p75": 16895,
-  "min": 12233,
+  "min": 12428,
   "max": 22370
  },
  "Rolex 116515LN|usado": {
@@ -7850,14 +7850,14 @@
   "max": 4595
  },
  "Tudor M25717N|usado": {
-  "fecha": "2026-11-06",
+  "fecha": "2026-11-11",
   "consulta": "Tudor M25717N",
   "n": 1,
-  "mediana": 4150,
-  "p25": 4150,
-  "p75": 4150,
-  "min": 4150,
-  "max": 4150
+  "mediana": 4275,
+  "p25": 4275,
+  "p75": 4275,
+  "min": 4275,
+  "max": 4275
  },
  "Tudor 24030|usado": {
   "fecha": "2026-10-26",
@@ -20818,5 +20818,55 @@
   "p75": 7699,
   "min": 7699,
   "max": 7699
+ },
+ "Rolex 52509|usado": {
+  "fecha": "2026-11-11",
+  "consulta": "Rolex 52509",
+  "n": 7,
+  "mediana": 24500,
+  "p25": 24470,
+  "p75": 25315,
+  "min": 24158,
+  "max": 28899
+ },
+ "Rolex 169623|usado": {
+  "fecha": "2026-11-11",
+  "consulta": "Rolex 169623",
+  "n": 8,
+  "mediana": 7585,
+  "p25": 7280,
+  "p75": 8860,
+  "min": 7245,
+  "max": 9488
+ },
+ "Rolex 68238|usado": {
+  "fecha": "2026-11-11",
+  "consulta": "Rolex 68238",
+  "n": 0
+ },
+ "Cartier 2403|usado": {
+  "fecha": "2026-11-11",
+  "consulta": "Cartier 2403",
+  "n": 10,
+  "mediana": 7478,
+  "p25": 6500,
+  "p75": 12970,
+  "min": 3700,
+  "max": 18050
+ },
+ "Cartier 2676|usado": {
+  "fecha": "2026-11-11",
+  "consulta": "Cartier 2676",
+  "n": 2,
+  "mediana": 23495,
+  "p25": 23345,
+  "p75": 23645,
+  "min": 23345,
+  "max": 23645
+ },
+ "Cartier WGBA0078|usado": {
+  "fecha": "2026-11-11",
+  "consulta": "Cartier WGBA0078",
+  "n": 0
  }
 }

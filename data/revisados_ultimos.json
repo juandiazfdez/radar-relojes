@@ -1,256 +1,5 @@
 [
  {
-  "fecha": "2026-11-09T16:17:17.509769+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Grey Stainless Steel Datejust 16233 36mm - WGACA",
-  "total": 11962.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820335423458",
-  "item_id": "v1|820335423458|0",
-  "referencia": "16233",
-  "mercado": {
-   "n": 31,
-   "p25": 5699,
-   "mediana": 6245
-  },
-  "ratio_mercado": 2.099,
-  "motivo": "precio normal (210 % del cuartil bajo de 16233)"
- },
- {
-  "fecha": "2026-11-09T16:17:17.509769+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Black Stainless Steel Submariner Date 16610 40mm - WGACA",
-  "total": 14512.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820335423460",
-  "item_id": "v1|820335423460|0",
-  "referencia": "16610",
-  "mercado": {
-   "n": 79,
-   "p25": 9950,
-   "mediana": 10450
-  },
-  "ratio_mercado": 1.459,
-  "motivo": "precio normal (146 % del cuartil bajo de 16610)"
- },
- {
-  "fecha": "2026-11-09T16:17:17.509769+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sodalite Stone Diamond Datejust 79174 26mm - WGACA",
-  "total": 16512.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820335423467",
-  "item_id": "v1|820335423467|0",
-  "triage": {
-   "modelo": "Rolex Lady-Datejust 26 mm, acero y oro blanco, bisel acanalado, esfera azul sodalita con marcadores de diamante, brazalete Jubilee",
-   "referencia": "79174",
-   "precio_justo_usd": 8500,
-   "interesante": false,
-   "nota": "Esfera de sodalita con diamantes suma prima, pero el precio pedido de US$16,513 está muy por encima de lo que se vende este modelo en Estados Unidos."
-  },
-  "motivo": "triage: Esfera de sodalita con diamantes suma prima, pero el precio pedido de US$16,513 está muy por encima de lo que se vende este modelo en Estados Unidos. (justo 8500)"
- },
- {
-  "fecha": "2026-11-09T16:17:17.509769+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Day-Date Diamond Accent 18k Yellow Gold Men's Wristwatch",
-  "total": 23099.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/900078083493",
-  "item_id": "v1|900078083493|0",
-  "triage": {
-   "modelo": "Rolex Day-Date 36 mm, oro amarillo 18k, bisel acanalado, esfera negra con marcadores de diamante, brazalete President",
-   "referencia": "18238",
-   "precio_justo_usd": 27500,
-   "interesante": true,
-   "nota": "Precio ~16 % bajo el valor estimado de venta cerrada; verificar autenticidad, esfera original y estado del oro/brazalete antes de comprar."
-  },
-  "referencia": "182381",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 23000,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, probablemente muy pulido; sin caja ni papeles; sin fotos del fondo ni del movimiento"
-  },
-  "ratio_justo": 1.004,
-  "motivo": "precio normal segun revision (100 % del justo 23000)"
- },
- {
-  "fecha": "2026-11-09T16:17:17.509769+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41 Wimbledon 126333 Two-Tone Gold Fluted Jubilee 2020 Full Set",
-  "total": 16500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820335423481",
-  "item_id": "v1|820335423481|0",
-  "referencia": "126333",
-  "mercado": {
-   "n": 32,
-   "p25": 14783,
-   "mediana": 15380
-  },
-  "ratio_mercado": 1.116,
-  "motivo": "precio normal (112 % del cuartil bajo de 126333)"
- },
- {
-  "fecha": "2026-11-09T16:17:17.509769+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 18K Gold Oyster Quartz Day-Date President 19018 36mm - WGACA",
-  "total": 35962.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820335426572",
-  "item_id": "v1|820335426572|0",
-  "referencia": "19018",
-  "mercado": {
-   "n": 14,
-   "p25": 24000,
-   "mediana": 24113
-  },
-  "ratio_mercado": 1.498,
-  "motivo": "precio normal (150 % del cuartil bajo de 19018)"
- },
- {
-  "fecha": "2026-11-09T16:17:17.509769+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Glamour Date Automatic Stainless Steel / Stainless Steel Watch",
-  "total": 1511.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267838741292",
-  "item_id": "v1|267838741292|0",
-  "triage": {
-   "modelo": "Tudor Glamour Date (esfera plateada, brazalete de acero)",
-   "referencia": null,
-   "precio_justo_usd": 1700,
-   "interesante": false,
-   "nota": "Referencia no legible en la imagen; la estimación supone modelo Glamour Date de 36 mm en acero, estado usado 'Good', sin confirmar caja ni papeles."
-  },
-  "motivo": "triage: Referencia no legible en la imagen; la estimación supone modelo Glamour Date de 36 mm en acero, estado usado 'Good', sin confirmar caja ni papeles. (justo 1700)"
- },
- {
-  "fecha": "2026-11-09T16:17:17.509769+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay 79360N Mint Condition/Full Set/FREE FEDEX 2DAY SHIPPING",
-  "total": 4499.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800896967871",
-  "item_id": "v1|800896967871|0",
-  "referencia": "79360N",
-  "mercado": {
-   "n": 57,
-   "p25": 4600,
-   "mediana": 5298
-  },
-  "ratio_mercado": 0.978,
-  "motivo": "precio normal (98 % del cuartil bajo de 79360N)"
- },
- {
-  "fecha": "2026-11-09T16:17:17.509769+00:00",
-  "marca": "Tudor",
-  "titulo": "2019 Tudor Black Bay GMT 79830RB Pepsi Black 41mm Red Blue Steel Watch Box Paper",
-  "total": 3767.5,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900078060539",
-  "item_id": "v1|900078060539|0",
-  "referencia": "79830RB",
-  "mercado": {
-   "n": 52,
-   "p25": 3800,
-   "mediana": 4000
-  },
-  "ratio_mercado": 0.991,
-  "motivo": "precio normal (99 % del cuartil bajo de 79830RB)"
- },
- {
-  "fecha": "2026-11-09T16:32:16.823224+00:00",
-  "marca": "Rolex",
-  "titulo": "2508 RARE VINTAGE ROLEX CHRONOGRAPH  VALJOUX 22  ASTRUA 1936",
-  "total": 46744.17,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147647621928",
-  "item_id": "v1|147647621928|0",
-  "triage": {
-   "modelo": "Cronógrafo vintage de cuerda manual, posiblemente Rolex 2508 (Valjoux 22, caja Astrua, 1936) según el listado",
-   "referencia": "2508",
-   "precio_justo_usd": 120000,
-   "interesante": false,
-   "nota": "La foto no muestra la corona Rolex ni otras marcas claras; el dial y la caja no confirman la atribución. Si fuera un 2508 auténtico se vendería mucho más, pero la autenticidad no se puede verificar y el listado es sospechoso."
-  },
-  "motivo": "triage: La foto no muestra la corona Rolex ni otras marcas claras; el dial y la caja no confirman la atribución. Si fuera un 2508 auténtico se vendería mucho más, pero la autenticidad no se puede verificar y el listado es sospechoso. (justo 120000)"
- },
- {
-  "fecha": "2026-11-09T16:32:16.823224+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex James Cameron DeepSea Sea-Dweller- 126660 - Collector's Full Set",
-  "total": 14950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336888651429",
-  "item_id": "v1|336888651429|0",
-  "referencia": "126660",
-  "mercado": {
-   "n": 70,
-   "p25": 13000,
-   "mediana": 14250
-  },
-  "ratio_mercado": 1.15,
-  "motivo": "precio normal (115 % del cuartil bajo de 126660)"
- },
- {
-  "fecha": "2026-11-09T16:32:16.823224+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Calibre De Cartier Diver Automatic Stainless Steel and Rose Gold Watch",
-  "total": 5985.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820335481717",
-  "item_id": "v1|820335481717|0",
-  "triage": {
-   "modelo": "Cartier Calibre de Cartier Diver automático, acero y oro rosa, esfera negra, bisel cerámico negro, correa de caucho, 42 mm",
-   "referencia": null,
-   "precio_justo_usd": 5500,
-   "interesante": false,
-   "nota": "Modelo identificado por la imagen; la referencia exacta no se distingue, así que el precio es una estimación conservadora. El precio pedido está en la zona de mercado, sin descuento de al menos 15 %."
-  },
-  "motivo": "triage: Modelo identificado por la imagen; la referencia exacta no se distingue, así que el precio es una estimación conservadora. El precio pedido está en la zona de mercado, sin descuento de al menos 15 %. (justo 5500)"
- },
- {
-  "fecha": "2026-11-09T16:32:16.823224+00:00",
-  "marca": "Tudor",
-  "titulo": "ladies tudor watch princess",
-  "total": 1213.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128185267237",
-  "item_id": "v1|128185267237|0",
-  "triage": {
-   "modelo": "Tudor Princess (acero y oro amarillo, bisel acanalado dorado, esfera champán)",
-   "referencia": null,
-   "precio_justo_usd": 1350,
-   "interesante": false,
-   "nota": "Se ve un Tudor Princess bitono de tamaño pequeño; la referencia exacta no se distingue en la foto. Precio pedido unos 10 % bajo la estimación, sin margen suficiente para ser oportunidad."
-  },
-  "motivo": "triage: Se ve un Tudor Princess bitono de tamaño pequeño; la referencia exacta no se distingue en la foto. Precio pedido unos 10 % bajo la estimación, sin margen suficiente para ser oportunidad. (justo 1350)"
- },
- {
-  "fecha": "2026-11-09T16:47:16.974561+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date 36mm 118238 President 18K Yellow Gold Mens Watch B&P",
-  "total": 29499.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117512757922",
-  "item_id": "v1|117512757922|0",
-  "referencia": "118238",
-  "mercado": {
-   "n": 53,
-   "p25": 27990,
-   "mediana": 28990
-  },
-  "ratio_mercado": 1.054,
-  "motivo": "precio normal (105 % del cuartil bajo de 118238)"
- },
- {
   "fecha": "2026-11-09T16:47:16.974561+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Panthere Small Stainless Steel Watch - WSPN0013, pre-owned, full kit",
@@ -10942,5 +10691,267 @@
    "nota": "Precio pedido de US$5.575 muy por encima del mercado secundario (~US$3.300-3.900) para esta referencia; no es una oportunidad."
   },
   "motivo": "triage: Precio pedido de US$5.575 muy por encima del mercado secundario (~US$3.300-3.900) para esta referencia; no es una oportunidad. (justo 3600)"
+ },
+ {
+  "fecha": "2026-11-11T15:19:11.427804+00:00",
+  "marca": "Rolex",
+  "titulo": "2024 Rolex Perpetual 1908 52509 39MM Black 18K White Gold Box & Paper",
+  "total": 24999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/307277613031",
+  "item_id": "v1|307277613031|0",
+  "referencia": "52509",
+  "mercado": {
+   "n": 7,
+   "p25": 24470,
+   "mediana": 24500
+  },
+  "ratio_mercado": 1.022,
+  "motivo": "precio normal (102 % del cuartil bajo de 52509)"
+ },
+ {
+  "fecha": "2026-11-11T15:19:11.427804+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Pearlmaster 18k Yellow Gold Diamond Dial/Bezel 34mm Watch K 81338",
+  "total": 45700.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117516084259",
+  "item_id": "v1|117516084259|0",
+  "triage": {
+   "modelo": "Rolex Datejust Pearlmaster 34mm oro amarillo 18k, bisel y esfera con diamantes, brazalete Pearlmaster",
+   "referencia": "81338",
+   "precio_justo_usd": 38000,
+   "interesante": false,
+   "nota": "Precio pedido de US$45.700 por encima de la estimación de venta real para esta referencia y estado; no cumple el umbral de 15% por debajo."
+  },
+  "motivo": "triage: Precio pedido de US$45.700 por encima de la estimación de venta real para esta referencia y estado; no cumple el umbral de 15% por debajo. (justo 38000)"
+ },
+ {
+  "fecha": "2026-11-11T15:19:11.427804+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yacht-Master 18k Yellow Gold/Steel Champagne Ladies 29mm Watch K 169623",
+  "total": 8950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147676187607",
+  "item_id": "v1|147676187607|0",
+  "referencia": "169623",
+  "mercado": {
+   "n": 8,
+   "p25": 7280,
+   "mediana": 7585
+  },
+  "ratio_mercado": 1.229,
+  "motivo": "precio normal (123 % del cuartil bajo de 169623)"
+ },
+ {
+  "fecha": "2026-11-11T15:19:11.427804+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41 Rose Gold/Steel Wimbledon Gray Jubilee Watch B/P '23 126331",
+  "total": 20500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147676187613",
+  "item_id": "v1|147676187613|0",
+  "referencia": "126331",
+  "mercado": {
+   "n": 41,
+   "p25": 15990,
+   "mediana": 16500
+  },
+  "ratio_mercado": 1.282,
+  "motivo": "precio normal (128 % del cuartil bajo de 126331)"
+ },
+ {
+  "fecha": "2026-11-11T15:19:11.427804+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust President Yellow Gold Diamond Dial/Bezel/Lugs 31mm Watch N 68238",
+  "total": 38700.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366801882703",
+  "item_id": "v1|366801882703|0",
+  "referencia": "68238",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 31 President oro amarillo, bisel y pulseras con diamantes, esfera champagne con numerales romanos",
+   "referencia": "68238",
+   "precio_justo_usd": 21000,
+   "interesante": false,
+   "nota": "El precio pedido (US$38,700) supera con holgura el valor de venta cerrada de esta referencia. El título menciona esfera de diamantes, pero la foto muestra esfera champagne con números romanos; verificar."
+  },
+  "motivo": "triage: El precio pedido (US$38,700) supera con holgura el valor de venta cerrada de esta referencia. El título menciona esfera de diamantes, pero la foto muestra esfera champagne con números romanos; verificar. (justo 21000)"
+ },
+ {
+  "fecha": "2026-11-11T15:19:11.427804+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date President 18k Yellow Gold Champagne Diamond 36mm Watch '68 1803",
+  "total": 20500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366801882707",
+  "item_id": "v1|366801882707|0",
+  "triage": {
+   "modelo": "Rolex Day-Date 36 (President) en oro amarillo 18k, esfera champán con marcadores de diamantes, bisel acanalado y brazalete President",
+   "referencia": "1803",
+   "precio_justo_usd": 22000,
+   "interesante": false,
+   "nota": "La ref. 1803 es de finales de los 70 a los 80, no de 1968 como indica el título; el precio pedido está solo ~7 % por debajo del estimado, sin llegar al umbral del 15 %."
+  },
+  "motivo": "triage: La ref. 1803 es de finales de los 70 a los 80, no de 1968 como indica el título; el precio pedido está solo ~7 % por debajo del estimado, sin llegar al umbral del 15 %. (justo 22000)"
+ },
+ {
+  "fecha": "2026-11-11T15:19:11.427804+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sea-Dweller Deepsea James Cameron 44mm Blue Black 136660 Watch BOX PAPERS",
+  "total": 15989.51,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287721693967",
+  "item_id": "v1|287721693967|0",
+  "referencia": "136660",
+  "mercado": {
+   "n": 52,
+   "p25": 15500,
+   "mediana": 16086
+  },
+  "ratio_mercado": 1.032,
+  "motivo": "precio normal (103 % del cuartil bajo de 136660)"
+ },
+ {
+  "fecha": "2026-11-11T15:19:11.427804+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex DateJust Stainless Steel Dark Rhodium Diamond 41mm Watch 116334 BOX PAPERS",
+  "total": 13090.31,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940083888124",
+  "item_id": "v1|940083888124|0",
+  "referencia": "116334",
+  "mercado": {
+   "n": 24,
+   "p25": 10592,
+   "mediana": 10950
+  },
+  "ratio_mercado": 1.236,
+  "motivo": "precio normal (124 % del cuartil bajo de 116334)"
+ },
+ {
+  "fecha": "2026-11-11T15:19:11.427804+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise Small 18k White Gold Diamond Ladies Watch WE1002S3 2403",
+  "total": 14650.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117516084251",
+  "item_id": "v1|117516084251|0",
+  "referencia": "2403",
+  "mercado": {
+   "n": 10,
+   "p25": 6500,
+   "mediana": 7478
+  },
+  "ratio_mercado": 2.254,
+  "motivo": "precio normal (225 % del cuartil bajo de 2403)"
+ },
+ {
+  "fecha": "2026-11-11T15:19:11.427804+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere Small 2 Row 18k Yellow Gold/Steel Ladies 23mm Watch",
+  "total": 6950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117516084261",
+  "item_id": "v1|117516084261|0",
+  "triage": {
+   "modelo": "Cartier Panthère Small, 2 filas, oro amarillo 18k/acero, cuarzo, dial blanco con números romanos",
+   "referencia": "1057930 (probable, verificar en el caseback)",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Precio pedido de US$6950 muy por encima del valor de venta cerrada de este modelo usado en EE. UU. (aprox. US$2500-3800); no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$6950 muy por encima del valor de venta cerrada de este modelo usado en EE. UU. (aprox. US$2500-3800); no es una oportunidad. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-11T15:19:11.427804+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster Date 18k Yellow Gold & Diamond Ladies Watch WE5001X1 2676",
+  "total": 30000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117516084247",
+  "item_id": "v1|117516084247|0",
+  "referencia": "2676",
+  "mercado": {
+   "n": 2,
+   "p25": 23345,
+   "mediana": 23495
+  },
+  "triage": {
+   "modelo": "Cartier Roadster Date, señora, oro amarillo 18k con bisel de diamantes",
+   "referencia": "WE5001X1 (según el título)",
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "Precio pedido de US$30,000 muy por encima del valor de mercado de este modelo de oro con diamantes usado; el título menciona un número de stock (2676) que no es la referencia."
+  },
+  "motivo": "triage: Precio pedido de US$30,000 muy por encima del valor de mercado de este modelo de oro con diamantes usado; el título menciona un número de stock (2676) que no es la referencia. (justo 14000)"
+ },
+ {
+  "fecha": "2026-11-11T15:19:11.427804+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Baignoire Mini Model Gold Quartz Oval Bangle Bracelet Watch WGBA0078",
+  "total": 16950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287718873116",
+  "item_id": "v1|287718873116|0",
+  "referencia": "WGBA0078",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Baignoire Mini (cuarzo, caja ovalada en oro amarillo, brazalete tipo bangle)",
+   "referencia": "WGBA0078 (según título, sin verificar)",
+   "precio_justo_usd": 6000,
+   "interesante": false,
+   "nota": "Modelo pequeño de cuarzo en oro, con venta real aproximada de 4.000 a 7.000 USD según material, estado y papeles. El precio pedido de 16.950 USD está muy por encima del mercado."
+  },
+  "motivo": "triage: Modelo pequeño de cuarzo en oro, con venta real aproximada de 4.000 a 7.000 USD según material, estado y papeles. El precio pedido de 16.950 USD está muy por encima del mercado. (justo 6000)"
+ },
+ {
+  "fecha": "2026-11-11T15:19:11.427804+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay58 39mm steel case M7939A1A0NU-0001 Jubilee Bracelet",
+  "total": 4985.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/327451300742",
+  "item_id": "v1|327451300742|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 39mm, esfera negra, caja de acero, brazalete Jubilee",
+   "referencia": "M7939A1A0NU-0001",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Precio pedido de US$4985 está muy por encima del mercado secundario (aprox. US$3300-3700 nuevo con caja y papeles), así que no es una oportunidad. La referencia exacta no se puede verificar solo con la foto."
+  },
+  "motivo": "triage: Precio pedido de US$4985 está muy por encima del mercado secundario (aprox. US$3300-3700 nuevo con caja y papeles), así que no es una oportunidad. La referencia exacta no se puede verificar solo con la foto. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-11T15:19:11.427804+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 TUDOR Pelagos FXD M25717N-0001 - Warranty Expires May 2031",
+  "total": 4185.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880105794154",
+  "item_id": "v1|880105794154|0",
+  "referencia": "M25717N-0001",
+  "mercado": {
+   "n": 1,
+   "p25": 4275,
+   "mediana": 4275
+  },
+  "triage": {
+   "modelo": "Tudor Pelagos FXD (titanio, esfera negra)",
+   "referencia": "M25717N-0001",
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "Pelagos FXD con garantía hasta 2031 y precio pedido de US$4185 con envío, por encima de lo que se vende en el mercado secundario de EE. UU. Además, la correa de la foto no parece la de serie."
+  },
+  "motivo": "triage: Pelagos FXD con garantía hasta 2031 y precio pedido de US$4185 con envío, por encima de lo que se vende en el mercado secundario de EE. UU. Además, la correa de la foto no parece la de serie. (justo 3600)"
  }
 ]
