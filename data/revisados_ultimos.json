@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-09T16:17:17.509769+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex 18K Gold & Stainless Steel Turn-O-Graph Thunderbird Tapestry Datejust",
-  "total": 10962.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820335430112",
-  "item_id": "v1|820335430112|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36 bicolor acero y oro amarillo de 18K, bisel acanalado dorado, esfera gris tipo tapestry, brazalete jubilee",
-   "referencia": "16233 (probable, por generación de los años 1990-2000; verificar en el número de serie y el reverso de la caja)",
-   "precio_justo_usd": 7800,
-   "interesante": false,
-   "nota": "Precio pedido US$10,963 con envío, muy por encima del valor de venta cerrada de un 16233 de estado bueno sin papeles completos; no parece una ganga."
-  },
-  "motivo": "triage: Precio pedido US$10,963 con envío, muy por encima del valor de venta cerrada de un 16233 de estado bueno sin papeles completos; no parece una ganga. (justo 7800)"
- },
- {
-  "fecha": "2026-11-09T16:17:17.509769+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 18k Gold Oyster Perpetual Datejust 15238 34mm - WGACA",
-  "total": 21762.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820335430114",
-  "item_id": "v1|820335430114|0",
-  "referencia": "15238",
-  "mercado": {
-   "n": 8,
-   "p25": 15293,
-   "mediana": 18115
-  },
-  "ratio_mercado": 1.423,
-  "motivo": "precio normal (142 % del cuartil bajo de 15238)"
- },
- {
-  "fecha": "2026-11-09T16:17:17.509769+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Two-Tone Computer Datejust 16233 36mm - WGACA",
   "total": 10262.99,
   "condicion": "Pre-owned - Good",
@@ -10918,5 +10884,39 @@
   },
   "ratio_mercado": 0.912,
   "motivo": "precio normal (91 % del cuartil bajo de 126610LV)"
+ },
+ {
+  "fecha": "2026-11-11T13:18:25.006157+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex DateJust 41 Stainless Steel Black 41mm 126300 Oyster Watch Excellent WOW!!",
+  "total": 8964.95,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880105475987",
+  "item_id": "v1|880105475987|0",
+  "referencia": "126300",
+  "mercado": {
+   "n": 20,
+   "p25": 9991,
+   "mediana": 10444
+  },
+  "ratio_mercado": 0.897,
+  "motivo": "precio normal (90 % del cuartil bajo de 126300)"
+ },
+ {
+  "fecha": "2026-11-11T13:18:25.006157+00:00",
+  "marca": "Rolex",
+  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
+  "total": 15991.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327451202919",
+  "item_id": "v1|327451202919|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date (bisel negro, posible generación moderna)",
+   "referencia": null,
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "La referencia no se distingue en la foto; con caja y papeles se vende cerca de US$13.500-15.000. El precio pedido queda por encima del rango, no con descuento del 15 %."
+  },
+  "motivo": "triage: La referencia no se distingue en la foto; con caja y papeles se vende cerca de US$13.500-15.000. El precio pedido queda por encima del rango, no con descuento del 15 %. (justo 14000)"
  }
 ]
