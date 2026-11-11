@@ -1,63 +1,5 @@
 [
  {
-  "fecha": "2026-11-09T00:16:48.902584+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay Fifty-Eight 39mm Watch Black Dial, Steel Case, 79030N",
-  "total": 3100.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840108728889",
-  "item_id": "v1|840108728889|0",
-  "referencia": "79030N",
-  "mercado": {
-   "n": 13,
-   "p25": 3840,
-   "mediana": 3971
-  },
-  "ratio_mercado": 0.807,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 3050,
-   "riesgo_autenticidad": "medio",
-   "estado": "Bueno, con desgaste visible en brazalete, laterales y fondo de caja; cristal limpio"
-  },
-  "ratio_justo": 1.016,
-  "motivo": "precio normal segun revision (102 % del justo 3050)"
- },
- {
-  "fecha": "2026-11-09T00:31:49.329270+00:00",
-  "marca": "Rolex",
-  "titulo": "\"Vintage 1950s Rolex Oyster Perpetual 6567 18k Gold Dauphine Block Markers Runs\"",
-  "total": 5900.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237172237014",
-  "item_id": "v1|237172237014|0",
-  "referencia": "6567",
-  "mercado": {
-   "n": 5,
-   "p25": 5950,
-   "mediana": 7490
-  },
-  "ratio_mercado": 0.992,
-  "motivo": "precio normal (99 % del cuartil bajo de 6567)"
- },
- {
-  "fecha": "2026-11-09T01:01:48.929016+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex. Watch. Cellini. 18k. c1970's",
-  "total": 3900.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/287714200095",
-  "item_id": "v1|287714200095|0",
-  "triage": {
-   "modelo": "Rolex Cellini Quartz (caja rectangular acanalada en oro de 18k, esfera crema con números romanos)",
-   "referencia": null,
-   "precio_justo_usd": 3400,
-   "interesante": false,
-   "nota": "Modelo de cuarzo en oro de 18k con caja rectangular; la referencia exacta no se distingue en la foto. Con estado 'Fair' y precio de 3900 USD con envío, no está al menos 15 % por debajo del valor de venta."
-  },
-  "motivo": "triage: Modelo de cuarzo en oro de 18k con caja rectangular; la referencia exacta no se distingue en la foto. Con estado 'Fair' y precio de 3900 USD con envío, no está al menos 15 % por debajo del valor de venta. (justo 3400)"
- },
- {
   "fecha": "2026-11-09T01:01:48.929016+00:00",
   "marca": "Rolex",
   "titulo": "UNPOLISHED 2022 PAPERS Rolex Milgauss BLUE 40mm Z-Blue Green Steel 116400 GV BOX",
@@ -10910,5 +10852,56 @@
   },
   "ratio_mercado": 1.526,
   "motivo": "precio normal (153 % del cuartil bajo de 79833MN)"
+ },
+ {
+  "fecha": "2026-11-11T00:18:06.109958+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX 18K Yellow Gold 40mm Rolex Daytona 116528 Box Warranty MINTY",
+  "total": 45990.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287720019287",
+  "item_id": "v1|287720019287|0",
+  "referencia": "116528",
+  "mercado": {
+   "n": 29,
+   "p25": 45000,
+   "mediana": 48990
+  },
+  "ratio_mercado": 1.022,
+  "motivo": "precio normal (102 % del cuartil bajo de 116528)"
+ },
+ {
+  "fecha": "2026-11-11T00:18:06.109958+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Pasha Seatimer Stainless Steel Watch W31077U2",
+  "total": 4000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407354134455",
+  "item_id": "v1|407354134455|0",
+  "triage": {
+   "modelo": "Cartier Pasha de Cartier Seatimer 41 mm, acero inoxidable, esfera negra, bisel blanco, correa de caucho negra",
+   "referencia": "W31077U2",
+   "precio_justo_usd": 4200,
+   "interesante": false,
+   "nota": "Precio cercano al valor de mercado para esta referencia en estado excelente; el descuento es menor del 15 %. Confirmar caja, papeles y autenticidad."
+  },
+  "motivo": "triage: Precio cercano al valor de mercado para esta referencia en estado excelente; el descuento es menor del 15 %. Confirmar caja, papeles y autenticidad. (justo 4200)"
+ },
+ {
+  "fecha": "2026-11-11T00:18:06.109958+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Rootbeer Two Tone Bracelet 79833MN w/Card 2024",
+  "total": 6055.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128187692655",
+  "item_id": "v1|128187692655|0",
+  "referencia": "79833MN",
+  "mercado": {
+   "n": 8,
+   "p25": 4100,
+   "mediana": 4775
+  },
+  "ratio_mercado": 1.477,
+  "motivo": "precio normal (148 % del cuartil bajo de 79833MN)"
  }
 ]
