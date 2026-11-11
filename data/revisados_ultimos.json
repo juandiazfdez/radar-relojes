@@ -1,79 +1,5 @@
 [
  {
-  "fecha": "2026-11-09T18:32:17.408888+00:00",
-  "marca": "Rolex",
-  "titulo": "2021 Rolex Cosmograph Daytona, 116508, 40mm, White Dial, Oyster Bracelet, Box...",
-  "total": 57496.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/366797308626",
-  "item_id": "v1|366797308626|0",
-  "referencia": "116508",
-  "mercado": {
-   "n": 31,
-   "p25": 59154,
-   "mediana": 70374
-  },
-  "ratio_mercado": 0.972,
-  "motivo": "precio normal (97 % del cuartil bajo de 116508)"
- },
- {
-  "fecha": "2026-11-09T18:32:17.408888+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Fifty-Eight",
-  "total": 3945.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257844160445",
-  "item_id": "v1|257844160445|0",
-  "triage": {
-   "modelo": "Tudor Black Bay Fifty-Eight (esfera gris oscura, bisel negro/gris, correa de tela)",
-   "referencia": "79030N (probable, no verificable en la foto)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "El precio pedido de US$3945 supera el retail actual (~US$3825) y el mercado secundario de esta referencia suele estar bajo retail. La correa no es la original y la foto no permite confirmar referencia ni estado."
-  },
-  "motivo": "triage: El precio pedido de US$3945 supera el retail actual (~US$3825) y el mercado secundario de esta referencia suele estar bajo retail. La correa no es la original y la foto no permite confirmar referencia ni estado. (justo 3300)"
- },
- {
-  "fecha": "2026-11-09T18:47:16.824824+00:00",
-  "marca": "Rolex",
-  "titulo": "2022 Rolex Sea-Dweller 43mm 126603 - Two Tone Yellow Gold - Full Set Watch",
-  "total": 16999.95,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168850778041",
-  "item_id": "v1|168850778041|0",
-  "referencia": "126603",
-  "mercado": {
-   "n": 38,
-   "p25": 17715,
-   "mediana": 18206
-  },
-  "ratio_mercado": 0.96,
-  "motivo": "precio normal (96 % del cuartil bajo de 126603)"
- },
- {
-  "fecha": "2026-11-09T18:47:16.824824+00:00",
-  "marca": "Rolex",
-  "titulo": "2023 Rolex Datejust 41mm 126334 - Black - Fluted - Oyster - Full Set Watch",
-  "total": 14499.95,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/257844168692",
-  "item_id": "v1|257844168692|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 (acero Oyster, bisel estriado de oro blanco, esfera negra)",
-   "referencia": "126334",
-   "precio_justo_usd": 11500,
-   "interesante": false,
-   "nota": "Precio pedido de US$14,500 queda muy por encima del valor de venta cerrada de un 126334 de 2023 con caja y papeles, que ronda US$11,000-12,500."
-  },
-  "motivo": "triage: Precio pedido de US$14,500 queda muy por encima del valor de venta cerrada de un 126334 de 2023 con caja y papeles, que ronda US$11,000-12,500. (justo 11500)"
- },
- {
   "fecha": "2026-11-09T18:47:16.824824+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Royal 41mm",
@@ -10965,5 +10891,73 @@
   },
   "ratio_mercado": 1.145,
   "motivo": "precio normal (114 % del cuartil bajo de 79360N)"
+ },
+ {
+  "fecha": "2026-11-11T18:49:11.400489+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner 116610LV 116610  Green HULK STEEL 40mm ROLEXWARANTY2020 #1996-1",
+  "total": 20445.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206692764251",
+  "item_id": "v1|206692764251|0",
+  "referencia": "116610LV",
+  "mercado": {
+   "n": 25,
+   "p25": 20090,
+   "mediana": 20990
+  },
+  "ratio_mercado": 1.018,
+  "motivo": "precio normal (102 % del cuartil bajo de 116610LV)"
+ },
+ {
+  "fecha": "2026-11-11T18:49:11.400489+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Rolex Datejust II 126333, Wimbledon Dial, 2Tone Men’s Watch W/Box & Card",
+  "total": 17500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960183815419",
+  "item_id": "v1|960183815419|0",
+  "referencia": "126333",
+  "mercado": {
+   "n": 32,
+   "p25": 14950,
+   "mediana": 15477
+  },
+  "ratio_mercado": 1.171,
+  "motivo": "precio normal (117 % del cuartil bajo de 126333)"
+ },
+ {
+  "fecha": "2026-11-11T18:49:11.400489+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 126710GRNR Bruce Wayne 40mm Steel Jubilee Full Set",
+  "total": 21950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336892423626",
+  "item_id": "v1|336892423626|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 94,
+   "p25": 22549,
+   "mediana": 23500
+  },
+  "ratio_mercado": 0.973,
+  "motivo": "precio normal (97 % del cuartil bajo de 126710GRNR)"
+ },
+ {
+  "fecha": "2026-11-11T18:49:11.400489+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Française Chronoflex XL Quartz Ref 2303 SS & 18k Gold Men’s",
+  "total": 4500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227609877545",
+  "item_id": "v1|227609877545|0",
+  "referencia": "2303",
+  "mercado": {
+   "n": 29,
+   "p25": 3850,
+   "mediana": 4100
+  },
+  "ratio_mercado": 1.169,
+  "motivo": "precio normal (117 % del cuartil bajo de 2303)"
  }
 ]
