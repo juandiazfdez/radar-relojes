@@ -1,113 +1,5 @@
 [
  {
-  "fecha": "2026-11-09T07:31:58.295006+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 126720VTNR Left-Hand Sprite Jubilee 2025 Card Full Set",
-  "total": 20395.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267838344608",
-  "item_id": "v1|267838344608|0",
-  "referencia": "126720VTNR",
-  "mercado": {
-   "n": 93,
-   "p25": 17999,
-   "mediana": 18500
-  },
-  "ratio_mercado": 1.133,
-  "motivo": "precio normal (113 % del cuartil bajo de 126720VTNR)"
- },
- {
-  "fecha": "2026-11-09T07:31:58.295006+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 126710GRNR Bruce Wayne Jubilee 2025 Card Full Set Mint",
-  "total": 24695.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267838343595",
-  "item_id": "v1|267838343595|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 97,
-   "p25": 22298,
-   "mediana": 23498
-  },
-  "ratio_mercado": 1.107,
-  "motivo": "precio normal (111 % del cuartil bajo de 126710GRNR)"
- },
- {
-  "fecha": "2026-11-09T07:46:58.161109+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 New Rolex Oyster Perpetual 41mm - Beige Dial, 134300",
-  "total": 12635.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/860127132359",
-  "item_id": "v1|860127132359|0",
-  "referencia": "134300",
-  "mercado": {
-   "n": 18,
-   "p25": 11888,
-   "mediana": 12632
-  },
-  "ratio_mercado": 1.063,
-  "motivo": "precio normal (106 % del cuartil bajo de 134300)"
- },
- {
-  "fecha": "2026-11-09T09:16:58.023377+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 31 Automatic Diamond Ladies Watch 278274MDO",
-  "total": 18957.75,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/800895876847",
-  "item_id": "v1|800895876847|0",
-  "referencia": "278274MDO",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 31 acero y oro blanco, bisel acanalado, esfera de nácar blanco con diamantes, brazalete Oyster",
-   "referencia": "278274",
-   "precio_justo_usd": 11500,
-   "interesante": false,
-   "nota": "Precio pedido de US$18.958 muy por encima del valor de venta cerrada estimado para un 278274 nuevo con caja y papeles (aprox. US$11.000-12.000); no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$18.958 muy por encima del valor de venta cerrada estimado para un 278274 nuevo con caja y papeles (aprox. US$11.000-12.000); no es una oportunidad. (justo 11500)"
- },
- {
-  "fecha": "2026-11-09T11:02:07.575975+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Women's Ballon Bleu Watch, Circa 2000S (Au Women's",
-  "total": 3499.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198783170439",
-  "item_id": "v1|198783170439|0",
-  "triage": {
-   "modelo": "Cartier Ballon Bleu de mujer, circa 2000, probablemente en oro 18k (título truncado)",
-   "referencia": null,
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Título cortado; sin referencia ni confirmación de material, box o papeles. Precio pedido de 3500 con envío está por encima de lo que se cierra normalmente para esta pieza."
-  },
-  "motivo": "triage: Título cortado; sin referencia ni confirmación de material, box o papeles. Precio pedido de 3500 con envío está por encima de lo que se cierra normalmente para esta pieza. (justo 3000)"
- },
- {
-  "fecha": "2026-11-09T11:02:07.575975+00:00",
-  "marca": "Tudor",
-  "titulo": "New Sep 2026 Tudor Black Bay 41 Monochrome M7941A1A0NU-0001 Bracelet Full Set",
-  "total": 4395.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/366796567757",
-  "item_id": "v1|366796567757|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 41 Monochrome (esfera negra, bisel negro, brazalete de acero)",
-   "referencia": "M7941A1A0NU-0001",
-   "precio_justo_usd": 3600,
-   "interesante": false,
-   "nota": "Precio pedido por encima del mercado gris para este modelo nuevo; el título menciona 'Sep 2026', así que conviene verificar fecha y papeles."
-  },
-  "motivo": "triage: Precio pedido por encima del mercado gris para este modelo nuevo; el título menciona 'Sep 2026', así que conviene verificar fecha y papeles. (justo 3600)"
- },
- {
   "fecha": "2026-11-09T11:17:07.241060+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Submariner Dark PinkDial/Bezel Automatic Date 300m SS Bracelet Men",
@@ -10901,5 +10793,107 @@
    "nota": "El precio pedido de US$4.599 supera el valor de venta real estimado para este modelo de titanio, incluso en buen estado y con caja y papeles. No hay descuento frente al mercado."
   },
   "motivo": "triage: El precio pedido de US$4.599 supera el valor de venta real estimado para este modelo de titanio, incluso en buen estado y con caja y papeles. No hay descuento frente al mercado. (justo 3600)"
+ },
+ {
+  "fecha": "2026-11-11T03:18:15.610909+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 116244 Stainless Steel 36mm auto watch",
+  "total": 14741.18,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227608764622",
+  "item_id": "v1|227608764622|0",
+  "referencia": "116244",
+  "mercado": {
+   "n": 31,
+   "p25": 13990,
+   "mediana": 14869
+  },
+  "ratio_mercado": 1.054,
+  "motivo": "precio normal (105 % del cuartil bajo de 116244)"
+ },
+ {
+  "fecha": "2026-11-11T03:18:15.610909+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 40mm 116613lb \"Bluesy\" 2014 Box And Papers",
+  "total": 15200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960180981260",
+  "item_id": "v1|960180981260|0",
+  "referencia": "116613LB",
+  "mercado": {
+   "n": 53,
+   "p25": 15779,
+   "mediana": 16000
+  },
+  "ratio_mercado": 0.963,
+  "motivo": "precio normal (96 % del cuartil bajo de 116613LB)"
+ },
+ {
+  "fecha": "2026-11-11T03:18:15.610909+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu 33mm Pink",
+  "total": 6965.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257846549821",
+  "item_id": "v1|257846549821|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu 33mm acero, esfera rosa",
+   "referencia": null,
+   "precio_justo_usd": 5500,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de mercado secundario para este modelo de 33mm en acero; la referencia exacta no se distingue en la foto."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de mercado secundario para este modelo de 33mm en acero; la referencia exacta no se distingue en la foto. (justo 5500)"
+ },
+ {
+  "fecha": "2026-11-11T03:18:15.610909+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu - pink",
+  "total": 6795.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257846539429",
+  "item_id": "v1|257846539429|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu de Cartier, esfera rosa, acero, automático (aprox. 36 mm)",
+   "referencia": null,
+   "precio_justo_usd": 6000,
+   "interesante": false,
+   "nota": "Modelo identificable por la imagen, pero la referencia exacta y si incluye caja y papeles no se ven. Precio pedido de US$6795 no está al menos 15 % por debajo del valor de venta real."
+  },
+  "motivo": "triage: Modelo identificable por la imagen, pero la referencia exacta y si incluye caja y papeles no se ven. Precio pedido de US$6795 no está al menos 15 % por debajo del valor de venta real. (justo 6000)"
+ },
+ {
+  "fecha": "2026-11-11T03:18:15.610909+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu",
+  "total": 6675.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257846534599",
+  "item_id": "v1|257846534599|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu automático, caja de acero, esfera salmón con números romanos y agujas azules (tamaño probable 36 mm)",
+   "referencia": "posiblemente WSBB0040 o similar; no verificable con la foto",
+   "precio_justo_usd": 5800,
+   "interesante": false,
+   "nota": "Precio pedido de US$6675 está por encima del rango de venta secundaria estimado para este modelo en estado excelente; sin descuento claro."
+  },
+  "motivo": "triage: Precio pedido de US$6675 está por encima del rango de venta secundaria estimado para este modelo en estado excelente; sin descuento claro. (justo 5800)"
+ },
+ {
+  "fecha": "2026-11-11T03:18:15.610909+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Pelagos LHD 42mm 25610TNL 2022 Full Set Titanium",
+  "total": 4505.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920128856798",
+  "item_id": "v1|920128856798|0",
+  "triage": {
+   "modelo": "Tudor Pelagos LHD 42mm titanio",
+   "referencia": "25610TNL",
+   "precio_justo_usd": 3700,
+   "interesante": false,
+   "nota": "Pelagos LHD en titanio con brazalete; el precio pedido de US$4.505 supera el valor de venta cerrada estimado para esta referencia y año."
+  },
+  "motivo": "triage: Pelagos LHD en titanio con brazalete; el precio pedido de US$4.505 supera el valor de venta cerrada estimado para esta referencia y año. (justo 3700)"
  }
 ]
