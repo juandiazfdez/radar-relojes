@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-09T17:32:16.629976+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere Ruban WG3001T7 Diamond 18K Yellow Gold Ladies Watch",
-  "total": 24699.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/227606072131",
-  "item_id": "v1|227606072131|0",
-  "triage": {
-   "modelo": "Cartier Panthère Ruban de oro amarillo 18K con bisel de diamantes y esfera de nácar (dama)",
-   "referencia": "WG3001T7 (según título; no verificable en la foto)",
-   "precio_justo_usd": 9000,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de reventa estimado para este modelo en oro amarillo con diamantes; la referencia no se puede confirmar en la imagen."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de reventa estimado para este modelo en oro amarillo con diamantes; la referencia no se puede confirmar en la imagen. (justo 9000)"
- },
- {
-  "fecha": "2026-11-09T17:47:17.305940+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere W25028B8 Three Row Midsize Ladies Watch",
-  "total": 9199.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237173650861",
-  "item_id": "v1|237173650861|0",
-  "triage": {
-   "modelo": "Cartier Panthère de Cartier, tamaño mediano, acero y oro amarillo, brazalete de tres filas, cuarzo",
-   "referencia": "W25028B8",
-   "precio_justo_usd": 4200,
-   "interesante": false,
-   "nota": "Precio pedido de US$9.199 muy por encima del valor de venta real de este modelo bicolor en buen estado, estimado en unos US$3.500-4.500."
-  },
-  "motivo": "triage: Precio pedido de US$9.199 muy por encima del valor de venta real de este modelo bicolor en buen estado, estimado en unos US$3.500-4.500. (justo 4200)"
- },
- {
-  "fecha": "2026-11-09T17:47:17.305940+00:00",
-  "marca": "Tudor",
-  "titulo": "Brand New Tudor Ranger 36mm Ref. M79930 Complete Set",
-  "total": 3605.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/960175295573",
-  "item_id": "v1|960175295573|0",
-  "referencia": "M79930",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Tudor Ranger 36mm",
-   "referencia": "M79930",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Precio pedido de US$3605 con envío, por encima del estimado de venta real (~US$3200) para un Ranger 36mm nuevo con papeles; no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido de US$3605 con envío, por encima del estimado de venta real (~US$3200) para un Ranger 36mm nuevo con papeles; no hay descuento suficiente. (justo 3200)"
- },
- {
   "fecha": "2026-11-09T18:02:18.937807+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Love 18k Solid White Gold Factory Diamond 23mm Quartz Ladies Watch",
@@ -10965,5 +10908,62 @@
    "nota": "Precio por encima del valor de reventa de un 2020 usado. La condición 'New with imperfections' no justifica el precio; el mercado secundario está en torno a los US$3,000-3,200."
   },
   "motivo": "triage: Precio por encima del valor de reventa de un 2020 usado. La condición 'New with imperfections' no justifica el precio; el mercado secundario está en torno a los US$3,000-3,200. (justo 3100)"
+ },
+ {
+  "fecha": "2026-11-11T18:04:10.824135+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 16234 36mm Stainless Steel 18K White Gold Jubilee Wat (WMP022105)",
+  "total": 6679.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920127102604",
+  "item_id": "v1|920127102604|0",
+  "referencia": "16234",
+  "mercado": {
+   "n": 33,
+   "p25": 6160,
+   "mediana": 6500
+  },
+  "ratio_mercado": 1.084,
+  "motivo": "precio normal (108 % del cuartil bajo de 16234)"
+ },
+ {
+  "fecha": "2026-11-11T18:04:10.824135+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Lady-Datejust 26, 179174, Steel & White Gold, Mother of Pearl D...",
+  "total": 11774.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/206692645068",
+  "item_id": "v1|206692645068|0",
+  "referencia": "179174",
+  "mercado": {
+   "n": 57,
+   "p25": 8400,
+   "mediana": 9200
+  },
+  "ratio_mercado": 1.402,
+  "motivo": "precio normal (140 % del cuartil bajo de 179174)"
+ },
+ {
+  "fecha": "2026-11-11T18:04:10.824135+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Drive de Cartier Extra-Flat WSNM0011 2021 Box and Papers",
+  "total": 5650.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257847648306",
+  "item_id": "v1|257847648306|0",
+  "referencia": "WSNM0011",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Drive de Cartier Extra-Flat (esfera plateada, numerales romanos, correa de cuero azul)",
+   "referencia": "WSNM0011",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Precio pedido de US$5650 supera el valor de venta cerrada estimado para este modelo de 2021 con caja y papeles en estado Good; no hay descuento de al menos 15%."
+  },
+  "motivo": "triage: Precio pedido de US$5650 supera el valor de venta cerrada estimado para este modelo de 2021 con caja y papeles en estado Good; no hay descuento de al menos 15%. (justo 5000)"
  }
 ]
