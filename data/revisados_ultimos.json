@@ -2,46 +2,6 @@
  {
   "fecha": "2026-11-09T16:17:17.509769+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Pink Diamond Datejust 278344RBR 31mm - WGACA",
-  "total": 21962.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820335423447",
-  "item_id": "v1|820335423447|0",
-  "referencia": "278344RBR",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 31mm acero y oro blanco, esfera rosa",
-   "referencia": "278344RBR",
-   "precio_justo_usd": 12500,
-   "interesante": false,
-   "nota": "Precio pedido de US$21.963 muy por encima del valor de mercado para esta referencia; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$21.963 muy por encima del valor de mercado para esta referencia; no es una oportunidad. (justo 12500)"
- },
- {
-  "fecha": "2026-11-09T16:17:17.509769+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Black Stainless Steel Submariner Date 16610 40mm - WGACA",
-  "total": 14762.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820335423449",
-  "item_id": "v1|820335423449|0",
-  "referencia": "16610",
-  "mercado": {
-   "n": 79,
-   "p25": 9950,
-   "mediana": 10450
-  },
-  "ratio_mercado": 1.484,
-  "motivo": "precio normal (148 % del cuartil bajo de 16610)"
- },
- {
-  "fecha": "2026-11-09T16:17:17.509769+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Black Stainless Steel GMT-Master II 40MM 116710LN - WGACA",
   "total": 17262.99,
   "condicion": "Pre-owned - Good",
@@ -10936,5 +10896,51 @@
    "nota": "Con caja y papeles se vende normalmente entre US$4.800 y 5.600; el precio pedido de US$7.499 está muy por encima del mercado."
   },
   "motivo": "triage: Con caja y papeles se vende normalmente entre US$4.800 y 5.600; el precio pedido de US$7.499 está muy por encima del mercado. (justo 5200)"
+ },
+ {
+  "fecha": "2026-11-11T14:49:10.922163+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise W5001456 18K Yellow Gold Ladies Watch Box Papers",
+  "total": 7699.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227609622314",
+  "item_id": "v1|227609622314|0",
+  "referencia": "W5001456",
+  "mercado": {
+   "n": 1,
+   "p25": 7699,
+   "mediana": 7699
+  },
+  "triage": {
+   "modelo": "Cartier Tank Française en oro amarillo 18K, cuarzo, con fecha",
+   "referencia": "W5001456",
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "Precio pedido de US$7.699 con envío por encima del valor de venta cerrada estimado (~US$7.000) para esta referencia en oro amarillo, en estado excelente y con caja y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$7.699 con envío por encima del valor de venta cerrada estimado (~US$7.000) para esta referencia en oro amarillo, en estado excelente y con caja y papeles. (justo 7000)"
+ },
+ {
+  "fecha": "2026-11-11T14:49:10.922163+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise W5001456 18K Yellow Gold Ladies Watch Box Papers",
+  "total": 7699.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237177189357",
+  "item_id": "v1|237177189357|0",
+  "referencia": "W5001456",
+  "mercado": {
+   "n": 1,
+   "p25": 7699,
+   "mediana": 7699
+  },
+  "triage": {
+   "modelo": "Cartier Tank Française (oro amarillo 18K, cuarzo, correa de piel de cocodrilo)",
+   "referencia": "W5001456",
+   "precio_justo_usd": 4200,
+   "interesante": false,
+   "nota": "Tank Française de oro 18K de cuarzo con caja y papeles; el precio pedido de US$7699 está muy por encima de lo que se vende realmente en el mercado de usados."
+  },
+  "motivo": "triage: Tank Française de oro 18K de cuarzo con caja y papeles; el precio pedido de US$7699 está muy por encima de lo que se vende realmente en el mercado de usados. (justo 4200)"
  }
 ]
