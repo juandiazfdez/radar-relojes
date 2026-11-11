@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-09T02:31:49.572615+00:00",
-  "marca": "Rolex",
-  "titulo": "$10,000 PINK MOP Diamond ROLEX DATEJUST Ladies 18k Yellow Gold SS Watch SERVICED",
-  "total": 2134.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407349806895",
-  "item_id": "v1|407349806895|0",
-  "triage": {
-   "modelo": "Rolex Datejust 26 dos tonos (oro amarillo 18k y acero), esfera rosa de nácar con índices de diamante, bisel con diamantes",
-   "referencia": "179173 (probable, no verificable en la imagen)",
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "Precio pedido muy por debajo del mercado para esta referencia. El título menciona $10,000 y el precio es implausiblemente bajo, así que podría ser réplica o listado engañoso. Requiere verificación de autenticidad y número de serie."
-  },
-  "motivo": "triage: Precio pedido muy por debajo del mercado para esta referencia. El título menciona $10,000 y el precio es implausiblemente bajo, así que podría ser réplica o listado engañoso. Requiere verificación de autenticidad y número de serie. (justo 5000)"
- },
- {
-  "fecha": "2026-11-09T02:31:49.572615+00:00",
-  "marca": "Tudor",
-  "titulo": "Vintage 1954 Tudor Prince",
-  "total": 1750.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198782293230",
-  "item_id": "v1|198782293230|0",
-  "triage": {
-   "modelo": "Tudor Prince (vintage, c. 1950s, caja chapada en oro)",
-   "referencia": null,
-   "precio_justo_usd": 1100,
-   "interesante": false,
-   "nota": "Tudor Prince vintage con caja chapada en oro y esfera crema; sin referencia verificable en la foto. Precio pedido por encima del rango de venta cerrada para este estado."
-  },
-  "motivo": "triage: Tudor Prince vintage con caja chapada en oro y esfera crema; sin referencia verificable en la foto. Precio pedido por encima del rango de venta cerrada para este estado. (justo 1100)"
- },
- {
   "fecha": "2026-11-09T03:16:49.427156+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR Heritage Black Bay 41 SMILEY With Box And Paper",
@@ -10890,5 +10856,45 @@
    "estado": "Usado, 'Good': rayones visibles en bisel y brazalete, acabado satinado desgastado, sin pulido evidente"
   },
   "motivo": "Claude descarto: A US$32,499 el precio está por encima del mercado real. Los WGSA0029/WGSA0009 usados en oro amarillo con caja se cierran en torno a US$25-28k en Chrono24 y entre dealers. Comprar a ese precio no deja margen de reventa.; Los comparables de eBay (cuartil bajo 39,999, mediana 40,699) son precios pedidos e inflados. No justifican el precio de este reloj."
+ },
+ {
+  "fecha": "2026-11-11T01:48:05.815615+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 New Rolex Oyster Perpetual 31mm - \"100 Years Anniversa\" - 277203 - Full Set",
+  "total": 13499.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/227608653073",
+  "item_id": "v1|227608653073|0",
+  "referencia": "277203",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual 31 mm (Rolesor acero y oro amarillo, bisel acanalado dorado, esfera gris)",
+   "referencia": "277203",
+   "precio_justo_usd": 8300,
+   "interesante": false,
+   "nota": "Referencia 277203 nueva con caja y papeles, vendida a unos US$8.000-8.600. El precio pedido de US$13.499 está muy por encima, y el título menciona una edición 'Anniversary' que no corresponde a un modelo conocido, así que el listado es poco fiable."
+  },
+  "motivo": "triage: Referencia 277203 nueva con caja y papeles, vendida a unos US$8.000-8.600. El precio pedido de US$13.499 está muy por encima, y el título menciona una edición 'Anniversary' que no corresponde a un modelo conocido, así que el listado es poco fiable. (justo 8300)"
+ },
+ {
+  "fecha": "2026-11-11T01:48:05.815615+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex DateJust 41mm SUNDUST PINK Steel 18K Rose Gold JUBILEE Fluted 126331 BOX",
+  "total": 14783.28,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900081509005",
+  "item_id": "v1|900081509005|0",
+  "referencia": "126331",
+  "mercado": {
+   "n": 41,
+   "p25": 15990,
+   "mediana": 16500
+  },
+  "ratio_mercado": 0.925,
+  "motivo": "precio normal (92 % del cuartil bajo de 126331)"
  }
 ]
