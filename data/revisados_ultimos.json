@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-09T22:02:27.737594+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex GMT Master II Pepsi 126710BLRO Oyster 2021",
-  "total": 23550.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940079251990",
-  "item_id": "v1|940079251990|0",
-  "referencia": "126710BLRO",
-  "mercado": {
-   "n": 17,
-   "p25": 23655,
-   "mediana": 24440
-  },
-  "ratio_mercado": 0.996,
-  "motivo": "precio normal (100 % del cuartil bajo de 126710BLRO)"
- },
- {
-  "fecha": "2026-11-09T22:02:27.737594+00:00",
-  "marca": "Rolex",
   "titulo": "2022 Rolex SS Black Submariner 124060 41 mm Box Papers Complete Set",
   "total": 13037.76,
   "condicion": "Pre-owned - Excellent",
@@ -10964,5 +10947,22 @@
    "nota": "Modelo identificable por el texto 'Mini-Sub' y la esfera azul, pero el precio pedido queda solo ~12% por debajo de un valor conservador y no puedo verificar autenticidad ni estado real desde la foto."
   },
   "motivo": "triage: Modelo identificable por el texto 'Mini-Sub' y la esfera azul, pero el precio pedido queda solo ~12% por debajo de un valor conservador y no puedo verificar autenticidad ni estado real desde la foto. (justo 2200)"
+ },
+ {
+  "fecha": "2026-11-11T22:04:24.713481+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu 33mm Steel Automatic Watch – Complete Set Box, Papers & Rece",
+  "total": 3500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900083817038",
+  "item_id": "v1|900083817038|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu 33 mm acero, esfera plateada, con caja original",
+   "referencia": "W69010Z4 (probable; el título dice 'Automatic', pero el 33 mm en acero suele ser cuarzo, así que hay que verificarlo)",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio pedido un ~6% por encima del estimado para caja y papeles; el título indica automático, algo inconsistente con el 33 mm de acero, y conviene confirmar la referencia antes de comprar."
+  },
+  "motivo": "triage: Precio pedido un ~6% por encima del estimado para caja y papeles; el título indica automático, algo inconsistente con el 33 mm de acero, y conviene confirmar la referencia antes de comprar. (justo 3300)"
  }
 ]
