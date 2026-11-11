@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-09T02:01:49.083856+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Bubbleback 5510",
-  "total": 2669.9,
-  "condicion": "For parts or not working",
-  "url": "https://www.ebay.com/itm/327447068910",
-  "item_id": "v1|327447068910|0",
-  "referencia": "5510",
-  "mercado": {
-   "n": 1,
-   "p25": 600,
-   "mediana": 600
-  },
-  "triage": {
-   "modelo": "Reloj de pulsera vintage con esfera negra y caja dorada (no identificable como Bubbleback con certeza)",
-   "referencia": null,
-   "precio_justo_usd": 1500,
-   "interesante": false,
-   "nota": "El título dice Bubbleback 5510, pero la foto no muestra un caseback bubble y 5510 no coincide con esa generación. Estado 'para piezas o no funciona' y posible listado engañoso: no comprar sin verificar referencia, movimiento y autenticidad."
-  },
-  "motivo": "triage: El título dice Bubbleback 5510, pero la foto no muestra un caseback bubble y 5510 no coincide con esa generación. Estado 'para piezas o no funciona' y posible listado engañoso: no comprar sin verificar referencia, movimiento y autenticidad. (justo 1500)"
- },
- {
-  "fecha": "2026-11-09T02:31:49.572615+00:00",
-  "marca": "Rolex",
-  "titulo": "$10,000 PINK MOP Diamond ROLEX DATEJUST Ladies 18k Yellow Gold SS Watch SERVICED",
-  "total": 2759.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307273591923",
-  "item_id": "v1|307273591923|0",
-  "triage": {
-   "modelo": "Rolex Datejust 26 mm dama, dos tonos acero y oro amarillo de 18k, esfera rosa de nácar con marcadores de diamante",
-   "referencia": "179173 (probable, sin confirmar)",
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "Si es auténtico, rondaría US$4.500 usado, pero el título de '$10,000' es engañoso, no hay papeles y los diamantes o la esfera podrían ser añadidos; verificar autenticidad antes de cualquier oferta."
-  },
-  "motivo": "triage: Si es auténtico, rondaría US$4.500 usado, pero el título de '$10,000' es engañoso, no hay papeles y los diamantes o la esfera podrían ser añadidos; verificar autenticidad antes de cualquier oferta. (justo 4500)"
- },
- {
-  "fecha": "2026-11-09T02:31:49.572615+00:00",
-  "marca": "Rolex",
-  "titulo": "$10,000 PINK MOP Diamond ROLEX DATEJUST Ladies 18k Yellow Gold SS Watch SERVICED",
-  "total": 2410.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307273592055",
-  "item_id": "v1|307273592055|0",
-  "triage": {
-   "modelo": "Rolex Datejust 26 mm dama, acero y oro amarillo de 18k, esfera rosa nácar con diamantes (aspecto de 179173 o similar)",
-   "referencia": "179173 (probable, no verificable en la foto)",
-   "precio_justo_usd": 5500,
-   "interesante": false,
-   "nota": "Precio pedido muy por debajo del mercado para este modelo; el título menciona US$10,000 y la foto es baja resolución. Riesgo alto de réplica o listado engañoso. Verificar número de serie y autenticidad antes de cualquier compra."
-  },
-  "motivo": "triage: Precio pedido muy por debajo del mercado para este modelo; el título menciona US$10,000 y la foto es baja resolución. Riesgo alto de réplica o listado engañoso. Verificar número de serie y autenticidad antes de cualquier compra. (justo 5500)"
- },
- {
   "fecha": "2026-11-09T02:31:49.572615+00:00",
   "marca": "Rolex",
   "titulo": "$10,000 PINK MOP Diamond ROLEX DATEJUST Ladies 18k Yellow Gold SS Watch SERVICED",
@@ -10890,5 +10833,62 @@
   },
   "ratio_mercado": 0.948,
   "motivo": "precio normal (95 % del cuartil bajo de 79230N)"
+ },
+ {
+  "fecha": "2026-11-11T01:33:06.457474+00:00",
+  "marca": "Rolex",
+  "titulo": "Authentic Rolex President Day-Date 228238 228235 228239 Large Watch Box 39141",
+  "total": 363.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168853425231",
+  "item_id": "v1|168853425231|0",
+  "referencia": "228238",
+  "mercado": {
+   "n": 31,
+   "p25": 48500,
+   "mediana": 48995
+  },
+  "ratio_mercado": 0.008,
+  "motivo": "demasiado barato (1 % del cuartil bajo): sospechoso"
+ },
+ {
+  "fecha": "2026-11-11T01:33:06.457474+00:00",
+  "marca": "Rolex",
+  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
+  "total": 15991.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327450370862",
+  "item_id": "v1|327450370862|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date (acero, bisel negro)",
+   "referencia": null,
+   "precio_justo_usd": 15000,
+   "interesante": false,
+   "nota": "Referencia no verificable en la foto; si es 116610LN/126610LN con caja y papeles, el precio pedido no está 15 % o más por debajo del mercado. Confirmar referencia, serie y estado sin pulir."
+  },
+  "motivo": "triage: Referencia no verificable en la foto; si es 116610LN/126610LN con caja y papeles, el precio pedido no está 15 % o más por debajo del mercado. Confirmar referencia, serie y estado sin pulir. (justo 15000)"
+ },
+ {
+  "fecha": "2026-11-11T01:33:06.457474+00:00",
+  "marca": "Cartier",
+  "titulo": "Santos de Cartier Large Automatic Watch, 18K Yellow Gold, 39.8 mm | WGSA0029",
+  "total": 32499.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168853432856",
+  "item_id": "v1|168853432856|0",
+  "referencia": "WGSA0029",
+  "mercado": {
+   "n": 5,
+   "p25": 39999,
+   "mediana": 40699
+  },
+  "ratio_mercado": 0.812,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 26500,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado, 'Good': rayones visibles en bisel y brazalete, acabado satinado desgastado, sin pulido evidente"
+  },
+  "motivo": "Claude descarto: A US$32,499 el precio está por encima del mercado real. Los WGSA0029/WGSA0009 usados en oro amarillo con caja se cierran en torno a US$25-28k en Chrono24 y entre dealers. Comprar a ese precio no deja margen de reventa.; Los comparables de eBay (cuartil bajo 39,999, mediana 40,699) son precios pedidos e inflados. No justifican el precio de este reloj."
  }
 ]
