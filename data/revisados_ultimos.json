@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-09T14:32:08.109197+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Datejust Automatic Watch Stainless Steel and Yellow Gold",
-  "total": 12235.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117512543594",
-  "item_id": "v1|117512543594|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36 mm acero y oro amarillo, bisel acanalado de oro, esfera negra con diamantes, brazalete Jubilee",
-   "referencia": "16233",
-   "precio_justo_usd": 8500,
-   "interesante": false,
-   "nota": "Precio pedido US$12,235 está muy por encima del valor de venta real de esta referencia en estado usado, aunque la esfera de diamantes puede justificar parte de la prima. Verificar autenticidad y originalidad de la esfera."
-  },
-  "motivo": "triage: Precio pedido US$12,235 está muy por encima del valor de venta real de esta referencia en estado usado, aunque la esfera de diamantes puede justificar parte de la prima. Verificar autenticidad y originalidad de la esfera. (justo 8500)"
- },
- {
-  "fecha": "2026-11-09T14:32:08.109197+00:00",
-  "marca": "Rolex",
   "titulo": "Vintage ROLEX Oyster Precision 6525 14K/SS Women’s 22mm Watch W/Extras! SERVICED",
   "total": 2222.76,
   "condicion": "Pre-owned - Good",
@@ -10894,5 +10877,28 @@
    "nota": "Precio cercano al mercado gris para un Santos-Dumont LM nuevo con caja y papeles, pero la foto parece bicolor (acero y oro) y no oro rosa completo como indica el título; verificar el material antes de comprar."
   },
   "motivo": "triage: Precio cercano al mercado gris para un Santos-Dumont LM nuevo con caja y papeles, pero la foto parece bicolor (acero y oro) y no oro rosa completo como indica el título; verificar el material antes de comprar. (justo 13500)"
+ },
+ {
+  "fecha": "2026-11-11T05:18:14.797342+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Dumont Small 18k Rose Gold W2009251 2788 38mm x 30mm Quartz",
+  "total": 7264.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168853794876",
+  "item_id": "v1|168853794876|0",
+  "referencia": "W2009251",
+  "mercado": {
+   "n": 2,
+   "p25": 8100,
+   "mediana": 8650
+  },
+  "triage": {
+   "modelo": "Cartier Santos-Dumont Medium, oro rosa 18k, cuarzo, esfera plateada con números romanos, correa de cocodrilo",
+   "referencia": "W2009251",
+   "precio_justo_usd": 8000,
+   "interesante": false,
+   "nota": "Precio 9% por debajo de un estimado conservador de venta cerrada; la caja de oro macizo sí tiene valor de fundición, pero el listado no muestra si incluye papeles."
+  },
+  "motivo": "triage: Precio 9% por debajo de un estimado conservador de venta cerrada; la caja de oro macizo sí tiene valor de fundición, pero el listado no muestra si incluye papeles. (justo 8000)"
  }
 ]
