@@ -6700,13 +6700,13 @@
   "max": 7329
  },
  "Rolex 116710|usado": {
-  "fecha": "2026-11-10",
+  "fecha": "2026-11-11",
   "consulta": "Rolex 116710",
-  "n": 38,
-  "mediana": 14149,
+  "n": 39,
+  "mediana": 13999,
   "p25": 12990,
   "p75": 14999,
-  "min": 11213,
+  "min": 11102,
   "max": 15900
  },
  "Rolex 116713|usado": {
@@ -20917,6 +20917,11 @@
  "Rolex 6751|usado": {
   "fecha": "2026-11-11",
   "consulta": "Rolex 6751",
+  "n": 0
+ },
+ "Tudor 94150|nuevo": {
+  "fecha": "2026-11-11",
+  "consulta": "Tudor 94150",
   "n": 0
  }
 }

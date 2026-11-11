@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-09T21:32:17.432429+00:00",
   "marca": "Rolex",
-  "titulo": "2023 Rolex GMT-Master II Zombie 126713GRNR 40MM Black Two-Tone 18K Yg B/p",
-  "total": 21750.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880100103360",
-  "item_id": "v1|880100103360|0",
-  "referencia": "126713GRNR",
-  "mercado": {
-   "n": 40,
-   "p25": 22950,
-   "mediana": 23550
-  },
-  "ratio_mercado": 0.948,
-  "motivo": "precio normal (95 % del cuartil bajo de 126713GRNR)"
- },
- {
-  "fecha": "2026-11-09T21:32:17.432429+00:00",
-  "marca": "Rolex",
-  "titulo": "2022 Rolex 126900 Air king Full Set Box and Papers",
-  "total": 8399.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940079183724",
-  "item_id": "v1|940079183724|0",
-  "referencia": "126900",
-  "mercado": {
-   "n": 26,
-   "p25": 9500,
-   "mediana": 10046
-  },
-  "ratio_mercado": 0.884,
-  "motivo": "precio normal (88 % del cuartil bajo de 126900)"
- },
- {
-  "fecha": "2026-11-09T21:32:17.432429+00:00",
-  "marca": "Rolex",
   "titulo": "1997 Rolex GMT-Master \"Pepsi\", 16700, 40mm, Black Dial, Oyster Bracelet, Box ...",
   "total": 19261.0,
   "condicion": "Pre-owned - Good",
@@ -10952,5 +10918,45 @@
   },
   "ratio_mercado": 1.533,
   "motivo": "precio normal (153 % del cuartil bajo de M79360N)"
+ },
+ {
+  "fecha": "2026-11-11T21:34:25.655202+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT Master II 40mm 116710 Green Arrow Black Ceramic 2007",
+  "total": 13449.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147676559548",
+  "item_id": "v1|147676559548|0",
+  "referencia": "116710",
+  "mercado": {
+   "n": 39,
+   "p25": 12990,
+   "mediana": 13999
+  },
+  "ratio_mercado": 1.035,
+  "motivo": "precio normal (104 % del cuartil bajo de 116710)"
+ },
+ {
+  "fecha": "2026-11-11T21:34:25.655202+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor 1926 Stainless Steel Watch 94150",
+  "total": 2100.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/407356402492",
+  "item_id": "v1|407356402492|0",
+  "referencia": "94150",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor 1926 (acero, esfera plateada, índices arábigos, brazalete de acero)",
+   "referencia": "94150 (según el título; no verificable en la foto)",
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "Precio pedido 12-15% bajo una estimación conservadora de venta cerrada nueva con caja y papeles; a ese nivel, verificar autenticidad, referencia y papeles antes de considerarlo."
+  },
+  "motivo": "triage: Precio pedido 12-15% bajo una estimación conservadora de venta cerrada nueva con caja y papeles; a ese nivel, verificar autenticidad, referencia y papeles antes de considerarlo. (justo 2400)"
  }
 ]
