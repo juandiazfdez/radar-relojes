@@ -2,74 +2,6 @@
  {
   "fecha": "2026-11-09T16:17:17.509769+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Black Stainless Steel Submariner 5513 40mm - WGACA",
-  "total": 20512.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820335426562",
-  "item_id": "v1|820335426562|0",
-  "referencia": "5513",
-  "mercado": {
-   "n": 32,
-   "p25": 11723,
-   "mediana": 13627
-  },
-  "ratio_mercado": 1.75,
-  "motivo": "precio normal (175 % del cuartil bajo de 5513)"
- },
- {
-  "fecha": "2026-11-09T16:17:17.509769+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sprite GMT-Master II 126720 40mm - WGACA",
-  "total": 23962.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820335426559",
-  "item_id": "v1|820335426559|0",
-  "referencia": "126720",
-  "mercado": {
-   "n": 98,
-   "p25": 18000,
-   "mediana": 18647
-  },
-  "ratio_mercado": 1.331,
-  "motivo": "precio normal (133 % del cuartil bajo de 126720)"
- },
- {
-  "fecha": "2026-11-09T16:17:17.509769+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Black GMT Master II BatGirl 126710BLNR 40mm - WGACA",
-  "total": 26512.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820335423441",
-  "item_id": "v1|820335423441|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 68,
-   "p25": 18172,
-   "mediana": 18825
-  },
-  "ratio_mercado": 1.459,
-  "motivo": "precio normal (146 % del cuartil bajo de 126710BLNR)"
- },
- {
-  "fecha": "2026-11-09T16:17:17.509769+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Pepsi GMT Master II 16710 40MM - WGACA",
-  "total": 16012.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820335423446",
-  "item_id": "v1|820335423446|0",
-  "referencia": "16710",
-  "mercado": {
-   "n": 76,
-   "p25": 13499,
-   "mediana": 14455
-  },
-  "ratio_mercado": 1.186,
-  "motivo": "precio normal (119 % del cuartil bajo de 16710)"
- },
- {
-  "fecha": "2026-11-09T16:17:17.509769+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Pink Diamond Datejust 278344RBR 31mm - WGACA",
   "total": 21962.99,
   "condicion": "Pre-owned - Good",
@@ -10924,5 +10856,85 @@
    "nota": "Sin verificar esfera, logotipo, calibre ni papeles, no se puede confirmar la autenticidad; si fuera un 6234 genuino en buen estado, el precio pedido está solo ~8% por debajo del estimado, sin margen de 15%."
   },
   "motivo": "triage: Sin verificar esfera, logotipo, calibre ni papeles, no se puede confirmar la autenticidad; si fuera un 6234 genuino en buen estado, el precio pedido está solo ~8% por debajo del estimado, sin margen de 15%. (justo 30000)"
+ },
+ {
+  "fecha": "2026-11-11T14:34:10.992328+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Land-Dweller 36mm Steel Box/Papers",
+  "total": 19099.98,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/920130634627",
+  "item_id": "v1|920130634627|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 (según la foto, no Land-Dweller)",
+   "referencia": "126234 (probable)",
+   "precio_justo_usd": 10000,
+   "interesante": false,
+   "nota": "El título dice Land-Dweller 36mm, pero la foto muestra un Datejust con bisel acanalado y brazalete Jubilee; la discrepancia es señal de listado engañoso. Aun como Datejust 36 nuevo, el precio de US$19,100 está muy por encima del mercado secundario (~US$10,000)."
+  },
+  "motivo": "triage: El título dice Land-Dweller 36mm, pero la foto muestra un Datejust con bisel acanalado y brazalete Jubilee; la discrepancia es señal de listado engañoso. Aun como Datejust 36 nuevo, el precio de US$19,100 está muy por encima del mercado secundario (~US$10,000). (justo 10000)"
+ },
+ {
+  "fecha": "2026-11-11T14:34:10.992328+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Americaine W2620030 18K Rose Gold Ladies Watch Box Papers",
+  "total": 9199.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237177187602",
+  "item_id": "v1|237177187602|0",
+  "referencia": "W2620030",
+  "mercado": {
+   "n": 1,
+   "p25": 9950,
+   "mediana": 9950
+  },
+  "triage": {
+   "modelo": "Cartier Tank Américaine (tamaño mediano, oro rosa 18K, esfera plateada, correa de cocodrilo burdeos)",
+   "referencia": "W2620030",
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "Precio pedido de US$9.199 está muy por encima del valor de venta cerrada de esta referencia en oro rosa usada, aunque tenga caja y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$9.199 está muy por encima del valor de venta cerrada de esta referencia en oro rosa usada, aunque tenga caja y papeles. (justo 6500)"
+ },
+ {
+  "fecha": "2026-11-11T14:34:10.992328+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Americaine W2607456 Ladies Watch",
+  "total": 8699.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227609610949",
+  "item_id": "v1|227609610949|0",
+  "referencia": "W2607456",
+  "mercado": {
+   "n": 4,
+   "p25": 7999,
+   "mediana": 8349
+  },
+  "triage": {
+   "modelo": "Cartier Tank Américaine (modelo pequeño, oro rosa 18k, esfera plateada con números romanos, correa de cocodrilo granate)",
+   "referencia": "W2607456",
+   "precio_justo_usd": 9000,
+   "interesante": false,
+   "nota": "Precio pedido de US$8.699 solo queda ~3 % por debajo de un valor estimado de US$9.000 para oro rosa, cuarzo, estado excelente; sin ahorro suficiente para ser interesante."
+  },
+  "motivo": "triage: Precio pedido de US$8.699 solo queda ~3 % por debajo de un valor estimado de US$9.000 para oro rosa, cuarzo, estado excelente; sin ahorro suficiente para ser interesante. (justo 9000)"
+ },
+ {
+  "fecha": "2026-11-11T14:34:10.992328+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos 100 W20107X7 Midsize Ladies Watch Box Papers",
+  "total": 7499.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366801811425",
+  "item_id": "v1|366801811425|0",
+  "triage": {
+   "modelo": "Cartier Santos 100 (acero y oro rosa, esfera plateada con números romanos, correa de cocodrilo negra)",
+   "referencia": "W20107X7",
+   "precio_justo_usd": 5200,
+   "interesante": false,
+   "nota": "Con caja y papeles se vende normalmente entre US$4.800 y 5.600; el precio pedido de US$7.499 está muy por encima del mercado."
+  },
+  "motivo": "triage: Con caja y papeles se vende normalmente entre US$4.800 y 5.600; el precio pedido de US$7.499 está muy por encima del mercado. (justo 5200)"
  }
 ]
