@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-09T22:47:27.575612+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Must, Extra-Large Model, Automatic Movement, Steel, Leather",
-  "total": 3700.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800897824988",
-  "item_id": "v1|800897824988|0",
-  "triage": {
-   "modelo": "Cartier Tank Must XL (acero, correa de piel negra, esfera plateada con numerales romanos)",
-   "referencia": null,
-   "precio_justo_usd": 2900,
-   "interesante": false,
-   "nota": "El precio pedido (US$3700) está por encima del valor de mercado. El título dice automático, pero la Tank Must suele ser cuarzo, así que hay que verificar el calibre antes de cualquier compra."
-  },
-  "motivo": "triage: El precio pedido (US$3700) está por encima del valor de mercado. El título dice automático, pero la Tank Must suele ser cuarzo, así que hay que verificar el calibre antes de cualquier compra. (justo 2900)"
- },
- {
-  "fecha": "2026-11-09T22:47:27.575612+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Heritage Black Bay",
   "total": 4700.0,
@@ -10958,5 +10941,22 @@
   },
   "ratio_mercado": 1.063,
   "motivo": "precio normal (106 % del cuartil bajo de 25407N)"
+ },
+ {
+  "fecha": "2026-11-11T22:49:25.217356+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 36mm Rolex President Day Date Automatic Wristwatch 1556 18k Gold 1803",
+  "total": 9039.95,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137922956018",
+  "item_id": "v1|137922956018|0",
+  "triage": {
+   "modelo": "Rolex Day-Date (President) 36 mm, oro amarillo 18k, bisel acanalado, esfera plateada con índices de bastón y ventana de día",
+   "referencia": "1803",
+   "precio_justo_usd": 9300,
+   "interesante": false,
+   "nota": "El título dice 1556 pero la imagen corresponde a un 1803; el strap de cuero probablemente no es original. Precio cercano al mercado, sin descuento de 15 %."
+  },
+  "motivo": "triage: El título dice 1556 pero la imagen corresponde a un 1803; el strap de cuero probablemente no es original. Precio cercano al mercado, sin descuento de 15 %. (justo 9300)"
  }
 ]
