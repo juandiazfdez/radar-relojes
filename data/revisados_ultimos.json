@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-09T14:32:08.109197+00:00",
-  "marca": "Tudor",
-  "titulo": "Vintage TUDOR Prince Oysterdate Automatic Men’s 34mm Watch RUNS! Serviced!",
-  "total": 1722.76,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137916084320",
-  "item_id": "v1|137916084320|0",
-  "triage": {
-   "modelo": "Tudor Prince Oysterdate 34 mm, acero, esfera plateada, brazalete Oyster (vintage)",
-   "referencia": "7966 (probable, sin confirmar)",
-   "precio_justo_usd": 1500,
-   "interesante": false,
-   "nota": "Precio pedido de US$1723 supera la estimación de venta cerrada para este vintage en buen estado; la referencia y el tipo de calibre (el título dice automático) no están confirmados."
-  },
-  "motivo": "triage: Precio pedido de US$1723 supera la estimación de venta cerrada para este vintage en buen estado; la referencia y el tipo de calibre (el título dice automático) no están confirmados. (justo 1500)"
- },
- {
   "fecha": "2026-11-09T14:47:07.688076+00:00",
   "marca": "Cartier",
   "titulo": "Vintage Cartier Watch Must de Cartier Vendome Vermeil Quartz 3 Color Gold Watch",
@@ -10894,5 +10877,22 @@
   },
   "ratio_mercado": 0.956,
   "motivo": "precio normal (96 % del cuartil bajo de 126711CHNR)"
+ },
+ {
+  "fecha": "2026-11-11T05:48:15.544594+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex cellini  3806 18K Yellow Gold Wristwatch",
+  "total": 4340.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900079366700",
+  "item_id": "v1|900079366700|0",
+  "triage": {
+   "modelo": "Rolex Cellini (oro amarillo 18K, de cuerda manual o cuarzo según generación)",
+   "referencia": "3806",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "La foto no permite confirmar la referencia ni la caja de oro; el reloj de la imagen parece un modelo de correa negra distinto. Con el título, el precio pedido queda por encima del valor estimado de venta cerrada."
+  },
+  "motivo": "triage: La foto no permite confirmar la referencia ni la caja de oro; el reloj de la imagen parece un modelo de correa negra distinto. Con el título, el precio pedido queda por encima del valor estimado de venta cerrada. (justo 3200)"
  }
 ]
