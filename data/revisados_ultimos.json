@@ -1,29 +1,6 @@
 [
  {
   "fecha": "2026-11-09T14:32:08.109197+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage ROLEX Oyster Precision 6525 14K/SS Women’s 22mm Watch W/Extras! SERVICED",
-  "total": 2222.76,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137916074496",
-  "item_id": "v1|137916074496|0",
-  "referencia": "6525",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Oyster Precision dama, acero y oro 14K, cuerda manual",
-   "referencia": "6525",
-   "precio_justo_usd": 1000,
-   "interesante": false,
-   "nota": "Precio pedido de US$2223 muy por encima del valor de venta real de esta referencia de dama bitono, incluso con servicio y extras."
-  },
-  "motivo": "triage: Precio pedido de US$2223 muy por encima del valor de venta real de esta referencia de dama bitono, incluso con servicio y extras. (justo 1000)"
- },
- {
-  "fecha": "2026-11-09T14:32:08.109197+00:00",
   "marca": "Tudor",
   "titulo": "Vintage TUDOR Prince Oysterdate Automatic Men’s 34mm Watch RUNS! Serviced!",
   "total": 1722.76,
@@ -10900,5 +10877,22 @@
    "nota": "Precio 9% por debajo de un estimado conservador de venta cerrada; la caja de oro macizo sí tiene valor de fundición, pero el listado no muestra si incluye papeles."
   },
   "motivo": "triage: Precio 9% por debajo de un estimado conservador de venta cerrada; la caja de oro macizo sí tiene valor de fundición, pero el listado no muestra si incluye papeles. (justo 8000)"
+ },
+ {
+  "fecha": "2026-11-11T05:33:15.018024+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX ROOTBEER 126711CHNR BOX & PAPERS FULL SET WARRANTY",
+  "total": 19989.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267840451866",
+  "item_id": "v1|267840451866|0",
+  "referencia": "126711CHNR",
+  "mercado": {
+   "n": 99,
+   "p25": 20900,
+   "mediana": 21940
+  },
+  "ratio_mercado": 0.956,
+  "motivo": "precio normal (96 % del cuartil bajo de 126711CHNR)"
  }
 ]
