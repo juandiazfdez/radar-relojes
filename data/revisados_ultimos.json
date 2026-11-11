@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-09T01:01:48.929016+00:00",
-  "marca": "Rolex",
-  "titulo": "UNPOLISHED 2022 PAPERS Rolex Milgauss BLUE 40mm Z-Blue Green Steel 116400 GV BOX",
-  "total": 14783.28,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307273494407",
-  "item_id": "v1|307273494407|0",
-  "referencia": "116400",
-  "mercado": {
-   "n": 46,
-   "p25": 11506,
-   "mediana": 12053
-  },
-  "ratio_mercado": 1.285,
-  "motivo": "precio normal (128 % del cuartil bajo de 116400)"
- },
- {
-  "fecha": "2026-11-09T01:01:48.929016+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos de Cartier WSSA0018",
   "total": 10270.0,
@@ -10903,5 +10886,22 @@
   },
   "ratio_mercado": 1.477,
   "motivo": "precio normal (148 % del cuartil bajo de 79833MN)"
+ },
+ {
+  "fecha": "2026-11-11T00:33:05.791576+00:00",
+  "marca": "Tudor",
+  "titulo": "2024 Complete Set Tudor Black Bay 58 GMT Coke 7939G1A0NRU",
+  "total": 4350.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960180499543",
+  "item_id": "v1|960180499543|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 GMT 'Coke' (bisel rojo/negro, brazalete de acero)",
+   "referencia": "M7939G1A0NRU",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Reloj de producción actual con caja y papeles; el precio pedido de US$4350 está al nivel del retail y por encima del mercado gris estimado para este modelo."
+  },
+  "motivo": "triage: Reloj de producción actual con caja y papeles; el precio pedido de US$4350 está al nivel del retail y por encima del mercado gris estimado para este modelo. (justo 3800)"
  }
 ]
