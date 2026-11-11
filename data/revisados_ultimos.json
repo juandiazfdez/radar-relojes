@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-09T16:02:08.425603+00:00",
-  "marca": "Rolex",
-  "titulo": "41972: Rolex GMT-Master II \"Coke\", Ref. 16710, Circa 2002",
-  "total": 13600.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237173313231",
-  "item_id": "v1|237173313231|0",
-  "referencia": "16710",
-  "mercado": {
-   "n": 76,
-   "p25": 13499,
-   "mediana": 14455
-  },
-  "ratio_mercado": 1.007,
-  "motivo": "precio normal (101 % del cuartil bajo de 16710)"
- },
- {
-  "fecha": "2026-11-09T16:02:08.425603+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Baignoire 1920 W15108K7 / 1967 18k Yellow Gold Ladies Watch",
   "total": 30699.0,
@@ -10918,5 +10901,22 @@
   },
   "ratio_mercado": 1.011,
   "motivo": "precio normal (101 % del cuartil bajo de 116519LN)"
+ },
+ {
+  "fecha": "2026-11-11T10:18:25.281311+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yacht-Master 40mm 126655 Rose Gold On OysterFlex 2021",
+  "total": 31750.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147675845576",
+  "item_id": "v1|147675845576|0",
+  "referencia": "126655",
+  "mercado": {
+   "n": 20,
+   "p25": 32999,
+   "mediana": 33808
+  },
+  "ratio_mercado": 0.962,
+  "motivo": "precio normal (96 % del cuartil bajo de 126655)"
  }
 ]
