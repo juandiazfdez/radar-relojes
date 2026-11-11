@@ -1,177 +1,5 @@
 [
  {
-  "fecha": "2026-11-09T19:32:17.681344+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR 1926 M91550-0005 - 2026 - Box & Papers",
-  "total": 2049.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840111718819",
-  "item_id": "v1|840111718819|0",
-  "referencia": "M91550-0005",
-  "mercado": {
-   "n": 2,
-   "p25": 2475,
-   "mediana": 2562
-  },
-  "triage": {
-   "modelo": "Tudor 1926 39 mm (esfera plateada, índices aplicados con numerales arábigos, brazalete de acero)",
-   "referencia": "M91550-0005",
-   "precio_justo_usd": 2450,
-   "interesante": true,
-   "nota": "Precio ~16 % bajo el valor estimado de mercado gris para caja y papeles; el margen es modesto, verificar autenticidad, estado real y papeles antes de comprar."
-  },
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 2150,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Aparentemente casi nuevo, sin desgaste visible en caja, cristal ni brazalete; con caja y tarjeta de garantía"
-  },
-  "ratio_justo": 0.953,
-  "motivo": "precio normal segun revision (95 % del justo 2150)"
- },
- {
-  "fecha": "2026-11-09T19:47:17.449478+00:00",
-  "marca": "Rolex",
-  "titulo": "2022 Rolex Datejust 36, 126200, 36mm, Olive Green Dial, Oyster Bracelet, Box ...",
-  "total": 10875.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206687725233",
-  "item_id": "v1|206687725233|0",
-  "referencia": "126200",
-  "mercado": {
-   "n": 24,
-   "p25": 10077,
-   "mediana": 11354
-  },
-  "ratio_mercado": 1.079,
-  "motivo": "precio normal (108 % del cuartil bajo de 126200)"
- },
- {
-  "fecha": "2026-11-09T19:47:17.449478+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 41mm 100th Anniversary Slate 18k Gold 134303 New BoxPaper",
-  "total": 16850.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/117512966638",
-  "item_id": "v1|117512966638|0",
-  "referencia": "134303",
-  "mercado": {
-   "n": 6,
-   "p25": 14250,
-   "mediana": 15441
-  },
-  "ratio_mercado": 1.182,
-  "motivo": "precio normal (118 % del cuartil bajo de 134303)"
- },
- {
-  "fecha": "2026-11-09T19:47:17.449478+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay",
-  "total": 3675.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257844229699",
-  "item_id": "v1|257844229699|0",
-  "triage": {
-   "modelo": "Tudor Black Bay (generación no identificada, probablemente acero)",
-   "referencia": null,
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Sin referencia ni confirmación de caja y papeles; el precio pedido está por encima de lo que se vende realmente este modelo en acero usado."
-  },
-  "motivo": "triage: Sin referencia ni confirmación de caja y papeles; el precio pedido está por encima de lo que se vende realmente este modelo en acero usado. (justo 3200)"
- },
- {
-  "fecha": "2026-11-09T20:02:17.438089+00:00",
-  "marca": "Rolex",
-  "titulo": "2020 Rolex Datejust 36, 126200, 36mm, Bright Blue Dial, Oyster Bracelet, Box ...",
-  "total": 12073.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/366797428225",
-  "item_id": "v1|366797428225|0",
-  "referencia": "126200",
-  "mercado": {
-   "n": 24,
-   "p25": 10077,
-   "mediana": 11354
-  },
-  "ratio_mercado": 1.198,
-  "motivo": "precio normal (120 % del cuartil bajo de 126200)"
- },
- {
-  "fecha": "2026-11-09T20:02:17.438089+00:00",
-  "marca": "Cartier",
-  "titulo": "2020 Cartier Santos Dumont 18k Red Gold WGSA0021 4241 Watch with Card",
-  "total": 11999.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257844251684",
-  "item_id": "v1|257844251684|0",
-  "referencia": "WGSA0021",
-  "mercado": {
-   "n": 2,
-   "p25": 14995,
-   "mediana": 17445
-  },
-  "triage": {
-   "modelo": "Cartier Santos-Dumont (oro rosa 18k, esfera plateada con numerales romanos, correa de cuero negra)",
-   "referencia": "WGSA0021 (según título, no verificable en la imagen)",
-   "precio_justo_usd": 10500,
-   "interesante": false,
-   "nota": "Precio pedido de US$12,000 queda unos 14% por encima de la estimación de venta real; solo tiene tarjeta, sin caja confirmada."
-  },
-  "motivo": "triage: Precio pedido de US$12,000 queda unos 14% por encima de la estimación de venta real; solo tiene tarjeta, sin caja confirmada. (justo 10500)"
- },
- {
-  "fecha": "2026-11-09T20:02:17.438089+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Louis W1529856 18K Yellow Ladies Gold",
-  "total": 9255.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128185511633",
-  "item_id": "v1|128185511633|0",
-  "referencia": "W1529856",
-  "mercado": {
-   "n": 11,
-   "p25": 8950,
-   "mediana": 9255
-  },
-  "ratio_mercado": 1.034,
-  "motivo": "precio normal (103 % del cuartil bajo de W1529856)"
- },
- {
-  "fecha": "2026-11-09T20:17:17.457268+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Bubbleback 2940 WW2 Era Men’s Vintage Watch",
-  "total": 3150.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227606301217",
-  "item_id": "v1|227606301217|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Bubbleback (era de la Segunda Guerra Mundial)",
-   "referencia": "2940",
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "En la foto se ve una caja dorada (posiblemente chapada u gold-filled) y no se distinguen marcas Rolex en la esfera. Si es chapado, el precio justo es bastante menor; solo sería interesante con oro macizo verificado o con papeles de autenticidad."
-  },
-  "motivo": "triage: En la foto se ve una caja dorada (posiblemente chapada u gold-filled) y no se distinguen marcas Rolex en la esfera. Si es chapado, el precio justo es bastante menor; solo sería interesante con oro macizo verificado o con papeles de autenticidad. (justo 2200)"
- },
- {
-  "fecha": "2026-11-09T20:17:17.457268+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu de Cartier",
-  "total": 5325.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/257844268207",
-  "item_id": "v1|257844268207|0",
-  "triage": {
-   "modelo": "Cartier Ballon Bleu de Cartier 42 mm automático, acero, esfera negra con numerales romanos",
-   "referencia": "W69012Z2 (probable; no verificable solo con la foto)",
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor estimado de venta cerrada en EE. UU. para este modelo en estado excelente; sin caja y papeles visibles, el precio no parece atractivo."
-  },
-  "motivo": "triage: Precio pedido por encima del valor estimado de venta cerrada en EE. UU. para este modelo en estado excelente; sin caja y papeles visibles, el precio no parece atractivo. (justo 5000)"
- },
- {
   "fecha": "2026-11-09T20:17:17.457268+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos Dumont 35mm 2651 W2007051 White Gold Black Leather",
@@ -10978,5 +10806,165 @@
    "nota": "Precio pedido US$3199 por encima de un valor estimado de ~US$2700 para oro 18K de cuarzo en estado Good; sin margen de compra."
   },
   "motivo": "triage: Precio pedido US$3199 por encima de un valor estimado de ~US$2700 para oro 18K de cuarzo en estado Good; sin margen de compra. (justo 2700)"
+ },
+ {
+  "fecha": "2026-11-11T19:49:10.905000+00:00",
+  "marca": "Rolex",
+  "titulo": "2021 Rolex Sky-Dweller 326238 Black 18K Yellow Gold Oysterflex 42mm Box Papers",
+  "total": 34868.2,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267840977717",
+  "item_id": "v1|267840977717|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller en oro amarillo de 18K, bisel acanalado, esfera negra, correa Oysterflex, 42 mm",
+   "referencia": "326238",
+   "precio_justo_usd": 37000,
+   "interesante": false,
+   "nota": "Precio pedido algo por debajo del mercado, pero no el 15 % exigido; el margen es más cercano al 6-10 %."
+  },
+  "motivo": "triage: Precio pedido algo por debajo del mercado, pero no el 15 % exigido; el margen es más cercano al 6-10 %. (justo 37000)"
+ },
+ {
+  "fecha": "2026-11-11T19:49:10.905000+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Cellini Danaos 4233 Black Gray Arabic 34mm 18K Yellow Gold Leather Watch",
+  "total": 7328.84,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940084394799",
+  "item_id": "v1|940084394799|0",
+  "triage": {
+   "modelo": "Rolex Cellini Danaos",
+   "referencia": "4233",
+   "precio_justo_usd": 7800,
+   "interesante": false,
+   "nota": "Oro amarillo 18k con correa de cuero y esfera negra con números arábigos; el precio pedido queda dentro del rango de mercado, no un 15 % por debajo."
+  },
+  "motivo": "triage: Oro amarillo 18k con correa de cuero y esfera negra con números arábigos; el precio pedido queda dentro del rango de mercado, no un 15 % por debajo. (justo 7800)"
+ },
+ {
+  "fecha": "2026-11-11T19:49:10.905000+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 126000 Black 36mm Stainless Steel Smooth Automatic Watch",
+  "total": 7634.14,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960183982578",
+  "item_id": "v1|960183982578|0",
+  "referencia": "126000",
+  "mercado": {
+   "n": 37,
+   "p25": 11229,
+   "mediana": 12424
+  },
+  "ratio_mercado": 0.68,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 8200,
+   "riesgo_autenticidad": "bajo",
+   "estado": "Aspecto casi nuevo, sin rayones visibles; sin caja ni papeles originales"
+  },
+  "ratio_justo": 0.931,
+  "motivo": "precio normal segun revision (93 % del justo 8200)"
+ },
+ {
+  "fecha": "2026-11-11T19:49:10.905000+00:00",
+  "marca": "Rolex",
+  "titulo": "1966 Vintage Rolex Oyster Perpetual Date Yellow Gold Silver Index 34mm 1500",
+  "total": 8700.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336892529952",
+  "item_id": "v1|336892529952|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date 34mm, oro amarillo (esfera plateada, índices de bastón, fecha a las 3)",
+   "referencia": "1501 probable (el título dice 1500, que corresponde a acero; el oro amarillo sería 1501)",
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "El título mezcla referencia y material: el 1500 es acero y la foto muestra oro amarillo, así que hay que verificar la referencia y si es oro macizo o chapado. Aun siendo un 1501 genuino en buen estado, US$8.700 queda por encima del precio de venta cerrada."
+  },
+  "motivo": "triage: El título mezcla referencia y material: el 1500 es acero y la foto muestra oro amarillo, así que hay que verificar la referencia y si es oro macizo o chapado. Aun siendo un 1501 genuino en buen estado, US$8.700 queda por encima del precio de venta cerrada. (justo 6500)"
+ },
+ {
+  "fecha": "2026-11-11T19:49:10.905000+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer I 114270 Black 36mm 3-6-9 Stainless Steel Automatic MK1 Watch",
+  "total": 7124.64,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940084387914",
+  "item_id": "v1|940084387914|0",
+  "referencia": "114270",
+  "mercado": {
+   "n": 11,
+   "p25": 7250,
+   "mediana": 7845
+  },
+  "ratio_mercado": 0.983,
+  "motivo": "precio normal (98 % del cuartil bajo de 114270)"
+ },
+ {
+  "fecha": "2026-11-11T19:49:10.905000+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41mm 2019 No box, no papers",
+  "total": 10400.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/168855538036",
+  "item_id": "v1|168855538036|0",
+  "triage": {
+   "modelo": "Rolex Datejust 41mm (bisel liso, esfera negra, brazalete Oyster)",
+   "referencia": "126300 (probable, según bisel liso y generación 2017 en adelante)",
+   "precio_justo_usd": 8800,
+   "interesante": false,
+   "nota": "Precio pedido de US$10,400 está por encima de lo que se vende realmente un 126300 de 2019 sin caja ni papeles y en estado Fair; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$10,400 está por encima de lo que se vende realmente un 126300 de 2019 sin caja ni papeles y en estado Fair; no es una oportunidad. (justo 8800)"
+ },
+ {
+  "fecha": "2026-11-11T19:49:10.905000+00:00",
+  "marca": "Cartier",
+  "titulo": "Ladies Cartier Santos Galbee 2319 W20055D6 29mm White Stainless Steel Box Papers",
+  "total": 6818.33,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940084390396",
+  "item_id": "v1|940084390396|0",
+  "referencia": "2319",
+  "mercado": {
+   "n": 9,
+   "p25": 5305,
+   "mediana": 6623
+  },
+  "ratio_mercado": 1.285,
+  "motivo": "precio normal (129 % del cuartil bajo de 2319)"
+ },
+ {
+  "fecha": "2026-11-11T19:49:10.905000+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise Automatic Watch Stainless Steel and Yellow Gold 28",
+  "total": 6540.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128189271479",
+  "item_id": "v1|128189271479|0",
+  "triage": {
+   "modelo": "Cartier Tank Française, acero y oro amarillo (bicolor), esfera plateada con números romanos",
+   "referencia": null,
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Modelo bicolor de tamaño medio (~28 mm). Sin referencia exacta visible, el precio de venta cerrada en EE. UU. ronda US$2.500-3.500, así que el listado de US$6.540 está muy por encima del mercado."
+  },
+  "motivo": "triage: Modelo bicolor de tamaño medio (~28 mm). Sin referencia exacta visible, el precio de venta cerrada en EE. UU. ronda US$2.500-3.500, así que el listado de US$6.540 está muy por encima del mercado. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-11T19:49:10.905000+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor 7939A1A0RU Black Bay 58 Burgundy",
+  "total": 4525.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920131711486",
+  "item_id": "v1|920131711486|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 Burgundy (39 mm, acero, brazalete Jubilee)",
+   "referencia": "7939A1A0RU",
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de mercado secundario para un Black Bay 58 Burgundy de acero usado; no hay descuento de al menos 15 %."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de mercado secundario para un Black Bay 58 Burgundy de acero usado; no hay descuento de al menos 15 %. (justo 3100)"
  }
 ]
