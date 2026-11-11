@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-09T14:02:07.920388+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sea-Dweller 4000 116600 40mm Steel 2017 Box & Papers",
-  "total": 14058.95,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880098987734",
-  "item_id": "v1|880098987734|0",
-  "referencia": "116600",
-  "mercado": {
-   "n": 9,
-   "p25": 14273,
-   "mediana": 14536
-  },
-  "ratio_mercado": 0.985,
-  "motivo": "precio normal (99 % del cuartil bajo de 116600)"
- },
- {
   "fecha": "2026-11-09T14:17:08.348591+00:00",
   "marca": "Rolex",
   "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
@@ -10888,5 +10871,28 @@
   },
   "ratio_mercado": 1.105,
   "motivo": "precio normal (110 % del cuartil bajo de 126710GRNR)"
+ },
+ {
+  "fecha": "2026-11-11T04:33:14.690244+00:00",
+  "marca": "Tudor",
+  "titulo": "UNWORN Tudor Prince Date+Day 36mm 76200 Black Arabic NOS FULL SET",
+  "total": 3495.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/366800760343",
+  "item_id": "v1|366800760343|0",
+  "referencia": "76200",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Prince Date+Day 36 mm (acero, esfera negra)",
+   "referencia": "76200",
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Referencia 76200 nueva con caja y papeles; el mercado gris la deja alrededor de 10-15 % bajo retail, así que US$3,495 queda por encima del precio justo."
+  },
+  "motivo": "triage: Referencia 76200 nueva con caja y papeles; el mercado gris la deja alrededor de 10-15 % bajo retail, así que US$3,495 queda por encima del precio justo. (justo 3100)"
  }
 ]
