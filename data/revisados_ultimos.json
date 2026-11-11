@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-09T16:17:17.509769+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Black Stainless Steel GMT-Master II 40MM 116710LN - WGACA",
-  "total": 17262.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820335423456",
-  "item_id": "v1|820335423456|0",
-  "referencia": "116710LN",
-  "mercado": {
-   "n": 39,
-   "p25": 14299,
-   "mediana": 15515
-  },
-  "ratio_mercado": 1.207,
-  "motivo": "precio normal (121 % del cuartil bajo de 116710LN)"
- },
- {
-  "fecha": "2026-11-09T16:17:17.509769+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Grey Stainless Steel Datejust 16233 36mm - WGACA",
   "total": 11962.99,
   "condicion": "Pre-owned - Good",
@@ -10942,5 +10925,22 @@
    "nota": "Tank Française de oro 18K de cuarzo con caja y papeles; el precio pedido de US$7699 está muy por encima de lo que se vende realmente en el mercado de usados."
   },
   "motivo": "triage: Tank Française de oro 18K de cuarzo con caja y papeles; el precio pedido de US$7699 está muy por encima de lo que se vende realmente en el mercado de usados. (justo 4200)"
+ },
+ {
+  "fecha": "2026-11-11T15:04:10.940797+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Pelagos 39",
+  "total": 5575.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168855020958",
+  "item_id": "v1|168855020958|0",
+  "triage": {
+   "modelo": "Tudor Pelagos 39 (caja de titanio, esfera negra, con correa de caucho y brazalete de acero adicional)",
+   "referencia": "M25600TN (probable; no verificable en la foto)",
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "Precio pedido de US$5.575 muy por encima del mercado secundario (~US$3.300-3.900) para esta referencia; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$5.575 muy por encima del mercado secundario (~US$3.300-3.900) para esta referencia; no es una oportunidad. (justo 3600)"
  }
 ]
