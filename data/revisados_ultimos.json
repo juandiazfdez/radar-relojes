@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-09T11:17:07.241060+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Dark PinkDial/Bezel Automatic Date 300m SS Bracelet Men",
-  "total": 4500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920116652528",
-  "item_id": "v1|920116652528|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date (estilo) con esfera y bisel rosa/burdeos, posiblemente personalizado o no original",
-   "referencia": null,
-   "precio_justo_usd": 1500,
-   "interesante": false,
-   "nota": "Esfera rosa y bisel burdeos no corresponden a producción estándar de Rolex; posible modificación, réplica o homenaje. Sin referencia ni papeles verificables, no se puede confirmar autenticidad."
-  },
-  "motivo": "triage: Esfera rosa y bisel burdeos no corresponden a producción estándar de Rolex; posible modificación, réplica o homenaje. Sin referencia ni papeles verificables, no se puede confirmar autenticidad. (justo 1500)"
- },
- {
-  "fecha": "2026-11-09T12:17:07.738138+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Cellini Vintage 18K White Gold / Leather Watch",
-  "total": 3861.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267838538592",
-  "item_id": "v1|267838538592|0",
-  "triage": {
-   "modelo": "Rolex Cellini Cellinium vintage, oro blanco 18K, esfera degradada azul, correa de piel",
-   "referencia": "Probablemente 4084 o similar (no confirmable en la imagen)",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Precio cercano al mercado para un Cellini vintage de oro blanco 18K en estado Good; el descuento no llega al 15 % y la referencia exacta no se puede verificar en la foto."
-  },
-  "motivo": "triage: Precio cercano al mercado para un Cellini vintage de oro blanco 18K en estado Good; el descuento no llega al 15 % y la referencia exacta no se puede verificar en la foto. (justo 4000)"
- },
- {
   "fecha": "2026-11-09T12:17:07.738138+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual Automatic Stainless Steel Watch",
@@ -10895,5 +10861,39 @@
    "nota": "Pelagos LHD en titanio con brazalete; el precio pedido de US$4.505 supera el valor de venta cerrada estimado para esta referencia y año."
   },
   "motivo": "triage: Pelagos LHD en titanio con brazalete; el precio pedido de US$4.505 supera el valor de venta cerrada estimado para esta referencia y año. (justo 3700)"
+ },
+ {
+  "fecha": "2026-11-11T03:33:15.495175+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu",
+  "total": 6275.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257846555101",
+  "item_id": "v1|257846555101|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu automático, acero, esfera plateada con números romanos, correa de cuero negra",
+   "referencia": "WSBB0002 (probable; confirmar con el reverso de la caja o el listado)",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta real de este modelo usado; no hay descuento frente al mercado."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta real de este modelo usado; no hay descuento frente al mercado. (justo 5000)"
+ },
+ {
+  "fecha": "2026-11-11T03:33:15.495175+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthère Cougar 33m Unisex ( No Box ) 1990s",
+  "total": 2700.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206688530827",
+  "item_id": "v1|206688530827|0",
+  "triage": {
+   "modelo": "Cartier Cougar 33 mm, cuarzo, acero, esfera crema con numerales romanos (la línea Cougar, no Panthère)",
+   "referencia": null,
+   "precio_justo_usd": 1000,
+   "interesante": false,
+   "nota": "Precio pedido de US$2700 muy por encima del mercado para un Cougar de cuarzo de acero sin caja, en estado Good; el título menciona 'Panthère', que no coincide con el modelo visible."
+  },
+  "motivo": "triage: Precio pedido de US$2700 muy por encima del mercado para un Cougar de cuarzo de acero sin caja, en estado Good; el título menciona 'Panthère', que no coincide con el modelo visible. (justo 1000)"
  }
 ]
