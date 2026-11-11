@@ -2,63 +2,6 @@
  {
   "fecha": "2026-11-09T17:02:17.014037+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Datejust President 18k Yellow Gold Champagne Diamond 26mm Watch E 69158",
-  "total": 21700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147673413866",
-  "item_id": "v1|147673413866|0",
-  "referencia": "69158",
-  "mercado": {
-   "n": 9,
-   "p25": 17065,
-   "mediana": 19660
-  },
-  "ratio_mercado": 1.272,
-  "motivo": "precio normal (127 % del cuartil bajo de 69158)"
- },
- {
-  "fecha": "2026-11-09T17:02:17.014037+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust Pearlmaster Yellow Gold MOP Diamond 34mm Watch +Card '10 81338",
-  "total": 68200.0,
-  "condicion": "Unspecified",
-  "url": "https://www.ebay.com/itm/366797170862",
-  "item_id": "v1|366797170862|0",
-  "triage": {
-   "modelo": "Rolex Lady Datejust Pearlmaster 34 mm, oro amarillo, bisel y eslabones con diamantes, esfera de nácar con marcadores de diamante",
-   "referencia": "81338",
-   "precio_justo_usd": 52000,
-   "interesante": false,
-   "nota": "Precio pedido de US$68.200 por encima del valor de venta cerrada estimado para esta versión en oro amarillo con diamantes en 2010; no parece una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$68.200 por encima del valor de venta cerrada estimado para esta versión en oro amarillo con diamantes en 2010; no parece una oportunidad. (justo 52000)"
- },
- {
-  "fecha": "2026-11-09T17:02:17.014037+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date President 18k White Gold Diamond Dial/Bezel 36mm Watch '84 18039",
-  "total": 24150.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366797170864",
-  "item_id": "v1|366797170864|0",
-  "referencia": "18039",
-  "mercado": {
-   "n": 2,
-   "p25": 19509,
-   "mediana": 21830
-  },
-  "triage": {
-   "modelo": "Rolex Day-Date President 36mm oro blanco 18k con bisel y esfera de diamantes",
-   "referencia": "18039 según el título (el bisel de diamantes suele corresponder a 18339 o 18389; verificar)",
-   "precio_justo_usd": 23000,
-   "interesante": false,
-   "nota": "Precio pedido por encima de la estimación conservadora; la referencia del título no encaja del todo con el bisel de diamantes visible."
-  },
-  "motivo": "triage: Precio pedido por encima de la estimación conservadora; la referencia del título no encaja del todo con el bisel de diamantes visible. (justo 23000)"
- },
- {
-  "fecha": "2026-11-09T17:02:17.014037+00:00",
-  "marca": "Rolex",
   "titulo": "NEW Rolex GMT-Master II Black/Blue Mens Ceramic Oyster Steel B/P 'open 116710",
   "total": 22088.0,
   "condicion": "New with box and papers",
@@ -10959,5 +10902,62 @@
    "nota": "Precio pedido de US$1399 está por encima de lo que se vende realmente este modelo usado en estado Good; sin caja ni papeles confirmados."
   },
   "motivo": "triage: Precio pedido de US$1399 está por encima de lo que se vende realmente este modelo usado en estado Good; sin caja ni papeles confirmados. (justo 1150)"
+ },
+ {
+  "fecha": "2026-11-11T16:19:11.072555+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex Oyster Commander WW2 Men’s Military Watch",
+  "total": 1400.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227609706583",
+  "item_id": "v1|227609706583|0",
+  "triage": {
+   "modelo": "Reloj de pulsera vintage de caja dorada, posiblemente de los años 40, sin logotipo Rolex visible (no identificable como Oyster Commander)",
+   "referencia": null,
+   "precio_justo_usd": 900,
+   "interesante": false,
+   "nota": "La foto muestra caja dorada y esfera crema con subesfera, no un Oyster Commander militar de acero; el título parece engañoso y no hay marcas Rolex verificables."
+  },
+  "motivo": "triage: La foto muestra caja dorada y esfera crema con subesfera, no un Oyster Commander militar de acero; el título parece engañoso y no hay marcas Rolex verificables. (justo 900)"
+ },
+ {
+  "fecha": "2026-11-11T16:19:11.072555+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Tudor Rolex Sky-Rocket WW2 Men’s Military Watch",
+  "total": 1850.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227609703930",
+  "item_id": "v1|227609703930|0",
+  "triage": {
+   "modelo": "Reloj vintage de caja dorada con correa de cuero (posible Tudor/Rolex de época, no verificable en la foto)",
+   "referencia": null,
+   "precio_justo_usd": 1000,
+   "interesante": false,
+   "nota": "La foto muestra una caja dorada pequeña, poco compatible con un militar WWII de acero; el título es ambiguo y no hay pruebas de autenticidad ni de referencia. Sin verificación, el precio pedido no es claramente bueno."
+  },
+  "motivo": "triage: La foto muestra una caja dorada pequeña, poco compatible con un militar WWII de acero; el título es ambiguo y no hay pruebas de autenticidad ni de referencia. Sin verificación, el precio pedido no es claramente bueno. (justo 1000)"
+ },
+ {
+  "fecha": "2026-11-11T16:19:11.072555+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay One 41mm SS/Gold Ref. 79683",
+  "total": 4415.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128188980617",
+  "item_id": "v1|128188980617|0",
+  "referencia": "79683",
+  "mercado": {
+   "n": 1,
+   "p25": 5500,
+   "mediana": 5500
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 41 S&G (acero y oro amarillo, esfera clara)",
+   "referencia": "M79683-0001 (probable; el título dice 79683 y 'Black Bay One', nombre que no coincide con la línea)",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del estimado de mercado secundario para un modelo reciente usado; el título menciona 'Black Bay One', que no coincide con el nombre de la referencia."
+  },
+  "motivo": "triage: Precio pedido por encima del estimado de mercado secundario para un modelo reciente usado; el título menciona 'Black Bay One', que no coincide con el nombre de la referencia. (justo 4000)"
  }
 ]
