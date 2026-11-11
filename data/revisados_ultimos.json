@@ -2,57 +2,6 @@
  {
   "fecha": "2026-11-09T17:02:17.014037+00:00",
   "marca": "Rolex",
-  "titulo": "NEW Rolex Daytona Rose Gold & Ceramic Chocolate Oysterflex Watch B/P '26 126515",
-  "total": 59088.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/117512794203",
-  "item_id": "v1|117512794203|0",
-  "referencia": "126515",
-  "mercado": {
-   "n": 12,
-   "p25": 54775,
-   "mediana": 57250
-  },
-  "ratio_mercado": 1.079,
-  "motivo": "precio normal (108 % del cuartil bajo de 126515)"
- },
- {
-  "fecha": "2026-11-09T17:02:17.014037+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 18k Yellow Gold Black Ceramic 41mm Watch B/P '21 126618",
-  "total": 42700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117512794206",
-  "item_id": "v1|117512794206|0",
-  "referencia": "126618",
-  "mercado": {
-   "n": 21,
-   "p25": 43021,
-   "mediana": 44300
-  },
-  "ratio_mercado": 0.993,
-  "motivo": "precio normal (99 % del cuartil bajo de 126618)"
- },
- {
-  "fecha": "2026-11-09T17:02:17.014037+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date Steel Black Dial/Bezel Mens 40mm Watch A 16610",
-  "total": 11625.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117512794211",
-  "item_id": "v1|117512794211|0",
-  "referencia": "16610",
-  "mercado": {
-   "n": 79,
-   "p25": 9950,
-   "mediana": 10450
-  },
-  "ratio_mercado": 1.168,
-  "motivo": "precio normal (117 % del cuartil bajo de 16610)"
- },
- {
-  "fecha": "2026-11-09T17:02:17.014037+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust 36 18k Rose Gold/Steel MOP Diamond Dial/Bezel Watch '18+ 126281",
   "total": 28500.0,
   "condicion": "Pre-owned - Good",
@@ -10947,5 +10896,56 @@
   },
   "ratio_mercado": 0.961,
   "motivo": "precio normal (96 % del cuartil bajo de 79540-0006)"
+ },
+ {
+  "fecha": "2026-11-11T15:49:11.287768+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II Automatic Two-Tone Bracelet Black Dial/Bezel Box Papers",
+  "total": 8000.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/900080471560",
+  "item_id": "v1|900080471560|0",
+  "triage": {
+   "modelo": "Rolex GMT-Master II Oystersteel y Everose (bicolor), bisel y esfera marrón/negra, brazalete Oyster",
+   "referencia": "126711CHNR (\"Root Beer\"), por lo que se aprecia en la foto",
+   "precio_justo_usd": 21000,
+   "interesante": false,
+   "nota": "US$8.000 está muy por debajo del mercado para un modelo nuevo con caja y papeles (~US$20.000-24.000). Un precio tan bajo sugiere réplica o listado engañoso; no conviene comprar."
+  },
+  "motivo": "triage: US$8.000 está muy por debajo del mercado para un modelo nuevo con caja y papeles (~US$20.000-24.000). Un precio tan bajo sugiere réplica o listado engañoso; no conviene comprar. (justo 21000)"
+ },
+ {
+  "fecha": "2026-11-11T15:49:11.287768+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster Quartz Stainless Steel Watch",
+  "total": 3657.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267840816075",
+  "item_id": "v1|267840816075|0",
+  "triage": {
+   "modelo": "Cartier Roadster (tamaño pequeño, cuarzo, acero, esfera rosa con numerales romanos)",
+   "referencia": "W62017V3 (probable, verificar en el caso)",
+   "precio_justo_usd": 2700,
+   "interesante": false,
+   "nota": "Precio pedido de US$3657 está muy por encima del valor de reventa de un Roadster pequeño de acero usado, incluso con caja y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$3657 está muy por encima del valor de reventa de un Roadster pequeño de acero usado, incluso con caja y papeles. (justo 2700)"
+ },
+ {
+  "fecha": "2026-11-11T15:49:11.287768+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Chronograph \"2026\" M79360N-0024",
+  "total": 11337.19,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336892199623",
+  "item_id": "v1|336892199623|0",
+  "referencia": "M79360N-0024",
+  "mercado": {
+   "n": 24,
+   "p25": 5250,
+   "mediana": 5678
+  },
+  "ratio_mercado": 2.159,
+  "motivo": "precio normal (216 % del cuartil bajo de M79360N-0024)"
  }
 ]
