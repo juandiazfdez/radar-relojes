@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-11-09T17:32:16.629976+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Men's Vintage Oyster Perpetual Datejust 36mm Stainless Steel Watch",
-  "total": 3700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227606082625",
-  "item_id": "v1|227606082625|0",
-  "triage": {
-   "modelo": "Rolex Datejust vintage, acero, esfera negra (posible 36 mm, años 1970)",
-   "referencia": "1601 o 1603 (probable, no verificable en la foto)",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Precio pedido de 3700 supera el valor estimado; la esfera y el estado no se ven con claridad, así que habría que verificar autenticidad, esfera original y servicio."
-  },
-  "motivo": "triage: Precio pedido de 3700 supera el valor estimado; la esfera y el estado no se ven con claridad, así que habría que verificar autenticidad, esfera original y servicio. (justo 3500)"
- },
- {
-  "fecha": "2026-11-09T17:32:16.629976+00:00",
-  "marca": "Rolex",
-  "titulo": "1992 Tudor rolex 79160 oysterdate big block panda chronograph wrist watch",
-  "total": 4500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237173621391",
-  "item_id": "v1|237173621391|0",
-  "triage": {
-   "modelo": "Tudor Oysterdate Chronograph 'Big Block' panda (Tudor, no Rolex)",
-   "referencia": "79160",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de mercado para 79160 de 1992 en estado Good. El título menciona 'rolex' aunque es un Tudor."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de mercado para 79160 de 1992 en estado Good. El título menciona 'rolex' aunque es un Tudor. (justo 3000)"
- },
- {
-  "fecha": "2026-11-09T17:32:16.629976+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Panthere Ruban WG3001T7 Diamond 18K Yellow Gold Ladies Watch",
   "total": 24699.0,
@@ -10959,5 +10925,45 @@
   },
   "ratio_mercado": 1.0,
   "motivo": "precio normal (100 % del cuartil bajo de 79230N)"
+ },
+ {
+  "fecha": "2026-11-11T17:49:11.572043+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer 114270 Steel Oyster Bracelet 36mm Very Good Condition",
+  "total": 6550.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198788048328",
+  "item_id": "v1|198788048328|0",
+  "referencia": "114270",
+  "mercado": {
+   "n": 11,
+   "p25": 7250,
+   "mediana": 7845
+  },
+  "ratio_mercado": 0.903,
+  "motivo": "precio normal (90 % del cuartil bajo de 114270)"
+ },
+ {
+  "fecha": "2026-11-11T17:49:11.572043+00:00",
+  "marca": "Tudor",
+  "titulo": "2020 Tudor Black Bay Heritage M79230N-0009 Black Complete 41mm",
+  "total": 3550.0,
+  "condicion": "New with imperfections",
+  "url": "https://www.ebay.com/itm/366802232755",
+  "item_id": "v1|366802232755|0",
+  "referencia": "M79230N-0009",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay Heritage 41 mm (esfera negra, bisel negro, brazalete de acero)",
+   "referencia": "M79230N-0009",
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Precio por encima del valor de reventa de un 2020 usado. La condición 'New with imperfections' no justifica el precio; el mercado secundario está en torno a los US$3,000-3,200."
+  },
+  "motivo": "triage: Precio por encima del valor de reventa de un 2020 usado. La condición 'New with imperfections' no justifica el precio; el mercado secundario está en torno a los US$3,000-3,200. (justo 3100)"
  }
 ]
