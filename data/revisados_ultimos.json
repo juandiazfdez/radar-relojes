@@ -1,182 +1,5 @@
 [
  {
-  "fecha": "2026-11-09T03:46:49.472260+00:00",
-  "marca": "Rolex",
-  "titulo": "VINTAGE LADIES ROLEX OYSTER PERPETUAL DATE 6517 AUTOMATIC WRISTWATCH 18K GOLD",
-  "total": 5900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820333407171",
-  "item_id": "v1|820333407171|0",
-  "referencia": "6517",
-  "mercado": {
-   "n": 22,
-   "p25": 3950,
-   "mediana": 4625
-  },
-  "ratio_mercado": 1.494,
-  "motivo": "precio normal (149 % del cuartil bajo de 6517)"
- },
- {
-  "fecha": "2026-11-09T03:46:49.472260+00:00",
-  "marca": "Rolex",
-  "titulo": "2025 CPO Rolex Yacht Master II 116680 Mercedes Hand Blue Ceramic Steel Box Paper",
-  "total": 17995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880083496548",
-  "item_id": "v1|880083496548|0",
-  "referencia": "116680",
-  "mercado": {
-   "n": 29,
-   "p25": 17950,
-   "mediana": 18987
-  },
-  "ratio_mercado": 1.003,
-  "motivo": "precio normal (100 % del cuartil bajo de 116680)"
- },
- {
-  "fecha": "2026-11-09T03:46:49.472260+00:00",
-  "marca": "Cartier",
-  "titulo": "Authentic Cartier Santos de Cartier Large WSSA0062 Iced Out",
-  "total": 7070.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237172464842",
-  "item_id": "v1|237172464842|0",
-  "referencia": "WSSA0062",
-  "mercado": {
-   "n": 4,
-   "p25": 8000,
-   "mediana": 8272
-  },
-  "triage": {
-   "modelo": "Cartier Santos de Cartier Large (versión con diamantes/iced out)",
-   "referencia": "WSSA0062 (según el título; no confirmable en la foto)",
-   "precio_justo_usd": 8000,
-   "interesante": false,
-   "nota": "El título mezcla referencia de acero con 'iced out' y la foto no permite verificar autenticidad ni la configuración de diamantes. Aun con el precio pedido, el descuento frente al valor estimado es inferior al 15 %."
-  },
-  "motivo": "triage: El título mezcla referencia de acero con 'iced out' y la foto no permite verificar autenticidad ni la configuración de diamantes. Aun con el precio pedido, el descuento frente al valor estimado es inferior al 15 %. (justo 8000)"
- },
- {
-  "fecha": "2026-11-09T03:46:49.472260+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Glamour Double Date 42mm  Diamond SS 57100 FREE SHIP!",
-  "total": 2255.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840109230374",
-  "item_id": "v1|840109230374|0",
-  "referencia": "57100",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Tudor Glamour Double Date 42 mm, acero, esfera plateada con marcadores dorados",
-   "referencia": "57100 (según título; no verificable en la foto)",
-   "precio_justo_usd": 2500,
-   "interesante": false,
-   "nota": "Precio pedido unos 10 % por debajo de la estimación conservadora; estado 'Good' y sin confirmar caja/papeles, así que no alcanza el umbral del 15 %."
-  },
-  "motivo": "triage: Precio pedido unos 10 % por debajo de la estimación conservadora; estado 'Good' y sin confirmar caja/papeles, así que no alcanza el umbral del 15 %. (justo 2500)"
- },
- {
-  "fecha": "2026-11-09T04:01:49.352989+00:00",
-  "marca": "Cartier",
-  "titulo": "NEW CARTIER LARGE 18K YELLOW GOLD TANK AMERICAINE WATCH",
-  "total": 18000.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/237172478878",
-  "item_id": "v1|237172478878|0",
-  "triage": {
-   "modelo": "Cartier Tank Américaine Large, oro amarillo 18K",
-   "referencia": null,
-   "precio_justo_usd": 16000,
-   "interesante": false,
-   "nota": "La foto solo muestra caja y papeles, sin el reloj; el precio pedido queda por encima del mercado gris para un modelo nuevo de oro 18K."
-  },
-  "motivo": "triage: La foto solo muestra caja y papeles, sin el reloj; el precio pedido queda por encima del mercado gris para un modelo nuevo de oro 18K. (justo 16000)"
- },
- {
-  "fecha": "2026-11-09T04:16:49.016117+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Dumont 1576 pre cpcp 18K Yellow Gold. Cartier Serviced in 2023",
-  "total": 19800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147672726077",
-  "item_id": "v1|147672726077|0",
-  "referencia": "1576",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Santos-Dumont (Dumont) de oro amarillo 18K, cuarzo, pre-CPCP",
-   "referencia": "1576",
-   "precio_justo_usd": 8500,
-   "interesante": false,
-   "nota": "Por la foto parece un Dumont de oro 18K con esfera blanca y correa de cuero; el precio pedido de US$19.800 está muy por encima de lo que se vende este modelo, aunque tenga servicio de 2023."
-  },
-  "motivo": "triage: Por la foto parece un Dumont de oro 18K con esfera blanca y correa de cuero; el precio pedido de US$19.800 está muy por encima de lo que se vende este modelo, aunque tenga servicio de 2023. (justo 8500)"
- },
- {
-  "fecha": "2026-11-09T04:16:49.016117+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay 79220N Full Box and Papers",
-  "total": 4750.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147672758656",
-  "item_id": "v1|147672758656|0",
-  "referencia": "79220N",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay Fifty-Eight (39 mm, esfera negra, brazalete de acero)",
-   "referencia": "79220N (según el título; no verificable con la foto)",
-   "precio_justo_usd": 3400,
-   "interesante": false,
-   "nota": "Pedido de US$4.750 está muy por encima del precio de venta real de este modelo usado con caja y papeles (aprox. US$3.200-3.600)."
-  },
-  "motivo": "triage: Pedido de US$4.750 está muy por encima del precio de venta real de este modelo usado con caja y papeles (aprox. US$3.200-3.600). (justo 3400)"
- },
- {
-  "fecha": "2026-11-09T05:16:58.534369+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay \"Panda\" Watch Black Bay Chronograph 79360N Panda - Inventory",
-  "total": 4249.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287715435311",
-  "item_id": "v1|287715435311|0",
-  "referencia": "79360N",
-  "mercado": {
-   "n": 57,
-   "p25": 4600,
-   "mediana": 5298
-  },
-  "ratio_mercado": 0.924,
-  "motivo": "precio normal (92 % del cuartil bajo de 79360N)"
- },
- {
-  "fecha": "2026-11-09T07:01:57.983141+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere Vendome SM 1-Row 24mm Ref.1057920C Quartz Watch 18KYG 167807",
-  "total": 4200.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940077563680",
-  "item_id": "v1|940077563680|0",
-  "triage": {
-   "modelo": "Cartier Panthère Vendôme SM (1 fila), cuarzo, caja de oro amarillo 18k con brazalete bicolor acero/oro (según la foto)",
-   "referencia": "1057920 (según el título; no verificable en la foto)",
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "El precio pedido de US$4200 supera el valor de venta típico de esta referencia en cuarzo, y la foto muestra brazalete bicolor, que vale menos que oro macizo. Confirmar material y papeles."
-  },
-  "motivo": "triage: El precio pedido de US$4200 supera el valor de venta típico de esta referencia en cuarzo, y la foto muestra brazalete bicolor, que vale menos que oro macizo. Confirmar material y papeles. (justo 2800)"
- },
- {
   "fecha": "2026-11-09T07:16:57.648631+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Watch Roadster Automatic 3312 - Stainless Steel & DLC",
@@ -10883,5 +10706,212 @@
    "nota": "Precio pedido de US$4560 por encima del valor de venta cerrada estimado para esta versión bicolor de 33 mm en estado Good, sin confirmar caja ni papeles."
   },
   "motivo": "triage: Precio pedido de US$4560 por encima del valor de venta cerrada estimado para esta versión bicolor de 33 mm en estado Good, sin confirmar caja ni papeles. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-11T02:33:05.823733+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos-Dumont W2SA0012 / 27mm / Steel & Rose Gold / Full Set",
+  "total": 7500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/227608701664",
+  "item_id": "v1|227608701664|0",
+  "referencia": "W2SA0012",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Santos-Dumont Dos Tonos (acero y oro rosa), caja cuadrada, esfera plateada con números romanos, correa de piel negra",
+   "referencia": "W2SA0012 (según título, no verificada)",
+   "precio_justo_usd": 5500,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de reventa estimado para un modelo nuevo con caja y papeles; no cumple el umbral del 15 %."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de reventa estimado para un modelo nuevo con caja y papeles; no cumple el umbral del 15 %. (justo 5500)"
+ },
+ {
+  "fecha": "2026-11-11T02:33:05.823733+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthère de Cartier W2PN0014 / 27mm / Steel & Yellow Gold / Full Set",
+  "total": 13500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/227608701669",
+  "item_id": "v1|227608701669|0",
+  "referencia": "W2PN0014",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Panthère de Cartier 27 mm, acero y oro amarillo, cuarzo, esfera blanca con numerales romanos",
+   "referencia": "W2PN0014",
+   "precio_justo_usd": 6000,
+   "interesante": false,
+   "nota": "El precio pedido de US$13.500 supera ampliamente el mercado secundario nuevo (aprox. US$5.500-6.500 con caja y papeles). Además, la foto parece de catálogo oficial, así que conviene pedir fotos reales del ejemplar."
+  },
+  "motivo": "triage: El precio pedido de US$13.500 supera ampliamente el mercado secundario nuevo (aprox. US$5.500-6.500 con caja y papeles). Además, la foto parece de catálogo oficial, así que conviene pedir fotos reales del ejemplar. (justo 6000)"
+ },
+ {
+  "fecha": "2026-11-11T02:33:05.823733+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos-Dumont W2SA0011 / 31mm / Steel & Rose Gold / Full Set",
+  "total": 8750.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/227608701670",
+  "item_id": "v1|227608701670|0",
+  "referencia": "W2SA0011",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Santos-Dumont (medium, acero y oro rosa, cuarzo)",
+   "referencia": "W2SA0011",
+   "precio_justo_usd": 6300,
+   "interesante": false,
+   "nota": "Precio pedido por encima del mercado gris para un modelo nuevo de produccion actual; no hay descuento de al menos 15 %."
+  },
+  "motivo": "triage: Precio pedido por encima del mercado gris para un modelo nuevo de produccion actual; no hay descuento de al menos 15 %. (justo 6300)"
+ },
+ {
+  "fecha": "2026-11-11T02:33:05.823733+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu de Cartier WSBB0060 / 40mm / Steel / Full Set",
+  "total": 7750.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/227608701672",
+  "item_id": "v1|227608701672|0",
+  "referencia": "WSBB0060",
+  "mercado": {
+   "n": 2,
+   "p25": 7400,
+   "mediana": 7675
+  },
+  "triage": {
+   "modelo": "Cartier Ballon Bleu de Cartier 40 mm, acero, esfera gris (Roman)",
+   "referencia": "WSBB0060",
+   "precio_justo_usd": 6000,
+   "interesante": false,
+   "nota": "Precio pedido de US$7,750 supera el rango de venta secundaria de unos US$5,800-6,300 para esta referencia nueva con caja y papeles; no hay descuento claro."
+  },
+  "motivo": "triage: Precio pedido de US$7,750 supera el rango de venta secundaria de unos US$5,800-6,300 para esta referencia nueva con caja y papeles; no hay descuento claro. (justo 6000)"
+ },
+ {
+  "fecha": "2026-11-11T02:33:05.823733+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu de Cartier W3BB0023 / 33mm / Steel & Rose Gold / Full Set",
+  "total": 14850.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/227608701674",
+  "item_id": "v1|227608701674|0",
+  "referencia": "W3BB0023",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Ballon Bleu de Cartier 33 mm, acero y oro rosa, bisel de diamantes",
+   "referencia": "W3BB0023",
+   "precio_justo_usd": 9500,
+   "interesante": false,
+   "nota": "Precio pedido de US$14.850 supera el retail actual; el gris nuevo con caja y papeles suele venderse 15-35 % bajo tienda."
+  },
+  "motivo": "triage: Precio pedido de US$14.850 supera el retail actual; el gris nuevo con caja y papeles suele venderse 15-35 % bajo tienda. (justo 9500)"
+ },
+ {
+  "fecha": "2026-11-11T02:33:05.823733+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Pasha de Cartier WSPA0038 / 41mm / Steel / Full Set",
+  "total": 8750.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/227608701675",
+  "item_id": "v1|227608701675|0",
+  "referencia": "WSPA0038",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Pasha de Cartier 41 mm, acero, esfera azul, correa de cocodrilo azul (automático con fecha)",
+   "referencia": "WSPA0038",
+   "precio_justo_usd": 6600,
+   "interesante": false,
+   "nota": "Precio pedido de US$8750 está por encima del rango de mercado gris para un modelo nuevo con caja y papeles; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido de US$8750 está por encima del rango de mercado gris para un modelo nuevo con caja y papeles; no hay descuento suficiente. (justo 6600)"
+ },
+ {
+  "fecha": "2026-11-11T02:33:05.823733+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Must W4TA0016 / 22mm / Steel / Full Set",
+  "total": 7250.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/227608701676",
+  "item_id": "v1|227608701676|0",
+  "referencia": "W4TA0016",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Tank Must (tamaño pequeño, 22 mm, bisel de diamantes, correa de satén negra)",
+   "referencia": "W4TA0016",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Nuevo con caja y papeles, el precio de mercado gris ronda 4.200-5.500 USD; el pedido de 7.250 USD está muy por encima."
+  },
+  "motivo": "triage: Nuevo con caja y papeles, el precio de mercado gris ronda 4.200-5.500 USD; el pedido de 7.250 USD está muy por encima. (justo 5000)"
+ },
+ {
+  "fecha": "2026-11-11T02:33:05.823733+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthère de Cartier WJPN0035 / 22mm / Rose Gold / Full Set",
+  "total": 34850.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/227608701677",
+  "item_id": "v1|227608701677|0",
+  "referencia": "WJPN0035",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Panthère de Cartier, cuarzo, oro rosa con bisel de diamantes y esfera marrón",
+   "referencia": "WJPN0035 (según el título; no verificable en la imagen)",
+   "precio_justo_usd": 16000,
+   "interesante": false,
+   "nota": "El precio pedido (US$34.850) supera ampliamente el retail y el mercado secundario para esta referencia; no es una oportunidad."
+  },
+  "motivo": "triage: El precio pedido (US$34.850) supera ampliamente el retail y el mercado secundario para esta referencia; no es una oportunidad. (justo 16000)"
+ },
+ {
+  "fecha": "2026-11-11T02:33:05.823733+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu de Cartier WGBB0036 / 42mm / Rose Gold / Full Set",
+  "total": 14950.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/227608701681",
+  "item_id": "v1|227608701681|0",
+  "referencia": "WGBB0036",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Ballon Bleu de Cartier 42 mm, oro rosa 18k, esfera azul, correa de piel de cocodrilo azul",
+   "referencia": "WGBB0036",
+   "precio_justo_usd": 17000,
+   "interesante": false,
+   "nota": "Precio pedido about 12 % bajo mi estimación de mercado gris para pieza nueva con caja y papeles; no alcanza el 15 % y el descuento tan fuerte merece verificar autenticidad."
+  },
+  "motivo": "triage: Precio pedido about 12 % bajo mi estimación de mercado gris para pieza nueva con caja y papeles; no alcanza el 15 % y el descuento tan fuerte merece verificar autenticidad. (justo 17000)"
  }
 ]
