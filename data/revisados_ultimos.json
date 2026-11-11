@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-09T16:02:08.425603+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Baignoire 1920 W15108K7 / 1967 18k Yellow Gold Ladies Watch",
-  "total": 30699.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237173336237",
-  "item_id": "v1|237173336237|0",
-  "triage": {
-   "modelo": "Cartier Baignoire, oro amarillo 18k, con brazalete de eslabones ovalados",
-   "referencia": null,
-   "precio_justo_usd": 13000,
-   "interesante": false,
-   "nota": "La referencia W15108K7 es de producción moderna y no coincide con el año 1967 del título; el listado es inconsistente. Precio muy alto para un Baignoire de oro usado aunque sea pieza de peso; no es oportunidad."
-  },
-  "motivo": "triage: La referencia W15108K7 es de producción moderna y no coincide con el año 1967 del título; el listado es inconsistente. Precio muy alto para un Baignoire de oro usado aunque sea pieza de peso; no es oportunidad. (justo 13000)"
- },
- {
   "fecha": "2026-11-09T16:17:17.509769+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Wimbledon Stainless Steel  Datejust 126200 36mm - WGACA",
@@ -10918,5 +10901,22 @@
   },
   "ratio_mercado": 0.962,
   "motivo": "precio normal (96 % del cuartil bajo de 126655)"
+ },
+ {
+  "fecha": "2026-11-11T10:33:25.273407+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 40mm 116713LN Two Tone Oyster 2009",
+  "total": 15999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147675848098",
+  "item_id": "v1|147675848098|0",
+  "referencia": "116713LN",
+  "mercado": {
+   "n": 35,
+   "p25": 14132,
+   "mediana": 15055
+  },
+  "ratio_mercado": 1.132,
+  "motivo": "precio normal (113 % del cuartil bajo de 116713LN)"
  }
 ]
