@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-09T14:47:07.688076+00:00",
-  "marca": "Cartier",
-  "titulo": "Vintage Cartier Watch Must de Cartier Vendome Vermeil Quartz 3 Color Gold Watch",
-  "total": 1317.76,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137916097559",
-  "item_id": "v1|137916097559|0",
-  "triage": {
-   "modelo": "Must de Cartier Vendôme (quartz, vermeil)",
-   "referencia": null,
-   "precio_justo_usd": 450,
-   "interesante": false,
-   "nota": "Vermeil (plata chapada en oro), esfera plateada con numerales romanos y correa de piel. Se vende en torno a US$350-550 según estado y si incluye caja y papeles; el precio pedido de US$1318 está muy por encima."
-  },
-  "motivo": "triage: Vermeil (plata chapada en oro), esfera plateada con numerales romanos y correa de piel. Se vende en torno a US$350-550 según estado y si incluye caja y papeles; el precio pedido de US$1318 está muy por encima. (justo 450)"
- },
- {
-  "fecha": "2026-11-09T14:47:07.688076+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Pelagius FXD 25707B/24-0001 Marine Nationale Blue Titanium 42mm 2024 Full",
-  "total": 4060.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840111029380",
-  "item_id": "v1|840111029380|0",
-  "referencia": "25707B",
-  "mercado": {
-   "n": 7,
-   "p25": 4000,
-   "mediana": 4299
-  },
-  "ratio_mercado": 1.015,
-  "motivo": "precio normal (101 % del cuartil bajo de 25707B)"
- },
- {
   "fecha": "2026-11-09T15:02:07.524083+00:00",
   "marca": "Rolex",
   "titulo": "2026 Rolex Explorer 36mm 124270 Box & Papers",
@@ -10894,5 +10860,45 @@
    "nota": "La foto no permite confirmar la referencia ni la caja de oro; el reloj de la imagen parece un modelo de correa negra distinto. Con el título, el precio pedido queda por encima del valor estimado de venta cerrada."
   },
   "motivo": "triage: La foto no permite confirmar la referencia ni la caja de oro; el reloj de la imagen parece un modelo de correa negra distinto. Con el título, el precio pedido queda por encima del valor estimado de venta cerrada. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-11T07:18:14.756900+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 💎 Natural Bust Down",
+  "total": 5800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860133390828",
+  "item_id": "v1|860133390828|0",
+  "triage": {
+   "modelo": "Rolex Datejust de acero con bisel de diamantes (probable modificación posterior) y esfera romana",
+   "referencia": null,
+   "precio_justo_usd": 4800,
+   "interesante": false,
+   "nota": "Parece un Datejust de acero modificado con diamantes añadidos, no de fábrica; el bisel y la esfera no son originales, así que se valora como acero más poco. Pedir referencia, número de serie y verificación de autenticidad."
+  },
+  "motivo": "triage: Parece un Datejust de acero modificado con diamantes añadidos, no de fábrica; el bisel y la esfera no son originales, así que se valora como acero más poco. Pedir referencia, número de serie y verificación de autenticidad. (justo 4800)"
+ },
+ {
+  "fecha": "2026-11-11T07:18:14.756900+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos De Cartier Dual Time Grey Stainless Steel FULL SET MINT WSSA0076",
+  "total": 10295.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800902661098",
+  "item_id": "v1|800902661098|0",
+  "referencia": "WSSA0076",
+  "mercado": {
+   "n": 1,
+   "p25": 9895,
+   "mediana": 9895
+  },
+  "triage": {
+   "modelo": "Cartier Santos de Cartier Dual Time (acero, esfera gris, numerales romanos, subesfera de segunda zona horaria)",
+   "referencia": "WSSA0076",
+   "precio_justo_usd": 8500,
+   "interesante": false,
+   "nota": "Precio pedido de US$10.295 con envío supera el valor de venta cerrada de esta referencia en acero, incluso con caja y papeles; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido de US$10.295 con envío supera el valor de venta cerrada de esta referencia en acero, incluso con caja y papeles; no hay descuento suficiente. (justo 8500)"
  }
 ]
