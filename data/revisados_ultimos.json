@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-11-09T23:17:26.675054+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX 126610LN Submariner 41mm Stainless Steel BOX PAPER 2020",
-  "total": 13495.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227606726198",
-  "item_id": "v1|227606726198|0",
-  "referencia": "126610LN",
-  "mercado": {
-   "n": 84,
-   "p25": 14500,
-   "mediana": 15082
-  },
-  "ratio_mercado": 0.931,
-  "motivo": "precio normal (93 % del cuartil bajo de 126610LN)"
- },
- {
-  "fecha": "2026-11-09T23:17:26.675054+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Cellini vintage 18k white gold mint condition",
-  "total": 6600.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227606723912",
-  "item_id": "v1|227606723912|0",
-  "triage": {
-   "modelo": "Rolex Cellini (según título; la foto no lo confirma)",
-   "referencia": null,
-   "precio_justo_usd": 5800,
-   "interesante": false,
-   "nota": "La foto muestra un reloj de esfera negra con pulsera de malla de aspecto acero/plateado, no oro blanco 18k; el título no coincide con lo visible. Pide referencia, número de serie y fotos de caja y cierre antes de comprar."
-  },
-  "motivo": "triage: La foto muestra un reloj de esfera negra con pulsera de malla de aspecto acero/plateado, no oro blanco 18k; el título no coincide con lo visible. Pide referencia, número de serie y fotos de caja y cierre antes de comprar. (justo 5800)"
- },
- {
-  "fecha": "2026-11-09T23:17:26.675054+00:00",
   "marca": "Cartier",
   "titulo": "2026 Cartier Santos de Cartier",
   "total": 12495.0,
@@ -10952,5 +10918,39 @@
   },
   "ratio_mercado": 0.864,
   "motivo": "precio normal (86 % del cuartil bajo de 2424)"
+ },
+ {
+  "fecha": "2026-11-11T23:19:25.274838+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX SUBMARINER DATE 126610LN FULL SET 2022 SPORTS WATCH 41MM",
+  "total": 15200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137923037751",
+  "item_id": "v1|137923037751|0",
+  "referencia": "126610LN",
+  "mercado": {
+   "n": 82,
+   "p25": 14527,
+   "mediana": 15095
+  },
+  "ratio_mercado": 1.046,
+  "motivo": "precio normal (105 % del cuartil bajo de 126610LN)"
+ },
+ {
+  "fecha": "2026-11-11T23:19:25.274838+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 40mm 116710LN Green Arrow 2008",
+  "total": 13499.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147676652142",
+  "item_id": "v1|147676652142|0",
+  "referencia": "116710LN",
+  "mercado": {
+   "n": 38,
+   "p25": 14299,
+   "mediana": 15330
+  },
+  "ratio_mercado": 0.944,
+  "motivo": "precio normal (94 % del cuartil bajo de 116710LN)"
  }
 ]
