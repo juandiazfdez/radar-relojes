@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-09T23:17:26.675054+00:00",
-  "marca": "Cartier",
-  "titulo": "2026 Cartier Santos de Cartier",
-  "total": 12495.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920123491866",
-  "item_id": "v1|920123491866|0",
-  "triage": {
-   "modelo": "Cartier Santos de Cartier (talla grande, acero, esfera gris con numerales romanos, correa de cocodrilo gris)",
-   "referencia": "WSSA0029 (probable, sin confirmar en la imagen)",
-   "precio_justo_usd": 7800,
-   "interesante": false,
-   "nota": "Precio pedido de US$12,495 muy por encima del mercado secundario para esta referencia; el título '2026' no justifica ese precio."
-  },
-  "motivo": "triage: Precio pedido de US$12,495 muy por encima del mercado secundario para esta referencia; el título '2026' no justifica ese precio. (justo 7800)"
- },
- {
-  "fecha": "2026-11-09T23:17:26.675054+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Prince Date-Day Steel Gold Automatic 36mm Champagne Bracelet Watch 76213",
   "total": 2450.0,
@@ -10952,5 +10935,22 @@
   },
   "ratio_mercado": 0.944,
   "motivo": "precio normal (94 % del cuartil bajo de 116710LN)"
+ },
+ {
+  "fecha": "2026-11-11T23:34:25.044613+00:00",
+  "marca": "Cartier",
+  "titulo": "2013 Cartier Ronde Solo W6700355 White 29mm 18k box papers",
+  "total": 3800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880106977599",
+  "item_id": "v1|880106977599|0",
+  "referencia": "W6700355",
+  "mercado": {
+   "n": 5,
+   "p25": 4025,
+   "mediana": 4075
+  },
+  "ratio_mercado": 0.944,
+  "motivo": "precio normal (94 % del cuartil bajo de W6700355)"
  }
 ]
