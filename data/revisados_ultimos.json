@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-09T02:01:49.083856+00:00",
   "marca": "Rolex",
-  "titulo": "2002 Rolex GMT Master II 16710 Pepsi Red Blue Fade Lug Holes Y-Serial Box Papers",
-  "total": 13988.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327447068981",
-  "item_id": "v1|327447068981|0",
-  "referencia": "16710",
-  "mercado": {
-   "n": 76,
-   "p25": 13499,
-   "mediana": 14455
-  },
-  "ratio_mercado": 1.036,
-  "motivo": "precio normal (104 % del cuartil bajo de 16710)"
- },
- {
-  "fecha": "2026-11-09T02:01:49.083856+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Bubbleback 5510",
   "total": 2669.9,
   "condicion": "For parts or not working",
@@ -10890,5 +10873,22 @@
    "nota": "El precio pedido de US$20,795 supera con creces el valor de cierre estimado para esta referencia nueva con caja y papeles, aunque las esferas verdes ombré se venden con prima. El título menciona 'Jubilee Wood', lo que parece un error de redacción."
   },
   "motivo": "triage: El precio pedido de US$20,795 supera con creces el valor de cierre estimado para esta referencia nueva con caja y papeles, aunque las esferas verdes ombré se venden con prima. El título menciona 'Jubilee Wood', lo que parece un error de redacción. (justo 15000)"
+ },
+ {
+  "fecha": "2026-11-11T01:18:06.385747+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 79230N Box And Papers Excellent Condition",
+  "total": 3200.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880103867150",
+  "item_id": "v1|880103867150|0",
+  "referencia": "79230N",
+  "mercado": {
+   "n": 16,
+   "p25": 3375,
+   "mediana": 3597
+  },
+  "ratio_mercado": 0.948,
+  "motivo": "precio normal (95 % del cuartil bajo de 79230N)"
  }
 ]
