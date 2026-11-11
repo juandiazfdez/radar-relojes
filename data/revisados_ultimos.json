@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-09T15:47:07.867196+00:00",
-  "marca": "Rolex",
-  "titulo": "2021 Rolex Sky-Dweller SILVER Stainless & 18k Gold 42mm 326933 BOX + PAPERS",
-  "total": 19737.7,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940078520005",
-  "item_id": "v1|940078520005|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller acero y oro amarillo 18k, bisel acanalado, esfera plateada, brazalete Oyster",
-   "referencia": "326933",
-   "precio_justo_usd": 29000,
-   "interesante": false,
-   "nota": "Precio ~32 % por debajo del mercado para esta referencia; tan bajo sugiere posible replica o listado engañoso. Verificar autenticidad, caja y papeles antes de considerar."
-  },
-  "motivo": "triage: Precio ~32 % por debajo del mercado para esta referencia; tan bajo sugiere posible replica o listado engañoso. Verificar autenticidad, caja y papeles antes de considerar. (justo 29000)"
- },
- {
-  "fecha": "2026-11-09T15:47:07.867196+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Drive de Cartier",
   "total": 4795.0,
@@ -10918,5 +10901,22 @@
    "nota": "Precio pedido ~19 % por encima de la estimación de venta cerrada para este modelo en estado Good; sin caja ni papeles visibles, no hay margen de compra."
   },
   "motivo": "triage: Precio pedido ~19 % por encima de la estimación de venta cerrada para este modelo en estado Good; sin caja ni papeles visibles, no hay margen de compra. (justo 10500)"
+ },
+ {
+  "fecha": "2026-11-11T08:48:25.639064+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX DAYTONA COSMOGRAPH ZENITH 16523 CHAMPAGNE 18K GOLD STEEL WATCH w/ PAPER",
+  "total": 19390.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880104899542",
+  "item_id": "v1|880104899542|0",
+  "referencia": "16523",
+  "mercado": {
+   "n": 24,
+   "p25": 17963,
+   "mediana": 19198
+  },
+  "ratio_mercado": 1.079,
+  "motivo": "precio normal (108 % del cuartil bajo de 16523)"
  }
 ]
