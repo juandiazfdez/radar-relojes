@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-09T16:17:17.509769+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Two-Tone Computer Datejust 16233 36mm - WGACA",
-  "total": 10262.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820335426561",
-  "item_id": "v1|820335426561|0",
-  "referencia": "16233",
-  "mercado": {
-   "n": 31,
-   "p25": 5699,
-   "mediana": 6245
-  },
-  "ratio_mercado": 1.801,
-  "motivo": "precio normal (180 % del cuartil bajo de 16233)"
- },
- {
-  "fecha": "2026-11-09T16:17:17.509769+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Black Stainless Steel Submariner 5513 40mm - WGACA",
   "total": 20512.99,
   "condicion": "Pre-owned - Good",
@@ -10918,5 +10901,28 @@
    "nota": "La referencia no se distingue en la foto; con caja y papeles se vende cerca de US$13.500-15.000. El precio pedido queda por encima del rango, no con descuento del 15 %."
   },
   "motivo": "triage: La referencia no se distingue en la foto; con caja y papeles se vende cerca de US$13.500-15.000. El precio pedido queda por encima del rango, no con descuento del 15 %. (justo 14000)"
+ },
+ {
+  "fecha": "2026-11-11T14:19:11.243693+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Chronograph 6234 - A Pre-Daytona Chronograph Originally Ordered by a Pilot",
+  "total": 27500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128188694595",
+  "item_id": "v1|128188694595|0",
+  "referencia": "6234",
+  "mercado": {
+   "n": 3,
+   "p25": 30000,
+   "mediana": 42995
+  },
+  "triage": {
+   "modelo": "Cronógrafo vintage tipo pre-Daytona (listado como Rolex 6234); en la foto no se distinguen logotipo ni referencia",
+   "referencia": "6234 (no verificable en la foto)",
+   "precio_justo_usd": 30000,
+   "interesante": false,
+   "nota": "Sin verificar esfera, logotipo, calibre ni papeles, no se puede confirmar la autenticidad; si fuera un 6234 genuino en buen estado, el precio pedido está solo ~8% por debajo del estimado, sin margen de 15%."
+  },
+  "motivo": "triage: Sin verificar esfera, logotipo, calibre ni papeles, no se puede confirmar la autenticidad; si fuera un 6234 genuino en buen estado, el precio pedido está solo ~8% por debajo del estimado, sin margen de 15%. (justo 30000)"
  }
 ]
