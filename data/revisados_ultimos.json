@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-09T18:47:16.824824+00:00",
   "marca": "Tudor",
-  "titulo": "Tudor Royal 41mm",
-  "total": 2500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267838844308",
-  "item_id": "v1|267838844308|0",
-  "triage": {
-   "modelo": "Tudor Royal 41mm, esfera azul, brazalete de acero tipo Jubilee",
-   "referencia": "M28600 (probable; no se distingue con certeza en la foto)",
-   "precio_justo_usd": 2750,
-   "interesante": false,
-   "nota": "Precio pedido ~9 % bajo la estimación de venta cerrada con caja; no llega al umbral del 15 %. Verificar referencia, papeles y autenticidad."
-  },
-  "motivo": "triage: Precio pedido ~9 % bajo la estimación de venta cerrada con caja; no llega al umbral del 15 %. Verificar referencia, papeles y autenticidad. (justo 2750)"
- },
- {
-  "fecha": "2026-11-09T18:47:16.824824+00:00",
-  "marca": "Tudor",
   "titulo": "2026 Tudor Ranger Dune/Beige 5/26 Ref# 79930 36mm",
   "total": 3998.0,
   "condicion": "Pre-owned - Excellent",
@@ -10959,5 +10942,28 @@
   },
   "ratio_mercado": 1.169,
   "motivo": "precio normal (117 % del cuartil bajo de 2303)"
+ },
+ {
+  "fecha": "2026-11-11T19:04:11.629982+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona Panda Men's Watch 116500 Swiss Automatic Steel 40mm Box 2021 Card",
+  "total": 43999.89,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206692522708",
+  "item_id": "v1|206692522708|0",
+  "referencia": "116500",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Cosmograph Daytona 'Panda' (esfera blanca, bisel cerámica negra, brazalete de acero)",
+   "referencia": "116500LN",
+   "precio_justo_usd": 31000,
+   "interesante": false,
+   "nota": "Precio pedido de US$44.000 está muy por encima del valor de venta cerrada (aprox. US$29.000-33.000 con caja y papeles en 2021). No es oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$44.000 está muy por encima del valor de venta cerrada (aprox. US$29.000-33.000 con caja y papeles en 2021). No es oportunidad. (justo 31000)"
  }
 ]
