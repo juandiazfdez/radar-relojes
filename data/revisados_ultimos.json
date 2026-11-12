@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-10T00:47:26.845314+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date Ref 15053 Mens 18k SS 34mm 1980s Automatic RA855S",
-  "total": 8780.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267839101039",
-  "item_id": "v1|267839101039|0",
-  "referencia": "15053",
-  "mercado": {
-   "n": 20,
-   "p25": 5750,
-   "mediana": 5882
-  },
-  "ratio_mercado": 1.527,
-  "motivo": "precio normal (153 % del cuartil bajo de 15053)"
- },
- {
-  "fecha": "2026-11-10T00:47:26.845314+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex 6827 Oyster Datejust 18k Solid Gold 1980s 30mm Midsize Automatic RA732B",
   "total": 8980.0,
   "condicion": "Pre-owned - Good",
@@ -11000,5 +10983,28 @@
   },
   "ratio_mercado": 0.995,
   "motivo": "precio normal (100 % del cuartil bajo de 116610LV)"
+ },
+ {
+  "fecha": "2026-11-12T06:49:35.150558+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier 30mm Men's Tank Francaise XXL Chronoflex Date 2531 Watch! Ref: W5101455!",
+  "total": 3999.95,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/257848582077",
+  "item_id": "v1|257848582077|0",
+  "referencia": "2531",
+  "mercado": {
+   "n": 1,
+   "p25": 3880,
+   "mediana": 3880
+  },
+  "triage": {
+   "modelo": "Cartier Tank Française XL Chronograph (acero, cuarzo, esfera plateada con números romanos, correa de piel de cocodrilo)",
+   "referencia": null,
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "El título mezcla 'Chronoflex' (correa de goma) y '30mm' con una pieza de correa de piel y caja más grande, y la referencia W5101455 no encaja bien con lo que se ve. Con esas dudas y el precio de US$4,000 por encima de un valor estimado de ~US$2,800, no es interesante."
+  },
+  "motivo": "triage: El título mezcla 'Chronoflex' (correa de goma) y '30mm' con una pieza de correa de piel y caja más grande, y la referencia W5101455 no encaja bien con lo que se ve. Con esas dudas y el precio de US$4,000 por encima de un valor estimado de ~US$2,800, no es interesante. (justo 2800)"
  }
 ]
