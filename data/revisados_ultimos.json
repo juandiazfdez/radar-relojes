@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-11-10T00:17:27.368789+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 16014 Datejust 36mm 18k Gold SS 1980s Mens Vintage Automatic RA853",
-  "total": 8980.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940079488438",
-  "item_id": "v1|940079488438|0",
-  "referencia": "16014",
-  "mercado": {
-   "n": 9,
-   "p25": 5099,
-   "mediana": 5099
-  },
-  "ratio_mercado": 1.761,
-  "motivo": "precio normal (176 % del cuartil bajo de 16014)"
- },
- {
-  "fecha": "2026-11-10T00:17:27.368789+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 40mm Stainless Steel Oyster Bracelet 1680 - 1977",
-  "total": 15035.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128185807653",
-  "item_id": "v1|128185807653|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date (esfera negra, bisel negro, caja Oyster de acero 40 mm)",
-   "referencia": "1680",
-   "precio_justo_usd": 14000,
-   "interesante": false,
-   "nota": "Referencia 1680 de finales de los 70; precio pedido cerca del valor de mercado, sin descuento de al menos 15 %. Verificar autenticidad, esfera y estado de la caja en persona."
-  },
-  "motivo": "triage: Referencia 1680 de finales de los 70; precio pedido cerca del valor de mercado, sin descuento de al menos 15 %. Verificar autenticidad, esfera y estado de la caja en persona. (justo 14000)"
- },
- {
-  "fecha": "2026-11-10T00:17:27.368789+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Baignoire 1920 Silver Roman Yellow Gold Leather WGBA0075 Unworn 2026",
   "total": 13255.0,
@@ -11000,5 +10966,39 @@
   },
   "ratio_mercado": 1.251,
   "motivo": "precio normal (125 % del cuartil bajo de 179174)"
+ },
+ {
+  "fecha": "2026-11-12T02:34:35.359047+00:00",
+  "marca": "Rolex",
+  "titulo": "eLive- Rolex Yacht-Master 42mm Titanium 226627",
+  "total": 1.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/128189832809",
+  "item_id": "v1|128189832809|0",
+  "referencia": "226627",
+  "mercado": {
+   "n": 16,
+   "p25": 26198,
+   "mediana": 28175
+  },
+  "ratio_mercado": 0.0,
+  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
+ },
+ {
+  "fecha": "2026-11-12T02:34:35.359047+00:00",
+  "marca": "Rolex",
+  "titulo": "eLive- Rolex GMT-Master II Pepsi Oyster Bracelet 126710BLRO",
+  "total": 1.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/128189832815",
+  "item_id": "v1|128189832815|0",
+  "referencia": "126710BLRO",
+  "mercado": {
+   "n": 14,
+   "p25": 30594,
+   "mediana": 32675
+  },
+  "ratio_mercado": 0.0,
+  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
  }
 ]
