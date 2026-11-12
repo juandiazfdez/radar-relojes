@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-10T00:32:27.399769+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex Oyster Perpetual Date (Ladies-Date), two-tone steel & gold Works",
-  "total": 3504.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307275125743",
-  "item_id": "v1|307275125743|0",
-  "triage": {
-   "modelo": "Rolex Ladies Date (Oyster Perpetual Date) de acero y oro amarillo, bisel acanalado, brazalete Jubilee",
-   "referencia": "69173 (probable; 6917 o 6916 según la generación, sin confirmar)",
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "Precio pedido por encima de lo que se vende este modelo vintage bicolor en condición Good; sin caja ni papeles confirmados, y el precio no muestra descuento."
-  },
-  "motivo": "triage: Precio pedido por encima de lo que se vende este modelo vintage bicolor en condición Good; sin caja ni papeles confirmados, y el precio no muestra descuento. (justo 2200)"
- },
- {
   "fecha": "2026-11-10T00:47:26.845314+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 31mm 1993 Black Diamond Fluted President 68278",
@@ -10994,5 +10977,22 @@
    "nota": "La esfera visible no muestra indicación GMT pese al título, y 'seller refurbished' reduce el valor. US$5,500 supera el precio de venta cerrada estimado para este modelo."
   },
   "motivo": "triage: La esfera visible no muestra indicación GMT pese al título, y 'seller refurbished' reduce el valor. US$5,500 supera el precio de venta cerrada estimado para este modelo. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-12T04:34:35.414100+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Certified Oyster Perpetual Lady-Datejust 26",
+  "total": 10500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267841284751",
+  "item_id": "v1|267841284751|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 (acero y oro amarillo, bisel acanalado, esfera champán, brazalete Jubilee)",
+   "referencia": "69173 o 179173 (no determinable con certeza en la foto)",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "El precio pedido de US$10,500 supera con holgura lo que este modelo de uso se vende realmente; el título 'Certified' no equivale al programa oficial de Rolex y no justifica esa prima."
+  },
+  "motivo": "triage: El precio pedido de US$10,500 supera con holgura lo que este modelo de uso se vende realmente; el título 'Certified' no equivale al programa oficial de Rolex y no justifica esa prima. (justo 5000)"
  }
 ]
