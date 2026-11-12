@@ -1,85 +1,5 @@
 [
  {
-  "fecha": "2026-11-10T05:47:37.564190+00:00",
-  "marca": "Rolex",
-  "titulo": "1995 Rolex Datejust Ref. 16233 with Box & Papers",
-  "total": 7875.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147674133890",
-  "item_id": "v1|147674133890|0",
-  "referencia": "16233",
-  "mercado": {
-   "n": 31,
-   "p25": 5699,
-   "mediana": 6245
-  },
-  "ratio_mercado": 1.382,
-  "motivo": "precio normal (138 % del cuartil bajo de 16233)"
- },
- {
-  "fecha": "2026-11-10T05:47:37.564190+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay Harrods on Jubilee 79230G Excellent Full Set 2023",
-  "total": 5450.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287717957930",
-  "item_id": "v1|287717957930|0",
-  "referencia": "79230G",
-  "mercado": {
-   "n": 3,
-   "p25": 4950,
-   "mediana": 5450
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay Harrods (bisel verde, brazalete Jubilee, edición exclusiva Harrods)",
-   "referencia": "79230G",
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "Precio pedido de US$5450 supera el valor de venta estimado de este modelo de 2023 con set completo; no hay descuento claro."
-  },
-  "motivo": "triage: Precio pedido de US$5450 supera el valor de venta estimado de este modelo de 2023 con set completo; no hay descuento claro. (justo 4500)"
- },
- {
-  "fecha": "2026-11-10T06:32:38.270067+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 31mm Blue Dial, Fluted Jubilee, Stainless Steel (68274)",
-  "total": 7307.29,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/860126985973",
-  "item_id": "v1|860126985973|0",
-  "referencia": "68274",
-  "mercado": {
-   "n": 33,
-   "p25": 8000,
-   "mediana": 9400
-  },
-  "ratio_mercado": 0.913,
-  "motivo": "precio normal (91 % del cuartil bajo de 68274)"
- },
- {
-  "fecha": "2026-11-10T06:32:38.270067+00:00",
-  "marca": "Cartier",
-  "titulo": "2014 Cartier Ronde Solo XL 42mm Automatic (W6701010) With Papers MINT",
-  "total": 2875.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/377632237948",
-  "item_id": "v1|377632237948|0",
-  "referencia": "W6701010",
-  "mercado": {
-   "n": 3,
-   "p25": 3065,
-   "mediana": 3170
-  },
-  "triage": {
-   "modelo": "Cartier Ronde Solo de Cartier XL 42 mm automático (acero, esfera plateada, fecha)",
-   "referencia": "W6701010",
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "Precio pedido de US$2875 está por encima del rango de venta cerrada estimado para este modelo de 2014 con papeles; no cumple el umbral de 15 % por debajo."
-  },
-  "motivo": "triage: Precio pedido de US$2875 está por encima del rango de venta cerrada estimado para este modelo de 2014 con papeles; no cumple el umbral de 15 % por debajo. (justo 2600)"
- },
- {
   "fecha": "2026-11-10T07:17:37.651609+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay Chronograph \"Panda\" w/ Jubilee Bracelet (2026)",
@@ -10938,5 +10858,85 @@
   },
   "ratio_mercado": 42.5,
   "motivo": "precio normal (4250 % del cuartil bajo de 69173)"
+ },
+ {
+  "fecha": "2026-11-12T16:49:54.676527+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner 14060M",
+  "total": 9200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137925198361",
+  "item_id": "v1|137925198361|0",
+  "referencia": "14060M",
+  "mercado": {
+   "n": 19,
+   "p25": 10700,
+   "mediana": 11310
+  },
+  "ratio_mercado": 0.86,
+  "motivo": "precio normal (86 % del cuartil bajo de 14060M)"
+ },
+ {
+  "fecha": "2026-11-12T16:49:54.676527+00:00",
+  "marca": "Rolex",
+  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
+  "total": 15991.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327452879952",
+  "item_id": "v1|327452879952|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date (acero, bisel negro)",
+   "referencia": "116610LN o 126610LN (no verificable en la foto)",
+   "precio_justo_usd": 13000,
+   "interesante": false,
+   "nota": "Precio pedido de US$15,991 sobre un Submariner Date usado con caja y papeles; estimo ~US$13,000 para esas referencias, así que no hay descuento de al menos 15%. Requiere verificar referencia, número de serie y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$15,991 sobre un Submariner Date usado con caja y papeles; estimo ~US$13,000 para esas referencias, así que no hay descuento de al menos 15%. Requiere verificar referencia, número de serie y papeles. (justo 13000)"
+ },
+ {
+  "fecha": "2026-11-12T16:49:54.676527+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu Silver Roman Steel 42mm Watch WSBB0049/3765 Box/Appraisal",
+  "total": 4580.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336894281673",
+  "item_id": "v1|336894281673|0",
+  "referencia": "WSBB0049",
+  "mercado": {
+   "n": 2,
+   "p25": 5495,
+   "mediana": 6882
+  },
+  "triage": {
+   "modelo": "Cartier Ballon Bleu 42mm automático, acero, esfera plateada con números romanos, manecillas azules y ventana de fecha",
+   "referencia": "WSBB0049 (el listado indica también 3765; conviene verificar la referencia exacta)",
+   "precio_justo_usd": 4900,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para acero 42mm con caja y certificado; el descuento es menor al 15 % exigido."
+  },
+  "motivo": "triage: Precio cercano al mercado para acero 42mm con caja y certificado; el descuento es menor al 15 % exigido. (justo 4900)"
+ },
+ {
+  "fecha": "2026-11-12T16:49:54.676527+00:00",
+  "marca": "Cartier",
+  "titulo": "42134: Cartier Medium Ballon Bleu 33mm, Ref. W6920084, Quartz, Box and 2020 Card",
+  "total": 5250.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237179344629",
+  "item_id": "v1|237179344629|0",
+  "referencia": "W6920084",
+  "mercado": {
+   "n": 4,
+   "p25": 5512,
+   "mediana": 5618
+  },
+  "triage": {
+   "modelo": "Cartier Ballon Bleu 33 mm, acero, cuarzo, esfera plateada con números romanos",
+   "referencia": "W6920084",
+   "precio_justo_usd": 4200,
+   "interesante": false,
+   "nota": "Precio pedido US$5250 supera el valor de venta usado con caja y tarjeta de 2020 (aprox. US$3,800-4,500); no hay descuento claro."
+  },
+  "motivo": "triage: Precio pedido US$5250 supera el valor de venta usado con caja y tarjeta de 2020 (aprox. US$3,800-4,500); no hay descuento claro. (justo 4200)"
  }
 ]
