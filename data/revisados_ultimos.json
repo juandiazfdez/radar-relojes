@@ -1,80 +1,6 @@
 [
  {
   "fecha": "2026-11-10T17:32:56.701619+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 1975 Rolex Oyster Perpetual Steel Ref 6723 26mm Ladies Watch",
-  "total": 3510.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/820339157341",
-  "item_id": "v1|820339157341|0",
-  "referencia": "6723",
-  "mercado": {
-   "n": 2,
-   "p25": 3550,
-   "mediana": 4495
-  },
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Lady 26 mm, acero, años 1970 (según título)",
-   "referencia": "6723 (según título, no verificable en la foto)",
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "Precio pedido de US$3510 está muy por encima del valor de venta cerrada estimado para un OP femenino de acero de los 70 en excelente estado; la foto no permite confirmar la referencia ni el año."
-  },
-  "motivo": "triage: Precio pedido de US$3510 está muy por encima del valor de venta cerrada estimado para un OP femenino de acero de los 70 en excelente estado; la foto no permite confirmar la referencia ni el año. (justo 2300)"
- },
- {
-  "fecha": "2026-11-10T17:32:56.701619+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthère Mini Pave Diamond 18K White Gold Factory Diamonds Ref WF3210FK",
-  "total": 42800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960179385051",
-  "item_id": "v1|960179385051|0",
-  "triage": {
-   "modelo": "Cartier Panthère Mini pavé de diamantes, oro blanco 18K, cuarzo",
-   "referencia": "WF3210FK",
-   "precio_justo_usd": 38000,
-   "interesante": false,
-   "nota": "Panthère Mini con pavé total en oro blanco; la referencia es la del título y no se puede verificar en la foto. Precio pedido unos 12-13 % sobre la estimación conservadora de venta real, sin margen suficiente."
-  },
-  "motivo": "triage: Panthère Mini con pavé total en oro blanco; la referencia es la del título y no se puede verificar en la foto. Precio pedido unos 12-13 % sobre la estimación conservadora de venta real, sin margen suficiente. (justo 38000)"
- },
- {
-  "fecha": "2026-11-10T17:32:56.701619+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise 2465 Diamond Stainless Steel Lady Date Quartz 25MM Watch",
-  "total": 3499.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327449835250",
-  "item_id": "v1|327449835250|0",
-  "referencia": "2465",
-  "mercado": {
-   "n": 31,
-   "p25": 3599,
-   "mediana": 3800
-  },
-  "ratio_mercado": 0.972,
-  "motivo": "precio normal (97 % del cuartil bajo de 2465)"
- },
- {
-  "fecha": "2026-11-10T17:32:56.701619+00:00",
-  "marca": "Tudor",
-  "titulo": "2019 Tudor Black Bay Silver metal watch. In excellent condition. Still im box!",
-  "total": 6161.3,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/920126976269",
-  "item_id": "v1|920126976269|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 41 (acero, esfera negra, bisel pulido/satinado)",
-   "referencia": "M79540 (probable; confirmar en el reverso de la caja)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido de US$6.161 está muy por encima del mercado secundario (~US$3.000-3.600 con caja y papeles); no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$6.161 está muy por encima del mercado secundario (~US$3.000-3.600 con caja y papeles); no es una oportunidad. (justo 3300)"
- },
- {
-  "fecha": "2026-11-10T17:32:56.701619+00:00",
   "marca": "Tudor",
   "titulo": "2026 Tudor Pelagos Ultra Titanium 43mm 2543C1A7NU Full Set Box & Papers",
   "total": 5597.0,
@@ -10957,5 +10883,73 @@
    "nota": "Precio pedido de US$4,800 supera el retail aproximado de ~US$4,500 para un modelo de 2024 con caja y papeles; no hay descuento frente al mercado."
   },
   "motivo": "triage: Precio pedido de US$4,800 supera el retail aproximado de ~US$4,500 para un modelo de 2024 con caja y papeles; no hay descuento frente al mercado. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-12T21:05:06.494283+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Vintage GMT-Master 18k Yellow Gold Jubilee Automatic Black Men Watch 16758",
+  "total": 48405.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287725107328",
+  "item_id": "v1|287725107328|0",
+  "referencia": "16758",
+  "mercado": {
+   "n": 7,
+   "p25": 28749,
+   "mediana": 31495
+  },
+  "ratio_mercado": 1.684,
+  "motivo": "precio normal (168 % del cuartil bajo de 16758)"
+ },
+ {
+  "fecha": "2026-11-12T21:05:06.494283+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX DATEJUST TURN-O-GRAPH 116264 36MM STAINLESS STEEL CIRCA 2005",
+  "total": 7800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237179637507",
+  "item_id": "v1|237179637507|0",
+  "referencia": "116264",
+  "mercado": {
+   "n": 7,
+   "p25": 8640,
+   "mediana": 9500
+  },
+  "ratio_mercado": 0.903,
+  "motivo": "precio normal (90 % del cuartil bajo de 116264)"
+ },
+ {
+  "fecha": "2026-11-12T21:05:06.494283+00:00",
+  "marca": "Rolex",
+  "titulo": "1930's AUTHENTIC Men's Dual Signed TUDOR-Rolex Watch, Running Well, Tudor Cal.59",
+  "total": 950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860135182279",
+  "item_id": "v1|860135182279|0",
+  "triage": {
+   "modelo": "Tudor vintage tipo cojín (c. 1930s), caja cuadrada plateada/acero, esfera con numerales arábigos y subesfera de segundos (posible firma dual Tudor-Rolex)",
+   "referencia": null,
+   "precio_justo_usd": 1400,
+   "interesante": false,
+   "nota": "Sin papeles ni referencia verificable; las firmas duales y el título 'AUTHENTIC' en mayúsculas exigen autenticación y revisión de caja y movimiento antes de considerarlo; si es genuino, el precio estaría por debajo del mercado."
+  },
+  "motivo": "triage: Sin papeles ni referencia verificable; las firmas duales y el título 'AUTHENTIC' en mayúsculas exigen autenticación y revisión de caja y movimiento antes de considerarlo; si es genuino, el precio estaría por debajo del mercado. (justo 1400)"
+ },
+ {
+  "fecha": "2026-11-12T21:05:06.494283+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay Chrono S&G",
+  "total": 5950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366805747360",
+  "item_id": "v1|366805747360|0",
+  "triage": {
+   "modelo": "Tudor Black Bay Chrono S&G (acero y oro amarillo, esfera negra, subesferas doradas)",
+   "referencia": "M79363N (probable, 41 mm)",
+   "precio_justo_usd": 5800,
+   "interesante": false,
+   "nota": "Precio pedido en línea con el mercado de usados con caja y papeles; sin descuento claro frente a ventas cerradas."
+  },
+  "motivo": "triage: Precio pedido en línea con el mercado de usados con caja y papeles; sin descuento claro frente a ventas cerradas. (justo 5800)"
  }
 ]
