@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-10T01:32:26.942801+00:00",
   "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay 41mm Monochrome Jubilee M7941A1A0NU Full Set 2031 Warranty",
-  "total": 4495.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880100614321",
-  "item_id": "v1|880100614321|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 41 Monochrome (Jubilee)",
-   "referencia": "M7941A1A0NU",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Precio pedido de US$4495 con envío está muy por encima del mercado secundario para un Black Bay 41 Monochrome de esta referencia, incluso con caja y papeles."
-  },
-  "motivo": "triage: Precio pedido de US$4495 con envío está muy por encima del mercado secundario para un Black Bay 41 Monochrome de esta referencia, incluso con caja y papeles. (justo 3500)"
- },
- {
-  "fecha": "2026-11-10T01:32:26.942801+00:00",
-  "marca": "Tudor",
   "titulo": "Tudor Royal 41MM Two Tone Ref. 28603 Case #758",
   "total": 3195.0,
   "condicion": "Pre-owned - Excellent",
@@ -11000,5 +10983,22 @@
   },
   "ratio_mercado": 1.081,
   "motivo": "precio normal (108 % del cuartil bajo de 126711CHNR)"
+ },
+ {
+  "fecha": "2026-11-12T14:49:54.932707+00:00",
+  "marca": "Cartier",
+  "titulo": "Vintage Cartier Must De Cartier Mechanical Tank Men's Watch",
+  "total": 1810.75,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117517691164",
+  "item_id": "v1|117517691164|0",
+  "triage": {
+   "modelo": "Cartier Must de Cartier Tank (vermeil dorado, esfera crema con números romanos, correa de piel negra)",
+   "referencia": null,
+   "precio_justo_usd": 1000,
+   "interesante": false,
+   "nota": "Vermeil vintage de cuerda manual en estado Good; se vende típicamente entre US$800 y 1.200, y el precio pedido de US$1.811 está muy por encima."
+  },
+  "motivo": "triage: Vermeil vintage de cuerda manual en estado Good; se vende típicamente entre US$800 y 1.200, y el precio pedido de US$1.811 está muy por encima. (justo 1000)"
  }
 ]
