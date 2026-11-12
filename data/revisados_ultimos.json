@@ -1,97 +1,5 @@
 [
  {
-  "fecha": "2026-11-09T23:47:27.013231+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sea-Dweller 136660-0004 Pre-owned Box & Papers 2022",
-  "total": 12640.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137917227497",
-  "item_id": "v1|137917227497|0",
-  "referencia": "136660-0004",
-  "mercado": {
-   "n": 51,
-   "p25": 15500,
-   "mediana": 16150
-  },
-  "ratio_mercado": 0.815,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 13000,
-   "riesgo_autenticidad": "medio",
-   "estado": "Muy buen estado aparente, poco desgaste visible, con caja y papeles según el vendedor"
-  },
-  "ratio_justo": 0.972,
-  "motivo": "precio normal segun revision (97 % del justo 13000)"
- },
- {
-  "fecha": "2026-11-09T23:47:27.013231+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex Daytona \"Ghost\" 126519LN | White Gold Oysterflex | Full Set",
-  "total": 64000.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/800897926794",
-  "item_id": "v1|800897926794|0",
-  "referencia": "126519LN",
-  "mercado": {
-   "n": 9,
-   "p25": 49999,
-   "mediana": 56275
-  },
-  "ratio_mercado": 1.28,
-  "motivo": "precio normal (128 % del cuartil bajo de 126519LN)"
- },
- {
-  "fecha": "2026-11-09T23:47:27.013231+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sea Dweller Deepsea · Steel · Automatic",
-  "total": 13899.0,
-  "condicion": "New without box or papers",
-  "url": "https://www.ebay.com/itm/860129139657",
-  "item_id": "v1|860129139657|0",
-  "triage": {
-   "modelo": "Rolex Sea-Dweller Deepsea (acero, automático, bisel cerámico negro)",
-   "referencia": "126660",
-   "precio_justo_usd": 16000,
-   "interesante": false,
-   "nota": "Precio ~13% bajo una estimación conservadora de mercado para la 126660 nueva, pero sin caja ni papeles y con un precio tan bajo para un Rolex nuevo, hay alto riesgo de pieza o replica; no cumple el umbral del 15%."
-  },
-  "motivo": "triage: Precio ~13% bajo una estimación conservadora de mercado para la 126660 nueva, pero sin caja ni papeles y con un precio tan bajo para un Rolex nuevo, hay alto riesgo de pieza o replica; no cumple el umbral del 15%. (justo 16000)"
- },
- {
-  "fecha": "2026-11-10T00:02:27.400554+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 40mm Root Beer Two Tone Oyster Bracelet 126711CHNR",
-  "total": 22595.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128185802991",
-  "item_id": "v1|128185802991|0",
-  "referencia": "126711CHNR",
-  "mercado": {
-   "n": 98,
-   "p25": 20900,
-   "mediana": 21850
-  },
-  "ratio_mercado": 1.081,
-  "motivo": "precio normal (108 % del cuartil bajo de 126711CHNR)"
- },
- {
-  "fecha": "2026-11-10T00:02:27.400554+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 40mm Batman Jubilee Bracelet 126710BLNR",
-  "total": 21095.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128185802822",
-  "item_id": "v1|128185802822|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 68,
-   "p25": 18145,
-   "mediana": 18825
-  },
-  "ratio_mercado": 1.163,
-  "motivo": "precio normal (116 % del cuartil bajo de 126710BLNR)"
- },
- {
   "fecha": "2026-11-10T00:02:27.400554+00:00",
   "marca": "Rolex",
   "titulo": "Rolex GMT Master II 40mm Batman Stainless Steel Jubilee Bracelet 126710BLNR",
@@ -10953,5 +10861,96 @@
   },
   "ratio_mercado": 1.583,
   "motivo": "precio normal (158 % del cuartil bajo de M79360N-0019)"
+ },
+ {
+  "fecha": "2026-11-12T00:04:25.080973+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 3458 Chronometre Rose Gold SS Men Automatic 1940s 32mm Bubbleback RA750B",
+  "total": 9100.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267841156054",
+  "item_id": "v1|267841156054|0",
+  "triage": {
+   "modelo": "Reloj vintage de acero y oro rosa, probablemente Tudor (esfera con logotipo de Tudor, no Rolex), años 1940-50s",
+   "referencia": null,
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "El título dice Rolex 3458 'Bubbleback' con 'RA750B', pero la esfera parece Tudor y el listado no es coherente. Sin referencia verificable, el precio pedido de US$9100 está muy por encima del valor real."
+  },
+  "motivo": "triage: El título dice Rolex 3458 'Bubbleback' con 'RA750B', pero la esfera parece Tudor y el listado no es coherente. Sin referencia verificable, el precio pedido de US$9100 está muy por encima del valor real. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-12T00:04:25.080973+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT Master II 40mm 16710 Pepsi On Oyster With Papers 2005",
+  "total": 14399.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147676680166",
+  "item_id": "v1|147676680166|0",
+  "referencia": "16710",
+  "mercado": {
+   "n": 74,
+   "p25": 13770,
+   "mediana": 14482
+  },
+  "ratio_mercado": 1.046,
+  "motivo": "precio normal (105 % del cuartil bajo de 16710)"
+ },
+ {
+  "fecha": "2026-11-12T00:04:25.080973+00:00",
+  "marca": "Rolex",
+  "titulo": "New 2026 Rolex Oyster Perpetual 31mm \"100 Years Anniversary\"  277203 - Full Set",
+  "total": 14499.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/227610196595",
+  "item_id": "v1|227610196595|0",
+  "referencia": "277203",
+  "mercado": {
+   "n": 1,
+   "p25": 12999,
+   "mediana": 12999
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual 31 mm (acero, esfera azul)",
+   "referencia": "277203",
+   "precio_justo_usd": 8500,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del mercado para una 277203 nueva. \"100 Years Anniversary\" no es una edición oficial conocida de Rolex; verificar autenticidad y papeles."
+  },
+  "motivo": "triage: Precio pedido muy por encima del mercado para una 277203 nueva. \"100 Years Anniversary\" no es una edición oficial conocida de Rolex; verificar autenticidad y papeles. (justo 8500)"
+ },
+ {
+  "fecha": "2026-11-12T00:04:25.080973+00:00",
+  "marca": "Rolex",
+  "titulo": "Authentic estate 1988 Rolex Datejust stainless-steel wristwatch",
+  "total": 5969.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336892944336",
+  "item_id": "v1|336892944336|0",
+  "triage": {
+   "modelo": "Rolex Datejust de dama 26 mm, acero y oro amarillo, bisel de diamantes, esfera blanca con números romanos, brazalete Jubilee (la foto no coincide con el título, que dice acero)",
+   "referencia": "69173 (probable, a confirmar con número de serie y fotos del caso)",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "El título dice acero 1988, pero la foto muestra bicolor con bisel de diamantes, probablemente de modificación posterior; el precio pedido está por encima del valor de mercado para ese estado."
+  },
+  "motivo": "triage: El título dice acero 1988, pero la foto muestra bicolor con bisel de diamantes, probablemente de modificación posterior; el precio pedido está por encima del valor de mercado para ese estado. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-12T00:04:25.080973+00:00",
+  "marca": "Rolex",
+  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
+  "total": 15991.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327451799778",
+  "item_id": "v1|327451799778|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date (bisel negro, brazalete de acero; aparenta ser de produccion actual)",
+   "referencia": null,
+   "precio_justo_usd": 14500,
+   "interesante": false,
+   "nota": "La referencia no se puede confirmar en las fotos (probablemente 126610LN o 116610LN). Con caja y papeles, el precio pedido de 15.991 USD esta por encima del rango estimado; el 'rare' del titulo no aporta valor real."
+  },
+  "motivo": "triage: La referencia no se puede confirmar en las fotos (probablemente 126610LN o 116610LN). Con caja y papeles, el precio pedido de 15.991 USD esta por encima del rango estimado; el 'rare' del titulo no aporta valor real. (justo 14500)"
  }
 ]

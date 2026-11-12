@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T23:49:25.007105+00:00",
+ "actualizado": "2026-11-12T00:04:25.080973+00:00",
  "ventana_horas": 2.0,
  "marcas": [
   "Rolex",
@@ -7,90 +7,15 @@
   "Tudor"
  ],
  "corrida": {
-  "nuevos_vistos": 20,
+  "nuevos_vistos": 10,
   "descartes": {
-   "titulo": 12,
-   "sospechoso": 3,
-   "triage": 3,
+   "titulo": 5,
+   "triage": 4,
    "precio_normal": 1
   },
-  "alertas_nuevas": 1,
-  "llamadas_ebay": 7,
+  "alertas_nuevas": 0,
+  "llamadas_ebay": 5,
   "cuota_agotada": false
  },
- "alertas_hoy": [
-  {
-   "fecha": "2026-11-11T23:49:25.007105+00:00",
-   "marca": "Tudor",
-   "titulo": "TUDOR Black Bay 79540 Blue - 3 Bracelets BB41",
-   "precio": 1990.0,
-   "envio": 0.0,
-   "total": 1990.0,
-   "mercado": {
-    "fecha": "2026-11-11",
-    "consulta": "Tudor 79540",
-    "n": 5,
-    "mediana": 3299,
-    "p25": 2706,
-    "p75": 3299,
-    "min": 2500,
-    "max": 4000
-   },
-   "triage": null,
-   "vendedor": "patina_plus_store",
-   "valoraciones": 1213,
-   "pct_positivo": "100.0",
-   "url": "https://www.ebay.com/itm/237177977856",
-   "item_id": "v1|237177977856|0",
-   "info": {
-    "departamento": "Men",
-    "referencia": "79540",
-    "modelo_esp": "TUDOR Black Bay",
-    "caja_mm": null,
-    "material": "Stainless Steel",
-    "ano": "2020-Now",
-    "movimiento": "Mechanical (Automatic)",
-    "caja_original": "Yes",
-    "papeles": "Yes",
-    "condicion": "Pre-owned - Good",
-    "condicion_id": "3000",
-    "condicion_desc": "",
-    "garantia_autenticidad": false,
-    "devoluciones": true,
-    "amarillas": [
-     "hairline",
-     "no box"
-    ],
-    "imagenes": [
-     "https://i.ebayimg.com/images/g/aqAAAeSwZsdq9PtG/s-l1600.jpg",
-     "https://i.ebayimg.com/images/g/brMAAeSwgI9q9PtG/s-l1600.jpg",
-     "https://i.ebayimg.com/images/g/ZpgAAeSwGGFq9PtG/s-l1600.jpg",
-     "https://i.ebayimg.com/images/g/8rYAAeSwPXdq9PtG/s-l1600.jpg",
-     "https://i.ebayimg.com/images/g/cz8AAeSwxrhq9PtG/s-l1600.jpg",
-     "https://i.ebayimg.com/images/g/7~UAAeSwjq5q9PtG/s-l1600.jpg"
-    ]
-   },
-   "claude": {
-    "veredicto": "alerta",
-    "modelo": "Tudor Black Bay 41 ref. 79540 esfera azul, acero, 41 mm, automático (2020+), sin brazalete OEM",
-    "estado": "Bueno, uso normal: microarañazos en laterales y cristal limpio. Sin caja ni papeles, sin brazalete Tudor original",
-    "riesgo_autenticidad": "medio",
-    "completo": false,
-    "razones": [
-     "Las fotos son reales y propias, con distintos entornos y ropa, y muestran el reloj en la muñeca. No parecen de catálogo ni robadas.",
-     "La esfera, los índices, las manecillas snowflake y el texto 'ROTOR SELF-WINDING' coinciden con un BB41 79540 azul. En las fotos no veo señales claras de réplica ni de esfera repintada.",
-     "Faltan fotos del fondo de caja y del movimiento, y no hay números de serie ni de referencia. Por eso el riesgo es medio y no bajo. Conviene pedir esas fotos antes de comprar.",
-     "La ficha dice 'caja original: Yes' y 'papeles: Yes', pero la descripción dice claramente 'no box/papers'. Hay que tomar como cierta la descripción: no está completo.",
-     "No incluye el brazalete Tudor original. Trae dos brazaletes Forstner (Oyster y Jubilee, aftermarket de calidad, con micro-ajuste sin herramientas) y una correa de caucho Zealande con hebilla desplegable. Todo eso tiene valor, pero menos que un brazalete OEM. Un BB41 sin brazalete original se revende peor.",
-     "El Jubilee tiene marcas en el cierre. En las fotos laterales se ven rayones en caja y bisel, y el cristal refleja marcas que podrían ser hairlines.",
-     "Los comparables piden 2,706-3,299 (mediana 3,299), pero son precios pedidos e inflados. Un BB41 usado con brazalete OEM, sin caja ni papeles, cierra en torno a 2,500-2,900. Sin el brazalete OEM resto unos 300, y los extras aftermarket suman algo.",
-     "A 1,990 el precio está claramente por debajo del valor realista de cierre, unos 20 % menos. El margen es bueno incluso con un cálculo conservador, siempre que se confirme la autenticidad con las fotos del fondo y del movimiento.",
-     "El vendedor tiene 1,213 valoraciones al 100 % y acepta devoluciones. Es solo información, pero la política de devolución reduce el riesgo."
-    ],
-    "precio_justo_usd": 2450,
-    "precio_reventa_rd_usd": 2850
-   },
-   "ratio_justo": 0.812
-  }
- ]
+ "alertas_hoy": []
 }
