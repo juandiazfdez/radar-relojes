@@ -1,96 +1,5 @@
 [
  {
-  "fecha": "2026-11-10T17:17:57.487533+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay GMT Master II SS/Yellow Gold 79833MN",
-  "total": 5039.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377635416337",
-  "item_id": "v1|377635416337|0",
-  "referencia": "79833MN",
-  "mercado": {
-   "n": 7,
-   "p25": 3752,
-   "mediana": 4650
-  },
-  "ratio_mercado": 1.343,
-  "motivo": "precio normal (134 % del cuartil bajo de 79833MN)"
- },
- {
-  "fecha": "2026-11-10T17:32:56.701619+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36, 16234, Steel & White Gold, Blue Diamond Dial, Oyster Brace...",
-  "total": 10476.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/206690025003",
-  "item_id": "v1|206690025003|0",
-  "referencia": "16234",
-  "mercado": {
-   "n": 33,
-   "p25": 6160,
-   "mediana": 6500
-  },
-  "ratio_mercado": 1.701,
-  "motivo": "precio normal (170 % del cuartil bajo de 16234)"
- },
- {
-  "fecha": "2026-11-10T17:32:56.701619+00:00",
-  "marca": "Rolex",
-  "titulo": "2021 Rolex Yacht-Master 268621 Black Steel 18K Rose Gold 37mm Watch Box Papers",
-  "total": 13958.18,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940081399179",
-  "item_id": "v1|940081399179|0",
-  "referencia": "268621",
-  "mercado": {
-   "n": 8,
-   "p25": 15095,
-   "mediana": 15750
-  },
-  "ratio_mercado": 0.925,
-  "motivo": "precio normal (92 % del cuartil bajo de 268621)"
- },
- {
-  "fecha": "2026-11-10T17:32:56.701619+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona 116528 Mother of Pearl Pave Diamond 18K Yellow Gold 40mm Watch",
-  "total": 36908.4,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940081387952",
-  "item_id": "v1|940081387952|0",
-  "referencia": "116528",
-  "mercado": {
-   "n": 29,
-   "p25": 45000,
-   "mediana": 48990
-  },
-  "ratio_mercado": 0.82,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 27500,
-   "riesgo_autenticidad": "alto",
-   "estado": "Usado, aparentemente bueno, pero totalmente modificado con diamantes y esfera de otro fabricante; sin caja ni papeles originales"
-  },
-  "motivo": "Claude descarto: El propio listado indica 'Custom' en esfera, bisel y brazalete con diamantes añadidos. Rolex no los produjo así, por lo que el reloj pierde su estado original y el valor de coleccionista.; El Daytona 116528 de oro amarillo original con esfera de nácar de fábrica se vende hoy en EE. UU. por ~US$28-33k. Un reloj con diamantes añadidos se vende por el valor del reloj base más el valor de los diamantes, con un fuerte descuento y menor liquidez. La comparación con la mediana de 48,990 (precios pedidos) no aplica porque los comparables probablemente no son todos piezas full-pavé."
- },
- {
-  "fecha": "2026-11-10T17:32:56.701619+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sea-Dweller \"2006\" 16600",
-  "total": 10796.44,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237175513875",
-  "item_id": "v1|237175513875|0",
-  "referencia": "16600",
-  "mercado": {
-   "n": 57,
-   "p25": 9799,
-   "mediana": 10000
-  },
-  "ratio_mercado": 1.102,
-  "motivo": "precio normal (110 % del cuartil bajo de 16600)"
- },
- {
   "fecha": "2026-11-10T17:32:56.701619+00:00",
   "marca": "Rolex",
   "titulo": "Vintage 1975 Rolex Oyster Perpetual Steel Ref 6723 26mm Ladies Watch",
@@ -10963,5 +10872,90 @@
    "nota": "La foto solo muestra una caja blanca, no el reloj. Pedido de US$4900 está muy por encima de lo que se vende un BB41 de acero usado en excelente estado."
   },
   "motivo": "triage: La foto solo muestra una caja blanca, no el reloj. Pedido de US$4900 está muy por encima de lo que se vende un BB41 de acero usado en excelente estado. (justo 3600)"
+ },
+ {
+  "fecha": "2026-11-12T20:50:06.441350+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Black GMT Master II BatGirl 126710BLNR 40mm - WGACA",
+  "total": 26512.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820347828341",
+  "item_id": "v1|820347828341|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 66,
+   "p25": 18172,
+   "mediana": 18900
+  },
+  "ratio_mercado": 1.459,
+  "motivo": "precio normal (146 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-12T20:50:06.441350+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 18k Gold Oyster Perpetual Datejust 15238 34mm - WGACA",
+  "total": 21762.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820347828344",
+  "item_id": "v1|820347828344|0",
+  "referencia": "15238",
+  "mercado": {
+   "n": 8,
+   "p25": 15488,
+   "mediana": 18115
+  },
+  "ratio_mercado": 1.405,
+  "motivo": "precio normal (141 % del cuartil bajo de 15238)"
+ },
+ {
+  "fecha": "2026-11-12T20:50:06.441350+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day Date 36mm 18K Yellow Gold President Double Quickset 18238",
+  "total": 23010.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327453127577",
+  "item_id": "v1|327453127577|0",
+  "referencia": "18238",
+  "mercado": {
+   "n": 35,
+   "p25": 15667,
+   "mediana": 20990
+  },
+  "ratio_mercado": 1.469,
+  "motivo": "precio normal (147 % del cuartil bajo de 18238)"
+ },
+ {
+  "fecha": "2026-11-12T20:50:06.441350+00:00",
+  "marca": "Rolex",
+  "titulo": "2003 Rolex Daytona Cosmograph Two Tone Gold Steel Black 40mm 116523",
+  "total": 17000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168857949096",
+  "item_id": "v1|168857949096|0",
+  "referencia": "116523",
+  "mercado": {
+   "n": 47,
+   "p25": 19384,
+   "mediana": 20990
+  },
+  "ratio_mercado": 0.877,
+  "motivo": "precio normal (88 % del cuartil bajo de 116523)"
+ },
+ {
+  "fecha": "2026-11-12T20:50:06.441350+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 GMT Coke M7939G1A0NRU-0001 Pre-owned Box & Papers 2024",
+  "total": 4800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287725093555",
+  "item_id": "v1|287725093555|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 GMT 'Coke' (bisel negro/rojo, brazalete de acero)",
+   "referencia": "M7939G1A0NRU-0001",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio pedido de US$4,800 supera el retail aproximado de ~US$4,500 para un modelo de 2024 con caja y papeles; no hay descuento frente al mercado."
+  },
+  "motivo": "triage: Precio pedido de US$4,800 supera el retail aproximado de ~US$4,500 para un modelo de 2024 con caja y papeles; no hay descuento frente al mercado. (justo 4000)"
  }
 ]
