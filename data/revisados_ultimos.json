@@ -2,57 +2,6 @@
  {
   "fecha": "2026-11-10T00:17:27.368789+00:00",
   "marca": "Rolex",
-  "titulo": "Vintage Swiss Rolex 14KT White Gold Women 17J Mechanical Watch Runs,11.85g,Read*",
-  "total": 3007.98,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198784254195",
-  "item_id": "v1|198784254195|0",
-  "triage": {
-   "modelo": "Rolex vintage de mujer en oro blanco 14K, cuerda manual, calibre 17 rubíes (estilo cocktail/pulsera)",
-   "referencia": null,
-   "precio_justo_usd": 1200,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de mercado; el oro (~7 g de oro puro) aporta unos US$700-800 y el resto depende de la marca y el estado. Sin referencia exacta visible."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de mercado; el oro (~7 g de oro puro) aporta unos US$700-800 y el resto depende de la marca y el estado. Sin referencia exacta visible. (justo 1200)"
- },
- {
-  "fecha": "2026-11-10T00:17:27.368789+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Explorer 39mm Oyster Bracelet 214270",
-  "total": 10255.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128185812903",
-  "item_id": "v1|128185812903|0",
-  "referencia": "214270",
-  "mercado": {
-   "n": 23,
-   "p25": 8375,
-   "mediana": 9486
-  },
-  "ratio_mercado": 1.224,
-  "motivo": "precio normal (122 % del cuartil bajo de 214270)"
- },
- {
-  "fecha": "2026-11-10T00:17:27.368789+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust- 26mm Pink Index Jubilee 179171 B&P 2015",
-  "total": 13355.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128185811768",
-  "item_id": "v1|128185811768|0",
-  "referencia": "179171",
-  "mercado": {
-   "n": 22,
-   "p25": 10525,
-   "mediana": 11438
-  },
-  "ratio_mercado": 1.269,
-  "motivo": "precio normal (127 % del cuartil bajo de 179171)"
- },
- {
-  "fecha": "2026-11-10T00:17:27.368789+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Explorer 39mm Oyster Bracelet 214270 B&P 2019",
   "total": 10255.0,
   "condicion": "Pre-owned - Excellent",
@@ -10982,5 +10931,68 @@
    "nota": "El título dice acero inoxidable, pero la foto muestra coronilla, pulsadores y subdiales dorados (dos tonos), y la correa no es la del listado. Precio pedido por encima del mercado gris para nuevo con caja y papeles. Verificar referencia y componentes antes de comprar."
   },
   "motivo": "triage: El título dice acero inoxidable, pero la foto muestra coronilla, pulsadores y subdiales dorados (dos tonos), y la correa no es la del listado. Precio pedido por encima del mercado gris para nuevo con caja y papeles. Verificar referencia y componentes antes de comprar. (justo 4800)"
+ },
+ {
+  "fecha": "2026-11-12T00:34:24.592507+00:00",
+  "marca": "Rolex",
+  "titulo": "2012 Rolex 278273 Datejust 31mm Champagne Diamond Jubilee",
+  "total": 14000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900084116686",
+  "item_id": "v1|900084116686|0",
+  "referencia": "278273",
+  "mercado": {
+   "n": 16,
+   "p25": 17450,
+   "mediana": 18764
+  },
+  "ratio_mercado": 0.802,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 8300,
+   "riesgo_autenticidad": "medio",
+   "estado": "Aparenta muy buen estado con caja y papeles, pero sin fotos del fondo de caja ni del movimiento"
+  },
+  "motivo": "Claude descarto: La referencia del título no cuadra con el año. La 278273 es la generación de 2019 en adelante, y el título dice 2012. La ficha da otro año (1980-1989) y dice 'Stainless Steel', cuando el reloj es bicolor acero y oro. Con tantos datos contradictorios hay que dudar de todo el anuncio.; El reloj de las fotos parece una 178273 (2005-2018). Su valor real de mercado es bastante menor que el de una 278273 actual."
+ },
+ {
+  "fecha": "2026-11-12T00:34:24.592507+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Must SolarBeat Small Stainless Steel Watch WSTA0121",
+  "total": 3814.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840119303181",
+  "item_id": "v1|840119303181|0",
+  "referencia": "WSTA0121",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Tank Must SolarBeat (talla pequeña, acero inoxidable)",
+   "referencia": "WSTA0121 (según el título; no puedo verificarla en la imagen)",
+   "precio_justo_usd": 1600,
+   "interesante": false,
+   "nota": "Precio pedido de US$3815 muy por encima del valor de mercado de un Tank Must SolarBeat pequeño de acero usado, aunque esté en excelente estado con caja y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$3815 muy por encima del valor de mercado de un Tank Must SolarBeat pequeño de acero usado, aunque esté en excelente estado con caja y papeles. (justo 1600)"
+ },
+ {
+  "fecha": "2026-11-12T00:34:24.592507+00:00",
+  "marca": "Tudor",
+  "titulo": "Authentic estate Tudor Glamour Date-Day stainless-steel wristwatch",
+  "total": 1369.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237178033734",
+  "item_id": "v1|237178033734|0",
+  "triage": {
+   "modelo": "Tudor Glamour Date-Day (bicolor acero/dorado, esfera champán, ventana MONDAY)",
+   "referencia": null,
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "La foto muestra bisel y brazalete bicolor, pero el título dice solo acero; la discrepancia y un precio ~43 % bajo el mercado sugieren posible listado engañoso o réplica. Verificar antes de comprar."
+  },
+  "motivo": "triage: La foto muestra bisel y brazalete bicolor, pero el título dice solo acero; la discrepancia y un precio ~43 % bajo el mercado sugieren posible listado engañoso o réplica. Verificar antes de comprar. (justo 2400)"
  }
 ]
