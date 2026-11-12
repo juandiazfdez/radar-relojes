@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-10T00:47:26.845314+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 6827 Oyster Datejust 18k Solid Gold 1980s 30mm Midsize Automatic RA732B",
-  "total": 8980.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940079537128",
-  "item_id": "v1|940079537128|0",
-  "referencia": "6827",
-  "mercado": {
-   "n": 20,
-   "p25": 7995,
-   "mediana": 12869
-  },
-  "ratio_mercado": 1.123,
-  "motivo": "precio normal (112 % del cuartil bajo de 6827)"
- },
- {
-  "fecha": "2026-11-10T00:47:26.845314+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay 58 GMT Coke M7939G1A0NRU-0001 Pre-owned Box & Papers 2024",
   "total": 4480.0,
@@ -11006,5 +10989,22 @@
    "nota": "El título mezcla 'Chronoflex' (correa de goma) y '30mm' con una pieza de correa de piel y caja más grande, y la referencia W5101455 no encaja bien con lo que se ve. Con esas dudas y el precio de US$4,000 por encima de un valor estimado de ~US$2,800, no es interesante."
   },
   "motivo": "triage: El título mezcla 'Chronoflex' (correa de goma) y '30mm' con una pieza de correa de piel y caja más grande, y la referencia W5101455 no encaja bien con lo que se ve. Con esas dudas y el precio de US$4,000 por encima de un valor estimado de ~US$2,800, no es interesante. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-12T08:49:45.662796+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster Timepiece Automatic Swiss Watch Men's Luxury Watch Date Silver",
+  "total": 4629.98,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237178741529",
+  "item_id": "v1|237178741529|0",
+  "triage": {
+   "modelo": "Cartier Roadster XL automático de acero (tonneau, esfera plateada, numerales romanos, fecha a las 3)",
+   "referencia": "W62025V3 (aprox., por el aspecto; no verificable en la foto)",
+   "precio_justo_usd": 4800,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para acero sin confirmar caja ni papeles; el título es genérico y no indica referencia, así que conviene pedir número de serie y fotos del reverso antes de comprar."
+  },
+  "motivo": "triage: Precio cercano al mercado para acero sin confirmar caja ni papeles; el título es genérico y no indica referencia, así que conviene pedir número de serie y fotos del reverso antes de comprar. (justo 4800)"
  }
 ]
