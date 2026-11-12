@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-10T00:47:26.845314+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Day-Date 18038 36 yellow gold Mother of Pearl President 1985 Box",
-  "total": 18054.95,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880100531948",
-  "item_id": "v1|880100531948|0",
-  "referencia": "18038",
-  "mercado": {
-   "n": 17,
-   "p25": 8970,
-   "mediana": 10459
-  },
-  "ratio_mercado": 2.013,
-  "motivo": "precio normal (201 % del cuartil bajo de 18038)"
- },
- {
-  "fecha": "2026-11-10T00:47:26.845314+00:00",
-  "marca": "Rolex",
-  "titulo": "2023 Rolex Daytona 126515 LN 18K Rose Gold Sundust Oysterflex Rubber Box Papers",
-  "total": 54053.11,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267839103939",
-  "item_id": "v1|267839103939|0",
-  "referencia": "126515",
-  "mercado": {
-   "n": 5,
-   "p25": 49998,
-   "mediana": 55000
-  },
-  "ratio_mercado": 1.081,
-  "motivo": "precio normal (108 % del cuartil bajo de 126515)"
- },
- {
-  "fecha": "2026-11-10T00:47:26.845314+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex 16014 Datejust 36mm 18k Gold SS Mens 1980s Vintage Automatic RA853B",
   "total": 8960.0,
   "condicion": "Pre-owned - Good",
@@ -10994,5 +10960,45 @@
   },
   "ratio_mercado": 1.034,
   "motivo": "precio normal (103 % del cuartil bajo de 16220)"
+ },
+ {
+  "fecha": "2026-11-12T05:04:35.386433+00:00",
+  "marca": "Rolex",
+  "titulo": "eLive- Rolex Land-Dweller 40mm 127334",
+  "total": 1.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/128190020667",
+  "item_id": "v1|128190020667|0",
+  "referencia": "127334",
+  "mercado": {
+   "n": 18,
+   "p25": 25325,
+   "mediana": 25774
+  },
+  "ratio_mercado": 0.0,
+  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
+ },
+ {
+  "fecha": "2026-11-12T05:04:35.386433+00:00",
+  "marca": "Rolex",
+  "titulo": "New 2026 Rolex Land Dweller 127234 36mm Stainless 09/07/26 land-dweller B&P",
+  "total": 19965.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/960185519261",
+  "item_id": "v1|960185519261|0",
+  "referencia": "127234",
+  "mercado": {
+   "n": 4,
+   "p25": 19995,
+   "mediana": 20470
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 36 (acero con bisel acanalado, esfera blanca, brazalete Jubilee; la foto no muestra un Land-Dweller)",
+   "referencia": "127234 (según el título; la foto parece una Datejust 36)",
+   "precio_justo_usd": 11000,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del mercado secundario para una Datejust 36 nueva; el título menciona Land-Dweller, que no coincide con lo que se ve, y la fecha '09/07/26' es inconsistente. Verificar identidad y papeles antes de considerar."
+  },
+  "motivo": "triage: Precio pedido muy por encima del mercado secundario para una Datejust 36 nueva; el título menciona Land-Dweller, que no coincide con lo que se ve, y la fecha '09/07/26' es inconsistente. Verificar identidad y papeles antes de considerar. (justo 11000)"
  }
 ]
