@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-10T01:32:26.942801+00:00",
   "marca": "Tudor",
-  "titulo": "Tudor Black Bay - 41mm - 7941A1A0NU - Jubilee Bracelet - 2024 Full Set",
-  "total": 4250.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/168851294699",
-  "item_id": "v1|168851294699|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 41 (esfera negra, bisel negro, brazalete Jubilee)",
-   "referencia": "M7941A1A0NU",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido de US$4250 está por encima del valor de mercado secundario para un 2024 con caja y papeles; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$4250 está por encima del valor de mercado secundario para un 2024 con caja y papeles; no es una oportunidad. (justo 3300)"
- },
- {
-  "fecha": "2026-11-10T01:32:26.942801+00:00",
-  "marca": "Tudor",
   "titulo": "2026 Tudor Black Bay 41mm Monochrome Jubilee M7941A1A0NU Full Set 2031 Warranty",
   "total": 4495.0,
   "condicion": "Pre-owned - Excellent",
@@ -11000,5 +10983,22 @@
   },
   "ratio_mercado": 1.097,
   "motivo": "precio normal (110 % del cuartil bajo de W6920047)"
+ },
+ {
+  "fecha": "2026-11-12T14:34:54.792141+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II ROOTBEER 18kt Rose Gold & Steel 40mm 126711CHNR B&P",
+  "total": 22500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366804789042",
+  "item_id": "v1|366804789042|0",
+  "referencia": "126711CHNR",
+  "mercado": {
+   "n": 100,
+   "p25": 20819,
+   "mediana": 21734
+  },
+  "ratio_mercado": 1.081,
+  "motivo": "precio normal (108 % del cuartil bajo de 126711CHNR)"
  }
 ]
