@@ -1,119 +1,5 @@
 [
  {
-  "fecha": "2026-11-10T17:02:57.280703+00:00",
-  "marca": "Rolex",
-  "titulo": "2025 Rolex Daytona 126518 LN Turquoise Blue Oysterflex 18K Gold Watch Box Papers",
-  "total": 98108.81,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940081338632",
-  "item_id": "v1|940081338632|0",
-  "referencia": "126518",
-  "mercado": {
-   "n": 6,
-   "p25": 56288,
-   "mediana": 61694
-  },
-  "ratio_mercado": 1.743,
-  "motivo": "precio normal (174 % del cuartil bajo de 126518)"
- },
- {
-  "fecha": "2026-11-10T17:17:57.487533+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Dayton With Box and Paper. Sold As Is",
-  "total": 39000.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/168852828838",
-  "item_id": "v1|168852828838|0",
-  "triage": {
-   "modelo": "Rolex Cosmograph Daytona (esfera blanca, acero)",
-   "referencia": "16520 (probable, generación Zenith; confirmar en la foto del caso y del movimiento)",
-   "precio_justo_usd": 30000,
-   "interesante": false,
-   "nota": "Pedido de US$39.000 está por encima del precio de venta cerrada para un 16520 en estado Fair, vendido as is, aunque incluya caja y papeles."
-  },
-  "motivo": "triage: Pedido de US$39.000 está por encima del precio de venta cerrada para un 16520 en estado Fair, vendido as is, aunque incluya caja y papeles. (justo 30000)"
- },
- {
-  "fecha": "2026-11-10T17:17:57.487533+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date President 18338 Ferrite Roman Diamond 18K Gold 36mm Box Papers",
-  "total": 51188.82,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940081383088",
-  "item_id": "v1|940081383088|0",
-  "referencia": "18338",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Day-Date President en oro amarillo de 18K con bisel y eslabones de diamantes, esfera negra con números romanos (ferrita)",
-   "referencia": "18338",
-   "precio_justo_usd": 38000,
-   "interesante": false,
-   "nota": "Precio pedido de US$51,189 queda muy por encima del valor de venta cerrada estimado para esta referencia con esfera especial; no es oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$51,189 queda muy por encima del valor de venta cerrada estimado para esta referencia con esfera especial; no es oportunidad. (justo 38000)"
- },
- {
-  "fecha": "2026-11-10T17:17:57.487533+00:00",
-  "marca": "Rolex",
-  "titulo": "2017 Rolex Submariner Date 116618 LN Black 40mm Ceramic 18K Gold Box Papers",
-  "total": 36908.4,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940081371187",
-  "item_id": "v1|940081371187|0",
-  "referencia": "116618",
-  "mercado": {
-   "n": 26,
-   "p25": 37895,
-   "mediana": 38472
-  },
-  "ratio_mercado": 0.974,
-  "motivo": "precio normal (97 % del cuartil bajo de 116618)"
- },
- {
-  "fecha": "2026-11-10T17:17:57.487533+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Royal Day-Date 40mm SS 28600 B&P 2026",
-  "total": 3539.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377635416739",
-  "item_id": "v1|377635416739|0",
-  "referencia": "28600",
-  "mercado": {
-   "n": 8,
-   "p25": 2680,
-   "mediana": 2850
-  },
-  "ratio_mercado": 1.321,
-  "motivo": "precio normal (132 % del cuartil bajo de 28600)"
- },
- {
-  "fecha": "2026-11-10T17:17:57.487533+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Heritage Chrono M70330B-0004 SS",
-  "total": 5039.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377635416639",
-  "item_id": "v1|377635416639|0",
-  "referencia": "M70330B-0004",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Tudor Heritage Chrono (bisel azul, esfera plateada, acero)",
-   "referencia": "M70330B-0004",
-   "precio_justo_usd": 4200,
-   "interesante": false,
-   "nota": "Precio pedido de US$5040 por un modelo de producción actual usado en estado Good; el mercado secundario lo sitúa por debajo de ese monto, así que no hay descuento real."
-  },
-  "motivo": "triage: Precio pedido de US$5040 por un modelo de producción actual usado en estado Good; el mercado secundario lo sitúa por debajo de ese monto, así que no hay descuento real. (justo 4200)"
- },
- {
   "fecha": "2026-11-10T17:17:57.487533+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay GMT Master II SS/Yellow Gold 79833MN",
@@ -10968,5 +10854,114 @@
    "nota": "Pedido de US$4425 por una pieza 2024 de uso con set completo está al nivel o por encima del precio de venta secundario, no por debajo."
   },
   "motivo": "triage: Pedido de US$4425 por una pieza 2024 de uso con set completo está al nivel o por encima del precio de venta secundario, no por debajo. (justo 3600)"
+ },
+ {
+  "fecha": "2026-11-12T20:35:06.670417+00:00",
+  "marca": "Rolex",
+  "titulo": "Unworn Rolex Oyster Perpetual 134300 Full Set",
+  "total": 12300.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206696184436",
+  "item_id": "v1|206696184436|0",
+  "referencia": "134300",
+  "mercado": {
+   "n": 45,
+   "p25": 11370,
+   "mediana": 12195
+  },
+  "ratio_mercado": 1.082,
+  "motivo": "precio normal (108 % del cuartil bajo de 134300)"
+ },
+ {
+  "fecha": "2026-11-12T20:35:06.670417+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT Bruce Wayne GMT 04/2024 FULL SET 126710GRNR Jubilee Bracelet",
+  "total": 22500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366805631120",
+  "item_id": "v1|366805631120|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 97,
+   "p25": 22350,
+   "mediana": 23498
+  },
+  "ratio_mercado": 1.007,
+  "motivo": "precio normal (101 % del cuartil bajo de 126710GRNR)"
+ },
+ {
+  "fecha": "2026-11-12T20:35:06.670417+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Lady-Datejust NEW 2026 Purple Aubergine Diamond Two Tone Fluted Oyster",
+  "total": 20995.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800909350177",
+  "item_id": "v1|800909350177|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 28 mm, acero y Everose con bisel acanalado de oro blanco, esfera aubergine con diamantes, brazalete Oyster",
+   "referencia": "279171",
+   "precio_justo_usd": 17500,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de mercado estimado para una nueva con caja y papeles; el acero y oro actual de Rolex suele venderse sobre retail, no con descuento."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de mercado estimado para una nueva con caja y papeles; el acero y oro actual de Rolex suele venderse sobre retail, no con descuento. (justo 17500)"
+ },
+ {
+  "fecha": "2026-11-12T20:35:06.670417+00:00",
+  "marca": "Rolex",
+  "titulo": "1975 Rolex Cellini 4318, 24.5mm, Gold Dial, 18K Yellow Gold Ladies Watch",
+  "total": 10100.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168857905767",
+  "item_id": "v1|168857905767|0",
+  "triage": {
+   "modelo": "Rolex Cellini (cushion, oro amarillo 18K)",
+   "referencia": "4318",
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "Precio pedido muy superior al valor de mercado; la imagen no confirma el logo ni la referencia, así que conviene verificar autenticidad."
+  },
+  "motivo": "triage: Precio pedido muy superior al valor de mercado; la imagen no confirma el logo ni la referencia, así que conviene verificar autenticidad. (justo 4500)"
+ },
+ {
+  "fecha": "2026-11-12T20:35:06.670417+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Heritage Black Bay Blue 79230B Automatic Men's Watch 41mm Steel",
+  "total": 2800.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/336894518247",
+  "item_id": "v1|336894518247|0",
+  "referencia": "79230B",
+  "mercado": {
+   "n": 8,
+   "p25": 3450,
+   "mediana": 3508
+  },
+  "ratio_mercado": 0.812,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 2850,
+   "riesgo_autenticidad": "medio",
+   "estado": "Desgaste visible: rayones y marcas en caja y brazalete, sin pulir, sin caja ni papeles"
+  },
+  "ratio_justo": 0.982,
+  "motivo": "precio normal segun revision (98 % del justo 2850)"
+ },
+ {
+  "fecha": "2026-11-12T20:35:06.670417+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 41",
+  "total": 4900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137925665829",
+  "item_id": "v1|137925665829|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 41 (acero)",
+   "referencia": "M79540 (probable, no verificable en la foto)",
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "La foto solo muestra una caja blanca, no el reloj. Pedido de US$4900 está muy por encima de lo que se vende un BB41 de acero usado en excelente estado."
+  },
+  "motivo": "triage: La foto solo muestra una caja blanca, no el reloj. Pedido de US$4900 está muy por encima de lo que se vende un BB41 de acero usado en excelente estado. (justo 3600)"
  }
 ]
