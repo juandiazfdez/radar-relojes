@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-10T19:32:56.650573+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Datejust 18k Yellow Gold/Steel Silver Diamond Dial/Bezel 36mm Watch 116243",
-  "total": 17650.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366799932645",
-  "item_id": "v1|366799932645|0",
-  "referencia": "116243",
-  "mercado": {
-   "n": 37,
-   "p25": 15567,
-   "mediana": 15990
-  },
-  "ratio_mercado": 1.134,
-  "motivo": "precio normal (113 % del cuartil bajo de 116243)"
- },
- {
-  "fecha": "2026-11-10T19:32:56.650573+00:00",
-  "marca": "Rolex",
-  "titulo": "2001 Rolex Datejust 26mm 79178 Full Set Ladies 18k Yellow Gold Vintage Watch",
-  "total": 12600.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940081642255",
-  "item_id": "v1|940081642255|0",
-  "triage": {
-   "modelo": "Rolex Lady-Datejust 26 mm, oro amarillo 18k, bisel acanalado, esfera champán con marcadores de diamante, brazalete President",
-   "referencia": "79178",
-   "precio_justo_usd": 8500,
-   "interesante": false,
-   "nota": "Precio pedido bastante por encima del valor de venta cerrada de un 79178 de 2001 en estado Good; verificar esfera de diamantes y autenticidad antes de cualquier oferta."
-  },
-  "motivo": "triage: Precio pedido bastante por encima del valor de venta cerrada de un 79178 de 2001 en estado Good; verificar esfera de diamantes y autenticidad antes de cualquier oferta. (justo 8500)"
- },
- {
-  "fecha": "2026-11-10T19:32:56.650573+00:00",
-  "marca": "Rolex",
   "titulo": "NEW 2026 UNWORN Rolex Oyster Perpetual LAVENDER Steel 36mm 126000 (FULL SET)",
   "total": 13160.0,
   "condicion": "New with box and papers",
@@ -10941,5 +10907,39 @@
    "nota": "El precio pedido de US$1999 está muy por encima de lo que se vende realmente una Tank Solo chapada en oro de 27 mm en estado 'Fair'. Sin confirmar la referencia exacta ni el material, la estimación es conservadora."
   },
   "motivo": "triage: El precio pedido de US$1999 está muy por encima de lo que se vende realmente una Tank Solo chapada en oro de 27 mm en estado 'Fair'. Sin confirmar la referencia exacta ni el material, la estimación es conservadora. (justo 900)"
+ },
+ {
+  "fecha": "2026-11-12T22:50:06.208631+00:00",
+  "marca": "Rolex",
+  "titulo": "1985 Rolex Submariner Date Bluesy 16803 40MM Blue Two-Tone 18K Yg",
+  "total": 11750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117518262002",
+  "item_id": "v1|117518262002|0",
+  "referencia": "16803",
+  "mercado": {
+   "n": 18,
+   "p25": 9878,
+   "mediana": 10950
+  },
+  "ratio_mercado": 1.19,
+  "motivo": "precio normal (119 % del cuartil bajo de 16803)"
+ },
+ {
+  "fecha": "2026-11-12T22:50:06.208631+00:00",
+  "marca": "Cartier",
+  "titulo": "Ladies' Cartier Vendome Quartz watch in 18K Yellow Gold w/Diamonds Ref.8057921",
+  "total": 3500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327453240269",
+  "item_id": "v1|327453240269|0",
+  "triage": {
+   "modelo": "Cartier Must de Cartier Vendome (cuarzo, señora), según la foto",
+   "referencia": null,
+   "precio_justo_usd": 2000,
+   "interesante": false,
+   "nota": "La foto muestra una caja dorada sin diamantes visibles, posiblemente vermeil y no oro 18K; la referencia 8057921 no es verificable y el precio pedido no está 15 % por debajo del valor real."
+  },
+  "motivo": "triage: La foto muestra una caja dorada sin diamantes visibles, posiblemente vermeil y no oro 18K; la referencia 8057921 no es verificable y el precio pedido no está 15 % por debajo del valor real. (justo 2000)"
  }
 ]
