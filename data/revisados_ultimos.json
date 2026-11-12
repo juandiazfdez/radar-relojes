@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-10T15:47:57.782324+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Yacht-Master II 116688 Full Set Yachtmaster Complete Set Box & Papers 2021",
-  "total": 42150.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800900394605",
-  "item_id": "v1|800900394605|0",
-  "referencia": "116688",
-  "mercado": {
-   "n": 36,
-   "p25": 39905,
-   "mediana": 42906
-  },
-  "ratio_mercado": 1.056,
-  "motivo": "precio normal (106 % del cuartil bajo de 116688)"
- },
- {
-  "fecha": "2026-11-10T15:47:57.782324+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 126710GRNR GMT Master II on Jubilee",
-  "total": 24725.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/920126687398",
-  "item_id": "v1|920126687398|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 65,
-   "p25": 21410,
-   "mediana": 22825
-  },
-  "ratio_mercado": 1.155,
-  "motivo": "precio normal (115 % del cuartil bajo de 126710GRNR)"
- },
- {
-  "fecha": "2026-11-10T15:47:57.782324+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex GMT-Master II \"Root Beer\" Oyster Black Ceramic 126711CHNR 2021",
   "total": 18800.0,
   "condicion": "Pre-owned - Good",
@@ -10944,5 +10910,39 @@
   },
   "ratio_mercado": 0.897,
   "motivo": "precio normal (90 % del cuartil bajo de 126233)"
+ },
+ {
+  "fecha": "2026-11-12T18:34:54.854519+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Day-Date 36, 18238, Yellow Gold, Champagne Linen Dial, Presiden...",
+  "total": 24916.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/800908985532",
+  "item_id": "v1|800908985532|0",
+  "referencia": "18238",
+  "mercado": {
+   "n": 35,
+   "p25": 15667,
+   "mediana": 20990
+  },
+  "ratio_mercado": 1.59,
+  "motivo": "precio normal (159 % del cuartil bajo de 18238)"
+ },
+ {
+  "fecha": "2026-11-12T18:34:54.854519+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II Black Dial/Bezel Stainless Bracelet Auto 40mm Box",
+  "total": 10010.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407358572174",
+  "item_id": "v1|407358572174|0",
+  "triage": {
+   "modelo": "Rolex GMT-Master II, esfera y bisel negros, brazalete de acero, 40 mm, automático",
+   "referencia": "116710LN (probable, por bisel de aluminio negro y esfera negra; no verificable con la foto)",
+   "precio_justo_usd": 10500,
+   "interesante": false,
+   "nota": "Precio pedido en línea con el mercado secundario para esta referencia; la foto es de baja resolución y no permite verificar autenticidad ni estado."
+  },
+  "motivo": "triage: Precio pedido en línea con el mercado secundario para esta referencia; la foto es de baja resolución y no permite verificar autenticidad ni estado. (justo 10500)"
  }
 ]
