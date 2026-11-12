@@ -16995,13 +16995,13 @@
   "max": 4999
  },
  "Tudor M79363N|nuevo": {
-  "fecha": "2026-10-31",
+  "fecha": "2026-11-12",
   "consulta": "Tudor M79363N",
   "n": 4,
-  "mediana": 7180,
-  "p25": 6865,
+  "mediana": 6985,
+  "p25": 6849,
   "p75": 9000,
-  "min": 6849,
+  "min": 6675,
   "max": 9000
  },
  "Omega 413.25.27.60.55.001|usado": {
@@ -20943,5 +20943,35 @@
   "p75": 3414,
   "min": 3414,
   "max": 3414
+ },
+ "Cartier WSBB0067|nuevo": {
+  "fecha": "2026-11-12",
+  "consulta": "Cartier WSBB0067",
+  "n": 0
+ },
+ "Cartier WGBB0007|nuevo": {
+  "fecha": "2026-11-12",
+  "consulta": "Cartier WGBB0007",
+  "n": 0
+ },
+ "Cartier W4BB0029|nuevo": {
+  "fecha": "2026-11-12",
+  "consulta": "Cartier W4BB0029",
+  "n": 0
+ },
+ "Cartier WSTA0121|nuevo": {
+  "fecha": "2026-11-12",
+  "consulta": "Cartier WSTA0121",
+  "n": 0
+ },
+ "Cartier W5330004|nuevo": {
+  "fecha": "2026-11-12",
+  "consulta": "Cartier W5330004",
+  "n": 1,
+  "mediana": 8995,
+  "p25": 8995,
+  "p75": 8995,
+  "min": 8995,
+  "max": 8995
  }
 }
