@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-10T16:32:57.049552+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu de Cartier Quartz Watch Stainless Steel 28",
-  "total": 5545.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128187107034",
-  "item_id": "v1|128187107034|0",
-  "triage": {
-   "modelo": "Cartier Ballon Bleu de Cartier 28 mm cuarzo, acero, esfera plateada con números romanos",
-   "referencia": "W69010Z4",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Precio pedido de US$5545 muy por encima del valor de mercado de uso para esta referencia de 28 mm en acero; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$5545 muy por encima del valor de mercado de uso para esta referencia de 28 mm en acero; no es una oportunidad. (justo 3000)"
- },
- {
-  "fecha": "2026-11-10T16:47:57.556687+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, Blue Roman Dial, Steel & White Gold, 16234",
-  "total": 9078.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/206689949643",
-  "item_id": "v1|206689949643|0",
-  "referencia": "16234",
-  "mercado": {
-   "n": 33,
-   "p25": 6160,
-   "mediana": 6500
-  },
-  "ratio_mercado": 1.474,
-  "motivo": "precio normal (147 % del cuartil bajo de 16234)"
- },
- {
   "fecha": "2026-11-10T16:47:57.556687+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 36, 16234, Steel & White Gold, White Roman Dial, Oyster Bracel...",
@@ -10956,5 +10922,45 @@
   },
   "ratio_mercado": 1.129,
   "motivo": "precio normal (113 % del cuartil bajo de 79030N)"
+ },
+ {
+  "fecha": "2026-11-12T19:50:06.231710+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1978 Rolex Day Date 18k Yellow Gold 36mm Automatic Watch President",
+  "total": 15499.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800909267849",
+  "item_id": "v1|800909267849|0",
+  "triage": {
+   "modelo": "Rolex Day-Date 36 mm oro amarillo 18k, bisel acanalado, esfera champán con indicadores de barra, brazalete President",
+   "referencia": "18038 (generación de 1977-1988, según el año indicado)",
+   "precio_justo_usd": 16000,
+   "interesante": false,
+   "nota": "Precio pedido de US$15.500 queda solo unos 3 % por debajo del valor estimado para este estado; sin caja ni papeles, no alcanza el umbral del 15 %."
+  },
+  "motivo": "triage: Precio pedido de US$15.500 queda solo unos 3 % por debajo del valor estimado para este estado; sin caja ni papeles, no alcanza el umbral del 15 %. (justo 16000)"
+ },
+ {
+  "fecha": "2026-11-12T19:50:06.231710+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX OYSTER PERPETUAL #6618",
+  "total": 2250.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407356256900",
+  "item_id": "v1|407356256900|0",
+  "referencia": "6618",
+  "mercado": {
+   "n": 9,
+   "p25": 2650,
+   "mediana": 3500
+  },
+  "ratio_mercado": 0.849,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 1800,
+   "riesgo_autenticidad": "medio",
+   "estado": "Vintage con desgaste visible: esfera envejecida y con marcas, brazalete con holgura probable, sin fotos del fondo ni del movimiento"
+  },
+  "motivo": "Claude descarto: El precio de US$2,250 queda por encima del valor realista de venta cerrada. Un 6618 de acero en estado 'bueno', sin caja ni papeles y sin servicio documentado, suele cerrar en US$1,600-2,100. Los comparables de eBay (cuartil bajo 2,650, mediana 3,500) son precios pedidos e inflados, así que no sirven de referencia.; No hay fotos del fondo de caja, del número de serie y referencia entre las asas, ni del movimiento. No se puede verificar que la serie corresponda a 1968 ni que el calibre sea original. Es un requisito mínimo para comprar un vintage."
  }
 ]
