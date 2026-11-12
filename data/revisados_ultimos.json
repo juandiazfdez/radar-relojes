@@ -2,63 +2,6 @@
  {
   "fecha": "2026-11-10T19:47:57.367351+00:00",
   "marca": "Rolex",
-  "titulo": "2015 MINT Rolex 116710LN GMT Master II Steel Ceramic Black 40mm Watch Box",
-  "total": 12617.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287719490864",
-  "item_id": "v1|287719490864|0",
-  "referencia": "116710LN",
-  "mercado": {
-   "n": 39,
-   "p25": 14539,
-   "mediana": 15900
-  },
-  "ratio_mercado": 0.868,
-  "motivo": "precio normal (87 % del cuartil bajo de 116710LN)"
- },
- {
-  "fecha": "2026-11-10T19:47:57.367351+00:00",
-  "marca": "Rolex",
-  "titulo": "PAPERS 2006 MINT Rolex 16710BLRO GMT-Master II Pepsi Blue Red Rectangular Error",
-  "total": 16657.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287719490831",
-  "item_id": "v1|287719490831|0",
-  "referencia": "16710BLRO",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex GMT-Master II 'Pepsi' de acero con bisel de aluminio azul/rojo (generación anterior a 2007)",
-   "referencia": "16710BLRO",
-   "precio_justo_usd": 14000,
-   "interesante": false,
-   "nota": "Precio pedido por encima de la estimación conservadora de venta cerrada con papeles y caja de 2006; la supuesta variante 'Rectangular Error' no está verificada y no justifica una prima."
-  },
-  "motivo": "triage: Precio pedido por encima de la estimación conservadora de venta cerrada con papeles y caja de 2006; la supuesta variante 'Rectangular Error' no está verificada y no justifica una prima. (justo 14000)"
- },
- {
-  "fecha": "2026-11-10T19:47:57.367351+00:00",
-  "marca": "Rolex",
-  "titulo": "2020 MINT PAPERS Rolex Yacht-Master 226659 White Gold 42mm Oysterflex Watch Box",
-  "total": 31302.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307276348758",
-  "item_id": "v1|307276348758|0",
-  "referencia": "226659",
-  "mercado": {
-   "n": 23,
-   "p25": 30043,
-   "mediana": 32958
-  },
-  "ratio_mercado": 1.042,
-  "motivo": "precio normal (104 % del cuartil bajo de 226659)"
- },
- {
-  "fecha": "2026-11-10T19:47:57.367351+00:00",
-  "marca": "Rolex",
   "titulo": "2008 MINT Rolex Explorer II 16570 Stainless Steel Black Date 3186 40mm Watch Box",
   "total": 9082.05,
   "condicion": "Pre-owned - Excellent",
@@ -10947,5 +10890,62 @@
    "nota": "Precio pedido de US$14,500 está muy por encima de la venta real de esta referencia de 2023 con caja y papeles (aprox. US$11,500-12,500). La foto es pequeña y no permite confirmar el bisel acanalado."
   },
   "motivo": "triage: Precio pedido de US$14,500 está muy por encima de la venta real de esta referencia de 2023 con caja y papeles (aprox. US$11,500-12,500). La foto es pequeña y no permite confirmar el bisel acanalado. (justo 12000)"
+ },
+ {
+  "fecha": "2026-11-12T23:50:06.204241+00:00",
+  "marca": "Rolex",
+  "titulo": "VINTAGE ROLEX OYSTERQUARTZ 5035 DATEJUST SUPERLATIVE WATCH MENS 17000B WORKS!",
+  "total": 4695.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/900086710059",
+  "item_id": "v1|900086710059|0",
+  "referencia": "5035",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust bicolor (acero y oro amarillo), esfera champán, bisel acanalado de oro, brazalete Jubilee; el título menciona Oysterquartz",
+   "referencia": "17000B (según título; la imagen no permite confirmarla y el título mezcla 5035, que es un calibre)",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Título y fotos no coinciden del todo (la esfera y el brazalete parecen un Datejust automático, no un Oysterquartz); en estado Fair el precio pedido de 4695 USD no está por debajo del mercado."
+  },
+  "motivo": "triage: Título y fotos no coinciden del todo (la esfera y el brazalete parecen un Datejust automático, no un Oysterquartz); en estado Fair el precio pedido de 4695 USD no está por debajo del mercado. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-12T23:50:06.204241+00:00",
+  "marca": "Rolex",
+  "titulo": "Unworn Rolex Sky-Dweller 336934 Full Set",
+  "total": 29450.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206696856824",
+  "item_id": "v1|206696856824|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller (esfera verde menta, bisel de oro blanco estriado, brazalete Jubilee de acero)",
+   "referencia": "336934",
+   "precio_justo_usd": 25000,
+   "interesante": false,
+   "nota": "El precio pedido de US$29.450 está por encima del valor de venta cerrada estimado para esta referencia nueva en EE. UU. No es una oportunidad; verificar la referencia exacta en la caja y los papeles."
+  },
+  "motivo": "triage: El precio pedido de US$29.450 está por encima del valor de venta cerrada estimado para esta referencia nueva en EE. UU. No es una oportunidad; verificar la referencia exacta en la caja y los papeles. (justo 25000)"
+ },
+ {
+  "fecha": "2026-11-12T23:50:06.204241+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise W50002N2 Yellow Gold Ladies Watch Box Papers",
+  "total": 19699.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366806036174",
+  "item_id": "v1|366806036174|0",
+  "triage": {
+   "modelo": "Cartier Tank Française (oro amarillo, talla mediana, cuarzo, brazalete integrado)",
+   "referencia": "W50002N2",
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "Con el dial de números romanos y brazalete de oro amarillo, es coherente con la referencia del título. El precio pedido de US$19,699 supera el valor de mercado secundario estimado para un modelo usado con caja y papeles."
+  },
+  "motivo": "triage: Con el dial de números romanos y brazalete de oro amarillo, es coherente con la referencia del título. El precio pedido de US$19,699 supera el valor de mercado secundario estimado para un modelo usado con caja y papeles. (justo 14000)"
  }
 ]
