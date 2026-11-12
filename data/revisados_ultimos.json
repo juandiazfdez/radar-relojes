@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-10T16:47:57.556687+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Datejust 36, 16234, Steel & White Gold, White Roman Dial, Oyster Bracel...",
-  "total": 8779.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/206689949552",
-  "item_id": "v1|206689949552|0",
-  "referencia": "16234",
-  "mercado": {
-   "n": 33,
-   "p25": 6160,
-   "mediana": 6500
-  },
-  "ratio_mercado": 1.425,
-  "motivo": "precio normal (143 % del cuartil bajo de 16234)"
- },
- {
-  "fecha": "2026-11-10T16:47:57.556687+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, 16234, Steel & White Gold, Silver Dial, Oyster Bra...",
-  "total": 8879.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/366799655569",
-  "item_id": "v1|366799655569|0",
-  "referencia": "16234",
-  "mercado": {
-   "n": 33,
-   "p25": 6160,
-   "mediana": 6500
-  },
-  "ratio_mercado": 1.441,
-  "motivo": "precio normal (144 % del cuartil bajo de 16234)"
- },
- {
-  "fecha": "2026-11-10T16:47:57.556687+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual Day-Date Diamond Accent 18k Yellow Gold Men's Wristwatch",
   "total": 23099.99,
   "condicion": "Pre-owned - Good",
@@ -10962,5 +10928,39 @@
    "estado": "Vintage con desgaste visible: esfera envejecida y con marcas, brazalete con holgura probable, sin fotos del fondo ni del movimiento"
   },
   "motivo": "Claude descarto: El precio de US$2,250 queda por encima del valor realista de venta cerrada. Un 6618 de acero en estado 'bueno', sin caja ni papeles y sin servicio documentado, suele cerrar en US$1,600-2,100. Los comparables de eBay (cuartil bajo 2,650, mediana 3,500) son precios pedidos e inflados, así que no sirven de referencia.; No hay fotos del fondo de caja, del número de serie y referencia entre las asas, ni del movimiento. No se puede verificar que la serie corresponda a 1968 ni que el calibre sea original. Es un requisito mínimo para comprar un vintage."
+ },
+ {
+  "fecha": "2026-11-12T20:05:06.596517+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date President BLACK DIAMOND 18K Yellow Gold 36mm 18038 Watch",
+  "total": 16500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227611601416",
+  "item_id": "v1|227611601416|0",
+  "referencia": "18038",
+  "mercado": {
+   "n": 18,
+   "p25": 9165,
+   "mediana": 10484
+  },
+  "ratio_mercado": 1.8,
+  "motivo": "precio normal (180 % del cuartil bajo de 18038)"
+ },
+ {
+  "fecha": "2026-11-12T20:05:06.596517+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos de Cartier Two-Tone Steel/Gold Auto Date 100m Box Papers",
+  "total": 9500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147677920635",
+  "item_id": "v1|147677920635|0",
+  "triage": {
+   "modelo": "Cartier Santos de Cartier XL (Large) bicolor acero/oro amarillo, automático con fecha",
+   "referencia": "W2SA0009 (probable, no confirmada en la foto)",
+   "precio_justo_usd": 8200,
+   "interesante": false,
+   "nota": "Precio pedido de US$9500 queda unos 16 % por encima de una estimación conservadora de venta real; solo la confirmación de referencia y papeles podría cambiar el cálculo."
+  },
+  "motivo": "triage: Precio pedido de US$9500 queda unos 16 % por encima de una estimación conservadora de venta real; solo la confirmación de referencia y papeles podría cambiar el cálculo. (justo 8200)"
  }
 ]
