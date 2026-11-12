@@ -2,57 +2,6 @@
  {
   "fecha": "2026-11-10T00:32:27.399769+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex President Day Date 1803 18k Solid Gold Mens Diamond 1970s Automatic RA659",
-  "total": 16900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257844651221",
-  "item_id": "v1|257844651221|0",
-  "triage": {
-   "modelo": "Rolex Day-Date (President) 36 mm en oro amarillo 18k, bisel acanalado, esfera negra con marcadores de diamante",
-   "referencia": "1803",
-   "precio_justo_usd": 17500,
-   "interesante": false,
-   "nota": "Referencia 1803 de los años 70 con esfera de diamantes; el código 'RA659' del título no es referencia Rolex. Precio cercano al justo, sin descuento suficiente. Verificar esfera original, autenticidad y servicio."
-  },
-  "motivo": "triage: Referencia 1803 de los años 70 con esfera de diamantes; el código 'RA659' del título no es referencia Rolex. Precio cercano al justo, sin descuento suficiente. Verificar esfera original, autenticidad y servicio. (justo 17500)"
- },
- {
-  "fecha": "2026-11-10T00:32:27.399769+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Ref 1601 Datejust Mens 36mm 1970s 18k SS Vintage Automatic RA790B",
-  "total": 8360.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267839095429",
-  "item_id": "v1|267839095429|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Datejust (acero con bisel estriado de oro de 18k, esfera negra)",
-   "referencia": "1601",
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "Ref. 1601 de los años 70 en acero con bisel de oro; el precio pedido de US$8,360 supera con holgura lo que se vende realmente, y la esfera negra y la correa de piel no son la configuración habitual."
-  },
-  "motivo": "triage: Ref. 1601 de los años 70 en acero con bisel de oro; el precio pedido de US$8,360 supera con holgura lo que se vende realmente, y la esfera negra y la correa de piel no son la configuración habitual. (justo 4800)"
- },
- {
-  "fecha": "2026-11-10T00:32:27.399769+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 26mm Champagne Diamond Fluted President Watch&Box 179178",
-  "total": 19995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198784266375",
-  "item_id": "v1|198784266375|0",
-  "referencia": "179178",
-  "mercado": {
-   "n": 15,
-   "p25": 19270,
-   "mediana": 21495
-  },
-  "ratio_mercado": 1.038,
-  "motivo": "precio normal (104 % del cuartil bajo de 179178)"
- },
- {
-  "fecha": "2026-11-10T00:32:27.399769+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Oyster Datejust Ref 1603 Mens 36mm 1960s Vintage Automatic RA684C",
   "total": 7880.0,
   "condicion": "Pre-owned - Good",
@@ -10982,5 +10931,62 @@
   },
   "ratio_mercado": 1.319,
   "motivo": "precio normal (132 % del cuartil bajo de 16014)"
+ },
+ {
+  "fecha": "2026-11-12T03:49:34.860994+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date 218235 “Factory Ruby and Diamond Dial” Full Set",
+  "total": 63650.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206693725074",
+  "item_id": "v1|206693725074|0",
+  "referencia": "218235",
+  "mercado": {
+   "n": 15,
+   "p25": 40989,
+   "mediana": 42995
+  },
+  "ratio_mercado": 1.553,
+  "motivo": "precio normal (155 % del cuartil bajo de 218235)"
+ },
+ {
+  "fecha": "2026-11-12T03:49:34.860994+00:00",
+  "marca": "Rolex",
+  "titulo": "2021 Box + Papers Rolex Explorer II 226570 White Polar Steel Date 42mm Watch EXC",
+  "total": 12432.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366803319123",
+  "item_id": "v1|366803319123|0",
+  "referencia": "226570",
+  "mercado": {
+   "n": 27,
+   "p25": 11975,
+   "mediana": 12850
+  },
+  "ratio_mercado": 1.038,
+  "motivo": "precio normal (104 % del cuartil bajo de 226570)"
+ },
+ {
+  "fecha": "2026-11-12T03:49:34.860994+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Louis Cartier WGTA0357 Watch, Box, and Paper",
+  "total": 15950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206693720579",
+  "item_id": "v1|206693720579|0",
+  "referencia": "WGTA0357",
+  "mercado": {
+   "n": 1,
+   "p25": 16419,
+   "mediana": 16419
+  },
+  "triage": {
+   "modelo": "Cartier Tank Louis Cartier (talla grande, automático) en caja dorada",
+   "referencia": "WGTA0357",
+   "precio_justo_usd": 13500,
+   "interesante": false,
+   "nota": "El material exacto no se confirma en el listado; si es oro amarillo macizo, el precio pedido está cerca del mercado, y si es acero con chapa de oro, está muy por encima."
+  },
+  "motivo": "triage: El material exacto no se confirma en el listado; si es oro amarillo macizo, el precio pedido está cerca del mercado, y si es acero con chapa de oro, está muy por encima. (justo 13500)"
  }
 ]
