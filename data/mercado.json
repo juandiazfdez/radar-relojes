@@ -6555,7 +6555,7 @@
   "max": 8900
  },
  "Rolex 126334|usado": {
-  "fecha": "2026-11-11",
+  "fecha": "2026-11-12",
   "consulta": "Rolex 126334",
   "n": 0
  },
@@ -7155,23 +7155,23 @@
   "max": 25999
  },
  "Cartier WSTA0016|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-11-12",
   "consulta": "Cartier WSTA0016",
-  "n": 1,
-  "mediana": 3999,
-  "p25": 3999,
+  "n": 2,
+  "mediana": 3812,
+  "p25": 3625,
   "p75": 3999,
-  "min": 3999,
+  "min": 3625,
   "max": 3999
  },
  "Cartier WSSA0018|usado": {
-  "fecha": "2026-11-09",
+  "fecha": "2026-11-12",
   "consulta": "Cartier WSSA0018",
-  "n": 32,
-  "mediana": 9750,
-  "p25": 8175,
-  "p75": 15000,
-  "min": 6020,
+  "n": 30,
+  "mediana": 10000,
+  "p25": 8225,
+  "p75": 18510,
+  "min": 6932,
   "max": 28000
  },
  "Cartier W1501856|usado": {
@@ -13260,13 +13260,13 @@
   "n": 0
  },
  "Tudor 79030N|usado": {
-  "fecha": "2026-11-09",
+  "fecha": "2026-11-12",
   "consulta": "Tudor 79030N",
   "n": 13,
   "mediana": 3971,
-  "p25": 3840,
+  "p25": 3750,
   "p75": 4200,
-  "min": 3400,
+  "min": 2900,
   "max": 4395
  },
  "Breitling A25362|usado": {
@@ -21073,5 +21073,25 @@
   "p75": 23895,
   "min": 20650,
   "max": 23895
+ },
+ "Rolex 268622|nuevo": {
+  "fecha": "2026-11-12",
+  "consulta": "Rolex 268622",
+  "n": 1,
+  "mediana": 15604,
+  "p25": 15604,
+  "p75": 15604,
+  "min": 15604,
+  "max": 15604
+ },
+ "Cartier 2742|usado": {
+  "fecha": "2026-11-12",
+  "consulta": "Cartier 2742",
+  "n": 2,
+  "mediana": 6908,
+  "p25": 6372,
+  "p75": 7445,
+  "min": 6372,
+  "max": 7445
  }
 }
