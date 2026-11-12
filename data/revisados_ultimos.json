@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-10T12:32:47.243408+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ronde Solo De Cartier Quartz Stainless Steel Watch",
-  "total": 2527.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267839592568",
-  "item_id": "v1|267839592568|0",
-  "triage": {
-   "modelo": "Cartier Ronde Solo de Cartier, cuarzo, acero, esfera plateada con numeración romana (tamaño no confirmado en el listado)",
-   "referencia": "WSRN0017 (probable, 36 mm; no confirmada)",
-   "precio_justo_usd": 2400,
-   "interesante": false,
-   "nota": "Precio pedido de US$2527 con envío, algo por encima de lo que se vende un Ronde Solo de cuarzo de acero en buen estado. Sin tamaño ni papeles en el listado, y el margen no llega al 15 %."
-  },
-  "motivo": "triage: Precio pedido de US$2527 con envío, algo por encima de lo que se vende un Ronde Solo de cuarzo de acero en buen estado. Sin tamaño ni papeles en el listado, y el margen no llega al 15 %. (justo 2400)"
- },
- {
-  "fecha": "2026-11-10T12:32:47.243408+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Clair De Rose Automatic Stainless Steel / Stainless Steel Watch",
-  "total": 1856.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820338373562",
-  "item_id": "v1|820338373562|0",
-  "triage": {
-   "modelo": "Tudor Clair de Rose Automatic (acero, esfera blanca con numerales romanos azules)",
-   "referencia": null,
-   "precio_justo_usd": 1300,
-   "interesante": false,
-   "nota": "Modelo de acero de tamaño mediano, con referencia no visible. Precio pedido por encima del estimado de venta real para estado Good."
-  },
-  "motivo": "triage: Modelo de acero de tamaño mediano, con referencia no visible. Precio pedido por encima del estimado de venta real para estado Good. (justo 1300)"
- },
- {
   "fecha": "2026-11-10T13:02:46.691085+00:00",
   "marca": "Rolex",
   "titulo": "Rolex GMT-Master II Batgirl 2026 Jubilee Steel Automatic 40mm Box Papers",
@@ -10932,5 +10898,39 @@
    "nota": "Precio ~67 % por debajo del mercado para oro amarillo nuevo; es señal de réplica o listado engañoso. Verificar autenticidad antes de cualquier compra."
   },
   "motivo": "triage: Precio ~67 % por debajo del mercado para oro amarillo nuevo; es señal de réplica o listado engañoso. Verificar autenticidad antes de cualquier compra. (justo 42000)"
+ },
+ {
+  "fecha": "2026-11-12T17:49:55.019045+00:00",
+  "marca": "Rolex",
+  "titulo": "💥2002 Ladies ROLEX DATEJUST Automatic Watch REF 79173 Stainless 18K FULL SET💥",
+  "total": 6361.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/117517921197",
+  "item_id": "v1|117517921197|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 mm, acero y oro amarillo 18k, bisel acanalado, esfera champán con índices de barra",
+   "referencia": "79173",
+   "precio_justo_usd": 5200,
+   "interesante": false,
+   "nota": "Precio pedido de US$6361 con envío está unos 20 % por encima de la venta cerrada estimada para esta referencia en estado excelente con caja y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$6361 con envío está unos 20 % por encima de la venta cerrada estimada para esta referencia en estado excelente con caja y papeles. (justo 5200)"
+ },
+ {
+  "fecha": "2026-11-12T17:49:55.019045+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 GMT \"Coke\" Ref. M7939G1A0NRU 39mm Automatic Watch - Mint",
+  "total": 4375.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137925313456",
+  "item_id": "v1|137925313456|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 GMT \"Coke\" 39mm (acero, esfera negra, bisel rojo/negro)",
+   "referencia": "M7939G1A0NRU (el listado; la referencia común de esta versión es M79830RB, verificar)",
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor estimado de un usado en estado 'Good' (el título dice 'Mint', contradictorio); no cumple el umbral de descuento del 15 %."
+  },
+  "motivo": "triage: Precio pedido por encima del valor estimado de un usado en estado 'Good' (el título dice 'Mint', contradictorio); no cumple el umbral de descuento del 15 %. (justo 3600)"
  }
 ]
