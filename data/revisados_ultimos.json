@@ -1,97 +1,6 @@
 [
  {
   "fecha": "2026-11-10T16:17:57.260321+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 1953 Rolex \"OVETTONE \"  Big BubbleBack 6105 Oyster Perpetual Datejust",
-  "total": 6033.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920126770150",
-  "item_id": "v1|920126770150|0",
-  "referencia": "6105",
-  "mercado": {
-   "n": 9,
-   "p25": 6775,
-   "mediana": 9500
-  },
-  "ratio_mercado": 0.89,
-  "motivo": "precio normal (89 % del cuartil bajo de 6105)"
- },
- {
-  "fecha": "2026-11-10T16:17:57.260321+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Explorer 36mm Oyster Bracelet 114270 2003",
-  "total": 8035.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128187074328",
-  "item_id": "v1|128187074328|0",
-  "referencia": "114270",
-  "mercado": {
-   "n": 10,
-   "p25": 7250,
-   "mediana": 7654
-  },
-  "ratio_mercado": 1.108,
-  "motivo": "precio normal (111 % del cuartil bajo de 114270)"
- },
- {
-  "fecha": "2026-11-10T16:17:57.260321+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, Blue Roman Dial, Steel & White Gold, 16234",
-  "total": 8679.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/800900469516",
-  "item_id": "v1|800900469516|0",
-  "referencia": "16234",
-  "mercado": {
-   "n": 33,
-   "p25": 6160,
-   "mediana": 6500
-  },
-  "ratio_mercado": 1.409,
-  "motivo": "precio normal (141 % del cuartil bajo de 16234)"
- },
- {
-  "fecha": "2026-11-10T16:17:57.260321+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 126711CHNR GMT Master II 18K/SS",
-  "total": 22925.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/920126750815",
-  "item_id": "v1|920126750815|0",
-  "referencia": "126711CHNR",
-  "mercado": {
-   "n": 25,
-   "p25": 23300,
-   "mediana": 23750
-  },
-  "ratio_mercado": 0.984,
-  "motivo": "precio normal (98 % del cuartil bajo de 126711CHNR)"
- },
- {
-  "fecha": "2026-11-10T16:17:57.260321+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex New Yacht-Master II 116681 Steel Gold 2020 Box/Papers/5YearWarranty #RL9",
-  "total": 27445.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880102614057",
-  "item_id": "v1|880102614057|0",
-  "referencia": "116681",
-  "mercado": {
-   "n": 4,
-   "p25": 28945,
-   "mediana": 28970
-  },
-  "triage": {
-   "modelo": "Rolex Yacht-Master II, acero y Everose (oro rosa 18k), bisel de cerámica azul",
-   "referencia": "116681",
-   "precio_justo_usd": 25500,
-   "interesante": false,
-   "nota": "Precio pedido de US$27,445 está por encima del rango de venta secundaria estimado para un 116681 nuevo con caja y papeles; no cumple el umbral de 15% por debajo."
-  },
-  "motivo": "triage: Precio pedido de US$27,445 está por encima del rango de venta secundaria estimado para un 116681 nuevo con caja y papeles; no cumple el umbral de 15% por debajo. (justo 25500)"
- },
- {
-  "fecha": "2026-11-10T16:17:57.260321+00:00",
   "marca": "Tudor",
   "titulo": "Tudor 25707B/23 Pelagos FXD",
   "total": 4425.0,
@@ -10950,5 +10859,90 @@
    "nota": "Precio pedido por encima del valor estimado de reventa para un modelo de cuarzo de oro blanco con diamantes en estado 'refurbished'; la referencia exacta no está confirmada en la imagen."
   },
   "motivo": "triage: Precio pedido por encima del valor estimado de reventa para un modelo de cuarzo de oro blanco con diamantes en estado 'refurbished'; la referencia exacta no está confirmada en la imagen. (justo 10500)"
+ },
+ {
+  "fecha": "2026-11-12T19:20:05.757152+00:00",
+  "marca": "Rolex",
+  "titulo": "Unworn Rolex GMT-Master II 126720VTNR “Sprite” Full Set",
+  "total": 19250.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206696046821",
+  "item_id": "v1|206696046821|0",
+  "referencia": "126720VTNR",
+  "mercado": {
+   "n": 61,
+   "p25": 18250,
+   "mediana": 18950
+  },
+  "ratio_mercado": 1.055,
+  "motivo": "precio normal (105 % del cuartil bajo de 126720VTNR)"
+ },
+ {
+  "fecha": "2026-11-12T19:20:05.757152+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 36 mm Steel Jubilee Automatic Watch 1018 Circa 1965",
+  "total": 5950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147677876212",
+  "item_id": "v1|147677876212|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual 36 mm (sin fecha), acero, brazalete Jubilee",
+   "referencia": "1018",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Referencia 1018 de c. 1965 en estado excelente sin caja ni papeles. El precio pedido de US$5950 supera claramente el valor de venta cerrada."
+  },
+  "motivo": "triage: Referencia 1018 de c. 1965 en estado excelente sin caja ni papeles. El precio pedido de US$5950 supera claramente el valor de venta cerrada. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-12T19:20:05.757152+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Cosmograph Daytona Two-Tone Auto Chronograph Tachymeter w/ Box",
+  "total": 22650.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327453042596",
+  "item_id": "v1|327453042596|0",
+  "triage": {
+   "modelo": "Rolex Cosmograph Daytona bicolor (acero y oro amarillo), esfera blanca con subesferas oscuras",
+   "referencia": null,
+   "precio_justo_usd": 22000,
+   "interesante": false,
+   "nota": "La foto es de baja resolución y no permite confirmar referencia (16523 o 116523), año ni autenticidad; el precio pedido está en el rango normal de mercado, no 15 % por debajo."
+  },
+  "motivo": "triage: La foto es de baja resolución y no permite confirmar referencia (16523 o 116523), año ni autenticidad; el precio pedido está en el rango normal de mercado, no 15 % por debajo. (justo 22000)"
+ },
+ {
+  "fecha": "2026-11-12T19:20:05.757152+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX GMT-Master II Bruce Wayne 126710GRNR 40mm Ceramic Stainless Jubilee Watch",
+  "total": 24500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366805460826",
+  "item_id": "v1|366805460826|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 97,
+   "p25": 22350,
+   "mediana": 23498
+  },
+  "ratio_mercado": 1.096,
+  "motivo": "precio normal (110 % del cuartil bajo de 126710GRNR)"
+ },
+ {
+  "fecha": "2026-11-12T19:20:05.757152+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Prince Oysterdate 74000",
+  "total": 2200.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/227611579252",
+  "item_id": "v1|227611579252|0",
+  "referencia": "74000",
+  "mercado": {
+   "n": 7,
+   "p25": 1730,
+   "mediana": 2000
+  },
+  "ratio_mercado": 1.272,
+  "motivo": "precio normal (127 % del cuartil bajo de 74000)"
  }
 ]
