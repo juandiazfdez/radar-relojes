@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-10T00:17:27.368789+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Baignoire 1920 Silver Roman Yellow Gold Leather WGBA0075 Unworn 2026",
-  "total": 13255.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128185811598",
-  "item_id": "v1|128185811598|0",
-  "referencia": "WGBA0075",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Baignoire 1920 (oro amarillo, esfera plateada, numerales romanos, correa de piel)",
-   "referencia": "WGBA0075 (según el título; no verificable en la imagen)",
-   "precio_justo_usd": 11000,
-   "interesante": false,
-   "nota": "El precio pedido está cerca del retail y no hay descuento suficiente. El listado se contradice: dice 'Unworn' pero la condición es 'Pre-owned'. Verificar caja, papeles y autenticidad."
-  },
-  "motivo": "triage: El precio pedido está cerca del retail y no hay descuento suficiente. El listado se contradice: dice 'Unworn' pero la condición es 'Pre-owned'. Verificar caja, papeles y autenticidad. (justo 11000)"
- },
- {
-  "fecha": "2026-11-10T00:17:27.368789+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Diamond Tank Solo Ref #W4TA0017 2020",
   "total": 4990.0,
   "condicion": "Pre-owned - Excellent",
@@ -11000,5 +10977,22 @@
   },
   "ratio_mercado": 0.0,
   "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
+ },
+ {
+  "fecha": "2026-11-12T02:49:35.302460+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Pelagos LHD 42mm Titanium | New",
+  "total": 5250.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/287722997352",
+  "item_id": "v1|287722997352|0",
+  "triage": {
+   "modelo": "Tudor Pelagos LHD 42mm titanio (corona a la izquierda)",
+   "referencia": "M25610TNL-0001",
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "Precio pedido por encima del mercado gris para modelo nuevo con caja y papeles; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido por encima del mercado gris para modelo nuevo con caja y papeles; no hay descuento suficiente. (justo 3900)"
  }
 ]
