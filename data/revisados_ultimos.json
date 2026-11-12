@@ -1,73 +1,5 @@
 [
  {
-  "fecha": "2026-11-10T19:02:57.415601+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Steel Tank Francaise Wristwatch",
-  "total": 3895.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237175660957",
-  "item_id": "v1|237175660957|0",
-  "triage": {
-   "modelo": "Cartier Tank Française de acero, esfera plateada con números romanos y ventana de fecha (cuarzo)",
-   "referencia": "W51002Q3 (probable; verificar con el caso y el reverso)",
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de mercado usado para este modelo de acero; sin caja ni papeles visibles, el precio justo es menor."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de mercado usado para este modelo de acero; sin caja ni papeles visibles, el precio justo es menor. (justo 2200)"
- },
- {
-  "fecha": "2026-11-10T19:17:57.494031+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Diamond Gold Watch 14k Yellow Vintage Ladies Hand Wind",
-  "total": 12139.26,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137919445681",
-  "item_id": "v1|137919445681|0",
-  "triage": {
-   "modelo": "Rolex de dama vintage con cuerda manual, caja de oro amarillo 14k, bisel de diamantes y pulsera de malla de oro",
-   "referencia": null,
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Rolex vintage de dama en oro 14k con diamantes; su valor se acerca más al del oro y los diamantes que a una prima de coleccionista. El precio pedido de US$12.139 está muy por encima del valor de mercado. Sin referencia exacta visible, la estimación es aproximada."
-  },
-  "motivo": "triage: Rolex vintage de dama en oro 14k con diamantes; su valor se acerca más al del oro y los diamantes que a una prima de coleccionista. El precio pedido de US$12.139 está muy por encima del valor de mercado. Sin referencia exacta visible, la estimación es aproximada. (justo 4000)"
- },
- {
-  "fecha": "2026-11-10T19:17:57.494031+00:00",
-  "marca": "Rolex",
-  "titulo": "1991 Rolex Datejust Champagne 26mm Steel/18K Yellow Gold 69173 Jubilee Watch",
-  "total": 4199.99,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/267839947016",
-  "item_id": "v1|267839947016|0",
-  "referencia": "69173",
-  "mercado": {
-   "n": 89,
-   "p25": 160,
-   "mediana": 285
-  },
-  "ratio_mercado": 26.25,
-  "motivo": "precio normal (2625 % del cuartil bajo de 69173)"
- },
- {
-  "fecha": "2026-11-10T19:17:57.494031+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 116710LN 40mm 'G-series' Black Ceramic - Discontinued Model",
-  "total": 12995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840115250745",
-  "item_id": "v1|840115250745|0",
-  "referencia": "116710LN",
-  "mercado": {
-   "n": 39,
-   "p25": 14539,
-   "mediana": 15900
-  },
-  "ratio_mercado": 0.894,
-  "motivo": "precio normal (89 % del cuartil bajo de 116710LN)"
- },
- {
   "fecha": "2026-11-10T19:17:57.494031+00:00",
   "marca": "Rolex",
   "titulo": "Rolex GMT-Master II \"Root Beer\" Oyster Black Ceramic 126711CHNR 2021",
@@ -10941,5 +10873,79 @@
    "nota": "Con la referencia sin confirmar y estado usado Good, el precio de US$3500 está cerca del valor de mercado y no supera el umbral del 15 % por debajo."
   },
   "motivo": "triage: Con la referencia sin confirmar y estado usado Good, el precio de US$3500 está cerca del valor de mercado y no supera el umbral del 15 % por debajo. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-12T22:05:06.152489+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Men's 40MM 18K YG & SS 16613 W/ Service Card Vintage 1995",
+  "total": 12800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880110165852",
+  "item_id": "v1|880110165852|0",
+  "referencia": "16613",
+  "mercado": {
+   "n": 88,
+   "p25": 11695,
+   "mediana": 12000
+  },
+  "ratio_mercado": 1.094,
+  "motivo": "precio normal (109 % del cuartil bajo de 16613)"
+ },
+ {
+  "fecha": "2026-11-12T22:05:06.152489+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Must de Cartier 21 Yellow Gold & Steel Quartz 28MM 84090171",
+  "total": 1755.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137922887153",
+  "item_id": "v1|137922887153|0",
+  "triage": {
+   "modelo": "Cartier Must de Cartier 21, acero y oro amarillo, cuarzo, 28 mm",
+   "referencia": null,
+   "precio_justo_usd": 1100,
+   "interesante": false,
+   "nota": "Precio pedido US$1755 por encima del mercado para un Must 21 bicolor de cuarzo de uso; la referencia del título (84090171) no coincide con el formato habitual de Cartier, conviene verificarla."
+  },
+  "motivo": "triage: Precio pedido US$1755 por encima del mercado para un Must 21 bicolor de cuarzo de uso; la referencia del título (84090171) no coincide con el formato habitual de Cartier, conviene verificarla. (justo 1100)"
+ },
+ {
+  "fecha": "2026-11-12T22:05:06.152489+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 54 Lagoon Blue 79000 37mm 2025 Full Set Warranty 2030",
+  "total": 5400.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920136588530",
+  "item_id": "v1|920136588530|0",
+  "referencia": "79000",
+  "mercado": {
+   "n": 24,
+   "p25": 4253,
+   "mediana": 5395
+  },
+  "ratio_mercado": 1.27,
+  "motivo": "precio normal (127 % del cuartil bajo de 79000)"
+ },
+ {
+  "fecha": "2026-11-12T22:05:06.152489+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 54 37mm Stainless Steel 79000N Warranty until 2031!",
+  "total": 4092.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168858048734",
+  "item_id": "v1|168858048734|0",
+  "referencia": "79000N",
+  "mercado": {
+   "n": 4,
+   "p25": 3849,
+   "mediana": 4051
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 54 (37 mm, esfera negra, bisel negro, brazalete de acero)",
+   "referencia": "79000N",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio pedido de US$4.092 supera el valor de mercado estimado para una 79000N de acero usada, aunque el listado indica garantía vigente; el título menciona '2026', dato a verificar."
+  },
+  "motivo": "triage: Precio pedido de US$4.092 supera el valor de mercado estimado para una 79000N de acero usada, aunque el listado indica garantía vigente; el título menciona '2026', dato a verificar. (justo 3300)"
  }
 ]
