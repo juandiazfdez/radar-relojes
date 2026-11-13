@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-10T20:17:57.184745+00:00",
   "marca": "Rolex",
-  "titulo": "PAPERS Ladies Rolex Oyster 24mm Champagne 76193 Two Tone Gold Jubilee Watch",
-  "total": 5951.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287719532863",
-  "item_id": "v1|287719532863|0",
-  "triage": {
-   "modelo": "Rolex Lady Oyster Perpetual 24 mm, dos tonos acero y oro amarillo, bisel acanalado, esfera champagne, brazalete Jubilee",
-   "referencia": "76193",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "El precio pedido de US$5.951 está muy por encima del valor de venta real de esta referencia de dos tonos en EE. UU., que ronda los US$3.000-3.800 con papeles y caja."
-  },
-  "motivo": "triage: El precio pedido de US$5.951 está muy por encima del valor de venta real de esta referencia de dos tonos en EE. UU., que ronda los US$3.000-3.800 con papeles y caja. (justo 3300)"
- },
- {
-  "fecha": "2026-11-10T20:17:57.184745+00:00",
-  "marca": "Rolex",
   "titulo": "DIAMOND Ladies Rolex 79174 DateJust 26mm Glacier Blue Steel Jubilee Watch",
   "total": 6557.05,
   "condicion": "Pre-owned - Excellent",
@@ -10970,5 +10953,28 @@
   },
   "ratio_mercado": 0.86,
   "motivo": "precio normal (86 % del cuartil bajo de 14060M)"
+ },
+ {
+  "fecha": "2026-11-13T04:50:16.913073+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Américaine 2482 Yellow Gold 18K Women's Watch  28x19mm WB7056K2",
+  "total": 24000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940088004036",
+  "item_id": "v1|940088004036|0",
+  "referencia": "2482",
+  "mercado": {
+   "n": 2,
+   "p25": 10925,
+   "mediana": 12210
+  },
+  "triage": {
+   "modelo": "Cartier Tank Américaine (oro amarillo 18K, cuarzo, tamaño pequeño, con caja y papeles)",
+   "referencia": "2482 / WB7056K2",
+   "precio_justo_usd": 12000,
+   "interesante": false,
+   "nota": "Precio pedido casi el doble del valor de reventa estimado para oro 18K de cuarzo en estado excelente; no hay señales de pieza o replica, pero el precio está muy por encima del mercado."
+  },
+  "motivo": "triage: Precio pedido casi el doble del valor de reventa estimado para oro 18K de cuarzo en estado excelente; no hay señales de pieza o replica, pero el precio está muy por encima del mercado. (justo 12000)"
  }
 ]
