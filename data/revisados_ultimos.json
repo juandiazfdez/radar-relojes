@@ -2,30 +2,6 @@
  {
   "fecha": "2026-11-10T20:02:56.707417+00:00",
   "marca": "Rolex",
-  "titulo": "2021 MINT Rolex Sea-Dweller Deepsea Black 126660 44mm Steel Watch Box",
-  "total": 10900.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940081690460",
-  "item_id": "v1|940081690460|0",
-  "referencia": "126660",
-  "mercado": {
-   "n": 72,
-   "p25": 13040,
-   "mediana": 14250
-  },
-  "ratio_mercado": 0.836,
-  "claude": {
-   "veredicto": "alerta",
-   "precio_justo_usd": 11800,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Muy bueno a casi nuevo según las fotos, con caja pero sin tarjeta de garantía Rolex"
-  },
-  "ratio_justo": 0.924,
-  "motivo": "precio normal segun revision (92 % del justo 11800)"
- },
- {
-  "fecha": "2026-11-10T20:02:56.707417+00:00",
-  "marca": "Rolex",
   "titulo": "PAPERS MINT Rolex Yacht-Master 268655 Everose Gold 37mm Oysterflex Watch Box",
   "total": 23727.05,
   "condicion": "Pre-owned - Excellent",
@@ -10966,5 +10942,22 @@
   },
   "ratio_mercado": 0.873,
   "motivo": "precio normal (87 % del cuartil bajo de 79830RB)"
+ },
+ {
+  "fecha": "2026-11-13T02:35:17.289074+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Air-King 126900-0001 Stainless Steel Black 40 mm",
+  "total": 9450.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147678324515",
+  "item_id": "v1|147678324515|0",
+  "referencia": "126900",
+  "mercado": {
+   "n": 26,
+   "p25": 9500,
+   "mediana": 10046
+  },
+  "ratio_mercado": 0.995,
+  "motivo": "precio normal (99 % del cuartil bajo de 126900)"
  }
 ]
