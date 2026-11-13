@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-10T20:32:56.781893+00:00",
   "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, 116234, Steel & White Gold, Blue Diamond Dial, Oys...",
-  "total": 11974.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/800901090526",
-  "item_id": "v1|800901090526|0",
-  "referencia": "116234",
-  "mercado": {
-   "n": 42,
-   "p25": 9000,
-   "mediana": 9500
-  },
-  "ratio_mercado": 1.33,
-  "motivo": "precio normal (133 % del cuartil bajo de 116234)"
- },
- {
-  "fecha": "2026-11-10T20:32:56.781893+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, 116234, Steel & White Gold, Blue Dial, Oyster Brac...",
-  "total": 11375.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/206690323637",
-  "item_id": "v1|206690323637|0",
-  "referencia": "116234",
-  "mercado": {
-   "n": 42,
-   "p25": 9000,
-   "mediana": 9500
-  },
-  "ratio_mercado": 1.264,
-  "motivo": "precio normal (126 % del cuartil bajo de 116234)"
- },
- {
-  "fecha": "2026-11-10T20:32:56.781893+00:00",
-  "marca": "Rolex",
   "titulo": "Renewed Rolex Datejust 36, 116234, Steel & White Gold, Blue Dial, Jubilee Bra...",
   "total": 11574.0,
   "condicion": "Seller refurbished",
@@ -10994,5 +10960,39 @@
   },
   "ratio_mercado": 1.801,
   "motivo": "precio normal (180 % del cuartil bajo de 16013)"
+ },
+ {
+  "fecha": "2026-11-13T14:35:39.707365+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Women's Ballon Bleu Watch, Circa 2000S (Au Women's",
+  "total": 3500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366807534079",
+  "item_id": "v1|366807534079|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu de mujer, circa 2000s (material no confirmado; el título dice \"Au\" y está cortado)",
+   "referencia": "W69002Z2 (probable, no confirmado)",
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Si es acero, el precio de venta real ronda US$2.300-2.800 y el pedido está por encima. Si es oro sólido, el valor sería mucho mayor, pero el título truncado con \"Au\" puede indicar chapado: verificar material y ver fotos de sellos antes de considerarlo."
+  },
+  "motivo": "triage: Si es acero, el precio de venta real ronda US$2.300-2.800 y el pedido está por encima. Si es oro sólido, el valor sería mucho mayor, pero el título truncado con \"Au\" puede indicar chapado: verificar material y ver fotos de sellos antes de considerarlo. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-13T14:35:39.707365+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise Small Diamond Steel Ladies Watch W4TA0008 W/ Box & Card",
+  "total": 6950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206698259441",
+  "item_id": "v1|206698259441|0",
+  "referencia": "W4TA0008",
+  "mercado": {
+   "n": 5,
+   "p25": 5725,
+   "mediana": 6970
+  },
+  "ratio_mercado": 1.214,
+  "motivo": "precio normal (121 % del cuartil bajo de W4TA0008)"
  }
 ]
