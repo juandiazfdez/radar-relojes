@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-10T20:02:56.707417+00:00",
   "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, 116234, Steel & White Gold, Black Diamond Dial, Ju...",
-  "total": 11974.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/366799983115",
-  "item_id": "v1|366799983115|0",
-  "referencia": "116234",
-  "mercado": {
-   "n": 42,
-   "p25": 9000,
-   "mediana": 9500
-  },
-  "ratio_mercado": 1.33,
-  "motivo": "precio normal (133 % del cuartil bajo de 116234)"
- },
- {
-  "fecha": "2026-11-10T20:02:56.707417+00:00",
-  "marca": "Rolex",
-  "titulo": "2023 NEW PAPERS Ladies Rolex 279174 DateJust 26mm MOP Diamond Fluted Jubilee",
-  "total": 14435.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307276355637",
-  "item_id": "v1|307276355637|0",
-  "referencia": "279174",
-  "mercado": {
-   "n": 9,
-   "p25": 11450,
-   "mediana": 12895
-  },
-  "ratio_mercado": 1.261,
-  "motivo": "precio normal (126 % del cuartil bajo de 279174)"
- },
- {
-  "fecha": "2026-11-10T20:02:56.707417+00:00",
-  "marca": "Rolex",
   "titulo": "2021 NEW PAPERS Rolex 126619LB Submariner Blue Cookie Monster Gold 41mm Watch",
   "total": 36352.05,
   "condicion": "Pre-owned - Excellent",
@@ -10941,5 +10907,45 @@
    "nota": "Nuevo con caja y papeles; el listado de US$4.674 supera el retail, así que no hay descuento frente al precio de mercado."
   },
   "motivo": "triage: Nuevo con caja y papeles; el listado de US$4.674 supera el retail, así que no hay descuento frente al precio de mercado. (justo 3400)"
+ },
+ {
+  "fecha": "2026-11-13T00:35:06.455047+00:00",
+  "marca": "Rolex",
+  "titulo": "Unworn Rolex GMT-Master II 126710BLNR “Batgirl” Full Set",
+  "total": 21950.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206696962626",
+  "item_id": "v1|206696962626|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 59,
+   "p25": 19990,
+   "mediana": 20565
+  },
+  "ratio_mercado": 1.098,
+  "motivo": "precio normal (110 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-13T00:35:06.455047+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Heritage Ranger 79910 Automatic Watch Black, 41mm",
+  "total": 2750.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237179858267",
+  "item_id": "v1|237179858267|0",
+  "referencia": "79910",
+  "mercado": {
+   "n": 2,
+   "p25": 2495,
+   "mediana": 2522
+  },
+  "triage": {
+   "modelo": "Tudor Heritage Ranger",
+   "referencia": "79910",
+   "precio_justo_usd": 2500,
+   "interesante": false,
+   "nota": "Ranger 79910 de 41 mm con caja, usado en excelente estado; se vende cerca de US$2.300-2.700, así que US$2.750 está por encima del rango."
+  },
+  "motivo": "triage: Ranger 79910 de 41 mm con caja, usado en excelente estado; se vende cerca de US$2.300-2.700, así que US$2.750 está por encima del rango. (justo 2500)"
  }
 ]
