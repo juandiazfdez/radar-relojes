@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-10T20:02:56.707417+00:00",
   "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, 116234, Steel & White Gold, Bronze Floral Arabic D...",
-  "total": 11275.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/366799966091",
-  "item_id": "v1|366799966091|0",
-  "referencia": "116234",
-  "mercado": {
-   "n": 42,
-   "p25": 9000,
-   "mediana": 9500
-  },
-  "ratio_mercado": 1.253,
-  "motivo": "precio normal (125 % del cuartil bajo de 116234)"
- },
- {
-  "fecha": "2026-11-10T20:02:56.707417+00:00",
-  "marca": "Rolex",
   "titulo": "2026 NEW PAPERS Rolex 126610LV Submariner 41mm STARBUCKS MK2 Green Steel Watch",
   "total": 16354.05,
   "condicion": "New with box and papers",
@@ -10966,5 +10949,22 @@
    "nota": "El anuncio dice oro blanco 18k, pero la foto muestra caja y brazalete de acero; si fuera acero con bisel de oro blanco, vale ~2.400 USD, no lo que pide. Pedir fotos del caso trasero y de la caja/papeles para verificar metal y autenticidad."
   },
   "motivo": "triage: El anuncio dice oro blanco 18k, pero la foto muestra caja y brazalete de acero; si fuera acero con bisel de oro blanco, vale ~2.400 USD, no lo que pide. Pedir fotos del caso trasero y de la caja/papeles para verificar metal y autenticidad. (justo 2400)"
+ },
+ {
+  "fecha": "2026-11-13T01:35:16.461384+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise W51002Q3 Women's Watch Swiss Automatic Stainless Steel",
+  "total": 4399.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198790858950",
+  "item_id": "v1|198790858950|0",
+  "triage": {
+   "modelo": "Cartier Tank Française (acero, esfera blanca con numerales romanos, ventanilla de fecha)",
+   "referencia": "W51002Q3 (según el título; el sufijo Q indica cuarzo, no automático)",
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "El título dice automático pero la referencia W51002Q3 es de cuarzo. Precio pedido muy por encima del valor de mercado para un Tank Française de acero de cuarzo usado."
+  },
+  "motivo": "triage: El título dice automático pero la referencia W51002Q3 es de cuarzo. Precio pedido muy por encima del valor de mercado para un Tank Française de acero de cuarzo usado. (justo 2300)"
  }
 ]
