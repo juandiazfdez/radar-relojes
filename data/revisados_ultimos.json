@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-10T20:02:56.707417+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex 34mm Date 14k Yellow Gold Automatic Vintage 1503 Oyster Perpetual Date 75",
-  "total": 6100.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/900080913963",
-  "item_id": "v1|900080913963|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date (serie 1500, oro amarillo 14k, 34 mm)",
-   "referencia": "1503",
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta cerrada estimado para un 1503 de oro amarillo vintage en estado Good, sin bracelete original confirmado."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para un 1503 de oro amarillo vintage en estado Good, sin bracelete original confirmado. (justo 4800)"
- },
- {
-  "fecha": "2026-11-10T20:02:56.707417+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, 116234, Steel & White Gold, Bronze Floral Arabic D...",
-  "total": 11075.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/800901025152",
-  "item_id": "v1|800901025152|0",
-  "referencia": "116234",
-  "mercado": {
-   "n": 42,
-   "p25": 9000,
-   "mediana": 9500
-  },
-  "ratio_mercado": 1.231,
-  "motivo": "precio normal (123 % del cuartil bajo de 116234)"
- },
- {
-  "fecha": "2026-11-10T20:02:56.707417+00:00",
-  "marca": "Rolex",
   "titulo": "Renewed Rolex Datejust 36, 116234, Steel & White Gold, Bronze Floral Arabic D...",
   "total": 11275.0,
   "condicion": "Seller refurbished",
@@ -10960,5 +10926,45 @@
   },
   "ratio_justo": 0.841,
   "motivo": "ALERTA"
+ },
+ {
+  "fecha": "2026-11-13T01:20:17.459793+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 2021 126610LN Submariner 41mm With Box And Papers ",
+  "total": 13564.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168858289271",
+  "item_id": "v1|168858289271|0",
+  "referencia": "126610LN",
+  "mercado": {
+   "n": 83,
+   "p25": 14499,
+   "mediana": 15068
+  },
+  "ratio_mercado": 0.936,
+  "motivo": "precio normal (94 % del cuartil bajo de 126610LN)"
+ },
+ {
+  "fecha": "2026-11-13T01:20:17.459793+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Prince Date+Day 36mm Ref. 76214 – Silver Sunburst Diamond– 18k White Gold.",
+  "total": 2940.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287725562707",
+  "item_id": "v1|287725562707|0",
+  "referencia": "76214",
+  "mercado": {
+   "n": 1,
+   "p25": 3000,
+   "mediana": 3000
+  },
+  "triage": {
+   "modelo": "Tudor Prince Date (Date+Day) 36 mm, esfera plateada sunburst con marcadores de diamante, bisel fluteado (aparenta acero/bisel metálico)",
+   "referencia": "76214",
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "El anuncio dice oro blanco 18k, pero la foto muestra caja y brazalete de acero; si fuera acero con bisel de oro blanco, vale ~2.400 USD, no lo que pide. Pedir fotos del caso trasero y de la caja/papeles para verificar metal y autenticidad."
+  },
+  "motivo": "triage: El anuncio dice oro blanco 18k, pero la foto muestra caja y brazalete de acero; si fuera acero con bisel de oro blanco, vale ~2.400 USD, no lo que pide. Pedir fotos del caso trasero y de la caja/papeles para verificar metal y autenticidad. (justo 2400)"
  }
 ]
