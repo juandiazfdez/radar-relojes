@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-10T20:17:57.184745+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Ronde 1920 W20026K1 Date Stainless Steel 33MM Unisex Automatic",
-  "total": 3235.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128187411410",
-  "item_id": "v1|128187411410|0",
-  "triage": {
-   "modelo": "Cartier Santos Ronde 1920, acero, 33 mm, automático (unisex)",
-   "referencia": "W20026K1",
-   "precio_justo_usd": 2900,
-   "interesante": false,
-   "nota": "Precio pedido de US$3235 con envío queda unos 10-12 % por encima del valor de venta cerrada estimado para este modelo en estado excelente; la foto no permite confirmar el calibre automático."
-  },
-  "motivo": "triage: Precio pedido de US$3235 con envío queda unos 10-12 % por encima del valor de venta cerrada estimado para este modelo en estado excelente; la foto no permite confirmar el calibre automático. (justo 2900)"
- },
- {
   "fecha": "2026-11-10T20:32:56.781893+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 18k Yellow Gold/Steel Pink Diamond Dial/Bezel 26mm Watch Y 79173",
@@ -10988,5 +10971,28 @@
    "nota": "Precio pedido cercano al valor de venta cerrada para esta referencia en condición Good; no hay descuento de al menos 15%."
   },
   "motivo": "triage: Precio pedido cercano al valor de venta cerrada para esta referencia en condición Good; no hay descuento de al menos 15%. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-13T11:05:28.875294+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos-Dumont XL Stainless Steel Watch, WSSA0032",
+  "total": 6355.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407358742247",
+  "item_id": "v1|407358742247|0",
+  "referencia": "WSSA0032",
+  "mercado": {
+   "n": 4,
+   "p25": 6888,
+   "mediana": 6976
+  },
+  "triage": {
+   "modelo": "Cartier Santos-Dumont XL (acero, cuarzo, esfera blanca, correa de piel azul, con caja y papeles)",
+   "referencia": "WSSA0032 (no verificable en la imagen; la foto no muestra el número de referencia)",
+   "precio_justo_usd": 5800,
+   "interesante": false,
+   "nota": "Precio pedido de US$6355 con envío; el mercado secundario de este modelo con caja y papeles ronda US$5500-6200, así que no está 15 % por debajo. Conviene verificar la referencia exacta."
+  },
+  "motivo": "triage: Precio pedido de US$6355 con envío; el mercado secundario de este modelo con caja y papeles ronda US$5500-6200, así que no está 15 % por debajo. Conviene verificar la referencia exacta. (justo 5800)"
  }
 ]
