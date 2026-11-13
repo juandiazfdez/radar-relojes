@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-10T20:17:57.184745+00:00",
   "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, 116234, Steel & White Gold, Blue Diamond Dial, Jub...",
-  "total": 12173.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/206690305335",
-  "item_id": "v1|206690305335|0",
-  "referencia": "116234",
-  "mercado": {
-   "n": 42,
-   "p25": 9000,
-   "mediana": 9500
-  },
-  "ratio_mercado": 1.353,
-  "motivo": "precio normal (135 % del cuartil bajo de 116234)"
- },
- {
-  "fecha": "2026-11-10T20:17:57.184745+00:00",
-  "marca": "Rolex",
   "titulo": "Renewed Rolex Datejust 36, 116234, Steel & White Gold, Silver Floral Dial, Ju...",
   "total": 11275.0,
   "condicion": "Seller refurbished",
@@ -10975,5 +10958,29 @@
    "nota": "Precio a la baja: si es bicolor 126613LN sería más alto, pero la foto muestra acero, así que hay que confirmar referencia y oro antes de comprar."
   },
   "motivo": "triage: Precio a la baja: si es bicolor 126613LN sería más alto, pero la foto muestra acero, así que hay que confirmar referencia y oro antes de comprar. (justo 15500)"
+ },
+ {
+  "fecha": "2026-11-13T10:05:29.633068+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Solo W5200026 18K Rose Gold Mens Watch",
+  "total": 6666.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366807085424",
+  "item_id": "v1|366807085424|0",
+  "referencia": "W5200026",
+  "mercado": {
+   "n": 5,
+   "p25": 8495,
+   "mediana": 8699
+  },
+  "ratio_mercado": 0.785,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 6000,
+   "riesgo_autenticidad": "medio",
+   "estado": "Muy buen estado visible, sin golpes ni rayones evidentes. Sin caja ni papeles."
+  },
+  "ratio_justo": 1.111,
+  "motivo": "precio normal segun revision (111 % del justo 6000)"
  }
 ]
