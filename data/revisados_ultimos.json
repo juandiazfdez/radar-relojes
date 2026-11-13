@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-10T22:18:05.694499+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 6332 Bubbleback Mens 33mm Stainless Steel TS 366571",
-  "total": 3999.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257846210962",
-  "item_id": "v1|257846210962|0",
-  "referencia": "6332",
-  "mercado": {
-   "n": 3,
-   "p25": 3500,
-   "mediana": 4600
-  },
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual (bubbleback), posiblemente ref. 6332; la foto muestra caja dorada, no de acero",
-   "referencia": "6332",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "El título dice acero, pero la foto muestra caja dorada, lo que no coincide. Si es acero, el precio pedido de US$4,000 está por encima del mercado; si es chapado u oro laminado, vale mucho menos."
-  },
-  "motivo": "triage: El título dice acero, pero la foto muestra caja dorada, lo que no coincide. Si es acero, el precio pedido de US$4,000 está por encima del mercado; si es chapado u oro laminado, vale mucho menos. (justo 3000)"
- },
- {
-  "fecha": "2026-11-10T22:18:05.694499+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Datejust Automatic Watch Stainless Steel and Yellow Gold",
-  "total": 8105.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117514802860",
-  "item_id": "v1|117514802860|0",
-  "triage": {
-   "modelo": "Rolex Lady-Datejust 26 mm, acero y oro amarillo, bisel acanalado dorado, esfera champán con índices de bastón, pulsera Jubilee",
-   "referencia": "69173 (posible 79173, según año de fabricación y detalles no visibles)",
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "El precio pedido de US$8.105 está muy por encima del valor de mercado para esta referencia en estado usado; no parece una oportunidad."
-  },
-  "motivo": "triage: El precio pedido de US$8.105 está muy por encima del valor de mercado para esta referencia en estado usado; no parece una oportunidad. (justo 4500)"
- },
- {
-  "fecha": "2026-11-10T22:33:06.501786+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona 116520 Steel White + Warranty",
-  "total": 20425.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920127988307",
-  "item_id": "v1|920127988307|0",
-  "referencia": "116520",
-  "mercado": {
-   "n": 23,
-   "p25": 22628,
-   "mediana": 23795
-  },
-  "ratio_mercado": 0.903,
-  "motivo": "precio normal (90 % del cuartil bajo de 116520)"
- },
- {
   "fecha": "2026-11-10T22:33:06.501786+00:00",
   "marca": "Rolex",
   "titulo": "Rolex GMT-Master II Ceramic BLACK Two-Tone 18K Gold Steel 40mm 116713 LN Watch",
@@ -11011,5 +10954,56 @@
    "nota": "Precio pedido muy por encima del valor de venta cerrada para este modelo en estado Good; no hay razón visible para pagar más de US$10.000."
   },
   "motivo": "triage: Precio pedido muy por encima del valor de venta cerrada para este modelo en estado Good; no hay razón visible para pagar más de US$10.000. (justo 9500)"
+ },
+ {
+  "fecha": "2026-11-13T16:35:40.429878+00:00",
+  "marca": "Rolex",
+  "titulo": "2010 Rolex Daytona Cosmograph 116523 Blue Racing 40mm Two-Tone 18k Box Papers",
+  "total": 24473.19,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900088559228",
+  "item_id": "v1|900088559228|0",
+  "referencia": "116523",
+  "mercado": {
+   "n": 49,
+   "p25": 19384,
+   "mediana": 20990
+  },
+  "ratio_mercado": 1.263,
+  "motivo": "precio normal (126 % del cuartil bajo de 116523)"
+ },
+ {
+  "fecha": "2026-11-13T16:35:40.429878+00:00",
+  "marca": "Rolex",
+  "titulo": "New Reference Rolex Cosmograph Daytona Platinum 126506 Glacier Watch Box Papers",
+  "total": 117487.97,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940089392611",
+  "item_id": "v1|940089392611|0",
+  "referencia": "126506",
+  "mercado": {
+   "n": 7,
+   "p25": 124399,
+   "mediana": 130095
+  },
+  "ratio_mercado": 0.944,
+  "motivo": "precio normal (94 % del cuartil bajo de 126506)"
+ },
+ {
+  "fecha": "2026-11-13T16:35:40.429878+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer 224270 40mm Black Stainless Steel 3-6-9 Oyster Smooth Watch",
+  "total": 9062.55,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960191404416",
+  "item_id": "v1|960191404416|0",
+  "referencia": "224270",
+  "mercado": {
+   "n": 19,
+   "p25": 9581,
+   "mediana": 9930
+  },
+  "ratio_mercado": 0.946,
+  "motivo": "precio normal (95 % del cuartil bajo de 224270)"
  }
 ]
