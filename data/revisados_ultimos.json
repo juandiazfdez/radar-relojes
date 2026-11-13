@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-10T20:17:57.184745+00:00",
   "marca": "Rolex",
-  "titulo": "MINT Rolex DateJust 16234 Black Diamond Jubilee White Gold Fluted Watch Box",
-  "total": 7062.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287719531950",
-  "item_id": "v1|287719531950|0",
-  "referencia": "16234",
-  "mercado": {
-   "n": 33,
-   "p25": 6160,
-   "mediana": 6500
-  },
-  "ratio_mercado": 1.146,
-  "motivo": "precio normal (115 % del cuartil bajo de 16234)"
- },
- {
-  "fecha": "2026-11-10T20:17:57.184745+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust Stainless Steel Mens Watch 116200",
   "total": 9499.0,
   "condicion": "Pre-owned - Good",
@@ -10982,5 +10965,22 @@
    "nota": "Precio pedido muy por encima del valor; el estado 'para piezas o no funciona' y la inconsistencia ref. 1024 vs. c.1983 son señales de alerta."
   },
   "motivo": "triage: Precio pedido muy por encima del valor; el estado 'para piezas o no funciona' y la inconsistencia ref. 1024 vs. c.1983 son señales de alerta. (justo 1200)"
+ },
+ {
+  "fecha": "2026-11-13T07:35:29.027158+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Date Galbée XL Stainless Automatic 2823 W20098D6 Watch + Box NICE",
+  "total": 6820.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366806780848",
+  "item_id": "v1|366806780848|0",
+  "referencia": "2823",
+  "mercado": {
+   "n": 8,
+   "p25": 7085,
+   "mediana": 7380
+  },
+  "ratio_mercado": 0.963,
+  "motivo": "precio normal (96 % del cuartil bajo de 2823)"
  }
 ]
