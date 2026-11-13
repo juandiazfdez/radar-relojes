@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-10T20:17:57.184745+00:00",
   "marca": "Rolex",
-  "titulo": "DIAMOND Rolex Oyster 115200 Pave Diamond Oyster Perpetual Date 34mm Steel Watch",
-  "total": 8981.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940081739954",
-  "item_id": "v1|940081739954|0",
-  "referencia": "115200",
-  "mercado": {
-   "n": 8,
-   "p25": 6500,
-   "mediana": 6828
-  },
-  "ratio_mercado": 1.382,
-  "motivo": "precio normal (138 % del cuartil bajo de 115200)"
- },
- {
-  "fecha": "2026-11-10T20:17:57.184745+00:00",
-  "marca": "Rolex",
-  "titulo": "2025 NEW PAPERS Ladies Rolex 279171 DateJust 28mm White Roman Rose Gold Jubilee",
-  "total": 15647.05,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/307276367766",
-  "item_id": "v1|307276367766|0",
-  "referencia": "279171",
-  "mercado": {
-   "n": 9,
-   "p25": 16547,
-   "mediana": 17142
-  },
-  "ratio_mercado": 0.946,
-  "motivo": "precio normal (95 % del cuartil bajo de 279171)"
- },
- {
-  "fecha": "2026-11-10T20:17:57.184745+00:00",
-  "marca": "Rolex",
   "titulo": "2023 Mint Rolex White Sky-Dweller White Gold Oysterflex 336239 Watch Box",
   "total": 37867.05,
   "condicion": "Pre-owned - Excellent",
@@ -10971,5 +10937,45 @@
   },
   "ratio_mercado": 0.888,
   "motivo": "precio normal (89 % del cuartil bajo de 28600)"
+ },
+ {
+  "fecha": "2026-11-13T03:50:17.325870+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ronde de Cartier W6700455",
+  "total": 2300.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168856224194",
+  "item_id": "v1|168856224194|0",
+  "referencia": "W6700455",
+  "mercado": {
+   "n": 8,
+   "p25": 4300,
+   "mediana": 4870
+  },
+  "ratio_mercado": 0.535,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 1900,
+   "riesgo_autenticidad": "medio",
+   "estado": "Aspecto bueno a excelente en fotos oscuras; se ven rayones leves en el fondo de caja y la correa parece usada"
+  },
+  "motivo": "Claude descarto: El precio de US$2,300 no deja margen. Un Ronde Solo 36 mm de cuarzo en acero se vende cerrado a unos US$1,700-2,200 en dealers y particulares de EE. UU. Los comparables de eBay (cuartil bajo US$4,300) son precios pedidos muy inflados, probablemente de relojes nuevos o con caja y papeles, y no sirven de referencia.; Es un cuarzo de acero, la categoría con más oferta y menos liquidez de Cartier. No tiene prima de coleccionista que justifique pagar de más."
+ },
+ {
+  "fecha": "2026-11-13T03:50:17.325870+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay Ceramic Diver Watch 41mm M79210CNU 2025 Box & Papers Mint Shape",
+  "total": 4880.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327453525896",
+  "item_id": "v1|327453525896|0",
+  "triage": {
+   "modelo": "Tudor Black Bay Ceramic 41mm",
+   "referencia": "M79210CNU",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Precio pedido de US$4880 por encima del mercado secundario para esta referencia con caja y papeles; la foto coincide con el modelo del título, pero no hay señales de oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$4880 por encima del mercado secundario para esta referencia con caja y papeles; la foto coincide con el modelo del título, pero no hay señales de oportunidad. (justo 3800)"
  }
 ]
