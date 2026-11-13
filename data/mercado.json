@@ -3665,13 +3665,13 @@
   "n": 0
  },
  "Cartier 3802|usado": {
-  "fecha": "2026-10-21",
+  "fecha": "2026-11-13",
   "consulta": "Cartier 3802",
-  "n": 2,
-  "mediana": 4890,
-  "p25": 4285,
+  "n": 3,
+  "mediana": 4285,
+  "p25": 3200,
   "p75": 5495,
-  "min": 4285,
+  "min": 3200,
   "max": 5495
  },
  "Cartier WGBA0044|usado": {
@@ -21173,5 +21173,15 @@
   "fecha": "2026-11-13",
   "consulta": "Cartier WJBB0037",
   "n": 0
+ },
+ "Tudor 79230DK|usado": {
+  "fecha": "2026-11-13",
+  "consulta": "Tudor 79230DK",
+  "n": 9,
+  "mediana": 3395,
+  "p25": 3000,
+  "p75": 3685,
+  "min": 3000,
+  "max": 4525
  }
 }

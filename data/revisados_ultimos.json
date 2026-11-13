@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-10T20:17:57.184745+00:00",
   "marca": "Rolex",
-  "titulo": "2020 NEW PAPERS Rolex Day Date 40 White Gold President GREEN OLIVE 228239 Watch",
-  "total": 47462.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287719532210",
-  "item_id": "v1|287719532210|0",
-  "referencia": "228239",
-  "mercado": {
-   "n": 17,
-   "p25": 45000,
-   "mediana": 48500
-  },
-  "ratio_mercado": 1.055,
-  "motivo": "precio normal (105 % del cuartil bajo de 228239)"
- },
- {
-  "fecha": "2026-11-10T20:17:57.184745+00:00",
-  "marca": "Rolex",
-  "titulo": "2014 MINT Rolex 116233 DateJust Jubilee 36mm Two Tone Gold Champagne Watch Box",
-  "total": 10900.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940081735067",
-  "item_id": "v1|940081735067|0",
-  "referencia": "116233",
-  "mercado": {
-   "n": 70,
-   "p25": 10990,
-   "mediana": 11375
-  },
-  "ratio_mercado": 0.992,
-  "motivo": "precio normal (99 % del cuartil bajo de 116233)"
- },
- {
-  "fecha": "2026-11-10T20:17:57.184745+00:00",
-  "marca": "Rolex",
   "titulo": "MINT Rolex Oyster 177200 Perpetual 31mm Diamond Pave Iced out Oyster Watch Box",
   "total": 9082.05,
   "condicion": "Pre-owned - Excellent",
@@ -10976,5 +10942,45 @@
   },
   "ratio_mercado": 0.9,
   "motivo": "precio normal (90 % del cuartil bajo de 116619LB)"
+ },
+ {
+  "fecha": "2026-11-13T07:05:29.514482+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ronde Solo XL Automatic | Model 3802 | Ref. W6701011 | 42mm",
+  "total": 2933.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336895194911",
+  "item_id": "v1|336895194911|0",
+  "referencia": "3802",
+  "mercado": {
+   "n": 3,
+   "p25": 3200,
+   "mediana": 4285
+  },
+  "triage": {
+   "modelo": "Cartier Ronde Solo XL Automatic (acero, esfera plateada, numeración romana)",
+   "referencia": "W6701011",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para usado en buen estado; el título menciona 'Model 3802', dato poco habitual que conviene verificar."
+  },
+  "motivo": "triage: Precio cercano al mercado para usado en buen estado; el título menciona 'Model 3802', dato poco habitual que conviene verificar. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-13T07:05:29.514482+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Heritage Black Bay Dark 41mm 79230DK FULL SET",
+  "total": 4398.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860139633863",
+  "item_id": "v1|860139633863|0",
+  "referencia": "79230DK",
+  "mercado": {
+   "n": 9,
+   "p25": 3000,
+   "mediana": 3395
+  },
+  "ratio_mercado": 1.466,
+  "motivo": "precio normal (147 % del cuartil bajo de 79230DK)"
  }
 ]
