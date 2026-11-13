@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-11T18:34:12.392745+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex DateJust 126233 36 mm Champagne Jubilee SS 18K Gold 2025 Complete",
-  "total": 15295.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267840913819",
-  "item_id": "v1|267840913819|0",
-  "referencia": "126233",
-  "mercado": {
-   "n": 35,
-   "p25": 15195,
-   "mediana": 16295
-  },
-  "ratio_mercado": 1.007,
-  "motivo": "precio normal (101 % del cuartil bajo de 126233)"
- },
- {
-  "fecha": "2026-11-11T18:34:12.392745+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank MC Chronograph Large 18K Rose Gold Ref W5330005 Ref 3667",
   "total": 13700.0,
@@ -10969,5 +10952,28 @@
    "nota": "Precio pedido unos 11 % por debajo de la estimación de venta real con caja y papeles en estado Good; no alcanza el umbral del 15 %. La referencia W2603156 es la indicada en el título y no pude verificarla en la foto."
   },
   "motivo": "triage: Precio pedido unos 11 % por debajo de la estimación de venta real con caja y papeles en estado Good; no alcanza el umbral del 15 %. La referencia W2603156 es la indicada en el título y no pude verificarla en la foto. (justo 12000)"
+ },
+ {
+  "fecha": "2026-11-13T23:05:50.667810+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Cellini Vintage 6631 Watch 24mm 18K Yellow Gold",
+  "total": 17550.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336896412153",
+  "item_id": "v1|336896412153|0",
+  "referencia": "6631",
+  "mercado": {
+   "n": 1,
+   "p25": 5535,
+   "mediana": 5535
+  },
+  "triage": {
+   "modelo": "Rolex Cellini (caja cojín en oro amarillo 18K, esfera champán con numerales romanos)",
+   "referencia": "6631 (según el título; no verificable en la foto)",
+   "precio_justo_usd": 7500,
+   "interesante": false,
+   "nota": "Precio pedido de US$17.550 muy por encima de lo que se vende realmente un Cellini 6631 de oro 18K usado; el valor depende sobre todo del oro, no de una prima de Rolex."
+  },
+  "motivo": "triage: Precio pedido de US$17.550 muy por encima de lo que se vende realmente un Cellini 6631 de oro 18K usado; el valor depende sobre todo del oro, no de una prima de Rolex. (justo 7500)"
  }
 ]
