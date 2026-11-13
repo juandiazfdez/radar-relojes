@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-10T20:17:57.184745+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Datejust Stainless Steel Mens Watch 116200",
-  "total": 9499.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147674949218",
-  "item_id": "v1|147674949218|0",
-  "referencia": "116200",
-  "mercado": {
-   "n": 59,
-   "p25": 8000,
-   "mediana": 8679
-  },
-  "ratio_mercado": 1.187,
-  "motivo": "precio normal (119 % del cuartil bajo de 116200)"
- },
- {
-  "fecha": "2026-11-10T20:17:57.184745+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex GMT Master II 126710BLNR “Batgirl” 40mm 2023 Box & Papers",
   "total": 19865.0,
   "condicion": "Pre-owned - Excellent",
@@ -10982,5 +10965,22 @@
   },
   "ratio_mercado": 0.963,
   "motivo": "precio normal (96 % del cuartil bajo de 2823)"
+ },
+ {
+  "fecha": "2026-11-13T08:20:28.742661+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner stainless steel 18k yellow gold Mens Watch",
+  "total": 12525.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377641886580",
+  "item_id": "v1|377641886580|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date bicolor (acero y oro amarillo), esfera azul y bisel azul",
+   "referencia": "16613 (probable; no verificable en la foto)",
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "El precio está algo por debajo de mercado, pero no llega al 15 % exigido. El título no indica referencia ni número de serie, la foto es insuficiente para verificar autenticidad y el estado 'Good' no detalla caja ni papeles. Requiere verificación presencial antes de considerarlo."
+  },
+  "motivo": "triage: El precio está algo por debajo de mercado, pero no llega al 15 % exigido. El título no indica referencia ni número de serie, la foto es insuficiente para verificar autenticidad y el estado 'Good' no detalla caja ni papeles. Requiere verificación presencial antes de considerarlo. (justo 14000)"
  }
 ]
