@@ -2,57 +2,6 @@
  {
   "fecha": "2026-11-10T23:18:06.514905+00:00",
   "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, Silver Tapestry Dial, Steel & White Gold, 16234",
-  "total": 8479.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/366800292574",
-  "item_id": "v1|366800292574|0",
-  "referencia": "16234",
-  "mercado": {
-   "n": 33,
-   "p25": 6160,
-   "mediana": 6500
-  },
-  "ratio_mercado": 1.376,
-  "motivo": "precio normal (138 % del cuartil bajo de 16234)"
- },
- {
-  "fecha": "2026-11-10T23:18:06.514905+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date Two-tone Stainless Steel Automatic Women's Watch",
-  "total": 3506.75,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117514841623",
-  "item_id": "v1|117514841623|0",
-  "triage": {
-   "modelo": "Rolex Datejust 26 bicolor (acero y oro amarillo, bisel acanalado de oro, brazalete Oyster)",
-   "referencia": "69173 (probable; podría ser 6917 según la generación)",
-   "precio_justo_usd": 2700,
-   "interesante": false,
-   "nota": "El título dice Oyster Perpetual Date, pero el bisel acanalado indica Datejust. Precio pedido por encima del valor estimado para estado Good."
-  },
-  "motivo": "triage: El título dice Oyster Perpetual Date, pero el bisel acanalado indica Datejust. Precio pedido por encima del valor estimado para estado Good. (justo 2700)"
- },
- {
-  "fecha": "2026-11-10T23:18:06.514905+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, 16234, Steel & White Gold, Rhodium Roman Dial, Oys...",
-  "total": 9478.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/800901478246",
-  "item_id": "v1|800901478246|0",
-  "referencia": "16234",
-  "mercado": {
-   "n": 33,
-   "p25": 6160,
-   "mediana": 6500
-  },
-  "ratio_mercado": 1.539,
-  "motivo": "precio normal (154 % del cuartil bajo de 16234)"
- },
- {
-  "fecha": "2026-11-10T23:18:06.514905+00:00",
-  "marca": "Rolex",
   "titulo": "Renewed Rolex Datejust 36 16234, Steel & White Gold, Rose Diamond Dial, Oyste...",
   "total": 11075.0,
   "condicion": "Seller refurbished",
@@ -11011,5 +10960,56 @@
    "nota": "Precio pedido de US$7300 muy por encima del valor de venta cerrada (~US$3500-4500 sin papeles completos); el título 'Prince' no coincide con esta referencia y la foto es insuficiente para verificar."
   },
   "motivo": "triage: Precio pedido de US$7300 muy por encima del valor de venta cerrada (~US$3500-4500 sin papeles completos); el título 'Prince' no coincide con esta referencia y la foto es insuficiente para verificar. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-13T17:35:39.979508+00:00",
+  "marca": "Rolex",
+  "titulo": "2017 Rolex Explorer II 216570 Polar White Stainless Steel 42mm Watch Box Papers",
+  "total": 11203.87,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267842687275",
+  "item_id": "v1|267842687275|0",
+  "referencia": "216570",
+  "mercado": {
+   "n": 12,
+   "p25": 9572,
+   "mediana": 9847
+  },
+  "ratio_mercado": 1.17,
+  "motivo": "precio normal (117 % del cuartil bajo de 216570)"
+ },
+ {
+  "fecha": "2026-11-13T17:35:39.979508+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex DateJust 126333 Wimbledon Roman Gray 41mm 18K Steel Oyster Box Papers",
+  "total": 18548.58,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267842680451",
+  "item_id": "v1|267842680451|0",
+  "referencia": "126333",
+  "mercado": {
+   "n": 35,
+   "p25": 14950,
+   "mediana": 15293
+  },
+  "ratio_mercado": 1.241,
+  "motivo": "precio normal (124 % del cuartil bajo de 126333)"
+ },
+ {
+  "fecha": "2026-11-13T17:35:39.979508+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 68240 White Roman Diamond Stainless Steel Oyster 31mm Watch",
+  "total": 5288.82,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960191722543",
+  "item_id": "v1|960191722543|0",
+  "referencia": "68240",
+  "mercado": {
+   "n": 20,
+   "p25": 6025,
+   "mediana": 6710
+  },
+  "ratio_mercado": 0.878,
+  "motivo": "precio normal (88 % del cuartil bajo de 68240)"
  }
 ]
