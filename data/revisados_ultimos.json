@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-10T20:32:56.781893+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, 116234,  Steel & White Gold, Black Roman Dial, Jub...",
-  "total": 10676.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/366800022739",
-  "item_id": "v1|366800022739|0",
-  "referencia": "116234",
-  "mercado": {
-   "n": 42,
-   "p25": 9000,
-   "mediana": 9500
-  },
-  "ratio_mercado": 1.186,
-  "motivo": "precio normal (119 % del cuartil bajo de 116234)"
- },
- {
-  "fecha": "2026-11-10T20:32:56.781893+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere Large 18k Yellow Gold Pave Diamond Quartz Watch 887968",
-  "total": 28900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128187431032",
-  "item_id": "v1|128187431032|0",
-  "triage": {
-   "modelo": "Cartier Panthère Large de oro amarillo 18k con pavé de diamantes (esfera, bisel y brazalete), cuarzo",
-   "referencia": "887968 (según el título; no verificable en la foto)",
-   "precio_justo_usd": 27000,
-   "interesante": false,
-   "nota": "Modelo totalmente pavé en oro amarillo; el precio pedido queda cerca del valor de mercado. Verificar diamantes, autenticidad y estado del movimiento antes de comprar."
-  },
-  "motivo": "triage: Modelo totalmente pavé en oro amarillo; el precio pedido queda cerca del valor de mercado. Verificar diamantes, autenticidad y estado del movimiento antes de comprar. (justo 27000)"
- },
- {
   "fecha": "2026-11-10T20:47:57.522170+00:00",
   "marca": "Rolex",
   "titulo": "Antique 1937 Art Deco Rolex Ladies 14K White Gold Diamond Bracelet Watch 8\"",
@@ -10994,5 +10960,39 @@
   },
   "ratio_mercado": 0.964,
   "motivo": "precio normal (96 % del cuartil bajo de 116710LN)"
+ },
+ {
+  "fecha": "2026-11-13T15:05:40.434365+00:00",
+  "marca": "Rolex",
+  "titulo": "2023 Rolex Datejust 41 Wimbledon Jubilee Two Tone 126333 Full Set",
+  "total": 17495.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137927693660",
+  "item_id": "v1|137927693660|0",
+  "referencia": "126333",
+  "mercado": {
+   "n": 35,
+   "p25": 14950,
+   "mediana": 15293
+  },
+  "ratio_mercado": 1.17,
+  "motivo": "precio normal (117 % del cuartil bajo de 126333)"
+ },
+ {
+  "fecha": "2026-11-13T15:05:40.434365+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise W51005Q4 2302 Men's 2-Tone Steel & Gold Automatic Watch",
+  "total": 5450.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147679058572",
+  "item_id": "v1|147679058572|0",
+  "referencia": "2302",
+  "mercado": {
+   "n": 39,
+   "p25": 3879,
+   "mediana": 4400
+  },
+  "ratio_mercado": 1.405,
+  "motivo": "precio normal (141 % del cuartil bajo de 2302)"
  }
 ]
