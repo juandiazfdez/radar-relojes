@@ -2,46 +2,6 @@
  {
   "fecha": "2026-11-10T20:17:57.184745+00:00",
   "marca": "Rolex",
-  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
-  "total": 15991.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/327450027332",
-  "item_id": "v1|327450027332|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date (bisel negro, esfera negra)",
-   "referencia": "116610LN o 126610LN (no confirmable en la foto)",
-   "precio_justo_usd": 14500,
-   "interesante": false,
-   "nota": "Set completo con caja y papeles, pero el precio pedido supera la estimación de venta real; el 'unpolished' no justifica la diferencia."
-  },
-  "motivo": "triage: Set completo con caja y papeles, pero el precio pedido supera la estimación de venta real; el 'unpolished' no justifica la diferencia. (justo 14500)"
- },
- {
-  "fecha": "2026-11-10T20:17:57.184745+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 279381RBR 18K Rose/ S Steel 28mm Diamond Chocolate Watch Full Set",
-  "total": 19795.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/168853038506",
-  "item_id": "v1|168853038506|0",
-  "referencia": "279381RBR",
-  "mercado": {
-   "n": 1,
-   "p25": 28450,
-   "mediana": 28450
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 28 Rolesor (Oro Everose 18K / Acero) con esfera chocolate y marcadores de diamante, brazalete Jubilee, set completo",
-   "referencia": "279381RBR",
-   "precio_justo_usd": 15500,
-   "interesante": false,
-   "nota": "Precio pedido por encima de lo que se vende este modelo de segunda mano con caja y papeles; no hay descuento claro."
-  },
-  "motivo": "triage: Precio pedido por encima de lo que se vende este modelo de segunda mano con caja y papeles; no hay descuento claro. (justo 15500)"
- },
- {
-  "fecha": "2026-11-10T20:17:57.184745+00:00",
-  "marca": "Rolex",
   "titulo": "Renewed Rolex Datejust 36, 116234, Steel & White Gold, Blue Diamond Dial, Jub...",
   "total": 12173.0,
   "condicion": "Seller refurbished",
@@ -10981,5 +10941,39 @@
    "nota": "El título (6519, Oyster Perpetual de cuerda manual) no coincide con lo visible (ventanilla de fecha y brazalete jubilee); verificar referencia, papeles y autenticidad antes de comprar."
   },
   "motivo": "triage: El título (6519, Oyster Perpetual de cuerda manual) no coincide con lo visible (ventanilla de fecha y brazalete jubilee); verificar referencia, papeles y autenticidad antes de comprar. (justo 4800)"
+ },
+ {
+  "fecha": "2026-11-13T09:50:29.087263+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 SEPT ROLEX SUBMARINER DATE 126610LN 41MM BLACK STEEL OYSTER WATCH",
+  "total": 16290.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800911407370",
+  "item_id": "v1|800911407370|0",
+  "referencia": "126610LN",
+  "mercado": {
+   "n": 83,
+   "p25": 14499,
+   "mediana": 15068
+  },
+  "ratio_mercado": 1.124,
+  "motivo": "precio normal (112 % del cuartil bajo de 126610LN)"
+ },
+ {
+  "fecha": "2026-11-13T09:50:29.087263+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 41mm Two-Tone Auto Black Dial/Bezel Date 300m",
+  "total": 16500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880111635455",
+  "item_id": "v1|880111635455|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date 41mm (la foto parece acero; el título dice bicolor)",
+   "referencia": "126613LN o 126610LN (no verificable con la foto)",
+   "precio_justo_usd": 15500,
+   "interesante": false,
+   "nota": "Precio a la baja: si es bicolor 126613LN sería más alto, pero la foto muestra acero, así que hay que confirmar referencia y oro antes de comprar."
+  },
+  "motivo": "triage: Precio a la baja: si es bicolor 126613LN sería más alto, pero la foto muestra acero, así que hay que confirmar referencia y oro antes de comprar. (justo 15500)"
  }
 ]
