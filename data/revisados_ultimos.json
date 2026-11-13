@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-10T22:48:05.858130+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 26mm Silver Motif Diamond Fluted Jubilee Watch&Box 179171",
-  "total": 9995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198786403999",
-  "item_id": "v1|198786403999|0",
-  "referencia": "179171",
-  "mercado": {
-   "n": 22,
-   "p25": 10525,
-   "mediana": 11438
-  },
-  "ratio_mercado": 0.95,
-  "motivo": "precio normal (95 % del cuartil bajo de 179171)"
- },
- {
-  "fecha": "2026-11-10T22:48:05.858130+00:00",
-  "marca": "Rolex",
-  "titulo": "⌚ 2025 Rolex Datejust 41 126331 Sundust Jubilee Everose Full Set Warranty",
-  "total": 15219.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198786411094",
-  "item_id": "v1|198786411094|0",
-  "referencia": "126331",
-  "mercado": {
-   "n": 41,
-   "p25": 15990,
-   "mediana": 16500
-  },
-  "ratio_mercado": 0.952,
-  "motivo": "precio normal (95 % del cuartil bajo de 126331)"
- },
- {
-  "fecha": "2026-11-10T22:48:05.858130+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Must De 21 Two- Tone Stainless Steel Vintage Quartz Watch 1330",
-  "total": 1799.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377635907561",
-  "item_id": "v1|377635907561|0",
-  "referencia": "1330",
-  "mercado": {
-   "n": 8,
-   "p25": 1490,
-   "mediana": 1725
-  },
-  "ratio_mercado": 1.208,
-  "motivo": "precio normal (121 % del cuartil bajo de 1330)"
- },
- {
   "fecha": "2026-11-10T23:03:06.473877+00:00",
   "marca": "Rolex",
   "titulo": "Original Rolex 1530 / 1570 8106 BALANCE COMPLETE with Hairspring Swiss Made",
@@ -10999,5 +10948,56 @@
    "nota": "Precio pedido de US$47.000 por encima del rango de venta cerrada estimado para esta referencia en EE. UU.; no hay descuento."
   },
   "motivo": "triage: Precio pedido de US$47.000 por encima del rango de venta cerrada estimado para esta referencia en EE. UU.; no hay descuento. (justo 36000)"
+ },
+ {
+  "fecha": "2026-11-13T17:05:40.492895+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX YACHTMASTER Yacht-Master 40 Everose Cerachrom 126655-0002",
+  "total": 35999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/377642976041",
+  "item_id": "v1|377642976041|0",
+  "referencia": "126655",
+  "mercado": {
+   "n": 21,
+   "p25": 32950,
+   "mediana": 33430
+  },
+  "ratio_mercado": 1.093,
+  "motivo": "precio normal (109 % del cuartil bajo de 126655)"
+ },
+ {
+  "fecha": "2026-11-13T17:05:40.492895+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT Master II Full Set 126710BLNR",
+  "total": 18799.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206698525846",
+  "item_id": "v1|206698525846|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 68,
+   "p25": 18349,
+   "mediana": 18900
+  },
+  "ratio_mercado": 1.025,
+  "motivo": "precio normal (102 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-13T17:05:40.492895+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex Ref. 6694 SS Men’s Watch",
+  "total": 1395.0,
+  "condicion": "For parts or not working",
+  "url": "https://www.ebay.com/itm/137925245088",
+  "item_id": "v1|137925245088|0",
+  "referencia": "6694",
+  "mercado": {
+   "n": 13,
+   "p25": 3250,
+   "mediana": 3950
+  },
+  "ratio_mercado": 0.429,
+  "motivo": "descripcion: does not run, as is, for parts"
  }
 ]
