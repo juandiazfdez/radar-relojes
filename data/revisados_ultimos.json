@@ -1,97 +1,6 @@
 [
  {
   "fecha": "2026-11-11T15:19:11.427804+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust President Yellow Gold Diamond Dial/Bezel/Lugs 31mm Watch N 68238",
-  "total": 38700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366801882703",
-  "item_id": "v1|366801882703|0",
-  "referencia": "68238",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 31 President oro amarillo, bisel y pulseras con diamantes, esfera champagne con numerales romanos",
-   "referencia": "68238",
-   "precio_justo_usd": 21000,
-   "interesante": false,
-   "nota": "El precio pedido (US$38,700) supera con holgura el valor de venta cerrada de esta referencia. El título menciona esfera de diamantes, pero la foto muestra esfera champagne con números romanos; verificar."
-  },
-  "motivo": "triage: El precio pedido (US$38,700) supera con holgura el valor de venta cerrada de esta referencia. El título menciona esfera de diamantes, pero la foto muestra esfera champagne con números romanos; verificar. (justo 21000)"
- },
- {
-  "fecha": "2026-11-11T15:19:11.427804+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date President 18k Yellow Gold Champagne Diamond 36mm Watch '68 1803",
-  "total": 20500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366801882707",
-  "item_id": "v1|366801882707|0",
-  "triage": {
-   "modelo": "Rolex Day-Date 36 (President) en oro amarillo 18k, esfera champán con marcadores de diamantes, bisel acanalado y brazalete President",
-   "referencia": "1803",
-   "precio_justo_usd": 22000,
-   "interesante": false,
-   "nota": "La ref. 1803 es de finales de los 70 a los 80, no de 1968 como indica el título; el precio pedido está solo ~7 % por debajo del estimado, sin llegar al umbral del 15 %."
-  },
-  "motivo": "triage: La ref. 1803 es de finales de los 70 a los 80, no de 1968 como indica el título; el precio pedido está solo ~7 % por debajo del estimado, sin llegar al umbral del 15 %. (justo 22000)"
- },
- {
-  "fecha": "2026-11-11T15:19:11.427804+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sea-Dweller Deepsea James Cameron 44mm Blue Black 136660 Watch BOX PAPERS",
-  "total": 15989.51,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287721693967",
-  "item_id": "v1|287721693967|0",
-  "referencia": "136660",
-  "mercado": {
-   "n": 52,
-   "p25": 15500,
-   "mediana": 16086
-  },
-  "ratio_mercado": 1.032,
-  "motivo": "precio normal (103 % del cuartil bajo de 136660)"
- },
- {
-  "fecha": "2026-11-11T15:19:11.427804+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex DateJust Stainless Steel Dark Rhodium Diamond 41mm Watch 116334 BOX PAPERS",
-  "total": 13090.31,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940083888124",
-  "item_id": "v1|940083888124|0",
-  "referencia": "116334",
-  "mercado": {
-   "n": 24,
-   "p25": 10592,
-   "mediana": 10950
-  },
-  "ratio_mercado": 1.236,
-  "motivo": "precio normal (124 % del cuartil bajo de 116334)"
- },
- {
-  "fecha": "2026-11-11T15:19:11.427804+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise Small 18k White Gold Diamond Ladies Watch WE1002S3 2403",
-  "total": 14650.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117516084251",
-  "item_id": "v1|117516084251|0",
-  "referencia": "2403",
-  "mercado": {
-   "n": 10,
-   "p25": 6500,
-   "mediana": 7478
-  },
-  "ratio_mercado": 2.254,
-  "motivo": "precio normal (225 % del cuartil bajo de 2403)"
- },
- {
-  "fecha": "2026-11-11T15:19:11.427804+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Panthere Small 2 Row 18k Yellow Gold/Steel Ladies 23mm Watch",
   "total": 6950.0,
@@ -10992,5 +10901,102 @@
   },
   "ratio_justo": 0.984,
   "motivo": "precio normal segun revision (98 % del justo 4400)"
+ },
+ {
+  "fecha": "2026-11-13T20:20:51.088302+00:00",
+  "marca": "Rolex",
+  "titulo": "2019 Rolex Daytona Cosmograph 116500LN Black Ceramic 40mm Steel Watch Box Papers",
+  "total": 27218.5,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940089801763",
+  "item_id": "v1|940089801763|0",
+  "referencia": "116500LN",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Daytona Cosmograph (acero, bisel de cerámica negra)",
+   "referencia": "116500LN",
+   "precio_justo_usd": 27500,
+   "interesante": false,
+   "nota": "Precio pedido cercano al valor de mercado para la 116500LN con caja y papeles; no hay descuento de al menos 15 %."
+  },
+  "motivo": "triage: Precio pedido cercano al valor de mercado para la 116500LN con caja y papeles; no hay descuento de al menos 15 %. (justo 27500)"
+ },
+ {
+  "fecha": "2026-11-13T20:20:51.088302+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 116613 LB Flat Blue 18K Gold Steel Ceramic 40mm Watch Box",
+  "total": 13856.18,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940089799803",
+  "item_id": "v1|940089799803|0",
+  "referencia": "116613",
+  "mercado": {
+   "n": 71,
+   "p25": 15000,
+   "mediana": 15750
+  },
+  "ratio_mercado": 0.924,
+  "motivo": "precio normal (92 % del cuartil bajo de 116613)"
+ },
+ {
+  "fecha": "2026-11-13T20:20:51.088302+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 2018 Datejust 41mm Stainless Steel White Gold Fluted Oyster 126334",
+  "total": 11750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128192998116",
+  "item_id": "v1|128192998116|0",
+  "referencia": "126334",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 41 (acero y oro blanco, bisel acanalado, esfera blanca, brazalete Oyster)",
+   "referencia": "126334",
+   "precio_justo_usd": 11000,
+   "interesante": false,
+   "nota": "Precio pedido ~7% sobre el valor estimado para 126334 de 2018 en estado Good; sin caja ni papeles confirmados."
+  },
+  "motivo": "triage: Precio pedido ~7% sobre el valor estimado para 126334 de 2018 en estado Good; sin caja ni papeles confirmados. (justo 11000)"
+ },
+ {
+  "fecha": "2026-11-13T20:20:51.088302+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41mm Steel Gold JUBILEE Silver 126333 ROLEX WARRANTYCARD #1948-2",
+  "total": 14945.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880113749107",
+  "item_id": "v1|880113749107|0",
+  "referencia": "126333",
+  "mercado": {
+   "n": 35,
+   "p25": 14950,
+   "mediana": 15293
+  },
+  "ratio_mercado": 1.0,
+  "motivo": "precio normal (100 % del cuartil bajo de 126333)"
+ },
+ {
+  "fecha": "2026-11-13T20:20:51.088302+00:00",
+  "marca": "Tudor",
+  "titulo": "9/2026 Tudor Monarch Dark Champagne Steel 39mm Auto Men's Watch 2639W1A0U",
+  "total": 7250.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860141377758",
+  "item_id": "v1|860141377758|0",
+  "triage": {
+   "modelo": "Tudor Monarch (dial champagne oscuro, acero, automático, 39 mm)",
+   "referencia": null,
+   "precio_justo_usd": 2900,
+   "interesante": false,
+   "nota": "El precio pedido (US$7,250) está muy por encima del mercado secundario de un Monarch de acero actual; la referencia 2639W1A0U no la puedo verificar y la foto parece un dial claro de estilo vintage, no un dial oscuro, así que la descripción no cuadra."
+  },
+  "motivo": "triage: El precio pedido (US$7,250) está muy por encima del mercado secundario de un Monarch de acero actual; la referencia 2639W1A0U no la puedo verificar y la foto parece un dial claro de estilo vintage, no un dial oscuro, así que la descripción no cuadra. (justo 2900)"
  }
 ]
