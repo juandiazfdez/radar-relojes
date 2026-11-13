@@ -1590,13 +1590,13 @@
   "max": 6500
  },
  "Tudor 79250BA|usado": {
-  "fecha": "2026-11-08",
+  "fecha": "2026-11-13",
   "consulta": "Tudor 79250BA",
-  "n": 8,
-  "mediana": 4007,
-  "p25": 3893,
+  "n": 10,
+  "mediana": 3946,
+  "p25": 3540,
   "p75": 4021,
-  "min": 2924,
+  "min": 2819,
   "max": 6500
  },
  "Tudor 79250BB|usado": {
@@ -21183,5 +21183,10 @@
   "p75": 3685,
   "min": 3000,
   "max": 4525
+ },
+ "Cartier 1650|usado": {
+  "fecha": "2026-11-13",
+  "consulta": "Cartier 1650",
+  "n": 0
  }
 }

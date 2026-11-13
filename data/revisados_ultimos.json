@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-10T20:17:57.184745+00:00",
   "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, 116234, Steel & White Gold, Silver Floral Dial, Ju...",
-  "total": 11275.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/206690305135",
-  "item_id": "v1|206690305135|0",
-  "referencia": "116234",
-  "mercado": {
-   "n": 42,
-   "p25": 9000,
-   "mediana": 9500
-  },
-  "ratio_mercado": 1.253,
-  "motivo": "precio normal (125 % del cuartil bajo de 116234)"
- },
- {
-  "fecha": "2026-11-10T20:17:57.184745+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, 116234, Steel & White Gold, Black Dial, Jubilee Br...",
-  "total": 10776.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/366799993737",
-  "item_id": "v1|366799993737|0",
-  "referencia": "116234",
-  "mercado": {
-   "n": 42,
-   "p25": 9000,
-   "mediana": 9500
-  },
-  "ratio_mercado": 1.197,
-  "motivo": "precio normal (120 % del cuartil bajo de 116234)"
- },
- {
-  "fecha": "2026-11-10T20:17:57.184745+00:00",
-  "marca": "Rolex",
   "titulo": "Renewed Rolex Datejust 36, 116234, Steel & White Gold, Black Dial, Oyster Bra...",
   "total": 10576.0,
   "condicion": "Seller refurbished",
@@ -10982,5 +10948,39 @@
   },
   "ratio_justo": 1.111,
   "motivo": "precio normal segun revision (111 % del justo 6000)"
+ },
+ {
+  "fecha": "2026-11-13T10:20:28.583986+00:00",
+  "marca": "Cartier",
+  "titulo": "Panthere de Cartier Watch 27mm 18K White Gold 1650 Size: 7",
+  "total": 13700.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/307280422186",
+  "item_id": "v1|307280422186|0",
+  "referencia": "1650",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": null,
+  "motivo": "triage no disponible"
+ },
+ {
+  "fecha": "2026-11-13T10:20:28.583986+00:00",
+  "marca": "Tudor",
+  "titulo": "2025 Tudor Black Bay Bronze 43mm Gray 79250BA - Warranty until 2030!",
+  "total": 3546.01,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168859101769",
+  "item_id": "v1|168859101769|0",
+  "referencia": "79250BA",
+  "mercado": {
+   "n": 10,
+   "p25": 3540,
+   "mediana": 3946
+  },
+  "ratio_mercado": 1.002,
+  "motivo": "precio normal (100 % del cuartil bajo de 79250BA)"
  }
 ]
