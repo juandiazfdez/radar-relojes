@@ -1,79 +1,5 @@
 [
  {
-  "fecha": "2026-11-11T16:49:11.328502+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Pasha C Automatic Watch Stainless Steel 35",
-  "total": 3335.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117516205148",
-  "item_id": "v1|117516205148|0",
-  "triage": {
-   "modelo": "Cartier Pasha C Automatic 35 mm, acero, esfera plateada",
-   "referencia": "W31074M7 (probable; ref. 2324 en generación anterior)",
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "Precio pedido US$3,335 por estado Good, probablemente sin caja y papeles; el mercado secundario de esta referencia ronda US$2,600-3,000, así que no hay descuento claro."
-  },
-  "motivo": "triage: Precio pedido US$3,335 por estado Good, probablemente sin caja y papeles; el mercado secundario de esta referencia ronda US$2,600-3,000, así que no hay descuento claro. (justo 2800)"
- },
- {
-  "fecha": "2026-11-11T17:04:10.872460+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sea-Dweller 43mm Red Text Black Ceramic Steel 126600 2020 Box Papers",
-  "total": 12475.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960183528898",
-  "item_id": "v1|960183528898|0",
-  "referencia": "126600",
-  "mercado": {
-   "n": 52,
-   "p25": 13021,
-   "mediana": 14020
-  },
-  "ratio_mercado": 0.958,
-  "motivo": "precio normal (96 % del cuartil bajo de 126600)"
- },
- {
-  "fecha": "2026-11-11T17:04:10.872460+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II Batgirl Blue Black Jubilee 126710BLNR 2026 Box Papers",
-  "total": 21075.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960183528899",
-  "item_id": "v1|960183528899|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 67,
-   "p25": 18145,
-   "mediana": 18750
-  },
-  "ratio_mercado": 1.161,
-  "motivo": "precio normal (116 % del cuartil bajo de 126710BLNR)"
- },
- {
-  "fecha": "2026-11-11T17:04:10.872460+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona Black 116500 Mint 2019 + Warranty",
-  "total": 26700.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940084098072",
-  "item_id": "v1|940084098072|0",
-  "referencia": "116500",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Daytona (cronógrafo) esfera negra, bisel de cerámica negra, brazalete Oyster de acero",
-   "referencia": "116500LN",
-   "precio_justo_usd": 28000,
-   "interesante": false,
-   "nota": "Referencia 116500LN de acero con bisel cerámico negro. Con caja y papeles de 2019 se vende en el mercado secundario en torno a US$27-29k, así que el precio pedido solo está un ~5% por debajo: no cumple el umbral del 15%."
-  },
-  "motivo": "triage: Referencia 116500LN de acero con bisel cerámico negro. Con caja y papeles de 2019 se vende en el mercado secundario en torno a US$27-29k, así que el precio pedido solo está un ~5% por debajo: no cumple el umbral del 15%. (justo 28000)"
- },
- {
   "fecha": "2026-11-11T17:04:10.872460+00:00",
   "marca": "Rolex",
   "titulo": "1952-1953 Rolex Oyster Perpetual Semi Bubbleback Vintage Watch Reference 6084",
@@ -10980,5 +10906,80 @@
    "nota": "El precio pedido (US$5975) supera ampliamente el retail (~US$3,400-3,600) y el mercado gris (~US$2,600-3,000); además, la fecha '11/2026' del título es inusual y conviene verificarla."
   },
   "motivo": "triage: El precio pedido (US$5975) supera ampliamente el retail (~US$3,400-3,600) y el mercado gris (~US$2,600-3,000); además, la fecha '11/2026' del título es inusual y conviene verificarla. (justo 2900)"
+ },
+ {
+  "fecha": "2026-11-13T21:35:50.926741+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Americaine White Gold Automatic Rectangle Bracelet Watch W26036L1",
+  "total": 19950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900089129809",
+  "item_id": "v1|900089129809|0",
+  "triage": {
+   "modelo": "Cartier Tank Américaine (tamaño pequeño/mediano, esfera plateada con números romanos)",
+   "referencia": "W26036L1 (según título; la foto parece acero, no oro blanco)",
+   "precio_justo_usd": 12000,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del mercado para este modelo; además la foto parece acero y el título dice oro blanco, así que hay que verificar material y referencia antes de cualquier oferta."
+  },
+  "motivo": "triage: Precio pedido muy por encima del mercado para este modelo; además la foto parece acero y el título dice oro blanco, así que hay que verificar material y referencia antes de cualquier oferta. (justo 12000)"
+ },
+ {
+  "fecha": "2026-11-13T21:35:50.926741+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ronde Must De Cartier",
+  "total": 4000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267842856113",
+  "item_id": "v1|267842856113|0",
+  "triage": {
+   "modelo": "Cartier Ronde Must de Cartier Automatic (acero, esfera blanca, numerales romanos, fecha)",
+   "referencia": "WSRN0030 (probable, verificar con caja/papeles)",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Precio pedido de US$4000 con envío, sin rebaja de al menos 15% frente al valor de venta cerrada de un Ronde Must automático de acero en estado Good."
+  },
+  "motivo": "triage: Precio pedido de US$4000 con envío, sin rebaja de al menos 15% frente al valor de venta cerrada de un Ronde Must automático de acero en estado Good. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-13T21:35:50.926741+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay GMT Pepsi Stainless Steel Watch 79830RB FULL SET (2023)",
+  "total": 3195.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/860141518342",
+  "item_id": "v1|860141518342|0",
+  "referencia": "79830RB",
+  "mercado": {
+   "n": 53,
+   "p25": 3780,
+   "mediana": 4000
+  },
+  "ratio_mercado": 0.845,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 3350,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado, rayones visibles en caja y laterales, correa desgastada, sin brazalete de acero"
+  },
+  "ratio_justo": 0.954,
+  "motivo": "precio normal segun revision (95 % del justo 3350)"
+ },
+ {
+  "fecha": "2026-11-13T21:35:50.926741+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 58 39mm Stainless Steel M7939A1A0NU-0001",
+  "total": 5150.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940089924264",
+  "item_id": "v1|940089924264|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 39mm (acero)",
+   "referencia": "M7939A1A0NU-0001 (según el título; verificar, la foto muestra esfera oscura y bisel negro)",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "Precio pedido US$5150 muy por encima del valor de venta real (retail aprox. US$3800 y usados sin sobreprecio cerca de US$3000-3600), incluso con caja y papeles. Verificar referencia y año."
+  },
+  "motivo": "triage: Precio pedido US$5150 muy por encima del valor de venta real (retail aprox. US$3800 y usados sin sobreprecio cerca de US$3000-3600), incluso con caja y papeles. Verificar referencia y año. (justo 3400)"
  }
 ]
