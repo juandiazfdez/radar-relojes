@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-10T20:17:57.184745+00:00",
   "marca": "Rolex",
-  "titulo": "MINT Rolex Milgauss Diamond Iced Out Pave Sapphire 116400 Steel Watch Box",
-  "total": 11102.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287719532285",
-  "item_id": "v1|287719532285|0",
-  "referencia": "116400",
-  "mercado": {
-   "n": 43,
-   "p25": 11607,
-   "mediana": 12173
-  },
-  "ratio_mercado": 0.956,
-  "motivo": "precio normal (96 % del cuartil bajo de 116400)"
- },
- {
-  "fecha": "2026-11-10T20:17:57.184745+00:00",
-  "marca": "Rolex",
   "titulo": "2020 NEW PAPERS Rolex Day Date 40 White Gold President GREEN OLIVE 228239 Watch",
   "total": 47462.05,
   "condicion": "Pre-owned - Excellent",
@@ -10976,5 +10959,22 @@
   },
   "ratio_mercado": 0.902,
   "motivo": "precio normal (90 % del cuartil bajo de 16610)"
+ },
+ {
+  "fecha": "2026-11-13T06:35:28.645872+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 40mm 116619LB Smurf White Gold 2014",
+  "total": 44999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147678521623",
+  "item_id": "v1|147678521623|0",
+  "referencia": "116619LB",
+  "mercado": {
+   "n": 5,
+   "p25": 49999,
+   "mediana": 50699
+  },
+  "ratio_mercado": 0.9,
+  "motivo": "precio normal (90 % del cuartil bajo de 116619LB)"
  }
 ]
