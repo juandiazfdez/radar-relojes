@@ -2,47 +2,6 @@
  {
   "fecha": "2026-11-10T20:17:57.184745+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex GMT Master II 126710BLNR “Batgirl” 40mm 2023 Box & Papers",
-  "total": 19865.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267840024242",
-  "item_id": "v1|267840024242|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 68,
-   "p25": 18145,
-   "mediana": 18825
-  },
-  "ratio_mercado": 1.095,
-  "motivo": "precio normal (109 % del cuartil bajo de 126710BLNR)"
- },
- {
-  "fecha": "2026-11-10T20:17:57.184745+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner 16800, Black Dial, Stainless Steel Case & Oyster Bracelet, Vtg",
-  "total": 8750.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377635710119",
-  "item_id": "v1|377635710119|0",
-  "referencia": "16800",
-  "mercado": {
-   "n": 15,
-   "p25": 11950,
-   "mediana": 12900
-  },
-  "ratio_mercado": 0.732,
-  "claude": {
-   "veredicto": "alerta",
-   "precio_justo_usd": 10500,
-   "riesgo_autenticidad": "medio",
-   "estado": "Bueno, con desgaste normal de 40 años: brazalete algo estirado, perla del bisel envejecida y posible daño en la ventana del fechador"
-  },
-  "ratio_justo": 0.833,
-  "motivo": "ALERTA"
- },
- {
-  "fecha": "2026-11-10T20:17:57.184745+00:00",
-  "marca": "Rolex",
   "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
   "total": 15991.0,
   "condicion": "Pre-owned - Excellent",
@@ -10982,5 +10941,45 @@
    "nota": "El precio está algo por debajo de mercado, pero no llega al 15 % exigido. El título no indica referencia ni número de serie, la foto es insuficiente para verificar autenticidad y el estado 'Good' no detalla caja ni papeles. Requiere verificación presencial antes de considerarlo."
   },
   "motivo": "triage: El precio está algo por debajo de mercado, pero no llega al 15 % exigido. El título no indica referencia ni número de serie, la foto es insuficiente para verificar autenticidad y el estado 'Good' no detalla caja ni papeles. Requiere verificación presencial antes de considerarlo. (justo 14000)"
+ },
+ {
+  "fecha": "2026-11-13T09:05:29.524453+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36mm 116234 Fluted On Jubilee Blue Roman 2010",
+  "total": 9249.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147678654686",
+  "item_id": "v1|147678654686|0",
+  "referencia": "116234",
+  "mercado": {
+   "n": 49,
+   "p25": 9025,
+   "mediana": 9745
+  },
+  "ratio_mercado": 1.025,
+  "motivo": "precio normal (102 % del cuartil bajo de 116234)"
+ },
+ {
+  "fecha": "2026-11-13T09:05:29.524453+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex OYSTER PERPETUAL 6519",
+  "total": 3520.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920132029856",
+  "item_id": "v1|920132029856|0",
+  "referencia": "6519",
+  "mercado": {
+   "n": 3,
+   "p25": 3300,
+   "mediana": 4800
+  },
+  "triage": {
+   "modelo": "Rolex Datejust (aparente), esfera azul, brazalete jubilee. El título dice Oyster Perpetual 6519",
+   "referencia": null,
+   "precio_justo_usd": 4800,
+   "interesante": false,
+   "nota": "El título (6519, Oyster Perpetual de cuerda manual) no coincide con lo visible (ventanilla de fecha y brazalete jubilee); verificar referencia, papeles y autenticidad antes de comprar."
+  },
+  "motivo": "triage: El título (6519, Oyster Perpetual de cuerda manual) no coincide con lo visible (ventanilla de fecha y brazalete jubilee); verificar referencia, papeles y autenticidad antes de comprar. (justo 4800)"
  }
 ]
