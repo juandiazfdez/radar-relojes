@@ -1,51 +1,5 @@
 [
  {
-  "fecha": "2026-11-11T16:04:11.695923+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Large Blue WSSA0071 unworn 09/2026",
-  "total": 8550.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/336892215130",
-  "item_id": "v1|336892215130|0",
-  "referencia": "WSSA0071",
-  "mercado": {
-   "n": 2,
-   "p25": 8070,
-   "mediana": 8285
-  },
-  "triage": {
-   "modelo": "Cartier Santos de Cartier Large (acero, esfera azul, brazalete de acero)",
-   "referencia": "WSSA0071",
-   "precio_justo_usd": 7000,
-   "interesante": false,
-   "nota": "Nuevo con caja y papeles; en el mercado gris suele venderse alrededor de US$6.800-7.500, por debajo del precio de US$8.550 pedido. No hay descuento suficiente para considerarlo oportunidad."
-  },
-  "motivo": "triage: Nuevo con caja y papeles; en el mercado gris suele venderse alrededor de US$6.800-7.500, por debajo del precio de US$8.550 pedido. No hay descuento suficiente para considerarlo oportunidad. (justo 7000)"
- },
- {
-  "fecha": "2026-11-11T16:04:11.695923+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier 21 Autoscaph Automatic Mens Watch, Ref. 2427 - Stainless Steel",
-  "total": 1399.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227607871174",
-  "item_id": "v1|227607871174|0",
-  "referencia": "2427",
-  "mercado": {
-   "n": 2,
-   "p25": 1595,
-   "mediana": 1648
-  },
-  "triage": {
-   "modelo": "Cartier Must 21 Autoscaph (acero, esfera oscura)",
-   "referencia": "2427",
-   "precio_justo_usd": 1150,
-   "interesante": false,
-   "nota": "Precio pedido de US$1399 está por encima de lo que se vende realmente este modelo usado en estado Good; sin caja ni papeles confirmados."
-  },
-  "motivo": "triage: Precio pedido de US$1399 está por encima de lo que se vende realmente este modelo usado en estado Good; sin caja ni papeles confirmados. (justo 1150)"
- },
- {
   "fecha": "2026-11-11T16:19:11.072555+00:00",
   "marca": "Rolex",
   "titulo": "Vintage Rolex Oyster Commander WW2 Men’s Military Watch",
@@ -11004,5 +10958,39 @@
    "nota": "Precio pedido US$7300 supera el valor de venta estimado de un LM de acero de uso en buen estado; no cumple el umbral del 15 %."
   },
   "motivo": "triage: Precio pedido US$7300 supera el valor de venta estimado de un LM de acero de uso en buen estado; no cumple el umbral del 15 %. (justo 6300)"
+ },
+ {
+  "fecha": "2026-11-13T21:05:51.042794+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date 40 Gold Olive 228235",
+  "total": 68000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206698955639",
+  "item_id": "v1|206698955639|0",
+  "referencia": "228235",
+  "mercado": {
+   "n": 50,
+   "p25": 52999,
+   "mediana": 56700
+  },
+  "ratio_mercado": 1.283,
+  "motivo": "precio normal (128 % del cuartil bajo de 228235)"
+ },
+ {
+  "fecha": "2026-11-13T21:05:51.042794+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Steel 18K White Gold Automatic Men's Watch 116234",
+  "total": 10199.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960192832173",
+  "item_id": "v1|960192832173|0",
+  "referencia": "116234",
+  "mercado": {
+   "n": 49,
+   "p25": 9025,
+   "mediana": 9745
+  },
+  "ratio_mercado": 1.13,
+  "motivo": "precio normal (113 % del cuartil bajo de 116234)"
  }
 ]
