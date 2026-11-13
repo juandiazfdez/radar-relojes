@@ -1,68 +1,5 @@
 [
  {
-  "fecha": "2026-11-10T19:47:57.367351+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise Small Steel Diamond Ladies Watch W4TA0008 Box Card",
-  "total": 7500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257846006263",
-  "item_id": "v1|257846006263|0",
-  "referencia": "W4TA0008",
-  "mercado": {
-   "n": 3,
-   "p25": 5505,
-   "mediana": 5725
-  },
-  "triage": {
-   "modelo": "Cartier Tank Française small (20x25 mm aprox.), acero con bisel de diamantes, esfera plateada con números romanos, cuarzo",
-   "referencia": "W4TA0008",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "Precio pedido de US$7500 muy por encima del mercado secundario para esta referencia de segunda mano, aunque tenga caja y tarjeta."
-  },
-  "motivo": "triage: Precio pedido de US$7500 muy por encima del mercado secundario para esta referencia de segunda mano, aunque tenga caja y tarjeta. (justo 3800)"
- },
- {
-  "fecha": "2026-11-10T19:47:57.367351+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Prince Big Block 79180",
-  "total": 8100.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257846008414",
-  "item_id": "v1|257846008414|0",
-  "referencia": "79180",
-  "mercado": {
-   "n": 3,
-   "p25": 6500,
-   "mediana": 7500
-  },
-  "triage": {
-   "modelo": "Tudor Prince Big Block Chronograph (acero, esfera negra con subesferas crema)",
-   "referencia": "79180",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Precio pedido de US$8100 está muy por encima del valor de venta cerrada para esta referencia en estado Good; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$8100 está muy por encima del valor de venta cerrada para esta referencia en estado Good; no es una oportunidad. (justo 3500)"
- },
- {
-  "fecha": "2026-11-10T20:02:56.707417+00:00",
-  "marca": "Rolex",
-  "titulo": "1983 Rolex Day-Date Champagne 18K Yellow Gold 18038 36mm Presidential Watch",
-  "total": 16999.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267840009823",
-  "item_id": "v1|267840009823|0",
-  "referencia": "18038",
-  "mercado": {
-   "n": 17,
-   "p25": 8970,
-   "mediana": 10459
-  },
-  "ratio_mercado": 1.895,
-  "motivo": "precio normal (190 % del cuartil bajo de 18038)"
- },
- {
   "fecha": "2026-11-10T20:02:56.707417+00:00",
   "marca": "Rolex",
   "titulo": "Renewed Rolex Datejust 36, 116234, Steel & White Gold, Black Diamond Dial, Ju...",
@@ -10953,5 +10890,56 @@
   },
   "ratio_mercado": 0.903,
   "motivo": "precio normal (90 % del cuartil bajo de 28600)"
+ },
+ {
+  "fecha": "2026-11-13T00:20:05.945450+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex Precision 18K Yellow Gold Ref 2648 Cal 1400 Ladies Watch 2024 Serv",
+  "total": 1975.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900086759249",
+  "item_id": "v1|900086759249|0",
+  "triage": {
+   "modelo": "Rolex Precision (dama, oro amarillo 18K, cuerda manual, caja tonneau)",
+   "referencia": "2648 (según título, no verificable en la foto)",
+   "precio_justo_usd": 1300,
+   "interesante": false,
+   "nota": "Precio pedido de US$1975 supera el valor de venta cerrada estimado para este modelo de oro 18K en condición Good, aunque esté servicio. Sin caja ni papeles; la referencia no se verifica en la imagen."
+  },
+  "motivo": "triage: Precio pedido de US$1975 supera el valor de venta cerrada estimado para este modelo de oro 18K en condición Good, aunque esté servicio. Sin caja ni papeles; la referencia no se verifica en la imagen. (justo 1300)"
+ },
+ {
+  "fecha": "2026-11-13T00:20:05.945450+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Day-Date 36 18238, Yellow Gold, President Bracelet, Champagne J...",
+  "total": 24952.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/206696930710",
+  "item_id": "v1|206696930710|0",
+  "referencia": "18238",
+  "mercado": {
+   "n": 36,
+   "p25": 15667,
+   "mediana": 20770
+  },
+  "ratio_mercado": 1.593,
+  "motivo": "precio normal (159 % del cuartil bajo de 18238)"
+ },
+ {
+  "fecha": "2026-11-13T00:20:05.945450+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 58 Burgundy 39mm Reference 7939A1A0RU 2026 Full Set",
+  "total": 4674.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/900086762430",
+  "item_id": "v1|900086762430|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 Burgundy 39 mm",
+   "referencia": "M7939A1A0RU",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "Nuevo con caja y papeles; el listado de US$4.674 supera el retail, así que no hay descuento frente al precio de mercado."
+  },
+  "motivo": "triage: Nuevo con caja y papeles; el listado de US$4.674 supera el retail, así que no hay descuento frente al precio de mercado. (justo 3400)"
  }
 ]
