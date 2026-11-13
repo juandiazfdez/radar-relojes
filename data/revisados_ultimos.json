@@ -1,137 +1,5 @@
 [
  {
-  "fecha": "2026-11-10T20:47:57.522170+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, 116234, Steel & White Gold, Black Roman Dial, Oyst...",
-  "total": 10476.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/800901130521",
-  "item_id": "v1|800901130521|0",
-  "referencia": "116234",
-  "mercado": {
-   "n": 42,
-   "p25": 9000,
-   "mediana": 9500
-  },
-  "ratio_mercado": 1.164,
-  "motivo": "precio normal (116 % del cuartil bajo de 116234)"
- },
- {
-  "fecha": "2026-11-10T20:47:57.522170+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, 116234, Steel & White Gold, Rose Roman Dial, Jubil...",
-  "total": 10776.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/206690344392",
-  "item_id": "v1|206690344392|0",
-  "referencia": "116234",
-  "mercado": {
-   "n": 42,
-   "p25": 9000,
-   "mediana": 9500
-  },
-  "ratio_mercado": 1.197,
-  "motivo": "precio normal (120 % del cuartil bajo de 116234)"
- },
- {
-  "fecha": "2026-11-10T20:47:57.522170+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, 116234, Steel & White Gold, Blue Concentric Arabic...",
-  "total": 11375.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/800901140693",
-  "item_id": "v1|800901140693|0",
-  "referencia": "116234",
-  "mercado": {
-   "n": 42,
-   "p25": 9000,
-   "mediana": 9500
-  },
-  "ratio_mercado": 1.264,
-  "motivo": "precio normal (126 % del cuartil bajo de 116234)"
- },
- {
-  "fecha": "2026-11-10T20:47:57.522170+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, 116234, Steel & White Gold, Blue Concentric Arabic...",
-  "total": 11574.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/366800040437",
-  "item_id": "v1|366800040437|0",
-  "referencia": "116234",
-  "mercado": {
-   "n": 42,
-   "p25": 9000,
-   "mediana": 9500
-  },
-  "ratio_mercado": 1.286,
-  "motivo": "precio normal (129 % del cuartil bajo de 116234)"
- },
- {
-  "fecha": "2026-11-10T20:47:57.522170+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier 2384 Tank Francais Lady’s Steel Quartz Watch EXCELLENT",
-  "total": 2375.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/377635739542",
-  "item_id": "v1|377635739542|0",
-  "referencia": "2384",
-  "mercado": {
-   "n": 39,
-   "p25": 3750,
-   "mediana": 4095
-  },
-  "ratio_mercado": 0.633,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 2250,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, buen estado general; desgaste visible en brazalete y caja, esfera con leve amarilleo en los bordes"
-  },
-  "ratio_justo": 1.056,
-  "motivo": "precio normal segun revision (106 % del justo 2250)"
- },
- {
-  "fecha": "2026-11-10T21:03:06.614089+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, 116234,  Steel & White Gold, Blue Roman Dial, Oyst...",
-  "total": 10676.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/366800052745",
-  "item_id": "v1|366800052745|0",
-  "referencia": "116234",
-  "mercado": {
-   "n": 42,
-   "p25": 9000,
-   "mediana": 9500
-  },
-  "ratio_mercado": 1.186,
-  "motivo": "precio normal (119 % del cuartil bajo de 116234)"
- },
- {
-  "fecha": "2026-11-10T21:18:05.875459+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Américaine 26x45mm WB704851 18K Rose Gold Women's Watch",
-  "total": 18325.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168853108354",
-  "item_id": "v1|168853108354|0",
-  "referencia": "WB704851",
-  "mercado": {
-   "n": 2,
-   "p25": 14495,
-   "mediana": 15092
-  },
-  "triage": {
-   "modelo": "Cartier Tank Américaine (talla grande, oro rosa 18K con bisel de diamantes, correa de cocodrilo marrón)",
-   "referencia": "WB704851",
-   "precio_justo_usd": 20000,
-   "interesante": false,
-   "nota": "Precio cercano al mercado secundario para esta versión con bisel pavé en oro rosa; el descuento no llega al 15 % y la estimación es aproximada según las fotos."
-  },
-  "motivo": "triage: Precio cercano al mercado secundario para esta versión con bisel pavé en oro rosa; el descuento no llega al 15 % y la estimación es aproximada según las fotos. (justo 20000)"
- },
- {
   "fecha": "2026-11-10T21:18:05.875459+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Francaise Small Steel Diamond Ladies Watch W4TA0008 Box Card",
@@ -11006,5 +10874,136 @@
    "nota": "Modelo auténtico y reconocible, pero el precio pedido de US$4838 supera con creces lo que se vende esta referencia en estado Good, aunque tenga papeles."
   },
   "motivo": "triage: Modelo auténtico y reconocible, pero el precio pedido de US$4838 supera con creces lo que se vende esta referencia en estado Good, aunque tenga papeles. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-13T15:35:40.700084+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 126720VTNR GMT Master II on Jubilee",
+  "total": 21925.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/920139518482",
+  "item_id": "v1|920139518482|0",
+  "referencia": "126720VTNR",
+  "mercado": {
+   "n": 62,
+   "p25": 18250,
+   "mediana": 19100
+  },
+  "ratio_mercado": 1.201,
+  "motivo": "precio normal (120 % del cuartil bajo de 126720VTNR)"
+ },
+ {
+  "fecha": "2026-11-13T15:35:40.700084+00:00",
+  "marca": "Rolex",
+  "titulo": "1991 36mm Rolex Datejust 16234 Jubilee Bracelet X Serial",
+  "total": 6250.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860140679312",
+  "item_id": "v1|860140679312|0",
+  "referencia": "16234",
+  "mercado": {
+   "n": 35,
+   "p25": 6160,
+   "mediana": 6500
+  },
+  "ratio_mercado": 1.015,
+  "motivo": "precio normal (101 % del cuartil bajo de 16234)"
+ },
+ {
+  "fecha": "2026-11-13T15:35:40.700084+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 116600 Seadweller (New Old Stock)",
+  "total": 21925.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/920139498985",
+  "item_id": "v1|920139498985|0",
+  "referencia": "116600",
+  "mercado": {
+   "n": 2,
+   "p25": 20945,
+   "mediana": 22098
+  },
+  "triage": {
+   "modelo": "Rolex Sea-Dweller 40 mm (acero, bisel negro, serie 116600)",
+   "referencia": "116600",
+   "precio_justo_usd": 13500,
+   "interesante": false,
+   "nota": "Referencia descontinuada de la 116600 con caja y papeles; el precio pedido de US$21.925 está muy por encima del mercado. La foto no permite confirmar la referencia exacta."
+  },
+  "motivo": "triage: Referencia descontinuada de la 116600 con caja y papeles; el precio pedido de US$21.925 está muy por encima del mercado. La foto no permite confirmar la referencia exacta. (justo 13500)"
+ },
+ {
+  "fecha": "2026-11-13T15:35:40.700084+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 126000 Oyster Perpetual with Jubilee Motif",
+  "total": 17925.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/920139498771",
+  "item_id": "v1|920139498771|0",
+  "referencia": "126000",
+  "mercado": {
+   "n": 39,
+   "p25": 11000,
+   "mediana": 11998
+  },
+  "ratio_mercado": 1.63,
+  "motivo": "precio normal (163 % del cuartil bajo de 126000)"
+ },
+ {
+  "fecha": "2026-11-13T15:35:40.700084+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 14060M Submariner No Date (New Old Stock)",
+  "total": 17925.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/920139498416",
+  "item_id": "v1|920139498416|0",
+  "referencia": "14060M",
+  "mercado": {
+   "n": 1,
+   "p25": 22628,
+   "mediana": 22628
+  },
+  "triage": {
+   "modelo": "Rolex Submariner No Date (bisel negro de aluminio, brazalete de acero)",
+   "referencia": "14060M",
+   "precio_justo_usd": 9500,
+   "interesante": false,
+   "nota": "Precio pedido de US$17.925 muy por encima del valor de venta cerrada de una 14060M con caja y papeles; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$17.925 muy por encima del valor de venta cerrada de una 14060M con caja y papeles; no es una oportunidad. (justo 9500)"
+ },
+ {
+  "fecha": "2026-11-13T15:35:40.700084+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 126713GRNR GMT Master II 18K/SS on Jubilee",
+  "total": 25925.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/920139497959",
+  "item_id": "v1|920139497959|0",
+  "referencia": "126713GRNR",
+  "mercado": {
+   "n": 24,
+   "p25": 24000,
+   "mediana": 24942
+  },
+  "ratio_mercado": 1.08,
+  "motivo": "precio normal (108 % del cuartil bajo de 126713GRNR)"
+ },
+ {
+  "fecha": "2026-11-13T15:35:40.700084+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier 20mm x 25mm Tank Française White Roman Steel W51008Q3 - No Papers",
+  "total": 3920.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287727274623",
+  "item_id": "v1|287727274623|0",
+  "triage": {
+   "modelo": "Cartier Tank Française 20 x 25 mm, cuarzo, acero, esfera blanca con números romanos",
+   "referencia": "W51008Q3",
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Precio pedido de US$3.920 muy por encima del valor de venta cerrada de esta referencia sin papeles; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$3.920 muy por encima del valor de venta cerrada de esta referencia sin papeles; no es una oportunidad. (justo 2300)"
  }
 ]
