@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-10T20:17:57.184745+00:00",
   "marca": "Rolex",
-  "titulo": "2024 MINT Rolex 126334 DateJust 41 Blue Roman Oyster Fluted Watch Box",
-  "total": 12415.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940081735198",
-  "item_id": "v1|940081735198|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 acero y oro blanco, esfera azul con numerales romanos, brazalete Oyster",
-   "referencia": "126334",
-   "precio_justo_usd": 13000,
-   "interesante": false,
-   "nota": "Precio cerca del mercado secundario para esta referencia en 2024; no hay descuento de al menos 15%."
-  },
-  "motivo": "triage: Precio cerca del mercado secundario para esta referencia en 2024; no hay descuento de al menos 15%. (justo 13000)"
- },
- {
-  "fecha": "2026-11-10T20:17:57.184745+00:00",
-  "marca": "Rolex",
   "titulo": "MINT Rolex Milgauss Diamond Iced Out Pave Sapphire 116400 Steel Watch Box",
   "total": 11102.05,
   "condicion": "Pre-owned - Excellent",
@@ -10982,5 +10959,22 @@
    "nota": "Precio cercano al valor de mercado gris para un set completo nuevo; no supera el umbral del 15 % y la referencia debe verificarse."
   },
   "motivo": "triage: Precio cercano al valor de mercado gris para un set completo nuevo; no supera el umbral del 15 % y la referencia debe verificarse. (justo 6300)"
+ },
+ {
+  "fecha": "2026-11-13T06:20:17.354246+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner 16610 with date watch",
+  "total": 9000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336893455810",
+  "item_id": "v1|336893455810|0",
+  "referencia": "16610",
+  "mercado": {
+   "n": 80,
+   "p25": 9977,
+   "mediana": 10445
+  },
+  "ratio_mercado": 0.902,
+  "motivo": "precio normal (90 % del cuartil bajo de 16610)"
  }
 ]
