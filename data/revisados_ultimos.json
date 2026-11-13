@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-10T20:17:57.184745+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, 116234, Steel & White Gold, Black Dial, Oyster Bra...",
-  "total": 10576.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/800901059660",
-  "item_id": "v1|800901059660|0",
-  "referencia": "116234",
-  "mercado": {
-   "n": 42,
-   "p25": 9000,
-   "mediana": 9500
-  },
-  "ratio_mercado": 1.175,
-  "motivo": "precio normal (118 % del cuartil bajo de 116234)"
- },
- {
-  "fecha": "2026-11-10T20:17:57.184745+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos Ronde 1920 W20026K1 Date Stainless Steel 33MM Unisex Automatic",
   "total": 3235.0,
@@ -10982,5 +10965,28 @@
   },
   "ratio_mercado": 1.002,
   "motivo": "precio normal (100 % del cuartil bajo de 79250BA)"
+ },
+ {
+  "fecha": "2026-11-13T10:35:28.808811+00:00",
+  "marca": "Cartier",
+  "titulo": "Excelle CARTIER BALLON BLEU DE CARTIER LM WSBB0026 42mm SS Silver #C22898",
+  "total": 3500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407357794645",
+  "item_id": "v1|407357794645|0",
+  "referencia": "WSBB0026",
+  "mercado": {
+   "n": 2,
+   "p25": 5750,
+   "mediana": 5800
+  },
+  "triage": {
+   "modelo": "Cartier Ballon Bleu de Cartier 42 mm acero, esfera plateada, con correa de piel negra (con caja y papeles)",
+   "referencia": "WSBB0026",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio pedido cercano al valor de venta cerrada para esta referencia en condición Good; no hay descuento de al menos 15%."
+  },
+  "motivo": "triage: Precio pedido cercano al valor de venta cerrada para esta referencia en condición Good; no hay descuento de al menos 15%. (justo 3300)"
  }
 ]
