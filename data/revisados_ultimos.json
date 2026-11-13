@@ -1,136 +1,5 @@
 [
  {
-  "fecha": "2026-11-11T08:33:24.729217+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX LADIES DATEJUST 69136 SILVER FACTORY DIAMOND PLATINUM PRESIDENT WATCH",
-  "total": 15890.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840117021203",
-  "item_id": "v1|840117021203|0",
-  "referencia": "69136",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Lady-Datejust 26 mm con bisel de diamantes, esfera plateada con marcadores de diamante y brazalete President",
-   "referencia": "69136 (según título; verificar, la referencia no es visible en la foto)",
-   "precio_justo_usd": 11500,
-   "interesante": false,
-   "nota": "El título dice platino, pero la referencia 69136 suele ser oro blanco 18k; el material no se puede confirmar en la foto. Precio pedido por encima del rango de venta estimado para este modelo y estado."
-  },
-  "motivo": "triage: El título dice platino, pero la referencia 69136 suele ser oro blanco 18k; el material no se puede confirmar en la foto. Precio pedido por encima del rango de venta estimado para este modelo y estado. (justo 11500)"
- },
- {
-  "fecha": "2026-11-11T08:33:24.729217+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Pasha 38mm W3014356 18K Yellow Gold Unisex Watch",
-  "total": 12485.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/860133544326",
-  "item_id": "v1|860133544326|0",
-  "referencia": "W3014356",
-  "mercado": {
-   "n": 1,
-   "p25": 14205,
-   "mediana": 14205
-  },
-  "triage": {
-   "modelo": "Cartier Pasha de Cartier 38 mm, oro amarillo 18K, esfera plateada, numerales arábigos y ventana de fecha, correa de cuero",
-   "referencia": "W3014356 (según el título; no verificable con la foto)",
-   "precio_justo_usd": 10500,
-   "interesante": false,
-   "nota": "Precio pedido ~19 % por encima de la estimación de venta cerrada para este modelo en estado Good; sin caja ni papeles visibles, no hay margen de compra."
-  },
-  "motivo": "triage: Precio pedido ~19 % por encima de la estimación de venta cerrada para este modelo en estado Good; sin caja ni papeles visibles, no hay margen de compra. (justo 10500)"
- },
- {
-  "fecha": "2026-11-11T08:48:25.639064+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX DAYTONA COSMOGRAPH ZENITH 16523 CHAMPAGNE 18K GOLD STEEL WATCH w/ PAPER",
-  "total": 19390.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880104899542",
-  "item_id": "v1|880104899542|0",
-  "referencia": "16523",
-  "mercado": {
-   "n": 24,
-   "p25": 17963,
-   "mediana": 19198
-  },
-  "ratio_mercado": 1.079,
-  "motivo": "precio normal (108 % del cuartil bajo de 16523)"
- },
- {
-  "fecha": "2026-11-11T09:48:25.153323+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona 40mm 116519ln White Gold Ghost on Oysterflex 2020",
-  "total": 46999.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147675810533",
-  "item_id": "v1|147675810533|0",
-  "referencia": "116519LN",
-  "mercado": {
-   "n": 20,
-   "p25": 46500,
-   "mediana": 48100
-  },
-  "ratio_mercado": 1.011,
-  "motivo": "precio normal (101 % del cuartil bajo de 116519LN)"
- },
- {
-  "fecha": "2026-11-11T10:18:25.281311+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Yacht-Master 40mm 126655 Rose Gold On OysterFlex 2021",
-  "total": 31750.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147675845576",
-  "item_id": "v1|147675845576|0",
-  "referencia": "126655",
-  "mercado": {
-   "n": 20,
-   "p25": 32999,
-   "mediana": 33808
-  },
-  "ratio_mercado": 0.962,
-  "motivo": "precio normal (96 % del cuartil bajo de 126655)"
- },
- {
-  "fecha": "2026-11-11T10:33:25.273407+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 40mm 116713LN Two Tone Oyster 2009",
-  "total": 15999.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147675848098",
-  "item_id": "v1|147675848098|0",
-  "referencia": "116713LN",
-  "mercado": {
-   "n": 35,
-   "p25": 14132,
-   "mediana": 15055
-  },
-  "ratio_mercado": 1.132,
-  "motivo": "precio normal (113 % del cuartil bajo de 116713LN)"
- },
- {
-  "fecha": "2026-11-11T13:03:24.845874+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 126610LV “Starbucks” – 2022",
-  "total": 14862.04,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/800903461844",
-  "item_id": "v1|800903461844|0",
-  "referencia": "126610LV",
-  "mercado": {
-   "n": 40,
-   "p25": 16289,
-   "mediana": 16504
-  },
-  "ratio_mercado": 0.912,
-  "motivo": "precio normal (91 % del cuartil bajo de 126610LV)"
- },
- {
   "fecha": "2026-11-11T13:18:25.006157+00:00",
   "marca": "Rolex",
   "titulo": "Rolex DateJust 41 Stainless Steel Black 41mm 126300 Oyster Watch Excellent WOW!!",
@@ -10991,5 +10860,142 @@
   },
   "ratio_mercado": 1.035,
   "motivo": "precio normal (103 % del cuartil bajo de 16610)"
+ },
+ {
+  "fecha": "2026-11-13T19:35:50.654981+00:00",
+  "marca": "Rolex",
+  "titulo": "Ladies Rolex DateJust 179174 Silver Diamond Steel 18K Gold Oyster 26mm Watch Box",
+  "total": 7838.34,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267842773261",
+  "item_id": "v1|267842773261|0",
+  "referencia": "179174",
+  "mercado": {
+   "n": 51,
+   "p25": 8349,
+   "mediana": 8950
+  },
+  "ratio_mercado": 0.939,
+  "motivo": "precio normal (94 % del cuartil bajo de 179174)"
+ },
+ {
+  "fecha": "2026-11-13T19:35:50.654981+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 126333 Datejust 41mm Steel Gold JUBILEE Silver *WARRANTYCARD 2021* #1690-3",
+  "total": 14945.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206698790884",
+  "item_id": "v1|206698790884|0",
+  "referencia": "126333",
+  "mercado": {
+   "n": 35,
+   "p25": 14950,
+   "mediana": 15293
+  },
+  "ratio_mercado": 1.0,
+  "motivo": "precio normal (100 % del cuartil bajo de 126333)"
+ },
+ {
+  "fecha": "2026-11-13T19:35:50.654981+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Steel White Gold Salmon Ladies Watch 79174 Papers",
+  "total": 7180.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336896118341",
+  "item_id": "v1|336896118341|0",
+  "triage": {
+   "modelo": "Rolex Datejust 26 mm acero y oro blanco, bisel acanalado, esfera salmón con marcadores (posiblemente diamantes), brazalete Jubilee",
+   "referencia": "79174",
+   "precio_justo_usd": 6800,
+   "interesante": false,
+   "nota": "Precio pedido de US$7180 con envío, unos 5-6 % por encima de la venta real estimada para esta referencia y estado. Verificar esfera, diamantes y papeles antes de considerarlo."
+  },
+  "motivo": "triage: Precio pedido de US$7180 con envío, unos 5-6 % por encima de la venta real estimada para esta referencia y estado. Verificar esfera, diamantes y papeles antes de considerarlo. (justo 6800)"
+ },
+ {
+  "fecha": "2026-11-13T19:35:50.654981+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Automatic 41mm Stainless Steel Grey Roman Men's Watch 116334BKRO",
+  "total": 11500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407360935619",
+  "item_id": "v1|407360935619|0",
+  "referencia": "116334BKRO",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust II 41mm, acero Oystersteel con bisel estriado de oro blanco, esfera negra con numerales romanos",
+   "referencia": "116334 (variante 116334BKRO)",
+   "precio_justo_usd": 11800,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para la 116334 de la generación 2016-2023; la oferta está solo ~3% por debajo, sin descuento suficiente para ser interesante."
+  },
+  "motivo": "triage: Precio cercano al mercado para la 116334 de la generación 2016-2023; la oferta está solo ~3% por debajo, sin descuento suficiente para ser interesante. (justo 11800)"
+ },
+ {
+  "fecha": "2026-11-13T19:35:50.654981+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Americaine White Gold Diamond Ladies Watch WB701851 Box Papers",
+  "total": 10330.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336896119555",
+  "item_id": "v1|336896119555|0",
+  "referencia": "WB701851",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Tank Américaine (talla pequeña/mediana, oro blanco con bisel de diamantes, cuarzo)",
+   "referencia": "WB701851",
+   "precio_justo_usd": 10000,
+   "interesante": false,
+   "nota": "Precio pedido en línea con el mercado de segunda mano con caja y papeles; no hay descuento de al menos 15%."
+  },
+  "motivo": "triage: Precio pedido en línea con el mercado de segunda mano con caja y papeles; no hay descuento de al menos 15%. (justo 10000)"
+ },
+ {
+  "fecha": "2026-11-13T19:35:50.654981+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Pelagos FXD Chrono Cycline Edition Carbon Mens Watch 25827KN Box Card",
+  "total": 5190.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940089729791",
+  "item_id": "v1|940089729791|0",
+  "referencia": "25827KN",
+  "mercado": {
+   "n": 8,
+   "p25": 4299,
+   "mediana": 4475
+  },
+  "ratio_mercado": 1.207,
+  "motivo": "precio normal (121 % del cuartil bajo de 25827KN)"
+ },
+ {
+  "fecha": "2026-11-13T19:35:50.654981+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Royal M28400-0009 Automatic PinkDial Men Immaculate ",
+  "total": 2699.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820351408834",
+  "item_id": "v1|820351408834|0",
+  "referencia": "M28400-0009",
+  "mercado": {
+   "n": 1,
+   "p25": 2212,
+   "mediana": 2212
+  },
+  "triage": {
+   "modelo": "Tudor Royal (aparente, pero la foto no coincide)",
+   "referencia": "M28400-0009",
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "La foto muestra un reloj de acero con brazalete de eslabones y esfera rosa que parece un Swatch, no un Tudor Royal. Verificar el modelo real antes de considerar la compra."
+  },
+  "motivo": "triage: La foto muestra un reloj de acero con brazalete de eslabones y esfera rosa que parece un Swatch, no un Tudor Royal. Verificar el modelo real antes de considerar la compra. (justo 2300)"
  }
 ]
