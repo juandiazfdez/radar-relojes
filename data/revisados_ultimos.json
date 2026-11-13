@@ -3,23 +3,6 @@
   "fecha": "2026-11-10T20:32:56.781893+00:00",
   "marca": "Rolex",
   "titulo": "Renewed Rolex Datejust 36, 116234, Steel & White Gold, Bronze Waves Arabic Di...",
-  "total": 12173.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/800901095223",
-  "item_id": "v1|800901095223|0",
-  "referencia": "116234",
-  "mercado": {
-   "n": 42,
-   "p25": 9000,
-   "mediana": 9500
-  },
-  "ratio_mercado": 1.353,
-  "motivo": "precio normal (135 % del cuartil bajo de 116234)"
- },
- {
-  "fecha": "2026-11-10T20:32:56.781893+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, 116234, Steel & White Gold, Bronze Waves Arabic Di...",
   "total": 11974.0,
   "condicion": "Seller refurbished",
   "url": "https://www.ebay.com/itm/206690318777",
@@ -10994,5 +10977,22 @@
   },
   "ratio_mercado": 0.944,
   "motivo": "precio normal (94 % del cuartil bajo de 127234)"
+ },
+ {
+  "fecha": "2026-11-13T14:05:39.654685+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR 1926 M91650-0011 - MSRP $2650",
+  "total": 1817.04,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366807473370",
+  "item_id": "v1|366807473370|0",
+  "referencia": "M91650-0011",
+  "mercado": {
+   "n": 5,
+   "p25": 1858,
+   "mediana": 2098
+  },
+  "ratio_mercado": 0.978,
+  "motivo": "precio normal (98 % del cuartil bajo de M91650-0011)"
  }
 ]
