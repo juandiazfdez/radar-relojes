@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T00:50:18.555298+00:00",
+ "actualizado": "2026-11-13T01:05:17.221573+00:00",
  "ventana_horas": 2.0,
  "marcas": [
   "Rolex",
@@ -7,13 +7,93 @@
   "Tudor"
  ],
  "corrida": {
-  "nuevos_vistos": 6,
+  "nuevos_vistos": 4,
   "descartes": {
-   "titulo": 6
+   "titulo": 3
   },
-  "alertas_nuevas": 0,
-  "llamadas_ebay": 3,
+  "alertas_nuevas": 1,
+  "llamadas_ebay": 5,
   "cuota_agotada": false
  },
- "alertas_hoy": []
+ "alertas_hoy": [
+  {
+   "fecha": "2026-11-13T01:05:17.221573+00:00",
+   "marca": "Tudor",
+   "titulo": "TUDOR Submariner 94400",
+   "precio": 1899.0,
+   "envio": 35.0,
+   "total": 1934.0,
+   "mercado": {
+    "fecha": "2026-11-13",
+    "consulta": "Tudor 94400",
+    "n": 1,
+    "mediana": 3414,
+    "p25": 3414,
+    "p75": 3414,
+    "min": 3414,
+    "max": 3414
+   },
+   "triage": {
+    "modelo": "Tudor Prince Oysterdate Mini-Sub (Submariner)",
+    "referencia": "94400",
+    "precio_justo_usd": 2900,
+    "interesante": true,
+    "nota": "Esfera azul con texto Mini-Sub y bisel azul; precio pedido de US$1934 queda ~33% bajo el valor estimado. Verificar autenticidad, estado de la esfera y movimiento antes de comprar."
+   },
+   "vendedor": "martmegg",
+   "valoraciones": 836,
+   "pct_positivo": "100.0",
+   "url": "https://www.ebay.com/itm/940087602651",
+   "item_id": "v1|940087602651|0",
+   "info": {
+    "departamento": "Unisex Adults",
+    "referencia": "94400",
+    "modelo_esp": "TUDOR Submariner",
+    "caja_mm": "33 mm",
+    "material": "Stainless Steel",
+    "ano": null,
+    "movimiento": "Mechanical (Automatic)",
+    "caja_original": "No",
+    "papeles": "No",
+    "condicion": "Pre-owned - Good",
+    "condicion_id": "3000",
+    "condicion_desc": "Vintage Tudor Mini Sub by Rolex in Wonderful Condition!",
+    "garantia_autenticidad": false,
+    "devoluciones": false,
+    "amarillas": [
+     "hairline",
+     "scratch",
+     "scratches",
+     "wear"
+    ],
+    "imagenes": [
+     "https://i.ebayimg.com/images/g/YZ8AAeSw82Rq85MU/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/Wp8AAeSwbetq85Ms/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/59MAAeSwSkJq85M1/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/HvQAAeSw9aVq85M8/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/F9YAAeSwXmpq85NC/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/97cAAeSwnWlq85NN/s-l1600.jpg"
+    ]
+   },
+   "claude": {
+    "veredicto": "dudoso",
+    "modelo": "Tudor Prince Oysterdate Mini-Sub (Submariner midsize 33 mm) ref. 94400, esfera y bisel azules, brazalete 7837",
+    "estado": "Usado, desgaste visible en caja y brazalete; esfera aparentemente original; sin servicio conocido",
+    "riesgo_autenticidad": "medio",
+    "completo": false,
+    "razones": [
+     "El modelo parece coherente: logo Tudor con escudo, texto 'Prince Oysterdate' y '200m=660ft Mini-Sub', 'SWISS MADE' a las 6, fecha a las 3, plots y manecillas con pátina crema uniforme. La corona lleva la rosa de Rolex, algo normal en Tudor de esa época. No veo señales claras de réplica.",
+     "Las fotos son de fondo blanco con aspecto de catálogo de dealer japonés, no de un particular de eBay con 836 valoraciones. Puede ser que las tomara otro vendedor o que sean robadas. Hay que pedir fotos propias con una nota o la fecha.",
+     "Falta la foto del fondo de caja, así que no se pueden verificar el número de serie ni la referencia. Tampoco hay foto del movimiento. Sin esos datos no se puede confirmar que la caja, el movimiento y el brazalete sean originales entre sí.",
+     "La descripción habla de 'hairline scratches', pero las fotos laterales muestran rayones marcados y pulido irregular en los flancos de las asas. El estado real es peor que 'Wonderful Condition'. El bisel y el cristal parecen aceptables.",
+     "No hay caja, papeles ni eslabones extra. El historial de servicio es desconocido y el propio vendedor recomienda revisar el reloj, así que hay que sumar entre US$250 y 400 de servicio. La publicación no ofrece garantía de autenticidad ni devoluciones.",
+     "La referencia 94400 tiene muy poca liquidez y poca demanda por su tamaño de 33 mm. El único comparable pedido (US$3,414) es un precio de lista inflado. Un precio de venta cerrado realista está entre US$2,100 y 2,600.",
+     "Con US$1,934 hay un descuento de unos 15 a 20 % sobre el precio justo conservador. Después de contar el servicio, el margen es modesto y solo compensa si se verifican el fondo de caja y el movimiento."
+    ],
+    "precio_justo_usd": 2300,
+    "precio_reventa_rd_usd": 2650
+   },
+   "ratio_justo": 0.841
+  }
+ ]
 }

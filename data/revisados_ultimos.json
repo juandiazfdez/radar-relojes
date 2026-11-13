@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-10T20:02:56.707417+00:00",
   "marca": "Rolex",
-  "titulo": "2021 NEW PAPERS Rolex 126619LB Submariner Blue Cookie Monster Gold 41mm Watch",
-  "total": 36352.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940081693865",
-  "item_id": "v1|940081693865|0",
-  "referencia": "126619LB",
-  "mercado": {
-   "n": 20,
-   "p25": 38990,
-   "mediana": 39925
-  },
-  "ratio_mercado": 0.932,
-  "motivo": "precio normal (93 % del cuartil bajo de 126619LB)"
- },
- {
-  "fecha": "2026-11-10T20:02:56.707417+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex 34mm Date 14k Yellow Gold Automatic Vintage 1503 Oyster Perpetual Date 75",
   "total": 6100.0,
   "condicion": "Pre-owned - Good",
@@ -10947,5 +10930,35 @@
    "nota": "Ranger 79910 de 41 mm con caja, usado en excelente estado; se vende cerca de US$2.300-2.700, así que US$2.750 está por encima del rango."
   },
   "motivo": "triage: Ranger 79910 de 41 mm con caja, usado en excelente estado; se vende cerca de US$2.300-2.700, así que US$2.750 está por encima del rango. (justo 2500)"
+ },
+ {
+  "fecha": "2026-11-13T01:05:17.221573+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Submariner 94400",
+  "total": 1934.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940087602651",
+  "item_id": "v1|940087602651|0",
+  "referencia": "94400",
+  "mercado": {
+   "n": 1,
+   "p25": 3414,
+   "mediana": 3414
+  },
+  "triage": {
+   "modelo": "Tudor Prince Oysterdate Mini-Sub (Submariner)",
+   "referencia": "94400",
+   "precio_justo_usd": 2900,
+   "interesante": true,
+   "nota": "Esfera azul con texto Mini-Sub y bisel azul; precio pedido de US$1934 queda ~33% bajo el valor estimado. Verificar autenticidad, estado de la esfera y movimiento antes de comprar."
+  },
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 2300,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado, desgaste visible en caja y brazalete; esfera aparentemente original; sin servicio conocido"
+  },
+  "ratio_justo": 0.841,
+  "motivo": "ALERTA"
  }
 ]
