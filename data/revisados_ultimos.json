@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-10T22:03:06.095217+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master GMT-Master II Stainless Steel / BLNR / Jubilee 126710BLNR-0002",
-  "total": 19615.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267840114289",
-  "item_id": "v1|267840114289|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 68,
-   "p25": 18145,
-   "mediana": 18825
-  },
-  "ratio_mercado": 1.081,
-  "motivo": "precio normal (108 % del cuartil bajo de 126710BLNR)"
- },
- {
-  "fecha": "2026-11-10T22:03:06.095217+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Octagon Diamond 18K Yellow Gold Watch",
-  "total": 12000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407353972811",
-  "item_id": "v1|407353972811|0",
-  "triage": {
-   "modelo": "Cartier Santos Octagon (cuarzo, oro amarillo 18k, esfera nácar con índices de diamante)",
-   "referencia": "1057930 (probable; no confirmada en la foto)",
-   "precio_justo_usd": 7500,
-   "interesante": false,
-   "nota": "Precio pedido US$12,000 está muy por encima del valor de venta cerrada estimado para este modelo de oro cuarzo; referencia estimada desde la foto."
-  },
-  "motivo": "triage: Precio pedido US$12,000 está muy por encima del valor de venta cerrada estimado para este modelo de oro cuarzo; referencia estimada desde la foto. (justo 7500)"
- },
- {
-  "fecha": "2026-11-10T22:03:06.095217+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Royal M28400-0001 Excellent condition",
-  "total": 2211.8,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/860132168214",
-  "item_id": "v1|860132168214|0",
-  "referencia": "M28400-0001",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Tudor Royal (38 mm, acero, esfera plateada, bisel negro)",
-   "referencia": "M28400-0001",
-   "precio_justo_usd": 2350,
-   "interesante": false,
-   "nota": "Precio pedido de US$2212 solo ~6 % bajo un valor de venta estimado de US$2350 para esta referencia en estado excelente; la identificación se basa en la foto y el título."
-  },
-  "motivo": "triage: Precio pedido de US$2212 solo ~6 % bajo un valor de venta estimado de US$2350 para esta referencia en estado excelente; la identificación se basa en la foto y el título. (justo 2350)"
- },
- {
   "fecha": "2026-11-10T22:18:05.694499+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual 6332 Bubbleback Mens 33mm Stainless Steel TS 366571",
@@ -11011,5 +10954,62 @@
   },
   "ratio_mercado": 1.066,
   "motivo": "precio normal (107 % del cuartil bajo de 79030B)"
+ },
+ {
+  "fecha": "2026-11-13T16:20:40.395564+00:00",
+  "marca": "Rolex",
+  "titulo": "Tudor by Rolex Prince OysterDate Automatic Date Men's 34mm Watch Reference 74033",
+  "total": 2031.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227612793645",
+  "item_id": "v1|227612793645|0",
+  "triage": {
+   "modelo": "Tudor Prince Oysterdate (serie 74000), automático con fecha, acero 34 mm",
+   "referencia": "74033",
+   "precio_justo_usd": 2100,
+   "interesante": false,
+   "nota": "Precio en línea con el mercado para un 74033 de estado bueno; la correa de cuero no es original y el valor depende de la esfera y de si incluye papeles o caja."
+  },
+  "motivo": "triage: Precio en línea con el mercado para un 74033 de estado bueno; la correa de cuero no es original y el valor depende de la esfera y de si incluye papeles o caja. (justo 2100)"
+ },
+ {
+  "fecha": "2026-11-13T16:20:40.395564+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 116234 2015 Full Set With Factory Stickers",
+  "total": 10500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820350907811",
+  "item_id": "v1|820350907811|0",
+  "referencia": "116234",
+  "mercado": {
+   "n": 49,
+   "p25": 9025,
+   "mediana": 9745
+  },
+  "ratio_mercado": 1.163,
+  "motivo": "precio normal (116 % del cuartil bajo de 116234)"
+ },
+ {
+  "fecha": "2026-11-13T16:20:40.395564+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere De Cartier ref. WGPN0008 4178 “Small Model, Yellow Gold”",
+  "total": 21065.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206698462241",
+  "item_id": "v1|206698462241|0",
+  "referencia": "WGPN0008",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Panthère de Cartier, modelo pequeño, oro amarillo, cuarzo",
+   "referencia": "WGPN0008 (según el título; no verificable en la imagen)",
+   "precio_justo_usd": 9500,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de venta cerrada para este modelo en estado Good; no hay razón visible para pagar más de US$10.000."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de venta cerrada para este modelo en estado Good; no hay razón visible para pagar más de US$10.000. (justo 9500)"
  }
 ]
