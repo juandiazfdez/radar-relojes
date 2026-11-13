@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-11T19:04:11.629982+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona Panda Men's Watch 116500 Swiss Automatic Steel 40mm Box 2021 Card",
-  "total": 43999.89,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206692522708",
-  "item_id": "v1|206692522708|0",
-  "referencia": "116500",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Cosmograph Daytona 'Panda' (esfera blanca, bisel cerámica negra, brazalete de acero)",
-   "referencia": "116500LN",
-   "precio_justo_usd": 31000,
-   "interesante": false,
-   "nota": "Precio pedido de US$44.000 está muy por encima del valor de venta cerrada (aprox. US$29.000-33.000 con caja y papeles en 2021). No es oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$44.000 está muy por encima del valor de venta cerrada (aprox. US$29.000-33.000 con caja y papeles en 2021). No es oportunidad. (justo 31000)"
- },
- {
-  "fecha": "2026-11-11T19:19:10.955253+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Ladies Date 26mm Gold & S/S Watch 6917",
-  "total": 3985.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336892479029",
-  "item_id": "v1|336892479029|0",
-  "referencia": "6917",
-  "mercado": {
-   "n": 43,
-   "p25": 3990,
-   "mediana": 4200
-  },
-  "ratio_mercado": 0.999,
-  "motivo": "precio normal (100 % del cuartil bajo de 6917)"
- },
- {
-  "fecha": "2026-11-11T19:19:10.955253+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 116610 Wildman Blue Lapis Lazuli Stone 40mm Steel Watch",
-  "total": 18353.58,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900083523733",
-  "item_id": "v1|900083523733|0",
-  "referencia": "116610",
-  "mercado": {
-   "n": 46,
-   "p25": 12450,
-   "mediana": 12638
-  },
-  "ratio_mercado": 1.474,
-  "motivo": "precio normal (147 % del cuartil bajo de 116610)"
- },
- {
   "fecha": "2026-11-11T19:19:10.955253+00:00",
   "marca": "Rolex",
   "titulo": "1969 Rolex Day-Date President 1803 Champagne 18k Yellow Gold 36mm Vintage Watch",
@@ -10982,5 +10925,62 @@
   },
   "ratio_mercado": 0.958,
   "motivo": "precio normal (96 % del cuartil bajo de 126680)"
+ },
+ {
+  "fecha": "2026-11-13T23:51:08.578295+00:00",
+  "marca": "Rolex",
+  "titulo": "Unworn Rolex Oyster Perpetual 277200 Full Set",
+  "total": 12850.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206699345828",
+  "item_id": "v1|206699345828|0",
+  "referencia": "277200",
+  "mercado": {
+   "n": 18,
+   "p25": 9715,
+   "mediana": 11622
+  },
+  "ratio_mercado": 1.323,
+  "motivo": "precio normal (132 % del cuartil bajo de 277200)"
+ },
+ {
+  "fecha": "2026-11-13T23:51:08.578295+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1986 Tudor Prince Oysterdate By Rolex 75204 Automatic 34mm ",
+  "total": 1994.8,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327454939628",
+  "item_id": "v1|327454939628|0",
+  "triage": {
+   "modelo": "Tudor Prince Oysterdate (Prince Oysterdate by Rolex), automático, acero, esfera plateada, fecha a las 3, brazalete Jubilee",
+   "referencia": "75204 (no verificable con la foto; podría ser 75200)",
+   "precio_justo_usd": 1700,
+   "interesante": false,
+   "nota": "Precio pedido de 1995 USD por encima de lo que se vende este modelo de los años 80 en estado Good; no hay descuento de al menos 15 %."
+  },
+  "motivo": "triage: Precio pedido de 1995 USD por encima de lo que se vende este modelo de los años 80 en estado Good; no hay descuento de al menos 15 %. (justo 1700)"
+ },
+ {
+  "fecha": "2026-11-13T23:51:08.578295+00:00",
+  "marca": "Tudor",
+  "titulo": "Brand New Tudor Ranger 36mm Ref. M79930 Complete Set",
+  "total": 3757.04,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/237181721545",
+  "item_id": "v1|237181721545|0",
+  "referencia": "M79930",
+  "mercado": {
+   "n": 1,
+   "p25": 3605,
+   "mediana": 3605
+  },
+  "triage": {
+   "modelo": "Tudor Ranger 36mm (esfera negra, brazalete de acero)",
+   "referencia": "M79930",
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Precio pedido cercano a retail; el mercado gris de dealers para un Ranger nuevo con caja y papeles suele estar 15-20 % por debajo, así que no hay descuento claro."
+  },
+  "motivo": "triage: Precio pedido cercano a retail; el mercado gris de dealers para un Ranger nuevo con caja y papeles suele estar 15-20 % por debajo, así que no hay descuento claro. (justo 3100)"
  }
 ]
