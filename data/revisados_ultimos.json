@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-11T17:34:11.628951+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX Submariner Date 40mm 16613 FULL SET with Box & Papers",
-  "total": 11985.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/900083345933",
-  "item_id": "v1|900083345933|0",
-  "referencia": "16613",
-  "mercado": {
-   "n": 90,
-   "p25": 11770,
-   "mediana": 12000
-  },
-  "ratio_mercado": 1.018,
-  "motivo": "precio normal (102 % del cuartil bajo de 16613)"
- },
- {
-  "fecha": "2026-11-11T17:34:11.628951+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner 124060 No Date 41mm Black 2025 Full Set Box Papers Mint",
-  "total": 12650.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206692581882",
-  "item_id": "v1|206692581882|0",
-  "referencia": "124060",
-  "mercado": {
-   "n": 46,
-   "p25": 13765,
-   "mediana": 14150
-  },
-  "ratio_mercado": 0.919,
-  "motivo": "precio normal (92 % del cuartil bajo de 124060)"
- },
- {
-  "fecha": "2026-11-11T17:34:11.628951+00:00",
-  "marca": "Tudor",
-  "titulo": "2022 TUDOR Heritage Black Bay 79230N Automatic Men's Watch 41MM FULL SET",
-  "total": 3375.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/820343429443",
-  "item_id": "v1|820343429443|0",
-  "referencia": "79230N",
-  "mercado": {
-   "n": 16,
-   "p25": 3375,
-   "mediana": 3597
-  },
-  "ratio_mercado": 1.0,
-  "motivo": "precio normal (100 % del cuartil bajo de 79230N)"
- },
- {
   "fecha": "2026-11-11T17:49:11.572043+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Explorer 114270 Steel Oyster Bracelet 36mm Very Good Condition",
@@ -10969,5 +10918,62 @@
    "nota": "Precio pedido en línea con el mercado de usado; no hay descuento de al menos 15 % y no se ven caja ni papeles."
   },
   "motivo": "triage: Precio pedido en línea con el mercado de usado; no hay descuento de al menos 15 % y no se ven caja ni papeles. (justo 2300)"
+ },
+ {
+  "fecha": "2026-11-13T22:20:51.253267+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Rolex Cosmograph Daytona, 126500LN, 40mm, Steel, White Dial, Oyster Brac...",
+  "total": 36033.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800913391964",
+  "item_id": "v1|800913391964|0",
+  "referencia": "126500LN",
+  "mercado": {
+   "n": 14,
+   "p25": 33895,
+   "mediana": 37041
+  },
+  "ratio_mercado": 1.063,
+  "motivo": "precio normal (106 % del cuartil bajo de 126500LN)"
+ },
+ {
+  "fecha": "2026-11-13T22:20:51.253267+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Anglaise XL Automatic Date Two-Tone Bracelet Watch Box & Papers",
+  "total": 8500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860141628078",
+  "item_id": "v1|860141628078|0",
+  "triage": {
+   "modelo": "Cartier Tank Anglaise XL Automatic, acero y oro rosa (two-tone), esfera plateada con números romanos",
+   "referencia": "Probablemente W5310039 (no verificada en la imagen)",
+   "precio_justo_usd": 6800,
+   "interesante": false,
+   "nota": "Con caja y papeles, su precio de venta cerrada en EE. UU. ronda US$6.500-7.200; el pedido de US$8.500 está por encima del mercado."
+  },
+  "motivo": "triage: Con caja y papeles, su precio de venta cerrada en EE. UU. ronda US$6.500-7.200; el pedido de US$8.500 está por encima del mercado. (justo 6800)"
+ },
+ {
+  "fecha": "2026-11-13T22:20:51.253267+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Medium Stainless Steel Watch WSSA0029",
+  "total": 8000.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/407361199693",
+  "item_id": "v1|407361199693|0",
+  "referencia": "WSSA0029",
+  "mercado": {
+   "n": 3,
+   "p25": 8292,
+   "mediana": 8494
+  },
+  "triage": {
+   "modelo": "Cartier Santos de Cartier Medium, acero, automático, esfera blanca con números romanos",
+   "referencia": "WSSA0029",
+   "precio_justo_usd": 6300,
+   "interesante": false,
+   "nota": "Nuevo con caja y papeles se vende en mercado gris por debajo de retail, en torno a US$6.000-6.500. El pedido de US$8.000 está por encima del precio de mercado."
+  },
+  "motivo": "triage: Nuevo con caja y papeles se vende en mercado gris por debajo de retail, en torno a US$6.000-6.500. El pedido de US$8.000 está por encima del precio de mercado. (justo 6300)"
  }
 ]
