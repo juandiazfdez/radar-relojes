@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-11T19:49:10.905000+00:00",
   "marca": "Rolex",
-  "titulo": "1966 Vintage Rolex Oyster Perpetual Date Yellow Gold Silver Index 34mm 1500",
-  "total": 8700.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336892529952",
-  "item_id": "v1|336892529952|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date 34mm, oro amarillo (esfera plateada, índices de bastón, fecha a las 3)",
-   "referencia": "1501 probable (el título dice 1500, que corresponde a acero; el oro amarillo sería 1501)",
-   "precio_justo_usd": 6500,
-   "interesante": false,
-   "nota": "El título mezcla referencia y material: el 1500 es acero y la foto muestra oro amarillo, así que hay que verificar la referencia y si es oro macizo o chapado. Aun siendo un 1501 genuino en buen estado, US$8.700 queda por encima del precio de venta cerrada."
-  },
-  "motivo": "triage: El título mezcla referencia y material: el 1500 es acero y la foto muestra oro amarillo, así que hay que verificar la referencia y si es oro macizo o chapado. Aun siendo un 1501 genuino en buen estado, US$8.700 queda por encima del precio de venta cerrada. (justo 6500)"
- },
- {
-  "fecha": "2026-11-11T19:49:10.905000+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Explorer I 114270 Black 36mm 3-6-9 Stainless Steel Automatic MK1 Watch",
   "total": 7124.64,
   "condicion": "Pre-owned - Excellent",
@@ -10968,5 +10951,28 @@
    "nota": "Precio pedido US$15.900 por encima del valor de venta cerrada estimado para esta referencia con caja y papeles en EE. UU.; no parece oportunidad."
   },
   "motivo": "triage: Precio pedido US$15.900 por encima del valor de venta cerrada estimado para esta referencia con caja y papeles en EE. UU.; no parece oportunidad. (justo 13500)"
+ },
+ {
+  "fecha": "2026-11-14T01:36:07.252288+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR 1926 M91650-0011 - MSRP $2650",
+  "total": 2457.04,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366808568766",
+  "item_id": "v1|366808568766|0",
+  "referencia": "M91650-0011",
+  "mercado": {
+   "n": 4,
+   "p25": 2098,
+   "mediana": 2129
+  },
+  "triage": {
+   "modelo": "Tudor 1926 (esfera plateada, brazalete Jubilee de acero)",
+   "referencia": "M91650-0011",
+   "precio_justo_usd": 2000,
+   "interesante": false,
+   "nota": "Precio pedido de US$2457 está por encima del precio de mercado gris (~US$1,900-2,100 con caja y papeles) y apenas 7 % bajo MSRP; no hay descuento real."
+  },
+  "motivo": "triage: Precio pedido de US$2457 está por encima del precio de mercado gris (~US$1,900-2,100 con caja y papeles) y apenas 7 % bajo MSRP; no hay descuento real. (justo 2000)"
  }
 ]
