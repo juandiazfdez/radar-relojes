@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-11T22:49:25.217356+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 36mm Rolex President Day Date Automatic Wristwatch 1556 18k Gold 1803",
-  "total": 9039.95,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137922956018",
-  "item_id": "v1|137922956018|0",
-  "triage": {
-   "modelo": "Rolex Day-Date (President) 36 mm, oro amarillo 18k, bisel acanalado, esfera plateada con índices de bastón y ventana de día",
-   "referencia": "1803",
-   "precio_justo_usd": 9300,
-   "interesante": false,
-   "nota": "El título dice 1556 pero la imagen corresponde a un 1803; el strap de cuero probablemente no es original. Precio cercano al mercado, sin descuento de 15 %."
-  },
-  "motivo": "triage: El título dice 1556 pero la imagen corresponde a un 1803; el strap de cuero probablemente no es original. Precio cercano al mercado, sin descuento de 15 %. (justo 9300)"
- },
- {
   "fecha": "2026-11-11T23:04:24.691189+00:00",
   "marca": "Rolex",
   "titulo": "Nov 2026 Rolex Submariner Date 41 Black Box/Papers/Card 126610LN Steel",
@@ -10975,5 +10958,28 @@
    "nota": "Precio cercano al mercado, con descuento de solo ~12 %, por debajo del umbral del 15 %. Falta verificar la referencia, el movimiento y el estado de la esfera y la caja."
   },
   "motivo": "triage: Precio cercano al mercado, con descuento de solo ~12 %, por debajo del umbral del 15 %. Falta verificar la referencia, el movimiento y el estado de la esfera y la caja. (justo 1700)"
+ },
+ {
+  "fecha": "2026-11-14T16:51:26.874517+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR 1926 M91650-0002",
+  "total": 2400.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860143642787",
+  "item_id": "v1|860143642787|0",
+  "referencia": "M91650-0002",
+  "mercado": {
+   "n": 4,
+   "p25": 2098,
+   "mediana": 2129
+  },
+  "triage": {
+   "modelo": "Tudor 1926 (acero, esfera negra texturizada, índices arábigos, fecha a las 3, brazalete tipo Jubilee)",
+   "referencia": "M91650-0002 (no verificable con certeza desde la imagen)",
+   "precio_justo_usd": 2700,
+   "interesante": false,
+   "nota": "Modelo actual de acero con brazalete; el precio pedido de US$2400 está solo ~11% bajo una estimación conservadora de venta real, por debajo del umbral del 15%. Faltan fotos del caso, movimiento y papeles."
+  },
+  "motivo": "triage: Modelo actual de acero con brazalete; el precio pedido de US$2400 está solo ~11% bajo una estimación conservadora de venta real, por debajo del umbral del 15%. Faltan fotos del caso, movimiento y papeles. (justo 2700)"
  }
 ]
