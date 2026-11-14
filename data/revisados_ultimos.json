@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-11T20:49:25.390514+00:00",
-  "marca": "Rolex",
-  "titulo": "Rare Color Rolex Lady Date 26mm Steel/Gold Blue/lavender Automatic Watch 6917",
-  "total": 3969.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/840115454187",
-  "item_id": "v1|840115454187|0",
-  "referencia": "6917",
-  "mercado": {
-   "n": 43,
-   "p25": 3990,
-   "mediana": 4200
-  },
-  "ratio_mercado": 0.995,
-  "motivo": "precio normal (99 % del cuartil bajo de 6917)"
- },
- {
-  "fecha": "2026-11-11T20:49:25.390514+00:00",
   "marca": "Cartier",
   "titulo": "Men's Cartier Steel Pasha De Cartier 38mm grid watch Vintage",
   "total": 3400.0,
@@ -10986,5 +10969,22 @@
   },
   "ratio_mercado": 0.94,
   "motivo": "precio normal (94 % del cuartil bajo de 91560)"
+ },
+ {
+  "fecha": "2026-11-14T04:51:07.428499+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Cellini 3805 18k White Gold!",
+  "total": 3677.5,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128193717308",
+  "item_id": "v1|128193717308|0",
+  "triage": {
+   "modelo": "Rolex Cellini, oro blanco 18k (la foto no muestra un Rolex)",
+   "referencia": "3805",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "La foto muestra un reloj rectangular con correa de cuero que no parece ser un Rolex Cellini; el listado es engañoso o las fotos no corresponden. Sin fotos reales del modelo anunciado, no es una oportunidad."
+  },
+  "motivo": "triage: La foto muestra un reloj rectangular con correa de cuero que no parece ser un Rolex Cellini; el listado es engañoso o las fotos no corresponden. Sin fotos reales del modelo anunciado, no es una oportunidad. (justo 3200)"
  }
 ]
