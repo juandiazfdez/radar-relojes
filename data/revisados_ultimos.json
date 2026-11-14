@@ -1,73 +1,5 @@
 [
  {
-  "fecha": "2026-11-12T02:34:35.359047+00:00",
-  "marca": "Rolex",
-  "titulo": "eLive- Rolex GMT-Master II Pepsi Oyster Bracelet 126710BLRO",
-  "total": 1.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/128189832815",
-  "item_id": "v1|128189832815|0",
-  "referencia": "126710BLRO",
-  "mercado": {
-   "n": 14,
-   "p25": 30594,
-   "mediana": 32675
-  },
-  "ratio_mercado": 0.0,
-  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
- },
- {
-  "fecha": "2026-11-12T02:49:35.302460+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Pelagos LHD 42mm Titanium | New",
-  "total": 5250.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/287722997352",
-  "item_id": "v1|287722997352|0",
-  "triage": {
-   "modelo": "Tudor Pelagos LHD 42mm titanio (corona a la izquierda)",
-   "referencia": "M25610TNL-0001",
-   "precio_justo_usd": 3900,
-   "interesante": false,
-   "nota": "Precio pedido por encima del mercado gris para modelo nuevo con caja y papeles; no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido por encima del mercado gris para modelo nuevo con caja y papeles; no hay descuento suficiente. (justo 3900)"
- },
- {
-  "fecha": "2026-11-12T03:04:35.318260+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner 16800, \"Spider Dial\"",
-  "total": 13750.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/267841241538",
-  "item_id": "v1|267841241538|0",
-  "referencia": "16800",
-  "mercado": {
-   "n": 15,
-   "p25": 11950,
-   "mediana": 12900
-  },
-  "ratio_mercado": 1.151,
-  "motivo": "precio normal (115 % del cuartil bajo de 16800)"
- },
- {
-  "fecha": "2026-11-12T03:04:35.318260+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 126710BLNR Batgirl 2020 Jubilee Full Set Excellent Condition",
-  "total": 18349.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407356986761",
-  "item_id": "v1|407356986761|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 66,
-   "p25": 18172,
-   "mediana": 18900
-  },
-  "ratio_mercado": 1.01,
-  "motivo": "precio normal (101 % del cuartil bajo de 126710BLNR)"
- },
- {
   "fecha": "2026-11-12T03:19:35.107588+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Submariner Date Ref. 1680 Circa 1977",
@@ -10970,5 +10902,85 @@
   },
   "ratio_mercado": 0.216,
   "motivo": "demasiado barato (22 % del cuartil bajo): sospechoso"
+ },
+ {
+  "fecha": "2026-11-14T21:06:37.731916+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date Ref 1501 34mm Mens 1970s Vintage Automatic RA604B",
+  "total": 6710.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267843745019",
+  "item_id": "v1|267843745019|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date (esfera 'Oysterdate' visible; posible discrepancia con el título)",
+   "referencia": "1501 (según título; verificar, la esfera sugiere posible 6694)",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Ref. 1501 años 70 en estado Good se vende aprox. US$3.500-4.500; el precio pedido de US$6.710 está muy por encima. La esfera parece 'Oysterdate', no coincide claramente con el título."
+  },
+  "motivo": "triage: Ref. 1501 años 70 en estado Good se vende aprox. US$3.500-4.500; el precio pedido de US$6.710 está muy por encima. La esfera parece 'Oysterdate', no coincide claramente con el título. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-14T21:06:37.731916+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rare Year 1958 Rolex ref 6542 PEPSI PANAM GMT Master Chapter Ring Watch",
+  "total": 24449.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206701406607",
+  "item_id": "v1|206701406607|0",
+  "referencia": "6542",
+  "mercado": {
+   "n": 1,
+   "p25": 125000,
+   "mediana": 125000
+  },
+  "triage": {
+   "modelo": "Rolex GMT-Master 'Pepsi' (bisel rojo y azul, esfera negra, brazalete de acero); el título dice 1958, pero la foto no lo confirma",
+   "referencia": null,
+   "precio_justo_usd": 12000,
+   "interesante": false,
+   "nota": "El título cita ref 6542 de 1958, pero la foto no lo confirma y el precio es irreal para un 6542 genuino (cientos de miles). Si es un modelo moderno, el precio está muy por encima del mercado. Título confuso ('Chapter Ring') y posible réplica o listado engañoso."
+  },
+  "motivo": "triage: El título cita ref 6542 de 1958, pero la foto no lo confirma y el precio es irreal para un 6542 genuino (cientos de miles). Si es un modelo moderno, el precio está muy por encima del mercado. Título confuso ('Chapter Ring') y posible réplica o listado engañoso. (justo 12000)"
+ },
+ {
+  "fecha": "2026-11-14T21:06:37.731916+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yachtmaster Midsize 35 Steel Yellow Gold Mens Watch 168623",
+  "total": 10650.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336897802355",
+  "item_id": "v1|336897802355|0",
+  "referencia": "168623",
+  "mercado": {
+   "n": 11,
+   "p25": 8950,
+   "mediana": 8990
+  },
+  "ratio_mercado": 1.19,
+  "motivo": "precio normal (119 % del cuartil bajo de 168623)"
+ },
+ {
+  "fecha": "2026-11-14T21:06:37.731916+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Demoiselle Rose Gold Diamond Ladies Watch WF902006 Box Papers",
+  "total": 11700.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940092553917",
+  "item_id": "v1|940092553917|0",
+  "referencia": "WF902006",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Santos Demoiselle (oro rosa 18k, bisel de diamantes, esfera plateada con números romanos, correa de cocodrilo marrón)",
+   "referencia": "WF902006",
+   "precio_justo_usd": 10000,
+   "interesante": false,
+   "nota": "Precio pedido por encima de la estimación de venta cerrada para esta referencia en oro rosa con diamantes, aunque incluya caja y papeles. La referencia del título no se puede verificar solo con la foto."
+  },
+  "motivo": "triage: Precio pedido por encima de la estimación de venta cerrada para esta referencia en oro rosa con diamantes, aunque incluya caja y papeles. La referencia del título no se puede verificar solo con la foto. (justo 10000)"
  }
 ]
