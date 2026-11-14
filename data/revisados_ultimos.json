@@ -2,35 +2,6 @@
  {
   "fecha": "2026-11-11T19:19:10.955253+00:00",
   "marca": "Rolex",
-  "titulo": "1969 Rolex Day-Date President 1803 Champagne 18k Yellow Gold 36mm Vintage Watch",
-  "total": 9988.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940084357320",
-  "item_id": "v1|940084357320|0",
-  "triage": {
-   "modelo": "Rolex Day-Date 'President' oro amarillo 18k, esfera champagne",
-   "referencia": "1803",
-   "precio_justo_usd": 13500,
-   "interesante": true,
-   "nota": "Parece una 1803 de oro amarillo con esfera champagne; verificar esfera original, movimiento, numeración y estado de la caja, porque 'Good' puede ocultar reesfera o piezas cambiadas."
-  },
-  "referencia": "1803",
-  "mercado": {
-   "n": 25,
-   "p25": 10705,
-   "mediana": 11830
-  },
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 9300,
-   "riesgo_autenticidad": "medio",
-   "estado": "Buen aspecto general, pero sin brazalete President, sin caja ni papeles y sin foto del fondo ni del movimiento"
-  },
-  "motivo": "el mercado de su referencia no lo confirma (93 % del cuartil bajo)"
- },
- {
-  "fecha": "2026-11-11T19:19:10.955253+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust 41mm 126333 Two-Tone Jubilee Silver Dial, Box & Papers, New",
   "total": 15895.0,
   "condicion": "Pre-owned - Excellent",
@@ -10982,5 +10953,22 @@
    "nota": "Precio pedido cercano a retail; el mercado gris de dealers para un Ranger nuevo con caja y papeles suele estar 15-20 % por debajo, así que no hay descuento claro."
   },
   "motivo": "triage: Precio pedido cercano a retail; el mercado gris de dealers para un Ranger nuevo con caja y papeles suele estar 15-20 % por debajo, así que no hay descuento claro. (justo 3100)"
+ },
+ {
+  "fecha": "2026-11-14T00:06:07.430278+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Solo XL W5200028 Box & Papers",
+  "total": 3750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366808424924",
+  "item_id": "v1|366808424924|0",
+  "referencia": "W5200028",
+  "mercado": {
+   "n": 5,
+   "p25": 3930,
+   "mediana": 4045
+  },
+  "ratio_mercado": 0.954,
+  "motivo": "precio normal (95 % del cuartil bajo de W5200028)"
  }
 ]
