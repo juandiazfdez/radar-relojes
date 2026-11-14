@@ -2,46 +2,6 @@
  {
   "fecha": "2026-11-12T00:19:25.508796+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Tank Must WSTA0121 / 22mm / Steel / Full Set",
-  "total": 5950.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227610207169",
-  "item_id": "v1|227610207169|0",
-  "referencia": "WSTA0121",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Tank Must (acero, esfera plateada, números romanos, corona cabujón azul), tamaño pequeño de 22 mm, cuarzo",
-   "referencia": "WSTA0121 (según el título; no verificable en la foto)",
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "Nuevo con caja y papeles se vende en mercado gris por unos 2.000-2.500 USD; el pedido de 5.950 USD está muy por encima del valor real."
-  },
-  "motivo": "triage: Nuevo con caja y papeles se vende en mercado gris por unos 2.000-2.500 USD; el pedido de 5.950 USD está muy por encima del valor real. (justo 2300)"
- },
- {
-  "fecha": "2026-11-12T00:19:25.508796+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Demoiselle W25066Z6 / 25mm / Two-Tone / Full Set",
-  "total": 6950.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227610207170",
-  "item_id": "v1|227610207170|0",
-  "triage": {
-   "modelo": "Cartier Santos Demoiselle bicolor (acero y oro amarillo), esfera plateada con números romanos",
-   "referencia": "W25066Z6",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Precio pedido de US$6950 muy por encima del valor de mercado para este modelo, incluso nuevo con caja y papeles; el precio justo ronda US$3,300-3,900."
-  },
-  "motivo": "triage: Precio pedido de US$6950 muy por encima del valor de mercado para este modelo, incluso nuevo con caja y papeles; el precio justo ronda US$3,300-3,900. (justo 3500)"
- },
- {
-  "fecha": "2026-11-12T00:19:25.508796+00:00",
-  "marca": "Cartier",
   "titulo": "Brand New Unworn Unpolished Cartier Tank MC W5330004 / 3589",
   "total": 4750.0,
   "condicion": "New with box and papers",
@@ -10982,5 +10942,45 @@
    "nota": "Precio pedido de US$3499 por encima del valor de venta cerrada estimado (~US$3000-3400) para esta referencia usada con caja y papeles; no hay descuento claro."
   },
   "motivo": "triage: Precio pedido de US$3499 por encima del valor de venta cerrada estimado (~US$3000-3400) para esta referencia usada con caja y papeles; no hay descuento claro. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-14T18:51:37.776245+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 16233 36mm Two-Tone 18K Gold Steel No Box/Papers",
+  "total": 7999.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/206701167494",
+  "item_id": "v1|206701167494|0",
+  "referencia": "16233",
+  "mercado": {
+   "n": 29,
+   "p25": 5695,
+   "mediana": 6245
+  },
+  "ratio_mercado": 1.405,
+  "motivo": "precio normal (140 % del cuartil bajo de 16233)"
+ },
+ {
+  "fecha": "2026-11-14T18:51:37.776245+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Solo Small 24mm W5200005 Mint Complete Box & Papers",
+  "total": 3199.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287729698212",
+  "item_id": "v1|287729698212|0",
+  "referencia": "W5200005",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Tank Solo (tamaño pequeño, cuarzo, acero, esfera plateada con números romanos, correa de cuero negra)",
+   "referencia": "W5200005",
+   "precio_justo_usd": 2500,
+   "interesante": false,
+   "nota": "Precio pedido de US$3199 está por encima del valor de reventa para un Tank Solo pequeño de cuarzo en acero, aunque esté completo y casi nuevo; no hay descuento."
+  },
+  "motivo": "triage: Precio pedido de US$3199 está por encima del valor de reventa para un Tank Solo pequeño de cuarzo en acero, aunque esté completo y casi nuevo; no hay descuento. (justo 2500)"
  }
 ]
