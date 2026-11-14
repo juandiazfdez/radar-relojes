@@ -1,51 +1,5 @@
 [
  {
-  "fecha": "2026-11-12T00:19:25.508796+00:00",
-  "marca": "Cartier",
-  "titulo": "Brand New Unworn Unpolished Cartier Tank MC W5330004 / 3589",
-  "total": 4750.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/960180486127",
-  "item_id": "v1|960180486127|0",
-  "referencia": "W5330004",
-  "mercado": {
-   "n": 1,
-   "p25": 8995,
-   "mediana": 8995
-  },
-  "triage": {
-   "modelo": "Cartier Tank MC (Must de Cartier), caja rectangular de acero, esfera negra con números romanos y correa de piel negra",
-   "referencia": "W5330004",
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "Precio pedido solo ~5 % bajo el estimado de venta secundaria para un Tank MC nuevo con caja y papeles; no alcanza el umbral del 15 %. La referencia es la del título y no pude verificarla con certeza en la imagen."
-  },
-  "motivo": "triage: Precio pedido solo ~5 % bajo el estimado de venta secundaria para un Tank MC nuevo con caja y papeles; no alcanza el umbral del 15 %. La referencia es la del título y no pude verificarla con certeza en la imagen. (justo 5000)"
- },
- {
-  "fecha": "2026-11-12T00:19:25.508796+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay M79363N-0002 / 41mm / Stainless Steel / Full Set",
-  "total": 5850.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227610207165",
-  "item_id": "v1|227610207165|0",
-  "referencia": "M79363N-0002",
-  "mercado": {
-   "n": 4,
-   "p25": 6849,
-   "mediana": 6985
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay Chrono (versión bicompax, esfera negra con subdiales dorados, bisel negro, cronógrafo de dos tonos acero/oro amarillo, correa de cuero marrón tipo bund)",
-   "referencia": "M79363N-0002 (probable, según el título; verificar)",
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "El título dice acero inoxidable, pero la foto muestra coronilla, pulsadores y subdiales dorados (dos tonos), y la correa no es la del listado. Precio pedido por encima del mercado gris para nuevo con caja y papeles. Verificar referencia y componentes antes de comprar."
-  },
-  "motivo": "triage: El título dice acero inoxidable, pero la foto muestra coronilla, pulsadores y subdiales dorados (dos tonos), y la correa no es la del listado. Precio pedido por encima del mercado gris para nuevo con caja y papeles. Verificar referencia y componentes antes de comprar. (justo 4800)"
- },
- {
   "fecha": "2026-11-12T00:34:24.592507+00:00",
   "marca": "Rolex",
   "titulo": "2012 Rolex 278273 Datejust 31mm Champagne Diamond Jubilee",
@@ -10982,5 +10936,39 @@
    "nota": "Precio pedido de US$3199 está por encima del valor de reventa para un Tank Solo pequeño de cuarzo en acero, aunque esté completo y casi nuevo; no hay descuento."
   },
   "motivo": "triage: Precio pedido de US$3199 está por encima del valor de reventa para un Tank Solo pequeño de cuarzo en acero, aunque esté completo y casi nuevo; no hay descuento. (justo 2500)"
+ },
+ {
+  "fecha": "2026-11-14T19:51:38.207366+00:00",
+  "marca": "Rolex",
+  "titulo": "1978 Rolex GMT Master 1675 Pepsi Vintage Collector Alert !!",
+  "total": 17950.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/237183124101",
+  "item_id": "v1|237183124101|0",
+  "triage": {
+   "modelo": "Rolex GMT-Master (Pepsi, bisel azul/rojo, esfera negra, brazalete Oyster)",
+   "referencia": "1675",
+   "precio_justo_usd": 15000,
+   "interesante": false,
+   "nota": "Precio pedido unos 20% sobre el estimado para un 1675 de 1978 en estado Fair. Verificar autenticidad, esfera, bisel original y estado de la caja y el movimiento."
+  },
+  "motivo": "triage: Precio pedido unos 20% sobre el estimado para un 1675 de 1978 en estado Fair. Verificar autenticidad, esfera, bisel original y estado de la caja y el movimiento. (justo 15000)"
+ },
+ {
+  "fecha": "2026-11-14T19:51:38.207366+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Two-Tone 18K Gold Datejust 69173",
+  "total": 5280.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336897718287",
+  "item_id": "v1|336897718287|0",
+  "referencia": "69173",
+  "mercado": {
+   "n": 27,
+   "p25": 4200,
+   "mediana": 4494
+  },
+  "ratio_mercado": 1.257,
+  "motivo": "precio normal (126 % del cuartil bajo de 69173)"
  }
 ]
