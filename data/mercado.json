@@ -21513,5 +21513,25 @@
   "fecha": "2026-11-14",
   "consulta": "Cartier W1280",
   "n": 0
+ },
+ "Rolex 16610V|usado": {
+  "fecha": "2026-11-14",
+  "consulta": "Rolex 16610V",
+  "n": 6,
+  "mediana": 19500,
+  "p25": 18359,
+  "p75": 28798,
+  "min": 15440,
+  "max": 29915
+ },
+ "Cartier WGTA0190|nuevo": {
+  "fecha": "2026-11-14",
+  "consulta": "Cartier WGTA0190",
+  "n": 1,
+  "mediana": 16500,
+  "p25": 16500,
+  "p75": 16500,
+  "min": 16500,
+  "max": 16500
  }
 }
