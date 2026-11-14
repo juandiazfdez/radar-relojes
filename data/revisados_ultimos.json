@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-11-11T23:49:25.007105+00:00",
-  "marca": "Rolex",
-  "titulo": "TUDOR Rolex Prince Date, Ref 74033 Gold - Two-tone, 34mm",
-  "total": 1250.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287719961503",
-  "item_id": "v1|287719961503|0",
-  "triage": {
-   "modelo": "Reloj bicolor acero/oro con bisel acanalado y esfera champán (aspecto de Tudor Prince Date o Rolex Datejust); el título mezcla marcas",
-   "referencia": "74033 según título; no verificable en la foto",
-   "precio_justo_usd": 1600,
-   "interesante": false,
-   "nota": "El título mezcla Tudor y Rolex y la foto no muestra la marca con claridad; correa de cuero no original. Precio de US$1,250 bajo para un Rolex bicolor de esta época, lo que sugiere pieza replica o listado confuso. Verificar marca, número de serie y autenticidad antes de comprar."
-  },
-  "motivo": "triage: El título mezcla Tudor y Rolex y la foto no muestra la marca con claridad; correa de cuero no original. Precio de US$1,250 bajo para un Rolex bicolor de esta época, lo que sugiere pieza replica o listado confuso. Verificar marca, número de serie y autenticidad antes de comprar. (justo 1600)"
- },
- {
-  "fecha": "2026-11-11T23:49:25.007105+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Roadster W62020X6",
-  "total": 5499.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147676673652",
-  "item_id": "v1|147676673652|0",
-  "triage": {
-   "modelo": "Cartier Roadster Chronograph (XL), acero, esfera negra",
-   "referencia": "W62020X6",
-   "precio_justo_usd": 4700,
-   "interesante": false,
-   "nota": "Precio pedido de US$5,499 está cerca de la venta cerrada típica para esta referencia en acero; no hay descuento de al menos 15%."
-  },
-  "motivo": "triage: Precio pedido de US$5,499 está cerca de la venta cerrada típica para esta referencia en acero; no hay descuento de al menos 15%. (justo 4700)"
- },
- {
-  "fecha": "2026-11-11T23:49:25.007105+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos Galbee 18K with diamonds",
   "total": 19756.18,
@@ -10987,5 +10953,45 @@
    "nota": "Precio pedido de US$8000 muy por encima del valor de venta real para esta Panthère bicolor de cuarzo en estado Good; la referencia exacta no se distingue en la foto y debe verificarse."
   },
   "motivo": "triage: Precio pedido de US$8000 muy por encima del valor de venta real para esta Panthère bicolor de cuarzo en estado Good; la referencia exacta no se distingue en la foto y debe verificarse. (justo 4500)"
+ },
+ {
+  "fecha": "2026-11-14T17:51:38.228279+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date 18038 Presidential 18k Gold 36mm Watch-Green Stick Marker",
+  "total": 20000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267843574580",
+  "item_id": "v1|267843574580|0",
+  "referencia": "18038",
+  "mercado": {
+   "n": 18,
+   "p25": 9165,
+   "mediana": 10484
+  },
+  "ratio_mercado": 2.182,
+  "motivo": "precio normal (218 % del cuartil bajo de 18038)"
+ },
+ {
+  "fecha": "2026-11-14T17:51:38.228279+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Diamond 18K White Gold Watch 69139",
+  "total": 18000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407362965581",
+  "item_id": "v1|407362965581|0",
+  "referencia": "69139",
+  "mercado": {
+   "n": 1,
+   "p25": 14500,
+   "mediana": 14500
+  },
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 mm, bisel de diamantes, esfera champán con marcadores modificados",
+   "referencia": "69139",
+   "precio_justo_usd": 9000,
+   "interesante": false,
+   "nota": "Un 69139 en oro blanco de 18k sin modificar se vende en unos 5.000-7.000 USD; el bisel de diamantes y los marcadores personalizados añaden valor, pero el pedido de 18.000 USD supera ampliamente el mercado y las modificaciones pueden no ser originales."
+  },
+  "motivo": "triage: Un 69139 en oro blanco de 18k sin modificar se vende en unos 5.000-7.000 USD; el bisel de diamantes y los marcadores personalizados añaden valor, pero el pedido de 18.000 USD supera ampliamente el mercado y las modificaciones pueden no ser originales. (justo 9000)"
  }
 ]
