@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-11-11T21:34:25.655202+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor 1926 Stainless Steel Watch 94150",
-  "total": 2100.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/407356402492",
-  "item_id": "v1|407356402492|0",
-  "referencia": "94150",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Tudor 1926 (acero, esfera plateada, índices arábigos, brazalete de acero)",
-   "referencia": "94150 (según el título; no verificable en la foto)",
-   "precio_justo_usd": 2400,
-   "interesante": false,
-   "nota": "Precio pedido 12-15% bajo una estimación conservadora de venta cerrada nueva con caja y papeles; a ese nivel, verificar autenticidad, referencia y papeles antes de considerarlo."
-  },
-  "motivo": "triage: Precio pedido 12-15% bajo una estimación conservadora de venta cerrada nueva con caja y papeles; a ese nivel, verificar autenticidad, referencia y papeles antes de considerarlo. (justo 2400)"
- },
- {
-  "fecha": "2026-11-11T21:49:25.260764+00:00",
-  "marca": "Rolex",
-  "titulo": "2022 Rolex Daytona 116508-0009 Paul Newman Yellow Gold Chrono UNPOLISHED fullset",
-  "total": 48888.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137922811593",
-  "item_id": "v1|137922811593|0",
-  "referencia": "116508",
-  "mercado": {
-   "n": 32,
-   "p25": 57496,
-   "mediana": 67945
-  },
-  "ratio_mercado": 0.85,
-  "motivo": "precio normal (85 % del cuartil bajo de 116508)"
- },
- {
   "fecha": "2026-11-11T21:49:25.260764+00:00",
   "marca": "Rolex",
   "titulo": "2005 Rolex 16600 Sea-Dweller 40mm No Holes Steel Aluminum Black on Black Watch",
@@ -10974,5 +10934,45 @@
    "nota": "Precio pedido de US$4350 con envío está al nivel o por encima del mercado secundario para un modelo nuevo/seminuevo con papeles; no hay descuento de al menos 15 %."
   },
   "motivo": "triage: Precio pedido de US$4350 con envío está al nivel o por encima del mercado secundario para un modelo nuevo/seminuevo con papeles; no hay descuento de al menos 15 %. (justo 3900)"
+ },
+ {
+  "fecha": "2026-11-14T15:06:26.176861+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Automatic Watch Stainless Steel 28",
+  "total": 8735.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117521039826",
+  "item_id": "v1|117521039826|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual 28 mm (acero, esfera negra con indices de barra, bisel liso)",
+   "referencia": "276200",
+   "precio_justo_usd": 6800,
+   "interesante": false,
+   "nota": "Precio pedido US$8.735 muy por encima del valor de venta cerrada estimado para la 276200 (acero, Oyster 28 mm, condicion Good); no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido US$8.735 muy por encima del valor de venta cerrada estimado para la 276200 (acero, Oyster 28 mm, condicion Good); no es una oportunidad. (justo 6800)"
+ },
+ {
+  "fecha": "2026-11-14T15:06:26.176861+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 54 Blue ref. M79000B or 79000B On Bracelet 37mm",
+  "total": 3315.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206700833587",
+  "item_id": "v1|206700833587|0",
+  "referencia": "M79000B",
+  "mercado": {
+   "n": 2,
+   "p25": 3950,
+   "mediana": 4062
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 54 Blue (acero, brazalete, 37 mm)",
+   "referencia": "M79000B (no verificada; comprobar con el número de serie y los papeles)",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio cercano al mercado secundario para este modelo con caja y papeles; no hay descuento de al menos 15%. El título menciona 2026 y la referencia debe verificarse antes de comprar."
+  },
+  "motivo": "triage: Precio cercano al mercado secundario para este modelo con caja y papeles; no hay descuento de al menos 15%. El título menciona 2026 y la referencia debe verificarse antes de comprar. (justo 3300)"
  }
 ]
