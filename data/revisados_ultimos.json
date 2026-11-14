@@ -1,73 +1,5 @@
 [
  {
-  "fecha": "2026-11-11T23:34:25.044613+00:00",
-  "marca": "Cartier",
-  "titulo": "2013 Cartier Ronde Solo W6700355 White 29mm 18k box papers",
-  "total": 3800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880106977599",
-  "item_id": "v1|880106977599|0",
-  "referencia": "W6700355",
-  "mercado": {
-   "n": 5,
-   "p25": 4025,
-   "mediana": 4075
-  },
-  "ratio_mercado": 0.944,
-  "motivo": "precio normal (94 % del cuartil bajo de W6700355)"
- },
- {
-  "fecha": "2026-11-11T23:49:25.007105+00:00",
-  "marca": "Rolex",
-  "titulo": "eLive- Rolex GMT-Master II Batman Oyster Bracelet 126710BLNR",
-  "total": 1.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/128189582549",
-  "item_id": "v1|128189582549|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 59,
-   "p25": 19990,
-   "mediana": 20565
-  },
-  "ratio_mercado": 0.0,
-  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
- },
- {
-  "fecha": "2026-11-11T23:49:25.007105+00:00",
-  "marca": "Rolex",
-  "titulo": "eLive- Rolex Sea-Dweller 43mm 126600",
-  "total": 1.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/128189582551",
-  "item_id": "v1|128189582551|0",
-  "referencia": "126600",
-  "mercado": {
-   "n": 13,
-   "p25": 16495,
-   "mediana": 17025
-  },
-  "ratio_mercado": 0.0,
-  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
- },
- {
-  "fecha": "2026-11-11T23:49:25.007105+00:00",
-  "marca": "Rolex",
-  "titulo": "eLive- Rolex Air-King 40mm 126900",
-  "total": 1.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/128189582555",
-  "item_id": "v1|128189582555|0",
-  "referencia": "126900",
-  "mercado": {
-   "n": 12,
-   "p25": 10000,
-   "mediana": 10412
-  },
-  "ratio_mercado": 0.0,
-  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
- },
- {
   "fecha": "2026-11-11T23:49:25.007105+00:00",
   "marca": "Rolex",
   "titulo": "TUDOR Rolex Prince Date, Ref 74033 Gold - Two-tone, 34mm",
@@ -10987,5 +10919,73 @@
   },
   "ratio_mercado": 0.969,
   "motivo": "precio normal (97 % del cuartil bajo de 126710BLRO)"
+ },
+ {
+  "fecha": "2026-11-14T17:36:38.114305+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sky-Dweller 42mm 18K Yellow Gold & Steel Automatic",
+  "total": 23000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137930785892",
+  "item_id": "v1|137930785892|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller 42 mm, acero Oystersteel y oro amarillo 18K, esfera plateada, bisel acanalado",
+   "referencia": "336934 (probable; verificar con el número de serie y los papeles)",
+   "precio_justo_usd": 22500,
+   "interesante": false,
+   "nota": "Precio cercano al mercado secundario para esta referencia en buen estado; el precio pedido no está al menos 15 % por debajo."
+  },
+  "motivo": "triage: Precio cercano al mercado secundario para esta referencia en buen estado; el precio pedido no está al menos 15 % por debajo. (justo 22500)"
+ },
+ {
+  "fecha": "2026-11-14T17:36:38.114305+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sky-Dweller 42mm 18K White Gold 326939",
+  "total": 34000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137930785592",
+  "item_id": "v1|137930785592|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller 42mm, oro blanco 18K, bisel acanalado, brazalete Oyster",
+   "referencia": "326939",
+   "precio_justo_usd": 39000,
+   "interesante": false,
+   "nota": "Precio pedido de US$34.000 está ~13% por debajo de un estimado conservador; sin confirmar caja, papeles ni estado real."
+  },
+  "motivo": "triage: Precio pedido de US$34.000 está ~13% por debajo de un estimado conservador; sin confirmar caja, papeles ni estado real. (justo 39000)"
+ },
+ {
+  "fecha": "2026-11-14T17:36:38.114305+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Française 20mm Stainless Steel Quartz Watch",
+  "total": 4000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137930790481",
+  "item_id": "v1|137930790481|0",
+  "triage": {
+   "modelo": "Cartier Tank Française pequeño (20 mm), acero, cuarzo, esfera plateada con números romanos",
+   "referencia": "W51008Q3 (probable, confirmar en el caso y el reverso)",
+   "precio_justo_usd": 2000,
+   "interesante": false,
+   "nota": "Precio pedido de US$4000 está muy por encima de lo que se vende este modelo de acero en EE. UU. (aprox. US$1,700-2,300 según estado y papeles)."
+  },
+  "motivo": "triage: Precio pedido de US$4000 está muy por encima de lo que se vende este modelo de acero en EE. UU. (aprox. US$1,700-2,300 según estado y papeles). (justo 2000)"
+ },
+ {
+  "fecha": "2026-11-14T17:36:38.114305+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthère 29mm Large Two-Tone",
+  "total": 8000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137930788795",
+  "item_id": "v1|137930788795|0",
+  "triage": {
+   "modelo": "Cartier Panthère two-tone (acero y oro amarillo), cuarzo, esfera blanca con números romanos",
+   "referencia": null,
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "Precio pedido de US$8000 muy por encima del valor de venta real para esta Panthère bicolor de cuarzo en estado Good; la referencia exacta no se distingue en la foto y debe verificarse."
+  },
+  "motivo": "triage: Precio pedido de US$8000 muy por encima del valor de venta real para esta Panthère bicolor de cuarzo en estado Good; la referencia exacta no se distingue en la foto y debe verificarse. (justo 4500)"
  }
 ]
