@@ -2,30 +2,6 @@
  {
   "fecha": "2026-11-11T19:49:10.905000+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 126000 Black 36mm Stainless Steel Smooth Automatic Watch",
-  "total": 7634.14,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960183982578",
-  "item_id": "v1|960183982578|0",
-  "referencia": "126000",
-  "mercado": {
-   "n": 37,
-   "p25": 11229,
-   "mediana": 12424
-  },
-  "ratio_mercado": 0.68,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 8200,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Aspecto casi nuevo, sin rayones visibles; sin caja ni papeles originales"
-  },
-  "ratio_justo": 0.931,
-  "motivo": "precio normal segun revision (93 % del justo 8200)"
- },
- {
-  "fecha": "2026-11-11T19:49:10.905000+00:00",
-  "marca": "Rolex",
   "titulo": "1966 Vintage Rolex Oyster Perpetual Date Yellow Gold Silver Index 34mm 1500",
   "total": 8700.0,
   "condicion": "Pre-owned - Excellent",
@@ -10975,5 +10951,22 @@
    "estado": "Pulido y revisado, pero con dial y eslabones centrales no originales (aftermarket); solo reloj, sin caja ni papeles"
   },
   "motivo": "Claude descarto: Es una referencia 'convertida': el 69174 es de acero con bisel de oro blanco/liso y el vendedor lo transformó a 69173 bicolor. Es un franken, no un reloj original, y los coleccionistas y dealers lo valoran bastante menos que un 69173 original.; El dial champagne con diamantes es aftermarket. Un dial de diamantes original de Rolex aporta valor, uno aftermarket no. Además, el dial parece con tipografía y marcadores poco finos para Rolex."
+ },
+ {
+  "fecha": "2026-11-14T01:21:07.071074+00:00",
+  "marca": "Rolex",
+  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
+  "total": 15900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327455121256",
+  "item_id": "v1|327455121256|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date (bisel y esfera negros, caja y papeles)",
+   "referencia": "126610LN (probable; no verificable en la imagen, podría ser 116610LN)",
+   "precio_justo_usd": 13500,
+   "interesante": false,
+   "nota": "Precio pedido US$15.900 por encima del valor de venta cerrada estimado para esta referencia con caja y papeles en EE. UU.; no parece oportunidad."
+  },
+  "motivo": "triage: Precio pedido US$15.900 por encima del valor de venta cerrada estimado para esta referencia con caja y papeles en EE. UU.; no parece oportunidad. (justo 13500)"
  }
 ]
