@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-11-11T21:49:25.260764+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Submariner 94400",
-  "total": 1934.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940084615525",
-  "item_id": "v1|940084615525|0",
-  "referencia": "94400",
-  "mercado": {
-   "n": 1,
-   "p25": 3414,
-   "mediana": 3414
-  },
-  "triage": {
-   "modelo": "Tudor Mini-Sub (Submariner 94400), esfera azul, bisel azul, fecha",
-   "referencia": "94400",
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "Modelo identificable por el texto 'Mini-Sub' y la esfera azul, pero el precio pedido queda solo ~12% por debajo de un valor conservador y no puedo verificar autenticidad ni estado real desde la foto."
-  },
-  "motivo": "triage: Modelo identificable por el texto 'Mini-Sub' y la esfera azul, pero el precio pedido queda solo ~12% por debajo de un valor conservador y no puedo verificar autenticidad ni estado real desde la foto. (justo 2200)"
- },
- {
-  "fecha": "2026-11-11T22:04:24.713481+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 33mm Steel Automatic Watch – Complete Set Box, Papers & Rece",
-  "total": 3500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900083817038",
-  "item_id": "v1|900083817038|0",
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 33 mm acero, esfera plateada, con caja original",
-   "referencia": "W69010Z4 (probable; el título dice 'Automatic', pero el 33 mm en acero suele ser cuarzo, así que hay que verificarlo)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido un ~6% por encima del estimado para caja y papeles; el título indica automático, algo inconsistente con el 33 mm de acero, y conviene confirmar la referencia antes de comprar."
-  },
-  "motivo": "triage: Precio pedido un ~6% por encima del estimado para caja y papeles; el título indica automático, algo inconsistente con el 33 mm de acero, y conviene confirmar la referencia antes de comprar. (justo 3300)"
- },
- {
   "fecha": "2026-11-11T22:19:24.610204+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 36mm Vintage Steel & 18k YG Champagne Diamond 16233",
@@ -10968,5 +10928,45 @@
    "nota": "Pedido de US$5,565 está muy por encima del retail actual (~US$4,000) y del mercado secundario de un usado en buen estado. Sin caja ni papeles verificables, no es una oportunidad."
   },
   "motivo": "triage: Pedido de US$5,565 está muy por encima del retail actual (~US$4,000) y del mercado secundario de un usado en buen estado. Sin caja ni papeles verificables, no es una oportunidad. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-14T15:36:26.051318+00:00",
+  "marca": "Rolex",
+  "titulo": "2009 Rolex Submariner Date 16610 Rehaut No-Holes Black Steel 40mm Box Papers",
+  "total": 12223.97,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940091932139",
+  "item_id": "v1|940091932139|0",
+  "referencia": "16610",
+  "mercado": {
+   "n": 83,
+   "p25": 9900,
+   "mediana": 10395
+  },
+  "ratio_mercado": 1.235,
+  "motivo": "precio normal (123 % del cuartil bajo de 16610)"
+ },
+ {
+  "fecha": "2026-11-14T15:36:26.051318+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Must WSTA0053 XL Ref 4324",
+  "total": 4025.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820354404443",
+  "item_id": "v1|820354404443|0",
+  "referencia": "WSTA0053",
+  "mercado": {
+   "n": 6,
+   "p25": 5000,
+   "mediana": 5075
+  },
+  "ratio_mercado": 0.805,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 2950,
+   "riesgo_autenticidad": "medio",
+   "estado": "Bueno: rayones visibles en caja y brazalete, sin caja ni papeles"
+  },
+  "motivo": "Claude descarto: US$4,025 es demasiado alto para un reloj solo, sin caja ni papeles. Un WSTA0053 nuevo con caja y papeles se consigue en dealers por unos US$3,300-3,900, y usado y solo el reloj se cierra en torno a US$2,700-3,200.; Los comparables (cuartil bajo 5,000 y mediana 5,075) son precios pedidos e inflados. Sirven poco como referencia de venta real."
  }
 ]
