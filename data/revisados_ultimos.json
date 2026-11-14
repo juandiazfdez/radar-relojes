@@ -2,57 +2,6 @@
  {
   "fecha": "2026-11-11T20:49:25.390514+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Datejust 18K/Stainless Steel Watch 79173",
-  "total": 8000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407356350309",
-  "item_id": "v1|407356350309|0",
-  "triage": {
-   "modelo": "Rolex Lady-Datejust 26 mm acero y oro amarillo de 18K, bisel acanalado, esfera azul con índices de barra y ventana de fecha",
-   "referencia": "79173",
-   "precio_justo_usd": 4200,
-   "interesante": false,
-   "nota": "Precio pedido de US$8000 muy por encima del mercado de venta cerrada para esta referencia (aprox. US$3500-4500 según estado, caja y papeles)."
-  },
-  "motivo": "triage: Precio pedido de US$8000 muy por encima del mercado de venta cerrada para esta referencia (aprox. US$3500-4500 según estado, caja y papeles). (justo 4200)"
- },
- {
-  "fecha": "2026-11-11T20:49:25.390514+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36mm 2018 Champagne Index Fluted Jubilee 126233",
-  "total": 14795.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198788263667",
-  "item_id": "v1|198788263667|0",
-  "referencia": "126233",
-  "mercado": {
-   "n": 35,
-   "p25": 15195,
-   "mediana": 16295
-  },
-  "ratio_mercado": 0.974,
-  "motivo": "precio normal (97 % del cuartil bajo de 126233)"
- },
- {
-  "fecha": "2026-11-11T20:49:25.390514+00:00",
-  "marca": "Rolex",
-  "titulo": "1956 Rolex Datejust Chronometer 6605 Men's Vintage 36mm Wristwatch - Cal. 1065",
-  "total": 4700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960184145247",
-  "item_id": "v1|960184145247|0",
-  "referencia": "6605",
-  "mercado": {
-   "n": 11,
-   "p25": 5495,
-   "mediana": 6495
-  },
-  "ratio_mercado": 0.855,
-  "motivo": "precio normal (86 % del cuartil bajo de 6605)"
- },
- {
-  "fecha": "2026-11-11T20:49:25.390514+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Lady-Datejust NEW 2026 Chocolate Diamond Two Tone Rose Smooth Jubilee",
   "total": 20995.0,
   "condicion": "New with box and papers",
@@ -10980,5 +10929,62 @@
   },
   "ratio_mercado": 0.989,
   "motivo": "precio normal (99 % del cuartil bajo de 126506)"
+ },
+ {
+  "fecha": "2026-11-14T03:36:06.587717+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41mm Stainless Steel Rhodium Oyster Watch 126300",
+  "total": 12500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/147679818642",
+  "item_id": "v1|147679818642|0",
+  "referencia": "126300",
+  "mercado": {
+   "n": 42,
+   "p25": 11895,
+   "mediana": 12017
+  },
+  "ratio_mercado": 1.051,
+  "motivo": "precio normal (105 % del cuartil bajo de 126300)"
+ },
+ {
+  "fecha": "2026-11-14T03:36:06.587717+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier | Medium Santos De Cartier Watch - 35mm case size - Reference WSSA0029",
+  "total": 7499.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/840126369289",
+  "item_id": "v1|840126369289|0",
+  "referencia": "WSSA0029",
+  "mercado": {
+   "n": 6,
+   "p25": 7495,
+   "mediana": 7752
+  },
+  "ratio_mercado": 1.001,
+  "motivo": "precio normal (100 % del cuartil bajo de WSSA0029)"
+ },
+ {
+  "fecha": "2026-11-14T03:36:06.587717+00:00",
+  "marca": "Tudor",
+  "titulo": "Vintage Tudor Prince Oysterdate Stainless Steel Mens Quartz Watch 91534 N .B /P ",
+  "total": 2450.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920141137652",
+  "item_id": "v1|920141137652|0",
+  "referencia": "91534",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Prince Oysterdate Quartz (acero, bisel acanalado, esfera plateada, ventana de fecha a las 3)",
+   "referencia": "91534 (según título, no verificable en la imagen)",
+   "precio_justo_usd": 900,
+   "interesante": false,
+   "nota": "Cuarzo vintage de los años 80, acero, sin caja ni papeles y en estado Good. El precio pedido de US$2450 está muy por encima del valor de reventa."
+  },
+  "motivo": "triage: Cuarzo vintage de los años 80, acero, sin caja ni papeles y en estado Good. El precio pedido de US$2450 está muy por encima del valor de reventa. (justo 900)"
  }
 ]
