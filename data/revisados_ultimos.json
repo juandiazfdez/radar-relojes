@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-11T22:19:24.610204+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Datejust 36mm Vintage Steel & 18k YG Champagne Diamond 16233",
-  "total": 8495.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/117516590008",
-  "item_id": "v1|117516590008|0",
-  "referencia": "16233",
-  "mercado": {
-   "n": 29,
-   "p25": 5695,
-   "mediana": 6245
-  },
-  "ratio_mercado": 1.492,
-  "motivo": "precio normal (149 % del cuartil bajo de 16233)"
- },
- {
-  "fecha": "2026-11-11T22:19:24.610204+00:00",
-  "marca": "Rolex",
   "titulo": "ROLEX 18K White Gold 36mm Day-Date President 118239 Lifetime Warranty Box",
   "total": 24990.0,
   "condicion": "Pre-owned - Good",
@@ -10968,5 +10951,22 @@
    "estado": "Bueno: rayones visibles en caja y brazalete, sin caja ni papeles"
   },
   "motivo": "Claude descarto: US$4,025 es demasiado alto para un reloj solo, sin caja ni papeles. Un WSTA0053 nuevo con caja y papeles se consigue en dealers por unos US$3,300-3,900, y usado y solo el reloj se cierra en torno a US$2,700-3,200.; Los comparables (cuartil bajo 5,000 y mediana 5,075) son precios pedidos e inflados. Sirven poco como referencia de venta real."
+ },
+ {
+  "fecha": "2026-11-14T15:51:25.939251+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Lady Date 26mm Steel/Gold Blue/lavender Automatic Watch 6917",
+  "total": 3965.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840124770001",
+  "item_id": "v1|840124770001|0",
+  "referencia": "6917",
+  "mercado": {
+   "n": 42,
+   "p25": 3990,
+   "mediana": 4083
+  },
+  "ratio_mercado": 0.994,
+  "motivo": "precio normal (99 % del cuartil bajo de 6917)"
  }
 ]
