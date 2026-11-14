@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-12T03:19:35.107588+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Ladies Oyester Perpetual in stainlesss steel",
-  "total": 7045.42,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227610399942",
-  "item_id": "v1|227610399942|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual 26 mm (dial salmón, brazalete Jubilee)",
-   "referencia": "176200 (probable, a confirmar por número de serie)",
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "Precio pedido de US$7.045 con envío está muy por encima del valor de venta cerrada de esta referencia en estado Good; no parece una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$7.045 con envío está muy por encima del valor de venta cerrada de esta referencia en estado Good; no parece una oportunidad. (justo 4800)"
- },
- {
-  "fecha": "2026-11-12T03:19:35.107588+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 16014 Stainless Steel 36mm auto watch",
-  "total": 6991.22,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206693662204",
-  "item_id": "v1|206693662204|0",
-  "referencia": "16014",
-  "mercado": {
-   "n": 9,
-   "p25": 5299,
-   "mediana": 5299
-  },
-  "ratio_mercado": 1.319,
-  "motivo": "precio normal (132 % del cuartil bajo de 16014)"
- },
- {
-  "fecha": "2026-11-12T03:49:34.860994+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date 218235 “Factory Ruby and Diamond Dial” Full Set",
-  "total": 63650.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206693725074",
-  "item_id": "v1|206693725074|0",
-  "referencia": "218235",
-  "mercado": {
-   "n": 15,
-   "p25": 40989,
-   "mediana": 42995
-  },
-  "ratio_mercado": 1.553,
-  "motivo": "precio normal (155 % del cuartil bajo de 218235)"
- },
- {
   "fecha": "2026-11-12T03:49:34.860994+00:00",
   "marca": "Rolex",
   "titulo": "2021 Box + Papers Rolex Explorer II 226570 White Polar Steel Date 42mm Watch EXC",
@@ -10988,5 +10937,69 @@
    "nota": "Bisel azul y subesferas azules con brazalete de acero; a US$4.215 está por encima del valor de venta cerrada de un usado en buen estado con caja y papeles."
   },
   "motivo": "triage: Bisel azul y subesferas azules con brazalete de acero; a US$4.215 está por encima del valor de venta cerrada de un usado en buen estado con caja y papeles. (justo 3700)"
+ },
+ {
+  "fecha": "2026-11-14T21:36:38.104507+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Ladies Rolex 26mm 18k Yellow Gold 6917 cal 2030 Datejust ",
+  "total": 3200.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/377646217423",
+  "item_id": "v1|377646217423|0",
+  "referencia": "6917",
+  "mercado": {
+   "n": 42,
+   "p25": 3990,
+   "mediana": 4083
+  },
+  "ratio_mercado": 0.802,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 2850,
+   "riesgo_autenticidad": "medio",
+   "estado": "Regular: caja pulida, cristal rayado, rosca de la corona desgastada, sin brazalete original"
+  },
+  "ratio_justo": 1.123,
+  "motivo": "precio normal segun revision (112 % del justo 2850)"
+ },
+ {
+  "fecha": "2026-11-14T21:36:38.104507+00:00",
+  "marca": "Cartier",
+  "titulo": "Vintage Cartier Must de Cartier 21 watch Needs To Be Service Was Purch From E-ba",
+  "total": 550.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206701446232",
+  "item_id": "v1|206701446232|0",
+  "triage": {
+   "modelo": "Cartier Must de Cartier 21 (bicolor acero y dorado, esfera blanca con numerales romanos, cuarzo)",
+   "referencia": null,
+   "precio_justo_usd": 600,
+   "interesante": false,
+   "nota": "Precio cercano al justo, pero el listado indica que necesita servicio, lo que justifica un descuento; no cumple el 15 % mínimo."
+  },
+  "motivo": "triage: Precio cercano al justo, pero el listado indica que necesita servicio, lo que justifica un descuento; no cumple el 15 % mínimo. (justo 600)"
+ },
+ {
+  "fecha": "2026-11-14T21:36:38.104507+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Trinity 2357 18K Tri-Color Gold Ladies Quartz Watch",
+  "total": 6804.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/377646195431",
+  "item_id": "v1|377646195431|0",
+  "referencia": "2357",
+  "mercado": {
+   "n": 2,
+   "p25": 12140,
+   "mediana": 13570
+  },
+  "triage": {
+   "modelo": "Cartier Trinity (tres oros 18K, cuarzo, esfera blanca con números romanos, correa de cuero negro)",
+   "referencia": "2357",
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "Precio pedido de US$6805 supera claramente el valor de venta cerrada estimado para este modelo de oro tricolor en condición excelente; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$6805 supera claramente el valor de venta cerrada estimado para este modelo de oro tricolor en condición excelente; no es una oportunidad. (justo 4500)"
  }
 ]
