@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-11-11T22:19:24.610204+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX 18K White Gold 36mm Day-Date President 118239 Lifetime Warranty Box",
-  "total": 24990.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237177866432",
-  "item_id": "v1|237177866432|0",
-  "referencia": "118239",
-  "mercado": {
-   "n": 18,
-   "p25": 26990,
-   "mediana": 27078
-  },
-  "ratio_mercado": 0.926,
-  "motivo": "precio normal (93 % del cuartil bajo de 118239)"
- },
- {
-  "fecha": "2026-11-11T22:19:24.610204+00:00",
-  "marca": "Cartier",
-  "titulo": "Vintage Cartier Tank Ladies Watch",
-  "total": 1400.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117516605913",
-  "item_id": "v1|117516605913|0",
-  "triage": {
-   "modelo": "Cartier Tank Must (probable, plateado/vermeil, cuarzo), vintage",
-   "referencia": null,
-   "precio_justo_usd": 850,
-   "interesante": false,
-   "nota": "Con el precio pedido de US$1400 queda muy por encima del valor de mercado para un Tank Must vintage de vermeil en estado Good; la referencia exacta no se distingue en la foto."
-  },
-  "motivo": "triage: Con el precio pedido de US$1400 queda muy por encima del valor de mercado para un Tank Must vintage de vermeil en estado Good; la referencia exacta no se distingue en la foto. (justo 850)"
- },
- {
-  "fecha": "2026-11-11T22:19:24.610204+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Francaise Stainless Steel Watch W51002Q3",
   "total": 4000.0,
@@ -10968,5 +10934,45 @@
   },
   "ratio_mercado": 0.994,
   "motivo": "precio normal (99 % del cuartil bajo de 6917)"
+ },
+ {
+  "fecha": "2026-11-14T16:06:26.470154+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Mens 36mm Gold Fluted Box|papers",
+  "total": 28000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407362822209",
+  "item_id": "v1|407362822209|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36mm oro amarillo de 18k, bisel acanalado, esfera champán con numerales arábigos, brazalete Jubilee",
+   "referencia": "16238 (probable; verificar número de serie y grabado en el cierre)",
+   "precio_justo_usd": 16000,
+   "interesante": false,
+   "nota": "Precio pedido de US$28.000 queda muy por encima del valor de venta real de esta referencia (aprox. US$14.000-18.000 según estado, esfera y papeles); no parece una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$28.000 queda muy por encima del valor de venta real de esta referencia (aprox. US$14.000-18.000 según estado, esfera y papeles); no parece una oportunidad. (justo 16000)"
+ },
+ {
+  "fecha": "2026-11-14T16:06:26.470154+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu Midsize W69011Z4 3005 Steel Men's/Ladies Watch Box & Papers",
+  "total": 4980.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/377645601746",
+  "item_id": "v1|377645601746|0",
+  "referencia": "3005",
+  "mercado": {
+   "n": 1,
+   "p25": 6495,
+   "mediana": 6495
+  },
+  "triage": {
+   "modelo": "Cartier Ballon Bleu Midsize (36 mm, acero, cuarzo)",
+   "referencia": "W69011Z4",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "Caja roja y papeles visibles, pero la referencia no se distingue bien en la foto. Pedido de US$4.980 por encima de lo que suele cerrar un W69011Z4 nuevo o casi nuevo con papeles."
+  },
+  "motivo": "triage: Caja roja y papeles visibles, pero la referencia no se distingue bien en la foto. Pedido de US$4.980 por encima de lo que suele cerrar un W69011Z4 nuevo o casi nuevo con papeles. (justo 4300)"
  }
 ]
