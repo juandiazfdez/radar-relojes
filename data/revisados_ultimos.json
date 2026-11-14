@@ -1,80 +1,5 @@
 [
  {
-  "fecha": "2026-11-11T19:19:10.955253+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41mm 126333 Two-Tone Jubilee Silver Dial, Box & Papers, New",
-  "total": 15895.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/227609913033",
-  "item_id": "v1|227609913033|0",
-  "referencia": "126333",
-  "mercado": {
-   "n": 32,
-   "p25": 14950,
-   "mediana": 15477
-  },
-  "ratio_mercado": 1.063,
-  "motivo": "precio normal (106 % del cuartil bajo de 126333)"
- },
- {
-  "fecha": "2026-11-11T19:19:10.955253+00:00",
-  "marca": "Rolex",
-  "titulo": "UNPOL. VINTAGE Rolex Submariner Spider Black 40mm Stainless Steel Automatic 5513",
-  "total": 9878.36,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267840948764",
-  "item_id": "v1|267840948764|0",
-  "referencia": "5513",
-  "mercado": {
-   "n": 32,
-   "p25": 11918,
-   "mediana": 14444
-  },
-  "ratio_mercado": 0.829,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 10000,
-   "riesgo_autenticidad": "medio",
-   "estado": "Vintage sin pulir con rayones visibles en los lados de las asas; sin caja ni papeles originales"
-  },
-  "ratio_justo": 0.988,
-  "motivo": "precio normal segun revision (99 % del justo 10000)"
- },
- {
-  "fecha": "2026-11-11T19:34:11.948915+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Submariner 14060 No Date Mens Watch",
-  "total": 10699.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227609924796",
-  "item_id": "v1|227609924796|0",
-  "referencia": "14060",
-  "mercado": {
-   "n": 46,
-   "p25": 9800,
-   "mediana": 10749
-  },
-  "ratio_mercado": 1.092,
-  "motivo": "precio normal (109 % del cuartil bajo de 14060)"
- },
- {
-  "fecha": "2026-11-11T19:34:11.948915+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36mm UNWORN 2026 MOP Pearl Diamond Fluted Jubilee Wood 126234",
-  "total": 18795.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/198788183498",
-  "item_id": "v1|198788183498|0",
-  "referencia": "126234",
-  "mercado": {
-   "n": 46,
-   "p25": 14858,
-   "mediana": 15325
-  },
-  "ratio_mercado": 1.265,
-  "motivo": "precio normal (126 % del cuartil bajo de 126234)"
- },
- {
   "fecha": "2026-11-11T19:34:11.948915+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 36mm 16233 Cream Jubilee Index Yellow Gold/Steel  Jubilee Watch",
@@ -10970,5 +10895,79 @@
   },
   "ratio_mercado": 0.954,
   "motivo": "precio normal (95 % del cuartil bajo de W5200028)"
+ },
+ {
+  "fecha": "2026-11-14T00:21:07.512549+00:00",
+  "marca": "Rolex",
+  "titulo": "2005 Rolex GMT-Master II 16710T \"Coke\" Full Set Men's 40mm Wristwatch",
+  "total": 14500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940090225590",
+  "item_id": "v1|940090225590|0",
+  "referencia": "16710T",
+  "mercado": {
+   "n": 3,
+   "p25": 14595,
+   "mediana": 14750
+  },
+  "triage": {
+   "modelo": "Rolex GMT-Master II, bisel Coke rojo/negro, acero, esfera negra",
+   "referencia": "16710 (sufijo T según el título)",
+   "precio_justo_usd": 12000,
+   "interesante": false,
+   "nota": "Referencia 16710 de acero con bisel Coke, 2005, en estado bueno; el precio pedido de US$14,500 está por encima del valor de venta cerrada estimado."
+  },
+  "motivo": "triage: Referencia 16710 de acero con bisel Coke, 2005, en estado bueno; el precio pedido de US$14,500 está por encima del valor de venta cerrada estimado. (justo 12000)"
+ },
+ {
+  "fecha": "2026-11-14T00:21:07.512549+00:00",
+  "marca": "Rolex",
+  "titulo": "eLive- Rolex Land-Dweller 40mm 127334",
+  "total": 1.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/128193362299",
+  "item_id": "v1|128193362299|0",
+  "referencia": "127334",
+  "mercado": {
+   "n": 20,
+   "p25": 25325,
+   "mediana": 25724
+  },
+  "ratio_mercado": 0.0,
+  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
+ },
+ {
+  "fecha": "2026-11-14T00:21:07.512549+00:00",
+  "marca": "Rolex",
+  "titulo": "eLive- Rolex Air-King 40mm 126900",
+  "total": 1.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/128193362305",
+  "item_id": "v1|128193362305|0",
+  "referencia": "126900",
+  "mercado": {
+   "n": 13,
+   "p25": 10000,
+   "mediana": 10250
+  },
+  "ratio_mercado": 0.0,
+  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
+ },
+ {
+  "fecha": "2026-11-14T00:21:07.512549+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41 2026 OCTOBER UNWORN 126333 Olive Roman Jubilee Gold Steel",
+  "total": 20600.0,
+  "condicion": "New with imperfections",
+  "url": "https://www.ebay.com/itm/840125916737",
+  "item_id": "v1|840125916737|0",
+  "referencia": "126333",
+  "mercado": {
+   "n": 39,
+   "p25": 19250,
+   "mediana": 20175
+  },
+  "ratio_mercado": 1.07,
+  "motivo": "precio normal (107 % del cuartil bajo de 126333)"
  }
 ]
