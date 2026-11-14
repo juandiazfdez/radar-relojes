@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-11T19:49:10.905000+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Explorer I 114270 Black 36mm 3-6-9 Stainless Steel Automatic MK1 Watch",
-  "total": 7124.64,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940084387914",
-  "item_id": "v1|940084387914|0",
-  "referencia": "114270",
-  "mercado": {
-   "n": 11,
-   "p25": 7250,
-   "mediana": 7845
-  },
-  "ratio_mercado": 0.983,
-  "motivo": "precio normal (98 % del cuartil bajo de 114270)"
- },
- {
-  "fecha": "2026-11-11T19:49:10.905000+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust 41mm 2019 No box, no papers",
   "total": 10400.0,
   "condicion": "Pre-owned - Fair",
@@ -10974,5 +10957,28 @@
    "nota": "Precio pedido de US$2457 está por encima del precio de mercado gris (~US$1,900-2,100 con caja y papeles) y apenas 7 % bajo MSRP; no hay descuento real."
   },
   "motivo": "triage: Precio pedido de US$2457 está por encima del precio de mercado gris (~US$1,900-2,100 con caja y papeles) y apenas 7 % bajo MSRP; no hay descuento real. (justo 2000)"
+ },
+ {
+  "fecha": "2026-11-14T01:51:07.419908+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 116244 \"G\" Serial S/S 36MM Factory Diamond Watch. Mint. B/P",
+  "total": 11560.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287728242957",
+  "item_id": "v1|287728242957|0",
+  "referencia": "116244",
+  "mercado": {
+   "n": 34,
+   "p25": 14070,
+   "mediana": 14869
+  },
+  "ratio_mercado": 0.822,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 7800,
+   "riesgo_autenticidad": "alto",
+   "estado": "Aspecto muy bueno y poco desgaste, pero con detalles en la esfera y el cristal que no cuadran, y precio muy por encima del mercado"
+  },
+  "motivo": "Claude descarto: Precio: US$11,560 es mucho más de lo que se cierra realmente. Un 116244 de acero con caja y papeles se vende hoy en EE. UU. más o menos entre US$7,200 y 8,800. Los comparables de US$14-15k son precios pedidos inflados y no sirven de referencia. Aquí no hay margen de reventa.; En las fotos de frente y de 3/4 no se ve la lupa (cyclops) sobre la ventana de fecha. Todos los Datejust 36 tienen cyclops. Puede ser un cristal cambiado o un reloj réplica o híbrido."
  }
 ]
