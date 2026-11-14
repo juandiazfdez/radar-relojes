@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-12T04:49:35.079570+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36mm, 16220, Steel, Black Dial, Oyster Bracelet 1999",
-  "total": 6200.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/117517025270",
-  "item_id": "v1|117517025270|0",
-  "referencia": "16220",
-  "mercado": {
-   "n": 32,
-   "p25": 5999,
-   "mediana": 7168
-  },
-  "ratio_mercado": 1.034,
-  "motivo": "precio normal (103 % del cuartil bajo de 16220)"
- },
- {
-  "fecha": "2026-11-12T05:04:35.386433+00:00",
-  "marca": "Rolex",
-  "titulo": "eLive- Rolex Land-Dweller 40mm 127334",
-  "total": 1.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/128190020667",
-  "item_id": "v1|128190020667|0",
-  "referencia": "127334",
-  "mercado": {
-   "n": 18,
-   "p25": 25325,
-   "mediana": 25774
-  },
-  "ratio_mercado": 0.0,
-  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
- },
- {
   "fecha": "2026-11-12T05:04:35.386433+00:00",
   "marca": "Rolex",
   "titulo": "New 2026 Rolex Land Dweller 127234 36mm Stainless 09/07/26 land-dweller B&P",
@@ -10995,5 +10961,45 @@
    "nota": "Panthère mediana bicolor de cuarzo, 27 mm, a US$8,967 está muy por encima de lo que se vende realmente (aprox. US$4,000-5,500 usado). Título dice 18k, pero la foto no lo confirma."
   },
   "motivo": "triage: Panthère mediana bicolor de cuarzo, 27 mm, a US$8,967 está muy por encima de lo que se vende realmente (aprox. US$4,000-5,500 usado). Título dice 18k, pero la foto no lo confirma. (justo 4800)"
+ },
+ {
+  "fecha": "2026-11-14T22:21:38.345491+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Must de Cartier Large WSTA0041 Quartz Stainless Steel Watch 26MM",
+  "total": 3499.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407363377453",
+  "item_id": "v1|407363377453|0",
+  "referencia": "WSTA0041",
+  "mercado": {
+   "n": 3,
+   "p25": 3495,
+   "mediana": 3599
+  },
+  "triage": {
+   "modelo": "Cartier Tank Must de Cartier Large (esfera blanca, numerales romanos, cuarzo, acero)",
+   "referencia": "WSTA0041",
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Con el precio pedido de US$3500 queda muy por encima de lo que se vende realmente este modelo usado en buen estado, aunque la foto no permite verificar el estado ni los papeles."
+  },
+  "motivo": "triage: Con el precio pedido de US$3500 queda muy por encima de lo que se vende realmente este modelo usado en buen estado, aunque la foto no permite verificar el estado ni los papeles. (justo 2300)"
+ },
+ {
+  "fecha": "2026-11-14T22:21:38.345491+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Princess Oysterdate 7637/4 Stainless Steel Runs Very Good!!",
+  "total": 1535.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137931399715",
+  "item_id": "v1|137931399715|0",
+  "triage": {
+   "modelo": "Tudor Princess Oysterdate (acero, bisel acanalado, esfera champán con ventana de fecha)",
+   "referencia": "7637/4",
+   "precio_justo_usd": 1600,
+   "interesante": false,
+   "nota": "Referencia 7637 de acero, precio cercano al mercado; el descuento es menor al 15 % exigido. La imagen no permite confirmar bien el material ni el estado del cristal y la esfera."
+  },
+  "motivo": "triage: Referencia 7637 de acero, precio cercano al mercado; el descuento es menor al 15 % exigido. La imagen no permite confirmar bien el material ni el estado del cristal y la esfera. (justo 1600)"
  }
 ]
