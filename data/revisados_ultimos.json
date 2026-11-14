@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-11-11T20:49:25.390514+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Pelagos FXD Red Bull 25707KN B&P 2026",
-  "total": 4435.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128189337060",
-  "item_id": "v1|128189337060|0",
-  "referencia": "25707KN",
-  "mercado": {
-   "n": 2,
-   "p25": 3595,
-   "mediana": 3808
-  },
-  "triage": {
-   "modelo": "Tudor Pelagos FXD (edición Red Bull, esfera azul, caja de titanio, correa de tela azul con detalle rojo)",
-   "referencia": "25707KN",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "Precio pedido cercano al retail para una pieza reciente con caja y papeles; el mercado secundario suele estar algo por debajo, pero no 15% o más. Verificar la referencia exacta y la autenticidad antes de comprar."
-  },
-  "motivo": "triage: Precio pedido cercano al retail para una pieza reciente con caja y papeles; el mercado secundario suele estar algo por debajo, pero no 15% o más. Verificar la referencia exacta y la autenticidad antes de comprar. (justo 3800)"
- },
- {
   "fecha": "2026-11-11T21:04:24.804051+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Mid size Oyster Perpetual 31 mm White Roman Jubilee Watch 6751 Circa 1973",
@@ -10986,5 +10963,22 @@
    "nota": "Parece una réplica o pieza customizada con pavé, no un Cartier auténtico con diamantes de fábrica. Un Santos genuino usado vale miles de dólares, pero este listado no lo es; precio justo como pieza de bisutería."
   },
   "motivo": "triage: Parece una réplica o pieza customizada con pavé, no un Cartier auténtico con diamantes de fábrica. Un Santos genuino usado vale miles de dólares, pero este listado no lo es; precio justo como pieza de bisutería. (justo 120)"
+ },
+ {
+  "fecha": "2026-11-14T07:06:18.071495+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Diamonds 14k White Gold Vintage Wristwatch 19.3 Grams",
+  "total": 3300.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227613715380",
+  "item_id": "v1|227613715380|0",
+  "triage": {
+   "modelo": "Reloj de dama vintage, caja redonda en oro blanco 14k, esfera dorada con marcadores de bastón (posible Rolex de dama, no verificable en la foto)",
+   "referencia": null,
+   "precio_justo_usd": 1800,
+   "interesante": false,
+   "nota": "No se ven corona ni firma en la esfera, y el peso de 19.3 g y la correa no son típicos de Rolex; autenticidad no verificable. Aun si fuera Rolex auténtico, US$3300 queda por encima de lo que se vende realmente."
+  },
+  "motivo": "triage: No se ven corona ni firma en la esfera, y el peso de 19.3 g y la correa no son típicos de Rolex; autenticidad no verificable. Aun si fuera Rolex auténtico, US$3300 queda por encima de lo que se vende realmente. (justo 1800)"
  }
 ]
