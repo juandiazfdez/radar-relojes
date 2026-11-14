@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-11T23:04:24.691189+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Must 21 Chronoscaph W10125U2 2424 38mm Steel Quartz Watch",
-  "total": 2500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/860135429081",
-  "item_id": "v1|860135429081|0",
-  "referencia": "2424",
-  "mercado": {
-   "n": 7,
-   "p25": 2895,
-   "mediana": 3245
-  },
-  "ratio_mercado": 0.864,
-  "motivo": "precio normal (86 % del cuartil bajo de 2424)"
- },
- {
-  "fecha": "2026-11-11T23:19:25.274838+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX SUBMARINER DATE 126610LN FULL SET 2022 SPORTS WATCH 41MM",
-  "total": 15200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137923037751",
-  "item_id": "v1|137923037751|0",
-  "referencia": "126610LN",
-  "mercado": {
-   "n": 82,
-   "p25": 14527,
-   "mediana": 15095
-  },
-  "ratio_mercado": 1.046,
-  "motivo": "precio normal (105 % del cuartil bajo de 126610LN)"
- },
- {
-  "fecha": "2026-11-11T23:19:25.274838+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 40mm 116710LN Green Arrow 2008",
-  "total": 13499.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147676652142",
-  "item_id": "v1|147676652142|0",
-  "referencia": "116710LN",
-  "mercado": {
-   "n": 38,
-   "p25": 14299,
-   "mediana": 15330
-  },
-  "ratio_mercado": 0.944,
-  "motivo": "precio normal (94 % del cuartil bajo de 116710LN)"
- },
- {
   "fecha": "2026-11-11T23:34:25.044613+00:00",
   "marca": "Cartier",
   "titulo": "2013 Cartier Ronde Solo W6700355 White 29mm 18k box papers",
@@ -10981,5 +10930,62 @@
   },
   "ratio_mercado": 0.894,
   "motivo": "precio normal (89 % del cuartil bajo de 2303)"
+ },
+ {
+  "fecha": "2026-11-14T17:21:38.015840+00:00",
+  "marca": "Rolex",
+  "titulo": "1987 Rolex 67198 Solid 18KYG 25mm Jubilee Oyster Wristwatch (AM1098526)",
+  "total": 5500.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/267843550089",
+  "item_id": "v1|267843550089|0",
+  "referencia": "67198",
+  "mercado": {
+   "n": 1,
+   "p25": 12428,
+   "mediana": 12428
+  },
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 mm, oro amarillo 18k, bisel acanalado, esfera negra con marcadores de barra, brazalete Jubilee",
+   "referencia": "67198",
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "Precio pedido de US$5,500 por un 67198 de 1987 en estado Fair, sin caja ni papeles, está por encima del valor de venta estimado (~US$4,500). No hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido de US$5,500 por un 67198 de 1987 en estado Fair, sin caja ni papeles, está por encima del valor de venta estimado (~US$4,500). No hay descuento suficiente. (justo 4500)"
+ },
+ {
+  "fecha": "2026-11-14T17:21:38.015840+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner 40mm Stainless Steel Automatic Watch 116610",
+  "total": 13000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137930782141",
+  "item_id": "v1|137930782141|0",
+  "referencia": "116610",
+  "mercado": {
+   "n": 46,
+   "p25": 12428,
+   "mediana": 12632
+  },
+  "ratio_mercado": 1.046,
+  "motivo": "precio normal (105 % del cuartil bajo de 116610)"
+ },
+ {
+  "fecha": "2026-11-14T17:21:38.015840+00:00",
+  "marca": "Rolex",
+  "titulo": "NEW/UNWORN 2025 Rolex GMT-Master II “Pepsi” 40mm 126710BLRO Jubilee ",
+  "total": 28149.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/227614252951",
+  "item_id": "v1|227614252951|0",
+  "referencia": "126710BLRO",
+  "mercado": {
+   "n": 15,
+   "p25": 29064,
+   "mediana": 32500
+  },
+  "ratio_mercado": 0.969,
+  "motivo": "precio normal (97 % del cuartil bajo de 126710BLRO)"
  }
 ]
