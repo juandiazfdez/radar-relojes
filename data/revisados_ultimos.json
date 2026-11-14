@@ -1,57 +1,6 @@
 [
  {
   "fecha": "2026-11-11T23:04:24.691189+00:00",
-  "marca": "Rolex",
-  "titulo": "Nov 2026 Rolex Submariner Date 41 Black Box/Papers/Card 126610LN Steel",
-  "total": 16000.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880106918513",
-  "item_id": "v1|880106918513|0",
-  "referencia": "126610LN",
-  "mercado": {
-   "n": 32,
-   "p25": 15975,
-   "mediana": 16362
-  },
-  "ratio_mercado": 1.002,
-  "motivo": "precio normal (100 % del cuartil bajo de 126610LN)"
- },
- {
-  "fecha": "2026-11-11T23:04:24.691189+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex Sea-Dweller 126600 43MM Black Oyster Steel Box Paper",
-  "total": 14899.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117516661183",
-  "item_id": "v1|117516661183|0",
-  "referencia": "126600",
-  "mercado": {
-   "n": 52,
-   "p25": 13021,
-   "mediana": 14020
-  },
-  "ratio_mercado": 1.144,
-  "motivo": "precio normal (114 % del cuartil bajo de 126600)"
- },
- {
-  "fecha": "2026-11-11T23:04:24.691189+00:00",
-  "marca": "Rolex",
-  "titulo": "vintage womens Rolex Oyster watch 1957",
-  "total": 400.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/327451741666",
-  "item_id": "v1|327451741666|0",
-  "triage": {
-   "modelo": "Posible Rolex Oyster de dama, manual, años 50 (no verificable con la foto)",
-   "referencia": null,
-   "precio_justo_usd": 1200,
-   "interesante": false,
-   "nota": "La foto es pequeña y no muestra el movimiento, la corona ni el logo, así que no confirma Rolex. El precio de US$400 es muy bajo para un Oyster de dama de esa época, lo que sugiere pieza no funcional, reloj de otra marca o listado engañoso. Pedir fotos del dial, la corona, el reverso y el movimiento."
-  },
-  "motivo": "triage: La foto es pequeña y no muestra el movimiento, la corona ni el logo, así que no confirma Rolex. El precio de US$400 es muy bajo para un Oyster de dama de esa época, lo que sugiere pieza no funcional, reloj de otra marca o listado engañoso. Pedir fotos del dial, la corona, el reverso y el movimiento. (justo 1200)"
- },
- {
-  "fecha": "2026-11-11T23:04:24.691189+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Must 21 Chronoscaph W10125U2 2424 38mm Steel Quartz Watch",
   "total": 2500.0,
@@ -10981,5 +10930,56 @@
    "nota": "Modelo actual de acero con brazalete; el precio pedido de US$2400 está solo ~11% bajo una estimación conservadora de venta real, por debajo del umbral del 15%. Faltan fotos del caso, movimiento y papeles."
   },
   "motivo": "triage: Modelo actual de acero con brazalete; el precio pedido de US$2400 está solo ~11% bajo una estimación conservadora de venta real, por debajo del umbral del 15%. Faltan fotos del caso, movimiento y papeles. (justo 2700)"
+ },
+ {
+  "fecha": "2026-11-14T17:06:38.607012+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 16613 Mens 18K Yellow Gold Stainless Steel Watch Black ",
+  "total": 11999.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366810018912",
+  "item_id": "v1|366810018912|0",
+  "referencia": "16613",
+  "mercado": {
+   "n": 92,
+   "p25": 11695,
+   "mediana": 12000
+  },
+  "ratio_mercado": 1.026,
+  "motivo": "precio normal (103 % del cuartil bajo de 16613)"
+ },
+ {
+  "fecha": "2026-11-14T17:06:38.607012+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 RSC Rolex DateJust II 41mm Steel Silver Blue Arabic 116334 BOX + PAPERS",
+  "total": 12494.21,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287729530475",
+  "item_id": "v1|287729530475|0",
+  "referencia": "116334",
+  "mercado": {
+   "n": 22,
+   "p25": 10445,
+   "mediana": 10950
+  },
+  "ratio_mercado": 1.196,
+  "motivo": "precio normal (120 % del cuartil bajo de 116334)"
+ },
+ {
+  "fecha": "2026-11-14T17:06:38.607012+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise 2303 Swiss Made Stainless Steel Chronograph",
+  "total": 3440.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800916695328",
+  "item_id": "v1|800916695328|0",
+  "referencia": "2303",
+  "mercado": {
+   "n": 29,
+   "p25": 3850,
+   "mediana": 4100
+  },
+  "ratio_mercado": 0.894,
+  "motivo": "precio normal (89 % del cuartil bajo de 2303)"
  }
 ]
