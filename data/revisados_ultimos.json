@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-11T19:34:11.948915+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Vendome 18K Solid Gold Quartz Watch 24mm",
-  "total": 3199.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880106448527",
-  "item_id": "v1|880106448527|0",
-  "triage": {
-   "modelo": "Cartier Vendôme (cuarzo, oro 18K, caja redonda de 24 mm, esfera blanca con numerales romanos)",
-   "referencia": null,
-   "precio_justo_usd": 2700,
-   "interesante": false,
-   "nota": "Precio pedido US$3199 por encima de un valor estimado de ~US$2700 para oro 18K de cuarzo en estado Good; sin margen de compra."
-  },
-  "motivo": "triage: Precio pedido US$3199 por encima de un valor estimado de ~US$2700 para oro 18K de cuarzo en estado Good; sin margen de compra. (justo 2700)"
- },
- {
-  "fecha": "2026-11-11T19:49:10.905000+00:00",
-  "marca": "Rolex",
-  "titulo": "2021 Rolex Sky-Dweller 326238 Black 18K Yellow Gold Oysterflex 42mm Box Papers",
-  "total": 34868.2,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267840977717",
-  "item_id": "v1|267840977717|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller en oro amarillo de 18K, bisel acanalado, esfera negra, correa Oysterflex, 42 mm",
-   "referencia": "326238",
-   "precio_justo_usd": 37000,
-   "interesante": false,
-   "nota": "Precio pedido algo por debajo del mercado, pero no el 15 % exigido; el margen es más cercano al 6-10 %."
-  },
-  "motivo": "triage: Precio pedido algo por debajo del mercado, pero no el 15 % exigido; el margen es más cercano al 6-10 %. (justo 37000)"
- },
- {
   "fecha": "2026-11-11T19:49:10.905000+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Cellini Danaos 4233 Black Gray Arabic 34mm 18K Yellow Gold Leather Watch",
@@ -10969,5 +10935,39 @@
    "nota": "La foto no permite confirmar la referencia ni si la caja es oro macizo o chapado; con oro de 18k en estado Good el precio pedido no está por debajo del mercado."
   },
   "motivo": "triage: La foto no permite confirmar la referencia ni si la caja es oro macizo o chapado; con oro de 18k en estado Good el precio pedido no está por debajo del mercado. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-14T00:51:07.315575+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36mm Fluted Jubilee 16234 - 2002",
+  "total": 6500.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/880114461288",
+  "item_id": "v1|880114461288|0",
+  "referencia": "16234",
+  "mercado": {
+   "n": 33,
+   "p25": 6160,
+   "mediana": 6470
+  },
+  "ratio_mercado": 1.055,
+  "motivo": "precio normal (106 % del cuartil bajo de 16234)"
+ },
+ {
+  "fecha": "2026-11-14T00:51:07.315575+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner no date 124060",
+  "total": 11850.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880110503142",
+  "item_id": "v1|880110503142|0",
+  "referencia": "124060",
+  "mercado": {
+   "n": 53,
+   "p25": 13590,
+   "mediana": 14095
+  },
+  "ratio_mercado": 0.872,
+  "motivo": "precio normal (87 % del cuartil bajo de 124060)"
  }
 ]
