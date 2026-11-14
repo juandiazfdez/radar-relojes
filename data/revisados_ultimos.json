@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-12T03:19:35.107588+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Submariner Date Ref. 1680 Circa 1977",
-  "total": 11649.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880107555828",
-  "item_id": "v1|880107555828|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date (aparente, esfera oscura con ventana de fecha)",
-   "referencia": "1680",
-   "precio_justo_usd": 13500,
-   "interesante": false,
-   "nota": "Ref. 1680 de ~1977 en estado Good; descuento de ~14% insuficiente y la foto es baja resolución, así que la esfera y el estado deben verificarse."
-  },
-  "motivo": "triage: Ref. 1680 de ~1977 en estado Good; descuento de ~14% insuficiente y la foto es baja resolución, así que la esfera y el estado deben verificarse. (justo 13500)"
- },
- {
-  "fecha": "2026-11-12T03:19:35.107588+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner 116613LB Bluesy 18k Yellow Gold Stainless Steel Box Paper",
-  "total": 14995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840115542221",
-  "item_id": "v1|840115542221|0",
-  "referencia": "116613LB",
-  "mercado": {
-   "n": 54,
-   "p25": 15779,
-   "mediana": 16000
-  },
-  "ratio_mercado": 0.95,
-  "motivo": "precio normal (95 % del cuartil bajo de 116613LB)"
- },
- {
-  "fecha": "2026-11-12T03:19:35.107588+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Ladies Oyester Perpetual in stainlesss steel",
   "total": 7045.42,
   "condicion": "Pre-owned - Good",
@@ -10982,5 +10948,45 @@
    "nota": "Precio pedido por encima de la estimación de venta cerrada para esta referencia en oro rosa con diamantes, aunque incluya caja y papeles. La referencia del título no se puede verificar solo con la foto."
   },
   "motivo": "triage: Precio pedido por encima de la estimación de venta cerrada para esta referencia en oro rosa con diamantes, aunque incluya caja y papeles. La referencia del título no se puede verificar solo con la foto. (justo 10000)"
+ },
+ {
+  "fecha": "2026-11-14T21:21:37.907067+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Solo Small SM 3170 W5200013 Steel Quartz Ladies Watch w/ Papers",
+  "total": 3599.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206701438848",
+  "item_id": "v1|206701438848|0",
+  "referencia": "3170",
+  "mercado": {
+   "n": 5,
+   "p25": 3225,
+   "mediana": 3275
+  },
+  "ratio_mercado": 1.116,
+  "motivo": "precio normal (112 % del cuartil bajo de 3170)"
+ },
+ {
+  "fecha": "2026-11-14T21:21:37.907067+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Heritage Chrono Blue 70330B Automatic Chronograph 42mm Steel Box Papers",
+  "total": 4215.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800917371143",
+  "item_id": "v1|800917371143|0",
+  "referencia": "70330B",
+  "mercado": {
+   "n": 1,
+   "p25": 5040,
+   "mediana": 5040
+  },
+  "triage": {
+   "modelo": "Tudor Heritage Chrono Blue",
+   "referencia": "70330B",
+   "precio_justo_usd": 3700,
+   "interesante": false,
+   "nota": "Bisel azul y subesferas azules con brazalete de acero; a US$4.215 está por encima del valor de venta cerrada de un usado en buen estado con caja y papeles."
+  },
+  "motivo": "triage: Bisel azul y subesferas azules con brazalete de acero; a US$4.215 está por encima del valor de venta cerrada de un usado en buen estado con caja y papeles. (justo 3700)"
  }
 ]
