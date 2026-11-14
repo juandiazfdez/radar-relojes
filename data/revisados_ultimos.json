@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-11-11T20:49:25.390514+00:00",
-  "marca": "Cartier",
-  "titulo": "Men's Cartier Steel Pasha De Cartier 38mm grid watch Vintage",
-  "total": 3400.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920131972226",
-  "item_id": "v1|920131972226|0",
-  "triage": {
-   "modelo": "Cartier Pasha de Cartier 38 mm, esfera grid, brazalete de acero (probable generación 2000s, no vintage)",
-   "referencia": "1030 (cuarzo) o 2324 (automático); no verificable con la foto",
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "Modelo de producción relativamente reciente, no vintage. Pedido de US$3,400 está por encima del precio de venta cerrada estimado; la foto es borrosa y no permite verificar referencia ni autenticidad."
-  },
-  "motivo": "triage: Modelo de producción relativamente reciente, no vintage. Pedido de US$3,400 está por encima del precio de venta cerrada estimado; la foto es borrosa y no permite verificar referencia ni autenticidad. (justo 2800)"
- },
- {
-  "fecha": "2026-11-11T20:49:25.390514+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor 1926 39mm Silver Diamond Gold Hour Markers Steel 91550 B&P 2025",
-  "total": 2835.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128189341057",
-  "item_id": "v1|128189341057|0",
-  "referencia": "91550",
-  "mercado": {
-   "n": 3,
-   "p25": 2000,
-   "mediana": 2475
-  },
-  "triage": {
-   "modelo": "Tudor 1926 39mm acero, esfera plateada texturizada con índices dorados",
-   "referencia": "91550",
-   "precio_justo_usd": 2900,
-   "interesante": false,
-   "nota": "Precio cercano al mercado de reventa para esta referencia con papeles recientes; no alcanza el 15% de descuento necesario."
-  },
-  "motivo": "triage: Precio cercano al mercado de reventa para esta referencia con papeles recientes; no alcanza el 15% de descuento necesario. (justo 2900)"
- },
- {
-  "fecha": "2026-11-11T20:49:25.390514+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay Heritage 41mm Black on Bracelet 79230N B&P 2022",
   "total": 4235.0,
@@ -10986,5 +10946,45 @@
    "nota": "La foto muestra un reloj rectangular con correa de cuero que no parece ser un Rolex Cellini; el listado es engañoso o las fotos no corresponden. Sin fotos reales del modelo anunciado, no es una oportunidad."
   },
   "motivo": "triage: La foto muestra un reloj rectangular con correa de cuero que no parece ser un Rolex Cellini; el listado es engañoso o las fotos no corresponden. Sin fotos reales del modelo anunciado, no es una oportunidad. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-14T05:06:06.646349+00:00",
+  "marca": "Rolex",
+  "titulo": "2023 ROLEX GMT-Master II Root Beer 40mm Brown Rose 126711CHNR - Box & Papers",
+  "total": 20950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366808856858",
+  "item_id": "v1|366808856858|0",
+  "referencia": "126711CHNR",
+  "mercado": {
+   "n": 101,
+   "p25": 20697,
+   "mediana": 21668
+  },
+  "ratio_mercado": 1.012,
+  "motivo": "precio normal (101 % del cuartil bajo de 126711CHNR)"
+ },
+ {
+  "fecha": "2026-11-14T05:06:06.646349+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Large Blue Dial. Ref WSSA0030",
+  "total": 7000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307281843535",
+  "item_id": "v1|307281843535|0",
+  "referencia": "WSSA0030",
+  "mercado": {
+   "n": 2,
+   "p25": 7800,
+   "mediana": 17400
+  },
+  "triage": {
+   "modelo": "Cartier Santos de Cartier Large (LM) acero, esfera azul, automático",
+   "referencia": "WSSA0030",
+   "precio_justo_usd": 6300,
+   "interesante": false,
+   "nota": "Precio pedido de US$7000 está cerca del mercado de reventa para este modelo usado; sin caja ni papeles visibles, no hay margen de 15 %."
+  },
+  "motivo": "triage: Precio pedido de US$7000 está cerca del mercado de reventa para este modelo usado; sin caja ni papeles visibles, no hay margen de 15 %. (justo 6300)"
  }
 ]
