@@ -1,29 +1,6 @@
 [
  {
   "fecha": "2026-11-12T00:34:24.592507+00:00",
-  "marca": "Rolex",
-  "titulo": "2012 Rolex 278273 Datejust 31mm Champagne Diamond Jubilee",
-  "total": 14000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900084116686",
-  "item_id": "v1|900084116686|0",
-  "referencia": "278273",
-  "mercado": {
-   "n": 16,
-   "p25": 17450,
-   "mediana": 18764
-  },
-  "ratio_mercado": 0.802,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 8300,
-   "riesgo_autenticidad": "medio",
-   "estado": "Aparenta muy buen estado con caja y papeles, pero sin fotos del fondo de caja ni del movimiento"
-  },
-  "motivo": "Claude descarto: La referencia del título no cuadra con el año. La 278273 es la generación de 2019 en adelante, y el título dice 2012. La ficha da otro año (1980-1989) y dice 'Stainless Steel', cuando el reloj es bicolor acero y oro. Con tantos datos contradictorios hay que dudar de todo el anuncio.; El reloj de las fotos parece una 178273 (2005-2018). Su valor real de mercado es bastante menor que el de una 278273 actual."
- },
- {
-  "fecha": "2026-11-12T00:34:24.592507+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Must SolarBeat Small Stainless Steel Watch WSTA0121",
   "total": 3814.99,
@@ -10970,5 +10947,28 @@
   },
   "ratio_mercado": 1.257,
   "motivo": "precio normal (126 % del cuartil bajo de 69173)"
+ },
+ {
+  "fecha": "2026-11-14T20:06:37.719748+00:00",
+  "marca": "Tudor",
+  "titulo": "2025 Tudor Black Bay GMT S&G 41mm Root Beer Yellow Gold Steel M79833MN Full Set",
+  "total": 4900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900091552786",
+  "item_id": "v1|900091552786|0",
+  "referencia": "M79833MN",
+  "mercado": {
+   "n": 3,
+   "p25": 4100,
+   "mediana": 4900
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay GMT S&G 41mm, dos tonos acero y oro amarillo (Root Beer según el título)",
+   "referencia": "M79833MN",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Precio en línea con el mercado gris para un modelo nuevo de dos tonos con caja; no hay descuento de al menos 15 %. Verificar autenticidad y papeles."
+  },
+  "motivo": "triage: Precio en línea con el mercado gris para un modelo nuevo de dos tonos con caja; no hay descuento de al menos 15 %. Verificar autenticidad y papeles. (justo 5000)"
  }
 ]
