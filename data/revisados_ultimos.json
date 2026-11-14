@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-11T21:19:24.705218+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Chrono M79360N PINK FLAMINGO - UNWORN 2025!",
-  "total": 9199.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/257847907638",
-  "item_id": "v1|257847907638|0",
-  "referencia": "M79360N",
-  "mercado": {
-   "n": 18,
-   "p25": 6000,
-   "mediana": 9599
-  },
-  "ratio_mercado": 1.533,
-  "motivo": "precio normal (153 % del cuartil bajo de M79360N)"
- },
- {
-  "fecha": "2026-11-11T21:34:25.655202+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT Master II 40mm 116710 Green Arrow Black Ceramic 2007",
-  "total": 13449.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147676559548",
-  "item_id": "v1|147676559548|0",
-  "referencia": "116710",
-  "mercado": {
-   "n": 39,
-   "p25": 12990,
-   "mediana": 13999
-  },
-  "ratio_mercado": 1.035,
-  "motivo": "precio normal (104 % del cuartil bajo de 116710)"
- },
- {
   "fecha": "2026-11-11T21:34:25.655202+00:00",
   "marca": "Tudor",
   "titulo": "Tudor 1926 Stainless Steel Watch 94150",
@@ -10974,5 +10940,39 @@
    "nota": "Precio pedido por encima del valor de venta cerrada de esta referencia de segunda mano; sin caja y papeles la diferencia es aún mayor."
   },
   "motivo": "triage: Precio pedido por encima del valor de venta cerrada de esta referencia de segunda mano; sin caja y papeles la diferencia es aún mayor. (justo 4200)"
+ },
+ {
+  "fecha": "2026-11-14T14:51:25.823295+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay Chrono “Carbon 26\" ref. 79377KN M79377KN-0003",
+  "total": 6915.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198794704188",
+  "item_id": "v1|198794704188|0",
+  "referencia": "79377KN",
+  "mercado": {
+   "n": 16,
+   "p25": 7795,
+   "mediana": 8372
+  },
+  "ratio_mercado": 0.887,
+  "motivo": "precio normal (89 % del cuartil bajo de 79377KN)"
+ },
+ {
+  "fecha": "2026-11-14T14:51:25.823295+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 41 Monochrome METAS 7941A1A0NU Full MINT Sep/2026 Warranty 2031",
+  "total": 4350.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840128066442",
+  "item_id": "v1|840128066442|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 41 Monochrome",
+   "referencia": "M7941A1A0NU",
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "Precio pedido de US$4350 con envío está al nivel o por encima del mercado secundario para un modelo nuevo/seminuevo con papeles; no hay descuento de al menos 15 %."
+  },
+  "motivo": "triage: Precio pedido de US$4350 con envío está al nivel o por encima del mercado secundario para un modelo nuevo/seminuevo con papeles; no hay descuento de al menos 15 %. (justo 3900)"
  }
 ]
