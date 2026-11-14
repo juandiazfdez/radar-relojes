@@ -1,63 +1,5 @@
 [
  {
-  "fecha": "2026-11-11T23:49:25.007105+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Galbee 18K with diamonds",
-  "total": 19756.18,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840119190424",
-  "item_id": "v1|840119190424|0",
-  "triage": {
-   "modelo": "Cartier Santos Galbée en oro amarillo 18K (cuarzo, esfera blanca, brazalete de eslabones dorados)",
-   "referencia": null,
-   "precio_justo_usd": 9500,
-   "interesante": false,
-   "nota": "El título menciona diamantes, pero en la foto no se ven; sin ellos el precio pedido está muy por encima del mercado de reventa."
-  },
-  "motivo": "triage: El título menciona diamantes, pero en la foto no se ven; sin ellos el precio pedido está muy por encima del mercado de reventa. (justo 9500)"
- },
- {
-  "fecha": "2026-11-11T23:49:25.007105+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay 79540 Blue - 3 Bracelets BB41",
-  "total": 1990.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237177977856",
-  "item_id": "v1|237177977856|0",
-  "referencia": "79540",
-  "mercado": {
-   "n": 5,
-   "p25": 2706,
-   "mediana": 3299
-  },
-  "ratio_mercado": 0.735,
-  "claude": {
-   "veredicto": "alerta",
-   "precio_justo_usd": 2450,
-   "riesgo_autenticidad": "medio",
-   "estado": "Bueno, uso normal: microarañazos en laterales y cristal limpio. Sin caja ni papeles, sin brazalete Tudor original"
-  },
-  "ratio_justo": 0.812,
-  "motivo": "ALERTA"
- },
- {
-  "fecha": "2026-11-11T23:49:25.007105+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay Chrono M79360N-0019",
-  "total": 9499.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/147676670851",
-  "item_id": "v1|147676670851|0",
-  "referencia": "M79360N-0019",
-  "mercado": {
-   "n": 18,
-   "p25": 6000,
-   "mediana": 9599
-  },
-  "ratio_mercado": 1.583,
-  "motivo": "precio normal (158 % del cuartil bajo de M79360N-0019)"
- },
- {
   "fecha": "2026-11-12T00:04:25.080973+00:00",
   "marca": "Rolex",
   "titulo": "Rolex 3458 Chronometre Rose Gold SS Men Automatic 1940s 32mm Bubbleback RA750B",
@@ -10993,5 +10935,56 @@
    "nota": "Un 69139 en oro blanco de 18k sin modificar se vende en unos 5.000-7.000 USD; el bisel de diamantes y los marcadores personalizados añaden valor, pero el pedido de 18.000 USD supera ampliamente el mercado y las modificaciones pueden no ser originales."
   },
   "motivo": "triage: Un 69139 en oro blanco de 18k sin modificar se vende en unos 5.000-7.000 USD; el bisel de diamantes y los marcadores personalizados añaden valor, pero el pedido de 18.000 USD supera ampliamente el mercado y las modificaciones pueden no ser originales. (justo 9000)"
+ },
+ {
+  "fecha": "2026-11-14T18:06:37.902414+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date 36mm President 18038 18K Gold President Fluted Black Stick",
+  "total": 20000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257852514270",
+  "item_id": "v1|257852514270|0",
+  "referencia": "18038",
+  "mercado": {
+   "n": 18,
+   "p25": 9165,
+   "mediana": 10484
+  },
+  "ratio_mercado": 2.182,
+  "motivo": "precio normal (218 % del cuartil bajo de 18038)"
+ },
+ {
+  "fecha": "2026-11-14T18:06:37.902414+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date 18038 Presidential 18k Gold 36mm Watch-Green Stick Marker",
+  "total": 20000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257852506048",
+  "item_id": "v1|257852506048|0",
+  "referencia": "18038",
+  "mercado": {
+   "n": 18,
+   "p25": 9165,
+   "mediana": 10484
+  },
+  "ratio_mercado": 2.182,
+  "motivo": "precio normal (218 % del cuartil bajo de 18038)"
+ },
+ {
+  "fecha": "2026-11-14T18:06:37.902414+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Monarch 2639W1A0U Full Set 39mm Steel 2026",
+  "total": 7410.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/128194911872",
+  "item_id": "v1|128194911872|0",
+  "triage": {
+   "modelo": "Tudor Monarch (esfera champán, numerales arábigos, subesfera de segundos; brazalete bicolor acero/oro)",
+   "referencia": null,
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "El precio pedido (US$7.410) supera ampliamente el valor de mercado de un Tudor nuevo de este tipo. La referencia '2639W1A0U' no tiene formato típico de Tudor y no se puede verificar, y la foto muestra brazalete bicolor mientras el título dice acero. Pedir fotos de la referencia grabada y de los papeles."
+  },
+  "motivo": "triage: El precio pedido (US$7.410) supera ampliamente el valor de mercado de un Tudor nuevo de este tipo. La referencia '2639W1A0U' no tiene formato típico de Tudor y no se puede verificar, y la foto muestra brazalete bicolor mientras el título dice acero. Pedir fotos de la referencia grabada y de los papeles. (justo 3500)"
  }
 ]
