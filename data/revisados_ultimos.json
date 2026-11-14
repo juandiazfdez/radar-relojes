@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-11T21:04:24.804051+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Lady-Datejust NEW 2026 Chocolate Index Two Tone Rose Smooth Jubilee",
-  "total": 18995.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/800905033422",
-  "item_id": "v1|800905033422|0",
-  "triage": {
-   "modelo": "Rolex Datejust 31 Rolesor (acero y Everose), esfera chocolate, bisel liso, brazalete Jubilee",
-   "referencia": "278271 (probable; el título dice Lady-Datejust, pero el tamaño parece 31 mm, que correspondería a esta referencia)",
-   "precio_justo_usd": 13500,
-   "interesante": false,
-   "nota": "El precio pedido está muy por encima del mercado secundario para esta referencia nueva. Además, el título menciona Lady-Datejust y '2026', que conviene verificar con el número de serie y los papeles."
-  },
-  "motivo": "triage: El precio pedido está muy por encima del mercado secundario para esta referencia nueva. Además, el título menciona Lady-Datejust y '2026', que conviene verificar con el número de serie y los papeles. (justo 13500)"
- },
- {
-  "fecha": "2026-11-11T21:04:24.804051+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust 18K/Stainless Steel Watch 16233",
   "total": 9000.0,
   "condicion": "Pre-owned - Excellent",
@@ -10974,5 +10957,28 @@
   },
   "ratio_mercado": 1.175,
   "motivo": "precio normal (117 % del cuartil bajo de 127234)"
+ },
+ {
+  "fecha": "2026-11-14T13:21:25.762472+00:00",
+  "marca": "Tudor",
+  "titulo": "2002 TUDOR Prince Date “Tudor Tiger” Chronograph - Ref 79263P Rare Green",
+  "total": 5039.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860143237399",
+  "item_id": "v1|860143237399|0",
+  "referencia": "79263P",
+  "mercado": {
+   "n": 2,
+   "p25": 5662,
+   "mediana": 5928
+  },
+  "triage": {
+   "modelo": "Tudor Prince Date Chronograph 'Tiger' (aspecto dorado con subdiales verdes; posible variante o réplica)",
+   "referencia": "79263P (no verificable en la foto)",
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Precio pedido muy alto para un 79263P de 2002 usado, y la foto muestra bisel dorado, correa verde y logotipos que no coinciden claramente con la referencia. Conviene verificar autenticidad y papeles antes de considerar la compra."
+  },
+  "motivo": "triage: Precio pedido muy alto para un 79263P de 2002 usado, y la foto muestra bisel dorado, correa verde y logotipos que no coinciden claramente con la referencia. Conviene verificar autenticidad y papeles antes de considerar la compra. (justo 2800)"
  }
 ]
