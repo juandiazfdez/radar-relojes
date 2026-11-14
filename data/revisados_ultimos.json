@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-11T19:34:11.948915+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36mm 16233 Cream Jubilee Index Yellow Gold/Steel  Jubilee Watch",
-  "total": 7780.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336892491766",
-  "item_id": "v1|336892491766|0",
-  "referencia": "16233",
-  "mercado": {
-   "n": 29,
-   "p25": 5695,
-   "mediana": 6245
-  },
-  "ratio_mercado": 1.366,
-  "motivo": "precio normal (137 % del cuartil bajo de 16233)"
- },
- {
-  "fecha": "2026-11-11T19:34:11.948915+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Vendome 18K Solid Gold Quartz Watch 24mm",
   "total": 3199.0,
@@ -10969,5 +10952,22 @@
   },
   "ratio_mercado": 1.07,
   "motivo": "precio normal (107 % del cuartil bajo de 126333)"
+ },
+ {
+  "fecha": "2026-11-14T00:36:07.074366+00:00",
+  "marca": "Rolex",
+  "titulo": "1980's Rolex Oyster Perpetual Date Gold",
+  "total": 3459.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128193372928",
+  "item_id": "v1|128193372928|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date (posible Datejust/OP Date de los años 70-80, no verificable en la foto)",
+   "referencia": null,
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "La foto no permite confirmar la referencia ni si la caja es oro macizo o chapado; con oro de 18k en estado Good el precio pedido no está por debajo del mercado."
+  },
+  "motivo": "triage: La foto no permite confirmar la referencia ni si la caja es oro macizo o chapado; con oro de 18k en estado Good el precio pedido no está por debajo del mercado. (justo 3200)"
  }
 ]
