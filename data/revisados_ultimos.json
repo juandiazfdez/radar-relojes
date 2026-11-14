@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-11T20:49:25.390514+00:00",
   "marca": "Tudor",
-  "titulo": "Tudor Black Bay Heritage 41mm Black on Bracelet 79230N B&P 2022",
-  "total": 4235.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128189337514",
-  "item_id": "v1|128189337514|0",
-  "referencia": "79230N",
-  "mercado": {
-   "n": 16,
-   "p25": 3375,
-   "mediana": 3597
-  },
-  "ratio_mercado": 1.255,
-  "motivo": "precio normal (125 % del cuartil bajo de 79230N)"
- },
- {
-  "fecha": "2026-11-11T20:49:25.390514+00:00",
-  "marca": "Tudor",
   "titulo": "Tudor Pelagos FXD Red Bull 25707KN B&P 2026",
   "total": 4435.0,
   "condicion": "Pre-owned - Excellent",
@@ -10986,5 +10969,22 @@
    "nota": "Precio pedido de US$7000 está cerca del mercado de reventa para este modelo usado; sin caja ni papeles visibles, no hay margen de 15 %."
   },
   "motivo": "triage: Precio pedido de US$7000 está cerca del mercado de reventa para este modelo usado; sin caja ni papeles visibles, no hay margen de 15 %. (justo 6300)"
+ },
+ {
+  "fecha": "2026-11-14T05:51:17.940511+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Square Diamond Accent Date Watch Roman Numerals Silver Bracelet",
+  "total": 150.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820347392082",
+  "item_id": "v1|820347392082|0",
+  "triage": {
+   "modelo": "Cartier estilo Santos cuadrado, con bisel y brazalete pavé (posible réplica o customizado)",
+   "referencia": null,
+   "precio_justo_usd": 120,
+   "interesante": false,
+   "nota": "Parece una réplica o pieza customizada con pavé, no un Cartier auténtico con diamantes de fábrica. Un Santos genuino usado vale miles de dólares, pero este listado no lo es; precio justo como pieza de bisutería."
+  },
+  "motivo": "triage: Parece una réplica o pieza customizada con pavé, no un Cartier auténtico con diamantes de fábrica. Un Santos genuino usado vale miles de dólares, pero este listado no lo es; precio justo como pieza de bisutería. (justo 120)"
  }
 ]
