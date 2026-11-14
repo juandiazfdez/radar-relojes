@@ -1,74 +1,6 @@
 [
  {
   "fecha": "2026-11-11T21:04:24.804051+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 18K/Stainless Steel Watch 16233",
-  "total": 9000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407356364621",
-  "item_id": "v1|407356364621|0",
-  "referencia": "16233",
-  "mercado": {
-   "n": 29,
-   "p25": 5695,
-   "mediana": 6245
-  },
-  "ratio_mercado": 1.58,
-  "motivo": "precio normal (158 % del cuartil bajo de 16233)"
- },
- {
-  "fecha": "2026-11-11T21:04:24.804051+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 26mm Datejust 179178 President 18K Yellow Gold Diamond Indicies - Warranty",
-  "total": 20995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137922713744",
-  "item_id": "v1|137922713744|0",
-  "referencia": "179178",
-  "mercado": {
-   "n": 16,
-   "p25": 19270,
-   "mediana": 20745
-  },
-  "ratio_mercado": 1.09,
-  "motivo": "precio normal (109 % del cuartil bajo de 179178)"
- },
- {
-  "fecha": "2026-11-11T21:04:24.804051+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Lady-Datejust NEW 2026 Chocolate Diamond Two Tone Rose Smooth Oyster",
-  "total": 20995.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/800904995610",
-  "item_id": "v1|800904995610|0",
-  "triage": {
-   "modelo": "Rolex Lady-Datejust acero y Everose, esfera chocolate con diamantes, bisel liso, brazalete Oyster (probablemente 31 mm)",
-   "referencia": "278271 (probable; verificar tamaño y referencia exactos)",
-   "precio_justo_usd": 14000,
-   "interesante": false,
-   "nota": "US$20,995 supera mucho el retail actual y el mercado secundario de este modelo; aunque sea nuevo con papeles, no hay descuento."
-  },
-  "motivo": "triage: US$20,995 supera mucho el retail actual y el mercado secundario de este modelo; aunque sea nuevo con papeles, no hay descuento. (justo 14000)"
- },
- {
-  "fecha": "2026-11-11T21:04:24.804051+00:00",
-  "marca": "Cartier",
-  "titulo": "2021 Cartier Ballon Bleu 40mm Automatic, Steel, Leather, Extended Warranty",
-  "total": 4890.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137922732212",
-  "item_id": "v1|137922732212|0",
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 40 mm automático, acero, esfera plateada con números romanos, correa de piel negra",
-   "referencia": "WSBB0040 (probable)",
-   "precio_justo_usd": 5200,
-   "interesante": false,
-   "nota": "Precio pedido unos 6 % por debajo de la estimación; no llega al umbral del 15 % para ser interesante."
-  },
-  "motivo": "triage: Precio pedido unos 6 % por debajo de la estimación; no llega al umbral del 15 % para ser interesante. (justo 5200)"
- },
- {
-  "fecha": "2026-11-11T21:04:24.804051+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay Chrono M79360N TIFFANY BLUE Turquoise Flamingo - UNWORN 2025!",
   "total": 9499.0,
@@ -10980,5 +10912,73 @@
    "nota": "Precio pedido muy alto para un 79263P de 2002 usado, y la foto muestra bisel dorado, correa verde y logotipos que no coinciden claramente con la referencia. Conviene verificar autenticidad y papeles antes de considerar la compra."
   },
   "motivo": "triage: Precio pedido muy alto para un 79263P de 2002 usado, y la foto muestra bisel dorado, correa verde y logotipos que no coinciden claramente con la referencia. Conviene verificar autenticidad y papeles antes de considerar la compra. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-14T14:21:26.399498+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Submariner Automatic Watch Stainless Steel and Cerachrom",
+  "total": 19170.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117520983669",
+  "item_id": "v1|117520983669|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Submariner No-Date (bisel Cerachrom negro, acero, sin fecha)",
+   "referencia": "114060 (probable; podría ser 124060 según el año)",
+   "precio_justo_usd": 10000,
+   "interesante": false,
+   "nota": "Precio pedido de US$19,170 muy por encima del valor de mercado para este modelo en estado Good; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$19,170 muy por encima del valor de mercado para este modelo en estado Good; no es una oportunidad. (justo 10000)"
+ },
+ {
+  "fecha": "2026-11-14T14:21:26.399498+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise Quartz Watch Stainless Steel and Yellow Gold 20",
+  "total": 6110.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117520984929",
+  "item_id": "v1|117520984929|0",
+  "triage": {
+   "modelo": "Cartier Tank Française, acero y oro amarillo, cuarzo, tamaño pequeño (~20 mm, según el título)",
+   "referencia": null,
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Precio pedido de US$6110 muy por encima del valor de mercado para este modelo de cuarzo bitono usado; la referencia exacta no se confirma en la foto."
+  },
+  "motivo": "triage: Precio pedido de US$6110 muy por encima del valor de mercado para este modelo de cuarzo bitono usado; la referencia exacta no se confirma en la foto. (justo 2300)"
+ },
+ {
+  "fecha": "2026-11-14T14:21:26.399498+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Demoiselle Quartz Watch Stainless Steel 20",
+  "total": 4890.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128194589588",
+  "item_id": "v1|128194589588|0",
+  "triage": {
+   "modelo": "Cartier Santos Demoiselle cuarzo, acero, esfera plateada con numerales romanos",
+   "referencia": "W25064Z5 (probable, no verificable en la foto)",
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del mercado secundario para esta referencia de acero; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido muy por encima del mercado secundario para esta referencia de acero; no es una oportunidad. (justo 2400)"
+ },
+ {
+  "fecha": "2026-11-14T14:21:26.399498+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise Quartz Watch Stainless Steel with Diamond Markers 25",
+  "total": 5985.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117520983172",
+  "item_id": "v1|117520983172|0",
+  "triage": {
+   "modelo": "Cartier Tank Française cuarzo, acero, esfera plateada con marcadores de diamante",
+   "referencia": "null",
+   "precio_justo_usd": 2900,
+   "interesante": false,
+   "nota": "Modelo de tamaño mediano en acero, probablemente de la familia W51008Q3 o W51011Q3 (no verificable en la foto). Precio pedido muy por encima del mercado de reventa para este modelo."
+  },
+  "motivo": "triage: Modelo de tamaño mediano en acero, probablemente de la familia W51008Q3 o W51011Q3 (no verificable en la foto). Precio pedido muy por encima del mercado de reventa para este modelo. (justo 2900)"
  }
 ]
