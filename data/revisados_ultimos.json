@@ -1,79 +1,5 @@
 [
  {
-  "fecha": "2026-11-11T19:49:10.905000+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor 7939A1A0RU Black Bay 58 Burgundy",
-  "total": 4525.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920131711486",
-  "item_id": "v1|920131711486|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 Burgundy (39 mm, acero, brazalete Jubilee)",
-   "referencia": "7939A1A0RU",
-   "precio_justo_usd": 3100,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de mercado secundario para un Black Bay 58 Burgundy de acero usado; no hay descuento de al menos 15 %."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de mercado secundario para un Black Bay 58 Burgundy de acero usado; no hay descuento de al menos 15 %. (justo 3100)"
- },
- {
-  "fecha": "2026-11-11T20:04:25.383897+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Stainless Steel Watch 6534",
-  "total": 4500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407356268126",
-  "item_id": "v1|407356268126|0",
-  "referencia": "6534",
-  "mercado": {
-   "n": 3,
-   "p25": 4000,
-   "mediana": 5000
-  },
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual (vintage, con ventana de fecha), dial plateado, correa de cuero negra",
-   "referencia": "6534 (según título, no verificable en la foto)",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "Vintage de cuerda manual, sin caja ni papeles visibles; a US$4.500 queda por encima del precio de venta cerrada estimado para su estado y año, y no hay margen de compra."
-  },
-  "motivo": "triage: Vintage de cuerda manual, sin caja ni papeles visibles; a US$4.500 queda por encima del precio de venta cerrada estimado para su estado y año, y no hay margen de compra. (justo 3800)"
- },
- {
-  "fecha": "2026-11-11T20:04:25.383897+00:00",
-  "marca": "Rolex",
-  "titulo": "Pre-Owned Rolex Yacht-Master 37 Everose Ref. 268621",
-  "total": 15095.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940084420800",
-  "item_id": "v1|940084420800|0",
-  "referencia": "268621",
-  "mercado": {
-   "n": 8,
-   "p25": 14978,
-   "mediana": 15750
-  },
-  "ratio_mercado": 1.008,
-  "motivo": "precio normal (101 % del cuartil bajo de 268621)"
- },
- {
-  "fecha": "2026-11-11T20:19:24.946046+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Yacht-Master 40mm 2025 Rhodium Slate Grey Platinum Oyster 126622",
-  "total": 15695.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198788234851",
-  "item_id": "v1|198788234851|0",
-  "referencia": "126622",
-  "mercado": {
-   "n": 22,
-   "p25": 14975,
-   "mediana": 15992
-  },
-  "ratio_mercado": 1.048,
-  "motivo": "precio normal (105 % del cuartil bajo de 126622)"
- },
- {
   "fecha": "2026-11-11T20:19:24.946046+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Daytona 18K Yellow Gold Watch 116518",
@@ -10980,5 +10906,73 @@
    "nota": "Precio pedido de US$3,707 con envío queda por encima del valor de venta cerrada estimado para un Pelagos FXD usado en estado Good. No cumple el umbral del 15 % de descuento."
   },
   "motivo": "triage: Precio pedido de US$3,707 con envío queda por encima del valor de venta cerrada estimado para un Pelagos FXD usado en estado Good. No cumple el umbral del 15 % de descuento. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-14T02:51:06.824506+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Datejust 36, 116243, Steel & Gold, Mother of Pearl Diamond Dial...",
+  "total": 20958.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/800914188595",
+  "item_id": "v1|800914188595|0",
+  "referencia": "116243",
+  "mercado": {
+   "n": 39,
+   "p25": 15667,
+   "mediana": 16067
+  },
+  "ratio_mercado": 1.338,
+  "motivo": "precio normal (134 % del cuartil bajo de 116243)"
+ },
+ {
+  "fecha": "2026-11-14T02:51:06.824506+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Datejust 36, 116243, Steel & Yellow Gold, Mother of Pearl Diamo...",
+  "total": 20559.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/206699641443",
+  "item_id": "v1|206699641443|0",
+  "referencia": "116243",
+  "mercado": {
+   "n": 39,
+   "p25": 15667,
+   "mediana": 16067
+  },
+  "ratio_mercado": 1.312,
+  "motivo": "precio normal (131 % del cuartil bajo de 116243)"
+ },
+ {
+  "fecha": "2026-11-14T02:51:06.824506+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Galbee W20012C4 24mm Steel & 18K Gold Ivory Quartz Watch Only",
+  "total": 4900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206697182822",
+  "item_id": "v1|206697182822|0",
+  "triage": {
+   "modelo": "Cartier Santos Galbée (bicolor acero y oro 18K, cuarzo, esfera ivory)",
+   "referencia": "W20012C4",
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Precio pedido de US$4900 muy por encima del valor de venta real de este modelo de cuarzo bicolor usado, que ronda US$2000-2600 según estado."
+  },
+  "motivo": "triage: Precio pedido de US$4900 muy por encima del valor de venta real de este modelo de cuarzo bicolor usado, que ronda US$2000-2600 según estado. (justo 2300)"
+ },
+ {
+  "fecha": "2026-11-14T02:51:06.824506+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Large Model Diamond Automatic . Guaranteed to be authentic by eBa",
+  "total": 8800.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/198793331399",
+  "item_id": "v1|198793331399|0",
+  "triage": {
+   "modelo": "Cartier Santos de Cartier Large (tamaño grande), acero, con pavé de diamantes añadido (aspecto de modificación externa)",
+   "referencia": null,
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "Las fotos muestran un Santos grande con diamantes de terceros, no una pieza de fábrica; la pieza de acero sin modificar tiene un precio de mercado gris menor, el añadido se revende a poco, y el precio pedido no está 15 % por debajo del valor real."
+  },
+  "motivo": "triage: Las fotos muestran un Santos grande con diamantes de terceros, no una pieza de fábrica; la pieza de acero sin modificar tiene un precio de mercado gris menor, el añadido se revende a poco, y el precio pedido no está 15 % por debajo del valor real. (justo 7000)"
  }
 ]
