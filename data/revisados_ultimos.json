@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-12T12:04:45.104928+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Ronde Solo De Cartier Quartz Yellow Gold And Alligator Watch",
-  "total": 4042.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820346458109",
-  "item_id": "v1|820346458109|0",
-  "triage": {
-   "modelo": "Cartier Ronde Solo de Cartier cuarzo, oro rosa (el título dice amarillo, la foto muestra oro rosa), correa de caimán negra",
-   "referencia": null,
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Sin referencia verificable en la foto; precio total de US$4042 está por encima del valor estimado para oro de 18k de este tamaño, usado, sin caja ni papeles confirmados."
-  },
-  "motivo": "triage: Sin referencia verificable en la foto; precio total de US$4042 está por encima del valor estimado para oro de 18k de este tamaño, usado, sin caja ni papeles confirmados. (justo 3000)"
- },
- {
-  "fecha": "2026-11-12T12:04:45.104928+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ronde Solo De Cartier Automatic Stainless Steel And Leather Watch",
-  "total": 2442.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820346458070",
-  "item_id": "v1|820346458070|0",
-  "triage": {
-   "modelo": "Cartier Ronde Solo de Cartier (acero, correa de piel negra, esfera plateada con numeración romana y anillo de 24 horas)",
-   "referencia": null,
-   "precio_justo_usd": 1900,
-   "interesante": false,
-   "nota": "Referencia no confirmable en la foto; estimación conservadora para una Ronde Solo de acero pre-owned en buen estado. El precio pedido queda por encima de ese valor."
-  },
-  "motivo": "triage: Referencia no confirmable en la foto; estimación conservadora para una Ronde Solo de acero pre-owned en buen estado. El precio pedido queda por encima de ese valor. (justo 1900)"
- },
- {
-  "fecha": "2026-11-12T12:04:45.104928+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Ronde Solo De Cartier Quartz Stainless Steel Watch",
   "total": 2599.0,
   "condicion": "Pre-owned - Good",
@@ -10983,5 +10949,45 @@
    "nota": "La foto no permite confirmar la referencia ni la generación; la caja y papeles no garantizan autenticidad. Precio cerca del mercado para un Submariner Date completo, sin descuento de 15 %."
   },
   "motivo": "triage: La foto no permite confirmar la referencia ni la generación; la caja y papeles no garantizan autenticidad. Precio cerca del mercado para un Submariner Date completo, sin descuento de 15 %. (justo 13500)"
+ },
+ {
+  "fecha": "2026-11-14T23:36:48.104587+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41 2026 OCTOBER UNWORN 126334 Black Oyster Steel",
+  "total": 15650.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840129231808",
+  "item_id": "v1|840129231808|0",
+  "referencia": "126334",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 41 (acero y oro blanco, bisel acanalado, esfera negra, brazalete Oyster)",
+   "referencia": "126334",
+   "precio_justo_usd": 13000,
+   "interesante": false,
+   "nota": "Referencia 126334 nueva con caja y papeles; el precio pedido queda por encima del valor estimado de venta cerrada, y el año '2026' no se puede verificar desde la foto."
+  },
+  "motivo": "triage: Referencia 126334 nueva con caja y papeles; el precio pedido queda por encima del valor estimado de venta cerrada, y el año '2026' no se puede verificar desde la foto. (justo 13000)"
+ },
+ {
+  "fecha": "2026-11-14T23:36:48.104587+00:00",
+  "marca": "Rolex",
+  "titulo": "rolex oyster perpetual 41 mm",
+  "total": 8700.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198795635016",
+  "item_id": "v1|198795635016|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual 41 mm, esfera negra",
+   "referencia": "124300 (probable)",
+   "precio_justo_usd": 7800,
+   "interesante": false,
+   "nota": "El precio pedido está por encima del valor de mercado para este modelo de uso reciente con caja y papeles; no cumple el umbral de 15 % por debajo."
+  },
+  "motivo": "triage: El precio pedido está por encima del valor de mercado para este modelo de uso reciente con caja y papeles; no cumple el umbral de 15 % por debajo. (justo 7800)"
  }
 ]
