@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-12T15:34:55.631806+00:00",
   "marca": "Rolex",
-  "titulo": "Mint Unpolished 2026 Rolex Datejust 126333 41MM White Roman Two-Tone 18K Yg B/p",
-  "total": 19250.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880109351489",
-  "item_id": "v1|880109351489|0",
-  "referencia": "126333",
-  "mercado": {
-   "n": 32,
-   "p25": 14950,
-   "mediana": 15477
-  },
-  "ratio_mercado": 1.288,
-  "motivo": "precio normal (129 % del cuartil bajo de 126333)"
- },
- {
-  "fecha": "2026-11-12T15:34:55.631806+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust II 18k Yellow Gold/Steel Wimbledon 41mm Watch +Card '13 116333",
   "total": 15449.0,
   "condicion": "Pre-owned - Good",
@@ -11039,5 +11022,22 @@
   },
   "ratio_justo": 0.795,
   "motivo": "ALERTA"
+ },
+ {
+  "fecha": "2026-11-15T11:52:06.743095+00:00",
+  "marca": "Cartier",
+  "titulo": "Vintage Cartier Colisee 24mm Vermeil Quartz 590002 MICS0391",
+  "total": 2197.98,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900093223748",
+  "item_id": "v1|900093223748|0",
+  "triage": {
+   "modelo": "Cartier Must de Cartier Colisée vermeil, cuarzo, 24 mm",
+   "referencia": "590002",
+   "precio_justo_usd": 550,
+   "interesante": false,
+   "nota": "Vermeil de cuarzo muy comercial; el precio pedido (US$2198) está muy por encima de lo que se vende realmente, que ronda US$450-650."
+  },
+  "motivo": "triage: Vermeil de cuarzo muy comercial; el precio pedido (US$2198) está muy por encima de lo que se vende realmente, que ronda US$450-650. (justo 550)"
  }
 ]
