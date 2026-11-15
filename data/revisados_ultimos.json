@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-12T15:34:55.631806+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II Steel Black/Blue Ceramic Jubilee Watch B/P '25 126710",
-  "total": 22700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117517740999",
-  "item_id": "v1|117517740999|0",
-  "referencia": "126710",
-  "mercado": {
-   "n": 27,
-   "p25": 17249,
-   "mediana": 17985
-  },
-  "ratio_mercado": 1.316,
-  "motivo": "precio normal (132 % del cuartil bajo de 126710)"
- },
- {
-  "fecha": "2026-11-12T15:34:55.631806+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust 41 Rose Gold/Steel Wimbledon Gray Jubilee Watch B/P '24 126331",
   "total": 22000.0,
   "condicion": "Pre-owned - Good",
@@ -11039,5 +11022,22 @@
   },
   "ratio_mercado": 0.975,
   "motivo": "precio normal (97 % del cuartil bajo de WGSA0029)"
+ },
+ {
+  "fecha": "2026-11-15T13:22:06.584149+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 40mm Black Dial/Bezel Steel Bracelet Auto Date 300m",
+  "total": 10275.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/820357589041",
+  "item_id": "v1|820357589041|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date (aparente, no verificable en la foto)",
+   "referencia": null,
+   "precio_justo_usd": 8500,
+   "interesante": false,
+   "nota": "El texto del dial parece 'RELUX' en lugar de ROLEX, lo que indica posible réplica. Además la foto es de baja calidad y no permite verificar el modelo. Sin autenticación, no es una oportunidad."
+  },
+  "motivo": "triage: El texto del dial parece 'RELUX' en lugar de ROLEX, lo que indica posible réplica. Además la foto es de baja calidad y no permite verificar el modelo. Sin autenticación, no es una oportunidad. (justo 8500)"
  }
 ]
