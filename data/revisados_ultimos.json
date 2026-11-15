@@ -1,51 +1,5 @@
 [
  {
-  "fecha": "2026-11-12T18:04:54.962221+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Pelagos 39 Black Titanium 25407N",
-  "total": 5194.93,
-  "condicion": "New with imperfections",
-  "url": "https://www.ebay.com/itm/940086794319",
-  "item_id": "v1|940086794319|0",
-  "referencia": "25407N",
-  "mercado": {
-   "n": 1,
-   "p25": 5250,
-   "mediana": 5250
-  },
-  "triage": {
-   "modelo": "Tudor Pelagos 39 Black Titanium",
-   "referencia": "25407N",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "Pelagos 39 de titanio con esfera negra; precio pedido de US$5195 supera el valor de mercado de esta referencia, incluso nueva, aunque tenga imperfecciones."
-  },
-  "motivo": "triage: Pelagos 39 de titanio con esfera negra; precio pedido de US$5195 supera el valor de mercado de esta referencia, incluso nueva, aunque tenga imperfecciones. (justo 3800)"
- },
- {
-  "fecha": "2026-11-12T18:19:55.178968+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 18K Rose Gold Watch 179175",
-  "total": 18000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407358564663",
-  "item_id": "v1|407358564663|0",
-  "referencia": "179175",
-  "mercado": {
-   "n": 3,
-   "p25": 20650,
-   "mediana": 20948
-  },
-  "triage": {
-   "modelo": "Rolex Lady-Datejust 28 mm, oro de 18k, bisel acanalado, esfera blanca con numerales romanos, brazalete Oyster",
-   "referencia": "179175 (según título; no coincide con el oro macizo de la foto)",
-   "precio_justo_usd": 13000,
-   "interesante": false,
-   "nota": "El título dice oro rosa 18k con ref. 179175, pero esa referencia corresponde a acero/Everose bicolor y la foto muestra oro macizo; la descripción es inconsistente. Aun con la ref. correcta, US$18,000 supera el precio de venta real de un Lady-Datejust de oro macizo."
-  },
-  "motivo": "triage: El título dice oro rosa 18k con ref. 179175, pero esa referencia corresponde a acero/Everose bicolor y la foto muestra oro macizo; la descripción es inconsistente. Aun con la ref. correcta, US$18,000 supera el precio de venta real de un Lady-Datejust de oro macizo. (justo 13000)"
- },
- {
   "fecha": "2026-11-12T18:19:55.178968+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Submariner Date 16610 Black Stainless Steel 40mm Oyster Dive Watch",
@@ -11060,5 +11014,45 @@
   },
   "ratio_mercado": 1.069,
   "motivo": "precio normal (107 % del cuartil bajo de 126610LV)"
+ },
+ {
+  "fecha": "2026-11-15T23:52:26.256114+00:00",
+  "marca": "Cartier",
+  "titulo": "Vintage Must de Cartier Tank Quartz Ref. 681006 925 Gold Vermeil – Complete Set",
+  "total": 2495.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336899398684",
+  "item_id": "v1|336899398684|0",
+  "triage": {
+   "modelo": "Must de Cartier Tank Quartz (plata 925 con baño de oro, vermeil)",
+   "referencia": "681006",
+   "precio_justo_usd": 750,
+   "interesante": false,
+   "nota": "Must Tank de cuarzo en vermeil con caja y papeles; se vende de forma habitual entre unos US$600 y 900, así que el precio pedido de US$2495 está muy por encima del mercado."
+  },
+  "motivo": "triage: Must Tank de cuarzo en vermeil con caja y papeles; se vende de forma habitual entre unos US$600 y 900, así que el precio pedido de US$2495 está muy por encima del mercado. (justo 750)"
+ },
+ {
+  "fecha": "2026-11-15T23:52:26.256114+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Hydronaut II 20040 Automatic 30mm Full Set 2011",
+  "total": 1350.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920146827852",
+  "item_id": "v1|920146827852|0",
+  "referencia": "20040",
+  "mercado": {
+   "n": 1,
+   "p25": 2821,
+   "mediana": 2821
+  },
+  "triage": {
+   "modelo": "Tudor Hydronaut II (esfera azul, correa de caucho azul)",
+   "referencia": "20040",
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Precio ~41% bajo mercado, y el '30mm' del título no encaja con un Hydronaut II; revisar tamaño, autenticidad y estado antes de comprar."
+  },
+  "motivo": "triage: Precio ~41% bajo mercado, y el '30mm' del título no encaja con un Hydronaut II; revisar tamaño, autenticidad y estado antes de comprar. (justo 2300)"
  }
 ]
