@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-12T15:04:57.958689+00:00",
   "marca": "Rolex",
-  "titulo": "2014 Rolex Submariner Date 116613 LB Blue Two-Tone 40mm Watch Box Papers",
-  "total": 14978.28,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940086465736",
-  "item_id": "v1|940086465736|0",
-  "referencia": "116613",
-  "mercado": {
-   "n": 70,
-   "p25": 15190,
-   "mediana": 15755
-  },
-  "ratio_mercado": 0.986,
-  "motivo": "precio normal (99 % del cuartil bajo de 116613)"
- },
- {
-  "fecha": "2026-11-12T15:04:57.958689+00:00",
-  "marca": "Rolex",
-  "titulo": "2024 Rolex GMT-Master II Bruce Wayne 126710 GRNR Black Steel 40mm Box Papers",
-  "total": 22423.98,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960187239944",
-  "item_id": "v1|960187239944|0",
-  "referencia": "126710",
-  "mercado": {
-   "n": 27,
-   "p25": 17249,
-   "mediana": 17985
-  },
-  "ratio_mercado": 1.3,
-  "motivo": "precio normal (130 % del cuartil bajo de 126710)"
- },
- {
-  "fecha": "2026-11-12T15:04:57.958689+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Submariner Date 1680 Black Nipple 18K Yellow Gold 40mm Oyster Dive Watch",
   "total": 40988.81,
   "condicion": "Pre-owned - Excellent",
@@ -11008,5 +10974,45 @@
    "nota": "Pieza de segunda mano en estado Good, por encima de lo que se cierra normalmente en EE. UU. para este modelo de acero; el precio pedido no representa una oportunidad."
   },
   "motivo": "triage: Pieza de segunda mano en estado Good, por encima de lo que se cierra normalmente en EE. UU. para este modelo de acero; el precio pedido no representa una oportunidad. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-15T04:06:48.559695+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 full set- Rolex datejust blue Roman, Jubilee, ref 126300- 41mm",
+  "total": 13199.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/147681191647",
+  "item_id": "v1|147681191647|0",
+  "referencia": "126300",
+  "mercado": {
+   "n": 18,
+   "p25": 9850,
+   "mediana": 10314
+  },
+  "ratio_mercado": 1.34,
+  "motivo": "precio normal (134 % del cuartil bajo de 126300)"
+ },
+ {
+  "fecha": "2026-11-15T04:06:48.559695+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Cellini Date 50519 w/ Papers 39mm 18ct White Gold",
+  "total": 13995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147681184108",
+  "item_id": "v1|147681184108|0",
+  "referencia": "50519",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Cellini Date (oro blanco 18k, esfera negra, correa de cocodrilo)",
+   "referencia": "50519",
+   "precio_justo_usd": 13500,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para esta referencia en oro blanco con papeles; no está 15% o más por debajo. Verificar que el subdial y la referencia coincidan con la foto."
+  },
+  "motivo": "triage: Precio cercano al mercado para esta referencia en oro blanco con papeles; no está 15% o más por debajo. Verificar que el subdial y la referencia coincidan con la foto. (justo 13500)"
  }
 ]
