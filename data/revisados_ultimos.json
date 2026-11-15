@@ -1,57 +1,6 @@
 [
  {
   "fecha": "2026-11-12T15:04:57.958689+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 1680 Black Nipple 18K Yellow Gold 40mm Oyster Dive Watch",
-  "total": 40988.81,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960187239947",
-  "item_id": "v1|960187239947|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date en oro amarillo 18K, bisel y esfera negros",
-   "referencia": "16808 (el título dice 1680, pero el oro amarillo corresponde a la 16808)",
-   "precio_justo_usd": 38000,
-   "interesante": false,
-   "nota": "Precio pedido por encima del rango de venta real para esta referencia en buen estado; verificar autenticidad y papeles antes de considerar cualquier oferta."
-  },
-  "motivo": "triage: Precio pedido por encima del rango de venta real para esta referencia en buen estado; verificar autenticidad y papeles antes de considerar cualquier oferta. (justo 38000)"
- },
- {
-  "fecha": "2026-11-12T15:04:57.958689+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust Midsize 31 Steel Yellow Gold Ladies Watch 68273",
-  "total": 9390.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257849084055",
-  "item_id": "v1|257849084055|0",
-  "referencia": "68273",
-  "mercado": {
-   "n": 44,
-   "p25": 8395,
-   "mediana": 8986
-  },
-  "ratio_mercado": 1.119,
-  "motivo": "precio normal (112 % del cuartil bajo de 68273)"
- },
- {
-  "fecha": "2026-11-12T15:04:57.958689+00:00",
-  "marca": "Cartier",
-  "titulo": "Vintage Cartier Two Tone Must 21 Quartz Watch",
-  "total": 1506.75,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117517710046",
-  "item_id": "v1|117517710046|0",
-  "triage": {
-   "modelo": "Cartier Must de Cartier 21 bicolor (acero y vermeil), cuarzo, esfera blanca con números romanos dorados",
-   "referencia": null,
-   "precio_justo_usd": 550,
-   "interesante": false,
-   "nota": "Must 21 bicolor de cuarzo usado, en estado bueno; el precio pedido de US$1507 está muy por encima de lo que se vende realmente (aprox. US$400-700). La referencia exacta no se puede confirmar en la foto."
-  },
-  "motivo": "triage: Must 21 bicolor de cuarzo usado, en estado bueno; el precio pedido de US$1507 está muy por encima de lo que se vende realmente (aprox. US$400-700). La referencia exacta no se puede confirmar en la foto. (justo 550)"
- },
- {
-  "fecha": "2026-11-12T15:04:57.958689+00:00",
   "marca": "Cartier",
   "titulo": "Cartier 18k Rose Gold Tankissime Small 16mm Quartz Women's Watch",
   "total": 19006.75,
@@ -11014,5 +10963,62 @@
    "nota": "Precio cercano al mercado para esta referencia en oro blanco con papeles; no está 15% o más por debajo. Verificar que el subdial y la referencia coincidan con la foto."
   },
   "motivo": "triage: Precio cercano al mercado para esta referencia en oro blanco con papeles; no está 15% o más por debajo. Verificar que el subdial y la referencia coincidan con la foto. (justo 13500)"
+ },
+ {
+  "fecha": "2026-11-15T04:36:57.792675+00:00",
+  "marca": "Rolex",
+  "titulo": "2021 Rolex Oyster Perpetual OP 41mm Steel Automatic Watch 124300 Green Box Card",
+  "total": 10295.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128195690320",
+  "item_id": "v1|128195690320|0",
+  "referencia": "124300",
+  "mercado": {
+   "n": 30,
+   "p25": 10000,
+   "mediana": 10832
+  },
+  "ratio_mercado": 1.03,
+  "motivo": "precio normal (103 % del cuartil bajo de 124300)"
+ },
+ {
+  "fecha": "2026-11-15T04:36:57.792675+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos de Cartier Medium Green Steel Bracelet WSSA0061 Complete 2025",
+  "total": 7495.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168863541756",
+  "item_id": "v1|168863541756|0",
+  "referencia": "WSSA0061",
+  "mercado": {
+   "n": 3,
+   "p25": 7995,
+   "mediana": 8334
+  },
+  "triage": {
+   "modelo": "Cartier Santos de Cartier Medium, esfera verde, brazalete de acero (automático)",
+   "referencia": "WSSA0061",
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "Precio pedido cercano al retail y por encima del valor de reventa de un Santos Medium de acero con esfera verde, incluso con caja y papeles 2025. No cumple el umbral de 15% por debajo del mercado."
+  },
+  "motivo": "triage: Precio pedido cercano al retail y por encima del valor de reventa de un Santos Medium de acero con esfera verde, incluso con caja y papeles 2025. No cumple el umbral de 15% por debajo del mercado. (justo 6500)"
+ },
+ {
+  "fecha": "2026-11-15T04:36:57.792675+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay GMT 79830RB",
+  "total": 4240.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377646872544",
+  "item_id": "v1|377646872544|0",
+  "referencia": "79830RB",
+  "mercado": {
+   "n": 53,
+   "p25": 3750,
+   "mediana": 3999
+  },
+  "ratio_mercado": 1.131,
+  "motivo": "precio normal (113 % del cuartil bajo de 79830RB)"
  }
 ]
