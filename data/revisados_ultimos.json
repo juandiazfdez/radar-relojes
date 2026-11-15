@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-12T15:04:57.958689+00:00",
   "marca": "Rolex",
-  "titulo": "2013 Rolex Submariner No-Date 114060 LN Black Steel 40mm Watch Box Papers",
-  "total": 11203.87,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267841637719",
-  "item_id": "v1|267841637719|0",
-  "referencia": "114060",
-  "mercado": {
-   "n": 42,
-   "p25": 11800,
-   "mediana": 12969
-  },
-  "ratio_mercado": 0.949,
-  "motivo": "precio normal (95 % del cuartil bajo de 114060)"
- },
- {
-  "fecha": "2026-11-12T15:04:57.958689+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex DateJust 1603 Black Stainless Steel Engine-Turned Oyster 36mm Watch",
   "total": 5084.61,
   "condicion": "Pre-owned - Excellent",
@@ -11008,5 +10991,22 @@
   },
   "ratio_mercado": 0.988,
   "motivo": "precio normal (99 % del cuartil bajo de 2961)"
+ },
+ {
+  "fecha": "2026-11-15T03:06:47.729708+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex Oyster Perpetual watch. Running well!!!",
+  "total": 529.98,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267843945641",
+  "item_id": "v1|267843945641|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual vintage bicolor (acero y oro), posible década de 1960-70, no verificable en la foto",
+   "referencia": null,
+   "precio_justo_usd": 1100,
+   "interesante": false,
+   "nota": "La foto es de baja resolución y no se lee el logotipo ni el texto de la esfera, así que no se puede confirmar la autenticidad. El precio es muy bajo para un Rolex vintage bicolor con brazalete, lo que sugiere un reloj distinto o un problema oculto. Pedir fotos nítidas de la esfera, el movimiento y los números de serie."
+  },
+  "motivo": "triage: La foto es de baja resolución y no se lee el logotipo ni el texto de la esfera, así que no se puede confirmar la autenticidad. El precio es muy bajo para un Rolex vintage bicolor con brazalete, lo que sugiere un reloj distinto o un problema oculto. Pedir fotos nítidas de la esfera, el movimiento y los números de serie. (justo 1100)"
  }
 ]
