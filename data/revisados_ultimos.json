@@ -1,57 +1,6 @@
 [
  {
   "fecha": "2026-11-12T17:04:56.931829+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex NEW Submariner 41mm 126610LN Steel Ceramic Complete SET #RL529(26)",
-  "total": 14845.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/840121713731",
-  "item_id": "v1|840121713731|0",
-  "referencia": "126610LN",
-  "mercado": {
-   "n": 29,
-   "p25": 16050,
-   "mediana": 16450
-  },
-  "ratio_mercado": 0.925,
-  "motivo": "precio normal (92 % del cuartil bajo de 126610LN)"
- },
- {
-  "fecha": "2026-11-12T17:04:56.931829+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 New Rolex Submariner Date 80mm - Ref. 909010LN - Box & Papers.",
-  "total": 14500.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/366805161208",
-  "item_id": "v1|366805161208|0",
-  "triage": {
-   "modelo": "Reloj de pared/escritorio tipo Rolex Submariner Date (no es un reloj de pulsera)",
-   "referencia": null,
-   "precio_justo_usd": 100,
-   "interesante": false,
-   "nota": "La imagen muestra un reloj de pared decorativo de 80 mm, no un Submariner. La 'ref. 909010LN' no existe en Rolex; el listado es engañoso y el precio de US$14,500 está muy por encima del valor real."
-  },
-  "motivo": "triage: La imagen muestra un reloj de pared decorativo de 80 mm, no un Submariner. La 'ref. 909010LN' no existe en Rolex; el listado es engañoso y el precio de US$14,500 está muy por encima del valor real. (justo 100)"
- },
- {
-  "fecha": "2026-11-12T17:04:56.931829+00:00",
-  "marca": "Rolex",
-  "titulo": "2024 Rolex Submariner Date 41mm 126610LN Full Set ",
-  "total": 13800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117517860126",
-  "item_id": "v1|117517860126|0",
-  "referencia": "126610LN",
-  "mercado": {
-   "n": 85,
-   "p25": 14527,
-   "mediana": 15095
-  },
-  "ratio_mercado": 0.95,
-  "motivo": "precio normal (95 % del cuartil bajo de 126610LN)"
- },
- {
-  "fecha": "2026-11-12T17:04:56.931829+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR Black Bay Fifty-Eight 39mm Black Dial/Bezel Auto 200m Steel Bracelet",
   "total": 3400.0,
@@ -11040,5 +10989,56 @@
   },
   "ratio_mercado": 1.316,
   "motivo": "precio normal (132 % del cuartil bajo de 16233)"
+ },
+ {
+  "fecha": "2026-11-15T18:52:16.846484+00:00",
+  "marca": "Rolex",
+  "titulo": "2001 Rolex Day-Date 36, 118238, Yellow Gold, Champagne Dial, President Bracelet,",
+  "total": 28046.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/206703594804",
+  "item_id": "v1|206703594804|0",
+  "referencia": "118238",
+  "mercado": {
+   "n": 56,
+   "p25": 27990,
+   "mediana": 28990
+  },
+  "ratio_mercado": 1.002,
+  "motivo": "precio normal (100 % del cuartil bajo de 118238)"
+ },
+ {
+  "fecha": "2026-11-15T18:52:16.846484+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX Explorer II Polar 42mm Oyster Stainless Steel – 226570 – Box & Papers 2023",
+  "total": 12895.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366812356720",
+  "item_id": "v1|366812356720|0",
+  "referencia": "226570",
+  "mercado": {
+   "n": 29,
+   "p25": 11990,
+   "mediana": 12734
+  },
+  "ratio_mercado": 1.075,
+  "motivo": "precio normal (108 % del cuartil bajo de 226570)"
+ },
+ {
+  "fecha": "2026-11-15T18:52:16.846484+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos de Cartier Steel Gold Auto 39mm Bracelet Watch W2SA0009",
+  "total": 10950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940094914461",
+  "item_id": "v1|940094914461|0",
+  "referencia": "W2SA0009",
+  "mercado": {
+   "n": 10,
+   "p25": 10389,
+   "mediana": 11097
+  },
+  "ratio_mercado": 1.054,
+  "motivo": "precio normal (105 % del cuartil bajo de W2SA0009)"
  }
 ]
