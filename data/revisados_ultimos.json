@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-12T16:49:54.676527+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu Silver Roman Steel 42mm Watch WSBB0049/3765 Box/Appraisal",
-  "total": 4580.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336894281673",
-  "item_id": "v1|336894281673|0",
-  "referencia": "WSBB0049",
-  "mercado": {
-   "n": 2,
-   "p25": 5495,
-   "mediana": 6882
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 42mm automático, acero, esfera plateada con números romanos, manecillas azules y ventana de fecha",
-   "referencia": "WSBB0049 (el listado indica también 3765; conviene verificar la referencia exacta)",
-   "precio_justo_usd": 4900,
-   "interesante": false,
-   "nota": "Precio cercano al mercado para acero 42mm con caja y certificado; el descuento es menor al 15 % exigido."
-  },
-  "motivo": "triage: Precio cercano al mercado para acero 42mm con caja y certificado; el descuento es menor al 15 % exigido. (justo 4900)"
- },
- {
-  "fecha": "2026-11-12T16:49:54.676527+00:00",
-  "marca": "Cartier",
   "titulo": "42134: Cartier Medium Ballon Bleu 33mm, Ref. W6920084, Quartz, Box and 2020 Card",
   "total": 5250.0,
   "condicion": "Pre-owned - Excellent",
@@ -11052,5 +11029,22 @@
   },
   "ratio_justo": 0.922,
   "motivo": "precio normal segun revision (92 % del justo 9000)"
+ },
+ {
+  "fecha": "2026-11-15T18:07:17.140291+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster S Automatic Stainless Steel Men's Luxury Wristwatch (No Box )",
+  "total": 4699.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168862833474",
+  "item_id": "v1|168862833474|0",
+  "triage": {
+   "modelo": "Cartier Roadster XL Automatic (acero, correa de caucho)",
+   "referencia": "W62000V3 o W62025V3 (probable, no confirmada)",
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "Precio pedido de US$4700 está por encima del rango de venta real (aprox. US$3500-4500) para un Roadster automático de acero sin caja; no cumple el umbral de 15% por debajo."
+  },
+  "motivo": "triage: Precio pedido de US$4700 está por encima del rango de venta real (aprox. US$3500-4500) para un Roadster automático de acero sin caja; no cumple el umbral de 15% por debajo. (justo 3900)"
  }
 ]
