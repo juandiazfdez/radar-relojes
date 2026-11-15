@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-12T18:04:54.962221+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 41mm Yellow Gold Bracelet Blue Dial/Bezel Auto 300m",
-  "total": 17200.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/920135801115",
-  "item_id": "v1|920135801115|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date, oro amarillo 18k, esfera y bisel azules",
-   "referencia": "126618LB",
-   "precio_justo_usd": 40000,
-   "interesante": false,
-   "nota": "Precio pedido muy por debajo del mercado para un 126618LB nuevo; alta sospecha de réplica, chapado o listado engañoso. Verificar con el vendedor antes de considerar."
-  },
-  "motivo": "triage: Precio pedido muy por debajo del mercado para un 126618LB nuevo; alta sospecha de réplica, chapado o listado engañoso. Verificar con el vendedor antes de considerar. (justo 40000)"
- },
- {
-  "fecha": "2026-11-12T18:04:54.962221+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Vendome Louis Diamond 18K Yellow Gold Watch 8057006",
   "total": 20000.0,
@@ -11048,5 +11031,28 @@
   },
   "ratio_mercado": 0.932,
   "motivo": "precio normal (93 % del cuartil bajo de M79360N-0001)"
+ },
+ {
+  "fecha": "2026-11-15T22:52:26.193797+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 126334 Rhodium diamonds 2026 unworn complete",
+  "total": 18065.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860146968045",
+  "item_id": "v1|860146968045|0",
+  "referencia": "126334",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 41 acero y oro blanco, bisel acanalado, esfera gris pizarra, brazalete Jubilee",
+   "referencia": "126334",
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de reventa actual; además, el título dice 'unworn' pero la condición es 'Pre-owned'."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de reventa actual; además, el título dice 'unworn' pero la condición es 'Pre-owned'. (justo 14000)"
  }
 ]
