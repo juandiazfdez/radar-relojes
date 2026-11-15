@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-12T14:34:54.792141+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II ROOTBEER 18kt Rose Gold & Steel 40mm 126711CHNR B&P",
-  "total": 22500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/366804789042",
-  "item_id": "v1|366804789042|0",
-  "referencia": "126711CHNR",
-  "mercado": {
-   "n": 100,
-   "p25": 20819,
-   "mediana": 21734
-  },
-  "ratio_mercado": 1.081,
-  "motivo": "precio normal (108 % del cuartil bajo de 126711CHNR)"
- },
- {
   "fecha": "2026-11-12T14:49:54.932707+00:00",
   "marca": "Cartier",
   "titulo": "Vintage Cartier Must De Cartier Mechanical Tank Men's Watch",
@@ -11008,5 +10991,22 @@
    "nota": "Precio muy por debajo del mercado para un 126618LB nuevo con papeles; la foto solo muestra la pulsera y el precio sugiere replica o listado enganoso."
   },
   "motivo": "triage: Precio muy por debajo del mercado para un 126618LB nuevo con papeles; la foto solo muestra la pulsera y el precio sugiere replica o listado enganoso. (justo 36000)"
+ },
+ {
+  "fecha": "2026-11-15T01:51:48.647493+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona 126515LN Rose Gold Oysterflex - BOX, PAPERS, MINT",
+  "total": 49500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147681086428",
+  "item_id": "v1|147681086428|0",
+  "referencia": "126515LN",
+  "mercado": {
+   "n": 5,
+   "p25": 49998,
+   "mediana": 55000
+  },
+  "ratio_mercado": 0.99,
+  "motivo": "precio normal (99 % del cuartil bajo de 126515LN)"
  }
 ]
