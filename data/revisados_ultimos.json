@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-12T15:34:55.631806+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Air King Chronometer Automatic Watch Stainless Steel 40",
-  "total": 10120.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117517727837",
-  "item_id": "v1|117517727837|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Air-King 40 mm (esfera negra, numerales arábigos 3-6-9, brazalete Oyster de acero)",
-   "referencia": "116900 o 126900 (probable, no verificable en la foto)",
-   "precio_justo_usd": 8800,
-   "interesante": false,
-   "nota": "El precio pedido supera el valor de venta cerrada estimado para este Air-King de acero con uso; no hay descuento claro."
-  },
-  "motivo": "triage: El precio pedido supera el valor de venta cerrada estimado para este Air-King de acero con uso; no hay descuento claro. (justo 8800)"
- },
- {
-  "fecha": "2026-11-12T15:34:55.631806+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Francaise Medium Yellow Gold/Steel Ladies Watch W51012Q4 2465",
   "total": 5650.0,
@@ -11045,5 +11028,22 @@
   },
   "ratio_mercado": 0.967,
   "motivo": "precio normal (97 % del cuartil bajo de 79363N)"
+ },
+ {
+  "fecha": "2026-11-15T15:37:06.878375+00:00",
+  "marca": "Rolex",
+  "titulo": "Original Rolex 1530 / 1570 8106 BALANCE COMPLETE Blue Hairspring Swiss Made",
+  "total": 499.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880119889871",
+  "item_id": "v1|880119889871|0",
+  "triage": {
+   "modelo": "Pieza suelta: balance complete (volante con espiral) para calibre Rolex 1570/8106",
+   "referencia": null,
+   "precio_justo_usd": 250,
+   "interesante": false,
+   "nota": "Es un repuesto suelto, no un reloj completo. El precio de US$500 está muy por encima del valor de mercado de un balance usado, aunque la foto no permite confirmar originalidad ni estado."
+  },
+  "motivo": "triage: Es un repuesto suelto, no un reloj completo. El precio de US$500 está muy por encima del valor de mercado de un balance usado, aunque la foto no permite confirmar originalidad ni estado. (justo 250)"
  }
 ]
