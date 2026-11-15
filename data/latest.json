@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15T20:37:16.793462+00:00",
+ "actualizado": "2026-11-15T20:52:16.765813+00:00",
  "ventana_horas": 2.0,
  "marcas": [
   "Rolex",
@@ -7,13 +7,12 @@
   "Tudor"
  ],
  "corrida": {
-  "nuevos_vistos": 5,
+  "nuevos_vistos": 4,
   "descartes": {
-   "titulo": 4,
-   "triage": 1
+   "titulo": 3
   },
-  "alertas_nuevas": 0,
-  "llamadas_ebay": 3,
+  "alertas_nuevas": 1,
+  "llamadas_ebay": 5,
   "cuota_agotada": false
  },
  "alertas_hoy": [
@@ -88,6 +87,77 @@
     "precio_reventa_rd_usd": 4800
    },
    "ratio_justo": 0.795
+  },
+  {
+   "fecha": "2026-11-15T20:52:16.765813+00:00",
+   "marca": "Rolex",
+   "titulo": "Rolex Air king 5500 34mm stainless steel with box",
+   "precio": 2850.0,
+   "envio": 6.36,
+   "total": 2850.0,
+   "mercado": {
+    "fecha": "2026-11-15",
+    "consulta": "Rolex 5500",
+    "n": 22,
+    "mediana": 4400,
+    "p25": 4000,
+    "p75": 4699,
+    "min": 1051,
+    "max": 5700
+   },
+   "triage": null,
+   "vendedor": "samchisholm",
+   "valoraciones": 23,
+   "pct_positivo": "100.0",
+   "url": "https://www.ebay.com/itm/287732030517",
+   "item_id": "v1|287732030517|0",
+   "info": {
+    "departamento": "Unisex Adults",
+    "referencia": "5500",
+    "modelo_esp": "Rolex Oyster Perpetual Air-King",
+    "caja_mm": "34 mm",
+    "material": "Stainless Steel",
+    "ano": "1970s",
+    "movimiento": "Mechanical (Automatic)",
+    "caja_original": "Yes",
+    "papeles": "Yes",
+    "condicion": "Pre-owned - Good",
+    "condicion_id": "3000",
+    "condicion_desc": "",
+    "garantia_autenticidad": false,
+    "devoluciones": false,
+    "amarillas": [
+     "wear"
+    ],
+    "imagenes": [
+     "https://i.ebayimg.com/images/g/r4MAAeSwJXtq-hox/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/kjIAAeSwe2Rq-hog/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/25kAAeSwHOtq-hog/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/lOYAAeSwhtVq-hog/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/0eYAAeSwhfxq-hog/s-l1600.jpg",
+     "https://i.ebayimg.com/images/g/oPkAAeSwqdFq-hoh/s-l1600.jpg"
+    ]
+   },
+   "claude": {
+    "veredicto": "alerta",
+    "modelo": "Rolex Oyster Perpetual Air-King 5500 (34mm, acero, esfera plateada, bisel liso, brazalete Oyster), años 70/80",
+    "estado": "Bueno, con desgaste normal de uso; brazalete con rayones y probablemente algo de holgura; caja verde original",
+    "riesgo_autenticidad": "medio",
+    "completo": false,
+    "razones": [
+     "Las fotos son propias (mano del vendedor, alfombra, caja), no de catálogo ni robadas. Eso es buena señal.",
+     "La esfera coincide con un 5500: texto 'Rolex Oyster Perpetual Air-King Precision', índices aplicados tipo barra, bisel liso, corona sencilla y brazalete Oyster de eslabones plegados. No veo señales claras de réplica.",
+     "No se aprecia lume en los índices ni en las manecillas. Puede ser esfera o agujas de servicio, relume o lume muy envejecido. Hay que pedir macro de la esfera y confirmar que esfera, agujas e inserto sean coherentes.",
+     "Falta la foto del fondo de caja, la del movimiento (cal. 1520/1530), la del cierre del brazalete y la de los números de serie y referencia entre las asas. Sin ellas no se puede verificar que sea un 5500 original ni datar la pieza.",
+     "Dice 'papers: Yes' pero no se muestra ningún papel. La caja verde parece de los 80/90 y quizá no sea la original del reloj. Conviene confirmar que los papeles lleven el mismo número de serie.",
+     "El precio de US$2,850 está unos 20-25 % por debajo de lo que suelen cerrar los 5500 buenos con caja. Los comparables piden entre 4,000 y 4,400, pero son precios pedidos e inflados. Los precios cerrados reales rondan US$3,400-4,200.",
+     "El vendedor no ofrece devoluciones ni garantía de autenticidad y tiene solo 23 valoraciones, así que el riesgo recae en el comprador. Solo conviene comprar si el vendedor envía las fotos faltantes o si el pago queda protegido.",
+     "Hay margen estimado de US$500-900 sobre el precio de reventa si todo es original, con caja y papeles coherentes."
+    ],
+    "precio_justo_usd": 3500,
+    "precio_reventa_rd_usd": 3950
+   },
+   "ratio_justo": 0.814
   }
  ]
 }

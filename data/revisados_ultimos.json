@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-12T17:49:55.019045+00:00",
-  "marca": "Rolex",
-  "titulo": "💥2002 Ladies ROLEX DATEJUST Automatic Watch REF 79173 Stainless 18K FULL SET💥",
-  "total": 6361.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/117517921197",
-  "item_id": "v1|117517921197|0",
-  "triage": {
-   "modelo": "Rolex Lady-Datejust 26 mm, acero y oro amarillo 18k, bisel acanalado, esfera champán con índices de barra",
-   "referencia": "79173",
-   "precio_justo_usd": 5200,
-   "interesante": false,
-   "nota": "Precio pedido de US$6361 con envío está unos 20 % por encima de la venta cerrada estimada para esta referencia en estado excelente con caja y papeles."
-  },
-  "motivo": "triage: Precio pedido de US$6361 con envío está unos 20 % por encima de la venta cerrada estimada para esta referencia en estado excelente con caja y papeles. (justo 5200)"
- },
- {
-  "fecha": "2026-11-12T17:49:55.019045+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay 58 GMT \"Coke\" Ref. M7939G1A0NRU 39mm Automatic Watch - Mint",
   "total": 4375.0,
@@ -11047,5 +11030,29 @@
    "nota": "Es un lote de piezas sueltas y rotas, no un reloj funcional. Autenticidad y valor de las piezas sin verificar; el precio pedido no está claramente por debajo del valor de mercado de componentes."
   },
   "motivo": "triage: Es un lote de piezas sueltas y rotas, no un reloj funcional. Autenticidad y valor de las piezas sin verificar; el precio pedido no está claramente por debajo del valor de mercado de componentes. (justo 120)"
+ },
+ {
+  "fecha": "2026-11-15T20:52:16.765813+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Air king 5500 34mm stainless steel with box",
+  "total": 2850.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287732030517",
+  "item_id": "v1|287732030517|0",
+  "referencia": "5500",
+  "mercado": {
+   "n": 22,
+   "p25": 4000,
+   "mediana": 4400
+  },
+  "ratio_mercado": 0.713,
+  "claude": {
+   "veredicto": "alerta",
+   "precio_justo_usd": 3500,
+   "riesgo_autenticidad": "medio",
+   "estado": "Bueno, con desgaste normal de uso; brazalete con rayones y probablemente algo de holgura; caja verde original"
+  },
+  "ratio_justo": 0.814,
+  "motivo": "ALERTA"
  }
 ]
