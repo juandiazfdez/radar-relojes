@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-12T17:19:58.722338+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Watch Black Bay GMT - Inventory 9487 Stainless Steel 41mm, Ref: 79830RB",
-  "total": 3299.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287724705092",
-  "item_id": "v1|287724705092|0",
-  "referencia": "79830RB",
-  "mercado": {
-   "n": 53,
-   "p25": 3780,
-   "mediana": 4000
-  },
-  "ratio_mercado": 0.873,
-  "motivo": "precio normal (87 % del cuartil bajo de 79830RB)"
- },
- {
   "fecha": "2026-11-12T17:34:55.216002+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Submariner Date 41mm Yellow Gold Bracelet Blue Dial/Bezel Auto 300m",
@@ -11047,5 +11030,22 @@
    "nota": "Precio pedido por encima de la venta real estimada para esta referencia y estado; la caja visible no compensa la diferencia."
   },
   "motivo": "triage: Precio pedido por encima de la venta real estimada para esta referencia y estado; la caja visible no compensa la diferencia. (justo 9200)"
+ },
+ {
+  "fecha": "2026-11-15T20:22:17.455282+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36mm, 1601, Two tone 18k Gold, Champagne Linen Dial, Jubilee ",
+  "total": 4000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800921726901",
+  "item_id": "v1|800921726901|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 mm bicolor (acero y oro 18k), bisel acanalado de oro, esfera champán con marcadores de bastón, brazalete Jubilee",
+   "referencia": "1601 (según el título; no verificable en la foto)",
+   "precio_justo_usd": 4200,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para un 1601 vintage bicolor en buen estado; la diferencia es menor al 15 %. Hay que verificar esfera, manecillas, número de serie y estado real."
+  },
+  "motivo": "triage: Precio cercano al mercado para un 1601 vintage bicolor en buen estado; la diferencia es menor al 15 %. Hay que verificar esfera, manecillas, número de serie y estado real. (justo 4200)"
  }
 ]
