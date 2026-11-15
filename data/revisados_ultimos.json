@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-11-12T16:49:54.676527+00:00",
-  "marca": "Cartier",
-  "titulo": "42134: Cartier Medium Ballon Bleu 33mm, Ref. W6920084, Quartz, Box and 2020 Card",
-  "total": 5250.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237179344629",
-  "item_id": "v1|237179344629|0",
-  "referencia": "W6920084",
-  "mercado": {
-   "n": 4,
-   "p25": 5512,
-   "mediana": 5618
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 33 mm, acero, cuarzo, esfera plateada con números romanos",
-   "referencia": "W6920084",
-   "precio_justo_usd": 4200,
-   "interesante": false,
-   "nota": "Precio pedido US$5250 supera el valor de venta usado con caja y tarjeta de 2020 (aprox. US$3,800-4,500); no hay descuento claro."
-  },
-  "motivo": "triage: Precio pedido US$5250 supera el valor de venta usado con caja y tarjeta de 2020 (aprox. US$3,800-4,500); no hay descuento claro. (justo 4200)"
- },
- {
   "fecha": "2026-11-12T17:04:56.931829+00:00",
   "marca": "Rolex",
   "titulo": "2026 Rolex NEW Submariner 41mm 126610LN Steel Ceramic Complete SET #RL529(26)",
@@ -11046,5 +11023,22 @@
    "nota": "Precio pedido de US$4700 está por encima del rango de venta real (aprox. US$3500-4500) para un Roadster automático de acero sin caja; no cumple el umbral de 15% por debajo."
   },
   "motivo": "triage: Precio pedido de US$4700 está por encima del rango de venta real (aprox. US$3500-4500) para un Roadster automático de acero sin caja; no cumple el umbral de 15% por debajo. (justo 3900)"
+ },
+ {
+  "fecha": "2026-11-15T18:22:16.662088+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36MM 16233 18k Yellow Gold, Two-Tone and Jubilee 2003",
+  "total": 7495.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960200499072",
+  "item_id": "v1|960200499072|0",
+  "referencia": "16233",
+  "mercado": {
+   "n": 29,
+   "p25": 5695,
+   "mediana": 6245
+  },
+  "ratio_mercado": 1.316,
+  "motivo": "precio normal (132 % del cuartil bajo de 16233)"
  }
 ]
