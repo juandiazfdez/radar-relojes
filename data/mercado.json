@@ -17700,13 +17700,13 @@
   "max": 11650
  },
  "Rolex 6084|usado": {
-  "fecha": "2026-11-11",
+  "fecha": "2026-11-15",
   "consulta": "Rolex 6084",
-  "n": 6,
-  "mediana": 3638,
-  "p25": 3060,
+  "n": 7,
+  "mediana": 3500,
+  "p25": 2970,
   "p75": 5900,
-  "min": 2970,
+  "min": 2850,
   "max": 8550
  },
  "Cartier W4TA0021|nuevo": {
@@ -21567,6 +21567,11 @@
  "Rolex 50519|usado": {
   "fecha": "2026-11-15",
   "consulta": "Rolex 50519",
+  "n": 0
+ },
+ "Rolex 205392|usado": {
+  "fecha": "2026-11-15",
+  "consulta": "Rolex 205392",
   "n": 0
  }
 }

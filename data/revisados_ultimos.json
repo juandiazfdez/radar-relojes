@@ -1,68 +1,5 @@
 [
  {
-  "fecha": "2026-11-12T15:34:55.631806+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise Medium Yellow Gold/Steel Ladies Watch W51012Q4 2465",
-  "total": 5650.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117517740995",
-  "item_id": "v1|117517740995|0",
-  "referencia": "2465",
-  "mercado": {
-   "n": 31,
-   "p25": 3514,
-   "mediana": 3700
-  },
-  "ratio_mercado": 1.608,
-  "motivo": "precio normal (161 % del cuartil bajo de 2465)"
- },
- {
-  "fecha": "2026-11-12T15:34:55.631806+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 41 S&G M79733N-0008 Steel & 18k Gold, 2022 Full Set, Warranty",
-  "total": 4800.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137925018285",
-  "item_id": "v1|137925018285|0",
-  "referencia": "M79733N-0008",
-  "mercado": {
-   "n": 1,
-   "p25": 4097,
-   "mediana": 4097
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay S&G 41 (acero y oro amarillo de 18k)",
-   "referencia": "M79733N-0008",
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "Precio pedido de 4800 USD, unos 4 % por debajo de la estimación; no cumple el umbral del 15 %."
-  },
-  "motivo": "triage: Precio pedido de 4800 USD, unos 4 % por debajo de la estimación; no cumple el umbral del 15 %. (justo 5000)"
- },
- {
-  "fecha": "2026-11-12T15:50:01.370444+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner No Date 41 \"2026\" 124060LN",
-  "total": 16095.79,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336894219742",
-  "item_id": "v1|336894219742|0",
-  "referencia": "124060LN",
-  "mercado": {
-   "n": 4,
-   "p25": 13627,
-   "mediana": 14321
-  },
-  "triage": {
-   "modelo": "Rolex Submariner No Date 41 mm (bisel cerámica negro, esfera negra, brazalete Oyster)",
-   "referencia": "124060",
-   "precio_justo_usd": 12000,
-   "interesante": false,
-   "nota": "Precio pedido de US$16,096 muy por encima del valor de venta cerrada de un 124060 usado en buen estado; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$16,096 muy por encima del valor de venta cerrada de un 124060 usado en buen estado; no es una oportunidad. (justo 12000)"
- },
- {
   "fecha": "2026-11-12T16:04:55.841351+00:00",
   "marca": "Rolex",
   "titulo": "Rolex GMT-Master II Sprite 126720VTNR Left-Hand Oyster 2025 Full Set",
@@ -11045,5 +10982,62 @@
    "nota": "Es un repuesto suelto, no un reloj completo. El precio de US$500 está muy por encima del valor de mercado de un balance usado, aunque la foto no permite confirmar originalidad ni estado."
   },
   "motivo": "triage: Es un repuesto suelto, no un reloj completo. El precio de US$500 está muy por encima del valor de mercado de un balance usado, aunque la foto no permite confirmar originalidad ni estado. (justo 250)"
+ },
+ {
+  "fecha": "2026-11-15T15:52:07.415353+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1950s Rolex Oyster Perpetual Chronometer 6084 Gold Semi-Bubbleback 34mm",
+  "total": 5500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168864529641",
+  "item_id": "v1|168864529641|0",
+  "referencia": "6084",
+  "mercado": {
+   "n": 7,
+   "p25": 2970,
+   "mediana": 3500
+  },
+  "ratio_mercado": 1.852,
+  "motivo": "precio normal (185 % del cuartil bajo de 6084)"
+ },
+ {
+  "fecha": "2026-11-15T15:52:07.415353+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX Oyster Perpetual Date Just Diamond Watch 26mm Two- Tone UGL Cert",
+  "total": 4300.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227615629451",
+  "item_id": "v1|227615629451|0",
+  "triage": {
+   "modelo": "Rolex Lady Datejust 26mm dos tonos (acero y oro amarillo), bisel acanalado, esfera plateada con numerales romanos, brazalete jubilee",
+   "referencia": "69173 (probable, por esfera y bisel; no verificable con certeza en la foto)",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta cerrada estimado. El título menciona diamantes, pero la foto no muestra diamantes, y 'UGL Cert' no es un certificado reconocido, así que hay que verificar."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado. El título menciona diamantes, pero la foto no muestra diamantes, y 'UGL Cert' no es un certificado reconocido, así que hay que verificar. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-15T15:52:07.415353+00:00",
+  "marca": "Rolex",
+  "titulo": "RARE WW2 ROLEX PILOTS?WATCH,3rd Care Taker,salmon Mercedes #205392  REF3121SVCD",
+  "total": 2475.11,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960199852902",
+  "item_id": "v1|960199852902|0",
+  "referencia": "205392",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Reloj de pulsera pequeño, esfera salmón tipo Mercedes, correa de cuero negra (no se identifica como reloj de piloto WWII)",
+   "referencia": null,
+   "precio_justo_usd": 1000,
+   "interesante": false,
+   "nota": "La foto no muestra un reloj de piloto WWII (suelen ser grandes, con esfera negra y Mercedes); la ref. 3121 y el sufijo 'SVCD' no son verificables como Rolex, y el título parece exagerado. Sin verificar autenticidad, no es una oportunidad clara."
+  },
+  "motivo": "triage: La foto no muestra un reloj de piloto WWII (suelen ser grandes, con esfera negra y Mercedes); la ref. 3121 y el sufijo 'SVCD' no son verificables como Rolex, y el título parece exagerado. Sin verificar autenticidad, no es una oportunidad clara. (justo 1000)"
  }
 ]
