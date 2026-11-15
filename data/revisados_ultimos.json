@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-12T15:34:55.631806+00:00",
   "marca": "Rolex",
-  "titulo": "2016 PAPERS Rolex GMT Master II 116710LN Steel Ceramic \"Green Arrow\" 40mm BOX",
-  "total": 13799.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168857484271",
-  "item_id": "v1|168857484271|0",
-  "referencia": "116710LN",
-  "mercado": {
-   "n": 39,
-   "p25": 13999,
-   "mediana": 15145
-  },
-  "ratio_mercado": 0.986,
-  "motivo": "precio normal (99 % del cuartil bajo de 116710LN)"
- },
- {
-  "fecha": "2026-11-12T15:34:55.631806+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Explorer 224270 40mm Black Stainless Steel 3-6-9 Oyster Smooth Watch",
   "total": 9062.55,
   "condicion": "Pre-owned - Excellent",
@@ -11039,5 +11022,28 @@
   },
   "ratio_mercado": 1.134,
   "motivo": "precio normal (113 % del cuartil bajo de 79833MN)"
+ },
+ {
+  "fecha": "2026-11-15T14:37:06.603766+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Calibre de Cartier Diver W7100054 - 42mm Stainless Steel / 18k Rose Gold",
+  "total": 8099.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840131362547",
+  "item_id": "v1|840131362547|0",
+  "referencia": "W7100054",
+  "mercado": {
+   "n": 2,
+   "p25": 10250,
+   "mediana": 10950
+  },
+  "triage": {
+   "modelo": "Cartier Calibre de Cartier Diver, 42 mm, acero y oro rosa 18k, bisel de cerámica negra",
+   "referencia": "W7100054",
+   "precio_justo_usd": 6800,
+   "interesante": false,
+   "nota": "Precio pedido de US$8099 supera el rango de venta real (aprox. US$6,300-7,300 según estado, caja y papeles). No hay descuento claro."
+  },
+  "motivo": "triage: Precio pedido de US$8099 supera el rango de venta real (aprox. US$6,300-7,300 según estado, caja y papeles). No hay descuento claro. (justo 6800)"
  }
 ]
