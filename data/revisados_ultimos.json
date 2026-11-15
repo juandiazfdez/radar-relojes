@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-12T14:19:55.138271+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu Midsize Steel Yellow Gold Ladies Watch W6920047 Box Papers",
-  "total": 7500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257849038078",
-  "item_id": "v1|257849038078|0",
-  "referencia": "W6920047",
-  "mercado": {
-   "n": 5,
-   "p25": 6835,
-   "mediana": 7323
-  },
-  "ratio_mercado": 1.097,
-  "motivo": "precio normal (110 % del cuartil bajo de W6920047)"
- },
- {
   "fecha": "2026-11-12T14:34:54.792141+00:00",
   "marca": "Rolex",
   "titulo": "Rolex GMT-Master II ROOTBEER 18kt Rose Gold & Steel 40mm 126711CHNR B&P",
@@ -11008,5 +10991,22 @@
    "nota": "El precio pedido de US$14.575 está muy por encima del valor de venta real de un Tudor Big Block de acero de segunda mano, que ronda US$3.500-5.000; la identificación visual no es concluyente."
   },
   "motivo": "triage: El precio pedido de US$14.575 está muy por encima del valor de venta real de un Tudor Big Block de acero de segunda mano, que ronda US$3.500-5.000; la identificación visual no es concluyente. (justo 4200)"
+ },
+ {
+  "fecha": "2026-11-15T01:06:48.369705+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 41mm Yellow Gold Bracelet Blue Dial/Bezel Auto 300m",
+  "total": 14110.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/920144069944",
+  "item_id": "v1|920144069944|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date 41mm oro amarillo, esfera y bisel azules (bracelet de oro amarillo, con caja Rolex en la foto)",
+   "referencia": "126618LB",
+   "precio_justo_usd": 36000,
+   "interesante": false,
+   "nota": "Precio muy por debajo del mercado para un 126618LB nuevo con papeles; la foto solo muestra la pulsera y el precio sugiere replica o listado enganoso."
+  },
+  "motivo": "triage: Precio muy por debajo del mercado para un 126618LB nuevo con papeles; la foto solo muestra la pulsera y el precio sugiere replica o listado enganoso. (justo 36000)"
  }
 ]
