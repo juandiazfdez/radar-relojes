@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-12T14:49:54.932707+00:00",
-  "marca": "Cartier",
-  "titulo": "Vintage Cartier Must De Cartier Mechanical Tank Men's Watch",
-  "total": 1810.75,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117517691164",
-  "item_id": "v1|117517691164|0",
-  "triage": {
-   "modelo": "Cartier Must de Cartier Tank (vermeil dorado, esfera crema con números romanos, correa de piel negra)",
-   "referencia": null,
-   "precio_justo_usd": 1000,
-   "interesante": false,
-   "nota": "Vermeil vintage de cuerda manual en estado Good; se vende típicamente entre US$800 y 1.200, y el precio pedido de US$1.811 está muy por encima."
-  },
-  "motivo": "triage: Vermeil vintage de cuerda manual en estado Good; se vende típicamente entre US$800 y 1.200, y el precio pedido de US$1.811 está muy por encima. (justo 1000)"
- },
- {
-  "fecha": "2026-11-12T15:04:57.958689+00:00",
-  "marca": "Rolex",
-  "titulo": "2023 Rolex GMT-Master II BATGIRL 126710 BLNR Black Steel 40mm Watch Box Papers",
-  "total": 19772.79,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267841637717",
-  "item_id": "v1|267841637717|0",
-  "referencia": "126710",
-  "mercado": {
-   "n": 27,
-   "p25": 17249,
-   "mediana": 17985
-  },
-  "ratio_mercado": 1.146,
-  "motivo": "precio normal (115 % del cuartil bajo de 126710)"
- },
- {
   "fecha": "2026-11-12T15:04:57.958689+00:00",
   "marca": "Rolex",
   "titulo": "2013 Rolex Submariner No-Date 114060 LN Black Steel 40mm Watch Box Papers",
@@ -11008,5 +10974,39 @@
   },
   "ratio_mercado": 0.99,
   "motivo": "precio normal (99 % del cuartil bajo de 126515LN)"
+ },
+ {
+  "fecha": "2026-11-15T02:51:47.920492+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer I Men’s Watch 114270 - Full Kit-  Check It Out!",
+  "total": 6999.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960197907785",
+  "item_id": "v1|960197907785|0",
+  "referencia": "114270",
+  "mercado": {
+   "n": 13,
+   "p25": 6990,
+   "mediana": 7463
+  },
+  "ratio_mercado": 1.001,
+  "motivo": "precio normal (100 % del cuartil bajo de 114270)"
+ },
+ {
+  "fecha": "2026-11-15T02:51:47.920492+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Carree 29mm 18k Gold & Steel 2961 Two Tone",
+  "total": 5780.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940093156546",
+  "item_id": "v1|940093156546|0",
+  "referencia": "2961",
+  "mercado": {
+   "n": 12,
+   "p25": 5850,
+   "mediana": 6054
+  },
+  "ratio_mercado": 0.988,
+  "motivo": "precio normal (99 % del cuartil bajo de 2961)"
  }
 ]
