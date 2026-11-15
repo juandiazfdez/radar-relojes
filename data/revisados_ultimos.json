@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-12T15:34:55.631806+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Datejust 41 Rose Gold/Steel Wimbledon Gray Jubilee Watch B/P '24 126331",
-  "total": 22000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117517741001",
-  "item_id": "v1|117517741001|0",
-  "referencia": "126331",
-  "mercado": {
-   "n": 42,
-   "p25": 15990,
-   "mediana": 16500
-  },
-  "ratio_mercado": 1.376,
-  "motivo": "precio normal (138 % del cuartil bajo de 126331)"
- },
- {
-  "fecha": "2026-11-12T15:34:55.631806+00:00",
-  "marca": "Rolex",
-  "titulo": "NEW Rolex GMT-Master II Steel Black/Blue Ceramic Jubilee Watch B/P '26 126710",
-  "total": 24700.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/366804967117",
-  "item_id": "v1|366804967117|0",
-  "referencia": "126710",
-  "mercado": {
-   "n": 81,
-   "p25": 20150,
-   "mediana": 20550
-  },
-  "ratio_mercado": 1.226,
-  "motivo": "precio normal (123 % del cuartil bajo de 126710)"
- },
- {
-  "fecha": "2026-11-12T15:34:55.631806+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Lady Datejust MOP Diamond Steel and 18K Yellow Gold Oyster Watch 279173MDO",
   "total": 20527.5,
   "condicion": "New with box and papers",
@@ -11039,5 +11005,45 @@
    "nota": "El texto del dial parece 'RELUX' en lugar de ROLEX, lo que indica posible réplica. Además la foto es de baja calidad y no permite verificar el modelo. Sin autenticación, no es una oportunidad."
   },
   "motivo": "triage: El texto del dial parece 'RELUX' en lugar de ROLEX, lo que indica posible réplica. Además la foto es de baja calidad y no permite verificar el modelo. Sin autenticación, no es una oportunidad. (justo 8500)"
+ },
+ {
+  "fecha": "2026-11-15T14:07:07.003516+00:00",
+  "marca": "Cartier",
+  "titulo": "1981 Must de Cartier Vendome Ref 18 Vermeil Quartz Watch w/ Papers UNTESTED)",
+  "total": 1819.5,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287731368135",
+  "item_id": "v1|287731368135|0",
+  "triage": {
+   "modelo": "Must de Cartier Vendôme (vermeil, cuarzo)",
+   "referencia": "18",
+   "precio_justo_usd": 550,
+   "interesante": false,
+   "nota": "Vermeil (chapado en oro), no oro macizo; sin probar y con caja y papeles se vende en torno a US$450-650. El precio pedido de US$1,820 está muy por encima del mercado."
+  },
+  "motivo": "triage: Vermeil (chapado en oro), no oro macizo; sin probar y con caja y papeles se vende en torno a US$450-650. El precio pedido de US$1,820 está muy por encima del mercado. (justo 550)"
+ },
+ {
+  "fecha": "2026-11-15T14:07:07.003516+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Small WSTA0030 With Papers and Original Receipt ",
+  "total": 3050.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336898837079",
+  "item_id": "v1|336898837079|0",
+  "referencia": "WSTA0030",
+  "mercado": {
+   "n": 3,
+   "p25": 2995,
+   "mediana": 3149
+  },
+  "triage": {
+   "modelo": "Cartier Tank Must (Tank pequeño, cuarzo, acero, esfera plateada con números romanos, correa de piel negra)",
+   "referencia": "WSTA0030",
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Precio pedido cercano al retail para un modelo de cuarzo usado; el mercado secundario con papeles suele estar bastante por debajo."
+  },
+  "motivo": "triage: Precio pedido cercano al retail para un modelo de cuarzo usado; el mercado secundario con papeles suele estar bastante por debajo. (justo 2300)"
  }
 ]
