@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-12T15:04:57.958689+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier 18k Rose Gold Tankissime Small 16mm Quartz Women's Watch",
-  "total": 19006.75,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117517706577",
-  "item_id": "v1|117517706577|0",
-  "triage": {
-   "modelo": "Cartier Tankissime Small, oro rosa 18k, cuarzo",
-   "referencia": "W6300156 (probable, no verificable en la foto)",
-   "precio_justo_usd": 5500,
-   "interesante": false,
-   "nota": "Precio pedido muy superior al valor de mercado (aprox. 5.000-6.000 USD en reventa); el oro de 18k aporta solo una parte del valor."
-  },
-  "motivo": "triage: Precio pedido muy superior al valor de mercado (aprox. 5.000-6.000 USD en reventa); el oro de 18k aporta solo una parte del valor. (justo 5500)"
- },
- {
-  "fecha": "2026-11-12T15:04:57.958689+00:00",
-  "marca": "Cartier",
   "titulo": "Vintage Cartier Stainless Steel 18k Yellow Gold Santos Galbée Quartz Watch",
   "total": 4006.75,
   "condicion": "Pre-owned - Good",
@@ -11020,5 +11003,28 @@
   },
   "ratio_mercado": 1.131,
   "motivo": "precio normal (113 % del cuartil bajo de 79830RB)"
+ },
+ {
+  "fecha": "2026-11-15T05:06:57.807371+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR M28600-0005 Royal Blue, 41 MM DayDate.. Excellent Condition.Superb Watch!!",
+  "total": 2520.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287730658214",
+  "item_id": "v1|287730658214|0",
+  "referencia": "M28600-0005",
+  "mercado": {
+   "n": 4,
+   "p25": 2800,
+   "mediana": 2850
+  },
+  "triage": {
+   "modelo": "Tudor Royal 41 mm (esfera azul, caja de acero)",
+   "referencia": "M28600-0005",
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "El precio pedido ronda un 10 % por debajo de la estimación de venta real, sin llegar al 15 % exigido. Conviene verificar la referencia y la autenticidad antes de comprar."
+  },
+  "motivo": "triage: El precio pedido ronda un 10 % por debajo de la estimación de venta real, sin llegar al 15 % exigido. Conviene verificar la referencia y la autenticidad antes de comprar. (justo 2800)"
  }
 ]
