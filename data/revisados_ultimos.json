@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-12T15:34:55.631806+00:00",
   "marca": "Rolex",
-  "titulo": "NEW Rolex Datejust 41 Chocolate 18k Rose Gold/Steel Jubilee Watch B/P '26 126331",
-  "total": 22700.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/117517740998",
-  "item_id": "v1|117517740998|0",
-  "referencia": "126331",
-  "mercado": {
-   "n": 53,
-   "p25": 20195,
-   "mediana": 21999
-  },
-  "ratio_mercado": 1.124,
-  "motivo": "precio normal (112 % del cuartil bajo de 126331)"
- },
- {
-  "fecha": "2026-11-12T15:34:55.631806+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex GMT-Master II Steel Black/Blue Ceramic Jubilee Watch B/P '25 126710",
   "total": 22700.0,
   "condicion": "Pre-owned - Good",
@@ -11039,5 +11022,22 @@
    "nota": "Precio pedido de US$18,074 por encima del valor estimado; el título menciona '100 Year' y fecha 2026 sin referencia verificable, y la foto no confirma el bicolor."
   },
   "motivo": "triage: Precio pedido de US$18,074 por encima del valor estimado; el título menciona '100 Year' y fecha 2026 sin referencia verificable, y la foto no confirma el bicolor. (justo 14000)"
+ },
+ {
+  "fecha": "2026-11-15T12:22:07.178079+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos de Cartier Large 47.5mm X 39.8mm WGSA0029 18K Yellow Gold Watch",
+  "total": 33000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900093265445",
+  "item_id": "v1|900093265445|0",
+  "referencia": "WGSA0029",
+  "mercado": {
+   "n": 6,
+   "p25": 33848,
+   "mediana": 40349
+  },
+  "ratio_mercado": 0.975,
+  "motivo": "precio normal (97 % del cuartil bajo de WGSA0029)"
  }
 ]
