@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-12T18:04:54.962221+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Vendome Louis Diamond 18K Yellow Gold Watch 8057006",
-  "total": 20000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407358520222",
-  "item_id": "v1|407358520222|0",
-  "triage": {
-   "modelo": "Cartier Vendôme Louis, esfera blanca con numerales romanos, bisel de diamantes, oro amarillo 18K y brazalete de malla dorada (cuarzo, tamaño pequeño)",
-   "referencia": "8057006 (según el título; no verificable en la imagen)",
-   "precio_justo_usd": 9000,
-   "interesante": false,
-   "nota": "Precio pedido de US$20,000 muy por encima del valor de venta cerrada estimado (~US$8,000-10,000) para este modelo de oro con diamantes; no es oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$20,000 muy por encima del valor de venta cerrada estimado (~US$8,000-10,000) para este modelo de oro con diamantes; no es oportunidad. (justo 9000)"
- },
- {
-  "fecha": "2026-11-12T18:04:54.962221+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR Pelagos Ultra Full Set",
   "total": 5425.0,
@@ -11054,5 +11037,22 @@
    "nota": "Precio pedido muy por encima del valor de reventa actual; además, el título dice 'unworn' pero la condición es 'Pre-owned'."
   },
   "motivo": "triage: Precio pedido muy por encima del valor de reventa actual; además, el título dice 'unworn' pero la condición es 'Pre-owned'. (justo 14000)"
+ },
+ {
+  "fecha": "2026-11-15T23:07:26.082086+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise Steel Quartz 25mm x 30mm Bracelet Watch W51011Q3",
+  "total": 3950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940095371886",
+  "item_id": "v1|940095371886|0",
+  "triage": {
+   "modelo": "Cartier Tank Française acero, cuarzo, 25 x 30 mm (esfera plateada, numerales romanos, ventana de fecha a las 3)",
+   "referencia": "W51011Q3",
+   "precio_justo_usd": 2500,
+   "interesante": false,
+   "nota": "Precio pedido de US$3950 está muy por encima del valor de venta cerrada de esta referencia de acero usada (aprox. US$2000-2800 según caja, papeles y año)."
+  },
+  "motivo": "triage: Precio pedido de US$3950 está muy por encima del valor de venta cerrada de esta referencia de acero usada (aprox. US$2000-2800 según caja, papeles y año). (justo 2500)"
  }
 ]
