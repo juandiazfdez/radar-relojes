@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-12T20:35:06.670417+00:00",
-  "marca": "Rolex",
-  "titulo": "1975 Rolex Cellini 4318, 24.5mm, Gold Dial, 18K Yellow Gold Ladies Watch",
-  "total": 10100.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168857905767",
-  "item_id": "v1|168857905767|0",
-  "triage": {
-   "modelo": "Rolex Cellini (cushion, oro amarillo 18K)",
-   "referencia": "4318",
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "Precio pedido muy superior al valor de mercado; la imagen no confirma el logo ni la referencia, así que conviene verificar autenticidad."
-  },
-  "motivo": "triage: Precio pedido muy superior al valor de mercado; la imagen no confirma el logo ni la referencia, así que conviene verificar autenticidad. (justo 4500)"
- },
- {
-  "fecha": "2026-11-12T20:35:06.670417+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Heritage Black Bay Blue 79230B Automatic Men's Watch 41mm Steel",
   "total": 2800.0,
@@ -11061,5 +11044,28 @@
    "nota": "Pedido de US$3848 con envío está unos 30 % por encima del precio de venta cerrada estimado para un usado en excelente estado; 'discontinuado' no justifica la prima."
   },
   "motivo": "triage: Pedido de US$3848 con envío está unos 30 % por encima del precio de venta cerrada estimado para un usado en excelente estado; 'discontinuado' no justifica la prima. (justo 2900)"
+ },
+ {
+  "fecha": "2026-11-16T11:37:47.256196+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Pelagos FXD Alinghi Red Bull Carbon 42mm M25707KN-0001 Full Set Mint",
+  "total": 3400.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366813915280",
+  "item_id": "v1|366813915280|0",
+  "referencia": "M25707KN-0001",
+  "mercado": {
+   "n": 1,
+   "p25": 3595,
+   "mediana": 3595
+  },
+  "triage": {
+   "modelo": "Tudor Pelagos FXD Alinghi Red Bull Racing (edición limitada, caja de carbono)",
+   "referencia": "M25707KN-0001",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Precio pedido ~10 % bajo el valor estimado de venta cerrada; el margen no llega al 15 %. Verificar autenticidad, papeles y que la referencia coincida."
+  },
+  "motivo": "triage: Precio pedido ~10 % bajo el valor estimado de venta cerrada; el margen no llega al 15 %. Verificar autenticidad, papeles y que la referencia coincida. (justo 3800)"
  }
 ]
