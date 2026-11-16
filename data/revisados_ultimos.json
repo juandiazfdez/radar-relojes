@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-11-13T02:50:17.039874+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay 54 37mm Stainless Steel M79000B-0001",
-  "total": 3495.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880110762545",
-  "item_id": "v1|880110762545|0",
-  "referencia": "M79000B-0001",
-  "mercado": {
-   "n": 2,
-   "p25": 3800,
-   "mediana": 3895
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay 54 (la foto parece una Black Bay 58 Navy Blue, verificar)",
-   "referencia": "M79000B-0001",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Acero nuevo con caja y papeles en mercado gris, con descuento normal sobre retail; el precio pedido no está al menos 15 % por debajo. El modelo de la foto puede no coincidir con el título."
-  },
-  "motivo": "triage: Acero nuevo con caja y papeles en mercado gris, con descuento normal sobre retail; el precio pedido no está al menos 15 % por debajo. El modelo de la foto puede no coincidir con el título. (justo 3300)"
- },
- {
   "fecha": "2026-11-13T03:05:17.294405+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual 41 124300 Watch with original box and papers 2023",
@@ -11048,5 +11025,22 @@
    "nota": "Precio pedido de US$3500 está por encima de lo que se vende realmente este modelo usado en EE. UU.; no hay margen de compra."
   },
   "motivo": "triage: Precio pedido de US$3500 está por encima de lo que se vende realmente este modelo usado en EE. UU.; no hay margen de compra. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-16T20:22:57.775976+00:00",
+  "marca": "Rolex",
+  "titulo": "1993 Rolex Submariner Date 16613 Bluesy Two-Tone 18k/SS S-Serial Papers",
+  "total": 12995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227617531884",
+  "item_id": "v1|227617531884|0",
+  "referencia": "16613",
+  "mercado": {
+   "n": 92,
+   "p25": 11695,
+   "mediana": 12000
+  },
+  "ratio_mercado": 1.111,
+  "motivo": "precio normal (111 % del cuartil bajo de 16613)"
  }
 ]
