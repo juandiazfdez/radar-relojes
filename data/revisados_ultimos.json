@@ -1,80 +1,6 @@
 [
  {
   "fecha": "2026-11-12T21:35:06.268263+00:00",
-  "marca": "Rolex",
-  "titulo": "42238: Rolex GMT-Master II \"Batman\", Ref. 126710BLNR, 2026 Full Set UNWORN",
-  "total": 20000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237179674030",
-  "item_id": "v1|237179674030|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 66,
-   "p25": 18172,
-   "mediana": 18900
-  },
-  "ratio_mercado": 1.101,
-  "motivo": "precio normal (110 % del cuartil bajo de 126710BLNR)"
- },
- {
-  "fecha": "2026-11-12T21:35:06.268263+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sea-Dweller Deepsea 116660 Deep Blue James Cameron {FULL SET}",
-  "total": 12499.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267841946464",
-  "item_id": "v1|267841946464|0",
-  "referencia": "116660",
-  "mercado": {
-   "n": 43,
-   "p25": 10795,
-   "mediana": 12500
-  },
-  "ratio_mercado": 1.158,
-  "motivo": "precio normal (116 % del cuartil bajo de 116660)"
- },
- {
-  "fecha": "2026-11-12T21:35:06.268263+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sky-Dweller 326938 Yellow Gold 42mm Full Set 2019 (Serviced)",
-  "total": 41345.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287725165865",
-  "item_id": "v1|287725165865|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller, oro amarillo, bisel acanalado, esfera champán con numerales arábigos",
-   "referencia": "326938",
-   "precio_justo_usd": 42000,
-   "interesante": false,
-   "nota": "Precio cercano al mercado para esta referencia en oro amarillo; no está 15% por debajo. Verificar autenticidad, papeles y estado de la caja."
-  },
-  "motivo": "triage: Precio cercano al mercado para esta referencia en oro amarillo; no está 15% por debajo. Verificar autenticidad, papeles y estado de la caja. (justo 42000)"
- },
- {
-  "fecha": "2026-11-12T21:35:06.268263+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Americaine Yellow Gold Automatic Mens Watch W2603156 Papers",
-  "total": 10650.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257849560990",
-  "item_id": "v1|257849560990|0",
-  "referencia": "W2603156",
-  "mercado": {
-   "n": 3,
-   "p25": 7065,
-   "mediana": 10990
-  },
-  "triage": {
-   "modelo": "Cartier Tank Américaine (oro amarillo 18k, esfera plateada con números romanos, ventanilla de fecha a las 6)",
-   "referencia": "W2603156",
-   "precio_justo_usd": 10900,
-   "interesante": false,
-   "nota": "Precio pedido en línea con el mercado de segunda mano para esta referencia en oro amarillo con papeles; no hay descuento de al menos 15 %."
-  },
-  "motivo": "triage: Precio pedido en línea con el mercado de segunda mano para esta referencia en oro amarillo con papeles; no hay descuento de al menos 15 %. (justo 10900)"
- },
- {
-  "fecha": "2026-11-12T21:35:06.268263+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Americaine White Gold Diamond Ladies Watch WB707331 Box Papers",
   "total": 10650.0,
@@ -11080,5 +11006,80 @@
    "nota": "Precio pedido cerca del mercado de reventa para acero con caja y papeles; no hay descuento de 15 % o más."
   },
   "motivo": "triage: Precio pedido cerca del mercado de reventa para acero con caja y papeles; no hay descuento de 15 % o más. (justo 4400)"
+ },
+ {
+  "fecha": "2026-11-16T16:52:57.006896+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Men's 40mm Two-Tone Blue Dial/Bezel Auto Date 300m",
+  "total": 8100.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128198758013",
+  "item_id": "v1|128198758013|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date two-tone (acero y oro amarillo) esfera azul, bisel azul Cerachrom",
+   "referencia": "126613LB",
+   "precio_justo_usd": 20000,
+   "interesante": false,
+   "nota": "Precio pedido muy por debajo del mercado para esta referencia actual; alto riesgo de réplica o listado engañoso. Verificar autenticidad antes de cualquier compra."
+  },
+  "motivo": "triage: Precio pedido muy por debajo del mercado para esta referencia actual; alto riesgo de réplica o listado engañoso. Verificar autenticidad antes de cualquier compra. (justo 20000)"
+ },
+ {
+  "fecha": "2026-11-16T16:52:57.006896+00:00",
+  "marca": "Rolex",
+  "titulo": "vintage Rolex President Day-Date 18038 18K Yellow Gold R557XXXX HEAD ONLY",
+  "total": 7659.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860149487124",
+  "item_id": "v1|860149487124|0",
+  "referencia": "18038",
+  "mercado": {
+   "n": 19,
+   "p25": 9165,
+   "mediana": 10509
+  },
+  "ratio_mercado": 0.836,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 7400,
+   "riesgo_autenticidad": "bajo",
+   "estado": "Cajas con golpes fuertes según el vendedor, esfera cambiada en 1988, sin caja ni papeles, correa gastada"
+  },
+  "ratio_justo": 1.035,
+  "motivo": "precio normal segun revision (103 % del justo 7400)"
+ },
+ {
+  "fecha": "2026-11-16T16:52:57.006896+00:00",
+  "marca": "Rolex",
+  "titulo": "VINTAGE 1965 ROLEX OYSTER PERPETUAL 1002 AUTOMATIC WRISTWATCH STAINLESS STEEL",
+  "total": 2108.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/237186322167",
+  "item_id": "v1|237186322167|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual (esfera champán, acero, cuerpo de 34 mm aprox.)",
+   "referencia": "1002",
+   "precio_justo_usd": 1400,
+   "interesante": false,
+   "nota": "Referencia 1002 de los años 60 en estado Fair, mostrada sin correa y posiblemente sin cristal; el precio pedido de US$2108 queda por encima del valor de venta realista."
+  },
+  "motivo": "triage: Referencia 1002 de los años 60 en estado Fair, mostrada sin correa y posiblemente sin cristal; el precio pedido de US$2108 queda por encima del valor de venta realista. (justo 1400)"
+ },
+ {
+  "fecha": "2026-11-16T16:52:57.006896+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay M7941A1A0NU-0001, NEW 2026",
+  "total": 4594.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/377650976441",
+  "item_id": "v1|377650976441|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 41 (acero, esfera y bisel negros, brazalete de acero)",
+   "referencia": "M7941A1A0NU",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "El precio pedido está por encima del retail aproximado (~US$4,000); como nuevo con caja y papeles, el mercado secundario ronda los US$3,300."
+  },
+  "motivo": "triage: El precio pedido está por encima del retail aproximado (~US$4,000); como nuevo con caja y papeles, el mercado secundario ronda los US$3,300. (justo 3300)"
  }
 ]
