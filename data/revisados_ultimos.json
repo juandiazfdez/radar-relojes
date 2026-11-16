@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-12T19:05:06.298818+00:00",
-  "marca": "Rolex",
-  "titulo": "VINTAGE 14K WHITE GOLD WOMENS ROLEX COCKTAIL WATCH",
-  "total": 1410.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327453038612",
-  "item_id": "v1|327453038612|0",
-  "triage": {
-   "modelo": "Rolex cocktail de dama vintage en oro blanco 14K (pulsera eslabonada con motivos florales)",
-   "referencia": null,
-   "precio_justo_usd": 1100,
-   "interesante": false,
-   "nota": "La foto es baja resolución y no se ve bien el logo de la corona ni el movimiento; sin verificar, el precio pedido supera el valor estimado para este tipo de reloj."
-  },
-  "motivo": "triage: La foto es baja resolución y no se ve bien el logo de la corona ni el movimiento; sin verificar, el precio pedido supera el valor estimado para este tipo de reloj. (justo 1100)"
- },
- {
-  "fecha": "2026-11-12T19:05:06.298818+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Americaine 19mm Ladies 18k WG Diamonds WB7051L1",
   "total": 11985.0,
@@ -11054,5 +11037,22 @@
    "nota": "Precio pedido por encima del valor de venta estimado en el mercado secundario para este modelo en buen estado con caja y papeles; no hay descuento claro."
   },
   "motivo": "triage: Precio pedido por encima del valor de venta estimado en el mercado secundario para este modelo en buen estado con caja y papeles; no hay descuento claro. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-16T01:52:25.789354+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Midsize 278273 / 31mm / Full Set",
+  "total": 16285.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227616302865",
+  "item_id": "v1|227616302865|0",
+  "referencia": "278273",
+  "mercado": {
+   "n": 17,
+   "p25": 16840,
+   "mediana": 18900
+  },
+  "ratio_mercado": 0.967,
+  "motivo": "precio normal (97 % del cuartil bajo de 278273)"
  }
 ]
