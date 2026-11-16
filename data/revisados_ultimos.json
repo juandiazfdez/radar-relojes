@@ -1,137 +1,5 @@
 [
  {
-  "fecha": "2026-11-12T21:20:05.723891+00:00",
-  "marca": "Rolex",
-  "titulo": "42207: Rolex Datejust 36, Ref. 116234, Circa 2005",
-  "total": 9000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237179656459",
-  "item_id": "v1|237179656459|0",
-  "referencia": "116234",
-  "mercado": {
-   "n": 50,
-   "p25": 9025,
-   "mediana": 9750
-  },
-  "ratio_mercado": 0.997,
-  "motivo": "precio normal (100 % del cuartil bajo de 116234)"
- },
- {
-  "fecha": "2026-11-12T21:20:05.723891+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41 Steel and 18K Yellow Gold Oyster Mens Watch 126333CSO",
-  "total": 18742.5,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/800909554184",
-  "item_id": "v1|800909554184|0",
-  "referencia": "126333CSO",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41, Oystersteel y oro amarillo 18K, bisel acanalado, esfera champán, brazalete Oyster",
-   "referencia": "126333",
-   "precio_justo_usd": 14500,
-   "interesante": false,
-   "nota": "Referencia 126333 nueva con caja y papeles; el precio pedido de US$18,742 está muy por encima del mercado secundario actual."
-  },
-  "motivo": "triage: Referencia 126333 nueva con caja y papeles; el precio pedido de US$18,742 está muy por encima del mercado secundario actual. (justo 14500)"
- },
- {
-  "fecha": "2026-11-12T21:35:06.268263+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex GMT-Master II | Ref. 126710GRNR",
-  "total": 23660.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267841951493",
-  "item_id": "v1|267841951493|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 97,
-   "p25": 22350,
-   "mediana": 23498
-  },
-  "ratio_mercado": 1.059,
-  "motivo": "precio normal (106 % del cuartil bajo de 126710GRNR)"
- },
- {
-  "fecha": "2026-11-12T21:35:06.268263+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex DateJust 16013 Champagne Two-Tone Yellow Gold Steel Jubilee 36mm Watch",
-  "total": 8858.72,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267841949433",
-  "item_id": "v1|267841949433|0",
-  "referencia": "16013",
-  "mercado": {
-   "n": 21,
-   "p25": 3859,
-   "mediana": 4700
-  },
-  "ratio_mercado": 2.296,
-  "motivo": "precio normal (230 % del cuartil bajo de 16013)"
- },
- {
-  "fecha": "2026-11-12T21:35:06.268263+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date OysterQuartz President 19018 Champagne 18K Yellow Gold 36mm Watch",
-  "total": 19568.69,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267841949434",
-  "item_id": "v1|267841949434|0",
-  "referencia": "19018",
-  "mercado": {
-   "n": 15,
-   "p25": 24000,
-   "mediana": 24137
-  },
-  "ratio_mercado": 0.815,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 17500,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, buen estado visual; sin caja original ni papeles originales; faltan fotos del fondo y del movimiento"
-  },
-  "ratio_justo": 1.118,
-  "motivo": "precio normal segun revision (112 % del justo 17500)"
- },
- {
-  "fecha": "2026-11-12T21:35:06.268263+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Explorer II 16570 Black Rehaut 3186 Stainless Steel 40mm Watch",
-  "total": 8858.35,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267841949435",
-  "item_id": "v1|267841949435|0",
-  "referencia": "16570",
-  "mercado": {
-   "n": 40,
-   "p25": 8445,
-   "mediana": 8970
-  },
-  "ratio_mercado": 1.049,
-  "motivo": "precio normal (105 % del cuartil bajo de 16570)"
- },
- {
-  "fecha": "2026-11-12T21:35:06.268263+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Yacht-Master 116622 Stainless Steel Rhodium Blue Oyster 40mm Watch",
-  "total": 13142.07,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940087218779",
-  "item_id": "v1|940087218779|0",
-  "referencia": "116622",
-  "mercado": {
-   "n": 15,
-   "p25": 13445,
-   "mediana": 13499
-  },
-  "ratio_mercado": 0.977,
-  "motivo": "precio normal (98 % del cuartil bajo de 116622)"
- },
- {
   "fecha": "2026-11-12T21:35:06.268263+00:00",
   "marca": "Rolex",
   "titulo": "2007 Rolex GMT-Master II Pepsi 16710 Red Blue Steel 40mm Watch Box Papers",
@@ -11066,5 +10934,145 @@
    "nota": "Set completo con caja y papeles, pero la referencia no se distingue en la foto; el precio pedido queda por encima del valor estimado, y 'unpolished' no se puede verificar."
   },
   "motivo": "triage: Set completo con caja y papeles, pero la referencia no se distingue en la foto; el precio pedido queda por encima del valor estimado, y 'unpolished' no se puede verificar. (justo 12500)"
+ },
+ {
+  "fecha": "2026-11-16T16:07:56.952688+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Midsize Steel Yellow Gold Diamond Ladies Watch 278273",
+  "total": 16840.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257855281273",
+  "item_id": "v1|257855281273|0",
+  "referencia": "278273",
+  "mercado": {
+   "n": 17,
+   "p25": 16840,
+   "mediana": 18900
+  },
+  "ratio_mercado": 1.0,
+  "motivo": "precio normal (100 % del cuartil bajo de 278273)"
+ },
+ {
+  "fecha": "2026-11-16T16:07:56.952688+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex DateJust 16030 36mm Stainless Steel Taupe Engine Turned 1982 BOX + TAG",
+  "total": 6488.46,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940097189600",
+  "item_id": "v1|940097189600|0",
+  "referencia": "16030",
+  "mercado": {
+   "n": 4,
+   "p25": 4800,
+   "mediana": 4897
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 36 mm acero con bisel acanalado, esfera taupe (engine-turned), brazalete jubilee, con caja y papeles",
+   "referencia": "16030",
+   "precio_justo_usd": 6000,
+   "interesante": false,
+   "nota": "Ref. 16030 de ~1982 con caja y papeles; precio pedido de US$6.488 está en línea con el mercado, sin descuento de al menos 15 %."
+  },
+  "motivo": "triage: Ref. 16030 de ~1982 con caja y papeles; precio pedido de US$6.488 está en línea con el mercado, sin descuento de al menos 15 %. (justo 6000)"
+ },
+ {
+  "fecha": "2026-11-16T16:07:56.952688+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Air-King DIAMOND SILVER Stainless Steel 34mm 114234 Oyster Watch",
+  "total": 5297.01,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960204015025",
+  "item_id": "v1|960204015025|0",
+  "referencia": "114234",
+  "mercado": {
+   "n": 6,
+   "p25": 6870,
+   "mediana": 7612
+  },
+  "ratio_mercado": 0.771,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 4900,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado, buen estado visual: caja y brazalete con desgaste leve de cepillado, sin caja ni papeles"
+  },
+  "ratio_justo": 1.081,
+  "motivo": "precio normal segun revision (108 % del justo 4900)"
+ },
+ {
+  "fecha": "2026-11-16T16:07:56.952688+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Pasha Seatimer Automatic Stainless Steel And Rubber Watch",
+  "total": 2919.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267845244408",
+  "item_id": "v1|267845244408|0",
+  "triage": {
+   "modelo": "Cartier Pasha de Cartier Seatimer Automático, acero con correa de caucho, esfera negra",
+   "referencia": "W31077U2 (probable, 38 mm; no verificable solo con la foto)",
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Precio pedido cercano al valor de mercado para esta referencia en estado Good; no hay descuento de al menos 15 %."
+  },
+  "motivo": "triage: Precio pedido cercano al valor de mercado para esta referencia en estado Good; no hay descuento de al menos 15 %. (justo 3100)"
+ },
+ {
+  "fecha": "2026-11-16T16:07:56.952688+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Prince Oysterdate Submariner 200 M Automatic Stainless Steel / Stainless",
+  "total": 2735.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820361553483",
+  "item_id": "v1|820361553483|0",
+  "triage": {
+   "modelo": "Tudor Prince Oysterdate Submariner 200 M (esfera rosa)",
+   "referencia": "79190 (probable, según el listado y el estilo visible)",
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Acero, esfera rosa con fecha; precio pedido en línea con el mercado de usado, sin descuento claro de al menos 15 %. Confirmar referencia, año y estado real."
+  },
+  "motivo": "triage: Acero, esfera rosa con fecha; precio pedido en línea con el mercado de usado, sin descuento claro de al menos 15 %. Confirmar referencia, año y estado real. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-16T16:07:56.952688+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Glamour Date Automatic Stainless Steel / Stainless Steel Watch",
+  "total": 1434.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267845244387",
+  "item_id": "v1|267845244387|0",
+  "triage": {
+   "modelo": "Tudor Glamour Date Automatic (acero, esfera nácar con marcadores de diamante)",
+   "referencia": "55000 (aprox., no confirmada; podría ser una variante con diamantes)",
+   "precio_justo_usd": 1900,
+   "interesante": true,
+   "nota": "Precio ~25 % bajo el valor estimado para este modelo en acero pre-owned. Verificar autenticidad, estado de los diamantes y si incluye caja/papeles antes de comprar."
+  },
+  "referencia": null,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 1150,
+   "riesgo_autenticidad": "bajo",
+   "estado": "Bueno a muy bueno: rayones ligeros en caja, bisel y brazalete. Sin caja ni papeles, solo tarjeta de garantía."
+  },
+  "ratio_justo": 1.247,
+  "motivo": "precio normal segun revision (125 % del justo 1150)"
+ },
+ {
+  "fecha": "2026-11-16T16:07:56.952688+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Royal Automatic Stainless Steel / Stainless Steel Watch",
+  "total": 2916.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267845244271",
+  "item_id": "v1|267845244271|0",
+  "triage": {
+   "modelo": "Tudor Royal Day-Date (acero, esfera salmón con marcadores de diamante), posible variante de 38 mm",
+   "referencia": null,
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Referencia no confirmable en la foto; el precio pedido de US$2916 no está al menos 15 % por debajo del valor de venta cerrada de una Royal Day-Date usada en buen estado."
+  },
+  "motivo": "triage: Referencia no confirmable en la foto; el precio pedido de US$2916 no está al menos 15 % por debajo del valor de venta cerrada de una Royal Day-Date usada en buen estado. (justo 3100)"
  }
 ]
