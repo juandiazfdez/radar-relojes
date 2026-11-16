@@ -2,57 +2,6 @@
  {
   "fecha": "2026-11-12T21:20:05.723891+00:00",
   "marca": "Rolex",
-  "titulo": "42195: Rolex GMT-Master II, Ref. 116710LN, Box and 2013 Card",
-  "total": 14000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900086433050",
-  "item_id": "v1|900086433050|0",
-  "referencia": "116710LN",
-  "mercado": {
-   "n": 39,
-   "p25": 13999,
-   "mediana": 15145
-  },
-  "ratio_mercado": 1.0,
-  "motivo": "precio normal (100 % del cuartil bajo de 116710LN)"
- },
- {
-  "fecha": "2026-11-12T21:20:05.723891+00:00",
-  "marca": "Rolex",
-  "titulo": "42208: Rolex Oyster Perpetual 41, Ref. 124300, Box and 2024 Card",
-  "total": 11000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237179663260",
-  "item_id": "v1|237179663260|0",
-  "referencia": "124300",
-  "mercado": {
-   "n": 32,
-   "p25": 10000,
-   "mediana": 10977
-  },
-  "ratio_mercado": 1.1,
-  "motivo": "precio normal (110 % del cuartil bajo de 124300)"
- },
- {
-  "fecha": "2026-11-12T21:20:05.723891+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Land-Dweller 40mm 127334 With Stickers 2026",
-  "total": 24499.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147677985609",
-  "item_id": "v1|147677985609|0",
-  "referencia": "127334",
-  "mercado": {
-   "n": 7,
-   "p25": 24750,
-   "mediana": 27300
-  },
-  "ratio_mercado": 0.99,
-  "motivo": "precio normal (99 % del cuartil bajo de 127334)"
- },
- {
-  "fecha": "2026-11-12T21:20:05.723891+00:00",
-  "marca": "Rolex",
   "titulo": "42159: Rolex Submariner 40, Ref. 16610, Circa 1991",
   "total": 9500.0,
   "condicion": "Pre-owned - Excellent",
@@ -11060,5 +11009,62 @@
   },
   "ratio_mercado": 0.948,
   "motivo": "precio normal (95 % del cuartil bajo de 79010SG)"
+ },
+ {
+  "fecha": "2026-11-16T15:07:57.971193+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Midsize Date 31 mm 18K Yellow Gold Champagne Oyster Watch 6627 Circa 1966",
+  "total": 15990.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800925418117",
+  "item_id": "v1|800925418117|0",
+  "referencia": "6627",
+  "mercado": {
+   "n": 2,
+   "p25": 6215,
+   "mediana": 10056
+  },
+  "triage": {
+   "modelo": "Rolex Datejust medio (Midsize Date) de oro amarillo 18K, esfera champán, bisel acanalado, brazalete Oyster",
+   "referencia": "6627",
+   "precio_justo_usd": 11500,
+   "interesante": false,
+   "nota": "Oro amarillo 18K vintage de 1966 con brazalete y buen estado; el precio pedido queda por encima del valor de venta cerrada estimado para esta referencia."
+  },
+  "motivo": "triage: Oro amarillo 18K vintage de 1966 con brazalete y buen estado; el precio pedido queda por encima del valor de venta cerrada estimado para esta referencia. (justo 11500)"
+ },
+ {
+  "fecha": "2026-11-16T15:07:57.971193+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Ladies 26 mm Steel Automatic Watch 6618 Circa 1967",
+  "total": 2800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147683340425",
+  "item_id": "v1|147683340425|0",
+  "referencia": "6618",
+  "mercado": {
+   "n": 10,
+   "p25": 2650,
+   "mediana": 3162
+  },
+  "ratio_mercado": 1.057,
+  "motivo": "precio normal (106 % del cuartil bajo de 6618)"
+ },
+ {
+  "fecha": "2026-11-16T15:07:57.971193+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Date 34 mm Steel 18K Yellow Gold Oyster White Roman Watch 15053 Circa 1982",
+  "total": 5750.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407367306856",
+  "item_id": "v1|407367306856|0",
+  "referencia": "15053",
+  "mercado": {
+   "n": 22,
+   "p25": 5700,
+   "mediana": 5760
+  },
+  "ratio_mercado": 1.009,
+  "motivo": "precio normal (101 % del cuartil bajo de 15053)"
  }
 ]
