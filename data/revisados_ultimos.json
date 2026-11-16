@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-12T21:20:05.723891+00:00",
   "marca": "Rolex",
-  "titulo": "42181: Rolex Datejust 36, Ref. 116233, Circa 2007",
-  "total": 10500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237179665192",
-  "item_id": "v1|237179665192|0",
-  "referencia": "116233",
-  "mercado": {
-   "n": 70,
-   "p25": 10990,
-   "mediana": 11360
-  },
-  "ratio_mercado": 0.955,
-  "motivo": "precio normal (96 % del cuartil bajo de 116233)"
- },
- {
-  "fecha": "2026-11-12T21:20:05.723891+00:00",
-  "marca": "Rolex",
   "titulo": "42224: Rolex Submariner \"No Date\", Ref. 124060, Full Set 2025 UNWORN",
   "total": 14700.0,
   "condicion": "Pre-owned - Excellent",
@@ -11060,5 +11043,22 @@
    "nota": "Precio pedido de US$5470 con envío está por encima del valor de reventa de esta referencia usada; no hay descuento."
   },
   "motivo": "triage: Precio pedido de US$5470 con envío está por encima del valor de reventa de esta referencia usada; no hay descuento. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-16T14:37:47.461509+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Dark 41MM #79230DK Black PVD Watch & Card",
+  "total": 2975.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860149218208",
+  "item_id": "v1|860149218208|0",
+  "referencia": "79230DK",
+  "mercado": {
+   "n": 8,
+   "p25": 3395,
+   "mediana": 3647
+  },
+  "ratio_mercado": 0.876,
+  "motivo": "precio normal (88 % del cuartil bajo de 79230DK)"
  }
 ]
