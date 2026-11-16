@@ -1,73 +1,5 @@
 [
  {
-  "fecha": "2026-11-13T16:35:40.429878+00:00",
-  "marca": "Rolex",
-  "titulo": "2010 Rolex Daytona Cosmograph 116523 Blue Racing 40mm Two-Tone 18k Box Papers",
-  "total": 24473.19,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900088559228",
-  "item_id": "v1|900088559228|0",
-  "referencia": "116523",
-  "mercado": {
-   "n": 49,
-   "p25": 19384,
-   "mediana": 20990
-  },
-  "ratio_mercado": 1.263,
-  "motivo": "precio normal (126 % del cuartil bajo de 116523)"
- },
- {
-  "fecha": "2026-11-13T16:35:40.429878+00:00",
-  "marca": "Rolex",
-  "titulo": "New Reference Rolex Cosmograph Daytona Platinum 126506 Glacier Watch Box Papers",
-  "total": 117487.97,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940089392611",
-  "item_id": "v1|940089392611|0",
-  "referencia": "126506",
-  "mercado": {
-   "n": 7,
-   "p25": 124399,
-   "mediana": 130095
-  },
-  "ratio_mercado": 0.944,
-  "motivo": "precio normal (94 % del cuartil bajo de 126506)"
- },
- {
-  "fecha": "2026-11-13T16:35:40.429878+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Explorer 224270 40mm Black Stainless Steel 3-6-9 Oyster Smooth Watch",
-  "total": 9062.55,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960191404416",
-  "item_id": "v1|960191404416|0",
-  "referencia": "224270",
-  "mercado": {
-   "n": 19,
-   "p25": 9581,
-   "mediana": 9930
-  },
-  "ratio_mercado": 0.946,
-  "motivo": "precio normal (95 % del cuartil bajo de 224270)"
- },
- {
-  "fecha": "2026-11-13T16:50:40.027010+00:00",
-  "marca": "Rolex",
-  "titulo": "1980 Rolex Datejust 36mm Yellow Gold 16018",
-  "total": 69995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880112798181",
-  "item_id": "v1|880112798181|0",
-  "referencia": "16018",
-  "mercado": {
-   "n": 7,
-   "p25": 15995,
-   "mediana": 18550
-  },
-  "ratio_mercado": 4.376,
-  "motivo": "precio normal (438 % del cuartil bajo de 16018)"
- },
- {
   "fecha": "2026-11-13T16:50:40.027010+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Sky-Dweller 326934 42mm Blue Dial, Jubilee Bracelet 2021",
@@ -11009,5 +10941,79 @@
    "nota": "Precio pedido de US$12,500 está bastante por encima del valor de venta real para un 7928 de 1964 con servicio, sin confirmar caja ni papeles; la imagen no permite verificar dial ni autenticidad."
   },
   "motivo": "triage: Precio pedido de US$12,500 está bastante por encima del valor de venta real para un 7928 de 1964 con servicio, sin confirmar caja ni papeles; la imagen no permite verificar dial ni autenticidad. (justo 9500)"
+ },
+ {
+  "fecha": "2026-11-16T23:08:07.043912+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex James cameron 116660 / 44mm / Watch Only",
+  "total": 10685.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227617702868",
+  "item_id": "v1|227617702868|0",
+  "referencia": "116660",
+  "mercado": {
+   "n": 42,
+   "p25": 10795,
+   "mediana": 12474
+  },
+  "ratio_mercado": 0.99,
+  "motivo": "precio normal (99 % del cuartil bajo de 116660)"
+ },
+ {
+  "fecha": "2026-11-16T23:08:07.043912+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Complete Set Slate Gray / Dark Rhodium Rolex Yacht-Master 40 126622",
+  "total": 15250.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960205171607",
+  "item_id": "v1|960205171607|0",
+  "referencia": "126622",
+  "mercado": {
+   "n": 22,
+   "p25": 14975,
+   "mediana": 15992
+  },
+  "ratio_mercado": 1.018,
+  "motivo": "precio normal (102 % del cuartil bajo de 126622)"
+ },
+ {
+  "fecha": "2026-11-16T23:08:07.043912+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Louis 18kt Yellow Gold Ladies Watch W1529856",
+  "total": 15393.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840135998904",
+  "item_id": "v1|840135998904|0",
+  "referencia": "W1529856",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Tank Louis Cartier (talla pequeña/mediana, cuarzo, oro amarillo 18k, esfera plateada, correa de cocodrilo marrón)",
+   "referencia": "W1529856",
+   "precio_justo_usd": 12500,
+   "interesante": false,
+   "nota": "Precio pedido de US$15.393 está por encima del valor de mercado gris para este modelo nuevo con caja y papeles; no cumple el umbral de 15 % por debajo."
+  },
+  "motivo": "triage: Precio pedido de US$15.393 está por encima del valor de mercado gris para este modelo nuevo con caja y papeles; no cumple el umbral de 15 % por debajo. (justo 12500)"
+ },
+ {
+  "fecha": "2026-11-16T23:08:07.043912+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 79360",
+  "total": 4259.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307285980742",
+  "item_id": "v1|307285980742|0",
+  "referencia": "79360",
+  "mercado": {
+   "n": 85,
+   "p25": 5000,
+   "mediana": 5500
+  },
+  "ratio_mercado": 0.852,
+  "motivo": "precio normal (85 % del cuartil bajo de 79360)"
  }
 ]
