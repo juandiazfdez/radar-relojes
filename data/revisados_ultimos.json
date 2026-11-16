@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-12T19:35:06.103659+00:00",
   "marca": "Rolex",
-  "titulo": "2001 Rolex Datejust 79173 Champagne Diamond Two-Tone 18K Jubilee 26mm Box Papers",
-  "total": 7643.34,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307279468027",
-  "item_id": "v1|307279468027|0",
-  "triage": {
-   "modelo": "Rolex Datejust 26 mm, acero y oro amarillo 18K, bisel acanalado, esfera champán con diamantes, brazalete Jubilee",
-   "referencia": "79173",
-   "precio_justo_usd": 6800,
-   "interesante": false,
-   "nota": "Referencia 79173 (aprox. 2001), con caja y papeles y estado excelente; el precio pedido de US$7643 supera la venta cerrada habitual para esta configuración."
-  },
-  "motivo": "triage: Referencia 79173 (aprox. 2001), con caja y papeles y estado excelente; el precio pedido de US$7643 supera la venta cerrada habitual para esta configuración. (justo 6800)"
- },
- {
-  "fecha": "2026-11-12T19:35:06.103659+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex DateJust 41 126334 Blue Stainless Steel 18K Gold Fluted Jubilee 41mm Watch",
   "total": 13763.18,
   "condicion": "Pre-owned - Excellent",
@@ -11055,5 +11038,22 @@
    "nota": "El título de '$14,000' es un ancla de precio de tienda sin base. Con esfera de diamantes probablemente no original, el valor de reventa es menor que el de una OP 31 estándar. El precio de US$3,959 no está 15 % o más por debajo del mercado y conviene verificar la esfera y el movimiento antes de comprar."
   },
   "motivo": "triage: El título de '$14,000' es un ancla de precio de tienda sin base. Con esfera de diamantes probablemente no original, el valor de reventa es menor que el de una OP 31 estándar. El precio de US$3,959 no está 15 % o más por debajo del mercado y conviene verificar la esfera y el movimiento antes de comprar. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-16T03:07:26.102800+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Solo XL Automatic Stainless Steel  Ref. 3515",
+  "total": 3550.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820359489301",
+  "item_id": "v1|820359489301|0",
+  "referencia": "3515",
+  "mercado": {
+   "n": 5,
+   "p25": 3550,
+   "mediana": 3688
+  },
+  "ratio_mercado": 1.0,
+  "motivo": "precio normal (100 % del cuartil bajo de 3515)"
  }
 ]
