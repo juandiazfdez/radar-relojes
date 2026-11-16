@@ -1,159 +1,5 @@
 [
  {
-  "fecha": "2026-11-13T15:50:40.289956+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 278243 Datejust 18K/SS with Olive Diamond Floral Motif on Oyster",
-  "total": 18425.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920139556218",
-  "item_id": "v1|920139556218|0",
-  "referencia": "278243",
-  "mercado": {
-   "n": 2,
-   "p25": 16840,
-   "mediana": 17420
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 31 bicolor acero/oro amarillo, bisel liso, esfera verde oliva con motivo floral",
-   "referencia": "278243",
-   "precio_justo_usd": 14000,
-   "interesante": false,
-   "nota": "El precio pedido supera el valor estimado de venta cerrada para esta variante de esfera floral; no hay descuento claro."
-  },
-  "motivo": "triage: El precio pedido supera el valor estimado de venta cerrada para esta variante de esfera floral; no hay descuento claro. (justo 14000)"
- },
- {
-  "fecha": "2026-11-13T15:50:40.289956+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust \"1988\" 16013",
-  "total": 8633.44,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237180998381",
-  "item_id": "v1|237180998381|0",
-  "referencia": "16013",
-  "mercado": {
-   "n": 21,
-   "p25": 3859,
-   "mediana": 4700
-  },
-  "ratio_mercado": 2.237,
-  "motivo": "precio normal (224 % del cuartil bajo de 16013)"
- },
- {
-  "fecha": "2026-11-13T15:50:40.289956+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Solo W5200013 3170 24mm Small Silver Steel Ladies Watch Box Papers",
-  "total": 3425.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257850813993",
-  "item_id": "v1|257850813993|0",
-  "referencia": "W5200013",
-  "mercado": {
-   "n": 5,
-   "p25": 3350,
-   "mediana": 3599
-  },
-  "ratio_mercado": 1.022,
-  "motivo": "precio normal (102 % del cuartil bajo de W5200013)"
- },
- {
-  "fecha": "2026-11-13T15:50:40.289956+00:00",
-  "marca": "Cartier",
-  "titulo": "2000 Cartier W20018D6 ref.1564 Santos Galbe LM 29mm Steel Beige Quartz Watch",
-  "total": 5488.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407360618038",
-  "item_id": "v1|407360618038|0",
-  "referencia": "1564",
-  "mercado": {
-   "n": 2,
-   "p25": 4900,
-   "mediana": 5442
-  },
-  "triage": {
-   "modelo": "Cartier Santos Galbée LM (cuarzo, acero, esfera crema)",
-   "referencia": "W20018D6 (ref. 1564 según título)",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Modelo de cuarzo de acero de los 2000, con precio pedido de US$5488 muy por encima de lo que se vende realmente; el título mezcla dos referencias."
-  },
-  "motivo": "triage: Modelo de cuarzo de acero de los 2000, con precio pedido de US$5488 muy por encima de lo que se vende realmente; el título mezcla dos referencias. (justo 3000)"
- },
- {
-  "fecha": "2026-11-13T15:50:40.289956+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier 39.8mm Santos Two-Tone Yellow 4072 W2SA000 - 2021 Card",
-  "total": 12330.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287727316887",
-  "item_id": "v1|287727316887|0",
-  "triage": {
-   "modelo": "Cartier Santos de Cartier Large (39.8 mm) acero y oro amarillo, esfera plateada con números romanos",
-   "referencia": "W2SA0006 (probable, el título está truncado)",
-   "precio_justo_usd": 7500,
-   "interesante": false,
-   "nota": "Precio pedido de US$12,330 muy por encima del valor de venta real de un LM bicolor de 2021 usado, aunque tenga papeles."
-  },
-  "motivo": "triage: Precio pedido de US$12,330 muy por encima del valor de venta real de un LM bicolor de 2021 usado, aunque tenga papeles. (justo 7500)"
- },
- {
-  "fecha": "2026-11-13T15:50:40.289956+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier 49mm x 43mm Roadster XL Chrono Steel Automatic W62020X6 2618 - No Papers",
-  "total": 6160.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287727311514",
-  "item_id": "v1|287727311514|0",
-  "referencia": "2618",
-  "mercado": {
-   "n": 13,
-   "p25": 5289,
-   "mediana": 5950
-  },
-  "ratio_mercado": 1.165,
-  "motivo": "precio normal (116 % del cuartil bajo de 2618)"
- },
- {
-  "fecha": "2026-11-13T15:50:40.289956+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier 25mm x 29mm Tank Francaise Steel W51003Q3 White Roman - No Papers",
-  "total": 3920.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287727283762",
-  "item_id": "v1|287727283762|0",
-  "triage": {
-   "modelo": "Cartier Tank Française de acero, cuarzo, esfera blanca con números romanos",
-   "referencia": "W51003Q3",
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de venta de un Tank Française de acero de cuarzo usado sin papeles; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de venta de un Tank Française de acero de cuarzo usado sin papeles; no es una oportunidad. (justo 2300)"
- },
- {
-  "fecha": "2026-11-13T15:50:40.289956+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor 1926 28mm Stainless Steel M91350-0001",
-  "total": 1895.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880112573212",
-  "item_id": "v1|880112573212|0",
-  "referencia": "M91350-0001",
-  "mercado": {
-   "n": 1,
-   "p25": 1895,
-   "mediana": 1895
-  },
-  "triage": {
-   "modelo": "Tudor 1926 28mm acero, esfera plateada, brazalete de eslabones",
-   "referencia": "M91350-0001",
-   "precio_justo_usd": 2500,
-   "interesante": false,
-   "nota": "Precio pedido ~25% bajo el valor de mercado para nuevo con caja y papeles, y casi 40% bajo retail. Un descuento tan grande en un modelo nuevo es señal de alerta: verificar autenticidad, numeración de serie y papeles antes de comprar."
-  },
-  "motivo": "triage: Precio pedido ~25% bajo el valor de mercado para nuevo con caja y papeles, y casi 40% bajo retail. Un descuento tan grande en un modelo nuevo es señal de alerta: verificar autenticidad, numeración de serie y papeles antes de comprar. (justo 2500)"
- },
- {
   "fecha": "2026-11-13T16:05:40.110899+00:00",
   "marca": "Rolex",
   "titulo": "2021 Rolex GMT-Master II 126710 BLNR Batgirl Blue Steel Jubilee 40mm Box Papers",
@@ -11013,5 +10859,147 @@
   },
   "ratio_mercado": 1.037,
   "motivo": "precio normal (104 % del cuartil bajo de 79230N)"
+ },
+ {
+  "fecha": "2026-11-16T22:23:06.815782+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Rolex Day-Date 40 40mm Rose Gold 228345RBR-0011",
+  "total": 67995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880124201119",
+  "item_id": "v1|880124201119|0",
+  "referencia": "228345RBR",
+  "mercado": {
+   "n": 8,
+   "p25": 74500,
+   "mediana": 75475
+  },
+  "ratio_mercado": 0.913,
+  "motivo": "precio normal (91 % del cuartil bajo de 228345RBR)"
+ },
+ {
+  "fecha": "2026-11-16T22:23:06.815782+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex GMT-Master II 126713GRNR “Zombie” – Brand New / Unworn – Full Set",
+  "total": 22650.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/920150242435",
+  "item_id": "v1|920150242435|0",
+  "referencia": "126713GRNR",
+  "mercado": {
+   "n": 24,
+   "p25": 23995,
+   "mediana": 24942
+  },
+  "ratio_mercado": 0.944,
+  "motivo": "precio normal (94 % del cuartil bajo de 126713GRNR)"
+ },
+ {
+  "fecha": "2026-11-16T22:23:06.815782+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Cosmograph Daytona (126508-0008)",
+  "total": 85999.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/147683768674",
+  "item_id": "v1|147683768674|0",
+  "referencia": "126508",
+  "mercado": {
+   "n": 13,
+   "p25": 83822,
+   "mediana": 87400
+  },
+  "ratio_mercado": 1.026,
+  "motivo": "precio normal (103 % del cuartil bajo de 126508)"
+ },
+ {
+  "fecha": "2026-11-16T22:23:06.815782+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise Yellow Gold Diamond Ladies Watch WE1001R8 Box Papers",
+  "total": 25030.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336900830523",
+  "item_id": "v1|336900830523|0",
+  "triage": {
+   "modelo": "Cartier Tank Française señora, oro amarillo 18k con bisel de diamantes, esfera plateada con números romanos",
+   "referencia": "WE1001R8 (según el título; no verificable en la imagen)",
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "El precio pedido de US$25,030 supera con creces lo que este modelo de oro amarillo con diamantes se vende realmente en el mercado secundario, aunque tenga caja y papeles."
+  },
+  "motivo": "triage: El precio pedido de US$25,030 supera con creces lo que este modelo de oro amarillo con diamantes se vende realmente en el mercado secundario, aunque tenga caja y papeles. (justo 14000)"
+ },
+ {
+  "fecha": "2026-11-16T22:23:06.815782+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Galbee Quartz 24mm Stainless Steel Ladies Watch W20056D6",
+  "total": 4000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128199160754",
+  "item_id": "v1|128199160754|0",
+  "triage": {
+   "modelo": "Cartier Santos Galbée Quartz 24 mm, acero, dama",
+   "referencia": "W20056D6",
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "Precio pedido de US$4000 con envío, sin descuento claro frente al valor de venta de este modelo en condición Good; no cumple el umbral del 15 %."
+  },
+  "motivo": "triage: Precio pedido de US$4000 con envío, sin descuento claro frente al valor de venta de este modelo en condición Good; no cumple el umbral del 15 %. (justo 3900)"
+ },
+ {
+  "fecha": "2026-11-16T22:23:06.815782+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Française Chronoflex 28mm Watch 18K Yellow Gold & Steel 2303",
+  "total": 5885.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336900813946",
+  "item_id": "v1|336900813946|0",
+  "referencia": "2303",
+  "mercado": {
+   "n": 30,
+   "p25": 3850,
+   "mediana": 4100
+  },
+  "ratio_mercado": 1.529,
+  "motivo": "precio normal (153 % del cuartil bajo de 2303)"
+ },
+ {
+  "fecha": "2026-11-16T22:23:06.815782+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster S LM 3312 Automatic Steel 40mm Watch - Cartier Serviced",
+  "total": 3400.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137937251599",
+  "item_id": "v1|137937251599|0",
+  "referencia": "3312",
+  "mercado": {
+   "n": 3,
+   "p25": 3545,
+   "mediana": 5054
+  },
+  "triage": {
+   "modelo": "Cartier Roadster S, acero 40 mm, automático (con caja y estuche rojo)",
+   "referencia": null,
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "La referencia 'LM 3312' del título no es verificable en la foto; el precio pedido está aproximadamente 13 % bajo el valor estimado, sin llegar al umbral del 15 %."
+  },
+  "motivo": "triage: La referencia 'LM 3312' del título no es verificable en la foto; el precio pedido está aproximadamente 13 % bajo el valor estimado, sin llegar al umbral del 15 %. (justo 3900)"
+ },
+ {
+  "fecha": "2026-11-16T22:23:06.815782+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Monarch 2639W1A0U Stainless Steel 39.0mm Box and Papers 8/2026",
+  "total": 6575.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940097915682",
+  "item_id": "v1|940097915682|0",
+  "triage": {
+   "modelo": "Tudor Monarch (esfera champán, acero, subesfera de segundos)",
+   "referencia": "2639W1A0U (según título, no verificable en la imagen)",
+   "precio_justo_usd": 4200,
+   "interesante": false,
+   "nota": "El precio pedido de US$6575 supera con creces el valor de mercado de este Tudor de acero, incluso con caja y papeles; no es una oportunidad."
+  },
+  "motivo": "triage: El precio pedido de US$6575 supera con creces el valor de mercado de este Tudor de acero, incluso con caja y papeles; no es una oportunidad. (justo 4200)"
  }
 ]
