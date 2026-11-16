@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-13T16:50:40.027010+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Sky-Dweller 326934 42mm Blue Dial, Jubilee Bracelet 2021",
-  "total": 23999.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/117519409831",
-  "item_id": "v1|117519409831|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller 42mm, acero Oystersteel con bisel estriado en oro blanco, esfera azul y brazalete Jubilee",
-   "referencia": "326934",
-   "precio_justo_usd": 25000,
-   "interesante": false,
-   "nota": "Precio cercano al mercado secundario para esta referencia; el descuento es menor al 15 %."
-  },
-  "motivo": "triage: Precio cercano al mercado secundario para esta referencia; el descuento es menor al 15 %. (justo 25000)"
- },
- {
-  "fecha": "2026-11-13T16:50:40.027010+00:00",
-  "marca": "Rolex",
-  "titulo": "Random Rolex Submariner Date 40mm Black Engraved Rehaut Stainless Steel 16610T",
-  "total": 10599.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920139674561",
-  "item_id": "v1|920139674561|0",
-  "referencia": "16610T",
-  "mercado": {
-   "n": 10,
-   "p25": 10914,
-   "mediana": 11060
-  },
-  "ratio_mercado": 0.971,
-  "motivo": "precio normal (97 % del cuartil bajo de 16610T)"
- },
- {
-  "fecha": "2026-11-13T16:50:40.027010+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Submariner Date 18k Yellow Gold/Steel Ceramic Blue 41mm Watch '20+ 126613",
   "total": 19695.0,
   "condicion": "Pre-owned - Good",
@@ -11015,5 +10981,39 @@
   },
   "ratio_mercado": 0.852,
   "motivo": "precio normal (85 % del cuartil bajo de 79360)"
+ },
+ {
+  "fecha": "2026-11-16T23:23:07.220651+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Cosmograph Daytona 126508 \"John Mayer\"",
+  "total": 85000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880124342352",
+  "item_id": "v1|880124342352|0",
+  "referencia": "126508",
+  "mercado": {
+   "n": 10,
+   "p25": 68677,
+   "mediana": 76282
+  },
+  "ratio_mercado": 1.238,
+  "motivo": "precio normal (124 % del cuartil bajo de 126508)"
+ },
+ {
+  "fecha": "2026-11-16T23:23:07.220651+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oysterdate Precision Stainless Steel Watch 6694",
+  "total": 4000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407368111650",
+  "item_id": "v1|407368111650|0",
+  "referencia": "6694",
+  "mercado": {
+   "n": 13,
+   "p25": 3250,
+   "mediana": 3950
+  },
+  "ratio_mercado": 1.231,
+  "motivo": "precio normal (123 % del cuartil bajo de 6694)"
  }
 ]
