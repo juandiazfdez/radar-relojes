@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-11-12T23:20:05.730220+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 TUDOR Ranger 39mm M79950-0001 Box & Papers",
-  "total": 3150.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147678078685",
-  "item_id": "v1|147678078685|0",
-  "referencia": "M79950-0001",
-  "mercado": {
-   "n": 4,
-   "p25": 3594,
-   "mediana": 3822
-  },
-  "triage": {
-   "modelo": "Tudor Ranger 39mm, acero, esfera negra con numerales luminosos",
-   "referencia": "M79950-0001",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Precio pedido casi igual al justo estimado para una pieza reciente con caja y papeles; no hay descuento de al menos 15 %."
-  },
-  "motivo": "triage: Precio pedido casi igual al justo estimado para una pieza reciente con caja y papeles; no hay descuento de al menos 15 %. (justo 3200)"
- },
- {
   "fecha": "2026-11-12T23:35:05.973161+00:00",
   "marca": "Rolex",
   "titulo": "2023 Rolex Datejust 41mm 126334 - Black - Fluted - Oyster - Full Set Watch",
@@ -11067,5 +11044,22 @@
    "nota": "Precio pedido de US$5,250 está muy por encima del valor de venta real (aprox. US$2,800-3,400 con caja y papeles); no es una oportunidad."
   },
   "motivo": "triage: Precio pedido de US$5,250 está muy por encima del valor de venta real (aprox. US$2,800-3,400 con caja y papeles); no es una oportunidad. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-16T18:52:57.295583+00:00",
+  "marca": "Rolex",
+  "titulo": "2021 PAPERS Rolex Oyster Perpetual Date Steel BLUE Smooth 34mm 115200 Watch BOX",
+  "total": 7275.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198800506867",
+  "item_id": "v1|198800506867|0",
+  "referencia": "115200",
+  "mercado": {
+   "n": 7,
+   "p25": 6200,
+   "mediana": 6900
+  },
+  "ratio_mercado": 1.173,
+  "motivo": "precio normal (117 % del cuartil bajo de 115200)"
  }
 ]
