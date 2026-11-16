@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-12T19:35:06.103659+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex DateJust 41 126334 Blue Stainless Steel 18K Gold Fluted Jubilee 41mm Watch",
-  "total": 13763.18,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900086257758",
-  "item_id": "v1|900086257758|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 (acero y oro blanco, bisel acanalado, esfera azul, brazalete Jubilee)",
-   "referencia": "126334",
-   "precio_justo_usd": 13500,
-   "interesante": false,
-   "nota": "Referencia actual correcta; el precio pedido está en línea con el mercado secundario y no tiene un descuento de al menos 15 %."
-  },
-  "motivo": "triage: Referencia actual correcta; el precio pedido está en línea con el mercado secundario y no tiene un descuento de al menos 15 %. (justo 13500)"
- },
- {
-  "fecha": "2026-11-12T19:35:06.103659+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust 31, Blue Diamond Dial, Steel & White Gold, 78274",
   "total": 9777.0,
   "condicion": "Seller refurbished",
@@ -11055,5 +11032,28 @@
   },
   "ratio_mercado": 1.0,
   "motivo": "precio normal (100 % del cuartil bajo de 3515)"
+ },
+ {
+  "fecha": "2026-11-16T03:37:35.746643+00:00",
+  "marca": "Rolex",
+  "titulo": "2023 Rolex Datejust 41 Jubilee 126334 Slate Wimbledon 18k Gold Steel Box Paper",
+  "total": 16995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206655974508",
+  "item_id": "v1|206655974508|0",
+  "referencia": "126334",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 41 Jubilee, acero y oro blanco, esfera slate Wimbledon",
+   "referencia": "126334",
+   "precio_justo_usd": 14500,
+   "interesante": false,
+   "nota": "Precio pedido por encima del mercado secundario para un 126334 de 2023 con caja y papeles; el título menciona oro 18k, pero el bisel de la foto parece de oro blanco."
+  },
+  "motivo": "triage: Precio pedido por encima del mercado secundario para un 126334 de 2023 con caja y papeles; el título menciona oro 18k, pero el bisel de la foto parece de oro blanco. (justo 14500)"
  }
 ]
