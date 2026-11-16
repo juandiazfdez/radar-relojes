@@ -1,79 +1,5 @@
 [
  {
-  "fecha": "2026-11-12T19:20:05.757152+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX GMT-Master II Bruce Wayne 126710GRNR 40mm Ceramic Stainless Jubilee Watch",
-  "total": 24500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366805460826",
-  "item_id": "v1|366805460826|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 97,
-   "p25": 22350,
-   "mediana": 23498
-  },
-  "ratio_mercado": 1.096,
-  "motivo": "precio normal (110 % del cuartil bajo de 126710GRNR)"
- },
- {
-  "fecha": "2026-11-12T19:20:05.757152+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Prince Oysterdate 74000",
-  "total": 2200.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/227611579252",
-  "item_id": "v1|227611579252|0",
-  "referencia": "74000",
-  "mercado": {
-   "n": 7,
-   "p25": 1730,
-   "mediana": 2000
-  },
-  "ratio_mercado": 1.272,
-  "motivo": "precio normal (127 % del cuartil bajo de 74000)"
- },
- {
-  "fecha": "2026-11-12T19:35:06.103659+00:00",
-  "marca": "Rolex",
-  "titulo": "2025 Rolex GMT-Master II 126710 BLRO Pepsi Red Blue 40mm Oyster Box Papers",
-  "total": 26513.39,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900086276573",
-  "item_id": "v1|900086276573|0",
-  "referencia": "126710",
-  "mercado": {
-   "n": 27,
-   "p25": 17249,
-   "mediana": 17985
-  },
-  "ratio_mercado": 1.537,
-  "motivo": "precio normal (154 % del cuartil bajo de 126710)"
- },
- {
-  "fecha": "2026-11-12T19:35:06.103659+00:00",
-  "marca": "Rolex",
-  "titulo": "NOS 2023 Stickered Rolex Yacht-Master 268622 Rhodium 37mm Steel Blue Box Papers",
-  "total": 14273.18,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/307279472617",
-  "item_id": "v1|307279472617|0",
-  "referencia": "268622",
-  "mercado": {
-   "n": 1,
-   "p25": 15604,
-   "mediana": 15604
-  },
-  "triage": {
-   "modelo": "Rolex Yacht-Master 37 (acero y oro blanco, bisel de oro blanco, esfera gris rodio)",
-   "referencia": "268622",
-   "precio_justo_usd": 14500,
-   "interesante": false,
-   "nota": "Modelo de producción actual con sticker NOS, caja y papeles. El precio pedido está cerca del valor de mercado secundario, sin descuento de al menos 15 %."
-  },
-  "motivo": "triage: Modelo de producción actual con sticker NOS, caja y papeles. El precio pedido está cerca del valor de mercado secundario, sin descuento de al menos 15 %. (justo 14500)"
- },
- {
   "fecha": "2026-11-12T19:35:06.103659+00:00",
   "marca": "Rolex",
   "titulo": "2001 Rolex Datejust 79173 Champagne Diamond Two-Tone 18K Jubilee 26mm Box Papers",
@@ -11061,5 +10987,73 @@
    "nota": "Precio 12 % bajo mi estimación; la esfera con piedras puede ser personalizada o reemplazada, lo que baja el valor. Verificar originalidad de la esfera, número de serie y estado antes de comprar."
   },
   "motivo": "triage: Precio 12 % bajo mi estimación; la esfera con piedras puede ser personalizada o reemplazada, lo que baja el valor. Verificar originalidad de la esfera, número de serie y estado antes de comprar. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-16T02:52:26.501866+00:00",
+  "marca": "Rolex",
+  "titulo": "$9000 ROLEX Oyster Perpetual PINK MOP Diamond 18k Yellow Gold SS Ladies Watch",
+  "total": 2959.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237185230477",
+  "item_id": "v1|237185230477|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 mm, acero y oro amarillo de 18k, bisel acanalado, esfera rosa nácar (posible diamante)",
+   "referencia": "null",
+   "precio_justo_usd": 4200,
+   "interesante": false,
+   "nota": "El título dice Oyster Perpetual, pero el bisel acanalado sugiere Datejust. El '$9000' es un precio de tienda inflado y la condición 'Good' no aclara caja ni papeles. A ese precio, la posibilidad de réplica o pieza es alta; verificar en persona antes de comprar."
+  },
+  "motivo": "triage: El título dice Oyster Perpetual, pero el bisel acanalado sugiere Datejust. El '$9000' es un precio de tienda inflado y la condición 'Good' no aclara caja ni papeles. A ese precio, la posibilidad de réplica o pieza es alta; verificar en persona antes de comprar. (justo 4200)"
+ },
+ {
+  "fecha": "2026-11-16T02:52:26.501866+00:00",
+  "marca": "Rolex",
+  "titulo": "$10,000 ROLEX DATEJUST BLUE Tiffany & Co Diamond 18k Yellow Gold SS Ladies Watch",
+  "total": 3459.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237185231047",
+  "item_id": "v1|237185231047|0",
+  "triage": {
+   "modelo": "Rolex Datejust 26 mm para mujer, acero y oro amarillo de 18k, esfera turquesa/azul tipo Tiffany",
+   "referencia": "179173 (probable; no verificable con la imagen)",
+   "precio_justo_usd": 6000,
+   "interesante": false,
+   "nota": "El precio está ~40 % bajo el mercado, pero las esferas Tiffany se falsifican y cambian, y el título usa un '$10,000' engañoso. Verificar número de serie, movimiento y papeles antes de considerarlo."
+  },
+  "motivo": "triage: El precio está ~40 % bajo el mercado, pero las esferas Tiffany se falsifican y cambian, y el título usa un '$10,000' engañoso. Verificar número de serie, movimiento y papeles antes de considerarlo. (justo 6000)"
+ },
+ {
+  "fecha": "2026-11-16T02:52:26.501866+00:00",
+  "marca": "Rolex",
+  "titulo": "$9000 Rolex Datejust Pink MOP Diamond 18k Yellow Gold SS Ladies Watch SERVICED",
+  "total": 3659.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237185230738",
+  "item_id": "v1|237185230738|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 mm en acero y oro amarillo de 18k, bisel acanalado, esfera de madreperla rosa con marcadores de diamante, brazalete Oyster",
+   "referencia": "69173 o 179173 (no se distingue con seguridad en la foto)",
+   "precio_justo_usd": 5500,
+   "interesante": false,
+   "nota": "Precio 33 % bajo el estimado, pero el titulo dice \"$9000\" y la esfera o los diamantes podrian ser replacement o imitacion. Verificar autenticidad, esfera, numero de serie y certificado de servicio antes de comprar."
+  },
+  "motivo": "triage: Precio 33 % bajo el estimado, pero el titulo dice \"$9000\" y la esfera o los diamantes podrian ser replacement o imitacion. Verificar autenticidad, esfera, numero de serie y certificado de servicio antes de comprar. (justo 5500)"
+ },
+ {
+  "fecha": "2026-11-16T02:52:26.501866+00:00",
+  "marca": "Rolex",
+  "titulo": "$14,000 ROLEX 31mm Oyster Perpetual Blue MOP Diamond SS Ladies Watch SERVICED",
+  "total": 3959.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407365912732",
+  "item_id": "v1|407365912732|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Lady 31 mm, acero, esfera azul de madre perla con marcadores de diamante (posible esfera personalizada o no original)",
+   "referencia": "null (probablemente 67180/67190 u otra Oyster Perpetual 31 mm de los años 90-2000; no verificable en la foto)",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "El título de '$14,000' es un ancla de precio de tienda sin base. Con esfera de diamantes probablemente no original, el valor de reventa es menor que el de una OP 31 estándar. El precio de US$3,959 no está 15 % o más por debajo del mercado y conviene verificar la esfera y el movimiento antes de comprar."
+  },
+  "motivo": "triage: El título de '$14,000' es un ancla de precio de tienda sin base. Con esfera de diamantes probablemente no original, el valor de reventa es menor que el de una OP 31 estándar. El precio de US$3,959 no está 15 % o más por debajo del mercado y conviene verificar la esfera y el movimiento antes de comprar. (justo 3500)"
  }
 ]
