@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-12T22:05:06.152489+00:00",
   "marca": "Tudor",
-  "titulo": "Tudor Black Bay 54 Lagoon Blue 79000 37mm 2025 Full Set Warranty 2030",
-  "total": 5400.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920136588530",
-  "item_id": "v1|920136588530|0",
-  "referencia": "79000",
-  "mercado": {
-   "n": 24,
-   "p25": 4253,
-   "mediana": 5395
-  },
-  "ratio_mercado": 1.27,
-  "motivo": "precio normal (127 % del cuartil bajo de 79000)"
- },
- {
-  "fecha": "2026-11-12T22:05:06.152489+00:00",
-  "marca": "Tudor",
   "titulo": "2026 Tudor Black Bay 54 37mm Stainless Steel 79000N Warranty until 2031!",
   "total": 4092.0,
   "condicion": "Pre-owned - Excellent",
@@ -11061,5 +11044,28 @@
    "nota": "Producción actual con caja y papeles; el precio pedido de US$4650 supera el retail y el mercado secundario suele estar 15-25 % por debajo."
   },
   "motivo": "triage: Producción actual con caja y papeles; el precio pedido de US$4650 supera el retail y el mercado secundario suele estar 15-25 % por debajo. (justo 3400)"
+ },
+ {
+  "fecha": "2026-11-16T17:37:56.672432+00:00",
+  "marca": "Cartier",
+  "titulo": "CARTIER TANK MUST Photovoltaic Solarbeat WSTA0060 29x22mm Stainless Steel Watch",
+  "total": 4129.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128198807564",
+  "item_id": "v1|128198807564|0",
+  "referencia": "WSTA0060",
+  "mercado": {
+   "n": 3,
+   "p25": 3400,
+   "mediana": 3400
+  },
+  "triage": {
+   "modelo": "Cartier Tank Must Solarbeat (fotovoltaico), acero, correa de piel negra",
+   "referencia": "WSTA0060 (según título, no verificable en la foto)",
+   "precio_justo_usd": 1300,
+   "interesante": false,
+   "nota": "Precio pedido de US$4129 muy por encima del mercado de usado excelente, aunque incluya envío; la referencia se vende muy por debajo de ese nivel."
+  },
+  "motivo": "triage: Precio pedido de US$4129 muy por encima del mercado de usado excelente, aunque incluya envío; la referencia se vende muy por debajo de ese nivel. (justo 1300)"
  }
 ]
