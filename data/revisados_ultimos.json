@@ -1,29 +1,6 @@
 [
  {
   "fecha": "2026-11-12T20:20:06.450247+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise Medium 2465 Quartz Steel Date Watch 25mm",
-  "total": 2708.43,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820347764458",
-  "item_id": "v1|820347764458|0",
-  "referencia": "2465, W51011Q3",
-  "mercado": {
-   "n": 31,
-   "p25": 3514,
-   "mediana": 3700
-  },
-  "ratio_mercado": 0.771,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 2350,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado con rayones visibles en caja y brazalete, solo reloj, sin caja ni papeles"
-  },
-  "motivo": "Claude descarto: Las fotos son reales y propias, no de catálogo. La esfera blanca, los números romanos, la firma CARTIER, 'SWISS MADE', las manecillas azules y el cabujón azul en la corona son coherentes con una 2465 auténtica. No veo señales claras de réplica, pero las fotos no bastan para confirmar autenticidad.; Faltan fotos del fondo de caja, con el número de serie y el grabado de la referencia. Tampoco hay fotos del cierre desplegable ni del movimiento. Sin ellas no puedo confirmar autenticidad ni que el brazalete y el cierre sean originales. En las fotos el brazalete parece abierto, sin el cierre visible."
- },
- {
-  "fecha": "2026-11-12T20:20:06.450247+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR Black Bay 58 39mm Burgundy Automatic Steel Bracelet",
   "total": 5300.0,
@@ -11055,5 +11032,22 @@
    "nota": "Precio pedido muy por encima del mercado para un Explorer 36 mm de acero con esfera negra en excelente estado; la referencia no se distingue con certeza en la foto."
   },
   "motivo": "triage: Precio pedido muy por encima del mercado para un Explorer 36 mm de acero con esfera negra en excelente estado; la referencia no se distingue con certeza en la foto. (justo 7000)"
+ },
+ {
+  "fecha": "2026-11-16T06:07:36.142353+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41mm 126333 On Jubilee Two Tone 2021",
+  "total": 16499.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147682697822",
+  "item_id": "v1|147682697822|0",
+  "referencia": "126333",
+  "mercado": {
+   "n": 34,
+   "p25": 14468,
+   "mediana": 14978
+  },
+  "ratio_mercado": 1.14,
+  "motivo": "precio normal (114 % del cuartil bajo de 126333)"
  }
 ]
