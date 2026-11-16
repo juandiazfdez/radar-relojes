@@ -1,80 +1,5 @@
 [
  {
-  "fecha": "2026-11-12T20:35:06.670417+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Heritage Black Bay Blue 79230B Automatic Men's Watch 41mm Steel",
-  "total": 2800.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/336894518247",
-  "item_id": "v1|336894518247|0",
-  "referencia": "79230B",
-  "mercado": {
-   "n": 8,
-   "p25": 3450,
-   "mediana": 3508
-  },
-  "ratio_mercado": 0.812,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 2850,
-   "riesgo_autenticidad": "medio",
-   "estado": "Desgaste visible: rayones y marcas en caja y brazalete, sin pulir, sin caja ni papeles"
-  },
-  "ratio_justo": 0.982,
-  "motivo": "precio normal segun revision (98 % del justo 2850)"
- },
- {
-  "fecha": "2026-11-12T20:35:06.670417+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay 41",
-  "total": 4900.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137925665829",
-  "item_id": "v1|137925665829|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 41 (acero)",
-   "referencia": "M79540 (probable, no verificable en la foto)",
-   "precio_justo_usd": 3600,
-   "interesante": false,
-   "nota": "La foto solo muestra una caja blanca, no el reloj. Pedido de US$4900 está muy por encima de lo que se vende un BB41 de acero usado en excelente estado."
-  },
-  "motivo": "triage: La foto solo muestra una caja blanca, no el reloj. Pedido de US$4900 está muy por encima de lo que se vende un BB41 de acero usado en excelente estado. (justo 3600)"
- },
- {
-  "fecha": "2026-11-12T20:50:06.441350+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Black GMT Master II BatGirl 126710BLNR 40mm - WGACA",
-  "total": 26512.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820347828341",
-  "item_id": "v1|820347828341|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 66,
-   "p25": 18172,
-   "mediana": 18900
-  },
-  "ratio_mercado": 1.459,
-  "motivo": "precio normal (146 % del cuartil bajo de 126710BLNR)"
- },
- {
-  "fecha": "2026-11-12T20:50:06.441350+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 18k Gold Oyster Perpetual Datejust 15238 34mm - WGACA",
-  "total": 21762.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820347828344",
-  "item_id": "v1|820347828344|0",
-  "referencia": "15238",
-  "mercado": {
-   "n": 8,
-   "p25": 15488,
-   "mediana": 18115
-  },
-  "ratio_mercado": 1.405,
-  "motivo": "precio normal (141 % del cuartil bajo de 15238)"
- },
- {
   "fecha": "2026-11-12T20:50:06.441350+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Day Date 36mm 18K Yellow Gold President Double Quickset 18238",
@@ -11067,5 +10992,73 @@
    "nota": "Precio pedido ~10 % bajo el valor estimado de venta cerrada; el margen no llega al 15 %. Verificar autenticidad, papeles y que la referencia coincida."
   },
   "motivo": "triage: Precio pedido ~10 % bajo el valor estimado de venta cerrada; el margen no llega al 15 %. Verificar autenticidad, papeles y que la referencia coincida. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-16T11:52:46.654907+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ronde Solo De Cartier Quartz Yellow Gold And Alligator Watch",
+  "total": 3995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820360967861",
+  "item_id": "v1|820360967861|0",
+  "triage": {
+   "modelo": "Cartier Ronde Solo de Cartier cuarzo, oro rosa (la foto muestra oro rosa, no amarillo como indica el título), correa de piel negra",
+   "referencia": null,
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Precio pedido bastante por encima del valor de venta usado; además el título dice oro amarillo y la foto muestra oro rosa, así que hay que verificar material y referencia."
+  },
+  "motivo": "triage: Precio pedido bastante por encima del valor de venta usado; además el título dice oro amarillo y la foto muestra oro rosa, así que hay que verificar material y referencia. (justo 2300)"
+ },
+ {
+  "fecha": "2026-11-16T11:52:46.654907+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster Automatic Stainless Steel Watch",
+  "total": 3998.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820360967786",
+  "item_id": "v1|820360967786|0",
+  "triage": {
+   "modelo": "Cartier Roadster Automatic (acero, esfera plateada, numerales romanos, ventana de fecha a las 3)",
+   "referencia": "W62041V3 (probable, sin confirmar)",
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "El precio pedido de US$3998 queda por encima de lo que este Roadster de acero se vende realmente en EE. UU. en estado Good, así que no ofrece margen de compra."
+  },
+  "motivo": "triage: El precio pedido de US$3998 queda por encima de lo que este Roadster de acero se vende realmente en EE. UU. en estado Good, así que no ofrece margen de compra. (justo 3600)"
+ },
+ {
+  "fecha": "2026-11-16T11:52:46.654907+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Pelagos Fxd Chronograph Automatic Titanium Watch",
+  "total": 4174.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820360967501",
+  "item_id": "v1|820360967501|0",
+  "triage": {
+   "modelo": "Tudor Pelagos FXD (titanio, esfera negra, correa textil)",
+   "referencia": "M25600TN-0001 (probable, sin confirmar)",
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de reventa estimado. El título dice 'Chronograph', pero el modelo visible parece ser el FXD no cronógrafo; conviene verificar la referencia."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de reventa estimado. El título dice 'Chronograph', pero el modelo visible parece ser el FXD no cronógrafo; conviene verificar la referencia. (justo 3600)"
+ },
+ {
+  "fecha": "2026-11-16T11:52:46.654907+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Heritage Black Bay Automatic Stainless Steel Watch",
+  "total": 4087.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820360967402",
+  "item_id": "v1|820360967402|0",
+  "triage": {
+   "modelo": "Tudor Black Bay (aparenta ser variante GMT/24h, acero, esfera negra; identificación no certera a partir de la foto)",
+   "referencia": null,
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio pedido de US$4087 con envío, por encima del rango de venta cerrada estimado para un Tudor de acero usado en estado Good; la referencia exacta no se puede confirmar con la foto."
+  },
+  "motivo": "triage: Precio pedido de US$4087 con envío, por encima del rango de venta cerrada estimado para un Tudor de acero usado en estado Good; la referencia exacta no se puede confirmar con la foto. (justo 3300)"
  }
 ]
