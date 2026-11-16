@@ -1,69 +1,6 @@
 [
  {
   "fecha": "2026-11-12T19:35:06.103659+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 31, Blue Diamond Dial, Steel & White Gold, 78274",
-  "total": 9777.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/366805525495",
-  "item_id": "v1|366805525495|0",
-  "triage": {
-   "modelo": "Rolex Datejust 31 acero y oro blanco, esfera azul con diamantes, brazalete Jubilee",
-   "referencia": "78274",
-   "precio_justo_usd": 6500,
-   "interesante": false,
-   "nota": "Precio pedido de US$9.777 muy por encima del valor de venta real de esta referencia, aunque sea con esfera de diamantes; además, el 'refurbished' del vendedor no justifica la prima."
-  },
-  "motivo": "triage: Precio pedido de US$9.777 muy por encima del valor de venta real de esta referencia, aunque sea con esfera de diamantes; además, el 'refurbished' del vendedor no justifica la prima. (justo 6500)"
- },
- {
-  "fecha": "2026-11-12T19:35:06.103659+00:00",
-  "marca": "Cartier",
-  "titulo": "2009 Cartier Tank Solo 2742 W1018855 White 18K Quartz Leather 27mm Box Papers",
-  "total": 5909.62,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307279474550",
-  "item_id": "v1|307279474550|0",
-  "referencia": "2742",
-  "mercado": {
-   "n": 2,
-   "p25": 6372,
-   "mediana": 6908
-  },
-  "triage": {
-   "modelo": "Cartier Tank Solo (cuarzo, 27 mm, oro 18K)",
-   "referencia": "2742 / W1018855",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "Precio pedido de US$5.910 muy por encima del valor de venta cerrada de un Tank Solo 2742 de 2009 en oro de 18K con caja y papeles. La foto muestra caja de tono dorado, no blanco como indica el título; conviene verificar el metal."
-  },
-  "motivo": "triage: Precio pedido de US$5.910 muy por encima del valor de venta cerrada de un Tank Solo 2742 de 2009 en oro de 18K con caja y papeles. La foto muestra caja de tono dorado, no blanco como indica el título; conviene verificar el metal. (justo 3800)"
- },
- {
-  "fecha": "2026-11-12T19:35:06.103659+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Americaine19mm Ladies Steel WSTA0016 - 2021",
-  "total": 4295.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/117518044351",
-  "item_id": "v1|117518044351|0",
-  "referencia": "WSTA0016",
-  "mercado": {
-   "n": 2,
-   "p25": 3625,
-   "mediana": 3812
-  },
-  "triage": {
-   "modelo": "Cartier Tank Américaine (modelo pequeño, mujer, acero, correa de cocodrilo negra, esfera plateada con numerales romanos)",
-   "referencia": "WSTA0016",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "Precio pedido de US$4295 por encima del valor de venta cerrada estimado para esta referencia en acero, con 'refurbished' del vendedor, y sin margen de oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$4295 por encima del valor de venta cerrada estimado para esta referencia en acero, con 'refurbished' del vendedor, y sin margen de oportunidad. (justo 3800)"
- },
- {
-  "fecha": "2026-11-12T19:35:06.103659+00:00",
   "marca": "Cartier",
   "titulo": "2021 Cartier Santos 4072 WSSA0018 White Roman Steel 39.8mm Watch Box Papers",
   "total": 7643.33,
@@ -11055,5 +10992,56 @@
    "nota": "Precio pedido por encima del mercado secundario para un 126334 de 2023 con caja y papeles; el título menciona oro 18k, pero el bisel de la foto parece de oro blanco."
   },
   "motivo": "triage: Precio pedido por encima del mercado secundario para un 126334 de 2023 con caja y papeles; el título menciona oro 18k, pero el bisel de la foto parece de oro blanco. (justo 14500)"
+ },
+ {
+  "fecha": "2026-11-16T04:22:35.750836+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41 \"2026 - Two Tone Rose Gold\" 126331",
+  "total": 22692.94,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/336899650750",
+  "item_id": "v1|336899650750|0",
+  "referencia": "126331",
+  "mercado": {
+   "n": 52,
+   "p25": 20195,
+   "mediana": 21950
+  },
+  "ratio_mercado": 1.124,
+  "motivo": "precio normal (112 % del cuartil bajo de 126331)"
+ },
+ {
+  "fecha": "2026-11-16T04:22:35.750836+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36 \"2026 - Blue Roman\" 126234",
+  "total": 13716.49,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/237185337120",
+  "item_id": "v1|237185337120|0",
+  "referencia": "126234",
+  "mercado": {
+   "n": 46,
+   "p25": 14858,
+   "mediana": 15500
+  },
+  "ratio_mercado": 0.923,
+  "motivo": "precio normal (92 % del cuartil bajo de 126234)"
+ },
+ {
+  "fecha": "2026-11-16T04:22:35.750836+00:00",
+  "marca": "Rolex",
+  "titulo": "1966 Year 1601 Rolex Oyster Perpetual two-tone Datejust 36mm",
+  "total": 5000.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/407363971964",
+  "item_id": "v1|407363971964|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 mm vintage (bicolor, años 60)",
+   "referencia": "1601",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "La foto no confirma la referencia ni el bicolor; la correa de cuero no es la original del modelo y el 'refurbished' exige verificar autenticidad. El precio pedido está por encima de lo que se vende este reloj."
+  },
+  "motivo": "triage: La foto no confirma la referencia ni el bicolor; la correa de cuero no es la original del modelo y el 'refurbished' exige verificar autenticidad. El precio pedido está por encima de lo que se vende este reloj. (justo 3800)"
  }
 ]
