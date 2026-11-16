@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-12T19:05:06.298818+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Americaine 19mm Ladies 18k WG Diamonds WB7051L1",
-  "total": 11985.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/117518002242",
-  "item_id": "v1|117518002242|0",
-  "triage": {
-   "modelo": "Cartier Tank Américaine (modelo pequeño, ~19 mm) en oro blanco 18k con bisel de diamantes, esfera azul oscura, correa de caucho/piel",
-   "referencia": "WB7051L1",
-   "precio_justo_usd": 10500,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor estimado de reventa para un modelo de cuarzo de oro blanco con diamantes en estado 'refurbished'; la referencia exacta no está confirmada en la imagen."
-  },
-  "motivo": "triage: Precio pedido por encima del valor estimado de reventa para un modelo de cuarzo de oro blanco con diamantes en estado 'refurbished'; la referencia exacta no está confirmada en la imagen. (justo 10500)"
- },
- {
   "fecha": "2026-11-12T19:20:05.757152+00:00",
   "marca": "Rolex",
   "titulo": "Unworn Rolex GMT-Master II 126720VTNR “Sprite” Full Set",
@@ -11054,5 +11037,29 @@
   },
   "ratio_mercado": 0.967,
   "motivo": "precio normal (97 % del cuartil bajo de 278273)"
+ },
+ {
+  "fecha": "2026-11-16T02:07:25.957884+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 16234 / 36mm / Watch Only",
+  "total": 4985.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227616308438",
+  "item_id": "v1|227616308438|0",
+  "referencia": "16234",
+  "mercado": {
+   "n": 34,
+   "p25": 6160,
+   "mediana": 6485
+  },
+  "ratio_mercado": 0.809,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 5200,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado, buen estado visible, sin caja ni papeles; fotos sin fondo de caja ni movimiento"
+  },
+  "ratio_justo": 0.959,
+  "motivo": "precio normal segun revision (96 % del justo 5200)"
  }
 ]
