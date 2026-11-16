@@ -1,29 +1,6 @@
 [
  {
   "fecha": "2026-11-12T18:49:55.312705+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Land-Dweller 127234 2026 Complete Flat Jubilee SS Auto White Honeycomb",
-  "total": 19495.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/198790318162",
-  "item_id": "v1|198790318162|0",
-  "referencia": "127234",
-  "mercado": {
-   "n": 4,
-   "p25": 19995,
-   "mediana": 20470
-  },
-  "triage": {
-   "modelo": "Rolex Land-Dweller (según título); la foto parece un Datejust con brazalete Jubilee",
-   "referencia": "127234",
-   "precio_justo_usd": 12000,
-   "interesante": false,
-   "nota": "El título dice Land-Dweller 127234, pero la foto muestra brazalete Jubilee y esfera texturizada, que no corresponden a ese modelo. Además, el precio pedido de US$19.495 está muy por encima del valor de mercado de un Rolex de acero nuevo de esa referencia. Listado inconsistente; no es una oportunidad."
-  },
-  "motivo": "triage: El título dice Land-Dweller 127234, pero la foto muestra brazalete Jubilee y esfera texturizada, que no corresponden a ese modelo. Además, el precio pedido de US$19.495 está muy por encima del valor de mercado de un Rolex de acero nuevo de esa referencia. Listado inconsistente; no es una oportunidad. (justo 12000)"
- },
- {
-  "fecha": "2026-11-12T18:49:55.312705+00:00",
   "marca": "Cartier",
   "titulo": "2026 Cartier Santos de Cartier ADLC WSSA0039 Full Set *EX COND*",
   "total": 8890.0,
@@ -11054,5 +11031,22 @@
    "nota": "Vermeil de cuarzo de 24 mm en estado Good, sin caja ni papeles indicados; se vende normalmente entre 350 y 600 USD, y el precio pedido de 1323 USD está muy por encima."
   },
   "motivo": "triage: Vermeil de cuarzo de 24 mm en estado Good, sin caja ni papeles indicados; se vende normalmente entre 350 y 600 USD, y el precio pedido de 1323 USD está muy por encima. (justo 450)"
+ },
+ {
+  "fecha": "2026-11-16T00:37:26.299806+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos 100 XL Automatic Stainless Steel Luxury Wrist Watch Pre-Owned",
+  "total": 1800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820359083127",
+  "item_id": "v1|820359083127|0",
+  "triage": {
+   "modelo": "Cartier Santos de Cartier 100 XL, acero automático (2018 en adelante)",
+   "referencia": "WSSA0029 (probable)",
+   "precio_justo_usd": 5800,
+   "interesante": false,
+   "nota": "Precio ~70% por debajo del mercado secundario para este modelo; es muy probable que sea replica o listado enganoso. Verificar autenticidad antes de cualquier compra."
+  },
+  "motivo": "triage: Precio ~70% por debajo del mercado secundario para este modelo; es muy probable que sea replica o listado enganoso. Verificar autenticidad antes de cualquier compra. (justo 5800)"
  }
 ]
