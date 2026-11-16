@@ -1,136 +1,5 @@
 [
  {
-  "fecha": "2026-11-12T22:35:06.072067+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos 100 XL Carbon Rose Gold Chronograph Mens Watch W2020004",
-  "total": 10650.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336894683994",
-  "item_id": "v1|336894683994|0",
-  "referencia": "W2020004",
-  "mercado": {
-   "n": 1,
-   "p25": 10000,
-   "mediana": 10000
-  },
-  "triage": {
-   "modelo": "Cartier Santos 100 XL Chronograph Carbon Rose Gold",
-   "referencia": "W2020004",
-   "precio_justo_usd": 11000,
-   "interesante": false,
-   "nota": "Caja de DLC/carbono con bisel de oro rosa, esfera negra y subesferas doradas; el precio pedido queda cerca del valor de mercado, sin descuento de al menos 15 %."
-  },
-  "motivo": "triage: Caja de DLC/carbono con bisel de oro rosa, esfera negra y subesferas doradas; el precio pedido queda cerca del valor de mercado, sin descuento de al menos 15 %. (justo 11000)"
- },
- {
-  "fecha": "2026-11-12T22:35:06.072067+00:00",
-  "marca": "Cartier",
-  "titulo": "CARTIER Tank 27mm Solo Watch",
-  "total": 1999.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/920132299715",
-  "item_id": "v1|920132299715|0",
-  "triage": {
-   "modelo": "Cartier Tank Solo (aparenta ser versión chapada en oro/vermeil, cuarzo, esfera crema con números romanos)",
-   "referencia": null,
-   "precio_justo_usd": 900,
-   "interesante": false,
-   "nota": "El precio pedido de US$1999 está muy por encima de lo que se vende realmente una Tank Solo chapada en oro de 27 mm en estado 'Fair'. Sin confirmar la referencia exacta ni el material, la estimación es conservadora."
-  },
-  "motivo": "triage: El precio pedido de US$1999 está muy por encima de lo que se vende realmente una Tank Solo chapada en oro de 27 mm en estado 'Fair'. Sin confirmar la referencia exacta ni el material, la estimación es conservadora. (justo 900)"
- },
- {
-  "fecha": "2026-11-12T22:50:06.208631+00:00",
-  "marca": "Rolex",
-  "titulo": "1985 Rolex Submariner Date Bluesy 16803 40MM Blue Two-Tone 18K Yg",
-  "total": 11750.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117518262002",
-  "item_id": "v1|117518262002|0",
-  "referencia": "16803",
-  "mercado": {
-   "n": 18,
-   "p25": 9878,
-   "mediana": 10950
-  },
-  "ratio_mercado": 1.19,
-  "motivo": "precio normal (119 % del cuartil bajo de 16803)"
- },
- {
-  "fecha": "2026-11-12T22:50:06.208631+00:00",
-  "marca": "Cartier",
-  "titulo": "Ladies' Cartier Vendome Quartz watch in 18K Yellow Gold w/Diamonds Ref.8057921",
-  "total": 3500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327453240269",
-  "item_id": "v1|327453240269|0",
-  "triage": {
-   "modelo": "Cartier Must de Cartier Vendome (cuarzo, señora), según la foto",
-   "referencia": null,
-   "precio_justo_usd": 2000,
-   "interesante": false,
-   "nota": "La foto muestra una caja dorada sin diamantes visibles, posiblemente vermeil y no oro 18K; la referencia 8057921 no es verificable y el precio pedido no está 15 % por debajo del valor real."
-  },
-  "motivo": "triage: La foto muestra una caja dorada sin diamantes visibles, posiblemente vermeil y no oro 18K; la referencia 8057921 no es verificable y el precio pedido no está 15 % por debajo del valor real. (justo 2000)"
- },
- {
-  "fecha": "2026-11-12T23:05:06.490796+00:00",
-  "marca": "Rolex",
-  "titulo": "Ladies Rolex President 179179 MOP Diamond Datejust 18K White Gold Wr (A1D019832)",
-  "total": 17920.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/820348182300",
-  "item_id": "v1|820348182300|0",
-  "referencia": "179179",
-  "mercado": {
-   "n": 4,
-   "p25": 16000,
-   "mediana": 16325
-  },
-  "triage": {
-   "modelo": "Rolex Lady-Datejust 26 mm, esfera de madre perla con diamantes, bisel acanalado y brazalete President en oro blanco de 18K",
-   "referencia": "179179",
-   "precio_justo_usd": 13000,
-   "interesante": false,
-   "nota": "Precio pedido de US$17.920 muy por encima del valor de venta cerrada para estado Fair; estimado conservador, sin caja ni papeles confirmados."
-  },
-  "motivo": "triage: Precio pedido de US$17.920 muy por encima del valor de venta cerrada para estado Fair; estimado conservador, sin caja ni papeles confirmados. (justo 13000)"
- },
- {
-  "fecha": "2026-11-12T23:05:06.490796+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 26mm 2013 Silver Diamond Fluted Jubilee 179174",
-  "total": 9395.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198790627359",
-  "item_id": "v1|198790627359|0",
-  "referencia": "179174",
-  "mercado": {
-   "n": 47,
-   "p25": 8295,
-   "mediana": 8900
-  },
-  "ratio_mercado": 1.133,
-  "motivo": "precio normal (113 % del cuartil bajo de 179174)"
- },
- {
-  "fecha": "2026-11-12T23:05:06.490796+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 33 Steel Yellow Gold Ladies Watch W2BB0002",
-  "total": 7500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336894705873",
-  "item_id": "v1|336894705873|0",
-  "referencia": "W2BB0002",
-  "mercado": {
-   "n": 8,
-   "p25": 7245,
-   "mediana": 7412
-  },
-  "ratio_mercado": 1.035,
-  "motivo": "precio normal (104 % del cuartil bajo de W2BB0002)"
- },
- {
   "fecha": "2026-11-12T23:20:05.730220+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust Steel White Gold Diamond Mother of Pearl Mens Watch 116244",
@@ -11067,5 +10936,130 @@
    "nota": "Precio pedido por encima del valor de venta estimado para estado Good; la correa no original resta valor y no hay una caída de al menos 15%."
   },
   "motivo": "triage: Precio pedido por encima del valor de venta estimado para estado Good; la correa no original resta valor y no hay una caída de al menos 15%. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-16T18:22:57.417661+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Rolex GMT-Master II 40mm 126713GRNR Two-Tone Jubilee Full Set",
+  "total": 23999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800926167265",
+  "item_id": "v1|800926167265|0",
+  "referencia": "126713GRNR",
+  "mercado": {
+   "n": 35,
+   "p25": 22897,
+   "mediana": 23499
+  },
+  "ratio_mercado": 1.048,
+  "motivo": "precio normal (105 % del cuartil bajo de 126713GRNR)"
+ },
+ {
+  "fecha": "2026-11-16T18:22:57.417661+00:00",
+  "marca": "Rolex",
+  "titulo": "1979's ROLEX Oyster Perpetual Date 6917 Steel & Gold Automatic Ladies Watch",
+  "total": 3999.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206705958477",
+  "item_id": "v1|206705958477|0",
+  "referencia": "6917",
+  "mercado": {
+   "n": 43,
+   "p25": 3990,
+   "mediana": 4066
+  },
+  "ratio_mercado": 1.002,
+  "motivo": "precio normal (100 % del cuartil bajo de 6917)"
+ },
+ {
+  "fecha": "2026-11-16T18:22:57.417661+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31 Midsize Steel Yellow Gold Diamond Ladies Watch 278273",
+  "total": 16840.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940097470179",
+  "item_id": "v1|940097470179|0",
+  "referencia": "278273",
+  "mercado": {
+   "n": 17,
+   "p25": 16840,
+   "mediana": 18900
+  },
+  "ratio_mercado": 1.0,
+  "motivo": "precio normal (100 % del cuartil bajo de 278273)"
+ },
+ {
+  "fecha": "2026-11-16T18:22:57.417661+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sea-Dweller Deepsea Blue  James Cameron 126660",
+  "total": 12813.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307285682885",
+  "item_id": "v1|307285682885|0",
+  "referencia": "126660",
+  "mercado": {
+   "n": 72,
+   "p25": 13040,
+   "mediana": 14250
+  },
+  "ratio_mercado": 0.983,
+  "motivo": "precio normal (98 % del cuartil bajo de 126660)"
+ },
+ {
+  "fecha": "2026-11-16T18:22:57.417661+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex DATEJUST 41 126303",
+  "total": 15273.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307285682809",
+  "item_id": "v1|307285682809|0",
+  "referencia": "126303",
+  "mercado": {
+   "n": 15,
+   "p25": 14400,
+   "mediana": 15009
+  },
+  "ratio_mercado": 1.061,
+  "motivo": "precio normal (106 % del cuartil bajo de 126303)"
+ },
+ {
+  "fecha": "2026-11-16T18:22:57.417661+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank 2303 Francaise Chronograph 28 mm Steel Quartz Wrist Watch",
+  "total": 4255.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137936680211",
+  "item_id": "v1|137936680211|0",
+  "referencia": "2303",
+  "mercado": {
+   "n": 30,
+   "p25": 3850,
+   "mediana": 4100
+  },
+  "ratio_mercado": 1.105,
+  "motivo": "precio normal (111 % del cuartil bajo de 2303)"
+ },
+ {
+  "fecha": "2026-11-16T18:22:57.417661+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu de Cartier W6920025",
+  "total": 5377.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307285682883",
+  "item_id": "v1|307285682883|0",
+  "referencia": "W6920025",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Ballon Bleu de Cartier cronógrafo, acero, esfera negra, numerales romanos (42 mm aprox.)",
+   "referencia": "W6920025",
+   "precio_justo_usd": 5600,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para esta referencia en estado Good; la referencia debe confirmarse en el fondo de caja y el precio sube si incluye caja y papeles."
+  },
+  "motivo": "triage: Precio cercano al mercado para esta referencia en estado Good; la referencia debe confirmarse en el fondo de caja y el precio sube si incluye caja y papeles. (justo 5600)"
  }
 ]
