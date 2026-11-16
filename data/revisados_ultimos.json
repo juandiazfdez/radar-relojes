@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-12T20:50:06.441350+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 58 GMT Coke M7939G1A0NRU-0001 Pre-owned Box & Papers 2024",
-  "total": 4800.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287725093555",
-  "item_id": "v1|287725093555|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 GMT 'Coke' (bisel negro/rojo, brazalete de acero)",
-   "referencia": "M7939G1A0NRU-0001",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Precio pedido de US$4,800 supera el retail aproximado de ~US$4,500 para un modelo de 2024 con caja y papeles; no hay descuento frente al mercado."
-  },
-  "motivo": "triage: Precio pedido de US$4,800 supera el retail aproximado de ~US$4,500 para un modelo de 2024 con caja y papeles; no hay descuento frente al mercado. (justo 4000)"
- },
- {
-  "fecha": "2026-11-12T21:05:06.494283+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Vintage GMT-Master 18k Yellow Gold Jubilee Automatic Black Men Watch 16758",
-  "total": 48405.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287725107328",
-  "item_id": "v1|287725107328|0",
-  "referencia": "16758",
-  "mercado": {
-   "n": 7,
-   "p25": 28749,
-   "mediana": 31495
-  },
-  "ratio_mercado": 1.684,
-  "motivo": "precio normal (168 % del cuartil bajo de 16758)"
- },
- {
   "fecha": "2026-11-12T21:05:06.494283+00:00",
   "marca": "Rolex",
   "titulo": "ROLEX DATEJUST TURN-O-GRAPH 116264 36MM STAINLESS STEEL CIRCA 2005",
@@ -11060,5 +11026,39 @@
    "nota": "Precio cercano al mercado, pero el listado es confuso: la foto muestra correa de cuero, no brazalete Jubilee, y el dial y el bisel (Pepsi) deben verificarse por originalidad y posibles reparaciones."
   },
   "motivo": "triage: Precio cercano al mercado, pero el listado es confuso: la foto muestra correa de cuero, no brazalete Jubilee, y el dial y el bisel (Pepsi) deben verificarse por originalidad y posibles reparaciones. (justo 22000)"
+ },
+ {
+  "fecha": "2026-11-16T13:37:47.187316+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Unworn Rolex GMT-Master II Sprite 126720VTNR Jubilee Box and Papers 40mm",
+  "total": 18750.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/168866605347",
+  "item_id": "v1|168866605347|0",
+  "referencia": "126720VTNR",
+  "mercado": {
+   "n": 62,
+   "p25": 18250,
+   "mediana": 19272
+  },
+  "ratio_mercado": 1.027,
+  "motivo": "precio normal (103 % del cuartil bajo de 126720VTNR)"
+ },
+ {
+  "fecha": "2026-11-16T13:37:47.187316+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor black bay chronograph panda “CARBÓN 26”",
+  "total": 6135.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/900096045544",
+  "item_id": "v1|900096045544|0",
+  "triage": {
+   "modelo": "Tudor Black Bay Chronograph (panda, caja negra tipo carbono, correa de caucho)",
+   "referencia": null,
+   "precio_justo_usd": 4700,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de reventa estimado para una Black Bay Chrono nueva con caja y papeles; la referencia exacta no se distingue en la foto."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de reventa estimado para una Black Bay Chrono nueva con caja y papeles; la referencia exacta no se distingue en la foto. (justo 4700)"
  }
 ]
