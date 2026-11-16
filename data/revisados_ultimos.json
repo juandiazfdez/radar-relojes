@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-12T18:19:55.178968+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 16610 Black Stainless Steel 40mm Oyster Dive Watch",
-  "total": 9368.86,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267841803416",
-  "item_id": "v1|267841803416|0",
-  "referencia": "16610",
-  "mercado": {
-   "n": 82,
-   "p25": 9950,
-   "mediana": 10422
-  },
-  "ratio_mercado": 0.942,
-  "motivo": "precio normal (94 % del cuartil bajo de 16610)"
- },
- {
-  "fecha": "2026-11-12T18:19:55.178968+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Vintage Oyster Perpetual Date 1500 Yellow 14k Gold 34mm",
   "total": 7499.0,
   "condicion": "Pre-owned - Good",
@@ -11054,5 +11037,22 @@
    "nota": "Precio ~41% bajo mercado, y el '30mm' del título no encaja con un Hydronaut II; revisar tamaño, autenticidad y estado antes de comprar."
   },
   "motivo": "triage: Precio ~41% bajo mercado, y el '30mm' del título no encaja con un Hydronaut II; revisar tamaño, autenticidad y estado antes de comprar. (justo 2300)"
+ },
+ {
+  "fecha": "2026-11-16T00:07:26.487081+00:00",
+  "marca": "Tudor",
+  "titulo": "mens tudor prince oysterdate watch",
+  "total": 1617.18,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336899417695",
+  "item_id": "v1|336899417695|0",
+  "triage": {
+   "modelo": "Tudor Prince Oysterdate (vintage, esfera champán, posible caja chapada en oro)",
+   "referencia": null,
+   "precio_justo_usd": 1000,
+   "interesante": false,
+   "nota": "La foto no permite confirmar la referencia ni si la caja es de oro macizo; con caja chapada y estado excelente, el precio pedido de US$1617 está por encima del mercado."
+  },
+  "motivo": "triage: La foto no permite confirmar la referencia ni si la caja es de oro macizo; con caja chapada y estado excelente, el precio pedido de US$1617 está por encima del mercado. (justo 1000)"
  }
 ]
