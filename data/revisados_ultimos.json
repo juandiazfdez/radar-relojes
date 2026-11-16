@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-13T16:05:40.110899+00:00",
   "marca": "Rolex",
-  "titulo": "2021 Rolex GMT-Master II 126710 BLNR Batgirl Blue Steel Jubilee 40mm Box Papers",
-  "total": 18548.58,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267842621621",
-  "item_id": "v1|267842621621|0",
-  "referencia": "126710",
-  "mercado": {
-   "n": 27,
-   "p25": 17249,
-   "mediana": 17900
-  },
-  "ratio_mercado": 1.075,
-  "motivo": "precio normal (108 % del cuartil bajo de 126710)"
- },
- {
-  "fecha": "2026-11-13T16:05:40.110899+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 14060M Submariner No Date",
-  "total": 14025.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920139576596",
-  "item_id": "v1|920139576596|0",
-  "referencia": "14060M",
-  "mercado": {
-   "n": 19,
-   "p25": 10700,
-   "mediana": 11310
-  },
-  "ratio_mercado": 1.311,
-  "motivo": "precio normal (131 % del cuartil bajo de 14060M)"
- },
- {
-  "fecha": "2026-11-13T16:05:40.110899+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Yacht-Master 116622 Blue Platinum 40mm Stainless Steel Automatic Watch",
   "total": 11713.97,
   "condicion": "Pre-owned - Excellent",
@@ -11001,5 +10967,39 @@
    "nota": "El precio pedido de US$6575 supera con creces el valor de mercado de este Tudor de acero, incluso con caja y papeles; no es una oportunidad."
   },
   "motivo": "triage: El precio pedido de US$6575 supera con creces el valor de mercado de este Tudor de acero, incluso con caja y papeles; no es una oportunidad. (justo 4200)"
+ },
+ {
+  "fecha": "2026-11-16T22:38:06.865993+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 new Rolex Oyster Perpetual 134300 Lavender 41mm Automatic Men's Watch +B&P",
+  "total": 11554.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/960205119276",
+  "item_id": "v1|960205119276|0",
+  "referencia": "134300",
+  "mercado": {
+   "n": 43,
+   "p25": 11299,
+   "mediana": 12300
+  },
+  "ratio_mercado": 1.023,
+  "motivo": "precio normal (102 % del cuartil bajo de 134300)"
+ },
+ {
+  "fecha": "2026-11-16T22:38:06.865993+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos 100 XL W20072X7 18K Gold Steel Automatic Box & Papers",
+  "total": 5995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366815150332",
+  "item_id": "v1|366815150332|0",
+  "triage": {
+   "modelo": "Cartier Santos 100 XL, acero y oro amarillo 18k, automático",
+   "referencia": "W20072X7",
+   "precio_justo_usd": 5300,
+   "interesante": false,
+   "nota": "Precio pedido de US$5995 está por encima del valor de venta cerrada estimado para estado usado con caja y papeles; no cumple el umbral del 15 %."
+  },
+  "motivo": "triage: Precio pedido de US$5995 está por encima del valor de venta cerrada estimado para estado usado con caja y papeles; no cumple el umbral del 15 %. (justo 5300)"
  }
 ]
