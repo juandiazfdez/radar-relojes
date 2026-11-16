@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-12T20:05:06.596517+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date President BLACK DIAMOND 18K Yellow Gold 36mm 18038 Watch",
-  "total": 16500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227611601416",
-  "item_id": "v1|227611601416|0",
-  "referencia": "18038",
-  "mercado": {
-   "n": 18,
-   "p25": 9165,
-   "mediana": 10484
-  },
-  "ratio_mercado": 1.8,
-  "motivo": "precio normal (180 % del cuartil bajo de 18038)"
- },
- {
-  "fecha": "2026-11-12T20:05:06.596517+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos de Cartier Two-Tone Steel/Gold Auto Date 100m Box Papers",
-  "total": 9500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147677920635",
-  "item_id": "v1|147677920635|0",
-  "triage": {
-   "modelo": "Cartier Santos de Cartier XL (Large) bicolor acero/oro amarillo, automático con fecha",
-   "referencia": "W2SA0009 (probable, no confirmada en la foto)",
-   "precio_justo_usd": 8200,
-   "interesante": false,
-   "nota": "Precio pedido de US$9500 queda unos 16 % por encima de una estimación conservadora de venta real; solo la confirmación de referencia y papeles podría cambiar el cálculo."
-  },
-  "motivo": "triage: Precio pedido de US$9500 queda unos 16 % por encima de una estimación conservadora de venta real; solo la confirmación de referencia y papeles podría cambiar el cálculo. (justo 8200)"
- },
- {
   "fecha": "2026-11-12T20:20:06.450247+00:00",
   "marca": "Rolex",
   "titulo": "ROLEX Yacht-Master 35 2007 Ref.169623 18k Yellow Gold Complete Set Oyster Watch",
@@ -11049,5 +11015,39 @@
    "nota": "Usado en buen estado, sin caja ni papeles confirmados; el precio pedido de US$4240 está por encima del mercado secundario actual."
   },
   "motivo": "triage: Usado en buen estado, sin caja ni papeles confirmados; el precio pedido de US$4240 está por encima del mercado secundario actual. (justo 3600)"
+ },
+ {
+  "fecha": "2026-11-16T04:52:36.222818+00:00",
+  "marca": "Rolex",
+  "titulo": "Running 1979 ROLEX 6917 18k Gold Bark Finish 26mm 29 Jewel Wristwatch",
+  "total": 8000.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/407366180800",
+  "item_id": "v1|407366180800|0",
+  "referencia": "6917",
+  "mercado": {
+   "n": 43,
+   "p25": 3990,
+   "mediana": 4066
+  },
+  "ratio_mercado": 2.005,
+  "motivo": "precio normal (201 % del cuartil bajo de 6917)"
+ },
+ {
+  "fecha": "2026-11-16T04:52:36.222818+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Gmt 79830RB-0001",
+  "total": 4240.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377649452726",
+  "item_id": "v1|377649452726|0",
+  "referencia": "79830RB-0001",
+  "mercado": {
+   "n": 53,
+   "p25": 3758,
+   "mediana": 3999
+  },
+  "ratio_mercado": 1.128,
+  "motivo": "precio normal (113 % del cuartil bajo de 79830RB-0001)"
  }
 ]
