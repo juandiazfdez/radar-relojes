@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-12T18:49:55.312705+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Vendome ‘Must De Cartier’ 29mm",
-  "total": 2050.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287724838549",
-  "item_id": "v1|287724838549|0",
-  "triage": {
-   "modelo": "Cartier Must de Cartier Vendome 29mm (cuarzo, bicolor, esfera crema con numerales romanos)",
-   "referencia": null,
-   "precio_justo_usd": 1100,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de venta real de este modelo de cuarzo en condición Good; sin evidencia de caja y papeles completos."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de venta real de este modelo de cuarzo en condición Good; sin evidencia de caja y papeles completos. (justo 1100)"
- },
- {
-  "fecha": "2026-11-12T18:49:55.312705+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay Chrono 79360N Date Chronograph Steel 41MM Men Automatic Full Set",
   "total": 4765.0,
@@ -11048,5 +11031,22 @@
   },
   "ratio_mercado": 1.092,
   "motivo": "precio normal (109 % del cuartil bajo de W6701005)"
+ },
+ {
+  "fecha": "2026-11-16T01:22:26.515458+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Ladies Datejust 26 mm Candy Pink Roman Oyster Steel Watch 6516 Circa 1968",
+  "total": 3550.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147682331076",
+  "item_id": "v1|147682331076|0",
+  "referencia": "6516",
+  "mercado": {
+   "n": 17,
+   "p25": 3459,
+   "mediana": 3550
+  },
+  "ratio_mercado": 1.026,
+  "motivo": "precio normal (103 % del cuartil bajo de 6516)"
  }
 ]
