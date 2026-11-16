@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-12T20:20:06.450247+00:00",
   "marca": "Tudor",
-  "titulo": "TUDOR Black Bay 58 39mm Burgundy Automatic Steel Bracelet",
-  "total": 5300.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900086348063",
-  "item_id": "v1|900086348063|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 Burgundy, 39 mm, brazalete de acero (generación actual)",
-   "referencia": "M79030B (aprox.; verificar en caja o parte trasera)",
-   "precio_justo_usd": 3900,
-   "interesante": false,
-   "nota": "Precio pedido de US$5300 está muy por encima del mercado secundario para este modelo; no cumple el umbral de oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$5300 está muy por encima del mercado secundario para este modelo; no cumple el umbral de oportunidad. (justo 3900)"
- },
- {
-  "fecha": "2026-11-12T20:20:06.450247+00:00",
-  "marca": "Tudor",
   "titulo": "Tudor Glamour 56000",
   "total": 1500.0,
   "condicion": "Pre-owned - Good",
@@ -11049,5 +11032,22 @@
   },
   "ratio_mercado": 1.14,
   "motivo": "precio normal (114 % del cuartil bajo de 126333)"
+ },
+ {
+  "fecha": "2026-11-16T07:07:35.830249+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere Vendome SM 1-Row 24mm Ref.1057920C Quartz Watch 18KYG 167807",
+  "total": 4200.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940096227938",
+  "item_id": "v1|940096227938|0",
+  "triage": {
+   "modelo": "Cartier Panthère Vendôme SM 1 fila (24 mm), cuarzo, bisel en oro amarillo 18k con brazalete bicolor acero/oro",
+   "referencia": "1057920",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "El precio pedido de US$4.200 supera la estimación de venta cerrada para un bicolor de cuarzo de esta referencia; la foto muestra brazalete bicolor, así que conviene confirmar material y estado."
+  },
+  "motivo": "triage: El precio pedido de US$4.200 supera la estimación de venta cerrada para un bicolor de cuarzo de esta referencia; la foto muestra brazalete bicolor, así que conviene confirmar material y estado. (justo 3400)"
  }
 ]
