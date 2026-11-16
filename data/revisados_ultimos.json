@@ -1,102 +1,5 @@
 [
  {
-  "fecha": "2026-11-12T23:35:05.973161+00:00",
-  "marca": "Rolex",
-  "titulo": "2023 Rolex Datejust 41mm 126334 - Black - Fluted - Oyster - Full Set Watch",
-  "total": 14499.95,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/257849673857",
-  "item_id": "v1|257849673857|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 (acero Oyster, esfera negra, bisel acanalado)",
-   "referencia": "126334",
-   "precio_justo_usd": 12000,
-   "interesante": false,
-   "nota": "Precio pedido de US$14,500 está muy por encima de la venta real de esta referencia de 2023 con caja y papeles (aprox. US$11,500-12,500). La foto es pequeña y no permite confirmar el bisel acanalado."
-  },
-  "motivo": "triage: Precio pedido de US$14,500 está muy por encima de la venta real de esta referencia de 2023 con caja y papeles (aprox. US$11,500-12,500). La foto es pequeña y no permite confirmar el bisel acanalado. (justo 12000)"
- },
- {
-  "fecha": "2026-11-12T23:50:06.204241+00:00",
-  "marca": "Rolex",
-  "titulo": "VINTAGE ROLEX OYSTERQUARTZ 5035 DATEJUST SUPERLATIVE WATCH MENS 17000B WORKS!",
-  "total": 4695.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/900086710059",
-  "item_id": "v1|900086710059|0",
-  "referencia": "5035",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust bicolor (acero y oro amarillo), esfera champán, bisel acanalado de oro, brazalete Jubilee; el título menciona Oysterquartz",
-   "referencia": "17000B (según título; la imagen no permite confirmarla y el título mezcla 5035, que es un calibre)",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Título y fotos no coinciden del todo (la esfera y el brazalete parecen un Datejust automático, no un Oysterquartz); en estado Fair el precio pedido de 4695 USD no está por debajo del mercado."
-  },
-  "motivo": "triage: Título y fotos no coinciden del todo (la esfera y el brazalete parecen un Datejust automático, no un Oysterquartz); en estado Fair el precio pedido de 4695 USD no está por debajo del mercado. (justo 3500)"
- },
- {
-  "fecha": "2026-11-12T23:50:06.204241+00:00",
-  "marca": "Rolex",
-  "titulo": "Unworn Rolex Sky-Dweller 336934 Full Set",
-  "total": 29450.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/206696856824",
-  "item_id": "v1|206696856824|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller (esfera verde menta, bisel de oro blanco estriado, brazalete Jubilee de acero)",
-   "referencia": "336934",
-   "precio_justo_usd": 25000,
-   "interesante": false,
-   "nota": "El precio pedido de US$29.450 está por encima del valor de venta cerrada estimado para esta referencia nueva en EE. UU. No es una oportunidad; verificar la referencia exacta en la caja y los papeles."
-  },
-  "motivo": "triage: El precio pedido de US$29.450 está por encima del valor de venta cerrada estimado para esta referencia nueva en EE. UU. No es una oportunidad; verificar la referencia exacta en la caja y los papeles. (justo 25000)"
- },
- {
-  "fecha": "2026-11-12T23:50:06.204241+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise W50002N2 Yellow Gold Ladies Watch Box Papers",
-  "total": 19699.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/366806036174",
-  "item_id": "v1|366806036174|0",
-  "triage": {
-   "modelo": "Cartier Tank Française (oro amarillo, talla mediana, cuarzo, brazalete integrado)",
-   "referencia": "W50002N2",
-   "precio_justo_usd": 14000,
-   "interesante": false,
-   "nota": "Con el dial de números romanos y brazalete de oro amarillo, es coherente con la referencia del título. El precio pedido de US$19,699 supera el valor de mercado secundario estimado para un modelo usado con caja y papeles."
-  },
-  "motivo": "triage: Con el dial de números romanos y brazalete de oro amarillo, es coherente con la referencia del título. El precio pedido de US$19,699 supera el valor de mercado secundario estimado para un modelo usado con caja y papeles. (justo 14000)"
- },
- {
-  "fecha": "2026-11-13T00:05:06.379076+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Men's 40MM 18K Yellow Gold & Stainless Steel 16613 Vintage 2001",
-  "total": 11800.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880110421399",
-  "item_id": "v1|880110421399|0",
-  "referencia": "16613",
-  "mercado": {
-   "n": 89,
-   "p25": 11695,
-   "mediana": 12000
-  },
-  "ratio_mercado": 1.009,
-  "motivo": "precio normal (101 % del cuartil bajo de 16613)"
- },
- {
   "fecha": "2026-11-13T00:05:06.379076+00:00",
   "marca": "Rolex",
   "titulo": "2026 Rolex GMT-Master II 40mm Stainless Steel Bruce Wayne 126710GRNR Full Set",
@@ -11061,5 +10964,96 @@
   },
   "ratio_mercado": 1.173,
   "motivo": "precio normal (117 % del cuartil bajo de 115200)"
+ },
+ {
+  "fecha": "2026-11-16T19:07:57.285674+00:00",
+  "marca": "Rolex",
+  "titulo": "Benny & Co. Benny and co watch rolex diamond jacob carat",
+  "total": 6500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307285728769",
+  "item_id": "v1|307285728769|0",
+  "triage": {
+   "modelo": "Benny & Co. iced-out cronógrafo con pavé de diamantes (no es Rolex)",
+   "referencia": null,
+   "precio_justo_usd": 300,
+   "interesante": false,
+   "nota": "El reloj no es Rolex: es una pieza tipo hip hop con pavé y caja cubierta de piedras, la marca del título es engañosa y el precio pedido de US$6500 excede con mucho su valor real."
+  },
+  "motivo": "triage: El reloj no es Rolex: es una pieza tipo hip hop con pavé y caja cubierta de piedras, la marca del título es engañosa y el precio pedido de US$6500 excede con mucho su valor real. (justo 300)"
+ },
+ {
+  "fecha": "2026-11-16T19:07:57.285674+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex DateJust 16013 Silver Two-Tone Stainless Steel Fluted Gold 36mm Watch",
+  "total": 4472.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267845392335",
+  "item_id": "v1|267845392335|0",
+  "referencia": "16013",
+  "mercado": {
+   "n": 20,
+   "p25": 3859,
+   "mediana": 4645
+  },
+  "ratio_mercado": 1.159,
+  "motivo": "precio normal (116 % del cuartil bajo de 16013)"
+ },
+ {
+  "fecha": "2026-11-16T19:07:57.285674+00:00",
+  "marca": "Rolex",
+  "titulo": "2014 Rolex Submariner Date HULK 116610 LV Green Steel 40mm Watch Box Papers",
+  "total": 20486.79,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960204533595",
+  "item_id": "v1|960204533595|0",
+  "referencia": "116610",
+  "mercado": {
+   "n": 45,
+   "p25": 12428,
+   "mediana": 12632
+  },
+  "ratio_mercado": 1.648,
+  "motivo": "precio normal (165 % del cuartil bajo de 116610)"
+ },
+ {
+  "fecha": "2026-11-16T19:07:57.285674+00:00",
+  "marca": "Cartier",
+  "titulo": "2019 Cartier Santos 4072 / W2SA0006 White Two-Tone 39.8mm Watch Box Papers",
+  "total": 9878.36,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267845392336",
+  "item_id": "v1|267845392336|0",
+  "referencia": "W2SA0006",
+  "mercado": {
+   "n": 2,
+   "p25": 10995,
+   "mediana": 12445
+  },
+  "triage": {
+   "modelo": "Cartier Santos de Cartier Large (39.8 mm) acero y oro amarillo, esfera plateada de números romanos, automático, 2019",
+   "referencia": "W2SA0006",
+   "precio_justo_usd": 6800,
+   "interesante": false,
+   "nota": "Precio pedido de US$9,878 muy por encima del valor de venta real de esta referencia usada con caja y papeles (aprox. US$6,000-7,500)."
+  },
+  "motivo": "triage: Precio pedido de US$9,878 muy por encima del valor de venta real de esta referencia usada con caja y papeles (aprox. US$6,000-7,500). (justo 6800)"
+ },
+ {
+  "fecha": "2026-11-16T19:07:57.285674+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 79030N Men's 39mm Wristwatch w/ Box & Hangtag",
+  "total": 3600.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287734239395",
+  "item_id": "v1|287734239395|0",
+  "referencia": "79030N",
+  "mercado": {
+   "n": 11,
+   "p25": 3750,
+   "mediana": 4025
+  },
+  "ratio_mercado": 0.96,
+  "motivo": "precio normal (96 % del cuartil bajo de 79030N)"
  }
 ]
