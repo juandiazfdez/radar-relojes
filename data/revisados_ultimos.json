@@ -1,204 +1,5 @@
 [
  {
-  "fecha": "2026-11-13T00:05:06.379076+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex GMT-Master II 40mm Stainless Steel Bruce Wayne 126710GRNR Full Set",
-  "total": 19249.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257849706389",
-  "item_id": "v1|257849706389|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 99,
-   "p25": 22399,
-   "mediana": 23498
-  },
-  "ratio_mercado": 0.859,
-  "motivo": "precio normal (86 % del cuartil bajo de 126710GRNR)"
- },
- {
-  "fecha": "2026-11-13T00:05:06.379076+00:00",
-  "marca": "Rolex",
-  "titulo": "NEW 2026 Rolex 278273 Datejust 31mm Champ. Diam. 18k Steel Jubilee - Box & card",
-  "total": 21325.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/198790710125",
-  "item_id": "v1|198790710125|0",
-  "referencia": "278273",
-  "mercado": {
-   "n": 39,
-   "p25": 20495,
-   "mediana": 20945
-  },
-  "ratio_mercado": 1.04,
-  "motivo": "precio normal (104 % del cuartil bajo de 278273)"
- },
- {
-  "fecha": "2026-11-13T00:05:06.379076+00:00",
-  "marca": "Rolex",
-  "titulo": "ANTIQUE ART DECO WILSDORF & DAVIS 9CT GOLD ROLEX WRIST WATCH UK MARKET",
-  "total": 895.0,
-  "condicion": "For parts or not working",
-  "url": "https://www.ebay.com/itm/900086710061",
-  "item_id": "v1|900086710061|0",
-  "triage": {
-   "modelo": "Rolex (Wilsdorf & Davis) vintage de dama en oro de 9 ct, c. 1920-1930, cuerda manual, esfera champán con numerales arábigos azules",
-   "referencia": null,
-   "precio_justo_usd": 650,
-   "interesante": false,
-   "nota": "Pieza antigua en estado no funcional y 'para piezas'; el valor depende de la caja y el movimiento, y el precio pedido queda por encima de ese rango."
-  },
-  "motivo": "triage: Pieza antigua en estado no funcional y 'para piezas'; el valor depende de la caja y el movimiento, y el precio pedido queda por encima de ese rango. (justo 650)"
- },
- {
-  "fecha": "2026-11-13T00:05:06.379076+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX TUDOR TIGER PRINCE DATE CHRONOGRAPH AUTOMATIC WATCH 79260P MENS RED WOODS",
-  "total": 3700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/900086710063",
-  "item_id": "v1|900086710063|0",
-  "triage": {
-   "modelo": "Tudor Prince Date Chronograph (Tiger Prince), esfera roja, correa de piel",
-   "referencia": "79260P",
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "Es un Tudor, no Rolex, aunque el título lo menciona. A US$3,700 queda muy por encima del precio de venta típico de esta referencia en EE. UU."
-  },
-  "motivo": "triage: Es un Tudor, no Rolex, aunque el título lo menciona. A US$3,700 queda muy por encima del precio de venta típico de esta referencia en EE. UU. (justo 2300)"
- },
- {
-  "fecha": "2026-11-13T00:05:06.379076+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Pelagos 39 25407N Titanium - MODIFIED (Replacement Movement) - READ",
-  "total": 1800.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/137921855221",
-  "item_id": "v1|137921855221|0",
-  "referencia": "25407N",
-  "mercado": {
-   "n": 16,
-   "p25": 4590,
-   "mediana": 4812
-  },
-  "ratio_mercado": 0.392,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 1500,
-   "riesgo_autenticidad": "alto",
-   "estado": "Regular: rayones visibles en el brazalete y la caja, y movimiento NO original (reemplazado)"
-  },
-  "motivo": "Claude descarto: El propio vendedor admite que el reloj está modificado: eBay Authenticity Guarantee lo rechazó porque el movimiento no es original de la referencia 25407N. Es un Frankenwatch y se vende sin garantía de autenticidad.; El Pelagos 39 usa el calibre MT5400 con certificación COSC. Con un movimiento de reemplazo pierde la certificación de cronómetro, aunque la esfera diga 'Chronometer Officially Certified'. La esfera es entonces engañosa. Además, el valor de reventa se hunde y no se sabe qué calibre lleva."
- },
- {
-  "fecha": "2026-11-13T00:05:06.379076+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor 28600 Royal Blue 41mm Day Date With Box And Papers ",
-  "total": 2420.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/168858201465",
-  "item_id": "v1|168858201465|0",
-  "referencia": "28600",
-  "mercado": {
-   "n": 9,
-   "p25": 2680,
-   "mediana": 2900
-  },
-  "ratio_mercado": 0.903,
-  "motivo": "precio normal (90 % del cuartil bajo de 28600)"
- },
- {
-  "fecha": "2026-11-13T00:20:05.945450+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex Precision 18K Yellow Gold Ref 2648 Cal 1400 Ladies Watch 2024 Serv",
-  "total": 1975.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/900086759249",
-  "item_id": "v1|900086759249|0",
-  "triage": {
-   "modelo": "Rolex Precision (dama, oro amarillo 18K, cuerda manual, caja tonneau)",
-   "referencia": "2648 (según título, no verificable en la foto)",
-   "precio_justo_usd": 1300,
-   "interesante": false,
-   "nota": "Precio pedido de US$1975 supera el valor de venta cerrada estimado para este modelo de oro 18K en condición Good, aunque esté servicio. Sin caja ni papeles; la referencia no se verifica en la imagen."
-  },
-  "motivo": "triage: Precio pedido de US$1975 supera el valor de venta cerrada estimado para este modelo de oro 18K en condición Good, aunque esté servicio. Sin caja ni papeles; la referencia no se verifica en la imagen. (justo 1300)"
- },
- {
-  "fecha": "2026-11-13T00:20:05.945450+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Day-Date 36 18238, Yellow Gold, President Bracelet, Champagne J...",
-  "total": 24952.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/206696930710",
-  "item_id": "v1|206696930710|0",
-  "referencia": "18238",
-  "mercado": {
-   "n": 36,
-   "p25": 15667,
-   "mediana": 20770
-  },
-  "ratio_mercado": 1.593,
-  "motivo": "precio normal (159 % del cuartil bajo de 18238)"
- },
- {
-  "fecha": "2026-11-13T00:20:05.945450+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay 58 Burgundy 39mm Reference 7939A1A0RU 2026 Full Set",
-  "total": 4674.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/900086762430",
-  "item_id": "v1|900086762430|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 Burgundy 39 mm",
-   "referencia": "M7939A1A0RU",
-   "precio_justo_usd": 3400,
-   "interesante": false,
-   "nota": "Nuevo con caja y papeles; el listado de US$4.674 supera el retail, así que no hay descuento frente al precio de mercado."
-  },
-  "motivo": "triage: Nuevo con caja y papeles; el listado de US$4.674 supera el retail, así que no hay descuento frente al precio de mercado. (justo 3400)"
- },
- {
-  "fecha": "2026-11-13T00:35:06.455047+00:00",
-  "marca": "Rolex",
-  "titulo": "Unworn Rolex GMT-Master II 126710BLNR “Batgirl” Full Set",
-  "total": 21950.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/206696962626",
-  "item_id": "v1|206696962626|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 59,
-   "p25": 19990,
-   "mediana": 20565
-  },
-  "ratio_mercado": 1.098,
-  "motivo": "precio normal (110 % del cuartil bajo de 126710BLNR)"
- },
- {
-  "fecha": "2026-11-13T00:35:06.455047+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Heritage Ranger 79910 Automatic Watch Black, 41mm",
-  "total": 2750.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237179858267",
-  "item_id": "v1|237179858267|0",
-  "referencia": "79910",
-  "mercado": {
-   "n": 2,
-   "p25": 2495,
-   "mediana": 2522
-  },
-  "triage": {
-   "modelo": "Tudor Heritage Ranger",
-   "referencia": "79910",
-   "precio_justo_usd": 2500,
-   "interesante": false,
-   "nota": "Ranger 79910 de 41 mm con caja, usado en excelente estado; se vende cerca de US$2.300-2.700, así que US$2.750 está por encima del rango."
-  },
-  "motivo": "triage: Ranger 79910 de 41 mm con caja, usado en excelente estado; se vende cerca de US$2.300-2.700, así que US$2.750 está por encima del rango. (justo 2500)"
- },
- {
   "fecha": "2026-11-13T01:05:17.221573+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR Submariner 94400",
@@ -11055,5 +10856,204 @@
   },
   "ratio_mercado": 0.96,
   "motivo": "precio normal (96 % del cuartil bajo de 79030N)"
+ },
+ {
+  "fecha": "2026-11-16T19:22:57.842761+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 116618LB Submariner 18K Yellow Gold",
+  "total": 39925.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920149777619",
+  "item_id": "v1|920149777619|0",
+  "referencia": "116618LB",
+  "mercado": {
+   "n": 12,
+   "p25": 35807,
+   "mediana": 37972
+  },
+  "ratio_mercado": 1.115,
+  "motivo": "precio normal (112 % del cuartil bajo de 116618LB)"
+ },
+ {
+  "fecha": "2026-11-16T19:22:57.842761+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 126711CHNR GMT Master II 18K/SS",
+  "total": 22025.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920149777482",
+  "item_id": "v1|920149777482|0",
+  "referencia": "126711CHNR",
+  "mercado": {
+   "n": 102,
+   "p25": 20697,
+   "mediana": 21659
+  },
+  "ratio_mercado": 1.064,
+  "motivo": "precio normal (106 % del cuartil bajo de 126711CHNR)"
+ },
+ {
+  "fecha": "2026-11-16T19:22:57.842761+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 116710LN GMT Master II",
+  "total": 14725.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920149777294",
+  "item_id": "v1|920149777294|0",
+  "referencia": "116710LN",
+  "mercado": {
+   "n": 38,
+   "p25": 13990,
+   "mediana": 15000
+  },
+  "ratio_mercado": 1.053,
+  "motivo": "precio normal (105 % del cuartil bajo de 116710LN)"
+ },
+ {
+  "fecha": "2026-11-16T19:22:57.842761+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 50535 Cellini Moonphase 18K Rose Gold",
+  "total": 28025.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920149776514",
+  "item_id": "v1|920149776514|0",
+  "referencia": "50535",
+  "mercado": {
+   "n": 1,
+   "p25": 24668,
+   "mediana": 24668
+  },
+  "triage": {
+   "modelo": "Rolex Cellini Moonphase 39 mm en oro rosa 18k, esfera plateada, correa de cocodrilo marrón",
+   "referencia": "50535",
+   "precio_justo_usd": 19000,
+   "interesante": false,
+   "nota": "Precio pedido de US$28.025 está muy por encima de la venta real de este modelo de segunda mano (aprox. US$17.000-21.000 según estado, caja y papeles)."
+  },
+  "motivo": "triage: Precio pedido de US$28.025 está muy por encima de la venta real de este modelo de segunda mano (aprox. US$17.000-21.000 según estado, caja y papeles). (justo 19000)"
+ },
+ {
+  "fecha": "2026-11-16T19:22:57.842761+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 126711CHNR GMT Master II 18K/SS",
+  "total": 25725.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/920149776395",
+  "item_id": "v1|920149776395|0",
+  "referencia": "126711CHNR",
+  "mercado": {
+   "n": 26,
+   "p25": 23250,
+   "mediana": 23598
+  },
+  "ratio_mercado": 1.106,
+  "motivo": "precio normal (111 % del cuartil bajo de 126711CHNR)"
+ },
+ {
+  "fecha": "2026-11-16T19:22:57.842761+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Seadweller 43mm SD43 126600 Mint 2021+ warranty",
+  "total": 12525.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920149774932",
+  "item_id": "v1|920149774932|0",
+  "referencia": "126600",
+  "mercado": {
+   "n": 52,
+   "p25": 13021,
+   "mediana": 14062
+  },
+  "ratio_mercado": 0.962,
+  "motivo": "precio normal (96 % del cuartil bajo de 126600)"
+ },
+ {
+  "fecha": "2026-11-16T19:22:57.842761+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master 116710LN-0001 Pre-owned Box & Papers",
+  "total": 12530.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137936779366",
+  "item_id": "v1|137936779366|0",
+  "referencia": "116710LN",
+  "mercado": {
+   "n": 38,
+   "p25": 13990,
+   "mediana": 15000
+  },
+  "ratio_mercado": 0.896,
+  "motivo": "precio normal (90 % del cuartil bajo de 116710LN)"
+ },
+ {
+  "fecha": "2026-11-16T19:22:57.842761+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 126233 Datejust 36mm Stainless Steel  Yellow Gold Black Diamond #2659-1",
+  "total": 17445.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840135482075",
+  "item_id": "v1|840135482075|0",
+  "referencia": "126233",
+  "mercado": {
+   "n": 36,
+   "p25": 14869,
+   "mediana": 15820
+  },
+  "ratio_mercado": 1.173,
+  "motivo": "precio normal (117 % del cuartil bajo de 126233)"
+ },
+ {
+  "fecha": "2026-11-16T19:22:57.842761+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier WHSA0015 Santos De Cartier Large Skeleton",
+  "total": 23925.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920149777789",
+  "item_id": "v1|920149777789|0",
+  "referencia": "WHSA0015",
+  "mercado": {
+   "n": 6,
+   "p25": 26499,
+   "mediana": 29015
+  },
+  "ratio_mercado": 0.903,
+  "motivo": "precio normal (90 % del cuartil bajo de WHSA0015)"
+ },
+ {
+  "fecha": "2026-11-16T19:22:57.842761+00:00",
+  "marca": "Cartier",
+  "titulo": "42185: Cartier Small Ladies Ballon Bleu 28mm, Quartz, Ref. W69010Z4",
+  "total": 3700.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237186538907",
+  "item_id": "v1|237186538907|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu 28 mm, cuarzo, acero, esfera plateada con numeración romana",
+   "referencia": "W69010Z4",
+   "precio_justo_usd": 2900,
+   "interesante": false,
+   "nota": "Precio pedido de US$3700 con envío está unos 25-30 % por encima de lo que se vende esta referencia de acero en el mercado usado de EE. UU."
+  },
+  "motivo": "triage: Precio pedido de US$3700 con envío está unos 25-30 % por encima de lo que se vende esta referencia de acero en el mercado usado de EE. UU. (justo 2900)"
+ },
+ {
+  "fecha": "2026-11-16T19:22:57.842761+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 54 Men's Watch 37mm,  M79000N-0001, S17240",
+  "total": 4450.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/128198929875",
+  "item_id": "v1|128198929875|0",
+  "referencia": "M79000N-0001",
+  "mercado": {
+   "n": 3,
+   "p25": 4080,
+   "mediana": 4458
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 54 (acero, bisel negro, esfera negra)",
+   "referencia": "M79000N-0001",
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del mercado secundario para un BB54 nuevo con caja y papeles; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido muy por encima del mercado secundario para un BB54 nuevo con caja y papeles; no es una oportunidad. (justo 3100)"
  }
 ]
