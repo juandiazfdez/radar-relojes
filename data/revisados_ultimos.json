@@ -1,96 +1,5 @@
 [
  {
-  "fecha": "2026-11-13T16:05:40.110899+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Yacht-Master 116622 Blue Platinum 40mm Stainless Steel Automatic Watch",
-  "total": 11713.97,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940089322069",
-  "item_id": "v1|940089322069|0",
-  "referencia": "116622",
-  "mercado": {
-   "n": 16,
-   "p25": 13142,
-   "mediana": 13490
-  },
-  "ratio_mercado": 0.891,
-  "motivo": "precio normal (89 % del cuartil bajo de 116622)"
- },
- {
-  "fecha": "2026-11-13T16:05:40.110899+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor 79030B Black Bay Fifty-Eight on Leather",
-  "total": 3725.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920139580015",
-  "item_id": "v1|920139580015|0",
-  "referencia": "79030B",
-  "mercado": {
-   "n": 15,
-   "p25": 3495,
-   "mediana": 3590
-  },
-  "ratio_mercado": 1.066,
-  "motivo": "precio normal (107 % del cuartil bajo de 79030B)"
- },
- {
-  "fecha": "2026-11-13T16:20:40.395564+00:00",
-  "marca": "Rolex",
-  "titulo": "Tudor by Rolex Prince OysterDate Automatic Date Men's 34mm Watch Reference 74033",
-  "total": 2031.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227612793645",
-  "item_id": "v1|227612793645|0",
-  "triage": {
-   "modelo": "Tudor Prince Oysterdate (serie 74000), automático con fecha, acero 34 mm",
-   "referencia": "74033",
-   "precio_justo_usd": 2100,
-   "interesante": false,
-   "nota": "Precio en línea con el mercado para un 74033 de estado bueno; la correa de cuero no es original y el valor depende de la esfera y de si incluye papeles o caja."
-  },
-  "motivo": "triage: Precio en línea con el mercado para un 74033 de estado bueno; la correa de cuero no es original y el valor depende de la esfera y de si incluye papeles o caja. (justo 2100)"
- },
- {
-  "fecha": "2026-11-13T16:20:40.395564+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 116234 2015 Full Set With Factory Stickers",
-  "total": 10500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/820350907811",
-  "item_id": "v1|820350907811|0",
-  "referencia": "116234",
-  "mercado": {
-   "n": 49,
-   "p25": 9025,
-   "mediana": 9745
-  },
-  "ratio_mercado": 1.163,
-  "motivo": "precio normal (116 % del cuartil bajo de 116234)"
- },
- {
-  "fecha": "2026-11-13T16:20:40.395564+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere De Cartier ref. WGPN0008 4178 “Small Model, Yellow Gold”",
-  "total": 21065.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206698462241",
-  "item_id": "v1|206698462241|0",
-  "referencia": "WGPN0008",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Panthère de Cartier, modelo pequeño, oro amarillo, cuarzo",
-   "referencia": "WGPN0008 (según el título; no verificable en la imagen)",
-   "precio_justo_usd": 9500,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de venta cerrada para este modelo en estado Good; no hay razón visible para pagar más de US$10.000."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de venta cerrada para este modelo en estado Good; no hay razón visible para pagar más de US$10.000. (justo 9500)"
- },
- {
   "fecha": "2026-11-13T16:35:40.429878+00:00",
   "marca": "Rolex",
   "titulo": "2010 Rolex Daytona Cosmograph 116523 Blue Racing 40mm Two-Tone 18k Box Papers",
@@ -11001,5 +10910,104 @@
    "nota": "Precio pedido de US$5995 está por encima del valor de venta cerrada estimado para estado usado con caja y papeles; no cumple el umbral del 15 %."
   },
   "motivo": "triage: Precio pedido de US$5995 está por encima del valor de venta cerrada estimado para estado usado con caja y papeles; no cumple el umbral del 15 %. (justo 5300)"
+ },
+ {
+  "fecha": "2026-11-16T22:53:07.192941+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Cellini Prince 18K White Gold ",
+  "total": 13000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227617689386",
+  "item_id": "v1|227617689386|0",
+  "triage": {
+   "modelo": "Rolex Cellini Prince (caja rectangular, oro blanco 18K)",
+   "referencia": "5440 (probable; no se distingue con claridad en la foto)",
+   "precio_justo_usd": 9000,
+   "interesante": false,
+   "nota": "Con la foto no se ven los papeles ni el número de referencia; el precio pedido de US$13,000 está por encima de lo que este modelo se vende en EE. UU."
+  },
+  "motivo": "triage: Con la foto no se ven los papeles ni el número de referencia; el precio pedido de US$13,000 está por encima de lo que este modelo se vende en EE. UU. (justo 9000)"
+ },
+ {
+  "fecha": "2026-11-16T22:53:07.192941+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Milgauss 116400 / 40mm / Watch Only",
+  "total": 7685.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227617685099",
+  "item_id": "v1|227617685099|0",
+  "referencia": "116400",
+  "mercado": {
+   "n": 38,
+   "p25": 11723,
+   "mediana": 12053
+  },
+  "ratio_mercado": 0.656,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 7700,
+   "riesgo_autenticidad": "medio",
+   "estado": "Uso visible: rayones en bisel, cierre y brazalete; sin caja ni papeles"
+  },
+  "ratio_justo": 0.998,
+  "motivo": "precio normal segun revision (100 % del justo 7700)"
+ },
+ {
+  "fecha": "2026-11-16T22:53:07.192941+00:00",
+  "marca": "Rolex",
+  "titulo": "2019 Rolex GMT Master II 126715CHNR 18k Everose Gold \"Root Beer\" box papers",
+  "total": 38274.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960205127363",
+  "item_id": "v1|960205127363|0",
+  "referencia": "126715CHNR",
+  "mercado": {
+   "n": 34,
+   "p25": 43720,
+   "mediana": 45475
+  },
+  "ratio_mercado": 0.875,
+  "motivo": "precio normal (88 % del cuartil bajo de 126715CHNR)"
+ },
+ {
+  "fecha": "2026-11-16T22:53:07.192941+00:00",
+  "marca": "Rolex",
+  "titulo": "$14,000 ROLEX  179163 18k Yellow Gold SS 31mm SLATE Ladies DATEJUST Watch WTY",
+  "total": 6859.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237186772667",
+  "item_id": "v1|237186772667|0",
+  "referencia": "179163",
+  "mercado": {
+   "n": 22,
+   "p25": 8440,
+   "mediana": 8940
+  },
+  "ratio_mercado": 0.813,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 5500,
+   "riesgo_autenticidad": "bajo",
+   "estado": "Buen estado visible, con rayas leves en el brazalete y la caja, sin caja ni papeles"
+  },
+  "ratio_justo": 1.247,
+  "motivo": "precio normal segun revision (125 % del justo 5500)"
+ },
+ {
+  "fecha": "2026-11-16T22:53:07.192941+00:00",
+  "marca": "Tudor",
+  "titulo": "1964 Freshly Serviced Tudor Submariner 7928",
+  "total": 12500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960205134729",
+  "item_id": "v1|960205134729|0",
+  "triage": {
+   "modelo": "Tudor Submariner (vintage, bisel negro de acrílico/tipo Submariner de los años 60)",
+   "referencia": "7928",
+   "precio_justo_usd": 9500,
+   "interesante": false,
+   "nota": "Precio pedido de US$12,500 está bastante por encima del valor de venta real para un 7928 de 1964 con servicio, sin confirmar caja ni papeles; la imagen no permite verificar dial ni autenticidad."
+  },
+  "motivo": "triage: Precio pedido de US$12,500 está bastante por encima del valor de venta real para un 7928 de 1964 con servicio, sin confirmar caja ni papeles; la imagen no permite verificar dial ni autenticidad. (justo 9500)"
  }
 ]
