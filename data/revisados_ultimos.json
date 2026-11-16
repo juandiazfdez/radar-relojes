@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-11-12T23:20:05.730220+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust Steel White Gold Diamond Mother of Pearl Mens Watch 116244",
-  "total": 19780.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940087405397",
-  "item_id": "v1|940087405397|0",
-  "referencia": "116244",
-  "mercado": {
-   "n": 32,
-   "p25": 13990,
-   "mediana": 14819
-  },
-  "ratio_mercado": 1.414,
-  "motivo": "precio normal (141 % del cuartil bajo de 116244)"
- },
- {
-  "fecha": "2026-11-12T23:20:05.730220+00:00",
-  "marca": "Rolex",
-  "titulo": "2023 Rolex Datejust 41mm 126334 - Black - Fluted - Oyster - Full Set Watch",
-  "total": 14499.95,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/257849665395",
-  "item_id": "v1|257849665395|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 (Oyster, acero, esfera negra)",
-   "referencia": "126334",
-   "precio_justo_usd": 11500,
-   "interesante": false,
-   "nota": "Con caja y papeles, el 126334 de 2023 se vende cerca de US$10.500-12.500, así que US$14.500 está muy por encima. La foto no permite confirmar el bisel acanalado; si fuera un Explorer 124270, el precio justo sería aún menor."
-  },
-  "motivo": "triage: Con caja y papeles, el 126334 de 2023 se vende cerca de US$10.500-12.500, así que US$14.500 está muy por encima. La foto no permite confirmar el bisel acanalado; si fuera un Explorer 124270, el precio justo sería aún menor. (justo 11500)"
- },
- {
-  "fecha": "2026-11-12T23:20:05.730220+00:00",
   "marca": "Tudor",
   "titulo": "2026 TUDOR Ranger 39mm M79950-0001 Box & Papers",
   "total": 3150.0,
@@ -11061,5 +11021,51 @@
    "nota": "Precio cercano al mercado para esta referencia en estado Good; la referencia debe confirmarse en el fondo de caja y el precio sube si incluye caja y papeles."
   },
   "motivo": "triage: Precio cercano al mercado para esta referencia en estado Good; la referencia debe confirmarse en el fondo de caja y el precio sube si incluye caja y papeles. (justo 5600)"
+ },
+ {
+  "fecha": "2026-11-16T18:37:57.572123+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Cosmograph Daytona 116500LN - Excellent Condition - Rolex Serviced 2026",
+  "total": 29000.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/920149673228",
+  "item_id": "v1|920149673228|0",
+  "referencia": "116500LN",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Cosmograph Daytona (bisel de cerámica negra, esfera negra, brazalete de acero, con caja y documentación)",
+   "referencia": "116500LN",
+   "precio_justo_usd": 27000,
+   "interesante": false,
+   "nota": "Precio pedido cerca del valor de mercado, no 15% por debajo; 'seller refurbished' reduce el valor frente a un servicio oficial Rolex."
+  },
+  "motivo": "triage: Precio pedido cerca del valor de mercado, no 15% por debajo; 'seller refurbished' reduce el valor frente a un servicio oficial Rolex. (justo 27000)"
+ },
+ {
+  "fecha": "2026-11-16T18:37:57.572123+00:00",
+  "marca": "Cartier",
+  "titulo": "42134: Cartier Medium Ballon Bleu 33mm, Ref. W6920084, Quartz, Box and 2020 Card",
+  "total": 5250.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900096718708",
+  "item_id": "v1|900096718708|0",
+  "referencia": "W6920084",
+  "mercado": {
+   "n": 4,
+   "p25": 5512,
+   "mediana": 5618
+  },
+  "triage": {
+   "modelo": "Cartier Ballon Bleu de Cartier 33 mm, acero, cuarzo, esfera plateada con numerales romanos",
+   "referencia": "W6920084",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio pedido de US$5,250 está muy por encima del valor de venta real (aprox. US$2,800-3,400 con caja y papeles); no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$5,250 está muy por encima del valor de venta real (aprox. US$2,800-3,400 con caja y papeles); no es una oportunidad. (justo 3000)"
  }
 ]
