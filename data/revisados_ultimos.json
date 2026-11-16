@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-12T21:05:06.494283+00:00",
-  "marca": "Rolex",
-  "titulo": "1930's AUTHENTIC Men's Dual Signed TUDOR-Rolex Watch, Running Well, Tudor Cal.59",
-  "total": 950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/860135182279",
-  "item_id": "v1|860135182279|0",
-  "triage": {
-   "modelo": "Tudor vintage tipo cojín (c. 1930s), caja cuadrada plateada/acero, esfera con numerales arábigos y subesfera de segundos (posible firma dual Tudor-Rolex)",
-   "referencia": null,
-   "precio_justo_usd": 1400,
-   "interesante": false,
-   "nota": "Sin papeles ni referencia verificable; las firmas duales y el título 'AUTHENTIC' en mayúsculas exigen autenticación y revisión de caja y movimiento antes de considerarlo; si es genuino, el precio estaría por debajo del mercado."
-  },
-  "motivo": "triage: Sin papeles ni referencia verificable; las firmas duales y el título 'AUTHENTIC' en mayúsculas exigen autenticación y revisión de caja y movimiento antes de considerarlo; si es genuino, el precio estaría por debajo del mercado. (justo 1400)"
- },
- {
-  "fecha": "2026-11-12T21:05:06.494283+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay Chrono S&G",
-  "total": 5950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366805747360",
-  "item_id": "v1|366805747360|0",
-  "triage": {
-   "modelo": "Tudor Black Bay Chrono S&G (acero y oro amarillo, esfera negra, subesferas doradas)",
-   "referencia": "M79363N (probable, 41 mm)",
-   "precio_justo_usd": 5800,
-   "interesante": false,
-   "nota": "Precio pedido en línea con el mercado de usados con caja y papeles; sin descuento claro frente a ventas cerradas."
-  },
-  "motivo": "triage: Precio pedido en línea con el mercado de usados con caja y papeles; sin descuento claro frente a ventas cerradas. (justo 5800)"
- },
- {
-  "fecha": "2026-11-12T21:20:05.723891+00:00",
-  "marca": "Rolex",
-  "titulo": "New Rolex DateJust 278383 RBR Silver Diamond 31mm 18K Steel Jubilee Box Papers",
-  "total": 25688.29,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/940087204626",
-  "item_id": "v1|940087204626|0",
-  "referencia": "278383",
-  "mercado": {
-   "n": 7,
-   "p25": 29484,
-   "mediana": 29988
-  },
-  "ratio_mercado": 0.871,
-  "motivo": "precio normal (87 % del cuartil bajo de 278383)"
- },
- {
   "fecha": "2026-11-12T21:20:05.723891+00:00",
   "marca": "Rolex",
   "titulo": "42181: Rolex Datejust 36, Ref. 116233, Circa 2007",
@@ -11060,5 +11009,56 @@
   },
   "ratio_mercado": 0.965,
   "motivo": "precio normal (96 % del cuartil bajo de 116710LN)"
+ },
+ {
+  "fecha": "2026-11-16T14:22:46.945271+00:00",
+  "marca": "Rolex",
+  "titulo": "2002 Box Papers Rolex Submariner 16610 Stainless Black Dive Watch Neo Birth Year",
+  "total": 10498.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366814193235",
+  "item_id": "v1|366814193235|0",
+  "referencia": "16610",
+  "mercado": {
+   "n": 82,
+   "p25": 9878,
+   "mediana": 10291
+  },
+  "ratio_mercado": 1.063,
+  "motivo": "precio normal (106 % del cuartil bajo de 16610)"
+ },
+ {
+  "fecha": "2026-11-16T14:22:46.945271+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Anglaise Automatic Watch Stainless Steel and Rose Gold with Diamond",
+  "total": 6730.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117524670924",
+  "item_id": "v1|117524670924|0",
+  "triage": {
+   "modelo": "Cartier Tank Anglaise (acero y oro rosa, esfera plateada con marcadores de diamantes, brazalete mixto)",
+   "referencia": null,
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Precio pedido de US$6730 con envío, por encima del rango de venta cerrada para este modelo de acero/oro rosa con diamantes en estado usado; la referencia exacta no se distingue en la foto."
+  },
+  "motivo": "triage: Precio pedido de US$6730 con envío, por encima del rango de venta cerrada para este modelo de acero/oro rosa con diamantes en estado usado; la referencia exacta no se distingue en la foto. (justo 5000)"
+ },
+ {
+  "fecha": "2026-11-16T14:22:46.945271+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu de Cartier Quartz Watch Stainless Steel 36",
+  "total": 5470.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117524670888",
+  "item_id": "v1|117524670888|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu de Cartier 36 mm cuarzo, acero inoxidable, esfera plateada con números romanos",
+   "referencia": "W69010Z4 (probable, verificar)",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Precio pedido de US$5470 con envío está por encima del valor de reventa de esta referencia usada; no hay descuento."
+  },
+  "motivo": "triage: Precio pedido de US$5470 con envío está por encima del valor de reventa de esta referencia usada; no hay descuento. (justo 3800)"
  }
 ]
