@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-12T20:35:06.670417+00:00",
   "marca": "Rolex",
-  "titulo": "Unworn Rolex Oyster Perpetual 134300 Full Set",
-  "total": 12300.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/206696184436",
-  "item_id": "v1|206696184436|0",
-  "referencia": "134300",
-  "mercado": {
-   "n": 45,
-   "p25": 11370,
-   "mediana": 12195
-  },
-  "ratio_mercado": 1.082,
-  "motivo": "precio normal (108 % del cuartil bajo de 134300)"
- },
- {
-  "fecha": "2026-11-12T20:35:06.670417+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex GMT Bruce Wayne GMT 04/2024 FULL SET 126710GRNR Jubilee Bracelet",
   "total": 22500.0,
   "condicion": "Pre-owned - Good",
@@ -11043,5 +11026,28 @@
   },
   "ratio_mercado": 1.043,
   "motivo": "precio normal (104 % del cuartil bajo de 126331)"
+ },
+ {
+  "fecha": "2026-11-16T09:07:36.144622+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster Large Model Watch WSRD0020",
+  "total": 12530.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840133997394",
+  "item_id": "v1|840133997394|0",
+  "referencia": "WSRD0020",
+  "mercado": {
+   "n": 1,
+   "p25": 9000,
+   "mediana": 9000
+  },
+  "triage": {
+   "modelo": "Cartier Roadster Large (XL) acero, esfera plateada, automático",
+   "referencia": "WSRD0020",
+   "precio_justo_usd": 6000,
+   "interesante": false,
+   "nota": "Precio pedido de US$12,530 está muy por encima del valor de mercado de este modelo nuevo con caja y papeles, que ronda US$5,500-6,500."
+  },
+  "motivo": "triage: Precio pedido de US$12,530 está muy por encima del valor de mercado de este modelo nuevo con caja y papeles, que ronda US$5,500-6,500. (justo 6000)"
  }
 ]
