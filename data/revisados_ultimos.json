@@ -1,102 +1,5 @@
 [
  {
-  "fecha": "2026-11-13T05:05:17.144149+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu W6920002 / 44mm / Chrono / Steel / Full Set",
-  "total": 6450.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227612073564",
-  "item_id": "v1|227612073564|0",
-  "referencia": "W6920002",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu Chronograph 44mm acero, esfera plateada, correa de cocodrilo gris",
-   "referencia": "W6920002 (según título, sin verificar)",
-   "precio_justo_usd": 6300,
-   "interesante": false,
-   "nota": "Precio cercano al valor de mercado gris para un set completo nuevo; no supera el umbral del 15 % y la referencia debe verificarse."
-  },
-  "motivo": "triage: Precio cercano al valor de mercado gris para un set completo nuevo; no supera el umbral del 15 % y la referencia debe verificarse. (justo 6300)"
- },
- {
-  "fecha": "2026-11-13T06:20:17.354246+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner 16610 with date watch",
-  "total": 9000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336893455810",
-  "item_id": "v1|336893455810|0",
-  "referencia": "16610",
-  "mercado": {
-   "n": 80,
-   "p25": 9977,
-   "mediana": 10445
-  },
-  "ratio_mercado": 0.902,
-  "motivo": "precio normal (90 % del cuartil bajo de 16610)"
- },
- {
-  "fecha": "2026-11-13T06:35:28.645872+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 40mm 116619LB Smurf White Gold 2014",
-  "total": 44999.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147678521623",
-  "item_id": "v1|147678521623|0",
-  "referencia": "116619LB",
-  "mercado": {
-   "n": 5,
-   "p25": 49999,
-   "mediana": 50699
-  },
-  "ratio_mercado": 0.9,
-  "motivo": "precio normal (90 % del cuartil bajo de 116619LB)"
- },
- {
-  "fecha": "2026-11-13T07:05:29.514482+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ronde Solo XL Automatic | Model 3802 | Ref. W6701011 | 42mm",
-  "total": 2933.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336895194911",
-  "item_id": "v1|336895194911|0",
-  "referencia": "3802",
-  "mercado": {
-   "n": 3,
-   "p25": 3200,
-   "mediana": 4285
-  },
-  "triage": {
-   "modelo": "Cartier Ronde Solo XL Automatic (acero, esfera plateada, numeración romana)",
-   "referencia": "W6701011",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Precio cercano al mercado para usado en buen estado; el título menciona 'Model 3802', dato poco habitual que conviene verificar."
-  },
-  "motivo": "triage: Precio cercano al mercado para usado en buen estado; el título menciona 'Model 3802', dato poco habitual que conviene verificar. (justo 3000)"
- },
- {
-  "fecha": "2026-11-13T07:05:29.514482+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Heritage Black Bay Dark 41mm 79230DK FULL SET",
-  "total": 4398.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/860139633863",
-  "item_id": "v1|860139633863|0",
-  "referencia": "79230DK",
-  "mercado": {
-   "n": 9,
-   "p25": 3000,
-   "mediana": 3395
-  },
-  "ratio_mercado": 1.466,
-  "motivo": "precio normal (147 % del cuartil bajo de 79230DK)"
- },
- {
   "fecha": "2026-11-13T07:20:28.944566+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual 34mm | Gold Capped \"Hallmark\" | Ref. 1024 | C. ~1983",
@@ -11044,5 +10947,90 @@
   },
   "ratio_mercado": 1.049,
   "motivo": "precio normal (105 % del cuartil bajo de W2006951)"
+ },
+ {
+  "fecha": "2026-11-16T21:08:07.282014+00:00",
+  "marca": "Rolex",
+  "titulo": "2018 Rolex Submariner Date | Ref. 116613LN",
+  "total": 15080.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267845471135",
+  "item_id": "v1|267845471135|0",
+  "referencia": "116613LN",
+  "mercado": {
+   "n": 27,
+   "p25": 14990,
+   "mediana": 15760
+  },
+  "ratio_mercado": 1.006,
+  "motivo": "precio normal (101 % del cuartil bajo de 116613LN)"
+ },
+ {
+  "fecha": "2026-11-16T21:08:07.282014+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT Master II Zombie 126718GRNR 18k Yellow Gold 2025",
+  "total": 47650.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/377651750686",
+  "item_id": "v1|377651750686|0",
+  "referencia": "126718GRNR",
+  "mercado": {
+   "n": 15,
+   "p25": 47500,
+   "mediana": 48500
+  },
+  "ratio_mercado": 1.003,
+  "motivo": "precio normal (100 % del cuartil bajo de 126718GRNR)"
+ },
+ {
+  "fecha": "2026-11-16T21:08:07.282014+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex mens Watch Batman 116710 2018, Serviced / 2 Year Warranty",
+  "total": 15000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820362503174",
+  "item_id": "v1|820362503174|0",
+  "referencia": "116710",
+  "mercado": {
+   "n": 46,
+   "p25": 12990,
+   "mediana": 13980
+  },
+  "ratio_mercado": 1.155,
+  "motivo": "precio normal (115 % del cuartil bajo de 116710)"
+ },
+ {
+  "fecha": "2026-11-16T21:08:07.282014+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yacht-Master 42mm 226658 18k Yellow Gold OysterFlex Watch MINT",
+  "total": 33950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206706250689",
+  "item_id": "v1|206706250689|0",
+  "referencia": "226658",
+  "mercado": {
+   "n": 10,
+   "p25": 35995,
+   "mediana": 37044
+  },
+  "ratio_mercado": 0.943,
+  "motivo": "precio normal (94 % del cuartil bajo de 226658)"
+ },
+ {
+  "fecha": "2026-11-16T21:08:07.282014+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 40mm Kermit Oyster Bracelet 16610LV - 2005",
+  "total": 18095.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128199042075",
+  "item_id": "v1|128199042075|0",
+  "referencia": "16610LV",
+  "mercado": {
+   "n": 29,
+   "p25": 14500,
+   "mediana": 16000
+  },
+  "ratio_mercado": 1.248,
+  "motivo": "precio normal (125 % del cuartil bajo de 16610LV)"
  }
 ]
