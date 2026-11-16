@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-12T20:50:06.441350+00:00",
-  "marca": "Rolex",
-  "titulo": "2003 Rolex Daytona Cosmograph Two Tone Gold Steel Black 40mm 116523",
-  "total": 17000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168857949096",
-  "item_id": "v1|168857949096|0",
-  "referencia": "116523",
-  "mercado": {
-   "n": 47,
-   "p25": 19384,
-   "mediana": 20990
-  },
-  "ratio_mercado": 0.877,
-  "motivo": "precio normal (88 % del cuartil bajo de 116523)"
- },
- {
-  "fecha": "2026-11-12T20:50:06.441350+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay 58 GMT Coke M7939G1A0NRU-0001 Pre-owned Box & Papers 2024",
   "total": 4800.0,
@@ -11060,5 +11043,22 @@
   },
   "ratio_mercado": 1.024,
   "motivo": "precio normal (102 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-16T12:52:47.248634+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT  1675  Gilt Vintage 1966 Steel Jubilee Watch 40mm",
+  "total": 19506.04,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198799793260",
+  "item_id": "v1|198799793260|0",
+  "triage": {
+   "modelo": "Rolex GMT-Master (Pepsi), ref. 1675, c. 1966-1970, acero",
+   "referencia": "1675",
+   "precio_justo_usd": 22000,
+   "interesante": false,
+   "nota": "Precio cercano al mercado, pero el listado es confuso: la foto muestra correa de cuero, no brazalete Jubilee, y el dial y el bisel (Pepsi) deben verificarse por originalidad y posibles reparaciones."
+  },
+  "motivo": "triage: Precio cercano al mercado, pero el listado es confuso: la foto muestra correa de cuero, no brazalete Jubilee, y el dial y el bisel (Pepsi) deben verificarse por originalidad y posibles reparaciones. (justo 22000)"
  }
 ]
