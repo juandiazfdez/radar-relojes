@@ -1,90 +1,5 @@
 [
  {
-  "fecha": "2026-11-12T18:19:55.178968+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Vintage Oyster Perpetual Date 1500 Yellow 14k Gold 34mm",
-  "total": 7499.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/900086140172",
-  "item_id": "v1|900086140172|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date (caja de oro amarillo, esfera plateada, correa de piel)",
-   "referencia": "1500",
-   "precio_justo_usd": 4200,
-   "interesante": false,
-   "nota": "Ref. 1500 de caja de oro amarillo, con precio de venta cerrada típico de unos US$3.500-5.000 según estado y esfera; el pedido de US$7.499 está muy por encima."
-  },
-  "motivo": "triage: Ref. 1500 de caja de oro amarillo, con precio de venta cerrada típico de unos US$3.500-5.000 según estado y esfera; el pedido de US$7.499 está muy por encima. (justo 4200)"
- },
- {
-  "fecha": "2026-11-12T18:19:55.178968+00:00",
-  "marca": "Rolex",
-  "titulo": "42075: Rolex Submariner 40, Ref. 16610, Circa 2007",
-  "total": 9500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237179461412",
-  "item_id": "v1|237179461412|0",
-  "referencia": "16610",
-  "mercado": {
-   "n": 82,
-   "p25": 9950,
-   "mediana": 10422
-  },
-  "ratio_mercado": 0.955,
-  "motivo": "precio normal (95 % del cuartil bajo de 16610)"
- },
- {
-  "fecha": "2026-11-12T18:19:55.178968+00:00",
-  "marca": "Rolex",
-  "titulo": "2025 CPO Rolex DateJust Silver Diamond Jubilee Two-Tone 36mm 126233 Watch Box",
-  "total": 13448.07,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267841798962",
-  "item_id": "v1|267841798962|0",
-  "referencia": "126233",
-  "mercado": {
-   "n": 37,
-   "p25": 14988,
-   "mediana": 16000
-  },
-  "ratio_mercado": 0.897,
-  "motivo": "precio normal (90 % del cuartil bajo de 126233)"
- },
- {
-  "fecha": "2026-11-12T18:34:54.854519+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Day-Date 36, 18238, Yellow Gold, Champagne Linen Dial, Presiden...",
-  "total": 24916.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/800908985532",
-  "item_id": "v1|800908985532|0",
-  "referencia": "18238",
-  "mercado": {
-   "n": 35,
-   "p25": 15667,
-   "mediana": 20990
-  },
-  "ratio_mercado": 1.59,
-  "motivo": "precio normal (159 % del cuartil bajo de 18238)"
- },
- {
-  "fecha": "2026-11-12T18:34:54.854519+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II Black Dial/Bezel Stainless Bracelet Auto 40mm Box",
-  "total": 10010.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407358572174",
-  "item_id": "v1|407358572174|0",
-  "triage": {
-   "modelo": "Rolex GMT-Master II, esfera y bisel negros, brazalete de acero, 40 mm, automático",
-   "referencia": "116710LN (probable, por bisel de aluminio negro y esfera negra; no verificable con la foto)",
-   "precio_justo_usd": 10500,
-   "interesante": false,
-   "nota": "Precio pedido en línea con el mercado secundario para esta referencia; la foto es de baja resolución y no permite verificar autenticidad ni estado."
-  },
-  "motivo": "triage: Precio pedido en línea con el mercado secundario para esta referencia; la foto es de baja resolución y no permite verificar autenticidad ni estado. (justo 10500)"
- },
- {
   "fecha": "2026-11-12T18:49:55.312705+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Land-Dweller 127234 2026 Complete Flat Jubilee SS Auto White Honeycomb",
@@ -11054,5 +10969,90 @@
    "nota": "La foto no permite confirmar la referencia ni si la caja es de oro macizo; con caja chapada y estado excelente, el precio pedido de US$1617 está por encima del mercado."
   },
   "motivo": "triage: La foto no permite confirmar la referencia ni si la caja es de oro macizo; con caja chapada y estado excelente, el precio pedido de US$1617 está por encima del mercado. (justo 1000)"
+ },
+ {
+  "fecha": "2026-11-16T00:22:26.340896+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yacht-Master M126622-0002 New 2021 Unworn Full Set Tags 1 Owner",
+  "total": 13950.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/960201408427",
+  "item_id": "v1|960201408427|0",
+  "triage": {
+   "modelo": "Rolex Yacht-Master 40 (acero Oystersteel, bisel de cerámica azul, esfera azul)",
+   "referencia": "126622 (según el título; verificar con el número de serie y la tarjeta de garantía, ya que la fecha 2021 podría no coincidir con esta referencia)",
+   "precio_justo_usd": 14500,
+   "interesante": false,
+   "nota": "Precio pedido de US$13.950 solo ~4 % por debajo de una estimación conservadora del mercado secundario; el acero actual de este modelo se vende por encima de retail, así que no hay descuento claro de ≥15 %."
+  },
+  "motivo": "triage: Precio pedido de US$13.950 solo ~4 % por debajo de una estimación conservadora del mercado secundario; el acero actual de este modelo se vende por encima de retail, así que no hay descuento claro de ≥15 %. (justo 14500)"
+ },
+ {
+  "fecha": "2026-11-16T00:22:26.340896+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 1601 Datejust Watch 36mm 1.8 mil NICE!",
+  "total": 3530.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168865141307",
+  "item_id": "v1|168865141307|0",
+  "triage": {
+   "modelo": "Rolex Datejust vintage de acero, 36 mm, bisel acanalado, esfera plateada con índices de barra",
+   "referencia": "1601",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Ref. 1601 vintage (aprox. 1960-70s) en buen estado, sin caja ni papeles verificables y con correa de cuero no original. Precio pedido de US$3530 está por encima de la estimación."
+  },
+  "motivo": "triage: Ref. 1601 vintage (aprox. 1960-70s) en buen estado, sin caja ni papeles verificables y con correa de cuero no original. Precio pedido de US$3530 está por encima de la estimación. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-16T00:22:26.340896+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36mm, 1601, Two tone 18k Gold, Champagne Linen Dial, Jubilee ",
+  "total": 4750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800922398461",
+  "item_id": "v1|800922398461|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 mm, dos tonos acero/oro 18k, bisel acanalado, esfera champán, brazalete Jubilee",
+   "referencia": "1601",
+   "precio_justo_usd": 4800,
+   "interesante": false,
+   "nota": "Precio pedido cercano al mercado para un 1601 bicolor con esfera champán; sin margen de 15 % y la foto no permite verificar autenticidad ni estado real."
+  },
+  "motivo": "triage: Precio pedido cercano al mercado para un 1601 bicolor con esfera champán; sin margen de 15 % y la foto no permite verificar autenticidad ni estado real. (justo 4800)"
+ },
+ {
+  "fecha": "2026-11-16T00:22:26.340896+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Date 34mm Silver On Silver Stainless Steel W/ Papers",
+  "total": 5200.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147682254466",
+  "item_id": "v1|147682254466|0",
+  "triage": {
+   "modelo": "Rolex Datejust/Date de acero, esfera plateada, bisel liso y brazalete Jubilee (probable Datejust clásico de 34-36 mm)",
+   "referencia": null,
+   "precio_justo_usd": 6000,
+   "interesante": false,
+   "nota": "La foto no permite confirmar la referencia ni el tamaño exacto; el precio pedido queda cerca del justo, y sin verificar la autenticidad (papeles y número de serie) no es una oportunidad clara."
+  },
+  "motivo": "triage: La foto no permite confirmar la referencia ni el tamaño exacto; el precio pedido queda cerca del justo, y sin verificar la autenticidad (papeles y número de serie) no es una oportunidad clara. (justo 6000)"
+ },
+ {
+  "fecha": "2026-11-16T00:22:26.340896+00:00",
+  "marca": "Cartier",
+  "titulo": "Vintage CARTIER Quartz Must de Vendome Vermeil 134151 Roman Women’s 24mm Watch",
+  "total": 1322.76,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137934457238",
+  "item_id": "v1|137934457238|0",
+  "triage": {
+   "modelo": "Cartier Must de Vendôme Vermeil (cuarzo, esfera crema, numerales romanos)",
+   "referencia": "134151",
+   "precio_justo_usd": 450,
+   "interesante": false,
+   "nota": "Vermeil de cuarzo de 24 mm en estado Good, sin caja ni papeles indicados; se vende normalmente entre 350 y 600 USD, y el precio pedido de 1323 USD está muy por encima."
+  },
+  "motivo": "triage: Vermeil de cuarzo de 24 mm en estado Good, sin caja ni papeles indicados; se vende normalmente entre 350 y 600 USD, y el precio pedido de 1323 USD está muy por encima. (justo 450)"
  }
 ]
