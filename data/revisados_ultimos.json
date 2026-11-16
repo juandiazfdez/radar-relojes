@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-12T20:35:06.670417+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex GMT Bruce Wayne GMT 04/2024 FULL SET 126710GRNR Jubilee Bracelet",
-  "total": 22500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366805631120",
-  "item_id": "v1|366805631120|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 97,
-   "p25": 22350,
-   "mediana": 23498
-  },
-  "ratio_mercado": 1.007,
-  "motivo": "precio normal (101 % del cuartil bajo de 126710GRNR)"
- },
- {
-  "fecha": "2026-11-12T20:35:06.670417+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Lady-Datejust NEW 2026 Purple Aubergine Diamond Two Tone Fluted Oyster",
   "total": 20995.0,
   "condicion": "New with box and papers",
@@ -11049,5 +11032,28 @@
    "nota": "Precio pedido de US$12,530 está muy por encima del valor de mercado de este modelo nuevo con caja y papeles, que ronda US$5,500-6,500."
   },
   "motivo": "triage: Precio pedido de US$12,530 está muy por encima del valor de mercado de este modelo nuevo con caja y papeles, que ronda US$5,500-6,500. (justo 6000)"
+ },
+ {
+  "fecha": "2026-11-16T10:37:47.531840+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Grantour Racing Chronograph Reference 20530N Automatic 42mm",
+  "total": 2861.63,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168866302980",
+  "item_id": "v1|168866302980|0",
+  "referencia": "20530N",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Grantour Chronograph (acero, bisel negro con taquímetro, esfera plateada, correa de caucho perforada)",
+   "referencia": "20530N (según el título; la referencia no es legible en la foto, y el modelo visible corresponde a la línea Grantour Chrono)",
+   "precio_justo_usd": 2700,
+   "interesante": false,
+   "nota": "Precio pedido de US$2862 con envío, unos 6% por encima de mi estimación de venta real para un Grantour Chrono de acero usado en buen estado. No hay descuento suficiente para considerarlo oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$2862 con envío, unos 6% por encima de mi estimación de venta real para un Grantour Chrono de acero usado en buen estado. No hay descuento suficiente para considerarlo oportunidad. (justo 2700)"
  }
 ]
