@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-13T18:05:51.186135+00:00",
   "marca": "Rolex",
-  "titulo": "2004 MINT Rolex Explorer II 16570 Stainless Steel Black 3185 GMT 40mm Watch Box",
-  "total": 8375.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287727598577",
-  "item_id": "v1|287727598577|0",
-  "referencia": "16570",
-  "mercado": {
-   "n": 40,
-   "p25": 8445,
-   "mediana": 8970
-  },
-  "ratio_mercado": 0.992,
-  "motivo": "precio normal (99 % del cuartil bajo de 16570)"
- },
- {
-  "fecha": "2026-11-13T18:05:51.186135+00:00",
-  "marca": "Rolex",
   "titulo": "MINT Rolex Daytona 16523 Zenith Black Chronograph 40mm Yellow Gold Two Tone Box",
   "total": 16657.05,
   "condicion": "Pre-owned - Excellent",
@@ -10972,5 +10955,22 @@
    "nota": "Es un modelo de cuarzo de producción reciente, no vintage como indica el título. Pedir US$6,500 está muy por encima de su precio de venta real de mercado."
   },
   "motivo": "triage: Es un modelo de cuarzo de producción reciente, no vintage como indica el título. Pedir US$6,500 está muy por encima de su precio de venta real de mercado. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-17T06:23:16.127999+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sky-Dweller 42mm UNWORN 2026 Black Index Fluted Jubilee Wood 336938",
+  "total": 68495.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/198801583844",
+  "item_id": "v1|198801583844|0",
+  "triage": {
+   "modelo": "Rolex Datejust de oro amarillo (bisel acanalado, esfera negra, brazalete President) — no coincide con el título",
+   "referencia": null,
+   "precio_justo_usd": 32000,
+   "interesante": false,
+   "nota": "El título dice Sky-Dweller 336938, pero las fotos muestran un Datejust de oro amarillo con brazalete President, así que el listado es engañoso. Aunque el precio fuera correcto para el reloj de la foto, US$68.495 está muy por encima de su valor de mercado."
+  },
+  "motivo": "triage: El título dice Sky-Dweller 336938, pero las fotos muestran un Datejust de oro amarillo con brazalete President, así que el listado es engañoso. Aunque el precio fuera correcto para el reloj de la foto, US$68.495 está muy por encima de su valor de mercado. (justo 32000)"
  }
 ]
