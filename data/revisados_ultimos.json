@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-14T04:51:07.428499+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Cellini 3805 18k White Gold!",
-  "total": 3677.5,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128193717308",
-  "item_id": "v1|128193717308|0",
-  "triage": {
-   "modelo": "Rolex Cellini, oro blanco 18k (la foto no muestra un Rolex)",
-   "referencia": "3805",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "La foto muestra un reloj rectangular con correa de cuero que no parece ser un Rolex Cellini; el listado es engañoso o las fotos no corresponden. Sin fotos reales del modelo anunciado, no es una oportunidad."
-  },
-  "motivo": "triage: La foto muestra un reloj rectangular con correa de cuero que no parece ser un Rolex Cellini; el listado es engañoso o las fotos no corresponden. Sin fotos reales del modelo anunciado, no es una oportunidad. (justo 3200)"
- },
- {
-  "fecha": "2026-11-14T05:06:06.646349+00:00",
-  "marca": "Rolex",
-  "titulo": "2023 ROLEX GMT-Master II Root Beer 40mm Brown Rose 126711CHNR - Box & Papers",
-  "total": 20950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366808856858",
-  "item_id": "v1|366808856858|0",
-  "referencia": "126711CHNR",
-  "mercado": {
-   "n": 101,
-   "p25": 20697,
-   "mediana": 21668
-  },
-  "ratio_mercado": 1.012,
-  "motivo": "precio normal (101 % del cuartil bajo de 126711CHNR)"
- },
- {
   "fecha": "2026-11-14T05:06:06.646349+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos Large Blue Dial. Ref WSSA0030",
@@ -10939,5 +10905,39 @@
    "nota": "Precio pedido unos 13% por debajo de la estimación, sin margen suficiente; el modelo es muy falsificado y el listado no menciona papeles, así que requiere verificación presencial."
   },
   "motivo": "triage: Precio pedido unos 13% por debajo de la estimación, sin margen suficiente; el modelo es muy falsificado y el listado no menciona papeles, así que requiere verificación presencial. (justo 1600)"
+ },
+ {
+  "fecha": "2026-11-17T23:53:53.697476+00:00",
+  "marca": "Tudor",
+  "titulo": "2023 Tudor Black Bay Stainless Steel Auto 41mm Watch 7941A1A0RU B+P #WI304",
+  "total": 4095.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407370640066",
+  "item_id": "v1|407370640066|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 41 (bisel rojo, brazalete Jubilee, esfera negra)",
+   "referencia": "7941A1A0RU",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Precio pedido de US$4095 está por encima del valor de mercado secundario estimado para este modelo y año; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido de US$4095 está por encima del valor de mercado secundario estimado para este modelo y año; no hay descuento suficiente. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-17T23:53:53.697476+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay GMT 79830RB 41mm Pepsi Automatic Watch Box & Papers",
+  "total": 3799.98,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960209342415",
+  "item_id": "v1|960209342415|0",
+  "referencia": "79830RB",
+  "mercado": {
+   "n": 54,
+   "p25": 3768,
+   "mediana": 4000
+  },
+  "ratio_mercado": 1.008,
+  "motivo": "precio normal (101 % del cuartil bajo de 79830RB)"
  }
 ]
