@@ -1,86 +1,5 @@
 [
  {
-  "fecha": "2026-11-13T23:05:50.667810+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Cellini Vintage 6631 Watch 24mm 18K Yellow Gold",
-  "total": 17550.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336896412153",
-  "item_id": "v1|336896412153|0",
-  "referencia": "6631",
-  "mercado": {
-   "n": 1,
-   "p25": 5535,
-   "mediana": 5535
-  },
-  "triage": {
-   "modelo": "Rolex Cellini (caja cojín en oro amarillo 18K, esfera champán con numerales romanos)",
-   "referencia": "6631 (según el título; no verificable en la foto)",
-   "precio_justo_usd": 7500,
-   "interesante": false,
-   "nota": "Precio pedido de US$17.550 muy por encima de lo que se vende realmente un Cellini 6631 de oro 18K usado; el valor depende sobre todo del oro, no de una prima de Rolex."
-  },
-  "motivo": "triage: Precio pedido de US$17.550 muy por encima de lo que se vende realmente un Cellini 6631 de oro 18K usado; el valor depende sobre todo del oro, no de una prima de Rolex. (justo 7500)"
- },
- {
-  "fecha": "2026-11-13T23:20:51.317539+00:00",
-  "marca": "Rolex",
-  "titulo": "2010 Rolex 116234 Datejust 36mm Steel White Gold Silver Roman Jubilee",
-  "total": 13900.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307281499901",
-  "item_id": "v1|307281499901|0",
-  "referencia": "116234",
-  "mercado": {
-   "n": 49,
-   "p25": 9025,
-   "mediana": 9745
-  },
-  "ratio_mercado": 1.54,
-  "motivo": "precio normal (154 % del cuartil bajo de 116234)"
- },
- {
-  "fecha": "2026-11-13T23:20:51.317539+00:00",
-  "marca": "Rolex",
-  "titulo": "2024 Rolex Daytona 126508 40MM Black 18K Yellow Gold Box Paper",
-  "total": 56500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137928744525",
-  "item_id": "v1|137928744525|0",
-  "referencia": "126508",
-  "mercado": {
-   "n": 10,
-   "p25": 76065,
-   "mediana": 79750
-  },
-  "ratio_mercado": 0.743,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 57000,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Usado, buen estado: rayones visibles en carcasa y asas, bisel y esfera sin problemas aparentes"
-  },
-  "ratio_justo": 0.991,
-  "motivo": "precio normal segun revision (99 % del justo 57000)"
- },
- {
-  "fecha": "2026-11-13T23:20:51.317539+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Men's 36mm Datejust 116200 Stainless Steel Smooth Oyster Complete 2015",
-  "total": 12200.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880114265212",
-  "item_id": "v1|880114265212|0",
-  "referencia": "116200",
-  "mercado": {
-   "n": 55,
-   "p25": 8145,
-   "mediana": 8879
-  },
-  "ratio_mercado": 1.498,
-  "motivo": "precio normal (150 % del cuartil bajo de 116200)"
- },
- {
   "fecha": "2026-11-13T23:20:51.317539+00:00",
   "marca": "Rolex",
   "titulo": "2025 Rolex Submariner No Date 124060 41MM Black Oyster Steel B/p",
@@ -10921,5 +10840,79 @@
    "nota": "Pedido US$4190 está por encima del precio de mercado gris para un Tudor nuevo, aunque tenga imperfecciones; no cumple el umbral del 15 %."
   },
   "motivo": "triage: Pedido US$4190 está por encima del precio de mercado gris para un Tudor nuevo, aunque tenga imperfecciones; no cumple el umbral del 15 %. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-17T21:38:53.675881+00:00",
+  "marca": "Rolex",
+  "titulo": "2023 Rolex GMT-Master II \"Batgirl\" Silver Jubilee Bracelet Full Set-126710BLNR",
+  "total": 19500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960209057041",
+  "item_id": "v1|960209057041|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 69,
+   "p25": 18354,
+   "mediana": 18900
+  },
+  "ratio_mercado": 1.062,
+  "motivo": "precio normal (106 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-17T21:38:53.675881+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 16233 Two Tone Jubilee Bracelet",
+  "total": 6020.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960209020019",
+  "item_id": "v1|960209020019|0",
+  "referencia": "16233",
+  "mercado": {
+   "n": 27,
+   "p25": 5599,
+   "mediana": 6095
+  },
+  "ratio_mercado": 1.075,
+  "motivo": "precio normal (108 % del cuartil bajo de 16233)"
+ },
+ {
+  "fecha": "2026-11-17T21:38:53.675881+00:00",
+  "marca": "Rolex",
+  "titulo": "41185: Rolex Datejust 36, Ref. 126201, Box and 2025 Card",
+  "total": 14000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900099761612",
+  "item_id": "v1|900099761612|0",
+  "referencia": "126201",
+  "mercado": {
+   "n": 6,
+   "p25": 13000,
+   "mediana": 14010
+  },
+  "ratio_mercado": 1.077,
+  "motivo": "precio normal (108 % del cuartil bajo de 126201)"
+ },
+ {
+  "fecha": "2026-11-17T21:38:53.675881+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Americaine XL Chronograph 18K Rose Gold W2609356 52mm",
+  "total": 23895.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840139357264",
+  "item_id": "v1|840139357264|0",
+  "referencia": "W2609356",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Tank Américaine XL Chronograph, oro rosa 18K",
+   "referencia": "W2609356",
+   "precio_justo_usd": 20000,
+   "interesante": false,
+   "nota": "Reloj de oro rosa 18K en buen estado, pero el precio pedido (US$23,895 con envío) está por encima de lo que este modelo se vende realmente en el mercado secundario estadounidense."
+  },
+  "motivo": "triage: Reloj de oro rosa 18K en buen estado, pero el precio pedido (US$23,895 con envío) está por encima de lo que este modelo se vende realmente en el mercado secundario estadounidense. (justo 20000)"
  }
 ]
