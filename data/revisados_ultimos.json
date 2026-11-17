@@ -1,125 +1,5 @@
 [
  {
-  "fecha": "2026-11-13T20:50:51.887220+00:00",
-  "marca": "Cartier",
-  "titulo": "Vintage 90's Cartier Tank Basculante 2386 Stainless Steel 22 mm Quartz Watch",
-  "total": 4520.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960192795733",
-  "item_id": "v1|960192795733|0",
-  "referencia": "2386",
-  "mercado": {
-   "n": 2,
-   "p25": 5500,
-   "mediana": 6375
-  },
-  "triage": {
-   "modelo": "Cartier Tank Basculante (esfera visible tipo Must de Cartier, no se ve el lado reversible)",
-   "referencia": "2386",
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "Cuarzo de acero de los 90, estado excelente; el precio pedido de US$4520 está muy por encima del mercado. La foto muestra una esfera de tipo Must de Cartier, así que conviene verificar que el reloj corresponda al listado."
-  },
-  "motivo": "triage: Cuarzo de acero de los 90, estado excelente; el precio pedido de US$4520 está muy por encima del mercado. La foto muestra una esfera de tipo Must de Cartier, así que conviene verificar que el reloj corresponda al listado. (justo 2200)"
- },
- {
-  "fecha": "2026-11-13T20:50:51.887220+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Basculante W1011258",
-  "total": 10900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147679437111",
-  "item_id": "v1|147679437111|0",
-  "referencia": "W1011258",
-  "mercado": {
-   "n": 2,
-   "p25": 6818,
-   "mediana": 9196
-  },
-  "triage": {
-   "modelo": "Cartier Tank Basculante (acero, cuarzo, con correa verde de cocodrilo)",
-   "referencia": "W1011258",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Precio pedido de US$10,900 muy por encima del valor de venta cerrada de un Tank Basculante de acero usado; la referencia y el estado deben verificarse."
-  },
-  "motivo": "triage: Precio pedido de US$10,900 muy por encima del valor de venta cerrada de un Tank Basculante de acero usado; la referencia y el estado deben verificarse. (justo 4000)"
- },
- {
-  "fecha": "2026-11-13T20:50:51.887220+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos De Cartier WSSA0062",
-  "total": 7300.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147679434129",
-  "item_id": "v1|147679434129|0",
-  "referencia": "WSSA0062",
-  "mercado": {
-   "n": 4,
-   "p25": 8000,
-   "mediana": 8272
-  },
-  "triage": {
-   "modelo": "Cartier Santos de Cartier Large (LM) acero, esfera verde, correa de piel verde",
-   "referencia": "WSSA0062",
-   "precio_justo_usd": 6300,
-   "interesante": false,
-   "nota": "Precio pedido US$7300 supera el valor de venta estimado de un LM de acero de uso en buen estado; no cumple el umbral del 15 %."
-  },
-  "motivo": "triage: Precio pedido US$7300 supera el valor de venta estimado de un LM de acero de uso en buen estado; no cumple el umbral del 15 %. (justo 6300)"
- },
- {
-  "fecha": "2026-11-13T21:05:51.042794+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date 40 Gold Olive 228235",
-  "total": 68000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206698955639",
-  "item_id": "v1|206698955639|0",
-  "referencia": "228235",
-  "mercado": {
-   "n": 50,
-   "p25": 52999,
-   "mediana": 56700
-  },
-  "ratio_mercado": 1.283,
-  "motivo": "precio normal (128 % del cuartil bajo de 228235)"
- },
- {
-  "fecha": "2026-11-13T21:05:51.042794+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust Steel 18K White Gold Automatic Men's Watch 116234",
-  "total": 10199.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960192832173",
-  "item_id": "v1|960192832173|0",
-  "referencia": "116234",
-  "mercado": {
-   "n": 49,
-   "p25": 9025,
-   "mediana": 9745
-  },
-  "ratio_mercado": 1.13,
-  "motivo": "precio normal (113 % del cuartil bajo de 116234)"
- },
- {
-  "fecha": "2026-11-13T21:20:50.683603+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust Midsize 31 Steel Yellow Gold Diamond Ladies Watch 78273",
-  "total": 10020.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336896280390",
-  "item_id": "v1|336896280390|0",
-  "triage": {
-   "modelo": "Rolex Datejust 31 acero y oro amarillo, bisel acanalado, esfera champán con diamantes, brazalete Jubilee",
-   "referencia": "78273",
-   "precio_justo_usd": 7000,
-   "interesante": false,
-   "nota": "Precio pedido de US$10,020 está muy por encima del valor de venta real de la 78273 en estado bueno, incluso con esfera de diamantes."
-  },
-  "motivo": "triage: Precio pedido de US$10,020 está muy por encima del valor de venta real de la 78273 en estado bueno, incluso con esfera de diamantes. (justo 7000)"
- },
- {
   "fecha": "2026-11-13T21:20:50.683603+00:00",
   "marca": "Rolex",
   "titulo": "2026 Rolex Land-Dweller 40mm Land Dweller 127334 Box Papers",
@@ -10916,5 +10796,113 @@
   },
   "ratio_mercado": 0.893,
   "motivo": "precio normal (89 % del cuartil bajo de 116333)"
+ },
+ {
+  "fecha": "2026-11-17T19:23:36.488820+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 179173 26mm Two Tone 18K Gold Champagne Jubilee Ladies Watch",
+  "total": 7900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940100324313",
+  "item_id": "v1|940100324313|0",
+  "referencia": "179173",
+  "mercado": {
+   "n": 78,
+   "p25": 9877,
+   "mediana": 10128
+  },
+  "ratio_mercado": 0.8,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 6800,
+   "riesgo_autenticidad": "bajo",
+   "estado": "Bueno a muy bueno, con rayones leves a moderados, caja sin papeles y sin año confirmado"
+  },
+  "motivo": "Claude descarto: Las fotos son reales, tomadas en un soporte, y coinciden con un 179173 genuino: bisel acanalado, corona de oro, texto de esfera y fecha en 28 coherentes en todas las tomas. No veo señales claras de réplica ni de esfera repintada. La esfera y las agujas parecen originales y limpias.; Faltan la foto del fondo de caja y la del movimiento. No se puede verificar el número de serie, el año ni el calibre 2235. Tampoco hay foto de los números entre los cuernos ni del cierre. El vendedor garantiza autenticidad en el texto, pero el campo estructurado de garantía de autenticidad está en 'No'."
+ },
+ {
+  "fecha": "2026-11-17T19:23:36.488820+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Lady-Datejust NEW 2026 Pink Index Two Tone Rose Gold Diamond Jubilee",
+  "total": 25995.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800930840110",
+  "item_id": "v1|800930840110|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 28 mm, acero y oro Everose (Rolesor), bisel de diamantes, esfera rosa con índices, brazalete Jubilee",
+   "referencia": "279381RBR",
+   "precio_justo_usd": 17000,
+   "interesante": false,
+   "nota": "Precio pedido de US$25,995 muy por encima del mercado secundario para esta referencia nueva (aprox. US$16-18k). No es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$25,995 muy por encima del mercado secundario para esta referencia nueva (aprox. US$16-18k). No es una oportunidad. (justo 17000)"
+ },
+ {
+  "fecha": "2026-11-17T19:23:36.488820+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31mm 2019 Pink Index Smooth Oyster 178240",
+  "total": 8495.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198803225654",
+  "item_id": "v1|198803225654|0",
+  "referencia": "178240",
+  "mercado": {
+   "n": 24,
+   "p25": 8145,
+   "mediana": 8815
+  },
+  "ratio_mercado": 1.043,
+  "motivo": "precio normal (104 % del cuartil bajo de 178240)"
+ },
+ {
+  "fecha": "2026-11-17T19:23:36.488820+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Watch GMT-Master II \"Pepsi\" 126710BLRO - Inventory 9493 Stainless Steel",
+  "total": 24199.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287737071111",
+  "item_id": "v1|287737071111|0",
+  "referencia": "126710BLRO",
+  "mercado": {
+   "n": 14,
+   "p25": 23655,
+   "mediana": 24150
+  },
+  "ratio_mercado": 1.023,
+  "motivo": "precio normal (102 % del cuartil bajo de 126710BLRO)"
+ },
+ {
+  "fecha": "2026-11-17T19:23:36.488820+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Lady-Datejust NEW 2026 Pink Index Two Tone Rose Gold Diamond Oyster",
+  "total": 25995.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800930826432",
+  "item_id": "v1|800930826432|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 28 Rolesor (acero y oro Everose), esfera rosa con índices",
+   "referencia": "279381RBR (probable, no confirmable solo con la foto)",
+   "precio_justo_usd": 13000,
+   "interesante": false,
+   "nota": "Precio pedido casi el doble del valor de venta cerrada de un modelo nuevo de esta referencia; el listado es muy sospechoso."
+  },
+  "motivo": "triage: Precio pedido casi el doble del valor de venta cerrada de un modelo nuevo de esta referencia; el listado es muy sospechoso. (justo 13000)"
+ },
+ {
+  "fecha": "2026-11-17T19:23:36.488820+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise Gold Quartz Diamond Bracelet Watch 20mm x 25mm WE1001R8",
+  "total": 17950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900099550032",
+  "item_id": "v1|900099550032|0",
+  "triage": {
+   "modelo": "Cartier Tank Française, cuarzo, oro amarillo con bisel de diamantes, brazalete de oro (20x25 mm)",
+   "referencia": "WE1001R8",
+   "precio_justo_usd": 12000,
+   "interesante": false,
+   "nota": "Precio pedido US$17.950 está muy por encima de lo que se cierra para este modelo de oro con diamantes; verificar referencia y peso del oro."
+  },
+  "motivo": "triage: Precio pedido US$17.950 está muy por encima de lo que se cierra para este modelo de oro con diamantes; verificar referencia y peso del oro. (justo 12000)"
  }
 ]
