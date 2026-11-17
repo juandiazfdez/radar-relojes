@@ -1,141 +1,5 @@
 [
  {
-  "fecha": "2026-11-14T02:21:07.264721+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Pelagos FXD MN22",
-  "total": 3707.04,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168861194883",
-  "item_id": "v1|168861194883|0",
-  "triage": {
-   "modelo": "Tudor Pelagos FXD (caja de titanio, esfera azul, correa de tela)",
-   "referencia": "M25600TN (probable; el título menciona MN22 y no lo puedo confirmar desde la foto)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido de US$3,707 con envío queda por encima del valor de venta cerrada estimado para un Pelagos FXD usado en estado Good. No cumple el umbral del 15 % de descuento."
-  },
-  "motivo": "triage: Precio pedido de US$3,707 con envío queda por encima del valor de venta cerrada estimado para un Pelagos FXD usado en estado Good. No cumple el umbral del 15 % de descuento. (justo 3300)"
- },
- {
-  "fecha": "2026-11-14T02:51:06.824506+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, 116243, Steel & Gold, Mother of Pearl Diamond Dial...",
-  "total": 20958.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/800914188595",
-  "item_id": "v1|800914188595|0",
-  "referencia": "116243",
-  "mercado": {
-   "n": 39,
-   "p25": 15667,
-   "mediana": 16067
-  },
-  "ratio_mercado": 1.338,
-  "motivo": "precio normal (134 % del cuartil bajo de 116243)"
- },
- {
-  "fecha": "2026-11-14T02:51:06.824506+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, 116243, Steel & Yellow Gold, Mother of Pearl Diamo...",
-  "total": 20559.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/206699641443",
-  "item_id": "v1|206699641443|0",
-  "referencia": "116243",
-  "mercado": {
-   "n": 39,
-   "p25": 15667,
-   "mediana": 16067
-  },
-  "ratio_mercado": 1.312,
-  "motivo": "precio normal (131 % del cuartil bajo de 116243)"
- },
- {
-  "fecha": "2026-11-14T02:51:06.824506+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Galbee W20012C4 24mm Steel & 18K Gold Ivory Quartz Watch Only",
-  "total": 4900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206697182822",
-  "item_id": "v1|206697182822|0",
-  "triage": {
-   "modelo": "Cartier Santos Galbée (bicolor acero y oro 18K, cuarzo, esfera ivory)",
-   "referencia": "W20012C4",
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "Precio pedido de US$4900 muy por encima del valor de venta real de este modelo de cuarzo bicolor usado, que ronda US$2000-2600 según estado."
-  },
-  "motivo": "triage: Precio pedido de US$4900 muy por encima del valor de venta real de este modelo de cuarzo bicolor usado, que ronda US$2000-2600 según estado. (justo 2300)"
- },
- {
-  "fecha": "2026-11-14T02:51:06.824506+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Large Model Diamond Automatic . Guaranteed to be authentic by eBa",
-  "total": 8800.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/198793331399",
-  "item_id": "v1|198793331399|0",
-  "triage": {
-   "modelo": "Cartier Santos de Cartier Large (tamaño grande), acero, con pavé de diamantes añadido (aspecto de modificación externa)",
-   "referencia": null,
-   "precio_justo_usd": 7000,
-   "interesante": false,
-   "nota": "Las fotos muestran un Santos grande con diamantes de terceros, no una pieza de fábrica; la pieza de acero sin modificar tiene un precio de mercado gris menor, el añadido se revende a poco, y el precio pedido no está 15 % por debajo del valor real."
-  },
-  "motivo": "triage: Las fotos muestran un Santos grande con diamantes de terceros, no una pieza de fábrica; la pieza de acero sin modificar tiene un precio de mercado gris menor, el añadido se revende a poco, y el precio pedido no está 15 % por debajo del valor real. (justo 7000)"
- },
- {
-  "fecha": "2026-11-14T03:06:06.932231+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex President 18038 6.4 Million Serial 1980 Vintage 18K Day-Date Luxury Watch.",
-  "total": 18540.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287728352415",
-  "item_id": "v1|287728352415|0",
-  "referencia": "18038",
-  "mercado": {
-   "n": 18,
-   "p25": 9165,
-   "mediana": 10484
-  },
-  "ratio_mercado": 2.023,
-  "motivo": "precio normal (202 % del cuartil bajo de 18038)"
- },
- {
-  "fecha": "2026-11-14T03:06:06.932231+00:00",
-  "marca": "Rolex",
-  "titulo": "eLive- Rolex GMT-Master II Bruce Wayne Jubilee Bracelet 126710GRNR",
-  "total": 1.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/128193594735",
-  "item_id": "v1|128193594735|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 69,
-   "p25": 21325,
-   "mediana": 22494
-  },
-  "ratio_mercado": 0.0,
-  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
- },
- {
-  "fecha": "2026-11-14T03:06:06.932231+00:00",
-  "marca": "Rolex",
-  "titulo": "Rare Rolex Tiffany & Co. Oyster Perpetual 1002 Solid Yellow Gold, XL JewelryBox",
-  "total": 19038.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147679785236",
-  "item_id": "v1|147679785236|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual (vintage) con esfera Tiffany & Co., caja de oro amarillo macizo",
-   "referencia": "1002",
-   "precio_justo_usd": 6000,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de mercado; en la foto la caja y la correa no se distinguen claramente como oro macizo, así que conviene verificar material y papeles."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de mercado; en la foto la caja y la correa no se distinguen claramente como oro macizo, así que conviene verificar material y papeles. (justo 6000)"
- },
- {
   "fecha": "2026-11-14T03:06:06.932231+00:00",
   "marca": "Rolex",
   "titulo": "Rolex GMT Master II 116710BLNR Batman S/S 40MM Oyster Sport Watch. Mixed Serial.",
@@ -10914,5 +10778,160 @@
    "nota": "Precio pedido un ~8% bajo el valor estimado de venta; no alcanza el umbral del 15%. Verificar año, estado de la pulsera y autenticidad antes de comprar."
   },
   "motivo": "triage: Precio pedido un ~8% bajo el valor estimado de venta; no alcanza el umbral del 15%. Verificar año, estado de la pulsera y autenticidad antes de comprar. (justo 1950)"
+ },
+ {
+  "fecha": "2026-11-17T22:53:54.232140+00:00",
+  "marca": "Rolex",
+  "titulo": "2018 Rolex Submariner Date Hulk 116610LV 40MM Green Oyster Steel Box Paper",
+  "total": 20500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880127587015",
+  "item_id": "v1|880127587015|0",
+  "referencia": "116610LV",
+  "mercado": {
+   "n": 28,
+   "p25": 20000,
+   "mediana": 20697
+  },
+  "ratio_mercado": 1.025,
+  "motivo": "precio normal (102 % del cuartil bajo de 116610LV)"
+ },
+ {
+  "fecha": "2026-11-17T22:53:54.232140+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner 5513 Vintage 40MM Diver Running Max Wrist 7in",
+  "total": 8520.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147685490338",
+  "item_id": "v1|147685490338|0",
+  "referencia": "5513",
+  "mercado": {
+   "n": 34,
+   "p25": 11918,
+   "mediana": 14319
+  },
+  "ratio_mercado": 0.715,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 9500,
+   "riesgo_autenticidad": "medio",
+   "estado": "Aceptable-bueno: plexi rayado, esfera y manecillas con oxido/patina irregular, bisel desvaido, brazalete con desgaste"
+  },
+  "ratio_justo": 0.897,
+  "motivo": "precio normal segun revision (90 % del justo 9500)"
+ },
+ {
+  "fecha": "2026-11-17T22:53:54.232140+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31 Midsize Steel Yellow Gold Diamond Ladies Watch 278383",
+  "total": 23980.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940100717423",
+  "item_id": "v1|940100717423|0",
+  "referencia": "278383",
+  "mercado": {
+   "n": 8,
+   "p25": 24000,
+   "mediana": 24462
+  },
+  "ratio_mercado": 0.999,
+  "motivo": "precio normal (100 % del cuartil bajo de 278383)"
+ },
+ {
+  "fecha": "2026-11-17T22:53:54.232140+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex GMT-Master II \"Batman\" 126710BLNR 40mm Full Set",
+  "total": 18500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880127575208",
+  "item_id": "v1|880127575208|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 58,
+   "p25": 19660,
+   "mediana": 20496
+  },
+  "ratio_mercado": 0.941,
+  "motivo": "precio normal (94 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-17T22:53:54.232140+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu 33 Rose Gold Diamond Ladies Watch WE902034 Box Papers",
+  "total": 25560.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336902759501",
+  "item_id": "v1|336902759501|0",
+  "referencia": "WE902034",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Ballon Bleu 33 mm, oro rosa con bisel de diamantes, esfera plateada, automático",
+   "referencia": "WE902034",
+   "precio_justo_usd": 17000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de reventa estimado para este modelo usado con caja y papeles; no hay descuento de al menos 15 %."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de reventa estimado para este modelo usado con caja y papeles; no hay descuento de al menos 15 %. (justo 17000)"
+ },
+ {
+  "fecha": "2026-11-17T22:53:54.232140+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Française WE1002S3 ( 2403) 20mm 18k White Gold w Diamonds Ladies",
+  "total": 9875.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336902752289",
+  "item_id": "v1|336902752289|0",
+  "referencia": "2403",
+  "mercado": {
+   "n": 11,
+   "p25": 6500,
+   "mediana": 8000
+  },
+  "ratio_mercado": 1.519,
+  "motivo": "precio normal (152 % del cuartil bajo de 2403)"
+ },
+ {
+  "fecha": "2026-11-17T22:53:54.232140+00:00",
+  "marca": "Tudor",
+  "titulo": "New 2026 Tudor Pelagos Fxd Chrono Alinghi Red Bull 25807KN 43MM Blue Carbon B/p",
+  "total": 4000.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/137940311101",
+  "item_id": "v1|137940311101|0",
+  "referencia": "25807KN",
+  "mercado": {
+   "n": 3,
+   "p25": 4270,
+   "mediana": 4329
+  },
+  "triage": {
+   "modelo": "Tudor Pelagos FXD Chrono Alinghi Red Bull Racing (edición limitada, azul carbono, correa textil)",
+   "referencia": "M25807KN-0001 (listada como 25807KN)",
+   "precio_justo_usd": 4800,
+   "interesante": false,
+   "nota": "Precio ~17% bajo un estimado conservador de venta, pero para una edición limitada tan demandada es un descuento sospechosamente grande; verificar autenticidad, número de serie, papeles y caja antes de comprar."
+  },
+  "motivo": "triage: Precio ~17% bajo un estimado conservador de venta, pero para una edición limitada tan demandada es un descuento sospechosamente grande; verificar autenticidad, número de serie, papeles y caja antes de comprar. (justo 4800)"
+ },
+ {
+  "fecha": "2026-11-17T22:53:54.232140+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black 79540 Automatic Stainless Steel 41mm Watch",
+  "total": 2900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227619226112",
+  "item_id": "v1|227619226112|0",
+  "referencia": "79540",
+  "mercado": {
+   "n": 7,
+   "p25": 2500,
+   "mediana": 2706
+  },
+  "ratio_mercado": 1.16,
+  "motivo": "precio normal (116 % del cuartil bajo de 79540)"
  }
 ]
