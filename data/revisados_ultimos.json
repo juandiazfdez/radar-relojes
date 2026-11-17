@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-13T19:05:51.064149+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthère Medium Two-Tone Watch",
-  "total": 5700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407360908065",
-  "item_id": "v1|407360908065|0",
-  "triage": {
-   "modelo": "Cartier Panthère Medium, acero y oro amarillo (two-tone), cuarzo",
-   "referencia": "W25028B6 (probable; la referencia actual sería 1057930; confirmar en la caja o el movimiento)",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Pedido de US$5700 está muy por encima del precio de venta cerrada de un Panthère Medium two-tone usado en buen estado, que ronda US$3500-4500 según caja y papeles."
-  },
-  "motivo": "triage: Pedido de US$5700 está muy por encima del precio de venta cerrada de un Panthère Medium two-tone usado en buen estado, que ronda US$3500-4500 según caja y papeles. (justo 4000)"
- },
- {
-  "fecha": "2026-11-13T19:05:51.064149+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Authentic Ladies Cartier Tank Watch, Presentation Box, Cartier Gift Bag.",
-  "total": 2650.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800912865493",
-  "item_id": "v1|800912865493|0",
-  "triage": {
-   "modelo": "Cartier Must de Tank (versión vermeil, tamaño grande, cuarzo, esfera blanca con números romanos)",
-   "referencia": null,
-   "precio_justo_usd": 1000,
-   "interesante": false,
-   "nota": "Precio pedido de US$2650 muy por encima del mercado para un Must de Cartier vermeil usado; el título indica talla de mujer pero la imagen muestra un modelo grande, y no se mencionan papeles."
-  },
-  "motivo": "triage: Precio pedido de US$2650 muy por encima del mercado para un Must de Cartier vermeil usado; el título indica talla de mujer pero la imagen muestra un modelo grande, y no se mencionan papeles. (justo 1000)"
- },
- {
-  "fecha": "2026-11-13T19:05:51.064149+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay 54 37mm Stainless Steel M79000B-0001",
-  "total": 3495.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880113390365",
-  "item_id": "v1|880113390365|0",
-  "referencia": "M79000B-0001",
-  "mercado": {
-   "n": 2,
-   "p25": 3800,
-   "mediana": 3895
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay 58 Navy Blue (la foto parece este modelo, no un Black Bay 54)",
-   "referencia": "M79000B-0001 según el título; la foto sugiere M79030B-0001",
-   "precio_justo_usd": 3100,
-   "interesante": false,
-   "nota": "El precio pedido de US$3495 está por encima del valor de mercado gris para un Tudor nuevo con caja y papeles. Además, el título indica 37 mm y la foto parece un modelo de 39 mm: verificar referencia y medidas antes de comprar."
-  },
-  "motivo": "triage: El precio pedido de US$3495 está por encima del valor de mercado gris para un Tudor nuevo con caja y papeles. Además, el título indica 37 mm y la foto parece un modelo de 39 mm: verificar referencia y medidas antes de comprar. (justo 3100)"
- },
- {
   "fecha": "2026-11-13T19:20:50.903633+00:00",
   "marca": "Rolex",
   "titulo": "2011 Rolex DateJust II 116334 Blue 41mm Fluted 18K Gold Steel Oyster Box Papers",
@@ -10983,5 +10926,56 @@
    "nota": "Pelagos de titanio con esfera azul, con caja y papeles; US$4000 está en línea con el mercado de segunda mano, sin descuento significativo."
   },
   "motivo": "triage: Pelagos de titanio con esfera azul, con caja y papeles; US$4000 está en línea con el mercado de segunda mano, sin descuento significativo. (justo 3900)"
+ },
+ {
+  "fecha": "2026-11-17T16:38:37.210526+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31, 178384, Steel & White Gold, Mother of Pearl Roman IV Diamo...",
+  "total": 15967.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/366817187706",
+  "item_id": "v1|366817187706|0",
+  "referencia": "178384",
+  "mercado": {
+   "n": 13,
+   "p25": 15990,
+   "mediana": 16840
+  },
+  "ratio_mercado": 0.999,
+  "motivo": "precio normal (100 % del cuartil bajo de 178384)"
+ },
+ {
+  "fecha": "2026-11-17T16:38:37.210526+00:00",
+  "marca": "Rolex",
+  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
+  "total": 13590.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327461560882",
+  "item_id": "v1|327461560882|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date (bisel negro, brazalete de acero)",
+   "referencia": "116610LN (probable; no se distingue con certeza en la foto)",
+   "precio_justo_usd": 12800,
+   "interesante": false,
+   "nota": "Con caja y papeles, la referencia 116610LN en estado excelente se vende en torno a US$12.000-13.000. Si fuera 126610LN el precio justo sería mayor, pero el listado no confirma la referencia. El precio pedido no supera el umbral del 15 %."
+  },
+  "motivo": "triage: Con caja y papeles, la referencia 116610LN en estado excelente se vende en torno a US$12.000-13.000. Si fuera 126610LN el precio justo sería mayor, pero el listado no confirma la referencia. El precio pedido no supera el umbral del 15 %. (justo 12800)"
+ },
+ {
+  "fecha": "2026-11-17T16:38:37.210526+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere W25028B6 Midsize Two Tone Ladies Watch",
+  "total": 8199.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366817180280",
+  "item_id": "v1|366817180280|0",
+  "triage": {
+   "modelo": "Cartier Panthère Midsize bicolor (acero y oro amarillo), cuarzo, esfera color marfil con numerales romanos",
+   "referencia": "W25028B6",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del mercado de reventa de este modelo midsize bicolor de cuarzo, que suele venderse en torno a US$3,500-4,500 según estado y papeles."
+  },
+  "motivo": "triage: Precio pedido muy por encima del mercado de reventa de este modelo midsize bicolor de cuarzo, que suele venderse en torno a US$3,500-4,500 según estado y papeles. (justo 4000)"
  }
 ]
