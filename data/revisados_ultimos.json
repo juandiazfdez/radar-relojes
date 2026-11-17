@@ -2,87 +2,6 @@
  {
   "fecha": "2026-11-13T18:05:51.186135+00:00",
   "marca": "Rolex",
-  "titulo": "MINT Ladies Rolex 68274 Glacier Blue Diamond Midsize 31mm Datejust Jubilee Steel",
-  "total": 8981.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307281106419",
-  "item_id": "v1|307281106419|0",
-  "referencia": "68274",
-  "mercado": {
-   "n": 34,
-   "p25": 8000,
-   "mediana": 9389
-  },
-  "ratio_mercado": 1.123,
-  "motivo": "precio normal (112 % del cuartil bajo de 68274)"
- },
- {
-  "fecha": "2026-11-13T18:05:51.186135+00:00",
-  "marca": "Rolex",
-  "titulo": "2023 MINT Rolex DateJust 41mm 126333 Two Tone Oyster Yellow Gold Silver Stick",
-  "total": 12415.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940089581558",
-  "item_id": "v1|940089581558|0",
-  "referencia": "126333",
-  "mercado": {
-   "n": 35,
-   "p25": 14950,
-   "mediana": 15293
-  },
-  "ratio_mercado": 0.83,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 12300,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Aspecto casi nuevo en las fotos, con caja original pero sin papeles"
-  },
-  "ratio_justo": 1.009,
-  "motivo": "precio normal segun revision (101 % del justo 12300)"
- },
- {
-  "fecha": "2026-11-13T18:05:51.186135+00:00",
-  "marca": "Rolex",
-  "titulo": "MINT 2016 Rolex Sea-Dweller Deepsea James Cameron Blue 116660 44mm Watch Box",
-  "total": 12314.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940089581550",
-  "item_id": "v1|940089581550|0",
-  "referencia": "116660",
-  "mercado": {
-   "n": 43,
-   "p25": 10795,
-   "mediana": 12499
-  },
-  "ratio_mercado": 1.141,
-  "motivo": "precio normal (114 % del cuartil bajo de 116660)"
- },
- {
-  "fecha": "2026-11-13T18:05:51.186135+00:00",
-  "marca": "Rolex",
-  "titulo": "2020 PAPERS MINT Ladies Rolex DateJust Midsize 31mm White Roman 178274 Watch Box",
-  "total": 9082.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287727598658",
-  "item_id": "v1|287727598658|0",
-  "referencia": "178274",
-  "mercado": {
-   "n": 52,
-   "p25": 10750,
-   "mediana": 11674
-  },
-  "ratio_mercado": 0.845,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 7200,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Excelente, casi sin uso en las fotos; set completo con caja y papeles"
-  },
-  "motivo": "Claude descarto: El precio de US$9,082 está por encima del valor real de cierre. Un 178274 de acero con bisel de oro blanco y set completo se vende hoy en EE. UU. entre US$6,800 y 7,800. La mediana de US$11,674 de los comparables son precios pedidos e inflados, así que no sirve de referencia.; No hay margen de reventa con ese costo. Comprar a 9,082 obliga a vender a 10,000 o más, un precio que el mercado real no paga por esta referencia."
- },
- {
-  "fecha": "2026-11-13T18:05:51.186135+00:00",
-  "marca": "Rolex",
   "titulo": "2021 MINT PAPERS Rolex 126334 DateJust 41 Rhodium steel White Gold Jubilee Watch",
   "total": 14637.05,
   "condicion": "Pre-owned - Excellent",
@@ -10998,5 +10917,73 @@
   },
   "ratio_mercado": 0.894,
   "motivo": "precio normal (89 % del cuartil bajo de WSSA0029)"
+ },
+ {
+  "fecha": "2026-11-17T03:23:16.411774+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date 118235 18k rose gold 36mm auto watch",
+  "total": 40853.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227617994647",
+  "item_id": "v1|227617994647|0",
+  "referencia": "118235",
+  "mercado": {
+   "n": 17,
+   "p25": 29990,
+   "mediana": 35693
+  },
+  "ratio_mercado": 1.362,
+  "motivo": "precio normal (136 % del cuartil bajo de 118235)"
+ },
+ {
+  "fecha": "2026-11-17T03:23:16.411774+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex Oyster Perpetual Date in 14k yellow gold",
+  "total": 9213.24,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206706908514",
+  "item_id": "v1|206706908514|0",
+  "triage": {
+   "modelo": "Rolex Datejust vintage en oro amarillo, esfera negra (el título dice Oyster Perpetual Date, pero el bisel acanalado indica Datejust)",
+   "referencia": "1601 (probable)",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "El precio pedido está muy por encima del valor de mercado; además, el título no coincide con el bisel acanalado visible y el oro de 14k es poco habitual en Rolex, así que conviene verificar."
+  },
+  "motivo": "triage: El precio pedido está muy por encima del valor de mercado; además, el título no coincide con el bisel acanalado visible y el oro de 14k es poco habitual en Rolex, así que conviene verificar. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-17T03:23:16.411774+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage TUDOR Prince Tiger 79280 Men’s Chronograph Wristwatch Rolex Daytona",
+  "total": 3699.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800927633754",
+  "item_id": "v1|800927633754|0",
+  "triage": {
+   "modelo": "Cronógrafo de acero con bisel tipo tacómetro y correa negra; no coincide con el anuncio y no parece Tudor ni Rolex",
+   "referencia": null,
+   "precio_justo_usd": 1200,
+   "interesante": false,
+   "nota": "El título dice Tudor 79280/Rolex Daytona, pero la foto muestra otro cronógrafo (aspecto Breitling). Listado engañoso; no se puede verificar la referencia Tudor."
+  },
+  "motivo": "triage: El título dice Tudor 79280/Rolex Daytona, pero la foto muestra otro cronógrafo (aspecto Breitling). Listado engañoso; no se puede verificar la referencia Tudor. (justo 1200)"
+ },
+ {
+  "fecha": "2026-11-17T03:23:16.411774+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Calibre in stainless steel",
+  "total": 6774.44,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198801350681",
+  "item_id": "v1|198801350681|0",
+  "triage": {
+   "modelo": "Cartier Calibre de Cartier, acero, esfera blanca",
+   "referencia": "W7100037 (probable, no confirmada en la foto)",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "El precio pedido de US$6774 supera el valor de venta cerrada estimado para esta referencia en estado Good; la referencia exacta y la presencia de caja y papeles no se ven en el listado."
+  },
+  "motivo": "triage: El precio pedido de US$6774 supera el valor de venta cerrada estimado para esta referencia en estado Good; la referencia exacta y la presencia de caja y papeles no se ven en el listado. (justo 5000)"
  }
 ]
