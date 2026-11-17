@@ -2,47 +2,6 @@
  {
   "fecha": "2026-11-13T18:20:51.570153+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Datejust Ladies 26mm Oyster Perpetual Women's Watch Serviced Ref. 6916",
-  "total": 3019.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267842713877",
-  "item_id": "v1|267842713877|0",
-  "referencia": "6916",
-  "mercado": {
-   "n": 25,
-   "p25": 3700,
-   "mediana": 3895
-  },
-  "ratio_mercado": 0.816,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 2900,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Buen estado visible, esfera limpia y brazalete con desgaste normal, revisado según el vendedor, sin caja ni papeles"
-  },
-  "ratio_justo": 1.041,
-  "motivo": "precio normal segun revision (104 % del justo 2900)"
- },
- {
-  "fecha": "2026-11-13T18:20:51.570153+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex GMT Master Ref. 1675  Pepsi 1960s Era",
-  "total": 14900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198792467631",
-  "item_id": "v1|198792467631|0",
-  "triage": {
-   "modelo": "Rolex GMT-Master (bisel Pepsi, acero)",
-   "referencia": "1675",
-   "precio_justo_usd": 20000,
-   "interesante": false,
-   "nota": "Precio muy por debajo del mercado para un 1675 Pepsi; sospecha de réplica, esfera o piezas no originales. Requiere verificación presencial o peritaje antes de comprar."
-  },
-  "motivo": "triage: Precio muy por debajo del mercado para un 1675 Pepsi; sospecha de réplica, esfera o piezas no originales. Requiere verificación presencial o peritaje antes de comprar. (justo 20000)"
- },
- {
-  "fecha": "2026-11-13T18:20:51.570153+00:00",
-  "marca": "Rolex",
   "titulo": "2023 Rolex Explorer II 226570 Polar White Stainless Steel 42mm Watch Box Papers",
   "total": 12734.07,
   "condicion": "Pre-owned - Excellent",
@@ -10984,5 +10943,45 @@
    "nota": "Precio ~26% bajo mercado, señal típica de replica o listado engañoso; 'Box & Card' no equivale a papeles completos. Verificar autenticidad antes de comprar."
   },
   "motivo": "triage: Precio ~26% bajo mercado, señal típica de replica o listado engañoso; 'Box & Card' no equivale a papeles completos. Verificar autenticidad antes de comprar. (justo 5800)"
+ },
+ {
+  "fecha": "2026-11-17T13:08:27.310366+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos de Cartier WSSA0071",
+  "total": 7895.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287736418801",
+  "item_id": "v1|287736418801|0",
+  "referencia": "WSSA0071",
+  "mercado": {
+   "n": 5,
+   "p25": 7950,
+   "mediana": 8000
+  },
+  "ratio_mercado": 0.993,
+  "motivo": "precio normal (99 % del cuartil bajo de WSSA0071)"
+ },
+ {
+  "fecha": "2026-11-17T13:08:27.310366+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 54 Stainless BLUE 37mm Automatic Watch Men M79000B-0001",
+  "total": 2940.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/307287023738",
+  "item_id": "v1|307287023738|0",
+  "referencia": "M79000B-0001",
+  "mercado": {
+   "n": 3,
+   "p25": 3315,
+   "mediana": 3950
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 54 acero, esfera y bisel azules, brazalete (37 mm)",
+   "referencia": "M79000B-0001 (según título del listado)",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "El precio pedido está solo ~2 % por debajo de la estimación de venta real con caja y papeles; no cumple el umbral del 15 %. Verificar la referencia exacta y la autenticidad antes de comprar."
+  },
+  "motivo": "triage: El precio pedido está solo ~2 % por debajo de la estimación de venta real con caja y papeles; no cumple el umbral del 15 %. Verificar la referencia exacta y la autenticidad antes de comprar. (justo 3000)"
  }
 ]

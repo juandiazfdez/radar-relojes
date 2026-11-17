@@ -5230,13 +5230,13 @@
   "max": 2499
  },
  "Tudor M79000B|usado": {
-  "fecha": "2026-11-14",
+  "fecha": "2026-11-17",
   "consulta": "Tudor M79000B",
-  "n": 2,
-  "mediana": 4062,
-  "p25": 3950,
+  "n": 3,
+  "mediana": 3950,
+  "p25": 3315,
   "p75": 4175,
-  "min": 3950,
+  "min": 3315,
   "max": 4175
  },
  "TAG Heuer CAY211B|nuevo": {
@@ -20305,12 +20305,12 @@
   "max": 25000
  },
  "Cartier WSSA0071|usado": {
-  "fecha": "2026-11-09",
+  "fecha": "2026-11-17",
   "consulta": "Cartier WSSA0071",
-  "n": 4,
-  "mediana": 7975,
+  "n": 5,
+  "mediana": 8000,
   "p25": 7950,
-  "p75": 8633,
+  "p75": 8500,
   "min": 7500,
   "max": 8633
  },
