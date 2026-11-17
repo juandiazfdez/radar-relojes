@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-13T18:20:51.570153+00:00",
   "marca": "Rolex",
-  "titulo": "2023 Rolex Explorer II 226570 Polar White Stainless Steel 42mm Watch Box Papers",
-  "total": 12734.07,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960191943270",
-  "item_id": "v1|960191943270|0",
-  "referencia": "226570",
-  "mercado": {
-   "n": 28,
-   "p25": 11990,
-   "mediana": 12727
-  },
-  "ratio_mercado": 1.062,
-  "motivo": "precio normal (106 % del cuartil bajo de 226570)"
- },
- {
-  "fecha": "2026-11-13T18:20:51.570153+00:00",
-  "marca": "Rolex",
   "titulo": "Circa 1981 ROLEX AIR KING 5500 26 Jewel Stainless Steel 34mm Diamond Wristwatch",
   "total": 4699.0,
   "condicion": "Pre-owned - Good",
@@ -10983,5 +10966,28 @@
    "nota": "El precio pedido está solo ~2 % por debajo de la estimación de venta real con caja y papeles; no cumple el umbral del 15 %. Verificar la referencia exacta y la autenticidad antes de comprar."
   },
   "motivo": "triage: El precio pedido está solo ~2 % por debajo de la estimación de venta real con caja y papeles; no cumple el umbral del 15 %. Verificar la referencia exacta y la autenticidad antes de comprar. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-17T14:23:36.809275+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 54 Stainless BLUE 37mm Automatic Watch Men M79000B-0001",
+  "total": 3015.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/307287103600",
+  "item_id": "v1|307287103600|0",
+  "referencia": "M79000B-0001",
+  "mercado": {
+   "n": 3,
+   "p25": 3315,
+   "mediana": 3950
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 54 Stainless, esfera azul, bisel azul, brazalete Jubilee (37 mm)",
+   "referencia": "M79000N-0002 (probable; verificar con el número de serie y la caja)",
+   "precio_justo_usd": 2900,
+   "interesante": false,
+   "nota": "Precio pedido en línea con el mercado gris para un Black Bay 54 azul en acero, dentro de la banda normal; no hay descuento de al menos 15%. La referencia del título (M79000B-0001) no coincide con mi estimación, así que conviene confirmarla."
+  },
+  "motivo": "triage: Precio pedido en línea con el mercado gris para un Black Bay 54 azul en acero, dentro de la banda normal; no hay descuento de al menos 15%. La referencia del título (M79000B-0001) no coincide con mi estimación, así que conviene confirmarla. (justo 2900)"
  }
 ]
