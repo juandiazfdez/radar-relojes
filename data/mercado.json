@@ -18470,14 +18470,14 @@
   "max": 17495
  },
  "Tudor 79930|nuevo": {
-  "fecha": "2026-11-03",
+  "fecha": "2026-11-17",
   "consulta": "Tudor 79930",
-  "n": 2,
-  "mediana": 3622,
+  "n": 3,
+  "mediana": 3757,
   "p25": 3495,
-  "p75": 3750,
+  "p75": 4148,
   "min": 3495,
-  "max": 3750
+  "max": 4148
  },
  "Cartier 1713|usado": {
   "fecha": "2026-11-03",
@@ -21797,6 +21797,11 @@
  "Rolex 116613LN|nuevo": {
   "fecha": "2026-11-17",
   "consulta": "Rolex 116613LN",
+  "n": 0
+ },
+ "Rolex 5020|usado": {
+  "fecha": "2026-11-17",
+  "consulta": "Rolex 5020",
   "n": 0
  }
 }

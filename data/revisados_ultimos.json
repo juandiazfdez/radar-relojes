@@ -1,113 +1,5 @@
 [
  {
-  "fecha": "2026-11-13T22:05:51.095012+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Glamour Double Date Stainless Steel with Silver Face and Diamond Markers",
-  "total": 2411.8,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407361181823",
-  "item_id": "v1|407361181823|0",
-  "triage": {
-   "modelo": "Tudor Glamour Double Date (acero, esfera plateada)",
-   "referencia": "56000",
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "Precio pedido en línea con el mercado de usado; no hay descuento de al menos 15 % y no se ven caja ni papeles."
-  },
-  "motivo": "triage: Precio pedido en línea con el mercado de usado; no hay descuento de al menos 15 % y no se ven caja ni papeles. (justo 2300)"
- },
- {
-  "fecha": "2026-11-13T22:20:51.253267+00:00",
-  "marca": "Rolex",
-  "titulo": "2025 Rolex Cosmograph Daytona, 126500LN, 40mm, Steel, White Dial, Oyster Brac...",
-  "total": 36033.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800913391964",
-  "item_id": "v1|800913391964|0",
-  "referencia": "126500LN",
-  "mercado": {
-   "n": 14,
-   "p25": 33895,
-   "mediana": 37041
-  },
-  "ratio_mercado": 1.063,
-  "motivo": "precio normal (106 % del cuartil bajo de 126500LN)"
- },
- {
-  "fecha": "2026-11-13T22:20:51.253267+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Anglaise XL Automatic Date Two-Tone Bracelet Watch Box & Papers",
-  "total": 8500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/860141628078",
-  "item_id": "v1|860141628078|0",
-  "triage": {
-   "modelo": "Cartier Tank Anglaise XL Automatic, acero y oro rosa (two-tone), esfera plateada con números romanos",
-   "referencia": "Probablemente W5310039 (no verificada en la imagen)",
-   "precio_justo_usd": 6800,
-   "interesante": false,
-   "nota": "Con caja y papeles, su precio de venta cerrada en EE. UU. ronda US$6.500-7.200; el pedido de US$8.500 está por encima del mercado."
-  },
-  "motivo": "triage: Con caja y papeles, su precio de venta cerrada en EE. UU. ronda US$6.500-7.200; el pedido de US$8.500 está por encima del mercado. (justo 6800)"
- },
- {
-  "fecha": "2026-11-13T22:20:51.253267+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Medium Stainless Steel Watch WSSA0029",
-  "total": 8000.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/407361199693",
-  "item_id": "v1|407361199693|0",
-  "referencia": "WSSA0029",
-  "mercado": {
-   "n": 3,
-   "p25": 8292,
-   "mediana": 8494
-  },
-  "triage": {
-   "modelo": "Cartier Santos de Cartier Medium, acero, automático, esfera blanca con números romanos",
-   "referencia": "WSSA0029",
-   "precio_justo_usd": 6300,
-   "interesante": false,
-   "nota": "Nuevo con caja y papeles se vende en mercado gris por debajo de retail, en torno a US$6.000-6.500. El pedido de US$8.000 está por encima del precio de mercado."
-  },
-  "motivo": "triage: Nuevo con caja y papeles se vende en mercado gris por debajo de retail, en torno a US$6.000-6.500. El pedido de US$8.000 está por encima del precio de mercado. (justo 6300)"
- },
- {
-  "fecha": "2026-11-13T22:35:50.659746+00:00",
-  "marca": "Rolex",
-  "titulo": "⚓️Rolex Submariner Date | Papers | No Holes Case | Excellent Condition⚓️",
-  "total": 10950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880114175619",
-  "item_id": "v1|880114175619|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date (acero, bisel negro)",
-   "referencia": "16610 o 116610LN (no determinable con certeza en la foto)",
-   "precio_justo_usd": 10000,
-   "interesante": false,
-   "nota": "Precio pedido de US$10,950 no está 15 % por debajo del valor de venta cerrada para esta referencia; la referencia exacta y el año deben verificarse."
-  },
-  "motivo": "triage: Precio pedido de US$10,950 no está 15 % por debajo del valor de venta cerrada para esta referencia; la referencia exacta y el año deben verificarse. (justo 10000)"
- },
- {
-  "fecha": "2026-11-13T22:35:50.659746+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex Oyster Perpetual 36 36mm Stainless Steel 126000-0016",
-  "total": 15995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880114174569",
-  "item_id": "v1|880114174569|0",
-  "referencia": "126000",
-  "mercado": {
-   "n": 37,
-   "p25": 11060,
-   "mediana": 12424
-  },
-  "ratio_mercado": 1.446,
-  "motivo": "precio normal (145 % del cuartil bajo de 126000)"
- },
- {
   "fecha": "2026-11-13T22:35:50.659746+00:00",
   "marca": "Rolex",
   "titulo": "Unworn Rolex Land Dweller 127334 Full Set",
@@ -10915,5 +10807,119 @@
    "nota": "Precio pedido de US$4,900 muy por encima del valor de venta cerrada para esta referencia de dos tonos en condición excelente; no es oportunidad."
   },
   "motivo": "triage: Precio pedido de US$4,900 muy por encima del valor de venta cerrada para esta referencia de dos tonos en condición excelente; no es oportunidad. (justo 2600)"
+ },
+ {
+  "fecha": "2026-11-17T20:53:54.012427+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Ladies Date Two Tone 26 mm Jubilee Champagne Automatic Watch 6917 1979",
+  "total": 4500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407370371191",
+  "item_id": "v1|407370371191|0",
+  "referencia": "6917",
+  "mercado": {
+   "n": 42,
+   "p25": 3990,
+   "mediana": 4065
+  },
+  "ratio_mercado": 1.128,
+  "motivo": "precio normal (113 % del cuartil bajo de 6917)"
+ },
+ {
+  "fecha": "2026-11-17T20:53:54.012427+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex Datejust 36 mm Two Tone Jubilee Automatic Watch 1600 Circa 1968",
+  "total": 5500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800931094926",
+  "item_id": "v1|800931094926|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 mm acero y oro amarillo (bicolor), esfera champán, bisel liso, brazalete Jubilee",
+   "referencia": "1600",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Precio pedido de US$5,500 supera claramente el valor de venta cerrada de un 1600 bicolor de ~1968 en estado excelente, incluso con brazalete Jubilee."
+  },
+  "motivo": "triage: Precio pedido de US$5,500 supera claramente el valor de venta cerrada de un 1600 bicolor de ~1968 en estado excelente, incluso con brazalete Jubilee. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-17T20:53:54.012427+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex Oyster Gold-Filled Circa 1940’s Ref: 5020",
+  "total": 1799.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407370359668",
+  "item_id": "v1|407370359668|0",
+  "referencia": "5020",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Precision (caja chapada en oro, cuerda manual, esfera blanca con números arábigos y logo de corona)",
+   "referencia": "5020",
+   "precio_justo_usd": 1000,
+   "interesante": false,
+   "nota": "Precio pedido de US$1,799 está muy por encima del valor de mercado de un Precision chapado en oro de esa época. El título menciona 'Oyster', pero el modelo es Precision, no Oyster; conviene verificar referencia, cajas y estado del movimiento."
+  },
+  "motivo": "triage: Precio pedido de US$1,799 está muy por encima del valor de mercado de un Precision chapado en oro de esa época. El título menciona 'Oyster', pero el modelo es Precision, no Oyster; conviene verificar referencia, cajas y estado del movimiento. (justo 1000)"
+ },
+ {
+  "fecha": "2026-11-17T20:53:54.012427+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Dumont Small Steel & Rose Gold Quartz Box and Papers 2025",
+  "total": 5865.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168869528480",
+  "item_id": "v1|168869528480|0",
+  "triage": {
+   "modelo": "Cartier Santos-Dumont (acero y oro rosa, cuarzo, esfera plateada con numerales romanos)",
+   "referencia": null,
+   "precio_justo_usd": 5300,
+   "interesante": false,
+   "nota": "Precio pedido de US$5.865 con caja y papeles está cerca del mercado secundario, no 15 % por debajo; la referencia exacta no se distingue en la foto."
+  },
+  "motivo": "triage: Precio pedido de US$5.865 con caja y papeles está cerca del mercado secundario, no 15 % por debajo; la referencia exacta no se distingue en la foto. (justo 5300)"
+ },
+ {
+  "fecha": "2026-11-17T20:53:54.012427+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 New Tudor Ranger Black 8/26 Ref# 79930 36mm",
+  "total": 3748.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/257857451126",
+  "item_id": "v1|257857451126|0",
+  "referencia": "79930",
+  "mercado": {
+   "n": 3,
+   "p25": 3495,
+   "mediana": 3757
+  },
+  "triage": {
+   "modelo": "Tudor Ranger Black (36 mm, acero, bisel liso, esfera negra)",
+   "referencia": "79930",
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Nuevo con caja y papeles, el precio pedido está cerca del retail y no tiene descuento de mercado gris suficiente; la referencia 79930 se vende normalmente 15-20 % por debajo."
+  },
+  "motivo": "triage: Nuevo con caja y papeles, el precio pedido está cerca del retail y no tiene descuento de mercado gris suficiente; la referencia 79930 se vende normalmente 15-20 % por debajo. (justo 3100)"
+ },
+ {
+  "fecha": "2026-11-17T20:53:54.012427+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor glamour Men's 36mm Watch Case and  Steel Bracelet",
+  "total": 300.0,
+  "condicion": "For parts or not working",
+  "url": "https://www.ebay.com/itm/128201264887",
+  "item_id": "v1|128201264887|0",
+  "triage": {
+   "modelo": "Tudor Glamour (carcasa y brazalete de acero, sin esfera ni maquinaria visibles; posiblemente pieza de repuesto)",
+   "referencia": null,
+   "precio_justo_usd": 150,
+   "interesante": false,
+   "nota": "Es una carcasa vacía con brazalete, vendida para piezas o no funcional. Tudor Glamour suele ser de 42 mm, así que el título de 36 mm no cuadra. Por US$300 no hay margen, y un reloj completo funcional sale mucho más caro."
+  },
+  "motivo": "triage: Es una carcasa vacía con brazalete, vendida para piezas o no funcional. Tudor Glamour suele ser de 42 mm, así que el título de 36 mm no cuadra. Por US$300 no hay margen, y un reloj completo funcional sale mucho más caro. (justo 150)"
  }
 ]
