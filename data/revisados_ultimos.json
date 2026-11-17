@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-14T03:06:06.932231+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex GMT Master II 116710BLNR Batman S/S 40MM Oyster Sport Watch. Mixed Serial.",
-  "total": 14610.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287728335707",
-  "item_id": "v1|287728335707|0",
-  "referencia": "116710BLNR",
-  "mercado": {
-   "n": 44,
-   "p25": 16005,
-   "mediana": 16850
-  },
-  "ratio_mercado": 0.913,
-  "motivo": "precio normal (91 % del cuartil bajo de 116710BLNR)"
- },
- {
-  "fecha": "2026-11-14T03:06:06.932231+00:00",
-  "marca": "Rolex",
   "titulo": "Renewed Rolex Datejust 36, 116243, Steel & Gold, Silver Diamond Dial, Oyster ...",
   "total": 17065.0,
   "condicion": "Seller refurbished",
@@ -10933,5 +10916,22 @@
   },
   "ratio_mercado": 1.16,
   "motivo": "precio normal (116 % del cuartil bajo de 79540)"
+ },
+ {
+  "fecha": "2026-11-17T23:08:54.086126+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere 6692 Ladies Two Tone 18K Gold Steel Quartz Watch w/ Box",
+  "total": 5600.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377654692006",
+  "item_id": "v1|377654692006|0",
+  "triage": {
+   "modelo": "Cartier Panthère de dama, dos tonos (acero y oro 18K), cuarzo, con caja",
+   "referencia": "6692 (según el título; no verificable en la foto)",
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Precio pedido de US$5.600 muy por encima del valor de venta real de este modelo en EE. UU. (aprox. US$2.500-3.000), incluso con caja."
+  },
+  "motivo": "triage: Precio pedido de US$5.600 muy por encima del valor de venta real de este modelo en EE. UU. (aprox. US$2.500-3.000), incluso con caja. (justo 2800)"
  }
 ]
