@@ -1255,14 +1255,14 @@
   "n": 0
  },
  "Rolex 116900|usado": {
-  "fecha": "2026-11-03",
+  "fecha": "2026-11-17",
   "consulta": "Rolex 116900",
-  "n": 29,
-  "mediana": 8569,
+  "n": 27,
+  "mediana": 8599,
   "p25": 8145,
   "p75": 9550,
-  "min": 7850,
-  "max": 15995
+  "min": 7750,
+  "max": 10405
  },
  "Rolex 124300|usado": {
   "fecha": "2026-11-15",
@@ -21742,6 +21742,11 @@
  "Cartier WE110005|usado": {
   "fecha": "2026-11-17",
   "consulta": "Cartier WE110005",
+  "n": 0
+ },
+ "Cartier W3107255|usado": {
+  "fecha": "2026-11-17",
+  "consulta": "Cartier W3107255",
   "n": 0
  }
 }
