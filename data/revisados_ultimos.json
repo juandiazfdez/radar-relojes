@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-14T03:36:06.587717+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier | Medium Santos De Cartier Watch - 35mm case size - Reference WSSA0029",
-  "total": 7499.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/840126369289",
-  "item_id": "v1|840126369289|0",
-  "referencia": "WSSA0029",
-  "mercado": {
-   "n": 6,
-   "p25": 7495,
-   "mediana": 7752
-  },
-  "ratio_mercado": 1.001,
-  "motivo": "precio normal (100 % del cuartil bajo de WSSA0029)"
- },
- {
-  "fecha": "2026-11-14T03:36:06.587717+00:00",
-  "marca": "Tudor",
-  "titulo": "Vintage Tudor Prince Oysterdate Stainless Steel Mens Quartz Watch 91534 N .B /P ",
-  "total": 2450.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920141137652",
-  "item_id": "v1|920141137652|0",
-  "referencia": "91534",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Tudor Prince Oysterdate Quartz (acero, bisel acanalado, esfera plateada, ventana de fecha a las 3)",
-   "referencia": "91534 (según título, no verificable en la imagen)",
-   "precio_justo_usd": 900,
-   "interesante": false,
-   "nota": "Cuarzo vintage de los años 80, acero, sin caja ni papeles y en estado Good. El precio pedido de US$2450 está muy por encima del valor de reventa."
-  },
-  "motivo": "triage: Cuarzo vintage de los años 80, acero, sin caja ni papeles y en estado Good. El precio pedido de US$2450 está muy por encima del valor de reventa. (justo 900)"
- },
- {
-  "fecha": "2026-11-14T04:21:07.120540+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor 1926 Luna 41mm 91560 Automatic Moonphase Stainless Steel Full Set",
-  "total": 2350.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800914432346",
-  "item_id": "v1|800914432346|0",
-  "referencia": "91560",
-  "mercado": {
-   "n": 5,
-   "p25": 2500,
-   "mediana": 2710
-  },
-  "ratio_mercado": 0.94,
-  "motivo": "precio normal (94 % del cuartil bajo de 91560)"
- },
- {
   "fecha": "2026-11-14T04:51:07.428499+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Cellini 3805 18k White Gold!",
@@ -10933,5 +10876,68 @@
    "nota": "Nuevo con caja y papeles, se vende cerca o algo por debajo de retail; el pedido de US$4795 está muy por encima del precio justo."
   },
   "motivo": "triage: Nuevo con caja y papeles, se vende cerca o algo por debajo de retail; el pedido de US$4795 está muy por encima del precio justo. (justo 3400)"
+ },
+ {
+  "fecha": "2026-11-17T23:38:53.588134+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36 2026 SEPTEMBER UNWORN 126234 Mint Green Jubilee Steel",
+  "total": 15650.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840139622923",
+  "item_id": "v1|840139622923|0",
+  "referencia": "126234",
+  "mercado": {
+   "n": 46,
+   "p25": 14769,
+   "mediana": 15420
+  },
+  "ratio_mercado": 1.06,
+  "motivo": "precio normal (106 % del cuartil bajo de 126234)"
+ },
+ {
+  "fecha": "2026-11-17T23:38:53.588134+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41 2026 OCTOBER UNWORN 126334 Mint Green Jubilee Steel",
+  "total": 18800.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840139620259",
+  "item_id": "v1|840139620259|0",
+  "referencia": "126334",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 41 (bisel acanalado, esfera verde menta, brazalete Jubilee)",
+   "referencia": "126334",
+   "precio_justo_usd": 16500,
+   "interesante": false,
+   "nota": "Referencia 126334 nueva de acero y oro blanco; en el mercado secundario se vende por encima de retail, y el precio pedido de US$18.800 está por encima de ese valor estimado."
+  },
+  "motivo": "triage: Referencia 126334 nueva de acero y oro blanco; en el mercado secundario se vende por encima de retail, y el precio pedido de US$18.800 está por encima de ese valor estimado. (justo 16500)"
+ },
+ {
+  "fecha": "2026-11-17T23:38:53.588134+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier 21 Autoscaph Automatic Mens Watch, Ref. 2427 - Stainless Steel w/ Box",
+  "total": 1399.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227617732494",
+  "item_id": "v1|227617732494|0",
+  "referencia": "2427",
+  "mercado": {
+   "n": 2,
+   "p25": 1595,
+   "mediana": 1648
+  },
+  "triage": {
+   "modelo": "Cartier 21 Autoscaph (acero, con caja)",
+   "referencia": "2427",
+   "precio_justo_usd": 1600,
+   "interesante": false,
+   "nota": "Precio pedido unos 13% por debajo de la estimación, sin margen suficiente; el modelo es muy falsificado y el listado no menciona papeles, así que requiere verificación presencial."
+  },
+  "motivo": "triage: Precio pedido unos 13% por debajo de la estimación, sin margen suficiente; el modelo es muy falsificado y el listado no menciona papeles, así que requiere verificación presencial. (justo 1600)"
  }
 ]
