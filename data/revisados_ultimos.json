@@ -1,63 +1,6 @@
 [
  {
   "fecha": "2026-11-13T18:50:51.449559+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ronde Solo 36 Large Steel Yellow Gold Mens Watch W6700455 Box Papers",
-  "total": 5610.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940089659499",
-  "item_id": "v1|940089659499|0",
-  "referencia": "W6700455",
-  "mercado": {
-   "n": 8,
-   "p25": 4300,
-   "mediana": 4870
-  },
-  "ratio_mercado": 1.305,
-  "motivo": "precio normal (130 % del cuartil bajo de W6700455)"
- },
- {
-  "fecha": "2026-11-13T18:50:51.449559+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier La Dona Midsize Quartz Rose Gold Ladies 29mm Watch Bracelet W640040I",
-  "total": 29950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900088840470",
-  "item_id": "v1|900088840470|0",
-  "referencia": "W640040I",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier La Dona Midsize (oro rosa 18k, cuarzo, caja tonneau)",
-   "referencia": "W640040I",
-   "precio_justo_usd": 12500,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de reventa de esta referencia en oro rosa; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de reventa de esta referencia en oro rosa; no es una oportunidad. (justo 12500)"
- },
- {
-  "fecha": "2026-11-13T18:50:51.449559+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Glamour 39mm Day-Date",
-  "total": 1450.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147679344509",
-  "item_id": "v1|147679344509|0",
-  "triage": {
-   "modelo": "Tudor Glamour Double Date (Day-Date) 39mm, esfera plateada, brazalete de acero",
-   "referencia": "56000 (probable, no confirmada en la imagen)",
-   "precio_justo_usd": 2100,
-   "interesante": false,
-   "nota": "Precio ~30% bajo el valor de mercado, demasiado bajo para un Tudor auténtico en estado excelente. Riesgo alto de réplica o listado engañoso; verificar fotos del caso, movimiento, números de serie y papeles antes de considerar."
-  },
-  "motivo": "triage: Precio ~30% bajo el valor de mercado, demasiado bajo para un Tudor auténtico en estado excelente. Riesgo alto de réplica o listado engañoso; verificar fotos del caso, movimiento, números de serie y papeles antes de considerar. (justo 2100)"
- },
- {
-  "fecha": "2026-11-13T18:50:51.449559+00:00",
   "marca": "Tudor",
   "titulo": "2022 Tudor Black Bay Heritage 79210 CNU Black Ceramic 41mm Watch Box Papers",
   "total": 3451.99,
@@ -10989,5 +10932,56 @@
   },
   "ratio_mercado": 1.0,
   "motivo": "precio normal (100 % del cuartil bajo de W5200025)"
+ },
+ {
+  "fecha": "2026-11-17T15:53:37.107494+00:00",
+  "marca": "Rolex",
+  "titulo": "42195: Rolex GMT-Master II, Ref. 116710LN, Box and 2013 Card",
+  "total": 14000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900099175046",
+  "item_id": "v1|900099175046|0",
+  "referencia": "116710LN",
+  "mercado": {
+   "n": 43,
+   "p25": 13970,
+   "mediana": 14995
+  },
+  "ratio_mercado": 1.002,
+  "motivo": "precio normal (100 % del cuartil bajo de 116710LN)"
+ },
+ {
+  "fecha": "2026-11-17T15:53:37.107494+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu de Cartier Automatic Watch Stainless Steel 36",
+  "total": 5040.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128200814263",
+  "item_id": "v1|128200814263|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu de Cartier Automatic, acero, esfera plateada con numerales romanos (caja de 42 mm según el dial 'Automatic'; el título dice 36 mm)",
+   "referencia": "W69012Z2 (probable)",
+   "precio_justo_usd": 4600,
+   "interesante": false,
+   "nota": "El título dice 36 mm, pero el dial 'Automatic' corresponde a la versión de 42 mm, que se vende más cara que la de 36 mm de cuarzo. Precio pedido cerca del valor de mercado, sin descuento de al menos 15 %; verificar tamaño real y papeles."
+  },
+  "motivo": "triage: El título dice 36 mm, pero el dial 'Automatic' corresponde a la versión de 42 mm, que se vende más cara que la de 36 mm de cuarzo. Precio pedido cerca del valor de mercado, sin descuento de al menos 15 %; verificar tamaño real y papeles. (justo 4600)"
+ },
+ {
+  "fecha": "2026-11-17T15:53:37.107494+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 New Tudor Black Bay 41 Monochrome Jubilee Stickered 10/26 Ref# 7941A1A0NU",
+  "total": 4747.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/257857011235",
+  "item_id": "v1|257857011235|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 41 Monochrome, acero, brazalete Jubilee, esfera marrón",
+   "referencia": "M7941A1A0NU (7941A1A0NU en el título)",
+   "precio_justo_usd": 3700,
+   "interesante": false,
+   "nota": "Precio pedido de US$4747 con envío está por encima del mercado secundario para un Black Bay 41 nuevo con caja y papeles; no hay descuento significativo."
+  },
+  "motivo": "triage: Precio pedido de US$4747 con envío está por encima del mercado secundario para un Black Bay 41 nuevo con caja y papeles; no hay descuento significativo. (justo 3700)"
  }
 ]
