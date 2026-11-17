@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-13T17:50:40.343788+00:00",
   "marca": "Rolex",
-  "titulo": "Unpolished 2002 Rolex GMT-Master II 16710 Black Stainless Steel 40mm Box Papers",
-  "total": 14468.18,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267842688638",
-  "item_id": "v1|267842688638|0",
-  "referencia": "16710",
-  "mercado": {
-   "n": 72,
-   "p25": 13627,
-   "mediana": 14482
-  },
-  "ratio_mercado": 1.062,
-  "motivo": "precio normal (106 % del cuartil bajo de 16710)"
- },
- {
-  "fecha": "2026-11-13T17:50:40.343788+00:00",
-  "marca": "Rolex",
   "titulo": "ROLEX OP Oyster Precision 6424 “Jumbo” 36mm, Caliber 1210, Full Service in 2026",
   "total": 4175.0,
   "condicion": "Pre-owned - Excellent",
@@ -11010,5 +10993,28 @@
   },
   "ratio_mercado": 1.027,
   "motivo": "precio normal (103 % del cuartil bajo de 126333)"
+ },
+ {
+  "fecha": "2026-11-17T02:08:07.276151+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor 20023",
+  "total": 2680.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377652324323",
+  "item_id": "v1|377652324323|0",
+  "referencia": "20023",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor (posible Prince/Classic bicolor acero y oro amarillo, esfera rosada con ventana de fecha)",
+   "referencia": null,
+   "precio_justo_usd": 2000,
+   "interesante": false,
+   "nota": "Referencia no confirmada en la foto; el precio pedido de US$2680 está por encima del valor estimado de venta de un bicolor Tudor de este tipo en estado Good."
+  },
+  "motivo": "triage: Referencia no confirmada en la foto; el precio pedido de US$2680 está por encima del valor estimado de venta de un bicolor Tudor de este tipo en estado Good. (justo 2000)"
  }
 ]
