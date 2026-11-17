@@ -2,30 +2,6 @@
  {
   "fecha": "2026-11-13T19:20:50.903633+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Yachtmaster 16622 Mens Steel & Platinum 40mm Automatic Watch P Serial",
-  "total": 8799.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800912918023",
-  "item_id": "v1|800912918023|0",
-  "referencia": "16622",
-  "mercado": {
-   "n": 24,
-   "p25": 10404,
-   "mediana": 11525
-  },
-  "ratio_mercado": 0.846,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 9300,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Buen estado, brazalete pulido y con desgaste visible; solo reloj, sin caja ni papeles"
-  },
-  "ratio_justo": 0.946,
-  "motivo": "precio normal segun revision (95 % del justo 9300)"
- },
- {
-  "fecha": "2026-11-13T19:20:50.903633+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust 41 Wimbledon Slate Jubilee Steel Gold 126334 2026 Box Papers",
   "total": 18325.0,
   "condicion": "Pre-owned - Excellent",
@@ -10971,5 +10947,22 @@
    "nota": "Panthère de cuarzo con bisel y lunetas de diamantes; con los diamantes y el oro blanco, el precio pedido de US$18.020 supera lo que se cierra en el mercado de segunda mano. Verificar el material real del brazalete y la autenticidad."
   },
   "motivo": "triage: Panthère de cuarzo con bisel y lunetas de diamantes; con los diamantes y el oro blanco, el precio pedido de US$18.020 supera lo que se cierra en el mercado de segunda mano. Verificar el material real del brazalete y la autenticidad. (justo 13500)"
+ },
+ {
+  "fecha": "2026-11-17T17:08:37.021031+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Rolex Datejust 41mm DJ41 Wimbledon Fluted White Gold Oyster 126333 Full Set",
+  "total": 19500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407369997598",
+  "item_id": "v1|407369997598|0",
+  "referencia": "126333",
+  "mercado": {
+   "n": 34,
+   "p25": 14468,
+   "mediana": 15016
+  },
+  "ratio_mercado": 1.348,
+  "motivo": "precio normal (135 % del cuartil bajo de 126333)"
  }
 ]
