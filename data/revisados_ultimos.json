@@ -1,108 +1,5 @@
 [
  {
-  "fecha": "2026-11-13T20:35:50.464137+00:00",
-  "marca": "Rolex",
-  "titulo": "New Rolex 126333 Datejust 41mm Steel Gold Jubilee Wimbledon #RL370(24)",
-  "total": 21445.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/840125427129",
-  "item_id": "v1|840125427129|0",
-  "referencia": "126333",
-  "mercado": {
-   "n": 38,
-   "p25": 19250,
-   "mediana": 20087
-  },
-  "ratio_mercado": 1.114,
-  "motivo": "precio normal (111 % del cuartil bajo de 126333)"
- },
- {
-  "fecha": "2026-11-13T20:35:50.464137+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Oyster 177200",
-  "total": 6470.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940089804354",
-  "item_id": "v1|940089804354|0",
-  "referencia": "177200",
-  "mercado": {
-   "n": 11,
-   "p25": 8499,
-   "mediana": 8499
-  },
-  "ratio_mercado": 0.761,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 4400,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, aspecto bueno con caja pulida y brazalete con desgaste leve; sin caja ni papeles; sin fotos del fondo de caja ni del movimiento"
-  },
-  "motivo": "Claude descarto: El precio de US$6,470 está muy por encima del mercado real. Un 177200 de 31 mm en acero, sin caja ni papeles, se vende cerrado en torno a US$4,200-4,800. La mediana de US$8,499 de los comparables son precios pedidos e inflados, y no sirve de referencia.; Las fotos parecen reales y coherentes con la referencia: textos de esfera correctos (Oyster Perpetual, Superlative Chronometer Officially Certified), grabado ROLEX en el reborde interior, corona con logo y brazalete Oyster. No veo señales evidentes de réplica ni de esfera repintada."
- },
- {
-  "fecha": "2026-11-13T20:35:50.464137+00:00",
-  "marca": "Rolex",
-  "titulo": "2018 Rolex Sky-Dweller YELLOW GOLD BOX AND PAPERS 326933",
-  "total": 16995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257851188249",
-  "item_id": "v1|257851188249|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller bicolor (acero Oystersteel y oro amarillo), con caja y papeles",
-   "referencia": "326933",
-   "precio_justo_usd": 17500,
-   "interesante": false,
-   "nota": "Precio pedido cercano al mercado secundario para esta referencia bicolor con caja y papeles; no hay descuento de al menos 15 %. No verifiqué autenticidad ni estado a partir de la foto."
-  },
-  "motivo": "triage: Precio pedido cercano al mercado secundario para esta referencia bicolor con caja y papeles; no hay descuento de al menos 15 %. No verifiqué autenticidad ni estado a partir de la foto. (justo 17500)"
- },
- {
-  "fecha": "2026-11-13T20:35:50.464137+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier De Cartier Cle WJCL0013",
-  "total": 13750.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147679431918",
-  "item_id": "v1|147679431918|0",
-  "referencia": "WJCL0013",
-  "mercado": {
-   "n": 1,
-   "p25": 14510,
-   "mediana": 14510
-  },
-  "triage": {
-   "modelo": "Cartier Clé de Cartier, oro rosa 18k con bisel de diamantes, esfera blanca y correa de piel roja",
-   "referencia": "WJCL0013 (según título, no verificable en la imagen)",
-   "precio_justo_usd": 9000,
-   "interesante": false,
-   "nota": "Precio pedido de US$13.750 está por encima del valor de venta cerrada estimado para esta referencia en oro rosa con diamantes y estado Good; no parece una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$13.750 está por encima del valor de venta cerrada estimado para esta referencia en oro rosa con diamantes y estado Good; no parece una oportunidad. (justo 9000)"
- },
- {
-  "fecha": "2026-11-13T20:35:50.464137+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Pelagos M25807KN-0001 2025",
-  "total": 3900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407361048338",
-  "item_id": "v1|407361048338|0",
-  "referencia": "M25807KN-0001",
-  "mercado": {
-   "n": 3,
-   "p25": 4195,
-   "mediana": 4424
-  },
-  "triage": {
-   "modelo": "Tudor Pelagos 39 (titanio, esfera azul, correa de tela azul)",
-   "referencia": "M25807KN-0001",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Pelagos de titanio de produccion reciente; el precio pedido de US$3900 supera el valor de mercado secundario, que ronda los US$3300-3500 con caja y papeles. Identificacion basada en la foto."
-  },
-  "motivo": "triage: Pelagos de titanio de produccion reciente; el precio pedido de US$3900 supera el valor de mercado secundario, que ronda los US$3300-3500 con caja y papeles. Identificacion basada en la foto. (justo 3300)"
- },
- {
   "fecha": "2026-11-13T20:50:51.887220+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Ladies Datejust 26mm Two Tone Blue Turquoise Jubilee Watch 6517 Circa 1964",
@@ -10928,5 +10825,90 @@
    "nota": "Precio pedido de US$5.244 con envío, muy por encima del retail (~US$3.900) y del mercado gris para pieza nueva con caja y papeles (~US$3.000-3.400)."
   },
   "motivo": "triage: Precio pedido de US$5.244 con envío, muy por encima del retail (~US$3.900) y del mercado gris para pieza nueva con caja y papeles (~US$3.000-3.400). (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-17T18:53:36.881043+00:00",
+  "marca": "Rolex",
+  "titulo": "Early Rolex 1960's Datejust 1601 SS&14k w/Orig. Underline Dial! 1mil MUST SEE",
+  "total": 3735.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800930738388",
+  "item_id": "v1|800930738388|0",
+  "triage": {
+   "modelo": "Rolex Datejust 1601 (acero y oro 14k, años 1960)",
+   "referencia": "1601",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para un 1601 de los 60 en estado bueno con dial original; no hay descuento de 15 % y no tiene papeles."
+  },
+  "motivo": "triage: Precio cercano al mercado para un 1601 de los 60 en estado bueno con dial original; no hay descuento de 15 % y no tiene papeles. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-17T18:53:36.881043+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 18K/Stainless Steel Watch 69173",
+  "total": 6000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407370187484",
+  "item_id": "v1|407370187484|0",
+  "referencia": "69173",
+  "mercado": {
+   "n": 26,
+   "p25": 4200,
+   "mediana": 4451
+  },
+  "ratio_mercado": 1.429,
+  "motivo": "precio normal (143 % del cuartil bajo de 69173)"
+ },
+ {
+  "fecha": "2026-11-17T18:53:36.881043+00:00",
+  "marca": "Rolex",
+  "titulo": "1997 Rolex No-Date Submariner 14060 Black Stainless Steel 40mm Oyster Watch",
+  "total": 8858.35,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960208617918",
+  "item_id": "v1|960208617918|0",
+  "referencia": "14060",
+  "mercado": {
+   "n": 47,
+   "p25": 9800,
+   "mediana": 10738
+  },
+  "ratio_mercado": 0.904,
+  "motivo": "precio normal (90 % del cuartil bajo de 14060)"
+ },
+ {
+  "fecha": "2026-11-17T18:53:36.881043+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 28mm UNWORN 2026 Pink Roman Fluted Jubilee 279174",
+  "total": 13695.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/198803169721",
+  "item_id": "v1|198803169721|0",
+  "referencia": "279174",
+  "mercado": {
+   "n": 12,
+   "p25": 13999,
+   "mediana": 15148
+  },
+  "ratio_mercado": 0.978,
+  "motivo": "precio normal (98 % del cuartil bajo de 279174)"
+ },
+ {
+  "fecha": "2026-11-17T18:53:36.881043+00:00",
+  "marca": "Rolex",
+  "titulo": "1992 Rolex DateJust 16233 Factory Black Diamond 18K Steel Jubilee 36mm Watch",
+  "total": 6869.43,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960208615151",
+  "item_id": "v1|960208615151|0",
+  "referencia": "16233",
+  "mercado": {
+   "n": 27,
+   "p25": 5599,
+   "mediana": 6095
+  },
+  "ratio_mercado": 1.227,
+  "motivo": "precio normal (123 % del cuartil bajo de 16233)"
  }
 ]
