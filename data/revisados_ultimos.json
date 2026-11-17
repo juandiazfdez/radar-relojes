@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-11-14T01:06:07.332160+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex datejust Ladies 26mm 69174 converted to 69173 champagne diamond 1986 ",
-  "total": 4015.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/336896516248",
-  "item_id": "v1|336896516248|0",
-  "referencia": "69173",
-  "mercado": {
-   "n": 43,
-   "p25": 5280,
-   "mediana": 5500
-  },
-  "ratio_mercado": 0.76,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 2900,
-   "riesgo_autenticidad": "medio",
-   "estado": "Pulido y revisado, pero con dial y eslabones centrales no originales (aftermarket); solo reloj, sin caja ni papeles"
-  },
-  "motivo": "Claude descarto: Es una referencia 'convertida': el 69174 es de acero con bisel de oro blanco/liso y el vendedor lo transformó a 69173 bicolor. Es un franken, no un reloj original, y los coleccionistas y dealers lo valoran bastante menos que un 69173 original.; El dial champagne con diamantes es aftermarket. Un dial de diamantes original de Rolex aporta valor, uno aftermarket no. Además, el dial parece con tipografía y marcadores poco finos para Rolex."
- },
- {
-  "fecha": "2026-11-14T01:21:07.071074+00:00",
-  "marca": "Rolex",
-  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
-  "total": 15900.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/327455121256",
-  "item_id": "v1|327455121256|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date (bisel y esfera negros, caja y papeles)",
-   "referencia": "126610LN (probable; no verificable en la imagen, podría ser 116610LN)",
-   "precio_justo_usd": 13500,
-   "interesante": false,
-   "nota": "Precio pedido US$15.900 por encima del valor de venta cerrada estimado para esta referencia con caja y papeles en EE. UU.; no parece oportunidad."
-  },
-  "motivo": "triage: Precio pedido US$15.900 por encima del valor de venta cerrada estimado para esta referencia con caja y papeles en EE. UU.; no parece oportunidad. (justo 13500)"
- },
- {
   "fecha": "2026-11-14T01:36:07.252288+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR 1926 M91650-0011 - MSRP $2650",
@@ -10914,5 +10874,45 @@
   },
   "ratio_mercado": 0.931,
   "motivo": "precio normal (93 % del cuartil bajo de 114060)"
+ },
+ {
+  "fecha": "2026-11-17T22:23:53.470134+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36 \"2024\" 126200",
+  "total": 10796.44,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237188937281",
+  "item_id": "v1|237188937281|0",
+  "referencia": "126200",
+  "mercado": {
+   "n": 27,
+   "p25": 10077,
+   "mediana": 11495
+  },
+  "ratio_mercado": 1.071,
+  "motivo": "precio normal (107 % del cuartil bajo de 126200)"
+ },
+ {
+  "fecha": "2026-11-17T22:23:53.470134+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 M79030N-0001 39mm | Full Set | Recent Tudor Serviced",
+  "total": 3975.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860153194154",
+  "item_id": "v1|860153194154|0",
+  "referencia": "M79030N-0001",
+  "mercado": {
+   "n": 2,
+   "p25": 4100,
+   "mediana": 4198
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 58 39mm (acero, bisel negro, brazalete de acero)",
+   "referencia": "M79030N-0001",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "Precio pedido de US$3,975 por encima de lo que se vende realmente en el mercado secundario; con caja y papeles, el rango razonable es alrededor de US$3,300-3,500."
+  },
+  "motivo": "triage: Precio pedido de US$3,975 por encima de lo que se vende realmente en el mercado secundario; con caja y papeles, el rango razonable es alrededor de US$3,300-3,500. (justo 3400)"
  }
 ]
