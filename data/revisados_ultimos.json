@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-14T00:51:07.315575+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36mm Fluted Jubilee 16234 - 2002",
-  "total": 6500.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/880114461288",
-  "item_id": "v1|880114461288|0",
-  "referencia": "16234",
-  "mercado": {
-   "n": 33,
-   "p25": 6160,
-   "mediana": 6470
-  },
-  "ratio_mercado": 1.055,
-  "motivo": "precio normal (106 % del cuartil bajo de 16234)"
- },
- {
-  "fecha": "2026-11-14T00:51:07.315575+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner no date 124060",
-  "total": 11850.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880110503142",
-  "item_id": "v1|880110503142|0",
-  "referencia": "124060",
-  "mercado": {
-   "n": 53,
-   "p25": 13590,
-   "mediana": 14095
-  },
-  "ratio_mercado": 0.872,
-  "motivo": "precio normal (87 % del cuartil bajo de 124060)"
- },
- {
   "fecha": "2026-11-14T01:06:07.332160+00:00",
   "marca": "Rolex",
   "titulo": "Rolex datejust Ladies 26mm 69174 converted to 69173 champagne diamond 1986 ",
@@ -10914,5 +10880,39 @@
    "nota": "Precio pedido muy por encima del mercado para un Black Bay 58 de acero nuevo; la edición limitada no está verificada y, si fuera real, no justifica US$7.985 sin prueba de demanda sostenida."
   },
   "motivo": "triage: Precio pedido muy por encima del mercado para un Black Bay 58 de acero nuevo; la edición limitada no está verificada y, si fuera real, no justifica US$7.985 sin prueba de demanda sostenida. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-17T22:08:54.230822+00:00",
+  "marca": "Rolex",
+  "titulo": "PRICE Rolex Datejust 28mm 2017 Pink Roman Fluted Jubilee 279174",
+  "total": 11295.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198803508119",
+  "item_id": "v1|198803508119|0",
+  "referencia": "279174",
+  "mercado": {
+   "n": 10,
+   "p25": 11499,
+   "mediana": 12945
+  },
+  "ratio_mercado": 0.982,
+  "motivo": "precio normal (98 % del cuartil bajo de 279174)"
+ },
+ {
+  "fecha": "2026-11-17T22:08:54.230822+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner 114060 / 40mm / Watch Only",
+  "total": 10985.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227619157397",
+  "item_id": "v1|227619157397|0",
+  "referencia": "114060",
+  "mercado": {
+   "n": 43,
+   "p25": 11799,
+   "mediana": 12950
+  },
+  "ratio_mercado": 0.931,
+  "motivo": "precio normal (93 % del cuartil bajo de 114060)"
  }
 ]
