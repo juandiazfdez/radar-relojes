@@ -1,63 +1,6 @@
 [
  {
   "fecha": "2026-11-13T22:05:51.095012+00:00",
-  "marca": "Rolex",
-  "titulo": "2025  Rolex Oyster Perpetual 41mm Ref. 134300, Black Dial.",
-  "total": 10050.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880114102702",
-  "item_id": "v1|880114102702|0",
-  "referencia": "134300",
-  "mercado": {
-   "n": 16,
-   "p25": 12073,
-   "mediana": 12708
-  },
-  "ratio_mercado": 0.832,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 9300,
-   "riesgo_autenticidad": "medio",
-   "estado": "Aparentemente casi nuevo, con caja, tarjeta de garantía y sello verde; sin fotos del fondo de caja ni del movimiento"
-  },
-  "motivo": "Claude descarto: Las fotos parecen reales y de buena calidad. Muestran la esfera negra con impresión limpia, índices luminosos correctos, corona estriada con logo, cierre Oyster grabado, caja verde, tarjeta de garantía internacional y sello Rolex SA. No veo defectos visibles en cristal, caja ni brazalete.; El precio de US$10,050 no deja margen. El precio cerrado realista para un OP41 negro de 2025 con set completo es de unos US$9,000-9,600. Los comparables de eBay (mediana 12,708) son precios pedidos inflados y no sirven de referencia. Comprar a 10,050 deja la reventa en equilibrio o con pérdida."
- },
- {
-  "fecha": "2026-11-13T22:05:51.095012+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Française 2-Tone Yellow Gold/Steel 25mm Watch W51012Q4 2465",
-  "total": 5300.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/257851290246",
-  "item_id": "v1|257851290246|0",
-  "referencia": "2465",
-  "mercado": {
-   "n": 31,
-   "p25": 3514,
-   "mediana": 3700
-  },
-  "ratio_mercado": 1.508,
-  "motivo": "precio normal (151 % del cuartil bajo de 2465)"
- },
- {
-  "fecha": "2026-11-13T22:05:51.095012+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Galbee Steel Yellow Gold Automatic Bracelet Watch 81036283",
-  "total": 5450.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287727945355",
-  "item_id": "v1|287727945355|0",
-  "triage": {
-   "modelo": "Cartier Santos Galbée acero y oro amarillo (bicolor), esfera plateada con números romanos y ventanilla de fecha",
-   "referencia": null,
-   "precio_justo_usd": 4200,
-   "interesante": false,
-   "nota": "El número del título parece un ID de listado, no una referencia Cartier verificable. Con la configuración visible, el precio pedido de US$5450 queda por encima del valor de venta cerrada estimado."
-  },
-  "motivo": "triage: El número del título parece un ID de listado, no una referencia Cartier verificable. Con la configuración visible, el precio pedido de US$5450 queda por encima del valor de venta cerrada estimado. (justo 4200)"
- },
- {
-  "fecha": "2026-11-13T22:05:51.095012+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Glamour Double Date Stainless Steel with Silver Face and Diamond Markers",
   "total": 2411.8,
@@ -10921,5 +10864,56 @@
    "nota": "Precio pedido de US$5.546 está muy por encima del valor de mercado gris para un modelo nuevo con caja y papeles; no es una oportunidad."
   },
   "motivo": "triage: Precio pedido de US$5.546 está muy por encima del valor de mercado gris para un modelo nuevo con caja y papeles; no es una oportunidad. (justo 3700)"
+ },
+ {
+  "fecha": "2026-11-17T20:38:54.139270+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Swiss Made Vintage Cocktail Women’s Yellow Gold watch",
+  "total": 6500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198803354695",
+  "item_id": "v1|198803354695|0",
+  "triage": {
+   "modelo": "Rolex Cocktail de dama vintage, oro amarillo (posiblemente 18k), esfera plateada con índices de barra, brazalete articulado de oro texturizado",
+   "referencia": null,
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "La referencia no es identificable en la foto; el precio pedido de US$6,500 supera lo que estos Cocktail vintage de oro suelen cerrar. Verificar autenticidad, quilataje, movimiento y estado del brazalete antes de cualquier oferta."
+  },
+  "motivo": "triage: La referencia no es identificable en la foto; el precio pedido de US$6,500 supera lo que estos Cocktail vintage de oro suelen cerrar. Verificar autenticidad, quilataje, movimiento y estado del brazalete antes de cualquier oferta. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-17T20:38:54.139270+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster XL W62027Z1 Men's Watch Swiss Automatic 18K Yellow Gold & Steel",
+  "total": 8529.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206708756545",
+  "item_id": "v1|206708756545|0",
+  "triage": {
+   "modelo": "Cartier Roadster XL Chronograph (acero y oro amarillo 18K)",
+   "referencia": "W62027Z1",
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "Precio pedido unos 20 % por encima del valor de venta cerrada estimado para estado Good; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido unos 20 % por encima del valor de venta cerrada estimado para estado Good; no es una oportunidad. (justo 7000)"
+ },
+ {
+  "fecha": "2026-11-17T20:38:54.139270+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise Medium Model Quartz 18k Yellow Gold/Steel Ladies W51012Q4",
+  "total": 4900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407370329139",
+  "item_id": "v1|407370329139|0",
+  "triage": {
+   "modelo": "Cartier Tank Française Medium (acero y oro amarillo 18k, cuarzo)",
+   "referencia": "W51012Q4",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Precio pedido de US$4,900 muy por encima del valor de venta cerrada para esta referencia de dos tonos en condición excelente; no es oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$4,900 muy por encima del valor de venta cerrada para esta referencia de dos tonos en condición excelente; no es oportunidad. (justo 2600)"
  }
 ]
