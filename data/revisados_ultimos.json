@@ -2,46 +2,6 @@
  {
   "fecha": "2026-11-13T19:20:50.903633+00:00",
   "marca": "Rolex",
-  "titulo": "2011 Rolex DateJust II 116334 Blue 41mm Fluted 18K Gold Steel Oyster Box Papers",
-  "total": 11407.87,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267842762723",
-  "item_id": "v1|267842762723|0",
-  "referencia": "116334",
-  "mercado": {
-   "n": 22,
-   "p25": 10445,
-   "mediana": 10950
-  },
-  "ratio_mercado": 1.092,
-  "motivo": "precio normal (109 % del cuartil bajo de 116334)"
- },
- {
-  "fecha": "2026-11-13T19:20:50.903633+00:00",
-  "marca": "Rolex",
-  "titulo": "2020 Rolex DateJust 41 126334 White 18K Steel Jubilee Fluted 41mm Box Papers",
-  "total": 14468.18,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940089679399",
-  "item_id": "v1|940089679399|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 (acero y oro blanco 18K, bisel acanalado, esfera blanca, brazalete Jubilee)",
-   "referencia": "126334",
-   "precio_justo_usd": 12000,
-   "interesante": false,
-   "nota": "Precio pedido US$14,468 con envío, unos 20 % por encima del valor de venta cerrada estimado para esta referencia con caja y papeles de 2020."
-  },
-  "motivo": "triage: Precio pedido US$14,468 con envío, unos 20 % por encima del valor de venta cerrada estimado para esta referencia con caja y papeles de 2020. (justo 12000)"
- },
- {
-  "fecha": "2026-11-13T19:20:50.903633+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Yachtmaster 16622 Mens Steel & Platinum 40mm Automatic Watch P Serial",
   "total": 8799.99,
   "condicion": "Pre-owned - Good",
@@ -10977,5 +10937,39 @@
    "nota": "Precio pedido muy por encima del mercado de reventa de este modelo midsize bicolor de cuarzo, que suele venderse en torno a US$3,500-4,500 según estado y papeles."
   },
   "motivo": "triage: Precio pedido muy por encima del mercado de reventa de este modelo midsize bicolor de cuarzo, que suele venderse en torno a US$3,500-4,500 según estado y papeles. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-17T16:53:37.448863+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 126710BLRO \"Pepsi\" Mens Watch Box Papers",
+  "total": 27699.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227618844494",
+  "item_id": "v1|227618844494|0",
+  "referencia": "126710BLRO",
+  "mercado": {
+   "n": 14,
+   "p25": 23655,
+   "mediana": 24150
+  },
+  "ratio_mercado": 1.171,
+  "motivo": "precio normal (117 % del cuartil bajo de 126710BLRO)"
+ },
+ {
+  "fecha": "2026-11-17T16:53:37.448863+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere 3057915 18K White Gold Factory Diamonds 22mm Watch",
+  "total": 18019.95,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128200954290",
+  "item_id": "v1|128200954290|0",
+  "triage": {
+   "modelo": "Cartier Panthère (cuarzo, 22 mm, oro blanco 18K con diamantes)",
+   "referencia": "3057915",
+   "precio_justo_usd": 13500,
+   "interesante": false,
+   "nota": "Panthère de cuarzo con bisel y lunetas de diamantes; con los diamantes y el oro blanco, el precio pedido de US$18.020 supera lo que se cierra en el mercado de segunda mano. Verificar el material real del brazalete y la autenticidad."
+  },
+  "motivo": "triage: Panthère de cuarzo con bisel y lunetas de diamantes; con los diamantes y el oro blanco, el precio pedido de US$18.020 supera lo que se cierra en el mercado de segunda mano. Verificar el material real del brazalete y la autenticidad. (justo 13500)"
  }
 ]
