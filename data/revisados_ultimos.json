@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-13T18:35:51.191673+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Vintage Day Date 18038",
-  "total": 18800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327454572745",
-  "item_id": "v1|327454572745|0",
-  "referencia": "18038",
-  "mercado": {
-   "n": 18,
-   "p25": 9165,
-   "mediana": 10484
-  },
-  "ratio_mercado": 2.051,
-  "motivo": "precio normal (205 % del cuartil bajo de 18038)"
- },
- {
-  "fecha": "2026-11-13T18:35:51.191673+00:00",
-  "marca": "Rolex",
   "titulo": "Original Rolex 2030 / 2035 4432 BALANCE Complete Swiss Made",
   "total": 339.0,
   "condicion": "Pre-owned - Good",
@@ -10989,5 +10972,22 @@
    "nota": "Tank Française mediana bimetal con esfera de diamantes; el precio pedido de US$7,710 está muy por encima de lo que se vende realmente en el mercado de segunda mano."
   },
   "motivo": "triage: Tank Française mediana bimetal con esfera de diamantes; el precio pedido de US$7,710 está muy por encima de lo que se vende realmente en el mercado de segunda mano. (justo 4500)"
+ },
+ {
+  "fecha": "2026-11-17T15:08:37.529641+00:00",
+  "marca": "Cartier",
+  "titulo": "Vintage Cartier Vendôme 18K Tri-Color Gold Ref. 882004 Quartz 24.5mm Watch",
+  "total": 3400.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800925451171",
+  "item_id": "v1|800925451171|0",
+  "triage": {
+   "modelo": "Cartier Vendôme (cuarzo, oro 18K, esfera con numerales romanos)",
+   "referencia": "882004 (según el título; no verificable en la imagen)",
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Precio pedido de US$3,400 supera el valor de venta realista para un Vendôme de cuarzo 18K de 24.5 mm en estado Good, aun considerando el valor del oro; la referencia no se puede confirmar en la foto."
+  },
+  "motivo": "triage: Precio pedido de US$3,400 supera el valor de venta realista para un Vendôme de cuarzo 18K de 24.5 mm en estado Good, aun considerando el valor del oro; la referencia no se puede confirmar en la foto. (justo 2300)"
  }
 ]
