@@ -1,85 +1,5 @@
 [
  {
-  "fecha": "2026-11-14T01:36:07.252288+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR 1926 M91650-0011 - MSRP $2650",
-  "total": 2457.04,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/366808568766",
-  "item_id": "v1|366808568766|0",
-  "referencia": "M91650-0011",
-  "mercado": {
-   "n": 4,
-   "p25": 2098,
-   "mediana": 2129
-  },
-  "triage": {
-   "modelo": "Tudor 1926 (esfera plateada, brazalete Jubilee de acero)",
-   "referencia": "M91650-0011",
-   "precio_justo_usd": 2000,
-   "interesante": false,
-   "nota": "Precio pedido de US$2457 está por encima del precio de mercado gris (~US$1,900-2,100 con caja y papeles) y apenas 7 % bajo MSRP; no hay descuento real."
-  },
-  "motivo": "triage: Precio pedido de US$2457 está por encima del precio de mercado gris (~US$1,900-2,100 con caja y papeles) y apenas 7 % bajo MSRP; no hay descuento real. (justo 2000)"
- },
- {
-  "fecha": "2026-11-14T01:51:07.419908+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 116244 \"G\" Serial S/S 36MM Factory Diamond Watch. Mint. B/P",
-  "total": 11560.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287728242957",
-  "item_id": "v1|287728242957|0",
-  "referencia": "116244",
-  "mercado": {
-   "n": 34,
-   "p25": 14070,
-   "mediana": 14869
-  },
-  "ratio_mercado": 0.822,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 7800,
-   "riesgo_autenticidad": "alto",
-   "estado": "Aspecto muy bueno y poco desgaste, pero con detalles en la esfera y el cristal que no cuadran, y precio muy por encima del mercado"
-  },
-  "motivo": "Claude descarto: Precio: US$11,560 es mucho más de lo que se cierra realmente. Un 116244 de acero con caja y papeles se vende hoy en EE. UU. más o menos entre US$7,200 y 8,800. Los comparables de US$14-15k son precios pedidos inflados y no sirven de referencia. Aquí no hay margen de reventa.; En las fotos de frente y de 3/4 no se ve la lupa (cyclops) sobre la ventana de fecha. Todos los Datejust 36 tienen cyclops. Puede ser un cristal cambiado o un reloj réplica o híbrido."
- },
- {
-  "fecha": "2026-11-14T02:06:06.545611+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner 126613 18K/SS 41MM Black 8/2023 Date Diving Watch. Mint. B/P",
-  "total": 16590.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287728260056",
-  "item_id": "v1|287728260056|0",
-  "referencia": "126613",
-  "mercado": {
-   "n": 62,
-   "p25": 17999,
-   "mediana": 18992
-  },
-  "ratio_mercado": 0.922,
-  "motivo": "precio normal (92 % del cuartil bajo de 126613)"
- },
- {
-  "fecha": "2026-11-14T02:21:07.264721+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner 16610 \"M\" Serial Rehaut Engraved S/S 40MM Diver. Stunning. B/P ",
-  "total": 12340.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287728291587",
-  "item_id": "v1|287728291587|0",
-  "referencia": "16610",
-  "mercado": {
-   "n": 83,
-   "p25": 9900,
-   "mediana": 10395
-  },
-  "ratio_mercado": 1.246,
-  "motivo": "precio normal (125 % del cuartil bajo de 16610)"
- },
- {
   "fecha": "2026-11-14T02:21:07.264721+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR Pelagos FXD MN22",
@@ -10914,5 +10834,85 @@
    "nota": "Precio pedido de US$3,975 por encima de lo que se vende realmente en el mercado secundario; con caja y papeles, el rango razonable es alrededor de US$3,300-3,500."
   },
   "motivo": "triage: Precio pedido de US$3,975 por encima de lo que se vende realmente en el mercado secundario; con caja y papeles, el rango razonable es alrededor de US$3,300-3,500. (justo 3400)"
+ },
+ {
+  "fecha": "2026-11-17T22:38:53.814733+00:00",
+  "marca": "Rolex",
+  "titulo": "2023 Rolex GMT-Master II \"Batgirl\" Silver Jubilee Bracelet Full Set-126710BLNR",
+  "total": 20000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800931383361",
+  "item_id": "v1|800931383361|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 69,
+   "p25": 18354,
+   "mediana": 18900
+  },
+  "ratio_mercado": 1.09,
+  "motivo": "precio normal (109 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-17T22:38:53.814733+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona 126518LN Turquoise 2026 AUGUST UNWORN Yellow Gold Oysterflex 40mm",
+  "total": 101950.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840139481427",
+  "item_id": "v1|840139481427|0",
+  "referencia": "126518LN",
+  "mercado": {
+   "n": 10,
+   "p25": 58600,
+   "mediana": 60744
+  },
+  "ratio_mercado": 1.74,
+  "motivo": "precio normal (174 % del cuartil bajo de 126518LN)"
+ },
+ {
+  "fecha": "2026-11-17T22:38:53.814733+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 41 Two Tone SS/18k Yellow Gold Bluesy Mint 126613LB",
+  "total": 17750.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/377654649241",
+  "item_id": "v1|377654649241|0",
+  "referencia": "126613LB",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Submariner Date 41 Two-Tone (acero/oro amarillo 18k), bisel y esfera azules",
+   "referencia": "126613LB",
+   "precio_justo_usd": 18000,
+   "interesante": false,
+   "nota": "Precio pedido apenas ~1% bajo el valor de mercado estimado para usado excelente; no hay descuento de al menos 15%."
+  },
+  "motivo": "triage: Precio pedido apenas ~1% bajo el valor de mercado estimado para usado excelente; no hay descuento de al menos 15%. (justo 18000)"
+ },
+ {
+  "fecha": "2026-11-17T22:38:53.814733+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Glamour 39mm Stainless Steel 56000 2020",
+  "total": 1799.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/117527302856",
+  "item_id": "v1|117527302856|0",
+  "referencia": "56000",
+  "mercado": {
+   "n": 4,
+   "p25": 1630,
+   "mediana": 1850
+  },
+  "triage": {
+   "modelo": "Tudor Glamour Date+Day (acero, esfera plateada, calibre automático con rotor)",
+   "referencia": "56000",
+   "precio_justo_usd": 1950,
+   "interesante": false,
+   "nota": "Precio pedido un ~8% bajo el valor estimado de venta; no alcanza el umbral del 15%. Verificar año, estado de la pulsera y autenticidad antes de comprar."
+  },
+  "motivo": "triage: Precio pedido un ~8% bajo el valor estimado de venta; no alcanza el umbral del 15%. Verificar año, estado de la pulsera y autenticidad antes de comprar. (justo 1950)"
  }
 ]
