@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-13T17:35:39.979508+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 68240 White Roman Diamond Stainless Steel Oyster 31mm Watch",
-  "total": 5288.82,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960191722543",
-  "item_id": "v1|960191722543|0",
-  "referencia": "68240",
-  "mercado": {
-   "n": 20,
-   "p25": 6025,
-   "mediana": 6710
-  },
-  "ratio_mercado": 0.878,
-  "motivo": "precio normal (88 % del cuartil bajo de 68240)"
- },
- {
   "fecha": "2026-11-13T17:50:40.343788+00:00",
   "marca": "Rolex",
   "titulo": "2021 Rolex DateJust 126234 Black Diamond Steel 18K Gold Jubilee 36mm Box Papers",
@@ -11003,5 +10986,22 @@
   },
   "ratio_mercado": 1.2,
   "motivo": "precio normal (120 % del cuartil bajo de WSTA0053)"
+ },
+ {
+  "fecha": "2026-11-17T01:08:06.912417+00:00",
+  "marca": "Cartier",
+  "titulo": "Men's Cartier Steel Pasha De Cartier 38mm grid watch Vintage I Have All Papers",
+  "total": 6500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840136243493",
+  "item_id": "v1|840136243493|0",
+  "triage": {
+   "modelo": "Cartier Pasha de Cartier 38 mm acero, esfera grid (cuarzo), no vintage",
+   "referencia": null,
+   "precio_justo_usd": 4800,
+   "interesante": false,
+   "nota": "Pasha de acero moderno, no vintage como indica el título; el precio pedido de US$6500 está por encima del valor de venta cerrada con papeles."
+  },
+  "motivo": "triage: Pasha de acero moderno, no vintage como indica el título; el precio pedido de US$6500 está por encima del valor de venta cerrada con papeles. (justo 4800)"
  }
 ]
