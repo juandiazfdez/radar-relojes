@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-13T18:05:51.186135+00:00",
   "marca": "Rolex",
-  "titulo": "MINT PAPERS Rolex 126660 Sea-Dweller Deepsea 44mm James Cameron Blue Steel Watch",
-  "total": 13122.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287727598588",
-  "item_id": "v1|287727598588|0",
-  "referencia": "126660",
-  "mercado": {
-   "n": 72,
-   "p25": 13040,
-   "mediana": 14250
-  },
-  "ratio_mercado": 1.006,
-  "motivo": "precio normal (101 % del cuartil bajo de 126660)"
- },
- {
-  "fecha": "2026-11-13T18:05:51.186135+00:00",
-  "marca": "Rolex",
   "titulo": "2015 PAPERS MINT Rolex 116710LN GMT Master II Steel Ceramic Black 40mm Watch Box",
   "total": 15142.05,
   "condicion": "Pre-owned - Excellent",
@@ -10972,5 +10955,22 @@
    "nota": "Sin referencia visible; el precio pedido de US$8,999 supera con holgura lo que este Cellini de los años 70 con brazalete de oro se vende realmente. Verificar quilataje y referencia exactos."
   },
   "motivo": "triage: Sin referencia visible; el precio pedido de US$8,999 supera con holgura lo que este Cellini de los años 70 con brazalete de oro se vende realmente. Verificar quilataje y referencia exactos. (justo 5000)"
+ },
+ {
+  "fecha": "2026-11-17T04:53:16.451609+00:00",
+  "marca": "Tudor",
+  "titulo": "Vintage Tudor Oyster Prince Big Rose Automatic",
+  "total": 1650.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920151140070",
+  "item_id": "v1|920151140070|0",
+  "triage": {
+   "modelo": "Tudor Oyster Prince automático vintage (dial rosa/rojo, probablemente años 60)",
+   "referencia": null,
+   "precio_justo_usd": 1450,
+   "interesante": false,
+   "nota": "Referencia no confirmable en la foto; el precio pedido de US$1650 está por encima del valor estimado de venta para estado Good."
+  },
+  "motivo": "triage: Referencia no confirmable en la foto; el precio pedido de US$1650 está por encima del valor estimado de venta para estado Good. (justo 1450)"
  }
 ]
