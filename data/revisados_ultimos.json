@@ -2,57 +2,6 @@
  {
   "fecha": "2026-11-13T22:35:50.659746+00:00",
   "marca": "Rolex",
-  "titulo": "Unworn Rolex Land Dweller 127334 Full Set",
-  "total": 25700.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/206699168092",
-  "item_id": "v1|206699168092|0",
-  "referencia": "127334",
-  "mercado": {
-   "n": 18,
-   "p25": 25325,
-   "mediana": 25774
-  },
-  "ratio_mercado": 1.015,
-  "motivo": "precio normal (101 % del cuartil bajo de 127334)"
- },
- {
-  "fecha": "2026-11-13T22:35:50.659746+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Bracelet 93160 A",
-  "total": 1550.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198790588588",
-  "item_id": "v1|198790588588|0",
-  "triage": {
-   "modelo": "Brazalete Oyster (ref. 93160A), solo pulsera, no reloj completo",
-   "referencia": "93160A",
-   "precio_justo_usd": 450,
-   "interesante": false,
-   "nota": "El título anuncia solo la pulsera, pero la foto muestra un reloj en caja que puede no estar incluido. Por una pulsera usada en estado Good, US$1550 está muy por encima del mercado. Conviene aclarar qué se vende."
-  },
-  "motivo": "triage: El título anuncia solo la pulsera, pero la foto muestra un reloj en caja que puede no estar incluido. Por una pulsera usada en estado Good, US$1550 está muy por encima del mercado. Conviene aclarar qué se vende. (justo 450)"
- },
- {
-  "fecha": "2026-11-13T22:35:50.659746+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 1950's Rolex Oyster Perpetual Ref 6085 Two Tone 34mm Men's Watch ",
-  "total": 3700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287727973383",
-  "item_id": "v1|287727973383|0",
-  "referencia": "6085",
-  "mercado": {
-   "n": 15,
-   "p25": 3975,
-   "mediana": 4500
-  },
-  "ratio_mercado": 0.931,
-  "motivo": "precio normal (93 % del cuartil bajo de 6085)"
- },
- {
-  "fecha": "2026-11-13T22:35:50.659746+00:00",
-  "marca": "Rolex",
   "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
   "total": 15900.0,
   "condicion": "Pre-owned - Excellent",
@@ -10921,5 +10870,62 @@
    "nota": "Es una carcasa vacía con brazalete, vendida para piezas o no funcional. Tudor Glamour suele ser de 42 mm, así que el título de 36 mm no cuadra. Por US$300 no hay margen, y un reloj completo funcional sale mucho más caro."
   },
   "motivo": "triage: Es una carcasa vacía con brazalete, vendida para piezas o no funcional. Tudor Glamour suele ser de 42 mm, así que el título de 36 mm no cuadra. Por US$300 no hay margen, y un reloj completo funcional sale mucho más caro. (justo 150)"
+ },
+ {
+  "fecha": "2026-11-17T21:08:53.935913+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex President Datejust Yellow Gold Diamond Ladies Watch 179158 Box Card",
+  "total": 27450.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257857467940",
+  "item_id": "v1|257857467940|0",
+  "referencia": "179158",
+  "mercado": {
+   "n": 4,
+   "p25": 32040,
+   "mediana": 32735
+  },
+  "triage": {
+   "modelo": "Rolex Lady-Datejust President 26 mm en oro amarillo de 18 k, con bisel y asas de diamantes y esfera con diamantes",
+   "referencia": "179158",
+   "precio_justo_usd": 16000,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de mercado para este modelo en estado usado; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de mercado para este modelo en estado usado; no es una oportunidad. (justo 16000)"
+ },
+ {
+  "fecha": "2026-11-17T21:08:53.935913+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 126508 2026 Box & Papers",
+  "total": 79844.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/377654511446",
+  "item_id": "v1|377654511446|0",
+  "referencia": "126508",
+  "mercado": {
+   "n": 11,
+   "p25": 68677,
+   "mediana": 76500
+  },
+  "ratio_mercado": 1.163,
+  "motivo": "precio normal (116 % del cuartil bajo de 126508)"
+ },
+ {
+  "fecha": "2026-11-17T21:08:53.935913+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36, 116200, White Arabic Dial, Super Jubilee Bracelet FULL SET ",
+  "total": 7295.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820366764662",
+  "item_id": "v1|820366764662|0",
+  "referencia": "116200",
+  "mercado": {
+   "n": 55,
+   "p25": 8145,
+   "mediana": 8879
+  },
+  "ratio_mercado": 0.896,
+  "motivo": "precio normal (90 % del cuartil bajo de 116200)"
  }
 ]
