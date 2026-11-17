@@ -4270,7 +4270,7 @@
   "max": 9600
  },
  "Tudor 79220B|usado": {
-  "fecha": "2026-11-05",
+  "fecha": "2026-11-17",
   "consulta": "Tudor 79220B",
   "n": 4,
   "mediana": 4175,
@@ -6950,13 +6950,13 @@
   "max": 8373
  },
  "Rolex 214270|usado": {
-  "fecha": "2026-11-10",
+  "fecha": "2026-11-17",
   "consulta": "Rolex 214270",
   "n": 23,
-  "mediana": 9486,
-  "p25": 8375,
+  "mediana": 9500,
+  "p25": 8495,
   "p75": 10276,
-  "min": 2040,
+  "min": 7495,
   "max": 19995
  },
  "Rolex 116189|usado": {
@@ -18365,13 +18365,13 @@
   "max": 2200
  },
  "Cartier WSSA0030|usado": {
-  "fecha": "2026-11-14",
+  "fecha": "2026-11-17",
   "consulta": "Cartier WSSA0030",
-  "n": 2,
-  "mediana": 17400,
-  "p25": 7800,
+  "n": 3,
+  "mediana": 7800,
+  "p25": 7000,
   "p75": 27000,
-  "min": 7800,
+  "min": 7000,
   "max": 27000
  },
  "Rolex 116619|usado": {
@@ -21788,5 +21788,10 @@
   "p75": 65000,
   "min": 64200,
   "max": 65000
+ },
+ "Tudor M28300|nuevo": {
+  "fecha": "2026-11-17",
+  "consulta": "Tudor M28300",
+  "n": 0
  }
 }

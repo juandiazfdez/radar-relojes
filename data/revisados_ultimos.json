@@ -2,80 +2,6 @@
  {
   "fecha": "2026-11-13T21:20:50.683603+00:00",
   "marca": "Rolex",
-  "titulo": "2026 Rolex Land-Dweller 40mm Land Dweller 127334 Box Papers",
-  "total": 24550.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/960192896888",
-  "item_id": "v1|960192896888|0",
-  "referencia": "127334",
-  "mercado": {
-   "n": 18,
-   "p25": 25325,
-   "mediana": 25774
-  },
-  "ratio_mercado": 0.969,
-  "motivo": "precio normal (97 % del cuartil bajo de 127334)"
- },
- {
-  "fecha": "2026-11-13T21:20:50.683603+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date Hulk 116610LV",
-  "total": 19900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147679464815",
-  "item_id": "v1|147679464815|0",
-  "referencia": "116610LV",
-  "mercado": {
-   "n": 27,
-   "p25": 19999,
-   "mediana": 20699
-  },
-  "ratio_mercado": 0.995,
-  "motivo": "precio normal (100 % del cuartil bajo de 116610LV)"
- },
- {
-  "fecha": "2026-11-13T21:20:50.683603+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 31 277200",
-  "total": 8000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147679462268",
-  "item_id": "v1|147679462268|0",
-  "referencia": "277200",
-  "mercado": {
-   "n": 18,
-   "p25": 9715,
-   "mediana": 11598
-  },
-  "ratio_mercado": 0.823,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 7000,
-   "riesgo_autenticidad": "medio",
-   "estado": "Aspecto casi nuevo en las fotos, sin rayones visibles; no hay fotos de caja ni papeles"
-  },
-  "motivo": "Claude descarto: US$8,000 está por encima del mercado cerrado real. Un OP 31 azul de 2022 con caja y papeles se vende hoy en EE. UU. por unos US$6,800-7,300. Los comparables de eBay (mediana 11,598) son precios pedidos e inflados, así que no sirven de referencia.; No queda margen de reventa. Comprando a 8,000 no hay ganancia razonable frente a un precio de salida de unos US$7,300-7,600."
- },
- {
-  "fecha": "2026-11-13T21:20:50.683603+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 126710BLNR",
-  "total": 17200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147679461748",
-  "item_id": "v1|147679461748|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 68,
-   "p25": 18349,
-   "mediana": 18900
-  },
-  "ratio_mercado": 0.937,
-  "motivo": "precio normal (94 % del cuartil bajo de 126710BLNR)"
- },
- {
-  "fecha": "2026-11-13T21:20:50.683603+00:00",
-  "marca": "Rolex",
   "titulo": "2026 NEW UNWORN Rolex GMT-Master II 40 BatMan Black/Blue Jubilee  126710BLNR",
   "total": 19555.0,
   "condicion": "New with box and papers",
@@ -10904,5 +10830,91 @@
    "nota": "Precio pedido US$17.950 está muy por encima de lo que se cierra para este modelo de oro con diamantes; verificar referencia y peso del oro."
   },
   "motivo": "triage: Precio pedido US$17.950 está muy por encima de lo que se cierra para este modelo de oro con diamantes; verificar referencia y peso del oro. (justo 12000)"
+ },
+ {
+  "fecha": "2026-11-17T19:38:36.698882+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Explorer 214270 MK1 ",
+  "total": 7250.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267846269684",
+  "item_id": "v1|267846269684|0",
+  "referencia": "214270",
+  "mercado": {
+   "n": 23,
+   "p25": 8495,
+   "mediana": 9500
+  },
+  "ratio_mercado": 0.853,
+  "motivo": "precio normal (85 % del cuartil bajo de 214270)"
+ },
+ {
+  "fecha": "2026-11-17T19:38:36.698882+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos de Cartier Automatic Blue WSSA0030",
+  "total": 6550.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267846274181",
+  "item_id": "v1|267846274181|0",
+  "referencia": "WSSA0030",
+  "mercado": {
+   "n": 3,
+   "p25": 7000,
+   "mediana": 7800
+  },
+  "triage": {
+   "modelo": "Cartier Santos de Cartier Automatic (grande, 40 mm, acero, esfera azul)",
+   "referencia": "WSSA0030",
+   "precio_justo_usd": 6000,
+   "interesante": false,
+   "nota": "Precio pedido de US$6.550 con envío queda por encima del valor de venta cerrada estimado (~US$6.000) para este modelo en estado excelente."
+  },
+  "motivo": "triage: Precio pedido de US$6.550 con envío queda por encima del valor de venta cerrada estimado (~US$6.000) para este modelo en estado excelente. (justo 6000)"
+ },
+ {
+  "fecha": "2026-11-17T19:38:36.698882+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay ETA “ Smiley \" 79220B Rare | Full Set | Micro-adjust bracelet",
+  "total": 3415.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137939990448",
+  "item_id": "v1|137939990448|0",
+  "referencia": "79220B",
+  "mercado": {
+   "n": 4,
+   "p25": 4000,
+   "mediana": 4175
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay (bisel azul, esfera negra, brazalete de acero; posible variante de la serie 79220B/79230B, no confirmable solo con la foto)",
+   "referencia": "79220B (según título, no verificable en la imagen)",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio pedido US$3,415 con envío, por encima del rango de venta cerrada de un Black Bay de esta generación en buen estado con caja y papeles. El apodo \"Smiley\" y la referencia del título no se pueden confirmar con la foto."
+  },
+  "motivo": "triage: Precio pedido US$3,415 con envío, por encima del rango de venta cerrada de un Black Bay de esta generación en buen estado con caja y papeles. El apodo \"Smiley\" y la referencia del título no se pueden confirmar con la foto. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-17T19:38:36.698882+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Royal 28mm Stainless Steel M28300-0006",
+  "total": 2195.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880127129531",
+  "item_id": "v1|880127129531|0",
+  "referencia": "M28300-0006",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Royal 28mm, esfera azul, acero",
+   "referencia": "M28300-0006",
+   "precio_justo_usd": 2500,
+   "interesante": false,
+   "nota": "Precio pedido unos 12 % por debajo de un estimado conservador para nuevo con caja y papeles; no alcanza el umbral del 15 %. No se puede verificar autenticidad solo con la foto."
+  },
+  "motivo": "triage: Precio pedido unos 12 % por debajo de un estimado conservador para nuevo con caja y papeles; no alcanza el umbral del 15 %. No se puede verificar autenticidad solo con la foto. (justo 2500)"
  }
 ]
