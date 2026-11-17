@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-11-13T18:05:51.186135+00:00",
-  "marca": "Cartier",
-  "titulo": "Santos de Cartier Galbée 987901 Stainless Steel 29mm Watch",
-  "total": 6995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336895998606",
-  "item_id": "v1|336895998606|0",
-  "triage": {
-   "modelo": "Cartier Santos de Cartier Galbée (acero, cuarzo, 29 mm)",
-   "referencia": "987901",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "Precio pedido de US$6995 muy por encima del valor de mercado para esta referencia de cuarzo en acero; no parece una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$6995 muy por encima del valor de mercado para esta referencia de cuarzo en acero; no parece una oportunidad. (justo 3800)"
- },
- {
-  "fecha": "2026-11-13T18:05:51.186135+00:00",
-  "marca": "Tudor",
-  "titulo": "2023 TUDOR Black Bay 54 REF M79000N-0001 Very good condition Full Set",
-  "total": 3750.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366807847256",
-  "item_id": "v1|366807847256|0",
-  "referencia": "M79000N-0001",
-  "mercado": {
-   "n": 1,
-   "p25": 3845,
-   "mediana": 3845
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay 54 (esfera negra, bisel negro, brazalete de acero)",
-   "referencia": "M79000N-0001",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Precio pedido de US$3750 está por encima del mercado secundario (~US$2800-3200 para BB54 con caja y papeles); no hay descuento."
-  },
-  "motivo": "triage: Precio pedido de US$3750 está por encima del mercado secundario (~US$2800-3200 para BB54 con caja y papeles); no hay descuento. (justo 3000)"
- },
- {
   "fecha": "2026-11-13T18:20:51.570153+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Explorer II Steve McQueen 1655 in stainless steel",
@@ -10984,5 +10944,39 @@
    "nota": "Precio pedido unos 8% por debajo de un estimado conservador; no alcanza el 15% de descuento. Falta verificar referencia, serie y estado de la pieza."
   },
   "motivo": "triage: Precio pedido unos 8% por debajo de un estimado conservador; no alcanza el 15% de descuento. Falta verificar referencia, serie y estado de la pieza. (justo 12000)"
+ },
+ {
+  "fecha": "2026-11-17T12:23:27.146179+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1987 Rolex Datejust Two Tone Jubilee Automatic Watch Ref. 16013",
+  "total": 6506.75,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117526468408",
+  "item_id": "v1|117526468408|0",
+  "referencia": "16013",
+  "mercado": {
+   "n": 21,
+   "p25": 3994,
+   "mediana": 4590
+  },
+  "ratio_mercado": 1.629,
+  "motivo": "precio normal (163 % del cuartil bajo de 16013)"
+ },
+ {
+  "fecha": "2026-11-17T12:23:27.146179+00:00",
+  "marca": "Cartier",
+  "titulo": "Vintage Cartier Ceinture 18k Yellow Gold Quartz Watch",
+  "total": 7506.75,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117526469015",
+  "item_id": "v1|117526469015|0",
+  "triage": {
+   "modelo": "Cartier Ceinture vintage, oro amarillo 18k, cuarzo",
+   "referencia": null,
+   "precio_justo_usd": 4800,
+   "interesante": false,
+   "nota": "La referencia no es visible; el precio pedido de US$7.507 queda muy por encima del rango de venta cerrada para este modelo en oro 18k, según estado y tamaño."
+  },
+  "motivo": "triage: La referencia no es visible; el precio pedido de US$7.507 queda muy por encima del rango de venta cerrada para este modelo en oro 18k, según estado y tamaño. (justo 4800)"
  }
 ]
