@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-11-13T18:05:51.186135+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex Precision 18K Yellow Gold Ref 2648 Cal 1400 Ladies Watch 2024 Serv",
-  "total": 2350.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/900088753193",
-  "item_id": "v1|900088753193|0",
-  "triage": {
-   "modelo": "Rolex Precision de dama, oro amarillo 18K, caja tonneau, cuerda manual",
-   "referencia": "2648 (según título; no verificable en la imagen)",
-   "precio_justo_usd": 1000,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de venta cerrada para este modelo vintage en 18K con estado Good; la referencia debe verificarse."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de venta cerrada para este modelo vintage en 18K con estado Good; la referencia debe verificarse. (justo 1000)"
- },
- {
-  "fecha": "2026-11-13T18:05:51.186135+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Men's 40mm Large Model Steel Watch Roman Iced Out 10ct Diamonds",
-  "total": 8500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267842623852",
-  "item_id": "v1|267842623852|0",
-  "triage": {
-   "modelo": "Cartier Santos de Cartier, modelo grande (LM) de acero, esfera romana, personalizado iced out con diamantes en caja, bisel, brazalete y esfera",
-   "referencia": null,
-   "precio_justo_usd": 6000,
-   "interesante": false,
-   "nota": "Base Santos LM de acero vale unos 7.000-8.000 USD, pero la personalización con diamantes resta liquidez y el precio pedido no está 15% por debajo del valor real. El listado no indica referencia, año ni papeles, y la autenticidad de la base y de las piedras debe verificarse."
-  },
-  "motivo": "triage: Base Santos LM de acero vale unos 7.000-8.000 USD, pero la personalización con diamantes resta liquidez y el precio pedido no está 15% por debajo del valor real. El listado no indica referencia, año ni papeles, y la autenticidad de la base y de las piedras debe verificarse. (justo 6000)"
- },
- {
-  "fecha": "2026-11-13T18:05:51.186135+00:00",
   "marca": "Cartier",
   "titulo": "Santos de Cartier Galbée 987901 Stainless Steel 29mm Watch",
   "total": 6995.0,
@@ -10984,5 +10950,39 @@
    "nota": "Precio pedido cercano al valor de venta real para esta referencia; sin margen claro de 15 % y la identificación exacta depende de ver el caso y la esfera."
   },
   "motivo": "triage: Precio pedido cercano al valor de venta real para esta referencia; sin margen claro de 15 % y la identificación exacta depende de ver el caso y la esfera. (justo 1900)"
+ },
+ {
+  "fecha": "2026-11-17T12:08:26.804036+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1966 Rolex 18k Yellow Gold Oyster Perpetual Automatic 34mm Watch",
+  "total": 8006.75,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117526448211",
+  "item_id": "v1|117526448211|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual 34 mm en oro amarillo 18k, bisel acanalado, esfera plateada con marcadores de bastón (años 60)",
+   "referencia": "1005 (probable, a confirmar por número de serie y calibre)",
+   "precio_justo_usd": 9000,
+   "interesante": false,
+   "nota": "Precio pedido de US$8.007 está unos 11 % por debajo de una estimación conservadora; no alcanza el umbral del 15 %. Correa de lagarto no original; verificar autenticidad y estado de la caja."
+  },
+  "motivo": "triage: Precio pedido de US$8.007 está unos 11 % por debajo de una estimación conservadora; no alcanza el umbral del 15 %. Correa de lagarto no original; verificar autenticidad y estado de la caja. (justo 9000)"
+ },
+ {
+  "fecha": "2026-11-17T12:08:26.804036+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex Stainless Steel & Yellow Gold  GMT-Master 40mm Automatic Watch",
+  "total": 11006.75,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117526448212",
+  "item_id": "v1|117526448212|0",
+  "triage": {
+   "modelo": "Rolex GMT-Master II de dos tonos (acero y oro amarillo), bisel negro, brazalete Jubilee",
+   "referencia": "16713 (probable, a confirmar por número de serie y tapa trasera)",
+   "precio_justo_usd": 12000,
+   "interesante": false,
+   "nota": "Precio pedido unos 8% por debajo de un estimado conservador; no alcanza el 15% de descuento. Falta verificar referencia, serie y estado de la pieza."
+  },
+  "motivo": "triage: Precio pedido unos 8% por debajo de un estimado conservador; no alcanza el 15% de descuento. Falta verificar referencia, serie y estado de la pieza. (justo 12000)"
  }
 ]
