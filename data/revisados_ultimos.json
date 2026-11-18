@@ -1,79 +1,5 @@
 [
  {
-  "fecha": "2026-11-16T14:22:46.945271+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu de Cartier Quartz Watch Stainless Steel 36",
-  "total": 5470.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117524670888",
-  "item_id": "v1|117524670888|0",
-  "triage": {
-   "modelo": "Cartier Ballon Bleu de Cartier 36 mm cuarzo, acero inoxidable, esfera plateada con números romanos",
-   "referencia": "W69010Z4 (probable, verificar)",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "Precio pedido de US$5470 con envío está por encima del valor de reventa de esta referencia usada; no hay descuento."
-  },
-  "motivo": "triage: Precio pedido de US$5470 con envío está por encima del valor de reventa de esta referencia usada; no hay descuento. (justo 3800)"
- },
- {
-  "fecha": "2026-11-16T14:37:47.461509+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Dark 41MM #79230DK Black PVD Watch & Card",
-  "total": 2975.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/860149218208",
-  "item_id": "v1|860149218208|0",
-  "referencia": "79230DK",
-  "mercado": {
-   "n": 8,
-   "p25": 3395,
-   "mediana": 3647
-  },
-  "ratio_mercado": 0.876,
-  "motivo": "precio normal (88 % del cuartil bajo de 79230DK)"
- },
- {
-  "fecha": "2026-11-16T14:52:47.375535+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 58 925 Silver 39MM #79010SG 2021 Set (Box & Papers)",
-  "total": 3745.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/860149220749",
-  "item_id": "v1|860149220749|0",
-  "referencia": "79010SG",
-  "mercado": {
-   "n": 11,
-   "p25": 3950,
-   "mediana": 4250
-  },
-  "ratio_mercado": 0.948,
-  "motivo": "precio normal (95 % del cuartil bajo de 79010SG)"
- },
- {
-  "fecha": "2026-11-16T15:07:57.971193+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Midsize Date 31 mm 18K Yellow Gold Champagne Oyster Watch 6627 Circa 1966",
-  "total": 15990.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800925418117",
-  "item_id": "v1|800925418117|0",
-  "referencia": "6627",
-  "mercado": {
-   "n": 2,
-   "p25": 6215,
-   "mediana": 10056
-  },
-  "triage": {
-   "modelo": "Rolex Datejust medio (Midsize Date) de oro amarillo 18K, esfera champán, bisel acanalado, brazalete Oyster",
-   "referencia": "6627",
-   "precio_justo_usd": 11500,
-   "interesante": false,
-   "nota": "Oro amarillo 18K vintage de 1966 con brazalete y buen estado; el precio pedido queda por encima del valor de venta cerrada estimado para esta referencia."
-  },
-  "motivo": "triage: Oro amarillo 18K vintage de 1966 con brazalete y buen estado; el precio pedido queda por encima del valor de venta cerrada estimado para esta referencia. (justo 11500)"
- },
- {
   "fecha": "2026-11-16T15:07:57.971193+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual Ladies 26 mm Steel Automatic Watch 6618 Circa 1967",
@@ -10860,5 +10786,73 @@
    "nota": "Precio pedido por encima del valor estimado de mercado para un 126233 de 2021 en buen estado con caja; no hay descuento suficiente."
   },
   "motivo": "triage: Precio pedido por encima del valor estimado de mercado para un 126233 de 2021 en buen estado con caja; no hay descuento suficiente. (justo 14000)"
+ },
+ {
+  "fecha": "2026-11-18T22:54:43.592146+00:00",
+  "marca": "Rolex",
+  "titulo": "2020 PAPERS Rolex Explorer I Black Stainless Steel 39mm 214270 Watch BOX",
+  "total": 9199.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168871803923",
+  "item_id": "v1|168871803923|0",
+  "referencia": "214270",
+  "mercado": {
+   "n": 23,
+   "p25": 8495,
+   "mediana": 9500
+  },
+  "ratio_mercado": 1.083,
+  "motivo": "precio normal (108 % del cuartil bajo de 214270)"
+ },
+ {
+  "fecha": "2026-11-18T22:54:43.592146+00:00",
+  "marca": "Rolex",
+  "titulo": "2021 PAPERS Rolex GMT Master II Batman Steel Oyster Bracelet 126710BLNR BOX",
+  "total": 17099.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168871802302",
+  "item_id": "v1|168871802302|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 70,
+   "p25": 18400,
+   "mediana": 18970
+  },
+  "ratio_mercado": 0.929,
+  "motivo": "precio normal (93 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-18T22:54:43.592146+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere 83782747 18K Yellow Gold Quartz 29mm",
+  "total": 23895.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820370613718",
+  "item_id": "v1|820370613718|0",
+  "triage": {
+   "modelo": "Cartier Panthère (Jumbo/Grand, oro amarillo 18k, brazalete integrado, cuarzo)",
+   "referencia": null,
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "Precio pedido muy superior al mercado para oro amarillo 18k pre-owned; la referencia del título no sigue el formato habitual de Cartier."
+  },
+  "motivo": "triage: Precio pedido muy superior al mercado para oro amarillo 18k pre-owned; la referencia del título no sigue el formato habitual de Cartier. (justo 14000)"
+ },
+ {
+  "fecha": "2026-11-18T22:54:43.592146+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Stainless Steel Roadster Watch 2510",
+  "total": 3950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168871803982",
+  "item_id": "v1|168871803982|0",
+  "referencia": "2510",
+  "mercado": {
+   "n": 26,
+   "p25": 4030,
+   "mediana": 4372
+  },
+  "ratio_mercado": 0.98,
+  "motivo": "precio normal (98 % del cuartil bajo de 2510)"
  }
 ]
