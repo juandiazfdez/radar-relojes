@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-14T15:21:25.772800+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Northflag GMT ref. M9140G1A0U or 9140G1A0U North Flag",
-  "total": 5565.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198794740409",
-  "item_id": "v1|198794740409|0",
-  "triage": {
-   "modelo": "Tudor North Flag GMT (esfera negra, bisel en acero, brazalete de eslabones)",
-   "referencia": "M9140G1A0U",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Pedido de US$5,565 está muy por encima del retail actual (~US$4,000) y del mercado secundario de un usado en buen estado. Sin caja ni papeles verificables, no es una oportunidad."
-  },
-  "motivo": "triage: Pedido de US$5,565 está muy por encima del retail actual (~US$4,000) y del mercado secundario de un usado en buen estado. Sin caja ni papeles verificables, no es una oportunidad. (justo 3300)"
- },
- {
-  "fecha": "2026-11-14T15:36:26.051318+00:00",
-  "marca": "Rolex",
-  "titulo": "2009 Rolex Submariner Date 16610 Rehaut No-Holes Black Steel 40mm Box Papers",
-  "total": 12223.97,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940091932139",
-  "item_id": "v1|940091932139|0",
-  "referencia": "16610",
-  "mercado": {
-   "n": 83,
-   "p25": 9900,
-   "mediana": 10395
-  },
-  "ratio_mercado": 1.235,
-  "motivo": "precio normal (123 % del cuartil bajo de 16610)"
- },
- {
   "fecha": "2026-11-14T15:36:26.051318+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Must WSTA0053 XL Ref 4324",
@@ -10946,5 +10912,39 @@
    "nota": "Precio pedido de US$8,814 muy por encima del valor de venta real de un Cellini vintage de 18k sin caja ni papeles; el oro y la condición Good no lo justifican."
   },
   "motivo": "triage: Precio pedido de US$8,814 muy por encima del valor de venta real de un Cellini vintage de 18k sin caja ni papeles; el oro y la condición Good no lo justifican. (justo 4500)"
+ },
+ {
+  "fecha": "2026-11-18T01:39:13.775639+00:00",
+  "marca": "Rolex",
+  "titulo": "2006 Rolex Datejust Pink Roman Ladies Automatic Wristwatch Full Set 179174",
+  "total": 8475.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137940597284",
+  "item_id": "v1|137940597284|0",
+  "referencia": "179174",
+  "mercado": {
+   "n": 50,
+   "p25": 8300,
+   "mediana": 8950
+  },
+  "ratio_mercado": 1.021,
+  "motivo": "precio normal (102 % del cuartil bajo de 179174)"
+ },
+ {
+  "fecha": "2026-11-18T01:39:13.775639+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Two-Tone Bracelet Green Dial/Bezel Auto Date 300m",
+  "total": 140.0,
+  "condicion": "New without box or papers",
+  "url": "https://www.ebay.com/itm/336902967129",
+  "item_id": "v1|336902967129|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date 'Hulk' bicolor (acero y oro amarillo, esfera y bisel verdes)",
+   "referencia": "116613LV",
+   "precio_justo_usd": 16000,
+   "interesante": false,
+   "nota": "Precio de US$140 imposible para un Submariner real; probable réplica o imitación y listado engañoso. Si fuera genuino valdría mucho más."
+  },
+  "motivo": "triage: Precio de US$140 imposible para un Submariner real; probable réplica o imitación y listado engañoso. Si fuera genuino valdría mucho más. (justo 16000)"
  }
 ]
