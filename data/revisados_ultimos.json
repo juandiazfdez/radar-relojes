@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-14T23:06:48.230958+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Pelagos 39mm Titanium 2024 Box & Papers. Original owner",
-  "total": 3750.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206701631825",
-  "item_id": "v1|206701631825|0",
-  "triage": {
-   "modelo": "Tudor Pelagos 39 titanio (probable, esfera negra, pulsera de titanio)",
-   "referencia": "M25407N-0001 (probable)",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Precio pedido de US$3,750 con envío, por encima de un precio de venta razonable en el mercado secundario para esta referencia con caja y papeles. No cumple el umbral del 15 % por debajo."
-  },
-  "motivo": "triage: Precio pedido de US$3,750 con envío, por encima de un precio de venta razonable en el mercado secundario para esta referencia con caja y papeles. No cumple el umbral del 15 % por debajo. (justo 3500)"
- },
- {
-  "fecha": "2026-11-14T23:21:48.414301+00:00",
-  "marca": "Rolex",
-  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
-  "total": 13991.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/327456621980",
-  "item_id": "v1|327456621980|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date (esfera negra, bisel negro; generación no verificable en la foto)",
-   "referencia": null,
-   "precio_justo_usd": 13500,
-   "interesante": false,
-   "nota": "La foto no permite confirmar la referencia ni la generación; la caja y papeles no garantizan autenticidad. Precio cerca del mercado para un Submariner Date completo, sin descuento de 15 %."
-  },
-  "motivo": "triage: La foto no permite confirmar la referencia ni la generación; la caja y papeles no garantizan autenticidad. Precio cerca del mercado para un Submariner Date completo, sin descuento de 15 %. (justo 13500)"
- },
- {
-  "fecha": "2026-11-14T23:36:48.104587+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41 2026 OCTOBER UNWORN 126334 Black Oyster Steel",
-  "total": 15650.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/840129231808",
-  "item_id": "v1|840129231808|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 (acero y oro blanco, bisel acanalado, esfera negra, brazalete Oyster)",
-   "referencia": "126334",
-   "precio_justo_usd": 13000,
-   "interesante": false,
-   "nota": "Referencia 126334 nueva con caja y papeles; el precio pedido queda por encima del valor estimado de venta cerrada, y el año '2026' no se puede verificar desde la foto."
-  },
-  "motivo": "triage: Referencia 126334 nueva con caja y papeles; el precio pedido queda por encima del valor estimado de venta cerrada, y el año '2026' no se puede verificar desde la foto. (justo 13000)"
- },
- {
   "fecha": "2026-11-14T23:36:48.104587+00:00",
   "marca": "Rolex",
   "titulo": "rolex oyster perpetual 41 mm",
@@ -10922,5 +10865,56 @@
   },
   "ratio_mercado": 1.071,
   "motivo": "precio normal (107 % del cuartil bajo de 79000B)"
+ },
+ {
+  "fecha": "2026-11-18T16:39:33.226535+00:00",
+  "marca": "Rolex",
+  "titulo": "42159: Rolex Submariner 40, Ref. 16610, Circa 1991",
+  "total": 9500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237190578211",
+  "item_id": "v1|237190578211|0",
+  "referencia": "16610",
+  "mercado": {
+   "n": 82,
+   "p25": 9977,
+   "mediana": 10496
+  },
+  "ratio_mercado": 0.952,
+  "motivo": "precio normal (95 % del cuartil bajo de 16610)"
+ },
+ {
+  "fecha": "2026-11-18T16:39:33.226535+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yachtmaster Midsize Steel Yellow Gold Mens Watch 168623",
+  "total": 10330.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257858992722",
+  "item_id": "v1|257858992722|0",
+  "referencia": "168623",
+  "mercado": {
+   "n": 9,
+   "p25": 8950,
+   "mediana": 8950
+  },
+  "ratio_mercado": 1.154,
+  "motivo": "precio normal (115 % del cuartil bajo de 168623)"
+ },
+ {
+  "fecha": "2026-11-18T16:39:33.226535+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 TUDOR Black Bay Fifty Eight",
+  "total": 4500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880129985041",
+  "item_id": "v1|880129985041|0",
+  "triage": {
+   "modelo": "TUDOR Black Bay Fifty-Eight (variante bicolor acero/oro amarillo, esfera negra)",
+   "referencia": null,
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Con caja y papeles, el precio de reventa de esta variante bicolor está cerca de retail; el pedido de US$4500 no está al menos 15 % por debajo. Referencia exacta no verificable en la foto."
+  },
+  "motivo": "triage: Con caja y papeles, el precio de reventa de esta variante bicolor está cerca de retail; el pedido de US$4500 no está al menos 15 % por debajo. Referencia exacta no verificable en la foto. (justo 4000)"
  }
 ]
