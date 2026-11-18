@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-14T17:21:38.015840+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Submariner 40mm Stainless Steel Automatic Watch 116610",
-  "total": 13000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137930782141",
-  "item_id": "v1|137930782141|0",
-  "referencia": "116610",
-  "mercado": {
-   "n": 46,
-   "p25": 12428,
-   "mediana": 12632
-  },
-  "ratio_mercado": 1.046,
-  "motivo": "precio normal (105 % del cuartil bajo de 116610)"
- },
- {
-  "fecha": "2026-11-14T17:21:38.015840+00:00",
-  "marca": "Rolex",
   "titulo": "NEW/UNWORN 2025 Rolex GMT-Master II “Pepsi” 40mm 126710BLRO Jubilee ",
   "total": 28149.0,
   "condicion": "New with box and papers",
@@ -10946,5 +10929,22 @@
    "nota": "Precio pedido por encima del valor de venta cerrada para un 74000 de 1997 en condición excelente sin caja ni papeles indicados. Verificar que el brazalete sea original."
   },
   "motivo": "triage: Precio pedido por encima del valor de venta cerrada para un 74000 de 1997 en condición excelente sin caja ni papeles indicados. Verificar que el brazalete sea original. (justo 2000)"
+ },
+ {
+  "fecha": "2026-11-18T02:54:12.096790+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex Green  SkyDweller 42mm Stainless Steel/White Gold 336934",
+  "total": 26550.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117527603687",
+  "item_id": "v1|117527603687|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller de acero y oro blanco, esfera verde, bisel acanalado y brazalete Jubilee",
+   "referencia": "336934",
+   "precio_justo_usd": 27000,
+   "interesante": false,
+   "nota": "El precio pedido está en línea con el mercado secundario para esta referencia actual; el título dice '2026', que no encaja con una pieza de producción actual, así que conviene verificar año, papeles y autenticidad."
+  },
+  "motivo": "triage: El precio pedido está en línea con el mercado secundario para esta referencia actual; el título dice '2026', que no encaja con una pieza de producción actual, así que conviene verificar año, papeles y autenticidad. (justo 27000)"
  }
 ]
