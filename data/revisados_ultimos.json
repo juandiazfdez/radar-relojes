@@ -1,73 +1,5 @@
 [
  {
-  "fecha": "2026-11-15T11:52:06.743095+00:00",
-  "marca": "Cartier",
-  "titulo": "Vintage Cartier Colisee 24mm Vermeil Quartz 590002 MICS0391",
-  "total": 2197.98,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900093223748",
-  "item_id": "v1|900093223748|0",
-  "triage": {
-   "modelo": "Cartier Must de Cartier Colisée vermeil, cuarzo, 24 mm",
-   "referencia": "590002",
-   "precio_justo_usd": 550,
-   "interesante": false,
-   "nota": "Vermeil de cuarzo muy comercial; el precio pedido (US$2198) está muy por encima de lo que se vende realmente, que ronda US$450-650."
-  },
-  "motivo": "triage: Vermeil de cuarzo muy comercial; el precio pedido (US$2198) está muy por encima de lo que se vende realmente, que ronda US$450-650. (justo 550)"
- },
- {
-  "fecha": "2026-11-15T12:07:07.061565+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex OP, 41 mm, Oystersteel and Yellow Gold  “100 Year” 22/8/26 FULL SET",
-  "total": 18074.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/366811753779",
-  "item_id": "v1|366811753779|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual 41 mm (acero y oro amarillo, bicolor), con caja y papeles, según el título",
-   "referencia": null,
-   "precio_justo_usd": 14000,
-   "interesante": false,
-   "nota": "Precio pedido de US$18,074 por encima del valor estimado; el título menciona '100 Year' y fecha 2026 sin referencia verificable, y la foto no confirma el bicolor."
-  },
-  "motivo": "triage: Precio pedido de US$18,074 por encima del valor estimado; el título menciona '100 Year' y fecha 2026 sin referencia verificable, y la foto no confirma el bicolor. (justo 14000)"
- },
- {
-  "fecha": "2026-11-15T12:22:07.178079+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos de Cartier Large 47.5mm X 39.8mm WGSA0029 18K Yellow Gold Watch",
-  "total": 33000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/900093265445",
-  "item_id": "v1|900093265445|0",
-  "referencia": "WGSA0029",
-  "mercado": {
-   "n": 6,
-   "p25": 33848,
-   "mediana": 40349
-  },
-  "ratio_mercado": 0.975,
-  "motivo": "precio normal (97 % del cuartil bajo de WGSA0029)"
- },
- {
-  "fecha": "2026-11-15T13:22:06.584149+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 40mm Black Dial/Bezel Steel Bracelet Auto Date 300m",
-  "total": 10275.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/820357589041",
-  "item_id": "v1|820357589041|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date (aparente, no verificable en la foto)",
-   "referencia": null,
-   "precio_justo_usd": 8500,
-   "interesante": false,
-   "nota": "El texto del dial parece 'RELUX' en lugar de ROLEX, lo que indica posible réplica. Además la foto es de baja calidad y no permite verificar el modelo. Sin autenticación, no es una oportunidad."
-  },
-  "motivo": "triage: El texto del dial parece 'RELUX' en lugar de ROLEX, lo que indica posible réplica. Además la foto es de baja calidad y no permite verificar el modelo. Sin autenticación, no es una oportunidad. (justo 8500)"
- },
- {
   "fecha": "2026-11-15T14:07:07.003516+00:00",
   "marca": "Cartier",
   "titulo": "1981 Must de Cartier Vendome Ref 18 Vermeil Quartz Watch w/ Papers UNTESTED)",
@@ -10891,5 +10823,73 @@
    "nota": "Precio de $500 imposible para un Tudor de dos tonos genuino; el título genérico y la foto sugieren réplica o listado engañoso. Verificar en persona o con papeles antes de cualquier consideración."
   },
   "motivo": "triage: Precio de $500 imposible para un Tudor de dos tonos genuino; el título genérico y la foto sugieren réplica o listado engañoso. Verificar en persona o con papeles antes de cualquier consideración. (justo 3900)"
+ },
+ {
+  "fecha": "2026-11-18T17:39:33.384141+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date 18K/Stainless Steel Watch 15223",
+  "total": 7000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407372591882",
+  "item_id": "v1|407372591882|0",
+  "referencia": "15223",
+  "mercado": {
+   "n": 17,
+   "p25": 6900,
+   "mediana": 7345
+  },
+  "ratio_mercado": 1.014,
+  "motivo": "precio normal (101 % del cuartil bajo de 15223)"
+ },
+ {
+  "fecha": "2026-11-18T17:39:33.384141+00:00",
+  "marca": "Rolex",
+  "titulo": "2005 Rolex Cosmograph Daytona 116523 \"Mother of Pearl\" 18K Yellow Gold 40mm",
+  "total": 16999.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117528806060",
+  "item_id": "v1|117528806060|0",
+  "referencia": "116523",
+  "mercado": {
+   "n": 52,
+   "p25": 19400,
+   "mediana": 20990
+  },
+  "ratio_mercado": 0.876,
+  "motivo": "precio normal (88 % del cuartil bajo de 116523)"
+ },
+ {
+  "fecha": "2026-11-18T17:39:33.384141+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date 40 President 228238 Green Ombré Brand New Complete 2026",
+  "total": 66499.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/117528797134",
+  "item_id": "v1|117528797134|0",
+  "referencia": "228238",
+  "mercado": {
+   "n": 19,
+   "p25": 57990,
+   "mediana": 63099
+  },
+  "ratio_mercado": 1.147,
+  "motivo": "precio normal (115 % del cuartil bajo de 228238)"
+ },
+ {
+  "fecha": "2026-11-18T17:39:33.384141+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 116710LN",
+  "total": 12250.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960212366829",
+  "item_id": "v1|960212366829|0",
+  "referencia": "116710LN",
+  "mercado": {
+   "n": 45,
+   "p25": 13799,
+   "mediana": 14950
+  },
+  "ratio_mercado": 0.888,
+  "motivo": "precio normal (89 % del cuartil bajo de 116710LN)"
  }
 ]
