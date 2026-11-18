@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-11-14T18:06:37.902414+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date 36mm President 18038 18K Gold President Fluted Black Stick",
-  "total": 20000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257852514270",
-  "item_id": "v1|257852514270|0",
-  "referencia": "18038",
-  "mercado": {
-   "n": 18,
-   "p25": 9165,
-   "mediana": 10484
-  },
-  "ratio_mercado": 2.182,
-  "motivo": "precio normal (218 % del cuartil bajo de 18038)"
- },
- {
-  "fecha": "2026-11-14T18:06:37.902414+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date 18038 Presidential 18k Gold 36mm Watch-Green Stick Marker",
-  "total": 20000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257852506048",
-  "item_id": "v1|257852506048|0",
-  "referencia": "18038",
-  "mercado": {
-   "n": 18,
-   "p25": 9165,
-   "mediana": 10484
-  },
-  "ratio_mercado": 2.182,
-  "motivo": "precio normal (218 % del cuartil bajo de 18038)"
- },
- {
-  "fecha": "2026-11-14T18:06:37.902414+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Monarch 2639W1A0U Full Set 39mm Steel 2026",
   "total": 7410.0,
@@ -10958,5 +10924,45 @@
    "nota": "Precio pedido de US$5.891 con envío, por encima del valor de venta cerrada estimado para esta referencia con caja y papeles. La foto no permite verificar la referencia exacta ni el estado."
   },
   "motivo": "triage: Precio pedido de US$5.891 con envío, por encima del valor de venta cerrada estimado para esta referencia con caja y papeles. La foto no permite verificar la referencia exacta ni el estado. (justo 5300)"
+ },
+ {
+  "fecha": "2026-11-18T04:39:11.734095+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 TUDOR Black Bay 58 “Navy Blue” 39mm Full Set Ref. 79030B",
+  "total": 4195.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327462449378",
+  "item_id": "v1|327462449378|0",
+  "referencia": "79030B",
+  "mercado": {
+   "n": 14,
+   "p25": 3495,
+   "mediana": 3592
+  },
+  "ratio_mercado": 1.2,
+  "motivo": "precio normal (120 % del cuartil bajo de 79030B)"
+ },
+ {
+  "fecha": "2026-11-18T04:39:11.734095+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 54 79000N 37mm 2026 Full Set Warranty Great Condition",
+  "total": 3906.05,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840140314182",
+  "item_id": "v1|840140314182|0",
+  "referencia": "79000N",
+  "mercado": {
+   "n": 3,
+   "p25": 3749,
+   "mediana": 4253
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 54 (37 mm, acero)",
+   "referencia": "79000N",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Precio pedido de US$3.906 está cerca del retail, no por debajo; el mercado gris de este modelo actual suele ser ~US$3.000-3.400 con caja y papeles. La foto muestra caja y tarjetas Tudor, pero conviene verificar la referencia exacta."
+  },
+  "motivo": "triage: Precio pedido de US$3.906 está cerca del retail, no por debajo; el mercado gris de este modelo actual suele ser ~US$3.000-3.400 con caja y papeles. La foto muestra caja y tarjetas Tudor, pero conviene verificar la referencia exacta. (justo 3200)"
  }
 ]
