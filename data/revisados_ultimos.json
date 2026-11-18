@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-11-14T21:51:38.110467+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Explorer II Polar 16570 - Box and Papers - 2006",
-  "total": 10560.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800917459654",
-  "item_id": "v1|800917459654|0",
-  "referencia": "16570",
-  "mercado": {
-   "n": 39,
-   "p25": 8445,
-   "mediana": 8990
-  },
-  "ratio_mercado": 1.25,
-  "motivo": "precio normal (125 % del cuartil bajo de 16570)"
- },
- {
-  "fecha": "2026-11-14T21:51:38.110467+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay Diver – Black Dial/Bezel Automatic Date 200m Steel Bracelet",
-  "total": 3150.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206701489403",
-  "item_id": "v1|206701489403|0",
-  "triage": {
-   "modelo": "Tudor Black Bay Diver 200m (bisel y esfera negros, brazalete de acero)",
-   "referencia": "M79230N (probable, no confirmada)",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Precio pedido de US$3150 está cerca del valor de mercado para esta referencia en estado bueno; no llega al 15 % por debajo."
-  },
-  "motivo": "triage: Precio pedido de US$3150 está cerca del valor de mercado para esta referencia en estado bueno; no llega al 15 % por debajo. (justo 3000)"
- },
- {
-  "fecha": "2026-11-14T21:51:38.110467+00:00",
   "marca": "Tudor",
   "titulo": "2024 Complete Set Tudor Black Bay 58 GMT 7939G1A0NRU",
   "total": 4150.0,
@@ -10934,5 +10900,39 @@
   },
   "ratio_justo": 1.069,
   "motivo": "precio normal segun revision (107 % del justo 3900)"
+ },
+ {
+  "fecha": "2026-11-18T15:54:32.836414+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex DateJust 41mm 126331 Wimbledon Roman Oyster 18K Gold Steel Box Papers",
+  "total": 17528.48,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940102789279",
+  "item_id": "v1|940102789279|0",
+  "referencia": "126331",
+  "mercado": {
+   "n": 41,
+   "p25": 15990,
+   "mediana": 16500
+  },
+  "ratio_mercado": 1.096,
+  "motivo": "precio normal (110 % del cuartil bajo de 126331)"
+ },
+ {
+  "fecha": "2026-11-18T15:54:32.836414+00:00",
+  "marca": "Rolex",
+  "titulo": "41680: Rolex Datejust 36, Ref. 126234, 2024 Full Set",
+  "total": 13125.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237190495387",
+  "item_id": "v1|237190495387|0",
+  "referencia": "126234",
+  "mercado": {
+   "n": 35,
+   "p25": 12990,
+   "mediana": 14170
+  },
+  "ratio_mercado": 1.01,
+  "motivo": "precio normal (101 % del cuartil bajo de 126234)"
  }
 ]
