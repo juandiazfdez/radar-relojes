@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-11-16T00:22:26.340896+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36mm, 1601, Two tone 18k Gold, Champagne Linen Dial, Jubilee ",
-  "total": 4750.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800922398461",
-  "item_id": "v1|800922398461|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36 mm, dos tonos acero/oro 18k, bisel acanalado, esfera champán, brazalete Jubilee",
-   "referencia": "1601",
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "Precio pedido cercano al mercado para un 1601 bicolor con esfera champán; sin margen de 15 % y la foto no permite verificar autenticidad ni estado real."
-  },
-  "motivo": "triage: Precio pedido cercano al mercado para un 1601 bicolor con esfera champán; sin margen de 15 % y la foto no permite verificar autenticidad ni estado real. (justo 4800)"
- },
- {
-  "fecha": "2026-11-16T00:22:26.340896+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Date 34mm Silver On Silver Stainless Steel W/ Papers",
-  "total": 5200.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147682254466",
-  "item_id": "v1|147682254466|0",
-  "triage": {
-   "modelo": "Rolex Datejust/Date de acero, esfera plateada, bisel liso y brazalete Jubilee (probable Datejust clásico de 34-36 mm)",
-   "referencia": null,
-   "precio_justo_usd": 6000,
-   "interesante": false,
-   "nota": "La foto no permite confirmar la referencia ni el tamaño exacto; el precio pedido queda cerca del justo, y sin verificar la autenticidad (papeles y número de serie) no es una oportunidad clara."
-  },
-  "motivo": "triage: La foto no permite confirmar la referencia ni el tamaño exacto; el precio pedido queda cerca del justo, y sin verificar la autenticidad (papeles y número de serie) no es una oportunidad clara. (justo 6000)"
- },
- {
-  "fecha": "2026-11-16T00:22:26.340896+00:00",
   "marca": "Cartier",
   "titulo": "Vintage CARTIER Quartz Must de Vendome Vermeil 134151 Roman Women’s 24mm Watch",
   "total": 1322.76,
@@ -10865,5 +10831,39 @@
    "nota": "Precio pedido por encima del valor estimado de reventa para una edición especial de 2022 en estado usado; la referencia exacta no se puede confirmar solo con la foto."
   },
   "motivo": "triage: Precio pedido por encima del valor estimado de reventa para una edición especial de 2022 en estado usado; la referencia exacta no se puede confirmar solo con la foto. (justo 4300)"
+ },
+ {
+  "fecha": "2026-11-18T19:39:43.545948+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 16610 Collectable Complete + Warranty",
+  "total": 10475.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/377656937077",
+  "item_id": "v1|377656937077|0",
+  "referencia": "16610",
+  "mercado": {
+   "n": 82,
+   "p25": 9977,
+   "mediana": 10496
+  },
+  "ratio_mercado": 1.05,
+  "motivo": "precio normal (105 % del cuartil bajo de 16610)"
+ },
+ {
+  "fecha": "2026-11-18T19:39:43.545948+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere 83949 Midsize One Row Ladies Watch",
+  "total": 7199.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366820154174",
+  "item_id": "v1|366820154174|0",
+  "triage": {
+   "modelo": "Cartier Panthère Midsize, dos tonos acero y oro amarillo, cuarzo, una fila de eslabones",
+   "referencia": "83949",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio pedido de US$7,199 muy por encima del valor de venta de este modelo de tamaño medio en dos tonos en EE. UU. (aprox. US$2,800-3,800 según estado y papeles)."
+  },
+  "motivo": "triage: Precio pedido de US$7,199 muy por encima del valor de venta de este modelo de tamaño medio en dos tonos en EE. UU. (aprox. US$2,800-3,800 según estado y papeles). (justo 3300)"
  }
 ]
