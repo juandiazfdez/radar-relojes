@@ -1,103 +1,5 @@
 [
  {
-  "fecha": "2026-11-16T01:37:26.677804+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex President 36mm 18k White Gold Diamond Watch! $22,495.00",
-  "total": 22495.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940095665909",
-  "item_id": "v1|940095665909|0",
-  "triage": {
-   "modelo": "Rolex President (Day-Date) de oro blanco 18k con bisel y dial de diamantes, brazalete President con diamantes",
-   "referencia": "118339 o 118239 (no verificable con la foto)",
-   "precio_justo_usd": 23000,
-   "interesante": false,
-   "nota": "Precio pedido de 22.495 USD queda solo unos 2 % por debajo de la estimación; la referencia exacta y la autenticidad de los diamantes no se pueden confirmar con esta foto."
-  },
-  "motivo": "triage: Precio pedido de 22.495 USD queda solo unos 2 % por debajo de la estimación; la referencia exacta y la autenticidad de los diamantes no se pueden confirmar con esta foto. (justo 23000)"
- },
- {
-  "fecha": "2026-11-16T01:37:26.677804+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Calibre de Cartier Diver W7100054 - 42mm Stainless Steel / 18k Rose Gold",
-  "total": 7300.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840132888940",
-  "item_id": "v1|840132888940|0",
-  "referencia": "W7100054",
-  "mercado": {
-   "n": 2,
-   "p25": 10250,
-   "mediana": 10950
-  },
-  "triage": {
-   "modelo": "Cartier Calibre de Cartier Diver, acero y oro rosa 18k, 42 mm, esfera negra, bisel de cerámica negra",
-   "referencia": "W7100054",
-   "precio_justo_usd": 6800,
-   "interesante": false,
-   "nota": "Precio pedido cercano al valor de venta real de esta referencia de acero y oro rosa en el mercado de segunda mano de EE. UU.; no hay descuento de al menos 15%."
-  },
-  "motivo": "triage: Precio pedido cercano al valor de venta real de esta referencia de acero y oro rosa en el mercado de segunda mano de EE. UU.; no hay descuento de al menos 15%. (justo 6800)"
- },
- {
-  "fecha": "2026-11-16T01:37:26.677804+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay 41 Monochrome with 5-Link Bracelet. Comes with Box and Papers",
-  "total": 3900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227616296482",
-  "item_id": "v1|227616296482|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 41 Monochrome (acero, bisel negro, esfera negra)",
-   "referencia": "M79030N (probable, no verificable en la imagen)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta estimado en el mercado secundario para este modelo en buen estado con caja y papeles; no hay descuento claro."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta estimado en el mercado secundario para este modelo en buen estado con caja y papeles; no hay descuento claro. (justo 3300)"
- },
- {
-  "fecha": "2026-11-16T01:52:25.789354+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust Midsize 278273 / 31mm / Full Set",
-  "total": 16285.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227616302865",
-  "item_id": "v1|227616302865|0",
-  "referencia": "278273",
-  "mercado": {
-   "n": 17,
-   "p25": 16840,
-   "mediana": 18900
-  },
-  "ratio_mercado": 0.967,
-  "motivo": "precio normal (97 % del cuartil bajo de 278273)"
- },
- {
-  "fecha": "2026-11-16T02:07:25.957884+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 16234 / 36mm / Watch Only",
-  "total": 4985.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227616308438",
-  "item_id": "v1|227616308438|0",
-  "referencia": "16234",
-  "mercado": {
-   "n": 34,
-   "p25": 6160,
-   "mediana": 6485
-  },
-  "ratio_mercado": 0.809,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 5200,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, buen estado visible, sin caja ni papeles; fotos sin fondo de caja ni movimiento"
-  },
-  "ratio_justo": 0.959,
-  "motivo": "precio normal segun revision (96 % del justo 5200)"
- },
- {
   "fecha": "2026-11-16T02:22:26.378614+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Submariner Date 40mm Two-Tone Auto Date Blue Dial/Bezel Watch",
@@ -10877,5 +10779,102 @@
    "nota": "El Must 21 bicolor se vende de forma habitual entre US$600 y 1,000; el precio pedido de US$1,500 está muy por encima del mercado, aunque no sea una pieza falsa aparente."
   },
   "motivo": "triage: El Must 21 bicolor se vende de forma habitual entre US$600 y 1,000; el precio pedido de US$1,500 está muy por encima del mercado, aunque no sea una pieza falsa aparente. (justo 850)"
+ },
+ {
+  "fecha": "2026-11-18T20:24:43.428778+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Lady-Datejust 26mm – Ref. 6916 | 1979 Two-Tone & Stainless Oyster Bracelet",
+  "total": 3750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840142747504",
+  "item_id": "v1|840142747504|0",
+  "referencia": "6916",
+  "mercado": {
+   "n": 25,
+   "p25": 3700,
+   "mediana": 3859
+  },
+  "ratio_mercado": 1.014,
+  "motivo": "precio normal (101 % del cuartil bajo de 6916)"
+ },
+ {
+  "fecha": "2026-11-18T20:24:43.428778+00:00",
+  "marca": "Rolex",
+  "titulo": "2021 Rolex Datejust \"Gray Elegance\" 126331 41mm Watch/Box",
+  "total": 17999.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880130473591",
+  "item_id": "v1|880130473591|0",
+  "referencia": "126331",
+  "mercado": {
+   "n": 41,
+   "p25": 15990,
+   "mediana": 16500
+  },
+  "ratio_mercado": 1.126,
+  "motivo": "precio normal (113 % del cuartil bajo de 126331)"
+ },
+ {
+  "fecha": "2026-11-18T20:24:43.428778+00:00",
+  "marca": "Cartier",
+  "titulo": "Ladies Cartier Delices WG800017 3379 Diamond Silver 18K Gold 38mm Quartz Watch",
+  "total": 12427.97,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940103386904",
+  "item_id": "v1|940103386904|0",
+  "referencia": "WG800017",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Délices (esfera oval, oro rosa 18k con bisel de diamantes, cuarzo)",
+   "referencia": "WG800017",
+   "precio_justo_usd": 7500,
+   "interesante": false,
+   "nota": "Precio pedido de US$12.428 está muy por encima del valor de venta cerrada estimado para este modelo de oro rosa con diamantes de segunda mano; además el título menciona 38 mm, que no encaja bien con la caja ovalada."
+  },
+  "motivo": "triage: Precio pedido de US$12.428 está muy por encima del valor de venta cerrada estimado para este modelo de oro rosa con diamantes de segunda mano; además el título menciona 38 mm, que no encaja bien con la caja ovalada. (justo 7500)"
+ },
+ {
+  "fecha": "2026-11-18T20:24:43.428778+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR 91450 Men’s Automatic Date Wristwatch with Jubilee Bracelet Box & Papers",
+  "total": 1900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137942548363",
+  "item_id": "v1|137942548363|0",
+  "referencia": "91450",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Prince Date (Jubilee), acero, esfera plateada con numerales aplicados y ventana de fecha",
+   "referencia": "91450 (según título, no verificado en la imagen)",
+   "precio_justo_usd": 2100,
+   "interesante": false,
+   "nota": "Precio pedido US$1900 solo unos 10 % por debajo del valor estimado; no alcanza el umbral del 15 %. Verificar referencia y autenticidad."
+  },
+  "motivo": "triage: Precio pedido US$1900 solo unos 10 % por debajo del valor estimado; no alcanza el umbral del 15 %. Verificar referencia y autenticidad. (justo 2100)"
+ },
+ {
+  "fecha": "2026-11-18T20:24:43.428778+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Chronograph 79360N-0001 Pre-owned Box & Papers 2022",
+  "total": 4220.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137942541606",
+  "item_id": "v1|137942541606|0",
+  "referencia": "79360N-0001",
+  "mercado": {
+   "n": 50,
+   "p25": 4650,
+   "mediana": 5274
+  },
+  "ratio_mercado": 0.908,
+  "motivo": "precio normal (91 % del cuartil bajo de 79360N-0001)"
  }
 ]
