@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-11-14T18:36:38.154512+00:00",
-  "marca": "Tudor",
-  "titulo": "2019 Tudor Heritage Black Bay Bronze 43mm Brown 79250BM Automatic Box & Papers",
-  "total": 3499.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366810136861",
-  "item_id": "v1|366810136861|0",
-  "referencia": "79250BM",
-  "mercado": {
-   "n": 3,
-   "p25": 3345,
-   "mediana": 3899
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay Bronze 43mm (esfera marrón, bisel bronce, correa de cuero)",
-   "referencia": "79250BM",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Precio pedido de US$3499 por encima del valor de venta cerrada estimado (~US$3000-3400) para esta referencia usada con caja y papeles; no hay descuento claro."
-  },
-  "motivo": "triage: Precio pedido de US$3499 por encima del valor de venta cerrada estimado (~US$3000-3400) para esta referencia usada con caja y papeles; no hay descuento claro. (justo 3200)"
- },
- {
   "fecha": "2026-11-14T18:51:37.776245+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 16233 36mm Two-Tone 18K Gold Steel No Box/Papers",
@@ -10957,5 +10934,22 @@
   },
   "ratio_mercado": 1.091,
   "motivo": "precio normal (109 % del cuartil bajo de 2303)"
+ },
+ {
+  "fecha": "2026-11-18T10:09:23.348592+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere Mini W25034B9 18K Yellow Gold Ladies Watch",
+  "total": 18699.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227619971520",
+  "item_id": "v1|227619971520|0",
+  "triage": {
+   "modelo": "Cartier Panthère de tamaño pequeño (cuarzo, oro amarillo 18K, bisel y pulsera de eslabones)",
+   "referencia": "W25034B9",
+   "precio_justo_usd": 8000,
+   "interesante": false,
+   "nota": "El precio pedido de US$18,699 está muy por encima del valor de reventa de esta Panthère pequeña de oro amarillo, que ronda los US$7,500-9,000 según condición y papeles."
+  },
+  "motivo": "triage: El precio pedido de US$18,699 está muy por encima del valor de reventa de esta Panthère pequeña de oro amarillo, que ronda los US$7,500-9,000 según condición y papeles. (justo 8000)"
  }
 ]
