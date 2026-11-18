@@ -1,81 +1,5 @@
 [
  {
-  "fecha": "2026-11-16T16:07:56.952688+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Pasha Seatimer Automatic Stainless Steel And Rubber Watch",
-  "total": 2919.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267845244408",
-  "item_id": "v1|267845244408|0",
-  "triage": {
-   "modelo": "Cartier Pasha de Cartier Seatimer Automático, acero con correa de caucho, esfera negra",
-   "referencia": "W31077U2 (probable, 38 mm; no verificable solo con la foto)",
-   "precio_justo_usd": 3100,
-   "interesante": false,
-   "nota": "Precio pedido cercano al valor de mercado para esta referencia en estado Good; no hay descuento de al menos 15 %."
-  },
-  "motivo": "triage: Precio pedido cercano al valor de mercado para esta referencia en estado Good; no hay descuento de al menos 15 %. (justo 3100)"
- },
- {
-  "fecha": "2026-11-16T16:07:56.952688+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Prince Oysterdate Submariner 200 M Automatic Stainless Steel / Stainless",
-  "total": 2735.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820361553483",
-  "item_id": "v1|820361553483|0",
-  "triage": {
-   "modelo": "Tudor Prince Oysterdate Submariner 200 M (esfera rosa)",
-   "referencia": "79190 (probable, según el listado y el estilo visible)",
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "Acero, esfera rosa con fecha; precio pedido en línea con el mercado de usado, sin descuento claro de al menos 15 %. Confirmar referencia, año y estado real."
-  },
-  "motivo": "triage: Acero, esfera rosa con fecha; precio pedido en línea con el mercado de usado, sin descuento claro de al menos 15 %. Confirmar referencia, año y estado real. (justo 2800)"
- },
- {
-  "fecha": "2026-11-16T16:07:56.952688+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Glamour Date Automatic Stainless Steel / Stainless Steel Watch",
-  "total": 1434.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267845244387",
-  "item_id": "v1|267845244387|0",
-  "triage": {
-   "modelo": "Tudor Glamour Date Automatic (acero, esfera nácar con marcadores de diamante)",
-   "referencia": "55000 (aprox., no confirmada; podría ser una variante con diamantes)",
-   "precio_justo_usd": 1900,
-   "interesante": true,
-   "nota": "Precio ~25 % bajo el valor estimado para este modelo en acero pre-owned. Verificar autenticidad, estado de los diamantes y si incluye caja/papeles antes de comprar."
-  },
-  "referencia": null,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 1150,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Bueno a muy bueno: rayones ligeros en caja, bisel y brazalete. Sin caja ni papeles, solo tarjeta de garantía."
-  },
-  "ratio_justo": 1.247,
-  "motivo": "precio normal segun revision (125 % del justo 1150)"
- },
- {
-  "fecha": "2026-11-16T16:07:56.952688+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Royal Automatic Stainless Steel / Stainless Steel Watch",
-  "total": 2916.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267845244271",
-  "item_id": "v1|267845244271|0",
-  "triage": {
-   "modelo": "Tudor Royal Day-Date (acero, esfera salmón con marcadores de diamante), posible variante de 38 mm",
-   "referencia": null,
-   "precio_justo_usd": 3100,
-   "interesante": false,
-   "nota": "Referencia no confirmable en la foto; el precio pedido de US$2916 no está al menos 15 % por debajo del valor de venta cerrada de una Royal Day-Date usada en buen estado."
-  },
-  "motivo": "triage: Referencia no confirmable en la foto; el precio pedido de US$2916 no está al menos 15 % por debajo del valor de venta cerrada de una Royal Day-Date usada en buen estado. (justo 3100)"
- },
- {
   "fecha": "2026-11-16T16:22:57.170513+00:00",
   "marca": "Rolex",
   "titulo": "Pre-Owned Rolex 116300 Datejust 41 Mother of Pearl Rainbow Stainless Steel Watch",
@@ -10841,5 +10765,85 @@
   },
   "ratio_mercado": 0.972,
   "motivo": "precio normal (97 % del cuartil bajo de 126710BLRO)"
+ },
+ {
+  "fecha": "2026-11-18T23:54:43.595614+00:00",
+  "marca": "Rolex",
+  "titulo": "rolex datejust 126334 watch 41 mm",
+  "total": 17500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168871855186",
+  "item_id": "v1|168871855186|0",
+  "referencia": "126334",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 41 (acero y oro blanco, bisel acanalado), en caja Rolex verde",
+   "referencia": "126334",
+   "precio_justo_usd": 13000,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de mercado para la 126334 usada en excelente estado; la foto solo muestra la caja y el reloj, así que la referencia no se puede confirmar visualmente."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de mercado para la 126334 usada en excelente estado; la foto solo muestra la caja y el reloj, así que la referencia no se puede confirmar visualmente. (justo 13000)"
+ },
+ {
+  "fecha": "2026-11-18T23:54:43.595614+00:00",
+  "marca": "Rolex",
+  "titulo": "eLive- Rolex Air King 126900",
+  "total": 1.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/128203736020",
+  "item_id": "v1|128203736020|0",
+  "referencia": "126900",
+  "mercado": {
+   "n": 12,
+   "p25": 10000,
+   "mediana": 10112
+  },
+  "ratio_mercado": 0.0,
+  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
+ },
+ {
+  "fecha": "2026-11-18T23:54:43.595614+00:00",
+  "marca": "Rolex",
+  "titulo": "eLive- Rolex Submariner Date 41mm Starbucks 126610LV",
+  "total": 1.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/128203736037",
+  "item_id": "v1|128203736037|0",
+  "referencia": "126610LV",
+  "mercado": {
+   "n": 37,
+   "p25": 16250,
+   "mediana": 16508
+  },
+  "ratio_mercado": 0.0,
+  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
+ },
+ {
+  "fecha": "2026-11-18T23:54:43.595614+00:00",
+  "marca": "Cartier",
+  "titulo": "2008 Cartier Crash 38 x 24mm Platinum 2969",
+  "total": 324995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880130855664",
+  "item_id": "v1|880130855664|0",
+  "referencia": "2969",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Crash (esfera blanca, bisel con diamantes, correa de piel negra)",
+   "referencia": "2969 (según el título, sin verificar)",
+   "precio_justo_usd": 28000,
+   "interesante": false,
+   "nota": "Precio pedido de US$324.995 muy por encima del valor de mercado; posible error de formato. Si fuera US$3.249,95 sería sospechosamente bajo para platino con diamantes, así que hay que verificar autenticidad y papeles antes de comprar."
+  },
+  "motivo": "triage: Precio pedido de US$324.995 muy por encima del valor de mercado; posible error de formato. Si fuera US$3.249,95 sería sospechosamente bajo para platino con diamantes, así que hay que verificar autenticidad y papeles antes de comprar. (justo 28000)"
  }
 ]
