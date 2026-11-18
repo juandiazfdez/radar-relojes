@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-14T20:21:37.540312+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41mm jubilee Fluted Blue SS/WG Men's Watch 126334 2026 ",
-  "total": 15048.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227614419832",
-  "item_id": "v1|227614419832|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 jubilee acero y oro blanco, bisel acanalado, esfera azul",
-   "referencia": "126334",
-   "precio_justo_usd": 13800,
-   "interesante": false,
-   "nota": "El precio pedido supera la estimación de venta cerrada para esta referencia en estado usado; el '2026' del título no indica año de fabricación fiable."
-  },
-  "motivo": "triage: El precio pedido supera la estimación de venta cerrada para esta referencia en estado usado; el '2026' del título no indica año de fabricación fiable. (justo 13800)"
- },
- {
-  "fecha": "2026-11-14T20:21:37.540312+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Watch New Black And Red Notebook  With Protective Sleeve",
-  "total": 40.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/860144035276",
-  "item_id": "v1|860144035276|0",
-  "triage": {
-   "modelo": "Cuaderno/estuche de cartón negro con escudo Tudor (accesorio, no reloj)",
-   "referencia": null,
-   "precio_justo_usd": 10,
-   "interesante": false,
-   "nota": "La foto muestra un cuaderno o estuche negro con el escudo Tudor, no un reloj; el listado no corresponde a una pieza de relojería."
-  },
-  "motivo": "triage: La foto muestra un cuaderno o estuche negro con el escudo Tudor, no un reloj; el listado no corresponde a una pieza de relojería. (justo 10)"
- },
- {
-  "fecha": "2026-11-14T20:51:38.345686+00:00",
-  "marca": "Rolex",
-  "titulo": "14k Gold, Vintage Rolex Watch, 1400 Movement, 0.50ctw Diamonds   40 grams",
-  "total": 5544.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327456472554",
-  "item_id": "v1|327456472554|0",
-  "triage": {
-   "modelo": "Rolex vintage de dama, caja y pulsera de oro amarillo 14k con bisel de diamantes, esfera champán y cal. 1400 (manual)",
-   "referencia": null,
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor estimado; el oro (~40 g, 14k) y los diamantes dan piso de fundido, pero la marca sin referencia exacta limita el precio de reventa."
-  },
-  "motivo": "triage: Precio pedido por encima del valor estimado; el oro (~40 g, 14k) y los diamantes dan piso de fundido, pero la marca sin referencia exacta limita el precio de reventa. (justo 3500)"
- },
- {
   "fecha": "2026-11-14T20:51:38.345686+00:00",
   "marca": "Rolex",
   "titulo": "1972 Rolex GMT Master 40mm 1675 Pepsi 3M-Serial UNPOLISHED Collectors Dream",
@@ -10951,5 +10894,63 @@
   },
   "ratio_mercado": 2.752,
   "motivo": "precio normal (275 % del cuartil bajo de 69178)"
+ },
+ {
+  "fecha": "2026-11-18T14:24:32.971256+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona Oysterflex 116519LN",
+  "total": 44999.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820369320264",
+  "item_id": "v1|820369320264|0",
+  "referencia": "116519LN",
+  "mercado": {
+   "n": 20,
+   "p25": 46500,
+   "mediana": 48100
+  },
+  "ratio_mercado": 0.968,
+  "motivo": "precio normal (97 % del cuartil bajo de 116519LN)"
+ },
+ {
+  "fecha": "2026-11-18T14:24:32.971256+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Must 21 Vantian 31mm Quartz Watch 1330",
+  "total": 1200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336902019234",
+  "item_id": "v1|336902019234|0",
+  "referencia": "1330",
+  "mercado": {
+   "n": 9,
+   "p25": 1490,
+   "mediana": 1800
+  },
+  "ratio_mercado": 0.805,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 850,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado con desgaste visible: bisel y brazalete muy rayados, sin caja ni papeles"
+  },
+  "ratio_justo": 1.412,
+  "motivo": "precio normal segun revision (141 % del justo 850)"
+ },
+ {
+  "fecha": "2026-11-18T14:24:32.971256+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Must De 21 Steel & 18k Gold 31mm Quartz Watch 123 000P",
+  "total": 1300.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336902019239",
+  "item_id": "v1|336902019239|0",
+  "triage": {
+   "modelo": "Cartier Must de Cartier 21 bicolor (acero y dorado), cuarzo, numerales romanos",
+   "referencia": "123000P (según el título; no verificable en la foto)",
+   "precio_justo_usd": 500,
+   "interesante": false,
+   "nota": "El Must 21 bicolor se vende usado en EE. UU. aprox. US$350-650. El título dice '18k Gold', pero este modelo lleva dorado vermeil/chapado, no oro macizo. El precio de US$1300 está muy por encima del mercado."
+  },
+  "motivo": "triage: El Must 21 bicolor se vende usado en EE. UU. aprox. US$350-650. El título dice '18k Gold', pero este modelo lleva dorado vermeil/chapado, no oro macizo. El precio de US$1300 está muy por encima del mercado. (justo 500)"
  }
 ]
