@@ -1,69 +1,5 @@
 [
  {
-  "fecha": "2026-11-14T21:36:38.104507+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Ladies Rolex 26mm 18k Yellow Gold 6917 cal 2030 Datejust ",
-  "total": 3200.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/377646217423",
-  "item_id": "v1|377646217423|0",
-  "referencia": "6917",
-  "mercado": {
-   "n": 42,
-   "p25": 3990,
-   "mediana": 4083
-  },
-  "ratio_mercado": 0.802,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 2850,
-   "riesgo_autenticidad": "medio",
-   "estado": "Regular: caja pulida, cristal rayado, rosca de la corona desgastada, sin brazalete original"
-  },
-  "ratio_justo": 1.123,
-  "motivo": "precio normal segun revision (112 % del justo 2850)"
- },
- {
-  "fecha": "2026-11-14T21:36:38.104507+00:00",
-  "marca": "Cartier",
-  "titulo": "Vintage Cartier Must de Cartier 21 watch Needs To Be Service Was Purch From E-ba",
-  "total": 550.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206701446232",
-  "item_id": "v1|206701446232|0",
-  "triage": {
-   "modelo": "Cartier Must de Cartier 21 (bicolor acero y dorado, esfera blanca con numerales romanos, cuarzo)",
-   "referencia": null,
-   "precio_justo_usd": 600,
-   "interesante": false,
-   "nota": "Precio cercano al justo, pero el listado indica que necesita servicio, lo que justifica un descuento; no cumple el 15 % mínimo."
-  },
-  "motivo": "triage: Precio cercano al justo, pero el listado indica que necesita servicio, lo que justifica un descuento; no cumple el 15 % mínimo. (justo 600)"
- },
- {
-  "fecha": "2026-11-14T21:36:38.104507+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Trinity 2357 18K Tri-Color Gold Ladies Quartz Watch",
-  "total": 6804.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/377646195431",
-  "item_id": "v1|377646195431|0",
-  "referencia": "2357",
-  "mercado": {
-   "n": 2,
-   "p25": 12140,
-   "mediana": 13570
-  },
-  "triage": {
-   "modelo": "Cartier Trinity (tres oros 18K, cuarzo, esfera blanca con números romanos, correa de cuero negro)",
-   "referencia": "2357",
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "Precio pedido de US$6805 supera claramente el valor de venta cerrada estimado para este modelo de oro tricolor en condición excelente; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$6805 supera claramente el valor de venta cerrada estimado para este modelo de oro tricolor en condición excelente; no es una oportunidad. (justo 4500)"
- },
- {
   "fecha": "2026-11-14T21:51:38.110467+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Explorer II Polar 16570 - Box and Papers - 2006",
@@ -10940,5 +10876,63 @@
   },
   "ratio_mercado": 0.861,
   "motivo": "precio normal (86 % del cuartil bajo de 3001)"
+ },
+ {
+  "fecha": "2026-11-18T15:39:33.364355+00:00",
+  "marca": "Rolex",
+  "titulo": "2013 Rolex Explorer II 216570 Polar White Stainless Steel 42mm Watch Box Papers",
+  "total": 10897.87,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940102785570",
+  "item_id": "v1|940102785570|0",
+  "referencia": "216570",
+  "mercado": {
+   "n": 10,
+   "p25": 9572,
+   "mediana": 9661
+  },
+  "ratio_mercado": 1.139,
+  "motivo": "precio normal (114 % del cuartil bajo de 216570)"
+ },
+ {
+  "fecha": "2026-11-18T15:39:33.364355+00:00",
+  "marca": "Rolex",
+  "titulo": "1995 Rolex Daytona Cosmograph 16523 Champagne Two-Tone 18K Gold Steel 40mm Watch",
+  "total": 16508.38,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960212071930",
+  "item_id": "v1|960212071930|0",
+  "referencia": "16523",
+  "mercado": {
+   "n": 25,
+   "p25": 17590,
+   "mediana": 19390
+  },
+  "ratio_mercado": 0.939,
+  "motivo": "precio normal (94 % del cuartil bajo de 16523)"
+ },
+ {
+  "fecha": "2026-11-18T15:39:33.364355+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Prince Date Chronograph Automatic Watch 79280",
+  "total": 4170.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257858902863",
+  "item_id": "v1|257858902863|0",
+  "referencia": "79280",
+  "mercado": {
+   "n": 10,
+   "p25": 5000,
+   "mediana": 5056
+  },
+  "ratio_mercado": 0.834,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 3900,
+   "riesgo_autenticidad": "bajo",
+   "estado": "Usado, muy buen estado según el vendedor; pequeñas marcas en el bisel (6 h y entre 9 y 10 h)"
+  },
+  "ratio_justo": 1.069,
+  "motivo": "precio normal segun revision (107 % del justo 3900)"
  }
 ]
