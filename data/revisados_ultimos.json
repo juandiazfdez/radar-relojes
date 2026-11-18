@@ -1,68 +1,5 @@
 [
  {
-  "fecha": "2026-11-14T21:06:37.731916+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Demoiselle Rose Gold Diamond Ladies Watch WF902006 Box Papers",
-  "total": 11700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940092553917",
-  "item_id": "v1|940092553917|0",
-  "referencia": "WF902006",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Santos Demoiselle (oro rosa 18k, bisel de diamantes, esfera plateada con números romanos, correa de cocodrilo marrón)",
-   "referencia": "WF902006",
-   "precio_justo_usd": 10000,
-   "interesante": false,
-   "nota": "Precio pedido por encima de la estimación de venta cerrada para esta referencia en oro rosa con diamantes, aunque incluya caja y papeles. La referencia del título no se puede verificar solo con la foto."
-  },
-  "motivo": "triage: Precio pedido por encima de la estimación de venta cerrada para esta referencia en oro rosa con diamantes, aunque incluya caja y papeles. La referencia del título no se puede verificar solo con la foto. (justo 10000)"
- },
- {
-  "fecha": "2026-11-14T21:21:37.907067+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Solo Small SM 3170 W5200013 Steel Quartz Ladies Watch w/ Papers",
-  "total": 3599.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206701438848",
-  "item_id": "v1|206701438848|0",
-  "referencia": "3170",
-  "mercado": {
-   "n": 5,
-   "p25": 3225,
-   "mediana": 3275
-  },
-  "ratio_mercado": 1.116,
-  "motivo": "precio normal (112 % del cuartil bajo de 3170)"
- },
- {
-  "fecha": "2026-11-14T21:21:37.907067+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Heritage Chrono Blue 70330B Automatic Chronograph 42mm Steel Box Papers",
-  "total": 4215.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800917371143",
-  "item_id": "v1|800917371143|0",
-  "referencia": "70330B",
-  "mercado": {
-   "n": 1,
-   "p25": 5040,
-   "mediana": 5040
-  },
-  "triage": {
-   "modelo": "Tudor Heritage Chrono Blue",
-   "referencia": "70330B",
-   "precio_justo_usd": 3700,
-   "interesante": false,
-   "nota": "Bisel azul y subesferas azules con brazalete de acero; a US$4.215 está por encima del valor de venta cerrada de un usado en buen estado con caja y papeles."
-  },
-  "motivo": "triage: Bisel azul y subesferas azules con brazalete de acero; a US$4.215 está por encima del valor de venta cerrada de un usado en buen estado con caja y papeles. (justo 3700)"
- },
- {
   "fecha": "2026-11-14T21:36:38.104507+00:00",
   "marca": "Rolex",
   "titulo": "Vintage Ladies Rolex 26mm 18k Yellow Gold 6917 cal 2030 Datejust ",
@@ -10952,5 +10889,56 @@
    "nota": "Precio pedido de US$4175 está por encima del precio justo estimado para un BB54 nuevo con papeles en el mercado secundario; no cumple el umbral de 15% de descuento."
   },
   "motivo": "triage: Precio pedido de US$4175 está por encima del precio justo estimado para un BB54 nuevo con papeles en el mercado secundario; no cumple el umbral de 15% de descuento. (justo 3900)"
+ },
+ {
+  "fecha": "2026-11-18T15:24:33.498051+00:00",
+  "marca": "Rolex",
+  "titulo": "2007 Rolex DateJust 116233 Champagne Roman 18K Steel Jubilee 36mm Box Papers",
+  "total": 10897.87,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267847076643",
+  "item_id": "v1|267847076643|0",
+  "referencia": "116233",
+  "mercado": {
+   "n": 58,
+   "p25": 10990,
+   "mediana": 11308
+  },
+  "ratio_mercado": 0.992,
+  "motivo": "precio normal (99 % del cuartil bajo de 116233)"
+ },
+ {
+  "fecha": "2026-11-18T15:24:33.498051+00:00",
+  "marca": "Cartier",
+  "titulo": "Ladies Cartier Panthere 1320 W25033F5 Steel White Roman 22mm Quartz Watch",
+  "total": 4778.31,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267847063740",
+  "item_id": "v1|267847063740|0",
+  "referencia": "1320",
+  "mercado": {
+   "n": 10,
+   "p25": 4650,
+   "mediana": 4742
+  },
+  "ratio_mercado": 1.028,
+  "motivo": "precio normal (103 % del cuartil bajo de 1320)"
+ },
+ {
+  "fecha": "2026-11-18T15:24:33.498051+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu W69012Z4 3001 Steel Silver Roman 42mm Watch Box Papers",
+  "total": 4778.31,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267847061010",
+  "item_id": "v1|267847061010|0",
+  "referencia": "3001",
+  "mercado": {
+   "n": 21,
+   "p25": 5550,
+   "mediana": 6500
+  },
+  "ratio_mercado": 0.861,
+  "motivo": "precio normal (86 % del cuartil bajo de 3001)"
  }
 ]
