@@ -1,131 +1,5 @@
 [
  {
-  "fecha": "2026-11-15T19:07:17.209254+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere Ruban White Mother of Pearl 106355/2420 Stainless Steel Box",
-  "total": 4000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800921444086",
-  "item_id": "v1|800921444086|0",
-  "referencia": "2420",
-  "mercado": {
-   "n": 5,
-   "p25": 3560,
-   "mediana": 3700
-  },
-  "ratio_mercado": 1.124,
-  "motivo": "precio normal (112 % del cuartil bajo de 2420)"
- },
- {
-  "fecha": "2026-11-15T19:22:16.813708+00:00",
-  "marca": "Rolex",
-  "titulo": "Authentic Rolex oyster submariner Anchor chain 1000 ft /300 meters",
-  "total": 122.99,
-  "condicion": "New without box or papers",
-  "url": "https://www.ebay.com/itm/336897702089",
-  "item_id": "v1|336897702089|0",
-  "triage": {
-   "modelo": "Colgante tipo ancla con cadena (no es un reloj)",
-   "referencia": null,
-   "precio_justo_usd": 0,
-   "interesante": false,
-   "nota": "La imagen muestra un colgante o llavero en forma de ancla con cadena, no un reloj. El título usa 'Submariner' y '1000 ft/300 m' para inducir a error. No es una pieza de reloj."
-  },
-  "motivo": "triage: La imagen muestra un colgante o llavero en forma de ancla con cadena, no un reloj. El título usa 'Submariner' y '1000 ft/300 m' para inducir a error. No es una pieza de reloj. (justo 0)"
- },
- {
-  "fecha": "2026-11-15T20:07:17.211019+00:00",
-  "marca": "Rolex",
-  "titulo": "36mm Rolex Datejust Oyster Perpetual Two-Tone Jubilee Champagne Dial.",
-  "total": 10050.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206703723919",
-  "item_id": "v1|206703723919|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36 mm bicolor (acero y oro amarillo), bisel acanalado, esfera champán, brazalete Jubilee",
-   "referencia": "16233 (probable, según bisel acanalado y 36 mm; confirmar con número de serie y dimensiones)",
-   "precio_justo_usd": 9200,
-   "interesante": false,
-   "nota": "Precio pedido por encima de la venta real estimada para esta referencia y estado; la caja visible no compensa la diferencia."
-  },
-  "motivo": "triage: Precio pedido por encima de la venta real estimada para esta referencia y estado; la caja visible no compensa la diferencia. (justo 9200)"
- },
- {
-  "fecha": "2026-11-15T20:22:17.455282+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36mm, 1601, Two tone 18k Gold, Champagne Linen Dial, Jubilee ",
-  "total": 4000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800921726901",
-  "item_id": "v1|800921726901|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36 mm bicolor (acero y oro 18k), bisel acanalado de oro, esfera champán con marcadores de bastón, brazalete Jubilee",
-   "referencia": "1601 (según el título; no verificable en la foto)",
-   "precio_justo_usd": 4200,
-   "interesante": false,
-   "nota": "Precio cercano al mercado para un 1601 vintage bicolor en buen estado; la diferencia es menor al 15 %. Hay que verificar esfera, manecillas, número de serie y estado real."
-  },
-  "motivo": "triage: Precio cercano al mercado para un 1601 vintage bicolor en buen estado; la diferencia es menor al 15 %. Hay que verificar esfera, manecillas, número de serie y estado real. (justo 4200)"
- },
- {
-  "fecha": "2026-11-15T20:37:16.793462+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex vintage genuine broken bracelet pieces and dials,As is!",
-  "total": 175.75,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940095112197",
-  "item_id": "v1|940095112197|0",
-  "triage": {
-   "modelo": "Lote de piezas Rolex: 2 esferas y eslabones/secciones de brazalete (acero), sin reloj completo",
-   "referencia": null,
-   "precio_justo_usd": 120,
-   "interesante": false,
-   "nota": "Es un lote de piezas sueltas y rotas, no un reloj funcional. Autenticidad y valor de las piezas sin verificar; el precio pedido no está claramente por debajo del valor de mercado de componentes."
-  },
-  "motivo": "triage: Es un lote de piezas sueltas y rotas, no un reloj funcional. Autenticidad y valor de las piezas sin verificar; el precio pedido no está claramente por debajo del valor de mercado de componentes. (justo 120)"
- },
- {
-  "fecha": "2026-11-15T20:52:16.765813+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Air king 5500 34mm stainless steel with box",
-  "total": 2850.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287732030517",
-  "item_id": "v1|287732030517|0",
-  "referencia": "5500",
-  "mercado": {
-   "n": 22,
-   "p25": 4000,
-   "mediana": 4400
-  },
-  "ratio_mercado": 0.713,
-  "claude": {
-   "veredicto": "alerta",
-   "precio_justo_usd": 3500,
-   "riesgo_autenticidad": "medio",
-   "estado": "Bueno, con desgaste normal de uso; brazalete con rayones y probablemente algo de holgura; caja verde original"
-  },
-  "ratio_justo": 0.814,
-  "motivo": "ALERTA"
- },
- {
-  "fecha": "2026-11-15T21:37:16.858621+00:00",
-  "marca": "Rolex",
-  "titulo": "Estate $10,000 ROLEX DATEJUST Ladies Emerald Diamond 14k Yellow Gold Watch WTY",
-  "total": 3259.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307284287521",
-  "item_id": "v1|307284287521|0",
-  "triage": {
-   "modelo": "Rolex Lady-Datejust acero y oro amarillo 26 mm, esfera champán con marcadores de diamante (aparente)",
-   "referencia": "69173 (probable, no confirmada)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "El título dice oro 14k y 'emerald diamond', pero la imagen muestra brazalete bicolor; el '$10,000' es precio de tienda no real. Precio cercano al mercado, sin descuento de 15 %."
-  },
-  "motivo": "triage: El título dice oro 14k y 'emerald diamond', pero la imagen muestra brazalete bicolor; el '$10,000' es precio de tienda no real. Precio cercano al mercado, sin descuento de 15 %. (justo 3300)"
- },
- {
   "fecha": "2026-11-15T21:52:26.409363+00:00",
   "marca": "Rolex",
   "titulo": "$10,000 ROLEX Oyster Perpetual Emerald Diamond Ladies 14k Yellow Gold SS Watch",
@@ -10872,5 +10746,136 @@
   },
   "ratio_justo": 0.846,
   "motivo": "ALERTA"
+ },
+ {
+  "fecha": "2026-11-18T18:54:43.549052+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Stainless Steel Watch 16220",
+  "total": 5500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407372728901",
+  "item_id": "v1|407372728901|0",
+  "referencia": "16220",
+  "mercado": {
+   "n": 30,
+   "p25": 6028,
+   "mediana": 7412
+  },
+  "ratio_mercado": 0.912,
+  "motivo": "precio normal (91 % del cuartil bajo de 16220)"
+ },
+ {
+  "fecha": "2026-11-18T18:54:43.549052+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date Stainless Steel & Yellow Gold Black 41mm 126613 Full Set",
+  "total": 16500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/307289257743",
+  "item_id": "v1|307289257743|0",
+  "referencia": "126613",
+  "mercado": {
+   "n": 67,
+   "p25": 17750,
+   "mediana": 18677
+  },
+  "ratio_mercado": 0.93,
+  "motivo": "precio normal (93 % del cuartil bajo de 126613)"
+ },
+ {
+  "fecha": "2026-11-18T18:54:43.549052+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Deepsea Sea-Dweller 2017 Ref 116660",
+  "total": 9920.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960212581079",
+  "item_id": "v1|960212581079|0",
+  "referencia": "116660",
+  "mercado": {
+   "n": 45,
+   "p25": 10870,
+   "mediana": 12450
+  },
+  "ratio_mercado": 0.913,
+  "motivo": "precio normal (91 % del cuartil bajo de 116660)"
+ },
+ {
+  "fecha": "2026-11-18T18:54:43.549052+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Green Ombre Stainless Steel Watch 126234",
+  "total": 16000.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/407372730157",
+  "item_id": "v1|407372730157|0",
+  "referencia": "126234",
+  "mercado": {
+   "n": 47,
+   "p25": 14858,
+   "mediana": 15499
+  },
+  "ratio_mercado": 1.077,
+  "motivo": "precio normal (108 % del cuartil bajo de 126234)"
+ },
+ {
+  "fecha": "2026-11-18T18:54:43.549052+00:00",
+  "marca": "Cartier",
+  "titulo": "Ladies Vintage 1990's Cartier Tank Quartz 20mm  Classic Clean & Chic",
+  "total": 2414.8,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377656875315",
+  "item_id": "v1|377656875315|0",
+  "triage": {
+   "modelo": "Cartier Tank Must de Cartier (vermeil, cuarzo, esfera blanca con números romanos, correa de piel negra)",
+   "referencia": null,
+   "precio_justo_usd": 750,
+   "interesante": false,
+   "nota": "Tank Must de vermeil de los años 90 en estado Good, sin caja ni papeles; el precio pedido de US$2415 supera con mucho su valor de venta real."
+  },
+  "motivo": "triage: Tank Must de vermeil de los años 90 en estado Good, sin caja ni papeles; el precio pedido de US$2415 supera con mucho su valor de venta real. (justo 750)"
+ },
+ {
+  "fecha": "2026-11-18T18:54:43.549052+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Louis White Gold Diamond Ladies Watch WJTA0015 Box Card",
+  "total": 16630.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336904278894",
+  "item_id": "v1|336904278894|0",
+  "referencia": "WJTA0015",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Tank Louis (oro blanco con diamantes, esfera plateada, numerales romanos, correa roja)",
+   "referencia": "WJTA0015",
+   "precio_justo_usd": 15500,
+   "interesante": false,
+   "nota": "Precio pedido de US$16.630 con caja y tarjeta, unos 7% por encima de la estimación de venta real; no cumple el umbral del 15% de descuento."
+  },
+  "motivo": "triage: Precio pedido de US$16.630 con caja y tarjeta, unos 7% por encima de la estimación de venta real; no cumple el umbral del 15% de descuento. (justo 15500)"
+ },
+ {
+  "fecha": "2026-11-18T18:54:43.549052+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Rotonde de Cartier Flying Tourbillon White Gold 40mm Watch W1556216",
+  "total": 39950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940103223702",
+  "item_id": "v1|940103223702|0",
+  "referencia": "W1556216",
+  "mercado": {
+   "n": 1,
+   "p25": 53790,
+   "mediana": 53790
+  },
+  "triage": {
+   "modelo": "Cartier Rotonde de Cartier Flying Tourbillon (esfera plateada, numerales romanos, tourbillon a las 6, correa de cocodrilo negra)",
+   "referencia": "W1556216",
+   "precio_justo_usd": 70000,
+   "interesante": false,
+   "nota": "Precio ~40-50 % bajo el valor de mercado de un tourbillon de este tipo; descuento tan grande sugiere replica, pieza incompleta o listado enganoso. Verificar metal, papeles y autenticidad antes de cualquier oferta."
+  },
+  "motivo": "triage: Precio ~40-50 % bajo el valor de mercado de un tourbillon de este tipo; descuento tan grande sugiere replica, pieza incompleta o listado enganoso. Verificar metal, papeles y autenticidad antes de cualquier oferta. (justo 70000)"
  }
 ]
