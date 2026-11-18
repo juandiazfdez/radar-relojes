@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-16T02:22:26.378614+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 40mm Two-Tone Auto Date Blue Dial/Bezel Watch",
-  "total": 10500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128197434025",
-  "item_id": "v1|128197434025|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date two-tone (oro amarillo y acero) con esfera y bisel azules",
-   "referencia": "16613 (probable, por el bisel, esfera y brazalete bicolor de 40 mm; no se ve el fondo para confirmar)",
-   "precio_justo_usd": 13000,
-   "interesante": false,
-   "nota": "Precio ~19% bajo estimado, pero demasiado bajo para un 16613 auténtico con esa configuración; alto riesgo de réplica o listado engañoso. Pedir fotos del fondo, número de serie, movimiento y papeles antes de considerarlo."
-  },
-  "motivo": "triage: Precio ~19% bajo estimado, pero demasiado bajo para un 16613 auténtico con esa configuración; alto riesgo de réplica o listado engañoso. Pedir fotos del fondo, número de serie, movimiento y papeles antes de considerarlo. (justo 13000)"
- },
- {
-  "fecha": "2026-11-16T02:37:26.372715+00:00",
-  "marca": "Rolex",
-  "titulo": "RARE $13K ROLEX Tiffany & Co Oyster Perpetual 34mm Mens 18k Yellow Gold SS Watch",
-  "total": 4759.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407365893321",
-  "item_id": "v1|407365893321|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual 34 mm bicolor (acero y oro amarillo de 18k), bisel acanalado de oro, esfera turquesa tipo Tiffany",
-   "referencia": null,
-   "precio_justo_usd": 5500,
-   "interesante": false,
-   "nota": "Referencia no verificable en la foto y autenticidad de la esfera Tiffany sin confirmar; el título de US$13K no es una referencia de venta real. Con esfera original certificada podría valer más, pero el precio pedido no supera el umbral del 15%."
-  },
-  "motivo": "triage: Referencia no verificable en la foto y autenticidad de la esfera Tiffany sin confirmar; el título de US$13K no es una referencia de venta real. Con esfera original certificada podría valer más, pero el precio pedido no supera el umbral del 15%. (justo 5500)"
- },
- {
-  "fecha": "2026-11-16T02:37:26.372715+00:00",
-  "marca": "Rolex",
-  "titulo": "$9000 ROLEX DATEJUST Emerald Diamond 14k Yellow Gold SS Ladies Watch SERVICED",
-  "total": 3359.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307284617173",
-  "item_id": "v1|307284617173|0",
-  "triage": {
-   "modelo": "Rolex Lady Datejust 26 mm acero y oro amarillo 14k, esfera nácar con marcadores de piedras de colores",
-   "referencia": "69173 (probable)",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "Precio 12 % bajo mi estimación; la esfera con piedras puede ser personalizada o reemplazada, lo que baja el valor. Verificar originalidad de la esfera, número de serie y estado antes de comprar."
-  },
-  "motivo": "triage: Precio 12 % bajo mi estimación; la esfera con piedras puede ser personalizada o reemplazada, lo que baja el valor. Verificar originalidad de la esfera, número de serie y estado antes de comprar. (justo 3800)"
- },
- {
   "fecha": "2026-11-16T02:52:26.501866+00:00",
   "marca": "Rolex",
   "titulo": "$9000 ROLEX Oyster Perpetual PINK MOP Diamond 18k Yellow Gold SS Ladies Watch",
@@ -10876,5 +10825,56 @@
   },
   "ratio_mercado": 0.908,
   "motivo": "precio normal (91 % del cuartil bajo de 79360N-0001)"
+ },
+ {
+  "fecha": "2026-11-18T20:39:43.620833+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date 36mm President 18038 18K Gold President with Original Papers",
+  "total": 16500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860156169739",
+  "item_id": "v1|860156169739|0",
+  "referencia": "18038",
+  "mercado": {
+   "n": 19,
+   "p25": 9165,
+   "mediana": 10509
+  },
+  "ratio_mercado": 1.8,
+  "motivo": "precio normal (180 % del cuartil bajo de 18038)"
+ },
+ {
+  "fecha": "2026-11-18T20:39:43.620833+00:00",
+  "marca": "Rolex",
+  "titulo": "42101: Rolex Explorer II, Ref. 216570, Full Set 2019",
+  "total": 12500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237190929645",
+  "item_id": "v1|237190929645|0",
+  "referencia": "216570",
+  "mercado": {
+   "n": 10,
+   "p25": 9572,
+   "mediana": 9661
+  },
+  "ratio_mercado": 1.306,
+  "motivo": "precio normal (131 % del cuartil bajo de 216570)"
+ },
+ {
+  "fecha": "2026-11-18T20:39:43.620833+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos de Cartier Skeleton WHSA0015",
+  "total": 23500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860156153220",
+  "item_id": "v1|860156153220|0",
+  "referencia": "WHSA0015",
+  "mercado": {
+   "n": 7,
+   "p25": 25900,
+   "mediana": 28995
+  },
+  "ratio_mercado": 0.907,
+  "motivo": "precio normal (91 % del cuartil bajo de WHSA0015)"
  }
 ]
