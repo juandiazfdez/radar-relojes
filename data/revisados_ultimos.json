@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-11-16T14:22:46.945271+00:00",
-  "marca": "Rolex",
-  "titulo": "2002 Box Papers Rolex Submariner 16610 Stainless Black Dive Watch Neo Birth Year",
-  "total": 10498.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366814193235",
-  "item_id": "v1|366814193235|0",
-  "referencia": "16610",
-  "mercado": {
-   "n": 82,
-   "p25": 9878,
-   "mediana": 10291
-  },
-  "ratio_mercado": 1.063,
-  "motivo": "precio normal (106 % del cuartil bajo de 16610)"
- },
- {
-  "fecha": "2026-11-16T14:22:46.945271+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Anglaise Automatic Watch Stainless Steel and Rose Gold with Diamond",
-  "total": 6730.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117524670924",
-  "item_id": "v1|117524670924|0",
-  "triage": {
-   "modelo": "Cartier Tank Anglaise (acero y oro rosa, esfera plateada con marcadores de diamantes, brazalete mixto)",
-   "referencia": null,
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "Precio pedido de US$6730 con envío, por encima del rango de venta cerrada para este modelo de acero/oro rosa con diamantes en estado usado; la referencia exacta no se distingue en la foto."
-  },
-  "motivo": "triage: Precio pedido de US$6730 con envío, por encima del rango de venta cerrada para este modelo de acero/oro rosa con diamantes en estado usado; la referencia exacta no se distingue en la foto. (justo 5000)"
- },
- {
-  "fecha": "2026-11-16T14:22:46.945271+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Ballon Bleu de Cartier Quartz Watch Stainless Steel 36",
   "total": 5470.0,
@@ -10860,5 +10826,39 @@
   },
   "ratio_mercado": 1.312,
   "motivo": "precio normal (131 % del cuartil bajo de 2384)"
+ },
+ {
+  "fecha": "2026-11-18T22:39:43.171620+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner No Date \"2010 - G Serial\" 14060",
+  "total": 13500.19,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237191127282",
+  "item_id": "v1|237191127282|0",
+  "referencia": "14060",
+  "mercado": {
+   "n": 48,
+   "p25": 9800,
+   "mediana": 10719
+  },
+  "ratio_mercado": 1.378,
+  "motivo": "precio normal (138 % del cuartil bajo de 14060)"
+ },
+ {
+  "fecha": "2026-11-18T22:39:43.171620+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36mm – Two-Tone – 2021 ",
+  "total": 16500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227620873659",
+  "item_id": "v1|227620873659|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 Rolesor (acero y oro amarillo), brazalete Jubilee, esfera gris",
+   "referencia": "126233 (probable, según la vista de la imagen)",
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor estimado de mercado para un 126233 de 2021 en buen estado con caja; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido por encima del valor estimado de mercado para un 126233 de 2021 en buen estado con caja; no hay descuento suficiente. (justo 14000)"
  }
 ]
