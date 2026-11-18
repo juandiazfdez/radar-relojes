@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-11-14T17:51:38.228279+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust Diamond 18K White Gold Watch 69139",
-  "total": 18000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407362965581",
-  "item_id": "v1|407362965581|0",
-  "referencia": "69139",
-  "mercado": {
-   "n": 1,
-   "p25": 14500,
-   "mediana": 14500
-  },
-  "triage": {
-   "modelo": "Rolex Lady-Datejust 26 mm, bisel de diamantes, esfera champán con marcadores modificados",
-   "referencia": "69139",
-   "precio_justo_usd": 9000,
-   "interesante": false,
-   "nota": "Un 69139 en oro blanco de 18k sin modificar se vende en unos 5.000-7.000 USD; el bisel de diamantes y los marcadores personalizados añaden valor, pero el pedido de 18.000 USD supera ampliamente el mercado y las modificaciones pueden no ser originales."
-  },
-  "motivo": "triage: Un 69139 en oro blanco de 18k sin modificar se vende en unos 5.000-7.000 USD; el bisel de diamantes y los marcadores personalizados añaden valor, pero el pedido de 18.000 USD supera ampliamente el mercado y las modificaciones pueden no ser originales. (justo 9000)"
- },
- {
   "fecha": "2026-11-14T18:06:37.902414+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Day-Date 36mm President 18038 18K Gold President Fluted Black Stick",
@@ -10958,5 +10935,28 @@
    "nota": "Oro rosa de 35 mm con juego completo; el precio pedido queda solo unos 7 % por debajo de la estimación de venta cerrada, sin margen suficiente."
   },
   "motivo": "triage: Oro rosa de 35 mm con juego completo; el precio pedido queda solo unos 7 % por debajo de la estimación de venta cerrada, sin margen suficiente. (justo 9500)"
+ },
+ {
+  "fecha": "2026-11-18T04:24:12.363532+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Calibre de Cartier Diver Ref. 3729 42mm Full Set Watch Box & Papers",
+  "total": 5890.89,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147685826978",
+  "item_id": "v1|147685826978|0",
+  "referencia": "3729",
+  "mercado": {
+   "n": 4,
+   "p25": 4995,
+   "mediana": 5992
+  },
+  "triage": {
+   "modelo": "Cartier Calibre de Cartier Diver, 42 mm, acero (con caja y papeles)",
+   "referencia": "3729",
+   "precio_justo_usd": 5300,
+   "interesante": false,
+   "nota": "Precio pedido de US$5.891 con envío, por encima del valor de venta cerrada estimado para esta referencia con caja y papeles. La foto no permite verificar la referencia exacta ni el estado."
+  },
+  "motivo": "triage: Precio pedido de US$5.891 con envío, por encima del valor de venta cerrada estimado para esta referencia con caja y papeles. La foto no permite verificar la referencia exacta ni el estado. (justo 5300)"
  }
 ]
