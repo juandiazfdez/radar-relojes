@@ -1,119 +1,5 @@
 [
  {
-  "fecha": "2026-11-16T04:37:36.469740+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Dumont WSSA0088",
-  "total": 5300.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377646872542",
-  "item_id": "v1|377646872542|0",
-  "referencia": "WSSA0088",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Santos-Dumont (modelo grande, caja de acero, esfera plateada con numerales romanos, correa de cuero negra)",
-   "referencia": "WSSA0088",
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "Precio pedido de US$5300 queda por encima del valor estimado de reventa (~US$4800) para un modelo de acero de cuarzo en estado Good, sin confirmar caja y papeles."
-  },
-  "motivo": "triage: Precio pedido de US$5300 queda por encima del valor estimado de reventa (~US$4800) para un modelo de acero de cuarzo en estado Good, sin confirmar caja y papeles. (justo 4800)"
- },
- {
-  "fecha": "2026-11-16T04:37:36.469740+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 79210CNU",
-  "total": 4240.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377649452727",
-  "item_id": "v1|377649452727|0",
-  "triage": {
-   "modelo": "Tudor Black Bay (variante all-black, familia Black Bay Dark/Ceramic, 41 mm)",
-   "referencia": "79210CNU (según título; no verificable solo con la imagen)",
-   "precio_justo_usd": 3600,
-   "interesante": false,
-   "nota": "Usado en buen estado, sin caja ni papeles confirmados; el precio pedido de US$4240 está por encima del mercado secundario actual."
-  },
-  "motivo": "triage: Usado en buen estado, sin caja ni papeles confirmados; el precio pedido de US$4240 está por encima del mercado secundario actual. (justo 3600)"
- },
- {
-  "fecha": "2026-11-16T04:52:36.222818+00:00",
-  "marca": "Rolex",
-  "titulo": "Running 1979 ROLEX 6917 18k Gold Bark Finish 26mm 29 Jewel Wristwatch",
-  "total": 8000.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/407366180800",
-  "item_id": "v1|407366180800|0",
-  "referencia": "6917",
-  "mercado": {
-   "n": 43,
-   "p25": 3990,
-   "mediana": 4066
-  },
-  "ratio_mercado": 2.005,
-  "motivo": "precio normal (201 % del cuartil bajo de 6917)"
- },
- {
-  "fecha": "2026-11-16T04:52:36.222818+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Gmt 79830RB-0001",
-  "total": 4240.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377649452726",
-  "item_id": "v1|377649452726|0",
-  "referencia": "79830RB-0001",
-  "mercado": {
-   "n": 53,
-   "p25": 3758,
-   "mediana": 3999
-  },
-  "ratio_mercado": 1.128,
-  "motivo": "precio normal (113 % del cuartil bajo de 79830RB-0001)"
- },
- {
-  "fecha": "2026-11-16T05:22:35.847705+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 NEW/UNWORN Rolex Oyster Perpetual 134303 100 Year Anniversary 41mm Watch",
-  "total": 14846.15,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/366813293939",
-  "item_id": "v1|366813293939|0",
-  "referencia": "134303",
-  "mercado": {
-   "n": 7,
-   "p25": 14250,
-   "mediana": 15047
-  },
-  "ratio_mercado": 1.042,
-  "motivo": "precio normal (104 % del cuartil bajo de 134303)"
- },
- {
-  "fecha": "2026-11-16T05:22:35.847705+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX Explorer Blackout White Letter 14270 black WATCH",
-  "total": 13500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960202269010",
-  "item_id": "v1|960202269010|0",
-  "referencia": "14270",
-  "mercado": {
-   "n": 2,
-   "p25": 6500,
-   "mediana": 6500
-  },
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Explorer (esfera negra, 36 mm)",
-   "referencia": "14270 (según título; la foto sugiere posiblemente 114270)",
-   "precio_justo_usd": 7000,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del mercado para un Explorer 36 mm de acero con esfera negra en excelente estado; la referencia no se distingue con certeza en la foto."
-  },
-  "motivo": "triage: Precio pedido muy por encima del mercado para un Explorer 36 mm de acero con esfera negra en excelente estado; la referencia no se distingue con certeza en la foto. (justo 7000)"
- },
- {
   "fecha": "2026-11-16T06:07:36.142353+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 41mm 126333 On Jubilee Two Tone 2021",
@@ -10890,5 +10776,113 @@
    "nota": "Day-Date 1803 en oro amarillo con bisel acanalado; se vende cerca de US$14.000-17.000 según estado y esfera. El precio pedido está unos 6 % por encima del estimado, sin descuento claro."
   },
   "motivo": "triage: Day-Date 1803 en oro amarillo con bisel acanalado; se vende cerca de US$14.000-17.000 según estado y esfera. El precio pedido está unos 6 % por encima del estimado, sin descuento claro. (justo 15500)"
+ },
+ {
+  "fecha": "2026-11-18T21:24:43.173736+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer 214270 39mm",
+  "total": 7400.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940103508516",
+  "item_id": "v1|940103508516|0",
+  "referencia": "214270",
+  "mercado": {
+   "n": 23,
+   "p25": 8495,
+   "mediana": 9500
+  },
+  "ratio_mercado": 0.871,
+  "motivo": "precio normal (87 % del cuartil bajo de 214270)"
+ },
+ {
+  "fecha": "2026-11-18T21:24:43.173736+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 RSC Rolex Daytona Cosmograph 116509 18k  Gold Blue 40mm Watch Box Papers",
+  "total": 44048.1,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960213011557",
+  "item_id": "v1|960213011557|0",
+  "referencia": "116509",
+  "mercado": {
+   "n": 16,
+   "p25": 39990,
+   "mediana": 42325
+  },
+  "ratio_mercado": 1.101,
+  "motivo": "precio normal (110 % del cuartil bajo de 116509)"
+ },
+ {
+  "fecha": "2026-11-18T21:24:43.173736+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date President White Gold Blue Diamond Mens Watch 228349 Box Card",
+  "total": 70500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257859402004",
+  "item_id": "v1|257859402004|0",
+  "referencia": "228349",
+  "mercado": {
+   "n": 6,
+   "p25": 63995,
+   "mediana": 69175
+  },
+  "ratio_mercado": 1.102,
+  "motivo": "precio normal (110 % del cuartil bajo de 228349)"
+ },
+ {
+  "fecha": "2026-11-18T21:24:43.173736+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Datejust 18K Gold",
+  "total": 3011.3,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307289422202",
+  "item_id": "v1|307289422202|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Datejust 36 bicolor (acero y oro de 18K, bisel acanalado, pulsera President)",
+   "referencia": "16233 (probable; confirmar en el fondo de la caja)",
+   "precio_justo_usd": 4200,
+   "interesante": false,
+   "nota": "El título dice '18K Gold' pero se ve bicolor (Rolesor), no oro macizo. Sin fotos del fondo, número de serie ni papeles, y con el riesgo de réplica a este precio, no es una compra clara."
+  },
+  "motivo": "triage: El título dice '18K Gold' pero se ve bicolor (Rolesor), no oro macizo. Sin fotos del fondo, número de serie ni papeles, y con el riesgo de réplica a este precio, no es una compra clara. (justo 4200)"
+ },
+ {
+  "fecha": "2026-11-18T21:24:43.173736+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Pelagos M25717N-0001",
+  "total": 4500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860156264838",
+  "item_id": "v1|860156264838|0",
+  "referencia": "M25717N-0001",
+  "mercado": {
+   "n": 1,
+   "p25": 4150,
+   "mediana": 4150
+  },
+  "triage": {
+   "modelo": "Tudor Pelagos (posiblemente FXD, titanio, esfera negra, correa de tela)",
+   "referencia": null,
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "La referencia M25717N-0001 no coincide con lo que se ve; el precio pedido de US$4500 supera el mercado usado de Pelagos de titanio, que ronda los US$3300-3800."
+  },
+  "motivo": "triage: La referencia M25717N-0001 no coincide con lo que se ve; el precio pedido de US$4500 supera el mercado usado de Pelagos de titanio, que ronda los US$3300-3800. (justo 3600)"
+ },
+ {
+  "fecha": "2026-11-18T21:24:43.173736+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 7941A1A0NU",
+  "total": 4900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860156234339",
+  "item_id": "v1|860156234339|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 41 (esfera negra, bisel negro, brazalete Jubilee)",
+   "referencia": "7941A1A0NU",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de reventa de esta referencia de acero, que ronda US$3.000-3.400 usado en buen estado."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de reventa de esta referencia de acero, que ronda US$3.000-3.400 usado en buen estado. (justo 3200)"
  }
 ]
