@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-11-14T18:51:37.776245+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 16233 36mm Two-Tone 18K Gold Steel No Box/Papers",
-  "total": 7999.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/206701167494",
-  "item_id": "v1|206701167494|0",
-  "referencia": "16233",
-  "mercado": {
-   "n": 29,
-   "p25": 5695,
-   "mediana": 6245
-  },
-  "ratio_mercado": 1.405,
-  "motivo": "precio normal (140 % del cuartil bajo de 16233)"
- },
- {
-  "fecha": "2026-11-14T18:51:37.776245+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Solo Small 24mm W5200005 Mint Complete Box & Papers",
-  "total": 3199.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287729698212",
-  "item_id": "v1|287729698212|0",
-  "referencia": "W5200005",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Tank Solo (tamaño pequeño, cuarzo, acero, esfera plateada con números romanos, correa de cuero negra)",
-   "referencia": "W5200005",
-   "precio_justo_usd": 2500,
-   "interesante": false,
-   "nota": "Precio pedido de US$3199 está por encima del valor de reventa para un Tank Solo pequeño de cuarzo en acero, aunque esté completo y casi nuevo; no hay descuento."
-  },
-  "motivo": "triage: Precio pedido de US$3199 está por encima del valor de reventa para un Tank Solo pequeño de cuarzo en acero, aunque esté completo y casi nuevo; no hay descuento. (justo 2500)"
- },
- {
   "fecha": "2026-11-14T19:51:38.207366+00:00",
   "marca": "Rolex",
   "titulo": "1978 Rolex GMT Master 1675 Pepsi Vintage Collector Alert !!",
@@ -10951,5 +10911,39 @@
    "nota": "El precio pedido de US$18,699 está muy por encima del valor de reventa de esta Panthère pequeña de oro amarillo, que ronda los US$7,500-9,000 según condición y papeles."
   },
   "motivo": "triage: El precio pedido de US$18,699 está muy por encima del valor de reventa de esta Panthère pequeña de oro amarillo, que ronda los US$7,500-9,000 según condición y papeles. (justo 8000)"
+ },
+ {
+  "fecha": "2026-11-18T12:09:23.272487+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Automatic Stainless Steel Watch",
+  "total": 4207.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267846902814",
+  "item_id": "v1|267846902814|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual (acero, esfera plateada con índices de bastón, bisel liso)",
+   "referencia": "14000 (probable; podría ser 1002/1005 vintage, verificar en el fondo de la caja)",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Con el precio total de US$4207 y estado Good, queda por encima del valor de venta cerrada estimado; sin confirmar referencia, año ni papeles."
+  },
+  "motivo": "triage: Con el precio total de US$4207 y estado Good, queda por encima del valor de venta cerrada estimado; sin confirmar referencia, año ni papeles. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-18T12:09:23.272487+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date Automatic Stainless Steel Watch",
+  "total": 3677.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820368974087",
+  "item_id": "v1|820368974087|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date (acero, esfera plateada, bisel liso, brazalete Oyster)",
+   "referencia": "1500 o 15000/15200 (no se distingue con certeza en la foto)",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para este modelo vintage en estado Good; queda solo ~8% por debajo, sin margen suficiente para considerarlo oportunidad."
+  },
+  "motivo": "triage: Precio cercano al mercado para este modelo vintage en estado Good; queda solo ~8% por debajo, sin margen suficiente para considerarlo oportunidad. (justo 4000)"
  }
 ]
