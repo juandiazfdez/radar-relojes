@@ -1,53 +1,6 @@
 [
  {
   "fecha": "2026-11-16T16:07:56.952688+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex DateJust 16030 36mm Stainless Steel Taupe Engine Turned 1982 BOX + TAG",
-  "total": 6488.46,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940097189600",
-  "item_id": "v1|940097189600|0",
-  "referencia": "16030",
-  "mercado": {
-   "n": 4,
-   "p25": 4800,
-   "mediana": 4897
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 36 mm acero con bisel acanalado, esfera taupe (engine-turned), brazalete jubilee, con caja y papeles",
-   "referencia": "16030",
-   "precio_justo_usd": 6000,
-   "interesante": false,
-   "nota": "Ref. 16030 de ~1982 con caja y papeles; precio pedido de US$6.488 está en línea con el mercado, sin descuento de al menos 15 %."
-  },
-  "motivo": "triage: Ref. 16030 de ~1982 con caja y papeles; precio pedido de US$6.488 está en línea con el mercado, sin descuento de al menos 15 %. (justo 6000)"
- },
- {
-  "fecha": "2026-11-16T16:07:56.952688+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Air-King DIAMOND SILVER Stainless Steel 34mm 114234 Oyster Watch",
-  "total": 5297.01,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960204015025",
-  "item_id": "v1|960204015025|0",
-  "referencia": "114234",
-  "mercado": {
-   "n": 6,
-   "p25": 6870,
-   "mediana": 7612
-  },
-  "ratio_mercado": 0.771,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 4900,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, buen estado visual: caja y brazalete con desgaste leve de cepillado, sin caja ni papeles"
-  },
-  "ratio_justo": 1.081,
-  "motivo": "precio normal segun revision (108 % del justo 4900)"
- },
- {
-  "fecha": "2026-11-16T16:07:56.952688+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Pasha Seatimer Automatic Stainless Steel And Rubber Watch",
   "total": 2919.0,
@@ -10854,5 +10807,39 @@
   },
   "ratio_mercado": 1.013,
   "motivo": "precio normal (101 % del cuartil bajo de 6824)"
+ },
+ {
+  "fecha": "2026-11-18T23:39:44.325757+00:00",
+  "marca": "Rolex",
+  "titulo": "1996 Rolex Day-Date 36mm White Gold 18239",
+  "total": 25995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880130844812",
+  "item_id": "v1|880130844812|0",
+  "referencia": "18239",
+  "mercado": {
+   "n": 9,
+   "p25": 21999,
+   "mediana": 22750
+  },
+  "ratio_mercado": 1.182,
+  "motivo": "precio normal (118 % del cuartil bajo de 18239)"
+ },
+ {
+  "fecha": "2026-11-18T23:39:44.325757+00:00",
+  "marca": "Rolex",
+  "titulo": "2023 Rolex GMT-Master II Pepsi 126710BLRO – Stainless Steel – Box & Card",
+  "total": 22995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840143135579",
+  "item_id": "v1|840143135579|0",
+  "referencia": "126710BLRO",
+  "mercado": {
+   "n": 14,
+   "p25": 23655,
+   "mediana": 24150
+  },
+  "ratio_mercado": 0.972,
+  "motivo": "precio normal (97 % del cuartil bajo de 126710BLRO)"
  }
 ]
