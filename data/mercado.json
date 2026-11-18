@@ -1365,7 +1365,7 @@
   "max": 11890
  },
  "Rolex 16233|usado": {
-  "fecha": "2026-11-17",
+  "fecha": "2026-11-18",
   "consulta": "Rolex 16233",
   "n": 27,
   "mediana": 6095,
@@ -5805,11 +5805,11 @@
   "max": 17944
  },
  "Rolex 16613|usado": {
-  "fecha": "2026-11-16",
+  "fecha": "2026-11-18",
   "consulta": "Rolex 16613",
-  "n": 92,
+  "n": 91,
   "mediana": 12000,
-  "p25": 11695,
+  "p25": 11700,
   "p75": 12495,
   "min": 395,
   "max": 13000
@@ -7690,11 +7690,11 @@
   "max": 3700
  },
  "Tudor M25407N|usado": {
-  "fecha": "2026-11-09",
+  "fecha": "2026-11-18",
   "consulta": "Tudor M25407N",
-  "n": 10,
-  "mediana": 4644,
-  "p25": 4364,
+  "n": 9,
+  "mediana": 4650,
+  "p25": 4100,
   "p75": 4750,
   "min": 3849,
   "max": 5299
@@ -11620,14 +11620,14 @@
   "max": 17450
  },
  "Cartier 1840|usado": {
-  "fecha": "2026-11-07",
+  "fecha": "2026-11-18",
   "consulta": "Cartier 1840",
   "n": 14,
-  "mediana": 16548,
-  "p25": 7998,
-  "p75": 23000,
-  "min": 7100,
-  "max": 25000
+  "mediana": 20218,
+  "p25": 12500,
+  "p75": 23445,
+  "min": 7200,
+  "max": 26000
  },
  "Tudor M25827KN|nuevo": {
   "fecha": "2026-10-26",
@@ -21867,6 +21867,11 @@
  "Rolex 5011|usado": {
   "fecha": "2026-11-17",
   "consulta": "Rolex 5011",
+  "n": 0
+ },
+ "Cartier CRWSBB0020|usado": {
+  "fecha": "2026-11-18",
+  "consulta": "Cartier CRWSBB0020",
   "n": 0
  }
 }
