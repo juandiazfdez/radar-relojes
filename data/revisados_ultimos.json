@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-14T18:06:37.902414+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Monarch 2639W1A0U Full Set 39mm Steel 2026",
-  "total": 7410.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/128194911872",
-  "item_id": "v1|128194911872|0",
-  "triage": {
-   "modelo": "Tudor Monarch (esfera champán, numerales arábigos, subesfera de segundos; brazalete bicolor acero/oro)",
-   "referencia": null,
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "El precio pedido (US$7.410) supera ampliamente el valor de mercado de un Tudor nuevo de este tipo. La referencia '2639W1A0U' no tiene formato típico de Tudor y no se puede verificar, y la foto muestra brazalete bicolor mientras el título dice acero. Pedir fotos de la referencia grabada y de los papeles."
-  },
-  "motivo": "triage: El precio pedido (US$7.410) supera ampliamente el valor de mercado de un Tudor nuevo de este tipo. La referencia '2639W1A0U' no tiene formato típico de Tudor y no se puede verificar, y la foto muestra brazalete bicolor mientras el título dice acero. Pedir fotos de la referencia grabada y de los papeles. (justo 3500)"
- },
- {
   "fecha": "2026-11-14T18:21:37.646545+00:00",
   "marca": "Rolex",
   "titulo": "Vintage 60’s Rolex Ref 7002 Cal 1520 Automatic 14kt GF Men’s Watch Works",
@@ -10964,5 +10947,22 @@
    "nota": "Precio pedido de US$3.906 está cerca del retail, no por debajo; el mercado gris de este modelo actual suele ser ~US$3.000-3.400 con caja y papeles. La foto muestra caja y tarjetas Tudor, pero conviene verificar la referencia exacta."
   },
   "motivo": "triage: Precio pedido de US$3.906 está cerca del retail, no por debajo; el mercado gris de este modelo actual suele ser ~US$3.000-3.400 con caja y papeles. La foto muestra caja y tarjetas Tudor, pero conviene verificar la referencia exacta. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-18T05:09:11.752680+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Lady-Datejust 69174 26mm Steel 18k White Gold Fluted White Roman Jubilee",
+  "total": 5495.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237189479565",
+  "item_id": "v1|237189479565|0",
+  "referencia": "69174",
+  "mercado": {
+   "n": 41,
+   "p25": 5280,
+   "mediana": 5495
+  },
+  "ratio_mercado": 1.041,
+  "motivo": "precio normal (104 % del cuartil bajo de 69174)"
  }
 ]
