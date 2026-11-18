@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-14T18:36:38.154512+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 1974 Rolex 1005 34mm with desirable 2 tone bracelet",
-  "total": 4238.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307282662120",
-  "item_id": "v1|307282662120|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual 34 mm bicolor (acero y oro amarillo), esfera champán con índices aplicados",
-   "referencia": "1005 (según el título; no verificable en la foto)",
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "Modelo vintage de los años 70 con bisel de oro estriado; a US$4.238 está muy por encima de lo que se vende realmente, incluso con brazalete bicolor."
-  },
-  "motivo": "triage: Modelo vintage de los años 70 con bisel de oro estriado; a US$4.238 está muy por encima de lo que se vende realmente, incluso con brazalete bicolor. (justo 2600)"
- },
- {
-  "fecha": "2026-11-14T18:36:38.154512+00:00",
   "marca": "Tudor",
   "titulo": "2019 Tudor Heritage Black Bay Bronze 43mm Brown 79250BM Automatic Box & Papers",
   "total": 3499.0,
@@ -10957,5 +10940,22 @@
    "nota": "Precio pedido de US$7.800 está muy por encima del mercado secundario para un modelo nuevo de esta referencia (aprox. US$4.000-4.800); no es una oportunidad."
   },
   "motivo": "triage: Precio pedido de US$7.800 está muy por encima del mercado secundario para un modelo nuevo de esta referencia (aprox. US$4.000-4.800); no es una oportunidad. (justo 4300)"
+ },
+ {
+  "fecha": "2026-11-18T09:24:22.638070+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise Chronoflex 2303 18K Gold & Steel Quartz Chronograph Watch",
+  "total": 4199.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840141046806",
+  "item_id": "v1|840141046806|0",
+  "referencia": "2303",
+  "mercado": {
+   "n": 32,
+   "p25": 3850,
+   "mediana": 4148
+  },
+  "ratio_mercado": 1.091,
+  "motivo": "precio normal (109 % del cuartil bajo de 2303)"
  }
 ]
