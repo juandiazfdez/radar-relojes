@@ -1,189 +1,5 @@
 [
  {
-  "fecha": "2026-11-15T17:07:17.045434+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Precision Vintage 18k Yellow Gold Ladies Mesh Watch Bracelet 34 Grams",
-  "total": 7030.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168864632551",
-  "item_id": "v1|168864632551|0",
-  "triage": {
-   "modelo": "Rolex Precision vintage de dama, caja y brazalete de oro amarillo tipo malla",
-   "referencia": null,
-   "precio_justo_usd": 2400,
-   "interesante": false,
-   "nota": "Reloj vintage de dama con valor sobre todo por el oro (~34 g); el precio pedido de US$7030 está muy por encima del valor de mercado."
-  },
-  "motivo": "triage: Reloj vintage de dama con valor sobre todo por el oro (~34 g); el precio pedido de US$7030 está muy por encima del valor de mercado. (justo 2400)"
- },
- {
-  "fecha": "2026-11-15T17:07:17.045434+00:00",
-  "marca": "Tudor",
-  "titulo": "2021 Tudor Black Bay Bronze 43mm Gray 79250BA - Box/Papers Beautiful Patina!",
-  "total": 3222.11,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168864638379",
-  "item_id": "v1|168864638379|0",
-  "referencia": "79250BA",
-  "mercado": {
-   "n": 10,
-   "p25": 3540,
-   "mediana": 3946
-  },
-  "ratio_mercado": 0.91,
-  "motivo": "precio normal (91 % del cuartil bajo de 79250BA)"
- },
- {
-  "fecha": "2026-11-15T17:37:16.565726+00:00",
-  "marca": "Rolex",
-  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
-  "total": 13991.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/327458108167",
-  "item_id": "v1|327458108167|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date (bisel negro, acero)",
-   "referencia": "116610LN (probable; no es legible en la foto)",
-   "precio_justo_usd": 13500,
-   "interesante": false,
-   "nota": "Set completo con caja y papeles, pero la referencia no se distingue. Si fuera 126610LN, el precio justo sería mayor; sin confirmar la referencia, el precio pedido no está 15 % por debajo del mercado."
-  },
-  "motivo": "triage: Set completo con caja y papeles, pero la referencia no se distingue. Si fuera 126610LN, el precio justo sería mayor; sin confirmar la referencia, el precio pedido no está 15 % por debajo del mercado. (justo 13500)"
- },
- {
-  "fecha": "2026-11-15T17:52:16.499319+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 41mm – Ref. 124300 – Box & Papers  Beautiful Rolex Oyster",
-  "total": 8300.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227615785976",
-  "item_id": "v1|227615785976|0",
-  "referencia": "124300",
-  "mercado": {
-   "n": 30,
-   "p25": 10000,
-   "mediana": 10832
-  },
-  "ratio_mercado": 0.83,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 9000,
-   "riesgo_autenticidad": "medio",
-   "estado": "Buen estado cosmético aparente, poco uso, sin rayones graves visibles; sin fotos del fondo de caja ni del número de serie"
-  },
-  "ratio_justo": 0.922,
-  "motivo": "precio normal segun revision (92 % del justo 9000)"
- },
- {
-  "fecha": "2026-11-15T18:07:17.140291+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Roadster S Automatic Stainless Steel Men's Luxury Wristwatch (No Box )",
-  "total": 4699.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168862833474",
-  "item_id": "v1|168862833474|0",
-  "triage": {
-   "modelo": "Cartier Roadster XL Automatic (acero, correa de caucho)",
-   "referencia": "W62000V3 o W62025V3 (probable, no confirmada)",
-   "precio_justo_usd": 3900,
-   "interesante": false,
-   "nota": "Precio pedido de US$4700 está por encima del rango de venta real (aprox. US$3500-4500) para un Roadster automático de acero sin caja; no cumple el umbral de 15% por debajo."
-  },
-  "motivo": "triage: Precio pedido de US$4700 está por encima del rango de venta real (aprox. US$3500-4500) para un Roadster automático de acero sin caja; no cumple el umbral de 15% por debajo. (justo 3900)"
- },
- {
-  "fecha": "2026-11-15T18:22:16.662088+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36MM 16233 18k Yellow Gold, Two-Tone and Jubilee 2003",
-  "total": 7495.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960200499072",
-  "item_id": "v1|960200499072|0",
-  "referencia": "16233",
-  "mercado": {
-   "n": 29,
-   "p25": 5695,
-   "mediana": 6245
-  },
-  "ratio_mercado": 1.316,
-  "motivo": "precio normal (132 % del cuartil bajo de 16233)"
- },
- {
-  "fecha": "2026-11-15T18:52:16.846484+00:00",
-  "marca": "Rolex",
-  "titulo": "2001 Rolex Day-Date 36, 118238, Yellow Gold, Champagne Dial, President Bracelet,",
-  "total": 28046.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/206703594804",
-  "item_id": "v1|206703594804|0",
-  "referencia": "118238",
-  "mercado": {
-   "n": 56,
-   "p25": 27990,
-   "mediana": 28990
-  },
-  "ratio_mercado": 1.002,
-  "motivo": "precio normal (100 % del cuartil bajo de 118238)"
- },
- {
-  "fecha": "2026-11-15T18:52:16.846484+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX Explorer II Polar 42mm Oyster Stainless Steel – 226570 – Box & Papers 2023",
-  "total": 12895.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366812356720",
-  "item_id": "v1|366812356720|0",
-  "referencia": "226570",
-  "mercado": {
-   "n": 29,
-   "p25": 11990,
-   "mediana": 12734
-  },
-  "ratio_mercado": 1.075,
-  "motivo": "precio normal (108 % del cuartil bajo de 226570)"
- },
- {
-  "fecha": "2026-11-15T18:52:16.846484+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos de Cartier Steel Gold Auto 39mm Bracelet Watch W2SA0009",
-  "total": 10950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940094914461",
-  "item_id": "v1|940094914461|0",
-  "referencia": "W2SA0009",
-  "mercado": {
-   "n": 10,
-   "p25": 10389,
-   "mediana": 11097
-  },
-  "ratio_mercado": 1.054,
-  "motivo": "precio normal (105 % del cuartil bajo de W2SA0009)"
- },
- {
-  "fecha": "2026-11-15T19:07:17.209254+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex 16750 Gmt Master Two Tone Gold 8 Mil Serial Number Look Authentic",
-  "total": 11030.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366812377168",
-  "item_id": "v1|366812377168|0",
-  "referencia": "16750",
-  "mercado": {
-   "n": 11,
-   "p25": 13950,
-   "mediana": 15079
-  },
-  "ratio_mercado": 0.791,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 9800,
-   "riesgo_autenticidad": "medio",
-   "estado": "Desgaste notable: cristal rayado, esfera con manchas, brazalete estirado"
-  },
-  "ratio_justo": 1.126,
-  "motivo": "precio normal segun revision (113 % del justo 9800)"
- },
- {
   "fecha": "2026-11-15T19:07:17.209254+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Panthere Ruban White Mother of Pearl 106355/2420 Stainless Steel Box",
@@ -10879,5 +10695,182 @@
    "nota": "Precio pedido cercano al mercado gris de un modelo de producción actual; no hay descuento de al menos 15 % y la foto es de baja resolución."
   },
   "motivo": "triage: Precio pedido cercano al mercado gris de un modelo de producción actual; no hay descuento de al menos 15 % y la foto es de baja resolución. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-18T18:39:32.931036+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 126710BLRO \"Pepsi\" Mens Watch Box Papers",
+  "total": 27699.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237190768211",
+  "item_id": "v1|237190768211|0",
+  "referencia": "126710BLRO",
+  "mercado": {
+   "n": 14,
+   "p25": 23655,
+   "mediana": 24150
+  },
+  "ratio_mercado": 1.171,
+  "motivo": "precio normal (117 % del cuartil bajo de 126710BLRO)"
+ },
+ {
+  "fecha": "2026-11-18T18:39:32.931036+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sea-Dweller 2019 Ref 126603 Two Tone with Card",
+  "total": 16570.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960212571015",
+  "item_id": "v1|960212571015|0",
+  "referencia": "126603",
+  "mercado": {
+   "n": 36,
+   "p25": 17129,
+   "mediana": 18175
+  },
+  "ratio_mercado": 0.967,
+  "motivo": "precio normal (97 % del cuartil bajo de 126603)"
+ },
+ {
+  "fecha": "2026-11-18T18:39:32.931036+00:00",
+  "marca": "Rolex",
+  "titulo": "40mm 1996 Rolex Submariner No Date Automatic Wristwatch 3000 Swiss Steel 14060",
+  "total": 10170.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147686854877",
+  "item_id": "v1|147686854877|0",
+  "referencia": "14060",
+  "mercado": {
+   "n": 48,
+   "p25": 9800,
+   "mediana": 10719
+  },
+  "ratio_mercado": 1.038,
+  "motivo": "precio normal (104 % del cuartil bajo de 14060)"
+ },
+ {
+  "fecha": "2026-11-18T18:39:32.931036+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 36mm Rolex President Bark Day-Date 1803 Automatic Wristwatch 18k Swiss",
+  "total": 10170.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147686850141",
+  "item_id": "v1|147686850141|0",
+  "triage": {
+   "modelo": "Rolex Day-Date 36 mm en oro amarillo 18k con bisel de diamantes (bark finish)",
+   "referencia": "1803",
+   "precio_justo_usd": 11500,
+   "interesante": false,
+   "nota": "Day-Date 1803 en oro amarillo con bisel de diamantes, de época probable 1970s. El bisel de diamantes puede ser añadido posteriormente y el precio no cubre autenticidad ni estado verificados; el precio pedido está solo ~12% por debajo, bajo el umbral del 15%."
+  },
+  "motivo": "triage: Day-Date 1803 en oro amarillo con bisel de diamantes, de época probable 1970s. El bisel de diamantes puede ser añadido posteriormente y el precio no cubre autenticidad ni estado verificados; el precio pedido está solo ~12% por debajo, bajo el umbral del 15%. (justo 11500)"
+ },
+ {
+  "fecha": "2026-11-18T18:39:32.931036+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 33.5mm 1954 Rolex Oyster Perpetual Automatic Wristwatch 645 Steel 6084",
+  "total": 2825.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147686847590",
+  "item_id": "v1|147686847590|0",
+  "referencia": "6084",
+  "mercado": {
+   "n": 8,
+   "p25": 3060,
+   "mediana": 3638
+  },
+  "ratio_mercado": 0.923,
+  "motivo": "precio normal (92 % del cuartil bajo de 6084)"
+ },
+ {
+  "fecha": "2026-11-18T18:39:32.931036+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master 126711CHNR-0002 Pre-owned Box & Papers 2020",
+  "total": 20000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137942381496",
+  "item_id": "v1|137942381496|0",
+  "referencia": "126711CHNR",
+  "mercado": {
+   "n": 104,
+   "p25": 20589,
+   "mediana": 21659
+  },
+  "ratio_mercado": 0.971,
+  "motivo": "precio normal (97 % del cuartil bajo de 126711CHNR)"
+ },
+ {
+  "fecha": "2026-11-18T18:39:32.931036+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master 116710BLNR-0002 Pre-owned Box & Papers 2017",
+  "total": 15690.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137942381617",
+  "item_id": "v1|137942381617|0",
+  "referencia": "116710BLNR",
+  "mercado": {
+   "n": 45,
+   "p25": 15999,
+   "mediana": 16850
+  },
+  "ratio_mercado": 0.981,
+  "motivo": "precio normal (98 % del cuartil bajo de 116710BLNR)"
+ },
+ {
+  "fecha": "2026-11-18T18:39:32.931036+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master 116710LN-0001 Pre-owned Box & Papers",
+  "total": 12530.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137942381444",
+  "item_id": "v1|137942381444|0",
+  "referencia": "116710LN",
+  "mercado": {
+   "n": 45,
+   "p25": 13799,
+   "mediana": 14950
+  },
+  "ratio_mercado": 0.908,
+  "motivo": "precio normal (91 % del cuartil bajo de 116710LN)"
+ },
+ {
+  "fecha": "2026-11-18T18:39:32.931036+00:00",
+  "marca": "Cartier",
+  "titulo": "Men's Cartier Ronde Solo 42mm Ref. W6701011-3802 Circa 2015 w/ Full Set",
+  "total": 4150.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128203291580",
+  "item_id": "v1|128203291580|0",
+  "referencia": "W6701011",
+  "mercado": {
+   "n": 11,
+   "p25": 3355,
+   "mediana": 3650
+  },
+  "ratio_mercado": 1.237,
+  "motivo": "precio normal (124 % del cuartil bajo de W6701011)"
+ },
+ {
+  "fecha": "2026-11-18T18:39:32.931036+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 79030N Men's 39mm Wristwatch w/ Box & Hangtag",
+  "total": 2750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206711132352",
+  "item_id": "v1|206711132352|0",
+  "referencia": "79030N",
+  "mercado": {
+   "n": 12,
+   "p25": 3899,
+   "mediana": 4063
+  },
+  "ratio_mercado": 0.705,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 3250,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado, bueno: rayitas leves en caja y brazalete, bisel limpio, esfera y cristal sin daños visibles en fotos borrosas"
+  },
+  "ratio_justo": 0.846,
+  "motivo": "ALERTA"
  }
 ]
