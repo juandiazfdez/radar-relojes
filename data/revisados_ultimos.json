@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-16T00:22:26.340896+00:00",
-  "marca": "Cartier",
-  "titulo": "Vintage CARTIER Quartz Must de Vendome Vermeil 134151 Roman Women’s 24mm Watch",
-  "total": 1322.76,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137934457238",
-  "item_id": "v1|137934457238|0",
-  "triage": {
-   "modelo": "Cartier Must de Vendôme Vermeil (cuarzo, esfera crema, numerales romanos)",
-   "referencia": "134151",
-   "precio_justo_usd": 450,
-   "interesante": false,
-   "nota": "Vermeil de cuarzo de 24 mm en estado Good, sin caja ni papeles indicados; se vende normalmente entre 350 y 600 USD, y el precio pedido de 1323 USD está muy por encima."
-  },
-  "motivo": "triage: Vermeil de cuarzo de 24 mm en estado Good, sin caja ni papeles indicados; se vende normalmente entre 350 y 600 USD, y el precio pedido de 1323 USD está muy por encima. (justo 450)"
- },
- {
-  "fecha": "2026-11-16T00:37:26.299806+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos 100 XL Automatic Stainless Steel Luxury Wrist Watch Pre-Owned",
-  "total": 1800.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/820359083127",
-  "item_id": "v1|820359083127|0",
-  "triage": {
-   "modelo": "Cartier Santos de Cartier 100 XL, acero automático (2018 en adelante)",
-   "referencia": "WSSA0029 (probable)",
-   "precio_justo_usd": 5800,
-   "interesante": false,
-   "nota": "Precio ~70% por debajo del mercado secundario para este modelo; es muy probable que sea replica o listado enganoso. Verificar autenticidad antes de cualquier compra."
-  },
-  "motivo": "triage: Precio ~70% por debajo del mercado secundario para este modelo; es muy probable que sea replica o listado enganoso. Verificar autenticidad antes de cualquier compra. (justo 5800)"
- },
- {
   "fecha": "2026-11-16T00:52:26.660236+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Panthère de Cartier  Quartz Swiss Date Steel Watch w/  Papers",
@@ -10865,5 +10831,45 @@
    "nota": "Precio pedido de US$7,199 muy por encima del valor de venta de este modelo de tamaño medio en dos tonos en EE. UU. (aprox. US$2,800-3,800 según estado y papeles)."
   },
   "motivo": "triage: Precio pedido de US$7,199 muy por encima del valor de venta de este modelo de tamaño medio en dos tonos en EE. UU. (aprox. US$2,800-3,800 según estado y papeles). (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-18T19:54:43.478517+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41, Mint Green Index, Steel, 126300",
+  "total": 14270.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800935335715",
+  "item_id": "v1|800935335715|0",
+  "referencia": "126300",
+  "mercado": {
+   "n": 42,
+   "p25": 11895,
+   "mediana": 12017
+  },
+  "ratio_mercado": 1.2,
+  "motivo": "precio normal (120 % del cuartil bajo de 126300)"
+ },
+ {
+  "fecha": "2026-11-18T19:54:43.478517+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 54 Stainless BLUE 37mm Automatic Watch Men M79000B-0001",
+  "total": 3185.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/307289326478",
+  "item_id": "v1|307289326478|0",
+  "referencia": "M79000B-0001",
+  "mercado": {
+   "n": 3,
+   "p25": 3315,
+   "mediana": 3950
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 54 Stainless Blue 37mm (esfera y bisel azules, brazalete de acero)",
+   "referencia": "M79000B-0001",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio cercano al mercado secundario para un BB54 azul de acero en buen estado; el descuento es menor al 15 %. El '2026' del título no está verificado."
+  },
+  "motivo": "triage: Precio cercano al mercado secundario para un BB54 azul de acero en buen estado; el descuento es menor al 15 %. El '2026' del título no está verificado. (justo 3300)"
  }
 ]
