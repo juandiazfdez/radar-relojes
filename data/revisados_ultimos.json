@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-16T15:52:57.748721+00:00",
-  "marca": "Rolex",
-  "titulo": "RARE FULL SET: Rolex Submariner Date. UNPOLISHED. ORIGINAL BOX + PAPERS. USA.",
-  "total": 13690.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/327459679168",
-  "item_id": "v1|327459679168|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date (bisel negro, brazalete de acero)",
-   "referencia": "116610LN o 126610LN (no verificable con la imagen)",
-   "precio_justo_usd": 12500,
-   "interesante": false,
-   "nota": "Set completo con caja y papeles, pero la referencia no se distingue en la foto; el precio pedido queda por encima del valor estimado, y 'unpolished' no se puede verificar."
-  },
-  "motivo": "triage: Set completo con caja y papeles, pero la referencia no se distingue en la foto; el precio pedido queda por encima del valor estimado, y 'unpolished' no se puede verificar. (justo 12500)"
- },
- {
-  "fecha": "2026-11-16T16:07:56.952688+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust Midsize Steel Yellow Gold Diamond Ladies Watch 278273",
-  "total": 16840.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257855281273",
-  "item_id": "v1|257855281273|0",
-  "referencia": "278273",
-  "mercado": {
-   "n": 17,
-   "p25": 16840,
-   "mediana": 18900
-  },
-  "ratio_mercado": 1.0,
-  "motivo": "precio normal (100 % del cuartil bajo de 278273)"
- },
- {
   "fecha": "2026-11-16T16:07:56.952688+00:00",
   "marca": "Rolex",
   "titulo": "Rolex DateJust 16030 36mm Stainless Steel Taupe Engine Turned 1982 BOX + TAG",
@@ -10854,5 +10820,39 @@
    "nota": "Precio cercano al mercado (~6 % bajo), sin descuento suficiente; la foto no coincide claramente con la caja de la referencia del título, así que hay que verificar."
   },
   "motivo": "triage: Precio cercano al mercado (~6 % bajo), sin descuento suficiente; la foto no coincide claramente con la caja de la referencia del título, así que hay que verificar. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-18T23:24:43.959112+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 28 Steel Yellow Gold Diamond Ladies Watch 279383 Box Card",
+  "total": 22930.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336904643673",
+  "item_id": "v1|336904643673|0",
+  "referencia": "279383",
+  "mercado": {
+   "n": 5,
+   "p25": 21360,
+   "mediana": 22930
+  },
+  "ratio_mercado": 1.074,
+  "motivo": "precio normal (107 % del cuartil bajo de 279383)"
+ },
+ {
+  "fecha": "2026-11-18T23:24:43.959112+00:00",
+  "marca": "Rolex",
+  "titulo": "$15,000 31mm ROLEX 14k Yellow Gold SS REF 6824 DATEJUST Ladies Watch SERVICED",
+  "total": 5959.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237191199294",
+  "item_id": "v1|237191199294|0",
+  "referencia": "6824",
+  "mercado": {
+   "n": 8,
+   "p25": 5885,
+   "mediana": 12683
+  },
+  "ratio_mercado": 1.013,
+  "motivo": "precio normal (101 % del cuartil bajo de 6824)"
  }
 ]
