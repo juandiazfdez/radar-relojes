@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-11-14T21:06:37.731916+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rare Year 1958 Rolex ref 6542 PEPSI PANAM GMT Master Chapter Ring Watch",
-  "total": 24449.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206701406607",
-  "item_id": "v1|206701406607|0",
-  "referencia": "6542",
-  "mercado": {
-   "n": 1,
-   "p25": 125000,
-   "mediana": 125000
-  },
-  "triage": {
-   "modelo": "Rolex GMT-Master 'Pepsi' (bisel rojo y azul, esfera negra, brazalete de acero); el título dice 1958, pero la foto no lo confirma",
-   "referencia": null,
-   "precio_justo_usd": 12000,
-   "interesante": false,
-   "nota": "El título cita ref 6542 de 1958, pero la foto no lo confirma y el precio es irreal para un 6542 genuino (cientos de miles). Si es un modelo moderno, el precio está muy por encima del mercado. Título confuso ('Chapter Ring') y posible réplica o listado engañoso."
-  },
-  "motivo": "triage: El título cita ref 6542 de 1958, pero la foto no lo confirma y el precio es irreal para un 6542 genuino (cientos de miles). Si es un modelo moderno, el precio está muy por encima del mercado. Título confuso ('Chapter Ring') y posible réplica o listado engañoso. (justo 12000)"
- },
- {
-  "fecha": "2026-11-14T21:06:37.731916+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Yachtmaster Midsize 35 Steel Yellow Gold Mens Watch 168623",
-  "total": 10650.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336897802355",
-  "item_id": "v1|336897802355|0",
-  "referencia": "168623",
-  "mercado": {
-   "n": 11,
-   "p25": 8950,
-   "mediana": 8990
-  },
-  "ratio_mercado": 1.19,
-  "motivo": "precio normal (119 % del cuartil bajo de 168623)"
- },
- {
-  "fecha": "2026-11-14T21:06:37.731916+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos Demoiselle Rose Gold Diamond Ladies Watch WF902006 Box Papers",
   "total": 11700.0,
@@ -10952,5 +10912,45 @@
    "nota": "Precio pedido de US$6,250 es más del doble del valor de venta cerrada típico de este modelo de cuarzo en dos tonos; no es oportunidad."
   },
   "motivo": "triage: Precio pedido de US$6,250 es más del doble del valor de venta cerrada típico de este modelo de cuarzo en dos tonos; no es oportunidad. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-18T15:09:33.260366+00:00",
+  "marca": "Tudor",
+  "titulo": "2025 Tudor Black Bay GMT 7939G1A0NRU Red Coke Stainless 39mm Watch Box Papers",
+  "total": 4778.31,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960211970010",
+  "item_id": "v1|960211970010|0",
+  "triage": {
+   "modelo": "Tudor Black Bay GMT (bisel rojo/negro 'Coke', 39 mm, acero, brazalete de acero)",
+   "referencia": "M7939G1A0NRU (según el título; no verificable desde la foto)",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Pre-owned 2025 con caja y papeles; el precio pedido de US$4778 está por encima del valor de reventa estimado, así que no es una oportunidad."
+  },
+  "motivo": "triage: Pre-owned 2025 con caja y papeles; el precio pedido de US$4778 está por encima del valor de reventa estimado, así que no es una oportunidad. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-18T15:09:33.260366+00:00",
+  "marca": "Tudor",
+  "titulo": "NEW 2026 Tudor Black Bay 54 37mm Stainless Steel M79000N-0001 FULL STICKERS",
+  "total": 4175.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/820369521541",
+  "item_id": "v1|820369521541|0",
+  "referencia": "M79000N-0001",
+  "mercado": {
+   "n": 3,
+   "p25": 4080,
+   "mediana": 4450
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 54 (esfera negra, bisel negro, sin fecha)",
+   "referencia": "M79000N-0001",
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "Precio pedido de US$4175 está por encima del precio justo estimado para un BB54 nuevo con papeles en el mercado secundario; no cumple el umbral de 15% de descuento."
+  },
+  "motivo": "triage: Precio pedido de US$4175 está por encima del precio justo estimado para un BB54 nuevo con papeles en el mercado secundario; no cumple el umbral de 15% de descuento. (justo 3900)"
  }
 ]
