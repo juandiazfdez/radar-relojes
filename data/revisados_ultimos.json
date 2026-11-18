@@ -1,69 +1,5 @@
 [
  {
-  "fecha": "2026-11-14T23:36:48.104587+00:00",
-  "marca": "Rolex",
-  "titulo": "rolex oyster perpetual 41 mm",
-  "total": 8700.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198795635016",
-  "item_id": "v1|198795635016|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual 41 mm, esfera negra",
-   "referencia": "124300 (probable)",
-   "precio_justo_usd": 7800,
-   "interesante": false,
-   "nota": "El precio pedido está por encima del valor de mercado para este modelo de uso reciente con caja y papeles; no cumple el umbral de 15 % por debajo."
-  },
-  "motivo": "triage: El precio pedido está por encima del valor de mercado para este modelo de uso reciente con caja y papeles; no cumple el umbral de 15 % por debajo. (justo 7800)"
- },
- {
-  "fecha": "2026-11-14T23:51:48.365650+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 16610v Submariner Green Kermit Auto Stainless w/ Box & Papers",
-  "total": 13637.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/257852883330",
-  "item_id": "v1|257852883330|0",
-  "referencia": "16610V",
-  "mercado": {
-   "n": 6,
-   "p25": 18359,
-   "mediana": 19500
-  },
-  "ratio_mercado": 0.743,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 14500,
-   "riesgo_autenticidad": "medio",
-   "estado": "Muy buen estado visual, desgaste leve, cajas largas y brazalete con poca elongación aparente"
-  },
-  "ratio_justo": 0.94,
-  "motivo": "precio normal segun revision (94 % del justo 14500)"
- },
- {
-  "fecha": "2026-11-14T23:51:48.365650+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Louis Cartier WGTA0190 2026 Red New Full Set Watch",
-  "total": 15800.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227614628244",
-  "item_id": "v1|227614628244|0",
-  "referencia": "WGTA0190",
-  "mercado": {
-   "n": 1,
-   "p25": 16500,
-   "mediana": 16500
-  },
-  "triage": {
-   "modelo": "Cartier Tank Louis Cartier grande, oro amarillo, esfera burdeos con correa de piel de cocodrilo burdeos",
-   "referencia": "WGTA0190 (según el título; no verificable en la imagen)",
-   "precio_justo_usd": 14500,
-   "interesante": false,
-   "nota": "Nuevo con caja y papeles, el precio es normal del mercado gris (cerca del 15-25% bajo retail), no un descuento claro; el título menciona '2026', lo que conviene verificar."
-  },
-  "motivo": "triage: Nuevo con caja y papeles, el precio es normal del mercado gris (cerca del 15-25% bajo retail), no un descuento claro; el título menciona '2026', lo que conviene verificar. (justo 14500)"
- },
- {
   "fecha": "2026-11-15T00:06:47.776713+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Chronometer Stainless Steel Automatic Ladies Watch #176200",
@@ -10916,5 +10852,62 @@
    "nota": "Con caja y papeles, el precio de reventa de esta variante bicolor está cerca de retail; el pedido de US$4500 no está al menos 15 % por debajo. Referencia exacta no verificable en la foto."
   },
   "motivo": "triage: Con caja y papeles, el precio de reventa de esta variante bicolor está cerca de retail; el pedido de US$4500 no está al menos 15 % por debajo. Referencia exacta no verificable en la foto. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-18T16:54:32.754326+00:00",
+  "marca": "Rolex",
+  "titulo": "2014 Rolex Submariner Date (116610LN) w/ Box Papers",
+  "total": 12499.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820369775752",
+  "item_id": "v1|820369775752|0",
+  "referencia": "116610LN",
+  "mercado": {
+   "n": 62,
+   "p25": 12790,
+   "mediana": 13500
+  },
+  "ratio_mercado": 0.977,
+  "motivo": "precio normal (98 % del cuartil bajo de 116610LN)"
+ },
+ {
+  "fecha": "2026-11-18T16:54:32.754326+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 126334 Blue Diamond 41mm 18k Fluted Jubilee Stainless Steel Watch",
+  "total": 15488.28,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940102931499",
+  "item_id": "v1|940102931499|0",
+  "referencia": "126334",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 41 (bisel acanalado de oro blanco, esfera azul con diamantes, brazalete Jubilee)",
+   "referencia": "126334",
+   "precio_justo_usd": 14500,
+   "interesante": false,
+   "nota": "El precio pedido está unos 7 % por encima de la estimación de venta real para esta referencia en estado excelente, así que no es una oportunidad."
+  },
+  "motivo": "triage: El precio pedido está unos 7 % por encima de la estimación de venta real para esta referencia en estado excelente, así que no es una oportunidad. (justo 14500)"
+ },
+ {
+  "fecha": "2026-11-18T16:54:32.754326+00:00",
+  "marca": "Rolex",
+  "titulo": "42114: Rolex GMT-Master II \"Root Beer\", Ref. 126711CHNR, 2023 Full Set",
+  "total": 22000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900101873934",
+  "item_id": "v1|900101873934|0",
+  "referencia": "126711CHNR",
+  "mercado": {
+   "n": 104,
+   "p25": 20589,
+   "mediana": 21659
+  },
+  "ratio_mercado": 1.069,
+  "motivo": "precio normal (107 % del cuartil bajo de 126711CHNR)"
  }
 ]
