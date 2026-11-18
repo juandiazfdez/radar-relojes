@@ -1,130 +1,5 @@
 [
  {
-  "fecha": "2026-11-14T16:36:27.505713+00:00",
-  "marca": "Rolex",
-  "titulo": "VINTAGE 1963 ROLEX GMT-MASTER 1675 WATCH CASE",
-  "total": 8125.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/800916607399",
-  "item_id": "v1|800916607399|0",
-  "triage": {
-   "modelo": "Rolex GMT-Master 1675 (solo caja, vintage 1963)",
-   "referencia": "1675",
-   "precio_justo_usd": 700,
-   "interesante": false,
-   "nota": "Es solo la caja, sin esfera, manecillas, bisel ni movimiento. El precio pedido de US$8125 está muy por encima de lo que vale una caja 1675 de estado regular."
-  },
-  "motivo": "triage: Es solo la caja, sin esfera, manecillas, bisel ni movimiento. El precio pedido de US$8125 está muy por encima de lo que vale una caja 1675 de estado regular. (justo 700)"
- },
- {
-  "fecha": "2026-11-14T16:36:27.505713+00:00",
-  "marca": "Rolex",
-  "titulo": "1989 Rolex DateJust 16233 36mm Champagne Steel & 18k Gold JUBILEE BOX + PAPERS",
-  "total": 7188.17,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940092049516",
-  "item_id": "v1|940092049516|0",
-  "referencia": "16233",
-  "mercado": {
-   "n": 29,
-   "p25": 5695,
-   "mediana": 6245
-  },
-  "ratio_mercado": 1.262,
-  "motivo": "precio normal (126 % del cuartil bajo de 16233)"
- },
- {
-  "fecha": "2026-11-14T16:36:27.505713+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos 100 W20132X8 – Limited – Mother of Peal",
-  "total": 3995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168862712765",
-  "item_id": "v1|168862712765|0",
-  "triage": {
-   "modelo": "Cartier Santos 100 (XL), edición limitada con esfera nácar según título",
-   "referencia": "W20132X8 (según título, sin verificar)",
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "Caja de acero con correa de piel azul; el precio está algo por debajo del mercado pero no al menos 15 %. La esfera no se ve claramente nacarada y la referencia y la autenticidad deben verificarse (papeles, número de serie, movimiento) antes de comprar."
-  },
-  "motivo": "triage: Caja de acero con correa de piel azul; el precio está algo por debajo del mercado pero no al menos 15 %. La esfera no se ve claramente nacarada y la referencia y la autenticidad deben verificarse (papeles, número de serie, movimiento) antes de comprar. (justo 4500)"
- },
- {
-  "fecha": "2026-11-14T16:36:27.505713+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthère Small 10702 W25022B9 22mm 18k Yellow Gold",
-  "total": 18995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840119062340",
-  "item_id": "v1|840119062340|0",
-  "triage": {
-   "modelo": "Cartier Panthère Small (quartz, oro amarillo 18k, brazalete integrado, esfera oscura, con caja Cartier)",
-   "referencia": "W25022B9 (según título; \"10702\" no encaja con la nomenclatura Cartier actual)",
-   "precio_justo_usd": 15500,
-   "interesante": false,
-   "nota": "Precio pedido US$18,995 está ~22% por encima del estimado de venta real pre-owned; la referencia del título es inconsistente y conviene verificarla."
-  },
-  "motivo": "triage: Precio pedido US$18,995 está ~22% por encima del estimado de venta real pre-owned; la referencia del título es inconsistente y conviene verificarla. (justo 15500)"
- },
- {
-  "fecha": "2026-11-14T16:36:27.505713+00:00",
-  "marca": "Tudor",
-  "titulo": "Vintage Tudor Prince Oysterdate Ranger 9050",
-  "total": 1500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920142969562",
-  "item_id": "v1|920142969562|0",
-  "triage": {
-   "modelo": "Tudor Prince Oysterdate Ranger (vintage, esfera negra con indices arabes)",
-   "referencia": "9050 (según el título; no verificable con la foto)",
-   "precio_justo_usd": 1700,
-   "interesante": false,
-   "nota": "Precio cercano al mercado, con descuento de solo ~12 %, por debajo del umbral del 15 %. Falta verificar la referencia, el movimiento y el estado de la esfera y la caja."
-  },
-  "motivo": "triage: Precio cercano al mercado, con descuento de solo ~12 %, por debajo del umbral del 15 %. Falta verificar la referencia, el movimiento y el estado de la esfera y la caja. (justo 1700)"
- },
- {
-  "fecha": "2026-11-14T16:51:26.874517+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR 1926 M91650-0002",
-  "total": 2400.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/860143642787",
-  "item_id": "v1|860143642787|0",
-  "referencia": "M91650-0002",
-  "mercado": {
-   "n": 4,
-   "p25": 2098,
-   "mediana": 2129
-  },
-  "triage": {
-   "modelo": "Tudor 1926 (acero, esfera negra texturizada, índices arábigos, fecha a las 3, brazalete tipo Jubilee)",
-   "referencia": "M91650-0002 (no verificable con certeza desde la imagen)",
-   "precio_justo_usd": 2700,
-   "interesante": false,
-   "nota": "Modelo actual de acero con brazalete; el precio pedido de US$2400 está solo ~11% bajo una estimación conservadora de venta real, por debajo del umbral del 15%. Faltan fotos del caso, movimiento y papeles."
-  },
-  "motivo": "triage: Modelo actual de acero con brazalete; el precio pedido de US$2400 está solo ~11% bajo una estimación conservadora de venta real, por debajo del umbral del 15%. Faltan fotos del caso, movimiento y papeles. (justo 2700)"
- },
- {
-  "fecha": "2026-11-14T17:06:38.607012+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 16613 Mens 18K Yellow Gold Stainless Steel Watch Black ",
-  "total": 11999.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/366810018912",
-  "item_id": "v1|366810018912|0",
-  "referencia": "16613",
-  "mercado": {
-   "n": 92,
-   "p25": 11695,
-   "mediana": 12000
-  },
-  "ratio_mercado": 1.026,
-  "motivo": "precio normal (103 % del cuartil bajo de 16613)"
- },
- {
   "fecha": "2026-11-14T17:06:38.607012+00:00",
   "marca": "Rolex",
   "titulo": "2025 RSC Rolex DateJust II 41mm Steel Silver Blue Arabic 116334 BOX + PAPERS",
@@ -10945,5 +10820,124 @@
   },
   "ratio_mercado": 1.167,
   "motivo": "precio normal (117 % del cuartil bajo de 79830RB-0001)"
+ },
+ {
+  "fecha": "2026-11-18T02:09:13.117618+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1990 Rolex Oyster Perpetual Air-King Precision Wristwatch Steel 14000",
+  "total": 4520.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137940645071",
+  "item_id": "v1|137940645071|0",
+  "referencia": "14000",
+  "mercado": {
+   "n": 23,
+   "p25": 4779,
+   "mediana": 4999
+  },
+  "ratio_mercado": 0.946,
+  "motivo": "precio normal (95 % del cuartil bajo de 14000)"
+ },
+ {
+  "fecha": "2026-11-18T02:09:13.117618+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 31mm 1985 Rolex Datejust Mid-Size 29J Automatic Wristwatch Steel 68240",
+  "total": 5650.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137940644090",
+  "item_id": "v1|137940644090|0",
+  "referencia": "68240",
+  "mercado": {
+   "n": 20,
+   "p25": 6025,
+   "mediana": 6710
+  },
+  "ratio_mercado": 0.938,
+  "motivo": "precio normal (94 % del cuartil bajo de 68240)"
+ },
+ {
+  "fecha": "2026-11-18T02:09:13.117618+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 35mm 1959 Rolex Oyster Perpetual Datejust Wristwatch Steel & 18k 6605",
+  "total": 5650.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137940642434",
+  "item_id": "v1|137940642434|0",
+  "referencia": "6605",
+  "mercado": {
+   "n": 11,
+   "p25": 5495,
+   "mediana": 6495
+  },
+  "ratio_mercado": 1.028,
+  "motivo": "precio normal (103 % del cuartil bajo de 6605)"
+ },
+ {
+  "fecha": "2026-11-18T02:09:13.117618+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 36mm 1978 Rolex Datejust 26J Men's Automatic Wristwatch 1575 Steel 1603",
+  "total": 5537.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147685707472",
+  "item_id": "v1|147685707472|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36mm, acero con bisel estriado (posible bisel de oro blanco), esfera plateada con marcadores de bastón, brazalete Jubilee; producción de los años 70",
+   "referencia": "1575 (el título menciona también 1603; la foto no permite confirmarlo)",
+   "precio_justo_usd": 5200,
+   "interesante": false,
+   "nota": "Precio pedido por encima de lo que se vende este Datejust vintage en condición Good. La referencia del título es inconsistente (1575 vs 1603), lo que pide verificar el número de serie y el movimiento."
+  },
+  "motivo": "triage: Precio pedido por encima de lo que se vende este Datejust vintage en condición Good. La referencia del título es inconsistente (1575 vs 1603), lo que pide verificar el número de serie y el movimiento. (justo 5200)"
+ },
+ {
+  "fecha": "2026-11-18T02:09:13.117618+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1989 Rolex Oyster Perpetual Date Automatic Wristwatch Steel & 18k 15223",
+  "total": 6667.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147685705822",
+  "item_id": "v1|147685705822|0",
+  "referencia": "15223",
+  "mercado": {
+   "n": 17,
+   "p25": 6900,
+   "mediana": 7345
+  },
+  "ratio_mercado": 0.966,
+  "motivo": "precio normal (97 % del cuartil bajo de 15223)"
+ },
+ {
+  "fecha": "2026-11-18T02:09:13.117618+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 25mm 1981 Rolex Oyster Perpetual Ladies Automatic Wristwatch 14k 6719",
+  "total": 7910.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147685704129",
+  "item_id": "v1|147685704129|0",
+  "referencia": "6719",
+  "mercado": {
+   "n": 15,
+   "p25": 4300,
+   "mediana": 6495
+  },
+  "ratio_mercado": 1.84,
+  "motivo": "precio normal (184 % del cuartil bajo de 6719)"
+ },
+ {
+  "fecha": "2026-11-18T02:09:13.117618+00:00",
+  "marca": "Cartier",
+  "titulo": "Vintage 24mm Cartier Santos Octagon Ladies Automatic Wristwatch Steel & 18k 0907",
+  "total": 3164.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147685709718",
+  "item_id": "v1|147685709718|0",
+  "triage": {
+   "modelo": "Cartier Santos Octagon dos tonos (acero y oro 18k), versión femenina, esfera blanca con numerales romanos",
+   "referencia": "0907 (según el título; verificar con el reverso de la caja o el interior de la pulsera)",
+   "precio_justo_usd": 2100,
+   "interesante": false,
+   "nota": "El precio pedido de US$3164 con envío está muy por encima del mercado de venta cerrada para este modelo de cuarzo de 24 mm en estado usado. El título habla de automático, pero esta referencia suele ser de cuarzo; verificar el calibre."
+  },
+  "motivo": "triage: El precio pedido de US$3164 con envío está muy por encima del mercado de venta cerrada para este modelo de cuarzo de 24 mm en estado usado. El título habla de automático, pero esta referencia suele ser de cuarzo; verificar el calibre. (justo 2100)"
  }
 ]
