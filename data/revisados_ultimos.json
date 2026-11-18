@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-14T18:36:38.154512+00:00",
   "marca": "Rolex",
-  "titulo": "Vintage 1974 Rolex Submariner No Date Model 5513 - Collectors Dream - unpolished",
-  "total": 14945.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237183037788",
-  "item_id": "v1|237183037788|0",
-  "referencia": "5513",
-  "mercado": {
-   "n": 33,
-   "p25": 11750,
-   "mediana": 14000
-  },
-  "ratio_mercado": 1.272,
-  "motivo": "precio normal (127 % del cuartil bajo de 5513)"
- },
- {
-  "fecha": "2026-11-14T18:36:38.154512+00:00",
-  "marca": "Rolex",
   "titulo": "Vintage 1974 Rolex 1005 34mm with desirable 2 tone bracelet",
   "total": 4238.0,
   "condicion": "Pre-owned - Good",
@@ -10957,5 +10940,22 @@
   },
   "ratio_justo": 0.958,
   "motivo": "precio normal segun revision (96 % del justo 4000)"
+ },
+ {
+  "fecha": "2026-11-18T07:54:23.155692+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 NEW Unworn Tudor  Black Bay Ceramic Bracelet 41mm - M7941A1ACNU-0001",
+  "total": 7800.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/860154255928",
+  "item_id": "v1|860154255928|0",
+  "triage": {
+   "modelo": "Tudor Black Bay Ceramic 41 mm (versión full black, brazalete de cerámica)",
+   "referencia": "M7941A1ACNU-0001 (según el título; no verificable en la imagen)",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "Precio pedido de US$7.800 está muy por encima del mercado secundario para un modelo nuevo de esta referencia (aprox. US$4.000-4.800); no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$7.800 está muy por encima del mercado secundario para un modelo nuevo de esta referencia (aprox. US$4.000-4.800); no es una oportunidad. (justo 4300)"
  }
 ]
