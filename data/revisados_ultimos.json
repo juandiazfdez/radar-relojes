@@ -1,90 +1,5 @@
 [
  {
-  "fecha": "2026-11-16T11:52:46.654907+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ronde Solo De Cartier Quartz Yellow Gold And Alligator Watch",
-  "total": 3995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820360967861",
-  "item_id": "v1|820360967861|0",
-  "triage": {
-   "modelo": "Cartier Ronde Solo de Cartier cuarzo, oro rosa (la foto muestra oro rosa, no amarillo como indica el título), correa de piel negra",
-   "referencia": null,
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "Precio pedido bastante por encima del valor de venta usado; además el título dice oro amarillo y la foto muestra oro rosa, así que hay que verificar material y referencia."
-  },
-  "motivo": "triage: Precio pedido bastante por encima del valor de venta usado; además el título dice oro amarillo y la foto muestra oro rosa, así que hay que verificar material y referencia. (justo 2300)"
- },
- {
-  "fecha": "2026-11-16T11:52:46.654907+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Roadster Automatic Stainless Steel Watch",
-  "total": 3998.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820360967786",
-  "item_id": "v1|820360967786|0",
-  "triage": {
-   "modelo": "Cartier Roadster Automatic (acero, esfera plateada, numerales romanos, ventana de fecha a las 3)",
-   "referencia": "W62041V3 (probable, sin confirmar)",
-   "precio_justo_usd": 3600,
-   "interesante": false,
-   "nota": "El precio pedido de US$3998 queda por encima de lo que este Roadster de acero se vende realmente en EE. UU. en estado Good, así que no ofrece margen de compra."
-  },
-  "motivo": "triage: El precio pedido de US$3998 queda por encima de lo que este Roadster de acero se vende realmente en EE. UU. en estado Good, así que no ofrece margen de compra. (justo 3600)"
- },
- {
-  "fecha": "2026-11-16T11:52:46.654907+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Pelagos Fxd Chronograph Automatic Titanium Watch",
-  "total": 4174.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820360967501",
-  "item_id": "v1|820360967501|0",
-  "triage": {
-   "modelo": "Tudor Pelagos FXD (titanio, esfera negra, correa textil)",
-   "referencia": "M25600TN-0001 (probable, sin confirmar)",
-   "precio_justo_usd": 3600,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de reventa estimado. El título dice 'Chronograph', pero el modelo visible parece ser el FXD no cronógrafo; conviene verificar la referencia."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de reventa estimado. El título dice 'Chronograph', pero el modelo visible parece ser el FXD no cronógrafo; conviene verificar la referencia. (justo 3600)"
- },
- {
-  "fecha": "2026-11-16T11:52:46.654907+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Heritage Black Bay Automatic Stainless Steel Watch",
-  "total": 4087.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820360967402",
-  "item_id": "v1|820360967402|0",
-  "triage": {
-   "modelo": "Tudor Black Bay (aparenta ser variante GMT/24h, acero, esfera negra; identificación no certera a partir de la foto)",
-   "referencia": null,
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido de US$4087 con envío, por encima del rango de venta cerrada estimado para un Tudor de acero usado en estado Good; la referencia exacta no se puede confirmar con la foto."
-  },
-  "motivo": "triage: Precio pedido de US$4087 con envío, por encima del rango de venta cerrada estimado para un Tudor de acero usado en estado Good; la referencia exacta no se puede confirmar con la foto. (justo 3300)"
- },
- {
-  "fecha": "2026-11-16T12:22:47.148256+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 40mm 126710BLNR Batgirl On Jubilee 2022",
-  "total": 18799.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147683129919",
-  "item_id": "v1|147683129919|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 68,
-   "p25": 18354,
-   "mediana": 18900
-  },
-  "ratio_mercado": 1.024,
-  "motivo": "precio normal (102 % del cuartil bajo de 126710BLNR)"
- },
- {
   "fecha": "2026-11-16T12:52:47.248634+00:00",
   "marca": "Rolex",
   "titulo": "Rolex GMT  1675  Gilt Vintage 1966 Steel Jubilee Watch 40mm",
@@ -10860,5 +10775,90 @@
   },
   "ratio_mercado": 3.03,
   "motivo": "precio normal (303 % del cuartil bajo de 2385)"
+ },
+ {
+  "fecha": "2026-11-18T22:09:43.479807+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 16233 / 36mm / Steel & Gold / Watch Only",
+  "total": 6035.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227620836536",
+  "item_id": "v1|227620836536|0",
+  "referencia": "16233",
+  "mercado": {
+   "n": 27,
+   "p25": 5599,
+   "mediana": 6095
+  },
+  "ratio_mercado": 1.078,
+  "motivo": "precio normal (108 % del cuartil bajo de 16233)"
+ },
+ {
+  "fecha": "2026-11-18T22:09:43.479807+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona 116503 Two-Tone 18k Yellow Gold & Stainless Steel 2020 B&P",
+  "total": 25900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840142946702",
+  "item_id": "v1|840142946702|0",
+  "referencia": "116503",
+  "mercado": {
+   "n": 23,
+   "p25": 21294,
+   "mediana": 22900
+  },
+  "ratio_mercado": 1.216,
+  "motivo": "precio normal (122 % del cuartil bajo de 116503)"
+ },
+ {
+  "fecha": "2026-11-18T22:09:43.479807+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Lady-Datejust 26mm – Ref. 69160 | 1997 Oyster Perpetual | Stainless Steel",
+  "total": 4200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206711420280",
+  "item_id": "v1|206711420280|0",
+  "referencia": "69160",
+  "mercado": {
+   "n": 8,
+   "p25": 4150,
+   "mediana": 4868
+  },
+  "ratio_mercado": 1.012,
+  "motivo": "precio normal (101 % del cuartil bajo de 69160)"
+ },
+ {
+  "fecha": "2026-11-18T22:09:43.479807+00:00",
+  "marca": "Rolex",
+  "titulo": "1989 Rolex Datejust 16013 36MM Fluted Jubilee Two-Tone 18K Yg",
+  "total": 6700.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820370488943",
+  "item_id": "v1|820370488943|0",
+  "referencia": "16013",
+  "mercado": {
+   "n": 22,
+   "p25": 1815,
+   "mediana": 4531
+  },
+  "ratio_mercado": 3.691,
+  "motivo": "precio normal (369 % del cuartil bajo de 16013)"
+ },
+ {
+  "fecha": "2026-11-18T22:09:43.479807+00:00",
+  "marca": "Rolex",
+  "titulo": "1999 Rolex Datejust #16220 Stainless Steel Automatic Watch 36MM + Box",
+  "total": 6120.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/377657200144",
+  "item_id": "v1|377657200144|0",
+  "referencia": "16220",
+  "mercado": {
+   "n": 30,
+   "p25": 6028,
+   "mediana": 7412
+  },
+  "ratio_mercado": 1.015,
+  "motivo": "precio normal (102 % del cuartil bajo de 16220)"
  }
 ]
