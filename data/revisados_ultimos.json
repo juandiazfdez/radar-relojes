@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-16T21:53:06.626700+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Heritage Black Bay 79230N Automatic Men's Watch 41MM",
-  "total": 3499.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840135849601",
-  "item_id": "v1|840135849601|0",
-  "referencia": "79230N",
-  "mercado": {
-   "n": 17,
-   "p25": 3375,
-   "mediana": 3695
-  },
-  "ratio_mercado": 1.037,
-  "motivo": "precio normal (104 % del cuartil bajo de 79230N)"
- },
- {
-  "fecha": "2026-11-16T22:23:06.815782+00:00",
-  "marca": "Rolex",
-  "titulo": "2025 Rolex Day-Date 40 40mm Rose Gold 228345RBR-0011",
-  "total": 67995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880124201119",
-  "item_id": "v1|880124201119|0",
-  "referencia": "228345RBR",
-  "mercado": {
-   "n": 8,
-   "p25": 74500,
-   "mediana": 75475
-  },
-  "ratio_mercado": 0.913,
-  "motivo": "precio normal (91 % del cuartil bajo de 228345RBR)"
- },
- {
-  "fecha": "2026-11-16T22:23:06.815782+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex GMT-Master II 126713GRNR “Zombie” – Brand New / Unworn – Full Set",
-  "total": 22650.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/920150242435",
-  "item_id": "v1|920150242435|0",
-  "referencia": "126713GRNR",
-  "mercado": {
-   "n": 24,
-   "p25": 23995,
-   "mediana": 24942
-  },
-  "ratio_mercado": 0.944,
-  "motivo": "precio normal (94 % del cuartil bajo de 126713GRNR)"
- },
- {
   "fecha": "2026-11-16T22:23:06.815782+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Cosmograph Daytona (126508-0008)",
@@ -10862,5 +10811,62 @@
    "nota": "Precio pedido US$5950 muy por encima del valor estimado; el oro y el estado no justifican ese precio. Sin referencia visible ni confirmación de funcionamiento."
   },
   "motivo": "triage: Precio pedido US$5950 muy por encima del valor estimado; el oro y el estado no justifican ese precio. Sin referencia visible ni confirmación de funcionamiento. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-19T18:55:29.152165+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sea-Dweller Deepsea Challenge UNWORN 2026 50 Black Oyster Titanium 126067",
+  "total": 40795.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/198808456390",
+  "item_id": "v1|198808456390|0",
+  "referencia": "126067",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Sea-Dweller Deepsea (acero, bisel Cerachrom negro, esfera negra)",
+   "referencia": "126067",
+   "precio_justo_usd": 18000,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del mercado. La ref. 126067 es de acero, no titanio como dice el título, y el año 2026 no encaja con un modelo de esa ref. Listado inconsistente; no es oportunidad."
+  },
+  "motivo": "triage: Precio pedido muy por encima del mercado. La ref. 126067 es de acero, no titanio como dice el título, y el año 2026 no encaja con un modelo de esa ref. Listado inconsistente; no es oportunidad. (justo 18000)"
+ },
+ {
+  "fecha": "2026-11-19T18:55:29.152165+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 58 Burgundy B&P 39mm M7939A1A0RU-0001 Warranty until 2031!",
+  "total": 4722.01,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168873476974",
+  "item_id": "v1|168873476974|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 Burgundy (bisel burdeos, esfera oscura, brazalete Jubilee, 39 mm)",
+   "referencia": "M7939A1A0RU-0001",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Precio pedido de US$4722 muy por encima del valor de venta cerrada en EE. UU. para un Black Bay 58 Burgundy con caja y papeles, aunque el reloj parece auténtico."
+  },
+  "motivo": "triage: Precio pedido de US$4722 muy por encima del valor de venta cerrada en EE. UU. para un Black Bay 58 Burgundy con caja y papeles, aunque el reloj parece auténtico. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-19T18:55:29.152165+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay Men's Automatic Chronometer 41mm Black Dial/Bezel Steel",
+  "total": 3600.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147688379410",
+  "item_id": "v1|147688379410|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 41 (esfera negra, bisel negro, brazalete de acero)",
+   "referencia": "M79030N-0001 (probable, sin confirmar desde la foto)",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Precio pedido de US$3600 supera el valor de mercado secundario estimado para estado excelente; no cumple el umbral del 15 % de descuento."
+  },
+  "motivo": "triage: Precio pedido de US$3600 supera el valor de mercado secundario estimado para estado excelente; no cumple el umbral del 15 % de descuento. (justo 3200)"
  }
 ]
