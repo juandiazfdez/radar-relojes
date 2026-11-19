@@ -1,103 +1,5 @@
 [
  {
-  "fecha": "2026-11-17T18:08:36.668795+00:00",
-  "marca": "Rolex",
-  "titulo": "1979 Rolex Day-Date President 18078 36mm Champagne Spanish 18K Yellow Gold Watch",
-  "total": 15488.28,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267846175094",
-  "item_id": "v1|267846175094|0",
-  "referencia": "18078",
-  "mercado": {
-   "n": 17,
-   "p25": 16557,
-   "mediana": 17950
-  },
-  "ratio_mercado": 0.935,
-  "motivo": "precio normal (94 % del cuartil bajo de 18078)"
- },
- {
-  "fecha": "2026-11-17T18:08:36.668795+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Monarch 15900 Quartz Chronograph Box & Papers C. 1999-2005",
-  "total": 3800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940100174891",
-  "item_id": "v1|940100174891|0",
-  "referencia": "15900",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Tudor Monarch cronógrafo de cuarzo (esfera azul, subesferas plateadas, brazalete de acero)",
-   "referencia": "15900",
-   "precio_justo_usd": 1500,
-   "interesante": false,
-   "nota": "Cuarzo de finales de los 90 con caja y papeles, de valor moderado; US$3.800 está muy por encima del precio de venta cerrada, y la foto no permite confirmar la referencia."
-  },
-  "motivo": "triage: Cuarzo de finales de los 90 con caja y papeles, de valor moderado; US$3.800 está muy por encima del precio de venta cerrada, y la foto no permite confirmar la referencia. (justo 1500)"
- },
- {
-  "fecha": "2026-11-17T18:08:36.668795+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Chrono 79360N Reverse Panda 41mm Steel 2021 Full Set Box Papers",
-  "total": 4601.41,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227618931605",
-  "item_id": "v1|227618931605|0",
-  "referencia": "79360N",
-  "mercado": {
-   "n": 53,
-   "p25": 4675,
-   "mediana": 5495
-  },
-  "ratio_mercado": 0.984,
-  "motivo": "precio normal (98 % del cuartil bajo de 79360N)"
- },
- {
-  "fecha": "2026-11-17T18:08:36.668795+00:00",
-  "marca": "Tudor",
-  "titulo": "2022 Tudor Black Bay GMT Pepsi Red Blue Steel 41mm Leather Watch 79830RB B+P",
-  "total": 3099.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267846176687",
-  "item_id": "v1|267846176687|0",
-  "referencia": "79830RB B+P",
-  "mercado": {
-   "n": 54,
-   "p25": 3768,
-   "mediana": 4000
-  },
-  "ratio_mercado": 0.822,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 3150,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Buen estado visual, sin brazalete original, con caja y papeles aparentes"
-  },
-  "ratio_justo": 0.984,
-  "motivo": "precio normal segun revision (98 % del justo 3150)"
- },
- {
-  "fecha": "2026-11-17T18:23:37.485239+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 26mm Champagne Index Fluted President Watch&Box 179178",
-  "total": 19995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198803109145",
-  "item_id": "v1|198803109145|0",
-  "referencia": "179178",
-  "mercado": {
-   "n": 16,
-   "p25": 19270,
-   "mediana": 20495
-  },
-  "ratio_mercado": 1.038,
-  "motivo": "precio normal (104 % del cuartil bajo de 179178)"
- },
- {
   "fecha": "2026-11-17T18:23:37.485239+00:00",
   "marca": "Rolex",
   "titulo": "2024 Rolex Submariner 126610 LV 41mm Green Kermit Steel Ceramic Box Papers",
@@ -10971,5 +10873,90 @@
   },
   "ratio_justo": 0.985,
   "motivo": "precio normal segun revision (98 % del justo 1700)"
+ },
+ {
+  "fecha": "2026-11-19T23:10:28.622603+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex President Datejust Yellow Gold Diamond Ladies Watch 179178 Papers",
+  "total": 23980.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257861467779",
+  "item_id": "v1|257861467779|0",
+  "referencia": "179178",
+  "mercado": {
+   "n": 17,
+   "p25": 19270,
+   "mediana": 19995
+  },
+  "ratio_mercado": 1.244,
+  "motivo": "precio normal (124 % del cuartil bajo de 179178)"
+ },
+ {
+  "fecha": "2026-11-19T23:10:28.622603+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1963 Tudor Oyster Princess 7980 Automatic  Rolex Oyster Case 22mm Chic ",
+  "total": 1014.8,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377659995304",
+  "item_id": "v1|377659995304|0",
+  "triage": {
+   "modelo": "Tudor Oyster Princess (ref. 7980), automático, caja de chapa de oro, mujer, años 60",
+   "referencia": "7980",
+   "precio_justo_usd": 650,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor estimado para una Tudor Princess 7980 de chapa de oro en estado Good. El título menciona Rolex, pero el reloj es Tudor; conviene verificar material de la caja y funcionamiento."
+  },
+  "motivo": "triage: Precio pedido por encima del valor estimado para una Tudor Princess 7980 de chapa de oro en estado Good. El título menciona Rolex, pero el reloj es Tudor; conviene verificar material de la caja y funcionamiento. (justo 650)"
+ },
+ {
+  "fecha": "2026-11-19T23:10:28.622603+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Ladies Datejust 31mm Stainless Factory Diamond Watch 178274 Box & Books",
+  "total": 12049.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880134498179",
+  "item_id": "v1|880134498179|0",
+  "referencia": "178274",
+  "mercado": {
+   "n": 52,
+   "p25": 10750,
+   "mediana": 11674
+  },
+  "ratio_mercado": 1.121,
+  "motivo": "precio normal (112 % del cuartil bajo de 178274)"
+ },
+ {
+  "fecha": "2026-11-19T23:10:28.622603+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos WSSA0039 Large Auto Steel Black ADLC Watch BOX/PAPERS MINT 2023",
+  "total": 8500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900105383928",
+  "item_id": "v1|900105383928|0",
+  "referencia": "WSSA0039",
+  "mercado": {
+   "n": 5,
+   "p25": 7838,
+   "mediana": 7838
+  },
+  "ratio_mercado": 1.084,
+  "motivo": "precio normal (108 % del cuartil bajo de WSSA0039)"
+ },
+ {
+  "fecha": "2026-11-19T23:10:28.622603+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier SANTOS XL Stainless Steel Bustdown 22 CTW VS+ Lab Diamonds",
+  "total": 8500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257859544194",
+  "item_id": "v1|257859544194|0",
+  "triage": {
+   "modelo": "Cartier Santos XL de acero con bustdown de diamantes de laboratorio (modificación aftermarket)",
+   "referencia": "null",
+   "precio_justo_usd": 5500,
+   "interesante": false,
+   "nota": "La foto solo muestra la caja; el bisel no parece tener diamantes. El bustdown de lab diamonds es una modificación que casi no suma valor de reventa, y el precio de US$8500 supera el valor del Santos XL de acero usado."
+  },
+  "motivo": "triage: La foto solo muestra la caja; el bisel no parece tener diamantes. El bustdown de lab diamonds es una modificación que casi no suma valor de reventa, y el precio de US$8500 supera el valor del Santos XL de acero usado. (justo 5500)"
  }
 ]
