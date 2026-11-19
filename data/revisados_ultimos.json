@@ -1,63 +1,6 @@
 [
  {
   "fecha": "2026-11-16T19:07:57.285674+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex DateJust 16013 Silver Two-Tone Stainless Steel Fluted Gold 36mm Watch",
-  "total": 4472.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267845392335",
-  "item_id": "v1|267845392335|0",
-  "referencia": "16013",
-  "mercado": {
-   "n": 20,
-   "p25": 3859,
-   "mediana": 4645
-  },
-  "ratio_mercado": 1.159,
-  "motivo": "precio normal (116 % del cuartil bajo de 16013)"
- },
- {
-  "fecha": "2026-11-16T19:07:57.285674+00:00",
-  "marca": "Rolex",
-  "titulo": "2014 Rolex Submariner Date HULK 116610 LV Green Steel 40mm Watch Box Papers",
-  "total": 20486.79,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960204533595",
-  "item_id": "v1|960204533595|0",
-  "referencia": "116610",
-  "mercado": {
-   "n": 45,
-   "p25": 12428,
-   "mediana": 12632
-  },
-  "ratio_mercado": 1.648,
-  "motivo": "precio normal (165 % del cuartil bajo de 116610)"
- },
- {
-  "fecha": "2026-11-16T19:07:57.285674+00:00",
-  "marca": "Cartier",
-  "titulo": "2019 Cartier Santos 4072 / W2SA0006 White Two-Tone 39.8mm Watch Box Papers",
-  "total": 9878.36,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267845392336",
-  "item_id": "v1|267845392336|0",
-  "referencia": "W2SA0006",
-  "mercado": {
-   "n": 2,
-   "p25": 10995,
-   "mediana": 12445
-  },
-  "triage": {
-   "modelo": "Cartier Santos de Cartier Large (39.8 mm) acero y oro amarillo, esfera plateada de números romanos, automático, 2019",
-   "referencia": "W2SA0006",
-   "precio_justo_usd": 6800,
-   "interesante": false,
-   "nota": "Precio pedido de US$9,878 muy por encima del valor de venta real de esta referencia usada con caja y papeles (aprox. US$6,000-7,500)."
-  },
-  "motivo": "triage: Precio pedido de US$9,878 muy por encima del valor de venta real de esta referencia usada con caja y papeles (aprox. US$6,000-7,500). (justo 6800)"
- },
- {
-  "fecha": "2026-11-16T19:07:57.285674+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay 58 79030N Men's 39mm Wristwatch w/ Box & Hangtag",
   "total": 3600.0,
@@ -10850,5 +10793,56 @@
   },
   "ratio_mercado": 0.923,
   "motivo": "precio normal (92 % del cuartil bajo de 126234)"
+ },
+ {
+  "fecha": "2026-11-19T07:10:07.605543+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex Oyster Perpetual Air-King",
+  "total": 3495.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920159312738",
+  "item_id": "v1|920159312738|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual vintage bicolor (acero y bisel dorado estriado); posible discrepancia con el título Air-King",
+   "referencia": null,
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "La foto muestra bisel dorado estriado, que no coincide con el Air-King 5500 de bisel liso de acero. Hay que verificar la referencia y el calibre antes de comprar. El precio pedido no está al menos 15 % por debajo del mercado."
+  },
+  "motivo": "triage: La foto muestra bisel dorado estriado, que no coincide con el Air-King 5500 de bisel liso de acero. Hay que verificar la referencia y el calibre antes de comprar. El precio pedido no está al menos 15 % por debajo del mercado. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-19T07:10:07.605543+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Must de Cartier Tank Quartz Watch Stainless Steel 22",
+  "total": 5135.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117529810126",
+  "item_id": "v1|117529810126|0",
+  "triage": {
+   "modelo": "Cartier Tank Must de Cartier, tamaño 22 (SM), cuarzo, acero, esfera plateada con números romanos y cabujón de zafiro azul en la corona",
+   "referencia": "WSTA0005 (probable; verificar con el caso y el reverso)",
+   "precio_justo_usd": 2200,
+   "interesante": false,
+   "nota": "Pre-owned de acero a US$5,135 con envío está muy por encima de su valor de venta cerrada, que ronda US$1,800-2,600 según estado y papeles."
+  },
+  "motivo": "triage: Pre-owned de acero a US$5,135 con envío está muy por encima de su valor de venta cerrada, que ronda US$1,800-2,600 según estado y papeles. (justo 2200)"
+ },
+ {
+  "fecha": "2026-11-19T07:10:07.605543+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 54 Lagoon Blue Jubilee Bracelet 37mm M79000-0001",
+  "total": 5350.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860157511061",
+  "item_id": "v1|860157511061|0",
+  "referencia": "M79000-0001",
+  "mercado": {
+   "n": 14,
+   "p25": 5095,
+   "mediana": 5448
+  },
+  "ratio_mercado": 1.05,
+  "motivo": "precio normal (105 % del cuartil bajo de M79000-0001)"
  }
 ]
