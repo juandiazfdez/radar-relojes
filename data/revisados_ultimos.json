@@ -1,69 +1,6 @@
 [
  {
   "fecha": "2026-11-16T21:53:06.626700+00:00",
-  "marca": "Rolex",
-  "titulo": "2017 PAPERS MINT Rolex 116710LN GMT Master II Steel Ceramic Black 40mm Watch Box",
-  "total": 15142.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940097841946",
-  "item_id": "v1|940097841946|0",
-  "referencia": "116710LN",
-  "mercado": {
-   "n": 38,
-   "p25": 13990,
-   "mediana": 15000
-  },
-  "ratio_mercado": 1.082,
-  "motivo": "precio normal (108 % del cuartil bajo de 116710LN)"
- },
- {
-  "fecha": "2026-11-16T21:53:06.626700+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date President 1803 Bark Champagne 18K Yellow Gold 36mm Watch",
-  "total": 15998.38,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267845498001",
-  "item_id": "v1|267845498001|0",
-  "triage": {
-   "modelo": "Rolex Day-Date (President) 36 mm, oro amarillo 18K, bisel acanalado, esfera champán, pulsera President con acabado bark, día en inglés (Monday)",
-   "referencia": "1803",
-   "precio_justo_usd": 21000,
-   "interesante": true,
-   "nota": "Ref. 1803 en oro amarillo con acabado bark y esfera champán; precio pedido ~24 % bajo estimado de venta cerrada. Verificar autenticidad, números de serie y estado del movimiento antes de comprar."
-  },
-  "referencia": "1803",
-  "mercado": {
-   "n": 25,
-   "p25": 9989,
-   "mediana": 11240
-  },
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 15500,
-   "riesgo_autenticidad": "medio",
-   "estado": "Buen estado vintage, sin caja ni papeles originales; faltan fotos del fondo de caja y del movimiento"
-  },
-  "motivo": "el mercado de su referencia no lo confirma (160 % del cuartil bajo)"
- },
- {
-  "fecha": "2026-11-16T21:53:06.626700+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise Midsize Steel Yellow Gold Ladies Watch W51012Q4",
-  "total": 5710.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257855689294",
-  "item_id": "v1|257855689294|0",
-  "triage": {
-   "modelo": "Cartier Tank Française Midsize acero y oro amarillo (cuarzo, con fecha)",
-   "referencia": "W51012Q4",
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "Modelo de cuarzo de acero y oro amarillo que se vende de usado en unos US$1,800-2,600 según estado, caja y papeles; el precio pedido de US$5,710 está muy por encima del mercado."
-  },
-  "motivo": "triage: Modelo de cuarzo de acero y oro amarillo que se vende de usado en unos US$1,800-2,600 según estado, caja y papeles; el precio pedido de US$5,710 está muy por encima del mercado. (justo 2300)"
- },
- {
-  "fecha": "2026-11-16T21:53:06.626700+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR Heritage Black Bay 79230N Automatic Men's Watch 41MM",
   "total": 3499.99,
@@ -10868,5 +10805,62 @@
    "nota": "Precio pedido de US$4653 supera claramente el valor de mercado de esta referencia de segunda mano; no hay descuento para considerar."
   },
   "motivo": "triage: Precio pedido de US$4653 supera claramente el valor de mercado de esta referencia de segunda mano; no hay descuento para considerar. (justo 3600)"
+ },
+ {
+  "fecha": "2026-11-19T18:40:29.476289+00:00",
+  "marca": "Rolex",
+  "titulo": "2023 Rolex Datejust 41mm 126334 - Black - Fluted - Oyster - Full Set Watch",
+  "total": 14599.95,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257861132779",
+  "item_id": "v1|257861132779|0",
+  "referencia": "126334",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 41 (bisel acanalado, esfera negra, Oyster; el listado indica oro blanco y acero)",
+   "referencia": "126334",
+   "precio_justo_usd": 13000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta real estimado para 126334 con caja y papeles; la foto parece mostrar un bisel liso, así que conviene verificar la referencia."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta real estimado para 126334 con caja y papeles; la foto parece mostrar un bisel liso, así que conviene verificar la referencia. (justo 13000)"
+ },
+ {
+  "fecha": "2026-11-19T18:40:29.476289+00:00",
+  "marca": "Rolex",
+  "titulo": "14K Yellow Gold Vintage Rolex Watch 15mm",
+  "total": 5950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307290886828",
+  "item_id": "v1|307290886828|0",
+  "triage": {
+   "modelo": "Rolex vintage de dama, caja cuadrada de oro amarillo 14K con pulsera de malla (aprox. años 60-70)",
+   "referencia": null,
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Precio pedido de US$5950 muy por encima del valor típico de este modelo vintage de oro 14K en estado Good; la referencia exacta no se identifica en la foto."
+  },
+  "motivo": "triage: Precio pedido de US$5950 muy por encima del valor típico de este modelo vintage de oro 14K en estado Good; la referencia exacta no se identifica en la foto. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-19T18:40:29.476289+00:00",
+  "marca": "Rolex",
+  "titulo": "14K Yellow Gold Vintage Rolex Watch 15mm",
+  "total": 5950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377659585733",
+  "item_id": "v1|377659585733|0",
+  "triage": {
+   "modelo": "Rolex vintage de dama, caja cuadrada en oro amarillo 14K con brazalete de malla dorada (aprox. años 1950-60)",
+   "referencia": null,
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Precio pedido US$5950 muy por encima del valor estimado; el oro y el estado no justifican ese precio. Sin referencia visible ni confirmación de funcionamiento."
+  },
+  "motivo": "triage: Precio pedido US$5950 muy por encima del valor estimado; el oro y el estado no justifican ese precio. Sin referencia visible ni confirmación de funcionamiento. (justo 2800)"
  }
 ]
