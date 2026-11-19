@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-16T19:22:57.842761+00:00",
-  "marca": "Cartier",
-  "titulo": "42185: Cartier Small Ladies Ballon Bleu 28mm, Quartz, Ref. W69010Z4",
-  "total": 3700.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237186538907",
-  "item_id": "v1|237186538907|0",
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 28 mm, cuarzo, acero, esfera plateada con numeración romana",
-   "referencia": "W69010Z4",
-   "precio_justo_usd": 2900,
-   "interesante": false,
-   "nota": "Precio pedido de US$3700 con envío está unos 25-30 % por encima de lo que se vende esta referencia de acero en el mercado usado de EE. UU."
-  },
-  "motivo": "triage: Precio pedido de US$3700 con envío está unos 25-30 % por encima de lo que se vende esta referencia de acero en el mercado usado de EE. UU. (justo 2900)"
- },
- {
-  "fecha": "2026-11-16T19:22:57.842761+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR Black Bay 54 Men's Watch 37mm,  M79000N-0001, S17240",
   "total": 4450.0,
@@ -10845,5 +10828,28 @@
    "nota": "Precio pedido muy por debajo del mercado para un Datejust 36 de acero con esfera de diamantes; la foto es pequeña y la referencia no se distingue, así que se recomienda verificar autenticidad y número de serie antes de comprar."
   },
   "motivo": "triage: Precio pedido muy por debajo del mercado para un Datejust 36 de acero con esfera de diamantes; la foto es pequeña y la referencia no se distingue, así que se recomienda verificar autenticidad y número de serie antes de comprar. (justo 7000)"
+ },
+ {
+  "fecha": "2026-11-19T11:10:07.908302+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos-Dumont XL Stainless Steel Watch, WSSA0032",
+  "total": 6355.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407373551785",
+  "item_id": "v1|407373551785|0",
+  "referencia": "WSSA0032",
+  "mercado": {
+   "n": 4,
+   "p25": 6888,
+   "mediana": 6976
+  },
+  "triage": {
+   "modelo": "Cartier Santos-Dumont XL, acero, con caja y papeles (la foto muestra caja, folleto y tarjeta de garantía)",
+   "referencia": "WSSA0032 (según título, no verificable en la foto)",
+   "precio_justo_usd": 5600,
+   "interesante": false,
+   "nota": "Precio pedido US$6355 con envío, por encima de la venta real estimada para estado Good con caja y papeles. Verificar referencia y autenticidad del número de serie."
+  },
+  "motivo": "triage: Precio pedido US$6355 con envío, por encima de la venta real estimada para estado Good con caja y papeles. Verificar referencia y autenticidad del número de serie. (justo 5600)"
  }
 ]
