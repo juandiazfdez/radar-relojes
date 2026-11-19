@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-16T17:52:57.100516+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Datejust 26 Steel White Gold Diamond Ladies Watch 179384",
-  "total": 13380.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257855434811",
-  "item_id": "v1|257855434811|0",
-  "referencia": "179384",
-  "mercado": {
-   "n": 9,
-   "p25": 12495,
-   "mediana": 12938
-  },
-  "ratio_mercado": 1.071,
-  "motivo": "precio normal (107 % del cuartil bajo de 179384)"
- },
- {
-  "fecha": "2026-11-16T17:52:57.100516+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 31 Olive Green Diamond Scattered Diamond Two Tone Gold Oyster",
-  "total": 27495.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800926053943",
-  "item_id": "v1|800926053943|0",
-  "triage": {
-   "modelo": "Rolex Datejust 31 bicolor acero y oro amarillo, esfera verde oliva, bisel acanalado (según la foto)",
-   "referencia": "278273 (probable; verificar si la esfera tiene diamantes, en cuyo caso podría ser 278383)",
-   "precio_justo_usd": 13500,
-   "interesante": false,
-   "nota": "El precio pedido de US$27.495 duplica con creces el valor de mercado de este modelo; el título menciona diamantes que no parecen coincidir con la foto."
-  },
-  "motivo": "triage: El precio pedido de US$27.495 duplica con creces el valor de mercado de este modelo; el título menciona diamantes que no parecen coincidir con la foto. (justo 13500)"
- },
- {
-  "fecha": "2026-11-16T17:52:57.100516+00:00",
-  "marca": "Rolex",
   "titulo": "(MA5) Rolex Submariner Date 40mm | 18K Yellow Gold & Stainless Steel (116613LB)",
   "total": 13999.99,
   "condicion": "Pre-owned - Good",
@@ -10844,5 +10810,45 @@
   },
   "ratio_mercado": 1.664,
   "motivo": "precio normal (166 % del cuartil bajo de 18038)"
+ },
+ {
+  "fecha": "2026-11-19T04:54:55.847559+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oysterdate Precision",
+  "total": 3400.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920158991137",
+  "item_id": "v1|920158991137|0",
+  "triage": {
+   "modelo": "Rolex Oysterdate Precision (acero, fecha, cuerda manual, esfera plateada texturizada, correa de piel)",
+   "referencia": "6694 (probable, no verificable en la foto)",
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor estimado; sin caja, papeles ni fotos del movimiento o la caja para verificar estado y autenticidad."
+  },
+  "motivo": "triage: Precio pedido por encima del valor estimado; sin caja, papeles ni fotos del movimiento o la caja para verificar estado y autenticidad. (justo 2600)"
+ },
+ {
+  "fecha": "2026-11-19T04:54:55.847559+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Prince Date+Day 76200",
+  "total": 3300.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920158974568",
+  "item_id": "v1|920158974568|0",
+  "referencia": "76200",
+  "mercado": {
+   "n": 3,
+   "p25": 3450,
+   "mediana": 5671
+  },
+  "triage": {
+   "modelo": "Tudor Prince Date+Day (según título; la imagen es pequeña y no permite confirmar el complicación de día)",
+   "referencia": "76200",
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "Esfera azul, brazalete de acero; el precio de US$3300 está por encima del valor de venta cerrada estimado para esta referencia en estado excelente. Confirmar referencia y la función de día en fotos más nítidas."
+  },
+  "motivo": "triage: Esfera azul, brazalete de acero; el precio de US$3300 está por encima del valor de venta cerrada estimado para esta referencia en estado excelente. Confirmar referencia y la función de día en fotos más nítidas. (justo 2400)"
  }
 ]
