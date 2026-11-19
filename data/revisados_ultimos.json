@@ -1,68 +1,5 @@
 [
  {
-  "fecha": "2026-11-16T18:22:57.417661+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank 2303 Francaise Chronograph 28 mm Steel Quartz Wrist Watch",
-  "total": 4255.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137936680211",
-  "item_id": "v1|137936680211|0",
-  "referencia": "2303",
-  "mercado": {
-   "n": 30,
-   "p25": 3850,
-   "mediana": 4100
-  },
-  "ratio_mercado": 1.105,
-  "motivo": "precio normal (111 % del cuartil bajo de 2303)"
- },
- {
-  "fecha": "2026-11-16T18:22:57.417661+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu de Cartier W6920025",
-  "total": 5377.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307285682883",
-  "item_id": "v1|307285682883|0",
-  "referencia": "W6920025",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu de Cartier cronógrafo, acero, esfera negra, numerales romanos (42 mm aprox.)",
-   "referencia": "W6920025",
-   "precio_justo_usd": 5600,
-   "interesante": false,
-   "nota": "Precio cercano al mercado para esta referencia en estado Good; la referencia debe confirmarse en el fondo de caja y el precio sube si incluye caja y papeles."
-  },
-  "motivo": "triage: Precio cercano al mercado para esta referencia en estado Good; la referencia debe confirmarse en el fondo de caja y el precio sube si incluye caja y papeles. (justo 5600)"
- },
- {
-  "fecha": "2026-11-16T18:37:57.572123+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Cosmograph Daytona 116500LN - Excellent Condition - Rolex Serviced 2026",
-  "total": 29000.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/920149673228",
-  "item_id": "v1|920149673228|0",
-  "referencia": "116500LN",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Cosmograph Daytona (bisel de cerámica negra, esfera negra, brazalete de acero, con caja y documentación)",
-   "referencia": "116500LN",
-   "precio_justo_usd": 27000,
-   "interesante": false,
-   "nota": "Precio pedido cerca del valor de mercado, no 15% por debajo; 'seller refurbished' reduce el valor frente a un servicio oficial Rolex."
-  },
-  "motivo": "triage: Precio pedido cerca del valor de mercado, no 15% por debajo; 'seller refurbished' reduce el valor frente a un servicio oficial Rolex. (justo 27000)"
- },
- {
   "fecha": "2026-11-16T18:37:57.572123+00:00",
   "marca": "Cartier",
   "titulo": "42134: Cartier Medium Ballon Bleu 33mm, Ref. W6920084, Quartz, Box and 2020 Card",
@@ -10862,5 +10799,62 @@
    "nota": "Nuevo con caja y papeles, se vende cerca de retail o algo por encima en gris; US$9,715 es casi el doble, así que no hay descuento."
   },
   "motivo": "triage: Nuevo con caja y papeles, se vende cerca de retail o algo por encima en gris; US$9,715 es casi el doble, así que no hay descuento. (justo 5200)"
+ },
+ {
+  "fecha": "2026-11-19T06:09:55.604916+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona \"2018\" 116500LN",
+  "total": 29614.54,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237191779424",
+  "item_id": "v1|237191779424|0",
+  "referencia": "116500LN",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Daytona (acero, bisel de cerámica negra, esfera negra)",
+   "referencia": "116500LN",
+   "precio_justo_usd": 28500,
+   "interesante": false,
+   "nota": "Referencia 116500LN de acero con bisel cerámico, con precio de venta cerrada cercano a US$28-30k según estado y papeles; el listado está algo por encima de ese rango."
+  },
+  "motivo": "triage: Referencia 116500LN de acero con bisel cerámico, con precio de venta cerrada cercano a US$28-30k según estado y papeles; el listado está algo por encima de ese rango. (justo 28500)"
+ },
+ {
+  "fecha": "2026-11-19T06:09:55.604916+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu W69016Z4",
+  "total": 3300.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168870305551",
+  "item_id": "v1|168870305551|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu (acero, esfera plateada, numerales romanos, fecha, correa de piel negra)",
+   "referencia": "W69016Z4 (según el título; no verificable en la foto)",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Precio pedido en línea con el mercado de segunda mano para este modelo en acero con correa; no hay descuento de al menos 15%."
+  },
+  "motivo": "triage: Precio pedido en línea con el mercado de segunda mano para este modelo en acero con correa; no hay descuento de al menos 15%. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-19T06:09:55.604916+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 GMT \"Coke\" 7939G1A0NRU",
+  "total": 4348.34,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336905094931",
+  "item_id": "v1|336905094931|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 GMT \"Coke\" (bisel negro/rojo, brazalete de acero)",
+   "referencia": "7939G1A0NRU",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "Precio pedido cerca del retail; de segunda mano en buen estado se vende bastante por debajo. Referencia tomada del título, no verificable en la imagen."
+  },
+  "motivo": "triage: Precio pedido cerca del retail; de segunda mano en buen estado se vende bastante por debajo. Referencia tomada del título, no verificable en la imagen. (justo 3400)"
  }
 ]
