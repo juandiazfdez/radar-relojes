@@ -1,171 +1,5 @@
 [
  {
-  "fecha": "2026-11-17T00:08:07.295845+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 58 Blue 79030B - 2024 Box & Papers",
-  "total": 3525.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407368188406",
-  "item_id": "v1|407368188406|0",
-  "referencia": "79030B",
-  "mercado": {
-   "n": 13,
-   "p25": 3495,
-   "mediana": 3595
-  },
-  "ratio_mercado": 1.009,
-  "motivo": "precio normal (101 % del cuartil bajo de 79030B)"
- },
- {
-  "fecha": "2026-11-17T00:08:07.295845+00:00",
-  "marca": "Tudor",
-  "titulo": "Vintage Tudor Men's Two-Tone Oyster 4463 w/ Expansion Bracelet",
-  "total": 1999.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287734722968",
-  "item_id": "v1|287734722968|0",
-  "triage": {
-   "modelo": "Tudor Oyster vintage bicolor (acero y chapa de oro) con brazalete extensible",
-   "referencia": "4463 (según el título; no verificable en la foto)",
-   "precio_justo_usd": 1100,
-   "interesante": false,
-   "nota": "Precio pedido US$2000 bastante por encima del valor de venta real estimado; la referencia y la autenticidad no se pueden confirmar solo con la foto."
-  },
-  "motivo": "triage: Precio pedido US$2000 bastante por encima del valor de venta real estimado; la referencia y la autenticidad no se pueden confirmar solo con la foto. (justo 1100)"
- },
- {
-  "fecha": "2026-11-17T00:23:07.345118+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex Explorer 40mm Stainless Steel Black 224270 Unworn Complete Set",
-  "total": 8950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/860150399844",
-  "item_id": "v1|860150399844|0",
-  "referencia": "224270",
-  "mercado": {
-   "n": 17,
-   "p25": 9674,
-   "mediana": 9950
-  },
-  "ratio_mercado": 0.925,
-  "motivo": "precio normal (93 % del cuartil bajo de 224270)"
- },
- {
-  "fecha": "2026-11-17T00:38:06.680177+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Must Extra Large Model 31mm Automatic Watch Ref. WSTA0053 w/ B&P",
-  "total": 5998.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840136166591",
-  "item_id": "v1|840136166591|0",
-  "referencia": "WSTA0053",
-  "mercado": {
-   "n": 6,
-   "p25": 5000,
-   "mediana": 5075
-  },
-  "ratio_mercado": 1.2,
-  "motivo": "precio normal (120 % del cuartil bajo de WSTA0053)"
- },
- {
-  "fecha": "2026-11-17T01:08:06.912417+00:00",
-  "marca": "Cartier",
-  "titulo": "Men's Cartier Steel Pasha De Cartier 38mm grid watch Vintage I Have All Papers",
-  "total": 6500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840136243493",
-  "item_id": "v1|840136243493|0",
-  "triage": {
-   "modelo": "Cartier Pasha de Cartier 38 mm acero, esfera grid (cuarzo), no vintage",
-   "referencia": null,
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "Pasha de acero moderno, no vintage como indica el título; el precio pedido de US$6500 está por encima del valor de venta cerrada con papeles."
-  },
-  "motivo": "triage: Pasha de acero moderno, no vintage como indica el título; el precio pedido de US$6500 está por encima del valor de venta cerrada con papeles. (justo 4800)"
- },
- {
-  "fecha": "2026-11-17T01:23:06.815791+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II Men's",
-  "total": 9500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840136280094",
-  "item_id": "v1|840136280094|0",
-  "triage": {
-   "modelo": "Rolex GMT-Master II, bisel negro, brazalete de acero (probable 116710LN)",
-   "referencia": "116710LN (probable, sin confirmar)",
-   "precio_justo_usd": 11500,
-   "interesante": false,
-   "nota": "Precio 17% bajo estimación, pero demasiado bajo para el modelo y la foto es poco nítida; faltan referencia, serie, caja y papeles. Antes de comprar, pedir fotos del caso, número de serie y tarjeta de garantía."
-  },
-  "motivo": "triage: Precio 17% bajo estimación, pero demasiado bajo para el modelo y la foto es poco nítida; faltan referencia, serie, caja y papeles. Antes de comprar, pedir fotos del caso, número de serie y tarjeta de garantía. (justo 11500)"
- },
- {
-  "fecha": "2026-11-17T01:53:06.806334+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oysterquartz Day-Date 19018 / 36mm / Watch Only",
-  "total": 16895.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227617899029",
-  "item_id": "v1|227617899029|0",
-  "referencia": "19018",
-  "mercado": {
-   "n": 15,
-   "p25": 22628,
-   "mediana": 24137
-  },
-  "ratio_mercado": 0.747,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 14800,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado con desgaste visible: rayones y pulidos en el brazalete, solo reloj, sin caja ni papeles"
-  },
-  "ratio_justo": 1.142,
-  "motivo": "precio normal segun revision (114 % del justo 14800)"
- },
- {
-  "fecha": "2026-11-17T01:53:06.806334+00:00",
-  "marca": "Rolex",
-  "titulo": "2024 Rolex DateJust 41 126333 Two-Tone Rhodium Wimbledon 41mm Watch Box Papers",
-  "total": 14854.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168867709657",
-  "item_id": "v1|168867709657|0",
-  "referencia": "126333",
-  "mercado": {
-   "n": 34,
-   "p25": 14468,
-   "mediana": 15016
-  },
-  "ratio_mercado": 1.027,
-  "motivo": "precio normal (103 % del cuartil bajo de 126333)"
- },
- {
-  "fecha": "2026-11-17T02:08:07.276151+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor 20023",
-  "total": 2680.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377652324323",
-  "item_id": "v1|377652324323|0",
-  "referencia": "20023",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Tudor (posible Prince/Classic bicolor acero y oro amarillo, esfera rosada con ventana de fecha)",
-   "referencia": null,
-   "precio_justo_usd": 2000,
-   "interesante": false,
-   "nota": "Referencia no confirmada en la foto; el precio pedido de US$2680 está por encima del valor estimado de venta de un bicolor Tudor de este tipo en estado Good."
-  },
-  "motivo": "triage: Referencia no confirmada en la foto; el precio pedido de US$2680 está por encima del valor estimado de venta de un bicolor Tudor de este tipo en estado Good. (justo 2000)"
- },
- {
   "fecha": "2026-11-17T02:23:06.693872+00:00",
   "marca": "Rolex",
   "titulo": "Rolex GMT-Master 126711CHNR-0002 Pre-owned Box & Papers 2020",
@@ -10891,5 +10725,176 @@
   },
   "ratio_mercado": 0.843,
   "motivo": "descripcion: franken"
+ },
+ {
+  "fecha": "2026-11-19T20:25:29.395805+00:00",
+  "marca": "Rolex",
+  "titulo": "2024 Rolex Oyster Perpetual 277200 | 31mm | Stainless Steel | Fullset",
+  "total": 8500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880133798092",
+  "item_id": "v1|880133798092|0",
+  "referencia": "277200",
+  "mercado": {
+   "n": 18,
+   "p25": 9178,
+   "mediana": 11598
+  },
+  "ratio_mercado": 0.926,
+  "motivo": "precio normal (93 % del cuartil bajo de 277200)"
+ },
+ {
+  "fecha": "2026-11-19T20:25:29.395805+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yacht-Master 126655 40mm 18K Everose Gold Oysterflex Watch Box Papers",
+  "total": 28888.82,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940106343209",
+  "item_id": "v1|940106343209|0",
+  "referencia": "126655",
+  "mercado": {
+   "n": 22,
+   "p25": 32950,
+   "mediana": 33808
+  },
+  "ratio_mercado": 0.877,
+  "motivo": "precio normal (88 % del cuartil bajo de 126655)"
+ },
+ {
+  "fecha": "2026-11-19T20:25:29.395805+00:00",
+  "marca": "Rolex",
+  "titulo": "Brand New 2026 Turquoise / Tiffany Blue Rolex Oyster Perpetual 36 126000",
+  "total": 16950.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/960217257577",
+  "item_id": "v1|960217257577|0",
+  "referencia": "126000",
+  "mercado": {
+   "n": 39,
+   "p25": 11204,
+   "mediana": 12494
+  },
+  "ratio_mercado": 1.513,
+  "motivo": "precio normal (151 % del cuartil bajo de 126000)"
+ },
+ {
+  "fecha": "2026-11-19T20:25:29.395805+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Ceramic Submariner 116610LN 40mm Oyster Bracelet Box/Books",
+  "total": 10975.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407375366424",
+  "item_id": "v1|407375366424|0",
+  "referencia": "116610LN",
+  "mercado": {
+   "n": 60,
+   "p25": 12790,
+   "mediana": 13500
+  },
+  "ratio_mercado": 0.858,
+  "motivo": "precio normal (86 % del cuartil bajo de 116610LN)"
+ },
+ {
+  "fecha": "2026-11-19T20:25:29.395805+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date President Champagne Dial/Baguette Diamond Markers Ref. 228238",
+  "total": 52000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147688444452",
+  "item_id": "v1|147688444452|0",
+  "referencia": "228238",
+  "mercado": {
+   "n": 33,
+   "p25": 46088,
+   "mediana": 48990
+  },
+  "ratio_mercado": 1.128,
+  "motivo": "precio normal (113 % del cuartil bajo de 228238)"
+ },
+ {
+  "fecha": "2026-11-19T20:25:29.395805+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Louis WGTA0092",
+  "total": 12200.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147688449003",
+  "item_id": "v1|147688449003|0",
+  "referencia": "WGTA0092",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Tank Louis (oro rosa, esfera gris, correa de piel oscura)",
+   "referencia": "WGTA0092 (según el título, no verificable en la foto)",
+   "precio_justo_usd": 11000,
+   "interesante": false,
+   "nota": "Precio pedido de US$12,200 está por encima del valor estimado de venta para oro rosa, sin verificar caja, papeles ni autenticidad en la foto."
+  },
+  "motivo": "triage: Precio pedido de US$12,200 está por encima del valor estimado de venta para oro rosa, sin verificar caja, papeles ni autenticidad en la foto. (justo 11000)"
+ },
+ {
+  "fecha": "2026-11-19T20:25:29.395805+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos-Dumont WSSA0085",
+  "total": 4850.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860156145981",
+  "item_id": "v1|860156145981|0",
+  "referencia": "WSSA0085",
+  "mercado": {
+   "n": 1,
+   "p25": 5700,
+   "mediana": 5700
+  },
+  "triage": {
+   "modelo": "Cartier Santos-Dumont (acero, esfera plateada con números romanos, correa de cocodrilo azul; aspecto de talla grande)",
+   "referencia": "WSSA0085 (según el título; no verificable en la foto)",
+   "precio_justo_usd": 5200,
+   "interesante": false,
+   "nota": "Precio pedido apenas un 7 % bajo una estimación conservadora de venta cerrada; sin confirmar caja, papeles ni referencia exacta."
+  },
+  "motivo": "triage: Precio pedido apenas un 7 % bajo una estimación conservadora de venta cerrada; sin confirmar caja, papeles ni referencia exacta. (justo 5200)"
+ },
+ {
+  "fecha": "2026-11-19T20:25:29.395805+00:00",
+  "marca": "Tudor",
+  "titulo": "2024 Complete Set Tudor Black Bay 58 GMT Coke 7939G1A0NRU",
+  "total": 4350.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960217257012",
+  "item_id": "v1|960217257012|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 GMT 'Coke' (bisel rojo y negro, brazalete de acero)",
+   "referencia": "M7939G1A0NRU",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio pedido de US$4,350 con envío queda por encima de lo que esta referencia se vende hoy en el mercado secundario, aunque sea un set completo en buen estado."
+  },
+  "motivo": "triage: Precio pedido de US$4,350 con envío queda por encima de lo que esta referencia se vende hoy en el mercado secundario, aunque sea un set completo en buen estado. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-19T20:25:29.395805+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay S&G M79733N-0004, Excellent Preowned, Warranty 4/28",
+  "total": 5299.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960217256623",
+  "item_id": "v1|960217256623|0",
+  "referencia": "M79733N-0004",
+  "mercado": {
+   "n": 1,
+   "p25": 4097,
+   "mediana": 4097
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay S&G (Save and Grow), acero y oro amarillo, esfera champán",
+   "referencia": "M79733N-0004",
+   "precio_justo_usd": 4600,
+   "interesante": false,
+   "nota": "Con caja y papeles, garantía hasta 2028, el precio pedido está por encima del valor de venta cerrada estimado para esta referencia en EE. UU."
+  },
+  "motivo": "triage: Con caja y papeles, garantía hasta 2028, el precio pedido está por encima del valor de venta cerrada estimado para esta referencia en EE. UU. (justo 4600)"
  }
 ]
