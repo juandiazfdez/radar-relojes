@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-17T18:23:37.485239+00:00",
   "marca": "Rolex",
-  "titulo": "2024 Rolex Submariner 126610 LV 41mm Green Kermit Steel Ceramic Box Papers",
-  "total": 15080.28,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960208524160",
-  "item_id": "v1|960208524160|0",
-  "referencia": "126610",
-  "mercado": {
-   "n": 78,
-   "p25": 14468,
-   "mediana": 14846
-  },
-  "ratio_mercado": 1.042,
-  "motivo": "precio normal (104 % del cuartil bajo de 126610)"
- },
- {
-  "fecha": "2026-11-17T18:23:37.485239+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date 36mm 2007 Champagne Diamond Fluted President 118238",
-  "total": 32895.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198803092108",
-  "item_id": "v1|198803092108|0",
-  "referencia": "118238",
-  "mercado": {
-   "n": 57,
-   "p25": 27990,
-   "mediana": 28990
-  },
-  "ratio_mercado": 1.175,
-  "motivo": "precio normal (118 % del cuartil bajo de 118238)"
- },
- {
-  "fecha": "2026-11-17T18:23:37.485239+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Submariner Two Tone Ref 16803",
   "total": 8995.0,
   "condicion": "Pre-owned - Good",
@@ -10958,5 +10924,39 @@
    "nota": "La foto solo muestra la caja; el bisel no parece tener diamantes. El bustdown de lab diamonds es una modificación que casi no suma valor de reventa, y el precio de US$8500 supera el valor del Santos XL de acero usado."
   },
   "motivo": "triage: La foto solo muestra la caja; el bisel no parece tener diamantes. El bustdown de lab diamonds es una modificación que casi no suma valor de reventa, y el precio de US$8500 supera el valor del Santos XL de acero usado. (justo 5500)"
+ },
+ {
+  "fecha": "2026-11-19T23:55:40.024376+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Datejust 1601 Mens Two Tone SS Gold Watch ***SERVICED***",
+  "total": 5809.95,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920161924209",
+  "item_id": "v1|920161924209|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Datejust, acero y oro amarillo, bisel acanalado, esfera champán con índices de bastón, pulsera Oyster bicolor",
+   "referencia": "1601",
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "Referencia 1601 de época (aprox. años 70), con esfera champán original. Precio de venta cerrada en EE. UU. estimado entre 4.000 y 5.000 USD según estado y fecha; el precio pedido de 5.810 USD está por encima."
+  },
+  "motivo": "triage: Referencia 1601 de época (aprox. años 70), con esfera champán original. Precio de venta cerrada en EE. UU. estimado entre 4.000 y 5.000 USD según estado y fecha; el precio pedido de 5.810 USD está por encima. (justo 4500)"
+ },
+ {
+  "fecha": "2026-11-19T23:55:40.024376+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex oyster perpetual date",
+  "total": 4400.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820370715878",
+  "item_id": "v1|820370715878|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date (34 mm, acero, esfera plateada)",
+   "referencia": "15200 (probable; difícil confirmar solo con la foto)",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Bisel liso y brazalete Oyster, con ventana de fecha: encaja con la 15200. El precio pedido está por encima del valor de venta cerrada estimado, sin margen de compra."
+  },
+  "motivo": "triage: Bisel liso y brazalete Oyster, con ventana de fecha: encaja con la 15200. El precio pedido está por encima del valor de venta cerrada estimado, sin margen de compra. (justo 4000)"
  }
 ]
