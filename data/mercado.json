@@ -1525,13 +1525,13 @@
   "max": 17710
  },
  "Rolex 16570|usado": {
-  "fecha": "2026-11-18",
+  "fecha": "2026-11-19",
   "consulta": "Rolex 16570",
-  "n": 38,
-  "mediana": 8970,
+  "n": 41,
+  "mediana": 8990,
   "p25": 8445,
   "p75": 9500,
-  "min": 7400,
+  "min": 6045,
   "max": 9995
  },
  "Rolex 16570T|usado": {
@@ -6810,12 +6810,12 @@
   "max": 16999
  },
  "Rolex 136660|usado": {
-  "fecha": "2026-11-18",
+  "fecha": "2026-11-19",
   "consulta": "Rolex 136660",
-  "n": 52,
+  "n": 53,
   "mediana": 15999,
   "p25": 15010,
-  "p75": 16850,
+  "p75": 16895,
   "min": 12428,
   "max": 22370
  },
@@ -7445,14 +7445,14 @@
   "n": 0
  },
  "Cartier WR007004|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-11-19",
   "consulta": "Cartier WR007004",
-  "n": 1,
-  "mediana": 18999,
+  "n": 2,
+  "mediana": 19332,
   "p25": 18999,
-  "p75": 18999,
+  "p75": 19664,
   "min": 18999,
-  "max": 18999
+  "max": 19664
  },
  "Cartier W5310007|usado": {
   "fecha": "2026-11-06",
@@ -7505,12 +7505,12 @@
   "n": 0
  },
  "Cartier WB520005|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-11-19",
   "consulta": "Cartier WB520005",
-  "n": 5,
-  "mediana": 22009,
-  "p25": 20773,
-  "p75": 22009,
+  "n": 4,
+  "mediana": 21312,
+  "p25": 20694,
+  "p75": 26190,
   "min": 19995,
   "max": 26190
  },
@@ -14500,11 +14500,11 @@
   "max": 14005
  },
  "Cartier W5200026|usado": {
-  "fecha": "2026-11-13",
+  "fecha": "2026-11-19",
   "consulta": "Cartier W5200026",
-  "n": 5,
-  "mediana": 8699,
-  "p25": 8495,
+  "n": 6,
+  "mediana": 8447,
+  "p25": 8399,
   "p75": 8699,
   "min": 6620,
   "max": 9055
@@ -19690,9 +19690,14 @@
   "n": 0
  },
  "Cartier W640070I|usado": {
-  "fecha": "2026-11-06",
+  "fecha": "2026-11-19",
   "consulta": "Cartier W640070I",
-  "n": 0
+  "n": 1,
+  "mediana": 19355,
+  "p25": 19355,
+  "p75": 19355,
+  "min": 19355,
+  "max": 19355
  },
  "Cartier WG600003|usado": {
   "fecha": "2026-11-06",
@@ -20660,11 +20665,11 @@
   "max": 2212
  },
  "Rolex 126503|usado": {
-  "fecha": "2026-11-15",
+  "fecha": "2026-11-19",
   "consulta": "Rolex 126503",
-  "n": 17,
-  "mediana": 28900,
-  "p25": 26000,
+  "n": 18,
+  "mediana": 28650,
+  "p25": 26708,
   "p75": 30043,
   "min": 23307,
   "max": 32277
@@ -21150,7 +21155,7 @@
   "max": 11985
  },
  "Cartier W2020004|usado": {
-  "fecha": "2026-11-12",
+  "fecha": "2026-11-19",
   "consulta": "Cartier W2020004",
   "n": 1,
   "mediana": 10000,
@@ -22053,5 +22058,45 @@
   "fecha": "2026-11-19",
   "consulta": "Cartier WGTA0092",
   "n": 0
+ },
+ "Cartier WG200846|usado": {
+  "fecha": "2026-11-19",
+  "consulta": "Cartier WG200846",
+  "n": 0
+ },
+ "Cartier WG600011|usado": {
+  "fecha": "2026-11-19",
+  "consulta": "Cartier WG600011",
+  "n": 0
+ },
+ "Cartier WGBA0017|usado": {
+  "fecha": "2026-11-19",
+  "consulta": "Cartier WGBA0017",
+  "n": 0
+ },
+ "Cartier WJTA0010|usado": {
+  "fecha": "2026-11-19",
+  "consulta": "Cartier WJTA0010",
+  "n": 0
+ },
+ "Cartier W6600121|usado": {
+  "fecha": "2026-11-19",
+  "consulta": "Cartier W6600121",
+  "n": 0
+ },
+ "Cartier WSTA0071|usado": {
+  "fecha": "2026-11-19",
+  "consulta": "Cartier WSTA0071",
+  "n": 0
+ },
+ "Tudor 79000|nuevo": {
+  "fecha": "2026-11-19",
+  "consulta": "Tudor 79000",
+  "n": 13,
+  "mediana": 4450,
+  "p25": 4049,
+  "p75": 5505,
+  "min": 3795,
+  "max": 14940
  }
 }
