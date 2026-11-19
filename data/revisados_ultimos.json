@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-16T16:52:57.006896+00:00",
-  "marca": "Rolex",
-  "titulo": "VINTAGE 1965 ROLEX OYSTER PERPETUAL 1002 AUTOMATIC WRISTWATCH STAINLESS STEEL",
-  "total": 2108.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/237186322167",
-  "item_id": "v1|237186322167|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual (esfera champán, acero, cuerpo de 34 mm aprox.)",
-   "referencia": "1002",
-   "precio_justo_usd": 1400,
-   "interesante": false,
-   "nota": "Referencia 1002 de los años 60 en estado Fair, mostrada sin correa y posiblemente sin cristal; el precio pedido de US$2108 queda por encima del valor de venta realista."
-  },
-  "motivo": "triage: Referencia 1002 de los años 60 en estado Fair, mostrada sin correa y posiblemente sin cristal; el precio pedido de US$2108 queda por encima del valor de venta realista. (justo 1400)"
- },
- {
-  "fecha": "2026-11-16T16:52:57.006896+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay M7941A1A0NU-0001, NEW 2026",
-  "total": 4594.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/377650976441",
-  "item_id": "v1|377650976441|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 41 (acero, esfera y bisel negros, brazalete de acero)",
-   "referencia": "M7941A1A0NU",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "El precio pedido está por encima del retail aproximado (~US$4,000); como nuevo con caja y papeles, el mercado secundario ronda los US$3,300."
-  },
-  "motivo": "triage: El precio pedido está por encima del retail aproximado (~US$4,000); como nuevo con caja y papeles, el mercado secundario ronda los US$3,300. (justo 3300)"
- },
- {
   "fecha": "2026-11-16T17:07:59.664013+00:00",
   "marca": "Rolex",
   "titulo": "42163: Rolex Submariner 40, Ref. 16610, Circa 2005",
@@ -10838,5 +10804,45 @@
    "nota": "Precio cercano al mercado de segunda mano para este modelo; no hay descuento de al menos 15 %."
   },
   "motivo": "triage: Precio cercano al mercado de segunda mano para este modelo; no hay descuento de al menos 15 %. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-19T01:54:55.686937+00:00",
+  "marca": "Cartier",
+  "titulo": "New 2026 Cartier Panthere 4014 WGPN0058 18K Gold White Roman 29mm Box Papers",
+  "total": 32827.99,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/960213681668",
+  "item_id": "v1|960213681668|0",
+  "referencia": "WGPN0058",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Panthère de Cartier, oro amarillo 18K, esfera blanca con numerales romanos, brazalete integrado",
+   "referencia": null,
+   "precio_justo_usd": 22000,
+   "interesante": false,
+   "nota": "El precio pedido (US$32.828) supera el precio de mercado gris para este modelo nuevo en oro amarillo; la referencia WGPN0058 y el tamaño de 29 mm no se pueden verificar en la foto."
+  },
+  "motivo": "triage: El precio pedido (US$32.828) supera el precio de mercado gris para este modelo nuevo en oro amarillo; la referencia WGPN0058 y el tamaño de 29 mm no se pueden verificar en la foto. (justo 22000)"
+ },
+ {
+  "fecha": "2026-11-19T01:54:55.686937+00:00",
+  "marca": "Tudor",
+  "titulo": "1964 Tudor Oyster-Prince Small Rose Logo Steel Automatic Watch Ref. 7965",
+  "total": 2495.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880131093389",
+  "item_id": "v1|880131093389|0",
+  "triage": {
+   "modelo": "Tudor Oyster Prince (automático, logo Rose, acero, años 60)",
+   "referencia": "7965",
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Referencia 7965 de los 60 en acero con esfera plateada y logo Rose; en buen estado se vende aprox. US$2.000-2.600, así que US$2.495 está en el rango normal, no por debajo del 15%."
+  },
+  "motivo": "triage: Referencia 7965 de los 60 en acero con esfera plateada y logo Rose; en buen estado se vende aprox. US$2.000-2.600, así que US$2.495 está en el rango normal, no por debajo del 15%. (justo 2300)"
  }
 ]
