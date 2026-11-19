@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-16T20:07:57.178378+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Santos Galbee Steel Silver Automatic W20054D6 24mm 1995-2010",
-  "total": 4750.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960200784725",
-  "item_id": "v1|960200784725|0",
-  "triage": {
-   "modelo": "Cartier Santos Galbée de acero, esfera plateada (42 mm aprox. en la foto no visible; ref. indicada 24 mm)",
-   "referencia": "W20054D6",
-   "precio_justo_usd": 2500,
-   "interesante": false,
-   "nota": "Precio pedido de US$4750 muy por encima del valor de reventa de un Santos Galbée de acero usado (aprox. US$2000-2800). Verificar calibre (cuarzo o automático) y el año, ya que la foto no lo confirma."
-  },
-  "motivo": "triage: Precio pedido de US$4750 muy por encima del valor de reventa de un Santos Galbée de acero usado (aprox. US$2000-2800). Verificar calibre (cuarzo o automático) y el año, ya que la foto no lo confirma. (justo 2500)"
- },
- {
-  "fecha": "2026-11-16T20:07:57.178378+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Panthere WSPN0007 with AM Diamonds",
   "total": 4550.0,
   "condicion": "Pre-owned - Excellent",
@@ -10852,5 +10835,22 @@
    "nota": "Cronógrafo de acero de producción actual, usado en buen estado; el precio pedido de US$4869 está por encima del valor de venta real, no por debajo."
   },
   "motivo": "triage: Cronógrafo de acero de producción actual, usado en buen estado; el precio pedido de US$4869 está por encima del valor de venta real, no por debajo. (justo 4200)"
+ },
+ {
+  "fecha": "2026-11-19T12:55:18.550189+00:00",
+  "marca": "Rolex",
+  "titulo": "2016 Rolex Sea-Dweller Deepsea James Cameron Dblue Oyster 116660 Complete",
+  "total": 11840.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287741312777",
+  "item_id": "v1|287741312777|0",
+  "referencia": "116660",
+  "mercado": {
+   "n": 45,
+   "p25": 10870,
+   "mediana": 12450
+  },
+  "ratio_mercado": 1.089,
+  "motivo": "precio normal (109 % del cuartil bajo de 116660)"
  }
 ]
