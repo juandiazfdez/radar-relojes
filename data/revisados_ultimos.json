@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-16T16:22:57.170513+00:00",
   "marca": "Rolex",
-  "titulo": "Pre-Owned Rolex 116300 Datejust 41 Mother of Pearl Rainbow Stainless Steel Watch",
-  "total": 10995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206705766183",
-  "item_id": "v1|206705766183|0",
-  "referencia": "116300",
-  "mercado": {
-   "n": 31,
-   "p25": 9715,
-   "mediana": 10500
-  },
-  "ratio_mercado": 1.132,
-  "motivo": "precio normal (113 % del cuartil bajo de 116300)"
- },
- {
-  "fecha": "2026-11-16T16:22:57.170513+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Sky-Dweller Ref. 326934-0003 (M326934-0003) — blue dial, ",
-  "total": 21200.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137936398102",
-  "item_id": "v1|137936398102|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Sky-Dweller, acero Oystersteel y oro blanco, bisel acanalado, esfera azul",
-   "referencia": "326934",
-   "precio_justo_usd": 23000,
-   "interesante": false,
-   "nota": "Precio pedido unos 8 % por debajo de la estimación de venta cerrada; no cumple el umbral del 15 %. Verificar autenticidad y estado en persona o con servicio de autenticación."
-  },
-  "motivo": "triage: Precio pedido unos 8 % por debajo de la estimación de venta cerrada; no cumple el umbral del 15 %. Verificar autenticidad y estado en persona o con servicio de autenticación. (justo 23000)"
- },
- {
-  "fecha": "2026-11-16T16:22:57.170513+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Daytona 116505 18K Rose Gold (Chocolate Dial) 40mm Watch (Box&Papers) 2018",
   "total": 54060.0,
   "condicion": "Pre-owned - Good",
@@ -10845,5 +10811,39 @@
    "nota": "Precio pedido de US$324.995 muy por encima del valor de mercado; posible error de formato. Si fuera US$3.249,95 sería sospechosamente bajo para platino con diamantes, así que hay que verificar autenticidad y papeles antes de comprar."
   },
   "motivo": "triage: Precio pedido de US$324.995 muy por encima del valor de mercado; posible error de formato. Si fuera US$3.249,95 sería sospechosamente bajo para platino con diamantes, así que hay que verificar autenticidad y papeles antes de comprar. (justo 28000)"
+ },
+ {
+  "fecha": "2026-11-19T00:09:43.826003+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Date 15053 Two Tone Steel 18K Gold Champagne Jubilee Watch Box Papers",
+  "total": 5400.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206711625584",
+  "item_id": "v1|206711625584|0",
+  "referencia": "15053",
+  "mercado": {
+   "n": 24,
+   "p25": 5700,
+   "mediana": 5755
+  },
+  "ratio_mercado": 0.947,
+  "motivo": "precio normal (95 % del cuartil bajo de 15053)"
+ },
+ {
+  "fecha": "2026-11-19T00:09:43.826003+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Fifty-Eight 79030B Blue Stainless Steel Watch with Box Papers",
+  "total": 3400.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407373184189",
+  "item_id": "v1|407373184189|0",
+  "referencia": "79030B",
+  "mercado": {
+   "n": 15,
+   "p25": 3495,
+   "mediana": 3590
+  },
+  "ratio_mercado": 0.973,
+  "motivo": "precio normal (97 % del cuartil bajo de 79030B)"
  }
 ]

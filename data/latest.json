@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T23:54:43.595614+00:00",
+ "actualizado": "2026-11-19T00:09:43.826003+00:00",
  "ventana_horas": 2.0,
  "marcas": [
   "Rolex",
@@ -7,83 +7,14 @@
   "Tudor"
  ],
  "corrida": {
-  "nuevos_vistos": 22,
+  "nuevos_vistos": 12,
   "descartes": {
-   "titulo": 18,
-   "triage": 2,
-   "sospechoso": 2
+   "titulo": 10,
+   "precio_normal": 2
   },
   "alertas_nuevas": 0,
-  "llamadas_ebay": 6,
+  "llamadas_ebay": 5,
   "cuota_agotada": false
  },
- "alertas_hoy": [
-  {
-   "fecha": "2026-11-18T18:39:32.931036+00:00",
-   "marca": "Tudor",
-   "titulo": "Tudor Black Bay 58 79030N Men's 39mm Wristwatch w/ Box & Hangtag",
-   "precio": 2750.0,
-   "envio": 6.41,
-   "total": 2750.0,
-   "mercado": {
-    "fecha": "2026-11-18",
-    "consulta": "Tudor 79030N",
-    "n": 12,
-    "mediana": 4063,
-    "p25": 3899,
-    "p75": 4295,
-    "min": 3600,
-    "max": 4550
-   },
-   "triage": null,
-   "vendedor": "purplengold23",
-   "valoraciones": 244,
-   "pct_positivo": "100.0",
-   "url": "https://www.ebay.com/itm/206711132352",
-   "item_id": "v1|206711132352|0",
-   "info": {
-    "departamento": "Men",
-    "referencia": "79030N",
-    "modelo_esp": "TUDOR Black Bay",
-    "caja_mm": "39 mm",
-    "material": "Stainless Steel",
-    "ano": "2020-Now",
-    "movimiento": "Mechanical (Automatic)",
-    "caja_original": "Yes",
-    "papeles": "No",
-    "condicion": "Pre-owned - Good",
-    "condicion_id": "3000",
-    "condicion_desc": "",
-    "garantia_autenticidad": false,
-    "devoluciones": false,
-    "amarillas": [],
-    "imagenes": [
-     "https://i.ebayimg.com/images/g/hBkAAeSwRhRq~e7M/s-l1600.jpg",
-     "https://i.ebayimg.com/images/g/euoAAeSw4x9q~e7g/s-l1600.jpg",
-     "https://i.ebayimg.com/images/g/gJcAAeSw5f9q~e7u/s-l1600.jpg",
-     "https://i.ebayimg.com/images/g/IYsAAeSwtURq~e70/s-l1600.jpg",
-     "https://i.ebayimg.com/images/g/KvEAAeSwsz1q~e74/s-l1600.jpg",
-     "https://i.ebayimg.com/images/g/jeMAAeSwywtq~e8L/s-l1600.jpg"
-    ]
-   },
-   "claude": {
-    "veredicto": "dudoso",
-    "modelo": "Tudor Black Bay 58 79030N (acero, 39 mm, bisel negro, brazalete de remaches)",
-    "estado": "Usado, bueno: rayitas leves en caja y brazalete, bisel limpio, esfera y cristal sin daños visibles en fotos borrosas",
-    "riesgo_autenticidad": "medio",
-    "completo": false,
-    "razones": [
-     "Precio de US$2,750, unos 15-20 % por debajo de lo que se cierra en el mercado secundario para un 79030N con caja y sin papeles (aprox. US$3,200-3,400). Los US$3,899-4,063 de los comparables son precios pedidos e inflados.",
-     "La esfera, la inscripción 'TUDOR GENEVE / 200m=660ft / Chronometer Officially Certified', las manecillas snowflake, el triángulo rojo del bisel y el bisel moleteado coinciden con un BB58 genuino. No veo señales evidentes de réplica ni de esfera repintada.",
-     "Las fotos son borrosas y no muestran el fondo de caja, el cierre del brazalete ni el movimiento. No se puede verificar el número de serie ni la referencia grabada entre los cuernos. Eso es un punto ciego importante en un modelo muy falsificado.",
-     "No incluye papeles/tarjeta de garantía, no ofrece garantía de autenticidad y no acepta devoluciones. Eso aumenta el riesgo y baja el valor frente a un set completo, que se vende entre US$3,600 y 3,900.",
-     "La descripción es genérica, copiada de plantilla, con errores ('Perviously') y confusa. Menciona correa de caucho Everest y NATO, pero las fotos solo muestran el brazalete. Hay que confirmar si los accesorios están incluidos. Se ve un hangtag, que es positivo.",
-     "'Bought and verified via eBay' no es una prueba real. Hay que pedir fotos del fondo de caja, del cierre y de la serie, y un video del reloj funcionando. Si todo cuadra, el margen de reventa es razonable pero no excepcional una vez descontadas comisiones."
-    ],
-    "precio_justo_usd": 3250,
-    "precio_reventa_rd_usd": 3600
-   },
-   "ratio_justo": 0.846
-  }
- ]
+ "alertas_hoy": []
 }
