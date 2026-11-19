@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-16T16:22:57.170513+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Baignoire 1920 W15133L2  18K White Gold Ladies Watch",
-  "total": 21699.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237186280815",
-  "item_id": "v1|237186280815|0",
-  "triage": {
-   "modelo": "Cartier Baignoire 1920 (tamaño pequeño, esfera plateada con números romanos)",
-   "referencia": "W15133L2 según el título; no verificable en la imagen",
-   "precio_justo_usd": 14000,
-   "interesante": false,
-   "nota": "La foto muestra una pulsera de acero, pero el título dice oro blanco 18K: revisar el material antes de cualquier oferta. Aun como oro blanco, US$21.699 está por encima de lo que se vende realmente."
-  },
-  "motivo": "triage: La foto muestra una pulsera de acero, pero el título dice oro blanco 18K: revisar el material antes de cualquier oferta. Aun como oro blanco, US$21.699 está por encima de lo que se vende realmente. (justo 14000)"
- },
- {
-  "fecha": "2026-11-16T16:22:57.170513+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Drive de Cartier WSNM0004",
   "total": 4550.0,
   "condicion": "Pre-owned - Excellent",
@@ -10845,5 +10828,22 @@
   },
   "ratio_mercado": 1.129,
   "motivo": "precio normal (113 % del cuartil bajo de 79950)"
+ },
+ {
+  "fecha": "2026-11-19T00:39:59.087078+00:00",
+  "marca": "Tudor",
+  "titulo": "2021 Tudor Pelagos 42mm Blue Titanium 25600TB Box & Papers. Runs Great",
+  "total": 3890.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287740156188",
+  "item_id": "v1|287740156188|0",
+  "referencia": "25600TB",
+  "mercado": {
+   "n": 5,
+   "p25": 4550,
+   "mediana": 4600
+  },
+  "ratio_mercado": 0.855,
+  "motivo": "precio normal (85 % del cuartil bajo de 25600TB)"
  }
 ]
