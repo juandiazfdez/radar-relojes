@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-11-16T17:37:56.672432+00:00",
-  "marca": "Cartier",
-  "titulo": "CARTIER TANK MUST Photovoltaic Solarbeat WSTA0060 29x22mm Stainless Steel Watch",
-  "total": 4129.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128198807564",
-  "item_id": "v1|128198807564|0",
-  "referencia": "WSTA0060",
-  "mercado": {
-   "n": 3,
-   "p25": 3400,
-   "mediana": 3400
-  },
-  "triage": {
-   "modelo": "Cartier Tank Must Solarbeat (fotovoltaico), acero, correa de piel negra",
-   "referencia": "WSTA0060 (según título, no verificable en la foto)",
-   "precio_justo_usd": 1300,
-   "interesante": false,
-   "nota": "Precio pedido de US$4129 muy por encima del mercado de usado excelente, aunque incluya envío; la referencia se vende muy por debajo de ese nivel."
-  },
-  "motivo": "triage: Precio pedido de US$4129 muy por encima del mercado de usado excelente, aunque incluya envío; la referencia se vende muy por debajo de ese nivel. (justo 1300)"
- },
- {
   "fecha": "2026-11-16T17:52:57.100516+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 26 Steel White Gold Diamond Ladies Watch 179384",
@@ -10850,5 +10827,22 @@
   },
   "ratio_mercado": 0.865,
   "motivo": "precio normal (87 % del cuartil bajo de 2961)"
+ },
+ {
+  "fecha": "2026-11-19T04:39:56.383487+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex President 18038 Factory Diamond Markers Automatic Wristwatch 18k",
+  "total": 15255.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147687515051",
+  "item_id": "v1|147687515051|0",
+  "referencia": "18038",
+  "mercado": {
+   "n": 19,
+   "p25": 9165,
+   "mediana": 10509
+  },
+  "ratio_mercado": 1.664,
+  "motivo": "precio normal (166 % del cuartil bajo de 18038)"
  }
 ]
