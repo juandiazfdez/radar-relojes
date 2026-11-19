@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-16T19:22:57.842761+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier WHSA0015 Santos De Cartier Large Skeleton",
-  "total": 23925.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920149777789",
-  "item_id": "v1|920149777789|0",
-  "referencia": "WHSA0015",
-  "mercado": {
-   "n": 6,
-   "p25": 26499,
-   "mediana": 29015
-  },
-  "ratio_mercado": 0.903,
-  "motivo": "precio normal (90 % del cuartil bajo de WHSA0015)"
- },
- {
-  "fecha": "2026-11-16T19:22:57.842761+00:00",
-  "marca": "Cartier",
   "titulo": "42185: Cartier Small Ladies Ballon Bleu 28mm, Quartz, Ref. W69010Z4",
   "total": 3700.0,
   "condicion": "Pre-owned - Excellent",
@@ -10845,5 +10828,22 @@
    "nota": "Referencia 1601 con bisel de oro 14k y esfera negra; el precio pedido de US$4,899 está por encima del valor de venta real estimado para esta condición, y la correa de cuero marrón no es la original."
   },
   "motivo": "triage: Referencia 1601 con bisel de oro 14k y esfera negra; el precio pedido de US$4,899 está por encima del valor de venta real estimado para esta condición, y la correa de cuero marrón no es la original. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-19T10:40:07.649839+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36",
+  "total": 4112.45,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377658487930",
+  "item_id": "v1|377658487930|0",
+  "triage": {
+   "modelo": "Rolex Datejust (acero y oro blanco, bisel acanalado, esfera gris con marcadores de diamante, brazalete Jubilee)",
+   "referencia": "null",
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "Precio pedido muy por debajo del mercado para un Datejust 36 de acero con esfera de diamantes; la foto es pequeña y la referencia no se distingue, así que se recomienda verificar autenticidad y número de serie antes de comprar."
+  },
+  "motivo": "triage: Precio pedido muy por debajo del mercado para un Datejust 36 de acero con esfera de diamantes; la foto es pequeña y la referencia no se distingue, así que se recomienda verificar autenticidad y número de serie antes de comprar. (justo 7000)"
  }
 ]
