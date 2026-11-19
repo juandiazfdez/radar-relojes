@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-16T20:37:57.387400+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Explorer II 216570 Polar 42mm Stainless Steel Oyster Watch",
-  "total": 9999.95,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137936955154",
-  "item_id": "v1|137936955154|0",
-  "referencia": "216570",
-  "mercado": {
-   "n": 11,
-   "p25": 9572,
-   "mediana": 9750
-  },
-  "ratio_mercado": 1.045,
-  "motivo": "precio normal (104 % del cuartil bajo de 216570)"
- },
- {
-  "fecha": "2026-11-16T20:37:57.387400+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust 68273 Oyster Perpetual Two Tone Jubilee Black 31mm Women's Watch",
   "total": 7299.95,
   "condicion": "Pre-owned - Good",
@@ -10846,5 +10829,28 @@
    "nota": "Ref. 1501 de los años 60-70 en acero con brazalete Oyster remachado. Con buen estado y papeles, se vende en torno a US$4,000-4,600; el precio pedido está en línea con el mercado, sin descuento de 15 %. Verificar esfera, lume y si la caja y papeles están incluidos."
   },
   "motivo": "triage: Ref. 1501 de los años 60-70 en acero con brazalete Oyster remachado. Con buen estado y papeles, se vende en torno a US$4,000-4,600; el precio pedido está en línea con el mercado, sin descuento de 15 %. Verificar esfera, lume y si la caja y papeles están incluidos. (justo 4300)"
+ },
+ {
+  "fecha": "2026-11-19T14:25:19.205812+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere Mini WF318231 18K Yellow Gold Diamond Ladies Watch",
+  "total": 20699.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237192515984",
+  "item_id": "v1|237192515984|0",
+  "referencia": "WF318231",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Panthère (mini/pequeño, cuarzo, oro amarillo 18K con bisel de diamantes)",
+   "referencia": "WF318231 (según título, sin verificar en la foto)",
+   "precio_justo_usd": 12000,
+   "interesante": false,
+   "nota": "Precio pedido US$20,699 muy por encima del valor de reventa estimado; aunque la referencia coincida, no hay descuento claro."
+  },
+  "motivo": "triage: Precio pedido US$20,699 muy por encima del valor de reventa estimado; aunque la referencia coincida, no hay descuento claro. (justo 12000)"
  }
 ]
