@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-16T17:52:57.100516+00:00",
   "marca": "Rolex",
-  "titulo": "(MA5) Rolex Submariner Date 40mm | 18K Yellow Gold & Stainless Steel (116613LB)",
-  "total": 13999.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800926033443",
-  "item_id": "v1|800926033443|0",
-  "referencia": "116613LB",
-  "mercado": {
-   "n": 57,
-   "p25": 15488,
-   "mediana": 15997
-  },
-  "ratio_mercado": 0.904,
-  "motivo": "precio normal (90 % del cuartil bajo de 116613LB)"
- },
- {
-  "fecha": "2026-11-16T17:52:57.100516+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Yacht-Master 40 116655-0001",
   "total": 28920.0,
   "condicion": "Pre-owned - Good",
@@ -10850,5 +10833,28 @@
    "nota": "Esfera azul, brazalete de acero; el precio de US$3300 está por encima del valor de venta cerrada estimado para esta referencia en estado excelente. Confirmar referencia y la función de día en fotos más nítidas."
   },
   "motivo": "triage: Esfera azul, brazalete de acero; el precio de US$3300 está por encima del valor de venta cerrada estimado para esta referencia en estado excelente. Confirmar referencia y la función de día en fotos más nítidas. (justo 2400)"
+ },
+ {
+  "fecha": "2026-11-19T05:09:56.616717+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos de Cartier WSSA0047 Complete set. Warranty valid through 2030",
+  "total": 7700.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206712088349",
+  "item_id": "v1|206712088349|0",
+  "referencia": "WSSA0047",
+  "mercado": {
+   "n": 3,
+   "p25": 8295,
+   "mediana": 8800
+  },
+  "triage": {
+   "modelo": "Cartier Santos de Cartier (acero, esfera plateada con numerales romanos, brazalete integrado)",
+   "referencia": "WSSA0047 (según el título; no puedo verificarla solo con la foto)",
+   "precio_justo_usd": 6000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de mercado para un usado reciente con set completo; no hay descuento de al menos 15%."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de mercado para un usado reciente con set completo; no hay descuento de al menos 15%. (justo 6000)"
  }
 ]
