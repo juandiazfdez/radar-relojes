@@ -295,12 +295,12 @@
   "max": 4455
  },
  "Cartier W7100037|usado": {
-  "fecha": "2026-10-20",
+  "fecha": "2026-11-19",
   "consulta": "Cartier W7100037",
-  "n": 5,
-  "mediana": 4200,
-  "p25": 4095,
-  "p75": 4500,
+  "n": 6,
+  "mediana": 4270,
+  "p25": 4074,
+  "p75": 4549,
   "min": 3999,
   "max": 4999
  },
@@ -7270,13 +7270,13 @@
   "max": 11765
  },
  "Cartier W6920034|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-11-19",
   "consulta": "Cartier W6920034",
-  "n": 6,
+  "n": 7,
   "mediana": 5820,
-  "p25": 5710,
+  "p25": 4895,
   "p75": 5820,
-  "min": 5652,
+  "min": 4840,
   "max": 6200
  },
  "Cartier W6700155|usado": {
@@ -17535,14 +17535,9 @@
   "max": 5093
  },
  "Cartier WSBB0015|usado": {
-  "fecha": "2026-11-10",
+  "fecha": "2026-11-19",
   "consulta": "Cartier WSBB0015",
-  "n": 1,
-  "mediana": 5296,
-  "p25": 5296,
-  "p75": 5296,
-  "min": 5296,
-  "max": 5296
+  "n": 0
  },
  "Cartier WSTA0137|usado": {
   "fecha": "2026-10-31",
@@ -22023,5 +22018,25 @@
   "fecha": "2026-11-19",
   "consulta": "Rolex 126067",
   "n": 0
+ },
+ "Rolex 118338|usado": {
+  "fecha": "2026-11-19",
+  "consulta": "Rolex 118338",
+  "n": 4,
+  "mediana": 37785,
+  "p25": 36580,
+  "p75": 42160,
+  "min": 32005,
+  "max": 42160
+ },
+ "Cartier WSSA0009|usado": {
+  "fecha": "2026-11-19",
+  "consulta": "Cartier WSSA0009",
+  "n": 1,
+  "mediana": 6240,
+  "p25": 6240,
+  "p75": 6240,
+  "min": 6240,
+  "max": 6240
  }
 }
