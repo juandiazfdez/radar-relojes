@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-16T19:22:57.842761+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex 50535 Cellini Moonphase 18K Rose Gold",
-  "total": 28025.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920149776514",
-  "item_id": "v1|920149776514|0",
-  "referencia": "50535",
-  "mercado": {
-   "n": 1,
-   "p25": 24668,
-   "mediana": 24668
-  },
-  "triage": {
-   "modelo": "Rolex Cellini Moonphase 39 mm en oro rosa 18k, esfera plateada, correa de cocodrilo marrón",
-   "referencia": "50535",
-   "precio_justo_usd": 19000,
-   "interesante": false,
-   "nota": "Precio pedido de US$28.025 está muy por encima de la venta real de este modelo de segunda mano (aprox. US$17.000-21.000 según estado, caja y papeles)."
-  },
-  "motivo": "triage: Precio pedido de US$28.025 está muy por encima de la venta real de este modelo de segunda mano (aprox. US$17.000-21.000 según estado, caja y papeles). (justo 19000)"
- },
- {
-  "fecha": "2026-11-16T19:22:57.842761+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex 126711CHNR GMT Master II 18K/SS",
   "total": 25725.0,
   "condicion": "New with box and papers",
@@ -10851,5 +10828,22 @@
   },
   "ratio_mercado": 1.038,
   "motivo": "precio normal (104 % del cuartil bajo de 176200)"
+ },
+ {
+  "fecha": "2026-11-19T08:10:08.418180+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX Men’s Watch Oyster Perpetual 1002 Leather",
+  "total": 3634.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366813314286",
+  "item_id": "v1|366813314286|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual (vintage, aparentemente caja de acero, esfera blanca con números romanos, correa de cuero)",
+   "referencia": "1002",
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "La referencia 1002 existe, pero la foto es borrosa, no muestra claramente el logotipo ni la esfera, y la correa de cuero no es habitual en esta pieza. Sin verificar autenticidad y estado, el precio pedido no está claramente por debajo del mercado."
+  },
+  "motivo": "triage: La referencia 1002 existe, pero la foto es borrosa, no muestra claramente el logotipo ni la esfera, y la correa de cuero no es habitual en esta pieza. Sin verificar autenticidad y estado, el precio pedido no está claramente por debajo del mercado. (justo 2400)"
  }
 ]
