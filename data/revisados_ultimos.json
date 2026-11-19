@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-16T21:08:07.282014+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Yacht-Master 42mm 226658 18k Yellow Gold OysterFlex Watch MINT",
-  "total": 33950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206706250689",
-  "item_id": "v1|206706250689|0",
-  "referencia": "226658",
-  "mercado": {
-   "n": 10,
-   "p25": 35995,
-   "mediana": 37044
-  },
-  "ratio_mercado": 0.943,
-  "motivo": "precio normal (94 % del cuartil bajo de 226658)"
- },
- {
-  "fecha": "2026-11-16T21:08:07.282014+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 40mm Kermit Oyster Bracelet 16610LV - 2005",
-  "total": 18095.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128199042075",
-  "item_id": "v1|128199042075|0",
-  "referencia": "16610LV",
-  "mercado": {
-   "n": 29,
-   "p25": 14500,
-   "mediana": 16000
-  },
-  "ratio_mercado": 1.248,
-  "motivo": "precio normal (125 % del cuartil bajo de 16610LV)"
- },
- {
-  "fecha": "2026-11-16T21:23:07.558935+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Date 34mm 15238 18K Gold Original Box & Papers UNPOLISHED",
-  "total": 14650.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880124018857",
-  "item_id": "v1|880124018857|0",
-  "referencia": "15238",
-  "mercado": {
-   "n": 8,
-   "p25": 15488,
-   "mediana": 18320
-  },
-  "ratio_mercado": 0.946,
-  "motivo": "precio normal (95 % del cuartil bajo de 15238)"
- },
- {
   "fecha": "2026-11-16T21:23:07.558935+00:00",
   "marca": "Rolex",
   "titulo": "Vintage 60’s Rolex Ref 7002 Cal 1520 Automatic 14kt GF Men’s Watch Works",
@@ -10856,5 +10805,56 @@
    "nota": "Precio pedido de US$26.699 muy por encima del valor de mercado de un Roadster de dama en oro 18K con diamantes usado; no es una oportunidad."
   },
   "motivo": "triage: Precio pedido de US$26.699 muy por encima del valor de mercado de un Roadster de dama en oro 18K con diamantes usado; no es una oportunidad. (justo 13500)"
+ },
+ {
+  "fecha": "2026-11-19T16:10:19.211958+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere 84783747 18K Yellow Gold Ladies Watch",
+  "total": 20699.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227621903337",
+  "item_id": "v1|227621903337|0",
+  "triage": {
+   "modelo": "Cartier Panthère de Cartier, cuarzo, mujer, oro amarillo 18K, brazalete de eslabones",
+   "referencia": null,
+   "precio_justo_usd": 10500,
+   "interesante": false,
+   "nota": "Precio pedido muy superior al de venta real de este modelo en oro 18K; la referencia no se puede confirmar en la foto."
+  },
+  "motivo": "triage: Precio pedido muy superior al de venta real de este modelo en oro 18K; la referencia no se puede confirmar en la foto. (justo 10500)"
+ },
+ {
+  "fecha": "2026-11-19T16:10:19.211958+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Paris 10713 18K Yellow Gold Ladies Watch",
+  "total": 6666.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227621895198",
+  "item_id": "v1|227621895198|0",
+  "triage": {
+   "modelo": "Cartier Paris de oro amarillo 18K, dial blanco con numerales romanos, correa de cuero negra (cuarzo, vintage)",
+   "referencia": "10713 (según título; no verificable en la imagen)",
+   "precio_justo_usd": 2200,
+   "interesante": false,
+   "nota": "Reloj vintage de cuarzo en oro 18K, que suele venderse entre US$1.500 y 2.500; el precio pedido de US$6.666 está muy por encima del mercado."
+  },
+  "motivo": "triage: Reloj vintage de cuarzo en oro 18K, que suele venderse entre US$1.500 y 2.500; el precio pedido de US$6.666 está muy por encima del mercado. (justo 2200)"
+ },
+ {
+  "fecha": "2026-11-19T16:10:19.211958+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Swiss Made Women's Dress Analog Wristwatch Round Black/Gold, Box",
+  "total": 630.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377659264940",
+  "item_id": "v1|377659264940|0",
+  "triage": {
+   "modelo": "Tudor vintage de dama, caja redonda de esmalte negro con detalles dorados (posible pieza de colgante o de cuerda)",
+   "referencia": null,
+   "precio_justo_usd": 350,
+   "interesante": false,
+   "nota": "Reloj de dama vintage sin referencia legible ni fecha; el precio pedido de US$630 supera la estimación conservadora para este tipo de pieza."
+  },
+  "motivo": "triage: Reloj de dama vintage sin referencia legible ni fecha; el precio pedido de US$630 supera la estimación conservadora para este tipo de pieza. (justo 350)"
  }
 ]
