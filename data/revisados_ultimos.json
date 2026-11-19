@@ -1,29 +1,6 @@
 [
  {
   "fecha": "2026-11-16T20:07:57.178378+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere WSPN0007 with AM Diamonds",
-  "total": 4550.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267845430858",
-  "item_id": "v1|267845430858|0",
-  "referencia": "WSPN0007",
-  "mercado": {
-   "n": 8,
-   "p25": 5765,
-   "mediana": 5858
-  },
-  "ratio_mercado": 0.789,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 3600,
-   "riesgo_autenticidad": "medio",
-   "estado": "Aspecto bueno a excelente en fotos macro, pero con diamantes no originales y sin fondo de caja ni caja original"
-  },
-  "motivo": "Claude descarto: Los diamantes son aftermarket, según el propio título y la descripción. Cartier no fabrica esta WSPN0007 con bisel y brazalete full pavé, así que se pierde el valor de pieza original y el reloj es más difícil de revender a compradores serios.; No hay garantía de que las piedras sean diamantes. No se mencionan quilates, claridad ni certificado, y a ojo podrían ser moissanita o CZ. Habría que probarlas con un tester antes de pagar."
- },
- {
-  "fecha": "2026-11-16T20:07:57.178378+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR Black Bay 41mm Men's Watch, M79680-0003, S17243",
   "total": 4730.0,
@@ -10852,5 +10829,22 @@
   },
   "ratio_mercado": 1.089,
   "motivo": "precio normal (109 % del cuartil bajo de 116660)"
+ },
+ {
+  "fecha": "2026-11-19T13:25:19.115394+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Reverse Panda Chronograph 41mm Black Bay 79360N-0001",
+  "total": 4295.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920160371577",
+  "item_id": "v1|920160371577|0",
+  "referencia": "79360N-0001",
+  "mercado": {
+   "n": 51,
+   "p25": 4630,
+   "mediana": 5250
+  },
+  "ratio_mercado": 0.928,
+  "motivo": "precio normal (93 % del cuartil bajo de 79360N-0001)"
  }
 ]
