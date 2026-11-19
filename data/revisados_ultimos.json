@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-11-16T16:22:57.170513+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona 116505 18K Rose Gold (Chocolate Dial) 40mm Watch (Box&Papers) 2018",
-  "total": 54060.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117524815739",
-  "item_id": "v1|117524815739|0",
-  "referencia": "116505",
-  "mercado": {
-   "n": 35,
-   "p25": 48388,
-   "mediana": 51990
-  },
-  "ratio_mercado": 1.117,
-  "motivo": "precio normal (112 % del cuartil bajo de 116505)"
- },
- {
-  "fecha": "2026-11-16T16:22:57.170513+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 1500 Men's Automatic Date Silver Stainless Steel Bracelet Watch",
-  "total": 3200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198800165598",
-  "item_id": "v1|198800165598|0",
-  "triage": {
-   "modelo": "Rolex Datejust (Oyster Perpetual Date) de acero, esfera plateada con marcadores de barra",
-   "referencia": "1500",
-   "precio_justo_usd": 2900,
-   "interesante": false,
-   "nota": "Ref. 1500 vintage de acero con brazalete Oyster; a US$3200 queda por encima del valor de venta cerrada, sobre todo sin indicar caja, papeles ni servicio."
-  },
-  "motivo": "triage: Ref. 1500 vintage de acero con brazalete Oyster; a US$3200 queda por encima del valor de venta cerrada, sobre todo sin indicar caja, papeles ni servicio. (justo 2900)"
- },
- {
-  "fecha": "2026-11-16T16:22:57.170513+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Baignoire 1920 W15133L2  18K White Gold Ladies Watch",
   "total": 21699.0,
@@ -10845,5 +10811,39 @@
   },
   "ratio_mercado": 0.973,
   "motivo": "precio normal (97 % del cuartil bajo de 79030B)"
+ },
+ {
+  "fecha": "2026-11-19T00:24:43.639332+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex AIR KING 116900",
+  "total": 7970.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307289608722",
+  "item_id": "v1|307289608722|0",
+  "referencia": "116900",
+  "mercado": {
+   "n": 27,
+   "p25": 8145,
+   "mediana": 8533
+  },
+  "ratio_mercado": 0.979,
+  "motivo": "precio normal (98 % del cuartil bajo de 116900)"
+ },
+ {
+  "fecha": "2026-11-19T00:24:43.639332+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Ranger 39mm \"Dune\" 79950, Full Set  Excellent ",
+  "total": 3725.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287740133323",
+  "item_id": "v1|287740133323|0",
+  "referencia": "79950",
+  "mercado": {
+   "n": 9,
+   "p25": 3299,
+   "mediana": 3594
+  },
+  "ratio_mercado": 1.129,
+  "motivo": "precio normal (113 % del cuartil bajo de 79950)"
  }
 ]
