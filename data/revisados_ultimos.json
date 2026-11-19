@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-16T20:07:57.178378+00:00",
-  "marca": "Tudor",
-  "titulo": "tudor royal 34mm",
-  "total": 3500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/168867182883",
-  "item_id": "v1|168867182883|0",
-  "triage": {
-   "modelo": "Tudor Royal 34 mm, esfera azul (con marcadores de diamante según se ve), brazalete de acero",
-   "referencia": "M28500 (aprox., verificar caja y reverso)",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Precio pedido de US$3500 está por encima de lo que se vende realmente este modelo usado en EE. UU.; no hay margen de compra."
-  },
-  "motivo": "triage: Precio pedido de US$3500 está por encima de lo que se vende realmente este modelo usado en EE. UU.; no hay margen de compra. (justo 3000)"
- },
- {
   "fecha": "2026-11-16T20:22:57.775976+00:00",
   "marca": "Rolex",
   "titulo": "1993 Rolex Submariner Date 16613 Bluesy Two-Tone 18k/SS S-Serial Papers",
@@ -10846,5 +10829,22 @@
    "nota": "Pre-owned en buen estado; el precio pedido queda por encima del valor de reventa estimado para esta edición de 2024, sin descuento suficiente."
   },
   "motivo": "triage: Pre-owned en buen estado; el precio pedido queda por encima del valor de reventa estimado para esta edición de 2024, sin descuento suficiente. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-19T13:55:19.456427+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 34mm Blue Turquoise Steel Automatic Watch 5500 Circa 1968",
+  "total": 4400.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800938563542",
+  "item_id": "v1|800938563542|0",
+  "referencia": "5500",
+  "mercado": {
+   "n": 21,
+   "p25": 4000,
+   "mediana": 4450
+  },
+  "ratio_mercado": 1.1,
+  "motivo": "precio normal (110 % del cuartil bajo de 5500)"
  }
 ]
