@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-16T17:22:57.399575+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Daytona Chronograph 18k Yellow Gold MOP Diamond 40mm Watch +12' 116528",
-  "total": 52088.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147683478552",
-  "item_id": "v1|147683478552|0",
-  "referencia": "116528",
-  "mercado": {
-   "n": 28,
-   "p25": 44990,
-   "mediana": 48689
-  },
-  "ratio_mercado": 1.158,
-  "motivo": "precio normal (116 % del cuartil bajo de 116528)"
- },
- {
-  "fecha": "2026-11-16T17:22:57.399575+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust President Yellow Gold MOP Diamond D/B 26mm Watch +Paper K 179138",
-  "total": 24300.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147683478553",
-  "item_id": "v1|147683478553|0",
-  "referencia": "179138",
-  "mercado": {
-   "n": 8,
-   "p25": 20990,
-   "mediana": 23145
-  },
-  "ratio_mercado": 1.158,
-  "motivo": "precio normal (116 % del cuartil bajo de 179138)"
- },
- {
-  "fecha": "2026-11-16T17:22:57.399575+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Submariner 18k Yellow Gold/Steel Ceramic Black 41mm Watch +Card '22 126613",
   "total": 19195.0,
   "condicion": "Pre-owned - Good",
@@ -10850,5 +10816,39 @@
   },
   "ratio_mercado": 1.147,
   "motivo": "precio normal (115 % del cuartil bajo de 16613)"
+ },
+ {
+  "fecha": "2026-11-19T04:09:55.863423+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank W51011Q3 / 2465 Tank Francaise 25mm",
+  "total": 3250.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198806749718",
+  "item_id": "v1|198806749718|0",
+  "referencia": "2465",
+  "mercado": {
+   "n": 31,
+   "p25": 3599,
+   "mediana": 3800
+  },
+  "ratio_mercado": 0.903,
+  "motivo": "precio normal (90 % del cuartil bajo de 2465)"
+ },
+ {
+  "fecha": "2026-11-19T04:09:55.863423+00:00",
+  "marca": "Tudor",
+  "titulo": "Vintage Tudor Prince Oysterdate",
+  "total": 1550.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920158899001",
+  "item_id": "v1|920158899001|0",
+  "triage": {
+   "modelo": "Tudor Prince Oysterdate (Oysterdate con fecha, bisel acanalado, esfera champán)",
+   "referencia": "7016/7017 (probable, sin confirmar)",
+   "precio_justo_usd": 1500,
+   "interesante": false,
+   "nota": "Vintage de acero con fecha, estado Good y correa de cuero; el precio pedido está cerca del valor de mercado y no hay un descuento de al menos 15 % sin verificar referencia, esfera y movimiento."
+  },
+  "motivo": "triage: Vintage de acero con fecha, estado Good y correa de cuero; el precio pedido está cerca del valor de mercado y no hay un descuento de al menos 15 % sin verificar referencia, esfera y movimiento. (justo 1500)"
  }
 ]
