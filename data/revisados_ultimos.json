@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-11-16T18:37:57.572123+00:00",
-  "marca": "Cartier",
-  "titulo": "42134: Cartier Medium Ballon Bleu 33mm, Ref. W6920084, Quartz, Box and 2020 Card",
-  "total": 5250.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900096718708",
-  "item_id": "v1|900096718708|0",
-  "referencia": "W6920084",
-  "mercado": {
-   "n": 4,
-   "p25": 5512,
-   "mediana": 5618
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu de Cartier 33 mm, acero, cuarzo, esfera plateada con numerales romanos",
-   "referencia": "W6920084",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Precio pedido de US$5,250 está muy por encima del valor de venta real (aprox. US$2,800-3,400 con caja y papeles); no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$5,250 está muy por encima del valor de venta real (aprox. US$2,800-3,400 con caja y papeles); no es una oportunidad. (justo 3000)"
- },
- {
-  "fecha": "2026-11-16T18:52:57.295583+00:00",
-  "marca": "Rolex",
-  "titulo": "2021 PAPERS Rolex Oyster Perpetual Date Steel BLUE Smooth 34mm 115200 Watch BOX",
-  "total": 7275.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198800506867",
-  "item_id": "v1|198800506867|0",
-  "referencia": "115200",
-  "mercado": {
-   "n": 7,
-   "p25": 6200,
-   "mediana": 6900
-  },
-  "ratio_mercado": 1.173,
-  "motivo": "precio normal (117 % del cuartil bajo de 115200)"
- },
- {
   "fecha": "2026-11-16T19:07:57.285674+00:00",
   "marca": "Rolex",
   "titulo": "Benny & Co. Benny and co watch rolex diamond jacob carat",
@@ -10856,5 +10816,39 @@
    "nota": "Precio pedido cerca del retail; de segunda mano en buen estado se vende bastante por debajo. Referencia tomada del título, no verificable en la imagen."
   },
   "motivo": "triage: Precio pedido cerca del retail; de segunda mano en buen estado se vende bastante por debajo. Referencia tomada del título, no verificable en la imagen. (justo 3400)"
+ },
+ {
+  "fecha": "2026-11-19T06:25:08.231643+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Thunderbird 1625 Turn-O-Graph 18K Gold Two-Tone Watch Circa 1970",
+  "total": 9800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128204247468",
+  "item_id": "v1|128204247468|0",
+  "triage": {
+   "modelo": "Rolex Datejust Thunderbird (Turn-O-Graph) dos tonos acero y oro amarillo de 18K",
+   "referencia": "1625",
+   "precio_justo_usd": 7800,
+   "interesante": false,
+   "nota": "Bisel Turn-O-Graph y esfera de bastones consistentes con la 1625; el precio pedido de US$9800 queda por encima del rango de venta cerrada para estado Good."
+  },
+  "motivo": "triage: Bisel Turn-O-Graph y esfera de bastones consistentes con la 1625; el precio pedido de US$9800 queda por encima del rango de venta cerrada para estado Good. (justo 7800)"
+ },
+ {
+  "fecha": "2026-11-19T06:25:08.231643+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu 3001 42mm Two-Tone 18K Yellow Gold Steel Automatic Watch",
+  "total": 8500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128204247640",
+  "item_id": "v1|128204247640|0",
+  "referencia": "3001",
+  "mercado": {
+   "n": 22,
+   "p25": 5005,
+   "mediana": 6495
+  },
+  "ratio_mercado": 1.698,
+  "motivo": "precio normal (170 % del cuartil bajo de 3001)"
  }
 ]
