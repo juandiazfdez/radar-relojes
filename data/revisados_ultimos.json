@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-11-17T03:23:16.411774+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex Oyster Perpetual Date in 14k yellow gold",
-  "total": 9213.24,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206706908514",
-  "item_id": "v1|206706908514|0",
-  "triage": {
-   "modelo": "Rolex Datejust vintage en oro amarillo, esfera negra (el título dice Oyster Perpetual Date, pero el bisel acanalado indica Datejust)",
-   "referencia": "1601 (probable)",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "El precio pedido está muy por encima del valor de mercado; además, el título no coincide con el bisel acanalado visible y el oro de 14k es poco habitual en Rolex, así que conviene verificar."
-  },
-  "motivo": "triage: El precio pedido está muy por encima del valor de mercado; además, el título no coincide con el bisel acanalado visible y el oro de 14k es poco habitual en Rolex, así que conviene verificar. (justo 4000)"
- },
- {
-  "fecha": "2026-11-17T03:23:16.411774+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage TUDOR Prince Tiger 79280 Men’s Chronograph Wristwatch Rolex Daytona",
-  "total": 3699.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800927633754",
-  "item_id": "v1|800927633754|0",
-  "triage": {
-   "modelo": "Cronógrafo de acero con bisel tipo tacómetro y correa negra; no coincide con el anuncio y no parece Tudor ni Rolex",
-   "referencia": null,
-   "precio_justo_usd": 1200,
-   "interesante": false,
-   "nota": "El título dice Tudor 79280/Rolex Daytona, pero la foto muestra otro cronógrafo (aspecto Breitling). Listado engañoso; no se puede verificar la referencia Tudor."
-  },
-  "motivo": "triage: El título dice Tudor 79280/Rolex Daytona, pero la foto muestra otro cronógrafo (aspecto Breitling). Listado engañoso; no se puede verificar la referencia Tudor. (justo 1200)"
- },
- {
-  "fecha": "2026-11-17T03:23:16.411774+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Calibre in stainless steel",
   "total": 6774.44,
@@ -10896,5 +10862,39 @@
    "nota": "Pelagos 25600TN usado en buen estado se vende en torno a US$3.300-3.700; el precio pedido de US$4.599 está muy por encima."
   },
   "motivo": "triage: Pelagos 25600TN usado en buen estado se vende en torno a US$3.300-3.700; el precio pedido de US$4.599 está muy por encima. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-19T21:10:29.550564+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41, Bright Black Diamond Dial, Steel & Gold, 126303",
+  "total": 22256.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/366823125648",
+  "item_id": "v1|366823125648|0",
+  "referencia": "126303",
+  "mercado": {
+   "n": 20,
+   "p25": 16217,
+   "mediana": 17838
+  },
+  "ratio_mercado": 1.372,
+  "motivo": "precio normal (137 % del cuartil bajo de 126303)"
+ },
+ {
+  "fecha": "2026-11-19T21:10:29.550564+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41, 126300, Steel, White Roman, Oyster Bracelet",
+  "total": 13072.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206713715102",
+  "item_id": "v1|206713715102|0",
+  "referencia": "126300",
+  "mercado": {
+   "n": 42,
+   "p25": 11895,
+   "mediana": 12017
+  },
+  "ratio_mercado": 1.099,
+  "motivo": "precio normal (110 % del cuartil bajo de 126300)"
  }
 ]
