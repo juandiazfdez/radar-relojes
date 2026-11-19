@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-16T21:23:07.558935+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay GMT 41mm Pepsi 79830RB B&P 2024",
-  "total": 4335.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128199059132",
-  "item_id": "v1|128199059132|0",
-  "referencia": "79830RB",
-  "mercado": {
-   "n": 53,
-   "p25": 3758,
-   "mediana": 3999
-  },
-  "ratio_mercado": 1.154,
-  "motivo": "precio normal (115 % del cuartil bajo de 79830RB)"
- },
- {
   "fecha": "2026-11-16T21:38:07.443379+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Daytona 116588 SACO",
@@ -10856,5 +10839,22 @@
   },
   "ratio_mercado": 0.888,
   "motivo": "precio normal (89 % del cuartil bajo de 79377KN)"
+ },
+ {
+  "fecha": "2026-11-19T16:40:19.168326+00:00",
+  "marca": "Rolex",
+  "titulo": "VINTAGE 1963 ROLEX GMT-MASTER 1675 WATCH CASE",
+  "total": 7500.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/860158778614",
+  "item_id": "v1|860158778614|0",
+  "triage": {
+   "modelo": "Rolex GMT-Master (caja sola, acero)",
+   "referencia": "1675",
+   "precio_justo_usd": 400,
+   "interesante": false,
+   "nota": "Solo se ve una caja vacía sin esfera, movimiento ni corona; el precio de US$7500 corresponde a un reloj completo, por lo que el listado parece engañoso."
+  },
+  "motivo": "triage: Solo se ve una caja vacía sin esfera, movimiento ni corona; el precio de US$7500 corresponde a un reloj completo, por lo que el listado parece engañoso. (justo 400)"
  }
 ]
