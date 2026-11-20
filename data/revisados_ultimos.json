@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-17T20:23:53.880477+00:00",
   "marca": "Rolex",
-  "titulo": "New 2026 Rolex GMT-Master II Sprite Lefty 126720VTNR 40MM Black Oyster Steel B/p",
-  "total": 17200.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/117527124356",
-  "item_id": "v1|117527124356|0",
-  "referencia": "126720VTNR",
-  "mercado": {
-   "n": 63,
-   "p25": 18250,
-   "mediana": 19020
-  },
-  "ratio_mercado": 0.942,
-  "motivo": "precio normal (94 % del cuartil bajo de 126720VTNR)"
- },
- {
-  "fecha": "2026-11-17T20:23:53.880477+00:00",
-  "marca": "Rolex",
   "titulo": "2025 CPO Rolex 116619LB Submariner Smurf White Gold Blue 40mm Ceramic Watch CARD",
   "total": 38950.0,
   "condicion": "Pre-owned - Good",
@@ -10985,5 +10968,22 @@
   },
   "ratio_mercado": 1.519,
   "motivo": "precio normal (152 % del cuartil bajo de 126000)"
+ },
+ {
+  "fecha": "2026-11-20T11:25:57.501054+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Quartz Sliver watch",
+  "total": 2000.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800942217770",
+  "item_id": "v1|800942217770|0",
+  "triage": {
+   "modelo": "Cartier Santos (aparente versión personalizada 'iced out', no de catálogo)",
+   "referencia": null,
+   "precio_justo_usd": 900,
+   "interesante": false,
+   "nota": "La foto muestra bisel y brazalete totalmente engastados, no un Santos de serie; el título dice 'Quartz Sliver' y el precio de US$2000 nuevo con caja y papeles no encaja. Posible modificación, réplica o listado engañoso; no recomendable sin verificación."
+  },
+  "motivo": "triage: La foto muestra bisel y brazalete totalmente engastados, no un Santos de serie; el título dice 'Quartz Sliver' y el precio de US$2000 nuevo con caja y papeles no encaja. Posible modificación, réplica o listado engañoso; no recomendable sin verificación. (justo 900)"
  }
 ]
