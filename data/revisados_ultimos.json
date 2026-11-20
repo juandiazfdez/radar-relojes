@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-17T21:53:54.161866+00:00",
   "marca": "Rolex",
-  "titulo": "2016 Rolex Day-Date 40 40mm Yellow Gold 228238",
-  "total": 45995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880127435682",
-  "item_id": "v1|880127435682|0",
-  "referencia": "228238",
-  "mercado": {
-   "n": 30,
-   "p25": 48500,
-   "mediana": 48992
-  },
-  "ratio_mercado": 0.948,
-  "motivo": "precio normal (95 % del cuartil bajo de 228238)"
- },
- {
-  "fecha": "2026-11-17T21:53:54.161866+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Daytona \"2026\" 126500LN",
   "total": 35670.94,
   "condicion": "New with box and papers",
@@ -10973,5 +10956,28 @@
    "nota": "El título dice acero inoxidable, pero la caja dorada indica vermeil (plata chapada en oro), no acero. Además, el precio pedido de US$2652 está muy por encima de lo que se vende este modelo usado."
   },
   "motivo": "triage: El título dice acero inoxidable, pero la caja dorada indica vermeil (plata chapada en oro), no acero. Además, el precio pedido de US$2652 está muy por encima de lo que se vende este modelo usado. (justo 500)"
+ },
+ {
+  "fecha": "2026-11-20T16:25:57.416725+00:00",
+  "marca": "Cartier",
+  "titulo": "2019 Cartier Rotonde de Cartier- W1556368 – Full Set",
+  "total": 6400.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920164754562",
+  "item_id": "v1|920164754562|0",
+  "referencia": "W1556368",
+  "mercado": {
+   "n": 3,
+   "p25": 5355,
+   "mediana": 5595
+  },
+  "triage": {
+   "modelo": "Cartier Rotonde de Cartier Big Date (acero, esfera plateada, indicación de fecha grande)",
+   "referencia": "W1556368",
+   "precio_justo_usd": 5900,
+   "interesante": false,
+   "nota": "Precio pedido de 6400 USD está por encima del rango de venta cerrada para esta referencia en estado excelente con caja y papeles; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido de 6400 USD está por encima del rango de venta cerrada para esta referencia en estado excelente con caja y papeles; no hay descuento suficiente. (justo 5900)"
  }
 ]
