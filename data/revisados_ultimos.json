@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-11-17T20:53:54.012427+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 New Tudor Ranger Black 8/26 Ref# 79930 36mm",
-  "total": 3748.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/257857451126",
-  "item_id": "v1|257857451126|0",
-  "referencia": "79930",
-  "mercado": {
-   "n": 3,
-   "p25": 3495,
-   "mediana": 3757
-  },
-  "triage": {
-   "modelo": "Tudor Ranger Black (36 mm, acero, bisel liso, esfera negra)",
-   "referencia": "79930",
-   "precio_justo_usd": 3100,
-   "interesante": false,
-   "nota": "Nuevo con caja y papeles, el precio pedido está cerca del retail y no tiene descuento de mercado gris suficiente; la referencia 79930 se vende normalmente 15-20 % por debajo."
-  },
-  "motivo": "triage: Nuevo con caja y papeles, el precio pedido está cerca del retail y no tiene descuento de mercado gris suficiente; la referencia 79930 se vende normalmente 15-20 % por debajo. (justo 3100)"
- },
- {
-  "fecha": "2026-11-17T20:53:54.012427+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor glamour Men's 36mm Watch Case and  Steel Bracelet",
-  "total": 300.0,
-  "condicion": "For parts or not working",
-  "url": "https://www.ebay.com/itm/128201264887",
-  "item_id": "v1|128201264887|0",
-  "triage": {
-   "modelo": "Tudor Glamour (carcasa y brazalete de acero, sin esfera ni maquinaria visibles; posiblemente pieza de repuesto)",
-   "referencia": null,
-   "precio_justo_usd": 150,
-   "interesante": false,
-   "nota": "Es una carcasa vacía con brazalete, vendida para piezas o no funcional. Tudor Glamour suele ser de 42 mm, así que el título de 36 mm no cuadra. Por US$300 no hay margen, y un reloj completo funcional sale mucho más caro."
-  },
-  "motivo": "triage: Es una carcasa vacía con brazalete, vendida para piezas o no funcional. Tudor Glamour suele ser de 42 mm, así que el título de 36 mm no cuadra. Por US$300 no hay margen, y un reloj completo funcional sale mucho más caro. (justo 150)"
- },
- {
   "fecha": "2026-11-17T21:08:53.935913+00:00",
   "marca": "Rolex",
   "titulo": "Rolex President Datejust Yellow Gold Diamond Ladies Watch 179158 Box Card",
@@ -10973,5 +10933,39 @@
    "nota": "Precio pedido muy por encima de lo que se vende este Cougar de cuarzo de acero usado; el titulo mezcla Panthere y Cougar y no hay caja ni papeles visibles."
   },
   "motivo": "triage: Precio pedido muy por encima de lo que se vende este Cougar de cuarzo de acero usado; el titulo mezcla Panthere y Cougar y no hay caja ni papeles visibles. (justo 1400)"
+ },
+ {
+  "fecha": "2026-11-20T14:25:56.866710+00:00",
+  "marca": "Rolex",
+  "titulo": "2008 Rolex Submariner 14060M 4-Liner ",
+  "total": 11550.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198810532415",
+  "item_id": "v1|198810532415|0",
+  "referencia": "14060M",
+  "mercado": {
+   "n": 17,
+   "p25": 10700,
+   "mediana": 11555
+  },
+  "ratio_mercado": 1.079,
+  "motivo": "precio normal (108 % del cuartil bajo de 14060M)"
+ },
+ {
+  "fecha": "2026-11-20T14:25:56.866710+00:00",
+  "marca": "Rolex",
+  "titulo": "1987 Rolex Datejust 16013 36MM (Serviced) Champagne Linen Dial. Jubilee Bracelet",
+  "total": 4300.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237194755346",
+  "item_id": "v1|237194755346|0",
+  "referencia": "16013",
+  "mercado": {
+   "n": 22,
+   "p25": 1815,
+   "mediana": 4450
+  },
+  "ratio_mercado": 2.369,
+  "motivo": "precio normal (237 % del cuartil bajo de 16013)"
  }
 ]
