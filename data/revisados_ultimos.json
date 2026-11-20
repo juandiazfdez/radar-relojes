@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-18T17:09:32.800430+00:00",
   "marca": "Rolex",
-  "titulo": "Vintage 34mm 1959 Rolex Oyster Perpetual Mechanical Wristwatch Gold Capped 1014",
-  "total": 3955.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137942161278",
-  "item_id": "v1|137942161278|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual 34 mm (caja chapada en oro, Gold Capped)",
-   "referencia": "1014",
-   "precio_justo_usd": 1900,
-   "interesante": false,
-   "nota": "Caja chapada en oro, no oro macizo; esfera champán de la era 1950-60. El precio pedido de US$3955 está muy por encima de lo que se vende esta referencia en buen estado."
-  },
-  "motivo": "triage: Caja chapada en oro, no oro macizo; esfera champán de la era 1950-60. El precio pedido de US$3955 está muy por encima de lo que se vende esta referencia en buen estado. (justo 1900)"
- },
- {
-  "fecha": "2026-11-18T17:09:32.800430+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 116710 LN Black Stainless Steel Ceramic Oyster 40mm Watch",
-  "total": 11611.97,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267847166073",
-  "item_id": "v1|267847166073|0",
-  "referencia": "116710",
-  "mercado": {
-   "n": 48,
-   "p25": 13448,
-   "mediana": 13994
-  },
-  "ratio_mercado": 0.863,
-  "motivo": "precio normal (86 % del cuartil bajo de 116710)"
- },
- {
-  "fecha": "2026-11-18T17:09:32.800430+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Submariner Date 16610T Black 40mm No-Holes Rehaut Stainless Steel Watch",
   "total": 9368.86,
   "condicion": "Pre-owned - Excellent",
@@ -10963,5 +10929,39 @@
    "nota": "Título truncado y material no confirmado (posiblemente acero o bicolor); en ese caso se vende cerca de US$1,800-3,000. Con US$3,500 está por encima del precio de mercado."
   },
   "motivo": "triage: Título truncado y material no confirmado (posiblemente acero o bicolor); en ese caso se vende cerca de US$1,800-3,000. Con US$3,500 está por encima del precio de mercado. (justo 2600)"
+ },
+ {
+  "fecha": "2026-11-20T23:11:21.295687+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona 116515LN Chocolate Arabic Rose Gold on Oysterflex",
+  "total": 38150.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267849491185",
+  "item_id": "v1|267849491185|0",
+  "referencia": "116515LN",
+  "mercado": {
+   "n": 13,
+   "p25": 41000,
+   "mediana": 44988
+  },
+  "ratio_mercado": 0.93,
+  "motivo": "precio normal (93 % del cuartil bajo de 116515LN)"
+ },
+ {
+  "fecha": "2026-11-20T23:11:21.295687+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yachtmaster White Gold Oysterflex Bracelet Mens Watch 226659 Box Card",
+  "total": 34800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336908000768",
+  "item_id": "v1|336908000768|0",
+  "referencia": "226659",
+  "mercado": {
+   "n": 24,
+   "p25": 30000,
+   "mediana": 31975
+  },
+  "ratio_mercado": 1.16,
+  "motivo": "precio normal (116 % del cuartil bajo de 226659)"
  }
 ]
