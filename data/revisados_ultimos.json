@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-17T21:53:54.161866+00:00",
   "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay One S&G 31mm Stainless Steel/Yellow Gold M79613-0007",
-  "total": 7295.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880127462817",
-  "item_id": "v1|880127462817|0",
-  "referencia": "M79613-0007",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay S&G 31mm acero/oro amarillo (la foto parece mostrar un reloj bicolor tipo Rolex Datejust, no coincide con el listado)",
-   "referencia": "M79613-0007",
-   "precio_justo_usd": 6000,
-   "interesante": false,
-   "nota": "El precio pedido supera el valor de mercado estimado para esta referencia, y la foto no coincide con el listado Tudor; revisar autenticidad y el anuncio antes de considerarlo."
-  },
-  "motivo": "triage: El precio pedido supera el valor de mercado estimado para esta referencia, y la foto no coincide con el listado Tudor; revisar autenticidad y el anuncio antes de considerarlo. (justo 6000)"
- },
- {
-  "fecha": "2026-11-17T21:53:54.161866+00:00",
-  "marca": "Tudor",
   "titulo": "TUDOR Prince Oysterdate Automatic Self-Winding Date Two-Tone Steel Bracelet",
   "total": 1110.0,
   "condicion": "Pre-owned - Good",
@@ -10979,5 +10956,22 @@
    "nota": "El título dice oro y acero, pero la foto muestra caja de oro macizo: revisar la descripción. El precio pedido de US$6.732 no está ≥15 % por debajo del valor de venta cerrada de este modelo."
   },
   "motivo": "triage: El título dice oro y acero, pero la foto muestra caja de oro macizo: revisar la descripción. El precio pedido de US$6.732 no está ≥15 % por debajo del valor de venta cerrada de este modelo. (justo 5800)"
+ },
+ {
+  "fecha": "2026-11-20T16:56:11.081109+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Américaine 18k Gold 26mm Quartz Watch w/ Box & Cert",
+  "total": 25500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940108731619",
+  "item_id": "v1|940108731619|0",
+  "triage": {
+   "modelo": "Cartier Tank Américaine 18k oro amarillo, cuarzo, 26 mm",
+   "referencia": "null",
+   "precio_justo_usd": 11500,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de reventa de esta Tank Américaine de oro 18k de cuarzo, aun con caja y certificado. La referencia exacta no se identifica con certeza desde el título."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de reventa de esta Tank Américaine de oro 18k de cuarzo, aun con caja y certificado. La referencia exacta no se identifica con certeza desde el título. (justo 11500)"
  }
 ]
