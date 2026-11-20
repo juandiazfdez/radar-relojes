@@ -6630,9 +6630,9 @@
   "max": 18940
  },
  "Rolex 118238|usado": {
-  "fecha": "2026-11-17",
+  "fecha": "2026-11-20",
   "consulta": "Rolex 118238",
-  "n": 57,
+  "n": 59,
   "mediana": 28990,
   "p25": 27990,
   "p75": 29990,
@@ -18640,12 +18640,12 @@
   "max": 22500
  },
  "Rolex 116264|usado": {
-  "fecha": "2026-11-17",
+  "fecha": "2026-11-20",
   "consulta": "Rolex 116264",
-  "n": 7,
-  "mediana": 9120,
-  "p25": 7800,
-  "p75": 10895,
+  "n": 8,
+  "mediana": 9310,
+  "p25": 8640,
+  "p75": 9695,
   "min": 6836,
   "max": 12800
  },
@@ -22173,5 +22173,20 @@
   "fecha": "2026-11-20",
   "consulta": "Cartier W2SA0007",
   "n": 0
+ },
+ "Cartier WGPN0051|nuevo": {
+  "fecha": "2026-11-20",
+  "consulta": "Cartier WGPN0051",
+  "n": 0
+ },
+ "Cartier W2PN0007|usado": {
+  "fecha": "2026-11-20",
+  "consulta": "Cartier W2PN0007",
+  "n": 2,
+  "mediana": 10224,
+  "p25": 9950,
+  "p75": 10499,
+  "min": 9950,
+  "max": 10499
  }
 }
