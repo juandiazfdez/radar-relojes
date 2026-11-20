@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-17T19:23:36.488820+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Datejust 179173 26mm Two Tone 18K Gold Champagne Jubilee Ladies Watch",
-  "total": 7900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940100324313",
-  "item_id": "v1|940100324313|0",
-  "referencia": "179173",
-  "mercado": {
-   "n": 78,
-   "p25": 9877,
-   "mediana": 10128
-  },
-  "ratio_mercado": 0.8,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 6800,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Bueno a muy bueno, con rayones leves a moderados, caja sin papeles y sin año confirmado"
-  },
-  "motivo": "Claude descarto: Las fotos son reales, tomadas en un soporte, y coinciden con un 179173 genuino: bisel acanalado, corona de oro, texto de esfera y fecha en 28 coherentes en todas las tomas. No veo señales claras de réplica ni de esfera repintada. La esfera y las agujas parecen originales y limpias.; Faltan la foto del fondo de caja y la del movimiento. No se puede verificar el número de serie, el año ni el calibre 2235. Tampoco hay foto de los números entre los cuernos ni del cierre. El vendedor garantiza autenticidad en el texto, pero el campo estructurado de garantía de autenticidad está en 'No'."
- },
- {
-  "fecha": "2026-11-17T19:23:36.488820+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Lady-Datejust NEW 2026 Pink Index Two Tone Rose Gold Diamond Jubilee",
   "total": 25995.0,
   "condicion": "New with box and papers",
@@ -10984,5 +10961,28 @@
    "nota": "Referencia actual correcta con caja y papeles, pero el precio pedido (US$3.368 con envío) está por encima del valor de venta real de un usado en buen estado."
   },
   "motivo": "triage: Referencia actual correcta con caja y papeles, pero el precio pedido (US$3.368 con envío) está por encima del valor de venta real de un usado en buen estado. (justo 3100)"
+ },
+ {
+  "fecha": "2026-11-20T01:55:39.968686+00:00",
+  "marca": "Cartier",
+  "titulo": "CARTIER SANTOS DUMONT LARGE WSSA0022",
+  "total": 4200.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227622451624",
+  "item_id": "v1|227622451624|0",
+  "referencia": "WSSA0022",
+  "mercado": {
+   "n": 4,
+   "p25": 5000,
+   "mediana": 5007
+  },
+  "triage": {
+   "modelo": "Cartier Santos-Dumont Large (acero, esfera blanca, numerales romanos, correa de cuero negra)",
+   "referencia": "WSSA0022",
+   "precio_justo_usd": 4800,
+   "interesante": false,
+   "nota": "Descuento de solo ~12% frente a lo que se vende este modelo de usado con caja y papeles; sin verificar autenticidad, caja, papeles ni si es cuarzo o automático."
+  },
+  "motivo": "triage: Descuento de solo ~12% frente a lo que se vende este modelo de usado con caja y papeles; sin verificar autenticidad, caja, papeles ni si es cuarzo o automático. (justo 4800)"
  }
 ]
