@@ -2,74 +2,6 @@
  {
   "fecha": "2026-11-18T17:09:32.800430+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Datejust 1601 Jubilee Bracelet",
-  "total": 4010.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960212315042",
-  "item_id": "v1|960212315042|0",
-  "triage": {
-   "modelo": "Rolex Datejust (bisel acanalado dorado, esfera plateada, brazalete Jubilee)",
-   "referencia": "1601 (probable, en acero con bisel de oro; verificar en persona)",
-   "precio_justo_usd": 4200,
-   "interesante": false,
-   "nota": "Precio cercano al valor de mercado para un 1601 vintage de acero y oro en buen estado; sin margen de compra de al menos 15 %."
-  },
-  "motivo": "triage: Precio cercano al valor de mercado para un 1601 vintage de acero y oro en buen estado; sin margen de compra de al menos 15 %. (justo 4200)"
- },
- {
-  "fecha": "2026-11-18T17:09:32.800430+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust Silver 16014",
-  "total": 5070.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960212314306",
-  "item_id": "v1|960212314306|0",
-  "referencia": "16014",
-  "mercado": {
-   "n": 12,
-   "p25": 4550,
-   "mediana": 5299
-  },
-  "ratio_mercado": 1.114,
-  "motivo": "precio normal (111 % del cuartil bajo de 16014)"
- },
- {
-  "fecha": "2026-11-18T17:09:32.800430+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 126610LN Submariner Date 41",
-  "total": 18925.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/920157229402",
-  "item_id": "v1|920157229402|0",
-  "referencia": "126610LN",
-  "mercado": {
-   "n": 29,
-   "p25": 16000,
-   "mediana": 16395
-  },
-  "ratio_mercado": 1.183,
-  "motivo": "precio normal (118 % del cuartil bajo de 126610LN)"
- },
- {
-  "fecha": "2026-11-18T17:09:32.800430+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 18k Yellow Gold Ladies Automatic Watch Ref 6618 25mm Case",
-  "total": 7499.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880130075456",
-  "item_id": "v1|880130075456|0",
-  "referencia": "6618",
-  "mercado": {
-   "n": 11,
-   "p25": 2650,
-   "mediana": 2825
-  },
-  "ratio_mercado": 2.83,
-  "motivo": "precio normal (283 % del cuartil bajo de 6618)"
- },
- {
-  "fecha": "2026-11-18T17:09:32.800430+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual 14k & Stainless Steel Ladies Automatic Watch Ref. 69173",
   "total": 3499.99,
   "condicion": "Pre-owned - Good",
@@ -10957,5 +10889,73 @@
   },
   "ratio_mercado": 1.07,
   "motivo": "precio normal (107 % del cuartil bajo de 126610LV)"
+ },
+ {
+  "fecha": "2026-11-20T22:41:22.320649+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 116710BLNR Black And Blue Batman Oyster 2018",
+  "total": 15900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960222870933",
+  "item_id": "v1|960222870933|0",
+  "referencia": "116710BLNR",
+  "mercado": {
+   "n": 44,
+   "p25": 16005,
+   "mediana": 16850
+  },
+  "ratio_mercado": 0.993,
+  "motivo": "precio normal (99 % del cuartil bajo de 116710BLNR)"
+ },
+ {
+  "fecha": "2026-11-20T22:41:22.320649+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Midsize 31 Steel Yellow Gold Ladies Watch 178243",
+  "total": 12640.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336907974440",
+  "item_id": "v1|336907974440|0",
+  "referencia": "178243",
+  "mercado": {
+   "n": 5,
+   "p25": 11284,
+   "mediana": 11988
+  },
+  "ratio_mercado": 1.12,
+  "motivo": "precio normal (112 % del cuartil bajo de 178243)"
+ },
+ {
+  "fecha": "2026-11-20T22:41:22.320649+00:00",
+  "marca": "Rolex",
+  "titulo": "Unworn 2026 Rolex Sky-Dweller, Champagne Two-Tone Oyster, Full Set, 336933-0001",
+  "total": 28975.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/377663048268",
+  "item_id": "v1|377663048268|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller Rolesor (acero y oro amarillo), esfera champán, bisel acanalado, pulsera Oyster",
+   "referencia": "336933",
+   "precio_justo_usd": 27500,
+   "interesante": false,
+   "nota": "Precio pedido por encima de la estimación de venta real para un Sky-Dweller bicolor nuevo con papeles; no hay descuento significativo."
+  },
+  "motivo": "triage: Precio pedido por encima de la estimación de venta real para un Sky-Dweller bicolor nuevo con papeles; no hay descuento significativo. (justo 27500)"
+ },
+ {
+  "fecha": "2026-11-20T22:41:22.320649+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise Small Steel Yellow Gold Ladies Watch W51007Q4",
+  "total": 5400.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257863042762",
+  "item_id": "v1|257863042762|0",
+  "triage": {
+   "modelo": "Cartier Tank Française, acero y oro amarillo, esfera plateada con números romanos, cuarzo (versión para mujer)",
+   "referencia": "W51007Q4",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio pedido de US$5400 muy por encima del mercado para un Tank Française bitono de cuarzo usado; el valor de venta real ronda US$2,800-3,300."
+  },
+  "motivo": "triage: Precio pedido de US$5400 muy por encima del mercado para un Tank Française bitono de cuarzo usado; el valor de venta real ronda US$2,800-3,300. (justo 3000)"
  }
 ]
