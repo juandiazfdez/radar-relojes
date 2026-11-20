@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-11-18T12:24:22.934996+00:00",
-  "marca": "Rolex",
-  "titulo": "2006 Rolex Explorer II 40mm Ref. 16570 SS Auto Date GMT Watch Cal. 3185",
-  "total": 9601.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206710309710",
-  "item_id": "v1|206710309710|0",
-  "referencia": "16570",
-  "mercado": {
-   "n": 38,
-   "p25": 8445,
-   "mediana": 8970
-  },
-  "ratio_mercado": 1.137,
-  "motivo": "precio normal (114 % del cuartil bajo de 16570)"
- },
- {
-  "fecha": "2026-11-18T12:24:22.934996+00:00",
-  "marca": "Cartier",
-  "titulo": "Large 25mm  Must de Cartier Tank 2413 18k Vermeil Quartz Date Watch Cal 87",
-  "total": 4329.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206710309707",
-  "item_id": "v1|206710309707|0",
-  "referencia": "2413",
-  "mercado": {
-   "n": 2,
-   "p25": 3395,
-   "mediana": 3577
-  },
-  "triage": {
-   "modelo": "Cartier Must de Cartier Tank Large (vermeil, cuarzo, fecha)",
-   "referencia": "2413",
-   "precio_justo_usd": 950,
-   "interesante": false,
-   "nota": "Must de Cartier en vermeil (plaqué oro) de cuarzo, estado usado: se vende normalmente entre US$800 y 1.100; el precio pedido de US$4.329 está muy por encima."
-  },
-  "motivo": "triage: Must de Cartier en vermeil (plaqué oro) de cuarzo, estado usado: se vende normalmente entre US$800 y 1.100; el precio pedido de US$4.329 está muy por encima. (justo 950)"
- },
- {
   "fecha": "2026-11-18T13:54:33.312510+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos Large WSSA0030 Blue Dial, Unworn",
@@ -10940,5 +10900,39 @@
    "nota": "Referencia 7934 vintage de acero en estado Good; el precio pedido queda cerca del valor de mercado y no supera el umbral del 15 %. La imagen no permite verificar dial, movimiento ni autenticidad."
   },
   "motivo": "triage: Referencia 7934 vintage de acero en estado Good; el precio pedido queda cerca del valor de mercado y no supera el umbral del 15 %. La imagen no permite verificar dial, movimiento ni autenticidad. (justo 1800)"
+ },
+ {
+  "fecha": "2026-11-20T20:41:09.910750+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date 36, 128235, Rose Gold, President Bracelet, Eisenkiesel Diamond...",
+  "total": 70275.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800944013347",
+  "item_id": "v1|800944013347|0",
+  "referencia": "128235",
+  "mercado": {
+   "n": 9,
+   "p25": 53985,
+   "mediana": 62388
+  },
+  "ratio_mercado": 1.302,
+  "motivo": "precio normal (130 % del cuartil bajo de 128235)"
+ },
+ {
+  "fecha": "2026-11-20T20:41:09.910750+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex GMT-Master II Batgirl 126710BLNR Jubilee Steel Date B+P 40mm",
+  "total": 20991.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128207258806",
+  "item_id": "v1|128207258806|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 71,
+   "p25": 18354,
+   "mediana": 18900
+  },
+  "ratio_mercado": 1.144,
+  "motivo": "precio normal (114 % del cuartil bajo de 126710BLNR)"
  }
 ]
