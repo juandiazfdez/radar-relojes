@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-17T19:23:36.488820+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Lady-Datejust NEW 2026 Pink Index Two Tone Rose Gold Diamond Oyster",
-  "total": 25995.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/800930826432",
-  "item_id": "v1|800930826432|0",
-  "triage": {
-   "modelo": "Rolex Lady-Datejust 28 Rolesor (acero y oro Everose), esfera rosa con índices",
-   "referencia": "279381RBR (probable, no confirmable solo con la foto)",
-   "precio_justo_usd": 13000,
-   "interesante": false,
-   "nota": "Precio pedido casi el doble del valor de venta cerrada de un modelo nuevo de esta referencia; el listado es muy sospechoso."
-  },
-  "motivo": "triage: Precio pedido casi el doble del valor de venta cerrada de un modelo nuevo de esta referencia; el listado es muy sospechoso. (justo 13000)"
- },
- {
-  "fecha": "2026-11-17T19:23:36.488820+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise Gold Quartz Diamond Bracelet Watch 20mm x 25mm WE1001R8",
-  "total": 17950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900099550032",
-  "item_id": "v1|900099550032|0",
-  "triage": {
-   "modelo": "Cartier Tank Française, cuarzo, oro amarillo con bisel de diamantes, brazalete de oro (20x25 mm)",
-   "referencia": "WE1001R8",
-   "precio_justo_usd": 12000,
-   "interesante": false,
-   "nota": "Precio pedido US$17.950 está muy por encima de lo que se cierra para este modelo de oro con diamantes; verificar referencia y peso del oro."
-  },
-  "motivo": "triage: Precio pedido US$17.950 está muy por encima de lo que se cierra para este modelo de oro con diamantes; verificar referencia y peso del oro. (justo 12000)"
- },
- {
   "fecha": "2026-11-17T19:38:36.698882+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual Explorer 214270 MK1 ",
@@ -10984,5 +10950,39 @@
    "nota": "Referencia no indicada y no verificable en la foto; el precio pedido es cercano al secundario y no hay descuento claro. Pedir número de referencia, serie y papeles antes de considerar la compra."
   },
   "motivo": "triage: Referencia no indicada y no verificable en la foto; el precio pedido es cercano al secundario y no hay descuento claro. Pedir número de referencia, serie y papeles antes de considerar la compra. (justo 62000)"
+ },
+ {
+  "fecha": "2026-11-20T03:25:39.875023+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust in 18k yellow gold and stainless steel",
+  "total": 14524.39,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206714338175",
+  "item_id": "v1|206714338175|0",
+  "triage": {
+   "modelo": "Rolex Datejust 41 (Oyster two-tone, bisel acanalado de oro amarillo 18k, esfera champán con índices de barra)",
+   "referencia": "126333 (posible 116333, según generación)",
+   "precio_justo_usd": 15000,
+   "interesante": false,
+   "nota": "Precio pedido cercano al valor de mercado para este modelo en estado Good; sin margen de 15% y sin confirmar caja ni papeles."
+  },
+  "motivo": "triage: Precio pedido cercano al valor de mercado para este modelo en estado Good; sin margen de 15% y sin confirmar caja ni papeles. (justo 15000)"
+ },
+ {
+  "fecha": "2026-11-20T03:25:39.875023+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay Pro M79470-0001 Full set",
+  "total": 3200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920162480028",
+  "item_id": "v1|920162480028|0",
+  "referencia": "M79470-0001",
+  "mercado": {
+   "n": 8,
+   "p25": 3600,
+   "mediana": 3847
+  },
+  "ratio_mercado": 0.889,
+  "motivo": "precio normal (89 % del cuartil bajo de M79470-0001)"
  }
 ]
