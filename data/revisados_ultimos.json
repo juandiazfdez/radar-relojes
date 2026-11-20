@@ -2,91 +2,6 @@
  {
   "fecha": "2026-11-17T21:53:54.161866+00:00",
   "marca": "Rolex",
-  "titulo": "1990 Rolex Day-Date 36mm Yellow Gold 18238",
-  "total": 20995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880127452795",
-  "item_id": "v1|880127452795|0",
-  "referencia": "18238",
-  "mercado": {
-   "n": 36,
-   "p25": 15667,
-   "mediana": 20990
-  },
-  "ratio_mercado": 1.34,
-  "motivo": "precio normal (134 % del cuartil bajo de 18238)"
- },
- {
-  "fecha": "2026-11-17T21:53:54.161866+00:00",
-  "marca": "Rolex",
-  "titulo": "2025 Rolex Land-Dweller 40 40mm Stainless Steel/White Gold M127334-0001",
-  "total": 22995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880127451307",
-  "item_id": "v1|880127451307|0",
-  "triage": {
-   "modelo": "Rolex Land-Dweller 40 (según título); la foto parece un Datejust con bisel acanalado y brazalete Jubilee",
-   "referencia": "M127334-0001 (según título, no coincide con la foto)",
-   "precio_justo_usd": 19500,
-   "interesante": false,
-   "nota": "La foto no coincide con el título: parece un Datejust con brazalete Jubilee, no un Land-Dweller con Oyster. Aun tomando el título, el precio no está al menos 15 % bajo el mercado secundario."
-  },
-  "motivo": "triage: La foto no coincide con el título: parece un Datejust con brazalete Jubilee, no un Land-Dweller con Oyster. Aun tomando el título, el precio no está al menos 15 % bajo el mercado secundario. (justo 19500)"
- },
- {
-  "fecha": "2026-11-17T21:53:54.161866+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust \"1987\" 16013",
-  "total": 8633.44,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336902661169",
-  "item_id": "v1|336902661169|0",
-  "referencia": "16013",
-  "mercado": {
-   "n": 21,
-   "p25": 3994,
-   "mediana": 4590
-  },
-  "ratio_mercado": 2.162,
-  "motivo": "precio normal (216 % del cuartil bajo de 16013)"
- },
- {
-  "fecha": "2026-11-17T21:53:54.161866+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date President 18k Yellow Gold Silver Diamond 36mm Watch E 18238",
-  "total": 24450.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117527233094",
-  "item_id": "v1|117527233094|0",
-  "referencia": "18238",
-  "mercado": {
-   "n": 36,
-   "p25": 15667,
-   "mediana": 20990
-  },
-  "ratio_mercado": 1.561,
-  "motivo": "precio normal (156 % del cuartil bajo de 18238)"
- },
- {
-  "fecha": "2026-11-17T21:53:54.161866+00:00",
-  "marca": "Rolex",
-  "titulo": "2015 Rolex Submariner No-Date 114060 LN Black Steel 40mm Watch Box Papers",
-  "total": 11203.87,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960209073822",
-  "item_id": "v1|960209073822|0",
-  "referencia": "114060",
-  "mercado": {
-   "n": 43,
-   "p25": 11799,
-   "mediana": 12950
-  },
-  "ratio_mercado": 0.95,
-  "motivo": "precio normal (95 % del cuartil bajo de 114060)"
- },
- {
-  "fecha": "2026-11-17T21:53:54.161866+00:00",
-  "marca": "Rolex",
   "titulo": "2016 Rolex Day-Date 40 40mm Yellow Gold 228238",
   "total": 45995.0,
   "condicion": "Pre-owned - Excellent",
@@ -10973,5 +10888,90 @@
    "nota": "Cuarzo de 28 mm en acero y oro rosa con diamantes; el precio pedido de US$7.920 está muy por encima de lo que se vende hoy en el mercado secundario de EE. UU. para este modelo y estado."
   },
   "motivo": "triage: Cuarzo de 28 mm en acero y oro rosa con diamantes; el precio pedido de US$7.920 está muy por encima de lo que se vende hoy en el mercado secundario de EE. UU. para este modelo y estado. (justo 5200)"
+ },
+ {
+  "fecha": "2026-11-20T16:10:57.060345+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 16613 Two-Tone Mens Watch Box Papers",
+  "total": 12699.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227623319015",
+  "item_id": "v1|227623319015|0",
+  "referencia": "16613",
+  "mercado": {
+   "n": 91,
+   "p25": 11700,
+   "mediana": 12000
+  },
+  "ratio_mercado": 1.085,
+  "motivo": "precio normal (109 % del cuartil bajo de 16613)"
+ },
+ {
+  "fecha": "2026-11-20T16:10:57.060345+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Date Precision Stainless Steel / Stainless Steel Watch",
+  "total": 3205.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267849178899",
+  "item_id": "v1|267849178899|0",
+  "triage": {
+   "modelo": "Rolex Oyster Date Precision",
+   "referencia": "6694 (probable, no verificable desde la foto)",
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "Acero, esfera oscura con marcadores dorados, fecha a las 3 y brazalete Oyster; el precio pedido de US$3205 está por encima del valor de venta estimado para una pieza en estado Good."
+  },
+  "motivo": "triage: Acero, esfera oscura con marcadores dorados, fecha a las 3 y brazalete Oyster; el precio pedido de US$3205 está por encima del valor de venta estimado para una pieza en estado Good. (justo 2400)"
+ },
+ {
+  "fecha": "2026-11-20T16:10:57.060345+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster Automatic Stainless Steel Watch",
+  "total": 4088.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820377211734",
+  "item_id": "v1|820377211734|0",
+  "triage": {
+   "modelo": "Cartier Roadster automático, acero, esfera plateada con números romanos y ventana de fecha (modelo grande)",
+   "referencia": "W62041V3 (probable, sin confirmar)",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Precio pedido de US$4088 con envío está por encima del valor de venta cerrada estimado para este modelo en estado Good; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido de US$4088 con envío está por encima del valor de venta cerrada estimado para este modelo en estado Good; no hay descuento suficiente. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-20T16:10:57.060345+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Must Vendôme Stainless Steel And Leather Watch",
+  "total": 1376.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820377204588",
+  "item_id": "v1|820377204588|0",
+  "triage": {
+   "modelo": "Cartier Must de Cartier Vendôme (cuarzo, caja dorada tipo vermeil, esfera negra, correa de piel negra)",
+   "referencia": null,
+   "precio_justo_usd": 550,
+   "interesante": false,
+   "nota": "El título dice acero inoxidable, pero la caja se ve dorada (probable vermeil), así que el listado puede ser engañoso. Aun así, el precio de US$1376 está muy por encima de lo que se vende este modelo."
+  },
+  "motivo": "triage: El título dice acero inoxidable, pero la caja se ve dorada (probable vermeil), así que el listado puede ser engañoso. Aun así, el precio de US$1376 está muy por encima de lo que se vende este modelo. (justo 550)"
+ },
+ {
+  "fecha": "2026-11-20T16:10:57.060345+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Must De Cartier Tank Quartz Stainless Steel And Leather Watch",
+  "total": 2652.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820377204451",
+  "item_id": "v1|820377204451|0",
+  "triage": {
+   "modelo": "Cartier Must de Cartier Tank cuarzo (chapado en oro/vermeil, esfera burdeos, correa de piel)",
+   "referencia": null,
+   "precio_justo_usd": 500,
+   "interesante": false,
+   "nota": "El título dice acero inoxidable, pero la caja dorada indica vermeil (plata chapada en oro), no acero. Además, el precio pedido de US$2652 está muy por encima de lo que se vende este modelo usado."
+  },
+  "motivo": "triage: El título dice acero inoxidable, pero la caja dorada indica vermeil (plata chapada en oro), no acero. Además, el precio pedido de US$2652 está muy por encima de lo que se vende este modelo usado. (justo 500)"
  }
 ]
