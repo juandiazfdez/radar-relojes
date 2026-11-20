@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-17T20:23:53.880477+00:00",
   "marca": "Rolex",
-  "titulo": "ROLEX 18K Gold/Stainless Steel Datejust 79173 26MM MOP Diamond Dial/Bezel",
-  "total": 7453.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800931024057",
-  "item_id": "v1|800931024057|0",
-  "triage": {
-   "modelo": "Rolex Datejust 26 mm dos tonos (acero y oro amarillo 18K) con bisel de diamantes y esfera de nácar con marcadores de diamante",
-   "referencia": "79173",
-   "precio_justo_usd": 6000,
-   "interesante": false,
-   "nota": "La 79173 sin modificar se vende en torno a US$4.000-5.000; el bisel y los marcadores de diamante añaden valor, pero el precio pedido queda unos 20-25 % por encima de lo que suele cerrarse."
-  },
-  "motivo": "triage: La 79173 sin modificar se vende en torno a US$4.000-5.000; el bisel y los marcadores de diamante añaden valor, pero el precio pedido queda unos 20-25 % por encima de lo que suele cerrarse. (justo 6000)"
- },
- {
-  "fecha": "2026-11-17T20:23:53.880477+00:00",
-  "marca": "Rolex",
   "titulo": "New 2026 Rolex GMT-Master II Sprite Lefty 126720VTNR 40MM Black Oyster Steel B/p",
   "total": 17200.0,
   "condicion": "New with box and papers",
@@ -10985,5 +10968,22 @@
   },
   "ratio_mercado": 0.959,
   "motivo": "precio normal (96 % del cuartil bajo de 126610LN)"
+ },
+ {
+  "fecha": "2026-11-20T10:40:48.591008+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex 36mm Oyster Perpetual Ref 126000 - Jubilee Motif Multicolor Dial.",
+  "total": 17585.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860161042925",
+  "item_id": "v1|860161042925|0",
+  "referencia": "126000",
+  "mercado": {
+   "n": 35,
+   "p25": 11580,
+   "mediana": 12473
+  },
+  "ratio_mercado": 1.519,
+  "motivo": "precio normal (152 % del cuartil bajo de 126000)"
  }
 ]
