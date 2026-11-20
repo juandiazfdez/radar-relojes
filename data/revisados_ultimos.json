@@ -1,141 +1,5 @@
 [
  {
-  "fecha": "2026-11-18T16:24:33.104603+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Française Chronoflex Xxl Quartz Stainless Steel / Leather Watch",
-  "total": 3749.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267847138597",
-  "item_id": "v1|267847138597|0",
-  "triage": {
-   "modelo": "Cartier Tank Française Chronograph (cuarzo, acero, caja tipo Tank)",
-   "referencia": "posiblemente W51028Q3; no verificable con la imagen",
-   "precio_justo_usd": 2000,
-   "interesante": false,
-   "nota": "Precio pedido de US$3,749 muy por encima del valor de venta real. La correa rosa parece no original y el nombre 'XXL' no corresponde a una referencia clara."
-  },
-  "motivo": "triage: Precio pedido de US$3,749 muy por encima del valor de venta real. La correa rosa parece no original y el nombre 'XXL' no corresponde a una referencia clara. (justo 2000)"
- },
- {
-  "fecha": "2026-11-18T16:24:33.104603+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 TUDOR Black Bay 58 FULL SET EXCELLENT CONDITION",
-  "total": 4000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/820369696467",
-  "item_id": "v1|820369696467|0",
-  "triage": {
-   "modelo": "TUDOR Black Bay 58 (39 mm, acero, bisel negro)",
-   "referencia": "M79030N (probable)",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Pedido de US$4000 está por encima del retail (~US$3,825) y del mercado gris de producción actual (~US$2,800-3,300). Sin margen de compra."
-  },
-  "motivo": "triage: Pedido de US$4000 está por encima del retail (~US$3,825) y del mercado gris de producción actual (~US$2,800-3,300). Sin margen de compra. (justo 3000)"
- },
- {
-  "fecha": "2026-11-18T16:24:33.104603+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 58  Stainless Steel Full Set  W/Warranty September 2026",
-  "total": 4800.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920157092514",
-  "item_id": "v1|920157092514|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 (acero, esfera negra, brazalete de acero, con caja y papeles)",
-   "referencia": "M79030N-0001",
-   "precio_justo_usd": 3100,
-   "interesante": false,
-   "nota": "El precio pedido de US$4800 supera el retail actual (~US$3,800) y el precio de reventa de un usado en buen estado ronda US$3,000-3,300. No hay descuento."
-  },
-  "motivo": "triage: El precio pedido de US$4800 supera el retail actual (~US$3,800) y el precio de reventa de un usado en buen estado ronda US$3,000-3,300. No hay descuento. (justo 3100)"
- },
- {
-  "fecha": "2026-11-18T16:24:33.104603+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay 54 - 79000B 37mm Blue - Full set",
-  "total": 4000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880129945766",
-  "item_id": "v1|880129945766|0",
-  "referencia": "79000B",
-  "mercado": {
-   "n": 5,
-   "p25": 3734,
-   "mediana": 3795
-  },
-  "ratio_mercado": 1.071,
-  "motivo": "precio normal (107 % del cuartil bajo de 79000B)"
- },
- {
-  "fecha": "2026-11-18T16:39:33.226535+00:00",
-  "marca": "Rolex",
-  "titulo": "42159: Rolex Submariner 40, Ref. 16610, Circa 1991",
-  "total": 9500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237190578211",
-  "item_id": "v1|237190578211|0",
-  "referencia": "16610",
-  "mercado": {
-   "n": 82,
-   "p25": 9977,
-   "mediana": 10496
-  },
-  "ratio_mercado": 0.952,
-  "motivo": "precio normal (95 % del cuartil bajo de 16610)"
- },
- {
-  "fecha": "2026-11-18T16:39:33.226535+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Yachtmaster Midsize Steel Yellow Gold Mens Watch 168623",
-  "total": 10330.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/257858992722",
-  "item_id": "v1|257858992722|0",
-  "referencia": "168623",
-  "mercado": {
-   "n": 9,
-   "p25": 8950,
-   "mediana": 8950
-  },
-  "ratio_mercado": 1.154,
-  "motivo": "precio normal (115 % del cuartil bajo de 168623)"
- },
- {
-  "fecha": "2026-11-18T16:39:33.226535+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 TUDOR Black Bay Fifty Eight",
-  "total": 4500.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880129985041",
-  "item_id": "v1|880129985041|0",
-  "triage": {
-   "modelo": "TUDOR Black Bay Fifty-Eight (variante bicolor acero/oro amarillo, esfera negra)",
-   "referencia": null,
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Con caja y papeles, el precio de reventa de esta variante bicolor está cerca de retail; el pedido de US$4500 no está al menos 15 % por debajo. Referencia exacta no verificable en la foto."
-  },
-  "motivo": "triage: Con caja y papeles, el precio de reventa de esta variante bicolor está cerca de retail; el pedido de US$4500 no está al menos 15 % por debajo. Referencia exacta no verificable en la foto. (justo 4000)"
- },
- {
-  "fecha": "2026-11-18T16:54:32.754326+00:00",
-  "marca": "Rolex",
-  "titulo": "2014 Rolex Submariner Date (116610LN) w/ Box Papers",
-  "total": 12499.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820369775752",
-  "item_id": "v1|820369775752|0",
-  "referencia": "116610LN",
-  "mercado": {
-   "n": 62,
-   "p25": 12790,
-   "mediana": 13500
-  },
-  "ratio_mercado": 0.977,
-  "motivo": "precio normal (98 % del cuartil bajo de 116610LN)"
- },
- {
   "fecha": "2026-11-18T16:54:32.754326+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 126334 Blue Diamond 41mm 18k Fluted Jubilee Stainless Steel Watch",
@@ -10951,5 +10815,147 @@
    "nota": "Modelo de producción actual que se vende con descuento moderado sobre retail en el mercado gris; el precio pedido de US$4250 queda por encima de ese valor."
   },
   "motivo": "triage: Modelo de producción actual que se vende con descuento moderado sobre retail en el mercado gris; el precio pedido de US$4250 queda por encima de ese valor. (justo 3700)"
+ },
+ {
+  "fecha": "2026-11-20T22:11:10.090936+00:00",
+  "marca": "Rolex",
+  "titulo": "2022 ROLEX submariner 41mm 126610ln COMPLETE SET",
+  "total": 13990.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227623701951",
+  "item_id": "v1|227623701951|0",
+  "referencia": "126610LN",
+  "mercado": {
+   "n": 85,
+   "p25": 14499,
+   "mediana": 15068
+  },
+  "ratio_mercado": 0.965,
+  "motivo": "precio normal (96 % del cuartil bajo de 126610LN)"
+ },
+ {
+  "fecha": "2026-11-20T22:11:10.090936+00:00",
+  "marca": "Rolex",
+  "titulo": "Lnib 2026 Rolex Submariner No Date 124060 41MM Black Oyster Steel Box Paper",
+  "total": 13899.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880138169391",
+  "item_id": "v1|880138169391|0",
+  "referencia": "124060",
+  "mercado": {
+   "n": 52,
+   "p25": 13590,
+   "mediana": 14095
+  },
+  "ratio_mercado": 1.023,
+  "motivo": "precio normal (102 % del cuartil bajo de 124060)"
+ },
+ {
+  "fecha": "2026-11-20T22:11:10.090936+00:00",
+  "marca": "Rolex",
+  "titulo": "Nos 2019 Rolex Sky-Dweller 326934 42MM Blue Oyster Steel Box Paper",
+  "total": 21500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/117533029554",
+  "item_id": "v1|117533029554|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller, bisel de oro blanco estriado, esfera azul, brazalete Oyster de acero",
+   "referencia": "326934",
+   "precio_justo_usd": 20500,
+   "interesante": false,
+   "nota": "Precio pedido cercano al valor de mercado para esta referencia en acero y oro blanco; no cumple el margen del 15 %. Verificar autenticidad y fecha de fabricación antes de comprar."
+  },
+  "motivo": "triage: Precio pedido cercano al valor de mercado para esta referencia en acero y oro blanco; no cumple el margen del 15 %. Verificar autenticidad y fecha de fabricación antes de comprar. (justo 20500)"
+ },
+ {
+  "fecha": "2026-11-20T22:11:10.090936+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX Submariner 116613lb 'bluesy'",
+  "total": 17990.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227623695601",
+  "item_id": "v1|227623695601|0",
+  "referencia": "116613LB",
+  "mercado": {
+   "n": 59,
+   "p25": 15400,
+   "mediana": 15995
+  },
+  "ratio_mercado": 1.168,
+  "motivo": "precio normal (117 % del cuartil bajo de 116613LB)"
+ },
+ {
+  "fecha": "2026-11-20T22:11:10.090936+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Air-King 34mm Stainless Steel Silver Dial- Box & Papers",
+  "total": 8700.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800939927762",
+  "item_id": "v1|800939927762|0",
+  "triage": {
+   "modelo": "Rolex Air-King, acero, esfera plateada, brazalete Oyster",
+   "referencia": "14000M (probable, según la generación)",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Precio pedido de US$8,700 muy por encima del mercado secundario para esta referencia con caja y papeles; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$8,700 muy por encima del mercado secundario para esta referencia con caja y papeles; no es una oportunidad. (justo 5000)"
+ },
+ {
+  "fecha": "2026-11-20T22:11:10.090936+00:00",
+  "marca": "Rolex",
+  "titulo": "Box & Card 2015 Jubilee Bracelet Rolex Datejust 36 116200",
+  "total": 8500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960217794937",
+  "item_id": "v1|960217794937|0",
+  "referencia": "116200",
+  "mercado": {
+   "n": 56,
+   "p25": 8025,
+   "mediana": 8779
+  },
+  "ratio_mercado": 1.059,
+  "motivo": "precio normal (106 % del cuartil bajo de 116200)"
+ },
+ {
+  "fecha": "2026-11-20T22:11:10.090936+00:00",
+  "marca": "Cartier",
+  "titulo": "28mm Stainless Steel & 18k Gold Cartier Ballon Bleu de Cartier W69007Z3 / 3009",
+  "total": 4150.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960217834020",
+  "item_id": "v1|960217834020|0",
+  "referencia": "3009",
+  "mercado": {
+   "n": 14,
+   "p25": 4215,
+   "mediana": 4445
+  },
+  "ratio_mercado": 0.985,
+  "motivo": "precio normal (98 % del cuartil bajo de 3009)"
+ },
+ {
+  "fecha": "2026-11-20T22:11:10.090936+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Pelagos 25407N",
+  "total": 4500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/257862997503",
+  "item_id": "v1|257862997503|0",
+  "referencia": "25407N",
+  "mercado": {
+   "n": 2,
+   "p25": 5195,
+   "mediana": 5222
+  },
+  "triage": {
+   "modelo": "Tudor Pelagos (acero, esfera negra)",
+   "referencia": "25407N",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Nuevo con caja y papeles se vende cerca de 3.300-3.800 USD en el mercado secundario; el precio pedido de 4.500 USD está muy por encima."
+  },
+  "motivo": "triage: Nuevo con caja y papeles se vende cerca de 3.300-3.800 USD en el mercado secundario; el precio pedido de 4.500 USD está muy por encima. (justo 3500)"
  }
 ]
