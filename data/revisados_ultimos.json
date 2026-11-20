@@ -1,57 +1,6 @@
 [
  {
   "fecha": "2026-11-18T16:24:33.104603+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Cellini Vintage 18K White Gold / Leather Watch",
-  "total": 3225.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267847138567",
-  "item_id": "v1|267847138567|0",
-  "triage": {
-   "modelo": "Rolex Cellini vintage en oro blanco 18K, esfera plateada con índices de bastón, correa de cuero negra",
-   "referencia": null,
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Cellini vintage de oro blanco, probablemente años 60-70; sin referencia visible, el precio pedido está en línea con el mercado."
-  },
-  "motivo": "triage: Cellini vintage de oro blanco, probablemente años 60-70; sin referencia visible, el precio pedido está en línea con el mercado. (justo 3200)"
- },
- {
-  "fecha": "2026-11-18T16:24:33.104603+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Cellini Vintage 18K Yellow Gold / Leather Watch",
-  "total": 5168.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267847138535",
-  "item_id": "v1|267847138535|0",
-  "triage": {
-   "modelo": "Rolex Cellini vintage, oro amarillo 18K, esfera champán con índices de bastón, correa de cuero",
-   "referencia": "Probablemente 3803 o 4083 (no verificable en la foto)",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "El precio pedido de US$5168 está muy por encima de lo que se vende un Cellini vintage de 18K con este estado; sin confirmar referencia, año ni estado de la maquinaria, no es una oportunidad."
-  },
-  "motivo": "triage: El precio pedido de US$5168 está muy por encima de lo que se vende un Cellini vintage de 18K con este estado; sin confirmar referencia, año ni estado de la maquinaria, no es una oportunidad. (justo 3500)"
- },
- {
-  "fecha": "2026-11-18T16:24:33.104603+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36, 126233, Steel & Yellow Gold, Silver Roman VI/IX Diamond, O...",
-  "total": 22456.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/366819776334",
-  "item_id": "v1|366819776334|0",
-  "referencia": "126233",
-  "mercado": {
-   "n": 41,
-   "p25": 19495,
-   "mediana": 20499
-  },
-  "ratio_mercado": 1.152,
-  "motivo": "precio normal (115 % del cuartil bajo de 126233)"
- },
- {
-  "fecha": "2026-11-18T16:24:33.104603+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Française Chronoflex Xxl Quartz Stainless Steel / Leather Watch",
   "total": 3749.0,
@@ -10945,5 +10894,62 @@
    "nota": "Con caja y papeles, en estado bueno, se vende en torno a US$2.200-2.400; el precio pedido de US$2.734 está por encima del mercado."
   },
   "motivo": "triage: Con caja y papeles, en estado bueno, se vende en torno a US$2.200-2.400; el precio pedido de US$2.734 está por encima del mercado. (justo 2300)"
+ },
+ {
+  "fecha": "2026-11-20T21:56:10.026918+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Pelagos 42 FXD | 2026 Complete Set M25717N-0001 | ",
+  "total": 4750.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880138146324",
+  "item_id": "v1|880138146324|0",
+  "referencia": "M25717N-0001",
+  "mercado": {
+   "n": 2,
+   "p25": 4150,
+   "mediana": 4325
+  },
+  "triage": {
+   "modelo": "Tudor Pelagos FXD 42 mm (titanio, bisel negro, esfera negra, correa de caucho)",
+   "referencia": "M25717N-0001",
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "El precio pedido de US$4750 está por encima del valor de venta cerrada de un Pelagos FXD de segunda mano en excelente estado con set completo."
+  },
+  "motivo": "triage: El precio pedido de US$4750 está por encima del valor de venta cerrada de un Pelagos FXD de segunda mano en excelente estado con set completo. (justo 3900)"
+ },
+ {
+  "fecha": "2026-11-20T21:56:10.026918+00:00",
+  "marca": "Tudor",
+  "titulo": "2025 TUDOR Pelagos FXD Chrono Cycling Edition 25827KN Black Carbon Complete Set ",
+  "total": 3885.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960222747093",
+  "item_id": "v1|960222747093|0",
+  "referencia": "25827KN",
+  "mercado": {
+   "n": 8,
+   "p25": 4299,
+   "mediana": 4475
+  },
+  "ratio_mercado": 0.904,
+  "motivo": "precio normal (90 % del cuartil bajo de 25827KN)"
+ },
+ {
+  "fecha": "2026-11-20T21:56:10.026918+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 58 GMT 39MM 2026 Box & Papers 7939G1A0NRU COKE",
+  "total": 4250.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880138123253",
+  "item_id": "v1|880138123253|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 GMT 39 mm (bisel Coke rojo/negro, esfera negra, correa de caucho)",
+   "referencia": "M7939G1A0NRU (7939G1A0NRU)",
+   "precio_justo_usd": 3700,
+   "interesante": false,
+   "nota": "Modelo de producción actual que se vende con descuento moderado sobre retail en el mercado gris; el precio pedido de US$4250 queda por encima de ese valor."
+  },
+  "motivo": "triage: Modelo de producción actual que se vende con descuento moderado sobre retail en el mercado gris; el precio pedido de US$4250 queda por encima de ese valor. (justo 3700)"
  }
 ]
