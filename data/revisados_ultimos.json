@@ -1,63 +1,6 @@
 [
  {
   "fecha": "2026-11-17T20:53:54.012427+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex Datejust 36 mm Two Tone Jubilee Automatic Watch 1600 Circa 1968",
-  "total": 5500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800931094926",
-  "item_id": "v1|800931094926|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36 mm acero y oro amarillo (bicolor), esfera champán, bisel liso, brazalete Jubilee",
-   "referencia": "1600",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "Precio pedido de US$5,500 supera claramente el valor de venta cerrada de un 1600 bicolor de ~1968 en estado excelente, incluso con brazalete Jubilee."
-  },
-  "motivo": "triage: Precio pedido de US$5,500 supera claramente el valor de venta cerrada de un 1600 bicolor de ~1968 en estado excelente, incluso con brazalete Jubilee. (justo 3800)"
- },
- {
-  "fecha": "2026-11-17T20:53:54.012427+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex Oyster Gold-Filled Circa 1940’s Ref: 5020",
-  "total": 1799.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407370359668",
-  "item_id": "v1|407370359668|0",
-  "referencia": "5020",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Precision (caja chapada en oro, cuerda manual, esfera blanca con números arábigos y logo de corona)",
-   "referencia": "5020",
-   "precio_justo_usd": 1000,
-   "interesante": false,
-   "nota": "Precio pedido de US$1,799 está muy por encima del valor de mercado de un Precision chapado en oro de esa época. El título menciona 'Oyster', pero el modelo es Precision, no Oyster; conviene verificar referencia, cajas y estado del movimiento."
-  },
-  "motivo": "triage: Precio pedido de US$1,799 está muy por encima del valor de mercado de un Precision chapado en oro de esa época. El título menciona 'Oyster', pero el modelo es Precision, no Oyster; conviene verificar referencia, cajas y estado del movimiento. (justo 1000)"
- },
- {
-  "fecha": "2026-11-17T20:53:54.012427+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Dumont Small Steel & Rose Gold Quartz Box and Papers 2025",
-  "total": 5865.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168869528480",
-  "item_id": "v1|168869528480|0",
-  "triage": {
-   "modelo": "Cartier Santos-Dumont (acero y oro rosa, cuarzo, esfera plateada con numerales romanos)",
-   "referencia": null,
-   "precio_justo_usd": 5300,
-   "interesante": false,
-   "nota": "Precio pedido de US$5.865 con caja y papeles está cerca del mercado secundario, no 15 % por debajo; la referencia exacta no se distingue en la foto."
-  },
-  "motivo": "triage: Precio pedido de US$5.865 con caja y papeles está cerca del mercado secundario, no 15 % por debajo; la referencia exacta no se distingue en la foto. (justo 5300)"
- },
- {
-  "fecha": "2026-11-17T20:53:54.012427+00:00",
   "marca": "Tudor",
   "titulo": "2026 New Tudor Ranger Black 8/26 Ref# 79930 36mm",
   "total": 3748.0,
@@ -10979,5 +10922,56 @@
   },
   "ratio_mercado": 1.177,
   "motivo": "precio normal (118 % del cuartil bajo de 126710BLRO)"
+ },
+ {
+  "fecha": "2026-11-20T14:10:56.778919+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 126713GRNR Zombie Gold and Silver Jubilee Bracelet Two-Tone",
+  "total": 21500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900107155248",
+  "item_id": "v1|900107155248|0",
+  "referencia": "126713GRNR",
+  "mercado": {
+   "n": 33,
+   "p25": 22950,
+   "mediana": 23600
+  },
+  "ratio_mercado": 0.937,
+  "motivo": "precio normal (94 % del cuartil bajo de 126713GRNR)"
+ },
+ {
+  "fecha": "2026-11-20T14:10:56.778919+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1951 Rolex Oyster Perpetual Bubble Back Ref. 6085 Automatic Wristwatch",
+  "total": 3300.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168876136290",
+  "item_id": "v1|168876136290|0",
+  "referencia": "6085",
+  "mercado": {
+   "n": 16,
+   "p25": 3938,
+   "mediana": 4269
+  },
+  "ratio_mercado": 0.838,
+  "motivo": "descripcion: as-is"
+ },
+ {
+  "fecha": "2026-11-20T14:10:56.778919+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthère Cougar 987904 Stainless Steel 33mm Quartz Watch",
+  "total": 2850.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800938598129",
+  "item_id": "v1|800938598129|0",
+  "triage": {
+   "modelo": "Cartier Cougar (cuarzo, acero, esfera blanca con numeros romanos)",
+   "referencia": "987904 (no verificable en la foto; el titulo menciona 'Panthere' y la linea Cougar es distinta)",
+   "precio_justo_usd": 1400,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima de lo que se vende este Cougar de cuarzo de acero usado; el titulo mezcla Panthere y Cougar y no hay caja ni papeles visibles."
+  },
+  "motivo": "triage: Precio pedido muy por encima de lo que se vende este Cougar de cuarzo de acero usado; el titulo mezcla Panthere y Cougar y no hay caja ni papeles visibles. (justo 1400)"
  }
 ]
