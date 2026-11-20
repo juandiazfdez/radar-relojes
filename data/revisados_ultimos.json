@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-17T21:38:53.675881+00:00",
   "marca": "Rolex",
-  "titulo": "2023 Rolex GMT-Master II \"Batgirl\" Silver Jubilee Bracelet Full Set-126710BLNR",
-  "total": 19500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960209057041",
-  "item_id": "v1|960209057041|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 69,
-   "p25": 18354,
-   "mediana": 18900
-  },
-  "ratio_mercado": 1.062,
-  "motivo": "precio normal (106 % del cuartil bajo de 126710BLNR)"
- },
- {
-  "fecha": "2026-11-17T21:38:53.675881+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 16233 Two Tone Jubilee Bracelet",
-  "total": 6020.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960209020019",
-  "item_id": "v1|960209020019|0",
-  "referencia": "16233",
-  "mercado": {
-   "n": 27,
-   "p25": 5599,
-   "mediana": 6095
-  },
-  "ratio_mercado": 1.075,
-  "motivo": "precio normal (108 % del cuartil bajo de 16233)"
- },
- {
-  "fecha": "2026-11-17T21:38:53.675881+00:00",
-  "marca": "Rolex",
   "titulo": "41185: Rolex Datejust 36, Ref. 126201, Box and 2025 Card",
   "total": 14000.0,
   "condicion": "Pre-owned - Excellent",
@@ -10973,5 +10939,39 @@
    "nota": "Precio pedido muy por encima del valor de mercado para un Precision de acero de los años 70 en estado bueno; el título dice 'Mint' pero la condición es 'Good'."
   },
   "motivo": "triage: Precio pedido muy por encima del valor de mercado para un Precision de acero de los años 70 en estado bueno; el título dice 'Mint' pero la condición es 'Good'. (justo 1800)"
+ },
+ {
+  "fecha": "2026-11-20T15:40:57.280250+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date “Bluesy” 40mm Ref. 16613LB | 1999 Watch Only",
+  "total": 11995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820377105800",
+  "item_id": "v1|820377105800|0",
+  "referencia": "16613LB",
+  "mercado": {
+   "n": 7,
+   "p25": 11700,
+   "mediana": 12900
+  },
+  "ratio_mercado": 1.025,
+  "motivo": "precio normal (103 % del cuartil bajo de 16613LB)"
+ },
+ {
+  "fecha": "2026-11-20T15:40:57.280250+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Pelagos FXD GMT 42mm 2026 - Complete",
+  "total": 5100.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900107365669",
+  "item_id": "v1|900107365669|0",
+  "triage": {
+   "modelo": "Tudor Pelagos FXD GMT 42mm",
+   "referencia": "M25707 (aprox.; verificar con el número de serie o la tarjeta de garantía)",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Pelagos FXD GMT con caja y papeles se vende en torno a US$3.800-4.200, y el precio pedido de US$5.100 está por encima del mercado, no por debajo."
+  },
+  "motivo": "triage: Pelagos FXD GMT con caja y papeles se vende en torno a US$3.800-4.200, y el precio pedido de US$5.100 está por encima del mercado, no por debajo. (justo 4000)"
  }
 ]
