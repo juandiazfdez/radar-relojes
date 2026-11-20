@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-17T19:53:55.576140+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Explorer 114270 36mm",
-  "total": 6250.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267846278428",
-  "item_id": "v1|267846278428|0",
-  "referencia": "114270",
-  "mercado": {
-   "n": 12,
-   "p25": 7125,
-   "mediana": 7654
-  },
-  "ratio_mercado": 0.877,
-  "motivo": "precio normal (88 % del cuartil bajo de 114270)"
- },
- {
-  "fecha": "2026-11-17T19:53:55.576140+00:00",
-  "marca": "Rolex",
   "titulo": "2024 Rolex GMT-Master II  “ROOT BEER” Ref. 126711CHNR 40mm Full Set",
   "total": 21500.0,
   "condicion": "Pre-owned - Good",
@@ -10979,5 +10962,22 @@
   },
   "ratio_justo": 1.1,
   "motivo": "precio normal segun revision (110 % del justo 3000)"
+ },
+ {
+  "fecha": "2026-11-20T04:10:39.548672+00:00",
+  "marca": "Rolex",
+  "titulo": "2020 Rolex GMT Master II 18k SS Date 116713LN 40mm Serviced Green Arrow W1506",
+  "total": 17223.11,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377660504934",
+  "item_id": "v1|377660504934|0",
+  "referencia": "116713LN",
+  "mercado": {
+   "n": 34,
+   "p25": 14250,
+   "mediana": 14762
+  },
+  "ratio_mercado": 1.209,
+  "motivo": "precio normal (121 % del cuartil bajo de 116713LN)"
  }
 ]
