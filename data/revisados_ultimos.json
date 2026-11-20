@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-17T22:38:53.814733+00:00",
   "marca": "Rolex",
-  "titulo": "2023 Rolex GMT-Master II \"Batgirl\" Silver Jubilee Bracelet Full Set-126710BLNR",
-  "total": 20000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800931383361",
-  "item_id": "v1|800931383361|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 69,
-   "p25": 18354,
-   "mediana": 18900
-  },
-  "ratio_mercado": 1.09,
-  "motivo": "precio normal (109 % del cuartil bajo de 126710BLNR)"
- },
- {
-  "fecha": "2026-11-17T22:38:53.814733+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona 126518LN Turquoise 2026 AUGUST UNWORN Yellow Gold Oysterflex 40mm",
-  "total": 101950.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/840139481427",
-  "item_id": "v1|840139481427|0",
-  "referencia": "126518LN",
-  "mercado": {
-   "n": 10,
-   "p25": 58600,
-   "mediana": 60744
-  },
-  "ratio_mercado": 1.74,
-  "motivo": "precio normal (174 % del cuartil bajo de 126518LN)"
- },
- {
-  "fecha": "2026-11-17T22:38:53.814733+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Submariner Date 41 Two Tone SS/18k Yellow Gold Bluesy Mint 126613LB",
   "total": 17750.0,
   "condicion": "Pre-owned - Excellent",
@@ -10973,5 +10939,51 @@
    "nota": "Con correa Marine Nationale, el precio pedido de US$5400 supera el precio de venta secundaria estimado para un Pelagos FXD GMT pre-owned de 2025; no hay descuento claro."
   },
   "motivo": "triage: Con correa Marine Nationale, el precio pedido de US$5400 supera el precio de venta secundaria estimado para un Pelagos FXD GMT pre-owned de 2025; no hay descuento claro. (justo 4300)"
+ },
+ {
+  "fecha": "2026-11-20T17:41:09.806878+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos De Cartier W2SA0007 Midsize Two-Tone Ladies Watch Box Papers",
+  "total": 10699.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227623424188",
+  "item_id": "v1|227623424188|0",
+  "referencia": "W2SA0007",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Santos de Cartier, acero y oro amarillo, tamaño mediano, con números romanos",
+   "referencia": "W2SA0007",
+   "precio_justo_usd": 5200,
+   "interesante": false,
+   "nota": "Precio pedido de US$10,699 está muy por encima de lo que se vende este modelo mediano bicolor con caja y papeles (aprox. US$4,500-5,800). Estimación a la baja; verificar referencia y caliber."
+  },
+  "motivo": "triage: Precio pedido de US$10,699 está muy por encima de lo que se vende este modelo mediano bicolor con caja y papeles (aprox. US$4,500-5,800). Estimación a la baja; verificar referencia y caliber. (justo 5200)"
+ },
+ {
+  "fecha": "2026-11-20T17:41:09.806878+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Large WSSA0030 Blue Dial, Unworn",
+  "total": 7800.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/128207060372",
+  "item_id": "v1|128207060372|0",
+  "referencia": "WSSA0030",
+  "mercado": {
+   "n": 3,
+   "p25": 8275,
+   "mediana": 8305
+  },
+  "triage": {
+   "modelo": "Cartier Santos de Cartier Large (acero, esfera oscura con numerales romanos)",
+   "referencia": "WSSA0030",
+   "precio_justo_usd": 7300,
+   "interesante": false,
+   "nota": "La foto muestra una esfera que parece negra o azul muy oscura, así que hay que confirmar el color con el vendedor. El precio pedido está solo cerca del 7 % por debajo del valor de mercado de un nuevo con caja y papeles, por lo que no cumple el umbral del 15 %."
+  },
+  "motivo": "triage: La foto muestra una esfera que parece negra o azul muy oscura, así que hay que confirmar el color con el vendedor. El precio pedido está solo cerca del 7 % por debajo del valor de mercado de un nuevo con caja y papeles, por lo que no cumple el umbral del 15 %. (justo 7300)"
  }
 ]

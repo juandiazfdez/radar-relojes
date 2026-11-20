@@ -16050,14 +16050,14 @@
   "n": 0
  },
  "Cartier WSSA0030|nuevo": {
-  "fecha": "2026-11-18",
+  "fecha": "2026-11-20",
   "consulta": "Cartier WSSA0030",
-  "n": 4,
-  "mediana": 8400,
-  "p25": 8305,
-  "p75": 8663,
+  "n": 3,
+  "mediana": 8305,
+  "p25": 8275,
+  "p75": 8495,
   "min": 8275,
-  "max": 8663
+  "max": 8495
  },
  "TAG Heuer CV2113|usado": {
   "fecha": "2026-10-29",
@@ -22167,6 +22167,11 @@
  "Cartier WE902052|usado": {
   "fecha": "2026-11-20",
   "consulta": "Cartier WE902052",
+  "n": 0
+ },
+ "Cartier W2SA0007|usado": {
+  "fecha": "2026-11-20",
+  "consulta": "Cartier W2SA0007",
   "n": 0
  }
 }
