@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-11-17T19:53:55.576140+00:00",
-  "marca": "Rolex",
-  "titulo": "2024 Rolex GMT-Master II  “ROOT BEER” Ref. 126711CHNR 40mm Full Set",
-  "total": 21500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287737127386",
-  "item_id": "v1|287737127386|0",
-  "referencia": "126711CHNR",
-  "mercado": {
-   "n": 103,
-   "p25": 20697,
-   "mediana": 21668
-  },
-  "ratio_mercado": 1.039,
-  "motivo": "precio normal (104 % del cuartil bajo de 126711CHNR)"
- },
- {
-  "fecha": "2026-11-17T19:53:55.576140+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II “Coke” 16710 ",
-  "total": 12050.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267846275415",
-  "item_id": "v1|267846275415|0",
-  "referencia": "16710",
-  "mercado": {
-   "n": 74,
-   "p25": 13770,
-   "mediana": 14482
-  },
-  "ratio_mercado": 0.875,
-  "motivo": "precio normal (88 % del cuartil bajo de 16710)"
- },
- {
-  "fecha": "2026-11-17T19:53:55.576140+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos Dumont XL Model Limited Edition Platinum Red Stone Numerals Watch",
   "total": 29295.0,
@@ -10979,5 +10945,39 @@
   },
   "ratio_mercado": 1.209,
   "motivo": "precio normal (121 % del cuartil bajo de 116713LN)"
+ },
+ {
+  "fecha": "2026-11-20T04:25:40.410177+00:00",
+  "marca": "Rolex",
+  "titulo": "2023 Rolex GMT-Master II \"Batgirl\" Silver Jubilee Full Set STICKERED-126710BLNR",
+  "total": 19500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960219193198",
+  "item_id": "v1|960219193198|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 71,
+   "p25": 18354,
+   "mediana": 18900
+  },
+  "ratio_mercado": 1.062,
+  "motivo": "precio normal (106 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-20T04:25:40.410177+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolco Rolex Watch Co WWII 1942 German Engrave Military Watch 28.9mm Runs",
+  "total": 1561.25,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327464164005",
+  "item_id": "v1|327464164005|0",
+  "triage": {
+   "modelo": "Rolco (Rolex Watch Co.) militar alemán de la Segunda Guerra Mundial, esfera negra con números arábigos y segundero pequeño a las 6, caja de acero, correa de cuero negra",
+   "referencia": null,
+   "precio_justo_usd": 1300,
+   "interesante": false,
+   "nota": "Autenticidad incierta: el título sugiere grabado alemán y las piezas WWII de Rolco tienen muchas réplicas. Aun si es genuino, el precio pedido está por encima de lo que se vende en buen estado y funcionando."
+  },
+  "motivo": "triage: Autenticidad incierta: el título sugiere grabado alemán y las piezas WWII de Rolco tienen muchas réplicas. Aun si es genuino, el precio pedido está por encima de lo que se vende en buen estado y funcionando. (justo 1300)"
  }
 ]
