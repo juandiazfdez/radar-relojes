@@ -1,154 +1,5 @@
 [
  {
-  "fecha": "2026-11-18T02:09:13.117618+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 1989 Rolex Oyster Perpetual Date Automatic Wristwatch Steel & 18k 15223",
-  "total": 6667.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147685705822",
-  "item_id": "v1|147685705822|0",
-  "referencia": "15223",
-  "mercado": {
-   "n": 17,
-   "p25": 6900,
-   "mediana": 7345
-  },
-  "ratio_mercado": 0.966,
-  "motivo": "precio normal (97 % del cuartil bajo de 15223)"
- },
- {
-  "fecha": "2026-11-18T02:09:13.117618+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 25mm 1981 Rolex Oyster Perpetual Ladies Automatic Wristwatch 14k 6719",
-  "total": 7910.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147685704129",
-  "item_id": "v1|147685704129|0",
-  "referencia": "6719",
-  "mercado": {
-   "n": 15,
-   "p25": 4300,
-   "mediana": 6495
-  },
-  "ratio_mercado": 1.84,
-  "motivo": "precio normal (184 % del cuartil bajo de 6719)"
- },
- {
-  "fecha": "2026-11-18T02:09:13.117618+00:00",
-  "marca": "Cartier",
-  "titulo": "Vintage 24mm Cartier Santos Octagon Ladies Automatic Wristwatch Steel & 18k 0907",
-  "total": 3164.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147685709718",
-  "item_id": "v1|147685709718|0",
-  "triage": {
-   "modelo": "Cartier Santos Octagon dos tonos (acero y oro 18k), versión femenina, esfera blanca con numerales romanos",
-   "referencia": "0907 (según el título; verificar con el reverso de la caja o el interior de la pulsera)",
-   "precio_justo_usd": 2100,
-   "interesante": false,
-   "nota": "El precio pedido de US$3164 con envío está muy por encima del mercado de venta cerrada para este modelo de cuarzo de 24 mm en estado usado. El título habla de automático, pero esta referencia suele ser de cuarzo; verificar el calibre."
-  },
-  "motivo": "triage: El precio pedido de US$3164 con envío está muy por encima del mercado de venta cerrada para este modelo de cuarzo de 24 mm en estado usado. El título habla de automático, pero esta referencia suele ser de cuarzo; verificar el calibre. (justo 2100)"
- },
- {
-  "fecha": "2026-11-18T02:39:12.235701+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41mm 126301 2018 Sundust 18K Rose Gold Steel Watch Box & Papers",
-  "total": 12900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940101135376",
-  "item_id": "v1|940101135376|0",
-  "referencia": "126301",
-  "mercado": {
-   "n": 16,
-   "p25": 15950,
-   "mediana": 16370
-  },
-  "ratio_mercado": 0.809,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 13800,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Bueno: rayones leves a moderados en bisel, caja y brazalete, con caja y papeles"
-  },
-  "ratio_justo": 0.935,
-  "motivo": "precio normal segun revision (94 % del justo 13800)"
- },
- {
-  "fecha": "2026-11-18T02:39:12.235701+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36mm, 16220, Steel, Black Dial, Oyster Bracelet 1999",
-  "total": 5800.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/117527580732",
-  "item_id": "v1|117527580732|0",
-  "referencia": "16220",
-  "mercado": {
-   "n": 30,
-   "p25": 6028,
-   "mediana": 7412
-  },
-  "ratio_mercado": 0.962,
-  "motivo": "precio normal (96 % del cuartil bajo de 16220)"
- },
- {
-  "fecha": "2026-11-18T02:39:12.235701+00:00",
-  "marca": "Tudor",
-  "titulo": "1997 Tudor Prince Oysterdate Ref. 74000N Automatic Stainless Steel Wristwatch",
-  "total": 2250.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137940677140",
-  "item_id": "v1|137940677140|0",
-  "referencia": "74000N",
-  "mercado": {
-   "n": 3,
-   "p25": 1850,
-   "mediana": 2000
-  },
-  "triage": {
-   "modelo": "Tudor Prince Oysterdate (esfera plateada, brazalete de eslabones tipo Oyster/Jubilee)",
-   "referencia": "74000 (según título)",
-   "precio_justo_usd": 2000,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta cerrada para un 74000 de 1997 en condición excelente sin caja ni papeles indicados. Verificar que el brazalete sea original."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta cerrada para un 74000 de 1997 en condición excelente sin caja ni papeles indicados. Verificar que el brazalete sea original. (justo 2000)"
- },
- {
-  "fecha": "2026-11-18T02:54:12.096790+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex Green  SkyDweller 42mm Stainless Steel/White Gold 336934",
-  "total": 26550.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117527603687",
-  "item_id": "v1|117527603687|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller de acero y oro blanco, esfera verde, bisel acanalado y brazalete Jubilee",
-   "referencia": "336934",
-   "precio_justo_usd": 27000,
-   "interesante": false,
-   "nota": "El precio pedido está en línea con el mercado secundario para esta referencia actual; el título dice '2026', que no encaja con una pieza de producción actual, así que conviene verificar año, papeles y autenticidad."
-  },
-  "motivo": "triage: El precio pedido está en línea con el mercado secundario para esta referencia actual; el título dice '2026', que no encaja con una pieza de producción actual, así que conviene verificar año, papeles y autenticidad. (justo 27000)"
- },
- {
-  "fecha": "2026-11-18T03:09:12.543985+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX Vintage Stainless Steel 40mm GMT Master 1675 Box Warranty",
-  "total": 10990.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237189347956",
-  "item_id": "v1|237189347956|0",
-  "triage": {
-   "modelo": "Rolex GMT-Master (1675, acero, bisel negro, brazalete Oyster)",
-   "referencia": "1675",
-   "precio_justo_usd": 12500,
-   "interesante": false,
-   "nota": "El precio está ~12% por debajo del estimado, sin llegar al 15% exigido. La imagen es pequeña y la autenticidad no se puede confirmar; el 'Warranty' en un vintage y el precio son señales a verificar antes de comprar."
-  },
-  "motivo": "triage: El precio está ~12% por debajo del estimado, sin llegar al 15% exigido. La imagen es pequeña y la autenticidad no se puede confirmar; el 'Warranty' en un vintage y el precio son señales a verificar antes de comprar. (justo 12500)"
- },
- {
   "fecha": "2026-11-18T03:09:12.543985+00:00",
   "marca": "Rolex",
   "titulo": "ROLEX Stainless Steel 18K Yellow Gold Daytona Cosmograph 116523 Warranty Box",
@@ -10935,5 +10786,153 @@
    "nota": "Reloj de producción actual; el precio pedido de US$3000 con envío está cerca del valor de mercado gris, sin descuento de al menos 15%. Confirmar referencia y papeles."
   },
   "motivo": "triage: Reloj de producción actual; el precio pedido de US$3000 con envío está cerca del valor de mercado gris, sin descuento de al menos 15%. Confirmar referencia y papeles. (justo 3100)"
+ },
+ {
+  "fecha": "2026-11-20T19:41:09.741243+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date, Black Dial, Yellow Gold, 126618LN",
+  "total": 52405.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206715936905",
+  "item_id": "v1|206715936905|0",
+  "referencia": "126618LN",
+  "mercado": {
+   "n": 3,
+   "p25": 48999,
+   "mediana": 49870
+  },
+  "triage": {
+   "modelo": "Rolex Submariner Date, esfera negra, oro amarillo, bisel cerámica negra",
+   "referencia": "126618LN",
+   "precio_justo_usd": 50000,
+   "interesante": false,
+   "nota": "Referencia correcta, pero el precio pedido queda por encima de la estimación de venta secundaria para una 126618LN nueva con caja y papeles; no hay descuento de al menos 15 %."
+  },
+  "motivo": "triage: Referencia correcta, pero el precio pedido queda por encima de la estimación de venta secundaria para una 126618LN nueva con caja y papeles; no hay descuento de al menos 15 %. (justo 50000)"
+ },
+ {
+  "fecha": "2026-11-20T19:41:09.741243+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 40mm Black Dial/Bezel Steel Auto 300m Collector Full Set",
+  "total": 13000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128207183859",
+  "item_id": "v1|128207183859|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date 40mm, esfera y bisel negros, acero, automático, 300 m",
+   "referencia": "116610LN (probable; podría ser 126610LN según año y papeles)",
+   "precio_justo_usd": 11000,
+   "interesante": false,
+   "nota": "Precio pedido US$13.000 supera el valor estimado de venta cerrada (~US$11.000) para 116610LN con caja y papeles en excelente estado; autenticidad no verificable desde la foto."
+  },
+  "motivo": "triage: Precio pedido US$13.000 supera el valor estimado de venta cerrada (~US$11.000) para 116610LN con caja y papeles en excelente estado; autenticidad no verificable desde la foto. (justo 11000)"
+ },
+ {
+  "fecha": "2026-11-20T19:41:09.741243+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date MK1 'Starbucks' 126610LV, Black Dial, Oyster Bracelet",
+  "total": 18562.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/366825633280",
+  "item_id": "v1|366825633280|0",
+  "referencia": "126610LV",
+  "mercado": {
+   "n": 40,
+   "p25": 16250,
+   "mediana": 16504
+  },
+  "ratio_mercado": 1.142,
+  "motivo": "precio normal (114 % del cuartil bajo de 126610LV)"
+ },
+ {
+  "fecha": "2026-11-20T19:41:09.741243+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner 16613 Bluesy P-Serial 2000 18K Gold Steel Full Set Box Papers",
+  "total": 13850.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366825628177",
+  "item_id": "v1|366825628177|0",
+  "referencia": "16613",
+  "mercado": {
+   "n": 91,
+   "p25": 11700,
+   "mediana": 12000
+  },
+  "ratio_mercado": 1.184,
+  "motivo": "precio normal (118 % del cuartil bajo de 16613)"
+ },
+ {
+  "fecha": "2026-11-20T19:41:09.741243+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yellow Gold 15238 Blue Arabic Rivet Bracelet Full Set Watch",
+  "total": 19827.5,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407377637887",
+  "item_id": "v1|407377637887|0",
+  "referencia": "15238",
+  "mercado": {
+   "n": 9,
+   "p25": 14945,
+   "mediana": 17905
+  },
+  "ratio_mercado": 1.327,
+  "motivo": "precio normal (133 % del cuartil bajo de 15238)"
+ },
+ {
+  "fecha": "2026-11-20T19:41:09.741243+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sea-Dweller, Black Dial, Steel, 126603",
+  "total": 26050.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206715905249",
+  "item_id": "v1|206715905249|0",
+  "referencia": "126603",
+  "mercado": {
+   "n": 5,
+   "p25": 20690,
+   "mediana": 21800
+  },
+  "ratio_mercado": 1.259,
+  "motivo": "precio normal (126 % del cuartil bajo de 126603)"
+ },
+ {
+  "fecha": "2026-11-20T19:41:09.741243+00:00",
+  "marca": "Rolex",
+  "titulo": "2016 Rolex DateJust II 116334 Blue Sticks 41mm Fluted Oyster Box Papers",
+  "total": 9825.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407375302130",
+  "item_id": "v1|407375302130|0",
+  "referencia": "116334",
+  "mercado": {
+   "n": 21,
+   "p25": 10592,
+   "mediana": 10950
+  },
+  "ratio_mercado": 0.928,
+  "motivo": "precio normal (93 % del cuartil bajo de 116334)"
+ },
+ {
+  "fecha": "2026-11-20T19:41:09.741243+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos 1564 Rare 💎 Unpolished",
+  "total": 5800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287742001917",
+  "item_id": "v1|287742001917|0",
+  "referencia": "1564",
+  "mercado": {
+   "n": 3,
+   "p25": 4900,
+   "mediana": 5488
+  },
+  "triage": {
+   "modelo": "Cartier Santos Galbée (acero, cuarzo, esfera blanca con numerales romanos azules y ventana de fecha)",
+   "referencia": "1564 (según el título; no es verificable en la foto)",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "El precio pedido de US$5800 está muy por encima del mercado para un Santos de acero de cuarzo; el 'Rare Unpolished' no justifica la prima."
+  },
+  "motivo": "triage: El precio pedido de US$5800 está muy por encima del mercado para un Santos de acero de cuarzo; el 'Rare Unpolished' no justifica la prima. (justo 3300)"
  }
 ]
