@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-17T19:23:36.488820+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Lady-Datejust NEW 2026 Pink Index Two Tone Rose Gold Diamond Jubilee",
-  "total": 25995.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/800930840110",
-  "item_id": "v1|800930840110|0",
-  "triage": {
-   "modelo": "Rolex Lady-Datejust 28 mm, acero y oro Everose (Rolesor), bisel de diamantes, esfera rosa con índices, brazalete Jubilee",
-   "referencia": "279381RBR",
-   "precio_justo_usd": 17000,
-   "interesante": false,
-   "nota": "Precio pedido de US$25,995 muy por encima del mercado secundario para esta referencia nueva (aprox. US$16-18k). No es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$25,995 muy por encima del mercado secundario para esta referencia nueva (aprox. US$16-18k). No es una oportunidad. (justo 17000)"
- },
- {
-  "fecha": "2026-11-17T19:23:36.488820+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 31mm 2019 Pink Index Smooth Oyster 178240",
-  "total": 8495.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198803225654",
-  "item_id": "v1|198803225654|0",
-  "referencia": "178240",
-  "mercado": {
-   "n": 24,
-   "p25": 8145,
-   "mediana": 8815
-  },
-  "ratio_mercado": 1.043,
-  "motivo": "precio normal (104 % del cuartil bajo de 178240)"
- },
- {
-  "fecha": "2026-11-17T19:23:36.488820+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Watch GMT-Master II \"Pepsi\" 126710BLRO - Inventory 9493 Stainless Steel",
   "total": 24199.0,
   "condicion": "Pre-owned - Good",
@@ -10984,5 +10950,39 @@
    "nota": "Descuento de solo ~12% frente a lo que se vende este modelo de usado con caja y papeles; sin verificar autenticidad, caja, papeles ni si es cuarzo o automático."
   },
   "motivo": "triage: Descuento de solo ~12% frente a lo que se vende este modelo de usado con caja y papeles; sin verificar autenticidad, caja, papeles ni si es cuarzo o automático. (justo 4800)"
+ },
+ {
+  "fecha": "2026-11-20T02:10:39.712654+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona 116509 MINT 18k GHOST White Gold 2021",
+  "total": 44000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287742567787",
+  "item_id": "v1|287742567787|0",
+  "referencia": "116509",
+  "mercado": {
+   "n": 17,
+   "p25": 39990,
+   "mediana": 42700
+  },
+  "ratio_mercado": 1.1,
+  "motivo": "precio normal (110 % del cuartil bajo de 116509)"
+ },
+ {
+  "fecha": "2026-11-20T02:10:39.712654+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Rolex Oyster Perpetual 31mm 277200-0016 Black Dial, Full Collector Set",
+  "total": 9495.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940106957373",
+  "item_id": "v1|940106957373|0",
+  "referencia": "277200",
+  "mercado": {
+   "n": 18,
+   "p25": 9178,
+   "mediana": 11598
+  },
+  "ratio_mercado": 1.035,
+  "motivo": "precio normal (103 % del cuartil bajo de 277200)"
  }
 ]
