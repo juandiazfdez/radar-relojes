@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-17T21:38:53.675881+00:00",
-  "marca": "Rolex",
-  "titulo": "41185: Rolex Datejust 36, Ref. 126201, Box and 2025 Card",
-  "total": 14000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900099761612",
-  "item_id": "v1|900099761612|0",
-  "referencia": "126201",
-  "mercado": {
-   "n": 6,
-   "p25": 13000,
-   "mediana": 14010
-  },
-  "ratio_mercado": 1.077,
-  "motivo": "precio normal (108 % del cuartil bajo de 126201)"
- },
- {
-  "fecha": "2026-11-17T21:38:53.675881+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Americaine XL Chronograph 18K Rose Gold W2609356 52mm",
-  "total": 23895.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840139357264",
-  "item_id": "v1|840139357264|0",
-  "referencia": "W2609356",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Tank Américaine XL Chronograph, oro rosa 18K",
-   "referencia": "W2609356",
-   "precio_justo_usd": 20000,
-   "interesante": false,
-   "nota": "Reloj de oro rosa 18K en buen estado, pero el precio pedido (US$23,895 con envío) está por encima de lo que este modelo se vende realmente en el mercado secundario estadounidense."
-  },
-  "motivo": "triage: Reloj de oro rosa 18K en buen estado, pero el precio pedido (US$23,895 con envío) está por encima de lo que este modelo se vende realmente en el mercado secundario estadounidense. (justo 20000)"
- },
- {
-  "fecha": "2026-11-17T21:53:54.161866+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 116710LN Silver 100% Full Set Box Papers",
-  "total": 13550.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137940218076",
-  "item_id": "v1|137940218076|0",
-  "referencia": "116710LN",
-  "mercado": {
-   "n": 43,
-   "p25": 13970,
-   "mediana": 14995
-  },
-  "ratio_mercado": 0.97,
-  "motivo": "precio normal (97 % del cuartil bajo de 116710LN)"
- },
- {
   "fecha": "2026-11-17T21:53:54.161866+00:00",
   "marca": "Rolex",
   "titulo": "1990 Rolex Day-Date 36mm Yellow Gold 18238",
@@ -10973,5 +10916,62 @@
    "nota": "Pelagos FXD GMT con caja y papeles se vende en torno a US$3.800-4.200, y el precio pedido de US$5.100 está por encima del mercado, no por debajo."
   },
   "motivo": "triage: Pelagos FXD GMT con caja y papeles se vende en torno a US$3.800-4.200, y el precio pedido de US$5.100 está por encima del mercado, no por debajo. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-20T15:55:57.327699+00:00",
+  "marca": "Rolex",
+  "titulo": "1966 Rolex Turn-O-Graph Ref. 1625 Gold & Stainless Steel Automatic Wristwatch",
+  "total": 4699.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137947249001",
+  "item_id": "v1|137947249001|0",
+  "triage": {
+   "modelo": "Rolex Datejust Turn-O-Graph (acero y oro amarillo, esfera champán, 1966)",
+   "referencia": "1625",
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "Precio cerca del mercado para esta referencia en ese estado; la foto es pequeña y no permite verificar esfera, bisel ni autenticidad."
+  },
+  "motivo": "triage: Precio cerca del mercado para esta referencia en ese estado; la foto es pequeña y no permite verificar esfera, bisel ni autenticidad. (justo 4500)"
+ },
+ {
+  "fecha": "2026-11-20T15:55:57.327699+00:00",
+  "marca": "Rolex",
+  "titulo": "2024 Rolex Daytona Cosmograph White PANDA Ceramic Steel 40mm 126500LN BOX PAPERS",
+  "total": 37989.73,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940108607069",
+  "item_id": "v1|940108607069|0",
+  "referencia": "126500LN",
+  "mercado": {
+   "n": 13,
+   "p25": 33000,
+   "mediana": 36033
+  },
+  "ratio_mercado": 1.151,
+  "motivo": "precio normal (115 % del cuartil bajo de 126500LN)"
+ },
+ {
+  "fecha": "2026-11-20T15:55:57.327699+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Blue 28 Steel Rose Gold Diamond Watch WE902052",
+  "total": 7920.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336907553854",
+  "item_id": "v1|336907553854|0",
+  "referencia": "WE902052",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Ballon Bleu 28 mm acero y oro rosa, esfera rosa con diamantes",
+   "referencia": "WE902052",
+   "precio_justo_usd": 5200,
+   "interesante": false,
+   "nota": "Cuarzo de 28 mm en acero y oro rosa con diamantes; el precio pedido de US$7.920 está muy por encima de lo que se vende hoy en el mercado secundario de EE. UU. para este modelo y estado."
+  },
+  "motivo": "triage: Cuarzo de 28 mm en acero y oro rosa con diamantes; el precio pedido de US$7.920 está muy por encima de lo que se vende hoy en el mercado secundario de EE. UU. para este modelo y estado. (justo 5200)"
  }
 ]
