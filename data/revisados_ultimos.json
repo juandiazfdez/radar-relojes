@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-17T19:53:55.576140+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Santos Dumont XL Model Limited Edition Platinum Red Stone Numerals Watch",
-  "total": 29295.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840139108370",
-  "item_id": "v1|840139108370|0",
-  "triage": {
-   "modelo": "Cartier Santos-Dumont XL (caja de acero, numerales romanos rojos, correa de cocodrilo marrón)",
-   "referencia": null,
-   "precio_justo_usd": 7800,
-   "interesante": false,
-   "nota": "El título dice platino y 'piedra roja', pero la foto muestra acero con numerales pintados, no piedras. Precio pedido muy por encima del valor de un acero usado; el listado parece engañoso."
-  },
-  "motivo": "triage: El título dice platino y 'piedra roja', pero la foto muestra acero con numerales pintados, no piedras. Precio pedido muy por encima del valor de un acero usado; el listado parece engañoso. (justo 7800)"
- },
- {
-  "fecha": "2026-11-17T19:53:55.576140+00:00",
-  "marca": "Cartier",
-  "titulo": "Vintage Cartier Vendome, 30 mm (large model)",
-  "total": 1950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287737126245",
-  "item_id": "v1|287737126245|0",
-  "triage": {
-   "modelo": "Cartier Vendôme (modelo grande, 30 mm, cuarzo, bisel dorado, esfera negra; correa negra visible en la foto)",
-   "referencia": null,
-   "precio_justo_usd": 1100,
-   "interesante": false,
-   "nota": "Material no especificado en el listado; si es chapado, el precio justo ronda US$900-1.300. Solo sería competitivo si fuera oro macizo verificado, lo que no consta."
-  },
-  "motivo": "triage: Material no especificado en el listado; si es chapado, el precio justo ronda US$900-1.300. Solo sería competitivo si fuera oro macizo verificado, lo que no consta. (justo 1100)"
- },
- {
-  "fecha": "2026-11-17T19:53:55.576140+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Santos de Cartier WSSA0037 Large",
   "total": 7750.0,
   "condicion": "Pre-owned - Excellent",
@@ -10979,5 +10945,45 @@
    "nota": "Autenticidad incierta: el título sugiere grabado alemán y las piezas WWII de Rolco tienen muchas réplicas. Aun si es genuino, el precio pedido está por encima de lo que se vende en buen estado y funcionando."
   },
   "motivo": "triage: Autenticidad incierta: el título sugiere grabado alemán y las piezas WWII de Rolco tienen muchas réplicas. Aun si es genuino, el precio pedido está por encima de lo que se vende en buen estado y funcionando. (justo 1300)"
+ },
+ {
+  "fecha": "2026-11-20T04:40:40.540609+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos-Dumont Large | WSSA0022 | Box Included",
+  "total": 4400.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960219273733",
+  "item_id": "v1|960219273733|0",
+  "referencia": "WSSA0022",
+  "mercado": {
+   "n": 4,
+   "p25": 5000,
+   "mediana": 5007
+  },
+  "triage": {
+   "modelo": "Cartier Santos-Dumont Large (acero, esfera plateada con numerales romanos, correa de cuero negra)",
+   "referencia": "WSSA0022",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Precio pedido US$4400 con caja, unos 12% bajo la estimación conservadora; no supera el umbral del 15% y conviene verificar autenticidad y estado de la caja y papeles."
+  },
+  "motivo": "triage: Precio pedido US$4400 con caja, unos 12% bajo la estimación conservadora; no supera el umbral del 15% y conviene verificar autenticidad y estado de la caja y papeles. (justo 5000)"
+ },
+ {
+  "fecha": "2026-11-20T04:40:40.540609+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor 1926 Diamond Accent 29mm Automatic 18k Gold/Stainless Steel Women's Watch",
+  "total": 2099.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377660533409",
+  "item_id": "v1|377660533409|0",
+  "triage": {
+   "modelo": "Tudor 1926 29 mm bicolor (acero y oro amarillo de 18k), esfera plateada con índices arábigos; los 'diamond accents' no son verificables en la foto",
+   "referencia": null,
+   "precio_justo_usd": 2200,
+   "interesante": false,
+   "nota": "Precio ~4-5% bajo el estimado de venta, no alcanza el umbral del 15%. La referencia exacta, los diamantes y la autenticidad no se pueden confirmar con esta imagen."
+  },
+  "motivo": "triage: Precio ~4-5% bajo el estimado de venta, no alcanza el umbral del 15%. La referencia exacta, los diamantes y la autenticidad no se pueden confirmar con esta imagen. (justo 2200)"
  }
 ]
