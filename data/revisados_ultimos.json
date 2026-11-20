@@ -1,154 +1,5 @@
 [
  {
-  "fecha": "2026-11-18T17:09:32.800430+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 16610T Black 40mm No-Holes Rehaut Stainless Steel Watch",
-  "total": 9368.86,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940102961468",
-  "item_id": "v1|940102961468|0",
-  "referencia": "16610T",
-  "mercado": {
-   "n": 10,
-   "p25": 10600,
-   "mediana": 10917
-  },
-  "ratio_mercado": 0.884,
-  "motivo": "precio normal (88 % del cuartil bajo de 16610T)"
- },
- {
-  "fecha": "2026-11-18T17:09:32.800430+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona Cosmograph 116520 Glacier Blue Baguette Diamond Steel 40mm Watch",
-  "total": 20588.79,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960212304910",
-  "item_id": "v1|960212304910|0",
-  "referencia": "116520",
-  "mercado": {
-   "n": 19,
-   "p25": 22000,
-   "mediana": 23453
-  },
-  "ratio_mercado": 0.936,
-  "motivo": "precio normal (94 % del cuartil bajo de 116520)"
- },
- {
-  "fecha": "2026-11-18T17:09:32.800430+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Heritage Chrono Blue 70330B-0001",
-  "total": 4200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880130065753",
-  "item_id": "v1|880130065753|0",
-  "referencia": "70330B-0001",
-  "mercado": {
-   "n": 2,
-   "p25": 4215,
-   "mediana": 4627
-  },
-  "triage": {
-   "modelo": "Tudor Heritage Chrono Blue (esfera plateada, bisel azul, pulsera de acero)",
-   "referencia": "70330B-0001",
-   "precio_justo_usd": 3700,
-   "interesante": false,
-   "nota": "Precio pedido de US$4,200 con envío está por encima del valor de venta cerrada estimado (~US$3,700) para esta referencia en estado Good; no cumple el umbral de 15% por debajo."
-  },
-  "motivo": "triage: Precio pedido de US$4,200 con envío está por encima del valor de venta cerrada estimado (~US$3,700) para esta referencia en estado Good; no cumple el umbral de 15% por debajo. (justo 3700)"
- },
- {
-  "fecha": "2026-11-18T17:24:33.053432+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Explorer II 16750 W Serial Head Only 40mm",
-  "total": 6045.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/307289165339",
-  "item_id": "v1|307289165339|0",
-  "referencia": "16750",
-  "mercado": {
-   "n": 11,
-   "p25": 13950,
-   "mediana": 15079
-  },
-  "ratio_mercado": 0.433,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 6200,
-   "riesgo_autenticidad": "medio",
-   "estado": "Aceptable-regular: caja y bisel rayados, cristal astillado, esfera marcada y sin brazalete"
-  },
-  "ratio_justo": 0.975,
-  "motivo": "precio normal segun revision (98 % del justo 6200)"
- },
- {
-  "fecha": "2026-11-18T17:24:33.053432+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 1966 gilt GMT 1675  with 1966 Steel Jubilee Bracelet 40mm",
-  "total": 27500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198805131356",
-  "item_id": "v1|198805131356|0",
-  "triage": {
-   "modelo": "Rolex GMT-Master (bisel Pepsi rojo/azul) con brazalete Jubilee de acero",
-   "referencia": "1675",
-   "precio_justo_usd": 22000,
-   "interesante": false,
-   "nota": "Ref. 1675 Pepsi de la era 1966 con brazalete Jubilee; el precio pedido está unos 25 % por encima de la venta real estimada, y la condición 'Good' y la afirmación de esfera 'gilt' no se pueden verificar en la foto."
-  },
-  "motivo": "triage: Ref. 1675 Pepsi de la era 1966 con brazalete Jubilee; el precio pedido está unos 25 % por encima de la venta real estimada, y la condición 'Good' y la afirmación de esfera 'gilt' no se pueden verificar en la foto. (justo 22000)"
- },
- {
-  "fecha": "2026-11-18T17:24:33.053432+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Men's",
-  "total": 500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960212357330",
-  "item_id": "v1|960212357330|0",
-  "triage": {
-   "modelo": "Tudor Black Bay S&G (bisel negro, esfera dorada, dos tonos acero/oro)",
-   "referencia": "79733N (probable, no verificable en la foto)",
-   "precio_justo_usd": 3900,
-   "interesante": false,
-   "nota": "Precio de $500 imposible para un Tudor de dos tonos genuino; el título genérico y la foto sugieren réplica o listado engañoso. Verificar en persona o con papeles antes de cualquier consideración."
-  },
-  "motivo": "triage: Precio de $500 imposible para un Tudor de dos tonos genuino; el título genérico y la foto sugieren réplica o listado engañoso. Verificar en persona o con papeles antes de cualquier consideración. (justo 3900)"
- },
- {
-  "fecha": "2026-11-18T17:39:33.384141+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date 18K/Stainless Steel Watch 15223",
-  "total": 7000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407372591882",
-  "item_id": "v1|407372591882|0",
-  "referencia": "15223",
-  "mercado": {
-   "n": 17,
-   "p25": 6900,
-   "mediana": 7345
-  },
-  "ratio_mercado": 1.014,
-  "motivo": "precio normal (101 % del cuartil bajo de 15223)"
- },
- {
-  "fecha": "2026-11-18T17:39:33.384141+00:00",
-  "marca": "Rolex",
-  "titulo": "2005 Rolex Cosmograph Daytona 116523 \"Mother of Pearl\" 18K Yellow Gold 40mm",
-  "total": 16999.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117528806060",
-  "item_id": "v1|117528806060|0",
-  "referencia": "116523",
-  "mercado": {
-   "n": 52,
-   "p25": 19400,
-   "mediana": 20990
-  },
-  "ratio_mercado": 0.876,
-  "motivo": "precio normal (88 % del cuartil bajo de 116523)"
- },
- {
   "fecha": "2026-11-18T17:39:33.384141+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Day-Date 40 President 228238 Green Ombré Brand New Complete 2026",
@@ -10963,5 +10814,148 @@
   },
   "ratio_mercado": 1.16,
   "motivo": "precio normal (116 % del cuartil bajo de 226659)"
+ },
+ {
+  "fecha": "2026-11-20T23:26:21.006625+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 31 277200 Turquoise 2026 OCTOBER UNWORN FULL STICKERS",
+  "total": 12500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840149873864",
+  "item_id": "v1|840149873864|0",
+  "referencia": "277200",
+  "mercado": {
+   "n": 17,
+   "p25": 9465,
+   "mediana": 11295
+  },
+  "ratio_mercado": 1.321,
+  "motivo": "precio normal (132 % del cuartil bajo de 277200)"
+ },
+ {
+  "fecha": "2026-11-20T23:26:21.006625+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31 278273 White MOP Diamonds 2026 NOVEMBER UNWORN Jubilee",
+  "total": 22900.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840149873884",
+  "item_id": "v1|840149873884|0",
+  "referencia": "278273",
+  "mercado": {
+   "n": 38,
+   "p25": 20495,
+   "mediana": 21162
+  },
+  "ratio_mercado": 1.117,
+  "motivo": "precio normal (112 % del cuartil bajo de 278273)"
+ },
+ {
+  "fecha": "2026-11-20T23:26:21.006625+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 126710GRNR Bruce Wayne 2026 NOVEMBER UNWORN Oyster Steel",
+  "total": 20800.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840149873924",
+  "item_id": "v1|840149873924|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 62,
+   "p25": 21725,
+   "mediana": 22794
+  },
+  "ratio_mercado": 0.957,
+  "motivo": "precio normal (96 % del cuartil bajo de 126710GRNR)"
+ },
+ {
+  "fecha": "2026-11-20T23:26:21.006625+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 36 126000 Turquoise Tiffany Blue 2026 OCTOBER UNWORN",
+  "total": 17700.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840149873806",
+  "item_id": "v1|840149873806|0",
+  "referencia": "126000",
+  "mercado": {
+   "n": 41,
+   "p25": 11204,
+   "mediana": 12549
+  },
+  "ratio_mercado": 1.58,
+  "motivo": "precio normal (158 % del cuartil bajo de 126000)"
+ },
+ {
+  "fecha": "2026-11-20T23:26:21.006625+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41 126333 Olive Green 2026 NOVEMBER UNWORN Jubilee Gold Steel",
+  "total": 20900.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840149873817",
+  "item_id": "v1|840149873817|0",
+  "referencia": "126333",
+  "mercado": {
+   "n": 38,
+   "p25": 19950,
+   "mediana": 20477
+  },
+  "ratio_mercado": 1.048,
+  "motivo": "precio normal (105 % del cuartil bajo de 126333)"
+ },
+ {
+  "fecha": "2026-11-20T23:26:21.006625+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ronde Solo XL 42mm Automatic W6701011 3802 Steel Watch w/ Box",
+  "total": 2699.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366823387665",
+  "item_id": "v1|366823387665|0",
+  "referencia": "W6701011",
+  "mercado": {
+   "n": 13,
+   "p25": 3355,
+   "mediana": 3650
+  },
+  "ratio_mercado": 0.805,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 2800,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado con rayones visibles en bisel, brazalete y fondo; servicio desconocido"
+  },
+  "ratio_justo": 0.964,
+  "motivo": "precio normal segun revision (96 % del justo 2800)"
+ },
+ {
+  "fecha": "2026-11-20T23:26:21.006625+00:00",
+  "marca": "Tudor",
+  "titulo": "2012 Tudor Prince Day Date 76213 Champagne Arabic Dial. 18K Gold 36mm. Box&Paper",
+  "total": 3139.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287744816312",
+  "item_id": "v1|287744816312|0",
+  "referencia": "76213",
+  "mercado": {
+   "n": 5,
+   "p25": 3039,
+   "mediana": 3200
+  },
+  "ratio_mercado": 1.033,
+  "motivo": "precio normal (103 % del cuartil bajo de 76213)"
+ },
+ {
+  "fecha": "2026-11-20T23:26:21.006625+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Pelagos FXD GMT Titanium Watch 2542G257NU",
+  "total": 6152.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960222989041",
+  "item_id": "v1|960222989041|0",
+  "triage": {
+   "modelo": "Tudor Pelagos FXD GMT (titanio, esfera negra, correa de tela verde)",
+   "referencia": null,
+   "precio_justo_usd": 4200,
+   "interesante": false,
+   "nota": "El precio pedido de US$6152 está muy por encima del valor de reventa de un Pelagos FXD GMT usado. La referencia '2542G257NU' no coincide con el formato de Tudor, así que hay que verificarla antes de cualquier oferta."
+  },
+  "motivo": "triage: El precio pedido de US$6152 está muy por encima del valor de reventa de un Pelagos FXD GMT usado. La referencia '2542G257NU' no coincide con el formato de Tudor, así que hay que verificarla antes de cualquier oferta. (justo 4200)"
  }
 ]
