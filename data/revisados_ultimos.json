@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-11-18T16:54:32.754326+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 126334 Blue Diamond 41mm 18k Fluted Jubilee Stainless Steel Watch",
-  "total": 15488.28,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940102931499",
-  "item_id": "v1|940102931499|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 (bisel acanalado de oro blanco, esfera azul con diamantes, brazalete Jubilee)",
-   "referencia": "126334",
-   "precio_justo_usd": 14500,
-   "interesante": false,
-   "nota": "El precio pedido está unos 7 % por encima de la estimación de venta real para esta referencia en estado excelente, así que no es una oportunidad."
-  },
-  "motivo": "triage: El precio pedido está unos 7 % por encima de la estimación de venta real para esta referencia en estado excelente, así que no es una oportunidad. (justo 14500)"
- },
- {
-  "fecha": "2026-11-18T16:54:32.754326+00:00",
-  "marca": "Rolex",
-  "titulo": "42114: Rolex GMT-Master II \"Root Beer\", Ref. 126711CHNR, 2023 Full Set",
-  "total": 22000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900101873934",
-  "item_id": "v1|900101873934|0",
-  "referencia": "126711CHNR",
-  "mercado": {
-   "n": 104,
-   "p25": 20589,
-   "mediana": 21659
-  },
-  "ratio_mercado": 1.069,
-  "motivo": "precio normal (107 % del cuartil bajo de 126711CHNR)"
- },
- {
   "fecha": "2026-11-18T17:09:32.800430+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 1601 Jubilee Bracelet",
@@ -10957,5 +10917,45 @@
    "nota": "Nuevo con caja y papeles se vende cerca de 3.300-3.800 USD en el mercado secundario; el precio pedido de 4.500 USD está muy por encima."
   },
   "motivo": "triage: Nuevo con caja y papeles se vende cerca de 3.300-3.800 USD en el mercado secundario; el precio pedido de 4.500 USD está muy por encima. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-20T22:26:10.301004+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX 126334 DATE- JUST 41 \"JUBILEE\"",
+  "total": 14990.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227623725918",
+  "item_id": "v1|227623725918|0",
+  "referencia": "126334",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 41, esfera blanca con índices, bisel acanalado y brazalete Jubilee",
+   "referencia": "126334",
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "Precio pedido cercano al mercado para esta referencia en estado excelente; no supera el umbral del 15 % de descuento."
+  },
+  "motivo": "triage: Precio pedido cercano al mercado para esta referencia en estado excelente; no supera el umbral del 15 % de descuento. (justo 14000)"
+ },
+ {
+  "fecha": "2026-11-20T22:26:10.301004+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date Starbucks Steel Watch 126610LV",
+  "total": 16585.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960222822323",
+  "item_id": "v1|960222822323|0",
+  "referencia": "126610LV",
+  "mercado": {
+   "n": 75,
+   "p25": 15500,
+   "mediana": 15997
+  },
+  "ratio_mercado": 1.07,
+  "motivo": "precio normal (107 % del cuartil bajo de 126610LV)"
  }
 ]
