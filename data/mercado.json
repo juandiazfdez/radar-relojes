@@ -7680,13 +7680,13 @@
   "max": 4500
  },
  "Tudor M79030B|usado": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-11-20",
   "consulta": "Tudor M79030B",
-  "n": 2,
-  "mediana": 3645,
-  "p25": 3590,
+  "n": 1,
+  "mediana": 3700,
+  "p25": 3700,
   "p75": 3700,
-  "min": 3590,
+  "min": 3700,
   "max": 3700
  },
  "Tudor M25407N|usado": {
@@ -22127,6 +22127,11 @@
  "Cartier W1560002|usado": {
   "fecha": "2026-11-20",
   "consulta": "Cartier W1560002",
+  "n": 0
+ },
+ "Cartier 2519|usado": {
+  "fecha": "2026-11-20",
+  "consulta": "Cartier 2519",
   "n": 0
  }
 }

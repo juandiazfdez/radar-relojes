@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-17T19:08:36.835712+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 28mm 2018 MOP Pearl Diamond Fluted Jubilee 279174",
-  "total": 13995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198803202111",
-  "item_id": "v1|198803202111|0",
-  "referencia": "279174",
-  "mercado": {
-   "n": 10,
-   "p25": 11499,
-   "mediana": 12945
-  },
-  "ratio_mercado": 1.217,
-  "motivo": "precio normal (122 % del cuartil bajo de 279174)"
- },
- {
-  "fecha": "2026-11-17T19:08:36.835712+00:00",
-  "marca": "Rolex",
-  "titulo": "2012 Rolex Datejust II Champagne Index Yellow Gold/Steel 116333 41mm Box/Papers",
-  "total": 12050.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336902400982",
-  "item_id": "v1|336902400982|0",
-  "referencia": "116333",
-  "mercado": {
-   "n": 59,
-   "p25": 13500,
-   "mediana": 14850
-  },
-  "ratio_mercado": 0.893,
-  "motivo": "precio normal (89 % del cuartil bajo de 116333)"
- },
- {
   "fecha": "2026-11-17T19:23:36.488820+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 179173 26mm Two Tone 18K Gold Champagne Jubilee Ladies Watch",
@@ -10972,5 +10938,51 @@
   },
   "ratio_mercado": 1.067,
   "motivo": "precio normal (107 % del cuartil bajo de 116660)"
+ },
+ {
+  "fecha": "2026-11-20T01:25:40.354684+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Pasha 2519 18K Yellow Gold Women s Watch",
+  "total": 15000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237193489781",
+  "item_id": "v1|237193489781|0",
+  "referencia": "2519",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Pasha de Cartier 35 mm, oro amarillo 18K, esfera guilloché blanca con marcadores de diamantes, pulsera integrada",
+   "referencia": "2519 (según el título del listado; no verificable en la foto)",
+   "precio_justo_usd": 11000,
+   "interesante": false,
+   "nota": "Precio pedido de 15.000 USD por encima del valor de venta cerrada estimado (~9.000-13.000 USD), con gran parte del valor ligado al oro; sin caja ni papeles confirmados."
+  },
+  "motivo": "triage: Precio pedido de 15.000 USD por encima del valor de venta cerrada estimado (~9.000-13.000 USD), con gran parte del valor ligado al oro; sin caja ni papeles confirmados. (justo 11000)"
+ },
+ {
+  "fecha": "2026-11-20T01:25:40.354684+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 Blue 39mm Steel Bracelet M79030B-0001 Full Kit",
+  "total": 3368.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900105656073",
+  "item_id": "v1|900105656073|0",
+  "referencia": "M79030B-0001",
+  "mercado": {
+   "n": 1,
+   "p25": 3700,
+   "mediana": 3700
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 58 Navy Blue, brazalete de acero, 39 mm",
+   "referencia": "M79030B-0001",
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Referencia actual correcta con caja y papeles, pero el precio pedido (US$3.368 con envío) está por encima del valor de venta real de un usado en buen estado."
+  },
+  "motivo": "triage: Referencia actual correcta con caja y papeles, pero el precio pedido (US$3.368 con envío) está por encima del valor de venta real de un usado en buen estado. (justo 3100)"
  }
 ]
