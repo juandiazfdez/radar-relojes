@@ -1,79 +1,5 @@
 [
  {
-  "fecha": "2026-11-17T22:08:54.230822+00:00",
-  "marca": "Rolex",
-  "titulo": "PRICE Rolex Datejust 28mm 2017 Pink Roman Fluted Jubilee 279174",
-  "total": 11295.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198803508119",
-  "item_id": "v1|198803508119|0",
-  "referencia": "279174",
-  "mercado": {
-   "n": 10,
-   "p25": 11499,
-   "mediana": 12945
-  },
-  "ratio_mercado": 0.982,
-  "motivo": "precio normal (98 % del cuartil bajo de 279174)"
- },
- {
-  "fecha": "2026-11-17T22:08:54.230822+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner 114060 / 40mm / Watch Only",
-  "total": 10985.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227619157397",
-  "item_id": "v1|227619157397|0",
-  "referencia": "114060",
-  "mercado": {
-   "n": 43,
-   "p25": 11799,
-   "mediana": 12950
-  },
-  "ratio_mercado": 0.931,
-  "motivo": "precio normal (93 % del cuartil bajo de 114060)"
- },
- {
-  "fecha": "2026-11-17T22:23:53.470134+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36 \"2024\" 126200",
-  "total": 10796.44,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237188937281",
-  "item_id": "v1|237188937281|0",
-  "referencia": "126200",
-  "mercado": {
-   "n": 27,
-   "p25": 10077,
-   "mediana": 11495
-  },
-  "ratio_mercado": 1.071,
-  "motivo": "precio normal (107 % del cuartil bajo de 126200)"
- },
- {
-  "fecha": "2026-11-17T22:23:53.470134+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 58 M79030N-0001 39mm | Full Set | Recent Tudor Serviced",
-  "total": 3975.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/860153194154",
-  "item_id": "v1|860153194154|0",
-  "referencia": "M79030N-0001",
-  "mercado": {
-   "n": 2,
-   "p25": 4100,
-   "mediana": 4198
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay 58 39mm (acero, bisel negro, brazalete de acero)",
-   "referencia": "M79030N-0001",
-   "precio_justo_usd": 3400,
-   "interesante": false,
-   "nota": "Precio pedido de US$3,975 por encima de lo que se vende realmente en el mercado secundario; con caja y papeles, el rango razonable es alrededor de US$3,300-3,500."
-  },
-  "motivo": "triage: Precio pedido de US$3,975 por encima de lo que se vende realmente en el mercado secundario; con caja y papeles, el rango razonable es alrededor de US$3,300-3,500. (justo 3400)"
- },
- {
   "fecha": "2026-11-17T22:38:53.814733+00:00",
   "marca": "Rolex",
   "titulo": "2023 Rolex GMT-Master II \"Batgirl\" Silver Jubilee Bracelet Full Set-126710BLNR",
@@ -10979,5 +10905,73 @@
    "nota": "Precio pedido por encima del valor de mercado gris para este modelo nuevo/seminuevo. La garantía hasta 2034 no es coherente con un reloj de 2026 y debe verificarse."
   },
   "motivo": "triage: Precio pedido por encima del valor de mercado gris para este modelo nuevo/seminuevo. La garantía hasta 2034 no es coherente con un reloj de 2026 y debe verificarse. (justo 6500)"
+ },
+ {
+  "fecha": "2026-11-20T17:26:09.941180+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1970's Rolex Datejust Two-Tone 1601 w/Papers Dated 1975! VERY NICE",
+  "total": 4035.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206715729756",
+  "item_id": "v1|206715729756|0",
+  "triage": {
+   "modelo": "Rolex Datejust two-tone (acero y oro amarillo), bisel acanalado dorado, esfera champán con índices de bastón, con correa verde de cocodrilo no original",
+   "referencia": "1601",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Ref. 1601 de los años 70 con papeles; el precio pedido de US$4035 está por encima del rango de venta cerrada, sin margen de compra. Conviene verificar estado de la esfera, bisel y papeles en persona."
+  },
+  "motivo": "triage: Ref. 1601 de los años 70 con papeles; el precio pedido de US$4035 está por encima del rango de venta cerrada, sin margen de compra. Conviene verificar estado de la esfera, bisel y papeles en persona. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-20T17:26:09.941180+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Air King Automatic Watch Stainless Steel 40",
+  "total": 10620.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117532661604",
+  "item_id": "v1|117532661604|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Air-King (acero, esfera negra, 40 mm)",
+   "referencia": "116900",
+   "precio_justo_usd": 10000,
+   "interesante": false,
+   "nota": "Air-King 116900 de acero con esfera negra en estado usado; el precio pedido de US$10,620 con envío está algo por encima de la venta cerrada típica para este estado."
+  },
+  "motivo": "triage: Air-King 116900 de acero con esfera negra en estado usado; el precio pedido de US$10,620 con envío está algo por encima de la venta cerrada típica para este estado. (justo 10000)"
+ },
+ {
+  "fecha": "2026-11-20T17:26:09.941180+00:00",
+  "marca": "Cartier",
+  "titulo": "Early vintage Cartier watch in rare Woman's model Fancy Stainless Steel Case",
+  "total": 5500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287744235460",
+  "item_id": "v1|287744235460|0",
+  "triage": {
+   "modelo": "Reloj rectangular vintage de acero con estilo Tank/Art Déco (atribución a Cartier no verificable en la foto)",
+   "referencia": null,
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "La foto no muestra firma ni número de serie legibles; el título es vago y la atribución no está confirmada. Aun aceptando un Cartier vintage de acero para dama en buen estado, el precio de US$5,500 está muy por encima del valor de venta real."
+  },
+  "motivo": "triage: La foto no muestra firma ni número de serie legibles; el título es vago y la atribución no está confirmada. Aun aceptando un Cartier vintage de acero para dama en buen estado, el precio de US$5,500 está muy por encima del valor de venta real. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-20T17:26:09.941180+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Pelagos FXD GMT Zulu Time Marine Nationale 42mm Titanium 2542G267NU 2025",
+  "total": 5400.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820377503574",
+  "item_id": "v1|820377503574|0",
+  "triage": {
+   "modelo": "Tudor Pelagos FXD GMT Marine Nationale 42mm titanio",
+   "referencia": "2542G267NU (según el título; no verificable en la foto)",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "Con correa Marine Nationale, el precio pedido de US$5400 supera el precio de venta secundaria estimado para un Pelagos FXD GMT pre-owned de 2025; no hay descuento claro."
+  },
+  "motivo": "triage: Con correa Marine Nationale, el precio pedido de US$5400 supera el precio de venta secundaria estimado para un Pelagos FXD GMT pre-owned de 2025; no hay descuento claro. (justo 4300)"
  }
 ]
