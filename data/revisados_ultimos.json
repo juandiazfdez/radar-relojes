@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-11-17T19:38:36.698882+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Explorer 214270 MK1 ",
-  "total": 7250.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267846269684",
-  "item_id": "v1|267846269684|0",
-  "referencia": "214270",
-  "mercado": {
-   "n": 23,
-   "p25": 8495,
-   "mediana": 9500
-  },
-  "ratio_mercado": 0.853,
-  "motivo": "precio normal (85 % del cuartil bajo de 214270)"
- },
- {
-  "fecha": "2026-11-17T19:38:36.698882+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos de Cartier Automatic Blue WSSA0030",
-  "total": 6550.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267846274181",
-  "item_id": "v1|267846274181|0",
-  "referencia": "WSSA0030",
-  "mercado": {
-   "n": 3,
-   "p25": 7000,
-   "mediana": 7800
-  },
-  "triage": {
-   "modelo": "Cartier Santos de Cartier Automatic (grande, 40 mm, acero, esfera azul)",
-   "referencia": "WSSA0030",
-   "precio_justo_usd": 6000,
-   "interesante": false,
-   "nota": "Precio pedido de US$6.550 con envío queda por encima del valor de venta cerrada estimado (~US$6.000) para este modelo en estado excelente."
-  },
-  "motivo": "triage: Precio pedido de US$6.550 con envío queda por encima del valor de venta cerrada estimado (~US$6.000) para este modelo en estado excelente. (justo 6000)"
- },
- {
-  "fecha": "2026-11-17T19:38:36.698882+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR Black Bay ETA “ Smiley \" 79220B Rare | Full Set | Micro-adjust bracelet",
   "total": 3415.0,
@@ -10984,5 +10944,39 @@
   },
   "ratio_mercado": 0.889,
   "motivo": "precio normal (89 % del cuartil bajo de M79470-0001)"
+ },
+ {
+  "fecha": "2026-11-20T03:40:40.350743+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX Vintage 14K Yellow Gold 34mm  Oyster Perpetual Date # 1500 Box Warranty",
+  "total": 7190.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237193667500",
+  "item_id": "v1|237193667500|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date (vintage, oro amarillo, esfera champán)",
+   "referencia": "1500",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Ref. 1500 en oro amarillo, con precio de venta cerrada aprox. US$4.500-5.500; el listado a US$7.190 está por encima. Verificar que el oro sea 14K real y la autenticidad, ya que Rolex usa mayoritariamente 18K."
+  },
+  "motivo": "triage: Ref. 1500 en oro amarillo, con precio de venta cerrada aprox. US$4.500-5.500; el listado a US$7.190 está por encima. Verificar que el oro sea 14K real y la autenticidad, ya que Rolex usa mayoritariamente 18K. (justo 5000)"
+ },
+ {
+  "fecha": "2026-11-20T03:40:40.350743+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX 14K Yellow Gold  Oyster Perpetual Date # 15037 Box Lifetime Warranty",
+  "total": 7190.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267848734254",
+  "item_id": "v1|267848734254|0",
+  "referencia": "15037",
+  "mercado": {
+   "n": 12,
+   "p25": 11000,
+   "mediana": 11990
+  },
+  "ratio_mercado": 0.654,
+  "motivo": "descripcion: broken"
  }
 ]
