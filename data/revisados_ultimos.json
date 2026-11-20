@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-17T21:23:56.274703+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay M7941A1A0RU-0003 Black Complete 41mm",
-  "total": 4190.0,
-  "condicion": "New with imperfections",
-  "url": "https://www.ebay.com/itm/366817728656",
-  "item_id": "v1|366817728656|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 41 (bisel rojo, esfera negra, brazalete de acero tipo Jubilee)",
-   "referencia": "M7941A1A0RU-0003 (según el título; no verificable en la foto)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Pedido US$4190 está por encima del precio de mercado gris para un Tudor nuevo, aunque tenga imperfecciones; no cumple el umbral del 15 %."
-  },
-  "motivo": "triage: Pedido US$4190 está por encima del precio de mercado gris para un Tudor nuevo, aunque tenga imperfecciones; no cumple el umbral del 15 %. (justo 3300)"
- },
- {
   "fecha": "2026-11-17T21:38:53.675881+00:00",
   "marca": "Rolex",
   "titulo": "2023 Rolex GMT-Master II \"Batgirl\" Silver Jubilee Bracelet Full Set-126710BLNR",
@@ -10973,5 +10956,22 @@
    "nota": "Tank Must SM chapado en oro de cuarzo; con caja y papeles vale como mucho ~US$1,000-1,200. El precio de US$3,900 está muy por encima del mercado."
   },
   "motivo": "triage: Tank Must SM chapado en oro de cuarzo; con caja y papeles vale como mucho ~US$1,000-1,200. El precio de US$3,900 está muy por encima del mercado. (justo 1100)"
+ },
+ {
+  "fecha": "2026-11-20T15:25:56.899862+00:00",
+  "marca": "Rolex",
+  "titulo": "1971 ROLEX PRECISION Vintage Mens Classic SS Steel Dress Watch - Mint",
+  "total": 3995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287743740850",
+  "item_id": "v1|287743740850|0",
+  "triage": {
+   "modelo": "Rolex Precision (cuerda manual, esfera negra, índices de bastón)",
+   "referencia": "null (posiblemente 9518 o 9522; no se distingue con certeza en la foto)",
+   "precio_justo_usd": 1800,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de mercado para un Precision de acero de los años 70 en estado bueno; el título dice 'Mint' pero la condición es 'Good'."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de mercado para un Precision de acero de los años 70 en estado bueno; el título dice 'Mint' pero la condición es 'Good'. (justo 1800)"
  }
 ]
