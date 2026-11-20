@@ -1,90 +1,5 @@
 [
  {
-  "fecha": "2026-11-18T01:54:11.754046+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay GMT Stainless Steel / / Pepsi / Bracelet 79830RB-0001",
-  "total": 4410.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880127980312",
-  "item_id": "v1|880127980312|0",
-  "referencia": "79830RB-0001",
-  "mercado": {
-   "n": 54,
-   "p25": 3780,
-   "mediana": 4000
-  },
-  "ratio_mercado": 1.167,
-  "motivo": "precio normal (117 % del cuartil bajo de 79830RB-0001)"
- },
- {
-  "fecha": "2026-11-18T02:09:13.117618+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 1990 Rolex Oyster Perpetual Air-King Precision Wristwatch Steel 14000",
-  "total": 4520.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137940645071",
-  "item_id": "v1|137940645071|0",
-  "referencia": "14000",
-  "mercado": {
-   "n": 23,
-   "p25": 4779,
-   "mediana": 4999
-  },
-  "ratio_mercado": 0.946,
-  "motivo": "precio normal (95 % del cuartil bajo de 14000)"
- },
- {
-  "fecha": "2026-11-18T02:09:13.117618+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 31mm 1985 Rolex Datejust Mid-Size 29J Automatic Wristwatch Steel 68240",
-  "total": 5650.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137940644090",
-  "item_id": "v1|137940644090|0",
-  "referencia": "68240",
-  "mercado": {
-   "n": 20,
-   "p25": 6025,
-   "mediana": 6710
-  },
-  "ratio_mercado": 0.938,
-  "motivo": "precio normal (94 % del cuartil bajo de 68240)"
- },
- {
-  "fecha": "2026-11-18T02:09:13.117618+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 35mm 1959 Rolex Oyster Perpetual Datejust Wristwatch Steel & 18k 6605",
-  "total": 5650.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137940642434",
-  "item_id": "v1|137940642434|0",
-  "referencia": "6605",
-  "mercado": {
-   "n": 11,
-   "p25": 5495,
-   "mediana": 6495
-  },
-  "ratio_mercado": 1.028,
-  "motivo": "precio normal (103 % del cuartil bajo de 6605)"
- },
- {
-  "fecha": "2026-11-18T02:09:13.117618+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 36mm 1978 Rolex Datejust 26J Men's Automatic Wristwatch 1575 Steel 1603",
-  "total": 5537.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147685707472",
-  "item_id": "v1|147685707472|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36mm, acero con bisel estriado (posible bisel de oro blanco), esfera plateada con marcadores de bastón, brazalete Jubilee; producción de los años 70",
-   "referencia": "1575 (el título menciona también 1603; la foto no permite confirmarlo)",
-   "precio_justo_usd": 5200,
-   "interesante": false,
-   "nota": "Precio pedido por encima de lo que se vende este Datejust vintage en condición Good. La referencia del título es inconsistente (1575 vs 1603), lo que pide verificar el número de serie y el movimiento."
-  },
-  "motivo": "triage: Precio pedido por encima de lo que se vende este Datejust vintage en condición Good. La referencia del título es inconsistente (1575 vs 1603), lo que pide verificar el número de serie y el movimiento. (justo 5200)"
- },
- {
   "fecha": "2026-11-18T02:09:13.117618+00:00",
   "marca": "Rolex",
   "titulo": "Vintage 1989 Rolex Oyster Perpetual Date Automatic Wristwatch Steel & 18k 15223",
@@ -10929,5 +10844,96 @@
   },
   "ratio_mercado": 1.101,
   "motivo": "precio normal (110 % del cuartil bajo de 2618)"
+ },
+ {
+  "fecha": "2026-11-20T19:26:10.239348+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31 NEW 2026 Slate Gray Index  Two Tone Rose Gold Fluted Jubilee",
+  "total": 19995.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800943814573",
+  "item_id": "v1|800943814573|0",
+  "triage": {
+   "modelo": "Rolex Datejust 31 bicolor (Oystersteel y Everose), bisel acanalado, esfera gris pizarra con índices, brazalete Jubilee",
+   "referencia": "278273 (probable; verificar número en el reloj)",
+   "precio_justo_usd": 14500,
+   "interesante": false,
+   "nota": "Precio pedido bastante por encima del valor de mercado secundario estimado para este modelo nuevo con caja y papeles; no hay descuento."
+  },
+  "motivo": "triage: Precio pedido bastante por encima del valor de mercado secundario estimado para este modelo nuevo con caja y papeles; no hay descuento. (justo 14500)"
+ },
+ {
+  "fecha": "2026-11-20T19:26:10.239348+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II UNWORN 2026 Sprite 40mm Black/Green Jubilee Wood 126720VTNR",
+  "total": 19995.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/198811136578",
+  "item_id": "v1|198811136578|0",
+  "referencia": "126720VTNR",
+  "mercado": {
+   "n": 64,
+   "p25": 18250,
+   "mediana": 18985
+  },
+  "ratio_mercado": 1.096,
+  "motivo": "precio normal (110 % del cuartil bajo de 126720VTNR)"
+ },
+ {
+  "fecha": "2026-11-20T19:26:10.239348+00:00",
+  "marca": "Rolex",
+  "titulo": "1996 Rolex DateJust 16233 Green Diamond 18K Gold Steel Jubilee 36mm Box Papers",
+  "total": 6818.33,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940109016983",
+  "item_id": "v1|940109016983|0",
+  "referencia": "16233",
+  "mercado": {
+   "n": 25,
+   "p25": 5599,
+   "mediana": 6035
+  },
+  "ratio_mercado": 1.218,
+  "motivo": "precio normal (122 % del cuartil bajo de 16233)"
+ },
+ {
+  "fecha": "2026-11-20T19:26:10.239348+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere de Cartier 4016 Ladies Stainless Steel Quartz Watch Appraisal",
+  "total": 4799.95,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267849327104",
+  "item_id": "v1|267849327104|0",
+  "triage": {
+   "modelo": "Cartier Panthère (cuarzo, acero inoxidable, tamaño pequeño/mediano, esfera plateada)",
+   "referencia": null,
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "La referencia '4016' del título no es verificable en la foto. Precio pedido US$4800 está muy por encima del valor de venta real de este modelo en acero."
+  },
+  "motivo": "triage: La referencia '4016' del título no es verificable en la foto. Precio pedido US$4800 está muy por encima del valor de venta real de este modelo en acero. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-20T19:26:10.239348+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 54 Stainless BLUE 37mm Automatic Watch Men M79000B-0001",
+  "total": 3000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/307292504368",
+  "item_id": "v1|307292504368|0",
+  "referencia": "M79000B-0001",
+  "mercado": {
+   "n": 3,
+   "p25": 3315,
+   "mediana": 3950
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 54 Stainless Blue 37mm (brazalete Jubilee, con caja y papeles)",
+   "referencia": "M79000B-0001 (según título; no verificable en la imagen)",
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Reloj de producción actual; el precio pedido de US$3000 con envío está cerca del valor de mercado gris, sin descuento de al menos 15%. Confirmar referencia y papeles."
+  },
+  "motivo": "triage: Reloj de producción actual; el precio pedido de US$3000 con envío está cerca del valor de mercado gris, sin descuento de al menos 15%. Confirmar referencia y papeles. (justo 3100)"
  }
 ]
