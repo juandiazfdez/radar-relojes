@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-11-19T12:25:19.764295+00:00",
-  "marca": "Cartier",
-  "titulo": "New CARTIER Santos de Cartier steel WSSA0107 \"Ghost\"",
-  "total": 13050.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/900104074425",
-  "item_id": "v1|900104074425|0",
-  "referencia": "WSSA0107",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Santos de Cartier, acero, esfera gris (variante 'Ghost' según el título), tamaño mediano",
-   "referencia": "WSSA0107 (según título; no verificable en la imagen)",
-   "precio_justo_usd": 7000,
-   "interesante": false,
-   "nota": "El precio pedido de US$13,050 está muy por encima del valor de mercado de un Santos de acero mediano nuevo con caja y papeles, cercano a retail. Sin oportunidad y revisar el listado."
-  },
-  "motivo": "triage: El precio pedido de US$13,050 está muy por encima del valor de mercado de un Santos de acero mediano nuevo con caja y papeles, cercano a retail. Sin oportunidad y revisar el listado. (justo 7000)"
- },
- {
-  "fecha": "2026-11-19T12:25:19.764295+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Roadster Quartz Stainless Steel Watch",
-  "total": 3284.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267848006561",
-  "item_id": "v1|267848006561|0",
-  "triage": {
-   "modelo": "Cartier Roadster (tonneau, acero, cuarzo, esfera plateada con numerales romanos y ventana de fecha)",
-   "referencia": "Probablemente W62025V3 (tamaño grande), no verificable solo con la foto",
-   "precio_justo_usd": 2900,
-   "interesante": false,
-   "nota": "Precio pedido US$3284 con envío, por encima del valor de venta cerrada estimado para un Roadster de acero usado en buen estado; sin evidencia de caja y papeles."
-  },
-  "motivo": "triage: Precio pedido US$3284 con envío, por encima del valor de venta cerrada estimado para un Roadster de acero usado en buen estado; sin evidencia de caja y papeles. (justo 2900)"
- },
- {
-  "fecha": "2026-11-19T12:25:19.764295+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Princess Date Automatic Stainless Steel/Yellow Gold Watch",
   "total": 1408.0,
@@ -10992,5 +10952,39 @@
   },
   "ratio_mercado": 0.951,
   "motivo": "precio normal (95 % del cuartil bajo de WSSA0017)"
+ },
+ {
+  "fecha": "2026-11-21T22:12:15.017256+00:00",
+  "marca": "Rolex",
+  "titulo": "1970 Rolex Oyster Perpetual Date with original bracelet",
+  "total": 3900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137950807030",
+  "item_id": "v1|137950807030|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date (acero, esfera plateada con marcadores de barra)",
+   "referencia": "1500 (probable; confirmar con número de serie y fotos del caso)",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio cercano al valor de mercado, sin margen de 15 %. La foto muestra correa de cuero y el título dice brazalete original; pedir fotos del brazalete y del caso."
+  },
+  "motivo": "triage: Precio cercano al valor de mercado, sin margen de 15 %. La foto muestra correa de cuero y el título dice brazalete original; pedir fotos del brazalete y del caso. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-21T22:12:15.017256+00:00",
+  "marca": "Rolex",
+  "titulo": "2015 Rolex Submariner No Date 40mm 114060 Box/Card (Papers)",
+  "total": 11600.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257864682605",
+  "item_id": "v1|257864682605|0",
+  "referencia": "114060",
+  "mercado": {
+   "n": 44,
+   "p25": 11612,
+   "mediana": 12628
+  },
+  "ratio_mercado": 0.999,
+  "motivo": "precio normal (100 % del cuartil bajo de 114060)"
  }
 ]
