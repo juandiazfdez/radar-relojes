@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-18T21:09:42.948178+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date President 1803 18k Champagne 36mm Pie Pan Minute Track Watch",
-  "total": 16508.38,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267847362175",
-  "item_id": "v1|267847362175|0",
-  "triage": {
-   "modelo": "Rolex Day-Date President (oro amarillo 18k, esfera champán tipo pie pan)",
-   "referencia": "1803",
-   "precio_justo_usd": 15500,
-   "interesante": false,
-   "nota": "Day-Date 1803 en oro amarillo con bisel acanalado; se vende cerca de US$14.000-17.000 según estado y esfera. El precio pedido está unos 6 % por encima del estimado, sin descuento claro."
-  },
-  "motivo": "triage: Day-Date 1803 en oro amarillo con bisel acanalado; se vende cerca de US$14.000-17.000 según estado y esfera. El precio pedido está unos 6 % por encima del estimado, sin descuento claro. (justo 15500)"
- },
- {
   "fecha": "2026-11-18T21:24:43.173736+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Explorer 214270 39mm",
@@ -10964,5 +10947,22 @@
    "nota": "Vermeil es plata chapada en oro, no oro macizo, así que el valor de reventa es moderado. Con caja y papeles, US$2,420 queda muy por encima del mercado para esta referencia."
   },
   "motivo": "triage: Vermeil es plata chapada en oro, no oro macizo, así que el valor de reventa es moderado. Con caja y papeles, US$2,420 queda muy por encima del mercado para esta referencia. (justo 1200)"
+ },
+ {
+  "fecha": "2026-11-21T12:56:50.268383+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Women's Ballon Bleu Watch, Circa 2000S (Au Women's",
+  "total": 3500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366827584537",
+  "item_id": "v1|366827584537|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu de mujer, circa 2000s (cuarzo, probable acero)",
+   "referencia": null,
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Título truncado (\"Au...\") y material no confirmado; si es oro, el precio justo sería mayor. Aun asumiendo acero, el precio pedido no está 15% o más por debajo del valor de venta real."
+  },
+  "motivo": "triage: Título truncado (\"Au...\") y material no confirmado; si es oro, el precio justo sería mayor. Aun asumiendo acero, el precio pedido no está 15% o más por debajo del valor de venta real. (justo 2300)"
  }
 ]
