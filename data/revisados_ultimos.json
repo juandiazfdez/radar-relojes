@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-18T20:54:42.807989+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Pasha GMT Automatic Ref 2377 w/ Cartier Box 35mm",
-  "total": 2625.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206711313624",
-  "item_id": "v1|206711313624|0",
-  "referencia": "2377",
-  "mercado": {
-   "n": 8,
-   "p25": 3000,
-   "mediana": 3182
-  },
-  "ratio_mercado": 0.875,
-  "motivo": "precio normal (88 % del cuartil bajo de 2377)"
- },
- {
-  "fecha": "2026-11-18T20:54:42.807989+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR Black Bay 79230G",
   "total": 4850.0,
@@ -10970,5 +10953,22 @@
   },
   "ratio_mercado": 1.293,
   "motivo": "precio normal (129 % del cuartil bajo de 79833MN)"
+ },
+ {
+  "fecha": "2026-11-21T06:56:39.426582+00:00",
+  "marca": "Rolex",
+  "titulo": "Ladies Rolex Datejust Midsize 31MM 68274 Diamond Deep Brown Jubilee Steel Watch",
+  "total": 7300.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940110373973",
+  "item_id": "v1|940110373973|0",
+  "referencia": "68274",
+  "mercado": {
+   "n": 34,
+   "p25": 8000,
+   "mediana": 9378
+  },
+  "ratio_mercado": 0.912,
+  "motivo": "precio normal (91 % del cuartil bajo de 68274)"
  }
 ]
