@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-18T22:09:43.479807+00:00",
-  "marca": "Rolex",
-  "titulo": "1989 Rolex Datejust 16013 36MM Fluted Jubilee Two-Tone 18K Yg",
-  "total": 6700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820370488943",
-  "item_id": "v1|820370488943|0",
-  "referencia": "16013",
-  "mercado": {
-   "n": 22,
-   "p25": 1815,
-   "mediana": 4531
-  },
-  "ratio_mercado": 3.691,
-  "motivo": "precio normal (369 % del cuartil bajo de 16013)"
- },
- {
-  "fecha": "2026-11-18T22:09:43.479807+00:00",
-  "marca": "Rolex",
-  "titulo": "1999 Rolex Datejust #16220 Stainless Steel Automatic Watch 36MM + Box",
-  "total": 6120.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/377657200144",
-  "item_id": "v1|377657200144|0",
-  "referencia": "16220",
-  "mercado": {
-   "n": 30,
-   "p25": 6028,
-   "mediana": 7412
-  },
-  "ratio_mercado": 1.015,
-  "motivo": "precio normal (102 % del cuartil bajo de 16220)"
- },
- {
   "fecha": "2026-11-18T22:24:43.486590+00:00",
   "marca": "Rolex",
   "titulo": "VINTAGE ROLEX SEA-DWELLER 1665 GREAT WHITE AUTO SS MENS WATCH",
@@ -10964,5 +10930,39 @@
    "nota": "Precio pedido de US$5,310 muy por encima del mercado de venta cerrada para esta talla de cuarzo en acero usada; no es una oportunidad."
   },
   "motivo": "triage: Precio pedido de US$5,310 muy por encima del mercado de venta cerrada para esta talla de cuarzo en acero usada; no es una oportunidad. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-21T15:11:50.194676+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer II 226570 / 42mm / Full Set",
+  "total": 10945.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227624698820",
+  "item_id": "v1|227624698820|0",
+  "referencia": "226570",
+  "mercado": {
+   "n": 29,
+   "p25": 11990,
+   "mediana": 12836
+  },
+  "ratio_mercado": 0.913,
+  "motivo": "precio normal (91 % del cuartil bajo de 226570)"
+ },
+ {
+  "fecha": "2026-11-21T15:11:50.194676+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 178240 31mm Stainless Steel Midsize Concentric Blue Watch Oyster",
+  "total": 8019.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800944017307",
+  "item_id": "v1|800944017307|0",
+  "referencia": "178240",
+  "mercado": {
+   "n": 24,
+   "p25": 8245,
+   "mediana": 8815
+  },
+  "ratio_mercado": 0.973,
+  "motivo": "precio normal (97 % del cuartil bajo de 178240)"
  }
 ]
