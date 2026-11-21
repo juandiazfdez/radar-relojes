@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-18T19:39:43.545948+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere 83949 Midsize One Row Ladies Watch",
-  "total": 7199.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/366820154174",
-  "item_id": "v1|366820154174|0",
-  "triage": {
-   "modelo": "Cartier Panthère Midsize, dos tonos acero y oro amarillo, cuarzo, una fila de eslabones",
-   "referencia": "83949",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido de US$7,199 muy por encima del valor de venta de este modelo de tamaño medio en dos tonos en EE. UU. (aprox. US$2,800-3,800 según estado y papeles)."
-  },
-  "motivo": "triage: Precio pedido de US$7,199 muy por encima del valor de venta de este modelo de tamaño medio en dos tonos en EE. UU. (aprox. US$2,800-3,800 según estado y papeles). (justo 3300)"
- },
- {
-  "fecha": "2026-11-18T19:54:43.478517+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41, Mint Green Index, Steel, 126300",
-  "total": 14270.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/800935335715",
-  "item_id": "v1|800935335715|0",
-  "referencia": "126300",
-  "mercado": {
-   "n": 42,
-   "p25": 11895,
-   "mediana": 12017
-  },
-  "ratio_mercado": 1.2,
-  "motivo": "precio normal (120 % del cuartil bajo de 126300)"
- },
- {
-  "fecha": "2026-11-18T19:54:43.478517+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay 54 Stainless BLUE 37mm Automatic Watch Men M79000B-0001",
-  "total": 3185.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307289326478",
-  "item_id": "v1|307289326478|0",
-  "referencia": "M79000B-0001",
-  "mercado": {
-   "n": 3,
-   "p25": 3315,
-   "mediana": 3950
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay 54 Stainless Blue 37mm (esfera y bisel azules, brazalete de acero)",
-   "referencia": "M79000B-0001",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio cercano al mercado secundario para un BB54 azul de acero en buen estado; el descuento es menor al 15 %. El '2026' del título no está verificado."
-  },
-  "motivo": "triage: Precio cercano al mercado secundario para un BB54 azul de acero en buen estado; el descuento es menor al 15 %. El '2026' del título no está verificado. (justo 3300)"
- },
- {
   "fecha": "2026-11-18T20:09:43.140930+00:00",
   "marca": "Rolex",
   "titulo": "2022 Rolex Yacht-Master 126622 Blue Stainless Steel Platinum 40mm YM1 Box Papers",
@@ -10996,5 +10939,56 @@
    "nota": "Precio pedido de US$5095 con envío, por encima del valor de venta cerrada estimado para un 2021 en estado usado. La foto muestra una correa de cuero tipo bund que no aparece en el listado, así que conviene verificar la pulsera original."
   },
   "motivo": "triage: Precio pedido de US$5095 con envío, por encima del valor de venta cerrada estimado para un 2021 en estado usado. La foto muestra una correa de cuero tipo bund que no aparece en el listado, así que conviene verificar la pulsera original. (justo 4700)"
+ },
+ {
+  "fecha": "2026-11-21T02:56:21.513622+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 41 Stainless Steel / Black / Green Cerachrom 126610LV-0002",
+  "total": 16670.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820379094365",
+  "item_id": "v1|820379094365|0",
+  "referencia": "126610LV",
+  "mercado": {
+   "n": 75,
+   "p25": 15501,
+   "mediana": 15998
+  },
+  "ratio_mercado": 1.075,
+  "motivo": "precio normal (108 % del cuartil bajo de 126610LV)"
+ },
+ {
+  "fecha": "2026-11-21T02:56:21.513622+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36MM 16233 18k & SS Jubilee Silver Diamond Dial. Fluted .factory",
+  "total": 6699.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198811850271",
+  "item_id": "v1|198811850271|0",
+  "referencia": "16233",
+  "mercado": {
+   "n": 25,
+   "p25": 5599,
+   "mediana": 6035
+  },
+  "ratio_mercado": 1.196,
+  "motivo": "precio normal (120 % del cuartil bajo de 16233)"
+ },
+ {
+  "fecha": "2026-11-21T02:56:21.513622+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Pelagos LHD M25610TNL-0001 In Very Good Used Condition",
+  "total": 4250.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117533389093",
+  "item_id": "v1|117533389093|0",
+  "triage": {
+   "modelo": "Tudor Pelagos LHD (titanio, bisel negro, brazalete de titanio)",
+   "referencia": "M25610TNL-0001",
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "Pelagos LHD de titanio en buen estado; el precio pedido de US$4250 con envío está por encima del rango de venta cerrada de uso, así que no cumple el umbral del 15 %."
+  },
+  "motivo": "triage: Pelagos LHD de titanio en buen estado; el precio pedido de US$4250 con envío está por encima del rango de venta cerrada de uso, así que no cumple el umbral del 15 %. (justo 3900)"
  }
 ]
