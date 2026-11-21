@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-18T23:54:43.595614+00:00",
-  "marca": "Cartier",
-  "titulo": "2008 Cartier Crash 38 x 24mm Platinum 2969",
-  "total": 324995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880130855664",
-  "item_id": "v1|880130855664|0",
-  "referencia": "2969",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Crash (esfera blanca, bisel con diamantes, correa de piel negra)",
-   "referencia": "2969 (según el título, sin verificar)",
-   "precio_justo_usd": 28000,
-   "interesante": false,
-   "nota": "Precio pedido de US$324.995 muy por encima del valor de mercado; posible error de formato. Si fuera US$3.249,95 sería sospechosamente bajo para platino con diamantes, así que hay que verificar autenticidad y papeles antes de comprar."
-  },
-  "motivo": "triage: Precio pedido de US$324.995 muy por encima del valor de mercado; posible error de formato. Si fuera US$3.249,95 sería sospechosamente bajo para platino con diamantes, así que hay que verificar autenticidad y papeles antes de comprar. (justo 28000)"
- },
- {
-  "fecha": "2026-11-19T00:09:43.826003+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Date 15053 Two Tone Steel 18K Gold Champagne Jubilee Watch Box Papers",
-  "total": 5400.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206711625584",
-  "item_id": "v1|206711625584|0",
-  "referencia": "15053",
-  "mercado": {
-   "n": 24,
-   "p25": 5700,
-   "mediana": 5755
-  },
-  "ratio_mercado": 0.947,
-  "motivo": "precio normal (95 % del cuartil bajo de 15053)"
- },
- {
-  "fecha": "2026-11-19T00:09:43.826003+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Fifty-Eight 79030B Blue Stainless Steel Watch with Box Papers",
-  "total": 3400.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407373184189",
-  "item_id": "v1|407373184189|0",
-  "referencia": "79030B",
-  "mercado": {
-   "n": 15,
-   "p25": 3495,
-   "mediana": 3590
-  },
-  "ratio_mercado": 0.973,
-  "motivo": "precio normal (97 % del cuartil bajo de 79030B)"
- },
- {
   "fecha": "2026-11-19T00:24:43.639332+00:00",
   "marca": "Rolex",
   "titulo": "Rolex AIR KING 116900",
@@ -10977,5 +10920,69 @@
   },
   "ratio_mercado": 0.855,
   "motivo": "precio normal (86 % del cuartil bajo de 79030N-0001)"
+ },
+ {
+  "fecha": "2026-11-21T16:42:01.600713+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sky-Dweller 2018 with Card Ref 326934 White Oyster Bracelet",
+  "total": 16900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960226129002",
+  "item_id": "v1|960226129002|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller (acero Oystersteel y oro blanco, bisel acanalado, esfera blanca, brazalete Oyster)",
+   "referencia": "326934",
+   "precio_justo_usd": 21000,
+   "interesante": true,
+   "nota": "Precio pedido unos 20 % por debajo del valor de venta cerrada estimado para 326934 usado con papeles; verificar número de serie, autenticidad y que la tarjeta corresponda al reloj antes de comprar."
+  },
+  "referencia": "326934",
+  "mercado": {
+   "n": 31,
+   "p25": 19100,
+   "mediana": 20000
+  },
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 18000,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado en estado bueno, con rayones normales y solo tarjeta; sin caja"
+  },
+  "ratio_justo": 0.939,
+  "motivo": "precio normal segun revision (94 % del justo 18000)"
+ },
+ {
+  "fecha": "2026-11-21T16:42:01.600713+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yacht-Master 268621 2025",
+  "total": 15800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407377374484",
+  "item_id": "v1|407377374484|0",
+  "referencia": "268621",
+  "mercado": {
+   "n": 9,
+   "p25": 14790,
+   "mediana": 15495
+  },
+  "ratio_mercado": 1.068,
+  "motivo": "precio normal (107 % del cuartil bajo de 268621)"
+ },
+ {
+  "fecha": "2026-11-21T16:42:01.600713+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos de Cartier Medium \"Ghost\" 2026 Release NEW and IN STOCK!",
+  "total": 12500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940111571914",
+  "item_id": "v1|940111571914|0",
+  "triage": {
+   "modelo": "Cartier Santos de Cartier Medium (acero, esfera gris azulada, cuarzo probable)",
+   "referencia": null,
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "Precio de 12.500 US$ muy por encima del mercado para un Santos de acero medio nuevo; la referencia exacta y la edición 'Ghost 2026' no se pueden verificar en la foto."
+  },
+  "motivo": "triage: Precio de 12.500 US$ muy por encima del mercado para un Santos de acero medio nuevo; la referencia exacta y la edición 'Ghost 2026' no se pueden verificar en la foto. (justo 7000)"
  }
 ]
