@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-18T21:24:43.173736+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Explorer 214270 39mm",
-  "total": 7400.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940103508516",
-  "item_id": "v1|940103508516|0",
-  "referencia": "214270",
-  "mercado": {
-   "n": 23,
-   "p25": 8495,
-   "mediana": 9500
-  },
-  "ratio_mercado": 0.871,
-  "motivo": "precio normal (87 % del cuartil bajo de 214270)"
- },
- {
-  "fecha": "2026-11-18T21:24:43.173736+00:00",
-  "marca": "Rolex",
   "titulo": "2026 RSC Rolex Daytona Cosmograph 116509 18k  Gold Blue 40mm Watch Box Papers",
   "total": 44048.1,
   "condicion": "Pre-owned - Excellent",
@@ -10964,5 +10947,28 @@
    "nota": "Título truncado (\"Au...\") y material no confirmado; si es oro, el precio justo sería mayor. Aun asumiendo acero, el precio pedido no está 15% o más por debajo del valor de venta real."
   },
   "motivo": "triage: Título truncado (\"Au...\") y material no confirmado; si es oro, el precio justo sería mayor. Aun asumiendo acero, el precio pedido no está 15% o más por debajo del valor de venta real. (justo 2300)"
+ },
+ {
+  "fecha": "2026-11-21T13:11:49.930806+00:00",
+  "marca": "Cartier",
+  "titulo": "WATCH CARTIER CHRONOSCAPH 21  2996 FOR WOMEN NEW BATTERY READ FULL DESCRIPTION ",
+  "total": 1700.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/117534144606",
+  "item_id": "v1|117534144606|0",
+  "referencia": "2996",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Chronoscaph 21 (cuarzo, para mujer)",
+   "referencia": "2996",
+   "precio_justo_usd": 1000,
+   "interesante": false,
+   "nota": "El precio pedido de US$1700 supera con creces el valor de cierre de este modelo cuarzo de mujer, incluso con caja y en buen estado; la foto muestra caja Cartier, pero no se verifican papeles."
+  },
+  "motivo": "triage: El precio pedido de US$1700 supera con creces el valor de cierre de este modelo cuarzo de mujer, incluso con caja y en buen estado; la foto muestra caja Cartier, pero no se verifican papeles. (justo 1000)"
  }
 ]
