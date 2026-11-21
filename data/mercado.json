@@ -6920,10 +6920,10 @@
   "max": 12400
  },
  "Rolex 126600|usado": {
-  "fecha": "2026-11-18",
+  "fecha": "2026-11-21",
   "consulta": "Rolex 126600",
-  "n": 52,
-  "mediana": 14062,
+  "n": 50,
+  "mediana": 14019,
   "p25": 12999,
   "p75": 14875,
   "min": 11500,
@@ -11690,7 +11690,7 @@
   "max": 3540
  },
  "Tudor M79010SG|usado": {
-  "fecha": "2026-11-02",
+  "fecha": "2026-11-21",
   "consulta": "Tudor M79010SG",
   "n": 5,
   "mediana": 4065,
@@ -22403,5 +22403,15 @@
   "fecha": "2026-11-21",
   "consulta": "Cartier W2CA0009",
   "n": 0
+ },
+ "Tudor 79470|nuevo": {
+  "fecha": "2026-11-21",
+  "consulta": "Tudor 79470",
+  "n": 12,
+  "mediana": 4372,
+  "p25": 4000,
+  "p75": 4595,
+  "min": 3605,
+  "max": 4990
  }
 }
