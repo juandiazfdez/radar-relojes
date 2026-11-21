@@ -1,63 +1,6 @@
 [
  {
   "fecha": "2026-11-19T05:54:56.538419+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41 \"2026 - Wimbledon\" 126334",
-  "total": 18366.94,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336905085092",
-  "item_id": "v1|336905085092|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 (acero y oro blanco, bisel acanalado, esfera verde \"Wimbledon\" con números romanos, brazalete Jubilee)",
-   "referencia": "126334",
-   "precio_justo_usd": 15500,
-   "interesante": false,
-   "nota": "Precio pedido de US$18.367 por encima del mercado secundario para esta referencia y esfera; el estado Good y la posible falta de papeles lo hacen menos atractivo."
-  },
-  "motivo": "triage: Precio pedido de US$18.367 por encima del mercado secundario para esta referencia y esfera; el estado Good y la posible falta de papeles lo hacen menos atractivo. (justo 15500)"
- },
- {
-  "fecha": "2026-11-19T05:54:56.538419+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos De Cartier \"2026 - Medium\" WSSA0029",
-  "total": 7876.39,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336905089651",
-  "item_id": "v1|336905089651|0",
-  "referencia": "WSSA0029",
-  "mercado": {
-   "n": 8,
-   "p25": 7495,
-   "mediana": 7752
-  },
-  "ratio_mercado": 1.051,
-  "motivo": "precio normal (105 % del cuartil bajo de WSSA0029)"
- },
- {
-  "fecha": "2026-11-19T05:54:56.538419+00:00",
-  "marca": "Cartier",
-  "titulo": "Vintage Cartier Cougar 18k Yellow Gold 33mm Roman Numerals Quartz Watch 116000R",
-  "total": 5450.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960214388015",
-  "item_id": "v1|960214388015|0",
-  "triage": {
-   "modelo": "Cartier Cougar en oro amarillo 18k, cuarzo, 33 mm (cuadrante blanco con numerales romanos)",
-   "referencia": "116000R",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Precio pedido de US$5450 queda por encima de la venta cerrada estimada para esta referencia en oro de cuarzo con estado usado, por lo que no cumple el umbral del 15%."
-  },
-  "motivo": "triage: Precio pedido de US$5450 queda por encima de la venta cerrada estimada para esta referencia en oro de cuarzo con estado usado, por lo que no cumple el umbral del 15%. (justo 4000)"
- },
- {
-  "fecha": "2026-11-19T05:54:56.538419+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay Chronograph \"2026 - Bumblebee\" M79310N-0001",
   "total": 9714.94,
@@ -11005,5 +10948,62 @@
   },
   "ratio_mercado": 1.056,
   "motivo": "precio normal (106 % del cuartil bajo de 79830RB)"
+ },
+ {
+  "fecha": "2026-11-21T19:12:01.775560+00:00",
+  "marca": "Rolex",
+  "titulo": "1983 Ladies Rolex 26mm Datejust 18K Yellow Gold / Stainless Steel Two Tone Watch",
+  "total": 5995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287747092219",
+  "item_id": "v1|287747092219|0",
+  "triage": {
+   "modelo": "Rolex Lady Datejust 26 mm, oro amarillo 18k y acero, con bisel de diamantes y esfera champán",
+   "referencia": "69173 (probable; confirmar en el listado)",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de mercado. El bisel de diamantes podría ser añadido posteriormente, lo que reduce el valor. Verificar número de serie y autenticidad."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de mercado. El bisel de diamantes podría ser añadido posteriormente, lo que reduce el valor. Verificar número de serie y autenticidad. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-21T19:12:01.775560+00:00",
+  "marca": "Rolex",
+  "titulo": "2021 Rolex GMT-Master II \"Batman\" 126710BLNR Oyster 40mm",
+  "total": 16250.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137950436917",
+  "item_id": "v1|137950436917|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 70,
+   "p25": 18354,
+   "mediana": 18900
+  },
+  "ratio_mercado": 0.885,
+  "motivo": "precio normal (89 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-21T19:12:01.775560+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise Yellow Gold Diamond Ladies Watch WE100151",
+  "total": 9390.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940111869134",
+  "item_id": "v1|940111869134|0",
+  "referencia": "WE100151",
+  "mercado": {
+   "n": 1,
+   "p25": 9855,
+   "mediana": 9855
+  },
+  "triage": {
+   "modelo": "Cartier Tank Française (modelo pequeño, oro amarillo con bisel de diamantes, cuarzo)",
+   "referencia": "WE100151",
+   "precio_justo_usd": 6000,
+   "interesante": false,
+   "nota": "Precio pedido de US$9.390 muy por encima del valor de venta cerrada en EE. UU. para oro amarillo con diamantes en estado usado; no hay descuento."
+  },
+  "motivo": "triage: Precio pedido de US$9.390 muy por encima del valor de venta cerrada en EE. UU. para oro amarillo con diamantes en estado usado; no hay descuento. (justo 6000)"
  }
 ]
