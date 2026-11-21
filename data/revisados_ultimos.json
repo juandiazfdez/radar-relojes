@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-18T20:24:43.428778+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Lady-Datejust 26mm – Ref. 6916 | 1979 Two-Tone & Stainless Oyster Bracelet",
-  "total": 3750.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840142747504",
-  "item_id": "v1|840142747504|0",
-  "referencia": "6916",
-  "mercado": {
-   "n": 25,
-   "p25": 3700,
-   "mediana": 3859
-  },
-  "ratio_mercado": 1.014,
-  "motivo": "precio normal (101 % del cuartil bajo de 6916)"
- },
- {
-  "fecha": "2026-11-18T20:24:43.428778+00:00",
-  "marca": "Rolex",
   "titulo": "2021 Rolex Datejust \"Gray Elegance\" 126331 41mm Watch/Box",
   "total": 17999.99,
   "condicion": "Pre-owned - Good",
@@ -10990,5 +10973,22 @@
    "nota": "Precio pedido de US$3300 está por encima del valor de venta cerrada de un Black Bay 54 azul de acero, en buen estado, con caja y papeles. No llega al umbral del 15 % de descuento."
   },
   "motivo": "triage: Precio pedido de US$3300 está por encima del valor de venta cerrada de un Black Bay 54 azul de acero, en buen estado, con caja y papeles. No llega al umbral del 15 % de descuento. (justo 3100)"
+ },
+ {
+  "fecha": "2026-11-21T03:56:21.402952+00:00",
+  "marca": "Cartier",
+  "titulo": "Men's Cartier Steel Pasha De Cartier 38mm grid watch Vintage I Have All Papers",
+  "total": 6500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840150468760",
+  "item_id": "v1|840150468760|0",
+  "triage": {
+   "modelo": "Cartier Pasha de Cartier 38 mm, acero, esfera de rejilla (cuarzo)",
+   "referencia": "W31089M7 (probable, no confirmada en la imagen)",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Modelo de cuarzo de 2000s, no vintage; el precio pedido de US$6500 está muy por encima del mercado de venta cerrada."
+  },
+  "motivo": "triage: Modelo de cuarzo de 2000s, no vintage; el precio pedido de US$6500 está muy por encima del mercado de venta cerrada. (justo 3200)"
  }
 ]
