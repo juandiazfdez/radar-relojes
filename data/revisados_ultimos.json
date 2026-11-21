@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-18T20:39:43.620833+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos de Cartier Skeleton WHSA0015",
-  "total": 23500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/860156153220",
-  "item_id": "v1|860156153220|0",
-  "referencia": "WHSA0015",
-  "mercado": {
-   "n": 7,
-   "p25": 25900,
-   "mediana": 28995
-  },
-  "ratio_mercado": 0.907,
-  "motivo": "precio normal (91 % del cuartil bajo de WHSA0015)"
- },
- {
   "fecha": "2026-11-18T20:54:42.807989+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Submariner Date 16800 40mm oyster bracelet (1985) watch only",
@@ -10984,5 +10967,22 @@
   },
   "ratio_mercado": 0.86,
   "motivo": "precio normal (86 % del cuartil bajo de M79830RB-0001)"
+ },
+ {
+  "fecha": "2026-11-21T06:11:38.682000+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona Cosmograph 116518LN Pikachu Oysterflex 40mm 18k Yellow Gold",
+  "total": 45995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880138031929",
+  "item_id": "v1|880138031929|0",
+  "referencia": "116518LN",
+  "mercado": {
+   "n": 19,
+   "p25": 47999,
+   "mediana": 50147
+  },
+  "ratio_mercado": 0.958,
+  "motivo": "precio normal (96 % del cuartil bajo de 116518LN)"
  }
 ]
