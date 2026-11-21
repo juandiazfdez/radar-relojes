@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T06:09:55.604916+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 58 GMT \"Coke\" 7939G1A0NRU",
-  "total": 4348.34,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336905094931",
-  "item_id": "v1|336905094931|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 GMT \"Coke\" (bisel negro/rojo, brazalete de acero)",
-   "referencia": "7939G1A0NRU",
-   "precio_justo_usd": 3400,
-   "interesante": false,
-   "nota": "Precio pedido cerca del retail; de segunda mano en buen estado se vende bastante por debajo. Referencia tomada del título, no verificable en la imagen."
-  },
-  "motivo": "triage: Precio pedido cerca del retail; de segunda mano en buen estado se vende bastante por debajo. Referencia tomada del título, no verificable en la imagen. (justo 3400)"
- },
- {
   "fecha": "2026-11-19T06:25:08.231643+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust Thunderbird 1625 Turn-O-Graph 18K Gold Two-Tone Watch Circa 1970",
@@ -10993,5 +10976,28 @@
   },
   "ratio_mercado": 2.405,
   "motivo": "precio normal (241 % del cuartil bajo de 79360N-0024)"
+ },
+ {
+  "fecha": "2026-11-21T19:57:02.269575+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 54 Stainless BLUE 37mm Automatic Watch Men M79000B-0001",
+  "total": 3175.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/307294246748",
+  "item_id": "v1|307294246748|0",
+  "referencia": "M79000B-0001",
+  "mercado": {
+   "n": 4,
+   "p25": 3315,
+   "mediana": 3632
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 54 acero, esfera y bisel azules, brazalete Jubilee (37 mm)",
+   "referencia": "M79000B-0001 (según el listado; no verificable en la foto)",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Reloj de producción reciente con caja y papeles, de segunda mano en excelente estado. Su precio de mercado gris es de unos US$2,900-3,100, así que US$3,175 con envío no está al menos 15 % por debajo."
+  },
+  "motivo": "triage: Reloj de producción reciente con caja y papeles, de segunda mano en excelente estado. Su precio de mercado gris es de unos US$2,900-3,100, así que US$3,175 con envío no está al menos 15 % por debajo. (justo 3000)"
  }
 ]
