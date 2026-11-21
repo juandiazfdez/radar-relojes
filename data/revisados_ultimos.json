@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-18T19:24:43.649274+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Datejust 36, Slate Roman Dial, Steel & Rose Gold, 126281RBR",
-  "total": 33637.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/366820131267",
-  "item_id": "v1|366820131267|0",
-  "referencia": "126281RBR",
-  "mercado": {
-   "n": 3,
-   "p25": 28985,
-   "mediana": 33437
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 36 acero y Everose con bisel de diamantes, esfera slate con numerales romanos, brazalete Jubilee",
-   "referencia": "126281RBR",
-   "precio_justo_usd": 20500,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de mercado de un 126281RBR nuevo con caja y papeles, que ronda US$19.000-22.000."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de mercado de un 126281RBR nuevo con caja y papeles, que ronda US$19.000-22.000. (justo 20500)"
- },
- {
-  "fecha": "2026-11-18T19:24:43.649274+00:00",
-  "marca": "Rolex",
   "titulo": "New Original Rolex 3130 315 Barrel with Arbor & Mainspring Complete Sealed Swiss",
   "total": 139.0,
   "condicion": "New without box or papers",
@@ -10996,5 +10973,22 @@
    "nota": "Precio cercano al mercado secundario para este modelo usado en buen estado; sin descuento de 15 %. Confirmar caja, papeles y el 'Case #774', que no es un dato habitual de Tudor."
   },
   "motivo": "triage: Precio cercano al mercado secundario para este modelo usado en buen estado; sin descuento de 15 %. Confirmar caja, papeles y el 'Case #774', que no es un dato habitual de Tudor. (justo 3600)"
+ },
+ {
+  "fecha": "2026-11-21T01:56:20.937124+00:00",
+  "marca": "Tudor",
+  "titulo": "2006 Tudor Prince Stainless Watch With Authentication (P08039649)",
+  "total": 2514.99,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/820378924230",
+  "item_id": "v1|820378924230|0",
+  "triage": {
+   "modelo": "Tudor Prince Date (acero, esfera plateada, brazalete tipo Jubilee; 2006)",
+   "referencia": "null",
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Referencia no legible con seguridad en la foto; el precio pedido de US$2515 no queda al menos 15 % por debajo del valor de venta real para un Prince Date de 2006 en condición Fair."
+  },
+  "motivo": "triage: Referencia no legible con seguridad en la foto; el precio pedido de US$2515 no queda al menos 15 % por debajo del valor de venta real para un Prince Date de 2006 en condición Fair. (justo 2300)"
  }
 ]
