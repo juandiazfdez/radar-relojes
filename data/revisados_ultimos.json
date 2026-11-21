@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-18T17:54:33.085443+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 34mm 1954 Rolex Oyster Automatic Wristwatch Bubbleback 6084 Two Tone",
-  "total": 3955.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137942239566",
-  "item_id": "v1|137942239566|0",
-  "referencia": "6084",
-  "mercado": {
-   "n": 8,
-   "p25": 3060,
-   "mediana": 3638
-  },
-  "ratio_mercado": 1.292,
-  "motivo": "precio normal (129 % del cuartil bajo de 6084)"
- },
- {
-  "fecha": "2026-11-18T17:54:33.085443+00:00",
   "marca": "Cartier",
   "titulo": "Vintage Cartier Panthere 112000R Two-Tone 18K Gold Steel Ladies 22mm Quartz",
   "total": 6997.0,
@@ -10969,5 +10952,22 @@
    "nota": "Oro amarillo con diamantes, estado Good; el precio pedido de US$39.536 está muy por encima del valor de venta realista."
   },
   "motivo": "triage: Oro amarillo con diamantes, estado Good; el precio pedido de US$39.536 está muy por encima del valor de venta realista. (justo 14000)"
+ },
+ {
+  "fecha": "2026-11-21T00:41:21.465521+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Chronograph M79360N-0024 New Box & Papers 2026",
+  "total": 9999.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/137948419565",
+  "item_id": "v1|137948419565|0",
+  "referencia": "M79360N-0024",
+  "mercado": {
+   "n": 20,
+   "p25": 6650,
+   "mediana": 9474
+  },
+  "ratio_mercado": 1.504,
+  "motivo": "precio normal (150 % del cuartil bajo de M79360N-0024)"
  }
 ]
