@@ -2040,5 +2040,148 @@
    "precio_reventa_rd_usd": 3600
   },
   "ratio_justo": 0.846
+ },
+ {
+  "fecha": "2026-11-21T01:26:21.325927+00:00",
+  "marca": "Rolex",
+  "titulo": "Circa 1986 Rolex Oyster Perpetual Date 34 mm, 14kt Yellow Gold Chevrolet Awar...",
+  "precio": 1220.0,
+  "envio": 0.0,
+  "total": 1220.0,
+  "mercado": null,
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date / Datejust 34 mm, oro amarillo 14 kt, esfera champán, brazalete Jubilee (c. 1986)",
+   "referencia": null,
+   "precio_justo_usd": 2400,
+   "interesante": true,
+   "nota": "Precio pedido ~50% bajo el valor estimado de mercado para oro 14 kt; verificar autenticidad, referencia exacta y brazalete, y el grabado Chevrolet no suma valor."
+  },
+  "vendedor": "goldin_auctions",
+  "valoraciones": 0,
+  "pct_positivo": "0.0",
+  "url": "https://goldin.co",
+  "item_id": "v1|366826368584|0",
+  "info": {
+   "departamento": "Men",
+   "referencia": null,
+   "modelo_esp": "Rolex Oyster Perpetual Date",
+   "caja_mm": "34 mm",
+   "material": "Yellow Gold",
+   "ano": "1986",
+   "movimiento": "Mechanical (Automatic)",
+   "caja_original": "Yes",
+   "papeles": "Yes",
+   "condicion": "Pre-owned - Excellent",
+   "condicion_id": "2990",
+   "condicion_desc": "",
+   "garantia_autenticidad": false,
+   "devoluciones": false,
+   "amarillas": [
+    "polished",
+    "scratch",
+    "scratches",
+    "wear"
+   ],
+   "imagenes": [
+    "https://i.ebayimg.com/images/g/2XcAAeSwwF5rAPAE/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/0bkAAeSwLRprAPAE/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/y2UAAeSweM5rAPAE/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/5RYAAeSwrnFrAPAE/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/0e0AAeSwGd9rAPAD/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/1qQAAeSwldhrAPAE/s-l1600.jpg"
+   ]
+  },
+  "claude": {
+   "veredicto": "alerta",
+   "modelo": "Rolex Oyster Perpetual Date ref. 15007, 34 mm, oro amarillo 14 kt, esfera champán con índices aplicados, brazalete Jubilee de oro, c. 1986, fondo grabado con el logo de Chevrolet (premio a concesionarios), cal. 3035",
+   "estado": "Muy buen estado según TGS (8.5): caja pulida con rayones leves, esfera y cristal impecables, agujas de servicio no originales",
+   "riesgo_autenticidad": "medio",
+   "completo": false,
+   "razones": [
+    "Las fotos son coherentes con un 15007 genuino: corona Rolex, fondo estriado, cierre y brazalete Jubilee de oro con el logo de la corona, y esfera 'T SWISS MADE T' (trítio) correcta para 1986. El grabado del bowtie de Chevrolet en el fondo es consistente con los relojes de premio conocidos. Falta la foto del movimiento.",
+    "TGS autentica y califica 8.5. La referencia, el serial 9110276 (época 1985-86), el calibre 3035 y la caja 15000 cuadran entre sí. Sin embargo, TGS es un tercero y no hay garantía de autenticidad ni devoluciones, así que conviene verificar el movimiento en persona.",
+    "Las agujas son de reemplazo de servicio de Rolex (lo admite la descripción). Las fotos también muestran las agujas con aspecto distinto entre imágenes, lo que sugiere fotos tomadas en momentos distintos o de catálogo. La caja está pulida, lo que resta algo de valor.",
+    "El precio de US$1,220 está muy por debajo del valor de fundición del oro (~95 g de oro 14 kt, unos US$5,000-6,000 en oro puro) y del mercado real (~US$4,000-5,500 por un 15007 de oro 14 kt con brazalete de oro). Goldin es una casa de subastas y el precio probablemente es la puja actual o inicial, no el cierre. Añade la comisión del comprador (~20% o más), el envío y el hecho de que el precio subirá en las últimas horas.",
+    "La descripción no confirma caja ni papeles (el campo dice 'Yes', pero no hay fotos ni mención en el texto), y la publicación se corta en 'Swiss ha...'. El vendedor tiene 0 valoraciones, pero eso es solo un dato informativo porque Goldin es una casa conocida.",
+    "El grabado de Chevrolet es una curiosidad para coleccionistas y no suma valor significativo. Oportunidad real solo si el precio final con comisión queda por debajo de ~US$3,000."
+   ],
+   "precio_justo_usd": 4000,
+   "precio_reventa_rd_usd": 4500
+  },
+  "ratio_justo": 0.305
+ },
+ {
+  "fecha": "2026-11-21T01:26:21.325927+00:00",
+  "marca": "Rolex",
+  "titulo": "Circa 1979 Rolex Day-Date 36 mm Watch Ref. 18038 Presented to 1980 Daytona 50...",
+  "precio": 6100.0,
+  "envio": 0.0,
+  "total": 6100.0,
+  "mercado": {
+   "fecha": "2026-11-21",
+   "consulta": "Rolex 18038",
+   "n": 18,
+   "mediana": 10484,
+   "p25": 9165,
+   "p75": 13072,
+   "min": 395,
+   "max": 13560
+  },
+  "triage": null,
+  "vendedor": "goldin_auctions",
+  "valoraciones": 0,
+  "pct_positivo": "0.0",
+  "url": "https://goldin.co",
+  "item_id": "v1|366826369043|0",
+  "info": {
+   "departamento": "Unisex Adults",
+   "referencia": "18038",
+   "modelo_esp": "Rolex Day-Date",
+   "caja_mm": "36 mm",
+   "material": "Yellow Gold",
+   "ano": "1979",
+   "movimiento": "Mechanical (Automatic)",
+   "caja_original": "Yes",
+   "papeles": null,
+   "condicion": "Pre-owned - Excellent",
+   "condicion_id": "2990",
+   "condicion_desc": "",
+   "garantia_autenticidad": false,
+   "devoluciones": false,
+   "amarillas": [
+    "dent",
+    "polished",
+    "scratch",
+    "wear"
+   ],
+   "imagenes": [
+    "https://i.ebayimg.com/images/g/0L4AAeSw~n1rAPAq/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/0c0AAeSwelVrAPAq/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/z6wAAeSwN1drAPAq/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/1f4AAeSwl1VrAPAq/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/3KsAAeSwmGBrAPAq/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/0zgAAeSw3C1rAPAq/s-l1600.jpg"
+   ]
+  },
+  "claude": {
+   "veredicto": "alerta",
+   "modelo": "Rolex Day-Date 36 mm ref. 18038, oro amarillo 18k, circa 1979 (cal. 3055), con procedencia Buddy Baker / Daytona 500 de 1980",
+   "estado": "Muy bueno; caja pulida anteriormente, brazalete President con desgaste normal, esfera champagne de apariencia original",
+   "riesgo_autenticidad": "bajo",
+   "completo": false,
+   "razones": [
+    "US$6,100 está por debajo de lo que vale el reloj. Los comparables de la 18038 piden entre 9,165 (cuartil bajo) y 10,484 (mediana), y las ventas cerradas reales rondan US$9,000-11,000. El valor en oro del reloj (unos 90 g de oro puro) también es de US$8,500-9,500 o más.",
+    "Es una casa de subastas (Goldin) y el precio puede ser una puja actual, no el cierre. Puede subir bastante antes de terminar, y suelen sumar buyer's premium e impuestos o envío. Hay que confirmar el costo final.",
+    "Autenticidad con riesgo bajo: Goldin es una casa seria, el reloj tiene grado TPG 7.4, y el número de serie (5.8M) corresponde a 1979. Las fotos muestran esfera con 'T SWISS T' (tritio), bisel acanalado, corona de la corona de Rolex, cierre con la corona grabada y fondo liso con punzones.",
+    "La esfera champagne con índices aplicados, la lupa de fecha, los hallazgos del fondo y el brazalete President coinciden con una 18038 de la época. No veo señales claras de esfera repintada, aunque con fotos de catálogo no se puede asegurar. Las manecillas con lume envejecido parecen correctas.",
+    "La descripción dice 'previously polished', así que los biseles de los lugs pueden estar suavizados y el valor de coleccionista baja un poco. Aun así el reloj es de oro macizo y el pulido no es grave.",
+    "La procedencia (regalo a Buddy Baker tras ganar el Daytona 500 de 1980, con LOP de Baker y COA) puede dar algo de prima, pero a un comprador de reventa en República Dominicana no le añade mucho. El lote incluye postales firmadas, un núcleo de asfalto y periódicos, que no interesan para reventa.",
+    "Faltan: foto del movimiento, papeles originales de Rolex (solo hay estuche de presentación), garantía de autenticidad y devoluciones (el vendedor tiene 0 valoraciones). Hay que pedir fotos del movimiento y confirmar que el brazalete no esté estirado.",
+    "Estimación conservadora de valor justo: US$9,500 solo por el reloj. La oportunidad existe si el cierre final queda por debajo de unos US$7,500-8,000 con todos los costos incluidos."
+   ],
+   "precio_justo_usd": 9500,
+   "precio_reventa_rd_usd": 10200
+  },
+  "ratio_justo": 0.642
  }
 ]
