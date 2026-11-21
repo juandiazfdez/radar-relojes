@@ -2,81 +2,6 @@
  {
   "fecha": "2026-11-19T12:25:19.764295+00:00",
   "marca": "Tudor",
-  "titulo": "Tudor Princess Date Automatic Stainless Steel/Yellow Gold Watch",
-  "total": 1408.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267848007977",
-  "item_id": "v1|267848007977|0",
-  "triage": {
-   "modelo": "Tudor Princess Date automático, acero y oro amarillo, esfera negra con numerales arábigos",
-   "referencia": "92513 (probable, verificar caja y fondo)",
-   "precio_justo_usd": 1450,
-   "interesante": false,
-   "nota": "Precio pedido de US$1408 está cerca del valor de venta real para este modelo de dos tonos en estado Good; no hay descuento de al menos 15 %."
-  },
-  "motivo": "triage: Precio pedido de US$1408 está cerca del valor de venta real para este modelo de dos tonos en estado Good; no hay descuento de al menos 15 %. (justo 1450)"
- },
- {
-  "fecha": "2026-11-19T12:25:19.764295+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Royal Automatic Stainless Steel / Stainless Steel Watch",
-  "total": 3727.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820372452697",
-  "item_id": "v1|820372452697|0",
-  "triage": {
-   "modelo": "Tudor Royal Automatic (acero, bisel con tornillos, esfera gris verdosa con ventana de fecha a las 3, brazalete integrado; probablemente 38 mm)",
-   "referencia": "28600 (probable, no confirmable en la foto)",
-   "precio_justo_usd": 2700,
-   "interesante": false,
-   "nota": "El precio pedido de US$3727 está cerca o por encima del retail de esta referencia y muy por encima de lo que se vende de segunda mano; no hay señal de descuento."
-  },
-  "motivo": "triage: El precio pedido de US$3727 está cerca o por encima del retail de esta referencia y muy por encima de lo que se vende de segunda mano; no hay señal de descuento. (justo 2700)"
- },
- {
-  "fecha": "2026-11-19T12:25:19.764295+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor 1926 Date Automatic Stainless Steel / Stainless Steel Watch",
-  "total": 1652.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820372452729",
-  "item_id": "v1|820372452729|0",
-  "triage": {
-   "modelo": "Tudor 1926 Date Automatic (acero, esfera plateada con marcadores aplicados dorados)",
-   "referencia": "M91650 (probable, a confirmar por número de serie o caja)",
-   "precio_justo_usd": 2400,
-   "interesante": true,
-   "nota": "Precio pedido ~31 % por debajo del valor de venta de un 1926 de acero usado en buen estado; verificar autenticidad, papeles y que el listado sea de este modelo antes de comprar."
-  },
-  "referencia": null,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 1450,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Muy bueno, con rayones leves en caja, bisel y brazalete. Sin caja ni papeles, solo tarjeta de garantía."
-  },
-  "motivo": "Claude descarto: El triage se equivoca de modelo: la descripción indica 28 mm, de mujer, ref. M91350-0011. No es la M91650 de 36 mm. El precio justo de US$2,400 del triage no aplica, y el supuesto descuento del 31 % desaparece.; La 1926 de 28 mm usada se vende realmente en EE. UU. por unos US$1,300-1,600 sin caja ni papeles. Los 1926 pequeños de mujer tienen menos demanda que los de 36 mm. Con US$1,652 el precio está en el precio de mercado o un poco por encima, sin margen de reventa."
- },
- {
-  "fecha": "2026-11-19T12:25:19.764295+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Glamour Date Automatic Stainless Steel / Stainless Steel Watch",
-  "total": 1751.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267848006792",
-  "item_id": "v1|267848006792|0",
-  "triage": {
-   "modelo": "Tudor Glamour Date Automatic (acero, esfera negra, brazalete con eslabones calados)",
-   "referencia": "55000 (probable, no verificable en la foto)",
-   "precio_justo_usd": 1950,
-   "interesante": false,
-   "nota": "Precio pedido unos 10% por debajo de la estimación de venta real; no alcanza el umbral del 15%. Faltan detalles para confirmar referencia y estado."
-  },
-  "motivo": "triage: Precio pedido unos 10% por debajo de la estimación de venta real; no alcanza el umbral del 15%. Faltan detalles para confirmar referencia y estado. (justo 1950)"
- },
- {
-  "fecha": "2026-11-19T12:25:19.764295+00:00",
-  "marca": "Tudor",
   "titulo": "Tudor Heritage Black Bay Automatic Stainless Steel Watch",
   "total": 4869.0,
   "condicion": "Pre-owned - Good",
@@ -10986,5 +10911,85 @@
   },
   "ratio_mercado": 0.999,
   "motivo": "precio normal (100 % del cuartil bajo de 114060)"
+ },
+ {
+  "fecha": "2026-11-21T22:27:14.986616+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Green Large With Two Bracelets WSSA0062",
+  "total": 8200.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960227133923",
+  "item_id": "v1|960227133923|0",
+  "referencia": "WSSA0062",
+  "mercado": {
+   "n": 3,
+   "p25": 7899,
+   "mediana": 8000
+  },
+  "triage": {
+   "modelo": "Cartier Santos de Cartier Large, esfera verde, con dos correas (brazalete de acero y correa verde)",
+   "referencia": "WSSA0062",
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "Precio pedido de US$8200 supera el valor de mercado secundario para este modelo de acero con esfera verde en estado Good, aunque incluya caja y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$8200 supera el valor de mercado secundario para este modelo de acero con esfera verde en estado Good, aunque incluya caja y papeles. (justo 7000)"
+ },
+ {
+  "fecha": "2026-11-21T22:27:14.986616+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Hydronaut 2018 Ref 25000",
+  "total": 2950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960227138965",
+  "item_id": "v1|960227138965|0",
+  "referencia": "25000",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Hydronaut II (acero, bisel negro, brazalete de eslabones), aparentemente",
+   "referencia": "25000 (según título; no verificable en la imagen)",
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "El precio pedido de US$2950 supera el valor de venta cerrada estimado para un Tudor de acero usado en estado bueno; la referencia y el modelo no se confirman en la foto."
+  },
+  "motivo": "triage: El precio pedido de US$2950 supera el valor de venta cerrada estimado para un Tudor de acero usado en estado bueno; la referencia y el modelo no se confirman en la foto. (justo 2300)"
+ },
+ {
+  "fecha": "2026-11-21T22:27:14.986616+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 2020 Bronze 79250BA",
+  "total": 3850.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960227133177",
+  "item_id": "v1|960227133177|0",
+  "referencia": "79250BA",
+  "mercado": {
+   "n": 9,
+   "p25": 2985,
+   "mediana": 3893
+  },
+  "ratio_mercado": 1.29,
+  "motivo": "precio normal (129 % del cuartil bajo de 79250BA)"
+ },
+ {
+  "fecha": "2026-11-21T22:27:14.986616+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay Pro Ref 79470",
+  "total": 3650.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960227129694",
+  "item_id": "v1|960227129694|0",
+  "referencia": "79470",
+  "mercado": {
+   "n": 18,
+   "p25": 3500,
+   "mediana": 3750
+  },
+  "ratio_mercado": 1.043,
+  "motivo": "precio normal (104 % del cuartil bajo de 79470)"
  }
 ]

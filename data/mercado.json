@@ -1590,13 +1590,13 @@
   "max": 6500
  },
  "Tudor 79250BA|usado": {
-  "fecha": "2026-11-15",
+  "fecha": "2026-11-21",
   "consulta": "Tudor 79250BA",
-  "n": 10,
-  "mediana": 3946,
-  "p25": 3540,
-  "p75": 4021,
-  "min": 2819,
+  "n": 9,
+  "mediana": 3893,
+  "p25": 2985,
+  "p75": 4015,
+  "min": 2449,
   "max": 6500
  },
  "Tudor 79250BB|usado": {
@@ -1930,13 +1930,13 @@
   "max": 5600
  },
  "Tudor 79470|usado": {
-  "fecha": "2026-11-16",
+  "fecha": "2026-11-21",
   "consulta": "Tudor 79470",
-  "n": 17,
-  "mediana": 3820,
+  "n": 18,
+  "mediana": 3750,
   "p25": 3500,
-  "p75": 4250,
-  "min": 3350,
+  "p75": 3995,
+  "min": 3200,
   "max": 5093
  },
  "Tudor 79830RB-0001|usado": {
@@ -7410,7 +7410,7 @@
   "max": 5495
  },
  "Cartier WSSA0062|usado": {
-  "fecha": "2026-11-20",
+  "fecha": "2026-11-21",
   "consulta": "Cartier WSSA0062",
   "n": 3,
   "mediana": 8000,
@@ -22438,5 +22438,10 @@
   "p75": 3265,
   "min": 2995,
   "max": 3499
+ },
+ "Tudor 25000|usado": {
+  "fecha": "2026-11-21",
+  "consulta": "Tudor 25000",
+  "n": 0
  }
 }
