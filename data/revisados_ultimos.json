@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-18T20:09:43.140930+00:00",
   "marca": "Rolex",
-  "titulo": "2022 Rolex Yacht-Master 126622 Blue Stainless Steel Platinum 40mm YM1 Box Papers",
-  "total": 14978.28,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267847325338",
-  "item_id": "v1|267847325338|0",
-  "referencia": "126622",
-  "mercado": {
-   "n": 23,
-   "p25": 14975,
-   "mediana": 15990
-  },
-  "ratio_mercado": 1.0,
-  "motivo": "precio normal (100 % del cuartil bajo de 126622)"
- },
- {
-  "fecha": "2026-11-18T20:09:43.140930+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Daytona Panda 116500LN Mint 2022",
   "total": 33450.0,
   "condicion": "Pre-owned - Excellent",
@@ -10990,5 +10973,22 @@
    "nota": "Pelagos LHD de titanio en buen estado; el precio pedido de US$4250 con envío está por encima del rango de venta cerrada de uso, así que no cumple el umbral del 15 %."
   },
   "motivo": "triage: Pelagos LHD de titanio en buen estado; el precio pedido de US$4250 con envío está por encima del rango de venta cerrada de uso, así que no cumple el umbral del 15 %. (justo 3900)"
+ },
+ {
+  "fecha": "2026-11-21T03:11:20.874601+00:00",
+  "marca": "Tudor",
+  "titulo": "2024 Tudor Ranger 39mm  79950, Full Set  Excellent ",
+  "total": 2890.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287745182892",
+  "item_id": "v1|287745182892|0",
+  "referencia": "79950",
+  "mercado": {
+   "n": 11,
+   "p25": 3350,
+   "mediana": 3600
+  },
+  "ratio_mercado": 0.863,
+  "motivo": "precio normal (86 % del cuartil bajo de 79950)"
  }
 ]
