@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T00:24:43.639332+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex AIR KING 116900",
-  "total": 7970.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307289608722",
-  "item_id": "v1|307289608722|0",
-  "referencia": "116900",
-  "mercado": {
-   "n": 27,
-   "p25": 8145,
-   "mediana": 8533
-  },
-  "ratio_mercado": 0.979,
-  "motivo": "precio normal (98 % del cuartil bajo de 116900)"
- },
- {
-  "fecha": "2026-11-19T00:24:43.639332+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Ranger 39mm \"Dune\" 79950, Full Set  Excellent ",
-  "total": 3725.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287740133323",
-  "item_id": "v1|287740133323|0",
-  "referencia": "79950",
-  "mercado": {
-   "n": 9,
-   "p25": 3299,
-   "mediana": 3594
-  },
-  "ratio_mercado": 1.129,
-  "motivo": "precio normal (113 % del cuartil bajo de 79950)"
- },
- {
   "fecha": "2026-11-19T00:39:59.087078+00:00",
   "marca": "Tudor",
   "titulo": "2021 Tudor Pelagos 42mm Blue Titanium 25600TB Box & Papers. Runs Great",
@@ -10984,5 +10950,39 @@
    "nota": "Precio de 12.500 US$ muy por encima del mercado para un Santos de acero medio nuevo; la referencia exacta y la edición 'Ghost 2026' no se pueden verificar en la foto."
   },
   "motivo": "triage: Precio de 12.500 US$ muy por encima del mercado para un Santos de acero medio nuevo; la referencia exacta y la edición 'Ghost 2026' no se pueden verificar en la foto. (justo 7000)"
+ },
+ {
+  "fecha": "2026-11-21T16:57:02.598572+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sky-Dweller 336934 2026",
+  "total": 20800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407377390497",
+  "item_id": "v1|407377390497|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller (esfera blanca, bisel acanalado, brazalete Oyster)",
+   "referencia": "336934",
+   "precio_justo_usd": 23500,
+   "interesante": false,
+   "nota": "Precio pedido US$20.800 queda ~11 % bajo una estimación conservadora de venta real (~US$23.500); no alcanza el umbral del 15 %. Verificar año '2026' en el título y papeles/caja."
+  },
+  "motivo": "triage: Precio pedido US$20.800 queda ~11 % bajo una estimación conservadora de venta real (~US$23.500); no alcanza el umbral del 15 %. Verificar año '2026' en el título y papeles/caja. (justo 23500)"
+ },
+ {
+  "fecha": "2026-11-21T16:57:02.598572+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 1601 Jubilee Bracelet",
+  "total": 4010.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960226137942",
+  "item_id": "v1|960226137942|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 mm acero con bisel de oro fluteado y brazalete Jubilee",
+   "referencia": "1601",
+   "precio_justo_usd": 4200,
+   "interesante": false,
+   "nota": "Datejust 1601 de acero con bisel de oro, esfera plateada con marcadores de barra, probablemente de los años 70. El precio pedido de 4010 queda cerca del valor de mercado, no 15 % por debajo, y el estado 'Good' y la esfera original deben verificarse en persona."
+  },
+  "motivo": "triage: Datejust 1601 de acero con bisel de oro, esfera plateada con marcadores de barra, probablemente de los años 70. El precio pedido de 4010 queda cerca del valor de mercado, no 15 % por debajo, y el estado 'Good' y la esfera original deben verificarse en persona. (justo 4200)"
  }
 ]
