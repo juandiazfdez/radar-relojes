@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-18T20:24:43.428778+00:00",
   "marca": "Tudor",
-  "titulo": "TUDOR 91450 Men’s Automatic Date Wristwatch with Jubilee Bracelet Box & Papers",
-  "total": 1900.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137942548363",
-  "item_id": "v1|137942548363|0",
-  "referencia": "91450",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Tudor Prince Date (Jubilee), acero, esfera plateada con numerales aplicados y ventana de fecha",
-   "referencia": "91450 (según título, no verificado en la imagen)",
-   "precio_justo_usd": 2100,
-   "interesante": false,
-   "nota": "Precio pedido US$1900 solo unos 10 % por debajo del valor estimado; no alcanza el umbral del 15 %. Verificar referencia y autenticidad."
-  },
-  "motivo": "triage: Precio pedido US$1900 solo unos 10 % por debajo del valor estimado; no alcanza el umbral del 15 %. Verificar referencia y autenticidad. (justo 2100)"
- },
- {
-  "fecha": "2026-11-18T20:24:43.428778+00:00",
-  "marca": "Tudor",
   "titulo": "Tudor Black Bay Chronograph 79360N-0001 Pre-owned Box & Papers 2022",
   "total": 4220.0,
   "condicion": "Pre-owned - Good",
@@ -10984,5 +10961,28 @@
   },
   "ratio_mercado": 0.954,
   "motivo": "precio normal (95 % del cuartil bajo de 116400)"
+ },
+ {
+  "fecha": "2026-11-21T05:41:38.914934+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Rolex Sea Dweller Deepsea 136668LB Ceramic 18k Yellow Gold 44mm Box Paper",
+  "total": 60995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880134497567",
+  "item_id": "v1|880134497567|0",
+  "referencia": "136668LB",
+  "mercado": {
+   "n": 2,
+   "p25": 62999,
+   "mediana": 63999
+  },
+  "triage": {
+   "modelo": "Rolex Sea-Dweller Deepsea, oro amarillo 18k, bisel de cerámica azul, esfera azul, 44 mm",
+   "referencia": "136668LB",
+   "precio_justo_usd": 65000,
+   "interesante": false,
+   "nota": "Precio pedido de US$60,995 queda cerca del mercado, no 15% por debajo; verificar autenticidad y papeles antes de comprar."
+  },
+  "motivo": "triage: Precio pedido de US$60,995 queda cerca del mercado, no 15% por debajo; verificar autenticidad y papeles antes de comprar. (justo 65000)"
  }
 ]
