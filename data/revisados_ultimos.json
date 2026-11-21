@@ -2,30 +2,6 @@
  {
   "fecha": "2026-11-18T20:54:42.807989+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Tank Française Automatic Ref 2302 Stainless Steel w/ Cartier Box 28mm",
-  "total": 3315.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206711317576",
-  "item_id": "v1|206711317576|0",
-  "referencia": "2302",
-  "mercado": {
-   "n": 40,
-   "p25": 3950,
-   "mediana": 4525
-  },
-  "ratio_mercado": 0.839,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 3200,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado en buen estado: caja y brazalete con rayones de uso, esfera limpia, con caja roja Cartier y sin papeles"
-  },
-  "ratio_justo": 1.036,
-  "motivo": "precio normal segun revision (104 % del justo 3200)"
- },
- {
-  "fecha": "2026-11-18T20:54:42.807989+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Pasha GMT Automatic Ref 2377 w/ Cartier Box 35mm",
   "total": 2625.0,
   "condicion": "Pre-owned - Good",
@@ -10977,5 +10953,22 @@
   },
   "ratio_mercado": 1.259,
   "motivo": "precio normal (126 % del cuartil bajo de 228239)"
+ },
+ {
+  "fecha": "2026-11-21T06:41:38.967206+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay GMT S&G Automatic 41mm Black Brown Bracelet Watch 79833MN",
+  "total": 5300.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880139325191",
+  "item_id": "v1|880139325191|0",
+  "referencia": "79833MN",
+  "mercado": {
+   "n": 9,
+   "p25": 4100,
+   "mediana": 4900
+  },
+  "ratio_mercado": 1.293,
+  "motivo": "precio normal (129 % del cuartil bajo de 79833MN)"
  }
 ]
