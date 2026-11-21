@@ -1,29 +1,6 @@
 [
  {
   "fecha": "2026-11-18T20:24:43.428778+00:00",
-  "marca": "Cartier",
-  "titulo": "Ladies Cartier Delices WG800017 3379 Diamond Silver 18K Gold 38mm Quartz Watch",
-  "total": 12427.97,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940103386904",
-  "item_id": "v1|940103386904|0",
-  "referencia": "WG800017",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Délices (esfera oval, oro rosa 18k con bisel de diamantes, cuarzo)",
-   "referencia": "WG800017",
-   "precio_justo_usd": 7500,
-   "interesante": false,
-   "nota": "Precio pedido de US$12.428 está muy por encima del valor de venta cerrada estimado para este modelo de oro rosa con diamantes de segunda mano; además el título menciona 38 mm, que no encaja bien con la caja ovalada."
-  },
-  "motivo": "triage: Precio pedido de US$12.428 está muy por encima del valor de venta cerrada estimado para este modelo de oro rosa con diamantes de segunda mano; además el título menciona 38 mm, que no encaja bien con la caja ovalada. (justo 7500)"
- },
- {
-  "fecha": "2026-11-18T20:24:43.428778+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR 91450 Men’s Automatic Date Wristwatch with Jubilee Bracelet Box & Papers",
   "total": 1900.0,
@@ -10990,5 +10967,22 @@
   },
   "ratio_mercado": 1.206,
   "motivo": "precio normal (121 % del cuartil bajo de 216570)"
+ },
+ {
+  "fecha": "2026-11-21T05:26:39.397093+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Milgauss Steel Watch 116400",
+  "total": 10968.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840150673940",
+  "item_id": "v1|840150673940|0",
+  "referencia": "116400",
+  "mercado": {
+   "n": 35,
+   "p25": 11500,
+   "mediana": 11999
+  },
+  "ratio_mercado": 0.954,
+  "motivo": "precio normal (95 % del cuartil bajo de 116400)"
  }
 ]
