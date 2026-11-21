@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-18T18:09:33.117954+00:00",
   "marca": "Rolex",
-  "titulo": "ROLEX GENEVE CELLINI REP",
-  "total": 58.99,
-  "condicion": "For parts or not working",
-  "url": "https://www.ebay.com/itm/168871469687",
-  "item_id": "v1|168871469687|0",
-  "triage": {
-   "modelo": "Reloj de cuarzo bicolor (acero y dorado) de estilo Cellini, sin marcas Rolex visibles",
-   "referencia": null,
-   "precio_justo_usd": 15,
-   "interesante": false,
-   "nota": "El título dice 'REP' (probable réplica), se vende para piezas o no funciona, y la foto no muestra marcas de Rolex. Un Cellini genuino se vendería mucho más caro."
-  },
-  "motivo": "triage: El título dice 'REP' (probable réplica), se vende para piezas o no funciona, y la foto no muestra marcas de Rolex. Un Cellini genuino se vendería mucho más caro. (justo 15)"
- },
- {
-  "fecha": "2026-11-18T18:09:33.117954+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Explorer 40 \"2023\" 224270",
   "total": 10471.99,
   "condicion": "Pre-owned - Good",
@@ -10975,5 +10958,28 @@
    "nota": "Precio pedido de US$18.793 está muy por encima del valor de mercado (~US$12.000-13.000 con caja y papeles, menos en estado Fair); no es oportunidad."
   },
   "motivo": "triage: Precio pedido de US$18.793 está muy por encima del valor de mercado (~US$12.000-13.000 con caja y papeles, menos en estado Fair); no es oportunidad. (justo 12500)"
+ },
+ {
+  "fecha": "2026-11-21T01:11:21.663077+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 41 Blue Ref. M79230B-0008 Case #772",
+  "total": 3595.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128207592245",
+  "item_id": "v1|128207592245|0",
+  "referencia": "M79230B-0008",
+  "mercado": {
+   "n": 1,
+   "p25": 4074,
+   "mediana": 4074
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay (bisel azul, brazalete de acero)",
+   "referencia": "M79230B-0008",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "Black Bay azul en acero de segunda mano en buen estado; el precio pedido está cerca del mercado y no supera el 15 % de descuento necesario. Verificar la referencia exacta y el tamaño en persona."
+  },
+  "motivo": "triage: Black Bay azul en acero de segunda mano en buen estado; el precio pedido está cerca del mercado y no supera el 15 % de descuento necesario. Verificar la referencia exacta y el tamaño en persona. (justo 3400)"
  }
 ]
