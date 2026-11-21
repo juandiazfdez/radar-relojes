@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-18T21:09:42.948178+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Daytona 116515LN Meteorite Cosmograph Daytona",
-  "total": 87500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/860156227288",
-  "item_id": "v1|860156227288|0",
-  "referencia": "116515LN",
-  "mercado": {
-   "n": 13,
-   "p25": 41000,
-   "mediana": 44988
-  },
-  "ratio_mercado": 2.134,
-  "motivo": "precio normal (213 % del cuartil bajo de 116515LN)"
- },
- {
-  "fecha": "2026-11-18T21:09:42.948178+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex 116263 Datejust 36mm Turn O Graph \"Thunderbird\" Champagne Index Jubilee",
   "total": 11600.0,
   "condicion": "Pre-owned - Good",
@@ -10964,5 +10947,22 @@
   },
   "ratio_mercado": 1.101,
   "motivo": "precio normal (110 % del cuartil bajo de 126610LV)"
+ },
+ {
+  "fecha": "2026-11-21T07:41:38.506335+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay Chrono “White Panda” 41mm Jubilee M79360N-0014",
+  "total": 6249.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/820379721713",
+  "item_id": "v1|820379721713|0",
+  "referencia": "M79360N-0014",
+  "mercado": {
+   "n": 20,
+   "p25": 6650,
+   "mediana": 9474
+  },
+  "ratio_mercado": 0.94,
+  "motivo": "precio normal (94 % del cuartil bajo de M79360N-0014)"
  }
 ]
