@@ -1,107 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T06:25:08.231643+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust Thunderbird 1625 Turn-O-Graph 18K Gold Two-Tone Watch Circa 1970",
-  "total": 9800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128204247468",
-  "item_id": "v1|128204247468|0",
-  "triage": {
-   "modelo": "Rolex Datejust Thunderbird (Turn-O-Graph) dos tonos acero y oro amarillo de 18K",
-   "referencia": "1625",
-   "precio_justo_usd": 7800,
-   "interesante": false,
-   "nota": "Bisel Turn-O-Graph y esfera de bastones consistentes con la 1625; el precio pedido de US$9800 queda por encima del rango de venta cerrada para estado Good."
-  },
-  "motivo": "triage: Bisel Turn-O-Graph y esfera de bastones consistentes con la 1625; el precio pedido de US$9800 queda por encima del rango de venta cerrada para estado Good. (justo 7800)"
- },
- {
-  "fecha": "2026-11-19T06:25:08.231643+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 3001 42mm Two-Tone 18K Yellow Gold Steel Automatic Watch",
-  "total": 8500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128204247640",
-  "item_id": "v1|128204247640|0",
-  "referencia": "3001",
-  "mercado": {
-   "n": 22,
-   "p25": 5005,
-   "mediana": 6495
-  },
-  "ratio_mercado": 1.698,
-  "motivo": "precio normal (170 % del cuartil bajo de 3001)"
- },
- {
-  "fecha": "2026-11-19T06:40:07.653853+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36 \"2026 - Blue Roman\" 126234",
-  "total": 13716.49,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/237191816271",
-  "item_id": "v1|237191816271|0",
-  "referencia": "126234",
-  "mercado": {
-   "n": 49,
-   "p25": 14858,
-   "mediana": 15499
-  },
-  "ratio_mercado": 0.923,
-  "motivo": "precio normal (92 % del cuartil bajo de 126234)"
- },
- {
-  "fecha": "2026-11-19T07:10:07.605543+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex Oyster Perpetual Air-King",
-  "total": 3495.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920159312738",
-  "item_id": "v1|920159312738|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual vintage bicolor (acero y bisel dorado estriado); posible discrepancia con el título Air-King",
-   "referencia": null,
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "La foto muestra bisel dorado estriado, que no coincide con el Air-King 5500 de bisel liso de acero. Hay que verificar la referencia y el calibre antes de comprar. El precio pedido no está al menos 15 % por debajo del mercado."
-  },
-  "motivo": "triage: La foto muestra bisel dorado estriado, que no coincide con el Air-King 5500 de bisel liso de acero. Hay que verificar la referencia y el calibre antes de comprar. El precio pedido no está al menos 15 % por debajo del mercado. (justo 3300)"
- },
- {
-  "fecha": "2026-11-19T07:10:07.605543+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Must de Cartier Tank Quartz Watch Stainless Steel 22",
-  "total": 5135.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117529810126",
-  "item_id": "v1|117529810126|0",
-  "triage": {
-   "modelo": "Cartier Tank Must de Cartier, tamaño 22 (SM), cuarzo, acero, esfera plateada con números romanos y cabujón de zafiro azul en la corona",
-   "referencia": "WSTA0005 (probable; verificar con el caso y el reverso)",
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "Pre-owned de acero a US$5,135 con envío está muy por encima de su valor de venta cerrada, que ronda US$1,800-2,600 según estado y papeles."
-  },
-  "motivo": "triage: Pre-owned de acero a US$5,135 con envío está muy por encima de su valor de venta cerrada, que ronda US$1,800-2,600 según estado y papeles. (justo 2200)"
- },
- {
-  "fecha": "2026-11-19T07:10:07.605543+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay 54 Lagoon Blue Jubilee Bracelet 37mm M79000-0001",
-  "total": 5350.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/860157511061",
-  "item_id": "v1|860157511061|0",
-  "referencia": "M79000-0001",
-  "mercado": {
-   "n": 14,
-   "p25": 5095,
-   "mediana": 5448
-  },
-  "ratio_mercado": 1.05,
-  "motivo": "precio normal (105 % del cuartil bajo de M79000-0001)"
- },
- {
   "fecha": "2026-11-19T07:40:08.512420+00:00",
   "marca": "Rolex",
   "titulo": "Vintage 26mm 1984 Rolex Date 29J Ladies Automatic Wristwatch Steel & 18k 69173",
@@ -10999,5 +10897,107 @@
    "nota": "Reloj de producción reciente con caja y papeles, de segunda mano en excelente estado. Su precio de mercado gris es de unos US$2,900-3,100, así que US$3,175 con envío no está al menos 15 % por debajo."
   },
   "motivo": "triage: Reloj de producción reciente con caja y papeles, de segunda mano en excelente estado. Su precio de mercado gris es de unos US$2,900-3,100, así que US$3,175 con envío no está al menos 15 % por debajo. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-21T20:12:01.881930+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date II President Platinum Ice Blue Roman 41mm Watch B/P  V 218206",
+  "total": 59700.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117534681182",
+  "item_id": "v1|117534681182|0",
+  "referencia": "218206",
+  "mercado": {
+   "n": 10,
+   "p25": 66533,
+   "mediana": 78022
+  },
+  "ratio_mercado": 0.897,
+  "motivo": "precio normal (90 % del cuartil bajo de 218206)"
+ },
+ {
+  "fecha": "2026-11-21T20:12:01.881930+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yacht-Master 16622",
+  "total": 10500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257864514374",
+  "item_id": "v1|257864514374|0",
+  "referencia": "16622",
+  "mercado": {
+   "n": 26,
+   "p25": 9990,
+   "mediana": 11253
+  },
+  "ratio_mercado": 1.051,
+  "motivo": "precio normal (105 % del cuartil bajo de 16622)"
+ },
+ {
+  "fecha": "2026-11-21T20:12:01.881930+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Oysterquartz 18k Yellow Gold/Steel Silver 36mm Watch +Paper 17013",
+  "total": 6950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117534679358",
+  "item_id": "v1|117534679358|0",
+  "referencia": "17013",
+  "mercado": {
+   "n": 13,
+   "p25": 5950,
+   "mediana": 6900
+  },
+  "ratio_mercado": 1.168,
+  "motivo": "precio normal (117 % del cuartil bajo de 17013)"
+ },
+ {
+  "fecha": "2026-11-21T20:12:01.881930+00:00",
+  "marca": "Cartier",
+  "titulo": "Vintage Cartier 18k Watch",
+  "total": 8925.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/940111973682",
+  "item_id": "v1|940111973682|0",
+  "triage": {
+   "modelo": "Cartier vintage de caja redonda en oro (posible 18k), esfera blanca con numerales romanos y correa de piel de cocodrilo",
+   "referencia": null,
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Imagen de baja resolución, no se ve la referencia ni el sello de 18k. Estado Fair y precio pedido de US$8925 muy por encima de lo que se vende un reloj así."
+  },
+  "motivo": "triage: Imagen de baja resolución, no se ve la referencia ni el sello de 18k. Estado Fair y precio pedido de US$8925 muy por encima de lo que se vende un reloj así. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-21T20:12:01.881930+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Solo Large Model Watch W5200003",
+  "total": 2875.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267850265641",
+  "item_id": "v1|267850265641|0",
+  "referencia": "W5200003",
+  "mercado": {
+   "n": 7,
+   "p25": 3075,
+   "mediana": 3170
+  },
+  "ratio_mercado": 0.935,
+  "motivo": "precio normal (93 % del cuartil bajo de W5200003)"
+ },
+ {
+  "fecha": "2026-11-21T20:12:01.881930+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Watch New Black And Red Notebook  With Protective Sleeve",
+  "total": 40.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860165682818",
+  "item_id": "v1|860165682818|0",
+  "triage": {
+   "modelo": "Libreta promocional Tudor (accesorio de papelería, no es un reloj)",
+   "referencia": null,
+   "precio_justo_usd": 10,
+   "interesante": false,
+   "nota": "La foto y el título muestran una libreta negra con logo Tudor y funda, no un reloj; no tiene valor como reloj."
+  },
+  "motivo": "triage: La foto y el título muestran una libreta negra con logo Tudor y funda, no un reloj; no tiene valor como reloj. (justo 10)"
  }
 ]
