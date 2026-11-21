@@ -1,73 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T05:39:55.915270+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Yacht-Master 40 Everose Gold Oysterflex 2016 Complete Set 116655",
-  "total": 27995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920159046904",
-  "item_id": "v1|920159046904|0",
-  "referencia": "116655",
-  "mercado": {
-   "n": 22,
-   "p25": 26708,
-   "mediana": 30100
-  },
-  "ratio_mercado": 1.048,
-  "motivo": "precio normal (105 % del cuartil bajo de 116655)"
- },
- {
-  "fecha": "2026-11-19T05:54:56.538419+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Explorer I \"2017 - MK 2\" 214270",
-  "total": 10255.69,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237191768504",
-  "item_id": "v1|237191768504|0",
-  "referencia": "214270",
-  "mercado": {
-   "n": 24,
-   "p25": 8599,
-   "mediana": 9493
-  },
-  "ratio_mercado": 1.193,
-  "motivo": "precio normal (119 % del cuartil bajo de 214270)"
- },
- {
-  "fecha": "2026-11-19T05:54:56.538419+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II \"2026 - Batgirl\" 126710BLNR",
-  "total": 22692.94,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336905086947",
-  "item_id": "v1|336905086947|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 71,
-   "p25": 18395,
-   "mediana": 18950
-  },
-  "ratio_mercado": 1.234,
-  "motivo": "precio normal (123 % del cuartil bajo de 126710BLNR)"
- },
- {
-  "fecha": "2026-11-19T05:54:56.538419+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II \"2026 - Bruce Wayne\" 126710GRNR",
-  "total": 23233.69,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/336905085978",
-  "item_id": "v1|336905085978|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 62,
-   "p25": 21410,
-   "mediana": 22635
-  },
-  "ratio_mercado": 1.085,
-  "motivo": "precio normal (109 % del cuartil bajo de 126710GRNR)"
- },
- {
   "fecha": "2026-11-19T05:54:56.538419+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 41 \"2026 - Wimbledon\" 126334",
@@ -10992,5 +10924,86 @@
    "nota": "Modelo nuevo de producción actual con caja, papeles y garantía hasta 2029; el precio pedido de US$4.114 está por encima del valor de mercado secundario estimado."
   },
   "motivo": "triage: Modelo nuevo de producción actual con caja, papeles y garantía hasta 2029; el precio pedido de US$4.114 está por encima del valor de mercado secundario estimado. (justo 3700)"
+ },
+ {
+  "fecha": "2026-11-21T18:57:02.403453+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31 Midsize Steel Yellow Gold Diamond Ladies Watch 278343 Box Card",
+  "total": 25030.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336909374179",
+  "item_id": "v1|336909374179|0",
+  "referencia": "278343",
+  "mercado": {
+   "n": 4,
+   "p25": 19495,
+   "mediana": 20218
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 31 acero y oro amarillo, bisel de diamantes, esfera verde floral con diamantes e índices, brazalete Jubilee",
+   "referencia": "278343 (según título; no verificable en la imagen)",
+   "precio_justo_usd": 13000,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de mercado para esta referencia en estado usado; el listado no parece una oportunidad."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de mercado para esta referencia en estado usado; el listado no parece una oportunidad. (justo 13000)"
+ },
+ {
+  "fecha": "2026-11-21T18:57:02.403453+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Deepsea 44mm, Black Dial, 126660 BRAND NEW 2021  Box & Papers",
+  "total": 11744.95,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/336909362489",
+  "item_id": "v1|336909362489|0",
+  "referencia": "126660, 126660-0001",
+  "mercado": {
+   "n": 5,
+   "p25": 15650,
+   "mediana": 17359
+  },
+  "ratio_mercado": 0.75,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 13500,
+   "riesgo_autenticidad": "medio",
+   "estado": "Presentado como nuevo con caja y papeles (2021). Las fotos muestran un reloj sin desgaste visible, pero no se puede confirmar la autenticidad."
+  },
+  "ratio_justo": 0.87,
+  "motivo": "precio normal segun revision (87 % del justo 13500)"
+ },
+ {
+  "fecha": "2026-11-21T18:57:02.403453+00:00",
+  "marca": "Rolex",
+  "titulo": "Unpolished Rolex Daytona Cosmograph 116520 Black Steel Stickered 40mm Box Papers",
+  "total": 24779.29,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/307294190902",
+  "item_id": "v1|307294190902|0",
+  "referencia": "116520",
+  "mercado": {
+   "n": 20,
+   "p25": 21840,
+   "mediana": 23372
+  },
+  "ratio_mercado": 1.135,
+  "motivo": "precio normal (113 % del cuartil bajo de 116520)"
+ },
+ {
+  "fecha": "2026-11-21T18:57:02.403453+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR 79830RB GMT Chronometer Date Steel Bracelet  Full Set 2023",
+  "total": 3960.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336909377142",
+  "item_id": "v1|336909377142|0",
+  "referencia": "79830RB",
+  "mercado": {
+   "n": 56,
+   "p25": 3750,
+   "mediana": 3979
+  },
+  "ratio_mercado": 1.056,
+  "motivo": "precio normal (106 % del cuartil bajo de 79830RB)"
  }
 ]
