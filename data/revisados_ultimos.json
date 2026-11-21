@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-19T12:25:19.764295+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Royal Vintage Stainless Steel / Leather Watch",
-  "total": 3183.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820372452956",
-  "item_id": "v1|820372452956|0",
-  "triage": {
-   "modelo": "Rolex Oyster Royal (vintage, años 1950-60, esfera crema patinada)",
-   "referencia": null,
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Referencia no confirmable en la foto; esfera patinada y estado Good. El precio pedido está en línea con el mercado, sin descuento claro."
-  },
-  "motivo": "triage: Referencia no confirmable en la foto; esfera patinada y estado Good. El precio pedido está en línea con el mercado, sin descuento claro. (justo 3000)"
- },
- {
-  "fecha": "2026-11-19T12:25:19.764295+00:00",
   "marca": "Cartier",
   "titulo": "New CARTIER Santos de Cartier steel WSSA0107 \"Ghost\"",
   "total": 13050.0,
@@ -10992,5 +10975,22 @@
   },
   "ratio_mercado": 1.032,
   "motivo": "precio normal (103 % del cuartil bajo de 126610LV)"
+ },
+ {
+  "fecha": "2026-11-21T21:57:14.933562+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos De Cartier Chronograph XL WSSA0017 Black & Steel W/Box Worn SPM",
+  "total": 8509.98,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880112405738",
+  "item_id": "v1|880112405738|0",
+  "referencia": "WSSA0017",
+  "mercado": {
+   "n": 12,
+   "p25": 8950,
+   "mediana": 9374
+  },
+  "ratio_mercado": 0.951,
+  "motivo": "precio normal (95 % del cuartil bajo de WSSA0017)"
  }
 ]
