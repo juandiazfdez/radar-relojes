@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-18T20:24:43.428778+00:00",
-  "marca": "Rolex",
-  "titulo": "2021 Rolex Datejust \"Gray Elegance\" 126331 41mm Watch/Box",
-  "total": 17999.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880130473591",
-  "item_id": "v1|880130473591|0",
-  "referencia": "126331",
-  "mercado": {
-   "n": 41,
-   "p25": 15990,
-   "mediana": 16500
-  },
-  "ratio_mercado": 1.126,
-  "motivo": "precio normal (113 % del cuartil bajo de 126331)"
- },
- {
-  "fecha": "2026-11-18T20:24:43.428778+00:00",
   "marca": "Cartier",
   "titulo": "Ladies Cartier Delices WG800017 3379 Diamond Silver 18K Gold 38mm Quartz Watch",
   "total": 12427.97,
@@ -10990,5 +10973,22 @@
    "nota": "Modelo de cuarzo de 2000s, no vintage; el precio pedido de US$6500 está muy por encima del mercado de venta cerrada."
   },
   "motivo": "triage: Modelo de cuarzo de 2000s, no vintage; el precio pedido de US$6500 está muy por encima del mercado de venta cerrada. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-21T04:41:39.347688+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer II | Ref 216570 | 2019 | Complete Set",
+  "total": 11545.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287745357865",
+  "item_id": "v1|287745357865|0",
+  "referencia": "216570",
+  "mercado": {
+   "n": 9,
+   "p25": 9572,
+   "mediana": 9750
+  },
+  "ratio_mercado": 1.206,
+  "motivo": "precio normal (121 % del cuartil bajo de 216570)"
  }
 ]
