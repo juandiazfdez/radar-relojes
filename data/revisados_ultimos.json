@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T03:54:56.203551+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX SUBMARINER 16613 RARE VERSION ",
-  "total": 13499.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840143723722",
-  "item_id": "v1|840143723722|0",
-  "referencia": "16613",
-  "mercado": {
-   "n": 92,
-   "p25": 11770,
-   "mediana": 12000
-  },
-  "ratio_mercado": 1.147,
-  "motivo": "precio normal (115 % del cuartil bajo de 16613)"
- },
- {
-  "fecha": "2026-11-19T04:09:55.863423+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank W51011Q3 / 2465 Tank Francaise 25mm",
-  "total": 3250.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198806749718",
-  "item_id": "v1|198806749718|0",
-  "referencia": "2465",
-  "mercado": {
-   "n": 31,
-   "p25": 3599,
-   "mediana": 3800
-  },
-  "ratio_mercado": 0.903,
-  "motivo": "precio normal (90 % del cuartil bajo de 2465)"
- },
- {
   "fecha": "2026-11-19T04:09:55.863423+00:00",
   "marca": "Tudor",
   "titulo": "Vintage Tudor Prince Oysterdate",
@@ -10991,5 +10957,46 @@
    "nota": "Referencia vintage de acero, en estado 'Good' y sin caja ni papeles. El precio pedido de US$1385 está por encima de lo que se vende realmente, así que no hay margen del 15 %. Conviene verificar en fotos el material de la caja, ya que el tono dorado de la imagen podría ser chapado."
   },
   "motivo": "triage: Referencia vintage de acero, en estado 'Good' y sin caja ni papeles. El precio pedido de US$1385 está por encima de lo que se vende realmente, así que no hay margen del 15 %. Conviene verificar en fotos el material de la caja, ya que el tono dorado de la imagen podría ser chapado. (justo 1200)"
+ },
+ {
+  "fecha": "2026-11-21T17:57:01.991843+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 NEW UNWORN Rolex Datejust 126300 “Wimbledon” (41MM) Jubilee 10/2026",
+  "total": 13905.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/168878386403",
+  "item_id": "v1|168878386403|0",
+  "referencia": "126300",
+  "mercado": {
+   "n": 41,
+   "p25": 11925,
+   "mediana": 12017
+  },
+  "ratio_mercado": 1.166,
+  "motivo": "precio normal (117 % del cuartil bajo de 126300)"
+ },
+ {
+  "fecha": "2026-11-21T17:57:01.991843+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Solo XL Stainless Steel 31mm Automatic Men’s Watch W5200028",
+  "total": 2950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206718057539",
+  "item_id": "v1|206718057539|0",
+  "referencia": "3515, W5200028",
+  "mercado": {
+   "n": 6,
+   "p25": 3699,
+   "mediana": 3988
+  },
+  "ratio_mercado": 0.798,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 2900,
+   "riesgo_autenticidad": "medio",
+   "estado": "Aspecto bueno pero con caja bastante pulida y rayitas en el lateral; sin caja ni papeles"
+  },
+  "ratio_justo": 1.017,
+  "motivo": "precio normal segun revision (102 % del justo 2900)"
  }
 ]
