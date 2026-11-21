@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T12:25:19.764295+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Heritage Black Bay Automatic Stainless Steel Watch",
-  "total": 4869.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820372451698",
-  "item_id": "v1|820372451698|0",
-  "triage": {
-   "modelo": "Tudor Black Bay Chrono (acero, bisel cerámico negro, brazalete de acero)",
-   "referencia": "M79360N (probable, no confirmable en la foto)",
-   "precio_justo_usd": 4200,
-   "interesante": false,
-   "nota": "Cronógrafo de acero de producción actual, usado en buen estado; el precio pedido de US$4869 está por encima del valor de venta real, no por debajo."
-  },
-  "motivo": "triage: Cronógrafo de acero de producción actual, usado en buen estado; el precio pedido de US$4869 está por encima del valor de venta real, no por debajo. (justo 4200)"
- },
- {
-  "fecha": "2026-11-19T12:55:18.550189+00:00",
-  "marca": "Rolex",
-  "titulo": "2016 Rolex Sea-Dweller Deepsea James Cameron Dblue Oyster 116660 Complete",
-  "total": 11840.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287741312777",
-  "item_id": "v1|287741312777|0",
-  "referencia": "116660",
-  "mercado": {
-   "n": 45,
-   "p25": 10870,
-   "mediana": 12450
-  },
-  "ratio_mercado": 1.089,
-  "motivo": "precio normal (109 % del cuartil bajo de 116660)"
- },
- {
-  "fecha": "2026-11-19T13:25:19.115394+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Reverse Panda Chronograph 41mm Black Bay 79360N-0001",
-  "total": 4295.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920160371577",
-  "item_id": "v1|920160371577|0",
-  "referencia": "79360N-0001",
-  "mercado": {
-   "n": 51,
-   "p25": 4630,
-   "mediana": 5250
-  },
-  "ratio_mercado": 0.928,
-  "motivo": "precio normal (93 % del cuartil bajo de 79360N-0001)"
- },
- {
   "fecha": "2026-11-19T13:40:18.918100+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Pelagos FXD Chrono Cycling Edition M25827KN-0001 2024",
@@ -10991,5 +10940,56 @@
   },
   "ratio_mercado": 1.043,
   "motivo": "precio normal (104 % del cuartil bajo de 79470)"
+ },
+ {
+  "fecha": "2026-11-21T22:42:14.971896+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Lady 26mm White Roman Automatic Watch 67180 W Serial 1995",
+  "total": 3555.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820381926033",
+  "item_id": "v1|820381926033|0",
+  "referencia": "67180",
+  "mercado": {
+   "n": 16,
+   "p25": 4000,
+   "mediana": 4573
+  },
+  "ratio_mercado": 0.889,
+  "motivo": "precio normal (89 % del cuartil bajo de 67180)"
+ },
+ {
+  "fecha": "2026-11-21T22:42:14.971896+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Gable LM (large model) 18k yellow gold - stainless steal",
+  "total": 6111.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407380090692",
+  "item_id": "v1|407380090692|0",
+  "triage": {
+   "modelo": "Cartier Santos de Cartier LM (large model) bicolor acero y oro amarillo 18k",
+   "referencia": null,
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "El precio pedido de US$6111 supera el valor de mercado estimado para un LM bicolor, aunque la referencia exacta (cuarzo o automático) no se distingue en la foto."
+  },
+  "motivo": "triage: El precio pedido de US$6111 supera el valor de mercado estimado para un LM bicolor, aunque la referencia exacta (cuarzo o automático) no se distingue en la foto. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-21T22:42:14.971896+00:00",
+  "marca": "Tudor",
+  "titulo": "2023 TUDOR Black Bay 79833MN “Rootbeer” 41mm Automatic 18k Gold Complete Set",
+  "total": 5175.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820381938992",
+  "item_id": "v1|820381938992|0",
+  "referencia": "79833MN",
+  "mercado": {
+   "n": 9,
+   "p25": 4100,
+   "mediana": 4900
+  },
+  "ratio_mercado": 1.262,
+  "motivo": "precio normal (126 % del cuartil bajo de 79833MN)"
  }
 ]
