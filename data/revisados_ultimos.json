@@ -1,46 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T07:55:08.040977+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 31mm 1976 Rolex Oyster Perpetual Datejust Wristwatch Steel & 18k 6827",
-  "total": 4520.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137943785975",
-  "item_id": "v1|137943785975|0",
-  "referencia": "6827",
-  "mercado": {
-   "n": 20,
-   "p25": 6286,
-   "mediana": 11769
-  },
-  "ratio_mercado": 0.719,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 3000,
-   "riesgo_autenticidad": "medio",
-   "estado": "Regular: esfera con manchas y arañazos, correa de lagarto no original, sin caja ni papeles"
-  },
-  "ratio_justo": 1.507,
-  "motivo": "precio normal segun revision (151 % del justo 3000)"
- },
- {
-  "fecha": "2026-11-19T07:55:08.040977+00:00",
-  "marca": "Rolex",
-  "titulo": "26mm 2006 Rolex Oyster Perpetual 31J Ladies Automatic Wristwatch Steel 176200",
-  "total": 5085.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147687688891",
-  "item_id": "v1|147687688891|0",
-  "referencia": "176200",
-  "mercado": {
-   "n": 10,
-   "p25": 4900,
-   "mediana": 5244
-  },
-  "ratio_mercado": 1.038,
-  "motivo": "precio normal (104 % del cuartil bajo de 176200)"
- },
- {
   "fecha": "2026-11-19T08:10:08.418180+00:00",
   "marca": "Rolex",
   "titulo": "ROLEX Men’s Watch Oyster Perpetual 1002 Leather",
@@ -11005,5 +10964,39 @@
    "nota": "Precio pedido por encima del valor de venta cerrada estimado para este modelo de segunda mano con caja, sin tarjeta; no hay descuento claro."
   },
   "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para este modelo de segunda mano con caja, sin tarjeta; no hay descuento claro. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-21T20:42:02.177494+00:00",
+  "marca": "Cartier",
+  "titulo": "CARTIER Unisex 18K Yellow Gold 25.5mm Tank Louis W1529756-2441 Box",
+  "total": 9800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960226858716",
+  "item_id": "v1|960226858716|0",
+  "referencia": "W1529756",
+  "mercado": {
+   "n": 7,
+   "p25": 9828,
+   "mediana": 10291
+  },
+  "ratio_mercado": 0.997,
+  "motivo": "precio normal (100 % del cuartil bajo de W1529756)"
+ },
+ {
+  "fecha": "2026-11-21T20:42:02.177494+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Pelagos FXD Alinghi Red Bull Racing Carbon Chronograph 25807KN B+P",
+  "total": 4067.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/137950613978",
+  "item_id": "v1|137950613978|0",
+  "referencia": "25807KN",
+  "mercado": {
+   "n": 5,
+   "p25": 4155,
+   "mediana": 4270
+  },
+  "ratio_mercado": 0.979,
+  "motivo": "precio normal (98 % del cuartil bajo de 25807KN)"
  }
 ]
