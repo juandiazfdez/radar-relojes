@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-18T23:24:43.959112+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 28 Steel Yellow Gold Diamond Ladies Watch 279383 Box Card",
-  "total": 22930.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336904643673",
-  "item_id": "v1|336904643673|0",
-  "referencia": "279383",
-  "mercado": {
-   "n": 5,
-   "p25": 21360,
-   "mediana": 22930
-  },
-  "ratio_mercado": 1.074,
-  "motivo": "precio normal (107 % del cuartil bajo de 279383)"
- },
- {
-  "fecha": "2026-11-18T23:24:43.959112+00:00",
-  "marca": "Rolex",
-  "titulo": "$15,000 31mm ROLEX 14k Yellow Gold SS REF 6824 DATEJUST Ladies Watch SERVICED",
-  "total": 5959.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237191199294",
-  "item_id": "v1|237191199294|0",
-  "referencia": "6824",
-  "mercado": {
-   "n": 8,
-   "p25": 5885,
-   "mediana": 12683
-  },
-  "ratio_mercado": 1.013,
-  "motivo": "precio normal (101 % del cuartil bajo de 6824)"
- },
- {
   "fecha": "2026-11-18T23:39:44.325757+00:00",
   "marca": "Rolex",
   "titulo": "1996 Rolex Day-Date 36mm White Gold 18239",
@@ -10970,5 +10936,46 @@
    "nota": "Precio pedido por encima de lo que se vende realmente este modelo usado con caja y papeles; no hay descuento suficiente para considerarlo oportunidad."
   },
   "motivo": "triage: Precio pedido por encima de lo que se vende realmente este modelo usado con caja y papeles; no hay descuento suficiente para considerarlo oportunidad. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-21T16:12:02.142778+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 1603 Datejust Watch 36mm 1.8 mil NICE!",
+  "total": 3340.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168878251647",
+  "item_id": "v1|168878251647|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36mm acero, bisel acanalado, esfera plateada (años 70)",
+   "referencia": "1603",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio pedido algo por encima de lo que se cierra normalmente para un 1603 en estado excelente. Correa de cuero no original; la foto es de baja resolución y conviene verificar esfera, manecillas y caja antes de comprar."
+  },
+  "motivo": "triage: Precio pedido algo por encima de lo que se cierra normalmente para un 1603 en estado excelente. Correa de cuero no original; la foto es de baja resolución y conviene verificar esfera, manecillas y caja antes de comprar. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-21T16:12:02.142778+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Air king 5500 34mm stainless steel with box",
+  "total": 2850.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287746646325",
+  "item_id": "v1|287746646325|0",
+  "referencia": "5500",
+  "mercado": {
+   "n": 20,
+   "p25": 4050,
+   "mediana": 4425
+  },
+  "ratio_mercado": 0.704,
+  "claude": {
+   "veredicto": "alerta",
+   "precio_justo_usd": 3600,
+   "riesgo_autenticidad": "medio",
+   "estado": "Bueno: esfera limpia y aparentemente original, bisel liso con rayones leves, brazalete algo estirado, caja verde de época"
+  },
+  "ratio_justo": 0.792,
+  "motivo": "ALERTA"
  }
 ]

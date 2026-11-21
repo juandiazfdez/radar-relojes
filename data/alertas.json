@@ -2183,5 +2183,77 @@
    "precio_reventa_rd_usd": 10200
   },
   "ratio_justo": 0.642
+ },
+ {
+  "fecha": "2026-11-21T16:12:02.142778+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Air king 5500 34mm stainless steel with box",
+  "precio": 2850.0,
+  "envio": 6.36,
+  "total": 2850.0,
+  "mercado": {
+   "fecha": "2026-11-21",
+   "consulta": "Rolex 5500",
+   "n": 20,
+   "mediana": 4425,
+   "p25": 4050,
+   "p75": 4699,
+   "min": 1051,
+   "max": 5700
+  },
+  "triage": null,
+  "vendedor": "samchisholm",
+  "valoraciones": 24,
+  "pct_positivo": "100.0",
+  "url": "https://www.ebay.com/itm/287746646325",
+  "item_id": "v1|287746646325|0",
+  "info": {
+   "departamento": "Unisex Adults",
+   "referencia": "5500",
+   "modelo_esp": "Rolex Oyster Perpetual Air-King",
+   "caja_mm": "34 mm",
+   "material": "Stainless Steel",
+   "ano": "1970s",
+   "movimiento": "Mechanical (Automatic)",
+   "caja_original": "Yes",
+   "papeles": "Yes",
+   "condicion": "Pre-owned - Good",
+   "condicion_id": "3000",
+   "condicion_desc": "",
+   "garantia_autenticidad": false,
+   "devoluciones": false,
+   "amarillas": [
+    "wear"
+   ],
+   "imagenes": [
+    "https://i.ebayimg.com/images/g/r4MAAeSwJXtq-hox/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/kjIAAeSwe2Rq-hog/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/25kAAeSwHOtq-hog/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/lOYAAeSwhtVq-hog/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/0eYAAeSwhfxq-hog/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/oPkAAeSwqdFq-hoh/s-l1600.jpg"
+   ]
+  },
+  "claude": {
+   "veredicto": "alerta",
+   "modelo": "Rolex Oyster Perpetual Air-King 5500 (34 mm, acero, esfera plateada, bisel liso, brazalete Oyster de eslabones plegados), finales de los 70 o los 80",
+   "estado": "Bueno: esfera limpia y aparentemente original, bisel liso con rayones leves, brazalete algo estirado, caja verde de época",
+   "riesgo_autenticidad": "medio",
+   "completo": false,
+   "razones": [
+    "Las fotos son propias del vendedor (alfombra, mano, caja), no de catálogo ni robadas, y la caja Rolex verde con su cartón exterior es coherente con la época.",
+    "La esfera se ve coherente con un 5500: texto 'Oyster Perpetual / Air-King / Precision', corona Rolex, índices aplicados y buen sunburst plateado. No se aprecian señales claras de repintado ni de réplica, pero con estas fotos no se puede descartar del todo.",
+    "Los índices y las manecillas no muestran lume visible. Puede ser normal en esta esfera o puede ser pérdida de lume o manecillas cambiadas. Hay que pedir foto macro.",
+    "Faltan fotos del fondo de caja, del movimiento (calibre 1520/1530), del número de serie y referencia entre las asas, de la corona y del cierre del brazalete. Sin ellas no se confirman ni la autenticidad ni que las piezas sean originales.",
+    "Los papeles figuran como 'Yes' en las especificaciones, pero no aparecen en ninguna foto. Hay que verificarlos antes de pagarlos como set completo.",
+    "No hay garantía de autenticidad ni devoluciones, y el vendedor tiene solo 24 valoraciones. Es solo información, pero aumenta el riesgo al no poder devolver.",
+    "La descripción es mínima ('some wear from standard use'). El brazalete parece algo estirado y el bisel tiene leves marcas de uso. No se ve pulido agresivo.",
+    "Precio pedido de US$2,850 frente a una mediana de comparables de US$4,425, que son precios pedidos e inflados. Un 5500 de acero en buen estado con caja se vende realmente en torno a US$3,500-4,000, así que hay margen razonable si resulta auténtico y original.",
+    "Recomendación: pedir foto del fondo de caja, del movimiento, del serial, de los papeles y macro de la esfera y las manecillas. Si todo cuadra, comprar."
+   ],
+   "precio_justo_usd": 3600,
+   "precio_reventa_rd_usd": 4200
+  },
+  "ratio_justo": 0.792
  }
 ]
