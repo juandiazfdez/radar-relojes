@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-18T21:09:42.948178+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Daytona Cosmograph 116520 Black 40mm Stainless Steel Oyster Watch",
-  "total": 20333.79,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267847378083",
-  "item_id": "v1|267847378083|0",
-  "referencia": "116520",
-  "mercado": {
-   "n": 19,
-   "p25": 22000,
-   "mediana": 23453
-  },
-  "ratio_mercado": 0.924,
-  "motivo": "precio normal (92 % del cuartil bajo de 116520)"
- },
- {
-  "fecha": "2026-11-18T21:09:42.948178+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Daytona 116515LN Meteorite Cosmograph Daytona",
   "total": 87500.0,
   "condicion": "Pre-owned - Excellent",
@@ -10964,5 +10947,22 @@
    "nota": "El precio pedido supera el valor de mercado estimado para un usado de 2024. La referencia del título (M2542G267NU-0002) no coincide con las referencias conocidas del FXD GMT, así que conviene verificarla antes de comprar."
   },
   "motivo": "triage: El precio pedido supera el valor de mercado estimado para un usado de 2024. La referencia del título (M2542G267NU-0002) no coincide con las referencias conocidas del FXD GMT, así que conviene verificarla antes de comprar. (justo 4600)"
+ },
+ {
+  "fecha": "2026-11-21T07:26:38.601032+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date Starbucks Steel Watch 126610LV",
+  "total": 17066.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840150936948",
+  "item_id": "v1|840150936948|0",
+  "referencia": "126610LV",
+  "mercado": {
+   "n": 75,
+   "p25": 15501,
+   "mediana": 15998
+  },
+  "ratio_mercado": 1.101,
+  "motivo": "precio normal (110 % del cuartil bajo de 126610LV)"
  }
 ]
