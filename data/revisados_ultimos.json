@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T08:10:08.418180+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX Men’s Watch Oyster Perpetual 1002 Leather",
-  "total": 3634.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366813314286",
-  "item_id": "v1|366813314286|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual (vintage, aparentemente caja de acero, esfera blanca con números romanos, correa de cuero)",
-   "referencia": "1002",
-   "precio_justo_usd": 2400,
-   "interesante": false,
-   "nota": "La referencia 1002 existe, pero la foto es borrosa, no muestra claramente el logotipo ni la esfera, y la correa de cuero no es habitual en esta pieza. Sin verificar autenticidad y estado, el precio pedido no está claramente por debajo del mercado."
-  },
-  "motivo": "triage: La referencia 1002 existe, pero la foto es borrosa, no muestra claramente el logotipo ni la esfera, y la correa de cuero no es habitual en esta pieza. Sin verificar autenticidad y estado, el precio pedido no está claramente por debajo del mercado. (justo 2400)"
- },
- {
   "fecha": "2026-11-19T08:55:08.188063+00:00",
   "marca": "Rolex",
   "titulo": "2024 Rolex 126711CHNR GMT Master II ‘Root Beer’ 40mm Rose Gold Watch",
@@ -10998,5 +10981,22 @@
   },
   "ratio_mercado": 0.979,
   "motivo": "precio normal (98 % del cuartil bajo de 25807KN)"
+ },
+ {
+  "fecha": "2026-11-21T20:57:02.050149+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Solo Rose Gold Ladies Watch W5200024",
+  "total": 6450.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257864573340",
+  "item_id": "v1|257864573340|0",
+  "referencia": "W5200024",
+  "mercado": {
+   "n": 9,
+   "p25": 6700,
+   "mediana": 7216
+  },
+  "ratio_mercado": 0.963,
+  "motivo": "precio normal (96 % del cuartil bajo de W5200024)"
  }
 ]
