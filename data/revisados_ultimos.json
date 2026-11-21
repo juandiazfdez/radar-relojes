@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-11-18T20:54:42.807989+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay 79230G",
-  "total": 4850.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/860156182130",
-  "item_id": "v1|860156182130|0",
-  "referencia": "79230G",
-  "mercado": {
-   "n": 4,
-   "p25": 4950,
-   "mediana": 5200
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay 58 (línea 79230, 39 mm, acero, bisel verde oliva)",
-   "referencia": "79230G (según el título; verificar en la imagen de la caja y el reverso)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Pedido de US$4850 está muy por encima del valor de venta real de una BB58 de acero usada en buen estado; sin oportunidad. Confirmar referencia y que el bisel sea original."
-  },
-  "motivo": "triage: Pedido de US$4850 está muy por encima del valor de venta real de una BB58 de acero usada en buen estado; sin oportunidad. Confirmar referencia y que el bisel sea original. (justo 3300)"
- },
- {
   "fecha": "2026-11-18T21:09:42.948178+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Daytona Cosmograph 116520 Black 40mm Stainless Steel Oyster Watch",
@@ -10970,5 +10947,22 @@
   },
   "ratio_mercado": 0.912,
   "motivo": "precio normal (91 % del cuartil bajo de 68274)"
+ },
+ {
+  "fecha": "2026-11-21T07:11:38.734889+00:00",
+  "marca": "Tudor",
+  "titulo": "2024 Tudor Pelagos FXD GMT Titanium 42mm M2542G267NU-0002",
+  "total": 5495.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820379626171",
+  "item_id": "v1|820379626171|0",
+  "triage": {
+   "modelo": "Tudor Pelagos FXD GMT (titanio, esfera negra, correa textil verde)",
+   "referencia": null,
+   "precio_justo_usd": 4600,
+   "interesante": false,
+   "nota": "El precio pedido supera el valor de mercado estimado para un usado de 2024. La referencia del título (M2542G267NU-0002) no coincide con las referencias conocidas del FXD GMT, así que conviene verificarla antes de comprar."
+  },
+  "motivo": "triage: El precio pedido supera el valor de mercado estimado para un usado de 2024. La referencia del título (M2542G267NU-0002) no coincide con las referencias conocidas del FXD GMT, así que conviene verificarla antes de comprar. (justo 4600)"
  }
 ]
