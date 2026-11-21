@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-18T22:09:43.479807+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Daytona 116503 Two-Tone 18k Yellow Gold & Stainless Steel 2020 B&P",
-  "total": 25900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840142946702",
-  "item_id": "v1|840142946702|0",
-  "referencia": "116503",
-  "mercado": {
-   "n": 23,
-   "p25": 21294,
-   "mediana": 22900
-  },
-  "ratio_mercado": 1.216,
-  "motivo": "precio normal (122 % del cuartil bajo de 116503)"
- },
- {
-  "fecha": "2026-11-18T22:09:43.479807+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Lady-Datejust 26mm – Ref. 69160 | 1997 Oyster Perpetual | Stainless Steel",
-  "total": 4200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206711420280",
-  "item_id": "v1|206711420280|0",
-  "referencia": "69160",
-  "mercado": {
-   "n": 8,
-   "p25": 4150,
-   "mediana": 4868
-  },
-  "ratio_mercado": 1.012,
-  "motivo": "precio normal (101 % del cuartil bajo de 69160)"
- },
- {
-  "fecha": "2026-11-18T22:09:43.479807+00:00",
-  "marca": "Rolex",
   "titulo": "1989 Rolex Datejust 16013 36MM Fluted Jubilee Two-Tone 18K Yg",
   "total": 6700.0,
   "condicion": "Pre-owned - Good",
@@ -10964,5 +10930,39 @@
    "nota": "Referencia 277200 de acero con esfera lavanda; el precio pedido de US$14.770 supera con creces su valor de venta cerrada de referencia en EE. UU. (aprox. US$8.500-10.000 según estado y papeles)."
   },
   "motivo": "triage: Referencia 277200 de acero con esfera lavanda; el precio pedido de US$14.770 supera con creces su valor de venta cerrada de referencia en EE. UU. (aprox. US$8.500-10.000 según estado y papeles). (justo 9000)"
+ },
+ {
+  "fecha": "2026-11-21T14:56:50.476753+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Datejust Automatic Watch Stainless Steel and Rose Gold 36",
+  "total": 15365.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128208685383",
+  "item_id": "v1|128208685383|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 acero y oro Everose (bisel liso)",
+   "referencia": "116201",
+   "precio_justo_usd": 10000,
+   "interesante": false,
+   "nota": "Precio pedido de US$15,365 está muy por encima del mercado secundario para la 116201 usada, que ronda US$9,000-11,000 según estado, caja y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$15,365 está muy por encima del mercado secundario para la 116201 usada, que ronda US$9,000-11,000 según estado, caja y papeles. (justo 10000)"
+ },
+ {
+  "fecha": "2026-11-21T14:56:50.476753+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere de Cartier Quartz Watch Stainless Steel 19",
+  "total": 5310.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117534273449",
+  "item_id": "v1|117534273449|0",
+  "triage": {
+   "modelo": "Cartier Panthère de Cartier, cuarzo, acero, esfera blanca con números romanos (talla pequeña)",
+   "referencia": "1320 (probable; no verificable en la foto)",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio pedido de US$5,310 muy por encima del mercado de venta cerrada para esta talla de cuarzo en acero usada; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$5,310 muy por encima del mercado de venta cerrada para esta talla de cuarzo en acero usada; no es una oportunidad. (justo 3000)"
  }
 ]
