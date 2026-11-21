@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T13:40:18.918100+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Pelagos FXD Chrono Cycling Edition M25827KN-0001 2024",
-  "total": 4695.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960215803726",
-  "item_id": "v1|960215803726|0",
-  "referencia": "M25827KN-0001",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Tudor Pelagos FXD Chrono Cycling Edition (caja negra, esfera negra con acentos rojos, correa de tela)",
-   "referencia": "M25827KN-0001",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Pre-owned en buen estado; el precio pedido queda por encima del valor de reventa estimado para esta edición de 2024, sin descuento suficiente."
-  },
-  "motivo": "triage: Pre-owned en buen estado; el precio pedido queda por encima del valor de reventa estimado para esta edición de 2024, sin descuento suficiente. (justo 4000)"
- },
- {
-  "fecha": "2026-11-19T13:55:19.456427+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 34mm Blue Turquoise Steel Automatic Watch 5500 Circa 1968",
-  "total": 4400.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800938563542",
-  "item_id": "v1|800938563542|0",
-  "referencia": "5500",
-  "mercado": {
-   "n": 21,
-   "p25": 4000,
-   "mediana": 4450
-  },
-  "ratio_mercado": 1.1,
-  "motivo": "precio normal (110 % del cuartil bajo de 5500)"
- },
- {
   "fecha": "2026-11-19T14:10:19.325260+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual Date 1501 Vintage 1960s Steel Riveted Oyster Bracelet",
@@ -10991,5 +10951,52 @@
   },
   "ratio_mercado": 1.262,
   "motivo": "precio normal (126 % del cuartil bajo de 79833MN)"
+ },
+ {
+  "fecha": "2026-11-21T22:57:14.442609+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthère de Cartier WSPN0007 Medium 27mm Steel",
+  "total": 4655.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820381944715",
+  "item_id": "v1|820381944715|0",
+  "referencia": "WSPN0007",
+  "mercado": {
+   "n": 8,
+   "p25": 5750,
+   "mediana": 5858
+  },
+  "ratio_mercado": 0.81,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 3400,
+   "riesgo_autenticidad": "medio",
+   "estado": "Excelente, desgaste leve; solo reloj, sin caja ni papeles"
+  },
+  "motivo": "Claude descarto: Precio: US$4,655 está muy por encima del valor real de venta cerrada de un WSPN0007 solo reloj, que ronda US$3,300-3,700. Los comparables de eBay (mediana 5,858) son precios pedidos inflados y no justifican este precio.; Sin caja ni papeles: la descripción lo dice expresamente. Esto resta 10-20 % al valor y complica la reventa."
+ },
+ {
+  "fecha": "2026-11-21T22:57:14.442609+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier 2384 Watch",
+  "total": 2400.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117533082828",
+  "item_id": "v1|117533082828|0",
+  "referencia": "2384",
+  "mercado": {
+   "n": 32,
+   "p25": 3785,
+   "mediana": 4402
+  },
+  "ratio_mercado": 0.634,
+  "claude": {
+   "veredicto": "alerta",
+   "precio_justo_usd": 2100,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado, buen estado general con rayones visibles en el brazalete y en la caja; sin pulir y sin caja ni papeles"
+  },
+  "ratio_justo": 1.143,
+  "motivo": "precio normal segun revision (114 % del justo 2100)"
  }
 ]
