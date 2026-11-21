@@ -1,53 +1,6 @@
 [
  {
   "fecha": "2026-11-18T20:54:42.807989+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 16800 40mm oyster bracelet (1985) watch only",
-  "total": 8300.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940103426216",
-  "item_id": "v1|940103426216|0",
-  "referencia": "16800",
-  "mercado": {
-   "n": 13,
-   "p25": 11950,
-   "mediana": 13750
-  },
-  "ratio_mercado": 0.695,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 9300,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, desgaste moderado; solo reloj, sin caja ni papeles; brazalete con probable estiramiento"
-  },
-  "ratio_justo": 0.892,
-  "motivo": "precio normal segun revision (89 % del justo 9300)"
- },
- {
-  "fecha": "2026-11-18T20:54:42.807989+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex President No-Date Yellow Gold Diamond Ladies Watch 67198",
-  "total": 10540.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336904410370",
-  "item_id": "v1|336904410370|0",
-  "referencia": "67198",
-  "mercado": {
-   "n": 2,
-   "p25": 5500,
-   "mediana": 8964
-  },
-  "triage": {
-   "modelo": "Rolex Lady President 26 mm, oro amarillo de 18k, esfera negra con marcadores de diamante, brazalete Jubilee",
-   "referencia": "67198",
-   "precio_justo_usd": 9000,
-   "interesante": false,
-   "nota": "El precio pedido está por encima de lo que se vende este modelo en EE. UU. (aprox. 8.000-9.500 USD según estado y esfera). Sin verificar autenticidad ni estado real desde la foto."
-  },
-  "motivo": "triage: El precio pedido está por encima de lo que se vende este modelo en EE. UU. (aprox. 8.000-9.500 USD según estado y esfera). Sin verificar autenticidad ni estado real desde la foto. (justo 9000)"
- },
- {
-  "fecha": "2026-11-18T20:54:42.807989+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Française Automatic Ref 2302 Stainless Steel w/ Cartier Box 28mm",
   "total": 3315.0,
@@ -10984,5 +10937,45 @@
   },
   "ratio_mercado": 0.958,
   "motivo": "precio normal (96 % del cuartil bajo de 116518LN)"
+ },
+ {
+  "fecha": "2026-11-21T06:26:39.374406+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT Master II White Gold  |  Sapphire & Diamond 116759SA  Full Set",
+  "total": 112400.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366826847428",
+  "item_id": "v1|366826847428|0",
+  "referencia": "116759SA",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex GMT-Master II en oro blanco con bisel de zafiros y diamantes (posible versión con engaste completo)",
+   "referencia": "116759SA (según título, sin verificar)",
+   "precio_justo_usd": 90000,
+   "interesante": false,
+   "nota": "Engaste de diamantes en asas y caja que puede ser personalizado, no de fábrica; requiere verificar autenticidad. Aun así, el precio pedido no está ≥15 % por debajo del valor estimado."
+  },
+  "motivo": "triage: Engaste de diamantes en asas y caja que puede ser personalizado, no de fábrica; requiere verificar autenticidad. Aun así, el precio pedido no está ≥15 % por debajo del valor estimado. (justo 90000)"
+ },
+ {
+  "fecha": "2026-11-21T06:26:39.374406+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date 40 White Gold President Watch 228239-0007",
+  "total": 56656.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840150799021",
+  "item_id": "v1|840150799021|0",
+  "referencia": "228239",
+  "mercado": {
+   "n": 17,
+   "p25": 45000,
+   "mediana": 48000
+  },
+  "ratio_mercado": 1.259,
+  "motivo": "precio normal (126 % del cuartil bajo de 228239)"
  }
 ]
