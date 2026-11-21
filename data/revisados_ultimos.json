@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-18T17:54:33.085443+00:00",
-  "marca": "Cartier",
-  "titulo": "Vintage Cartier Panthere 112000R Two-Tone 18K Gold Steel Ladies 22mm Quartz",
-  "total": 6997.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800930565667",
-  "item_id": "v1|800930565667|0",
-  "triage": {
-   "modelo": "Cartier Panthère de dos tonos (acero y oro amarillo 18K), cuarzo, esfera crema con numerales romanos",
-   "referencia": "112000R",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido de US$6997 muy por encima del valor de venta cerrada para este modelo en estado Good; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$6997 muy por encima del valor de venta cerrada para este modelo en estado Good; no es una oportunidad. (justo 3300)"
- },
- {
   "fecha": "2026-11-18T18:09:33.117954+00:00",
   "marca": "Rolex",
   "titulo": "ROLEX GENEVE CELLINI REP",
@@ -10969,5 +10952,28 @@
   },
   "ratio_mercado": 1.504,
   "motivo": "precio normal (150 % del cuartil bajo de M79360N-0024)"
+ },
+ {
+  "fecha": "2026-11-21T00:56:20.867375+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX DATEJUST 31, REF: 278344RBR, DARK GREY SET WITH DIAMONDS, OYST (TC4038707)",
+  "total": 18792.95,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/257863193274",
+  "item_id": "v1|257863193274|0",
+  "referencia": "278344RBR",
+  "mercado": {
+   "n": 1,
+   "p25": 21963,
+   "mediana": 21963
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 31 (Rolesor acero/oro blanco, esfera gris oscuro con marcadores de diamante, brazalete Oyster)",
+   "referencia": "278344RBR",
+   "precio_justo_usd": 12500,
+   "interesante": false,
+   "nota": "Precio pedido de US$18.793 está muy por encima del valor de mercado (~US$12.000-13.000 con caja y papeles, menos en estado Fair); no es oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$18.793 está muy por encima del valor de mercado (~US$12.000-13.000 con caja y papeles, menos en estado Fair); no es oportunidad. (justo 12500)"
  }
 ]
