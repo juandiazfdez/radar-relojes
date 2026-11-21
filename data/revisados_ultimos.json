@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T05:54:56.538419+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Chronograph \"2026 - Bumblebee\" M79310N-0001",
-  "total": 9714.94,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/336905084289",
-  "item_id": "v1|336905084289|0",
-  "referencia": "M79310N-0001",
-  "mercado": {
-   "n": 4,
-   "p25": 9485,
-   "mediana": 10327
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay Chronograph (esfera amarilla 'Bumblebee', acero)",
-   "referencia": "M79310N-0001 (según título; verificar, la referencia no coincide con la esfera amarilla vista)",
-   "precio_justo_usd": 5200,
-   "interesante": false,
-   "nota": "Nuevo con caja y papeles, se vende cerca de retail o algo por encima en gris; US$9,715 es casi el doble, así que no hay descuento."
-  },
-  "motivo": "triage: Nuevo con caja y papeles, se vende cerca de retail o algo por encima en gris; US$9,715 es casi el doble, así que no hay descuento. (justo 5200)"
- },
- {
   "fecha": "2026-11-19T06:09:55.604916+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Daytona \"2018\" 116500LN",
@@ -11005,5 +10982,22 @@
    "nota": "Precio pedido de US$9.390 muy por encima del valor de venta cerrada en EE. UU. para oro amarillo con diamantes en estado usado; no hay descuento."
   },
   "motivo": "triage: Precio pedido de US$9.390 muy por encima del valor de venta cerrada en EE. UU. para oro amarillo con diamantes en estado usado; no hay descuento. (justo 6000)"
+ },
+ {
+  "fecha": "2026-11-21T19:27:01.894397+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Midsize Steel Rose Gold Mother of Pearl Diamond Watch 178271",
+  "total": 18420.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257864469218",
+  "item_id": "v1|257864469218|0",
+  "referencia": "178271",
+  "mercado": {
+   "n": 25,
+   "p25": 14990,
+   "mediana": 15390
+  },
+  "ratio_mercado": 1.229,
+  "motivo": "precio normal (123 % del cuartil bajo de 178271)"
  }
 ]
