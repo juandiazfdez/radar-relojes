@@ -1,90 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T04:09:55.863423+00:00",
-  "marca": "Tudor",
-  "titulo": "Vintage Tudor Prince Oysterdate",
-  "total": 1550.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920158899001",
-  "item_id": "v1|920158899001|0",
-  "triage": {
-   "modelo": "Tudor Prince Oysterdate (Oysterdate con fecha, bisel acanalado, esfera champán)",
-   "referencia": "7016/7017 (probable, sin confirmar)",
-   "precio_justo_usd": 1500,
-   "interesante": false,
-   "nota": "Vintage de acero con fecha, estado Good y correa de cuero; el precio pedido está cerca del valor de mercado y no hay un descuento de al menos 15 % sin verificar referencia, esfera y movimiento."
-  },
-  "motivo": "triage: Vintage de acero con fecha, estado Good y correa de cuero; el precio pedido está cerca del valor de mercado y no hay un descuento de al menos 15 % sin verificar referencia, esfera y movimiento. (justo 1500)"
- },
- {
-  "fecha": "2026-11-19T04:24:55.805916+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II “Pepsi” – Ref. 126710BLRO – 2022 – Jubilee Box- Papers",
-  "total": 26500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/117529596054",
-  "item_id": "v1|117529596054|0",
-  "referencia": "126710BLRO",
-  "mercado": {
-   "n": 18,
-   "p25": 23995,
-   "mediana": 24420
-  },
-  "ratio_mercado": 1.104,
-  "motivo": "precio normal (110 % del cuartil bajo de 126710BLRO)"
- },
- {
-  "fecha": "2026-11-19T04:24:55.805916+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date",
-  "total": 20000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307289880501",
-  "item_id": "v1|307289880501|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date (oro amarillo 18k, esfera champán, bisel liso)",
-   "referencia": "15038 (probable, verificar)",
-   "precio_justo_usd": 9000,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de venta cerrada; la referencia y el material deben confirmarse antes de cualquier oferta."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de venta cerrada; la referencia y el material deben confirmarse antes de cualquier oferta. (justo 9000)"
- },
- {
-  "fecha": "2026-11-19T04:24:55.805916+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Carree 2961 Two-Tone White Roman 18k Steel Automatic 29mm Watch",
-  "total": 5000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198806751986",
-  "item_id": "v1|198806751986|0",
-  "referencia": "2961",
-  "mercado": {
-   "n": 13,
-   "p25": 5780,
-   "mediana": 6003
-  },
-  "ratio_mercado": 0.865,
-  "motivo": "precio normal (87 % del cuartil bajo de 2961)"
- },
- {
-  "fecha": "2026-11-19T04:39:56.383487+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex President 18038 Factory Diamond Markers Automatic Wristwatch 18k",
-  "total": 15255.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147687515051",
-  "item_id": "v1|147687515051|0",
-  "referencia": "18038",
-  "mercado": {
-   "n": 19,
-   "p25": 9165,
-   "mediana": 10509
-  },
-  "ratio_mercado": 1.664,
-  "motivo": "precio normal (166 % del cuartil bajo de 18038)"
- },
- {
   "fecha": "2026-11-19T04:54:55.847559+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oysterdate Precision",
@@ -10998,5 +10913,90 @@
   },
   "ratio_justo": 1.017,
   "motivo": "precio normal segun revision (102 % del justo 2900)"
+ },
+ {
+  "fecha": "2026-11-21T18:12:02.039558+00:00",
+  "marca": "Rolex",
+  "titulo": "New 2026 Rolex GMT-Master II 126710 BLNR Batman Steel Jubilee Box Papers",
+  "total": 21505.88,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940111765824",
+  "item_id": "v1|940111765824|0",
+  "referencia": "126710",
+  "mercado": {
+   "n": 78,
+   "p25": 19950,
+   "mediana": 20472
+  },
+  "ratio_mercado": 1.078,
+  "motivo": "precio normal (108 % del cuartil bajo de 126710)"
+ },
+ {
+  "fecha": "2026-11-21T18:12:02.039558+00:00",
+  "marca": "Rolex",
+  "titulo": "New 2026 Rolex Daytona Cosmograph 126500 LN Black Steel 40mm Watch Box Papers",
+  "total": 33746.09,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940111765825",
+  "item_id": "v1|940111765825|0",
+  "referencia": "126500",
+  "mercado": {
+   "n": 30,
+   "p25": 35300,
+   "mediana": 38664
+  },
+  "ratio_mercado": 0.956,
+  "motivo": "precio normal (96 % del cuartil bajo de 126500)"
+ },
+ {
+  "fecha": "2026-11-21T18:12:02.039558+00:00",
+  "marca": "Rolex",
+  "titulo": "New 2026 Rolex Submariner Date 126610 LN Black Steel 41mm Watch Box Papers",
+  "total": 16508.38,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/267850200064",
+  "item_id": "v1|267850200064|0",
+  "referencia": "126610",
+  "mercado": {
+   "n": 67,
+   "p25": 16072,
+   "mediana": 16495
+  },
+  "ratio_mercado": 1.027,
+  "motivo": "precio normal (103 % del cuartil bajo de 126610)"
+ },
+ {
+  "fecha": "2026-11-21T18:12:02.039558+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Pre-owned Vintage Oyster Perpetual Date Ref. 6917",
+  "total": 4900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237197275139",
+  "item_id": "v1|237197275139|0",
+  "referencia": "6917",
+  "mercado": {
+   "n": 46,
+   "p25": 3990,
+   "mediana": 4065
+  },
+  "ratio_mercado": 1.228,
+  "motivo": "precio normal (123 % del cuartil bajo de 6917)"
+ },
+ {
+  "fecha": "2026-11-21T18:12:02.039558+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Must De 666001 Quartz 21mm 925 Silver Watch",
+  "total": 2699.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267850192329",
+  "item_id": "v1|267850192329|0",
+  "triage": {
+   "modelo": "Cartier Tank Must (cuarzo, caja de plata 925)",
+   "referencia": "666001",
+   "precio_justo_usd": 1100,
+   "interesante": false,
+   "nota": "Precio pedido de US$2700 muy por encima del valor de mercado de una Tank Must de plata 925 de cuarzo usada; la referencia del título debe verificarse."
+  },
+  "motivo": "triage: Precio pedido de US$2700 muy por encima del valor de mercado de una Tank Must de plata 925 de cuarzo usada; la referencia del título debe verificarse. (justo 1100)"
  }
 ]
