@@ -1,85 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T04:54:55.847559+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Prince Date+Day 76200",
-  "total": 3300.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920158974568",
-  "item_id": "v1|920158974568|0",
-  "referencia": "76200",
-  "mercado": {
-   "n": 3,
-   "p25": 3450,
-   "mediana": 5671
-  },
-  "triage": {
-   "modelo": "Tudor Prince Date+Day (según título; la imagen es pequeña y no permite confirmar el complicación de día)",
-   "referencia": "76200",
-   "precio_justo_usd": 2400,
-   "interesante": false,
-   "nota": "Esfera azul, brazalete de acero; el precio de US$3300 está por encima del valor de venta cerrada estimado para esta referencia en estado excelente. Confirmar referencia y la función de día en fotos más nítidas."
-  },
-  "motivo": "triage: Esfera azul, brazalete de acero; el precio de US$3300 está por encima del valor de venta cerrada estimado para esta referencia en estado excelente. Confirmar referencia y la función de día en fotos más nítidas. (justo 2400)"
- },
- {
-  "fecha": "2026-11-19T05:09:56.616717+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos de Cartier WSSA0047 Complete set. Warranty valid through 2030",
-  "total": 7700.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206712088349",
-  "item_id": "v1|206712088349|0",
-  "referencia": "WSSA0047",
-  "mercado": {
-   "n": 3,
-   "p25": 8295,
-   "mediana": 8800
-  },
-  "triage": {
-   "modelo": "Cartier Santos de Cartier (acero, esfera plateada con numerales romanos, brazalete integrado)",
-   "referencia": "WSSA0047 (según el título; no puedo verificarla solo con la foto)",
-   "precio_justo_usd": 6000,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de mercado para un usado reciente con set completo; no hay descuento de al menos 15%."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de mercado para un usado reciente con set completo; no hay descuento de al menos 15%. (justo 6000)"
- },
- {
-  "fecha": "2026-11-19T05:24:56.343242+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex Explorer II 1655 Steve McQueen Patina UNPOLISHED Steel Box Paper",
-  "total": 34995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206712117696",
-  "item_id": "v1|206712117696|0",
-  "triage": {
-   "modelo": "Rolex Explorer II (aparente 1655 'Steve McQueen', según el título)",
-   "referencia": "1655 (según título; la foto no lo confirma y parece un modelo posterior)",
-   "precio_justo_usd": 30000,
-   "interesante": false,
-   "nota": "Precio por encima del valor estimado para un 1655 con caja y papeles. La foto muestra un Explorer II de caja moderna, no coincide con el título vintage; verificar referencia, número de serie y patina antes de cualquier oferta."
-  },
-  "motivo": "triage: Precio por encima del valor estimado para un 1655 con caja y papeles. La foto muestra un Explorer II de caja moderna, no coincide con el título vintage; verificar referencia, número de serie y patina antes de cualquier oferta. (justo 30000)"
- },
- {
-  "fecha": "2026-11-19T05:39:55.915270+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 36 \"2026 - 100 Year Anniversary \" 126003",
-  "total": 14040.94,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/336905075960",
-  "item_id": "v1|336905075960|0",
-  "referencia": "126003",
-  "mercado": {
-   "n": 8,
-   "p25": 13000,
-   "mediana": 13290
-  },
-  "ratio_mercado": 1.08,
-  "motivo": "precio normal (108 % del cuartil bajo de 126003)"
- },
- {
   "fecha": "2026-11-19T05:39:55.915270+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Yacht-Master 40 Everose Gold Oysterflex 2016 Complete Set 116655",
@@ -11004,5 +10924,73 @@
    "estado": "Vintage con desgaste visible: cristal acrílico rayado y empañado, brazalete flojo y sin fotos del movimiento"
   },
   "motivo": "Claude descarto: El precio de US$2945 está por encima del valor de cierre real. Un 6517 bicolor de dama, sin caja ni papeles y en estado Good, suele cerrar en US$2,000-2,600. Los comparables de eBay (mediana 4798) son precios pedidos e inflados.; No hay foto del movimiento ni del interior del fondo. Tampoco se ve el número de serie ni el de referencia entre las asas, así que no se puede confirmar que el calibre, la caja y la esfera sean originales."
+ },
+ {
+  "fecha": "2026-11-21T18:42:01.986648+00:00",
+  "marca": "Rolex",
+  "titulo": "2004 Rolex Submariner Date Black Stainless Steel 16610 40mm Oyster Watch",
+  "total": 8999.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267850216489",
+  "item_id": "v1|267850216489|0",
+  "referencia": "16610",
+  "mercado": {
+   "n": 81,
+   "p25": 9900,
+   "mediana": 10395
+  },
+  "ratio_mercado": 0.909,
+  "motivo": "precio normal (91 % del cuartil bajo de 16610)"
+ },
+ {
+  "fecha": "2026-11-21T18:42:01.986648+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex submariner no date 14060",
+  "total": 9300.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117532768366",
+  "item_id": "v1|117532768366|0",
+  "referencia": "14060",
+  "mercado": {
+   "n": 52,
+   "p25": 9895,
+   "mediana": 10790
+  },
+  "ratio_mercado": 0.94,
+  "motivo": "precio normal (94 % del cuartil bajo de 14060)"
+ },
+ {
+  "fecha": "2026-11-21T18:42:01.986648+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex NEW Submariner 126610 LN  Box Papers Most Stickers Never Worn  NO RESERVE",
+  "total": 14044.95,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/336909360310",
+  "item_id": "v1|336909360310|0",
+  "referencia": "126610",
+  "mercado": {
+   "n": 67,
+   "p25": 16072,
+   "mediana": 16495
+  },
+  "ratio_mercado": 0.874,
+  "motivo": "precio normal (87 % del cuartil bajo de 126610)"
+ },
+ {
+  "fecha": "2026-11-21T18:42:01.986648+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 41 Burgundy Steel 7941A1A0RU Box Papers Warranty to 2029 MINT",
+  "total": 4114.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137950396744",
+  "item_id": "v1|137950396744|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 41 Burgundy (bisel burdeos, esfera negra, brazalete Jubilee de acero)",
+   "referencia": "M7941A1A0RU",
+   "precio_justo_usd": 3700,
+   "interesante": false,
+   "nota": "Modelo nuevo de producción actual con caja, papeles y garantía hasta 2029; el precio pedido de US$4.114 está por encima del valor de mercado secundario estimado."
+  },
+  "motivo": "triage: Modelo nuevo de producción actual con caja, papeles y garantía hasta 2029; el precio pedido de US$4.114 está por encima del valor de mercado secundario estimado. (justo 3700)"
  }
 ]
