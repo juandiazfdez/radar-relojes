@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T11:10:07.908302+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos-Dumont XL Stainless Steel Watch, WSSA0032",
-  "total": 6355.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407373551785",
-  "item_id": "v1|407373551785|0",
-  "referencia": "WSSA0032",
-  "mercado": {
-   "n": 4,
-   "p25": 6888,
-   "mediana": 6976
-  },
-  "triage": {
-   "modelo": "Cartier Santos-Dumont XL, acero, con caja y papeles (la foto muestra caja, folleto y tarjeta de garantía)",
-   "referencia": "WSSA0032 (según título, no verificable en la foto)",
-   "precio_justo_usd": 5600,
-   "interesante": false,
-   "nota": "Precio pedido US$6355 con envío, por encima de la venta real estimada para estado Good con caja y papeles. Verificar referencia y autenticidad del número de serie."
-  },
-  "motivo": "triage: Precio pedido US$6355 con envío, por encima de la venta real estimada para estado Good con caja y papeles. Verificar referencia y autenticidad del número de serie. (justo 5600)"
- },
- {
-  "fecha": "2026-11-19T12:25:19.764295+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Automatic Stainless Steel Watch",
-  "total": 4271.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267848007562",
-  "item_id": "v1|267848007562|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual (acero, esfera blanca, brazalete Oyster; generación probable de finales de los 90 o 2000, identificación no confirmada)",
-   "referencia": null,
-   "precio_justo_usd": 3900,
-   "interesante": false,
-   "nota": "Precio pedido por encima de la estimación conservadora para un OP de acero en estado Good; la referencia exacta no se puede confirmar en la foto."
-  },
-  "motivo": "triage: Precio pedido por encima de la estimación conservadora para un OP de acero en estado Good; la referencia exacta no se puede confirmar en la foto. (justo 3900)"
- },
- {
-  "fecha": "2026-11-19T12:25:19.764295+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date Automatic Stainless Steel Watch",
-  "total": 4185.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267848007494",
-  "item_id": "v1|267848007494|0",
-  "triage": {
-   "modelo": "Rolex Date (Oyster, esfera plateada, bisel engine-turned, brazalete Oyster de eslabones planos), probablemente Date de los años 70-90",
-   "referencia": "null",
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "Precio cercano al valor de mercado para un Date vintage de acero con esfera plateada en estado Good; la referencia exacta no se distingue en la foto, así que la estimación es conservadora."
-  },
-  "motivo": "triage: Precio cercano al valor de mercado para un Date vintage de acero con esfera plateada en estado Good; la referencia exacta no se distingue en la foto, así que la estimación es conservadora. (justo 4300)"
- },
- {
   "fecha": "2026-11-19T12:25:19.764295+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Royal Vintage Stainless Steel / Leather Watch",
@@ -10998,5 +10941,56 @@
   },
   "ratio_mercado": 1.142,
   "motivo": "precio normal (114 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-21T21:42:16.240296+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 168622 Rolesium Yacht-Master Midsize 35mm 2000 P-Serial",
+  "total": 6249.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800948495490",
+  "item_id": "v1|800948495490|0",
+  "referencia": "168622",
+  "mercado": {
+   "n": 10,
+   "p25": 8390,
+   "mediana": 8960
+  },
+  "ratio_mercado": 0.745,
+  "motivo": "descripcion: not working, as is, for parts"
+ },
+ {
+  "fecha": "2026-11-21T21:42:16.240296+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex Datejust 36 126233 Wimbledon Jubilee Two Tone Fullset New Unworn",
+  "total": 19000.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/336909565224",
+  "item_id": "v1|336909565224|0",
+  "referencia": "126233",
+  "mercado": {
+   "n": 42,
+   "p25": 19495,
+   "mediana": 20579
+  },
+  "ratio_mercado": 0.975,
+  "motivo": "precio normal (97 % del cuartil bajo de 126233)"
+ },
+ {
+  "fecha": "2026-11-21T21:42:16.240296+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Rolex Submariner Date 126610LV Starbucks 41mm Fullset Mint Warranty",
+  "total": 16000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336909562343",
+  "item_id": "v1|336909562343|0",
+  "referencia": "126610LV",
+  "mercado": {
+   "n": 75,
+   "p25": 15501,
+   "mediana": 15998
+  },
+  "ratio_mercado": 1.032,
+  "motivo": "precio normal (103 % del cuartil bajo de 126610LV)"
  }
 ]
