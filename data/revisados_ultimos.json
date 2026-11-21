@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-19T14:40:19.406022+00:00",
   "marca": "Rolex",
-  "titulo": "2019 Rolex Datejust 126201 Rose 18kt Oyster With Papers 36mm",
-  "total": 12075.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287741461681",
-  "item_id": "v1|287741461681|0",
-  "referencia": "126201",
-  "mercado": {
-   "n": 7,
-   "p25": 13000,
-   "mediana": 14000
-  },
-  "ratio_mercado": 0.929,
-  "motivo": "precio normal (93 % del cuartil bajo de 126201)"
- },
- {
-  "fecha": "2026-11-19T14:40:19.406022+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual Datejust Womens Watch 26mm 6917 Diamond Automatic 5.75\"",
   "total": 4806.98,
   "condicion": "Pre-owned - Good",
@@ -10992,5 +10975,29 @@
   },
   "ratio_mercado": 0.937,
   "motivo": "precio normal (94 % del cuartil bajo de 25827KN)"
+ },
+ {
+  "fecha": "2026-11-21T23:42:15.160107+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster Chronograph W62007X6 2618 43mm XL Black Automatic Watch Only",
+  "total": 4195.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840153212936",
+  "item_id": "v1|840153212936|0",
+  "referencia": "W62007X6, 2618",
+  "mercado": {
+   "n": 14,
+   "p25": 5300,
+   "mediana": 5940
+  },
+  "ratio_mercado": 0.792,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 3900,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado, bueno; caja y brazalete pulidos con desgaste visible, sin caja ni papeles"
+  },
+  "ratio_justo": 1.076,
+  "motivo": "precio normal segun revision (108 % del justo 3900)"
  }
 ]
