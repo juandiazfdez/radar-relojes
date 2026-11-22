@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-19T15:55:19.679158+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Submariner No-Date 114060 LN Ceramic 40mm Black Stainless Steel Watch",
-  "total": 10702.87,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900104561372",
-  "item_id": "v1|900104561372|0",
-  "referencia": "114060",
-  "mercado": {
-   "n": 44,
-   "p25": 11800,
-   "mediana": 12725
-  },
-  "ratio_mercado": 0.907,
-  "motivo": "precio normal (91 % del cuartil bajo de 114060)"
- },
- {
-  "fecha": "2026-11-19T15:55:19.679158+00:00",
-  "marca": "Rolex",
-  "titulo": "2025 Rolex Datejust 41 Wimbledon 126333 Two-Tone Jubilee – Full Set & Warranty",
-  "total": 20400.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/117530552142",
-  "item_id": "v1|117530552142|0",
-  "referencia": "126333",
-  "mercado": {
-   "n": 35,
-   "p25": 19495,
-   "mediana": 20228
-  },
-  "ratio_mercado": 1.046,
-  "motivo": "precio normal (105 % del cuartil bajo de 126333)"
- },
- {
-  "fecha": "2026-11-19T15:55:19.679158+00:00",
-  "marca": "Rolex",
   "titulo": "VINTAGE ROLEX SUBMARINER 1680 RED 1971 CERTIFICATE  100% ORIGINAL",
   "total": 14065.0,
   "condicion": "Pre-owned - Good",
@@ -11005,5 +10971,46 @@
    "nota": "Imagen insuficiente para confirmar Rolex (no se distingue la corona ni el texto del dial con claridad). Listado 'Fair', sin devoluciones y con descripción vaga. El precio pedido de US$650 no está por debajo del valor de mercado para un vintage funcional en ese estado."
   },
   "motivo": "triage: Imagen insuficiente para confirmar Rolex (no se distingue la corona ni el texto del dial con claridad). Listado 'Fair', sin devoluciones y con descripción vaga. El precio pedido de US$650 no está por debajo del valor de mercado para un vintage funcional en ese estado. (justo 450)"
+ },
+ {
+  "fecha": "2026-11-22T01:57:15.430718+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Men's Stainless Steel 5513 ",
+  "total": 9900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920170143905",
+  "item_id": "v1|920170143905|0",
+  "referencia": "5513",
+  "mercado": {
+   "n": 34,
+   "p25": 11918,
+   "mediana": 14319
+  },
+  "ratio_mercado": 0.831,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 11500,
+   "riesgo_autenticidad": "medio",
+   "estado": "Aspecto vintage honesto: patina color crema en puntos y manecillas, bisel de aluminio desgastado, caja con signos de pulido, esfera con manchas"
+  },
+  "ratio_justo": 0.861,
+  "motivo": "precio normal segun revision (86 % del justo 11500)"
+ },
+ {
+  "fecha": "2026-11-22T01:57:15.430718+00:00",
+  "marca": "Rolex",
+  "titulo": "Vtg Rare Original Dainty 40s Rolex Standard Ladies Cocktail Watch Navette Windup",
+  "total": 2600.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880138694420",
+  "item_id": "v1|880138694420|0",
+  "triage": {
+   "modelo": "Rolex Standard (dama, cocktail navette, años 40), no verificable en la imagen",
+   "referencia": null,
+   "precio_justo_usd": 1200,
+   "interesante": false,
+   "nota": "La foto no muestra corona ni esfera con logotipo legible; la autenticidad Rolex no se puede confirmar. Si fuera genuino en chapa de oro, rondaría US$1,000-1,500, bastante por debajo de los US$2,600 pedidos."
+  },
+  "motivo": "triage: La foto no muestra corona ni esfera con logotipo legible; la autenticidad Rolex no se puede confirmar. Si fuera genuino en chapa de oro, rondaría US$1,000-1,500, bastante por debajo de los US$2,600 pedidos. (justo 1200)"
  }
 ]
