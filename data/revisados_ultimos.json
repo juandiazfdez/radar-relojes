@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T19:55:29.505335+00:00",
-  "marca": "Tudor",
-  "titulo": "UNWORN Tudor Black Bay FULL CERAMIC - 41mm - M7941A1ACNU -  NEW RELEASE -",
-  "total": 7795.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/920161356512",
-  "item_id": "v1|920161356512|0",
-  "triage": {
-   "modelo": "Tudor Black Bay Ceramic (aparente, 41 mm, esfera plateada/gris)",
-   "referencia": "M7941A1ACNU (según el listado; no verificable en la imagen)",
-   "precio_justo_usd": 4200,
-   "interesante": false,
-   "nota": "Precio pedido de US$7.795 muy por encima del mercado gris para un Tudor nuevo con caja y papeles; la imagen no permite confirmar la referencia ni el material cerámico."
-  },
-  "motivo": "triage: Precio pedido de US$7.795 muy por encima del mercado gris para un Tudor nuevo con caja y papeles; la imagen no permite confirmar la referencia ni el material cerámico. (justo 4200)"
- },
- {
-  "fecha": "2026-11-19T20:10:28.654981+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust Ladies 18K Gold 26mm Ref 6917",
-  "total": 7280.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/960217196539",
-  "item_id": "v1|960217196539|0",
-  "referencia": "6917",
-  "mercado": {
-   "n": 46,
-   "p25": 3985,
-   "mediana": 4032
-  },
-  "ratio_mercado": 1.827,
-  "motivo": "precio normal (183 % del cuartil bajo de 6917)"
- },
- {
-  "fecha": "2026-11-19T20:10:28.654981+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual DateJust Watch 18K Yellow Gold &Stainless Steel Ref.16013",
-  "total": 6400.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327465354278",
-  "item_id": "v1|327465354278|0",
-  "referencia": "16013",
-  "mercado": {
-   "n": 22,
-   "p25": 1815,
-   "mediana": 4450
-  },
-  "ratio_mercado": 3.526,
-  "motivo": "precio normal (353 % del cuartil bajo de 16013)"
- },
- {
   "fecha": "2026-11-19T20:10:28.654981+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 36 Steel Rose Gold Diamond Mens Watch 126281",
@@ -11015,5 +10964,56 @@
    "nota": "Precio 9-10% por debajo de la estimación conservadora; el título menciona 'Watch Box' y la foto no permite confirmar material ni autenticidad, así que hay que verificar antes de comprar."
   },
   "motivo": "triage: Precio 9-10% por debajo de la estimación conservadora; el título menciona 'Watch Box' y la foto no permite confirmar material ni autenticidad, así que hay que verificar antes de comprar. (justo 42000)"
+ },
+ {
+  "fecha": "2026-11-22T22:42:57.322638+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 126710BLNR Batman 40mm Steel Oyster Watch Full Set 2021",
+  "total": 24000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377668648329",
+  "item_id": "v1|377668648329|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 71,
+   "p25": 18250,
+   "mediana": 18950
+  },
+  "ratio_mercado": 1.315,
+  "motivo": "precio normal (132 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-22T22:42:57.322638+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day Date II 18K Rose Gold Watch 218235",
+  "total": 43000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407382009855",
+  "item_id": "v1|407382009855|0",
+  "referencia": "218235",
+  "mercado": {
+   "n": 14,
+   "p25": 40989,
+   "mediana": 42745
+  },
+  "ratio_mercado": 1.049,
+  "motivo": "precio normal (105 % del cuartil bajo de 218235)"
+ },
+ {
+  "fecha": "2026-11-22T22:42:57.322638+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu XL 42mm Steel White Black W69016Z4 Box and Papers",
+  "total": 4497.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920173013776",
+  "item_id": "v1|920173013776|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu 42 mm automático, acero, esfera blanca con números romanos, correa de cuero negro",
+   "referencia": "W69016Z4",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Precio de venta cerrada estimado para usado excelente con caja y papeles; el precio pedido queda solo ~10 % por debajo. La foto parece un render promocional, así que conviene pedir fotos reales del reloj."
+  },
+  "motivo": "triage: Precio de venta cerrada estimado para usado excelente con caja y papeles; el precio pedido queda solo ~10 % por debajo. La foto parece un render promocional, así que conviene pedir fotos reales del reloj. (justo 5000)"
  }
 ]
