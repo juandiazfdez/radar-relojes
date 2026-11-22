@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-19T15:55:19.679158+00:00",
   "marca": "Rolex",
-  "titulo": "W/Papers 1980 Rolex Ladies Date 26 mm Two Tone Oyster Automatic Watch 6916",
-  "total": 4550.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407374929360",
-  "item_id": "v1|407374929360|0",
-  "referencia": "6916",
-  "mercado": {
-   "n": 27,
-   "p25": 3700,
-   "mediana": 3859
-  },
-  "ratio_mercado": 1.23,
-  "motivo": "precio normal (123 % del cuartil bajo de 6916)"
- },
- {
-  "fecha": "2026-11-19T15:55:19.679158+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Submariner No-Date 114060 LN Ceramic 40mm Black Stainless Steel Watch",
   "total": 10702.87,
   "condicion": "Pre-owned - Excellent",
@@ -11005,5 +10988,22 @@
    "nota": "Precio cercano al mercado secundario para oro amarillo grande con caja y papeles; no hay descuento de 15% y no puedo verificar papeles ni autenticidad desde la foto."
   },
   "motivo": "triage: Precio cercano al mercado secundario para oro amarillo grande con caja y papeles; no hay descuento de 15% y no puedo verificar papeles ni autenticidad desde la foto. (justo 20500)"
+ },
+ {
+  "fecha": "2026-11-22T01:42:14.966339+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Raleigh ~ Running ~ SEE DESCRIPTION FOR ALL DETAILS ~ NO RETURNS",
+  "total": 650.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/128207643307",
+  "item_id": "v1|128207643307|0",
+  "triage": {
+   "modelo": "Rolex Oyster Raleigh (vintage, cuerda manual, acero, esfera crema con numerales arábigos; identificación poco segura)",
+   "referencia": null,
+   "precio_justo_usd": 450,
+   "interesante": false,
+   "nota": "Imagen insuficiente para confirmar Rolex (no se distingue la corona ni el texto del dial con claridad). Listado 'Fair', sin devoluciones y con descripción vaga. El precio pedido de US$650 no está por debajo del valor de mercado para un vintage funcional en ese estado."
+  },
+  "motivo": "triage: Imagen insuficiente para confirmar Rolex (no se distingue la corona ni el texto del dial con claridad). Listado 'Fair', sin devoluciones y con descripción vaga. El precio pedido de US$650 no está por debajo del valor de mercado para un vintage funcional en ese estado. (justo 450)"
  }
 ]
