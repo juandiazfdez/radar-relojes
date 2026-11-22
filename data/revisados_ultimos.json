@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-19T16:25:18.756399+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona John Mayer 126508 18k Yellow Gold Wrist Watch Full Kit Box Papers",
-  "total": 94000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920160843927",
-  "item_id": "v1|920160843927|0",
-  "referencia": "126508",
-  "mercado": {
-   "n": 11,
-   "p25": 68677,
-   "mediana": 76500
-  },
-  "ratio_mercado": 1.369,
-  "motivo": "precio normal (137 % del cuartil bajo de 126508)"
- },
- {
-  "fecha": "2026-11-19T16:25:18.756399+00:00",
   "marca": "Tudor",
   "titulo": "New 2026 Tudor Black Bay 58 GMT 10/26 7939G1A0NRU “Coke”",
   "total": 4798.0,
@@ -11018,5 +11001,29 @@
    "nota": "Pelagos FXD de titanio en buen estado con set completo; el precio pedido de US$4299 está por encima de lo que se vende usado, aunque cerca del retail."
   },
   "motivo": "triage: Pelagos FXD de titanio en buen estado con set completo; el precio pedido de US$4299 está por encima de lo que se vende usado, aunque cerca del retail. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-22T03:42:27.941982+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos 100 XL Automatic 2656 38x51mm Watch",
+  "total": 4499.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940112814964",
+  "item_id": "v1|940112814964|0",
+  "referencia": "2656",
+  "mercado": {
+   "n": 25,
+   "p25": 5325,
+   "mediana": 5995
+  },
+  "ratio_mercado": 0.845,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 3900,
+   "riesgo_autenticidad": "medio",
+   "estado": "Uso visible: bisel y laterales de caja muy rayados, correa nueva no original, sin fotos del fondo ni del movimiento"
+  },
+  "ratio_justo": 1.154,
+  "motivo": "precio normal segun revision (115 % del justo 3900)"
  }
 ]
