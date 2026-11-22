@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T15:55:19.679158+00:00",
-  "marca": "Rolex",
-  "titulo": "New 2026 Rolex Datejust 36 mm - Green Ombre - Jubilee Bracelet -Reference 126200",
-  "total": 12349.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227621885689",
-  "item_id": "v1|227621885689|0",
-  "referencia": "126200",
-  "mercado": {
-   "n": 23,
-   "p25": 11699,
-   "mediana": 12224
-  },
-  "ratio_mercado": 1.056,
-  "motivo": "precio normal (106 % del cuartil bajo de 126200)"
- },
- {
-  "fecha": "2026-11-19T15:55:19.679158+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Roadster 2676 Diamond 18K Yellow Gold Ladies Watch",
-  "total": 26699.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/366822556368",
-  "item_id": "v1|366822556368|0",
-  "referencia": "2676",
-  "mercado": {
-   "n": 3,
-   "p25": 23345,
-   "mediana": 23645
-  },
-  "triage": {
-   "modelo": "Cartier Roadster de dama, oro amarillo 18K con bisel de diamantes",
-   "referencia": "2676 (según el título; no verificable solo con la foto)",
-   "precio_justo_usd": 13500,
-   "interesante": false,
-   "nota": "Precio pedido de US$26.699 muy por encima del valor de mercado de un Roadster de dama en oro 18K con diamantes usado; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$26.699 muy por encima del valor de mercado de un Roadster de dama en oro 18K con diamantes usado; no es una oportunidad. (justo 13500)"
- },
- {
   "fecha": "2026-11-19T16:10:19.211958+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Panthere 84783747 18K Yellow Gold Ladies Watch",
@@ -11012,5 +10972,39 @@
    "nota": "Precio pedido por encima de la estimación de mercado secundario para un Black Bay 54 usado en excelente estado con caja y papeles; no cumple el umbral del 15 %."
   },
   "motivo": "triage: Precio pedido por encima de la estimación de mercado secundario para un Black Bay 54 usado en excelente estado con caja y papeles; no cumple el umbral del 15 %. (justo 2900)"
+ },
+ {
+  "fecha": "2026-11-22T02:42:14.719262+00:00",
+  "marca": "Cartier",
+  "titulo": "24mm Cartier Must De Watch With Authentication (P08035737)",
+  "total": 809.99,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/820379073370",
+  "item_id": "v1|820379073370|0",
+  "triage": {
+   "modelo": "Cartier Must de Cartier 24 mm (cuarzo, acero)",
+   "referencia": null,
+   "precio_justo_usd": 550,
+   "interesante": false,
+   "nota": "La referencia no se lee en la foto; el certificado no basta para confirmar la generación. Con estado Fair, US$810 con envío queda por encima del valor de venta cerrada estimado."
+  },
+  "motivo": "triage: La referencia no se lee en la foto; el certificado no basta para confirmar la generación. Con estado Fair, US$810 con envío queda por encima del valor de venta cerrada estimado. (justo 550)"
+ },
+ {
+  "fecha": "2026-11-22T02:42:14.719262+00:00",
+  "marca": "Tudor",
+  "titulo": "2022 Tudor Black Bay 41 79540-0006",
+  "total": 2400.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147692092814",
+  "item_id": "v1|147692092814|0",
+  "referencia": "79540-0006",
+  "mercado": {
+   "n": 8,
+   "p25": 2500,
+   "mediana": 2803
+  },
+  "ratio_mercado": 0.96,
+  "motivo": "precio normal (96 % del cuartil bajo de 79540-0006)"
  }
 ]
