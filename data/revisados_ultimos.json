@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-19T19:55:29.505335+00:00",
   "marca": "Rolex",
-  "titulo": "Vintage 1968 Rolex Oyster Perpetual Watch in Stainless Steel w/Gold Cap Ref.1024",
-  "total": 3900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327465337450",
-  "item_id": "v1|327465337450|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual (vintage, caja chapada en oro sobre acero según el título; la foto muestra una caja de aspecto dorado completo)",
-   "referencia": "1024",
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "Ref. 1024 de los años 60 con caja de acero y tapa de oro en buen estado vende ~US$1,800-2,600; el precio pedido queda por encima. La foto no coincide claramente con el título, así que conviene verificar material y autenticidad antes de comprar."
-  },
-  "motivo": "triage: Ref. 1024 de los años 60 con caja de acero y tapa de oro en buen estado vende ~US$1,800-2,600; el precio pedido queda por encima. La foto no coincide claramente con el título, así que conviene verificar material y autenticidad antes de comprar. (justo 2200)"
- },
- {
-  "fecha": "2026-11-19T19:55:29.505335+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Yacht-Master Titanium 42mm Ref 226627 NEW Full set 2026!",
   "total": 24500.0,
   "condicion": "New with box and papers",
@@ -11002,5 +10985,28 @@
   },
   "ratio_justo": 0.895,
   "motivo": "precio normal segun revision (90 % del justo 950)"
+ },
+ {
+  "fecha": "2026-11-22T21:42:57.329554+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 36 Blue \"Smiley\" 79500 -- Full Set",
+  "total": 3050.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920172896576",
+  "item_id": "v1|920172896576|0",
+  "referencia": "79500",
+  "mercado": {
+   "n": 2,
+   "p25": 2900,
+   "mediana": 4275
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 36 (esfera azul, acero, automático)",
+   "referencia": "79500 (según el título; no es verificable en la foto)",
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor estimado de mercado para esta referencia en condición Good; no cumple el umbral de 15% por debajo."
+  },
+  "motivo": "triage: Precio pedido por encima del valor estimado de mercado para esta referencia en condición Good; no cumple el umbral de 15% por debajo. (justo 2800)"
  }
 ]
