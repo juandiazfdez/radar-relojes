@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-19T17:10:19.592481+00:00",
   "marca": "Rolex",
-  "titulo": "Vintage 1940s Rolex 5020 Oyster Elegante Gold-Filled Watch Parts Or Restore Read",
-  "total": 1500.0,
-  "condicion": "For parts or not working",
-  "url": "https://www.ebay.com/itm/860158849530",
-  "item_id": "v1|860158849530|0",
-  "referencia": "5020",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Oyster Elegante vintage (años 1940), caja chapada en oro, para piezas o reparación",
-   "referencia": "5020 (según el título; no verificable en la imagen)",
-   "precio_justo_usd": 650,
-   "interesante": false,
-   "nota": "Caja chapada en oro, no sólida, y el reloj no funciona. Pedir US$1500 está muy por encima de lo que se paga por una pieza así, incluso completa y original."
-  },
-  "motivo": "triage: Caja chapada en oro, no sólida, y el reloj no funciona. Pedir US$1500 está muy por encima de lo que se paga por una pieza así, incluso completa y original. (justo 650)"
- },
- {
-  "fecha": "2026-11-19T17:10:19.592481+00:00",
-  "marca": "Rolex",
   "titulo": "Mint 1997 Rolex Oyster Perpetual Datejust ref. 69173 29j Two Tone Watch Full Set",
   "total": 5975.0,
   "condicion": "Pre-owned - Good",
@@ -11019,5 +10996,28 @@
    "nota": "Título sospechoso ('Geneve' no es marca Rolex) y foto de baja calidad; no se puede verificar autenticidad ni referencia. Aunque el precio parece bajo, hay riesgo de réplica o de chapado en oro."
   },
   "motivo": "triage: Título sospechoso ('Geneve' no es marca Rolex) y foto de baja calidad; no se puede verificar autenticidad ni referencia. Aunque el precio parece bajo, hay riesgo de réplica o de chapado en oro. (justo 22000)"
+ },
+ {
+  "fecha": "2026-11-22T05:57:27.784698+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX DATEJUST 68278 YELLOW MOTHER OF PEARL QUICK SET 31MM 18K GOLD MENS WATCH",
+  "total": 11520.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287748465149",
+  "item_id": "v1|287748465149|0",
+  "referencia": "68278",
+  "mercado": {
+   "n": 39,
+   "p25": 19899,
+   "mediana": 21457
+  },
+  "ratio_mercado": 0.579,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 8200,
+   "riesgo_autenticidad": "medio",
+   "estado": "Caja de oro sin pulir en estado aceptable, con manchas oxidadas en el bisel y los cuernos; sin caja ni papeles; hebilla no original; sin fotos del fondo ni del movimiento"
+  },
+  "motivo": "Claude descarto: A US$11,520 el precio queda por encima de lo que realmente se cierra. Un 68278 de oro con esfera nácar romana, sin caja ni papeles y con correa, se vende hoy en unos US$7,500-9,500. Los comparables de US$20k son precios pedidos inflados. Con este precio no hay margen de reventa.; El año 1984 es dudoso. El 68278 con cal. 2135, cristal de zafiro y Quickset es de finales de los 80 en adelante, así que el dato del título/descripción es poco fiable y falta el número de serie."
  }
 ]
