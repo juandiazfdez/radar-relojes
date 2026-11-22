@@ -1,57 +1,6 @@
 [
  {
   "fecha": "2026-11-19T19:25:29.131318+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 126710BLNR GMT Master II on Oyster",
-  "total": 22925.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/920161313149",
-  "item_id": "v1|920161313149|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 59,
-   "p25": 19555,
-   "mediana": 20495
-  },
-  "ratio_mercado": 1.172,
-  "motivo": "precio normal (117 % del cuartil bajo de 126710BLNR)"
- },
- {
-  "fecha": "2026-11-19T19:25:29.131318+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 226627 Yachtmaster 42 Titanium",
-  "total": 26925.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920161312248",
-  "item_id": "v1|920161312248|0",
-  "referencia": "226627",
-  "mercado": {
-   "n": 17,
-   "p25": 24890,
-   "mediana": 26250
-  },
-  "ratio_mercado": 1.082,
-  "motivo": "precio normal (108 % del cuartil bajo de 226627)"
- },
- {
-  "fecha": "2026-11-19T19:25:29.131318+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 1603 Datejust 36mm 1960s Mens Vintage Automatic RA684S",
-  "total": 8980.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257861183925",
-  "item_id": "v1|257861183925|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36 mm acero con bisel acanalado y brazalete Jubilee (vintage)",
-   "referencia": "1603 (probable; la foto no permite confirmarlo y el título dice 'RA684S', que no es un formato de referencia Rolex)",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de mercado para un Datejust vintage de acero en estado Good sin caja ni papeles. La referencia y la década del título no coinciden del todo, así que conviene verificar el número de referencia y el serial."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de mercado para un Datejust vintage de acero en estado Good sin caja ni papeles. La referencia y la década del título no coinciden del todo, así que conviene verificar el número de referencia y el serial. (justo 4000)"
- },
- {
-  "fecha": "2026-11-19T19:25:29.131318+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Ballon Bleu WE902055 Diamond 18K Rose Gold Mens Watch",
   "total": 13199.0,
@@ -11007,5 +10956,56 @@
   },
   "ratio_mercado": 1.096,
   "motivo": "precio normal (110 % del cuartil bajo de WSSA0039)"
+ },
+ {
+  "fecha": "2026-11-22T19:12:47.888609+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX VINTAGE 15223 18K GOLD /Stainless Steel DATE  34MM OYSTER PERPETUAL",
+  "total": 6250.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336911094151",
+  "item_id": "v1|336911094151|0",
+  "referencia": "15223",
+  "mercado": {
+   "n": 19,
+   "p25": 6900,
+   "mediana": 7250
+  },
+  "ratio_mercado": 0.906,
+  "motivo": "precio normal (91 % del cuartil bajo de 15223)"
+ },
+ {
+  "fecha": "2026-11-22T19:12:47.888609+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Rolex Yacht-Master 42 226627 42mm",
+  "total": 22499.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168880286920",
+  "item_id": "v1|168880286920|0",
+  "referencia": "226627",
+  "mercado": {
+   "n": 18,
+   "p25": 24899,
+   "mediana": 26475
+  },
+  "ratio_mercado": 0.904,
+  "motivo": "precio normal (90 % del cuartil bajo de 226627)"
+ },
+ {
+  "fecha": "2026-11-22T19:12:47.888609+00:00",
+  "marca": "Cartier",
+  "titulo": "cartier watch",
+  "total": 1500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407381754342",
+  "item_id": "v1|407381754342|0",
+  "triage": {
+   "modelo": "Cartier Santos de Cartier o Tank Française (cuarzo, acero, caja cuadrada/rectangular; identificación incierta por la foto)",
+   "referencia": null,
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Título genérico sin modelo ni referencia; la foto no permite verificar autenticidad ni número de serie. El precio es bajo para un Cartier de acero con caja y papeles, lo que sugiere posible réplica o listado engañoso. Pedir fotos del movimiento, número de serie y papeles antes de considerarlo."
+  },
+  "motivo": "triage: Título genérico sin modelo ni referencia; la foto no permite verificar autenticidad ni número de serie. El precio es bajo para un Cartier de acero con caja y papeles, lo que sugiere posible réplica o listado engañoso. Pedir fotos del movimiento, número de serie y papeles antes de considerarlo. (justo 3000)"
  }
 ]
