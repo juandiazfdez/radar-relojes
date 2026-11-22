@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T16:10:19.211958+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Swiss Made Women's Dress Analog Wristwatch Round Black/Gold, Box",
-  "total": 630.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377659264940",
-  "item_id": "v1|377659264940|0",
-  "triage": {
-   "modelo": "Tudor vintage de dama, caja redonda de esmalte negro con detalles dorados (posible pieza de colgante o de cuerda)",
-   "referencia": null,
-   "precio_justo_usd": 350,
-   "interesante": false,
-   "nota": "Reloj de dama vintage sin referencia legible ni fecha; el precio pedido de US$630 supera la estimación conservadora para este tipo de pieza."
-  },
-  "motivo": "triage: Reloj de dama vintage sin referencia legible ni fecha; el precio pedido de US$630 supera la estimación conservadora para este tipo de pieza. (justo 350)"
- },
- {
-  "fecha": "2026-11-19T16:25:18.756399+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 1930's  Rolex Oyster Royal Chronometer Grade Watch Ref.2765 FLAT BACK",
-  "total": 4035.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227621926952",
-  "item_id": "v1|227621926952|0",
-  "triage": {
-   "modelo": "Rolex Oyster Royal (chronometer, años 1930-1940)",
-   "referencia": "2765",
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "Referencia vintage plausible con esfera crema, subesfera y caja de dos piezas; el precio pedido está solo ~6% bajo la estimación conservadora, sin margen suficiente. Hay que verificar autenticidad, esfera original y movimiento."
-  },
-  "motivo": "triage: Referencia vintage plausible con esfera crema, subesfera y caja de dos piezas; el precio pedido está solo ~6% bajo la estimación conservadora, sin margen suficiente. Hay que verificar autenticidad, esfera original y movimiento. (justo 4300)"
- },
- {
   "fecha": "2026-11-19T16:25:18.756399+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Daytona John Mayer 126508 18k Yellow Gold Wrist Watch Full Kit Box Papers",
@@ -11012,5 +10978,45 @@
    "nota": "La pieza parece una personalización de diamantes posterior a la fábrica, no un Santos con diamantes de producción de Cartier, y la garantía de eBay no verifica esa modificación. Un Santos de producción con diamantes costaría bastante más, así que el precio no se puede comparar y hay riesgo de réplica o de pieza alterada."
   },
   "motivo": "triage: La pieza parece una personalización de diamantes posterior a la fábrica, no un Santos con diamantes de producción de Cartier, y la garantía de eBay no verifica esa modificación. Un Santos de producción con diamantes costaría bastante más, así que el precio no se puede comparar y hay riesgo de réplica o de pieza alterada. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-22T03:27:29.853534+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Solo XL W5200026 18K Rose Gold Black Leather Men's Watch",
+  "total": 7950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257865073980",
+  "item_id": "v1|257865073980|0",
+  "referencia": "W5200026",
+  "mercado": {
+   "n": 8,
+   "p25": 8399,
+   "mediana": 8447
+  },
+  "ratio_mercado": 0.947,
+  "motivo": "precio normal (95 % del cuartil bajo de W5200026)"
+ },
+ {
+  "fecha": "2026-11-22T03:27:29.853534+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR  Pelagos FXD Titanium Marine Nationale M25707B/23 Full Set ",
+  "total": 4299.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900111269222",
+  "item_id": "v1|900111269222|0",
+  "referencia": "M25707B",
+  "mercado": {
+   "n": 2,
+   "p25": 4315,
+   "mediana": 4358
+  },
+  "triage": {
+   "modelo": "Tudor Pelagos FXD Titanium Marine Nationale",
+   "referencia": "M25707B/23",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Pelagos FXD de titanio en buen estado con set completo; el precio pedido de US$4299 está por encima de lo que se vende usado, aunque cerca del retail."
+  },
+  "motivo": "triage: Pelagos FXD de titanio en buen estado con set completo; el precio pedido de US$4299 está por encima de lo que se vende usado, aunque cerca del retail. (justo 3500)"
  }
 ]
