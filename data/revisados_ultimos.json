@@ -5,23 +5,6 @@
   "titulo": "14K Yellow Gold Vintage Rolex Watch 15mm",
   "total": 5950.0,
   "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307290886828",
-  "item_id": "v1|307290886828|0",
-  "triage": {
-   "modelo": "Rolex vintage de dama, caja cuadrada de oro amarillo 14K con pulsera de malla (aprox. años 60-70)",
-   "referencia": null,
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "Precio pedido de US$5950 muy por encima del valor típico de este modelo vintage de oro 14K en estado Good; la referencia exacta no se identifica en la foto."
-  },
-  "motivo": "triage: Precio pedido de US$5950 muy por encima del valor típico de este modelo vintage de oro 14K en estado Good; la referencia exacta no se identifica en la foto. (justo 2800)"
- },
- {
-  "fecha": "2026-11-19T18:40:29.476289+00:00",
-  "marca": "Rolex",
-  "titulo": "14K Yellow Gold Vintage Rolex Watch 15mm",
-  "total": 5950.0,
-  "condicion": "Pre-owned - Good",
   "url": "https://www.ebay.com/itm/377659585733",
   "item_id": "v1|377659585733|0",
   "triage": {
@@ -11013,5 +10996,22 @@
    "nota": "Nuevo con caja y papeles se mueve en torno a US$2,700-3,200 en mercado gris; el pedido de US$4,900 está muy por encima del precio real de venta."
   },
   "motivo": "triage: Nuevo con caja y papeles se mueve en torno a US$2,700-3,200 en mercado gris; el pedido de US$4,900 está muy por encima del precio real de venta. (justo 2900)"
+ },
+ {
+  "fecha": "2026-11-22T17:12:47.919984+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36 Two-Tone 16013 w/ Box 36mm Stainless steel and 18k yellow gold",
+  "total": 6495.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147692931791",
+  "item_id": "v1|147692931791|0",
+  "referencia": "16013",
+  "mercado": {
+   "n": 21,
+   "p25": 1815,
+   "mediana": 4428
+  },
+  "ratio_mercado": 3.579,
+  "motivo": "precio normal (358 % del cuartil bajo de 16013)"
  }
 ]
