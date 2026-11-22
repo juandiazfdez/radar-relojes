@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-11-19T20:10:28.654981+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36 Steel Rose Gold Diamond Mens Watch 126281",
-  "total": 24610.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257861230217",
-  "item_id": "v1|257861230217|0",
-  "referencia": "126281",
-  "mercado": {
-   "n": 8,
-   "p25": 23988,
-   "mediana": 26144
-  },
-  "ratio_mercado": 1.026,
-  "motivo": "precio normal (103 % del cuartil bajo de 126281)"
- },
- {
-  "fecha": "2026-11-19T20:10:28.654981+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 39mm Ref 114300",
-  "total": 7180.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960217171693",
-  "item_id": "v1|960217171693|0",
-  "referencia": "114300",
-  "mercado": {
-   "n": 20,
-   "p25": 9300,
-   "mediana": 9720
-  },
-  "ratio_mercado": 0.772,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 6000,
-   "riesgo_autenticidad": "medio",
-   "estado": "Aparentemente bueno, con desgaste normal. Solo reloj, sin caja ni papeles."
-  },
-  "motivo": "Claude descarto: A US$7,180 el precio queda por encima del valor real de cierre de un 114300 solo reloj en estado Good, que ronda US$5,800-6,300. No hay margen de reventa.; La mediana de comparables (9,720) y el cuartil bajo (9,300) son precios pedidos, probablemente inflados o con full sets. No sirven para justificar este precio."
- },
- {
-  "fecha": "2026-11-19T20:10:28.654981+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Solo Large Rose Gold Mens Watch W5200025 Box Card",
   "total": 7390.0,
@@ -11015,5 +10975,39 @@
    "nota": "Precio de venta cerrada estimado para usado excelente con caja y papeles; el precio pedido queda solo ~10 % por debajo. La foto parece un render promocional, así que conviene pedir fotos reales del reloj."
   },
   "motivo": "triage: Precio de venta cerrada estimado para usado excelente con caja y papeles; el precio pedido queda solo ~10 % por debajo. La foto parece un render promocional, así que conviene pedir fotos reales del reloj. (justo 5000)"
+ },
+ {
+  "fecha": "2026-11-22T22:57:57.247166+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 114200, 34mm",
+  "total": 6300.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920173045977",
+  "item_id": "v1|920173045977|0",
+  "referencia": "114200",
+  "mercado": {
+   "n": 30,
+   "p25": 6850,
+   "mediana": 7515
+  },
+  "ratio_mercado": 0.92,
+  "motivo": "precio normal (92 % del cuartil bajo de 114200)"
+ },
+ {
+  "fecha": "2026-11-22T22:57:57.247166+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 41mm Black Dial/Bezel Auto Steel 300m Box Papers",
+  "total": 15000.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/327470998591",
+  "item_id": "v1|327470998591|0",
+  "triage": {
+   "modelo": "Rolex Submariner Date 41 mm, bisel y esfera negros, acero, brazalete Oyster",
+   "referencia": "126610LN",
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "Generación actual (2020 en adelante). Con caja y papeles se vende en torno a US$13.500-15.000 en el mercado secundario, así que el precio pedido está en el rango alto, no por debajo."
+  },
+  "motivo": "triage: Generación actual (2020 en adelante). Con caja y papeles se vende en torno a US$13.500-15.000 en el mercado secundario, así que el precio pedido está en el rango alto, no por debajo. (justo 14000)"
  }
 ]
