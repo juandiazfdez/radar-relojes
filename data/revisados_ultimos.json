@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-11-19T15:10:19.192812+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex The Perpetual 1908 18 Kt Yellow Gold Watch 52508-0006",
-  "total": 30187.5,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/960216040692",
-  "item_id": "v1|960216040692|0",
-  "referencia": "52508",
-  "mercado": {
-   "n": 3,
-   "p25": 28445,
-   "mediana": 28575
-  },
-  "triage": {
-   "modelo": "Rolex Perpetual 1908 en oro amarillo de 18 k, esfera plateada con índices, segundero pequeño a las 6 y correa de cuero marrón",
-   "referencia": "52508-0006 (según el título; no puedo confirmarla desde la foto)",
-   "precio_justo_usd": 27500,
-   "interesante": false,
-   "nota": "Precio pedido cerca de retail actual para este modelo en oro amarillo; no hay descuento de al menos 15 % frente al mercado secundario."
-  },
-  "motivo": "triage: Precio pedido cerca de retail actual para este modelo en oro amarillo; no hay descuento de al menos 15 % frente al mercado secundario. (justo 27500)"
- },
- {
-  "fecha": "2026-11-19T15:10:19.192812+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Baignoire 1920 WB5004D8 Diamond 18K Yellow Gold Ladies Watch",
-  "total": 26699.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/366822477905",
-  "item_id": "v1|366822477905|0",
-  "triage": {
-   "modelo": "Cartier Baignoire 1920 (oval, bisel de diamantes, oro amarillo 18K, brazalete integrado)",
-   "referencia": "WB5004D8",
-   "precio_justo_usd": 15000,
-   "interesante": false,
-   "nota": "Precio pedido de US$26,699 muy por encima del valor de venta real de esta referencia en oro amarillo con diamantes; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$26,699 muy por encima del valor de venta real de esta referencia en oro amarillo con diamantes; no es una oportunidad. (justo 15000)"
- },
- {
-  "fecha": "2026-11-19T15:10:19.192812+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Panthere WF3072B9 Diamond 18K Yellow Gold Ladies Watch",
   "total": 24699.0,
@@ -10999,5 +10959,39 @@
    "nota": "Precio pedido de US$3325 solo ~10 % bajo el mercado secundario; no cumple el umbral del 15 %. El listado indica año 2026, así que conviene verificar el año y la autenticidad."
   },
   "motivo": "triage: Precio pedido de US$3325 solo ~10 % bajo el mercado secundario; no cumple el umbral del 15 %. El listado indica año 2026, así que conviene verificar el año y la autenticidad. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-22T00:12:14.533480+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 79360N-0002, Full Set, Excellent Condition",
+  "total": 4650.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147691855838",
+  "item_id": "v1|147691855838|0",
+  "referencia": "79360N-0002",
+  "mercado": {
+   "n": 54,
+   "p25": 4600,
+   "mediana": 4947
+  },
+  "ratio_mercado": 1.011,
+  "motivo": "precio normal (101 % del cuartil bajo de 79360N-0002)"
+ },
+ {
+  "fecha": "2026-11-22T00:12:14.533480+00:00",
+  "marca": "Tudor",
+  "titulo": "2024 Tudor Black Bay GMT Pepsi Opaline — Ref. 79830RB Warranty until 7/2029!",
+  "total": 4052.01,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168878759644",
+  "item_id": "v1|168878759644|0",
+  "referencia": "79830RB",
+  "mercado": {
+   "n": 57,
+   "p25": 3750,
+   "mediana": 3960
+  },
+  "ratio_mercado": 1.081,
+  "motivo": "precio normal (108 % del cuartil bajo de 79830RB)"
  }
 ]
