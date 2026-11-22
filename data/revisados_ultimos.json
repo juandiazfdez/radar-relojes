@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-11-19T16:10:19.211958+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere 84783747 18K Yellow Gold Ladies Watch",
-  "total": 20699.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/227621903337",
-  "item_id": "v1|227621903337|0",
-  "triage": {
-   "modelo": "Cartier Panthère de Cartier, cuarzo, mujer, oro amarillo 18K, brazalete de eslabones",
-   "referencia": null,
-   "precio_justo_usd": 10500,
-   "interesante": false,
-   "nota": "Precio pedido muy superior al de venta real de este modelo en oro 18K; la referencia no se puede confirmar en la foto."
-  },
-  "motivo": "triage: Precio pedido muy superior al de venta real de este modelo en oro 18K; la referencia no se puede confirmar en la foto. (justo 10500)"
- },
- {
-  "fecha": "2026-11-19T16:10:19.211958+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Paris 10713 18K Yellow Gold Ladies Watch",
-  "total": 6666.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/227621895198",
-  "item_id": "v1|227621895198|0",
-  "triage": {
-   "modelo": "Cartier Paris de oro amarillo 18K, dial blanco con numerales romanos, correa de cuero negra (cuarzo, vintage)",
-   "referencia": "10713 (según título; no verificable en la imagen)",
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "Reloj vintage de cuarzo en oro 18K, que suele venderse entre US$1.500 y 2.500; el precio pedido de US$6.666 está muy por encima del mercado."
-  },
-  "motivo": "triage: Reloj vintage de cuarzo en oro 18K, que suele venderse entre US$1.500 y 2.500; el precio pedido de US$6.666 está muy por encima del mercado. (justo 2200)"
- },
- {
-  "fecha": "2026-11-19T16:10:19.211958+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR Swiss Made Women's Dress Analog Wristwatch Round Black/Gold, Box",
   "total": 630.0,
@@ -11006,5 +10972,45 @@
   },
   "ratio_mercado": 0.96,
   "motivo": "precio normal (96 % del cuartil bajo de 79540-0006)"
+ },
+ {
+  "fecha": "2026-11-22T02:57:15.156247+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Calibre 18k Rose Gold Diver W7100052 Automatic 42mm DISCONTINUED",
+  "total": 17693.56,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227625551787",
+  "item_id": "v1|227625551787|0",
+  "referencia": "W7100052",
+  "mercado": {
+   "n": 1,
+   "p25": 17997,
+   "mediana": 17997
+  },
+  "triage": {
+   "modelo": "Cartier Calibre de Cartier Diver 42 mm, oro rosa 18k, esfera gris, correa de caucho",
+   "referencia": "W7100052 (según el título, sin verificar)",
+   "precio_justo_usd": 13000,
+   "interesante": false,
+   "nota": "Precio pedido US$17.694 está muy por encima del valor de venta cerrada estimado para este modelo de oro rosa usado, aunque la referencia exacta debe verificarse."
+  },
+  "motivo": "triage: Precio pedido US$17.694 está muy por encima del valor de venta cerrada estimado para este modelo de oro rosa usado, aunque la referencia exacta debe verificarse. (justo 13000)"
+ },
+ {
+  "fecha": "2026-11-22T02:57:15.156247+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Large Model Diamond Automatic . Guaranteed to be authentic by eBa",
+  "total": 8800.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/198811851886",
+  "item_id": "v1|198811851886|0",
+  "triage": {
+   "modelo": "Cartier Santos (modelo grande) con bisel, pulsera y esfera pavimentados con diamantes, aspecto de personalización tipo iced-out",
+   "referencia": null,
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "La pieza parece una personalización de diamantes posterior a la fábrica, no un Santos con diamantes de producción de Cartier, y la garantía de eBay no verifica esa modificación. Un Santos de producción con diamantes costaría bastante más, así que el precio no se puede comparar y hay riesgo de réplica o de pieza alterada."
+  },
+  "motivo": "triage: La pieza parece una personalización de diamantes posterior a la fábrica, no un Santos con diamantes de producción de Cartier, y la garantía de eBay no verifica esa modificación. Un Santos de producción con diamantes costaría bastante más, así que el precio no se puede comparar y hay riesgo de réplica o de pieza alterada. (justo 3000)"
  }
 ]
