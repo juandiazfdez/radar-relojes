@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T17:25:18.865777+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex Cosmograph Daytona \"John Mayer\" 126508 40mm Full Set",
-  "total": 85000.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880133204974",
-  "item_id": "v1|880133204974|0",
-  "referencia": "126508",
-  "mercado": {
-   "n": 12,
-   "p25": 83822,
-   "mediana": 85698
-  },
-  "ratio_mercado": 1.014,
-  "motivo": "precio normal (101 % del cuartil bajo de 126508)"
- },
- {
-  "fecha": "2026-11-19T17:25:18.865777+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 26 69163 Pink Arabic Steel Gold Oyster Ladies Paper 1997",
-  "total": 6525.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257861018251",
-  "item_id": "v1|257861018251|0",
-  "referencia": "69163",
-  "mercado": {
-   "n": 7,
-   "p25": 5094,
-   "mediana": 5590
-  },
-  "ratio_mercado": 1.281,
-  "motivo": "precio normal (128 % del cuartil bajo de 69163)"
- },
- {
   "fecha": "2026-11-19T17:55:29.121499+00:00",
   "marca": "Rolex",
   "titulo": "2023 Rolex GMT-Master II Batman 126710BLNR 40mm Oyster Full Set",
@@ -11019,5 +10985,45 @@
    "nota": "Es solo la caja con esfera, sin movimiento, corona ni correa visibles; la foto es borrosa y no permite verificar autenticidad. Un bubble back completo se vende mucho más alto, pero esta pieza sola vale poco."
   },
   "motivo": "triage: Es solo la caja con esfera, sin movimiento, corona ni correa visibles; la foto es borrosa y no permite verificar autenticidad. Un bubble back completo se vende mucho más alto, pero esta pieza sola vale poco. (justo 250)"
+ },
+ {
+  "fecha": "2026-11-22T15:12:48.355685+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX OYSTER PERPETUAL DATEJUST 2 TONE 178273 MIDSIZE 100% ORIGINAL STEEL GOLD",
+  "total": 11968.5,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960230066450",
+  "item_id": "v1|960230066450|0",
+  "referencia": "178273",
+  "mercado": {
+   "n": 51,
+   "p25": 13870,
+   "mediana": 15468
+  },
+  "ratio_mercado": 0.863,
+  "motivo": "precio normal (86 % del cuartil bajo de 178273)"
+ },
+ {
+  "fecha": "2026-11-22T15:12:48.355685+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 54 M79000N-0001",
+  "total": 4000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336910786309",
+  "item_id": "v1|336910786309|0",
+  "referencia": "M79000N-0001",
+  "mercado": {
+   "n": 1,
+   "p25": 3795,
+   "mediana": 3795
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 54 (37 mm, acero, bisel negro, esfera negra, brazalete de acero)",
+   "referencia": "M79000N-0001",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "El precio pedido de US$4,000 supera el valor de venta cerrada de este modelo en EE. UU. (aprox. US$3,000-3,400 con caja y papeles) y también el retail, así que no hay descuento."
+  },
+  "motivo": "triage: El precio pedido de US$4,000 supera el valor de venta cerrada de este modelo en EE. UU. (aprox. US$3,000-3,400 con caja y papeles) y también el retail, así que no hay descuento. (justo 3200)"
  }
 ]
