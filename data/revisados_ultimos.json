@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T19:25:29.131318+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Pasha C Automatic Watch Stainless Steel 35",
-  "total": 3335.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117530876601",
-  "item_id": "v1|117530876601|0",
-  "triage": {
-   "modelo": "Cartier Pasha C Automatic 35 mm (acero, esfera blanca, brazalete integrado, corona protegida)",
-   "referencia": "W31074M7 (probable, verificar en el caso y en el reverso)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio cercano al mercado para acero de 35 mm en estado Good; sin caja y papeles el margen de negociación es limitado."
-  },
-  "motivo": "triage: Precio cercano al mercado para acero de 35 mm en estado Good; sin caja y papeles el margen de negociación es limitado. (justo 3300)"
- },
- {
-  "fecha": "2026-11-19T19:40:29.507516+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex President Day-Date Yellow Gold Diamond Lugs Mens Watch 118338 Card",
-  "total": 37840.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940106254789",
-  "item_id": "v1|940106254789|0",
-  "referencia": "118338",
-  "mercado": {
-   "n": 4,
-   "p25": 36580,
-   "mediana": 37785
-  },
-  "triage": {
-   "modelo": "Rolex Day-Date 36 oro amarillo con lunetas de diamantes, esfera champán con diamantes",
-   "referencia": "118338",
-   "precio_justo_usd": 27000,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta real estimado para esta referencia en estado usado; el listado indica solo tarjeta, sin papeles completos."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta real estimado para esta referencia en estado usado; el listado indica solo tarjeta, sin papeles completos. (justo 27000)"
- },
- {
   "fecha": "2026-11-19T19:40:29.507516+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Calibre de Cartier 2016 Ref W7100037",
@@ -11007,5 +10967,39 @@
    "nota": "Precio pedido de US$2695 está por encima del rango de reventa estimado para un 1926 Luna nuevo con caja y papeles. El listado contradice la condición: dice 'Unworn' pero marca 'Pre-owned - Excellent'. Verificar."
   },
   "motivo": "triage: Precio pedido de US$2695 está por encima del rango de reventa estimado para un 1926 Luna nuevo con caja y papeles. El listado contradice la condición: dice 'Unworn' pero marca 'Pre-owned - Excellent'. Verificar. (justo 2600)"
+ },
+ {
+  "fecha": "2026-11-22T20:12:48.138056+00:00",
+  "marca": "Rolex",
+  "titulo": "Mens Rolex Submariner 18k Yellow Gold Stainless Steel Watch Black Date Sub 16613",
+  "total": 15000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840156073599",
+  "item_id": "v1|840156073599|0",
+  "referencia": "16613",
+  "mercado": {
+   "n": 94,
+   "p25": 11700,
+   "mediana": 12000
+  },
+  "ratio_mercado": 1.282,
+  "motivo": "precio normal (128 % del cuartil bajo de 16613)"
+ },
+ {
+  "fecha": "2026-11-22T20:12:48.138056+00:00",
+  "marca": "Rolex",
+  "titulo": "36mm Rolex Datejust Oyster Perpetual Two-Tone Jubilee Champagne Dial.",
+  "total": 10050.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206720725918",
+  "item_id": "v1|206720725918|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36mm acero y oro amarillo, bisel acanalado, esfera champán con índices de bastón, brazalete Jubilee",
+   "referencia": "16233 (probable; confirmar número de referencia y año en el reverso de la caja)",
+   "precio_justo_usd": 8800,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta cerrada estimado para una 16233 en condición Good; no cumple el umbral de 15 % por debajo del mercado."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para una 16233 en condición Good; no cumple el umbral de 15 % por debajo del mercado. (justo 8800)"
  }
 ]
