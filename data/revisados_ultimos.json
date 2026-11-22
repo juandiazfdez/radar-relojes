@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-19T19:55:29.505335+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Yacht-Master Titanium 42mm Ref 226627 NEW Full set 2026!",
-  "total": 24500.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/206713588749",
-  "item_id": "v1|206713588749|0",
-  "referencia": "226627",
-  "mercado": {
-   "n": 16,
-   "p25": 26198,
-   "mediana": 28175
-  },
-  "ratio_mercado": 0.935,
-  "motivo": "precio normal (94 % del cuartil bajo de 226627)"
- },
- {
-  "fecha": "2026-11-19T19:55:29.505335+00:00",
-  "marca": "Rolex",
   "titulo": "1972 Rolex Oyster Perpetual Date – Ref. 1503",
   "total": 12500.0,
   "condicion": "Pre-owned - Excellent",
@@ -11008,5 +10991,22 @@
    "nota": "Precio pedido por encima del valor estimado de mercado para esta referencia en condición Good; no cumple el umbral de 15% por debajo."
   },
   "motivo": "triage: Precio pedido por encima del valor estimado de mercado para esta referencia en condición Good; no cumple el umbral de 15% por debajo. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-22T22:12:56.895228+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Geneve Chronograph Men's Quartz Watch Stainless Steel Tachymeter 40mm",
+  "total": 2150.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900113325032",
+  "item_id": "v1|900113325032|0",
+  "triage": {
+   "modelo": "Tudor Geneve Chronograph de cuarzo, acero, bisel taquimétrico, esfera negra con subdiales blancos",
+   "referencia": "20300 (probable, no confirmada)",
+   "precio_justo_usd": 700,
+   "interesante": false,
+   "nota": "Cronógrafo de cuarzo de los años 2000, de valor de reventa moderado; US$2150 está muy por encima de lo que se paga realmente."
+  },
+  "motivo": "triage: Cronógrafo de cuarzo de los años 2000, de valor de reventa moderado; US$2150 está muy por encima de lo que se paga realmente. (justo 700)"
  }
 ]
