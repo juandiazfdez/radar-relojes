@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-19T20:10:28.654981+00:00",
   "marca": "Tudor",
-  "titulo": "2021 Tudor Black Bay GMT M79830RB-0001 Black Index W Complete 41mm",
-  "total": 3545.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366823008035",
-  "item_id": "v1|366823008035|0",
-  "referencia": "M79830RB-0001",
-  "mercado": {
-   "n": 19,
-   "p25": 4000,
-   "mediana": 4297
-  },
-  "ratio_mercado": 0.886,
-  "motivo": "precio normal (89 % del cuartil bajo de M79830RB-0001)"
- },
- {
-  "fecha": "2026-11-19T20:10:28.654981+00:00",
-  "marca": "Tudor",
   "titulo": "2023 Tudor Black Bay Chrono M79360N-0001 Black Complete 41mm",
   "total": 4125.0,
   "condicion": "Pre-owned - Excellent",
@@ -11015,5 +10998,22 @@
    "nota": "Precio cercano al mercado para esta referencia con esfera de gemas; no hay descuento de 15 % y la esfera podría ser de reemplazo, lo que resta valor."
   },
   "motivo": "triage: Precio cercano al mercado para esta referencia con esfera de gemas; no hay descuento de 15 % y la esfera podría ser de reemplazo, lo que resta valor. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-22T23:57:57.264675+00:00",
+  "marca": "Rolex",
+  "titulo": "New Rolex Datejust 36 Steel & Gold 16233 Oyster White Roman, box & papers",
+  "total": 5400.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407382086432",
+  "item_id": "v1|407382086432|0",
+  "referencia": "16233",
+  "mercado": {
+   "n": 24,
+   "p25": 5399,
+   "mediana": 6030
+  },
+  "ratio_mercado": 1.0,
+  "motivo": "precio normal (100 % del cuartil bajo de 16233)"
  }
 ]
