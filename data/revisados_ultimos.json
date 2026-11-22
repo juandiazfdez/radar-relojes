@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-11-19T18:25:28.636503+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX REHAUT 40mm Platinum & Stainless Steel YachtMaster 16622 SANT BLANC",
-  "total": 11950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/377659561912",
-  "item_id": "v1|377659561912|0",
-  "referencia": "16622",
-  "mercado": {
-   "n": 26,
-   "p25": 10250,
-   "mediana": 11283
-  },
-  "ratio_mercado": 1.166,
-  "motivo": "precio normal (117 % del cuartil bajo de 16622)"
- },
- {
-  "fecha": "2026-11-19T18:25:28.636503+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 28mm White Gold Diamond Ladies Quartz Watch WE9003Z3",
-  "total": 24949.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137944888235",
-  "item_id": "v1|137944888235|0",
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 28 mm, bisel de diamantes, cuarzo, dama",
-   "referencia": "WE9003Z3 (según título; la foto podría corresponder a la variante de acero WE9002Z3, por verificar)",
-   "precio_justo_usd": 12500,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de venta real para este modelo de oro blanco con diamantes usado; no hay descuento."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de venta real para este modelo de oro blanco con diamantes usado; no hay descuento. (justo 12500)"
- },
- {
-  "fecha": "2026-11-19T18:25:28.636503+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Ballon Bleu 42mm Stainless Steel Automatic Men's Watch W69012Z4",
   "total": 6299.0,
@@ -11013,5 +10979,39 @@
    "nota": "Precio pedido por encima de lo que se vende este modelo nuevo con papeles en el mercado secundario; no hay descuento suficiente. La mención 'Boutique Edition' no la puedo verificar en la foto."
   },
   "motivo": "triage: Precio pedido por encima de lo que se vende este modelo nuevo con papeles en el mercado secundario; no hay descuento suficiente. La mención 'Boutique Edition' no la puedo verificar en la foto. (justo 4200)"
+ },
+ {
+  "fecha": "2026-11-22T16:42:48.020272+00:00",
+  "marca": "Rolex",
+  "titulo": "rolex daytona two tone OYSTER PERPETUAL SUPERLATIVE CHRONOMETER",
+  "total": 23409.39,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327470521710",
+  "item_id": "v1|327470521710|0",
+  "triage": {
+   "modelo": "Rolex Daytona bicolor (acero y oro amarillo), esfera blanca/nácar, pulsera Oyster",
+   "referencia": "116523 (probable; verificar número en la caja y en la entrada entre cuernos)",
+   "precio_justo_usd": 24000,
+   "interesante": false,
+   "nota": "Precio pedido muy cercano al valor de mercado para esta referencia en buen estado; no hay descuento de al menos 15 %. Confirmar referencia, esfera y autenticidad antes de comprar."
+  },
+  "motivo": "triage: Precio pedido muy cercano al valor de mercado para esta referencia en buen estado; no hay descuento de al menos 15 %. Confirmar referencia, esfera y autenticidad antes de comprar. (justo 24000)"
+ },
+ {
+  "fecha": "2026-11-22T16:42:48.020272+00:00",
+  "marca": "Tudor",
+  "titulo": "2024 Tudor Pelagos FXD GMT Titanium 42mm M2542G247NU-0002",
+  "total": 5100.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960230305983",
+  "item_id": "v1|960230305983|0",
+  "triage": {
+   "modelo": "Tudor Pelagos FXD GMT (titanio, 42 mm)",
+   "referencia": "null (la referencia del listado, M2542G247NU-0002, no es verificable en la foto)",
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "Pedido de US$5100 muy por encima del valor de venta cerrada de un Pelagos FXD GMT de titanio 2024 usado en excelente estado; la referencia del título también debe verificarse."
+  },
+  "motivo": "triage: Pedido de US$5100 muy por encima del valor de venta cerrada de un Pelagos FXD GMT de titanio 2024 usado en excelente estado; la referencia del título también debe verificarse. (justo 3600)"
  }
 ]
