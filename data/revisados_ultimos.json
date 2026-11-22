@@ -1,51 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T19:40:29.507516+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu Black 2018 Ref WSBB0015",
-  "total": 4150.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960217024477",
-  "item_id": "v1|960217024477|0",
-  "referencia": "WSBB0015",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu de Cartier 42 mm, caja negra PVD/DLC con esfera negra y correa de cuero negra",
-   "referencia": "WSBB0015",
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "Precio cercano al mercado para este modelo de 2018 en estado Good; el descuento es menor al 15 % y no se ven papeles confirmados."
-  },
-  "motivo": "triage: Precio cercano al mercado para este modelo de 2018 en estado Good; el descuento es menor al 15 % y no se ven papeles confirmados. (justo 4500)"
- },
- {
-  "fecha": "2026-11-19T19:40:29.507516+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Large Full Set 2018 WSSA0009",
-  "total": 7460.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960217018386",
-  "item_id": "v1|960217018386|0",
-  "referencia": "WSSA0009",
-  "mercado": {
-   "n": 1,
-   "p25": 6240,
-   "mediana": 6240
-  },
-  "triage": {
-   "modelo": "Cartier Santos de Cartier Large (acero, esfera blanca, numerales romanos, automático)",
-   "referencia": "WSSA0009",
-   "precio_justo_usd": 6500,
-   "interesante": false,
-   "nota": "Precio pedido US$7460 con envío está por encima del mercado de segunda mano para esta referencia (aprox. US$6000-7000 con caja y papeles); no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido US$7460 con envío está por encima del mercado de segunda mano para esta referencia (aprox. US$6000-7000 con caja y papeles); no hay descuento suficiente. (justo 6500)"
- },
- {
   "fecha": "2026-11-19T19:55:29.505335+00:00",
   "marca": "Rolex",
   "titulo": "Vintage 1968 Rolex Oyster Perpetual Watch in Stainless Steel w/Gold Cap Ref.1024",
@@ -11001,5 +10955,52 @@
    "nota": "Precio pedido de US$4230 supera el retail y el mercado secundario de este modelo; no es una oportunidad."
   },
   "motivo": "triage: Precio pedido de US$4230 supera el retail y el mercado secundario de este modelo; no es una oportunidad. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-22T21:12:57.693850+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 16613 40mm 18K Gold & Steel L-Serial Circa 1989 Watch Only",
+  "total": 9994.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860168416771",
+  "item_id": "v1|860168416771|0",
+  "referencia": "16613",
+  "mercado": {
+   "n": 94,
+   "p25": 11700,
+   "mediana": 12000
+  },
+  "ratio_mercado": 0.854,
+  "motivo": "precio normal (85 % del cuartil bajo de 16613)"
+ },
+ {
+  "fecha": "2026-11-22T21:12:57.693850+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Princess Oysterdate Date 92414N Silver",
+  "total": 849.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900113242633",
+  "item_id": "v1|900113242633|0",
+  "referencia": "92414N",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Princess Oysterdate Date (acero, esfera plateada, brazalete Jubilee, con caja Tudor)",
+   "referencia": "92414N",
+   "precio_justo_usd": 1100,
+   "interesante": true,
+   "nota": "Precio ~23 % bajo el valor estimado de venta cerrada en EE. UU. para 92414N usado en buen estado; verificar autenticidad, papeles y funcionamiento antes de comprar, porque un precio tan bajo para Tudor suele indicar replica o pieza con problemas."
+  },
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 950,
+   "riesgo_autenticidad": "medio",
+   "estado": "Buen estado cosmético aparente; caja y librito originales, sin papeles ni foto del fondo de caja"
+  },
+  "ratio_justo": 0.895,
+  "motivo": "precio normal segun revision (90 % del justo 950)"
  }
 ]
