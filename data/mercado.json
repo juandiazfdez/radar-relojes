@@ -6985,10 +6985,10 @@
   "max": 14000
  },
  "Rolex 16713|usado": {
-  "fecha": "2026-11-20",
+  "fecha": "2026-11-22",
   "consulta": "Rolex 16713",
-  "n": 36,
-  "mediana": 12841,
+  "n": 37,
+  "mediana": 12938,
   "p25": 12090,
   "p75": 14978,
   "min": 10795,
@@ -19155,13 +19155,13 @@
   "max": 6000
  },
  "Rolex 124060|nuevo": {
-  "fecha": "2026-11-20",
+  "fecha": "2026-11-22",
   "consulta": "Rolex 124060",
-  "n": 23,
-  "mediana": 14775,
-  "p25": 14395,
+  "n": 24,
+  "mediana": 14762,
+  "p25": 14495,
   "p75": 15610,
-  "min": 14000,
+  "min": 13899,
   "max": 22999
  },
  "Cartier WSSA0032|usado": {
@@ -22482,6 +22482,11 @@
  "Tudor 92414N|usado": {
   "fecha": "2026-11-22",
   "consulta": "Tudor 92414N",
+  "n": 0
+ },
+ "Rolex 116619LB|nuevo": {
+  "fecha": "2026-11-22",
+  "consulta": "Rolex 116619LB",
   "n": 0
  }
 }
