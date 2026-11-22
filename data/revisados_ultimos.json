@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-19T16:25:18.756399+00:00",
   "marca": "Tudor",
-  "titulo": "New 2026 Tudor Black Bay 58 GMT 10/26 7939G1A0NRU “Coke”",
-  "total": 4798.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/257860923015",
-  "item_id": "v1|257860923015|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 GMT \"Coke\" (bisel rojo/negro, pulsera Jubilee)",
-   "referencia": "7939G1A0NRU",
-   "precio_justo_usd": 3900,
-   "interesante": false,
-   "nota": "Nuevo con caja y papeles, el precio pedido de US$4798 está por encima de lo que se vende en el mercado gris; no hay descuento claro."
-  },
-  "motivo": "triage: Nuevo con caja y papeles, el precio pedido de US$4798 está por encima de lo que se vende en el mercado gris; no hay descuento claro. (justo 3900)"
- },
- {
-  "fecha": "2026-11-19T16:25:18.756399+00:00",
-  "marca": "Tudor",
   "titulo": "New 2026 Tudor Black Bay Chrono Carbon 26 42mm 11/26 Ref#79377KN",
   "total": 6648.0,
   "condicion": "New with box and papers",
@@ -11025,5 +11008,22 @@
   },
   "ratio_justo": 1.154,
   "motivo": "precio normal segun revision (115 % del justo 3900)"
+ },
+ {
+  "fecha": "2026-11-22T03:57:27.916649+00:00",
+  "marca": "Cartier",
+  "titulo": "CARTIER SANTOS 100 Medium S/Steel & Rose Gold 33x44mm Minty",
+  "total": 5599.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287748239194",
+  "item_id": "v1|287748239194|0",
+  "triage": {
+   "modelo": "Cartier Santos 100 Medium, acero y oro rosa, con correa de piel negra",
+   "referencia": null,
+   "precio_justo_usd": 4800,
+   "interesante": false,
+   "nota": "Precio pedido de US$5,599 por encima de la venta real estimada para esta talla y materiales; la foto no permite confirmar la referencia exacta ni el estado de caja y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$5,599 por encima de la venta real estimada para esta talla y materiales; la foto no permite confirmar la referencia exacta ni el estado de caja y papeles. (justo 4800)"
  }
 ]
