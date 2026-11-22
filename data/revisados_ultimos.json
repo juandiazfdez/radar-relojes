@@ -2,30 +2,6 @@
  {
   "fecha": "2026-11-19T19:10:28.953160+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex ref 6719 ladies",
-  "total": 2824.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/860159134950",
-  "item_id": "v1|860159134950|0",
-  "referencia": "6719",
-  "mercado": {
-   "n": 16,
-   "p25": 4300,
-   "mediana": 6548
-  },
-  "ratio_mercado": 0.657,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 3000,
-   "riesgo_autenticidad": "medio",
-   "estado": "Aspecto de pieza usada con cristal acrílico muy rayado, esfera con marcas, caja y brazalete con desgaste, sin servicio"
-  },
-  "ratio_justo": 0.941,
-  "motivo": "precio normal segun revision (94 % del justo 3000)"
- },
- {
-  "fecha": "2026-11-19T19:10:28.953160+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust 126331 Wimbledon 41MM 18K Rose & SS Jubilee Dress Watch. 2/2020.",
   "total": 16540.0,
   "condicion": "Pre-owned - Good",
@@ -11020,5 +10996,22 @@
    "nota": "Precio pedido US$4700 sin caja ni papeles, muy por encima del mercado de venta cerrada (~US$2800-3800). Título dice 'Roadster S', pero el modelo visible es el XL automático."
   },
   "motivo": "triage: Precio pedido US$4700 sin caja ni papeles, muy por encima del mercado de venta cerrada (~US$2800-3800). Título dice 'Roadster S', pero el modelo visible es el XL automático. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-22T18:42:48.008273+00:00",
+  "marca": "Rolex",
+  "titulo": "2024 Rolex Daytona 126500LN 40mm",
+  "total": 35799.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168880231930",
+  "item_id": "v1|168880231930|0",
+  "referencia": "126500LN",
+  "mercado": {
+   "n": 15,
+   "p25": 33895,
+   "mediana": 36332
+  },
+  "ratio_mercado": 1.056,
+  "motivo": "precio normal (106 % del cuartil bajo de 126500LN)"
  }
 ]
