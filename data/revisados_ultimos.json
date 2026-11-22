@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T16:40:19.168326+00:00",
-  "marca": "Rolex",
-  "titulo": "VINTAGE 1963 ROLEX GMT-MASTER 1675 WATCH CASE",
-  "total": 7500.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/860158778614",
-  "item_id": "v1|860158778614|0",
-  "triage": {
-   "modelo": "Rolex GMT-Master (caja sola, acero)",
-   "referencia": "1675",
-   "precio_justo_usd": 400,
-   "interesante": false,
-   "nota": "Solo se ve una caja vacía sin esfera, movimiento ni corona; el precio de US$7500 corresponde a un reloj completo, por lo que el listado parece engañoso."
-  },
-  "motivo": "triage: Solo se ve una caja vacía sin esfera, movimiento ni corona; el precio de US$7500 corresponde a un reloj completo, por lo que el listado parece engañoso. (justo 400)"
- },
- {
-  "fecha": "2026-11-19T16:55:19.425222+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 1940's Rolex Reference 4315 17 Jewel Mechanical Men's Watch S/N 273910",
-  "total": 2505.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287741743666",
-  "item_id": "v1|287741743666|0",
-  "referencia": "273910",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex vintage años 1940, caja de acero, cuerda manual, esfera crema patinada con numerales arábigos (estilo militar)",
-   "referencia": "4315 (según el título, no verificable en la foto)",
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "Precio pedido de US$2506 está por encima de la estimación; la esfera patinada y la falta de caja y papeles limitan el valor."
-  },
-  "motivo": "triage: Precio pedido de US$2506 está por encima de la estimación; la esfera patinada y la falta de caja y papeles limitan el valor. (justo 2200)"
- },
- {
-  "fecha": "2026-11-19T16:55:19.425222+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Montre Vintage Cartier Must 21 Bracelet En Cuir Watch",
-  "total": 1058.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267848231494",
-  "item_id": "v1|267848231494|0",
-  "triage": {
-   "modelo": "Cartier Must de Cartier 21 (acero y vermeil, cuarzo)",
-   "referencia": "1330 (probable; confirmar en la caja del cierre)",
-   "precio_justo_usd": 650,
-   "interesante": false,
-   "nota": "Must 21 de cuarzo bicolor con correa de piel en condición Good; el precio pedido de US$1058 con envío supera con creces lo que suele cerrar este modelo en EE. UU."
-  },
-  "motivo": "triage: Must 21 de cuarzo bicolor con correa de piel en condición Good; el precio pedido de US$1058 con envío supera con creces lo que suele cerrar este modelo en EE. UU. (justo 650)"
- },
- {
   "fecha": "2026-11-19T17:10:19.592481+00:00",
   "marca": "Rolex",
   "titulo": "Vintage 1940s Rolex 5020 Oyster Elegante Gold-Filled Watch Parts Or Restore Read",
@@ -11025,5 +10968,56 @@
   },
   "ratio_mercado": 0.885,
   "motivo": "precio normal (88 % del cuartil bajo de 14060M)"
+ },
+ {
+  "fecha": "2026-11-22T05:27:27.996552+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Air King 126900 Stainless Steel 40mm Watch Full Set 2023",
+  "total": 8800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237198364902",
+  "item_id": "v1|237198364902|0",
+  "referencia": "126900",
+  "mercado": {
+   "n": 25,
+   "p25": 9500,
+   "mediana": 10097
+  },
+  "ratio_mercado": 0.926,
+  "motivo": "precio normal (93 % del cuartil bajo de 126900)"
+ },
+ {
+  "fecha": "2026-11-22T05:27:27.996552+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage TUDOR Prince Oysterdate Ref. 7966 - Original Rolex Ref. 7835 Bracelet",
+  "total": 1909.14,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227625704964",
+  "item_id": "v1|227625704964|0",
+  "triage": {
+   "modelo": "Tudor Prince Oysterdate (acero, esfera plateada, ventana de fecha a las 3)",
+   "referencia": "7966",
+   "precio_justo_usd": 1500,
+   "interesante": false,
+   "nota": "Precio por encima del valor de mercado; el brazalete Rolex 7835 no es el original de esta referencia, así que no suma valor."
+  },
+  "motivo": "triage: Precio por encima del valor de mercado; el brazalete Rolex 7835 no es el original de esta referencia, así que no suma valor. (justo 1500)"
+ },
+ {
+  "fecha": "2026-11-22T05:27:27.996552+00:00",
+  "marca": "Rolex",
+  "titulo": "gold 18k Geneve rolex watch for sale",
+  "total": 15000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860166672728",
+  "item_id": "v1|860166672728|0",
+  "triage": {
+   "modelo": "Rolex Day-Date (President) en oro amarillo 18k, esfera champán con índices de diamante, brazalete President",
+   "referencia": null,
+   "precio_justo_usd": 22000,
+   "interesante": false,
+   "nota": "Título sospechoso ('Geneve' no es marca Rolex) y foto de baja calidad; no se puede verificar autenticidad ni referencia. Aunque el precio parece bajo, hay riesgo de réplica o de chapado en oro."
+  },
+  "motivo": "triage: Título sospechoso ('Geneve' no es marca Rolex) y foto de baja calidad; no se puede verificar autenticidad ni referencia. Aunque el precio parece bajo, hay riesgo de réplica o de chapado en oro. (justo 22000)"
  }
 ]
