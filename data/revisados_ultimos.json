@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-19T15:10:19.192812+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere WF3072B9 Diamond 18K Yellow Gold Ladies Watch",
-  "total": 24699.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/366822454667",
-  "item_id": "v1|366822454667|0",
-  "triage": {
-   "modelo": "Cartier Panthère de oro amarillo 18k con bisel de diamantes (talla pequeña, cuarzo)",
-   "referencia": "WF3072B9",
-   "precio_justo_usd": 14000,
-   "interesante": false,
-   "nota": "El precio pedido de US$24,699 está muy por encima de lo que se vende este modelo de segunda mano en EE. UU.; no hay margen de compra."
-  },
-  "motivo": "triage: El precio pedido de US$24,699 está muy por encima de lo que se vende este modelo de segunda mano en EE. UU.; no hay margen de compra. (justo 14000)"
- },
- {
-  "fecha": "2026-11-19T15:10:19.192812+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay Fifty-Eight 79030B 39mm Blue Steel Mens Watch Box Card",
   "total": 3625.0,
@@ -10993,5 +10976,22 @@
   },
   "ratio_mercado": 1.081,
   "motivo": "precio normal (108 % del cuartil bajo de 79830RB)"
+ },
+ {
+  "fecha": "2026-11-22T00:27:15.033387+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX DAY-DATE 36mm 18K  Gold President Champagne | Rolex Serviced | Complete!",
+  "total": 23995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168878783183",
+  "item_id": "v1|168878783183|0",
+  "triage": {
+   "modelo": "Rolex Day-Date 36 oro amarillo 18K, bisel acanalado, esfera champagne, brazalete President",
+   "referencia": "18238 (posible 18038; confirmar número de serie y referencia en el reverso de la caja o con el listado completo)",
+   "precio_justo_usd": 25000,
+   "interesante": false,
+   "nota": "Precio pedido unos 4 % por debajo de una estimación conservadora; sin descuento suficiente para ser interesante. Verificar autenticidad, servicio y papeles."
+  },
+  "motivo": "triage: Precio pedido unos 4 % por debajo de una estimación conservadora; sin descuento suficiente para ser interesante. Verificar autenticidad, servicio y papeles. (justo 25000)"
  }
 ]
