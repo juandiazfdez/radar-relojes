@@ -7220,11 +7220,11 @@
   "max": 5270
  },
  "Cartier WSSA0017|usado": {
-  "fecha": "2026-11-21",
+  "fecha": "2026-11-22",
   "consulta": "Cartier WSSA0017",
-  "n": 12,
-  "mediana": 9374,
-  "p25": 8950,
+  "n": 13,
+  "mediana": 9249,
+  "p25": 8510,
   "p75": 9850,
   "min": 7840,
   "max": 10995
@@ -17570,9 +17570,14 @@
   "n": 0
  },
  "Cartier WSTA0053|nuevo": {
-  "fecha": "2026-10-31",
+  "fecha": "2026-11-22",
   "consulta": "Cartier WSTA0053",
-  "n": 0
+  "n": 1,
+  "mediana": 5795,
+  "p25": 5795,
+  "p75": 5795,
+  "min": 5795,
+  "max": 5795
  },
  "Rolex 278243|nuevo": {
   "fecha": "2026-10-31",
