@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-19T19:40:29.507516+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu Pink Mother of Pearl Two Tone 2017 Ref W6920034",
-  "total": 4670.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960217027517",
-  "item_id": "v1|960217027517|0",
-  "referencia": "W6920034",
-  "mercado": {
-   "n": 7,
-   "p25": 4895,
-   "mediana": 5820
-  },
-  "ratio_mercado": 0.954,
-  "motivo": "precio normal (95 % del cuartil bajo de W6920034)"
- },
- {
-  "fecha": "2026-11-19T19:40:29.507516+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Ballon Bleu Black 2018 Ref WSBB0015",
   "total": 4150.0,
   "condicion": "Pre-owned - Good",
@@ -11001,5 +10984,22 @@
   },
   "ratio_mercado": 0.941,
   "motivo": "precio normal (94 % del cuartil bajo de 79830RB)"
+ },
+ {
+  "fecha": "2026-11-22T20:57:57.145673+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 GMT Coke 39mm 2024 Ref. 7939G1A0NRU Full Set",
+  "total": 4230.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920172782174",
+  "item_id": "v1|920172782174|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 'Coke' 39mm (bisel negro/rojo, brazalete de acero)",
+   "referencia": "7939G1A0NRU (no verificable en la foto)",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Precio pedido de US$4230 supera el retail y el mercado secundario de este modelo; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$4230 supera el retail y el mercado secundario de este modelo; no es una oportunidad. (justo 3500)"
  }
 ]
