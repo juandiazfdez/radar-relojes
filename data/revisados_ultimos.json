@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-19T21:10:29.550564+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Datejust 41, Bright Black Diamond Dial, Steel & Gold, 126303",
-  "total": 22256.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/366823125648",
-  "item_id": "v1|366823125648|0",
-  "referencia": "126303",
-  "mercado": {
-   "n": 20,
-   "p25": 16217,
-   "mediana": 17838
-  },
-  "ratio_mercado": 1.372,
-  "motivo": "precio normal (137 % del cuartil bajo de 126303)"
- },
- {
-  "fecha": "2026-11-19T21:10:29.550564+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust 41, 126300, Steel, White Roman, Oyster Bracelet",
   "total": 13072.0,
   "condicion": "New with box and papers",
@@ -11015,5 +10998,22 @@
   },
   "ratio_mercado": 1.132,
   "motivo": "precio normal (113 % del cuartil bajo de 79360B)"
+ },
+ {
+  "fecha": "2026-11-23T09:58:19.816239+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Fifty-Eight 925 39mm M79010SG Silver 2025",
+  "total": 4750.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147693967804",
+  "item_id": "v1|147693967804|0",
+  "referencia": "M79010SG",
+  "mercado": {
+   "n": 5,
+   "p25": 3996,
+   "mediana": 4065
+  },
+  "ratio_mercado": 1.189,
+  "motivo": "precio normal (119 % del cuartil bajo de M79010SG)"
  }
 ]
