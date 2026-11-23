@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-19T20:25:29.395805+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Tank Louis WGTA0092",
-  "total": 12200.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147688449003",
-  "item_id": "v1|147688449003|0",
-  "referencia": "WGTA0092",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Tank Louis (oro rosa, esfera gris, correa de piel oscura)",
-   "referencia": "WGTA0092 (según el título, no verificable en la foto)",
-   "precio_justo_usd": 11000,
-   "interesante": false,
-   "nota": "Precio pedido de US$12,200 está por encima del valor estimado de venta para oro rosa, sin verificar caja, papeles ni autenticidad en la foto."
-  },
-  "motivo": "triage: Precio pedido de US$12,200 está por encima del valor estimado de venta para oro rosa, sin verificar caja, papeles ni autenticidad en la foto. (justo 11000)"
- },
- {
-  "fecha": "2026-11-19T20:25:29.395805+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Santos-Dumont WSSA0085",
   "total": 4850.0,
   "condicion": "Pre-owned - Excellent",
@@ -11027,5 +11004,22 @@
    "nota": "Reloj vintage de dama en oro 14k; la imagen es de baja resolución y no permite confirmar la referencia. Con papeles de servicio y estado Good, el precio de venta realista ronda 1.800-2.800 USD, muy por debajo del pedido de 4.500 USD."
   },
   "motivo": "triage: Reloj vintage de dama en oro 14k; la imagen es de baja resolución y no permite confirmar la referencia. Con papeles de servicio y estado Good, el precio de venta realista ronda 1.800-2.800 USD, muy por debajo del pedido de 4.500 USD. (justo 2200)"
+ },
+ {
+  "fecha": "2026-11-23T01:42:57.328582+00:00",
+  "marca": "Rolex",
+  "titulo": "1940's Rolex Bubbleback 14k Gold Watch - Serviced",
+  "total": 6220.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940115387742",
+  "item_id": "v1|940115387742|0",
+  "triage": {
+   "modelo": "Rolex Bubbleback (años 1940), caja de oro 14k",
+   "referencia": "null",
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "Referencia no identificable en la foto; precio pedido por encima del valor estimado para un Bubbleback de oro 14k de los 40 con servicio, sin caja ni papeles."
+  },
+  "motivo": "triage: Referencia no identificable en la foto; precio pedido por encima del valor estimado para un Bubbleback de oro 14k de los 40 con servicio, sin caja ni papeles. (justo 4500)"
  }
 ]
