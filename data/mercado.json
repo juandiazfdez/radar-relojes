@@ -3520,14 +3520,14 @@
   "max": 3999
  },
  "Cartier W2007051|usado": {
-  "fecha": "2026-10-21",
+  "fecha": "2026-11-23",
   "consulta": "Cartier W2007051",
-  "n": 2,
-  "mediana": 8948,
-  "p25": 8900,
-  "p75": 8995,
-  "min": 8900,
-  "max": 8995
+  "n": 3,
+  "mediana": 8995,
+  "p25": 7100,
+  "p75": 10699,
+  "min": 7100,
+  "max": 10699
  },
  "Tudor 79833MN|usado": {
   "fecha": "2026-11-21",
@@ -22517,6 +22517,11 @@
  "Tudor 57000|usado": {
   "fecha": "2026-11-23",
   "consulta": "Tudor 57000",
+  "n": 0
+ },
+ "Cartier W1556204|usado": {
+  "fecha": "2026-11-23",
+  "consulta": "Cartier W1556204",
   "n": 0
  }
 }

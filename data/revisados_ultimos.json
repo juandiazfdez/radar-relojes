@@ -1,51 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T21:40:28.696188+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 33mm WE902077 18K Rose Gold/Stainless Steel Unisex Watch",
-  "total": 9364.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960217630060",
-  "item_id": "v1|960217630060|0",
-  "referencia": "WE902077",
-  "mercado": {
-   "n": 3,
-   "p25": 10540,
-   "mediana": 11700
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 33 mm automático, acero y oro rosa 18K, bisel de diamantes, esfera blanca con numerales romanos y diamantes en los índices",
-   "referencia": "WE902077",
-   "precio_justo_usd": 8000,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor estimado de reventa para esta referencia en estado Good; no hay descuento claro."
-  },
-  "motivo": "triage: Precio pedido por encima del valor estimado de reventa para esta referencia en estado Good; no hay descuento claro. (justo 8000)"
- },
- {
-  "fecha": "2026-11-19T21:40:28.696188+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier La Dona 22mm W640020H 18K Rose Gold Women's Watch",
-  "total": 19355.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960217629633",
-  "item_id": "v1|960217629633|0",
-  "referencia": "W640020H",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier La Dona (tonneau, cuarzo, oro 18K, esfera plateada con numerales romanos, pulsera de oro tejido)",
-   "referencia": "W640020H",
-   "precio_justo_usd": 10500,
-   "interesante": false,
-   "nota": "Precio pedido de US$19,355 muy por encima del valor de venta cerrada de un La Dona pequeño de oro 18K usado en condición Good; además, el listado no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$19,355 muy por encima del valor de venta cerrada de un La Dona pequeño de oro 18K usado en condición Good; además, el listado no es una oportunidad. (justo 10500)"
- },
- {
   "fecha": "2026-11-19T21:55:29.301282+00:00",
   "marca": "Rolex",
   "titulo": "2026 Rolex Oyster Perpetual 36 126000 Turquoise Blue Index Oyster Complete",
@@ -10945,5 +10899,51 @@
   },
   "ratio_mercado": 1.154,
   "motivo": "precio normal (115 % del cuartil bajo de 126234)"
+ },
+ {
+  "fecha": "2026-11-23T16:28:31.792240+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Rotonde de Cartier Astrotourbillon 18k White Gold 47mm W1556204 3307",
+  "total": 40064.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168882525926",
+  "item_id": "v1|168882525926|0",
+  "referencia": "W1556204",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Rotonde de Cartier Astrotourbillon (oro blanco 18k, 47 mm); la foto no muestra claramente el tourbillón",
+   "referencia": "W1556204",
+   "precio_justo_usd": 75000,
+   "interesante": false,
+   "nota": "Precio muy bajo para un tourbillón de Cartier en oro blanco; la foto no confirma la complicación y el listado parece dudoso, así que no se considera oportunidad sin verificar autenticidad, papeles y pieza exacta."
+  },
+  "motivo": "triage: Precio muy bajo para un tourbillón de Cartier en oro blanco; la foto no confirma la complicación y el listado parece dudoso, así que no se considera oportunidad sin verificar autenticidad, papeles y pieza exacta. (justo 75000)"
+ },
+ {
+  "fecha": "2026-11-23T16:28:31.792240+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos-Dumont 35mm 18k White Gold W2007051 - 2014",
+  "total": 10785.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/117538143708",
+  "item_id": "v1|117538143708|0",
+  "referencia": "W2007051",
+  "mercado": {
+   "n": 3,
+   "p25": 7100,
+   "mediana": 8995
+  },
+  "triage": {
+   "modelo": "Cartier Santos-Dumont (la foto muestra esfera plateada con números romanos y correa de cocodrilo, que no coincide claramente con el oro blanco del título)",
+   "referencia": "W2007051 (según el título, no verificable en la foto)",
+   "precio_justo_usd": 9800,
+   "interesante": false,
+   "nota": "El título dice oro blanco 18k de 35 mm, pero la foto parece acero y de mayor tamaño, así que el listado puede ser engañoso. Aun tomando el título, US$10,785 con 'seller refurbished' no está al menos 15 % por debajo del valor de venta real."
+  },
+  "motivo": "triage: El título dice oro blanco 18k de 35 mm, pero la foto parece acero y de mayor tamaño, así que el listado puede ser engañoso. Aun tomando el título, US$10,785 con 'seller refurbished' no está al menos 15 % por debajo del valor de venta real. (justo 9800)"
  }
 ]
