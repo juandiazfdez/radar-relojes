@@ -1,211 +1,5 @@
 [
  {
-  "fecha": "2026-11-20T03:25:39.875023+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust in 18k yellow gold and stainless steel",
-  "total": 14524.39,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206714338175",
-  "item_id": "v1|206714338175|0",
-  "triage": {
-   "modelo": "Rolex Datejust 41 (Oyster two-tone, bisel acanalado de oro amarillo 18k, esfera champán con índices de barra)",
-   "referencia": "126333 (posible 116333, según generación)",
-   "precio_justo_usd": 15000,
-   "interesante": false,
-   "nota": "Precio pedido cercano al valor de mercado para este modelo en estado Good; sin margen de 15% y sin confirmar caja ni papeles."
-  },
-  "motivo": "triage: Precio pedido cercano al valor de mercado para este modelo en estado Good; sin margen de 15% y sin confirmar caja ni papeles. (justo 15000)"
- },
- {
-  "fecha": "2026-11-20T03:25:39.875023+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay Pro M79470-0001 Full set",
-  "total": 3200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920162480028",
-  "item_id": "v1|920162480028|0",
-  "referencia": "M79470-0001",
-  "mercado": {
-   "n": 8,
-   "p25": 3600,
-   "mediana": 3847
-  },
-  "ratio_mercado": 0.889,
-  "motivo": "precio normal (89 % del cuartil bajo de M79470-0001)"
- },
- {
-  "fecha": "2026-11-20T03:40:40.350743+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX Vintage 14K Yellow Gold 34mm  Oyster Perpetual Date # 1500 Box Warranty",
-  "total": 7190.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237193667500",
-  "item_id": "v1|237193667500|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date (vintage, oro amarillo, esfera champán)",
-   "referencia": "1500",
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "Ref. 1500 en oro amarillo, con precio de venta cerrada aprox. US$4.500-5.500; el listado a US$7.190 está por encima. Verificar que el oro sea 14K real y la autenticidad, ya que Rolex usa mayoritariamente 18K."
-  },
-  "motivo": "triage: Ref. 1500 en oro amarillo, con precio de venta cerrada aprox. US$4.500-5.500; el listado a US$7.190 está por encima. Verificar que el oro sea 14K real y la autenticidad, ya que Rolex usa mayoritariamente 18K. (justo 5000)"
- },
- {
-  "fecha": "2026-11-20T03:40:40.350743+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX 14K Yellow Gold  Oyster Perpetual Date # 15037 Box Lifetime Warranty",
-  "total": 7190.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267848734254",
-  "item_id": "v1|267848734254|0",
-  "referencia": "15037",
-  "mercado": {
-   "n": 12,
-   "p25": 11000,
-   "mediana": 11990
-  },
-  "ratio_mercado": 0.654,
-  "motivo": "descripcion: broken"
- },
- {
-  "fecha": "2026-11-20T03:55:40.145613+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41 Blue Roman Azzurro Fluted Oyster Box/Papers/Card 126334",
-  "total": 14000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198809245324",
-  "item_id": "v1|198809245324|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 Oyster Perpetual, bisel acanalado de oro blanco, esfera azul Roman (azzurro)",
-   "referencia": "126334",
-   "precio_justo_usd": 13000,
-   "interesante": false,
-   "nota": "Precio pedido cercano al valor de mercado para 126334 azul Roman con cajas y papeles; no hay descuento de al menos 15%. Autenticidad no verificable solo con la foto."
-  },
-  "motivo": "triage: Precio pedido cercano al valor de mercado para 126334 azul Roman con cajas y papeles; no hay descuento de al menos 15%. Autenticidad no verificable solo con la foto. (justo 13000)"
- },
- {
-  "fecha": "2026-11-20T03:55:40.145613+00:00",
-  "marca": "Rolex",
-  "titulo": "2025 PAPERS Rolex 1908 RHODIUM Gray 18K White Gold Leather 39mm 52509 ",
-  "total": 23750.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237193692907",
-  "item_id": "v1|237193692907|0",
-  "referencia": "52509",
-  "mercado": {
-   "n": 8,
-   "p25": 24500,
-   "mediana": 24550
-  },
-  "ratio_mercado": 0.969,
-  "motivo": "precio normal (97 % del cuartil bajo de 52509)"
- },
- {
-  "fecha": "2026-11-20T03:55:40.145613+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Air-King 5500 34MM 1960s watch reference 5500 silver *serviced*",
-  "total": 3300.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407376044612",
-  "item_id": "v1|407376044612|0",
-  "referencia": "5500",
-  "mercado": {
-   "n": 22,
-   "p25": 4000,
-   "mediana": 4425
-  },
-  "ratio_mercado": 0.825,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 3000,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, desgaste visible. Brazalete rayado y probablemente estirado, caja con huellas de pulido, cristal acrílico con marcas."
-  },
-  "ratio_justo": 1.1,
-  "motivo": "precio normal segun revision (110 % del justo 3000)"
- },
- {
-  "fecha": "2026-11-20T04:10:39.548672+00:00",
-  "marca": "Rolex",
-  "titulo": "2020 Rolex GMT Master II 18k SS Date 116713LN 40mm Serviced Green Arrow W1506",
-  "total": 17223.11,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377660504934",
-  "item_id": "v1|377660504934|0",
-  "referencia": "116713LN",
-  "mercado": {
-   "n": 34,
-   "p25": 14250,
-   "mediana": 14762
-  },
-  "ratio_mercado": 1.209,
-  "motivo": "precio normal (121 % del cuartil bajo de 116713LN)"
- },
- {
-  "fecha": "2026-11-20T04:25:40.410177+00:00",
-  "marca": "Rolex",
-  "titulo": "2023 Rolex GMT-Master II \"Batgirl\" Silver Jubilee Full Set STICKERED-126710BLNR",
-  "total": 19500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960219193198",
-  "item_id": "v1|960219193198|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 71,
-   "p25": 18354,
-   "mediana": 18900
-  },
-  "ratio_mercado": 1.062,
-  "motivo": "precio normal (106 % del cuartil bajo de 126710BLNR)"
- },
- {
-  "fecha": "2026-11-20T04:25:40.410177+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolco Rolex Watch Co WWII 1942 German Engrave Military Watch 28.9mm Runs",
-  "total": 1561.25,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327464164005",
-  "item_id": "v1|327464164005|0",
-  "triage": {
-   "modelo": "Rolco (Rolex Watch Co.) militar alemán de la Segunda Guerra Mundial, esfera negra con números arábigos y segundero pequeño a las 6, caja de acero, correa de cuero negra",
-   "referencia": null,
-   "precio_justo_usd": 1300,
-   "interesante": false,
-   "nota": "Autenticidad incierta: el título sugiere grabado alemán y las piezas WWII de Rolco tienen muchas réplicas. Aun si es genuino, el precio pedido está por encima de lo que se vende en buen estado y funcionando."
-  },
-  "motivo": "triage: Autenticidad incierta: el título sugiere grabado alemán y las piezas WWII de Rolco tienen muchas réplicas. Aun si es genuino, el precio pedido está por encima de lo que se vende en buen estado y funcionando. (justo 1300)"
- },
- {
-  "fecha": "2026-11-20T04:40:40.540609+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos-Dumont Large | WSSA0022 | Box Included",
-  "total": 4400.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960219273733",
-  "item_id": "v1|960219273733|0",
-  "referencia": "WSSA0022",
-  "mercado": {
-   "n": 4,
-   "p25": 5000,
-   "mediana": 5007
-  },
-  "triage": {
-   "modelo": "Cartier Santos-Dumont Large (acero, esfera plateada con numerales romanos, correa de cuero negra)",
-   "referencia": "WSSA0022",
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "Precio pedido US$4400 con caja, unos 12% bajo la estimación conservadora; no supera el umbral del 15% y conviene verificar autenticidad y estado de la caja y papeles."
-  },
-  "motivo": "triage: Precio pedido US$4400 con caja, unos 12% bajo la estimación conservadora; no supera el umbral del 15% y conviene verificar autenticidad y estado de la caja y papeles. (justo 5000)"
- },
- {
   "fecha": "2026-11-20T04:40:40.540609+00:00",
   "marca": "Tudor",
   "titulo": "Tudor 1926 Diamond Accent 29mm Automatic 18k Gold/Stainless Steel Women's Watch",
@@ -10941,5 +10735,198 @@
   },
   "ratio_mercado": 1.0,
   "motivo": "precio normal (100 % del cuartil bajo de 3515)"
+ },
+ {
+  "fecha": "2026-11-23T19:43:42.976978+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 40mm Rootbeer 18k Rose Gold Automatic Mens Watch 126711CHNR",
+  "total": 21499.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147694671030",
+  "item_id": "v1|147694671030|0",
+  "referencia": "126711CHNR",
+  "mercado": {
+   "n": 97,
+   "p25": 20589,
+   "mediana": 21950
+  },
+  "ratio_mercado": 1.044,
+  "motivo": "precio normal (104 % del cuartil bajo de 126711CHNR)"
+ },
+ {
+  "fecha": "2026-11-23T19:43:42.976978+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date 40 President 228235 Rose Gold Olive Green Roman 2024 Box Papers",
+  "total": 58000.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/860171139028",
+  "item_id": "v1|860171139028|0",
+  "referencia": "228235",
+  "mercado": {
+   "n": 33,
+   "p25": 60845,
+   "mediana": 64900
+  },
+  "ratio_mercado": 0.953,
+  "motivo": "precio normal (95 % del cuartil bajo de 228235)"
+ },
+ {
+  "fecha": "2026-11-23T19:43:42.976978+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36 116234 Pre-owned Box & Papers 2017",
+  "total": 9999.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137956619586",
+  "item_id": "v1|137956619586|0",
+  "referencia": "116234",
+  "mercado": {
+   "n": 53,
+   "p25": 9000,
+   "mediana": 9647
+  },
+  "ratio_mercado": 1.111,
+  "motivo": "precio normal (111 % del cuartil bajo de 116234)"
+ },
+ {
+  "fecha": "2026-11-23T19:43:42.976978+00:00",
+  "marca": "Rolex",
+  "titulo": "NEW 2026 Rolex GMT-Master II \"Batgirl\" 40mm 126710BLNR Jubilee",
+  "total": 21505.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/147694666458",
+  "item_id": "v1|147694666458|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 62,
+   "p25": 19695,
+   "mediana": 20528
+  },
+  "ratio_mercado": 1.092,
+  "motivo": "precio normal (109 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-23T19:43:42.976978+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer II 16570-0001 Pre-owned Box & Papers 1997",
+  "total": 9370.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137956614131",
+  "item_id": "v1|137956614131|0",
+  "referencia": "16570",
+  "mercado": {
+   "n": 40,
+   "p25": 8495,
+   "mediana": 8990
+  },
+  "ratio_mercado": 1.103,
+  "motivo": "precio normal (110 % del cuartil bajo de 16570)"
+ },
+ {
+  "fecha": "2026-11-23T19:43:42.976978+00:00",
+  "marca": "Rolex",
+  "titulo": "NEW 2026 Rolex Day-Date 36mm 18 ct Yellow Gold Baguette Diamonds 128238 Full Set",
+  "total": 62000.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/407384004162",
+  "item_id": "v1|407384004162|0",
+  "referencia": "128238",
+  "mercado": {
+   "n": 6,
+   "p25": 55000,
+   "mediana": 58096
+  },
+  "ratio_mercado": 1.127,
+  "motivo": "precio normal (113 % del cuartil bajo de 128238)"
+ },
+ {
+  "fecha": "2026-11-23T19:43:42.976978+00:00",
+  "marca": "Rolex",
+  "titulo": "rolex watch for women 26mm",
+  "total": 5750.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920176480559",
+  "item_id": "v1|920176480559|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 mm, acero y oro amarillo, esfera blanca",
+   "referencia": "179173 (probable, no verificable en la foto)",
+   "precio_justo_usd": 4800,
+   "interesante": false,
+   "nota": "El precio pedido supera el valor estimado; el título no indica referencia ni año y la foto no permite verificar autenticidad ni estado."
+  },
+  "motivo": "triage: El precio pedido supera el valor estimado; el título no indica referencia ni año y la foto no permite verificar autenticidad ni estado. (justo 4800)"
+ },
+ {
+  "fecha": "2026-11-23T19:43:42.976978+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Ladies Date Steel Automatic 26 mm Oyster Automatic Watch 6916 Circa 1975",
+  "total": 3990.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147694661078",
+  "item_id": "v1|147694661078|0",
+  "referencia": "6916",
+  "mercado": {
+   "n": 29,
+   "p25": 3700,
+   "mediana": 3859
+  },
+  "ratio_mercado": 1.078,
+  "motivo": "precio normal (108 % del cuartil bajo de 6916)"
+ },
+ {
+  "fecha": "2026-11-23T19:43:42.976978+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Ladies Datejust 26 mm Steel Blue Turquoise Automatic Watch 6519 Circa 1966",
+  "total": 3990.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800957376611",
+  "item_id": "v1|800957376611|0",
+  "referencia": "6519",
+  "mercado": {
+   "n": 4,
+   "p25": 3300,
+   "mediana": 4050
+  },
+  "triage": {
+   "modelo": "Rolex Lady Oyster Perpetual Date (listado como Datejust) 26 mm, acero, esfera turquesa",
+   "referencia": "6519",
+   "precio_justo_usd": 1800,
+   "interesante": false,
+   "nota": "La 6519 es un modelo de mujer de 26 mm, no un Datejust. La esfera turquesa parece repintada (no original), lo que reduce mucho el valor frente a una esfera original. Con el precio de 3990 USD no hay margen de compra."
+  },
+  "motivo": "triage: La 6519 es un modelo de mujer de 26 mm, no un Datejust. La esfera turquesa parece repintada (no original), lo que reduce mucho el valor frente a una esfera original. Con el precio de 3990 USD no hay margen de compra. (justo 1800)"
+ },
+ {
+  "fecha": "2026-11-23T19:43:42.976978+00:00",
+  "marca": "Rolex",
+  "titulo": "Circa 1981 ROLEX AIR KING 5500 26 Jewel Stainless Steel 34mm Diamond Wristwatch",
+  "total": 4619.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128212840951",
+  "item_id": "v1|128212840951|0",
+  "referencia": "5500",
+  "mercado": {
+   "n": 20,
+   "p25": 4050,
+   "mediana": 4425
+  },
+  "ratio_mercado": 1.14,
+  "motivo": "precio normal (114 % del cuartil bajo de 5500)"
+ },
+ {
+  "fecha": "2026-11-23T19:43:42.976978+00:00",
+  "marca": "Tudor",
+  "titulo": "New 2026 Tudor Black Bay 58 GMT 10/26 7939G1A0NRU “Coke”",
+  "total": 4848.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/257868130971",
+  "item_id": "v1|257868130971|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 GMT \"Coke\" (acero, bisel bicolor, esfera marrón, brazalete Jubilee)",
+   "referencia": "7939G1A0NRU",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Nuevo con caja y papeles; el precio pedido de US$4848 supera el mercado gris actual, que ronda 3800-4300 USD, así que no hay descuento real."
+  },
+  "motivo": "triage: Nuevo con caja y papeles; el precio pedido de US$4848 supera el mercado gris actual, que ronda 3800-4300 USD, así que no hay descuento real. (justo 4000)"
  }
 ]
