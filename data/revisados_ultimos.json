@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-20T19:41:09.741243+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 40mm Black Dial/Bezel Steel Auto 300m Collector Full Set",
-  "total": 13000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128207183859",
-  "item_id": "v1|128207183859|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date 40mm, esfera y bisel negros, acero, automático, 300 m",
-   "referencia": "116610LN (probable; podría ser 126610LN según año y papeles)",
-   "precio_justo_usd": 11000,
-   "interesante": false,
-   "nota": "Precio pedido US$13.000 supera el valor estimado de venta cerrada (~US$11.000) para 116610LN con caja y papeles en excelente estado; autenticidad no verificable desde la foto."
-  },
-  "motivo": "triage: Precio pedido US$13.000 supera el valor estimado de venta cerrada (~US$11.000) para 116610LN con caja y papeles en excelente estado; autenticidad no verificable desde la foto. (justo 11000)"
- },
- {
-  "fecha": "2026-11-20T19:41:09.741243+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date MK1 'Starbucks' 126610LV, Black Dial, Oyster Bracelet",
-  "total": 18562.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/366825633280",
-  "item_id": "v1|366825633280|0",
-  "referencia": "126610LV",
-  "mercado": {
-   "n": 40,
-   "p25": 16250,
-   "mediana": 16504
-  },
-  "ratio_mercado": 1.142,
-  "motivo": "precio normal (114 % del cuartil bajo de 126610LV)"
- },
- {
-  "fecha": "2026-11-20T19:41:09.741243+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Submariner 16613 Bluesy P-Serial 2000 18K Gold Steel Full Set Box Papers",
   "total": 13850.0,
   "condicion": "Pre-owned - Good",
@@ -10955,5 +10921,45 @@
    "nota": "Precio pedido de US$4200 está muy por encima del mercado secundario para este modelo de uso, con caja y papeles; no es una oportunidad."
   },
   "motivo": "triage: Precio pedido de US$4200 está muy por encima del mercado secundario para este modelo de uso, con caja y papeles; no es una oportunidad. (justo 3100)"
+ },
+ {
+  "fecha": "2026-11-23T23:43:43.016170+00:00",
+  "marca": "Rolex",
+  "titulo": "NEW 2026 Rolex Daytona 126500LN Full Set Unworn Unsized Men's 40mm Wristwatch",
+  "total": 32000.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940117936341",
+  "item_id": "v1|940117936341|0",
+  "referencia": "126500LN",
+  "mercado": {
+   "n": 27,
+   "p25": 34000,
+   "mediana": 38825
+  },
+  "ratio_mercado": 0.941,
+  "motivo": "precio normal (94 % del cuartil bajo de 126500LN)"
+ },
+ {
+  "fecha": "2026-11-23T23:43:43.016170+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 116189 18K White Gold Datejust 36mm Watch Factory Box And Papers",
+  "total": 26500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960236259144",
+  "item_id": "v1|960236259144|0",
+  "referencia": "116189",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 36 oro blanco 18K, esfera chocolate con bisel de diamantes (según imagen)",
+   "referencia": "116189",
+   "precio_justo_usd": 15500,
+   "interesante": false,
+   "nota": "Precio pedido de US$26.500 está muy por encima del mercado de venta cerrada para esta referencia en oro blanco; no parece una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$26.500 está muy por encima del mercado de venta cerrada para esta referencia en oro blanco; no parece una oportunidad. (justo 15500)"
  }
 ]
