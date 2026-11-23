@@ -12610,13 +12610,13 @@
   "max": 4445
  },
  "Tudor 79230N|usado": {
-  "fecha": "2026-11-16",
+  "fecha": "2026-11-23",
   "consulta": "Tudor 79230N",
-  "n": 17,
-  "mediana": 3695,
-  "p25": 3375,
+  "n": 18,
+  "mediana": 3597,
+  "p25": 3395,
   "p75": 4098,
-  "min": 3100,
+  "min": 2995,
   "max": 10580
  },
  "Tudor 21013|usado": {
@@ -22512,6 +22512,11 @@
  "Cartier WB710014|usado": {
   "fecha": "2026-11-23",
   "consulta": "Cartier WB710014",
+  "n": 0
+ },
+ "Tudor 57000|usado": {
+  "fecha": "2026-11-23",
+  "consulta": "Tudor 57000",
   "n": 0
  }
 }
