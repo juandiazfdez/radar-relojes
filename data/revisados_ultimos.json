@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-19T20:25:29.395805+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date President Champagne Dial/Baguette Diamond Markers Ref. 228238",
-  "total": 52000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147688444452",
-  "item_id": "v1|147688444452|0",
-  "referencia": "228238",
-  "mercado": {
-   "n": 33,
-   "p25": 46088,
-   "mediana": 48990
-  },
-  "ratio_mercado": 1.128,
-  "motivo": "precio normal (113 % del cuartil bajo de 228238)"
- },
- {
-  "fecha": "2026-11-19T20:25:29.395805+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Louis WGTA0092",
   "total": 12200.0,
@@ -11027,5 +11010,22 @@
    "nota": "Precio pedido de US$5225 supera el estimado de venta cerrada para acero usado con caja y papeles; la referencia no se puede confirmar en la imagen."
   },
   "motivo": "triage: Precio pedido de US$5225 supera el estimado de venta cerrada para acero usado con caja y papeles; la referencia no se puede confirmar en la imagen. (justo 4900)"
+ },
+ {
+  "fecha": "2026-11-23T01:27:57.449231+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex  14k Yellow Ladies Cocktail Watch & Rolex factory service papers.",
+  "total": 4500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128210529213",
+  "item_id": "v1|128210529213|0",
+  "triage": {
+   "modelo": "Rolex Ladies Cocktail de oro amarillo 14k, cuerda manual, esfera plateada (vintage, aprox. años 1960-70)",
+   "referencia": null,
+   "precio_justo_usd": 2200,
+   "interesante": false,
+   "nota": "Reloj vintage de dama en oro 14k; la imagen es de baja resolución y no permite confirmar la referencia. Con papeles de servicio y estado Good, el precio de venta realista ronda 1.800-2.800 USD, muy por debajo del pedido de 4.500 USD."
+  },
+  "motivo": "triage: Reloj vintage de dama en oro 14k; la imagen es de baja resolución y no permite confirmar la referencia. Con papeles de servicio y estado Good, el precio de venta realista ronda 1.800-2.800 USD, muy por debajo del pedido de 4.500 USD. (justo 2200)"
  }
 ]
