@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-19T20:25:29.395805+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Ceramic Submariner 116610LN 40mm Oyster Bracelet Box/Books",
-  "total": 10975.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407375366424",
-  "item_id": "v1|407375366424|0",
-  "referencia": "116610LN",
-  "mercado": {
-   "n": 60,
-   "p25": 12790,
-   "mediana": 13500
-  },
-  "ratio_mercado": 0.858,
-  "motivo": "precio normal (86 % del cuartil bajo de 116610LN)"
- },
- {
-  "fecha": "2026-11-19T20:25:29.395805+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Day-Date President Champagne Dial/Baguette Diamond Markers Ref. 228238",
   "total": 52000.0,
   "condicion": "Pre-owned - Good",
@@ -11021,5 +11004,28 @@
   },
   "ratio_mercado": 1.007,
   "motivo": "precio normal (101 % del cuartil bajo de 67180)"
+ },
+ {
+  "fecha": "2026-11-23T01:12:57.112482+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank WSTA0010 - Full Set",
+  "total": 5225.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/168878845761",
+  "item_id": "v1|168878845761|0",
+  "referencia": "WSTA0010",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Tank Américaine (esfera azul con subesfera, acero)",
+   "referencia": "WSTA0010 (según el título; no verificable en la foto)",
+   "precio_justo_usd": 4900,
+   "interesante": false,
+   "nota": "Precio pedido de US$5225 supera el estimado de venta cerrada para acero usado con caja y papeles; la referencia no se puede confirmar en la imagen."
+  },
+  "motivo": "triage: Precio pedido de US$5225 supera el estimado de venta cerrada para acero usado con caja y papeles; la referencia no se puede confirmar en la imagen. (justo 4900)"
  }
 ]
