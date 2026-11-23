@@ -2,46 +2,6 @@
  {
   "fecha": "2026-11-19T21:40:28.696188+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Tank Solo XL 18k Rose Gold Stainless Steel Silver Men's Watch W5200026",
-  "total": 7905.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287742193870",
-  "item_id": "v1|287742193870|0",
-  "referencia": "W5200026",
-  "mercado": {
-   "n": 6,
-   "p25": 8399,
-   "mediana": 8447
-  },
-  "ratio_mercado": 0.941,
-  "motivo": "precio normal (94 % del cuartil bajo de W5200026)"
- },
- {
-  "fecha": "2026-11-19T21:40:28.696188+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Americaine 18k Rose Gold Diamonds Silver Ladies Watch WB707931",
-  "total": 10005.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287742193607",
-  "item_id": "v1|287742193607|0",
-  "referencia": "WB707931",
-  "mercado": {
-   "n": 2,
-   "p25": 11985,
-   "mediana": 12220
-  },
-  "triage": {
-   "modelo": "Cartier Tank Américaine (tamaño pequeño), oro rosa 18k con bisel de diamantes, esfera plateada",
-   "referencia": "WB707931",
-   "precio_justo_usd": 8000,
-   "interesante": false,
-   "nota": "Pedido de US$10,005 está unos 25% por encima del precio de venta cerrada estimado para este modelo en estado Good, sin confirmar caja ni papeles."
-  },
-  "motivo": "triage: Pedido de US$10,005 está unos 25% por encima del precio de venta cerrada estimado para este modelo en estado Good, sin confirmar caja ni papeles. (justo 8000)"
- },
- {
-  "fecha": "2026-11-19T21:40:28.696188+00:00",
-  "marca": "Cartier",
   "titulo": "Vintage Cartier Tank Louis Jumbo 17011 18K Yellow Gold Automatic 25.5mm Watch",
   "total": 20393.79,
   "condicion": "Pre-owned - Excellent",
@@ -10968,5 +10928,39 @@
    "nota": "La foto no permite verificar caja, movimiento, firmas ni marcas de oro; las Tank firmadas Asprey son raras y sus precios varían mucho según autenticidad y estado. Sin papeles ni fotos de detalle, no es una oportunidad clara."
   },
   "motivo": "triage: La foto no permite verificar caja, movimiento, firmas ni marcas de oro; las Tank firmadas Asprey son raras y sus precios varían mucho según autenticidad y estado. Sin papeles ni fotos de detalle, no es una oportunidad clara. (justo 18000)"
+ },
+ {
+  "fecha": "2026-11-23T14:58:32.128077+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX OYSTER PERPETUAL SUBMARINER WHITE GOLD 126619LB COOKIE MONSTER",
+  "total": 38995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128212492258",
+  "item_id": "v1|128212492258|0",
+  "referencia": "126619LB",
+  "mercado": {
+   "n": 19,
+   "p25": 38995,
+   "mediana": 39970
+  },
+  "ratio_mercado": 1.0,
+  "motivo": "precio normal (100 % del cuartil bajo de 126619LB)"
+ },
+ {
+  "fecha": "2026-11-23T14:58:32.128077+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex Land Dweller 127234 36mm Stainless Steel Jubilee",
+  "total": 18199.98,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/920175789941",
+  "item_id": "v1|920175789941|0",
+  "referencia": "127234",
+  "mercado": {
+   "n": 9,
+   "p25": 19495,
+   "mediana": 19965
+  },
+  "ratio_mercado": 0.934,
+  "motivo": "precio normal (93 % del cuartil bajo de 127234)"
  }
 ]
