@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T20:10:28.654981+00:00",
-  "marca": "Tudor",
-  "titulo": "2023 Tudor Black Bay Chrono M79360N-0001 Black Complete 41mm",
-  "total": 4125.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/366822998165",
-  "item_id": "v1|366822998165|0",
-  "referencia": "M79360N-0001",
-  "mercado": {
-   "n": 25,
-   "p25": 4894,
-   "mediana": 5500
-  },
-  "ratio_mercado": 0.843,
-  "motivo": "descripcion: franken"
- },
- {
   "fecha": "2026-11-19T20:25:29.395805+00:00",
   "marca": "Rolex",
   "titulo": "2024 Rolex Oyster Perpetual 277200 | 31mm | Stainless Steel | Fullset",
@@ -11015,5 +10998,22 @@
   },
   "ratio_mercado": 1.0,
   "motivo": "precio normal (100 % del cuartil bajo de 16233)"
+ },
+ {
+  "fecha": "2026-11-23T00:12:57.149095+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Date 34mm Silver On Silver Stainless Steel W/ Papers",
+  "total": 5200.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147693349089",
+  "item_id": "v1|147693349089|0",
+  "triage": {
+   "modelo": "Rolex Date 34mm, acero con esfera plateada y brazalete Jubilee",
+   "referencia": "15200 (probable, sin verificar en la imagen)",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Precio pedido cercano al valor de mercado para una 15200 con papeles; no cumple el umbral de 15% por debajo. Confirmar referencia, año y estado de la esfera en fotos."
+  },
+  "motivo": "triage: Precio pedido cercano al valor de mercado para una 15200 con papeles; no cumple el umbral de 15% por debajo. Confirmar referencia, año y estado de la esfera en fotos. (justo 5000)"
  }
 ]
