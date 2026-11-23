@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-19T22:10:29.084179+00:00",
   "marca": "Rolex",
-  "titulo": "2024 NEW PAPERS Rolex 336934 Sky-Dweller Steel White Jubilee Fluted 42mm Watch",
-  "total": 22212.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287742238017",
-  "item_id": "v1|287742238017|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller de acero, esfera blanca, bisel acanalado, brazalete Jubilee, 42 mm",
-   "referencia": "336934",
-   "precio_justo_usd": 21000,
-   "interesante": false,
-   "nota": "Precio pedido de US$22,212 queda por encima del estimado de venta real para esta referencia, por lo que no hay descuento de al menos 15 %."
-  },
-  "motivo": "triage: Precio pedido de US$22,212 queda por encima del estimado de venta real para esta referencia, por lo que no hay descuento de al menos 15 %. (justo 21000)"
- },
- {
-  "fecha": "2026-11-19T22:10:29.084179+00:00",
-  "marca": "Rolex",
   "titulo": "2024 CPO PAPERS MINT Rolex GMT Master II 116710LN Steel Ceramic Black 40mm Watch",
   "total": 14132.05,
   "condicion": "Pre-owned - Excellent",
@@ -10957,5 +10940,22 @@
   },
   "ratio_mercado": 0.952,
   "motivo": "precio normal (95 % del cuartil bajo de WSSA0039)"
+ },
+ {
+  "fecha": "2026-11-23T17:13:31.821501+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II \"Rootbeer\"  126711CHNR ",
+  "total": 18000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407383796610",
+  "item_id": "v1|407383796610|0",
+  "referencia": "126711CHNR",
+  "mercado": {
+   "n": 97,
+   "p25": 20589,
+   "mediana": 21950
+  },
+  "ratio_mercado": 0.874,
+  "motivo": "precio normal (87 % del cuartil bajo de 126711CHNR)"
  }
 ]
