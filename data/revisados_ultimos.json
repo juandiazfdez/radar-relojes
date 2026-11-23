@@ -1,97 +1,6 @@
 [
  {
   "fecha": "2026-11-20T19:11:10.494492+00:00",
-  "marca": "Rolex",
-  "titulo": "2008 Rolex Submariner Date 16610 LV Green Kermit Rehaut Steel 40mm Box Papers",
-  "total": 14264.18,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940109002118",
-  "item_id": "v1|940109002118|0",
-  "referencia": "16610",
-  "mercado": {
-   "n": 81,
-   "p25": 9900,
-   "mediana": 10395
-  },
-  "ratio_mercado": 1.441,
-  "motivo": "precio normal (144 % del cuartil bajo de 16610)"
- },
- {
-  "fecha": "2026-11-20T19:11:10.494492+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona Chronograph 18k Rose Gold Rose/Black 40mm Watch B/P '16 116505",
-  "total": 48388.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117532810027",
-  "item_id": "v1|117532810027|0",
-  "referencia": "116505",
-  "mercado": {
-   "n": 34,
-   "p25": 48750,
-   "mediana": 51994
-  },
-  "ratio_mercado": 0.993,
-  "motivo": "precio normal (99 % del cuartil bajo de 116505)"
- },
- {
-  "fecha": "2026-11-20T19:11:10.494492+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona Rose Gold/Ceramic Black/Sundust Oysterflex Watch BP '25 126515",
-  "total": 53000.0,
-  "condicion": "New with imperfections",
-  "url": "https://www.ebay.com/itm/147690009866",
-  "item_id": "v1|147690009866|0",
-  "referencia": "126515",
-  "mercado": {
-   "n": 11,
-   "p25": 54775,
-   "mediana": 58500
-  },
-  "ratio_mercado": 0.968,
-  "motivo": "precio normal (97 % del cuartil bajo de 126515)"
- },
- {
-  "fecha": "2026-11-20T19:11:10.494492+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41, 126334, Steel & White Gold, Slate 'Wimbledon' Dial, Jubile...",
-  "total": 20459.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/206715869013",
-  "item_id": "v1|206715869013|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 (acero y oro blanco, bisel acanalado, esfera slate 'Wimbledon', brazalete Jubilee)",
-   "referencia": "126334",
-   "precio_justo_usd": 17000,
-   "interesante": false,
-   "nota": "Referencia 126334 nueva con caja y papeles; el precio pedido de US$20,459 está por encima del valor estimado en el mercado secundario, no por debajo."
-  },
-  "motivo": "triage: Referencia 126334 nueva con caja y papeles; el precio pedido de US$20,459 está por encima del valor estimado en el mercado secundario, no por debajo. (justo 17000)"
- },
- {
-  "fecha": "2026-11-20T19:11:10.494492+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Yacht-Master II 44mm UNWORN 2026- White Blue Oyster Wood 126680",
-  "total": 28500.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/960222121683",
-  "item_id": "v1|960222121683|0",
-  "referencia": "126680",
-  "mercado": {
-   "n": 6,
-   "p25": 25220,
-   "mediana": 25895
-  },
-  "ratio_mercado": 1.13,
-  "motivo": "precio normal (113 % del cuartil bajo de 126680)"
- },
- {
-  "fecha": "2026-11-20T19:11:10.494492+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Roadster W62007X6 2618 43mm XL Black Steel Automatic Mens Watch Papers",
   "total": 5825.0,
@@ -10967,5 +10876,96 @@
   },
   "ratio_mercado": 0.944,
   "motivo": "precio normal (94 % del cuartil bajo de 79360B)"
+ },
+ {
+  "fecha": "2026-11-23T22:58:43.269855+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31 Steel White Gold Diamond Ladies Watch 178344 Box Card",
+  "total": 9910.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257868472425",
+  "item_id": "v1|257868472425|0",
+  "referencia": "178344",
+  "mercado": {
+   "n": 6,
+   "p25": 12200,
+   "mediana": 14152
+  },
+  "ratio_mercado": 0.812,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 7200,
+   "riesgo_autenticidad": "bajo",
+   "estado": "Usado, condición 'Good'. Fotos de catálogo limpias, sin defectos visibles y sin fotos de caja, papeles ni fondo."
+  },
+  "motivo": "Claude descarto: Pide US$9,910 y el precio justo de venta cerrada ronda US$7,000-7,500, así que está un 30-40 % por encima de lo que realmente se paga hoy.; Los comparables de eBay (mediana 14,152, cuartil bajo 12,200) son precios pedidos e inflados. No sirven para justificar el precio."
+ },
+ {
+  "fecha": "2026-11-23T22:58:43.269855+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner, 14060, Steel, Black Dial, Oyster Bracelet",
+  "total": 12273.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366833439254",
+  "item_id": "v1|366833439254|0",
+  "referencia": "14060",
+  "mercado": {
+   "n": 54,
+   "p25": 9895,
+   "mediana": 10790
+  },
+  "ratio_mercado": 1.24,
+  "motivo": "precio normal (124 % del cuartil bajo de 14060)"
+ },
+ {
+  "fecha": "2026-11-23T22:58:43.269855+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 126710BLNR GMT-Master II \"Batgirl\" 40mm Jubilee Bracelet Box & Papers 2026",
+  "total": 21500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800957930252",
+  "item_id": "v1|800957930252|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 62,
+   "p25": 19695,
+   "mediana": 20528
+  },
+  "ratio_mercado": 1.092,
+  "motivo": "precio normal (109 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-23T22:58:43.269855+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Ladies Datejust 26 mm Steel Jubilee Automatic Watch 6919 Circa 1983",
+  "total": 3990.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147694846224",
+  "item_id": "v1|147694846224|0",
+  "referencia": "6919",
+  "mercado": {
+   "n": 8,
+   "p25": 4200,
+   "mediana": 4524
+  },
+  "ratio_mercado": 0.95,
+  "motivo": "precio normal (95 % del cuartil bajo de 6919)"
+ },
+ {
+  "fecha": "2026-11-23T22:58:43.269855+00:00",
+  "marca": "Cartier",
+  "titulo": "Ladies Cartier Tank Solo 24mm x 31mm Stainless Steel Small Model Watch 3170",
+  "total": 3450.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168882938922",
+  "item_id": "v1|168882938922|0",
+  "referencia": "3170",
+  "mercado": {
+   "n": 5,
+   "p25": 3275,
+   "mediana": 3599
+  },
+  "ratio_mercado": 1.053,
+  "motivo": "precio normal (105 % del cuartil bajo de 3170)"
  }
 ]
