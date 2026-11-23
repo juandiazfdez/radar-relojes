@@ -1,85 +1,5 @@
 [
  {
-  "fecha": "2026-11-20T19:26:10.239348+00:00",
-  "marca": "Rolex",
-  "titulo": "1996 Rolex DateJust 16233 Green Diamond 18K Gold Steel Jubilee 36mm Box Papers",
-  "total": 6818.33,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940109016983",
-  "item_id": "v1|940109016983|0",
-  "referencia": "16233",
-  "mercado": {
-   "n": 25,
-   "p25": 5599,
-   "mediana": 6035
-  },
-  "ratio_mercado": 1.218,
-  "motivo": "precio normal (122 % del cuartil bajo de 16233)"
- },
- {
-  "fecha": "2026-11-20T19:26:10.239348+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere de Cartier 4016 Ladies Stainless Steel Quartz Watch Appraisal",
-  "total": 4799.95,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267849327104",
-  "item_id": "v1|267849327104|0",
-  "triage": {
-   "modelo": "Cartier Panthère (cuarzo, acero inoxidable, tamaño pequeño/mediano, esfera plateada)",
-   "referencia": null,
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "La referencia '4016' del título no es verificable en la foto. Precio pedido US$4800 está muy por encima del valor de venta real de este modelo en acero."
-  },
-  "motivo": "triage: La referencia '4016' del título no es verificable en la foto. Precio pedido US$4800 está muy por encima del valor de venta real de este modelo en acero. (justo 3000)"
- },
- {
-  "fecha": "2026-11-20T19:26:10.239348+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay 54 Stainless BLUE 37mm Automatic Watch Men M79000B-0001",
-  "total": 3000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307292504368",
-  "item_id": "v1|307292504368|0",
-  "referencia": "M79000B-0001",
-  "mercado": {
-   "n": 3,
-   "p25": 3315,
-   "mediana": 3950
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay 54 Stainless Blue 37mm (brazalete Jubilee, con caja y papeles)",
-   "referencia": "M79000B-0001 (según título; no verificable en la imagen)",
-   "precio_justo_usd": 3100,
-   "interesante": false,
-   "nota": "Reloj de producción actual; el precio pedido de US$3000 con envío está cerca del valor de mercado gris, sin descuento de al menos 15%. Confirmar referencia y papeles."
-  },
-  "motivo": "triage: Reloj de producción actual; el precio pedido de US$3000 con envío está cerca del valor de mercado gris, sin descuento de al menos 15%. Confirmar referencia y papeles. (justo 3100)"
- },
- {
-  "fecha": "2026-11-20T19:41:09.741243+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date, Black Dial, Yellow Gold, 126618LN",
-  "total": 52405.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/206715936905",
-  "item_id": "v1|206715936905|0",
-  "referencia": "126618LN",
-  "mercado": {
-   "n": 3,
-   "p25": 48999,
-   "mediana": 49870
-  },
-  "triage": {
-   "modelo": "Rolex Submariner Date, esfera negra, oro amarillo, bisel cerámica negra",
-   "referencia": "126618LN",
-   "precio_justo_usd": 50000,
-   "interesante": false,
-   "nota": "Referencia correcta, pero el precio pedido queda por encima de la estimación de venta secundaria para una 126618LN nueva con caja y papeles; no hay descuento de al menos 15 %."
-  },
-  "motivo": "triage: Referencia correcta, pero el precio pedido queda por encima de la estimación de venta secundaria para una 126618LN nueva con caja y papeles; no hay descuento de al menos 15 %. (justo 50000)"
- },
- {
   "fecha": "2026-11-20T19:41:09.741243+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Submariner Date 40mm Black Dial/Bezel Steel Auto 300m Collector Full Set",
@@ -10967,5 +10887,73 @@
   },
   "ratio_mercado": 1.308,
   "motivo": "precio normal (131 % del cuartil bajo de 116234)"
+ },
+ {
+  "fecha": "2026-11-23T23:28:43.580391+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 2026 OCTOBER UNWORN 126710BLNR Batman Jubilee Steel",
+  "total": 20950.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840160172033",
+  "item_id": "v1|840160172033|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 62,
+   "p25": 19695,
+   "mediana": 20528
+  },
+  "ratio_mercado": 1.064,
+  "motivo": "precio normal (106 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-23T23:28:43.580391+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oysterdate Precision 34mm Stainless Steel Bracelet Watch - 6694",
+  "total": 3534.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/407382067959",
+  "item_id": "v1|407382067959|0",
+  "referencia": "6694",
+  "mercado": {
+   "n": 13,
+   "p25": 3299,
+   "mediana": 3950
+  },
+  "ratio_mercado": 1.071,
+  "motivo": "precio normal (107 % del cuartil bajo de 6694)"
+ },
+ {
+  "fecha": "2026-11-23T23:28:43.580391+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Solo Rose Gold Ladies Watch W5200024 Card",
+  "total": 6450.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336913165309",
+  "item_id": "v1|336913165309|0",
+  "referencia": "W5200024",
+  "mercado": {
+   "n": 9,
+   "p25": 6700,
+   "mediana": 7216
+  },
+  "ratio_mercado": 0.963,
+  "motivo": "precio normal (96 % del cuartil bajo de W5200024)"
+ },
+ {
+  "fecha": "2026-11-23T23:28:43.580391+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Monochrome Black Bay M7941A1A0NU-0001 - 41mm - Full Set",
+  "total": 4200.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920177048778",
+  "item_id": "v1|920177048778|0",
+  "triage": {
+   "modelo": "Tudor Black Bay Monochrome 41 mm (acero, esfera negra, bisel negro, brazalete de acero)",
+   "referencia": "M7941A1A0NU",
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Precio pedido de US$4200 está muy por encima del mercado secundario para este modelo de uso, con caja y papeles; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$4200 está muy por encima del mercado secundario para este modelo de uso, con caja y papeles; no es una oportunidad. (justo 3100)"
  }
 ]
