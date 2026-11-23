@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T21:10:29.550564+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41, 126300, Steel, White Roman, Oyster Bracelet",
-  "total": 13072.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/206713715102",
-  "item_id": "v1|206713715102|0",
-  "referencia": "126300",
-  "mercado": {
-   "n": 42,
-   "p25": 11895,
-   "mediana": 12017
-  },
-  "ratio_mercado": 1.099,
-  "motivo": "precio normal (110 % del cuartil bajo de 126300)"
- },
- {
-  "fecha": "2026-11-19T21:25:29.184744+00:00",
-  "marca": "Rolex",
-  "titulo": "NEW 2026 Rolex Batgirl GMT MASTER II Watch Jubilee 126710BLNR 40MM W/ Card & Box",
-  "total": 20505.99,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/960217612023",
-  "item_id": "v1|960217612023|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 59,
-   "p25": 19555,
-   "mediana": 20495
-  },
-  "ratio_mercado": 1.049,
-  "motivo": "precio normal (105 % del cuartil bajo de 126710BLNR)"
- },
- {
   "fecha": "2026-11-19T21:25:29.184744+00:00",
   "marca": "Rolex",
   "titulo": "Rolex GMT-Master II / Stainless Steel / Watch Only",
@@ -11015,5 +10981,39 @@
   },
   "ratio_mercado": 1.189,
   "motivo": "precio normal (119 % del cuartil bajo de M79010SG)"
+ },
+ {
+  "fecha": "2026-11-23T12:13:21.317066+00:00",
+  "marca": "Rolex",
+  "titulo": "Freshly Dated Rolex Daytona 40mm 126508 John Mayer 2026",
+  "total": 83499.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/147694158855",
+  "item_id": "v1|147694158855|0",
+  "referencia": "126508",
+  "mercado": {
+   "n": 14,
+   "p25": 83822,
+   "mediana": 85750
+  },
+  "ratio_mercado": 0.996,
+  "motivo": "precio normal (100 % del cuartil bajo de 126508)"
+ },
+ {
+  "fecha": "2026-11-23T12:13:21.317066+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 54 Stainless BLUE 37mm Automatic Watch  NO RESERVE !!!",
+  "total": 3120.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/307297199445",
+  "item_id": "v1|307297199445|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 54 Stainless Blue 37mm (bisel y esfera azules, brazalete de acero)",
+   "referencia": "M79030B (probable)",
+   "precio_justo_usd": 2900,
+   "interesante": false,
+   "nota": "Precio pedido de 3120 USD queda por encima de la estimacion de venta cerrada para estado excelente con caja y papeles; el ano 2026 del titulo no encaja con la generacion, conviene verificarlo."
+  },
+  "motivo": "triage: Precio pedido de 3120 USD queda por encima de la estimacion de venta cerrada para estado excelente con caja y papeles; el ano 2026 del titulo no encaja con la generacion, conviene verificarlo. (justo 2900)"
  }
 ]
