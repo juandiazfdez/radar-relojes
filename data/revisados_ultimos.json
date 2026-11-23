@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T20:55:29.146560+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Ceramic Blue 41mm VCARB F1 Ref. 79210CNU-0007 Master Chronometer",
-  "total": 4950.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/840146015876",
-  "item_id": "v1|840146015876|0",
-  "triage": {
-   "modelo": "Tudor Black Bay Ceramic Blue 41mm Master Chronometer",
-   "referencia": "79210CNU-0007",
-   "precio_justo_usd": 4100,
-   "interesante": false,
-   "nota": "Precio pedido de US$4950 con envío está por encima del retail (aprox. US$4.7k); el gris nuevo con caja y papeles ronda US$3.9k-4.4k."
-  },
-  "motivo": "triage: Precio pedido de US$4950 con envío está por encima del retail (aprox. US$4.7k); el gris nuevo con caja y papeles ronda US$3.9k-4.4k. (justo 4100)"
- },
- {
-  "fecha": "2026-11-19T20:55:29.146560+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Pelagos Stealthy Black Titanium Diver, Ultra-Rugged 25600TN",
-  "total": 4599.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287742118712",
-  "item_id": "v1|287742118712|0",
-  "referencia": "25600TN",
-  "mercado": {
-   "n": 4,
-   "p25": 4595,
-   "mediana": 4722
-  },
-  "triage": {
-   "modelo": "Tudor Pelagos (titanio, esfera negra)",
-   "referencia": "25600TN",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Pelagos 25600TN usado en buen estado se vende en torno a US$3.300-3.700; el precio pedido de US$4.599 está muy por encima."
-  },
-  "motivo": "triage: Pelagos 25600TN usado en buen estado se vende en torno a US$3.300-3.700; el precio pedido de US$4.599 está muy por encima. (justo 3500)"
- },
- {
   "fecha": "2026-11-19T21:10:29.550564+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 41, Bright Black Diamond Dial, Steel & Gold, 126303",
@@ -11015,5 +10975,45 @@
    "nota": "Caja de oro 9K con esfera champán; la referencia no es legible en la foto. El precio pedido de US$1425 está por encima de lo que suelen cerrar estos relojes en EE. UU."
   },
   "motivo": "triage: Caja de oro 9K con esfera champán; la referencia no es legible en la foto. El precio pedido de US$1425 está por encima de lo que suelen cerrar estos relojes en EE. UU. (justo 1000)"
+ },
+ {
+  "fecha": "2026-11-23T08:13:20.902595+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Heritage Chrono Blue 70330B 42mm Steel Automatic 2015 Box & Papers",
+  "total": 4999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206718287249",
+  "item_id": "v1|206718287249|0",
+  "referencia": "70330B",
+  "mercado": {
+   "n": 3,
+   "p25": 4200,
+   "mediana": 4215
+  },
+  "triage": {
+   "modelo": "Tudor Heritage Chrono Blue (esfera plateada, bisel azul, pulsera de acero)",
+   "referencia": "70330B",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Pedido de US$4999 queda muy por encima de lo que se vende este modelo 2015 con caja y papeles; no es una oportunidad."
+  },
+  "motivo": "triage: Pedido de US$4999 queda muy por encima de lo que se vende este modelo 2015 con caja y papeles; no es una oportunidad. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-23T08:13:20.902595+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Chrono Blue 79360B 41mm Steel Automatic 2024 Box & Papers",
+  "total": 5999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206718282067",
+  "item_id": "v1|206718282067|0",
+  "referencia": "79360B",
+  "mercado": {
+   "n": 14,
+   "p25": 5299,
+   "mediana": 5474
+  },
+  "ratio_mercado": 1.132,
+  "motivo": "precio normal (113 % del cuartil bajo de 79360B)"
  }
 ]
