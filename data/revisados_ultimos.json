@@ -2,92 +2,6 @@
  {
   "fecha": "2026-11-19T21:40:28.696188+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Tank Américaine 19x34.8mm W2607456 18K Rose Gold Unisex Watch",
-  "total": 7642.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960217634530",
-  "item_id": "v1|960217634530|0",
-  "referencia": "W2607456",
-  "mercado": {
-   "n": 3,
-   "p25": 7216,
-   "mediana": 7999
-  },
-  "triage": {
-   "modelo": "Cartier Tank Américaine (tamaño mediano, 19x34.8 mm), oro rosa 18K, esfera plateada con números romanos, correa de cocodrilo negra",
-   "referencia": "W2607456",
-   "precio_justo_usd": 13500,
-   "interesante": false,
-   "nota": "Precio muy por debajo del mercado para oro rosa 18K; probable chapado, réplica o listado engañoso. Verificar material y autenticidad antes de cualquier compra."
-  },
-  "motivo": "triage: Precio muy por debajo del mercado para oro rosa 18K; probable chapado, réplica o listado engañoso. Verificar material y autenticidad antes de cualquier compra. (justo 13500)"
- },
- {
-  "fecha": "2026-11-19T21:40:28.696188+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Drive 40mm WSNM0008 Stainless Steel Men's Watch",
-  "total": 7323.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168874024787",
-  "item_id": "v1|168874024787|0",
-  "referencia": "WSNM0008",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Drive de Cartier Moonphase, acero, 40 mm, esfera plateada, correa de piel negra",
-   "referencia": "WSNM0008",
-   "precio_justo_usd": 5500,
-   "interesante": false,
-   "nota": "Precio pedido de US$7,323 con envío, cerca del retail. En el mercado secundario de EE. UU. este modelo usado suele venderse 15-30 % por debajo, con un rango aproximado de US$5,200-5,800 según caja, papeles y año."
-  },
-  "motivo": "triage: Precio pedido de US$7,323 con envío, cerca del retail. En el mercado secundario de EE. UU. este modelo usado suele venderse 15-30 % por debajo, con un rango aproximado de US$5,200-5,800 según caja, papeles y año. (justo 5500)"
- },
- {
-  "fecha": "2026-11-19T21:40:28.696188+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos 100 35.6×44.2mm W20106X8 Stainless Steel Unisex Watch",
-  "total": 5938.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840146108744",
-  "item_id": "v1|840146108744|0",
-  "triage": {
-   "modelo": "Cartier Santos 100 (tamaño medio, acero, esfera plateada con números romanos)",
-   "referencia": "W20106X8",
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "Precio pedido de US$5938 está bastante por encima del valor de venta cerrada para esta referencia en estado usado, sin caja y papeles confirmados."
-  },
-  "motivo": "triage: Precio pedido de US$5938 está bastante por encima del valor de venta cerrada para esta referencia en estado usado, sin caja y papeles confirmados. (justo 4300)"
- },
- {
-  "fecha": "2026-11-19T21:40:28.696188+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Diabolo 27mm WG100151 18K Yellow Gold Women's Watch",
-  "total": 12660.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168874023026",
-  "item_id": "v1|168874023026|0",
-  "referencia": "WG100151",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Diabolo de Cartier, dama, oro amarillo 18K con bisel de diamantes",
-   "referencia": "WG100151",
-   "precio_justo_usd": 9500,
-   "interesante": false,
-   "nota": "Precio pedido por encima del rango de venta cerrada estimado para este modelo con bisel de diamantes en oro amarillo, en estado usado; la identificación se basa en la foto y el título."
-  },
-  "motivo": "triage: Precio pedido por encima del rango de venta cerrada estimado para este modelo con bisel de diamantes en oro amarillo, en estado usado; la identificación se basa en la foto y el título. (justo 9500)"
- },
- {
-  "fecha": "2026-11-19T21:40:28.696188+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Ballon Bleu 33mm WE902077 18K Rose Gold/Stainless Steel Unisex Watch",
   "total": 9364.0,
   "condicion": "Pre-owned - Good",
@@ -10956,5 +10870,80 @@
   },
   "ratio_mercado": 1.209,
   "motivo": "precio normal (121 % del cuartil bajo de 79360N-0014)"
+ },
+ {
+  "fecha": "2026-11-23T15:58:31.943177+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT Master II Green Arrow 116710LN Blue Lume Unpolished Complete",
+  "total": 14150.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/377670675215",
+  "item_id": "v1|377670675215|0",
+  "referencia": "116710LN",
+  "mercado": {
+   "n": 46,
+   "p25": 13700,
+   "mediana": 14712
+  },
+  "ratio_mercado": 1.033,
+  "motivo": "precio normal (103 % del cuartil bajo de 116710LN)"
+ },
+ {
+  "fecha": "2026-11-23T15:58:31.943177+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Rolex Oyster Perpetual 36 36mm Stainless Steel 126000-0015",
+  "total": 8995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880147065137",
+  "item_id": "v1|880147065137|0",
+  "referencia": "126000-0015",
+  "mercado": {
+   "n": 35,
+   "p25": 11812,
+   "mediana": 12485
+  },
+  "ratio_mercado": 0.762,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 9200,
+   "riesgo_autenticidad": "bajo",
+   "estado": "Casi nuevo, con marcas leves de uso en el fondo de caja; caja y papeles declarados pero no mostrados"
+  },
+  "ratio_justo": 0.978,
+  "motivo": "precio normal segun revision (98 % del justo 9200)"
+ },
+ {
+  "fecha": "2026-11-23T15:58:31.943177+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 18k Yellow Gold/Steel Blue Mens 40mm Watch +Papers A 16613",
+  "total": 12750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147694439261",
+  "item_id": "v1|147694439261|0",
+  "referencia": "16613",
+  "mercado": {
+   "n": 93,
+   "p25": 11695,
+   "mediana": 12000
+  },
+  "ratio_mercado": 1.09,
+  "motivo": "precio normal (109 % del cuartil bajo de 16613)"
+ },
+ {
+  "fecha": "2026-11-23T15:58:31.943177+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Rolex Datejust 36 36mm Stainless Steel 126234-0029",
+  "total": 14995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880147046206",
+  "item_id": "v1|880147046206|0",
+  "referencia": "126234",
+  "mercado": {
+   "n": 35,
+   "p25": 12990,
+   "mediana": 14170
+  },
+  "ratio_mercado": 1.154,
+  "motivo": "precio normal (115 % del cuartil bajo de 126234)"
  }
 ]
