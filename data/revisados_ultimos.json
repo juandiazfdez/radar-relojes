@@ -1,96 +1,5 @@
 [
  {
-  "fecha": "2026-11-20T15:40:57.280250+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date “Bluesy” 40mm Ref. 16613LB | 1999 Watch Only",
-  "total": 11995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820377105800",
-  "item_id": "v1|820377105800|0",
-  "referencia": "16613LB",
-  "mercado": {
-   "n": 7,
-   "p25": 11700,
-   "mediana": 12900
-  },
-  "ratio_mercado": 1.025,
-  "motivo": "precio normal (103 % del cuartil bajo de 16613LB)"
- },
- {
-  "fecha": "2026-11-20T15:40:57.280250+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Pelagos FXD GMT 42mm 2026 - Complete",
-  "total": 5100.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900107365669",
-  "item_id": "v1|900107365669|0",
-  "triage": {
-   "modelo": "Tudor Pelagos FXD GMT 42mm",
-   "referencia": "M25707 (aprox.; verificar con el número de serie o la tarjeta de garantía)",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Pelagos FXD GMT con caja y papeles se vende en torno a US$3.800-4.200, y el precio pedido de US$5.100 está por encima del mercado, no por debajo."
-  },
-  "motivo": "triage: Pelagos FXD GMT con caja y papeles se vende en torno a US$3.800-4.200, y el precio pedido de US$5.100 está por encima del mercado, no por debajo. (justo 4000)"
- },
- {
-  "fecha": "2026-11-20T15:55:57.327699+00:00",
-  "marca": "Rolex",
-  "titulo": "1966 Rolex Turn-O-Graph Ref. 1625 Gold & Stainless Steel Automatic Wristwatch",
-  "total": 4699.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137947249001",
-  "item_id": "v1|137947249001|0",
-  "triage": {
-   "modelo": "Rolex Datejust Turn-O-Graph (acero y oro amarillo, esfera champán, 1966)",
-   "referencia": "1625",
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "Precio cerca del mercado para esta referencia en ese estado; la foto es pequeña y no permite verificar esfera, bisel ni autenticidad."
-  },
-  "motivo": "triage: Precio cerca del mercado para esta referencia en ese estado; la foto es pequeña y no permite verificar esfera, bisel ni autenticidad. (justo 4500)"
- },
- {
-  "fecha": "2026-11-20T15:55:57.327699+00:00",
-  "marca": "Rolex",
-  "titulo": "2024 Rolex Daytona Cosmograph White PANDA Ceramic Steel 40mm 126500LN BOX PAPERS",
-  "total": 37989.73,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940108607069",
-  "item_id": "v1|940108607069|0",
-  "referencia": "126500LN",
-  "mercado": {
-   "n": 13,
-   "p25": 33000,
-   "mediana": 36033
-  },
-  "ratio_mercado": 1.151,
-  "motivo": "precio normal (115 % del cuartil bajo de 126500LN)"
- },
- {
-  "fecha": "2026-11-20T15:55:57.327699+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Blue 28 Steel Rose Gold Diamond Watch WE902052",
-  "total": 7920.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336907553854",
-  "item_id": "v1|336907553854|0",
-  "referencia": "WE902052",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 28 mm acero y oro rosa, esfera rosa con diamantes",
-   "referencia": "WE902052",
-   "precio_justo_usd": 5200,
-   "interesante": false,
-   "nota": "Cuarzo de 28 mm en acero y oro rosa con diamantes; el precio pedido de US$7.920 está muy por encima de lo que se vende hoy en el mercado secundario de EE. UU. para este modelo y estado."
-  },
-  "motivo": "triage: Cuarzo de 28 mm en acero y oro rosa con diamantes; el precio pedido de US$7.920 está muy por encima de lo que se vende hoy en el mercado secundario de EE. UU. para este modelo y estado. (justo 5200)"
- },
- {
   "fecha": "2026-11-20T16:10:57.060345+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Submariner Date 16613 Two-Tone Mens Watch Box Papers",
@@ -10958,5 +10867,102 @@
    "nota": "Precio pedido por encima del valor estimado de reventa para estado bueno; la correa naranja no es original y no añade valor."
   },
   "motivo": "triage: Precio pedido por encima del valor estimado de reventa para estado bueno; la correa naranja no es original y no añade valor. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-23T20:43:43.482979+00:00",
+  "marca": "Rolex",
+  "titulo": "2015 Rolex Submariner Date | Ref. 116613LB",
+  "total": 15700.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267852270230",
+  "item_id": "v1|267852270230|0",
+  "referencia": "116613LB",
+  "mercado": {
+   "n": 59,
+   "p25": 15400,
+   "mediana": 15995
+  },
+  "ratio_mercado": 1.019,
+  "motivo": "precio normal (102 % del cuartil bajo de 116613LB)"
+ },
+ {
+  "fecha": "2026-11-23T20:43:43.482979+00:00",
+  "marca": "Rolex",
+  "titulo": "Pre-Owned Rolex 126710GRNR GMT-Master II \"Bruce Wayne\" Stainless Steel Watch",
+  "total": 22995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206723312022",
+  "item_id": "v1|206723312022|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 98,
+   "p25": 22350,
+   "mediana": 23496
+  },
+  "ratio_mercado": 1.029,
+  "motivo": "precio normal (103 % del cuartil bajo de 126710GRNR)"
+ },
+ {
+  "fecha": "2026-11-23T20:43:43.482979+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1966 Rolex Lady Oyster Perpetual 6618  ",
+  "total": 2030.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820389874810",
+  "item_id": "v1|820389874810|0",
+  "referencia": "6618",
+  "mercado": {
+   "n": 10,
+   "p25": 2650,
+   "mediana": 3162
+  },
+  "ratio_mercado": 0.766,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 1500,
+   "riesgo_autenticidad": "medio",
+   "estado": "Desgaste de vintage con esfera envejecida y agrietada, plexi marcado, sin servicio conocido"
+  },
+  "motivo": "Claude descarto: El precio pedido de US$2030 es alto para este reloj. Los 6618 de acero se cierran sin caja ni papeles en torno a US$1,300-1,800. Los comparables de eBay (mediana 3162) son precios pedidos y están inflados.; No hay foto del fondo de caja ni del movimiento. Eso impide verificar el número de serie y de referencia, el calibre (probablemente 1161 o 1130) y si las piezas son originales."
+ },
+ {
+  "fecha": "2026-11-23T20:43:43.482979+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos de Cartier WSSA0082",
+  "total": 3970.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407384096062",
+  "item_id": "v1|407384096062|0",
+  "referencia": "WSSA0082",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Santos de Cartier (talla mediana, acero y oro amarillo, esfera plateada con numerales romanos)",
+   "referencia": "WSSA0082",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "El precio pedido de US$3970 queda unos 15% por encima de la venta real estimada para un Santos bicolor de talla mediana usado; la referencia exacta y el tipo de movimiento no son totalmente verificables en la foto."
+  },
+  "motivo": "triage: El precio pedido de US$3970 queda unos 15% por encima de la venta real estimada para un Santos bicolor de talla mediana usado; la referencia exacta y el tipo de movimiento no son totalmente verificables en la foto. (justo 3400)"
+ },
+ {
+  "fecha": "2026-11-23T20:43:43.482979+00:00",
+  "marca": "Tudor",
+  "titulo": "1964 Tudor Big Rose Smiley Ref. 7966 Prince Oysterdate Stainless Steel Watch",
+  "total": 2500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137956738025",
+  "item_id": "v1|137956738025|0",
+  "triage": {
+   "modelo": "Tudor Prince Oysterdate (Big Rose), dial tipo 'smiley' según el listado",
+   "referencia": "7966",
+   "precio_justo_usd": 2200,
+   "interesante": false,
+   "nota": "Referencia y época plausibles, pero la foto es pequeña y no confirma el dial smiley; sin caja ni papeles, el precio pedido de US$2,500 está por encima del valor de venta real."
+  },
+  "motivo": "triage: Referencia y época plausibles, pero la foto es pequeña y no confirma el dial smiley; sin caja ni papeles, el precio pedido de US$2,500 está por encima del valor de venta real. (justo 2200)"
  }
 ]

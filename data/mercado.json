@@ -6390,13 +6390,13 @@
   "max": 24856
  },
  "Rolex 6618|usado": {
-  "fecha": "2026-11-18",
+  "fecha": "2026-11-23",
   "consulta": "Rolex 6618",
-  "n": 11,
-  "mediana": 2825,
+  "n": 10,
+  "mediana": 3162,
   "p25": 2650,
-  "p75": 3500,
-  "min": 2100,
+  "p75": 4000,
+  "min": 1950,
   "max": 7990
  },
  "Rolex 179313|usado": {
@@ -6890,12 +6890,12 @@
   "max": 20502
  },
  "Rolex 126710GRNR|usado": {
-  "fecha": "2026-11-20",
+  "fecha": "2026-11-23",
   "consulta": "Rolex 126710GRNR",
-  "n": 100,
-  "mediana": 23498,
+  "n": 98,
+  "mediana": 23496,
   "p25": 22350,
-  "p75": 23995,
+  "p75": 24500,
   "min": 18345,
   "max": 31103
  },
@@ -22572,6 +22572,11 @@
  "Cartier 2369|usado": {
   "fecha": "2026-11-23",
   "consulta": "Cartier 2369",
+  "n": 0
+ },
+ "Cartier WSSA0082|usado": {
+  "fecha": "2026-11-23",
+  "consulta": "Cartier WSSA0082",
   "n": 0
  }
 }
