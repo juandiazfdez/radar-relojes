@@ -1,91 +1,6 @@
 [
  {
   "fecha": "2026-11-20T18:56:10.406447+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 16610LV Submariner",
-  "total": 16925.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920165119151",
-  "item_id": "v1|920165119151|0",
-  "referencia": "16610LV",
-  "mercado": {
-   "n": 30,
-   "p25": 14500,
-   "mediana": 16224
-  },
-  "ratio_mercado": 1.167,
-  "motivo": "precio normal (117 % del cuartil bajo de 16610LV)"
- },
- {
-  "fecha": "2026-11-20T18:56:10.406447+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 14060 Submariner No Date",
-  "total": 11725.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920165118914",
-  "item_id": "v1|920165118914|0",
-  "referencia": "14060",
-  "mercado": {
-   "n": 50,
-   "p25": 9895,
-   "mediana": 10790
-  },
-  "ratio_mercado": 1.185,
-  "motivo": "precio normal (118 % del cuartil bajo de 14060)"
- },
- {
-  "fecha": "2026-11-20T18:56:10.406447+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 268655 Yachtmaster 37 18K Rose Gold 37mm",
-  "total": 26925.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920165118788",
-  "item_id": "v1|920165118788|0",
-  "referencia": "268655",
-  "mercado": {
-   "n": 13,
-   "p25": 23138,
-   "mediana": 23850
-  },
-  "ratio_mercado": 1.164,
-  "motivo": "precio normal (116 % del cuartil bajo de 268655)"
- },
- {
-  "fecha": "2026-11-20T18:56:10.406447+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Lady Oyster Perpetual Datejust Gold Watch (see Description- Possibly Fake)",
-  "total": 123.5,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/128205354920",
-  "item_id": "v1|128205354920|0",
-  "triage": {
-   "modelo": "Rolex Lady Oyster Perpetual Datejust (aspecto dorado, posible réplica o chapado)",
-   "referencia": null,
-   "precio_justo_usd": 30,
-   "interesante": false,
-   "nota": "El propio listado dice 'possibly fake', la foto no permite verificar oro macizo ni autenticidad, y el precio de US$124 es coherente con una réplica o chapado. Solo sería atractivo con autenticación Rolex verificada y oro macizo."
-  },
-  "motivo": "triage: El propio listado dice 'possibly fake', la foto no permite verificar oro macizo ni autenticidad, y el precio de US$124 es coherente con una réplica o chapado. Solo sería atractivo con autenticación Rolex verificada y oro macizo. (justo 30)"
- },
- {
-  "fecha": "2026-11-20T18:56:10.406447+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Skydweller Yellow Gold Oysterflex Black 336238 Mint",
-  "total": 36575.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920165126612",
-  "item_id": "v1|920165126612|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller, oro amarillo, bisel acanalado, esfera negra, correa Oysterflex",
-   "referencia": "336238",
-   "precio_justo_usd": 38000,
-   "interesante": false,
-   "nota": "Precio pedido apenas 4% bajo la estimación de venta real; no hay descuento suficiente para considerarlo oportunidad, y no puedo verificar caja ni papeles desde la foto."
-  },
-  "motivo": "triage: Precio pedido apenas 4% bajo la estimación de venta real; no hay descuento suficiente para considerarlo oportunidad, y no puedo verificar caja ni papeles desde la foto. (justo 38000)"
- },
- {
-  "fecha": "2026-11-20T18:56:10.406447+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Française Chronoflex 2303",
   "total": 4894.34,
@@ -10961,5 +10876,96 @@
    "nota": "Precio pedido de US$4699 con envío, sin caja ni papeles mencionados; el precio de venta real para una edición especial de este tipo ronda US$4000-4300, así que no hay descuento de al menos 15%."
   },
   "motivo": "triage: Precio pedido de US$4699 con envío, sin caja ni papeles mencionados; el precio de venta real para una edición especial de este tipo ronda US$4000-4300, así que no hay descuento de al menos 15%. (justo 4200)"
+ },
+ {
+  "fecha": "2026-11-23T22:28:43.100925+00:00",
+  "marca": "Rolex",
+  "titulo": "1999 Rolex Oyster Perpetual Date 79240 Silver Index Steel 26mm Jubilee Papers",
+  "total": 5050.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237202261289",
+  "item_id": "v1|237202261289|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date 26mm (acero, bisel liso, esfera plateada con índices, pulsera Jubilee)",
+   "referencia": "79240",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Precio pedido de US$5.050 está muy por encima del valor de venta cerrada de un 79240 de 1999 en buen estado, aunque tenga papeles; no parece oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$5.050 está muy por encima del valor de venta cerrada de un 79240 de 1999 en buen estado, aunque tenga papeles; no parece oportunidad. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-23T22:28:43.100925+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Lady 26 mm Two Tone White Roman Automatic Watch 6719 1981",
+  "total": 3990.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407384243051",
+  "item_id": "v1|407384243051|0",
+  "referencia": "6719",
+  "mercado": {
+   "n": 17,
+   "p25": 4000,
+   "mediana": 6600
+  },
+  "ratio_mercado": 0.998,
+  "motivo": "precio normal (100 % del cuartil bajo de 6719)"
+ },
+ {
+  "fecha": "2026-11-23T22:28:43.100925+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona UNWORN 2026 Meteorite/Black Index 40mm Oysterflex Wood 126515LN",
+  "total": 86995.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/198819195318",
+  "item_id": "v1|198819195318|0",
+  "referencia": "126515LN",
+  "mercado": {
+   "n": 7,
+   "p25": 54775,
+   "mediana": 59975
+  },
+  "ratio_mercado": 1.588,
+  "motivo": "precio normal (159 % del cuartil bajo de 126515LN)"
+ },
+ {
+  "fecha": "2026-11-23T22:28:43.100925+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Bubbleback 2940 WW2 Era Men’s Vintage Watch",
+  "total": 3150.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227628452373",
+  "item_id": "v1|227628452373|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Bubbleback, caja dorada (no verificable en la foto)",
+   "referencia": "2940 (según el título, no confirmada)",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "La foto no muestra firma ni corona Rolex legibles. Hay que confirmar si la caja es oro macizo o chapado/gold-filled, y el movimiento y la esfera, antes de fiarse del precio."
+  },
+  "motivo": "triage: La foto no muestra firma ni corona Rolex legibles. Hay que confirmar si la caja es oro macizo o chapado/gold-filled, y el movimiento y la esfera, antes de fiarse del precio. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-23T22:28:43.100925+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Vintage Mini Baigniore 2368",
+  "total": 22770.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407384239343",
+  "item_id": "v1|407384239343|0",
+  "referencia": "2368",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Baignoire Mini vintage (cuarzo, caja ovalada, brazalete integrado)",
+   "referencia": "2368",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio pedido muy superior al de venta real para esta referencia en estado Good; incluso en oro macizo, el valor estimado es bastante menor."
+  },
+  "motivo": "triage: Precio pedido muy superior al de venta real para esta referencia en estado Good; incluso en oro macizo, el valor estimado es bastante menor. (justo 4000)"
  }
 ]

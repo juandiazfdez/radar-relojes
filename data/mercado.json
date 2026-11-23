@@ -14705,7 +14705,7 @@
   "max": 5070
  },
  "Rolex 6719|usado": {
-  "fecha": "2026-11-21",
+  "fecha": "2026-11-23",
   "consulta": "Rolex 6719",
   "n": 17,
   "mediana": 6600,
@@ -21185,14 +21185,14 @@
   "n": 0
  },
  "Rolex 126515LN|nuevo": {
-  "fecha": "2026-11-13",
+  "fecha": "2026-11-23",
   "consulta": "Rolex 126515LN",
   "n": 7,
   "mediana": 59975,
   "p25": 54775,
-  "p75": 86999,
+  "p75": 95000,
   "min": 52195,
-  "max": 95000
+  "max": 97316
  },
  "Cartier WJBB0037|usado": {
   "fecha": "2026-11-13",
@@ -22607,6 +22607,11 @@
  "Rolex 279160|usado": {
   "fecha": "2026-11-23",
   "consulta": "Rolex 279160",
+  "n": 0
+ },
+ "Cartier 2368|usado": {
+  "fecha": "2026-11-23",
+  "consulta": "Cartier 2368",
   "n": 0
  }
 }
