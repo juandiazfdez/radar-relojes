@@ -1,68 +1,5 @@
 [
  {
-  "fecha": "2026-11-19T20:25:29.395805+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos-Dumont WSSA0085",
-  "total": 4850.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/860156145981",
-  "item_id": "v1|860156145981|0",
-  "referencia": "WSSA0085",
-  "mercado": {
-   "n": 1,
-   "p25": 5700,
-   "mediana": 5700
-  },
-  "triage": {
-   "modelo": "Cartier Santos-Dumont (acero, esfera plateada con números romanos, correa de cocodrilo azul; aspecto de talla grande)",
-   "referencia": "WSSA0085 (según el título; no verificable en la foto)",
-   "precio_justo_usd": 5200,
-   "interesante": false,
-   "nota": "Precio pedido apenas un 7 % bajo una estimación conservadora de venta cerrada; sin confirmar caja, papeles ni referencia exacta."
-  },
-  "motivo": "triage: Precio pedido apenas un 7 % bajo una estimación conservadora de venta cerrada; sin confirmar caja, papeles ni referencia exacta. (justo 5200)"
- },
- {
-  "fecha": "2026-11-19T20:25:29.395805+00:00",
-  "marca": "Tudor",
-  "titulo": "2024 Complete Set Tudor Black Bay 58 GMT Coke 7939G1A0NRU",
-  "total": 4350.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960217257012",
-  "item_id": "v1|960217257012|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 GMT 'Coke' (bisel rojo y negro, brazalete de acero)",
-   "referencia": "M7939G1A0NRU",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Precio pedido de US$4,350 con envío queda por encima de lo que esta referencia se vende hoy en el mercado secundario, aunque sea un set completo en buen estado."
-  },
-  "motivo": "triage: Precio pedido de US$4,350 con envío queda por encima de lo que esta referencia se vende hoy en el mercado secundario, aunque sea un set completo en buen estado. (justo 4000)"
- },
- {
-  "fecha": "2026-11-19T20:25:29.395805+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay S&G M79733N-0004, Excellent Preowned, Warranty 4/28",
-  "total": 5299.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960217256623",
-  "item_id": "v1|960217256623|0",
-  "referencia": "M79733N-0004",
-  "mercado": {
-   "n": 1,
-   "p25": 4097,
-   "mediana": 4097
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay S&G (Save and Grow), acero y oro amarillo, esfera champán",
-   "referencia": "M79733N-0004",
-   "precio_justo_usd": 4600,
-   "interesante": false,
-   "nota": "Con caja y papeles, garantía hasta 2028, el precio pedido está por encima del valor de venta cerrada estimado para esta referencia en EE. UU."
-  },
-  "motivo": "triage: Con caja y papeles, garantía hasta 2028, el precio pedido está por encima del valor de venta cerrada estimado para esta referencia en EE. UU. (justo 4600)"
- },
- {
   "fecha": "2026-11-19T20:40:29.011461+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Date just 79160 2005 26mm (PD5037964)",
@@ -11021,5 +10958,56 @@
    "nota": "Referencia no identificable en la foto; precio pedido por encima del valor estimado para un Bubbleback de oro 14k de los 40 con servicio, sin caja ni papeles."
   },
   "motivo": "triage: Referencia no identificable en la foto; precio pedido por encima del valor estimado para un Bubbleback de oro 14k de los 40 con servicio, sin caja ni papeles. (justo 4500)"
+ },
+ {
+  "fecha": "2026-11-23T02:12:57.755542+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona 126503 Black Diamonds 2026 Fresh FULL SET Gold Steel 40 mm",
+  "total": 32065.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/860168913034",
+  "item_id": "v1|860168913034|0",
+  "referencia": "126503",
+  "mercado": {
+   "n": 10,
+   "p25": 28999,
+   "mediana": 30172
+  },
+  "ratio_mercado": 1.106,
+  "motivo": "precio normal (111 % del cuartil bajo de 126503)"
+ },
+ {
+  "fecha": "2026-11-23T02:12:57.755542+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sea-Dweller 4000 ref. 116600 year 2007 RSC guarantee till 08.2028",
+  "total": 15486.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147693456283",
+  "item_id": "v1|147693456283|0",
+  "referencia": "116600",
+  "mercado": {
+   "n": 9,
+   "p25": 14468,
+   "mediana": 14468
+  },
+  "ratio_mercado": 1.07,
+  "motivo": "precio normal (107 % del cuartil bajo de 116600)"
+ },
+ {
+  "fecha": "2026-11-23T02:12:57.755542+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos de Cartier WSSA0029 Full Set 2021",
+  "total": 7350.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920170191366",
+  "item_id": "v1|920170191366|0",
+  "referencia": "WSSA0029",
+  "mercado": {
+   "n": 7,
+   "p25": 7450,
+   "mediana": 7750
+  },
+  "ratio_mercado": 0.987,
+  "motivo": "precio normal (99 % del cuartil bajo de WSSA0029)"
  }
 ]
