@@ -1,73 +1,5 @@
 [
  {
-  "fecha": "2026-11-20T18:11:09.770130+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos De Cartier Automatic 38mm Stainless Steel Watch Eb1126ooxzsa",
-  "total": 7500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800943545146",
-  "item_id": "v1|800943545146|0",
-  "triage": {
-   "modelo": "Cartier Santos de Cartier Automatic, esfera negra con números romanos y correa de caucho (posiblemente modelo de gran tamaño)",
-   "referencia": "null",
-   "precio_justo_usd": 6200,
-   "interesante": false,
-   "nota": "El título cita 'EB1126OOXZSA' (no es una referencia Cartier estándar; las Santos suelen usar WSSA####) y el tamaño de 38 mm no coincide con el aspecto de la foto. Precio pedido por encima del mercado secundario para una Santos de acero usada."
-  },
-  "motivo": "triage: El título cita 'EB1126OOXZSA' (no es una referencia Cartier estándar; las Santos suelen usar WSSA####) y el tamaño de 38 mm no coincide con el aspecto de la foto. Precio pedido por encima del mercado secundario para una Santos de acero usada. (justo 6200)"
- },
- {
-  "fecha": "2026-11-20T18:11:09.770130+00:00",
-  "marca": "Cartier",
-  "titulo": "CARTIER PANTHERE - REF. 183964 LADIES WATCH",
-  "total": 5300.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257862729922",
-  "item_id": "v1|257862729922|0",
-  "triage": {
-   "modelo": "Cartier Panthère Vendôme (oval, acero y oro, cuarzo)",
-   "referencia": "183964",
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "Precio pedido de US$5,300 muy por encima del valor de mercado para este modelo de cuarzo bicolor de uso; la foto coincide con el diseño oval Vendôme."
-  },
-  "motivo": "triage: Precio pedido de US$5,300 muy por encima del valor de mercado para este modelo de cuarzo bicolor de uso; la foto coincide con el diseño oval Vendôme. (justo 2300)"
- },
- {
-  "fecha": "2026-11-20T18:26:09.919333+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date \"1990\" 16610",
-  "total": 10796.44,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336907694165",
-  "item_id": "v1|336907694165|0",
-  "referencia": "16610",
-  "mercado": {
-   "n": 81,
-   "p25": 9900,
-   "mediana": 10395
-  },
-  "ratio_mercado": 1.091,
-  "motivo": "precio normal (109 % del cuartil bajo de 16610)"
- },
- {
-  "fecha": "2026-11-20T18:26:09.919333+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date, Black Dial, 126610LN",
-  "total": 14669.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/800943616766",
-  "item_id": "v1|800943616766|0",
-  "referencia": "126610LN",
-  "mercado": {
-   "n": 85,
-   "p25": 14499,
-   "mediana": 15068
-  },
-  "ratio_mercado": 1.012,
-  "motivo": "precio normal (101 % del cuartil bajo de 126610LN)"
- },
- {
   "fecha": "2026-11-20T18:26:09.919333+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust 31 NEW 2026 Champagne Diamond Two Tone Yellow Gold Smooth Jubilee",
@@ -10928,5 +10860,80 @@
   },
   "ratio_mercado": 0.939,
   "motivo": "precio normal (94 % del cuartil bajo de 116503)"
+ },
+ {
+  "fecha": "2026-11-23T21:28:43.446199+00:00",
+  "marca": "Rolex",
+  "titulo": "2014 PAPERS Rolex 116333 Datejust II Champagne Diamond 41mm Two-Tone Yellow Gold",
+  "total": 12617.05,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/307297966736",
+  "item_id": "v1|307297966736|0",
+  "referencia": "116333",
+  "mercado": {
+   "n": 57,
+   "p25": 13495,
+   "mediana": 14850
+  },
+  "ratio_mercado": 0.935,
+  "motivo": "precio normal (93 % del cuartil bajo de 116333)"
+ },
+ {
+  "fecha": "2026-11-23T21:28:43.446199+00:00",
+  "marca": "Rolex",
+  "titulo": "2024 RSC PAPERS MINT Rolex Yacht-Master 116655 Rose Gold 40mm Black Oysterflex",
+  "total": 26757.05,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940117721381",
+  "item_id": "v1|940117721381|0",
+  "referencia": "116655",
+  "mercado": {
+   "n": 23,
+   "p25": 26708,
+   "mediana": 29999
+  },
+  "ratio_mercado": 1.002,
+  "motivo": "precio normal (100 % del cuartil bajo de 116655)"
+ },
+ {
+  "fecha": "2026-11-23T21:28:43.446199+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Datejust 2026 ",
+  "total": 9750.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880147636019",
+  "item_id": "v1|880147636019|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Datejust (acero, esfera blanca, posible 36 mm)",
+   "referencia": null,
+   "precio_justo_usd": 10500,
+   "interesante": false,
+   "nota": "El título '2026' no es un año de referencia válido; la referencia no se distingue en la foto. Un Datejust de acero nuevo con caja y papeles se vende cerca o por encima de retail, así que US$9.750 está apenas ~7 % por debajo, sin llegar al 15 % exigido."
+  },
+  "motivo": "triage: El título '2026' no es un año de referencia válido; la referencia no se distingue en la foto. Un Datejust de acero nuevo con caja y papeles se vende cerca o por encima de retail, así que US$9.750 está apenas ~7 % por debajo, sin llegar al 15 % exigido. (justo 10500)"
+ },
+ {
+  "fecha": "2026-11-23T21:28:43.446199+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise Small W51008Q3 Quartz Steel Bracelet Box Set 2384",
+  "total": 3095.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920176767963",
+  "item_id": "v1|920176767963|0",
+  "referencia": "W51008Q3",
+  "mercado": {
+   "n": 34,
+   "p25": 3781,
+   "mediana": 4245
+  },
+  "ratio_mercado": 0.819,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 2650,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado, buen estado visible, con rayones en la caja; sin papeles"
+  },
+  "ratio_justo": 1.168,
+  "motivo": "precio normal segun revision (117 % del justo 2650)"
  }
 ]
