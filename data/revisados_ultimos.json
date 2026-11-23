@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-19T21:25:29.184744+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Roadster 44mmx38.5mm W62031Y4 Stainless Steel Unisex Watch",
-  "total": 8025.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168874019828",
-  "item_id": "v1|168874019828|0",
-  "triage": {
-   "modelo": "Cartier Roadster XL bicolor acero y oro (38.5 x 44 mm), esfera plateada con numerales romanos",
-   "referencia": "W62031Y4",
-   "precio_justo_usd": 6800,
-   "interesante": false,
-   "nota": "El precio pedido supera el valor de venta estimado; además el título dice acero, pero la foto muestra bicolor acero/oro, así que la descripción debe verificarse."
-  },
-  "motivo": "triage: El precio pedido supera el valor de venta estimado; además el título dice acero, pero la foto muestra bicolor acero/oro, así que la descripción debe verificarse. (justo 6800)"
- },
- {
-  "fecha": "2026-11-19T21:25:29.184744+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Baignoire 34x44mm WB520005 18K Rose Gold Women's Watch",
   "total": 20385.0,
   "condicion": "Pre-owned - Good",
@@ -11016,5 +10999,22 @@
    "nota": "Caja de acero con esfera negra, subesfera y fecha; el precio pedido de US$1995 está por encima del valor de venta cerrada estimado para este modelo en estado excelente."
   },
   "motivo": "triage: Caja de acero con esfera negra, subesfera y fecha; el precio pedido de US$1995 está por encima del valor de venta cerrada estimado para este modelo en estado excelente. (justo 1500)"
+ },
+ {
+  "fecha": "2026-11-23T13:58:32.407278+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 New Tudor Black Bay 58 Black Burgundy \"Coke\" 39mm 5-Link Steel 7939G1A0NRU ",
+  "total": 5247.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/117537919807",
+  "item_id": "v1|117537919807|0",
+  "triage": {
+   "modelo": "Tudor Black Bay GMT 'Coke' (Black Bay 58 GMT, bisel negro/burdeos, 39 mm, acero con brazalete de 5 eslabones)",
+   "referencia": "M7939G1A0NRU (según el título; no verificable en la imagen)",
+   "precio_justo_usd": 4400,
+   "interesante": false,
+   "nota": "Precio pedido por encima del mercado gris para un modelo nuevo con caja y papeles; no hay descuento suficiente para considerarlo oportunidad."
+  },
+  "motivo": "triage: Precio pedido por encima del mercado gris para un modelo nuevo con caja y papeles; no hay descuento suficiente para considerarlo oportunidad. (justo 4400)"
  }
 ]
