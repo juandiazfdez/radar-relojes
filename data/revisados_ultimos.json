@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-11-19T21:25:29.184744+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Watch Sea-Dweller Deepsea James Cameron 136660 2025 - Inventory 9503 44mm",
-  "total": 15499.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287742159555",
-  "item_id": "v1|287742159555|0",
-  "referencia": "136660",
-  "mercado": {
-   "n": 53,
-   "p25": 15010,
-   "mediana": 15999
-  },
-  "ratio_mercado": 1.033,
-  "motivo": "precio normal (103 % del cuartil bajo de 136660)"
- },
- {
-  "fecha": "2026-11-19T21:25:29.184744+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona 126503 appx.2026 No Papers",
-  "total": 25700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407372951406",
-  "item_id": "v1|407372951406|0",
-  "referencia": "126503",
-  "mercado": {
-   "n": 18,
-   "p25": 26708,
-   "mediana": 28650
-  },
-  "ratio_mercado": 0.962,
-  "motivo": "precio normal (96 % del cuartil bajo de 126503)"
- },
- {
-  "fecha": "2026-11-19T21:25:29.184744+00:00",
   "marca": "Cartier",
   "titulo": "Cartier La Doña 18×16mm W640070I 18K Rose Gold Women's Watch",
   "total": 21930.0,
@@ -11015,5 +10981,46 @@
   },
   "ratio_mercado": 0.99,
   "motivo": "precio normal (99 % del cuartil bajo de 116613LB)"
+ },
+ {
+  "fecha": "2026-11-23T13:13:21.345840+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 36mm 116233 White Roman Fluted Jubilee 1995",
+  "total": 7750.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147694264624",
+  "item_id": "v1|147694264624|0",
+  "referencia": "116233",
+  "mercado": {
+   "n": 59,
+   "p25": 10950,
+   "mediana": 11270
+  },
+  "ratio_mercado": 0.708,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 6200,
+   "riesgo_autenticidad": "bajo",
+   "estado": "Aspecto muy bueno, sin pulir en exceso y sin daños visibles. Falta foto del movimiento y la caja Rolex no aparece."
+  },
+  "ratio_justo": 1.25,
+  "motivo": "precio normal segun revision (125 % del justo 6200)"
+ },
+ {
+  "fecha": "2026-11-23T13:13:21.345840+00:00",
+  "marca": "Tudor",
+  "titulo": "2024 Tudor Black Bay 58 GMT Coke 7939G1A0NRU-0002 FULL SET Very Good Condition",
+  "total": 4045.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366832376260",
+  "item_id": "v1|366832376260|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 GMT Coke (39 mm, acero, bisel rojo/negro)",
+   "referencia": "M7939G1A0NRU-0002",
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "Modelo reciente de 2024 con caja y papeles; el precio pedido de US$4045 está por encima de la estimación de venta real, así que no hay descuento claro."
+  },
+  "motivo": "triage: Modelo reciente de 2024 con caja y papeles; el precio pedido de US$4045 está por encima de la estimación de venta real, así que no hay descuento claro. (justo 3900)"
  }
 ]
