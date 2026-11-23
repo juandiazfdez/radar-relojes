@@ -2,46 +2,6 @@
  {
   "fecha": "2026-11-19T21:40:28.696188+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 28mm W6900256 18K Rose Gold Women's Watch",
-  "total": 7003.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960217636149",
-  "item_id": "v1|960217636149|0",
-  "referencia": "W6900256",
-  "mercado": {
-   "n": 3,
-   "p25": 6309,
-   "mediana": 7323
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 28 mm, oro rosa 18K, cuarzo, esfera plateada con numerales romanos, correa de cuero negro",
-   "referencia": "W6900256",
-   "precio_justo_usd": 5800,
-   "interesante": false,
-   "nota": "Precio pedido de US$7,003 con envío por encima del valor de venta cerrada estimado para un Ballon Bleu de oro rosa 28 mm en estado Good; la referencia exacta y la presencia de caja y papeles no se pueden verificar en la foto."
-  },
-  "motivo": "triage: Precio pedido de US$7,003 con envío por encima del valor de venta cerrada estimado para un Ballon Bleu de oro rosa 28 mm en estado Good; la referencia exacta y la presencia de caja y papeles no se pueden verificar en la foto. (justo 5800)"
- },
- {
-  "fecha": "2026-11-19T21:40:28.696188+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Française 20mm W4TA0008 Stainless Steel Women's Watch",
-  "total": 8025.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840146109665",
-  "item_id": "v1|840146109665|0",
-  "referencia": "W4TA0008",
-  "mercado": {
-   "n": 6,
-   "p25": 6950,
-   "mediana": 7180
-  },
-  "ratio_mercado": 1.155,
-  "motivo": "precio normal (115 % del cuartil bajo de W4TA0008)"
- },
- {
-  "fecha": "2026-11-19T21:40:28.696188+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Tank Américaine 19x34.8mm W2607456 18K Rose Gold Unisex Watch",
   "total": 7642.0,
   "condicion": "Pre-owned - Good",
@@ -10962,5 +10922,39 @@
   },
   "ratio_mercado": 1.024,
   "motivo": "precio normal (102 % del cuartil bajo de W6700355)"
+ },
+ {
+  "fecha": "2026-11-23T15:43:31.659567+00:00",
+  "marca": "Cartier",
+  "titulo": "CARTIER Unisex 18K Yellow Gold 25.5mm Tank Louis W1529756-2441 Box",
+  "total": 8800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960234796707",
+  "item_id": "v1|960234796707|0",
+  "referencia": "W1529756",
+  "mercado": {
+   "n": 7,
+   "p25": 9828,
+   "mediana": 10291
+  },
+  "ratio_mercado": 0.895,
+  "motivo": "precio normal (90 % del cuartil bajo de W1529756)"
+ },
+ {
+  "fecha": "2026-11-23T15:43:31.659567+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay Chrono “Panda” 79360N-0014 41mm Jubilee 5-Link",
+  "total": 5500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800956685227",
+  "item_id": "v1|800956685227|0",
+  "referencia": "79360N-0014",
+  "mercado": {
+   "n": 55,
+   "p25": 4550,
+   "mediana": 5000
+  },
+  "ratio_mercado": 1.209,
+  "motivo": "precio normal (121 % del cuartil bajo de 79360N-0014)"
  }
 ]
