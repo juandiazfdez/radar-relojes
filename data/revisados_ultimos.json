@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-19T21:25:29.184744+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Tank Louis 22x29mm WJTA0010 18K Rose Gold Men's Watch",
-  "total": 14720.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960217623742",
-  "item_id": "v1|960217623742|0",
-  "referencia": "WJTA0010",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Tank Louis (talla pequeña, 22x29 mm), oro rosa 18K con bisel de diamantes, esfera blanca de números romanos, correa de cocodrilo granate",
-   "referencia": "WJTA0010",
-   "precio_justo_usd": 10500,
-   "interesante": false,
-   "nota": "Precio pedido bastante por encima del valor de reventa estimado; el título dice 'Men's' pero la talla 22x29 es típica de modelo unisex/femenino. Sin caja ni papeles visibles."
-  },
-  "motivo": "triage: Precio pedido bastante por encima del valor de reventa estimado; el título dice 'Men's' pero la talla 22x29 es típica de modelo unisex/femenino. Sin caja ni papeles visibles. (justo 10500)"
- },
- {
-  "fecha": "2026-11-19T21:25:29.184744+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier La Dona Stainless Steel W6600121 Quartz",
   "total": 5535.0,
   "condicion": "Pre-owned - Excellent",
@@ -10998,5 +10975,22 @@
    "nota": "El precio pedido de US$3005 supera claramente el valor de venta cerrada de un Tank Solo de acero usado en condición Good. Referencia no confirmable en la foto."
   },
   "motivo": "triage: El precio pedido de US$3005 supera claramente el valor de venta cerrada de un Tank Solo de acero usado en condición Good. Referencia no confirmable en la foto. (justo 2300)"
+ },
+ {
+  "fecha": "2026-11-23T14:28:31.813017+00:00",
+  "marca": "Rolex",
+  "titulo": "Up for sale is A Rolex lydis wrist watch case",
+  "total": 700.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307295526990",
+  "item_id": "v1|307295526990|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust (caja sola, acero con bisel bicolor)",
+   "referencia": null,
+   "precio_justo_usd": 100,
+   "interesante": false,
+   "nota": "Es solo la caja, sin movimiento, esfera ni corona visibles. Una caja suelta de Lady-Datejust se vende por muy poco; US$700 es mucho más de lo que vale como pieza."
+  },
+  "motivo": "triage: Es solo la caja, sin movimiento, esfera ni corona visibles. Una caja suelta de Lady-Datejust se vende por muy poco; US$700 es mucho más de lo que vale como pieza. (justo 100)"
  }
 ]
