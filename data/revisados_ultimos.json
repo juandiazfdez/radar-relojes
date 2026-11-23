@@ -1,80 +1,6 @@
 [
  {
   "fecha": "2026-11-20T18:11:09.770130+00:00",
-  "marca": "Rolex",
-  "titulo": "Mens Rolex Oyster Datejust Ref 16013 36mm 18k SS 1980s Automatic Swiss RA396",
-  "total": 5258.4,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820377649590",
-  "item_id": "v1|820377649590|0",
-  "referencia": "16013",
-  "mercado": {
-   "n": 22,
-   "p25": 1815,
-   "mediana": 4450
-  },
-  "ratio_mercado": 2.897,
-  "motivo": "precio normal (290 % del cuartil bajo de 16013)"
- },
- {
-  "fecha": "2026-11-20T18:11:09.770130+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 41 \"2026 - Beige\" 134300",
-  "total": 10796.44,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336907687453",
-  "item_id": "v1|336907687453|0",
-  "referencia": "134300",
-  "mercado": {
-   "n": 18,
-   "p25": 12073,
-   "mediana": 12708
-  },
-  "ratio_mercado": 0.894,
-  "motivo": "precio normal (89 % del cuartil bajo de 134300)"
- },
- {
-  "fecha": "2026-11-20T18:11:09.770130+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Day-Date 36, President Bracelet, Champagne Diamond Dial, Yellow...",
-  "total": 30043.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/366825483630",
-  "item_id": "v1|366825483630|0",
-  "triage": {
-   "modelo": "Rolex Day-Date 36 (President), oro amarillo, bisel acanalado, esfera champán con diamantes",
-   "referencia": "18238 (probable, verificar)",
-   "precio_justo_usd": 31000,
-   "interesante": false,
-   "nota": "Precio pedido cercano al valor de mercado (~3% bajo), no al 15%. El término 'Renewed' sugiere reacondicionamiento; verificar autenticidad, papeles y el estado de la esfera antes de comprar."
-  },
-  "motivo": "triage: Precio pedido cercano al valor de mercado (~3% bajo), no al 15%. El término 'Renewed' sugiere reacondicionamiento; verificar autenticidad, papeles y el estado de la esfera antes de comprar. (justo 31000)"
- },
- {
-  "fecha": "2026-11-20T18:11:09.770130+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Captive de Cartier 18k White Gold Quartz Diamonds Silver Watch WG600008",
-  "total": 9405.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940108898548",
-  "item_id": "v1|940108898548|0",
-  "referencia": "WG600008",
-  "mercado": {
-   "n": 1,
-   "p25": 10025,
-   "mediana": 10025
-  },
-  "triage": {
-   "modelo": "Cartier Captive de Cartier, oro blanco 18k, bisel de diamantes, cuarzo",
-   "referencia": "WG600008",
-   "precio_justo_usd": 6500,
-   "interesante": false,
-   "nota": "Precio pedido de US$9.405 con envío, muy por encima del valor de venta cerrada para este modelo de oro blanco con diamantes y estado Good; no hay descuento claro."
-  },
-  "motivo": "triage: Precio pedido de US$9.405 con envío, muy por encima del valor de venta cerrada para este modelo de oro blanco con diamantes y estado Good; no hay descuento claro. (justo 6500)"
- },
- {
-  "fecha": "2026-11-20T18:11:09.770130+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos De Cartier Automatic 38mm Stainless Steel Watch Eb1126ooxzsa",
   "total": 7500.0,
@@ -10934,5 +10860,73 @@
   },
   "ratio_mercado": 0.982,
   "motivo": "precio normal (98 % del cuartil bajo de 79360N)"
+ },
+ {
+  "fecha": "2026-11-23T21:13:43.066123+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sky-Dweller GMT Automatic Chronometer Men's Watch 336235-0002",
+  "total": 50925.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840159887841",
+  "item_id": "v1|840159887841|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller en oro Everose con esfera marrón y correa Oysterflex",
+   "referencia": "336235",
+   "precio_justo_usd": 39000,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de venta real de esta referencia nueva con caja y papeles, sin descuento que justifique la compra."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de venta real de esta referencia nueva con caja y papeles, sin descuento que justifique la compra. (justo 39000)"
+ },
+ {
+  "fecha": "2026-11-23T21:13:43.066123+00:00",
+  "marca": "Rolex",
+  "titulo": "2023 Rolex Sky-Dweller 42mm Silver Index Jubilee Watch 336934 Box/Papers/Tag",
+  "total": 23120.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336912951324",
+  "item_id": "v1|336912951324|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller 42 mm, acero con bisel estriado de oro blanco, esfera plateada, brazalete Jubilee",
+   "referencia": "336934",
+   "precio_justo_usd": 24000,
+   "interesante": false,
+   "nota": "Precio pedido cercano al valor de mercado para esta referencia con caja y papeles; no hay descuento de al menos 15 %."
+  },
+  "motivo": "triage: Precio pedido cercano al valor de mercado para esta referencia con caja y papeles; no hay descuento de al menos 15 %. (justo 24000)"
+ },
+ {
+  "fecha": "2026-11-23T21:13:43.066123+00:00",
+  "marca": "Rolex",
+  "titulo": "2010 Rolex Submariner Engraved Rehaut No-Date Steel 40mm Watch 14060M",
+  "total": 12620.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336912951326",
+  "item_id": "v1|336912951326|0",
+  "referencia": "14060M",
+  "mercado": {
+   "n": 19,
+   "p25": 10700,
+   "mediana": 11310
+  },
+  "ratio_mercado": 1.179,
+  "motivo": "precio normal (118 % del cuartil bajo de 14060M)"
+ },
+ {
+  "fecha": "2026-11-23T21:13:43.066123+00:00",
+  "marca": "Rolex",
+  "titulo": "2021 MINT Rolex Daytona 116503 White Chronograph Two Tone Gold Steel Watch Box",
+  "total": 19990.05,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/307297931601",
+  "item_id": "v1|307297931601|0",
+  "referencia": "116503",
+  "mercado": {
+   "n": 22,
+   "p25": 21294,
+   "mediana": 22764
+  },
+  "ratio_mercado": 0.939,
+  "motivo": "precio normal (94 % del cuartil bajo de 116503)"
  }
 ]
