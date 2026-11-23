@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-19T21:40:28.696188+00:00",
   "marca": "Cartier",
-  "titulo": "Vintage Cartier Tank Louis Jumbo 17011 18K Yellow Gold Automatic 25.5mm Watch",
-  "total": 20393.79,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900105229090",
-  "item_id": "v1|900105229090|0",
-  "triage": {
-   "modelo": "Cartier Tank Louis Jumbo (oro amarillo 18K, esfera plateada con números romanos)",
-   "referencia": "17011",
-   "precio_justo_usd": 10000,
-   "interesante": false,
-   "nota": "El precio pedido de US$20.394 está muy por encima del valor de mercado de esta referencia. El título menciona automático, pero este modelo suele ser de cuerda manual o cuarzo; verificar el calibre."
-  },
-  "motivo": "triage: El precio pedido de US$20.394 está muy por encima del valor de mercado de esta referencia. El título menciona automático, pero este modelo suele ser de cuerda manual o cuarzo; verificar el calibre. (justo 10000)"
- },
- {
-  "fecha": "2026-11-19T21:40:28.696188+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 42mm HPI01062 18K White Gold Unisex Watch",
-  "total": 98150.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960217636776",
-  "item_id": "v1|960217636776|0",
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 42 mm en oro blanco 18K, bisel de diamantes, esfera pavé (aspecto)",
-   "referencia": "HPI01062 (según título, sin verificar)",
-   "precio_justo_usd": 45000,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de reventa estimado para esta versión con diamantes; no hay descuento aparente."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de reventa estimado para esta versión con diamantes; no hay descuento aparente. (justo 45000)"
- },
- {
-  "fecha": "2026-11-19T21:40:28.696188+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Ballon Bleu 28mm W6900256 18K Rose Gold Women's Watch",
   "total": 7003.0,
   "condicion": "Pre-owned - Good",
@@ -10962,5 +10928,39 @@
   },
   "ratio_mercado": 0.934,
   "motivo": "precio normal (93 % del cuartil bajo de 127234)"
+ },
+ {
+  "fecha": "2026-11-23T15:13:31.591373+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual GMT-Master II Batman 126710BLNR ",
+  "total": 19050.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/267851903423",
+  "item_id": "v1|267851903423|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 62,
+   "p25": 19695,
+   "mediana": 20528
+  },
+  "ratio_mercado": 0.967,
+  "motivo": "precio normal (97 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-23T15:13:31.591373+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ronde Solo de Cartier W6700355 2987 29mm Silver Yellow Gold Ladies Watch",
+  "total": 4025.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267851897449",
+  "item_id": "v1|267851897449|0",
+  "referencia": "W6700355",
+  "mercado": {
+   "n": 5,
+   "p25": 3930,
+   "mediana": 4075
+  },
+  "ratio_mercado": 1.024,
+  "motivo": "precio normal (102 % del cuartil bajo de W6700355)"
  }
 ]
