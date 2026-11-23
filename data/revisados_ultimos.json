@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-19T21:55:29.301282+00:00",
   "marca": "Rolex",
-  "titulo": "2026 Rolex Oyster Perpetual 36 126000 Turquoise Blue Index Oyster Complete",
-  "total": 18000.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/336906267733",
-  "item_id": "v1|336906267733|0",
-  "referencia": "126000",
-  "mercado": {
-   "n": 39,
-   "p25": 11204,
-   "mediana": 12494
-  },
-  "ratio_mercado": 1.607,
-  "motivo": "precio normal (161 % del cuartil bajo de 126000)"
- },
- {
-  "fecha": "2026-11-19T21:55:29.301282+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust Champagne Diamond Two-Tone Yellow Gold Jubilee 16013 36mm Watch",
-  "total": 5999.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168874074646",
-  "item_id": "v1|168874074646|0",
-  "referencia": "16013",
-  "mercado": {
-   "n": 22,
-   "p25": 1815,
-   "mediana": 4450
-  },
-  "ratio_mercado": 3.305,
-  "motivo": "precio normal (331 % del cuartil bajo de 16013)"
- },
- {
-  "fecha": "2026-11-19T21:55:29.301282+00:00",
-  "marca": "Rolex",
   "titulo": "2024 PAPERS Rolex GMT-Master II \"Zombie\" Jubilee 18K Gold 40mm 126713GRNR BOX",
   "total": 21699.0,
   "condicion": "Pre-owned - Good",
@@ -10945,5 +10911,45 @@
    "nota": "El título dice oro blanco 18k de 35 mm, pero la foto parece acero y de mayor tamaño, así que el listado puede ser engañoso. Aun tomando el título, US$10,785 con 'seller refurbished' no está al menos 15 % por debajo del valor de venta real."
   },
   "motivo": "triage: El título dice oro blanco 18k de 35 mm, pero la foto parece acero y de mayor tamaño, así que el listado puede ser engañoso. Aun tomando el título, US$10,785 con 'seller refurbished' no está al menos 15 % por debajo del valor de venta real. (justo 9800)"
+ },
+ {
+  "fecha": "2026-11-23T16:43:31.893393+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day Date President 36 12838 Yellow Gold Mint + Warranty",
+  "total": 19900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940117178130",
+  "item_id": "v1|940117178130|0",
+  "referencia": "12838",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Day-Date 36 oro amarillo, bisel acanalado, esfera champagne, brazalete President",
+   "referencia": "18038/18238 (probable; el título indica 12838, que no coincide con la imagen)",
+   "precio_justo_usd": 22000,
+   "interesante": false,
+   "nota": "La referencia del título no coincide con el bisel acanalado de la foto. Precio pedido unos 10 % por debajo de la estimación, sin llegar al 15 % necesario; verificar referencia, papeles y autenticidad."
+  },
+  "motivo": "triage: La referencia del título no coincide con el bisel acanalado de la foto. Precio pedido unos 10 % por debajo de la estimación, sin llegar al 15 % necesario; verificar referencia, papeles y autenticidad. (justo 22000)"
+ },
+ {
+  "fecha": "2026-11-23T16:43:31.893393+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date 15223 34mm F Serial Two-Tone Champagne Box & Papers",
+  "total": 7600.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137956218888",
+  "item_id": "v1|137956218888|0",
+  "referencia": "15223",
+  "mercado": {
+   "n": 20,
+   "p25": 6900,
+   "mediana": 7174
+  },
+  "ratio_mercado": 1.101,
+  "motivo": "precio normal (110 % del cuartil bajo de 15223)"
  }
 ]

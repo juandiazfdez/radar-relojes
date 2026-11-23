@@ -6940,10 +6940,10 @@
   "max": 56094
  },
  "Rolex 15223|usado": {
-  "fecha": "2026-11-22",
+  "fecha": "2026-11-23",
   "consulta": "Rolex 15223",
-  "n": 19,
-  "mediana": 7250,
+  "n": 20,
+  "mediana": 7174,
   "p25": 6900,
   "p75": 7500,
   "min": 5912,
@@ -22522,6 +22522,11 @@
  "Cartier W1556204|usado": {
   "fecha": "2026-11-23",
   "consulta": "Cartier W1556204",
+  "n": 0
+ },
+ "Rolex 12838|usado": {
+  "fecha": "2026-11-23",
+  "consulta": "Rolex 12838",
   "n": 0
  }
 }
