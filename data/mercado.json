@@ -1315,12 +1315,12 @@
   "max": 24250
  },
  "Rolex 216570|usado": {
-  "fecha": "2026-11-21",
+  "fecha": "2026-11-23",
   "consulta": "Rolex 216570",
-  "n": 9,
-  "mediana": 9750,
+  "n": 8,
+  "mediana": 9661,
   "p25": 9572,
-  "p75": 9950,
+  "p75": 9899,
   "min": 8900,
   "max": 10000
  },
@@ -6250,14 +6250,14 @@
   "n": 0
  },
  "Rolex 68273|usado": {
-  "fecha": "2026-11-16",
+  "fecha": "2026-11-23",
   "consulta": "Rolex 68273",
-  "n": 43,
-  "mediana": 8990,
-  "p25": 8242,
+  "n": 41,
+  "mediana": 8995,
+  "p25": 8395,
   "p75": 9278,
   "min": 5200,
-  "max": 9677
+  "max": 9777
  },
  "Rolex 68278|usado": {
   "fecha": "2026-11-22",
@@ -16180,13 +16180,13 @@
   "n": 0
  },
  "Cartier WSSA0039|usado": {
-  "fecha": "2026-11-22",
+  "fecha": "2026-11-23",
   "consulta": "Cartier WSSA0039",
   "n": 6,
-  "mediana": 7838,
-  "p25": 7758,
+  "mediana": 8169,
+  "p25": 7838,
   "p75": 8500,
-  "min": 7460,
+  "min": 7758,
   "max": 8900
  },
  "Panerai PAM1653|usado": {
@@ -22528,5 +22528,15 @@
   "fecha": "2026-11-23",
   "consulta": "Rolex 12838",
   "n": 0
+ },
+ "Cartier WSBB0025|usado": {
+  "fecha": "2026-11-23",
+  "consulta": "Cartier WSBB0025",
+  "n": 2,
+  "mediana": 7494,
+  "p25": 5999,
+  "p75": 8988,
+  "min": 5999,
+  "max": 8988
  }
 }
