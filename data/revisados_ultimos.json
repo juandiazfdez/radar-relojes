@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-19T21:25:29.184744+00:00",
   "marca": "Rolex",
-  "titulo": "2011 Rolex Explorer II Engraved Rehaut Steel 40mm Watch 16570 Box/Papers/Tag",
-  "total": 10660.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/257861334048",
-  "item_id": "v1|257861334048|0",
-  "referencia": "16570",
-  "mercado": {
-   "n": 41,
-   "p25": 8445,
-   "mediana": 8990
-  },
-  "ratio_mercado": 1.262,
-  "motivo": "precio normal (126 % del cuartil bajo de 16570)"
- },
- {
-  "fecha": "2026-11-19T21:25:29.184744+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Watch Sea-Dweller Deepsea James Cameron 136660 2025 - Inventory 9503 44mm",
   "total": 15499.0,
   "condicion": "Pre-owned - Good",
@@ -11015,5 +10998,22 @@
   },
   "ratio_mercado": 1.057,
   "motivo": "precio normal (106 % del cuartil bajo de 126300)"
+ },
+ {
+  "fecha": "2026-11-23T12:43:20.703487+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 40mm 116613LB Bluesy 2016",
+  "total": 15250.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147694187643",
+  "item_id": "v1|147694187643|0",
+  "referencia": "116613LB",
+  "mercado": {
+   "n": 59,
+   "p25": 15400,
+   "mediana": 15995
+  },
+  "ratio_mercado": 0.99,
+  "motivo": "precio normal (99 % del cuartil bajo de 116613LB)"
  }
 ]
