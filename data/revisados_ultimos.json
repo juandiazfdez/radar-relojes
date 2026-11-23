@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-20T19:41:09.741243+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Submariner 16613 Bluesy P-Serial 2000 18K Gold Steel Full Set Box Papers",
-  "total": 13850.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366825628177",
-  "item_id": "v1|366825628177|0",
-  "referencia": "16613",
-  "mercado": {
-   "n": 91,
-   "p25": 11700,
-   "mediana": 12000
-  },
-  "ratio_mercado": 1.184,
-  "motivo": "precio normal (118 % del cuartil bajo de 16613)"
- },
- {
-  "fecha": "2026-11-20T19:41:09.741243+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Yellow Gold 15238 Blue Arabic Rivet Bracelet Full Set Watch",
   "total": 19827.5,
   "condicion": "Pre-owned - Good",
@@ -10961,5 +10944,28 @@
    "nota": "Precio pedido de US$26.500 está muy por encima del mercado de venta cerrada para esta referencia en oro blanco; no parece una oportunidad."
   },
   "motivo": "triage: Precio pedido de US$26.500 está muy por encima del mercado de venta cerrada para esta referencia en oro blanco; no parece una oportunidad. (justo 15500)"
+ },
+ {
+  "fecha": "2026-11-23T23:58:43.289819+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Drive de Cartier WSNM0004 Automatic 40mm Steel Watch Box Papers 2017",
+  "total": 5295.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960236327097",
+  "item_id": "v1|960236327097|0",
+  "referencia": "WSNM0004",
+  "mercado": {
+   "n": 4,
+   "p25": 4830,
+   "mediana": 4937
+  },
+  "triage": {
+   "modelo": "Cartier Drive de Cartier 40 mm automático, acero, esfera plateada",
+   "referencia": "WSNM0004",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta cerrada para esta referencia con caja y papeles de 2017; no hay descuento significativo."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta cerrada para esta referencia con caja y papeles de 2017; no hay descuento significativo. (justo 4000)"
  }
 ]
