@@ -1,103 +1,5 @@
 [
  {
-  "fecha": "2026-11-20T19:56:10.234385+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date White Gold Diamond Blue Sapphires 40mm 116659SABR Full Set",
-  "total": 265000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307292524099",
-  "item_id": "v1|307292524099|0",
-  "referencia": "116659SABR",
-  "mercado": {
-   "n": 2,
-   "p25": 165995,
-   "mediana": 192259
-  },
-  "triage": {
-   "modelo": "Rolex Submariner Date, oro blanco con bisel de zafiros azules baguette y esfera pavé de diamantes",
-   "referencia": "116659SABR",
-   "precio_justo_usd": 230000,
-   "interesante": false,
-   "nota": "Pieza de alta joyería muy rara; el precio pedido está por encima de la estimación conservadora y el listado no permite verificar autenticidad, personalización ni papeles."
-  },
-  "motivo": "triage: Pieza de alta joyería muy rara; el precio pedido está por encima de la estimación conservadora y el listado no permite verificar autenticidad, personalización ni papeles. (justo 230000)"
- },
- {
-  "fecha": "2026-11-20T19:56:10.234385+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Must Vendôme Stainless Steel And Leather Watch",
-  "total": 1461.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820377989847",
-  "item_id": "v1|820377989847|0",
-  "triage": {
-   "modelo": "Cartier Must de Cartier Vendôme (versión ovalada, chapada en oro/vermeil, cuarzo)",
-   "referencia": null,
-   "precio_justo_usd": 450,
-   "interesante": false,
-   "nota": "La foto muestra caja dorada (vermeil), no acero como dice el título; el precio pedido de US$1461 está muy por encima de lo que se vende este modelo usado."
-  },
-  "motivo": "triage: La foto muestra caja dorada (vermeil), no acero como dice el título; el precio pedido de US$1461 está muy por encima de lo que se vende este modelo usado. (justo 450)"
- },
- {
-  "fecha": "2026-11-20T19:56:10.234385+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank XL Automatic Steel Watch WSTA0040",
-  "total": 4980.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287744467009",
-  "item_id": "v1|287744467009|0",
-  "referencia": "WSTA0040",
-  "mercado": {
-   "n": 8,
-   "p25": 4750,
-   "mediana": 5004
-  },
-  "ratio_mercado": 1.048,
-  "motivo": "precio normal (105 % del cuartil bajo de WSTA0040)"
- },
- {
-  "fecha": "2026-11-20T19:56:10.234385+00:00",
-  "marca": "Cartier",
-  "titulo": "PAPERS Cartier Santos 100 Large WHITE Steel 38mm 2656 / W200737G Watch BOX",
-  "total": 6818.33,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960222293367",
-  "item_id": "v1|960222293367|0",
-  "referencia": "2656",
-  "mercado": {
-   "n": 22,
-   "p25": 5325,
-   "mediana": 5997
-  },
-  "ratio_mercado": 1.28,
-  "motivo": "precio normal (128 % del cuartil bajo de 2656)"
- },
- {
-  "fecha": "2026-11-20T19:56:10.234385+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Chrono S & G Automatic Watch 79363N",
-  "total": 4920.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287744466965",
-  "item_id": "v1|287744466965|0",
-  "referencia": "79363N",
-  "mercado": {
-   "n": 8,
-   "p25": 6099,
-   "mediana": 6225
-  },
-  "ratio_mercado": 0.807,
-  "claude": {
-   "veredicto": "alerta",
-   "precio_justo_usd": 5500,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Excelente, casi nuevo; según el vendedor solo hay rayones muy leves en el fondo de caja"
-  },
-  "ratio_justo": 0.895,
-  "motivo": "precio normal segun revision (90 % del justo 5500)"
- },
- {
   "fecha": "2026-11-20T20:11:10.091656+00:00",
   "marca": "Rolex",
   "titulo": "2026 Rolex GMT-Master II \"Bruce Wayne\" 40mm 126710GRNR Jubilee",
@@ -10955,5 +10857,96 @@
    "nota": "Precio pedido de US$4790 está muy por encima del mercado gris para un modelo nuevo con caja y papeles; no es una oportunidad."
   },
   "motivo": "triage: Precio pedido de US$4790 está muy por encima del mercado gris para un modelo nuevo con caja y papeles; no es una oportunidad. (justo 3400)"
+ },
+ {
+  "fecha": "2026-11-24T01:13:42.932745+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date 36, President Bracelet, Diamond-Paved Dial, White Gold, 128239",
+  "total": 96131.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206723688164",
+  "item_id": "v1|206723688164|0",
+  "referencia": "128239",
+  "mercado": {
+   "n": 2,
+   "p25": 39999,
+   "mediana": 48148
+  },
+  "triage": {
+   "modelo": "Rolex Day-Date 36 (President), oro blanco, bisel acanalado, esfera pavé de diamantes con índices de colores",
+   "referencia": "128239",
+   "precio_justo_usd": 100000,
+   "interesante": false,
+   "nota": "Referencia 128239 en oro blanco con esfera pavé; el precio pedido está solo unos 4 % por debajo de la estimación de venta real, así que no cumple el umbral del 15 %."
+  },
+  "motivo": "triage: Referencia 128239 en oro blanco con esfera pavé; el precio pedido está solo unos 4 % por debajo de la estimación de venta real, así que no cumple el umbral del 15 %. (justo 100000)"
+ },
+ {
+  "fecha": "2026-11-24T01:13:42.932745+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date 36, 128238, Yellow Gold, Green Ombre Diamond Dial, President B...",
+  "total": 62887.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/366833665120",
+  "item_id": "v1|366833665120|0",
+  "referencia": "128238",
+  "mercado": {
+   "n": 8,
+   "p25": 57197,
+   "mediana": 59244
+  },
+  "ratio_mercado": 1.099,
+  "motivo": "precio normal (110 % del cuartil bajo de 128238)"
+ },
+ {
+  "fecha": "2026-11-24T01:13:42.932745+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date 36, 128238, Yellow Gold, Green Ombre Roman Dial, President Bra...",
+  "total": 59493.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206723678873",
+  "item_id": "v1|206723678873|0",
+  "referencia": "128238",
+  "mercado": {
+   "n": 8,
+   "p25": 57197,
+   "mediana": 59244
+  },
+  "ratio_mercado": 1.04,
+  "motivo": "precio normal (104 % del cuartil bajo de 128238)"
+ },
+ {
+  "fecha": "2026-11-24T01:13:42.932745+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Milgauss 116400-0001 Pre-owned Box & Papers 2011",
+  "total": 9999.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137957360219",
+  "item_id": "v1|137957360219|0",
+  "referencia": "116400",
+  "mercado": {
+   "n": 35,
+   "p25": 11500,
+   "mediana": 11999
+  },
+  "ratio_mercado": 0.869,
+  "motivo": "precio normal (87 % del cuartil bajo de 116400)"
+ },
+ {
+  "fecha": "2026-11-24T01:13:42.932745+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panther Small 86691",
+  "total": 18970.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407384504345",
+  "item_id": "v1|407384504345|0",
+  "triage": {
+   "modelo": "Cartier Panthère Small (cuarzo, oro amarillo 18k, brazalete de eslabones, esfera blanca)",
+   "referencia": null,
+   "precio_justo_usd": 8000,
+   "interesante": false,
+   "nota": "El precio pedido (US$18.970) supera mucho el valor de mercado; la referencia 86691 del título no se puede verificar en la foto."
+  },
+  "motivo": "triage: El precio pedido (US$18.970) supera mucho el valor de mercado; la referencia 86691 del título no se puede verificar en la foto. (justo 8000)"
  }
 ]
