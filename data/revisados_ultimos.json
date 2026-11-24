@@ -2,46 +2,6 @@
  {
   "fecha": "2026-11-20T19:56:10.234385+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II Sprite Steel Jubilee Watch 126720VTNR",
-  "total": 19206.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198811194441",
-  "item_id": "v1|198811194441|0",
-  "referencia": "126720VTNR",
-  "mercado": {
-   "n": 89,
-   "p25": 17990,
-   "mediana": 18549
-  },
-  "ratio_mercado": 1.068,
-  "motivo": "precio normal (107 % del cuartil bajo de 126720VTNR)"
- },
- {
-  "fecha": "2026-11-20T19:56:10.234385+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 126619LB, Black Dial, \"Cookie Monster\"",
-  "total": 49610.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/800943883707",
-  "item_id": "v1|800943883707|0",
-  "referencia": "126619LB",
-  "mercado": {
-   "n": 4,
-   "p25": 44990,
-   "mediana": 45994
-  },
-  "triage": {
-   "modelo": "Rolex Submariner Date, bisel azul, esfera negra, brazalete de acero (la foto muestra acero, no oro blanco)",
-   "referencia": "126610LB (la foto corresponde a esta referencia; el título indica 126619LB, que es la versión en oro blanco)",
-   "precio_justo_usd": 13000,
-   "interesante": false,
-   "nota": "El título es inconsistente (126619LB es oro blanco y 'Cookie Monster' no corresponde a este bisel), y US$49,610 está muy por encima de lo que se vende un 126610LB de acero nuevo con caja y papeles, incluso por encima del valor de un 126619LB en oro blanco."
-  },
-  "motivo": "triage: El título es inconsistente (126619LB es oro blanco y 'Cookie Monster' no corresponde a este bisel), y US$49,610 está muy por encima de lo que se vende un 126610LB de acero nuevo con caja y papeles, incluso por encima del valor de un 126619LB en oro blanco. (justo 13000)"
- },
- {
-  "fecha": "2026-11-20T19:56:10.234385+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Submariner Date White Gold Diamond Blue Sapphires 40mm 116659SABR Full Set",
   "total": 265000.0,
   "condicion": "Pre-owned - Excellent",
@@ -10961,5 +10921,39 @@
    "nota": "Modelo identificable en la foto, pero la referencia exacta no se ve. El precio pedido queda por encima del mercado gris actual para acero nuevo o casi nuevo."
   },
   "motivo": "triage: Modelo identificable en la foto, pero la referencia exacta no se ve. El precio pedido queda por encima del mercado gris actual para acero nuevo o casi nuevo. (justo 6300)"
+ },
+ {
+  "fecha": "2026-11-24T00:58:43.264041+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 54 M79000N-0001 New Box & Papers 2026",
+  "total": 4150.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/137957342354",
+  "item_id": "v1|137957342354|0",
+  "referencia": "M79000N-0001",
+  "mercado": {
+   "n": 5,
+   "p25": 4248,
+   "mediana": 4450
+  },
+  "ratio_mercado": 0.977,
+  "motivo": "precio normal (98 % del cuartil bajo de M79000N-0001)"
+ },
+ {
+  "fecha": "2026-11-24T00:58:43.264041+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 M7939A1A0NU-0001 New Box & Papers 2026",
+  "total": 4790.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/137957333186",
+  "item_id": "v1|137957333186|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 39 mm (esfera negra, bisel negro con numerales dorados, brazalete de acero)",
+   "referencia": "M7939A1A0NU-0001",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "Precio pedido de US$4790 está muy por encima del mercado gris para un modelo nuevo con caja y papeles; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$4790 está muy por encima del mercado gris para un modelo nuevo con caja y papeles; no es una oportunidad. (justo 3400)"
  }
 ]
