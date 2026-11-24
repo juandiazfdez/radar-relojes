@@ -1,103 +1,5 @@
 [
  {
-  "fecha": "2026-11-22T03:27:29.853534+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR  Pelagos FXD Titanium Marine Nationale M25707B/23 Full Set ",
-  "total": 4299.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900111269222",
-  "item_id": "v1|900111269222|0",
-  "referencia": "M25707B",
-  "mercado": {
-   "n": 2,
-   "p25": 4315,
-   "mediana": 4358
-  },
-  "triage": {
-   "modelo": "Tudor Pelagos FXD Titanium Marine Nationale",
-   "referencia": "M25707B/23",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Pelagos FXD de titanio en buen estado con set completo; el precio pedido de US$4299 está por encima de lo que se vende usado, aunque cerca del retail."
-  },
-  "motivo": "triage: Pelagos FXD de titanio en buen estado con set completo; el precio pedido de US$4299 está por encima de lo que se vende usado, aunque cerca del retail. (justo 3500)"
- },
- {
-  "fecha": "2026-11-22T03:42:27.941982+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos 100 XL Automatic 2656 38x51mm Watch",
-  "total": 4499.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940112814964",
-  "item_id": "v1|940112814964|0",
-  "referencia": "2656",
-  "mercado": {
-   "n": 25,
-   "p25": 5325,
-   "mediana": 5995
-  },
-  "ratio_mercado": 0.845,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 3900,
-   "riesgo_autenticidad": "medio",
-   "estado": "Uso visible: bisel y laterales de caja muy rayados, correa nueva no original, sin fotos del fondo ni del movimiento"
-  },
-  "ratio_justo": 1.154,
-  "motivo": "precio normal segun revision (115 % del justo 3900)"
- },
- {
-  "fecha": "2026-11-22T03:57:27.916649+00:00",
-  "marca": "Cartier",
-  "titulo": "CARTIER SANTOS 100 Medium S/Steel & Rose Gold 33x44mm Minty",
-  "total": 5599.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287748239194",
-  "item_id": "v1|287748239194|0",
-  "triage": {
-   "modelo": "Cartier Santos 100 Medium, acero y oro rosa, con correa de piel negra",
-   "referencia": null,
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "Precio pedido de US$5,599 por encima de la venta real estimada para esta talla y materiales; la foto no permite confirmar la referencia exacta ni el estado de caja y papeles."
-  },
-  "motivo": "triage: Precio pedido de US$5,599 por encima de la venta real estimada para esta talla y materiales; la foto no permite confirmar la referencia exacta ni el estado de caja y papeles. (justo 4800)"
- },
- {
-  "fecha": "2026-11-22T04:12:28.196435+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner No Date 14060M D-Serial 2005 40mm Watch Only Full Bracelet",
-  "total": 9465.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800949745701",
-  "item_id": "v1|800949745701|0",
-  "referencia": "14060M",
-  "mercado": {
-   "n": 19,
-   "p25": 10700,
-   "mediana": 11550
-  },
-  "ratio_mercado": 0.885,
-  "motivo": "precio normal (88 % del cuartil bajo de 14060M)"
- },
- {
-  "fecha": "2026-11-22T05:27:27.996552+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Air King 126900 Stainless Steel 40mm Watch Full Set 2023",
-  "total": 8800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237198364902",
-  "item_id": "v1|237198364902|0",
-  "referencia": "126900",
-  "mercado": {
-   "n": 25,
-   "p25": 9500,
-   "mediana": 10097
-  },
-  "ratio_mercado": 0.926,
-  "motivo": "precio normal (93 % del cuartil bajo de 126900)"
- },
- {
   "fecha": "2026-11-22T05:27:27.996552+00:00",
   "marca": "Rolex",
   "titulo": "Vintage TUDOR Prince Oysterdate Ref. 7966 - Original Rolex Ref. 7835 Bracelet",
@@ -10858,5 +10760,96 @@
    "nota": "Esfera original con Oyster Prince, pero el estado 'para piezas o no funciona' reduce mucho el valor frente a una versión funcional, que se vende bastante más. El precio pedido de 1295 USD no queda 15 % por debajo del mercado para esta condición."
   },
   "motivo": "triage: Esfera original con Oyster Prince, pero el estado 'para piezas o no funciona' reduce mucho el valor frente a una versión funcional, que se vende bastante más. El precio pedido de 1295 USD no queda 15 % por debajo del mercado para esta condición. (justo 700)"
+ },
+ {
+  "fecha": "2026-11-24T23:29:25.589840+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 18K Yellow Gold Watch 6917",
+  "total": 10000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407386606576",
+  "item_id": "v1|407386606576|0",
+  "referencia": "6917",
+  "mercado": {
+   "n": 45,
+   "p25": 3990,
+   "mediana": 4064
+  },
+  "ratio_mercado": 2.506,
+  "motivo": "precio normal (251 % del cuartil bajo de 6917)"
+ },
+ {
+  "fecha": "2026-11-24T23:29:25.589840+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona Steel Yellow Gold MOP Diamond Mens Watch 116503 Box Card",
+  "total": 29440.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336915205280",
+  "item_id": "v1|336915205280|0",
+  "referencia": "116503",
+  "mercado": {
+   "n": 24,
+   "p25": 21294,
+   "mediana": 22764
+  },
+  "ratio_mercado": 1.383,
+  "motivo": "precio normal (138 % del cuartil bajo de 116503)"
+ },
+ {
+  "fecha": "2026-11-24T23:29:25.589840+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 1503 14k Solid Gold 1970s Mens 34mm Automatic RA741G",
+  "total": 18900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257870543591",
+  "item_id": "v1|257870543591|0",
+  "triage": {
+   "modelo": "Rolex Datejust de oro amarillo, bisel acanalado, brazalete Jubilee, esfera champán con indicadores de bastón y ventana de fecha a las 3 (la foto no coincide con un Oyster Perpetual 1503)",
+   "referencia": "1601 o 1603 (probable, según tamaño y caja; no 1503)",
+   "precio_justo_usd": 8500,
+   "interesante": false,
+   "nota": "El título indica 1503 de 34 mm, pero la foto muestra un Datejust con bisel acanalado y brazalete Jubilee, que suele ser 1601/1603 de unos 36 mm. Además, 18.900 US$ supera con creces el valor de mercado de un Datejust de oro de los años 70 en estas condiciones; hay que verificar la referencia y el oro antes de cualquier oferta."
+  },
+  "motivo": "triage: El título indica 1503 de 34 mm, pero la foto muestra un Datejust con bisel acanalado y brazalete Jubilee, que suele ser 1601/1603 de unos 36 mm. Además, 18.900 US$ supera con creces el valor de mercado de un Datejust de oro de los años 70 en estas condiciones; hay que verificar la referencia y el oro antes de cualquier oferta. (justo 8500)"
+ },
+ {
+  "fecha": "2026-11-24T23:29:25.589840+00:00",
+  "marca": "Cartier",
+  "titulo": "CARTIER 1170902 Santos Galbee 18K Gold & S/Steel 24mm Ladies Automatic Very Nice",
+  "total": 4695.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206725505918",
+  "item_id": "v1|206725505918|0",
+  "triage": {
+   "modelo": "Cartier Santos Galbée dos tonos (oro 18k y acero), esfera blanca con números romanos, talla de dama",
+   "referencia": "1170902 (según el título; no verificable solo con la foto)",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio pedido de US$4695 claramente por encima del valor de venta cerrada de este modelo usado en EE. UU. (aprox. US$2800-3800 según versión y estado)."
+  },
+  "motivo": "triage: Precio pedido de US$4695 claramente por encima del valor de venta cerrada de este modelo usado en EE. UU. (aprox. US$2800-3800 según versión y estado). (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-24T23:29:25.589840+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Must WSTA0072 Black Stainless Steel 25mm  full set",
+  "total": 4222.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206723536548",
+  "item_id": "v1|206723536548|0",
+  "referencia": "WSTA0072",
+  "mercado": {
+   "n": 3,
+   "p25": 3910,
+   "mediana": 4000
+  },
+  "triage": {
+   "modelo": "Cartier Tank Must (esfera negra, caja de acero, correa de piel negra, cabujón azul en la corona)",
+   "referencia": "WSTA0072",
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "Precio pedido de US$4,222 muy por encima de lo que se vende realmente este modelo de segunda mano con caja y papeles; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$4,222 muy por encima de lo que se vende realmente este modelo de segunda mano con caja y papeles; no es una oportunidad. (justo 2400)"
  }
 ]
