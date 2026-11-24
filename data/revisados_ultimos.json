@@ -1,63 +1,5 @@
 [
  {
-  "fecha": "2026-11-21T18:57:02.403453+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Deepsea 44mm, Black Dial, 126660 BRAND NEW 2021  Box & Papers",
-  "total": 11744.95,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/336909362489",
-  "item_id": "v1|336909362489|0",
-  "referencia": "126660, 126660-0001",
-  "mercado": {
-   "n": 5,
-   "p25": 15650,
-   "mediana": 17359
-  },
-  "ratio_mercado": 0.75,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 13500,
-   "riesgo_autenticidad": "medio",
-   "estado": "Presentado como nuevo con caja y papeles (2021). Las fotos muestran un reloj sin desgaste visible, pero no se puede confirmar la autenticidad."
-  },
-  "ratio_justo": 0.87,
-  "motivo": "precio normal segun revision (87 % del justo 13500)"
- },
- {
-  "fecha": "2026-11-21T18:57:02.403453+00:00",
-  "marca": "Rolex",
-  "titulo": "Unpolished Rolex Daytona Cosmograph 116520 Black Steel Stickered 40mm Box Papers",
-  "total": 24779.29,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307294190902",
-  "item_id": "v1|307294190902|0",
-  "referencia": "116520",
-  "mercado": {
-   "n": 20,
-   "p25": 21840,
-   "mediana": 23372
-  },
-  "ratio_mercado": 1.135,
-  "motivo": "precio normal (113 % del cuartil bajo de 116520)"
- },
- {
-  "fecha": "2026-11-21T18:57:02.403453+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR 79830RB GMT Chronometer Date Steel Bracelet  Full Set 2023",
-  "total": 3960.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336909377142",
-  "item_id": "v1|336909377142|0",
-  "referencia": "79830RB",
-  "mercado": {
-   "n": 56,
-   "p25": 3750,
-   "mediana": 3979
-  },
-  "ratio_mercado": 1.056,
-  "motivo": "precio normal (106 % del cuartil bajo de 79830RB)"
- },
- {
   "fecha": "2026-11-21T19:12:01.775560+00:00",
   "marca": "Rolex",
   "titulo": "1983 Ladies Rolex 26mm Datejust 18K Yellow Gold / Stainless Steel Two Tone Watch",
@@ -10897,5 +10839,62 @@
   },
   "ratio_mercado": 1.155,
   "motivo": "precio normal (115 % del cuartil bajo de 126500)"
+ },
+ {
+  "fecha": "2026-11-24T21:14:25.981955+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Cosmograph Daytona 126515LN Everose Gold Sundust Complete Set",
+  "total": 59649.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900118784598",
+  "item_id": "v1|900118784598|0",
+  "referencia": "126515LN",
+  "mercado": {
+   "n": 4,
+   "p25": 55000,
+   "mediana": 55000
+  },
+  "triage": {
+   "modelo": "Rolex Cosmograph Daytona (Everose, esfera Sundust con subesferas negras, correa Oysterflex)",
+   "referencia": "126515LN",
+   "precio_justo_usd": 56000,
+   "interesante": false,
+   "nota": "Precio pedido cercano al valor de mercado secundario para esta referencia; no hay descuento de al menos 15 %."
+  },
+  "motivo": "triage: Precio pedido cercano al valor de mercado secundario para esta referencia; no hay descuento de al menos 15 %. (justo 56000)"
+ },
+ {
+  "fecha": "2026-11-24T21:14:25.981955+00:00",
+  "marca": "Cartier",
+  "titulo": "Must de Cartier Colisee 24mm Quartz Watch",
+  "total": 720.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/168882836320",
+  "item_id": "v1|168882836320|0",
+  "triage": {
+   "modelo": "Cartier Must de Cartier Colisée (vermeil, cuarzo)",
+   "referencia": null,
+   "precio_justo_usd": 380,
+   "interesante": false,
+   "nota": "Must de Cartier en vermeil (plaqué or) de cuarzo, estado Fair; el precio pedido de US$720 está muy por encima del mercado de reventa."
+  },
+  "motivo": "triage: Must de Cartier en vermeil (plaqué or) de cuarzo, estado Fair; el precio pedido de US$720 está muy por encima del mercado de reventa. (justo 380)"
+ },
+ {
+  "fecha": "2026-11-24T21:14:25.981955+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Aeronaut GMT Automatic Wristwatch | 41mm Stainless Steel | Cal. 2892-A2",
+  "total": 2750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237204789832",
+  "item_id": "v1|237204789832|0",
+  "triage": {
+   "modelo": "Tudor Aeronaut GMT (aparente, con bisel GMT de 24 horas y correa de caucho)",
+   "referencia": null,
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "El precio pedido está en línea con el mercado de segunda mano para esta generación, sin descuento claro de al menos 15 %. La referencia exacta no se distingue en la foto; verificar número de referencia y estado de la caja y papeles."
+  },
+  "motivo": "triage: El precio pedido está en línea con el mercado de segunda mano para esta generación, sin descuento claro de al menos 15 %. La referencia exacta no se distingue en la foto; verificar número de referencia y estado de la caja y papeles. (justo 2600)"
  }
 ]
