@@ -1,96 +1,5 @@
 [
  {
-  "fecha": "2026-11-22T02:42:14.719262+00:00",
-  "marca": "Cartier",
-  "titulo": "24mm Cartier Must De Watch With Authentication (P08035737)",
-  "total": 809.99,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/820379073370",
-  "item_id": "v1|820379073370|0",
-  "triage": {
-   "modelo": "Cartier Must de Cartier 24 mm (cuarzo, acero)",
-   "referencia": null,
-   "precio_justo_usd": 550,
-   "interesante": false,
-   "nota": "La referencia no se lee en la foto; el certificado no basta para confirmar la generación. Con estado Fair, US$810 con envío queda por encima del valor de venta cerrada estimado."
-  },
-  "motivo": "triage: La referencia no se lee en la foto; el certificado no basta para confirmar la generación. Con estado Fair, US$810 con envío queda por encima del valor de venta cerrada estimado. (justo 550)"
- },
- {
-  "fecha": "2026-11-22T02:42:14.719262+00:00",
-  "marca": "Tudor",
-  "titulo": "2022 Tudor Black Bay 41 79540-0006",
-  "total": 2400.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147692092814",
-  "item_id": "v1|147692092814|0",
-  "referencia": "79540-0006",
-  "mercado": {
-   "n": 8,
-   "p25": 2500,
-   "mediana": 2803
-  },
-  "ratio_mercado": 0.96,
-  "motivo": "precio normal (96 % del cuartil bajo de 79540-0006)"
- },
- {
-  "fecha": "2026-11-22T02:57:15.156247+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Calibre 18k Rose Gold Diver W7100052 Automatic 42mm DISCONTINUED",
-  "total": 17693.56,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227625551787",
-  "item_id": "v1|227625551787|0",
-  "referencia": "W7100052",
-  "mercado": {
-   "n": 1,
-   "p25": 17997,
-   "mediana": 17997
-  },
-  "triage": {
-   "modelo": "Cartier Calibre de Cartier Diver 42 mm, oro rosa 18k, esfera gris, correa de caucho",
-   "referencia": "W7100052 (según el título, sin verificar)",
-   "precio_justo_usd": 13000,
-   "interesante": false,
-   "nota": "Precio pedido US$17.694 está muy por encima del valor de venta cerrada estimado para este modelo de oro rosa usado, aunque la referencia exacta debe verificarse."
-  },
-  "motivo": "triage: Precio pedido US$17.694 está muy por encima del valor de venta cerrada estimado para este modelo de oro rosa usado, aunque la referencia exacta debe verificarse. (justo 13000)"
- },
- {
-  "fecha": "2026-11-22T02:57:15.156247+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Large Model Diamond Automatic . Guaranteed to be authentic by eBa",
-  "total": 8800.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/198811851886",
-  "item_id": "v1|198811851886|0",
-  "triage": {
-   "modelo": "Cartier Santos (modelo grande) con bisel, pulsera y esfera pavimentados con diamantes, aspecto de personalización tipo iced-out",
-   "referencia": null,
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "La pieza parece una personalización de diamantes posterior a la fábrica, no un Santos con diamantes de producción de Cartier, y la garantía de eBay no verifica esa modificación. Un Santos de producción con diamantes costaría bastante más, así que el precio no se puede comparar y hay riesgo de réplica o de pieza alterada."
-  },
-  "motivo": "triage: La pieza parece una personalización de diamantes posterior a la fábrica, no un Santos con diamantes de producción de Cartier, y la garantía de eBay no verifica esa modificación. Un Santos de producción con diamantes costaría bastante más, así que el precio no se puede comparar y hay riesgo de réplica o de pieza alterada. (justo 3000)"
- },
- {
-  "fecha": "2026-11-22T03:27:29.853534+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Solo XL W5200026 18K Rose Gold Black Leather Men's Watch",
-  "total": 7950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257865073980",
-  "item_id": "v1|257865073980|0",
-  "referencia": "W5200026",
-  "mercado": {
-   "n": 8,
-   "p25": 8399,
-   "mediana": 8447
-  },
-  "ratio_mercado": 0.947,
-  "motivo": "precio normal (95 % del cuartil bajo de W5200026)"
- },
- {
   "fecha": "2026-11-22T03:27:29.853534+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR  Pelagos FXD Titanium Marine Nationale M25707B/23 Full Set ",
@@ -10864,5 +10773,90 @@
   },
   "ratio_justo": 0.9,
   "motivo": "precio normal segun revision (90 % del justo 13000)"
+ },
+ {
+  "fecha": "2026-11-24T23:14:26.205806+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer Stainless Steel Watch 214270",
+  "total": 8000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407386594686",
+  "item_id": "v1|407386594686|0",
+  "referencia": "214270",
+  "mercado": {
+   "n": 21,
+   "p25": 8495,
+   "mediana": 9715
+  },
+  "ratio_mercado": 0.942,
+  "motivo": "precio normal (94 % del cuartil bajo de 214270)"
+ },
+ {
+  "fecha": "2026-11-24T23:14:26.205806+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date 40 Champagne Baguette Diamond President 228238 Complete Open Date",
+  "total": 58060.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227630784794",
+  "item_id": "v1|227630784794|0",
+  "referencia": "228238",
+  "mercado": {
+   "n": 32,
+   "p25": 47900,
+   "mediana": 48990
+  },
+  "ratio_mercado": 1.212,
+  "motivo": "precio normal (121 % del cuartil bajo de 228238)"
+ },
+ {
+  "fecha": "2026-11-24T23:14:26.205806+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1960s Rolex 14K Yellow Gold Oval Cocktail Watch Italian Mesh Bracelet",
+  "total": 7000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960239599361",
+  "item_id": "v1|960239599361|0",
+  "triage": {
+   "modelo": "Reloj de pulsera de dama tipo cocktail, caja ovalada y brazalete de malla en oro de 14K (marca no verificable en la foto; el texto del dial es ilegible)",
+   "referencia": null,
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "No se ve la corona de Rolex en la foto y el oro de 14K es atípico para Rolex; sin marca confirmada ni referencia, el precio pedido de 7.000 USD está muy por encima del valor estimado (~2.500-3.500 USD, con el valor del oro como piso)."
+  },
+  "motivo": "triage: No se ve la corona de Rolex en la foto y el oro de 14K es atípico para Rolex; sin marca confirmada ni referencia, el precio pedido de 7.000 USD está muy por encima del valor estimado (~2.500-3.500 USD, con el valor del oro como piso). (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-24T23:14:26.205806+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Datejust 2026 ",
+  "total": 9750.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880150398161",
+  "item_id": "v1|880150398161|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Datejust (acero, esfera blanca, nueva con caja y papeles)",
+   "referencia": null,
+   "precio_justo_usd": 10500,
+   "interesante": false,
+   "nota": "Datejust de acero actual nuevo se vende en secundario cerca de US$10-11k, así que US$9750 no está 15% por debajo. La referencia exacta (p. ej. 126200 o 126234) y el año no se ven en la foto; verificar número de serie y papeles."
+  },
+  "motivo": "triage: Datejust de acero actual nuevo se vende en secundario cerca de US$10-11k, así que US$9750 no está 15% por debajo. La referencia exacta (p. ej. 126200 o 126234) y el año no se ven en la foto; verificar número de serie y papeles. (justo 10500)"
+ },
+ {
+  "fecha": "2026-11-24T23:14:26.205806+00:00",
+  "marca": "Tudor",
+  "titulo": "Vintage 1950s Tudor 7909 Oyster-Prince Automatic 34mm Stainless Steel Mens Watch",
+  "total": 1295.0,
+  "condicion": "For parts or not working",
+  "url": "https://www.ebay.com/itm/137960067086",
+  "item_id": "v1|137960067086|0",
+  "triage": {
+   "modelo": "Tudor Oyster Prince Automatic (años 1950, caja de acero)",
+   "referencia": "7909",
+   "precio_justo_usd": 700,
+   "interesante": false,
+   "nota": "Esfera original con Oyster Prince, pero el estado 'para piezas o no funciona' reduce mucho el valor frente a una versión funcional, que se vende bastante más. El precio pedido de 1295 USD no queda 15 % por debajo del mercado para esta condición."
+  },
+  "motivo": "triage: Esfera original con Oyster Prince, pero el estado 'para piezas o no funciona' reduce mucho el valor frente a una versión funcional, que se vende bastante más. El precio pedido de 1295 USD no queda 15 % por debajo del mercado para esta condición. (justo 700)"
  }
 ]
