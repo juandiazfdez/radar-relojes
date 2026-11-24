@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-20T21:26:09.764371+00:00",
   "marca": "Rolex",
-  "titulo": "2016 Rolex Submariner Date 116613 LB Blue Two-Tone 40mm Watch Box Papers",
-  "total": 15386.28,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940109258727",
-  "item_id": "v1|940109258727|0",
-  "referencia": "116613",
-  "mercado": {
-   "n": 71,
-   "p25": 14990,
-   "mediana": 15488
-  },
-  "ratio_mercado": 1.026,
-  "motivo": "precio normal (103 % del cuartil bajo de 116613)"
- },
- {
-  "fecha": "2026-11-20T21:26:09.764371+00:00",
-  "marca": "Rolex",
   "titulo": "2020 Rolex GMT-Master II Pepsi 126719 BLRO Meteorite White Gold 40mm Box Papers",
   "total": 62407.92,
   "condicion": "Pre-owned - Excellent",
@@ -10932,5 +10915,29 @@
   },
   "ratio_mercado": 1.212,
   "motivo": "precio normal (121 % del cuartil bajo de 6694)"
+ },
+ {
+  "fecha": "2026-11-24T05:28:53.370188+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT Master II 116718 18K Yellow Gold Black Ceramic Box 40mm",
+  "total": 33995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840160849545",
+  "item_id": "v1|840160849545|0",
+  "referencia": "116718",
+  "mercado": {
+   "n": 10,
+   "p25": 40000,
+   "mediana": 40950
+  },
+  "ratio_mercado": 0.85,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 34000,
+   "riesgo_autenticidad": "medio",
+   "estado": "Muy buen estado visual, con caja externa pero sin papeles Rolex"
+  },
+  "ratio_justo": 1.0,
+  "motivo": "precio normal segun revision (100 % del justo 34000)"
  }
 ]
