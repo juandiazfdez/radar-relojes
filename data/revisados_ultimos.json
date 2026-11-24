@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-20T22:11:10.090936+00:00",
-  "marca": "Rolex",
-  "titulo": "Box & Card 2015 Jubilee Bracelet Rolex Datejust 36 116200",
-  "total": 8500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960217794937",
-  "item_id": "v1|960217794937|0",
-  "referencia": "116200",
-  "mercado": {
-   "n": 56,
-   "p25": 8025,
-   "mediana": 8779
-  },
-  "ratio_mercado": 1.059,
-  "motivo": "precio normal (106 % del cuartil bajo de 116200)"
- },
- {
-  "fecha": "2026-11-20T22:11:10.090936+00:00",
   "marca": "Cartier",
   "titulo": "28mm Stainless Steel & 18k Gold Cartier Ballon Bleu de Cartier W69007Z3 / 3009",
   "total": 4150.0,
@@ -10921,5 +10904,22 @@
    "nota": "El listado es de un grifo de lavabo Kingston Brass con el nombre Tudor en el titulo, no un reloj. Es un listado enganoso."
   },
   "motivo": "triage: El listado es de un grifo de lavabo Kingston Brass con el nombre Tudor en el titulo, no un reloj. Es un listado enganoso. (justo 0)"
+ },
+ {
+  "fecha": "2026-11-24T14:44:15.532669+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Transatlantique R de Cartier Ballpoint Pen",
+  "total": 825.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147695801258",
+  "item_id": "v1|147695801258|0",
+  "triage": {
+   "modelo": "Bolígrafo Cartier Transatlantique (no es reloj)",
+   "referencia": null,
+   "precio_justo_usd": 400,
+   "interesante": false,
+   "nota": "El listado y la imagen muestran un bolígrafo, no un reloj; está fuera de nuestro criterio de compra y el precio pedido de US$825 supera la estimación de reventa."
+  },
+  "motivo": "triage: El listado y la imagen muestran un bolígrafo, no un reloj; está fuera de nuestro criterio de compra y el precio pedido de US$825 supera la estimación de reventa. (justo 400)"
  }
 ]
