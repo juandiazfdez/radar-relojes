@@ -1,79 +1,5 @@
 [
  {
-  "fecha": "2026-11-22T00:12:14.533480+00:00",
-  "marca": "Tudor",
-  "titulo": "2024 Tudor Black Bay GMT Pepsi Opaline — Ref. 79830RB Warranty until 7/2029!",
-  "total": 4052.01,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168878759644",
-  "item_id": "v1|168878759644|0",
-  "referencia": "79830RB",
-  "mercado": {
-   "n": 57,
-   "p25": 3750,
-   "mediana": 3960
-  },
-  "ratio_mercado": 1.081,
-  "motivo": "precio normal (108 % del cuartil bajo de 79830RB)"
- },
- {
-  "fecha": "2026-11-22T00:27:15.033387+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX DAY-DATE 36mm 18K  Gold President Champagne | Rolex Serviced | Complete!",
-  "total": 23995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/168878783183",
-  "item_id": "v1|168878783183|0",
-  "triage": {
-   "modelo": "Rolex Day-Date 36 oro amarillo 18K, bisel acanalado, esfera champagne, brazalete President",
-   "referencia": "18238 (posible 18038; confirmar número de serie y referencia en el reverso de la caja o con el listado completo)",
-   "precio_justo_usd": 25000,
-   "interesante": false,
-   "nota": "Precio pedido unos 4 % por debajo de una estimación conservadora; sin descuento suficiente para ser interesante. Verificar autenticidad, servicio y papeles."
-  },
-  "motivo": "triage: Precio pedido unos 4 % por debajo de una estimación conservadora; sin descuento suficiente para ser interesante. Verificar autenticidad, servicio y papeles. (justo 25000)"
- },
- {
-  "fecha": "2026-11-22T00:57:15.098837+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 3284 36mm Automatic Stainless Steel W/ Card",
-  "total": 4055.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/820382280078",
-  "item_id": "v1|820382280078|0",
-  "referencia": "3284",
-  "mercado": {
-   "n": 18,
-   "p25": 4120,
-   "mediana": 5500
-  },
-  "ratio_mercado": 0.984,
-  "motivo": "precio normal (98 % del cuartil bajo de 3284)"
- },
- {
-  "fecha": "2026-11-22T01:12:14.705899+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay 41 M79680-0003",
-  "total": 4520.0,
-  "condicion": "New with imperfections",
-  "url": "https://www.ebay.com/itm/206718798290",
-  "item_id": "v1|206718798290|0",
-  "referencia": "M79680-0003",
-  "mercado": {
-   "n": 3,
-   "p25": 4365,
-   "mediana": 4460
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay 41 según el título; la foto muestra bisel liso y esfera plateada, más parecido a un Tudor 1926, así que no coincide del todo",
-   "referencia": "M79680-0003 (según título, sin confirmar en la foto)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta cerrada estimado para acero nuevo con imperfecciones; la referencia y el modelo en la foto no coinciden claramente."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para acero nuevo con imperfecciones; la referencia y el modelo en la foto no coinciden claramente. (justo 3300)"
- },
- {
   "fecha": "2026-11-22T01:27:14.561838+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos De Cartier 4071 WGSA0019 Date 121 Gr. 18K Gold 40MM Men Automatic",
@@ -10870,5 +10796,79 @@
    "nota": "Vendido para piezas o no funcional; el precio pedido de US$1495 no está al menos 15 % por debajo del valor de un 7909 en esas condiciones."
   },
   "motivo": "triage: Vendido para piezas o no funcional; el precio pedido de US$1495 no está al menos 15 % por debajo del valor de un 7909 en esas condiciones. (justo 1100)"
+ },
+ {
+  "fecha": "2026-11-24T22:44:25.995658+00:00",
+  "marca": "Rolex",
+  "titulo": "New 2026 Rolex Datejust 126334 41MM Grey Wimbledon Fluted Oyster Steel Box Paper",
+  "total": 15500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/117540655804",
+  "item_id": "v1|117540655804|0",
+  "referencia": "126334",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 41 (acero/oro blanco, bisel acanalado, esfera gris Wimbledon, brazalete Oyster)",
+   "referencia": "126334",
+   "precio_justo_usd": 13000,
+   "interesante": false,
+   "nota": "Referencia 126334 nueva con caja y papeles; el pedido de US$15,500 está por encima del precio secundario estimado, sin descuento que justifique interés."
+  },
+  "motivo": "triage: Referencia 126334 nueva con caja y papeles; el pedido de US$15,500 está por encima del precio secundario estimado, sin descuento que justifique interés. (justo 13000)"
+ },
+ {
+  "fecha": "2026-11-24T22:44:25.995658+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 228238 Day-Date Champagne Roman 40mm Yellow Gold Watch",
+  "total": 45000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960239550152",
+  "item_id": "v1|960239550152|0",
+  "referencia": "228238",
+  "mercado": {
+   "n": 32,
+   "p25": 47900,
+   "mediana": 48990
+  },
+  "ratio_mercado": 0.939,
+  "motivo": "precio normal (94 % del cuartil bajo de 228238)"
+ },
+ {
+  "fecha": "2026-11-24T22:44:25.995658+00:00",
+  "marca": "Rolex",
+  "titulo": "Mint Unpolished 2021 Rolex Datejust 126300 41MM Wimbledon Smooth Jubilee B/p",
+  "total": 11250.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117540653902",
+  "item_id": "v1|117540653902|0",
+  "referencia": "126300",
+  "mercado": {
+   "n": 15,
+   "p25": 10092,
+   "mediana": 10389
+  },
+  "ratio_mercado": 1.115,
+  "motivo": "precio normal (111 % del cuartil bajo de 126300)"
+ },
+ {
+  "fecha": "2026-11-24T22:44:25.995658+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date Starbucks 2026 - 126610LV | Unworn Full Set - 41 MM",
+  "total": 16190.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/137959998160",
+  "item_id": "v1|137959998160|0",
+  "referencia": "126610LV",
+  "mercado": {
+   "n": 39,
+   "p25": 16235,
+   "mediana": 16499
+  },
+  "ratio_mercado": 0.997,
+  "motivo": "precio normal (100 % del cuartil bajo de 126610LV)"
  }
 ]
