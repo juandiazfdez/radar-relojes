@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-11-20T19:41:09.741243+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos 1564 Rare 💎 Unpolished",
-  "total": 5800.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287742001917",
-  "item_id": "v1|287742001917|0",
-  "referencia": "1564",
-  "mercado": {
-   "n": 3,
-   "p25": 4900,
-   "mediana": 5488
-  },
-  "triage": {
-   "modelo": "Cartier Santos Galbée (acero, cuarzo, esfera blanca con numerales romanos azules y ventana de fecha)",
-   "referencia": "1564 (según el título; no es verificable en la foto)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "El precio pedido de US$5800 está muy por encima del mercado para un Santos de acero de cuarzo; el 'Rare Unpolished' no justifica la prima."
-  },
-  "motivo": "triage: El precio pedido de US$5800 está muy por encima del mercado para un Santos de acero de cuarzo; el 'Rare Unpolished' no justifica la prima. (justo 3300)"
- },
- {
   "fecha": "2026-11-20T19:56:10.234385+00:00",
   "marca": "Rolex",
   "titulo": "Rolex GMT-Master II Sprite Steel Jubilee Watch 126720VTNR",
@@ -10967,5 +10944,22 @@
   },
   "ratio_mercado": 1.157,
   "motivo": "precio normal (116 % del cuartil bajo de 116610LN)"
+ },
+ {
+  "fecha": "2026-11-24T00:43:42.626432+00:00",
+  "marca": "Cartier",
+  "titulo": "2025 Cartier Santos de Cartier",
+  "total": 7740.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147694934255",
+  "item_id": "v1|147694934255|0",
+  "triage": {
+   "modelo": "Cartier Santos de Cartier (acero, esfera blanca)",
+   "referencia": null,
+   "precio_justo_usd": 6300,
+   "interesante": false,
+   "nota": "Modelo identificable en la foto, pero la referencia exacta no se ve. El precio pedido queda por encima del mercado gris actual para acero nuevo o casi nuevo."
+  },
+  "motivo": "triage: Modelo identificable en la foto, pero la referencia exacta no se ve. El precio pedido queda por encima del mercado gris actual para acero nuevo o casi nuevo. (justo 6300)"
  }
 ]
