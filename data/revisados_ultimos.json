@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-20T20:56:10.375894+00:00",
   "marca": "Tudor",
-  "titulo": "Tudor Pelagos FXD Marine Nationale Titanium Watch 25707B/21",
-  "total": 5190.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840149572006",
-  "item_id": "v1|840149572006|0",
-  "referencia": "25707B",
-  "mercado": {
-   "n": 8,
-   "p25": 4060,
-   "mediana": 4292
-  },
-  "ratio_mercado": 1.278,
-  "motivo": "precio normal (128 % del cuartil bajo de 25707B)"
- },
- {
-  "fecha": "2026-11-20T20:56:10.375894+00:00",
-  "marca": "Tudor",
   "titulo": "Tudor Black Bay “Bumblebee” - Ref. 79310N - 39mm Stainless Steel",
   "total": 9395.0,
   "condicion": "Pre-owned - Excellent",
@@ -10943,5 +10926,22 @@
    "nota": "Precio pedido de US$7490 está muy por encima del valor de venta real de este modelo de dos tonos de 1990, aunque esté en excelente estado."
   },
   "motivo": "triage: Precio pedido de US$7490 está muy por encima del valor de venta real de este modelo de dos tonos de 1990, aunque esté en excelente estado. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-24T03:13:52.974063+00:00",
+  "marca": "Cartier",
+  "titulo": "Must De Cartier Tank Sterling Silver Gold Vermeil Ladies Quartz Watch",
+  "total": 1812.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147695108549",
+  "item_id": "v1|147695108549|0",
+  "triage": {
+   "modelo": "Must de Cartier Tank en plata esterlina con vermeil de oro, cuarzo, esfera negra con numerales romanos, correa de piel negra (tamaño mediano/dama)",
+   "referencia": null,
+   "precio_justo_usd": 600,
+   "interesante": false,
+   "nota": "Precio pedido de US$1812 muy por encima del valor de venta cerrada para este modelo vermeil de cuarzo en estado usado; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$1812 muy por encima del valor de venta cerrada para este modelo vermeil de cuarzo en estado usado; no es una oportunidad. (justo 600)"
  }
 ]
