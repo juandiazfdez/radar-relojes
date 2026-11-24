@@ -2,57 +2,6 @@
  {
   "fecha": "2026-11-20T21:26:09.764371+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II Steel Jubilee Watch 126710BLRO",
-  "total": 26696.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960222644719",
-  "item_id": "v1|960222644719|0",
-  "referencia": "126710BLRO",
-  "mercado": {
-   "n": 13,
-   "p25": 23525,
-   "mediana": 24100
-  },
-  "ratio_mercado": 1.135,
-  "motivo": "precio normal (113 % del cuartil bajo de 126710BLRO)"
- },
- {
-  "fecha": "2026-11-20T21:26:09.764371+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II Sprite Steel Jubilee Watch 126720VTNR",
-  "total": 21074.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960222643922",
-  "item_id": "v1|960222643922|0",
-  "referencia": "126720VTNR",
-  "mercado": {
-   "n": 89,
-   "p25": 17990,
-   "mediana": 18549
-  },
-  "ratio_mercado": 1.171,
-  "motivo": "precio normal (117 % del cuartil bajo de 126720VTNR)"
- },
- {
-  "fecha": "2026-11-20T21:26:09.764371+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Explorer II 16570 40mm Black Steel Oyster Automatic Mens Watch",
-  "total": 8525.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267849416533",
-  "item_id": "v1|267849416533|0",
-  "referencia": "16570",
-  "mercado": {
-   "n": 40,
-   "p25": 8495,
-   "mediana": 8990
-  },
-  "ratio_mercado": 1.004,
-  "motivo": "precio normal (100 % del cuartil bajo de 16570)"
- },
- {
-  "fecha": "2026-11-20T21:26:09.764371+00:00",
-  "marca": "Rolex",
   "titulo": "2022 Rolex Daytona Cosmograph 116500 LN Panda White Steel 40mm Watch Box Papers",
   "total": 33848.09,
   "condicion": "Pre-owned - Excellent",
@@ -10931,5 +10880,63 @@
   },
   "ratio_mercado": 1.325,
   "motivo": "precio normal (132 % del cuartil bajo de 279171)"
+ },
+ {
+  "fecha": "2026-11-24T04:28:53.660592+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II Root Beer 126711CHNR 2025 Box & Papers",
+  "total": 20995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900116723395",
+  "item_id": "v1|900116723395|0",
+  "referencia": "126711CHNR",
+  "mercado": {
+   "n": 99,
+   "p25": 20589,
+   "mediana": 21900
+  },
+  "ratio_mercado": 1.02,
+  "motivo": "precio normal (102 % del cuartil bajo de 126711CHNR)"
+ },
+ {
+  "fecha": "2026-11-24T04:28:53.660592+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 67193 24mm Ladies Watch Jubilee w/ Box & Papers",
+  "total": 3500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336911750938",
+  "item_id": "v1|336911750938|0",
+  "referencia": "67193",
+  "mercado": {
+   "n": 19,
+   "p25": 4850,
+   "mediana": 5104
+  },
+  "ratio_mercado": 0.722,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 3500,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado, desgaste visible en caja, esfera con marcas y brazalete estirado, con caja y papeles"
+  },
+  "ratio_justo": 1.0,
+  "motivo": "precio normal segun revision (100 % del justo 3500)"
+ },
+ {
+  "fecha": "2026-11-24T04:28:53.660592+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Ranger 39mm  79950, Full Set  Excellent",
+  "total": 3333.33,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/117539125294",
+  "item_id": "v1|117539125294|0",
+  "referencia": "79950",
+  "mercado": {
+   "n": 13,
+   "p25": 3299,
+   "mediana": 3600
+  },
+  "ratio_mercado": 1.01,
+  "motivo": "precio normal (101 % del cuartil bajo de 79950)"
  }
 ]
