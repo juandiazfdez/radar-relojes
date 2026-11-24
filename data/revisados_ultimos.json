@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-21T02:56:21.513622+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Pelagos LHD M25610TNL-0001 In Very Good Used Condition",
-  "total": 4250.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117533389093",
-  "item_id": "v1|117533389093|0",
-  "triage": {
-   "modelo": "Tudor Pelagos LHD (titanio, bisel negro, brazalete de titanio)",
-   "referencia": "M25610TNL-0001",
-   "precio_justo_usd": 3900,
-   "interesante": false,
-   "nota": "Pelagos LHD de titanio en buen estado; el precio pedido de US$4250 con envío está por encima del rango de venta cerrada de uso, así que no cumple el umbral del 15 %."
-  },
-  "motivo": "triage: Pelagos LHD de titanio en buen estado; el precio pedido de US$4250 con envío está por encima del rango de venta cerrada de uso, así que no cumple el umbral del 15 %. (justo 3900)"
- },
- {
-  "fecha": "2026-11-21T03:11:20.874601+00:00",
-  "marca": "Tudor",
-  "titulo": "2024 Tudor Ranger 39mm  79950, Full Set  Excellent ",
-  "total": 2890.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287745182892",
-  "item_id": "v1|287745182892|0",
-  "referencia": "79950",
-  "mercado": {
-   "n": 11,
-   "p25": 3350,
-   "mediana": 3600
-  },
-  "ratio_mercado": 0.863,
-  "motivo": "precio normal (86 % del cuartil bajo de 79950)"
- },
- {
   "fecha": "2026-11-21T03:26:21.486774+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Roadster Chronograph In stainless steel",
@@ -10899,5 +10865,39 @@
   },
   "ratio_mercado": 2.331,
   "motivo": "precio normal (233 % del cuartil bajo de 79360N)"
+ },
+ {
+  "fecha": "2026-11-24T17:44:16.038813+00:00",
+  "marca": "Rolex",
+  "titulo": "2019 Rolex Yacht Master II Yellow Gold 116688 with Box and Papers",
+  "total": 35500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960239035436",
+  "item_id": "v1|960239035436|0",
+  "referencia": "116688",
+  "mercado": {
+   "n": 35,
+   "p25": 39905,
+   "mediana": 42888
+  },
+  "ratio_mercado": 0.89,
+  "motivo": "precio normal (89 % del cuartil bajo de 116688)"
+ },
+ {
+  "fecha": "2026-11-24T17:44:16.038813+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR MODEL 1926 REF M91650 41MM - FULL SET",
+  "total": 2350.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960239046089",
+  "item_id": "v1|960239046089|0",
+  "referencia": "M91650",
+  "mercado": {
+   "n": 5,
+   "p25": 2098,
+   "mediana": 2160
+  },
+  "ratio_mercado": 1.12,
+  "motivo": "precio normal (112 % del cuartil bajo de M91650)"
  }
 ]
