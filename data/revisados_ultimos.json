@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-20T21:11:09.636576+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos XL Chronograph 44mm 18kt Yellow Gold & Stainless Steel W2SA0008",
-  "total": 12855.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137945163734",
-  "item_id": "v1|137945163734|0",
-  "referencia": "W2SA0008",
-  "mercado": {
-   "n": 13,
-   "p25": 11995,
-   "mediana": 13015
-  },
-  "ratio_mercado": 1.072,
-  "motivo": "precio normal (107 % del cuartil bajo de W2SA0008)"
- },
- {
   "fecha": "2026-11-20T21:26:09.764371+00:00",
   "marca": "Rolex",
   "titulo": "Rolex GMT-Master II Steel Jubilee Watch 126710BLRO",
@@ -10931,5 +10914,22 @@
    "nota": "Precio pedido de US$19,000 está muy por encima del valor de mercado para esta referencia usada; no es oportunidad."
   },
   "motivo": "triage: Precio pedido de US$19,000 está muy por encima del valor de mercado para esta referencia usada; no es oportunidad. (justo 14500)"
+ },
+ {
+  "fecha": "2026-11-24T03:58:53.455977+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 New Rolex Datejust 28mm Mother of Pearl Diamond - Fluted - Jubilee - 279171",
+  "total": 21849.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/227629344732",
+  "item_id": "v1|227629344732|0",
+  "referencia": "279171",
+  "mercado": {
+   "n": 9,
+   "p25": 16495,
+   "mediana": 16573
+  },
+  "ratio_mercado": 1.325,
+  "motivo": "precio normal (132 % del cuartil bajo de 279171)"
  }
 ]
