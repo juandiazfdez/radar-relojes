@@ -1,120 +1,5 @@
 [
  {
-  "fecha": "2026-11-21T23:27:14.949551+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Pelagos FXD Chrono Black Carbon Composite Cycling Edition 43mm 25827KN",
-  "total": 3995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840153180436",
-  "item_id": "v1|840153180436|0",
-  "referencia": "25827KN",
-  "mercado": {
-   "n": 9,
-   "p25": 4265,
-   "mediana": 4300
-  },
-  "ratio_mercado": 0.937,
-  "motivo": "precio normal (94 % del cuartil bajo de 25827KN)"
- },
- {
-  "fecha": "2026-11-21T23:42:15.160107+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Roadster Chronograph W62007X6 2618 43mm XL Black Automatic Watch Only",
-  "total": 4195.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840153212936",
-  "item_id": "v1|840153212936|0",
-  "referencia": "W62007X6, 2618",
-  "mercado": {
-   "n": 14,
-   "p25": 5300,
-   "mediana": 5940
-  },
-  "ratio_mercado": 0.792,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 3900,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, bueno; caja y brazalete pulidos con desgaste visible, sin caja ni papeles"
-  },
-  "ratio_justo": 1.076,
-  "motivo": "precio normal segun revision (108 % del justo 3900)"
- },
- {
-  "fecha": "2026-11-21T23:57:15.042692+00:00",
-  "marca": "Cartier",
-  "titulo": "1980's Vintage Vermeil Cartier Must de Tank Quartz SM Ref. 5057 - Serviced",
-  "total": 3200.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407380182948",
-  "item_id": "v1|407380182948|0",
-  "triage": {
-   "modelo": "Cartier Must de Tank Quartz SM (vermeil, años 1980)",
-   "referencia": "5057",
-   "precio_justo_usd": 850,
-   "interesante": false,
-   "nota": "Precio pedido de US$3200 muy por encima del valor de mercado de esta referencia en vermeil, incluso en excelente estado y con servicio."
-  },
-  "motivo": "triage: Precio pedido de US$3200 muy por encima del valor de mercado de esta referencia en vermeil, incluso en excelente estado y con servicio. (justo 850)"
- },
- {
-  "fecha": "2026-11-21T23:57:15.042692+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 42mm Stainless Steel Automatic Watch Ref. 3001",
-  "total": 4999.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307294475403",
-  "item_id": "v1|307294475403|0",
-  "referencia": "3001",
-  "mercado": {
-   "n": 22,
-   "p25": 5550,
-   "mediana": 6592
-  },
-  "ratio_mercado": 0.901,
-  "motivo": "precio normal (90 % del cuartil bajo de 3001)"
- },
- {
-  "fecha": "2026-11-21T23:57:15.042692+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay 54 Stainless BLUE 37mm Automatic Watch Men M79000B-0001",
-  "total": 3325.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307294480868",
-  "item_id": "v1|307294480868|0",
-  "referencia": "M79000B-0001",
-  "mercado": {
-   "n": 4,
-   "p25": 3315,
-   "mediana": 3632
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay 54 Stainless (esfera azul, 37 mm, brazalete Jubilee)",
-   "referencia": "M79000B-0001 (según el listado; verificar con la caja y el reverso de la caja)",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Precio pedido de US$3325 solo ~10 % bajo el mercado secundario; no cumple el umbral del 15 %. El listado indica año 2026, así que conviene verificar el año y la autenticidad."
-  },
-  "motivo": "triage: Precio pedido de US$3325 solo ~10 % bajo el mercado secundario; no cumple el umbral del 15 %. El listado indica año 2026, así que conviene verificar el año y la autenticidad. (justo 3000)"
- },
- {
-  "fecha": "2026-11-22T00:12:14.533480+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay 79360N-0002, Full Set, Excellent Condition",
-  "total": 4650.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147691855838",
-  "item_id": "v1|147691855838|0",
-  "referencia": "79360N-0002",
-  "mercado": {
-   "n": 54,
-   "p25": 4600,
-   "mediana": 4947
-  },
-  "ratio_mercado": 1.011,
-  "motivo": "precio normal (101 % del cuartil bajo de 79360N-0002)"
- },
- {
   "fecha": "2026-11-22T00:12:14.533480+00:00",
   "marca": "Tudor",
   "titulo": "2024 Tudor Black Bay GMT Pepsi Opaline — Ref. 79830RB Warranty until 7/2029!",
@@ -10883,5 +10768,107 @@
    "nota": "Precio pedido de US$4995 está por encima del mercado secundario estimado para un Tudor nuevo con caja y papeles; no hay descuento."
   },
   "motivo": "triage: Precio pedido de US$4995 está por encima del mercado secundario estimado para un Tudor nuevo con caja y papeles; no hay descuento. (justo 3900)"
+ },
+ {
+  "fecha": "2026-11-24T22:29:26.175984+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex Day-Date 228238 40MM Money Green President 18K Yg Box Paper",
+  "total": 67500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880150322350",
+  "item_id": "v1|880150322350|0",
+  "referencia": "228238",
+  "mercado": {
+   "n": 32,
+   "p25": 47900,
+   "mediana": 48990
+  },
+  "ratio_mercado": 1.409,
+  "motivo": "precio normal (141 % del cuartil bajo de 228238)"
+ },
+ {
+  "fecha": "2026-11-24T22:29:26.175984+00:00",
+  "marca": "Rolex",
+  "titulo": "2015 Rolex Submariner Date Hulk 116610LV 40MM Green Oyster Steel Box Paper",
+  "total": 20000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117540630239",
+  "item_id": "v1|117540630239|0",
+  "referencia": "116610LV",
+  "mercado": {
+   "n": 28,
+   "p25": 19890,
+   "mediana": 20642
+  },
+  "ratio_mercado": 1.006,
+  "motivo": "precio normal (101 % del cuartil bajo de 116610LV)"
+ },
+ {
+  "fecha": "2026-11-24T22:29:26.175984+00:00",
+  "marca": "Rolex",
+  "titulo": "2023 Rolex GMT-Master II Sprite Lefty 126720VTNR 40MM Black Jubilee Steel B/p",
+  "total": 17750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117540626995",
+  "item_id": "v1|117540626995|0",
+  "referencia": "126720VTNR",
+  "mercado": {
+   "n": 89,
+   "p25": 17999,
+   "mediana": 18595
+  },
+  "ratio_mercado": 0.986,
+  "motivo": "precio normal (99 % del cuartil bajo de 126720VTNR)"
+ },
+ {
+  "fecha": "2026-11-24T22:29:26.175984+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona With Box and Paper. Sold As Is",
+  "total": 37050.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/168884901070",
+  "item_id": "v1|168884901070|0",
+  "triage": {
+   "modelo": "Rolex Cosmograph Daytona de acero, esfera blanca, brazalete Oyster",
+   "referencia": "16520 (probable; podría ser 116520)",
+   "precio_justo_usd": 28000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor estimado para estado Fair, vendido as is; la referencia exacta no se puede confirmar solo con la foto."
+  },
+  "motivo": "triage: Precio pedido por encima del valor estimado para estado Fair, vendido as is; la referencia exacta no se puede confirmar solo con la foto. (justo 28000)"
+ },
+ {
+  "fecha": "2026-11-24T22:29:26.175984+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 GMT “Coke” 39mm 7939G1A0NRU – Excell. Cond.– Full Set – 2025",
+  "total": 4300.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267853792089",
+  "item_id": "v1|267853792089|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 GMT \"Coke\" 39 mm (acero, bisel rojo/negro)",
+   "referencia": "7939G1A0NRU",
+   "precio_justo_usd": 3700,
+   "interesante": false,
+   "nota": "Precio pedido de US$4300 por encima del mercado secundario para un modelo 2025 con caja y papeles en excelente estado; no cumple el umbral de 15 % por debajo."
+  },
+  "motivo": "triage: Precio pedido de US$4300 por encima del mercado secundario para un modelo 2025 con caja y papeles en excelente estado; no cumple el umbral de 15 % por debajo. (justo 3700)"
+ },
+ {
+  "fecha": "2026-11-24T22:29:26.175984+00:00",
+  "marca": "Tudor",
+  "titulo": "Vintage 1950s Tudor 7909 Oyster-Prince Automatic 34mm Stainless Steel Mens Watch",
+  "total": 1495.0,
+  "condicion": "For parts or not working",
+  "url": "https://www.ebay.com/itm/137959934530",
+  "item_id": "v1|137959934530|0",
+  "triage": {
+   "modelo": "Tudor Oyster Prince Automatic (años 50, caja de acero, esfera tipo honeycomb)",
+   "referencia": "7909 (según el título, no verificable en la foto)",
+   "precio_justo_usd": 1100,
+   "interesante": false,
+   "nota": "Vendido para piezas o no funcional; el precio pedido de US$1495 no está al menos 15 % por debajo del valor de un 7909 en esas condiciones."
+  },
+  "motivo": "triage: Vendido para piezas o no funcional; el precio pedido de US$1495 no está al menos 15 % por debajo del valor de un 7909 en esas condiciones. (justo 1100)"
  }
 ]
