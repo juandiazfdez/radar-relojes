@@ -1,103 +1,5 @@
 [
  {
-  "fecha": "2026-11-22T01:27:14.561838+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos De Cartier 4071 WGSA0019 Date 121 Gr. 18K Gold 40MM Men Automatic",
-  "total": 20145.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206718828650",
-  "item_id": "v1|206718828650|0",
-  "referencia": "WGSA0019",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Santos de Cartier (grande, 40 mm, oro amarillo 18k, fecha)",
-   "referencia": "WGSA0019",
-   "precio_justo_usd": 20500,
-   "interesante": false,
-   "nota": "Precio cercano al mercado secundario para oro amarillo grande con caja y papeles; no hay descuento de 15% y no puedo verificar papeles ni autenticidad desde la foto."
-  },
-  "motivo": "triage: Precio cercano al mercado secundario para oro amarillo grande con caja y papeles; no hay descuento de 15% y no puedo verificar papeles ni autenticidad desde la foto. (justo 20500)"
- },
- {
-  "fecha": "2026-11-22T01:42:14.966339+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Raleigh ~ Running ~ SEE DESCRIPTION FOR ALL DETAILS ~ NO RETURNS",
-  "total": 650.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/128207643307",
-  "item_id": "v1|128207643307|0",
-  "triage": {
-   "modelo": "Rolex Oyster Raleigh (vintage, cuerda manual, acero, esfera crema con numerales arábigos; identificación poco segura)",
-   "referencia": null,
-   "precio_justo_usd": 450,
-   "interesante": false,
-   "nota": "Imagen insuficiente para confirmar Rolex (no se distingue la corona ni el texto del dial con claridad). Listado 'Fair', sin devoluciones y con descripción vaga. El precio pedido de US$650 no está por debajo del valor de mercado para un vintage funcional en ese estado."
-  },
-  "motivo": "triage: Imagen insuficiente para confirmar Rolex (no se distingue la corona ni el texto del dial con claridad). Listado 'Fair', sin devoluciones y con descripción vaga. El precio pedido de US$650 no está por debajo del valor de mercado para un vintage funcional en ese estado. (justo 450)"
- },
- {
-  "fecha": "2026-11-22T01:57:15.430718+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Men's Stainless Steel 5513 ",
-  "total": 9900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920170143905",
-  "item_id": "v1|920170143905|0",
-  "referencia": "5513",
-  "mercado": {
-   "n": 34,
-   "p25": 11918,
-   "mediana": 14319
-  },
-  "ratio_mercado": 0.831,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 11500,
-   "riesgo_autenticidad": "medio",
-   "estado": "Aspecto vintage honesto: patina color crema en puntos y manecillas, bisel de aluminio desgastado, caja con signos de pulido, esfera con manchas"
-  },
-  "ratio_justo": 0.861,
-  "motivo": "precio normal segun revision (86 % del justo 11500)"
- },
- {
-  "fecha": "2026-11-22T01:57:15.430718+00:00",
-  "marca": "Rolex",
-  "titulo": "Vtg Rare Original Dainty 40s Rolex Standard Ladies Cocktail Watch Navette Windup",
-  "total": 2600.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880138694420",
-  "item_id": "v1|880138694420|0",
-  "triage": {
-   "modelo": "Rolex Standard (dama, cocktail navette, años 40), no verificable en la imagen",
-   "referencia": null,
-   "precio_justo_usd": 1200,
-   "interesante": false,
-   "nota": "La foto no muestra corona ni esfera con logotipo legible; la autenticidad Rolex no se puede confirmar. Si fuera genuino en chapa de oro, rondaría US$1,000-1,500, bastante por debajo de los US$2,600 pedidos."
-  },
-  "motivo": "triage: La foto no muestra corona ni esfera con logotipo legible; la autenticidad Rolex no se puede confirmar. Si fuera genuino en chapa de oro, rondaría US$1,000-1,500, bastante por debajo de los US$2,600 pedidos. (justo 1200)"
- },
- {
-  "fecha": "2026-11-22T02:12:14.643122+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay 54 Stainless BLUE 37mm Automatic Watch  NO RESERVE !!!",
-  "total": 3095.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307294614554",
-  "item_id": "v1|307294614554|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 54 Stainless Blue (esfera y bisel azules, brazalete Jubilee, 37 mm)",
-   "referencia": "M79030B (probable, verificar con la caja y el reverso de la esfera)",
-   "precio_justo_usd": 2900,
-   "interesante": false,
-   "nota": "Precio pedido por encima de la estimación de mercado secundario para un Black Bay 54 usado en excelente estado con caja y papeles; no cumple el umbral del 15 %."
-  },
-  "motivo": "triage: Precio pedido por encima de la estimación de mercado secundario para un Black Bay 54 usado en excelente estado con caja y papeles; no cumple el umbral del 15 %. (justo 2900)"
- },
- {
   "fecha": "2026-11-22T02:42:14.719262+00:00",
   "marca": "Cartier",
   "titulo": "24mm Cartier Must De Watch With Authentication (P08035737)",
@@ -10870,5 +10772,97 @@
   },
   "ratio_mercado": 0.997,
   "motivo": "precio normal (100 % del cuartil bajo de 126610LV)"
+ },
+ {
+  "fecha": "2026-11-24T22:59:25.768012+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Lady-Datejust Gold Dial. Please read description.",
+  "total": 2500.0,
+  "condicion": "For parts or not working",
+  "url": "https://www.ebay.com/itm/800962419691",
+  "item_id": "v1|800962419691|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 mm, oro amarillo de 18 k, bisel de diamantes, esfera champán con marcadores, brazalete President",
+   "referencia": "69178 (probable; verificar número de serie y grabado en el cierre)",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Sin funcionar o para piezas, el valor depende sobre todo del oro. Falta confirmar autenticidad, si la esfera y el bisel son originales y el estado del movimiento."
+  },
+  "motivo": "triage: Sin funcionar o para piezas, el valor depende sobre todo del oro. Falta confirmar autenticidad, si la esfera y el bisel son originales y el estado del movimiento. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-24T22:59:25.768012+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1990 Rolex Datejust 16233 Two-Tone Grey Anniversary Diamond Auto 36mm",
+  "total": 9599.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128214895574",
+  "item_id": "v1|128214895574|0",
+  "referencia": "16233",
+  "mercado": {
+   "n": 23,
+   "p25": 5399,
+   "mediana": 6000
+  },
+  "ratio_mercado": 1.778,
+  "motivo": "precio normal (178 % del cuartil bajo de 16233)"
+ },
+ {
+  "fecha": "2026-11-24T22:59:25.768012+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 2026 NOVEMBER UNWORN 126710GRNR Oyster Bruce Wayne Steel",
+  "total": 20800.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840163050184",
+  "item_id": "v1|840163050184|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 64,
+   "p25": 21725,
+   "mediana": 22794
+  },
+  "ratio_mercado": 0.957,
+  "motivo": "precio normal (96 % del cuartil bajo de 126710GRNR)"
+ },
+ {
+  "fecha": "2026-11-24T22:59:25.768012+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1930s Rolex Precision Ladies 18K Yellow Gold Rectangular Mesh Watch",
+  "total": 8000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960239571911",
+  "item_id": "v1|960239571911|0",
+  "triage": {
+   "modelo": "Rolex Precision dama rectangular en oro amarillo 18K con pulsera de malla (años 1930, según el listado)",
+   "referencia": null,
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Precio pedido de US$8000 muy por encima del valor de venta; aunque el oro 18K y la malla aportan valor de metal, no justifica ese precio. Sin referencia ni cifras de peso visibles, la autenticidad debe verificarse."
+  },
+  "motivo": "triage: Precio pedido de US$8000 muy por encima del valor de venta; aunque el oro 18K y la malla aportan valor de metal, no justifica ese precio. Sin referencia ni cifras de peso visibles, la autenticidad debe verificarse. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-24T22:59:25.768012+00:00",
+  "marca": "Rolex",
+  "titulo": "2004 Rolex Submariner Date | Ref. 16610LV",
+  "total": 11700.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267853808020",
+  "item_id": "v1|267853808020|0",
+  "referencia": "16610LV",
+  "mercado": {
+   "n": 32,
+   "p25": 14468,
+   "mediana": 16224
+  },
+  "ratio_mercado": 0.809,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 13000,
+   "riesgo_autenticidad": "medio",
+   "estado": "Bueno, uso visible: caja y brazalete con rayones, cierre muy rayado, bisel con desgaste. Solo reloj, sin caja ni papeles."
+  },
+  "ratio_justo": 0.9,
+  "motivo": "precio normal segun revision (90 % del justo 13000)"
  }
 ]
