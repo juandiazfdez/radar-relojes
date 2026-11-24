@@ -1,166 +1,5 @@
 [
  {
-  "fecha": "2026-11-21T16:57:02.598572+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 1601 Jubilee Bracelet",
-  "total": 4010.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960226137942",
-  "item_id": "v1|960226137942|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36 mm acero con bisel de oro fluteado y brazalete Jubilee",
-   "referencia": "1601",
-   "precio_justo_usd": 4200,
-   "interesante": false,
-   "nota": "Datejust 1601 de acero con bisel de oro, esfera plateada con marcadores de barra, probablemente de los años 70. El precio pedido de 4010 queda cerca del valor de mercado, no 15 % por debajo, y el estado 'Good' y la esfera original deben verificarse en persona."
-  },
-  "motivo": "triage: Datejust 1601 de acero con bisel de oro, esfera plateada con marcadores de barra, probablemente de los años 70. El precio pedido de 4010 queda cerca del valor de mercado, no 15 % por debajo, y el estado 'Good' y la esfera original deben verificarse en persona. (justo 4200)"
- },
- {
-  "fecha": "2026-11-21T17:12:02.090227+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex DateJust 16220 36mm Stainless Steel Silver Engine Turned 1999 BOX PAPERS",
-  "total": 7494.47,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287746851603",
-  "item_id": "v1|287746851603|0",
-  "referencia": "16220",
-  "mercado": {
-   "n": 31,
-   "p25": 6000,
-   "mediana": 6855
-  },
-  "ratio_mercado": 1.249,
-  "motivo": "precio normal (125 % del cuartil bajo de 16220)"
- },
- {
-  "fecha": "2026-11-21T17:12:02.090227+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Calibre de Cartier Diver W2CA0009 42mm 18k Rose Gold Steel Blue Full Set",
-  "total": 5499.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/860165262587",
-  "item_id": "v1|860165262587|0",
-  "referencia": "W2CA0008",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Calibre de Cartier Diver 42 mm, bicolor oro rosa 18k y acero, esfera azul",
-   "referencia": "W2CA0009",
-   "precio_justo_usd": 7000,
-   "interesante": true,
-   "nota": "Precio ~20-25 % bajo el mercado de venta cerrada para bicolor. Verificar autenticidad (grabados, movimiento, papeles) antes de comprar, por el riesgo de réplica."
-  },
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 5000,
-   "riesgo_autenticidad": "medio",
-   "estado": "Muy bueno a excelente según las fotos; sin rayones visibles en bisel ni cristal, pero con logo corporativo en la esfera y grabado en el fondo"
-  },
-  "ratio_justo": 1.1,
-  "motivo": "precio normal segun revision (110 % del justo 5000)"
- },
- {
-  "fecha": "2026-11-21T17:12:02.090227+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Solo W5200002 3168 18K Yellow Gold And Steel  Watch",
-  "total": 6550.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/377665285312",
-  "item_id": "v1|377665285312|0",
-  "referencia": "W5200002",
-  "mercado": {
-   "n": 3,
-   "p25": 5300,
-   "mediana": 6760
-  },
-  "triage": {
-   "modelo": "Cartier Tank Solo (formato rectangular, caja dorada, esfera blanca con números romanos, correa de piel negra)",
-   "referencia": "W5200002 (según título; el aspecto de la caja sugiere oro amarillo, lo que no encaja con esa referencia de acero)",
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "El título mezcla datos incoherentes (W5200002 es de acero, pero se anuncia como oro amarillo y acero, y aparece '3168', que es un calibre Rolex). Sin verificar la caja de oro, el número de serie y los papeles, el precio pedido de US$6,550 no está claramente por debajo del mercado."
-  },
-  "motivo": "triage: El título mezcla datos incoherentes (W5200002 es de acero, pero se anuncia como oro amarillo y acero, y aparece '3168', que es un calibre Rolex). Sin verificar la caja de oro, el número de serie y los papeles, el precio pedido de US$6,550 no está claramente por debajo del mercado. (justo 5000)"
- },
- {
-  "fecha": "2026-11-21T17:12:02.090227+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Fifty-Eight 39mm Blue M79030B-0003 Full Set",
-  "total": 3511.8,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/860165250081",
-  "item_id": "v1|860165250081|0",
-  "referencia": "M79030B-0003",
-  "mercado": {
-   "n": 2,
-   "p25": 3368,
-   "mediana": 3534
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay Fifty-Eight 39mm, bisel y esfera azules, brazalete Jubilee de acero",
-   "referencia": "M79030B-0003 (según el título; no puedo confirmarla con certeza solo con la foto)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido de US$3512 queda dentro del rango normal de reventa para esta referencia usada con caja y papeles, sin descuento de al menos 15 %."
-  },
-  "motivo": "triage: Precio pedido de US$3512 queda dentro del rango normal de reventa para esta referencia usada con caja y papeles, sin descuento de al menos 15 %. (justo 3300)"
- },
- {
-  "fecha": "2026-11-21T17:27:02.285123+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sea-Dweller 126600 Full Set Unworn Pristine Condition",
-  "total": 14500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336909274760",
-  "item_id": "v1|336909274760|0",
-  "referencia": "126600",
-  "mercado": {
-   "n": 50,
-   "p25": 12999,
-   "mediana": 14019
-  },
-  "ratio_mercado": 1.115,
-  "motivo": "precio normal (112 % del cuartil bajo de 126600)"
- },
- {
-  "fecha": "2026-11-21T17:27:02.285123+00:00",
-  "marca": "Tudor",
-  "titulo": "BRAND NEW Tudor Black Bay Pro Opaline 79470-0006, 2026 Complete Set",
-  "total": 4495.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/960226245840",
-  "item_id": "v1|960226245840|0",
-  "referencia": "79470-0006",
-  "mercado": {
-   "n": 12,
-   "p25": 4000,
-   "mediana": 4372
-  },
-  "ratio_mercado": 1.124,
-  "motivo": "precio normal (112 % del cuartil bajo de 79470-0006)"
- },
- {
-  "fecha": "2026-11-21T17:27:02.285123+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 58 925 Silver Full-Set (M79010SG-0001)",
-  "total": 3996.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287746872384",
-  "item_id": "v1|287746872384|0",
-  "referencia": "M79010SG-0001",
-  "mercado": {
-   "n": 5,
-   "p25": 3950,
-   "mediana": 4065
-  },
-  "ratio_mercado": 1.012,
-  "motivo": "precio normal (101 % del cuartil bajo de M79010SG-0001)"
- },
- {
   "fecha": "2026-11-21T17:42:01.650784+00:00",
   "marca": "Rolex",
   "titulo": "36mm Rolex Datejust Champagne Linen Dial- Box & Papers",
@@ -10917,5 +10756,147 @@
    "nota": "Precio pedido muy por encima del mercado secundario para un modelo nuevo de acero actual; no es una oportunidad."
   },
   "motivo": "triage: Precio pedido muy por encima del mercado secundario para un modelo nuevo de acero actual; no es una oportunidad. (justo 12000)"
+ },
+ {
+  "fecha": "2026-11-24T20:14:25.860513+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31, 278240, Steel, Dark Grey Roman Dial, Oyster Bracelet",
+  "total": 12373.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206725256641",
+  "item_id": "v1|206725256641|0",
+  "referencia": "278240",
+  "mercado": {
+   "n": 13,
+   "p25": 10448,
+   "mediana": 11539
+  },
+  "ratio_mercado": 1.184,
+  "motivo": "precio normal (118 % del cuartil bajo de 278240)"
+ },
+ {
+  "fecha": "2026-11-24T20:14:25.860513+00:00",
+  "marca": "Rolex",
+  "titulo": "New Original Rolex 1530 310 Barrel with Arbor & Mainspring Complete Sealed Swiss",
+  "total": 239.0,
+  "condicion": "New without box or papers",
+  "url": "https://www.ebay.com/itm/840162749928",
+  "item_id": "v1|840162749928|0",
+  "triage": {
+   "modelo": "Pieza de repuesto: tambor de cuerda (barrel) con arbor y muelle real, calibre Rolex 1530",
+   "referencia": "calibre 1530",
+   "precio_justo_usd": 100,
+   "interesante": false,
+   "nota": "Es una pieza suelta, no un reloj, y Rolex no vende estos componentes al público; la afirmación de 'original sellado' no es verificable. Precio justo estimado para una pieza de origen dudoso, a la baja."
+  },
+  "motivo": "triage: Es una pieza suelta, no un reloj, y Rolex no vende estos componentes al público; la afirmación de 'original sellado' no es verificable. Precio justo estimado para una pieza de origen dudoso, a la baja. (justo 100)"
+ },
+ {
+  "fecha": "2026-11-24T20:14:25.860513+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31, 278240, Steel, Bright Black Roman Dial, Oyster Bracelet",
+  "total": 12373.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206725244677",
+  "item_id": "v1|206725244677|0",
+  "referencia": "278240",
+  "mercado": {
+   "n": 13,
+   "p25": 10448,
+   "mediana": 11539
+  },
+  "ratio_mercado": 1.184,
+  "motivo": "precio normal (118 % del cuartil bajo de 278240)"
+ },
+ {
+  "fecha": "2026-11-24T20:14:25.860513+00:00",
+  "marca": "Rolex",
+  "titulo": "New Original Rolex 3035 5008 Barrel w. Arbor & Mainspring Complete Sealed Swiss",
+  "total": 149.0,
+  "condicion": "New without box or papers",
+  "url": "https://www.ebay.com/itm/880150096095",
+  "item_id": "v1|880150096095|0",
+  "referencia": "5008",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Barrilete completo (barrel con arbor y muelle real) para calibre Rolex 3035",
+   "referencia": "5008 (número de pieza)",
+   "precio_justo_usd": 80,
+   "interesante": false,
+   "nota": "Es una pieza de recambio, no un reloj, y el vendedor sin historial no permite verificar que sea original Rolex; el precio de US$149 no está claramente por debajo del valor de mercado de un barrilete para 3035."
+  },
+  "motivo": "triage: Es una pieza de recambio, no un reloj, y el vendedor sin historial no permite verificar que sea original Rolex; el precio de US$149 no está claramente por debajo del valor de mercado de un barrilete para 3035. (justo 80)"
+ },
+ {
+  "fecha": "2026-11-24T20:14:25.860513+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31, 278240, Steel, Pink Index, Oyster Bracelet",
+  "total": 13171.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206725237549",
+  "item_id": "v1|206725237549|0",
+  "referencia": "278240",
+  "mercado": {
+   "n": 13,
+   "p25": 10448,
+   "mediana": 11539
+  },
+  "ratio_mercado": 1.261,
+  "motivo": "precio normal (126 % del cuartil bajo de 278240)"
+ },
+ {
+  "fecha": "2026-11-24T20:14:25.860513+00:00",
+  "marca": "Rolex",
+  "titulo": "1999 Rolex Lady-Datejust Champagne stick Jubilee 79173 Steel & YG",
+  "total": 5999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920180592911",
+  "item_id": "v1|920180592911|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 mm, acero y oro amarillo, bisel acanalado, esfera champagne con índices de barra, brazalete Jubilee",
+   "referencia": "79173",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta cerrada estimado para una 79173 de 1999 en estado excelente; no cumple el umbral del 15 % de descuento."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para una 79173 de 1999 en estado excelente; no cumple el umbral del 15 % de descuento. (justo 4300)"
+ },
+ {
+  "fecha": "2026-11-24T20:14:25.860513+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Cosmograph Daytona 126508 “John Mayer” Full Set",
+  "total": 90950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206725241831",
+  "item_id": "v1|206725241831|0",
+  "referencia": "126508",
+  "mercado": {
+   "n": 11,
+   "p25": 56605,
+   "mediana": 76065
+  },
+  "ratio_mercado": 1.607,
+  "motivo": "precio normal (161 % del cuartil bajo de 126508)"
+ },
+ {
+  "fecha": "2026-11-24T20:14:25.860513+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tortue 78247",
+  "total": 7970.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407386334265",
+  "item_id": "v1|407386334265|0",
+  "triage": {
+   "modelo": "Cartier Tortue (cuarzo, caja tipo tonneau en tono oro, esfera blanca con números romanos, correa roja de piel de cocodrilo)",
+   "referencia": "78247",
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de mercado estimado; hay que verificar si la caja es oro macizo o chapado, el tamaño y el estado, porque el chapado vale mucho menos."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de mercado estimado; hay que verificar si la caja es oro macizo o chapado, el tamaño y el estado, porque el chapado vale mucho menos. (justo 4500)"
  }
 ]
