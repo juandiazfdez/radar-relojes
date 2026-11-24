@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-20T22:11:10.090936+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Air-King 34mm Stainless Steel Silver Dial- Box & Papers",
-  "total": 8700.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800939927762",
-  "item_id": "v1|800939927762|0",
-  "triage": {
-   "modelo": "Rolex Air-King, acero, esfera plateada, brazalete Oyster",
-   "referencia": "14000M (probable, según la generación)",
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "Precio pedido de US$8,700 muy por encima del mercado secundario para esta referencia con caja y papeles; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$8,700 muy por encima del mercado secundario para esta referencia con caja y papeles; no es una oportunidad. (justo 5000)"
- },
- {
-  "fecha": "2026-11-20T22:11:10.090936+00:00",
-  "marca": "Rolex",
   "titulo": "Box & Card 2015 Jubilee Bracelet Rolex Datejust 36 116200",
   "total": 8500.0,
   "condicion": "Pre-owned - Excellent",
@@ -10921,5 +10904,22 @@
   },
   "ratio_mercado": 1.308,
   "motivo": "precio normal (131 % del cuartil bajo de 79000-0001)"
+ },
+ {
+  "fecha": "2026-11-24T13:59:15.618914+00:00",
+  "marca": "Tudor",
+  "titulo": "Pop Up Kingston Brass KB1971TAL Chrome Finish  Tudor Wide Basin Faucet Sink",
+  "total": 65.0,
+  "condicion": "New with imperfections",
+  "url": "https://www.ebay.com/itm/940116822969",
+  "item_id": "v1|940116822969|0",
+  "triage": {
+   "modelo": "Grifo de lavabo Kingston Brass (no es un reloj)",
+   "referencia": null,
+   "precio_justo_usd": 0,
+   "interesante": false,
+   "nota": "El listado es de un grifo de lavabo Kingston Brass con el nombre Tudor en el titulo, no un reloj. Es un listado enganoso."
+  },
+  "motivo": "triage: El listado es de un grifo de lavabo Kingston Brass con el nombre Tudor en el titulo, no un reloj. Es un listado enganoso. (justo 0)"
  }
 ]
