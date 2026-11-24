@@ -1,97 +1,5 @@
 [
  {
-  "fecha": "2026-11-21T17:57:01.991843+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Solo XL Stainless Steel 31mm Automatic Men’s Watch W5200028",
-  "total": 2950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206718057539",
-  "item_id": "v1|206718057539|0",
-  "referencia": "3515, W5200028",
-  "mercado": {
-   "n": 6,
-   "p25": 3699,
-   "mediana": 3988
-  },
-  "ratio_mercado": 0.798,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 2900,
-   "riesgo_autenticidad": "medio",
-   "estado": "Aspecto bueno pero con caja bastante pulida y rayitas en el lateral; sin caja ni papeles"
-  },
-  "ratio_justo": 1.017,
-  "motivo": "precio normal segun revision (102 % del justo 2900)"
- },
- {
-  "fecha": "2026-11-21T18:12:02.039558+00:00",
-  "marca": "Rolex",
-  "titulo": "New 2026 Rolex GMT-Master II 126710 BLNR Batman Steel Jubilee Box Papers",
-  "total": 21505.88,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/940111765824",
-  "item_id": "v1|940111765824|0",
-  "referencia": "126710",
-  "mercado": {
-   "n": 78,
-   "p25": 19950,
-   "mediana": 20472
-  },
-  "ratio_mercado": 1.078,
-  "motivo": "precio normal (108 % del cuartil bajo de 126710)"
- },
- {
-  "fecha": "2026-11-21T18:12:02.039558+00:00",
-  "marca": "Rolex",
-  "titulo": "New 2026 Rolex Daytona Cosmograph 126500 LN Black Steel 40mm Watch Box Papers",
-  "total": 33746.09,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/940111765825",
-  "item_id": "v1|940111765825|0",
-  "referencia": "126500",
-  "mercado": {
-   "n": 30,
-   "p25": 35300,
-   "mediana": 38664
-  },
-  "ratio_mercado": 0.956,
-  "motivo": "precio normal (96 % del cuartil bajo de 126500)"
- },
- {
-  "fecha": "2026-11-21T18:12:02.039558+00:00",
-  "marca": "Rolex",
-  "titulo": "New 2026 Rolex Submariner Date 126610 LN Black Steel 41mm Watch Box Papers",
-  "total": 16508.38,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/267850200064",
-  "item_id": "v1|267850200064|0",
-  "referencia": "126610",
-  "mercado": {
-   "n": 67,
-   "p25": 16072,
-   "mediana": 16495
-  },
-  "ratio_mercado": 1.027,
-  "motivo": "precio normal (103 % del cuartil bajo de 126610)"
- },
- {
-  "fecha": "2026-11-21T18:12:02.039558+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Pre-owned Vintage Oyster Perpetual Date Ref. 6917",
-  "total": 4900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237197275139",
-  "item_id": "v1|237197275139|0",
-  "referencia": "6917",
-  "mercado": {
-   "n": 46,
-   "p25": 3990,
-   "mediana": 4065
-  },
-  "ratio_mercado": 1.228,
-  "motivo": "precio normal (123 % del cuartil bajo de 6917)"
- },
- {
   "fecha": "2026-11-21T18:12:02.039558+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Must De 666001 Quartz 21mm 925 Silver Watch",
@@ -10898,5 +10806,102 @@
   },
   "ratio_mercado": 1.204,
   "motivo": "precio normal (120 % del cuartil bajo de 2878)"
+ },
+ {
+  "fecha": "2026-11-24T20:44:26.398378+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date Automatic with Box and Paper",
+  "total": 4200.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/168884786068",
+  "item_id": "v1|168884786068|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date (caja y brazalete de oro amarillo, esfera plateada con índices)",
+   "referencia": "Posiblemente 1500 o 1503 (no verificable con la foto; confirmar en el interior de la caja)",
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "El título no indica el material ni la referencia; el precio está apenas ~7 % por debajo del estimado, sin margen suficiente. Verificar oro (14k/18k), grabados y autenticidad antes de comprar."
+  },
+  "motivo": "triage: El título no indica el material ni la referencia; el precio está apenas ~7 % por debajo del estimado, sin margen suficiente. Verificar oro (14k/18k), grabados y autenticidad antes de comprar. (justo 4500)"
+ },
+ {
+  "fecha": "2026-11-24T20:44:26.398378+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oysterdate Precision 6694",
+  "total": 3335.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267853716751",
+  "item_id": "v1|267853716751|0",
+  "referencia": "6694",
+  "mercado": {
+   "n": 13,
+   "p25": 3299,
+   "mediana": 3950
+  },
+  "ratio_mercado": 1.011,
+  "motivo": "precio normal (101 % del cuartil bajo de 6694)"
+ },
+ {
+  "fecha": "2026-11-24T20:44:26.398378+00:00",
+  "marca": "Rolex",
+  "titulo": "2005 Rolex Lady-Datejust 179161 26mm Steel & 18K Rose Gold Wristwatch w/ Box",
+  "total": 7300.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940120336682",
+  "item_id": "v1|940120336682|0",
+  "referencia": "179161",
+  "mercado": {
+   "n": 3,
+   "p25": 8490,
+   "mediana": 12500
+  },
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 mm acero y oro rosa 18k, esfera rosa, bisel liso, brazalete jubilee",
+   "referencia": "179161",
+   "precio_justo_usd": 6000,
+   "interesante": false,
+   "nota": "Referencia correcta para el modelo y la esfera; el precio pedido de US$7.300 queda por encima del rango de venta cerrada para un 179161 de 2005 en estado Good con caja."
+  },
+  "motivo": "triage: Referencia correcta para el modelo y la esfera; el precio pedido de US$7.300 queda por encima del rango de venta cerrada para un 179161 de 2005 en estado Good con caja. (justo 6000)"
+ },
+ {
+  "fecha": "2026-11-24T20:44:26.398378+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31 \"2025 - Silver Floral Diamond\" 278271",
+  "total": 19448.44,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336914956663",
+  "item_id": "v1|336914956663|0",
+  "referencia": "278271",
+  "mercado": {
+   "n": 15,
+   "p25": 18650,
+   "mediana": 19525
+  },
+  "ratio_mercado": 1.043,
+  "motivo": "precio normal (104 % del cuartil bajo de 278271)"
+ },
+ {
+  "fecha": "2026-11-24T20:44:26.398378+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Pasha 2519 18K Yellow Gold Women s Watch",
+  "total": 15000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237202072098",
+  "item_id": "v1|237202072098|0",
+  "referencia": "2519",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Pasha de Cartier 35 mm, oro amarillo 18K, esfera blanca con marcadores de diamante (cuarzo)",
+   "referencia": "2519 (según el título, no verificable en la foto)",
+   "precio_justo_usd": 10000,
+   "interesante": false,
+   "nota": "Precio pedido de US$15,000 está por encima del valor de venta real de una Pasha de oro 18K de este tamaño en estado Good; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$15,000 está por encima del valor de venta real de una Pasha de oro 18K de este tamaño en estado Good; no es una oportunidad. (justo 10000)"
  }
 ]
