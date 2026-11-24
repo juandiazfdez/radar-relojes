@@ -2,46 +2,6 @@
  {
   "fecha": "2026-11-20T21:26:09.764371+00:00",
   "marca": "Rolex",
-  "titulo": "2022 Rolex Daytona Cosmograph 116500 LN Panda White Steel 40mm Watch Box Papers",
-  "total": 33848.09,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267849413653",
-  "item_id": "v1|267849413653|0",
-  "referencia": "116500",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Daytona Cosmograph (Panda, esfera blanca, bisel cerámica negra, acero)",
-   "referencia": "116500LN",
-   "precio_justo_usd": 31000,
-   "interesante": false,
-   "nota": "Referencia 116500LN de 2022 con caja y papeles; el precio pedido queda unos 9 % por encima de una estimación conservadora de venta cerrada."
-  },
-  "motivo": "triage: Referencia 116500LN de 2022 con caja y papeles; el precio pedido queda unos 9 % por encima de una estimación conservadora de venta cerrada. (justo 31000)"
- },
- {
-  "fecha": "2026-11-20T21:26:09.764371+00:00",
-  "marca": "Rolex",
-  "titulo": "2014 Rolex GMT-Master II Batman 116710 BLNR Blue Steel 40mm Watch Box Papers",
-  "total": 15998.38,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940109258726",
-  "item_id": "v1|940109258726|0",
-  "referencia": "116710",
-  "mercado": {
-   "n": 48,
-   "p25": 13499,
-   "mediana": 14166
-  },
-  "ratio_mercado": 1.185,
-  "motivo": "precio normal (119 % del cuartil bajo de 116710)"
- },
- {
-  "fecha": "2026-11-20T21:26:09.764371+00:00",
-  "marca": "Rolex",
   "titulo": "2016 Rolex Submariner Date 116613 LB Blue Two-Tone 40mm Watch Box Papers",
   "total": 15386.28,
   "condicion": "Pre-owned - Excellent",
@@ -10938,5 +10898,39 @@
   },
   "ratio_mercado": 1.01,
   "motivo": "precio normal (101 % del cuartil bajo de 79950)"
+ },
+ {
+  "fecha": "2026-11-24T04:43:53.272174+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Ladies Rolex 14K Gold Cocktail Watch Ref 8215 Cal 1400 Swiss 27.4g",
+  "total": 4045.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960237169490",
+  "item_id": "v1|960237169490|0",
+  "triage": {
+   "modelo": "Rolex vintage de señora en oro 14K con brazalete de malla (esfera redonda)",
+   "referencia": "8215",
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "El pedido de US$4045 supera el valor estimado (~US$2300) para estado 'Good'; el oro 14K de 27.4 g aporta ~US$1300 de metal. En la foto no se distinguen bien los logos, verificar autenticidad."
+  },
+  "motivo": "triage: El pedido de US$4045 supera el valor estimado (~US$2300) para estado 'Good'; el oro 14K de 27.4 g aporta ~US$1300 de metal. En la foto no se distinguen bien los logos, verificar autenticidad. (justo 2300)"
+ },
+ {
+  "fecha": "2026-11-24T04:43:53.272174+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oysterdate Precision 6694 Steel - Black - Gold 34mm Men's Watch",
+  "total": 3999.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237202893402",
+  "item_id": "v1|237202893402|0",
+  "referencia": "6694",
+  "mercado": {
+   "n": 13,
+   "p25": 3299,
+   "mediana": 3950
+  },
+  "ratio_mercado": 1.212,
+  "motivo": "precio normal (121 % del cuartil bajo de 6694)"
  }
 ]
