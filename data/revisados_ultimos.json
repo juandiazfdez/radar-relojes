@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-20T21:26:09.764371+00:00",
   "marca": "Cartier",
-  "titulo": "2000s Cartier ref. 2787 Santos Dumont 18k Yellow Gold Quartz Unisex Watch",
-  "total": 9888.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407377784954",
-  "item_id": "v1|407377784954|0",
-  "referencia": "2787",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Santos-Dumont (caja cuadrada en oro amarillo, esfera con numerales romanos, correa de cuero)",
-   "referencia": "2787 (según el título; no verificable en la imagen)",
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "Oro amarillo de 18k, cuarzo, usado. El precio pedido de US$9.888 está muy por encima del valor de venta real estimado para este modelo."
-  },
-  "motivo": "triage: Oro amarillo de 18k, cuarzo, usado. El precio pedido de US$9.888 está muy por encima del valor de venta real estimado para este modelo. (justo 4800)"
- },
- {
-  "fecha": "2026-11-20T21:26:09.764371+00:00",
-  "marca": "Cartier",
   "titulo": "2024 Cartier Santos de Cartier Large 4072 / WSSA0062 Green 39.8mm Box Papers",
   "total": 8144.65,
   "condicion": "Pre-owned - Excellent",
@@ -10945,5 +10922,22 @@
    "nota": "Precio pedido de US$4245 con envío por encima del mercado secundario para un modelo de 2024 con caja y papeles; la foto muestra una esfera marrón/caqui, así que conviene verificar la referencia."
   },
   "motivo": "triage: Precio pedido de US$4245 con envío por encima del mercado secundario para un modelo de 2024 con caja y papeles; la foto muestra una esfera marrón/caqui, así que conviene verificar la referencia. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-24T06:43:53.354248+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31mm Blue Dial, Fluted Jubilee, Stainless Steel (68274)",
+  "total": 7307.29,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860169441325",
+  "item_id": "v1|860169441325|0",
+  "referencia": "68274",
+  "mercado": {
+   "n": 34,
+   "p25": 8000,
+   "mediana": 9378
+  },
+  "ratio_mercado": 0.913,
+  "motivo": "precio normal (91 % del cuartil bajo de 68274)"
  }
 ]
