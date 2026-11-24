@@ -1,80 +1,5 @@
 [
  {
-  "fecha": "2026-11-20T20:41:09.910750+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex GMT-Master II Batgirl 126710BLNR Jubilee Steel Date B+P 40mm",
-  "total": 20991.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128207258806",
-  "item_id": "v1|128207258806|0",
-  "referencia": "126710BLNR",
-  "mercado": {
-   "n": 71,
-   "p25": 18354,
-   "mediana": 18900
-  },
-  "ratio_mercado": 1.144,
-  "motivo": "precio normal (114 % del cuartil bajo de 126710BLNR)"
- },
- {
-  "fecha": "2026-11-20T20:56:10.375894+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date Steel Watch 126610LN",
-  "total": 17066.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198811275498",
-  "item_id": "v1|198811275498|0",
-  "referencia": "126610LN",
-  "mercado": {
-   "n": 85,
-   "p25": 14499,
-   "mediana": 15068
-  },
-  "ratio_mercado": 1.177,
-  "motivo": "precio normal (118 % del cuartil bajo de 126610LN)"
- },
- {
-  "fecha": "2026-11-20T20:56:10.375894+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Submariner Date \"Hulk\" 116610LV, Steel, Mark III Green Dial, Oy...",
-  "total": 21058.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/206716036539",
-  "item_id": "v1|206716036539|0",
-  "referencia": "116610LV",
-  "mercado": {
-   "n": 28,
-   "p25": 19999,
-   "mediana": 20544
-  },
-  "ratio_mercado": 1.053,
-  "motivo": "precio normal (105 % del cuartil bajo de 116610LV)"
- },
- {
-  "fecha": "2026-11-20T20:56:10.375894+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41mm 126301 2018 Sundust 18K Rose Gold Steel Watch Box & Papers",
-  "total": 12900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940109195748",
-  "item_id": "v1|940109195748|0",
-  "referencia": "126301",
-  "mercado": {
-   "n": 16,
-   "p25": 15950,
-   "mediana": 16370
-  },
-  "ratio_mercado": 0.809,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 13500,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Usado bueno: rayones leves a moderados en caja, bisel y brazalete, algunos rayones en el zafiro; completo con caja y papeles"
-  },
-  "ratio_justo": 0.956,
-  "motivo": "precio normal segun revision (96 % del justo 13500)"
- },
- {
   "fecha": "2026-11-20T20:56:10.375894+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Sea-Dweller 116660-0001 Pre-owned Watch Only",
@@ -10937,5 +10862,86 @@
   },
   "ratio_justo": 1.043,
   "motivo": "precio normal segun revision (104 % del justo 3450)"
+ },
+ {
+  "fecha": "2026-11-24T02:28:53.681403+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Turn-O-Graph Thunderbird w/ papers reference 16263",
+  "total": 8000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147695054914",
+  "item_id": "v1|147695054914|0",
+  "referencia": "16263",
+  "mercado": {
+   "n": 24,
+   "p25": 7360,
+   "mediana": 7928
+  },
+  "ratio_mercado": 1.087,
+  "motivo": "precio normal (109 % del cuartil bajo de 16263)"
+ },
+ {
+  "fecha": "2026-11-24T02:28:53.681403+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Air-King 34mm Stainless Steel Silver Dial- Box & Papers",
+  "total": 7799.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800954091717",
+  "item_id": "v1|800954091717|0",
+  "triage": {
+   "modelo": "Rolex Air-King 34 mm, acero, esfera plateada",
+   "referencia": "14000 o 14000M (aprox. 1989-2007, la referencia exacta no se distingue en la imagen)",
+   "precio_justo_usd": 6300,
+   "interesante": false,
+   "nota": "Precio pedido de US$7,799 por encima del valor de venta cerrada estimado (~US$6,300) para esta referencia con caja y papeles en estado excelente."
+  },
+  "motivo": "triage: Precio pedido de US$7,799 por encima del valor de venta cerrada estimado (~US$6,300) para esta referencia con caja y papeles en estado excelente. (justo 6300)"
+ },
+ {
+  "fecha": "2026-11-24T02:28:53.681403+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Pasha C Stainless Steel Wristwatch - Silver Face w/ Black dials",
+  "total": 2500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920177541813",
+  "item_id": "v1|920177541813|0",
+  "triage": {
+   "modelo": "Cartier Pasha C cronógrafo (identificación aproximada)",
+   "referencia": null,
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "La foto parece mostrar bicolor acero/oro, no acero como indica el título, y no se distinguen la referencia ni el número de serie; verificar antes de comprar."
+  },
+  "motivo": "triage: La foto parece mostrar bicolor acero/oro, no acero como indica el título, y no se distinguen la referencia ni el número de serie; verificar antes de comprar. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-24T02:28:53.681403+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor 1926 39mm Steel Silver 6 Arabic 6 Diamonds M91550-0003 Excellent Card",
+  "total": 2015.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327473183498",
+  "item_id": "v1|327473183498|0",
+  "referencia": "M91550-0003",
+  "mercado": {
+   "n": 4,
+   "p25": 2475,
+   "mediana": 2524
+  },
+  "triage": {
+   "modelo": "Tudor 1926 39mm acero, esfera plateada con índices arábigos y diamantes",
+   "referencia": "M91550-0003",
+   "precio_justo_usd": 2700,
+   "interesante": true,
+   "nota": "Precio ~25% bajo el valor estimado de venta usado en buen estado con tarjeta; verificar autenticidad, diamantes y papeles antes de comprar."
+  },
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 2250,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado 'Excellent' según el vendedor, sin verificar: la foto es de catálogo"
+  },
+  "ratio_justo": 0.896,
+  "motivo": "precio normal segun revision (90 % del justo 2250)"
  }
 ]
