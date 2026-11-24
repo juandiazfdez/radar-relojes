@@ -1,262 +1,5 @@
 [
  {
-  "fecha": "2026-11-20T23:26:21.006625+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ronde Solo XL 42mm Automatic W6701011 3802 Steel Watch w/ Box",
-  "total": 2699.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366823387665",
-  "item_id": "v1|366823387665|0",
-  "referencia": "W6701011",
-  "mercado": {
-   "n": 13,
-   "p25": 3355,
-   "mediana": 3650
-  },
-  "ratio_mercado": 0.805,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 2800,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado con rayones visibles en bisel, brazalete y fondo; servicio desconocido"
-  },
-  "ratio_justo": 0.964,
-  "motivo": "precio normal segun revision (96 % del justo 2800)"
- },
- {
-  "fecha": "2026-11-20T23:26:21.006625+00:00",
-  "marca": "Tudor",
-  "titulo": "2012 Tudor Prince Day Date 76213 Champagne Arabic Dial. 18K Gold 36mm. Box&Paper",
-  "total": 3139.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287744816312",
-  "item_id": "v1|287744816312|0",
-  "referencia": "76213",
-  "mercado": {
-   "n": 5,
-   "p25": 3039,
-   "mediana": 3200
-  },
-  "ratio_mercado": 1.033,
-  "motivo": "precio normal (103 % del cuartil bajo de 76213)"
- },
- {
-  "fecha": "2026-11-20T23:26:21.006625+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Pelagos FXD GMT Titanium Watch 2542G257NU",
-  "total": 6152.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960222989041",
-  "item_id": "v1|960222989041|0",
-  "triage": {
-   "modelo": "Tudor Pelagos FXD GMT (titanio, esfera negra, correa de tela verde)",
-   "referencia": null,
-   "precio_justo_usd": 4200,
-   "interesante": false,
-   "nota": "El precio pedido de US$6152 está muy por encima del valor de reventa de un Pelagos FXD GMT usado. La referencia '2542G257NU' no coincide con el formato de Tudor, así que hay que verificarla antes de cualquier oferta."
-  },
-  "motivo": "triage: El precio pedido de US$6152 está muy por encima del valor de reventa de un Pelagos FXD GMT usado. La referencia '2542G257NU' no coincide con el formato de Tudor, así que hay que verificarla antes de cualquier oferta. (justo 4200)"
- },
- {
-  "fecha": "2026-11-20T23:41:20.872731+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX 114060 Submariner NO DATE Ceramic Steel 40mm Automatic w Oyster Bracelet",
-  "total": 10325.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880138355760",
-  "item_id": "v1|880138355760|0",
-  "referencia": "114060",
-  "mercado": {
-   "n": 44,
-   "p25": 11612,
-   "mediana": 12725
-  },
-  "ratio_mercado": 0.889,
-  "motivo": "precio normal (89 % del cuartil bajo de 114060)"
- },
- {
-  "fecha": "2026-11-20T23:56:20.608662+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona \"Panda\" 116500LN White Stainless Steel on Oyster",
-  "total": 37680.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267849516907",
-  "item_id": "v1|267849516907|0",
-  "referencia": "116500LN",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Cosmograph Daytona (esfera blanca \"Panda\", bisel de cerámica negra, brazalete Oyster de acero)",
-   "referencia": "116500LN",
-   "precio_justo_usd": 26000,
-   "interesante": false,
-   "nota": "Precio pedido de US$37.680 muy por encima del mercado secundario actual para esta referencia en estado excelente; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$37.680 muy por encima del mercado secundario actual para esta referencia en estado excelente; no es una oportunidad. (justo 26000)"
- },
- {
-  "fecha": "2026-11-20T23:56:20.608662+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay Chrono 41mm Chronograph Date Steel Bracelet Box & Papers",
-  "total": 4500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147690283538",
-  "item_id": "v1|147690283538|0",
-  "triage": {
-   "modelo": "Tudor Black Bay Chrono 41mm, brazalete de acero, esfera negra",
-   "referencia": "79360N (probable; no es verificable solo con la foto)",
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "Precio pedido cercano al valor de mercado para este modelo con caja y papeles; no hay descuento de al menos 15%. Verificar referencia y número de serie."
-  },
-  "motivo": "triage: Precio pedido cercano al valor de mercado para este modelo con caja y papeles; no hay descuento de al menos 15%. Verificar referencia y número de serie. (justo 4300)"
- },
- {
-  "fecha": "2026-11-21T00:11:20.801566+00:00",
-  "marca": "Rolex",
-  "titulo": "2007 Rolex Submariner Date 40mm 18K Yellow Gold & Steel Bluesy 16613T Full Set",
-  "total": 12249.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257863139232",
-  "item_id": "v1|257863139232|0",
-  "referencia": "16613T",
-  "mercado": {
-   "n": 10,
-   "p25": 13600,
-   "mediana": 13650
-  },
-  "ratio_mercado": 0.901,
-  "motivo": "precio normal (90 % del cuartil bajo de 16613T)"
- },
- {
-  "fecha": "2026-11-21T00:26:21.567858+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master 116713ln-0001 Pre-owned Box & Papers 2007",
-  "total": 13690.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137948397084",
-  "item_id": "v1|137948397084|0",
-  "referencia": "116713LN",
-  "mercado": {
-   "n": 34,
-   "p25": 14300,
-   "mediana": 14920
-  },
-  "ratio_mercado": 0.957,
-  "motivo": "precio normal (96 % del cuartil bajo de 116713LN)"
- },
- {
-  "fecha": "2026-11-21T00:26:21.567858+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sky-Dweller 326934-0004 Pre-owned Box & Papers 2021",
-  "total": 23690.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137948395136",
-  "item_id": "v1|137948395136|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller (acero Oystersteel y oro blanco, bisel acanalado, esfera azul, brazalete Jubilee)",
-   "referencia": "326934",
-   "precio_justo_usd": 26000,
-   "interesante": false,
-   "nota": "Precio pedido unos 9 % bajo el valor estimado de venta cerrada para 2021 con caja y papeles; descuento insuficiente para ser oportunidad."
-  },
-  "motivo": "triage: Precio pedido unos 9 % bajo el valor estimado de venta cerrada para 2021 con caja y papeles; descuento insuficiente para ser oportunidad. (justo 26000)"
- },
- {
-  "fecha": "2026-11-21T00:26:21.567858+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Yacht-Master 40 Everose Gold Watch 126655",
-  "total": 34770.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198811632807",
-  "item_id": "v1|198811632807|0",
-  "referencia": "126655",
-  "mercado": {
-   "n": 23,
-   "p25": 32590,
-   "mediana": 33430
-  },
-  "ratio_mercado": 1.067,
-  "motivo": "precio normal (107 % del cuartil bajo de 126655)"
- },
- {
-  "fecha": "2026-11-21T00:26:21.567858+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 New Rolex 36mm Oyster Perpetual Ref 126000 - Jubilee Motif Multicolor Dial.",
-  "total": 15499.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/137948387690",
-  "item_id": "v1|137948387690|0",
-  "referencia": "126000",
-  "mercado": {
-   "n": 42,
-   "p25": 11204,
-   "mediana": 12574
-  },
-  "ratio_mercado": 1.383,
-  "motivo": "precio normal (138 % del cuartil bajo de 126000)"
- },
- {
-  "fecha": "2026-11-21T00:26:21.567858+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Must Large Unisex Watch 2026 Papers and Box",
-  "total": 3500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/117533206689",
-  "item_id": "v1|117533206689|0",
-  "triage": {
-   "modelo": "Cartier Tank Must Large (cuarzo, caja de dos tonos o dorada/vermeil según la foto)",
-   "referencia": null,
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "Precio pedido de US$3500 está cerca del retail, no 15 % por debajo del mercado secundario. La referencia y el material no se pueden confirmar con la foto."
-  },
-  "motivo": "triage: Precio pedido de US$3500 está cerca del retail, no 15 % por debajo del mercado secundario. La referencia y el material no se pueden confirmar con la foto. (justo 2600)"
- },
- {
-  "fecha": "2026-11-21T00:26:21.567858+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Lingot Diamond Yellow Gold Watch 1700/1",
-  "total": 39536.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840150022910",
-  "item_id": "v1|840150022910|0",
-  "referencia": "1700",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Tank Lingot (aparentemente con bisel y pulsera de diamantes, oro amarillo; la imagen no permite confirmar la referencia)",
-   "referencia": "1700/1 (según título, sin verificar)",
-   "precio_justo_usd": 14000,
-   "interesante": false,
-   "nota": "Oro amarillo con diamantes, estado Good; el precio pedido de US$39.536 está muy por encima del valor de venta realista."
-  },
-  "motivo": "triage: Oro amarillo con diamantes, estado Good; el precio pedido de US$39.536 está muy por encima del valor de venta realista. (justo 14000)"
- },
- {
-  "fecha": "2026-11-21T00:41:21.465521+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Chronograph M79360N-0024 New Box & Papers 2026",
-  "total": 9999.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/137948419565",
-  "item_id": "v1|137948419565|0",
-  "referencia": "M79360N-0024",
-  "mercado": {
-   "n": 20,
-   "p25": 6650,
-   "mediana": 9474
-  },
-  "ratio_mercado": 1.504,
-  "motivo": "precio normal (150 % del cuartil bajo de M79360N-0024)"
- },
- {
   "fecha": "2026-11-21T00:56:20.867375+00:00",
   "marca": "Rolex",
   "titulo": "ROLEX DATEJUST 31, REF: 278344RBR, DARK GREY SET WITH DIAMONDS, OYST (TC4038707)",
@@ -10915,5 +10658,267 @@
    "nota": "Precio pedido de US$6510 muy por encima del valor de venta real de un 33 mm de cuarzo de acero usado; el título de diamantes no coincide con la imagen."
   },
   "motivo": "triage: Precio pedido de US$6510 muy por encima del valor de venta real de un 33 mm de cuarzo de acero usado; el título de diamantes no coincide con la imagen. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-24T15:59:15.650392+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Datejust Automatic Watch Stainless Steel and Yellow Gold",
+  "total": 18460.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117540074579",
+  "item_id": "v1|117540074579|0",
+  "triage": {
+   "modelo": "Rolex Datejust 41 bicolor (acero y oro amarillo), bisel acanalado, esfera champán con marcadores de diamante, brazalete Oyster",
+   "referencia": "126333 (probable; confirmar en la caja o en el reverso de la cabeza)",
+   "precio_justo_usd": 15000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del mercado secundario estimado para esta referencia en condición usada; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido por encima del mercado secundario estimado para esta referencia en condición usada; no hay descuento suficiente. (justo 15000)"
+ },
+ {
+  "fecha": "2026-11-24T15:59:15.650392+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Automatic Watch Stainless Steel 31",
+  "total": 10580.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117540074169",
+  "item_id": "v1|117540074169|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual 31 (esfera rosa, bisel liso, brazalete Oyster de acero)",
+   "referencia": "277200",
+   "precio_justo_usd": 8800,
+   "interesante": false,
+   "nota": "Precio pedido de US$10,580 está por encima del valor de venta cerrada estimado para esta referencia en esfera rosa y estado usado; no hay descuento."
+  },
+  "motivo": "triage: Precio pedido de US$10,580 está por encima del valor de venta cerrada estimado para esta referencia en esfera rosa y estado usado; no hay descuento. (justo 8800)"
+ },
+ {
+  "fecha": "2026-11-24T15:59:15.650392+00:00",
+  "marca": "Rolex",
+  "titulo": "2016 Rolex DateJust II 116300 41mm White Diamond Steel Oyster Box Papers",
+  "total": 9368.86,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960238858661",
+  "item_id": "v1|960238858661|0",
+  "referencia": "116300",
+  "mercado": {
+   "n": 32,
+   "p25": 9715,
+   "mediana": 10500
+  },
+  "ratio_mercado": 0.964,
+  "motivo": "precio normal (96 % del cuartil bajo de 116300)"
+ },
+ {
+  "fecha": "2026-11-24T15:59:15.650392+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Explorer II 16570 Polar White Stainless Steel Oyster Automatic 40mm Watch",
+  "total": 8858.35,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940119796300",
+  "item_id": "v1|940119796300|0",
+  "referencia": "16570",
+  "mercado": {
+   "n": 40,
+   "p25": 8495,
+   "mediana": 8990
+  },
+  "ratio_mercado": 1.043,
+  "motivo": "precio normal (104 % del cuartil bajo de 16570)"
+ },
+ {
+  "fecha": "2026-11-24T15:59:15.650392+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 126710GRNR GMT Master II on Jubilee",
+  "total": 24725.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/920179658043",
+  "item_id": "v1|920179658043|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 99,
+   "p25": 22350,
+   "mediana": 23497
+  },
+  "ratio_mercado": 1.106,
+  "motivo": "precio normal (111 % del cuartil bajo de 126710GRNR)"
+ },
+ {
+  "fecha": "2026-11-24T15:59:15.650392+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 16610LV Submariner (New Old Stock)",
+  "total": 29025.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/920179657720",
+  "item_id": "v1|920179657720|0",
+  "referencia": "16610LV",
+  "mercado": {
+   "n": 3,
+   "p25": 23495,
+   "mediana": 29500
+  },
+  "triage": {
+   "modelo": "Rolex Submariner Date 'Kermit' (bisel verde, esfera negra, acero)",
+   "referencia": "16610LV",
+   "precio_justo_usd": 13000,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del mercado para una 16610LV usada; la descripción 'New Old Stock' de una referencia producida hasta ~2010 también es poco creíble."
+  },
+  "motivo": "triage: Precio pedido muy por encima del mercado para una 16610LV usada; la descripción 'New Old Stock' de una referencia producida hasta ~2010 también es poco creíble. (justo 13000)"
+ },
+ {
+  "fecha": "2026-11-24T15:59:15.650392+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 116710LN GMT Master II (New Old Stock)",
+  "total": 20925.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/920179657202",
+  "item_id": "v1|920179657202|0",
+  "referencia": "116710LN",
+  "mercado": {
+   "n": 1,
+   "p25": 19000,
+   "mediana": 19000
+  },
+  "triage": {
+   "modelo": "Rolex GMT-Master II (bisel cerámica negro/negro, esfera negra, brazalete Oyster de acero)",
+   "referencia": "116710LN",
+   "precio_justo_usd": 13000,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del mercado secundario para un 116710LN de acero, incluso nuevo con caja y papeles; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido muy por encima del mercado secundario para un 116710LN de acero, incluso nuevo con caja y papeles; no es una oportunidad. (justo 13000)"
+ },
+ {
+  "fecha": "2026-11-24T15:59:15.650392+00:00",
+  "marca": "Rolex",
+  "titulo": "2021 Rolex DateJust 41 126334 Wimbledon 18K Steel Jubilee Fluted 41mm Box Papers",
+  "total": 16508.38,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267853503369",
+  "item_id": "v1|267853503369|0",
+  "referencia": "126334",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 41 Wimbledon (acero y oro blanco, bisel acanalado, esfera pizarra con numerales romanos verdes, brazalete Jubilee)",
+   "referencia": "126334",
+   "precio_justo_usd": 15500,
+   "interesante": false,
+   "nota": "Modelo y referencia coinciden con la imagen; el precio pedido (US$16,508 con envío) queda por encima del rango de venta cerrada para este estado, caja y papeles de 2021."
+  },
+  "motivo": "triage: Modelo y referencia coinciden con la imagen; el precio pedido (US$16,508 con envío) queda por encima del rango de venta cerrada para este estado, caja y papeles de 2021. (justo 15500)"
+ },
+ {
+  "fecha": "2026-11-24T15:59:15.650392+00:00",
+  "marca": "Rolex",
+  "titulo": "1983 PAPERS Ladies Rolex DateJust President 26mm CHAMPAGNE 18K Gold 6917 BOX",
+  "total": 9164.66,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940119782108",
+  "item_id": "v1|940119782108|0",
+  "referencia": "6917",
+  "mercado": {
+   "n": 45,
+   "p25": 3990,
+   "mediana": 4064
+  },
+  "ratio_mercado": 2.297,
+  "motivo": "precio normal (230 % del cuartil bajo de 6917)"
+ },
+ {
+  "fecha": "2026-11-24T15:59:15.650392+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu de Cartier Automatic Watch Stainless Steel 42",
+  "total": 5110.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128214368638",
+  "item_id": "v1|128214368638|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu de Cartier Automatic, acero, 42 mm, esfera plateada con numerales romanos",
+   "referencia": "WSBB0002 (probable; no verificable solo con la foto)",
+   "precio_justo_usd": 4900,
+   "interesante": false,
+   "nota": "Precio pedido de US$5110 está unos 4 % por encima de la estimación de venta real para un usado en estado Good; no cumple el umbral del 15 %."
+  },
+  "motivo": "triage: Precio pedido de US$5110 está unos 4 % por encima de la estimación de venta real para un usado en estado Good; no cumple el umbral del 15 %. (justo 4900)"
+ },
+ {
+  "fecha": "2026-11-24T15:59:15.650392+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu de Cartier Quartz Watch Stainless Steel with Diamond Markers",
+  "total": 5830.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128214368280",
+  "item_id": "v1|128214368280|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu de Cartier, cuarzo, acero, esfera plateada con marcadores de diamante",
+   "referencia": null,
+   "precio_justo_usd": 2600,
+   "interesante": false,
+   "nota": "Modelo de cuarzo de acero de tamaño medio; el precio pedido de US$5830 está muy por encima de su valor de reventa en EE. UU., aunque la referencia exacta no es visible en la foto."
+  },
+  "motivo": "triage: Modelo de cuarzo de acero de tamaño medio; el precio pedido de US$5830 está muy por encima de su valor de reventa en EE. UU., aunque la referencia exacta no es visible en la foto. (justo 2600)"
+ },
+ {
+  "fecha": "2026-11-24T15:59:15.650392+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Pasha Chrono  Ref 2412 36mm Automatic Steel Watch",
+  "total": 3835.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128214367619",
+  "item_id": "v1|128214367619|0",
+  "referencia": "2412",
+  "mercado": {
+   "n": 10,
+   "p25": 3500,
+   "mediana": 3748
+  },
+  "ratio_mercado": 1.096,
+  "motivo": "precio normal (110 % del cuartil bajo de 2412)"
+ },
+ {
+  "fecha": "2026-11-24T15:59:15.650392+00:00",
+  "marca": "Cartier",
+  "titulo": "Unisex Vintage Cartier Tank Quartz 23mm  Classic Clean & Chic",
+  "total": 2716.8,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327474302813",
+  "item_id": "v1|327474302813|0",
+  "triage": {
+   "modelo": "Cartier Tank Must (vermeil, chapado en oro, cuarzo), esfera crema con numerales romanos",
+   "referencia": null,
+   "precio_justo_usd": 700,
+   "interesante": false,
+   "nota": "Tank Must vermeil de cuarzo usado se vende aprox. US$500-900; el precio pedido de US$2717 está muy por encima del mercado."
+  },
+  "motivo": "triage: Tank Must vermeil de cuarzo usado se vende aprox. US$500-900; el precio pedido de US$2717 está muy por encima del mercado. (justo 700)"
+ },
+ {
+  "fecha": "2026-11-24T15:59:15.650392+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank MC 3589 W5330003 Silver Automatic Blue Leather 34mm x 44mm Watch",
+  "total": 4778.31,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940119783320",
+  "item_id": "v1|940119783320|0",
+  "referencia": "3589",
+  "mercado": {
+   "n": 3,
+   "p25": 4405,
+   "mediana": 5010
+  },
+  "triage": {
+   "modelo": "Cartier Tank MC (automático, acero, esfera plateada, numerales romanos, segundero pequeño y fecha)",
+   "referencia": "W5330003 (3589 según el título)",
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "Tank MC de acero en buen estado con correa azul; el precio con envío queda por encima del rango de venta cerrada estimado y no hay descuento claro."
+  },
+  "motivo": "triage: Tank MC de acero en buen estado con correa azul; el precio con envío queda por encima del rango de venta cerrada estimado y no hay descuento claro. (justo 4500)"
  }
 ]
