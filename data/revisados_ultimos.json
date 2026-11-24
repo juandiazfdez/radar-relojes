@@ -1,110 +1,5 @@
 [
  {
-  "fecha": "2026-11-21T01:26:21.325927+00:00",
-  "marca": "Rolex",
-  "titulo": "Circa 1986 Rolex Oyster Perpetual Date 34 mm, 14kt Yellow Gold Chevrolet Awar...",
-  "total": 1220.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://goldin.co",
-  "item_id": "v1|366826368584|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Date / Datejust 34 mm, oro amarillo 14 kt, esfera champán, brazalete Jubilee (c. 1986)",
-   "referencia": null,
-   "precio_justo_usd": 2400,
-   "interesante": true,
-   "nota": "Precio pedido ~50% bajo el valor estimado de mercado para oro 14 kt; verificar autenticidad, referencia exacta y brazalete, y el grabado Chevrolet no suma valor."
-  },
-  "referencia": null,
-  "claude": {
-   "veredicto": "alerta",
-   "precio_justo_usd": 4000,
-   "riesgo_autenticidad": "medio",
-   "estado": "Muy buen estado según TGS (8.5): caja pulida con rayones leves, esfera y cristal impecables, agujas de servicio no originales"
-  },
-  "ratio_justo": 0.305,
-  "motivo": "ALERTA"
- },
- {
-  "fecha": "2026-11-21T01:26:21.325927+00:00",
-  "marca": "Cartier",
-  "titulo": "Circa Mid-2000s Cartier Pasha Seatimer 40 mm Watch Ref. 2790 With Presentatio...",
-  "total": 610.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://goldin.co",
-  "item_id": "v1|366826369497|0",
-  "referencia": "2790",
-  "mercado": {
-   "n": 9,
-   "p25": 3250,
-   "mediana": 3500
-  },
-  "ratio_mercado": 0.188,
-  "motivo": "demasiado barato (19 % del cuartil bajo): sospechoso"
- },
- {
-  "fecha": "2026-11-21T01:26:21.325927+00:00",
-  "marca": "Tudor",
-  "titulo": "NEW 2026 Tudor Black Bay Chrono 39 “Bumblebee” M79310N-0001",
-  "total": 8995.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/940109802874",
-  "item_id": "v1|940109802874|0",
-  "referencia": "M79310N-0001",
-  "mercado": {
-   "n": 4,
-   "p25": 9485,
-   "mediana": 10327
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay Chrono \"Bumblebee\" (esfera amarilla, bisel negro)",
-   "referencia": "M79310N-0001 según el título; la imagen parece corresponder a la versión de 41 mm, así que la referencia debe verificarse",
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "El precio pedido de US$8995 está muy por encima del retail y del mercado secundario para este modelo nuevo; además, hay una posible discrepancia entre el título (39 mm) y el tamaño que se ve en la foto."
-  },
-  "motivo": "triage: El precio pedido de US$8995 está muy por encima del retail y del mercado secundario para este modelo nuevo; además, hay una posible discrepancia entre el título (39 mm) y el tamaño que se ve en la foto. (justo 4800)"
- },
- {
-  "fecha": "2026-11-21T01:26:21.325927+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR 1926 M91650-0011 - MSRP $2650",
-  "total": 2457.04,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/366826381941",
-  "item_id": "v1|366826381941|0",
-  "referencia": "M91650-0011",
-  "mercado": {
-   "n": 5,
-   "p25": 2098,
-   "mediana": 2160
-  },
-  "ratio_mercado": 1.171,
-  "motivo": "precio normal (117 % del cuartil bajo de M91650-0011)"
- },
- {
-  "fecha": "2026-11-21T01:41:21.550773+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 41 Burgundy Ref. M79230R-0003 Case #774",
-  "total": 3495.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128207639293",
-  "item_id": "v1|128207639293|0",
-  "referencia": "M79230R-0003",
-  "mercado": {
-   "n": 3,
-   "p25": 3295,
-   "mediana": 3480
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay 41 Burgundy (bisel granate, brazalete de acero)",
-   "referencia": "M79230R",
-   "precio_justo_usd": 3600,
-   "interesante": false,
-   "nota": "Precio cercano al mercado secundario para este modelo usado en buen estado; sin descuento de 15 %. Confirmar caja, papeles y el 'Case #774', que no es un dato habitual de Tudor."
-  },
-  "motivo": "triage: Precio cercano al mercado secundario para este modelo usado en buen estado; sin descuento de 15 %. Confirmar caja, papeles y el 'Case #774', que no es un dato habitual de Tudor. (justo 3600)"
- },
- {
   "fecha": "2026-11-21T01:56:20.937124+00:00",
   "marca": "Tudor",
   "titulo": "2006 Tudor Prince Stainless Watch With Authentication (P08039649)",
@@ -10913,5 +10808,90 @@
    "nota": "Ref. 7928 de los años 60 en estado bueno, sin caja ni papeles mencionados; el precio pedido queda por encima del valor de venta estimado. Verificar dial, manecillas y autenticidad antes de comprar."
   },
   "motivo": "triage: Ref. 7928 de los años 60 en estado bueno, sin caja ni papeles mencionados; el precio pedido queda por encima del valor de venta estimado. Verificar dial, manecillas y autenticidad antes de comprar. (justo 7800)"
+ },
+ {
+  "fecha": "2026-11-24T16:59:16.071723+00:00",
+  "marca": "Rolex",
+  "titulo": "New Nov 2026 Rolex Submariner No Date 124060 LN Steel 41mm Ceramic Box Papers",
+  "total": 14723.28,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940119949068",
+  "item_id": "v1|940119949068|0",
+  "referencia": "124060",
+  "mercado": {
+   "n": 25,
+   "p25": 14495,
+   "mediana": 14750
+  },
+  "ratio_mercado": 1.016,
+  "motivo": "precio normal (102 % del cuartil bajo de 124060)"
+ },
+ {
+  "fecha": "2026-11-24T16:59:16.071723+00:00",
+  "marca": "Rolex",
+  "titulo": "New Nov 2026 Rolex Sky-Dweller 336934 Blue 42mm Steel 18K Oyster Box Papers",
+  "total": 23648.08,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940119944146",
+  "item_id": "v1|940119944146|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller (acero y oro blanco, esfera azul, bisel fluteado, brazalete Oyster)",
+   "referencia": "336934",
+   "precio_justo_usd": 25000,
+   "interesante": false,
+   "nota": "Precio pedido ~5 % bajo el valor estimado de reventa; el titulo menciona 'Nov 2026', una fecha futura que hace dudar del listado y conviene verificarlo."
+  },
+  "motivo": "triage: Precio pedido ~5 % bajo el valor estimado de reventa; el titulo menciona 'Nov 2026', una fecha futura que hace dudar del listado y conviene verificarlo. (justo 25000)"
+ },
+ {
+  "fecha": "2026-11-24T16:59:16.071723+00:00",
+  "marca": "Rolex",
+  "titulo": "New Oct 2026 Rolex Daytona 126519 LN Meteorite Oysterflex 18K 40mm Box Papers",
+  "total": 94028.81,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/267853546863",
+  "item_id": "v1|267853546863|0",
+  "referencia": "126519",
+  "mercado": {
+   "n": 6,
+   "p25": 56275,
+   "mediana": 57625
+  },
+  "ratio_mercado": 1.671,
+  "motivo": "precio normal (167 % del cuartil bajo de 126519)"
+ },
+ {
+  "fecha": "2026-11-24T16:59:16.071723+00:00",
+  "marca": "Rolex",
+  "titulo": "2015 Rolex Day-Date President 228239 Rhodium Tapestry 18K Gold 40mm Box Papers",
+  "total": 40988.81,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940119924432",
+  "item_id": "v1|940119924432|0",
+  "referencia": "228239",
+  "mercado": {
+   "n": 16,
+   "p25": 46000,
+   "mediana": 48700
+  },
+  "ratio_mercado": 0.891,
+  "motivo": "precio normal (89 % del cuartil bajo de 228239)"
+ },
+ {
+  "fecha": "2026-11-24T16:59:16.071723+00:00",
+  "marca": "Tudor",
+  "titulo": "2019 Tudor Black Bay 41 Automatic  Ref. 79230 Box + Papers",
+  "total": 3335.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128214456283",
+  "item_id": "v1|128214456283|0",
+  "referencia": "79230",
+  "mercado": {
+   "n": 52,
+   "p25": 3400,
+   "mediana": 3580
+  },
+  "ratio_mercado": 0.981,
+  "motivo": "precio normal (98 % del cuartil bajo de 79230)"
  }
 ]
