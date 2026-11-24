@@ -1,181 +1,5 @@
 [
  {
-  "fecha": "2026-11-20T22:56:21.208346+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner 116618LB Blue Yellow Gold on Oyster",
-  "total": 18350.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267849476093",
-  "item_id": "v1|267849476093|0",
-  "referencia": "116618LB",
-  "mercado": {
-   "n": 13,
-   "p25": 35807,
-   "mediana": 37995
-  },
-  "ratio_mercado": 0.512,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 36000,
-   "riesgo_autenticidad": "alto",
-   "estado": "Aspecto excelente en fotos de catálogo; sin caja ni papeles, año desconocido"
-  },
-  "motivo": "Claude descarto: El precio de US$18,350 es menos de la mitad de lo que vale este reloj. Un 116618LB real, solo reloj y en buen estado, se cierra hoy en torno a US$35-40k. El oro macizo del reloj ya vale una parte muy grande de ese monto. Un descuento del 50% no es una oportunidad, es una señal de estafa, réplica o anuncio engañoso.; Los comparables en eBay EE. UU. tienen cuartil bajo de US$35.8k y mediana de US$38k. Aunque sean precios pedidos, ninguno se acerca a US$18k."
- },
- {
-  "fecha": "2026-11-20T22:56:21.208346+00:00",
-  "marca": "Cartier",
-  "titulo": "2026 Cartier Santos Large | Ref. WSSA0018",
-  "total": 8060.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267849479411",
-  "item_id": "v1|267849479411|0",
-  "referencia": "WSSA0018",
-  "mercado": {
-   "n": 28,
-   "p25": 8285,
-   "mediana": 10000
-  },
-  "ratio_mercado": 0.973,
-  "motivo": "precio normal (97 % del cuartil bajo de WSSA0018)"
- },
- {
-  "fecha": "2026-11-20T22:56:21.208346+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Women's Ballon Bleu Watch, Circa 2000S (Au Women's",
-  "total": 3499.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198811478394",
-  "item_id": "v1|198811478394|0",
-  "triage": {
-   "modelo": "Cartier Ballon Bleu de mujer (c. 2000)",
-   "referencia": null,
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "Título truncado y material no confirmado (posiblemente acero o bicolor); en ese caso se vende cerca de US$1,800-3,000. Con US$3,500 está por encima del precio de mercado."
-  },
-  "motivo": "triage: Título truncado y material no confirmado (posiblemente acero o bicolor); en ese caso se vende cerca de US$1,800-3,000. Con US$3,500 está por encima del precio de mercado. (justo 2600)"
- },
- {
-  "fecha": "2026-11-20T23:11:21.295687+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona 116515LN Chocolate Arabic Rose Gold on Oysterflex",
-  "total": 38150.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267849491185",
-  "item_id": "v1|267849491185|0",
-  "referencia": "116515LN",
-  "mercado": {
-   "n": 13,
-   "p25": 41000,
-   "mediana": 44988
-  },
-  "ratio_mercado": 0.93,
-  "motivo": "precio normal (93 % del cuartil bajo de 116515LN)"
- },
- {
-  "fecha": "2026-11-20T23:11:21.295687+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Yachtmaster White Gold Oysterflex Bracelet Mens Watch 226659 Box Card",
-  "total": 34800.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336908000768",
-  "item_id": "v1|336908000768|0",
-  "referencia": "226659",
-  "mercado": {
-   "n": 24,
-   "p25": 30000,
-   "mediana": 31975
-  },
-  "ratio_mercado": 1.16,
-  "motivo": "precio normal (116 % del cuartil bajo de 226659)"
- },
- {
-  "fecha": "2026-11-20T23:26:21.006625+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 31 277200 Turquoise 2026 OCTOBER UNWORN FULL STICKERS",
-  "total": 12500.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/840149873864",
-  "item_id": "v1|840149873864|0",
-  "referencia": "277200",
-  "mercado": {
-   "n": 17,
-   "p25": 9465,
-   "mediana": 11295
-  },
-  "ratio_mercado": 1.321,
-  "motivo": "precio normal (132 % del cuartil bajo de 277200)"
- },
- {
-  "fecha": "2026-11-20T23:26:21.006625+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 31 278273 White MOP Diamonds 2026 NOVEMBER UNWORN Jubilee",
-  "total": 22900.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/840149873884",
-  "item_id": "v1|840149873884|0",
-  "referencia": "278273",
-  "mercado": {
-   "n": 38,
-   "p25": 20495,
-   "mediana": 21162
-  },
-  "ratio_mercado": 1.117,
-  "motivo": "precio normal (112 % del cuartil bajo de 278273)"
- },
- {
-  "fecha": "2026-11-20T23:26:21.006625+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 126710GRNR Bruce Wayne 2026 NOVEMBER UNWORN Oyster Steel",
-  "total": 20800.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/840149873924",
-  "item_id": "v1|840149873924|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 62,
-   "p25": 21725,
-   "mediana": 22794
-  },
-  "ratio_mercado": 0.957,
-  "motivo": "precio normal (96 % del cuartil bajo de 126710GRNR)"
- },
- {
-  "fecha": "2026-11-20T23:26:21.006625+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 36 126000 Turquoise Tiffany Blue 2026 OCTOBER UNWORN",
-  "total": 17700.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/840149873806",
-  "item_id": "v1|840149873806|0",
-  "referencia": "126000",
-  "mercado": {
-   "n": 41,
-   "p25": 11204,
-   "mediana": 12549
-  },
-  "ratio_mercado": 1.58,
-  "motivo": "precio normal (158 % del cuartil bajo de 126000)"
- },
- {
-  "fecha": "2026-11-20T23:26:21.006625+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41 126333 Olive Green 2026 NOVEMBER UNWORN Jubilee Gold Steel",
-  "total": 20900.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/840149873817",
-  "item_id": "v1|840149873817|0",
-  "referencia": "126333",
-  "mercado": {
-   "n": 38,
-   "p25": 19950,
-   "mediana": 20477
-  },
-  "ratio_mercado": 1.048,
-  "motivo": "precio normal (105 % del cuartil bajo de 126333)"
- },
- {
   "fecha": "2026-11-20T23:26:21.006625+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Ronde Solo XL 42mm Automatic W6701011 3802 Steel Watch w/ Box",
@@ -10915,5 +10739,181 @@
    "nota": "Precio pedido de US$4314 está por encima de lo que se vende este modelo nuevo o casi nuevo en el mercado gris; no hay descuento."
   },
   "motivo": "triage: Precio pedido de US$4314 está por encima de lo que se vende este modelo nuevo o casi nuevo en el mercado gris; no hay descuento. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-24T15:44:17.184125+00:00",
+  "marca": "Rolex",
+  "titulo": "2023 Rolex Daytona Cosmograph 116500 LN Black Steel Ceramic 40mm Box Papers",
+  "total": 28238.59,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940119776517",
+  "item_id": "v1|940119776517|0",
+  "referencia": "116500",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Daytona Cosmograph (esfera negra, bisel de cerámica negra, brazalete de acero)",
+   "referencia": "116500LN",
+   "precio_justo_usd": 25000,
+   "interesante": false,
+   "nota": "Referencia 116500LN de 2023 con caja y papeles; el precio pedido de US$28,239 supera la estimación conservadora del mercado secundario, así que no es una oportunidad."
+  },
+  "motivo": "triage: Referencia 116500LN de 2023 con caja y papeles; el precio pedido de US$28,239 supera la estimación conservadora del mercado secundario, así que no es una oportunidad. (justo 25000)"
+ },
+ {
+  "fecha": "2026-11-24T15:44:17.184125+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust II 116333 41mm with Box and Papers",
+  "total": 12500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960238815804",
+  "item_id": "v1|960238815804|0",
+  "referencia": "116333",
+  "mercado": {
+   "n": 58,
+   "p25": 13495,
+   "mediana": 14675
+  },
+  "ratio_mercado": 0.926,
+  "motivo": "precio normal (93 % del cuartil bajo de 116333)"
+ },
+ {
+  "fecha": "2026-11-24T15:44:17.184125+00:00",
+  "marca": "Rolex",
+  "titulo": "1968 Rolex 1603 Datejust Watch 36mm 1.8 mil NICE!",
+  "total": 3240.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960238814312",
+  "item_id": "v1|960238814312|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 mm acero (ref. 1603), dial plateado con marcadores de barra",
+   "referencia": "1603",
+   "precio_justo_usd": 3700,
+   "interesante": false,
+   "nota": "Datejust 1603 de acero de 1968 en buen estado, sin caja ni papeles y con correa no original. Precio pedido unos 12 % bajo nuestra estimación, por debajo del umbral del 15 %. Autenticidad y originalidad del esfera no verificables con la foto."
+  },
+  "motivo": "triage: Datejust 1603 de acero de 1968 en buen estado, sin caja ni papeles y con correa no original. Precio pedido unos 12 % bajo nuestra estimación, por debajo del umbral del 15 %. Autenticidad y originalidad del esfera no verificables con la foto. (justo 3700)"
+ },
+ {
+  "fecha": "2026-11-24T15:44:17.184125+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sea-Dweller w/ Box Papers and accessories.",
+  "total": 9999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960238813360",
+  "item_id": "v1|960238813360|0",
+  "triage": {
+   "modelo": "Rolex Submariner (la imagen no coincide con el título 'Sea-Dweller')",
+   "referencia": "124060 (probable, sin confirmar)",
+   "precio_justo_usd": 10500,
+   "interesante": false,
+   "nota": "El título dice Sea-Dweller, pero la foto muestra un Submariner de bisel negro y esfera negra. Para un Submariner de producción reciente con caja y papeles, el precio no está 15 % por debajo del mercado, y el título puede ser engañoso."
+  },
+  "motivo": "triage: El título dice Sea-Dweller, pero la foto muestra un Submariner de bisel negro y esfera negra. Para un Submariner de producción reciente con caja y papeles, el precio no está 15 % por debajo del mercado, y el título puede ser engañoso. (justo 10500)"
+ },
+ {
+  "fecha": "2026-11-24T15:44:17.184125+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sea-Dweller 126600 50th-Anniversary Black Red Stainless Steel 43mm Watch",
+  "total": 11203.87,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960238810487",
+  "item_id": "v1|960238810487|0",
+  "referencia": "126600",
+  "mercado": {
+   "n": 53,
+   "p25": 12980,
+   "mediana": 13999
+  },
+  "ratio_mercado": 0.863,
+  "motivo": "precio normal (86 % del cuartil bajo de 126600)"
+ },
+ {
+  "fecha": "2026-11-24T15:44:17.184125+00:00",
+  "marca": "Rolex",
+  "titulo": "42159: Rolex Submariner 40, Ref. 16610, Circa 1991",
+  "total": 9500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237204074004",
+  "item_id": "v1|237204074004|0",
+  "referencia": "16610",
+  "mercado": {
+   "n": 80,
+   "p25": 9890,
+   "mediana": 10395
+  },
+  "ratio_mercado": 0.961,
+  "motivo": "precio normal (96 % del cuartil bajo de 16610)"
+ },
+ {
+  "fecha": "2026-11-24T15:44:17.184125+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Seadweller 43mm SD43 126600 Mint 2023",
+  "total": 12775.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920179609001",
+  "item_id": "v1|920179609001|0",
+  "referencia": "126600",
+  "mercado": {
+   "n": 53,
+   "p25": 12980,
+   "mediana": 13999
+  },
+  "ratio_mercado": 0.984,
+  "motivo": "precio normal (98 % del cuartil bajo de 126600)"
+ },
+ {
+  "fecha": "2026-11-24T15:44:17.184125+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ronde Solo de Cartier Quartz Watch Stainless Steel 29",
+  "total": 2695.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128214344951",
+  "item_id": "v1|128214344951|0",
+  "triage": {
+   "modelo": "Cartier Ronde Solo de Cartier, cuarzo, acero, 29 mm, esfera plateada con numerales romanos",
+   "referencia": "W6701004 (probable, sin confirmar en las fotos)",
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Precio pedido de US$2695 por encima del precio de venta cerrada estimado para usado en buen estado; no se ve caja ni papeles en el listado."
+  },
+  "motivo": "triage: Precio pedido de US$2695 por encima del precio de venta cerrada estimado para usado en buen estado; no se ve caja ni papeles en el listado. (justo 2300)"
+ },
+ {
+  "fecha": "2026-11-24T15:44:17.184125+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Pasha de Cartier Chronograph Automatic Watch Stainless Steel 36",
+  "total": 2700.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117540027260",
+  "item_id": "v1|117540027260|0",
+  "triage": {
+   "modelo": "Cartier Pasha C Chronograph Automatic (acero, esfera plateada)",
+   "referencia": null,
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "El precio pedido de US$2700 supera la estimación de venta real para este modelo en acero de 36 mm usado; no se ve caja ni papeles en la foto y la referencia exacta no es verificable solo con la imagen."
+  },
+  "motivo": "triage: El precio pedido de US$2700 supera la estimación de venta real para este modelo en acero de 36 mm usado; no se ve caja ni papeles en la foto y la referencia exacta no es verificable solo con la imagen. (justo 2300)"
+ },
+ {
+  "fecha": "2026-11-24T15:44:17.184125+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu de Cartier Quartz Watch Stainless Steel with Diamond Markers",
+  "total": 6510.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117540038717",
+  "item_id": "v1|117540038717|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu de Cartier 33 mm, cuarzo, acero, esfera plateada con números romanos (el título menciona marcadores de diamante, que no se aprecian en la foto)",
+   "referencia": "W69010Z4 (probable; verificar)",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio pedido de US$6510 muy por encima del valor de venta real de un 33 mm de cuarzo de acero usado; el título de diamantes no coincide con la imagen."
+  },
+  "motivo": "triage: Precio pedido de US$6510 muy por encima del valor de venta real de un 33 mm de cuarzo de acero usado; el título de diamantes no coincide con la imagen. (justo 3300)"
  }
 ]
