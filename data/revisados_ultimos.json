@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-20T19:41:09.741243+00:00",
-  "marca": "Rolex",
-  "titulo": "2016 Rolex DateJust II 116334 Blue Sticks 41mm Fluted Oyster Box Papers",
-  "total": 9825.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407375302130",
-  "item_id": "v1|407375302130|0",
-  "referencia": "116334",
-  "mercado": {
-   "n": 21,
-   "p25": 10592,
-   "mediana": 10950
-  },
-  "ratio_mercado": 0.928,
-  "motivo": "precio normal (93 % del cuartil bajo de 116334)"
- },
- {
-  "fecha": "2026-11-20T19:41:09.741243+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos 1564 Rare 💎 Unpolished",
   "total": 5800.0,
@@ -10967,5 +10950,22 @@
    "nota": "Set completo de 2025 con caja Tudor, pero el precio pedido (US$4,350) está unos 9 % por encima de un valor de venta estimado de ~US$4,000 para pieza usada en buen estado; la foto no permite verificar autenticidad ni estado real."
   },
   "motivo": "triage: Set completo de 2025 con caja Tudor, pero el precio pedido (US$4,350) está unos 9 % por encima de un valor de venta estimado de ~US$4,000 para pieza usada en buen estado; la foto no permite verificar autenticidad ni estado real. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-24T00:28:43.508273+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date \"2020\" 116610LN",
+  "total": 14797.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336913283971",
+  "item_id": "v1|336913283971|0",
+  "referencia": "116610LN",
+  "mercado": {
+   "n": 61,
+   "p25": 12790,
+   "mediana": 13500
+  },
+  "ratio_mercado": 1.157,
+  "motivo": "precio normal (116 % del cuartil bajo de 116610LN)"
  }
 ]
