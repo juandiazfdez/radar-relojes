@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-20T22:11:10.090936+00:00",
   "marca": "Rolex",
-  "titulo": "2022 ROLEX submariner 41mm 126610ln COMPLETE SET",
-  "total": 13990.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/227623701951",
-  "item_id": "v1|227623701951|0",
-  "referencia": "126610LN",
-  "mercado": {
-   "n": 85,
-   "p25": 14499,
-   "mediana": 15068
-  },
-  "ratio_mercado": 0.965,
-  "motivo": "precio normal (96 % del cuartil bajo de 126610LN)"
- },
- {
-  "fecha": "2026-11-20T22:11:10.090936+00:00",
-  "marca": "Rolex",
   "titulo": "Lnib 2026 Rolex Submariner No Date 124060 41MM Black Oyster Steel Box Paper",
   "total": 13899.0,
   "condicion": "Pre-owned - Good",
@@ -10921,5 +10904,22 @@
   },
   "ratio_mercado": 1.935,
   "motivo": "precio normal (194 % del cuartil bajo de M79360N-0019)"
+ },
+ {
+  "fecha": "2026-11-24T10:44:04.271997+00:00",
+  "marca": "Rolex",
+  "titulo": "Diamond Rolex Datjust 36mm",
+  "total": 6550.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287755113294",
+  "item_id": "v1|287755113294|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36mm acero, bisel y esfera con diamantes, brazalete Jubilee pavé (posible personalización)",
+   "referencia": null,
+   "precio_justo_usd": 6800,
+   "interesante": false,
+   "nota": "La referencia no es legible. Las fotos sugieren una personalización con diamantes en bisel, esfera y brazalete, lo que limita la reventa y exige verificar autenticidad y origen de las piedras."
+  },
+  "motivo": "triage: La referencia no es legible. Las fotos sugieren una personalización con diamantes en bisel, esfera y brazalete, lo que limita la reventa y exige verificar autenticidad y origen de las piedras. (justo 6800)"
  }
 ]
