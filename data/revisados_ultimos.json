@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-11-21T02:56:21.513622+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 41 Stainless Steel / Black / Green Cerachrom 126610LV-0002",
-  "total": 16670.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820379094365",
-  "item_id": "v1|820379094365|0",
-  "referencia": "126610LV",
-  "mercado": {
-   "n": 75,
-   "p25": 15501,
-   "mediana": 15998
-  },
-  "ratio_mercado": 1.075,
-  "motivo": "precio normal (108 % del cuartil bajo de 126610LV)"
- },
- {
-  "fecha": "2026-11-21T02:56:21.513622+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36MM 16233 18k & SS Jubilee Silver Diamond Dial. Fluted .factory",
-  "total": 6699.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198811850271",
-  "item_id": "v1|198811850271|0",
-  "referencia": "16233",
-  "mercado": {
-   "n": 25,
-   "p25": 5599,
-   "mediana": 6035
-  },
-  "ratio_mercado": 1.196,
-  "motivo": "precio normal (120 % del cuartil bajo de 16233)"
- },
- {
-  "fecha": "2026-11-21T02:56:21.513622+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR Pelagos LHD M25610TNL-0001 In Very Good Used Condition",
   "total": 4250.0,
@@ -10899,5 +10865,39 @@
    "nota": "La referencia 4188 del título no la puedo confirmar con la imagen; el precio pedido queda por encima de la estimación de mercado secundario para esta pieza."
   },
   "motivo": "triage: La referencia 4188 del título no la puedo confirmar con la imagen; el precio pedido queda por encima de la estimación de mercado secundario para esta pieza. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-24T17:29:16.340805+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise W51008Q3 20mm Small Ladies Stainless Steel Quartz Watch",
+  "total": 2920.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336914701453",
+  "item_id": "v1|336914701453|0",
+  "triage": {
+   "modelo": "Cartier Tank Française (tamaño pequeño, cuarzo, acero, esfera plateada con números romanos)",
+   "referencia": "W51008Q3",
+   "precio_justo_usd": 2100,
+   "interesante": false,
+   "nota": "El precio pedido de US$2920 está muy por encima de lo que se vende este modelo usado en EE. UU. (aprox. US$1,800-2,400 según estado y papeles). No es una oportunidad."
+  },
+  "motivo": "triage: El precio pedido de US$2920 está muy por encima de lo que se vende este modelo usado en EE. UU. (aprox. US$1,800-2,400 según estado y papeles). No es una oportunidad. (justo 2100)"
+ },
+ {
+  "fecha": "2026-11-24T17:29:16.340805+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Chronograph Flamingo Blue 79360N",
+  "total": 10490.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960239011491",
+  "item_id": "v1|960239011491|0",
+  "referencia": "79360N",
+  "mercado": {
+   "n": 57,
+   "p25": 4500,
+   "mediana": 4894
+  },
+  "ratio_mercado": 2.331,
+  "motivo": "precio normal (233 % del cuartil bajo de 79360N)"
  }
 ]
