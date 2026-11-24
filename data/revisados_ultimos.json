@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-11-20T21:11:09.636576+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Cellini quartz Watch 6621, 26mm, 18K Yellow Gold. RUNS GREAT orig bracelet",
-  "total": 9810.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920165491596",
-  "item_id": "v1|920165491596|0",
-  "referencia": "6621",
-  "mercado": {
-   "n": 9,
-   "p25": 3990,
-   "mediana": 10509
-  },
-  "ratio_mercado": 2.459,
-  "motivo": "precio normal (246 % del cuartil bajo de 6621)"
- },
- {
-  "fecha": "2026-11-20T21:11:09.636576+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos de Cartier - Ref. WSSA0010 - 35mm Stainless Steel",
-  "total": 8595.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287744575039",
-  "item_id": "v1|287744575039|0",
-  "referencia": "WSSA0010",
-  "mercado": {
-   "n": 2,
-   "p25": 7795,
-   "mediana": 8008
-  },
-  "triage": {
-   "modelo": "Cartier Santos de Cartier, tamaño mediano (35 mm), acero, automático, esfera blanca con números romanos",
-   "referencia": "WSSA0010",
-   "precio_justo_usd": 6600,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de mercado secundario para esta referencia en estado Good; sin caja ni papeles el valor sería aún menor."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de mercado secundario para esta referencia en estado Good; sin caja ni papeles el valor sería aún menor. (justo 6600)"
- },
- {
-  "fecha": "2026-11-20T21:11:09.636576+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos XL Chronograph 44mm 18kt Yellow Gold & Stainless Steel W2SA0008",
   "total": 12855.0,
@@ -10937,5 +10897,39 @@
    "nota": "Precio pedido cercano a retail para un Black Bay 41 de 2023 usado; el mercado secundario suele estar por debajo, así que no hay descuento suficiente."
   },
   "motivo": "triage: Precio pedido cercano a retail para un Black Bay 41 de 2023 usado; el mercado secundario suele estar por debajo, así que no hay descuento suficiente. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-24T03:43:52.988167+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 36 Turquoise 126000 Stainless Steel with Box & Papers",
+  "total": 16295.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820391050529",
+  "item_id": "v1|820391050529|0",
+  "referencia": "126000",
+  "mercado": {
+   "n": 38,
+   "p25": 11812,
+   "mediana": 12492
+  },
+  "ratio_mercado": 1.38,
+  "motivo": "precio normal (138 % del cuartil bajo de 126000)"
+ },
+ {
+  "fecha": "2026-11-24T03:43:52.988167+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41mm jubilee two tone",
+  "total": 19000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327473258113",
+  "item_id": "v1|327473258113|0",
+  "triage": {
+   "modelo": "Rolex Datejust 41 acero y oro amarillo, bisel liso, brazalete Jubilee, esfera plateada",
+   "referencia": "126303",
+   "precio_justo_usd": 14500,
+   "interesante": false,
+   "nota": "Precio pedido de US$19,000 está muy por encima del valor de mercado para esta referencia usada; no es oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$19,000 está muy por encima del valor de mercado para esta referencia usada; no es oportunidad. (justo 14500)"
  }
 ]
