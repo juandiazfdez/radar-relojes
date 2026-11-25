@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-22T16:27:47.599479+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Chrono Blue 79360B Boutique Edition 41mm Unworn Full Set 2025",
-  "total": 5295.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227626357088",
-  "item_id": "v1|227626357088|0",
-  "referencia": "79360B",
-  "mercado": {
-   "n": 1,
-   "p25": 8600,
-   "mediana": 8600
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay Chrono Blue (41 mm, esfera azul, bisel azul, brazalete de acero)",
-   "referencia": "79360B",
-   "precio_justo_usd": 4200,
-   "interesante": false,
-   "nota": "Precio pedido por encima de lo que se vende este modelo nuevo con papeles en el mercado secundario; no hay descuento suficiente. La mención 'Boutique Edition' no la puedo verificar en la foto."
-  },
-  "motivo": "triage: Precio pedido por encima de lo que se vende este modelo nuevo con papeles en el mercado secundario; no hay descuento suficiente. La mención 'Boutique Edition' no la puedo verificar en la foto. (justo 4200)"
- },
- {
-  "fecha": "2026-11-22T16:42:48.020272+00:00",
-  "marca": "Rolex",
-  "titulo": "rolex daytona two tone OYSTER PERPETUAL SUPERLATIVE CHRONOMETER",
-  "total": 23409.39,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327470521710",
-  "item_id": "v1|327470521710|0",
-  "triage": {
-   "modelo": "Rolex Daytona bicolor (acero y oro amarillo), esfera blanca/nácar, pulsera Oyster",
-   "referencia": "116523 (probable; verificar número en la caja y en la entrada entre cuernos)",
-   "precio_justo_usd": 24000,
-   "interesante": false,
-   "nota": "Precio pedido muy cercano al valor de mercado para esta referencia en buen estado; no hay descuento de al menos 15 %. Confirmar referencia, esfera y autenticidad antes de comprar."
-  },
-  "motivo": "triage: Precio pedido muy cercano al valor de mercado para esta referencia en buen estado; no hay descuento de al menos 15 %. Confirmar referencia, esfera y autenticidad antes de comprar. (justo 24000)"
- },
- {
-  "fecha": "2026-11-22T16:42:48.020272+00:00",
-  "marca": "Tudor",
-  "titulo": "2024 Tudor Pelagos FXD GMT Titanium 42mm M2542G247NU-0002",
-  "total": 5100.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960230305983",
-  "item_id": "v1|960230305983|0",
-  "triage": {
-   "modelo": "Tudor Pelagos FXD GMT (titanio, 42 mm)",
-   "referencia": "null (la referencia del listado, M2542G247NU-0002, no es verificable en la foto)",
-   "precio_justo_usd": 3600,
-   "interesante": false,
-   "nota": "Pedido de US$5100 muy por encima del valor de venta cerrada de un Pelagos FXD GMT de titanio 2024 usado en excelente estado; la referencia del título también debe verificarse."
-  },
-  "motivo": "triage: Pedido de US$5100 muy por encima del valor de venta cerrada de un Pelagos FXD GMT de titanio 2024 usado en excelente estado; la referencia del título también debe verificarse. (justo 3600)"
- },
- {
   "fecha": "2026-11-22T16:57:48.045126+00:00",
   "marca": "Rolex",
   "titulo": "2018 Rolex Submariner Date 41mm Blue Dial/Bezel Two-Tone Auto w/ Box Papers",
@@ -10852,5 +10795,62 @@
    "nota": "Para piezas o no funcional, una 7909 suele venderse muy por debajo de una funcional; US$1225 no está claramente por debajo del valor real."
   },
   "motivo": "triage: Para piezas o no funcional, una 7909 suele venderse muy por debajo de una funcional; US$1225 no está claramente por debajo del valor real. (justo 800)"
+ },
+ {
+  "fecha": "2026-11-25T01:59:41.890046+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 26mm 1981 Rolex Date Ladies Automatic Wristwatch 2030 Steel & 18k 6917",
+  "total": 4520.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137960418778",
+  "item_id": "v1|137960418778|0",
+  "referencia": "6917",
+  "mercado": {
+   "n": 45,
+   "p25": 3990,
+   "mediana": 4064
+  },
+  "ratio_mercado": 1.133,
+  "motivo": "precio normal (113 % del cuartil bajo de 6917)"
+ },
+ {
+  "fecha": "2026-11-25T01:59:41.890046+00:00",
+  "marca": "Rolex",
+  "titulo": "2020 Rolex AirKing Black 3-6-9 Steel 116900 40mm Smooth Oyster Watch B&P",
+  "total": 8255.49,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267853915631",
+  "item_id": "v1|267853915631|0",
+  "referencia": "116900",
+  "mercado": {
+   "n": 26,
+   "p25": 8145,
+   "mediana": 8566
+  },
+  "ratio_mercado": 1.014,
+  "motivo": "precio normal (101 % del cuartil bajo de 116900)"
+ },
+ {
+  "fecha": "2026-11-25T01:59:41.890046+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise Small W51008Q3 2384 Quartz Steel Roman Ladies",
+  "total": 2995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407384566223",
+  "item_id": "v1|407384566223|0",
+  "referencia": "2384",
+  "mercado": {
+   "n": 34,
+   "p25": 3781,
+   "mediana": 4245
+  },
+  "ratio_mercado": 0.792,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 2300,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado, bueno: brazalete con muchos rayones, desgaste en los bordes de la caja, esfera y cristal limpios"
+  },
+  "motivo": "Claude descarto: El precio pedido de US$2,995 está por encima del valor real de venta cerrada de este modelo. Un Tank Française Small de acero en cuarzo, solo reloj, suele cerrar alrededor de US$2,000-2,600.; Los comparables de eBay (mediana 4,245, cuartil bajo 3,781) son precios pedidos e inflados. No sirven para justificar que 2,995 sea una ganga."
  }
 ]
