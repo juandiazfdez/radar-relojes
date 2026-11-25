@@ -18055,14 +18055,14 @@
   "max": 24999
  },
  "Cartier W6206017|usado": {
-  "fecha": "2026-11-02",
+  "fecha": "2026-11-25",
   "consulta": "Cartier W6206017",
   "n": 1,
-  "mediana": 3785,
-  "p25": 3785,
-  "p75": 3785,
-  "min": 3785,
-  "max": 3785
+  "mediana": 5895,
+  "p25": 5895,
+  "p75": 5895,
+  "min": 5895,
+  "max": 5895
  },
  "Tudor M79660|nuevo": {
   "fecha": "2026-11-02",
@@ -23053,5 +23053,20 @@
   "p75": 7949,
   "min": 4995,
   "max": 22900
+ },
+ "Cartier WGBA0047|nuevo": {
+  "fecha": "2026-11-25",
+  "consulta": "Cartier WGBA0047",
+  "n": 0
+ },
+ "Tudor 25707|usado": {
+  "fecha": "2026-11-25",
+  "consulta": "Tudor 25707",
+  "n": 18,
+  "mediana": 4164,
+  "p25": 3595,
+  "p75": 4400,
+  "min": 3395,
+  "max": 5190
  }
 }
