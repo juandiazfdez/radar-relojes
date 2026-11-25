@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-23T19:58:42.650764+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Ladies Date 26 mm Two Tone Champagne Jubilee Automatic Watch 6917 1975",
-  "total": 4290.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407384032341",
-  "item_id": "v1|407384032341|0",
-  "referencia": "6917",
-  "mercado": {
-   "n": 44,
-   "p25": 3990,
-   "mediana": 4032
-  },
-  "ratio_mercado": 1.075,
-  "motivo": "precio normal (108 % del cuartil bajo de 6917)"
- },
- {
-  "fecha": "2026-11-23T19:58:42.650764+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Lady Datejust 26 mm Steel 18K Yellow Gold Champagne Roman Watch 79163 1999",
-  "total": 5900.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800957454123",
-  "item_id": "v1|800957454123|0",
-  "triage": {
-   "modelo": "Rolex Lady Datejust 26 mm, acero y oro amarillo 18k, bisel acanalado, esfera champán con numerales romanos",
-   "referencia": "79163",
-   "precio_justo_usd": 6300,
-   "interesante": false,
-   "nota": "Precio pedido alrededor de 6 % por debajo del valor estimado; no alcanza el umbral del 15 %. Verificar autenticidad y papeles."
-  },
-  "motivo": "triage: Precio pedido alrededor de 6 % por debajo del valor estimado; no alcanza el umbral del 15 %. Verificar autenticidad y papeles. (justo 6300)"
- },
- {
-  "fecha": "2026-11-23T19:58:42.650764+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust “Morelis” yellow gold head only (1602) (#149489)",
   "total": 11500.0,
   "condicion": "Pre-owned - Good",
@@ -10866,5 +10832,51 @@
    "nota": "Nuevo con caja y papeles, el mercado gris lo sitúa en unos US$3.800-4.300; el precio pedido de US$8.150 está muy por encima, así que no es una oportunidad. La referencia y la pieza deben verificarse."
   },
   "motivo": "triage: Nuevo con caja y papeles, el mercado gris lo sitúa en unos US$3.800-4.300; el precio pedido de US$8.150 está muy por encima, así que no es una oportunidad. La referencia y la pieza deben verificarse. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-25T20:15:15.498837+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 50’s Rolex 6505 Ladies Oyster Perpetual Automatic Watch HEAD ONLY",
+  "total": 2019.98,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147697869267",
+  "item_id": "v1|147697869267|0",
+  "referencia": "6505",
+  "mercado": {
+   "n": 5,
+   "p25": 2740,
+   "mediana": 4000
+  },
+  "ratio_mercado": 0.737,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 1100,
+   "riesgo_autenticidad": "medio",
+   "estado": "Desgastado: cristal acrílico rayado y agrietado, esfera con pátina y manchas, sin pulsera, sin servicio, sin caja ni papeles"
+  },
+  "motivo": "Claude descarto: Solo cabeza, sin pulsera, caja ni papeles; sin fotos del fondo de caja ni del movimiento, así que no se pueden verificar el número de serie, la referencia entre las asas ni el calibre automático (bumper).; El cristal está agrietado y muy rayado; hay que cambiarlo. Las grietas pueden dejar entrar humedad y la hermeticidad Oyster está comprometida."
+ },
+ {
+  "fecha": "2026-11-25T20:15:15.498837+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Drive 40mm WSNM0008 Stainless Steel Men's Watch",
+  "total": 6750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257872090710",
+  "item_id": "v1|257872090710|0",
+  "referencia": "WSNM0008",
+  "mercado": {
+   "n": 1,
+   "p25": 7323,
+   "mediana": 7323
+  },
+  "triage": {
+   "modelo": "Cartier Drive de Cartier Moonphase 40 mm acero (esfera plateada, numerales romanos, fase lunar, correa de cuero negro)",
+   "referencia": "WSNM0008",
+   "precio_justo_usd": 6000,
+   "interesante": false,
+   "nota": "Precio pedido de US$6,750 con envío supera el valor de venta cerrada estimado para este modelo de segunda mano en estado Good; no cumple el umbral del 15 %."
+  },
+  "motivo": "triage: Precio pedido de US$6,750 con envío supera el valor de venta cerrada estimado para este modelo de segunda mano en estado Good; no cumple el umbral del 15 %. (justo 6000)"
  }
 ]
