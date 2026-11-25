@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-23T03:43:07.645143+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Rolex Datejust 16013 Two Tone 18k Gold Steel Champagne W/ Rolex Service",
-  "total": 6249.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307296556083",
-  "item_id": "v1|307296556083|0",
-  "referencia": "16013",
-  "mercado": {
-   "n": 21,
-   "p25": 1815,
-   "mediana": 4428
-  },
-  "ratio_mercado": 3.443,
-  "motivo": "precio normal (344 % del cuartil bajo de 16013)"
- },
- {
-  "fecha": "2026-11-23T03:43:07.645143+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR 2025  Black Bay Pro GMT 39mm watch M79470 Box&Papers steel bracelet",
-  "total": 3544.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336911697407",
-  "item_id": "v1|336911697407|0",
-  "referencia": "M79470",
-  "mercado": {
-   "n": 7,
-   "p25": 3600,
-   "mediana": 3995
-  },
-  "ratio_mercado": 0.984,
-  "motivo": "precio normal (98 % del cuartil bajo de M79470)"
- },
- {
-  "fecha": "2026-11-23T04:13:07.514240+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Americaine WB710014 18K Rose Gold Diamond Quartz 2014 Box & Papers",
-  "total": 14900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/198817056339",
-  "item_id": "v1|198817056339|0",
-  "referencia": "WB710014",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Tank Américaine (versión pequeña, oro rosa 18K con bisel de diamantes, cuarzo)",
-   "referencia": "WB710014",
-   "precio_justo_usd": 10500,
-   "interesante": false,
-   "nota": "Precio pedido US$14.900 por encima de la estimación de venta cerrada (~US$10.500) para 2014 con caja y papeles; la identificación se basa en la foto y el título."
-  },
-  "motivo": "triage: Precio pedido US$14.900 por encima de la estimación de venta cerrada (~US$10.500) para 2014 con caja y papeles; la identificación se basa en la foto y el título. (justo 10500)"
- },
- {
   "fecha": "2026-11-23T05:43:06.860550+00:00",
   "marca": "Rolex",
   "titulo": "2022 Rolex GMT-Master II Pepsi –126710BLRO –Box Papers- Warranty until 02/28/27",
@@ -10826,5 +10769,56 @@
    "nota": "Precio pedido por encima del valor estimado de reventa para un usado en buen estado; la foto muestra correa textil gris extra y caja, sin verse papeles ni número de serie."
   },
   "motivo": "triage: Precio pedido por encima del valor estimado de reventa para un usado en buen estado; la foto muestra correa textil gris extra y caja, sin verse papeles ni número de serie. (justo 2950)"
+ },
+ {
+  "fecha": "2026-11-25T15:00:04.815645+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 New Rolex Datejust 31mm - Everose - Jubilee - Chocolate Diamond - 278271",
+  "total": 21999.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/227631809378",
+  "item_id": "v1|227631809378|0",
+  "referencia": "278271",
+  "mercado": {
+   "n": 17,
+   "p25": 19850,
+   "mediana": 21250
+  },
+  "ratio_mercado": 1.108,
+  "motivo": "precio normal (111 % del cuartil bajo de 278271)"
+ },
+ {
+  "fecha": "2026-11-25T15:00:04.815645+00:00",
+  "marca": "Rolex",
+  "titulo": "2012 Rolex Explorer II 216570 42mm Black Orange Steel GMT Watch Box Papers",
+  "total": 9572.05,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940122319728",
+  "item_id": "v1|940122319728|0",
+  "referencia": "216570",
+  "mercado": {
+   "n": 11,
+   "p25": 9750,
+   "mediana": 9950
+  },
+  "ratio_mercado": 0.982,
+  "motivo": "precio normal (98 % del cuartil bajo de 216570)"
+ },
+ {
+  "fecha": "2026-11-25T15:00:04.815645+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Fifty-Eight 79030B 2025",
+  "total": 3650.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407388367531",
+  "item_id": "v1|407388367531|0",
+  "referencia": "79030B",
+  "mercado": {
+   "n": 16,
+   "p25": 3400,
+   "mediana": 3518
+  },
+  "ratio_mercado": 1.074,
+  "motivo": "precio normal (107 % del cuartil bajo de 79030B)"
  }
 ]
