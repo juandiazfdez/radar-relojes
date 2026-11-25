@@ -5740,13 +5740,13 @@
   "n": 0
  },
  "Tudor M79950|nuevo": {
-  "fecha": "2026-11-16",
+  "fecha": "2026-11-25",
   "consulta": "Tudor M79950",
-  "n": 4,
-  "mediana": 3840,
-  "p25": 3600,
-  "p75": 4095,
-  "min": 3500,
+  "n": 5,
+  "mediana": 3600,
+  "p25": 3500,
+  "p75": 4080,
+  "min": 3490,
   "max": 4095
  },
  "Tudor M25807KN|nuevo": {
@@ -6555,7 +6555,7 @@
   "max": 8900
  },
  "Rolex 126334|usado": {
-  "fecha": "2026-11-24",
+  "fecha": "2026-11-25",
   "consulta": "Rolex 126334",
   "n": 0
  },
@@ -22958,5 +22958,45 @@
   "p75": 59147,
   "min": 44999,
   "max": 143750
+ },
+ "Rolex 6718|usado": {
+  "fecha": "2026-11-25",
+  "consulta": "Rolex 6718",
+  "n": 13,
+  "mediana": 3550,
+  "p25": 3000,
+  "p75": 3990,
+  "min": 2500,
+  "max": 8145
+ },
+ "Cartier W6920003|usado": {
+  "fecha": "2026-11-25",
+  "consulta": "Cartier W6920003",
+  "n": 1,
+  "mediana": 7500,
+  "p25": 7500,
+  "p75": 7500,
+  "min": 7500,
+  "max": 7500
+ },
+ "Cartier 2701|usado": {
+  "fecha": "2026-11-25",
+  "consulta": "Cartier 2701",
+  "n": 2,
+  "mediana": 5591,
+  "p25": 4888,
+  "p75": 6295,
+  "min": 4888,
+  "max": 6295
+ },
+ "Cartier W6920002|usado": {
+  "fecha": "2026-11-25",
+  "consulta": "Cartier W6920002",
+  "n": 4,
+  "mediana": 7278,
+  "p25": 7056,
+  "p75": 7695,
+  "min": 6950,
+  "max": 7695
  }
 }
