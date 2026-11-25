@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-11-22T21:42:57.329554+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 36 Blue \"Smiley\" 79500 -- Full Set",
-  "total": 3050.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920172896576",
-  "item_id": "v1|920172896576|0",
-  "referencia": "79500",
-  "mercado": {
-   "n": 2,
-   "p25": 2900,
-   "mediana": 4275
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay 36 (esfera azul, acero, automático)",
-   "referencia": "79500 (según el título; no es verificable en la foto)",
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor estimado de mercado para esta referencia en condición Good; no cumple el umbral de 15% por debajo."
-  },
-  "motivo": "triage: Precio pedido por encima del valor estimado de mercado para esta referencia en condición Good; no cumple el umbral de 15% por debajo. (justo 2800)"
- },
- {
   "fecha": "2026-11-22T22:12:56.895228+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR Geneve Chronograph Men's Quartz Watch Stainless Steel Tachymeter 40mm",
@@ -10826,5 +10803,29 @@
    "nota": "El título menciona 'M.C.M', que no corresponde a Rolex, y la esfera no permite confirmar la marca. El precio se acerca al valor del oro, así que no hay descuento claro."
   },
   "motivo": "triage: El título menciona 'M.C.M', que no corresponde a Rolex, y la esfera no permite confirmar la marca. El precio se acerca al valor del oro, así que no hay descuento claro. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-25T07:14:52.824689+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Chrono 79360N Reverse Panda 41mm Steel 2021 Full Set Box Papers",
+  "total": 3806.41,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227631239603",
+  "item_id": "v1|227631239603|0",
+  "referencia": "79360N",
+  "mercado": {
+   "n": 58,
+   "p25": 4500,
+   "mediana": 4845
+  },
+  "ratio_mercado": 0.846,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 4100,
+   "riesgo_autenticidad": "medio",
+   "estado": "Usado con desgaste visible en brazalete y cierre; caja y bisel limpios según el vendedor"
+  },
+  "ratio_justo": 0.928,
+  "motivo": "precio normal segun revision (93 % del justo 4100)"
  }
 ]
