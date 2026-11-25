@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-23T05:43:06.860550+00:00",
-  "marca": "Rolex",
-  "titulo": "2022 Rolex GMT-Master II Pepsi –126710BLRO –Box Papers- Warranty until 02/28/27",
-  "total": 25320.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/117537201681",
-  "item_id": "v1|117537201681|0",
-  "referencia": "126710BLRO",
-  "mercado": {
-   "n": 13,
-   "p25": 23525,
-   "mediana": 24100
-  },
-  "ratio_mercado": 1.076,
-  "motivo": "precio normal (108 % del cuartil bajo de 126710BLRO)"
- },
- {
-  "fecha": "2026-11-23T06:13:07.580101+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 116610LN Black Dial/Bezel Steel Bracelet 300m w/ Papers",
-  "total": 12000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237200622902",
-  "item_id": "v1|237200622902|0",
-  "referencia": "116610LN",
-  "mercado": {
-   "n": 60,
-   "p25": 12797,
-   "mediana": 13500
-  },
-  "ratio_mercado": 0.938,
-  "motivo": "precio normal (94 % del cuartil bajo de 116610LN)"
- },
- {
-  "fecha": "2026-11-23T06:43:07.784780+00:00",
-  "marca": "Tudor",
-  "titulo": "1960s Vintage Tudor 9K Gold Men's Classic Dress Watch Champagne Dial, UK Market",
-  "total": 1425.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227627297013",
-  "item_id": "v1|227627297013|0",
-  "triage": {
-   "modelo": "Tudor vintage de vestir, caja de oro 9K, esfera champán (años 60, mercado UK)",
-   "referencia": null,
-   "precio_justo_usd": 1000,
-   "interesante": false,
-   "nota": "Caja de oro 9K con esfera champán; la referencia no es legible en la foto. El precio pedido de US$1425 está por encima de lo que suelen cerrar estos relojes en EE. UU."
-  },
-  "motivo": "triage: Caja de oro 9K con esfera champán; la referencia no es legible en la foto. El precio pedido de US$1425 está por encima de lo que suelen cerrar estos relojes en EE. UU. (justo 1000)"
- },
- {
   "fecha": "2026-11-23T08:13:20.902595+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Heritage Chrono Blue 70330B 42mm Steel Automatic 2015 Box & Papers",
@@ -10820,5 +10769,56 @@
   },
   "ratio_mercado": 1.074,
   "motivo": "precio normal (107 % del cuartil bajo de 79030B)"
+ },
+ {
+  "fecha": "2026-11-25T15:15:05.324532+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX 31MM Midsize Datejust 178273 Silver Diamond Oyster 31MM 2018",
+  "total": 17523.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327476395558",
+  "item_id": "v1|327476395558|0",
+  "referencia": "178273",
+  "mercado": {
+   "n": 50,
+   "p25": 13870,
+   "mediana": 15418
+  },
+  "ratio_mercado": 1.263,
+  "motivo": "precio normal (126 % del cuartil bajo de 178273)"
+ },
+ {
+  "fecha": "2026-11-25T15:15:05.324532+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX VINTAGE 15053 18K GOLD /Stainless Steel DATE  34MM OYSTER PERPETUAL",
+  "total": 6271.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/800965565204",
+  "item_id": "v1|800965565204|0",
+  "referencia": "15053",
+  "mercado": {
+   "n": 25,
+   "p25": 5700,
+   "mediana": 5760
+  },
+  "ratio_mercado": 1.1,
+  "motivo": "precio normal (110 % del cuartil bajo de 15053)"
+ },
+ {
+  "fecha": "2026-11-25T15:15:05.324532+00:00",
+  "marca": "Rolex",
+  "titulo": "1985 Rolex DateJust 36mm Champagne Tapestry Jubilee Gold Two-Tone Watch 16013",
+  "total": 5603.32,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940122330521",
+  "item_id": "v1|940122330521|0",
+  "referencia": "16013",
+  "mercado": {
+   "n": 22,
+   "p25": 1815,
+   "mediana": 4369
+  },
+  "ratio_mercado": 3.087,
+  "motivo": "precio normal (309 % del cuartil bajo de 16013)"
  }
 ]
