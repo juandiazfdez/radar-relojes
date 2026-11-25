@@ -2,69 +2,6 @@
  {
   "fecha": "2026-11-23T19:58:42.650764+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Datejust “Morelis” yellow gold head only (1602) (#149489)",
-  "total": 11500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257868180383",
-  "item_id": "v1|257868180383|0",
-  "referencia": "149489",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust oro amarillo, esfera Morellis (solo cabeza, sin brazalete)",
-   "referencia": "1602",
-   "precio_justo_usd": 5500,
-   "interesante": false,
-   "nota": "El precio pedido (US$11,500) está muy por encima del valor estimado; la foto no muestra claramente una esfera ni un reloj completo, así que no se puede verificar."
-  },
-  "motivo": "triage: El precio pedido (US$11,500) está muy por encima del valor estimado; la foto no muestra claramente una esfera ni un reloj completo, así que no se puede verificar. (justo 5500)"
- },
- {
-  "fecha": "2026-11-23T19:58:42.650764+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust two tone 36mm jubilee, champagne (#153063)",
-  "total": 6800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257868173849",
-  "item_id": "v1|257868173849|0",
-  "referencia": "153063",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 36mm acero y oro amarillo, brazalete Jubilee (la imagen solo muestra la pulsera)",
-   "referencia": "16013 (probable; 153063 no tiene formato de referencia Rolex, parece un número de listado)",
-   "precio_justo_usd": 6500,
-   "interesante": false,
-   "nota": "Sin ver esfera, bisel ni cierre no se puede confirmar la referencia ni la generación; el precio pedido está en línea con el mercado, no con descuento."
-  },
-  "motivo": "triage: Sin ver esfera, bisel ni cierre no se puede confirmar la referencia ni la generación; el precio pedido está en línea con el mercado, no con descuento. (justo 6500)"
- },
- {
-  "fecha": "2026-11-23T19:58:42.650764+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date Steel Watch 126610LN",
-  "total": 15997.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960235543647",
-  "item_id": "v1|960235543647|0",
-  "referencia": "126610LN",
-  "mercado": {
-   "n": 89,
-   "p25": 14500,
-   "mediana": 14995
-  },
-  "ratio_mercado": 1.103,
-  "motivo": "precio normal (110 % del cuartil bajo de 126610LN)"
- },
- {
-  "fecha": "2026-11-23T19:58:42.650764+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex GMT-Master II Sprite Steel Oyster Watch 126720VTNR",
   "total": 17066.0,
   "condicion": "Pre-owned - Good",
@@ -10878,5 +10815,62 @@
    "nota": "Precio pedido de US$6,750 con envío supera el valor de venta cerrada estimado para este modelo de segunda mano en estado Good; no cumple el umbral del 15 %."
   },
   "motivo": "triage: Precio pedido de US$6,750 con envío supera el valor de venta cerrada estimado para este modelo de segunda mano en estado Good; no cumple el umbral del 15 %. (justo 6000)"
+ },
+ {
+  "fecha": "2026-11-25T20:30:15.050957+00:00",
+  "marca": "Rolex",
+  "titulo": "WOODCARD Rolex Daytona 40mm 126515LN Meteorite Rose Gold OysterFlex 2026",
+  "total": 81999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147697887280",
+  "item_id": "v1|147697887280|0",
+  "referencia": "126515LN",
+  "mercado": {
+   "n": 5,
+   "p25": 55000,
+   "mediana": 55000
+  },
+  "ratio_mercado": 1.491,
+  "motivo": "precio normal (149 % del cuartil bajo de 126515LN)"
+ },
+ {
+  "fecha": "2026-11-25T20:30:15.050957+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 126334 Watch and Paper",
+  "total": 16600.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206727317799",
+  "item_id": "v1|206727317799|0",
+  "referencia": "126334",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 41 (esfera Wimbledon, bisel acanalado en oro blanco, brazalete Jubilee de acero)",
+   "referencia": "126334",
+   "precio_justo_usd": 15500,
+   "interesante": false,
+   "nota": "Wimbledon 126334 de producción reciente; el precio pedido está en torno al valor de mercado secundario, sin descuento de al menos 15 %. El listado indica solo reloj y papeles, sin caja."
+  },
+  "motivo": "triage: Wimbledon 126334 de producción reciente; el precio pedido está en torno al valor de mercado secundario, sin descuento de al menos 15 %. El listado indica solo reloj y papeles, sin caja. (justo 15500)"
+ },
+ {
+  "fecha": "2026-11-25T20:30:15.050957+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay Pro Automatic on bracelet",
+  "total": 3204.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227632223479",
+  "item_id": "v1|227632223479|0",
+  "triage": {
+   "modelo": "Tudor Black Bay Pro (acero, esfera negra, pulsera de acero)",
+   "referencia": "M79470 (aprox., no confirmable solo con la foto)",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "Precio pedido algo por debajo del valor estimado, pero no alcanza el 15 % de descuento; la referencia exacta y el año no se distinguen en la foto."
+  },
+  "motivo": "triage: Precio pedido algo por debajo del valor estimado, pero no alcanza el 15 % de descuento; la referencia exacta y el año no se distinguen en la foto. (justo 3400)"
  }
 ]
