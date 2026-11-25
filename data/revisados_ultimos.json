@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-22T22:42:57.322638+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day Date II 18K Rose Gold Watch 218235",
-  "total": 43000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407382009855",
-  "item_id": "v1|407382009855|0",
-  "referencia": "218235",
-  "mercado": {
-   "n": 14,
-   "p25": 40989,
-   "mediana": 42745
-  },
-  "ratio_mercado": 1.049,
-  "motivo": "precio normal (105 % del cuartil bajo de 218235)"
- },
- {
-  "fecha": "2026-11-22T22:42:57.322638+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Ballon Bleu XL 42mm Steel White Black W69016Z4 Box and Papers",
   "total": 4497.0,
@@ -10820,5 +10803,22 @@
   },
   "ratio_mercado": 0.942,
   "motivo": "precio normal (94 % del cuartil bajo de 116610LN)"
+ },
+ {
+  "fecha": "2026-11-25T09:44:53.612873+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yachtmaster 42mm 226627 Titanium 2026",
+  "total": 22999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147696932837",
+  "item_id": "v1|147696932837|0",
+  "referencia": "226627",
+  "mercado": {
+   "n": 19,
+   "p25": 24690,
+   "mediana": 26250
+  },
+  "ratio_mercado": 0.932,
+  "motivo": "precio normal (93 % del cuartil bajo de 226627)"
  }
 ]
