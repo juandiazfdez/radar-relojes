@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-22T16:27:47.599479+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 116710LN. Green Arrow. 2018 Rolex Service Card.",
-  "total": 13095.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128210623712",
-  "item_id": "v1|128210623712|0",
-  "referencia": "116710LN",
-  "mercado": {
-   "n": 45,
-   "p25": 13799,
-   "mediana": 14725
-  },
-  "ratio_mercado": 0.949,
-  "motivo": "precio normal (95 % del cuartil bajo de 116710LN)"
- },
- {
-  "fecha": "2026-11-22T16:27:47.599479+00:00",
-  "marca": "Rolex",
   "titulo": "Vintage Rolex Ladies Oyster Perpetual Stainless Steel Watch",
   "total": 2260.0,
   "condicion": "Pre-owned - Good",
@@ -10846,5 +10829,22 @@
   },
   "ratio_mercado": 1.069,
   "motivo": "precio normal (107 % del cuartil bajo de 136660)"
+ },
+ {
+  "fecha": "2026-11-25T00:44:41.721738+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Date GMT-Master II Batman Automatic Watch Stainless Steel",
+  "total": 22295.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117540803432",
+  "item_id": "v1|117540803432|0",
+  "triage": {
+   "modelo": "Rolex GMT-Master II 'Batman' (bisel negro/azul, brazalete Oyster de acero)",
+   "referencia": "126710BLNR (probable; verificar si es 116710BLNR de generación anterior)",
+   "precio_justo_usd": 17500,
+   "interesante": false,
+   "nota": "Precio pedido de US$22.295 está muy por encima del mercado secundario para esta referencia en estado usado; el título también es inexacto y conviene verificar referencia, serie y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$22.295 está muy por encima del mercado secundario para esta referencia en estado usado; el título también es inexacto y conviene verificar referencia, serie y papeles. (justo 17500)"
  }
 ]
