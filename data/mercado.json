@@ -11900,12 +11900,12 @@
   "max": 15124
  },
  "Rolex 16220|usado": {
-  "fecha": "2026-11-21",
+  "fecha": "2026-11-25",
   "consulta": "Rolex 16220",
-  "n": 31,
-  "mediana": 6855,
+  "n": 32,
+  "mediana": 6927,
   "p25": 6000,
-  "p75": 7795,
+  "p75": 7640,
   "min": 659,
   "max": 9278
  },
@@ -13355,11 +13355,11 @@
   "max": 15879
  },
  "Tudor M79000N|nuevo": {
-  "fecha": "2026-11-24",
+  "fecha": "2026-11-25",
   "consulta": "Tudor M79000N",
-  "n": 5,
-  "mediana": 4450,
-  "p25": 4248,
+  "n": 6,
+  "mediana": 4349,
+  "p25": 4150,
   "p75": 4458,
   "min": 3948,
   "max": 14940
@@ -18515,14 +18515,14 @@
   "max": 114895
  },
  "Cartier WSSA0086|usado": {
-  "fecha": "2026-11-03",
+  "fecha": "2026-11-25",
   "consulta": "Cartier WSSA0086",
-  "n": 1,
-  "mediana": 4350,
-  "p25": 4350,
-  "p75": 4350,
-  "min": 4350,
-  "max": 4350
+  "n": 2,
+  "mediana": 4460,
+  "p25": 4150,
+  "p75": 4770,
+  "min": 4150,
+  "max": 4770
  },
  "Tudor M91550|nuevo": {
   "fecha": "2026-11-25",
@@ -23023,5 +23023,20 @@
   "fecha": "2026-11-25",
   "consulta": "Tudor M35200",
   "n": 0
+ },
+ "Cartier W2SA0030|nuevo": {
+  "fecha": "2026-11-25",
+  "consulta": "Cartier W2SA0030",
+  "n": 0
+ },
+ "Cartier WSTA0106|usado": {
+  "fecha": "2026-11-25",
+  "consulta": "Cartier WSTA0106",
+  "n": 2,
+  "mediana": 4228,
+  "p25": 4000,
+  "p75": 4455,
+  "min": 4000,
+  "max": 4455
  }
 }
