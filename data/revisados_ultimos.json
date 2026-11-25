@@ -1,52 +1,5 @@
 [
  {
-  "fecha": "2026-11-22T21:12:57.693850+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 16613 40mm 18K Gold & Steel L-Serial Circa 1989 Watch Only",
-  "total": 9994.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/860168416771",
-  "item_id": "v1|860168416771|0",
-  "referencia": "16613",
-  "mercado": {
-   "n": 94,
-   "p25": 11700,
-   "mediana": 12000
-  },
-  "ratio_mercado": 0.854,
-  "motivo": "precio normal (85 % del cuartil bajo de 16613)"
- },
- {
-  "fecha": "2026-11-22T21:12:57.693850+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Princess Oysterdate Date 92414N Silver",
-  "total": 849.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/900113242633",
-  "item_id": "v1|900113242633|0",
-  "referencia": "92414N",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Tudor Princess Oysterdate Date (acero, esfera plateada, brazalete Jubilee, con caja Tudor)",
-   "referencia": "92414N",
-   "precio_justo_usd": 1100,
-   "interesante": true,
-   "nota": "Precio ~23 % bajo el valor estimado de venta cerrada en EE. UU. para 92414N usado en buen estado; verificar autenticidad, papeles y funcionamiento antes de comprar, porque un precio tan bajo para Tudor suele indicar replica o pieza con problemas."
-  },
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 950,
-   "riesgo_autenticidad": "medio",
-   "estado": "Buen estado cosmético aparente; caja y librito originales, sin papeles ni foto del fondo de caja"
-  },
-  "ratio_justo": 0.895,
-  "motivo": "precio normal segun revision (90 % del justo 950)"
- },
- {
   "fecha": "2026-11-22T21:42:57.329554+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay 36 Blue \"Smiley\" 79500 -- Full Set",
@@ -10839,5 +10792,39 @@
    "nota": "El precio pedido de US$4250 con envío está cerca del retail actual para esta referencia y por encima del mercado gris con caja y papeles; no hay descuento de al menos 15 %."
   },
   "motivo": "triage: El precio pedido de US$4250 con envío está cerca del retail actual para esta referencia y por encima del mercado gris con caja y papeles; no hay descuento de al menos 15 %. (justo 3700)"
+ },
+ {
+  "fecha": "2026-11-25T04:59:42.336199+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Ref: 5513  Serif \"Feet First\" Bracelet Marked 9315/280  4/69",
+  "total": 11940.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960240386306",
+  "item_id": "v1|960240386306|0",
+  "referencia": "5513",
+  "mercado": {
+   "n": 35,
+   "p25": 11750,
+   "mediana": 13448
+  },
+  "ratio_mercado": 1.016,
+  "motivo": "precio normal (102 % del cuartil bajo de 5513)"
+ },
+ {
+  "fecha": "2026-11-25T04:59:42.336199+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex M.C.M Fabulous. Rare 18K Solid Gold  Vintage Cocktail Wrist Watch",
+  "total": 5499.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/820395175640",
+  "item_id": "v1|820395175640|0",
+  "triage": {
+   "modelo": "Reloj de cóctel de dama en oro 18k, caja ovalada con bisel acanalado y pulsera de malla (Rolex vintage no confirmado en la imagen)",
+   "referencia": null,
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "El título menciona 'M.C.M', que no corresponde a Rolex, y la esfera no permite confirmar la marca. El precio se acerca al valor del oro, así que no hay descuento claro."
+  },
+  "motivo": "triage: El título menciona 'M.C.M', que no corresponde a Rolex, y la esfera no permite confirmar la marca. El precio se acerca al valor del oro, así que no hay descuento claro. (justo 3000)"
  }
 ]
