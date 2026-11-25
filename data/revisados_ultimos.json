@@ -1,102 +1,5 @@
 [
  {
-  "fecha": "2026-11-23T20:43:43.482979+00:00",
-  "marca": "Rolex",
-  "titulo": "2015 Rolex Submariner Date | Ref. 116613LB",
-  "total": 15700.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267852270230",
-  "item_id": "v1|267852270230|0",
-  "referencia": "116613LB",
-  "mercado": {
-   "n": 59,
-   "p25": 15400,
-   "mediana": 15995
-  },
-  "ratio_mercado": 1.019,
-  "motivo": "precio normal (102 % del cuartil bajo de 116613LB)"
- },
- {
-  "fecha": "2026-11-23T20:43:43.482979+00:00",
-  "marca": "Rolex",
-  "titulo": "Pre-Owned Rolex 126710GRNR GMT-Master II \"Bruce Wayne\" Stainless Steel Watch",
-  "total": 22995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206723312022",
-  "item_id": "v1|206723312022|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 98,
-   "p25": 22350,
-   "mediana": 23496
-  },
-  "ratio_mercado": 1.029,
-  "motivo": "precio normal (103 % del cuartil bajo de 126710GRNR)"
- },
- {
-  "fecha": "2026-11-23T20:43:43.482979+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 1966 Rolex Lady Oyster Perpetual 6618  ",
-  "total": 2030.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820389874810",
-  "item_id": "v1|820389874810|0",
-  "referencia": "6618",
-  "mercado": {
-   "n": 10,
-   "p25": 2650,
-   "mediana": 3162
-  },
-  "ratio_mercado": 0.766,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 1500,
-   "riesgo_autenticidad": "medio",
-   "estado": "Desgaste de vintage con esfera envejecida y agrietada, plexi marcado, sin servicio conocido"
-  },
-  "motivo": "Claude descarto: El precio pedido de US$2030 es alto para este reloj. Los 6618 de acero se cierran sin caja ni papeles en torno a US$1,300-1,800. Los comparables de eBay (mediana 3162) son precios pedidos y están inflados.; No hay foto del fondo de caja ni del movimiento. Eso impide verificar el número de serie y de referencia, el calibre (probablemente 1161 o 1130) y si las piezas son originales."
- },
- {
-  "fecha": "2026-11-23T20:43:43.482979+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos de Cartier WSSA0082",
-  "total": 3970.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407384096062",
-  "item_id": "v1|407384096062|0",
-  "referencia": "WSSA0082",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Santos de Cartier (talla mediana, acero y oro amarillo, esfera plateada con numerales romanos)",
-   "referencia": "WSSA0082",
-   "precio_justo_usd": 3400,
-   "interesante": false,
-   "nota": "El precio pedido de US$3970 queda unos 15% por encima de la venta real estimada para un Santos bicolor de talla mediana usado; la referencia exacta y el tipo de movimiento no son totalmente verificables en la foto."
-  },
-  "motivo": "triage: El precio pedido de US$3970 queda unos 15% por encima de la venta real estimada para un Santos bicolor de talla mediana usado; la referencia exacta y el tipo de movimiento no son totalmente verificables en la foto. (justo 3400)"
- },
- {
-  "fecha": "2026-11-23T20:43:43.482979+00:00",
-  "marca": "Tudor",
-  "titulo": "1964 Tudor Big Rose Smiley Ref. 7966 Prince Oysterdate Stainless Steel Watch",
-  "total": 2500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137956738025",
-  "item_id": "v1|137956738025|0",
-  "triage": {
-   "modelo": "Tudor Prince Oysterdate (Big Rose), dial tipo 'smiley' según el listado",
-   "referencia": "7966",
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "Referencia y época plausibles, pero la foto es pequeña y no confirma el dial smiley; sin caja ni papeles, el precio pedido de US$2,500 está por encima del valor de venta real."
-  },
-  "motivo": "triage: Referencia y época plausibles, pero la foto es pequeña y no confirma el dial smiley; sin caja ni papeles, el precio pedido de US$2,500 está por encima del valor de venta real. (justo 2200)"
- },
- {
   "fecha": "2026-11-23T20:58:43.421582+00:00",
   "marca": "Rolex",
   "titulo": "MINT PAPERS Rolex Platinum President Day Date Meteorite Baguette Diamond 228206",
@@ -10884,5 +10787,97 @@
    "nota": "Precio pedido por encima de la estimación de mercado para un modelo nuevo con caja y papeles; no cumple el umbral de 15 % por debajo."
   },
   "motivo": "triage: Precio pedido por encima de la estimación de mercado para un modelo nuevo con caja y papeles; no cumple el umbral de 15 % por debajo. (justo 4300)"
+ },
+ {
+  "fecha": "2026-11-25T22:00:15.194026+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX Cosmograph Daytona \"Paul Newman\" 40mm Yellow Gold 126518LN - NEW 2026",
+  "total": 53900.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/860177416764",
+  "item_id": "v1|860177416764|0",
+  "referencia": "126518LN",
+  "mercado": {
+   "n": 11,
+   "p25": 58600,
+   "mediana": 61389
+  },
+  "ratio_mercado": 0.92,
+  "motivo": "precio normal (92 % del cuartil bajo de 126518LN)"
+ },
+ {
+  "fecha": "2026-11-25T22:00:15.194026+00:00",
+  "marca": "Rolex",
+  "titulo": "2016 Rolex GMT-MASTER II Batman Stainless Steel Oyster 40mm Watch Papers",
+  "total": 18000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327476996393",
+  "item_id": "v1|327476996393|0",
+  "triage": {
+   "modelo": "Rolex GMT-Master II 'Batman' (bisel cerámico negro y azul, brazalete Oyster de acero, esfera negra)",
+   "referencia": "116710BLNR",
+   "precio_justo_usd": 15000,
+   "interesante": false,
+   "nota": "Referencia 116710BLNR de 2016 en buen estado con papeles; el precio pedido de US$18,000 está unos 20 % por encima de lo que se vende realmente."
+  },
+  "motivo": "triage: Referencia 116710BLNR de 2016 en buen estado con papeles; el precio pedido de US$18,000 está unos 20 % por encima de lo que se vende realmente. (justo 15000)"
+ },
+ {
+  "fecha": "2026-11-25T22:00:15.194026+00:00",
+  "marca": "Rolex",
+  "titulo": "2022 Rolex Yacht-Master 42 126655 RHODIUM! FULL SET! MINT! WHITE TAG!",
+  "total": 14900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327476989276",
+  "item_id": "v1|327476989276|0",
+  "referencia": "126655",
+  "mercado": {
+   "n": 23,
+   "p25": 32950,
+   "mediana": 34186
+  },
+  "ratio_mercado": 0.452,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 13300,
+   "riesgo_autenticidad": "medio",
+   "estado": "Aspecto muy bueno o casi nuevo en fotos, sin caja exterior y sin fotos del fondo ni del movimiento"
+  },
+  "ratio_justo": 1.12,
+  "motivo": "precio normal segun revision (112 % del justo 13300)"
+ },
+ {
+  "fecha": "2026-11-25T22:00:15.194026+00:00",
+  "marca": "Rolex",
+  "titulo": "2020 Rolex GMT-Master II Rootbeer 126715CHNR Everose Gold Oyster 40mm Box/Papers",
+  "total": 42230.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237207338564",
+  "item_id": "v1|237207338564|0",
+  "referencia": "126715CHNR",
+  "mercado": {
+   "n": 32,
+   "p25": 44900,
+   "mediana": 45950
+  },
+  "ratio_mercado": 0.941,
+  "motivo": "precio normal (94 % del cuartil bajo de 126715CHNR)"
+ },
+ {
+  "fecha": "2026-11-25T22:00:15.194026+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Pro GMT Steel Mens Watch 79470 Box Card",
+  "total": 5080.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940122998390",
+  "item_id": "v1|940122998390|0",
+  "referencia": "79470",
+  "mercado": {
+   "n": 21,
+   "p25": 3500,
+   "mediana": 3658
+  },
+  "ratio_mercado": 1.451,
+  "motivo": "precio normal (145 % del cuartil bajo de 79470)"
  }
 ]
