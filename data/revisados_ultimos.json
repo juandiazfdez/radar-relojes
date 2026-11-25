@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-22T22:57:57.247166+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 114200, 34mm",
-  "total": 6300.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920173045977",
-  "item_id": "v1|920173045977|0",
-  "referencia": "114200",
-  "mercado": {
-   "n": 30,
-   "p25": 6850,
-   "mediana": 7515
-  },
-  "ratio_mercado": 0.92,
-  "motivo": "precio normal (92 % del cuartil bajo de 114200)"
- },
- {
-  "fecha": "2026-11-22T22:57:57.247166+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Submariner Date 41mm Black Dial/Bezel Auto Steel 300m Box Papers",
   "total": 15000.0,
   "condicion": "New with box and papers",
@@ -10820,5 +10803,22 @@
   },
   "ratio_mercado": 0.912,
   "motivo": "precio normal (91 % del cuartil bajo de 116710LN)"
+ },
+ {
+  "fecha": "2026-11-25T10:29:53.037390+00:00",
+  "marca": "Rolex",
+  "titulo": "New 2026 Rolex GMT-Master II Batman Oyster Black/Blue 126710BLNR Complete Set",
+  "total": 20999.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/147697008756",
+  "item_id": "v1|147697008756|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 66,
+   "p25": 19695,
+   "mediana": 20558
+  },
+  "ratio_mercado": 1.066,
+  "motivo": "precio normal (107 % del cuartil bajo de 126710BLNR)"
  }
 ]
