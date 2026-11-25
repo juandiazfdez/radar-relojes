@@ -1,80 +1,5 @@
 [
  {
-  "fecha": "2026-11-23T15:43:31.659567+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay Chrono “Panda” 79360N-0014 41mm Jubilee 5-Link",
-  "total": 5500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800956685227",
-  "item_id": "v1|800956685227|0",
-  "referencia": "79360N-0014",
-  "mercado": {
-   "n": 55,
-   "p25": 4550,
-   "mediana": 5000
-  },
-  "ratio_mercado": 1.209,
-  "motivo": "precio normal (121 % del cuartil bajo de 79360N-0014)"
- },
- {
-  "fecha": "2026-11-23T15:58:31.943177+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT Master II Green Arrow 116710LN Blue Lume Unpolished Complete",
-  "total": 14150.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/377670675215",
-  "item_id": "v1|377670675215|0",
-  "referencia": "116710LN",
-  "mercado": {
-   "n": 46,
-   "p25": 13700,
-   "mediana": 14712
-  },
-  "ratio_mercado": 1.033,
-  "motivo": "precio normal (103 % del cuartil bajo de 116710LN)"
- },
- {
-  "fecha": "2026-11-23T15:58:31.943177+00:00",
-  "marca": "Rolex",
-  "titulo": "2025 Rolex Oyster Perpetual 36 36mm Stainless Steel 126000-0015",
-  "total": 8995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880147065137",
-  "item_id": "v1|880147065137|0",
-  "referencia": "126000-0015",
-  "mercado": {
-   "n": 35,
-   "p25": 11812,
-   "mediana": 12485
-  },
-  "ratio_mercado": 0.762,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 9200,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Casi nuevo, con marcas leves de uso en el fondo de caja; caja y papeles declarados pero no mostrados"
-  },
-  "ratio_justo": 0.978,
-  "motivo": "precio normal segun revision (98 % del justo 9200)"
- },
- {
-  "fecha": "2026-11-23T15:58:31.943177+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 18k Yellow Gold/Steel Blue Mens 40mm Watch +Papers A 16613",
-  "total": 12750.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147694439261",
-  "item_id": "v1|147694439261|0",
-  "referencia": "16613",
-  "mercado": {
-   "n": 93,
-   "p25": 11695,
-   "mediana": 12000
-  },
-  "ratio_mercado": 1.09,
-  "motivo": "precio normal (109 % del cuartil bajo de 16613)"
- },
- {
   "fecha": "2026-11-23T15:58:31.943177+00:00",
   "marca": "Rolex",
   "titulo": "2025 Rolex Datejust 36 36mm Stainless Steel 126234-0029",
@@ -10856,5 +10781,79 @@
    "nota": "Nuevo con caja y papeles; el precio pedido de US$3295 está dentro del rango normal del mercado gris, sin descuento de al menos 15 %."
   },
   "motivo": "triage: Nuevo con caja y papeles; el precio pedido de US$3295 está dentro del rango normal del mercado gris, sin descuento de al menos 15 %. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-25T17:00:05.305467+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II “Coke” 16710",
+  "total": 13690.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960241775675",
+  "item_id": "v1|960241775675|0",
+  "referencia": "16710",
+  "mercado": {
+   "n": 75,
+   "p25": 13499,
+   "mediana": 14468
+  },
+  "ratio_mercado": 1.014,
+  "motivo": "precio normal (101 % del cuartil bajo de 16710)"
+ },
+ {
+  "fecha": "2026-11-25T17:00:05.305467+00:00",
+  "marca": "Rolex",
+  "titulo": "42099: Rolex Datejust 31, Ref. 68273, Circa 1990",
+  "total": 8400.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900121382409",
+  "item_id": "v1|900121382409|0",
+  "referencia": "68273",
+  "mercado": {
+   "n": 45,
+   "p25": 8395,
+   "mediana": 8995
+  },
+  "ratio_mercado": 1.001,
+  "motivo": "precio normal (100 % del cuartil bajo de 68273)"
+ },
+ {
+  "fecha": "2026-11-25T17:00:05.305467+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier 1920 1 Unisex Watch",
+  "total": 2800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377676541255",
+  "item_id": "v1|377676541255|0",
+  "triage": {
+   "modelo": "Cartier Must de Cartier / línea 1920 (probable versión de cuarzo, acero, esfera blanca con números romanos)",
+   "referencia": null,
+   "precio_justo_usd": 1300,
+   "interesante": false,
+   "nota": "Por la imagen parece un modelo de cuarzo, no el 1920 automático, así que $2,800 queda muy por encima del valor real. Verificar referencia, calibre y papeles antes de comprar."
+  },
+  "motivo": "triage: Por la imagen parece un modelo de cuarzo, no el 1920 automático, así que $2,800 queda muy por encima del valor real. Verificar referencia, calibre y papeles antes de comprar. (justo 1300)"
+ },
+ {
+  "fecha": "2026-11-25T17:00:05.305467+00:00",
+  "marca": "Tudor",
+  "titulo": "42mm Tudor Pelagos Titanium Blue 25600T Automatic Swiss Made Wristwatch - No Box",
+  "total": 3400.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227631973910",
+  "item_id": "v1|227631973910|0",
+  "referencia": "25600T",
+  "mercado": {
+   "n": 1,
+   "p25": 4370,
+   "mediana": 4370
+  },
+  "triage": {
+   "modelo": "Tudor Pelagos (titanio, esfera azul, bisel azul, brazalete de titanio, 42 mm)",
+   "referencia": "25600TB",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Pelagos 25600TB usado en buen estado sin caja; el precio pedido de US$3400 está en línea con el mercado y no queda 15 % por debajo."
+  },
+  "motivo": "triage: Pelagos 25600TB usado en buen estado sin caja; el precio pedido de US$3400 está en línea con el mercado y no queda 15 % por debajo. (justo 3300)"
  }
 ]
