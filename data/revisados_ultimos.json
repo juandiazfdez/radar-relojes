@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-23T09:58:19.816239+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Fifty-Eight 925 39mm M79010SG Silver 2025",
-  "total": 4750.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147693967804",
-  "item_id": "v1|147693967804|0",
-  "referencia": "M79010SG",
-  "mercado": {
-   "n": 5,
-   "p25": 3996,
-   "mediana": 4065
-  },
-  "ratio_mercado": 1.189,
-  "motivo": "precio normal (119 % del cuartil bajo de M79010SG)"
- },
- {
-  "fecha": "2026-11-23T12:13:21.317066+00:00",
-  "marca": "Rolex",
-  "titulo": "Freshly Dated Rolex Daytona 40mm 126508 John Mayer 2026",
-  "total": 83499.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/147694158855",
-  "item_id": "v1|147694158855|0",
-  "referencia": "126508",
-  "mercado": {
-   "n": 14,
-   "p25": 83822,
-   "mediana": 85750
-  },
-  "ratio_mercado": 0.996,
-  "motivo": "precio normal (100 % del cuartil bajo de 126508)"
- },
- {
-  "fecha": "2026-11-23T12:13:21.317066+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor Black Bay 54 Stainless BLUE 37mm Automatic Watch  NO RESERVE !!!",
-  "total": 3120.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307297199445",
-  "item_id": "v1|307297199445|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 54 Stainless Blue 37mm (bisel y esfera azules, brazalete de acero)",
-   "referencia": "M79030B (probable)",
-   "precio_justo_usd": 2900,
-   "interesante": false,
-   "nota": "Precio pedido de 3120 USD queda por encima de la estimacion de venta cerrada para estado excelente con caja y papeles; el ano 2026 del titulo no encaja con la generacion, conviene verificarlo."
-  },
-  "motivo": "triage: Precio pedido de 3120 USD queda por encima de la estimacion de venta cerrada para estado excelente con caja y papeles; el ano 2026 del titulo no encaja con la generacion, conviene verificarlo. (justo 2900)"
- },
- {
   "fecha": "2026-11-23T12:28:21.263367+00:00",
   "marca": "Rolex",
   "titulo": "NEW Rolex Datejust 126300 Silver Oyster Bracelet FULL SET 11/2026",
@@ -10814,5 +10763,62 @@
    "nota": "El precio pedido de US$19.929 está muy por encima del valor de mercado; el título dice oro blanco, pero la imagen parece acero, lo que reduce aún más el valor."
   },
   "motivo": "triage: El precio pedido de US$19.929 está muy por encima del valor de mercado; el título dice oro blanco, pero la imagen parece acero, lo que reduce aún más el valor. (justo 6500)"
+ },
+ {
+  "fecha": "2026-11-25T15:45:04.724421+00:00",
+  "marca": "Rolex",
+  "titulo": "Genuine Rolex Solid 14K Gold/SS 19mm Stretch Rivets Bracelet *Christmas Sales*",
+  "total": 1834.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880152278588",
+  "item_id": "v1|880152278588|0",
+  "triage": {
+   "modelo": "Pulsera Rolex bicolor oro 14K/acero, 19 mm, con remaches de estiramiento (solo pulsera, sin reloj)",
+   "referencia": null,
+   "precio_justo_usd": 750,
+   "interesante": false,
+   "nota": "El listado es solo una pulsera, no un reloj completo. La foto tiene marca de agua de otra tienda (posible imagen de stock) y el titulo usa 'Genuine' y 'Christmas Sales', por lo que el listado puede ser enganoso. El precio pedido de US$1834 supera con creces lo que vale una pulsera suelta."
+  },
+  "motivo": "triage: El listado es solo una pulsera, no un reloj completo. La foto tiene marca de agua de otra tienda (posible imagen de stock) y el titulo usa 'Genuine' y 'Christmas Sales', por lo que el listado puede ser enganoso. El precio pedido de US$1834 supera con creces lo que vale una pulsera suelta. (justo 750)"
+ },
+ {
+  "fecha": "2026-11-25T15:45:04.724421+00:00",
+  "marca": "Rolex",
+  "titulo": "42261: Rolex Submariner 41, Ref. 126610LN, Full Set 2026",
+  "total": 16800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237206694858",
+  "item_id": "v1|237206694858|0",
+  "referencia": "126610LN",
+  "mercado": {
+   "n": 87,
+   "p25": 14527,
+   "mediana": 14999
+  },
+  "ratio_mercado": 1.156,
+  "motivo": "precio normal (116 % del cuartil bajo de 126610LN)"
+ },
+ {
+  "fecha": "2026-11-25T15:45:04.724421+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere Midsize 27MM Stainless Steel Quartz W25054P5 1310",
+  "total": 4955.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227631876455",
+  "item_id": "v1|227631876455|0",
+  "referencia": "1310",
+  "mercado": {
+   "n": 2,
+   "p25": 4550,
+   "mediana": 4638
+  },
+  "triage": {
+   "modelo": "Cartier Panthère Midsize (Medium) 27 mm, acero, cuarzo",
+   "referencia": "W25054P5",
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "Panthère mediana de acero con brazalete integrado; el precio pedido de US$4,955 con envío queda cerca del mercado de segunda mano, no 15 % por debajo, así que no es una oportunidad clara."
+  },
+  "motivo": "triage: Panthère mediana de acero con brazalete integrado; el precio pedido de US$4,955 con envío queda cerca del mercado de segunda mano, no 15 % por debajo, así que no es una oportunidad clara. (justo 4500)"
  }
 ]
