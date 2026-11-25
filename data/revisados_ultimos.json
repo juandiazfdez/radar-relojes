@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-22T19:12:47.888609+00:00",
   "marca": "Rolex",
-  "titulo": "ROLEX VINTAGE 15223 18K GOLD /Stainless Steel DATE  34MM OYSTER PERPETUAL",
-  "total": 6250.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336911094151",
-  "item_id": "v1|336911094151|0",
-  "referencia": "15223",
-  "mercado": {
-   "n": 19,
-   "p25": 6900,
-   "mediana": 7250
-  },
-  "ratio_mercado": 0.906,
-  "motivo": "precio normal (91 % del cuartil bajo de 15223)"
- },
- {
-  "fecha": "2026-11-22T19:12:47.888609+00:00",
-  "marca": "Rolex",
   "titulo": "2025 Rolex Yacht-Master 42 226627 42mm",
   "total": 22499.0,
   "condicion": "Pre-owned - Excellent",
@@ -10845,5 +10828,22 @@
    "nota": "Precio pedido por encima de lo que se vende realmente en el mercado secundario para este modelo de acero en estado excelente; no cumple el umbral del 15 %."
   },
   "motivo": "triage: Precio pedido por encima de lo que se vende realmente en el mercado secundario para este modelo de acero en estado excelente; no cumple el umbral del 15 %. (justo 6000)"
+ },
+ {
+  "fecha": "2026-11-25T03:29:41.618858+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu 28mm Two Tone YG & Steel Diamond Encrusted Watch W69007Z3",
+  "total": 6800.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257870862996",
+  "item_id": "v1|257870862996|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu 28 mm, acero y oro amarillo con bisel de diamantes, esfera plateada con números romanos",
+   "referencia": "W69007Z3",
+   "precio_justo_usd": 4800,
+   "interesante": false,
+   "nota": "Precio pedido de US$6800 supera el valor de venta cerrada estimado (~US$4500-5000) para esta referencia de cuarzo en estado excelente."
+  },
+  "motivo": "triage: Precio pedido de US$6800 supera el valor de venta cerrada estimado (~US$4500-5000) para esta referencia de cuarzo en estado excelente. (justo 4800)"
  }
 ]
