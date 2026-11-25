@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-22T16:27:47.599479+00:00",
   "marca": "Rolex",
-  "titulo": "Vintage Rolex Ladies Oyster Perpetual Stainless Steel Watch",
-  "total": 2260.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920172149486",
-  "item_id": "v1|920172149486|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Lady vintage (acero, esfera champán)",
-   "referencia": "null (probablemente de la familia 6718/6619, sin confirmar desde la foto)",
-   "precio_justo_usd": 1500,
-   "interesante": false,
-   "nota": "Precio pedido de US$2260 está muy por encima del valor de venta cerrada para un Lady OP vintage de acero en estado Good; la referencia exacta no se puede confirmar sin fotos del caso y del movimiento."
-  },
-  "motivo": "triage: Precio pedido de US$2260 está muy por encima del valor de venta cerrada para un Lady OP vintage de acero en estado Good; la referencia exacta no se puede confirmar sin fotos del caso y del movimiento. (justo 1500)"
- },
- {
-  "fecha": "2026-11-22T16:27:47.599479+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Explorer II \"1995 - Polar\" 16570",
-  "total": 10471.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237199308262",
-  "item_id": "v1|237199308262|0",
-  "referencia": "16570",
-  "mercado": {
-   "n": 40,
-   "p25": 8495,
-   "mediana": 8990
-  },
-  "ratio_mercado": 1.233,
-  "motivo": "precio normal (123 % del cuartil bajo de 16570)"
- },
- {
-  "fecha": "2026-11-22T16:27:47.599479+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Explorer II \"2022 - Polar\" 226570",
   "total": 13283.89,
   "condicion": "Pre-owned - Good",
@@ -10846,5 +10812,45 @@
    "nota": "Precio pedido de US$22.295 está muy por encima del mercado secundario para esta referencia en estado usado; el título también es inexacto y conviene verificar referencia, serie y papeles."
   },
   "motivo": "triage: Precio pedido de US$22.295 está muy por encima del mercado secundario para esta referencia en estado usado; el título también es inexacto y conviene verificar referencia, serie y papeles. (justo 17500)"
+ },
+ {
+  "fecha": "2026-11-25T00:59:41.639652+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 14K Gold Ladies Wristwatch 6619 PLEASE READ ",
+  "total": 2850.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/137960320552",
+  "item_id": "v1|137960320552|0",
+  "referencia": "6619",
+  "mercado": {
+   "n": 13,
+   "p25": 3600,
+   "mediana": 3990
+  },
+  "ratio_mercado": 0.792,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 1500,
+   "riesgo_autenticidad": "alto",
+   "estado": "Condición regular, con piezas no originales (movimiento ETA de reemplazo y brazalete chapado). Cristal y brazalete con desgaste."
+  },
+  "motivo": "Claude descarto: La descripción dice 'Swiss ETA replacement movement'. El movimiento no es el Rolex original (cal. 1161 o similar), así que es un reloj 'franken' o con servicio no Rolex. Esto destruye el valor de coleccionista y de reventa.; El brazalete es chapado en oro, no de oro macizo. El cierre marcado STEELINOX confirma que es de acero chapado. Un 6619 completo en oro 14K llevaría brazalete de oro macizo, así que éste es un reemplazo o una combinación posterior."
+ },
+ {
+  "fecha": "2026-11-25T00:59:41.639652+00:00",
+  "marca": "Cartier",
+  "titulo": "Ladies Vintage 1990's Cartier Tank Quartz 20mm  Classic Clean & Chic",
+  "total": 2414.8,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327474986237",
+  "item_id": "v1|327474986237|0",
+  "triage": {
+   "modelo": "Cartier Tank Must (vermeil, cuarzo, tamaño pequeño, años 90)",
+   "referencia": null,
+   "precio_justo_usd": 650,
+   "interesante": false,
+   "nota": "Se ve un Tank Must de vermeil con correa de cuero, pero el precio pedido de US$2415 está muy por encima de lo que se vende realmente este modelo usado; la referencia exacta no se puede confirmar en la foto."
+  },
+  "motivo": "triage: Se ve un Tank Must de vermeil con correa de cuero, pero el precio pedido de US$2415 está muy por encima de lo que se vende realmente este modelo usado; la referencia exacta no se puede confirmar en la foto. (justo 650)"
  }
 ]
