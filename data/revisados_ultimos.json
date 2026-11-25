@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-11-22T16:57:48.045126+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Must XL WSTA0053 Automatic Stainless Steel Full Set Box Papers",
-  "total": 4900.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/920172209977",
-  "item_id": "v1|920172209977|0",
-  "referencia": "WSTA0053",
-  "mercado": {
-   "n": 1,
-   "p25": 5795,
-   "mediana": 5795
-  },
-  "triage": {
-   "modelo": "Cartier Tank Must XL (esfera plateada, numerales romanos, manecillas azules, brazalete de acero)",
-   "referencia": "WSTA0053 (según título, no verificable en la imagen)",
-   "precio_justo_usd": 2900,
-   "interesante": false,
-   "nota": "Nuevo con caja y papeles se mueve en torno a US$2,700-3,200 en mercado gris; el pedido de US$4,900 está muy por encima del precio real de venta."
-  },
-  "motivo": "triage: Nuevo con caja y papeles se mueve en torno a US$2,700-3,200 en mercado gris; el pedido de US$4,900 está muy por encima del precio real de venta. (justo 2900)"
- },
- {
-  "fecha": "2026-11-22T17:12:47.919984+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36 Two-Tone 16013 w/ Box 36mm Stainless steel and 18k yellow gold",
-  "total": 6495.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147692931791",
-  "item_id": "v1|147692931791|0",
-  "referencia": "16013",
-  "mercado": {
-   "n": 21,
-   "p25": 1815,
-   "mediana": 4428
-  },
-  "ratio_mercado": 3.579,
-  "motivo": "precio normal (358 % del cuartil bajo de 16013)"
- },
- {
   "fecha": "2026-11-22T17:42:47.906093+00:00",
   "marca": "Rolex",
   "titulo": "Vintage 30mm Rolex Precision Mechanical Wristwatch Steel 6466",
@@ -10858,5 +10818,39 @@
    "nota": "Precio pedido de US$26,500 supera el valor de venta cerrada de esta referencia con caja y papeles en estado Good; no es una oportunidad."
   },
   "motivo": "triage: Precio pedido de US$26,500 supera el valor de venta cerrada de esta referencia con caja y papeles en estado Good; no es una oportunidad. (justo 20000)"
+ },
+ {
+  "fecha": "2026-11-25T02:44:41.509069+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Starbucks 126610LV 41mm Green Ceramic Stainless Steel Box Paper",
+  "total": 14695.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840125540949",
+  "item_id": "v1|840125540949|0",
+  "referencia": "126610LV",
+  "mercado": {
+   "n": 79,
+   "p25": 15495,
+   "mediana": 15999
+  },
+  "ratio_mercado": 0.948,
+  "motivo": "precio normal (95 % del cuartil bajo de 126610LV)"
+ },
+ {
+  "fecha": "2026-11-25T02:44:41.509069+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Rolex Sea Dweller 126603 43mm Black Ceramic 18k Yellow Gold Steel Box Paper",
+  "total": 19795.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840121657025",
+  "item_id": "v1|840121657025|0",
+  "referencia": "126603",
+  "mercado": {
+   "n": 38,
+   "p25": 17129,
+   "mediana": 18050
+  },
+  "ratio_mercado": 1.156,
+  "motivo": "precio normal (116 % del cuartil bajo de 126603)"
  }
 ]
