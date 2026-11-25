@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-11-22T15:12:48.355685+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay 54 M79000N-0001",
-  "total": 4000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336910786309",
-  "item_id": "v1|336910786309|0",
-  "referencia": "M79000N-0001",
-  "mercado": {
-   "n": 1,
-   "p25": 3795,
-   "mediana": 3795
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay 54 (37 mm, acero, bisel negro, esfera negra, brazalete de acero)",
-   "referencia": "M79000N-0001",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "El precio pedido de US$4,000 supera el valor de venta cerrada de este modelo en EE. UU. (aprox. US$3,000-3,400 con caja y papeles) y también el retail, así que no hay descuento."
-  },
-  "motivo": "triage: El precio pedido de US$4,000 supera el valor de venta cerrada de este modelo en EE. UU. (aprox. US$3,000-3,400 con caja y papeles) y también el retail, así que no hay descuento. (justo 3200)"
- },
- {
   "fecha": "2026-11-22T15:42:48.116216+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos 41mm Natural Diamond Watch | Genuine Diamonds",
@@ -10852,5 +10829,22 @@
   },
   "ratio_justo": 1.033,
   "motivo": "precio normal segun revision (103 % del justo 1500)"
+ },
+ {
+  "fecha": "2026-11-25T00:14:25.989222+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Prince Date 79280 Automatic Chronograph 40mm Box & Papers C. 1999",
+  "total": 4000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940120701502",
+  "item_id": "v1|940120701502|0",
+  "referencia": "79280",
+  "mercado": {
+   "n": 10,
+   "p25": 4702,
+   "mediana": 4894
+  },
+  "ratio_mercado": 0.851,
+  "motivo": "precio normal (85 % del cuartil bajo de 79280)"
  }
 ]
