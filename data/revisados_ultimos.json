@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-11-23T08:13:20.902595+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Heritage Chrono Blue 70330B 42mm Steel Automatic 2015 Box & Papers",
-  "total": 4999.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206718287249",
-  "item_id": "v1|206718287249|0",
-  "referencia": "70330B",
-  "mercado": {
-   "n": 3,
-   "p25": 4200,
-   "mediana": 4215
-  },
-  "triage": {
-   "modelo": "Tudor Heritage Chrono Blue (esfera plateada, bisel azul, pulsera de acero)",
-   "referencia": "70330B",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Pedido de US$4999 queda muy por encima de lo que se vende este modelo 2015 con caja y papeles; no es una oportunidad."
-  },
-  "motivo": "triage: Pedido de US$4999 queda muy por encima de lo que se vende este modelo 2015 con caja y papeles; no es una oportunidad. (justo 3000)"
- },
- {
-  "fecha": "2026-11-23T08:13:20.902595+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Chrono Blue 79360B 41mm Steel Automatic 2024 Box & Papers",
-  "total": 5999.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206718282067",
-  "item_id": "v1|206718282067|0",
-  "referencia": "79360B",
-  "mercado": {
-   "n": 14,
-   "p25": 5299,
-   "mediana": 5474
-  },
-  "ratio_mercado": 1.132,
-  "motivo": "precio normal (113 % del cuartil bajo de 79360B)"
- },
- {
   "fecha": "2026-11-23T09:58:19.816239+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay Fifty-Eight 925 39mm M79010SG Silver 2025",
@@ -10820,5 +10780,39 @@
   },
   "ratio_mercado": 3.087,
   "motivo": "precio normal (309 % del cuartil bajo de 16013)"
+ },
+ {
+  "fecha": "2026-11-25T15:30:05.236331+00:00",
+  "marca": "Rolex",
+  "titulo": "42161: Rolex Submariner 40, Ref. 16613, Circa 2001. Rolex Box",
+  "total": 12500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237206683129",
+  "item_id": "v1|237206683129|0",
+  "referencia": "16613",
+  "mercado": {
+   "n": 93,
+   "p25": 11695,
+   "mediana": 12000
+  },
+  "ratio_mercado": 1.069,
+  "motivo": "precio normal (107 % del cuartil bajo de 16613)"
+ },
+ {
+  "fecha": "2026-11-25T15:30:05.236331+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu 28mm White Gold Diamond Ladies Quartz Watch WE9003Z3",
+  "total": 19929.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137962073223",
+  "item_id": "v1|137962073223|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu 28 mm con bisel de diamantes, cuarzo, esfera plateada con números romanos (la imagen parece acero, no oro blanco)",
+   "referencia": "WE9003Z3",
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "El precio pedido de US$19.929 está muy por encima del valor de mercado; el título dice oro blanco, pero la imagen parece acero, lo que reduce aún más el valor."
+  },
+  "motivo": "triage: El precio pedido de US$19.929 está muy por encima del valor de mercado; el título dice oro blanco, pero la imagen parece acero, lo que reduce aún más el valor. (justo 6500)"
  }
 ]
