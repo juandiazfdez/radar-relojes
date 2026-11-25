@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-23T02:12:57.755542+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sea-Dweller 4000 ref. 116600 year 2007 RSC guarantee till 08.2028",
-  "total": 15486.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147693456283",
-  "item_id": "v1|147693456283|0",
-  "referencia": "116600",
-  "mercado": {
-   "n": 9,
-   "p25": 14468,
-   "mediana": 14468
-  },
-  "ratio_mercado": 1.07,
-  "motivo": "precio normal (107 % del cuartil bajo de 116600)"
- },
- {
-  "fecha": "2026-11-23T02:12:57.755542+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos de Cartier WSSA0029 Full Set 2021",
-  "total": 7350.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920170191366",
-  "item_id": "v1|920170191366|0",
-  "referencia": "WSSA0029",
-  "mercado": {
-   "n": 7,
-   "p25": 7450,
-   "mediana": 7750
-  },
-  "ratio_mercado": 0.987,
-  "motivo": "precio normal (99 % del cuartil bajo de WSSA0029)"
- },
- {
   "fecha": "2026-11-23T02:28:08.186364+00:00",
   "marca": "Rolex",
   "titulo": "[eBay Live] ROLEX",
@@ -10802,5 +10768,45 @@
   },
   "ratio_mercado": 0.68,
   "motivo": "descripcion: for parts, parts or repair, cracked crystal"
+ },
+ {
+  "fecha": "2026-11-25T14:00:05.380920+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Pro GMT Opaline 79470 39mm GMT Wristwatch Box & Papers",
+  "total": 4250.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137961907728",
+  "item_id": "v1|137961907728|0",
+  "referencia": "79470",
+  "mercado": {
+   "n": 21,
+   "p25": 3500,
+   "mediana": 3658
+  },
+  "ratio_mercado": 1.214,
+  "motivo": "precio normal (121 % del cuartil bajo de 79470)"
+ },
+ {
+  "fecha": "2026-11-25T14:00:05.380920+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 58 M79030N Box And Papers Excellent Condition 79030N",
+  "total": 3995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/377676108586",
+  "item_id": "v1|377676108586|0",
+  "referencia": "M79030N",
+  "mercado": {
+   "n": 3,
+   "p25": 3875,
+   "mediana": 4100
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 58 (39 mm, acero, bisel negro)",
+   "referencia": "M79030N (según título; verificar, la foto muestra esfera y bisel negros)",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de mercado secundario para esta referencia con caja y papeles; además, confirmar la referencia exacta porque el color de la foto no coincide claramente con el código del título."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de mercado secundario para esta referencia con caja y papeles; además, confirmar la referencia exacta porque el color de la foto no coincide claramente con el código del título. (justo 3300)"
  }
 ]
