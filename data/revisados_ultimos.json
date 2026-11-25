@@ -1,86 +1,6 @@
 [
  {
   "fecha": "2026-11-23T19:58:42.650764+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II Sprite Steel Oyster Watch 126720VTNR",
-  "total": 17066.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960235542945",
-  "item_id": "v1|960235542945|0",
-  "referencia": "126720VTNR",
-  "mercado": {
-   "n": 89,
-   "p25": 17999,
-   "mediana": 18595
-  },
-  "ratio_mercado": 0.948,
-  "motivo": "precio normal (95 % del cuartil bajo de 126720VTNR)"
- },
- {
-  "fecha": "2026-11-23T19:58:42.650764+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date Bluesy Two-Tone Watch 126613LB",
-  "total": 19742.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960235542850",
-  "item_id": "v1|960235542850|0",
-  "referencia": "126613LB",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Submariner Date two-tone azul (bisel Cerachrom azul, esfera azul)",
-   "referencia": "126613LB",
-   "precio_justo_usd": 24000,
-   "interesante": false,
-   "nota": "Precio unos 18% por debajo de un mercado secundario estimado para esta referencia muy demandada, con condición usada. Ese descuento tan grande en un modelo tan buscado es sospechoso: verificar autenticidad, papeles y número de serie antes de considerarlo."
-  },
-  "motivo": "triage: Precio unos 18% por debajo de un mercado secundario estimado para esta referencia muy demandada, con condición usada. Ese descuento tan grande en un modelo tan buscado es sospechoso: verificar autenticidad, papeles y número de serie antes de considerarlo. (justo 24000)"
- },
- {
-  "fecha": "2026-11-23T19:58:42.650764+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sky-Dweller 326938",
-  "total": 46485.94,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336912842206",
-  "item_id": "v1|336912842206|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller en oro amarillo, bisel acanalado, esfera champán",
-   "referencia": "326938",
-   "precio_justo_usd": 47500,
-   "interesante": false,
-   "nota": "Precio pedido en línea con el mercado de venta cerrada para esta referencia en oro amarillo; sin descuento suficiente para ser oportunidad."
-  },
-  "motivo": "triage: Precio pedido en línea con el mercado de venta cerrada para esta referencia en oro amarillo; sin descuento suficiente para ser oportunidad. (justo 47500)"
- },
- {
-  "fecha": "2026-11-23T19:58:42.650764+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier baignoire 2369 white gold factory diamonds (WB5095L2) (#147541)",
-  "total": 26400.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257868184270",
-  "item_id": "v1|257868184270|0",
-  "referencia": "2369",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Baignoire (tamaño pequeño, oro blanco con diamantes, esfera blanca con números romanos)",
-   "referencia": "WB5095L2 (según el título; no verificable solo con la foto)",
-   "precio_justo_usd": 20000,
-   "interesante": false,
-   "nota": "Precio pedido de US$26.400 por encima de lo que se vende este modelo de oro blanco con diamantes usado; la referencia exacta y los diamantes requieren verificación."
-  },
-  "motivo": "triage: Precio pedido de US$26.400 por encima de lo que se vende este modelo de oro blanco con diamantes usado; la referencia exacta y los diamantes requieren verificación. (justo 20000)"
- },
- {
-  "fecha": "2026-11-23T19:58:42.650764+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Baignoire Two-Tone on Bracelet. (W40002F2) (#147546)",
   "total": 12500.0,
@@ -10872,5 +10792,85 @@
    "nota": "Precio pedido algo por debajo del valor estimado, pero no alcanza el 15 % de descuento; la referencia exacta y el año no se distinguen en la foto."
   },
   "motivo": "triage: Precio pedido algo por debajo del valor estimado, pero no alcanza el 15 % de descuento; la referencia exacta y el año no se distinguen en la foto. (justo 3400)"
+ },
+ {
+  "fecha": "2026-11-25T20:45:15.394220+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 126000 36mm Turquoise 12/23 Warranty",
+  "total": 16000.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227632237606",
+  "item_id": "v1|227632237606|0",
+  "referencia": "126000",
+  "mercado": {
+   "n": 39,
+   "p25": 11812,
+   "mediana": 12500
+  },
+  "ratio_mercado": 1.355,
+  "motivo": "precio normal (135 % del cuartil bajo de 126000)"
+ },
+ {
+  "fecha": "2026-11-25T20:45:15.394220+00:00",
+  "marca": "Rolex",
+  "titulo": "NEW 2026 Rolex GMT-Master II \"Bruce Wayne\" 40mm 126710GRNR Jubilee (NEW CARD)",
+  "total": 24250.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/147697900650",
+  "item_id": "v1|147697900650|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 66,
+   "p25": 21410,
+   "mediana": 22635
+  },
+  "ratio_mercado": 1.133,
+  "motivo": "precio normal (113 % del cuartil bajo de 126710GRNR)"
+ },
+ {
+  "fecha": "2026-11-25T20:45:15.394220+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Glamour Day-Date Ref M56000 - Silver Diamond Dial, 39mm, Bracelet",
+  "total": 2750.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/820398179631",
+  "item_id": "v1|820398179631|0",
+  "referencia": "M56000",
+  "mercado": {
+   "n": 1,
+   "p25": 2070,
+   "mediana": 2070
+  },
+  "triage": {
+   "modelo": "Tudor Glamour Date (esfera plateada, 39 mm, brazalete de acero; el título dice 'Day-Date', término que no corresponde a Tudor)",
+   "referencia": "M55000 (no confirmada; el título indica M56000, que no coincide con mi identificación)",
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "Precio pedido de US$2750 por encima del rango de venta cerrada estimado; el título mezcla 'Day-Date' (Rolex) con Tudor y la referencia no encaja, así que conviene verificar el modelo exacto antes de comprar."
+  },
+  "motivo": "triage: Precio pedido de US$2750 por encima del rango de venta cerrada estimado; el título mezcla 'Day-Date' (Rolex) con Tudor y la referencia no encaja, así que conviene verificar el modelo exacto antes de comprar. (justo 2400)"
+ },
+ {
+  "fecha": "2026-11-25T20:45:15.394220+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Clair de Rose 26mm Stainless Steel M35200-0010",
+  "total": 2695.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880152773802",
+  "item_id": "v1|880152773802|0",
+  "referencia": "M35200-0010",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Clair de Rose 26mm, acero, esfera azul",
+   "referencia": "M35200-0010",
+   "precio_justo_usd": 2450,
+   "interesante": false,
+   "nota": "Producto nuevo de producción actual; el precio pedido de US$2695 está por encima del rango de mercado gris (~US$2300-2600), sin descuento suficiente."
+  },
+  "motivo": "triage: Producto nuevo de producción actual; el precio pedido de US$2695 está por encima del rango de mercado gris (~US$2300-2600), sin descuento suficiente. (justo 2450)"
  }
 ]
