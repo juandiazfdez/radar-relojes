@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-22T16:57:48.045126+00:00",
-  "marca": "Rolex",
-  "titulo": "2018 Rolex Submariner Date 41mm Blue Dial/Bezel Two-Tone Auto w/ Box Papers",
-  "total": 16008.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137953063784",
-  "item_id": "v1|137953063784|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date 41 mm bicolor (acero y oro amarillo), esfera y bisel azules",
-   "referencia": "126613LB (probable; el título indica 2018, pero el 41 mm con esta configuración corresponde a la generación de 2020 en adelante)",
-   "precio_justo_usd": 19500,
-   "interesante": false,
-   "nota": "El título dice 2018 con 41 mm, pero ese tamaño y esta versión son de 2020 o posterior, así que el listado es inexacto. El precio está algo por debajo del mercado, pero la inconsistencia obliga a verificar referencia, año y autenticidad antes de comprar."
-  },
-  "motivo": "triage: El título dice 2018 con 41 mm, pero ese tamaño y esta versión son de 2020 o posterior, así que el listado es inexacto. El precio está algo por debajo del mercado, pero la inconsistencia obliga a verificar referencia, año y autenticidad antes de comprar. (justo 19500)"
- },
- {
-  "fecha": "2026-11-22T16:57:48.045126+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos Chronograph XL WSSA0017 ADLC Steel 43mm Unpolished Box Card 2021",
   "total": 7995.0,
@@ -10852,5 +10835,22 @@
    "estado": "Usado, bueno: brazalete con muchos rayones, desgaste en los bordes de la caja, esfera y cristal limpios"
   },
   "motivo": "Claude descarto: El precio pedido de US$2,995 está por encima del valor real de venta cerrada de este modelo. Un Tank Française Small de acero en cuarzo, solo reloj, suele cerrar alrededor de US$2,000-2,600.; Los comparables de eBay (mediana 4,245, cuartil bajo 3,781) son precios pedidos e inflados. No sirven para justificar que 2,995 sea una ganga."
+ },
+ {
+  "fecha": "2026-11-25T02:14:41.959569+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 34mm Rolex Oyster Perpetual Datejust Men's Wristwatch 3035 Swiss 16030",
+  "total": 4181.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147696523456",
+  "item_id": "v1|147696523456|0",
+  "referencia": "16030",
+  "mercado": {
+   "n": 5,
+   "p25": 710,
+   "mediana": 710
+  },
+  "ratio_mercado": 5.889,
+  "motivo": "precio normal (589 % del cuartil bajo de 16030)"
  }
 ]
