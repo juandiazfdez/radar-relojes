@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-22T19:12:47.888609+00:00",
-  "marca": "Rolex",
-  "titulo": "2025 Rolex Yacht-Master 42 226627 42mm",
-  "total": 22499.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/168880286920",
-  "item_id": "v1|168880286920|0",
-  "referencia": "226627",
-  "mercado": {
-   "n": 18,
-   "p25": 24899,
-   "mediana": 26475
-  },
-  "ratio_mercado": 0.904,
-  "motivo": "precio normal (90 % del cuartil bajo de 226627)"
- },
- {
-  "fecha": "2026-11-22T19:12:47.888609+00:00",
-  "marca": "Cartier",
-  "titulo": "cartier watch",
-  "total": 1500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407381754342",
-  "item_id": "v1|407381754342|0",
-  "triage": {
-   "modelo": "Cartier Santos de Cartier o Tank Française (cuarzo, acero, caja cuadrada/rectangular; identificación incierta por la foto)",
-   "referencia": null,
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Título genérico sin modelo ni referencia; la foto no permite verificar autenticidad ni número de serie. El precio es bajo para un Cartier de acero con caja y papeles, lo que sugiere posible réplica o listado engañoso. Pedir fotos del movimiento, número de serie y papeles antes de considerarlo."
-  },
-  "motivo": "triage: Título genérico sin modelo ni referencia; la foto no permite verificar autenticidad ni número de serie. El precio es bajo para un Cartier de acero con caja y papeles, lo que sugiere posible réplica o listado engañoso. Pedir fotos del movimiento, número de serie y papeles antes de considerarlo. (justo 3000)"
- },
- {
   "fecha": "2026-11-22T19:57:48.270682+00:00",
   "marca": "Tudor",
   "titulo": "2026 Tudor 1926 Luna 39mm Stainless Steel M91560-0003 - Unworn Full Set",
@@ -10845,5 +10811,39 @@
    "nota": "Precio pedido de US$6800 supera el valor de venta cerrada estimado (~US$4500-5000) para esta referencia de cuarzo en estado excelente."
   },
   "motivo": "triage: Precio pedido de US$6800 supera el valor de venta cerrada estimado (~US$4500-5000) para esta referencia de cuarzo en estado excelente. (justo 4800)"
+ },
+ {
+  "fecha": "2026-11-25T03:44:42.228908+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Solid 14K gold no date Serviced 1560 Ideal  4 Explorer/Submariner💥💥💥💥",
+  "total": 5313.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/377674586186",
+  "item_id": "v1|377674586186|0",
+  "triage": {
+   "modelo": "Reloj de oro 14K sin fecha, posible Rolex vintage no verificable (la foto muestra caja abierta y movimiento sin esfera ni marcas claras)",
+   "referencia": null,
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "El título mezcla palabras clave (Explorer/Submariner, 'Ideal 4', calibre 1560) sin respaldo en las fotos; el movimiento visible no permite confirmar Rolex ni el calibre, y falta esfera y número de serie. Precio no es atractivo para un listado sin verificar."
+  },
+  "motivo": "triage: El título mezcla palabras clave (Explorer/Submariner, 'Ideal 4', calibre 1560) sin respaldo en las fotos; el movimiento visible no permite confirmar Rolex ni el calibre, y falta esfera y número de serie. Precio no es atractivo para un listado sin verificar. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-25T03:44:42.228908+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Large 18k Yellow Gold 40mm Watch WGSA0029",
+  "total": 34000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257870867828",
+  "item_id": "v1|257870867828|0",
+  "referencia": "WGSA0029",
+  "mercado": {
+   "n": 6,
+   "p25": 33000,
+   "mediana": 35949
+  },
+  "ratio_mercado": 1.03,
+  "motivo": "precio normal (103 % del cuartil bajo de WGSA0029)"
  }
 ]
