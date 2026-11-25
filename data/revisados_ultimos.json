@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-22T22:57:57.247166+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 41mm Black Dial/Bezel Auto Steel 300m Box Papers",
-  "total": 15000.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/327470998591",
-  "item_id": "v1|327470998591|0",
-  "triage": {
-   "modelo": "Rolex Submariner Date 41 mm, bisel y esfera negros, acero, brazalete Oyster",
-   "referencia": "126610LN",
-   "precio_justo_usd": 14000,
-   "interesante": false,
-   "nota": "Generación actual (2020 en adelante). Con caja y papeles se vende en torno a US$13.500-15.000 en el mercado secundario, así que el precio pedido está en el rango alto, no por debajo."
-  },
-  "motivo": "triage: Generación actual (2020 en adelante). Con caja y papeles se vende en torno a US$13.500-15.000 en el mercado secundario, así que el precio pedido está en el rango alto, no por debajo. (justo 14000)"
- },
- {
   "fecha": "2026-11-22T23:42:57.606263+00:00",
   "marca": "Rolex",
   "titulo": "Rolex 116189 18K White Gold Datejust 36mm Watch Factory Box And Papers",
@@ -10820,5 +10803,22 @@
   },
   "ratio_mercado": 1.066,
   "motivo": "precio normal (107 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-25T12:00:05.843857+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Explorer II 2020",
+  "total": 13399.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147697118430",
+  "item_id": "v1|147697118430|0",
+  "triage": {
+   "modelo": "Rolex Explorer II (esfera blanca 'Polar')",
+   "referencia": "216570",
+   "precio_justo_usd": 12000,
+   "interesante": false,
+   "nota": "Acero, esfera blanca con aguja naranja de 24 h, generación actual de 42 mm. El precio pedido queda por encima de la venta secundaria estimada y el listado no confirma caja ni papeles."
+  },
+  "motivo": "triage: Acero, esfera blanca con aguja naranja de 24 h, generación actual de 42 mm. El precio pedido queda por encima de la venta secundaria estimada y el listado no confirma caja ni papeles. (justo 12000)"
  }
 ]
