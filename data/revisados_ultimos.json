@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-22T20:12:48.138056+00:00",
-  "marca": "Rolex",
-  "titulo": "Mens Rolex Submariner 18k Yellow Gold Stainless Steel Watch Black Date Sub 16613",
-  "total": 15000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840156073599",
-  "item_id": "v1|840156073599|0",
-  "referencia": "16613",
-  "mercado": {
-   "n": 94,
-   "p25": 11700,
-   "mediana": 12000
-  },
-  "ratio_mercado": 1.282,
-  "motivo": "precio normal (128 % del cuartil bajo de 16613)"
- },
- {
-  "fecha": "2026-11-22T20:12:48.138056+00:00",
-  "marca": "Rolex",
-  "titulo": "36mm Rolex Datejust Oyster Perpetual Two-Tone Jubilee Champagne Dial.",
-  "total": 10050.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206720725918",
-  "item_id": "v1|206720725918|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36mm acero y oro amarillo, bisel acanalado, esfera champán con índices de bastón, brazalete Jubilee",
-   "referencia": "16233 (probable; confirmar número de referencia y año en el reverso de la caja)",
-   "precio_justo_usd": 8800,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta cerrada estimado para una 16233 en condición Good; no cumple el umbral de 15 % por debajo del mercado."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para una 16233 en condición Good; no cumple el umbral de 15 % por debajo del mercado. (justo 8800)"
- },
- {
   "fecha": "2026-11-22T20:27:47.627625+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay GMT Pepsi 41mm 79830RB 2024 Full Set",
@@ -10839,5 +10805,39 @@
    "nota": "Precio ~40% por debajo del mercado para un Deepsea 126660; descuento tan grande en un Rolex sugiere replica o listado enganoso. Verificar autenticidad antes de cualquier oferta."
   },
   "motivo": "triage: Precio ~40% por debajo del mercado para un Deepsea 126660; descuento tan grande en un Rolex sugiere replica o listado enganoso. Verificar autenticidad antes de cualquier oferta. (justo 15500)"
+ },
+ {
+  "fecha": "2026-11-25T04:14:41.606320+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster Women’s Quartz Stainless Steel Watch 2675 w/ Date Papers Inc",
+  "total": 3645.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287756962374",
+  "item_id": "v1|287756962374|0",
+  "referencia": "2675",
+  "mercado": {
+   "n": 9,
+   "p25": 3758,
+   "mediana": 4295
+  },
+  "ratio_mercado": 0.97,
+  "motivo": "precio normal (97 % del cuartil bajo de 2675)"
+ },
+ {
+  "fecha": "2026-11-25T04:14:41.606320+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 41 Monochrome M7941A1A0NU-0003 | August 2025",
+  "total": 4550.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900119635671",
+  "item_id": "v1|900119635671|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 41 Monochrome (esfera negra, bisel negro, brazalete Jubilee de acero)",
+   "referencia": "M7941A1A0NU",
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "Precio pedido de US$4550 con envío está por encima del valor de venta cerrada estimado para pieza usada en buen estado; no cumple el umbral de 15 % por debajo."
+  },
+  "motivo": "triage: Precio pedido de US$4550 con envío está por encima del valor de venta cerrada estimado para pieza usada en buen estado; no cumple el umbral de 15 % por debajo. (justo 3900)"
  }
 ]
