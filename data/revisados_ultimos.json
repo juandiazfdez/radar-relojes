@@ -2,46 +2,6 @@
  {
   "fecha": "2026-11-23T20:58:43.421582+00:00",
   "marca": "Rolex",
-  "titulo": "1993 PAPERS PAPERS MINT Rolex Sea-Dweller Steel 16600 Black 40mm Watch Box",
-  "total": 13122.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287753589196",
-  "item_id": "v1|287753589196|0",
-  "referencia": "16600",
-  "mercado": {
-   "n": 53,
-   "p25": 9845,
-   "mediana": 10140
-  },
-  "ratio_mercado": 1.333,
-  "motivo": "precio normal (133 % del cuartil bajo de 16600)"
- },
- {
-  "fecha": "2026-11-23T20:58:43.421582+00:00",
-  "marca": "Rolex",
-  "titulo": "MINT Rolex Yacht-Master 68623 35mm Yellow Gold Two Tone White Midsize Watch Box",
-  "total": 8072.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307297931373",
-  "item_id": "v1|307297931373|0",
-  "referencia": "68623",
-  "mercado": {
-   "n": 2,
-   "p25": 9030,
-   "mediana": 9510
-  },
-  "triage": {
-   "modelo": "Rolex Yacht-Master 35 mm, acero y oro amarillo, esfera blanca (bisel de oro amarillo)",
-   "referencia": "68623",
-   "precio_justo_usd": 8800,
-   "interesante": false,
-   "nota": "Precio cercano al mercado (~8 % bajo estimado), no llega al 15 %. El título menciona 'Watch Box': verificar que el reloj esté incluido y no solo la caja."
-  },
-  "motivo": "triage: Precio cercano al mercado (~8 % bajo estimado), no llega al 15 %. El título menciona 'Watch Box': verificar que el reloj esté incluido y no solo la caja. (justo 8800)"
- },
- {
-  "fecha": "2026-11-23T20:58:43.421582+00:00",
-  "marca": "Rolex",
   "titulo": "2023 NEW PAPERS Rolex 136660 Sea-Dweller Deepsea 44mm James Cameron Watch",
   "total": 14132.05,
   "condicion": "Pre-owned - Excellent",
@@ -10910,5 +10870,39 @@
    "nota": "Precio pedido cercano al valor de mercado para un BB58 Navy Blue de acero usado con caja y papeles de 2020; no hay descuento de al menos 15 %."
   },
   "motivo": "triage: Precio pedido cercano al valor de mercado para un BB58 Navy Blue de acero usado con caja y papeles de 2020; no hay descuento de al menos 15 %. (justo 3050)"
+ },
+ {
+  "fecha": "2026-11-25T23:45:25.470355+00:00",
+  "marca": "Rolex",
+  "titulo": "2020 Rolex Explorer II Polar 42mm 216570 - Full Set",
+  "total": 11497.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336916954921",
+  "item_id": "v1|336916954921|0",
+  "referencia": "216570",
+  "mercado": {
+   "n": 11,
+   "p25": 9750,
+   "mediana": 9950
+  },
+  "ratio_mercado": 1.179,
+  "motivo": "precio normal (118 % del cuartil bajo de 216570)"
+ },
+ {
+  "fecha": "2026-11-25T23:45:25.470355+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR MODEL 1926 REF M91650 41MM - FULL SET",
+  "total": 2350.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960242324469",
+  "item_id": "v1|960242324469|0",
+  "referencia": "M91650",
+  "mercado": {
+   "n": 6,
+   "p25": 1550,
+   "mediana": 2129
+  },
+  "ratio_mercado": 1.516,
+  "motivo": "precio normal (152 % del cuartil bajo de M91650)"
  }
 ]
