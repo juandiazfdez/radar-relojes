@@ -1,69 +1,5 @@
 [
  {
-  "fecha": "2026-11-22T17:42:47.906093+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 30mm Rolex Precision Mechanical Wristwatch Steel 6466",
-  "total": 1989.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227626465732",
-  "item_id": "v1|227626465732|0",
-  "referencia": "6466",
-  "mercado": {
-   "n": 7,
-   "p25": 3305,
-   "mediana": 4200
-  },
-  "ratio_mercado": 0.602,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 1650,
-   "riesgo_autenticidad": "medio",
-   "estado": "Solo la caja, sin correa. Caja pulida, esfera con desgaste y manchas, sin servicio y sin foto del fondo ni del movimiento."
-  },
-  "ratio_justo": 1.205,
-  "motivo": "precio normal segun revision (120 % del justo 1650)"
- },
- {
-  "fecha": "2026-11-22T17:42:47.906093+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Solo XL 3515 Stainless Steel 31mm Automatic Mens Watch W5200028",
-  "total": 4200.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267851055851",
-  "item_id": "v1|267851055851|0",
-  "referencia": "3515",
-  "mercado": {
-   "n": 4,
-   "p25": 3550,
-   "mediana": 3650
-  },
-  "triage": {
-   "modelo": "Cartier Tank Solo XL (posible Tank Solo de gran formato, acero, esfera crema con numerales romanos)",
-   "referencia": "W5200028 (3515)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "El título dice automático, pero la Tank Solo XL 3515 es de cuarzo; revisar calibre y tamaño. A US$4200 está cerca del retail y por encima del mercado secundario, así que no hay descuento claro."
-  },
-  "motivo": "triage: El título dice automático, pero la Tank Solo XL 3515 es de cuarzo; revisar calibre y tamaño. A US$4200 está cerca del retail y por encima del mercado secundario, así que no hay descuento claro. (justo 3300)"
- },
- {
-  "fecha": "2026-11-22T18:12:48.504615+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex President 36mm 18k White Gold Diamond Watch! $22,495.00",
-  "total": 18999.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940114492465",
-  "item_id": "v1|940114492465|0",
-  "triage": {
-   "modelo": "Rolex Day-Date (President) 36 mm, oro blanco 18k con bisel y esfera de diamantes (posible personalización aftermarket)",
-   "referencia": null,
-   "precio_justo_usd": 21000,
-   "interesante": false,
-   "nota": "El precio pedido está solo ~10 % por debajo de un estimado conservador; la pulsera y el bisel con diamantes podrían ser personalización no de fábrica, lo que reduce el valor. Verificar autenticidad y referencia exacta antes de comprar."
-  },
-  "motivo": "triage: El precio pedido está solo ~10 % por debajo de un estimado conservador; la pulsera y el bisel con diamantes podrían ser personalización no de fábrica, lo que reduce el valor. Verificar autenticidad y referencia exacta antes de comprar. (justo 21000)"
- },
- {
   "fecha": "2026-11-22T18:12:48.504615+00:00",
   "marca": "Cartier",
   "titulo": "Crisp Cartier Santos 2319 Stainless Steel 29mm - All Edges Sharp! Looks new!",
@@ -10852,5 +10788,56 @@
   },
   "ratio_mercado": 1.156,
   "motivo": "precio normal (116 % del cuartil bajo de 126603)"
+ },
+ {
+  "fecha": "2026-11-25T02:59:41.792785+00:00",
+  "marca": "Rolex",
+  "titulo": "eLive- Rolex Land-Dweller 40mm Stainless Steel Bracelet 127334",
+  "total": 1.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/128215196980",
+  "item_id": "v1|128215196980|0",
+  "referencia": "127334",
+  "mercado": {
+   "n": 18,
+   "p25": 24750,
+   "mediana": 25495
+  },
+  "ratio_mercado": 0.0,
+  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
+ },
+ {
+  "fecha": "2026-11-25T02:59:41.792785+00:00",
+  "marca": "Rolex",
+  "titulo": "Discontinued rare 31mm Rolex Perpetual Datejust watch with diamonds ",
+  "total": 11500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237205362311",
+  "item_id": "v1|237205362311|0",
+  "triage": {
+   "modelo": "Rolex Datejust 31 de acero con esfera azul hielo y marcadores de diamante (Oyster)",
+   "referencia": "178240 (probable; verificar)",
+   "precio_justo_usd": 8800,
+   "interesante": false,
+   "nota": "Modelo común de producción; el título de 'rara' está exagerado. Con 11.500 USD queda muy por encima del valor de venta real."
+  },
+  "motivo": "triage: Modelo común de producción; el título de 'rara' está exagerado. Con 11.500 USD queda muy por encima del valor de venta real. (justo 8800)"
+ },
+ {
+  "fecha": "2026-11-25T02:59:41.792785+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu 33mm 18k Yellow Gold and Steel Diamond Encrusted Watch W2BB0",
+  "total": 7900.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257870823276",
+  "item_id": "v1|257870823276|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu 33mm acero y oro amarillo 18k con bisel de diamantes (cuarzo)",
+   "referencia": null,
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "El precio pedido está cerca del valor de mercado. El bisel de diamantes puede ser añadido posteriormente, lo que reduce el valor; la referencia del título está incompleta."
+  },
+  "motivo": "triage: El precio pedido está cerca del valor de mercado. El bisel de diamantes puede ser añadido posteriormente, lo que reduce el valor; la referencia del título está incompleta. (justo 7000)"
  }
 ]
