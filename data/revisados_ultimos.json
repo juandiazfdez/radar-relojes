@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-22T15:42:48.116216+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos 41mm Natural Diamond Watch | Genuine Diamonds",
-  "total": 6000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/377667828312",
-  "item_id": "v1|377667828312|0",
-  "triage": {
-   "modelo": "Cartier Santos (estilo Santos de Cartier, caja rectangular, brazalete de eslabones con acabado de dos tonos, posible esfera con diamantes)",
-   "referencia": null,
-   "precio_justo_usd": 8500,
-   "interesante": false,
-   "nota": "Con la foto no se puede confirmar la referencia ni la autenticidad. El título 'Natural Diamond' y 'Genuine Diamonds' sugiere un acabado con diamantes de aftermarket o una réplica. Pide número de serie, papeles y fotos de la caja y del movimiento antes de considerarlo."
-  },
-  "motivo": "triage: Con la foto no se puede confirmar la referencia ni la autenticidad. El título 'Natural Diamond' y 'Genuine Diamonds' sugiere un acabado con diamantes de aftermarket o una réplica. Pide número de serie, papeles y fotos de la caja y del movimiento antes de considerarlo. (justo 8500)"
- },
- {
   "fecha": "2026-11-22T16:27:47.599479+00:00",
   "marca": "Rolex",
   "titulo": "Rolex GMT-Master II 116710LN. Green Arrow. 2018 Rolex Service Card.",
@@ -10846,5 +10829,22 @@
   },
   "ratio_mercado": 0.851,
   "motivo": "precio normal (85 % del cuartil bajo de 79280)"
+ },
+ {
+  "fecha": "2026-11-25T00:29:44.690762+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sea-Dweller 136660 Full Set",
+  "total": 16050.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206725583091",
+  "item_id": "v1|206725583091|0",
+  "referencia": "136660",
+  "mercado": {
+   "n": 54,
+   "p25": 15010,
+   "mediana": 15999
+  },
+  "ratio_mercado": 1.069,
+  "motivo": "precio normal (107 % del cuartil bajo de 136660)"
  }
 ]
