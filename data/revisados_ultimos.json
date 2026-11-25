@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-23T20:58:43.421582+00:00",
   "marca": "Rolex",
-  "titulo": "2022 MINT Rolex Day-Date 40 President 228238 Champagne Roman Yellow Gold Watch",
-  "total": 45442.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940117667633",
-  "item_id": "v1|940117667633|0",
-  "referencia": "228238",
-  "mercado": {
-   "n": 31,
-   "p25": 48500,
-   "mediana": 48990
-  },
-  "ratio_mercado": 0.937,
-  "motivo": "precio normal (94 % del cuartil bajo de 228238)"
- },
- {
-  "fecha": "2026-11-23T20:58:43.421582+00:00",
-  "marca": "Rolex",
   "titulo": "1989 MINT Rolex 16710 GMT-Master II Pepsi Blue Red 40mm Tritium Steel Watch Box",
   "total": 13122.05,
   "condicion": "Pre-owned - Excellent",
@@ -10886,5 +10869,28 @@
   },
   "ratio_mercado": 0.951,
   "motivo": "precio normal (95 % del cuartil bajo de 126622)"
+ },
+ {
+  "fecha": "2026-11-25T22:45:15.628341+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Day-Date 36, 18388, Yellow Gold, Ivory Pinball Diamond Dial, Di...",
+  "total": 30043.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/800966793090",
+  "item_id": "v1|800966793090|0",
+  "referencia": "18388",
+  "mercado": {
+   "n": 3,
+   "p25": 29045,
+   "mediana": 33936
+  },
+  "triage": {
+   "modelo": "Rolex Day-Date 36 oro amarillo con bisel y marcadores de diamantes, brazalete President",
+   "referencia": "18388",
+   "precio_justo_usd": 32000,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para esta versión, pero el listado es de pieza 'renewed' (refabricada), lo que reduce su valor frente a una pieza original certificada."
+  },
+  "motivo": "triage: Precio cercano al mercado para esta versión, pero el listado es de pieza 'renewed' (refabricada), lo que reduce su valor frente a una pieza original certificada. (justo 32000)"
  }
 ]
