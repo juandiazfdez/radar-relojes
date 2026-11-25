@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-23T16:43:31.893393+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date 15223 34mm F Serial Two-Tone Champagne Box & Papers",
-  "total": 7600.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137956218888",
-  "item_id": "v1|137956218888|0",
-  "referencia": "15223",
-  "mercado": {
-   "n": 20,
-   "p25": 6900,
-   "mediana": 7174
-  },
-  "ratio_mercado": 1.101,
-  "motivo": "precio normal (110 % del cuartil bajo de 15223)"
- },
- {
-  "fecha": "2026-11-23T16:58:31.793807+00:00",
-  "marca": "Rolex",
-  "titulo": "UP FOR SALE IS A ROLEX BUBBLE BACK WRIST WATCH CASE",
-  "total": 400.0,
-  "condicion": "For parts or not working",
-  "url": "https://www.ebay.com/itm/307295788688",
-  "item_id": "v1|307295788688|0",
-  "triage": {
-   "modelo": "Rolex bubble back (caja vintage sin esfera ni movimiento, aprox. años 1930-1940)",
-   "referencia": null,
-   "precio_justo_usd": 150,
-   "interesante": false,
-   "nota": "Solo caja vacía, sin esfera, movimiento ni cristal, y en condición 'para piezas'. Su valor es de chatarra u oro bajo, muy por debajo de los US$400 pedidos."
-  },
-  "motivo": "triage: Solo caja vacía, sin esfera, movimiento ni cristal, y en condición 'para piezas'. Su valor es de chatarra u oro bajo, muy por debajo de los US$400 pedidos. (justo 150)"
- },
- {
   "fecha": "2026-11-23T16:58:31.793807+00:00",
   "marca": "Rolex",
   "titulo": "Vintage Rolex Datejust 16013 Two-Tone 18k Yellow Gold Steel Champagne 36mm Watch",
@@ -10837,5 +10803,45 @@
    "nota": "Precio pedido de US$24.025 bastante por encima del mercado de venta cerrada para esta referencia en oro amarillo de 18K, incluso con caja y papeles; no parece una oportunidad."
   },
   "motivo": "triage: Precio pedido de US$24.025 bastante por encima del mercado de venta cerrada para esta referencia en oro amarillo de 18K, incluso con caja y papeles; no parece una oportunidad. (justo 15000)"
+ },
+ {
+  "fecha": "2026-11-25T17:30:05.125851+00:00",
+  "marca": "Rolex",
+  "titulo": "2011 Rolex Oyster Perpetual 26 Ref. 176234 Black Dial, Papers",
+  "total": 4985.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128216546536",
+  "item_id": "v1|128216546536|0",
+  "referencia": "176234",
+  "mercado": {
+   "n": 3,
+   "p25": 6760,
+   "mediana": 6995
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual 26 (acero con bisel estriado de oro blanco, esfera negra, brazalete Oyster)",
+   "referencia": "176234",
+   "precio_justo_usd": 4400,
+   "interesante": false,
+   "nota": "El precio pedido de US$4985 está por encima del valor de venta cerrada estimado para esta referencia de 2011 con papeles y estado Good; no cumple el umbral de 15 % por debajo del mercado."
+  },
+  "motivo": "triage: El precio pedido de US$4985 está por encima del valor de venta cerrada estimado para esta referencia de 2011 con papeles y estado Good; no cumple el umbral de 15 % por debajo del mercado. (justo 4400)"
+ },
+ {
+  "fecha": "2026-11-25T17:30:05.125851+00:00",
+  "marca": "Cartier",
+  "titulo": "Panthère de Cartier Small 22mm 18K Yellow Gold Watch (Ref. 4178) – New W/O Tags",
+  "total": 22140.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800965989783",
+  "item_id": "v1|800965989783|0",
+  "triage": {
+   "modelo": "Cartier Panthère de Cartier Small (oro amarillo 18K, cuarzo)",
+   "referencia": null,
+   "precio_justo_usd": 12000,
+   "interesante": false,
+   "nota": "El precio pedido supera el mercado; la ref. 4178 no coincide con la Panthère actual y el listado es contradictorio (nuevo sin etiquetas, con caja y papeles)."
+  },
+  "motivo": "triage: El precio pedido supera el mercado; la ref. 4178 no coincide con la Panthère actual y el listado es contradictorio (nuevo sin etiquetas, con caja y papeles). (justo 12000)"
  }
 ]
