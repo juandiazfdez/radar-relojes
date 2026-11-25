@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-23T18:43:32.526221+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 116680 Yachtmaster II",
-  "total": 20925.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920176348603",
-  "item_id": "v1|920176348603|0",
-  "referencia": "116680",
-  "mercado": {
-   "n": 28,
-   "p25": 17950,
-   "mediana": 18691
-  },
-  "ratio_mercado": 1.166,
-  "motivo": "precio normal (117 % del cuartil bajo de 116680)"
- },
- {
-  "fecha": "2026-11-23T18:43:32.526221+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 214270 Explorer",
-  "total": 10725.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920176348116",
-  "item_id": "v1|920176348116|0",
-  "referencia": "214270",
-  "mercado": {
-   "n": 21,
-   "p25": 8495,
-   "mediana": 9500
-  },
-  "ratio_mercado": 1.263,
-  "motivo": "precio normal (126 % del cuartil bajo de 214270)"
- },
- {
-  "fecha": "2026-11-23T18:43:32.526221+00:00",
-  "marca": "Cartier",
-  "titulo": "2022 Cartier Baloon Bleu de Cartier 40mm Steel Automatic Watch WSBB0040 Warranty",
-  "total": 4998.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287753283486",
-  "item_id": "v1|287753283486|0",
-  "referencia": "WSBB0040",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu de Cartier 40 mm, acero, esfera plateada, automático",
-   "referencia": "WSBB0040",
-   "precio_justo_usd": 5800,
-   "interesante": false,
-   "nota": "Precio pedido solo unos 14 % bajo la estimación de venta cerrada de un 2022 en acero con caja y papeles; no alcanza el 15 % de descuento exigido. Verificar caja, papeles y autenticidad del listado."
-  },
-  "motivo": "triage: Precio pedido solo unos 14 % bajo la estimación de venta cerrada de un 2022 en acero con caja y papeles; no alcanza el 15 % de descuento exigido. Verificar caja, papeles y autenticidad del listado. (justo 5800)"
- },
- {
   "fecha": "2026-11-23T18:58:31.524114+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust Lady 69173 Champagne Stick Steel & Yellow Gold on Jubilee",
@@ -10830,5 +10773,62 @@
   },
   "ratio_mercado": 0.913,
   "motivo": "precio normal (91 % del cuartil bajo de 25707B)"
+ },
+ {
+  "fecha": "2026-11-25T19:15:14.927009+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos de Cartier Skeleton Stainless Steel 2025 Complete Set WHSA0015",
+  "total": 25995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920184443680",
+  "item_id": "v1|920184443680|0",
+  "referencia": "WHSA0015",
+  "mercado": {
+   "n": 7,
+   "p25": 25900,
+   "mediana": 28995
+  },
+  "ratio_mercado": 1.004,
+  "motivo": "precio normal (100 % del cuartil bajo de WHSA0015)"
+ },
+ {
+  "fecha": "2026-11-25T19:15:14.927009+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tortue WA503851 2497 35mm Large Silver White Gold Diamonds Mens Watch",
+  "total": 14025.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267854559567",
+  "item_id": "v1|267854559567|0",
+  "referencia": "WA503851",
+  "mercado": {
+   "n": 3,
+   "p25": 14995,
+   "mediana": 17890
+  },
+  "triage": {
+   "modelo": "Cartier Tortue grande con bisel y lunetas de diamantes, oro blanco, esfera plateada con números romanos y correa de cocodrilo negra",
+   "referencia": "WA503851 (según el título; la foto no permite confirmarla, y \"2497\" parece ser otra referencia o generación)",
+   "precio_justo_usd": 17000,
+   "interesante": false,
+   "nota": "El precio está cerca del umbral del 15 %, pero el título mezcla referencias (WA503851 y 2497) y no se puede verificar la generación ni la autenticidad, así que no lo considero una oportunidad clara."
+  },
+  "motivo": "triage: El precio está cerca del umbral del 15 %, pero el título mezcla referencias (WA503851 y 2497) y no se puede verificar la generación ni la autenticidad, así que no lo considero una oportunidad clara. (justo 17000)"
+ },
+ {
+  "fecha": "2026-11-25T19:15:14.927009+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay Pro Automatic on bracelet",
+  "total": 3100.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227632138559",
+  "item_id": "v1|227632138559|0",
+  "triage": {
+   "modelo": "Tudor Black Bay Pro (caja de acero, brazalete, con caja original)",
+   "referencia": "79470 (aprox.; no confirmable con certeza en la foto)",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "Precio pedido de US$3100 queda solo ~9% por debajo de un valor estimado conservador; no alcanza el umbral del 15 % y la referencia exacta no se distingue en la foto."
+  },
+  "motivo": "triage: Precio pedido de US$3100 queda solo ~9% por debajo de un valor estimado conservador; no alcanza el umbral del 15 % y la referencia exacta no se distingue en la foto. (justo 3400)"
  }
 ]
