@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-22T20:27:47.627625+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay GMT Pepsi 41mm 79830RB 2024 Full Set",
-  "total": 3530.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920172686685",
-  "item_id": "v1|920172686685|0",
-  "referencia": "79830RB",
-  "mercado": {
-   "n": 57,
-   "p25": 3750,
-   "mediana": 3960
-  },
-  "ratio_mercado": 0.941,
-  "motivo": "precio normal (94 % del cuartil bajo de 79830RB)"
- },
- {
-  "fecha": "2026-11-22T20:57:57.145673+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 58 GMT Coke 39mm 2024 Ref. 7939G1A0NRU Full Set",
-  "total": 4230.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920172782174",
-  "item_id": "v1|920172782174|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 'Coke' 39mm (bisel negro/rojo, brazalete de acero)",
-   "referencia": "7939G1A0NRU (no verificable en la foto)",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Precio pedido de US$4230 supera el retail y el mercado secundario de este modelo; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$4230 supera el retail y el mercado secundario de este modelo; no es una oportunidad. (justo 3500)"
- },
- {
   "fecha": "2026-11-22T21:12:57.693850+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Submariner Date 16613 40mm 18K Gold & Steel L-Serial Circa 1989 Watch Only",
@@ -10839,5 +10805,39 @@
    "nota": "Precio pedido de US$4550 con envío está por encima del valor de venta cerrada estimado para pieza usada en buen estado; no cumple el umbral de 15 % por debajo."
   },
   "motivo": "triage: Precio pedido de US$4550 con envío está por encima del valor de venta cerrada estimado para pieza usada en buen estado; no cumple el umbral de 15 % por debajo. (justo 3900)"
+ },
+ {
+  "fecha": "2026-11-25T04:29:41.624597+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Large 18k Yellow Gold 40mm Box & Papers - WGSA0029",
+  "total": 32470.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257870947256",
+  "item_id": "v1|257870947256|0",
+  "referencia": "WGSA0029",
+  "mercado": {
+   "n": 6,
+   "p25": 33000,
+   "mediana": 35949
+  },
+  "ratio_mercado": 0.984,
+  "motivo": "precio normal (98 % del cuartil bajo de WGSA0029)"
+ },
+ {
+  "fecha": "2026-11-25T04:29:41.624597+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 41 METAS M7941A1A0RU-0003 | June 2026 Full Set",
+  "total": 4250.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900119657932",
+  "item_id": "v1|900119657932|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 41 (bisel burdeos, esfera negra, brazalete Jubilee)",
+   "referencia": "M7941A1A0RU-0003",
+   "precio_justo_usd": 3700,
+   "interesante": false,
+   "nota": "El precio pedido de US$4250 con envío está cerca del retail actual para esta referencia y por encima del mercado gris con caja y papeles; no hay descuento de al menos 15 %."
+  },
+  "motivo": "triage: El precio pedido de US$4250 con envío está cerca del retail actual para esta referencia y por encima del mercado gris con caja y papeles; no hay descuento de al menos 15 %. (justo 3700)"
  }
 ]
