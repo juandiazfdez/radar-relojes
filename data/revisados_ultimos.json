@@ -1,91 +1,5 @@
 [
  {
-  "fecha": "2026-11-23T15:58:31.943177+00:00",
-  "marca": "Rolex",
-  "titulo": "2025 Rolex Datejust 36 36mm Stainless Steel 126234-0029",
-  "total": 14995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880147046206",
-  "item_id": "v1|880147046206|0",
-  "referencia": "126234",
-  "mercado": {
-   "n": 35,
-   "p25": 12990,
-   "mediana": 14170
-  },
-  "ratio_mercado": 1.154,
-  "motivo": "precio normal (115 % del cuartil bajo de 126234)"
- },
- {
-  "fecha": "2026-11-23T16:28:31.792240+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Rotonde de Cartier Astrotourbillon 18k White Gold 47mm W1556204 3307",
-  "total": 40064.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/168882525926",
-  "item_id": "v1|168882525926|0",
-  "referencia": "W1556204",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Rotonde de Cartier Astrotourbillon (oro blanco 18k, 47 mm); la foto no muestra claramente el tourbillón",
-   "referencia": "W1556204",
-   "precio_justo_usd": 75000,
-   "interesante": false,
-   "nota": "Precio muy bajo para un tourbillón de Cartier en oro blanco; la foto no confirma la complicación y el listado parece dudoso, así que no se considera oportunidad sin verificar autenticidad, papeles y pieza exacta."
-  },
-  "motivo": "triage: Precio muy bajo para un tourbillón de Cartier en oro blanco; la foto no confirma la complicación y el listado parece dudoso, así que no se considera oportunidad sin verificar autenticidad, papeles y pieza exacta. (justo 75000)"
- },
- {
-  "fecha": "2026-11-23T16:28:31.792240+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos-Dumont 35mm 18k White Gold W2007051 - 2014",
-  "total": 10785.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/117538143708",
-  "item_id": "v1|117538143708|0",
-  "referencia": "W2007051",
-  "mercado": {
-   "n": 3,
-   "p25": 7100,
-   "mediana": 8995
-  },
-  "triage": {
-   "modelo": "Cartier Santos-Dumont (la foto muestra esfera plateada con números romanos y correa de cocodrilo, que no coincide claramente con el oro blanco del título)",
-   "referencia": "W2007051 (según el título, no verificable en la foto)",
-   "precio_justo_usd": 9800,
-   "interesante": false,
-   "nota": "El título dice oro blanco 18k de 35 mm, pero la foto parece acero y de mayor tamaño, así que el listado puede ser engañoso. Aun tomando el título, US$10,785 con 'seller refurbished' no está al menos 15 % por debajo del valor de venta real."
-  },
-  "motivo": "triage: El título dice oro blanco 18k de 35 mm, pero la foto parece acero y de mayor tamaño, así que el listado puede ser engañoso. Aun tomando el título, US$10,785 con 'seller refurbished' no está al menos 15 % por debajo del valor de venta real. (justo 9800)"
- },
- {
-  "fecha": "2026-11-23T16:43:31.893393+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day Date President 36 12838 Yellow Gold Mint + Warranty",
-  "total": 19900.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940117178130",
-  "item_id": "v1|940117178130|0",
-  "referencia": "12838",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Day-Date 36 oro amarillo, bisel acanalado, esfera champagne, brazalete President",
-   "referencia": "18038/18238 (probable; el título indica 12838, que no coincide con la imagen)",
-   "precio_justo_usd": 22000,
-   "interesante": false,
-   "nota": "La referencia del título no coincide con el bisel acanalado de la foto. Precio pedido unos 10 % por debajo de la estimación, sin llegar al 15 % necesario; verificar referencia, papeles y autenticidad."
-  },
-  "motivo": "triage: La referencia del título no coincide con el bisel acanalado de la foto. Precio pedido unos 10 % por debajo de la estimación, sin llegar al 15 % necesario; verificar referencia, papeles y autenticidad. (justo 22000)"
- },
- {
   "fecha": "2026-11-23T16:43:31.893393+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual Date 15223 34mm F Serial Two-Tone Champagne Box & Papers",
@@ -10855,5 +10769,73 @@
    "nota": "Pelagos 25600TB usado en buen estado sin caja; el precio pedido de US$3400 está en línea con el mercado y no queda 15 % por debajo."
   },
   "motivo": "triage: Pelagos 25600TB usado en buen estado sin caja; el precio pedido de US$3400 está en línea con el mercado y no queda 15 % por debajo. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-25T17:15:04.859323+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31 Dark Grey Diamond Stainless Steel Fluted Oyster",
+  "total": 17495.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800965975417",
+  "item_id": "v1|800965975417|0",
+  "triage": {
+   "modelo": "Rolex Datejust 31 (acero, bisel acanalado, esfera gris oscuro con diamantes)",
+   "referencia": "278274 (probable; confirmar en el caso y el reverso de la caja)",
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de mercado secundario para un Datejust 31 nuevo con caja y papeles; no hay descuento claro."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de mercado secundario para un Datejust 31 nuevo con caja y papeles; no hay descuento claro. (justo 14000)"
+ },
+ {
+  "fecha": "2026-11-25T17:15:04.859323+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Day-Date 36, 18238, Yellow Gold, Silver Dial, President Bracelet",
+  "total": 23055.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/366837852053",
+  "item_id": "v1|366837852053|0",
+  "referencia": "18238",
+  "mercado": {
+   "n": 37,
+   "p25": 15667,
+   "mediana": 20990
+  },
+  "ratio_mercado": 1.472,
+  "motivo": "precio normal (147 % del cuartil bajo de 18238)"
+ },
+ {
+  "fecha": "2026-11-25T17:15:04.859323+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 40mm 116613lb Two-Tone \"Bluesy\" 2018",
+  "total": 14999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147697657660",
+  "item_id": "v1|147697657660|0",
+  "referencia": "116613LB",
+  "mercado": {
+   "n": 66,
+   "p25": 15386,
+   "mediana": 15990
+  },
+  "ratio_mercado": 0.975,
+  "motivo": "precio normal (97 % del cuartil bajo de 116613LB)"
+ },
+ {
+  "fecha": "2026-11-25T17:15:04.859323+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise W50001R2 Large 18K Yellow Gold Watch",
+  "total": 24025.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128216522319",
+  "item_id": "v1|128216522319|0",
+  "triage": {
+   "modelo": "Cartier Tank Française Large en oro amarillo 18K con brazalete integrado",
+   "referencia": "W50001R2",
+   "precio_justo_usd": 15000,
+   "interesante": false,
+   "nota": "Precio pedido de US$24.025 bastante por encima del mercado de venta cerrada para esta referencia en oro amarillo de 18K, incluso con caja y papeles; no parece una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$24.025 bastante por encima del mercado de venta cerrada para esta referencia en oro amarillo de 18K, incluso con caja y papeles; no parece una oportunidad. (justo 15000)"
  }
 ]
