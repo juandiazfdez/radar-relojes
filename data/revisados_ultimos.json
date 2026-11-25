@@ -1,45 +1,5 @@
 [
  {
-  "fecha": "2026-11-23T01:12:57.112482+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank WSTA0010 - Full Set",
-  "total": 5225.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/168878845761",
-  "item_id": "v1|168878845761|0",
-  "referencia": "WSTA0010",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Tank Américaine (esfera azul con subesfera, acero)",
-   "referencia": "WSTA0010 (según el título; no verificable en la foto)",
-   "precio_justo_usd": 4900,
-   "interesante": false,
-   "nota": "Precio pedido de US$5225 supera el estimado de venta cerrada para acero usado con caja y papeles; la referencia no se puede confirmar en la imagen."
-  },
-  "motivo": "triage: Precio pedido de US$5225 supera el estimado de venta cerrada para acero usado con caja y papeles; la referencia no se puede confirmar en la imagen. (justo 4900)"
- },
- {
-  "fecha": "2026-11-23T01:27:57.449231+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex  14k Yellow Ladies Cocktail Watch & Rolex factory service papers.",
-  "total": 4500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128210529213",
-  "item_id": "v1|128210529213|0",
-  "triage": {
-   "modelo": "Rolex Ladies Cocktail de oro amarillo 14k, cuerda manual, esfera plateada (vintage, aprox. años 1960-70)",
-   "referencia": null,
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "Reloj vintage de dama en oro 14k; la imagen es de baja resolución y no permite confirmar la referencia. Con papeles de servicio y estado Good, el precio de venta realista ronda 1.800-2.800 USD, muy por debajo del pedido de 4.500 USD."
-  },
-  "motivo": "triage: Reloj vintage de dama en oro 14k; la imagen es de baja resolución y no permite confirmar la referencia. Con papeles de servicio y estado Good, el precio de venta realista ronda 1.800-2.800 USD, muy por debajo del pedido de 4.500 USD. (justo 2200)"
- },
- {
   "fecha": "2026-11-23T01:42:57.328582+00:00",
   "marca": "Rolex",
   "titulo": "1940's Rolex Bubbleback 14k Gold Watch - Serviced",
@@ -10808,5 +10768,39 @@
   },
   "ratio_mercado": 0.878,
   "motivo": "precio normal (88 % del cuartil bajo de 124270)"
+ },
+ {
+  "fecha": "2026-11-25T13:00:04.904229+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master 16753 Steel & Gold Jubilee Bracelet ",
+  "total": 10900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960241358991",
+  "item_id": "v1|960241358991|0",
+  "referencia": "16753",
+  "mercado": {
+   "n": 20,
+   "p25": 11945,
+   "mediana": 13106
+  },
+  "ratio_mercado": 0.913,
+  "motivo": "precio normal (91 % del cuartil bajo de 16753)"
+ },
+ {
+  "fecha": "2026-11-25T13:00:04.904229+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Bubbleback 2940 WW2 Era Men’s Vintage Wristwatch",
+  "total": 2520.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/860176437362",
+  "item_id": "v1|860176437362|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Bubbleback (WW2 era), según título; la foto no permite confirmarlo",
+   "referencia": "2940 (según título, no verificable en la imagen)",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "La foto no muestra el logo de corona ni el caseback bubble y el dial parece atípico; sin autenticar el modelo y el movimiento, el descuento aparente no es fiable."
+  },
+  "motivo": "triage: La foto no muestra el logo de corona ni el caseback bubble y el dial parece atípico; sin autenticar el modelo y el movimiento, el descuento aparente no es fiable. (justo 3500)"
  }
 ]
