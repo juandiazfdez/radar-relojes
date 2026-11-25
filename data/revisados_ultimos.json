@@ -2,74 +2,6 @@
  {
   "fecha": "2026-11-23T20:58:43.421582+00:00",
   "marca": "Rolex",
-  "titulo": "MINT PAPERS Rolex Platinum President Day Date Meteorite Baguette Diamond 228206",
-  "total": 73722.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287753592350",
-  "item_id": "v1|287753592350|0",
-  "referencia": "228206",
-  "mercado": {
-   "n": 21,
-   "p25": 64895,
-   "mediana": 67000
-  },
-  "ratio_mercado": 1.136,
-  "motivo": "precio normal (114 % del cuartil bajo de 228206)"
- },
- {
-  "fecha": "2026-11-23T20:58:43.421582+00:00",
-  "marca": "Rolex",
-  "titulo": "MINT 2018 PAPERS Rolex 116613LB Submariner Blue Ceramic Two Tone Yellow Gold",
-  "total": 15445.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287753592125",
-  "item_id": "v1|287753592125|0",
-  "referencia": "116613LB",
-  "mercado": {
-   "n": 59,
-   "p25": 15400,
-   "mediana": 15995
-  },
-  "ratio_mercado": 1.003,
-  "motivo": "precio normal (100 % del cuartil bajo de 116613LB)"
- },
- {
-  "fecha": "2026-11-23T20:58:43.421582+00:00",
-  "marca": "Rolex",
-  "titulo": "2009 MINT Rolex DateJust 116233 Jubilee Two Tone Gold Steel White Stick 36mm",
-  "total": 10395.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307297932608",
-  "item_id": "v1|307297932608|0",
-  "referencia": "116233",
-  "mercado": {
-   "n": 59,
-   "p25": 10950,
-   "mediana": 11270
-  },
-  "ratio_mercado": 0.949,
-  "motivo": "precio normal (95 % del cuartil bajo de 116233)"
- },
- {
-  "fecha": "2026-11-23T20:58:43.421582+00:00",
-  "marca": "Rolex",
-  "titulo": "2022 RSC Papers MINT Rolex 114270 Explorer Black Arabic Steel 36mm Oyster Watch",
-  "total": 7062.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287753591188",
-  "item_id": "v1|287753591188|0",
-  "referencia": "114270",
-  "mercado": {
-   "n": 11,
-   "p25": 7000,
-   "mediana": 7463
-  },
-  "ratio_mercado": 1.009,
-  "motivo": "precio normal (101 % del cuartil bajo de 114270)"
- },
- {
-  "fecha": "2026-11-23T20:58:43.421582+00:00",
-  "marca": "Rolex",
   "titulo": "2013 MINT Rolex Daytona 116523 Chrono Slate Grey Steel Yellow Gold Two Tone",
   "total": 19182.05,
   "condicion": "Pre-owned - Excellent",
@@ -10879,5 +10811,80 @@
   },
   "ratio_mercado": 1.451,
   "motivo": "precio normal (145 % del cuartil bajo de 79470)"
+ },
+ {
+  "fecha": "2026-11-25T22:15:15.183235+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Air King 5500 Vintage  With Original  Rivet Bracelet",
+  "total": 3205.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307301794961",
+  "item_id": "v1|307301794961|0",
+  "referencia": "5500",
+  "mercado": {
+   "n": 21,
+   "p25": 4050,
+   "mediana": 4400
+  },
+  "ratio_mercado": 0.791,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 3000,
+   "riesgo_autenticidad": "medio",
+   "estado": "Vintage con desgaste visible: bisel y caja rayados, brazalete probablemente estirado, sin caja ni papeles"
+  },
+  "ratio_justo": 1.068,
+  "motivo": "precio normal segun revision (107 % del justo 3000)"
+ },
+ {
+  "fecha": "2026-11-25T22:15:15.183235+00:00",
+  "marca": "Rolex",
+  "titulo": "2024 Rolex Datejust 41 Green JUBILEE! FULL SET!",
+  "total": 17300.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/327477018032",
+  "item_id": "v1|327477018032|0",
+  "triage": {
+   "modelo": "Rolex Datejust 41 acero y oro blanco, esfera verde, brazalete Jubilee",
+   "referencia": "126334",
+   "precio_justo_usd": 16000,
+   "interesante": false,
+   "nota": "Bisel acanalado y esfera verde indican 126334 de 2024 con caja y papeles. Precio pedido de 17.300 USD está por encima del rango de venta cerrada, así que no es oportunidad."
+  },
+  "motivo": "triage: Bisel acanalado y esfera verde indican 126334 de 2024 con caja y papeles. Precio pedido de 17.300 USD está por encima del rango de venta cerrada, así que no es oportunidad. (justo 16000)"
+ },
+ {
+  "fecha": "2026-11-25T22:15:15.183235+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 126610LN 41mm Automatic Wristwatch - Box & Papers",
+  "total": 14599.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/137962921765",
+  "item_id": "v1|137962921765|0",
+  "referencia": "126610LN",
+  "mercado": {
+   "n": 87,
+   "p25": 14527,
+   "mediana": 14999
+  },
+  "ratio_mercado": 1.005,
+  "motivo": "precio normal (100 % del cuartil bajo de 126610LN)"
+ },
+ {
+  "fecha": "2026-11-25T22:15:15.183235+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 TUDOR Black Bay Blue Dial/Bezel Steel Oyster Bracelet Box Papers",
+  "total": 3000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227632370338",
+  "item_id": "v1|227632370338|0",
+  "triage": {
+   "modelo": "Tudor Black Bay Blue (esfera y bisel azules, brazalete Oyster de acero)",
+   "referencia": "M79230B (probable, no verificable en la foto)",
+   "precio_justo_usd": 3250,
+   "interesante": false,
+   "nota": "Precio pedido de 3000 USD queda unos 8 % por debajo del valor de venta estimado para un usado excelente con caja y papeles; no alcanza el 15 % de descuento. El año 2026 del título no se puede confirmar desde la foto."
+  },
+  "motivo": "triage: Precio pedido de 3000 USD queda unos 8 % por debajo del valor de venta estimado para un usado excelente con caja y papeles; no alcanza el 15 % de descuento. El año 2026 del título no se puede confirmar desde la foto. (justo 3250)"
  }
 ]
