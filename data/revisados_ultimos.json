@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-22T16:57:48.045126+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Santos Chronograph XL WSSA0017 ADLC Steel 43mm Unpolished Box Card 2021",
-  "total": 7995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/227626399803",
-  "item_id": "v1|227626399803|0",
-  "referencia": "WSSA0017",
-  "mercado": {
-   "n": 13,
-   "p25": 8510,
-   "mediana": 9249
-  },
-  "ratio_mercado": 0.939,
-  "motivo": "precio normal (94 % del cuartil bajo de WSSA0017)"
- },
- {
-  "fecha": "2026-11-22T16:57:48.045126+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Tank Must XL WSTA0053 Automatic Stainless Steel Full Set Box Papers",
   "total": 4900.0,
   "condicion": "New with box and papers",
@@ -10852,5 +10835,28 @@
   },
   "ratio_mercado": 5.889,
   "motivo": "precio normal (589 % del cuartil bajo de 16030)"
+ },
+ {
+  "fecha": "2026-11-25T02:29:41.529815+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 116189 18K White Gold Datejust 36mm Watch Factory Box And Papers",
+  "total": 26500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960239907478",
+  "item_id": "v1|960239907478|0",
+  "referencia": "116189",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 36mm oro blanco 18K, esfera chocolate, bisel con diamantes (según se ve en la foto)",
+   "referencia": "116189",
+   "precio_justo_usd": 20000,
+   "interesante": false,
+   "nota": "Precio pedido de US$26,500 supera el valor de venta cerrada de esta referencia con caja y papeles en estado Good; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$26,500 supera el valor de venta cerrada de esta referencia con caja y papeles en estado Good; no es una oportunidad. (justo 20000)"
  }
 ]
