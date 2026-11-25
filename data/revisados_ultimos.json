@@ -1,97 +1,5 @@
 [
  {
-  "fecha": "2026-11-23T12:28:21.263367+00:00",
-  "marca": "Rolex",
-  "titulo": "NEW Rolex Datejust 126300 Silver Oyster Bracelet FULL SET 11/2026",
-  "total": 12600.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/366832303256",
-  "item_id": "v1|366832303256|0",
-  "referencia": "126300",
-  "mercado": {
-   "n": 46,
-   "p25": 11925,
-   "mediana": 12142
-  },
-  "ratio_mercado": 1.057,
-  "motivo": "precio normal (106 % del cuartil bajo de 126300)"
- },
- {
-  "fecha": "2026-11-23T12:43:20.703487+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 40mm 116613LB Bluesy 2016",
-  "total": 15250.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147694187643",
-  "item_id": "v1|147694187643|0",
-  "referencia": "116613LB",
-  "mercado": {
-   "n": 59,
-   "p25": 15400,
-   "mediana": 15995
-  },
-  "ratio_mercado": 0.99,
-  "motivo": "precio normal (99 % del cuartil bajo de 116613LB)"
- },
- {
-  "fecha": "2026-11-23T13:13:21.345840+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36mm 116233 White Roman Fluted Jubilee 1995",
-  "total": 7750.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147694264624",
-  "item_id": "v1|147694264624|0",
-  "referencia": "116233",
-  "mercado": {
-   "n": 59,
-   "p25": 10950,
-   "mediana": 11270
-  },
-  "ratio_mercado": 0.708,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 6200,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Aspecto muy bueno, sin pulir en exceso y sin daños visibles. Falta foto del movimiento y la caja Rolex no aparece."
-  },
-  "ratio_justo": 1.25,
-  "motivo": "precio normal segun revision (125 % del justo 6200)"
- },
- {
-  "fecha": "2026-11-23T13:13:21.345840+00:00",
-  "marca": "Tudor",
-  "titulo": "2024 Tudor Black Bay 58 GMT Coke 7939G1A0NRU-0002 FULL SET Very Good Condition",
-  "total": 4045.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/366832376260",
-  "item_id": "v1|366832376260|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 GMT Coke (39 mm, acero, bisel rojo/negro)",
-   "referencia": "M7939G1A0NRU-0002",
-   "precio_justo_usd": 3900,
-   "interesante": false,
-   "nota": "Modelo reciente de 2024 con caja y papeles; el precio pedido de US$4045 está por encima de la estimación de venta real, así que no hay descuento claro."
-  },
-  "motivo": "triage: Modelo reciente de 2024 con caja y papeles; el precio pedido de US$4045 está por encima de la estimación de venta real, así que no hay descuento claro. (justo 3900)"
- },
- {
-  "fecha": "2026-11-23T13:43:21.307454+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay 79230N 2021 Box/Papers",
-  "total": 3525.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307297350660",
-  "item_id": "v1|307297350660|0",
-  "referencia": "79230N",
-  "mercado": {
-   "n": 18,
-   "p25": 3395,
-   "mediana": 3597
-  },
-  "ratio_mercado": 1.038,
-  "motivo": "precio normal (104 % del cuartil bajo de 79230N)"
- },
- {
   "fecha": "2026-11-23T13:43:21.307454+00:00",
   "marca": "Tudor",
   "titulo": "Tudor 57000",
@@ -10820,5 +10728,96 @@
    "nota": "Panthère mediana de acero con brazalete integrado; el precio pedido de US$4,955 con envío queda cerca del mercado de segunda mano, no 15 % por debajo, así que no es una oportunidad clara."
   },
   "motivo": "triage: Panthère mediana de acero con brazalete integrado; el precio pedido de US$4,955 con envío queda cerca del mercado de segunda mano, no 15 % por debajo, así que no es una oportunidad clara. (justo 4500)"
+ },
+ {
+  "fecha": "2026-11-25T16:00:05.273890+00:00",
+  "marca": "Rolex",
+  "titulo": "1954 Vintage GENTS ROLEX Oyster Perpetual 6586 Stainless 34MM Fantasie Scalloped",
+  "total": 5999.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/366837742843",
+  "item_id": "v1|366837742843|0",
+  "referencia": "6586",
+  "mercado": {
+   "n": 1,
+   "p25": 8825,
+   "mediana": 8825
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual (acero, 34 mm, esfera crema/champán con marcadores dorados, años 1950)",
+   "referencia": "6586 (según el título; la imagen no permite confirmarla con certeza)",
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Precio pedido de US$5999 muy por encima del valor de venta cerrada para estado Fair sin caja ni papeles. Esfera y bisel pueden tener restauración o alteración, lo que reduce el valor."
+  },
+  "motivo": "triage: Precio pedido de US$5999 muy por encima del valor de venta cerrada para estado Fair sin caja ni papeles. Esfera y bisel pueden tener restauración o alteración, lo que reduce el valor. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-25T16:00:05.273890+00:00",
+  "marca": "Rolex",
+  "titulo": "Genuine Rolex WAB Stretch Rivets SS Bracelet 18mm Straight Ends *Christmas Sales",
+  "total": 2115.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880152287188",
+  "item_id": "v1|880152287188|0",
+  "triage": {
+   "modelo": "Pulsera Rolex de acero de 18 mm con eslabones remachados (tipo WAB), sin reloj",
+   "referencia": null,
+   "precio_justo_usd": 450,
+   "interesante": false,
+   "nota": "Solo pulsera usada, no reloj completo. Precio muy superior al de mercado y la foto parece de stock con marca de agua de otro vendedor."
+  },
+  "motivo": "triage: Solo pulsera usada, no reloj completo. Precio muy superior al de mercado y la foto parece de stock con marca de agua de otro vendedor. (justo 450)"
+ },
+ {
+  "fecha": "2026-11-25T16:00:05.273890+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 126300 2026",
+  "total": 11750.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407385941725",
+  "item_id": "v1|407385941725|0",
+  "referencia": "126300",
+  "mercado": {
+   "n": 16,
+   "p25": 10092,
+   "mediana": 10444
+  },
+  "ratio_mercado": 1.164,
+  "motivo": "precio normal (116 % del cuartil bajo de 126300)"
+ },
+ {
+  "fecha": "2026-11-25T16:00:05.273890+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Pelagos 42mm Blue Titanium 25600TB Full Set 2023 Warranty Original Owner",
+  "total": 4395.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336916424823",
+  "item_id": "v1|336916424823|0",
+  "referencia": "25600TB",
+  "mercado": {
+   "n": 5,
+   "p25": 4550,
+   "mediana": 4600
+  },
+  "ratio_mercado": 0.966,
+  "motivo": "precio normal (97 % del cuartil bajo de 25600TB)"
+ },
+ {
+  "fecha": "2026-11-25T16:00:05.273890+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Chrono 79360N Reverse Panda 41mm Steel Chronograph Full Set",
+  "total": 4250.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198824193268",
+  "item_id": "v1|198824193268|0",
+  "referencia": "79360N",
+  "mercado": {
+   "n": 58,
+   "p25": 4500,
+   "mediana": 4845
+  },
+  "ratio_mercado": 0.944,
+  "motivo": "precio normal (94 % del cuartil bajo de 79360N)"
  }
 ]
