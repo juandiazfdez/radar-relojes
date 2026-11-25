@@ -1,130 +1,5 @@
 [
  {
-  "fecha": "2026-11-23T18:28:32.609021+00:00",
-  "marca": "Rolex",
-  "titulo": "42205: Rolex Datejust 36, Ref. 116234, Box and Card 2016",
-  "total": 10200.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237201840116",
-  "item_id": "v1|237201840116|0",
-  "referencia": "116234",
-  "mercado": {
-   "n": 53,
-   "p25": 9000,
-   "mediana": 9647
-  },
-  "ratio_mercado": 1.133,
-  "motivo": "precio normal (113 % del cuartil bajo de 116234)"
- },
- {
-  "fecha": "2026-11-23T18:28:32.609021+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oystel Perpetual Tiffany blue 126000 Box & 2023 card. Steel 36mm",
-  "total": 14350.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327472536578",
-  "item_id": "v1|327472536578|0",
-  "referencia": "126000",
-  "mercado": {
-   "n": 35,
-   "p25": 11812,
-   "mediana": 12485
-  },
-  "ratio_mercado": 1.215,
-  "motivo": "precio normal (121 % del cuartil bajo de 126000)"
- },
- {
-  "fecha": "2026-11-23T18:28:32.609021+00:00",
-  "marca": "Rolex",
-  "titulo": "42189: Rolex Datejust 36, Ref. 16233, Circa 1993",
-  "total": 7800.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237201838004",
-  "item_id": "v1|237201838004|0",
-  "referencia": "16233",
-  "mercado": {
-   "n": 23,
-   "p25": 5399,
-   "mediana": 6000
-  },
-  "ratio_mercado": 1.445,
-  "motivo": "precio normal (144 % del cuartil bajo de 16233)"
- },
- {
-  "fecha": "2026-11-23T18:28:32.609021+00:00",
-  "marca": "Rolex",
-  "titulo": "42179: Rolex Mid-Size Datejust 31mm, Ref. 68273, Circa 1995",
-  "total": 8400.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237201836250",
-  "item_id": "v1|237201836250|0",
-  "referencia": "68273",
-  "mercado": {
-   "n": 41,
-   "p25": 8395,
-   "mediana": 8995
-  },
-  "ratio_mercado": 1.001,
-  "motivo": "precio normal (100 % del cuartil bajo de 68273)"
- },
- {
-  "fecha": "2026-11-23T18:28:32.609021+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Women’s 177200 ",
-  "total": 5050.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267852115787",
-  "item_id": "v1|267852115787|0",
-  "referencia": "177200",
-  "mercado": {
-   "n": 12,
-   "p25": 7700,
-   "mediana": 8499
-  },
-  "ratio_mercado": 0.656,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 4300,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Bueno, con rayones visibles en cristal y caja pulida; solo reloj, sin caja ni papeles"
-  },
-  "motivo": "Claude descarto: El precio de US$5,050 está por encima del valor real de cierre. Un 177200 de 31 mm, solo reloj y con desgaste, se vende hoy entre US$4,000 y 4,600. La mediana de US$8,499 de los comparables son precios pedidos inflados y no sirven de referencia.; Está incompleto: sin caja, sin papeles y sin garantía de autenticidad. Tampoco acepta devoluciones. Eso baja su valor frente a los ejemplares completos."
- },
- {
-  "fecha": "2026-11-23T18:28:32.609021+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 58 39mm Black Dial/Bezel Automatic 200m - $5350 Retail",
-  "total": 4000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/117538311797",
-  "item_id": "v1|117538311797|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 39mm (esfera y bisel negros, brazalete de acero)",
-   "referencia": "M79030N (probable, según el título; no se puede confirmar solo con la foto)",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "El precio pedido de US$4000 está por encima del valor de venta estimado. El 'retail' de US$5350 del título no coincide con el MSRP real de este modelo, así que el listado puede ser engañoso."
-  },
-  "motivo": "triage: El precio pedido de US$4000 está por encima del valor de venta estimado. El 'retail' de US$5350 del título no coincide con el MSRP real de este modelo, así que el listado puede ser engañoso. (justo 3200)"
- },
- {
-  "fecha": "2026-11-23T18:43:32.526221+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner 5513 / 40mm / Stainless Steel / Watch Only",
-  "total": 10985.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227628197089",
-  "item_id": "v1|227628197089|0",
-  "referencia": "5513",
-  "mercado": {
-   "n": 35,
-   "p25": 11750,
-   "mediana": 13750
-  },
-  "ratio_mercado": 0.935,
-  "motivo": "precio normal (93 % del cuartil bajo de 5513)"
- },
- {
   "fecha": "2026-11-23T18:43:32.526221+00:00",
   "marca": "Rolex",
   "titulo": "1972 Rolex Datejust 1601 Oyster Perpetual 36mm Watch 14K & Stainless",
@@ -10824,5 +10699,136 @@
   },
   "ratio_mercado": 0.962,
   "motivo": "precio normal (96 % del cuartil bajo de 79030N)"
+ },
+ {
+  "fecha": "2026-11-25T18:45:15.346849+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX -  GMT MASTER II BAT MAN REF 116710BLNR",
+  "total": 15698.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407388700158",
+  "item_id": "v1|407388700158|0",
+  "referencia": "116710BLNR",
+  "mercado": {
+   "n": 44,
+   "p25": 15998,
+   "mediana": 16850
+  },
+  "ratio_mercado": 0.981,
+  "motivo": "precio normal (98 % del cuartil bajo de 116710BLNR)"
+ },
+ {
+  "fecha": "2026-11-25T18:45:15.346849+00:00",
+  "marca": "Rolex",
+  "titulo": "Original Rolex 1530 / 1570 8106 BALANCE COMPLETE with Hairspring Swiss Made",
+  "total": 419.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840165543408",
+  "item_id": "v1|840165543408|0",
+  "triage": {
+   "modelo": "Balancín completo (balance complete con espiral) para calibre Rolex 1530/1570; pieza de repuesto, no reloj completo",
+   "referencia": null,
+   "precio_justo_usd": 100,
+   "interesante": false,
+   "nota": "La foto muestra solo un balancín suelto, no un reloj; el precio de US$420 es alto para una pieza de repuesto usada, y la referencia 8106 no es verificable en la imagen."
+  },
+  "motivo": "triage: La foto muestra solo un balancín suelto, no un reloj; el precio de US$420 es alto para una pieza de repuesto usada, y la referencia 8106 no es verificable en la imagen. (justo 100)"
+ },
+ {
+  "fecha": "2026-11-25T18:45:15.346849+00:00",
+  "marca": "Rolex",
+  "titulo": "Original Rolex 2130 / 2135 432 BALANCE COMPLETE Swiss Made",
+  "total": 299.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840165532572",
+  "item_id": "v1|840165532572|0",
+  "triage": {
+   "modelo": "Balancín completo (balance complete) para calibre Rolex 2130/2135, con espiral 432",
+   "referencia": null,
+   "precio_justo_usd": 180,
+   "interesante": false,
+   "nota": "Es una pieza de repuesto suelta, no un reloj. Precio de mercado de piezas usadas genuinas; no cumple el criterio de oportunidad."
+  },
+  "motivo": "triage: Es una pieza de repuesto suelta, no un reloj. Precio de mercado de piezas usadas genuinas; no cumple el criterio de oportunidad. (justo 180)"
+ },
+ {
+  "fecha": "2026-11-25T18:45:15.346849+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 34 124200",
+  "total": 7499.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/336916571557",
+  "item_id": "v1|336916571557|0",
+  "referencia": "124200",
+  "mercado": {
+   "n": 8,
+   "p25": 7299,
+   "mediana": 7572
+  },
+  "ratio_mercado": 1.027,
+  "motivo": "precio normal (103 % del cuartil bajo de 124200)"
+ },
+ {
+  "fecha": "2026-11-25T18:45:15.346849+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II Pepsi 16710T 40mm 2004 Stainless Steel Watch Box Papers",
+  "total": 14999.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257871964674",
+  "item_id": "v1|257871964674|0",
+  "referencia": "16710T",
+  "mercado": {
+   "n": 4,
+   "p25": 14750,
+   "mediana": 14822
+  },
+  "triage": {
+   "modelo": "Rolex GMT-Master II 'Pepsi' (bisel rojo/azul, acero, Oyster)",
+   "referencia": "16710T",
+   "precio_justo_usd": 12000,
+   "interesante": false,
+   "nota": "Ref. 16710T de 2004 con caja y papeles, bisel Pepsi de aluminio; se vende a unos 11.500-13.000 USD. El precio pedido de 15.000 USD está muy por encima del mercado."
+  },
+  "motivo": "triage: Ref. 16710T de 2004 con caja y papeles, bisel Pepsi de aluminio; se vende a unos 11.500-13.000 USD. El precio pedido de 15.000 USD está muy por encima del mercado. (justo 12000)"
+ },
+ {
+  "fecha": "2026-11-25T18:45:15.346849+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II Coke 16710T 40mm Stainless Steel Watch Box Papers",
+  "total": 14999.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257871964675",
+  "item_id": "v1|257871964675|0",
+  "referencia": "16710T",
+  "mercado": {
+   "n": 4,
+   "p25": 14750,
+   "mediana": 14822
+  },
+  "triage": {
+   "modelo": "Rolex GMT-Master II 'Coke' (bisel rojo/negro), acero, 40 mm",
+   "referencia": "16710T",
+   "precio_justo_usd": 11000,
+   "interesante": false,
+   "nota": "Precio pedido de US$15.000 está muy por encima del rango de venta cerrada (~US$9.000-12.000) para la 16710 Coke en acero con caja y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$15.000 está muy por encima del rango de venta cerrada (~US$9.000-12.000) para la 16710 Coke en acero con caja y papeles. (justo 11000)"
+ },
+ {
+  "fecha": "2026-11-25T18:45:15.346849+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Chronograph \"Panda\" 41mm Steel Mens Watch | 79360N | Full Set",
+  "total": 4370.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800966147776",
+  "item_id": "v1|800966147776|0",
+  "referencia": "79360N",
+  "mercado": {
+   "n": 58,
+   "p25": 4500,
+   "mediana": 4845
+  },
+  "ratio_mercado": 0.971,
+  "motivo": "precio normal (97 % del cuartil bajo de 79360N)"
  }
 ]
