@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-11-22T19:57:48.270682+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 Tudor 1926 Luna 39mm Stainless Steel M91560-0003 - Unworn Full Set",
-  "total": 2695.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/366830606495",
-  "item_id": "v1|366830606495|0",
-  "referencia": "M91560-0003",
-  "mercado": {
-   "n": 4,
-   "p25": 2710,
-   "mediana": 2720
-  },
-  "triage": {
-   "modelo": "Tudor 1926 Luna (fase lunar), esfera negra, brazalete Jubilee de acero, 39 mm",
-   "referencia": "M91560-0003",
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "Precio pedido de US$2695 está por encima del rango de reventa estimado para un 1926 Luna nuevo con caja y papeles. El listado contradice la condición: dice 'Unworn' pero marca 'Pre-owned - Excellent'. Verificar."
-  },
-  "motivo": "triage: Precio pedido de US$2695 está por encima del rango de reventa estimado para un 1926 Luna nuevo con caja y papeles. El listado contradice la condición: dice 'Unworn' pero marca 'Pre-owned - Excellent'. Verificar. (justo 2600)"
- },
- {
   "fecha": "2026-11-22T20:12:48.138056+00:00",
   "marca": "Rolex",
   "titulo": "Mens Rolex Submariner 18k Yellow Gold Stainless Steel Watch Black Date Sub 16613",
@@ -10845,5 +10822,22 @@
   },
   "ratio_mercado": 1.03,
   "motivo": "precio normal (103 % del cuartil bajo de WGSA0029)"
+ },
+ {
+  "fecha": "2026-11-25T03:59:42.373997+00:00",
+  "marca": "Rolex",
+  "titulo": "Authentic estate stainless-steel Sea-Dweller Deepsea Rolex wristwatch",
+  "total": 9045.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287756932093",
+  "item_id": "v1|287756932093|0",
+  "triage": {
+   "modelo": "Rolex Sea-Dweller Deepsea",
+   "referencia": "126660",
+   "precio_justo_usd": 15500,
+   "interesante": false,
+   "nota": "Precio ~40% por debajo del mercado para un Deepsea 126660; descuento tan grande en un Rolex sugiere replica o listado enganoso. Verificar autenticidad antes de cualquier oferta."
+  },
+  "motivo": "triage: Precio ~40% por debajo del mercado para un Deepsea 126660; descuento tan grande en un Rolex sugiere replica o listado enganoso. Verificar autenticidad antes de cualquier oferta. (justo 15500)"
  }
 ]
