@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-24T03:43:52.988167+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 36 Turquoise 126000 Stainless Steel with Box & Papers",
-  "total": 16295.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/820391050529",
-  "item_id": "v1|820391050529|0",
-  "referencia": "126000",
-  "mercado": {
-   "n": 38,
-   "p25": 11812,
-   "mediana": 12492
-  },
-  "ratio_mercado": 1.38,
-  "motivo": "precio normal (138 % del cuartil bajo de 126000)"
- },
- {
-  "fecha": "2026-11-24T03:43:52.988167+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust 41mm jubilee two tone",
   "total": 19000.0,
   "condicion": "Pre-owned - Good",
@@ -10917,5 +10900,22 @@
   },
   "ratio_mercado": 1.178,
   "motivo": "precio normal (118 % del cuartil bajo de 16613)"
+ },
+ {
+  "fecha": "2026-11-26T13:30:45.043303+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise Quartz 2001 Serviced 2022 Complete Collector Level Set",
+  "total": 3947.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147699042019",
+  "item_id": "v1|147699042019|0",
+  "triage": {
+   "modelo": "Cartier Tank Française Chronograph (acero, cuarzo, esfera plateada)",
+   "referencia": "W51001Q3 (probable)",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Cuarzo de acero con cronógrafo; con caja, papeles y servicio 2022 se vende en torno a US$2.800-3.200, y el precio pedido de US$3.947 está por encima de ese rango."
+  },
+  "motivo": "triage: Cuarzo de acero con cronógrafo; con caja, papeles y servicio 2022 se vende en torno a US$2.800-3.200, y el precio pedido de US$3.947 está por encima de ese rango. (justo 3000)"
  }
 ]
