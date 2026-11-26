@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-24T02:13:52.847438+00:00",
-  "marca": "Rolex",
-  "titulo": "Renewed Rolex Deepsea, 136660, Steel, D-Blue Dial, JC Oyster Bracelet",
-  "total": 19760.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/206723761034",
-  "item_id": "v1|206723761034|0",
-  "referencia": "136660",
-  "mercado": {
-   "n": 23,
-   "p25": 17495,
-   "mediana": 17999
-  },
-  "ratio_mercado": 1.129,
-  "motivo": "precio normal (113 % del cuartil bajo de 136660)"
- },
- {
-  "fecha": "2026-11-24T02:13:52.847438+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR PELAGOS FXD MN Blue 25707B/23 FULL SET Dec 2023",
   "total": 3599.99,
@@ -10919,5 +10902,22 @@
    "nota": "Precio pedido de US$4720 supera claramente el valor de venta cerrada de esta referencia con caja y papeles; no es una oportunidad."
   },
   "motivo": "triage: Precio pedido de US$4720 supera claramente el valor de venta cerrada de esta referencia con caja y papeles; no es una oportunidad. (justo 3600)"
+ },
+ {
+  "fecha": "2026-11-26T08:45:34.718359+00:00",
+  "marca": "Rolex",
+  "titulo": "1945 Retro Rolex Precision 18K White Gold Platinum Diamond Ladies Watch 46.4g",
+  "total": 9535.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137964125294",
+  "item_id": "v1|137964125294|0",
+  "triage": {
+   "modelo": "Rolex Precision (dama, vintage, caja rectangular con brazalete ornamentado)",
+   "referencia": null,
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "Reloj de dama vintage de oro blanco de 18K con brazalete pesado; el valor depende sobre todo del peso en metal y de los diamantes, que no se distinguen en la foto. Precio pedido por encima de la estimación."
+  },
+  "motivo": "triage: Reloj de dama vintage de oro blanco de 18K con brazalete pesado; el valor depende sobre todo del peso en metal y de los diamantes, que no se distinguen en la foto. Precio pedido por encima de la estimación. (justo 6500)"
  }
 ]
