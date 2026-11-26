@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T01:13:42.932745+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panther Small 86691",
-  "total": 18970.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407384504345",
-  "item_id": "v1|407384504345|0",
-  "triage": {
-   "modelo": "Cartier Panthère Small (cuarzo, oro amarillo 18k, brazalete de eslabones, esfera blanca)",
-   "referencia": null,
-   "precio_justo_usd": 8000,
-   "interesante": false,
-   "nota": "El precio pedido (US$18.970) supera mucho el valor de mercado; la referencia 86691 del título no se puede verificar en la foto."
-  },
-  "motivo": "triage: El precio pedido (US$18.970) supera mucho el valor de mercado; la referencia 86691 del título no se puede verificar en la foto. (justo 8000)"
- },
- {
-  "fecha": "2026-11-24T01:28:53.614478+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date 36, 128345RBR, President Bracelet, Eisenkiesel Diamond Roman D...",
-  "total": 80857.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/366833693212",
-  "item_id": "v1|366833693212|0",
-  "referencia": "128345RBR",
-  "mercado": {
-   "n": 5,
-   "p25": 70000,
-   "mediana": 100000
-  },
-  "ratio_mercado": 1.155,
-  "motivo": "precio normal (116 % del cuartil bajo de 128345RBR)"
- },
- {
-  "fecha": "2026-11-24T01:28:53.614478+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date 36, President Bracelet, Diamond-Paved Dial, Rose Gold, 128345RBR",
-  "total": 118393.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/206723709748",
-  "item_id": "v1|206723709748|0",
-  "referencia": "128345RBR",
-  "mercado": {
-   "n": 5,
-   "p25": 70000,
-   "mediana": 100000
-  },
-  "ratio_mercado": 1.691,
-  "motivo": "precio normal (169 % del cuartil bajo de 128345RBR)"
- },
- {
   "fecha": "2026-11-24T01:28:53.614478+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Explorer 124270-0001 Pre-owned Box & Papers 2021",
@@ -10901,5 +10850,68 @@
   },
   "ratio_mercado": 0.959,
   "motivo": "precio normal (96 % del cuartil bajo de M79360N-0002)"
+ },
+ {
+  "fecha": "2026-11-26T06:00:34.976166+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II Batgirl Complete Set- 126710BLNR",
+  "total": 18170.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257872831093",
+  "item_id": "v1|257872831093|0",
+  "referencia": "126710BLNR",
+  "mercado": {
+   "n": 73,
+   "p25": 18149,
+   "mediana": 18950
+  },
+  "ratio_mercado": 1.001,
+  "motivo": "precio normal (100 % del cuartil bajo de 126710BLNR)"
+ },
+ {
+  "fecha": "2026-11-26T06:00:34.976166+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere 2024 Wspn0019 Watch and Papers",
+  "total": 5885.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227632845070",
+  "item_id": "v1|227632845070|0",
+  "referencia": "WSPN0019",
+  "mercado": {
+   "n": 3,
+   "p25": 4600,
+   "mediana": 5000
+  },
+  "triage": {
+   "modelo": "Cartier Panthère de cuarzo, tamaño pequeño, acero con esfera blanca y numerales romanos",
+   "referencia": "WSPN0019",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Pieza de producción actual que se vende por debajo de retail en el mercado gris; el precio pedido de US$5,885 supera ampliamente su valor de mercado."
+  },
+  "motivo": "triage: Pieza de producción actual que se vende por debajo de retail en el mercado gris; el precio pedido de US$5,885 supera ampliamente su valor de mercado. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-26T06:00:34.976166+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 36 79640 Blue Sunburst 36mm Jubilee Bracelet 2024 Full Set ",
+  "total": 3580.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/128217422822",
+  "item_id": "v1|128217422822|0",
+  "referencia": "79640",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 36 (esfera azul sunburst, brazalete Jubilee)",
+   "referencia": "79640",
+   "precio_justo_usd": 3100,
+   "interesante": false,
+   "nota": "Precio pedido de US$3580 supera el valor de venta cerrada estimado para un 2024 usado en excelente estado con set completo; no cumple el descuento del 15 %."
+  },
+  "motivo": "triage: Precio pedido de US$3580 supera el valor de venta cerrada estimado para un 2024 usado en excelente estado con set completo; no cumple el descuento del 15 %. (justo 3100)"
  }
 ]

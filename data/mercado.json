@@ -20065,13 +20065,13 @@
   "n": 0
  },
  "Cartier WSPN0019|usado": {
-  "fecha": "2026-11-08",
+  "fecha": "2026-11-26",
   "consulta": "Cartier WSPN0019",
-  "n": 2,
-  "mediana": 5398,
-  "p25": 5000,
+  "n": 3,
+  "mediana": 5000,
+  "p25": 4600,
   "p75": 5795,
-  "min": 5000,
+  "min": 4600,
   "max": 5795
  },
  "Cartier W2009251|usado": {
@@ -23113,5 +23113,10 @@
   "p75": 37393,
   "min": 26708,
   "max": 37393
+ },
+ "Tudor 79640|usado": {
+  "fecha": "2026-11-26",
+  "consulta": "Tudor 79640",
+  "n": 0
  }
 }
