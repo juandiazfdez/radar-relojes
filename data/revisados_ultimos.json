@@ -1,80 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T16:14:15.737248+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Date Galbee XL Stainless Automatic 2823 W20098D6 W/ Papers",
-  "total": 5495.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267853510183",
-  "item_id": "v1|267853510183|0",
-  "referencia": "W20098D6",
-  "mercado": {
-   "n": 9,
-   "p25": 6900,
-   "mediana": 7280
-  },
-  "ratio_mercado": 0.796,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 4900,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, buen estado; acero con cepillado desigual y algunos rayones leves, brazalete original con estiramiento no visible"
-  },
-  "ratio_justo": 1.121,
-  "motivo": "precio normal segun revision (112 % del justo 4900)"
- },
- {
-  "fecha": "2026-11-24T16:14:15.737248+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ronde Solo de Cartier Quartz Watch Stainless Steel 36",
-  "total": 3625.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128214369801",
-  "item_id": "v1|128214369801|0",
-  "triage": {
-   "modelo": "Cartier Ronde Solo de Cartier 36 mm, cuarzo, acero, esfera plateada con números romanos",
-   "referencia": "W6701011 (probable; verificar número en caja o en el reverso de la caja)",
-   "precio_justo_usd": 2500,
-   "interesante": false,
-   "nota": "Precio pedido de US$3,625 muy por encima del mercado de segunda mano para esta referencia, que suele cerrar cerca de US$2,300-2,800 según estado y papeles."
-  },
-  "motivo": "triage: Precio pedido de US$3,625 muy por encima del mercado de segunda mano para esta referencia, que suele cerrar cerca de US$2,300-2,800 según estado y papeles. (justo 2500)"
- },
- {
-  "fecha": "2026-11-24T16:14:15.737248+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Vintage  35.5mm 7020/0 Stainless Steel Unisex Watch",
-  "total": 5193.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840162229817",
-  "item_id": "v1|840162229817|0",
-  "triage": {
-   "modelo": "Tudor Prince Oysterdate Day-Date vintage (esfera azul, bracelete Jubilee)",
-   "referencia": "7020/0 según el listado; el día en la ventana superior sugiere una 9020/0, hay que verificarla",
-   "precio_justo_usd": 2000,
-   "interesante": false,
-   "nota": "Vintage de acero en estado Good; el precio pedido de US$5193 supera con creces lo que se vende realmente, y la referencia del listado parece inconsistente con la esfera."
-  },
-  "motivo": "triage: Vintage de acero en estado Good; el precio pedido de US$5193 supera con creces lo que se vende realmente, y la referencia del listado parece inconsistente con la esfera. (justo 2000)"
- },
- {
-  "fecha": "2026-11-24T16:29:15.821341+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Automatic Watch Stainless Steel 26",
-  "total": 5005.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128214427255",
-  "item_id": "v1|128214427255|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual 26 mm, acero, esfera negra con indices arabes de color",
-   "referencia": "176200 (probable; no se distingue con certeza en la foto)",
-   "precio_justo_usd": 4800,
-   "interesante": false,
-   "nota": "Precio pedido de US$5005 queda unos 4 % por encima de un estimado conservador; verificar referencia, ano y papeles antes de decidir."
-  },
-  "motivo": "triage: Precio pedido de US$5005 queda unos 4 % por encima de un estimado conservador; verificar referencia, ano y papeles antes de decidir. (justo 4800)"
- },
- {
   "fecha": "2026-11-24T16:29:15.821341+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Daytona Cosmograph 116528 Black 18K Yellow Gold Oyster 40mm Watch",
@@ -10921,5 +10846,73 @@
   },
   "ratio_mercado": 1.286,
   "motivo": "precio normal (129 % del cuartil bajo de 179383)"
+ },
+ {
+  "fecha": "2026-11-26T20:45:53.807552+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Lady-Datejust 26 179173, Steel & Gold, Mother of Pearl Diamond ...",
+  "total": 15967.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/366840737200",
+  "item_id": "v1|366840737200|0",
+  "referencia": "179173",
+  "mercado": {
+   "n": 78,
+   "p25": 9877,
+   "mediana": 10000
+  },
+  "ratio_mercado": 1.617,
+  "motivo": "precio normal (162 % del cuartil bajo de 179173)"
+ },
+ {
+  "fecha": "2026-11-26T20:45:53.807552+00:00",
+  "marca": "Rolex",
+  "titulo": "1973's ROLEX Oyster Perpetual Date 6916 Steel & Gold Automatic Ladies Watch",
+  "total": 3499.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206727349689",
+  "item_id": "v1|206727349689|0",
+  "referencia": "6916",
+  "mercado": {
+   "n": 30,
+   "p25": 3700,
+   "mediana": 3809
+  },
+  "ratio_mercado": 0.946,
+  "motivo": "precio normal (95 % del cuartil bajo de 6916)"
+ },
+ {
+  "fecha": "2026-11-26T20:45:53.807552+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Lady-Datejust, 179173, Steel & Gold, Silver Diamond Dial, Jubil...",
+  "total": 12672.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/366840740502",
+  "item_id": "v1|366840740502|0",
+  "referencia": "179173",
+  "mercado": {
+   "n": 78,
+   "p25": 9877,
+   "mediana": 10000
+  },
+  "ratio_mercado": 1.283,
+  "motivo": "precio normal (128 % del cuartil bajo de 179173)"
+ },
+ {
+  "fecha": "2026-11-26T20:45:53.807552+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Lady-Datejust 26 179173, Steel & Yellow Gold, Silver Diamond Dial, Oyst...",
+  "total": 12573.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/206729199322",
+  "item_id": "v1|206729199322|0",
+  "referencia": "179173",
+  "mercado": {
+   "n": 78,
+   "p25": 9877,
+   "mediana": 10000
+  },
+  "ratio_mercado": 1.273,
+  "motivo": "precio normal (127 % del cuartil bajo de 179173)"
  }
 ]
