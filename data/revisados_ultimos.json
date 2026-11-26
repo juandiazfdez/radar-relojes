@@ -1,54 +1,6 @@
 [
  {
   "fecha": "2026-11-23T22:13:43.104821+00:00",
-  "marca": "Rolex",
-  "titulo": "Lady Rolex Oyster Perpetual Datejust Watch Diamond Dial/Bezel 18K Gold/Stainless",
-  "total": 4400.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800957823921",
-  "item_id": "v1|800957823921|0",
-  "triage": {
-   "modelo": "Rolex Lady Datejust 26 acero y oro amarillo de 18 k, bisel y índices de diamante, esfera champán",
-   "referencia": "179173 (probable; verificar con el número de serie o la referencia grabada entre las cornas)",
-   "precio_justo_usd": 5500,
-   "interesante": true,
-   "nota": "Precio ~20 % bajo el mercado para esta referencia con bisel de diamantes; confirmar autenticidad, diamantes naturales y estado del brazalete antes de comprar."
-  },
-  "referencia": null,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 3900,
-   "riesgo_autenticidad": "medio",
-   "estado": "Aceptable. Bisel reparado y probablemente posmercado, cristal y ciclope con aspecto dudoso, caja con rayones y brazalete usado, sin caja ni papeles."
-  },
-  "ratio_justo": 1.128,
-  "motivo": "precio normal segun revision (113 % del justo 3900)"
- },
- {
-  "fecha": "2026-11-23T22:13:43.104821+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Solo XL WSTA0029 Mens Watch",
-  "total": 4030.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147694812079",
-  "item_id": "v1|147694812079|0",
-  "referencia": "WSTA0029",
-  "mercado": {
-   "n": 2,
-   "p25": 3890,
-   "mediana": 4044
-  },
-  "triage": {
-   "modelo": "Cartier Tank Solo XL (acero, esfera plateada, numerales romanos, correa de piel negra)",
-   "referencia": "WSTA0029",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Precio pedido de US$4030 está por encima del valor de mercado secundario para un Tank Solo XL de acero usado con caja y papeles; no hay descuento."
-  },
-  "motivo": "triage: Precio pedido de US$4030 está por encima del valor de mercado secundario para un Tank Solo XL de acero usado con caja y papeles; no hay descuento. (justo 3200)"
- },
- {
-  "fecha": "2026-11-23T22:13:43.104821+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Watch Black Bay Harrods Special Editon 2022 - Inventory 9494, Ref: 79230G",
   "total": 4699.0,
@@ -10897,5 +10849,45 @@
    "nota": "El precio pedido está unos 20 % por encima de la estimación; además, la foto muestra esfera plateada sin texto rojo, así que hay que verificar la esfera y la autenticidad antes de cualquier compra."
   },
   "motivo": "triage: El precio pedido está unos 20 % por encima de la estimación; además, la foto muestra esfera plateada sin texto rojo, así que hay que verificar la esfera y la autenticidad antes de cualquier compra. (justo 75000)"
+ },
+ {
+  "fecha": "2026-11-26T01:45:25.575393+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex Land-Dweller 40 127334 White Honeycomb Unworn Card",
+  "total": 24750.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940123358729",
+  "item_id": "v1|940123358729|0",
+  "referencia": "127334",
+  "mercado": {
+   "n": 18,
+   "p25": 24750,
+   "mediana": 25495
+  },
+  "ratio_mercado": 1.0,
+  "motivo": "precio normal (100 % del cuartil bajo de 127334)"
+ },
+ {
+  "fecha": "2026-11-26T01:45:25.575393+00:00",
+  "marca": "Cartier",
+  "titulo": "2026 Cartier Santos Large WSSA0089 39.8mm Titanium White Watch Box Papers",
+  "total": 9950.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198825156671",
+  "item_id": "v1|198825156671|0",
+  "referencia": "WSSA0089",
+  "mercado": {
+   "n": 3,
+   "p25": 10995,
+   "mediana": 11408
+  },
+  "triage": {
+   "modelo": "Cartier Santos de Cartier Large, titanio, esfera blanca (automático, 39.8 mm)",
+   "referencia": "WSSA0089 (no verificable en la foto)",
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "El precio pedido de US$9,950 supera el mercado secundario de un Santos Large de titanio actual; la foto no permite confirmar la referencia ni el año '2026'."
+  },
+  "motivo": "triage: El precio pedido de US$9,950 supera el mercado secundario de un Santos Large de titanio actual; la foto no permite confirmar la referencia ni el año '2026'. (justo 7000)"
  }
 ]
