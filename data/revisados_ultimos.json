@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-24T16:44:16.374831+00:00",
   "marca": "Rolex",
-  "titulo": "2000 Rolex Date Blue Index Arabic Steel Jubilee 26mm 79160 Papers/Service Papers",
-  "total": 5250.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/257869974653",
-  "item_id": "v1|257869974653|0",
-  "triage": {
-   "modelo": "Rolex Date (Lady Date) 26 mm, acero, bisel liso, brazalete Jubilee, esfera azul con índices arábigos y ventana de fecha",
-   "referencia": "79160",
-   "precio_justo_usd": 4200,
-   "interesante": false,
-   "nota": "Precio pedido US$5250 queda unos 25 % por encima de lo que se vende este 79160 azul arábigo con papeles; no es oportunidad."
-  },
-  "motivo": "triage: Precio pedido US$5250 queda unos 25 % por encima de lo que se vende este 79160 azul arábigo con papeles; no es oportunidad. (justo 4200)"
- },
- {
-  "fecha": "2026-11-24T16:44:16.374831+00:00",
-  "marca": "Rolex",
-  "titulo": "2020 Rolex Datejust Blue Index Oyster Steel 41mm Watch 126300 Box/Papers/Tag",
-  "total": 11230.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336914641631",
-  "item_id": "v1|336914641631|0",
-  "referencia": "126300",
-  "mercado": {
-   "n": 15,
-   "p25": 10092,
-   "mediana": 10389
-  },
-  "ratio_mercado": 1.113,
-  "motivo": "precio normal (111 % del cuartil bajo de 126300)"
- },
- {
-  "fecha": "2026-11-24T16:44:16.374831+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex NEW Datejust 41mm 126334 MINT GREEN Stainless Steel Jubilee Fluted #RL589",
   "total": 18245.0,
   "condicion": "New with box and papers",
@@ -10908,5 +10874,39 @@
   },
   "ratio_mercado": 1.612,
   "motivo": "precio normal (161 % del cuartil bajo de 18238)"
+ },
+ {
+  "fecha": "2026-11-26T21:30:54.518144+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Datejust Automatic Watch Stainless Steel and Yellow Gold",
+  "total": 13645.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128218897787",
+  "item_id": "v1|128218897787|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 bicolor acero y oro amarillo, bisel acanalado de oro, esfera plateada con índices, brazalete Jubilee",
+   "referencia": "16233 (probable; verificar número en el interior de la caja)",
+   "precio_justo_usd": 8500,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del mercado para esta referencia en estado Good; el valor de venta cerrada ronda US$7.500-9.500 según año, esfera y papeles."
+  },
+  "motivo": "triage: Precio pedido muy por encima del mercado para esta referencia en estado Good; el valor de venta cerrada ronda US$7.500-9.500 según año, esfera y papeles. (justo 8500)"
+ },
+ {
+  "fecha": "2026-11-26T21:30:54.518144+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Submariner Date Automatic Watch Stainless Steel",
+  "total": 20590.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128218897631",
+  "item_id": "v1|128218897631|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Submariner Date (bisel de cerámica negra, esfera negra, brazalete Oyster de acero)",
+   "referencia": "126610LN (probable; podría ser 116610LN)",
+   "precio_justo_usd": 16000,
+   "interesante": false,
+   "nota": "Precio pedido de US$20.590 muy por encima del valor de venta real de esta referencia en EE. UU. (aprox. US$14.000-17.000 según año, caja y papeles), así que no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$20.590 muy por encima del valor de venta real de esta referencia en EE. UU. (aprox. US$14.000-17.000 según año, caja y papeles), así que no es una oportunidad. (justo 16000)"
  }
 ]
