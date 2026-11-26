@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-24T03:28:53.646183+00:00",
   "marca": "Tudor",
-  "titulo": "TUDOR Black Bay 79360N",
-  "total": 4500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/860172099736",
-  "item_id": "v1|860172099736|0",
-  "referencia": "79360N",
-  "mercado": {
-   "n": 57,
-   "p25": 4500,
-   "mediana": 4894
-  },
-  "ratio_mercado": 1.0,
-  "motivo": "precio normal (100 % del cuartil bajo de 79360N)"
- },
- {
-  "fecha": "2026-11-24T03:28:53.646183+00:00",
-  "marca": "Tudor",
   "titulo": "2023 Tudor Black Bay 41mm Stainless Steel M7941A1A0RU-0001 Full Set Warranty",
   "total": 3914.0,
   "condicion": "Pre-owned - Excellent",
@@ -10917,5 +10900,22 @@
    "nota": "Precio pedido de US$4,222 muy por encima del valor de venta cerrada de un Tank Must de acero con caja y papeles; no hay descuento."
   },
   "motivo": "triage: Precio pedido de US$4,222 muy por encima del valor de venta cerrada de un Tank Must de acero con caja y papeles; no hay descuento. (justo 1900)"
+ },
+ {
+  "fecha": "2026-11-26T12:15:45.402300+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona 126515LN Rose Gold Oysterflex - BOX, PAPERS, MINT",
+  "total": 49999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147698893529",
+  "item_id": "v1|147698893529|0",
+  "referencia": "126515LN",
+  "mercado": {
+   "n": 6,
+   "p25": 55000,
+   "mediana": 57324
+  },
+  "ratio_mercado": 0.909,
+  "motivo": "precio normal (91 % del cuartil bajo de 126515LN)"
  }
 ]
