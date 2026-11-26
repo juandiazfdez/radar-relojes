@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-24T01:28:53.614478+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Explorer 124270-0001 Pre-owned Box & Papers 2021",
-  "total": 8950.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137957426910",
-  "item_id": "v1|137957426910|0",
-  "referencia": "124270",
-  "mercado": {
-   "n": 21,
-   "p25": 9165,
-   "mediana": 9500
-  },
-  "ratio_mercado": 0.977,
-  "motivo": "precio normal (98 % del cuartil bajo de 124270)"
- },
- {
-  "fecha": "2026-11-24T01:28:53.614478+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Sea-Dweller 126600-0001 Pre-owned Box & Papers 2023",
   "total": 13160.0,
   "condicion": "Pre-owned - Good",
@@ -10913,5 +10896,22 @@
    "nota": "Precio pedido de US$3580 supera el valor de venta cerrada estimado para un 2024 usado en excelente estado con set completo; no cumple el descuento del 15 %."
   },
   "motivo": "triage: Precio pedido de US$3580 supera el valor de venta cerrada estimado para un 2024 usado en excelente estado con set completo; no cumple el descuento del 15 %. (justo 3100)"
+ },
+ {
+  "fecha": "2026-11-26T06:15:35.371306+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Vintage Submariner 16800 Pumpkin Patina Original Steel Hand Set",
+  "total": 950.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/900122668209",
+  "item_id": "v1|900122668209|0",
+  "referencia": "16800",
+  "mercado": {
+   "n": 13,
+   "p25": 11770,
+   "mediana": 12900
+  },
+  "ratio_mercado": 0.081,
+  "motivo": "demasiado barato (8 % del cuartil bajo): sospechoso"
  }
 ]
