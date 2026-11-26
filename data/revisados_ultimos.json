@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-23T22:28:43.100925+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Bubbleback 2940 WW2 Era Men’s Vintage Watch",
-  "total": 3150.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227628452373",
-  "item_id": "v1|227628452373|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual Bubbleback, caja dorada (no verificable en la foto)",
-   "referencia": "2940 (según el título, no confirmada)",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "La foto no muestra firma ni corona Rolex legibles. Hay que confirmar si la caja es oro macizo o chapado/gold-filled, y el movimiento y la esfera, antes de fiarse del precio."
-  },
-  "motivo": "triage: La foto no muestra firma ni corona Rolex legibles. Hay que confirmar si la caja es oro macizo o chapado/gold-filled, y el movimiento y la esfera, antes de fiarse del precio. (justo 3000)"
- },
- {
-  "fecha": "2026-11-23T22:28:43.100925+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Vintage Mini Baigniore 2368",
-  "total": 22770.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407384239343",
-  "item_id": "v1|407384239343|0",
-  "referencia": "2368",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Baignoire Mini vintage (cuarzo, caja ovalada, brazalete integrado)",
-   "referencia": "2368",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Precio pedido muy superior al de venta real para esta referencia en estado Good; incluso en oro macizo, el valor estimado es bastante menor."
-  },
-  "motivo": "triage: Precio pedido muy superior al de venta real para esta referencia en estado Good; incluso en oro macizo, el valor estimado es bastante menor. (justo 4000)"
- },
- {
-  "fecha": "2026-11-23T22:43:43.340971+00:00",
-  "marca": "Rolex",
-  "titulo": "2001 Rolex Explorer II 16570 40MM Black Oyster Steel Box Paper",
-  "total": 8250.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880147780750",
-  "item_id": "v1|880147780750|0",
-  "referencia": "16570",
-  "mercado": {
-   "n": 40,
-   "p25": 8495,
-   "mediana": 8990
-  },
-  "ratio_mercado": 0.971,
-  "motivo": "precio normal (97 % del cuartil bajo de 16570)"
- },
- {
   "fecha": "2026-11-23T22:43:43.340971+00:00",
   "marca": "Rolex",
   "titulo": "New 2026 Rolex Air King 126900 40MM Black Oyster Steel Box Paper",
@@ -10901,5 +10844,62 @@
    "nota": "Referencia coherente con lo visible, pero el precio pedido (US$22,655) está muy por encima del valor de mercado para un 278241 nuevo con papeles; revisar autenticidad y el listado."
   },
   "motivo": "triage: Referencia coherente con lo visible, pero el precio pedido (US$22,655) está muy por encima del valor de mercado para un 278241 nuevo con papeles; revisar autenticidad y el listado. (justo 12000)"
+ },
+ {
+  "fecha": "2026-11-26T02:30:25.532836+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31, 278271, Steel & Gold, Aubergine Roman VI Diamond, Jubilee ...",
+  "total": 22855.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800967455639",
+  "item_id": "v1|800967455639|0",
+  "referencia": "278271",
+  "mercado": {
+   "n": 19,
+   "p25": 19895,
+   "mediana": 21250
+  },
+  "ratio_mercado": 1.149,
+  "motivo": "precio normal (115 % del cuartil bajo de 278271)"
+ },
+ {
+  "fecha": "2026-11-26T02:30:25.532836+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31, Black Mother of Pearl Diamond, Steel & Yellow Gold, 278243",
+  "total": 21457.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/366838827993",
+  "item_id": "v1|366838827993|0",
+  "referencia": "278243",
+  "mercado": {
+   "n": 1,
+   "p25": 16999,
+   "mediana": 16999
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 31, acero y oro amarillo, bisel liso dorado, esfera chocolate con diamantes, brazalete Jubilee",
+   "referencia": "278243",
+   "precio_justo_usd": 12000,
+   "interesante": false,
+   "nota": "Precio pedido de US$21.457 muy por encima del mercado para este modelo nuevo con caja y papeles; no es oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$21.457 muy por encima del mercado para este modelo nuevo con caja y papeles; no es oportunidad. (justo 12000)"
+ },
+ {
+  "fecha": "2026-11-26T02:30:25.532836+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos  Automatic Two-Tone  Gold tone Steel Watch Date",
+  "total": 1507.03,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/267853933753",
+  "item_id": "v1|267853933753|0",
+  "triage": {
+   "modelo": "Cartier Santos de Cartier (talla grande, automático, dos tonos acero y oro amarillo, esfera blanca)",
+   "referencia": "W2SA0009 (probable)",
+   "precio_justo_usd": 6800,
+   "interesante": false,
+   "nota": "Precio de US$1.507 muy por debajo del mercado para un modelo nuevo con caja y papeles; probable réplica o listado engañoso. Verificar antes de cualquier compra."
+  },
+  "motivo": "triage: Precio de US$1.507 muy por debajo del mercado para un modelo nuevo con caja y papeles; probable réplica o listado engañoso. Verificar antes de cualquier compra. (justo 6800)"
  }
 ]
