@@ -2,46 +2,6 @@
  {
   "fecha": "2026-11-23T22:13:43.104821+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Day-Date II 18k Everose Gold President Automatic Ivory Men's Watch 218235",
-  "total": 39905.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/900116061742",
-  "item_id": "v1|900116061742|0",
-  "referencia": "218235",
-  "mercado": {
-   "n": 15,
-   "p25": 40989,
-   "mediana": 42995
-  },
-  "ratio_mercado": 0.974,
-  "motivo": "precio normal (97 % del cuartil bajo de 218235)"
- },
- {
-  "fecha": "2026-11-23T22:13:43.104821+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Daytona 18k Yellow Gold Oyster Automatic Black Men's Watch 126508",
-  "total": 56605.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940117792197",
-  "item_id": "v1|940117792197|0",
-  "referencia": "126508",
-  "mercado": {
-   "n": 10,
-   "p25": 68677,
-   "mediana": 76282
-  },
-  "ratio_mercado": 0.824,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 43000,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, desgaste visible. La esfera muestra manchas o decoloración marrón cerca de las 12-1 y el cierre tiene rayones."
-  },
-  "motivo": "Claude descarto: La primera foto muestra la esfera con manchas oscuras o marrones irregulares y aspecto moteado entre las 12 y la 1. Puede ser corrosión, humedad, laca dañada o un reflejo. En un reloj de 2024 sería un defecto serio, porque una esfera dañada o reemplazada baja el valor y deja dudas sobre el servicio y la autenticidad de la pieza.; La descripción solo menciona 'hairline scratches' y no habla de la esfera. La condición aparece como 'Good' en un campo y 'Very Good' en otro, y no hay garantía de autenticidad. Esa inconsistencia, junto con el silencio sobre la esfera, es una señal de alerta."
- },
- {
-  "fecha": "2026-11-23T22:13:43.104821+00:00",
-  "marca": "Rolex",
   "titulo": "Lady Rolex Oyster Perpetual Datejust Watch Diamond Dial/Bezel 18K Gold/Stainless",
   "total": 4400.0,
   "condicion": "Pre-owned - Good",
@@ -10891,5 +10851,51 @@
    "nota": "Modelo de acero de producción reciente; el precio pedido de US$4750 está por encima del rango de venta secundaria conservador, sin descuento suficiente. Referencia exacta no verificable en la imagen."
   },
   "motivo": "triage: Modelo de acero de producción reciente; el precio pedido de US$4750 está por encima del rango de venta secundaria conservador, sin descuento suficiente. Referencia exacta no verificable en la imagen. (justo 4300)"
+ },
+ {
+  "fecha": "2026-11-26T01:30:25.354163+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex Datejust 41 126334 Bright Blue Jubilee Unworn Card",
+  "total": 17995.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940123342531",
+  "item_id": "v1|940123342531|0",
+  "referencia": "126334",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 41 (acero y oro blanco, bisel acanalado, esfera azul, brazalete Jubilee)",
+   "referencia": "126334",
+   "precio_justo_usd": 14500,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de mercado secundario estimado para esta referencia nueva; no cumple el umbral de 15 % por debajo."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de mercado secundario estimado para esta referencia nueva; no cumple el umbral de 15 % por debajo. (justo 14500)"
+ },
+ {
+  "fecha": "2026-11-26T01:30:25.354163+00:00",
+  "marca": "Rolex",
+  "titulo": "1978 Big Red Rolex Daytona 6265",
+  "total": 91500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960242474380",
+  "item_id": "v1|960242474380|0",
+  "referencia": "6265",
+  "mercado": {
+   "n": 4,
+   "p25": 76688,
+   "mediana": 88339
+  },
+  "triage": {
+   "modelo": "Rolex Daytona Cosmograph, acero, pulsera Oyster (esfera plateada con subesferas negras, no se aprecia el rojo del 'Big Red' en la foto)",
+   "referencia": "6265",
+   "precio_justo_usd": 75000,
+   "interesante": false,
+   "nota": "El precio pedido está unos 20 % por encima de la estimación; además, la foto muestra esfera plateada sin texto rojo, así que hay que verificar la esfera y la autenticidad antes de cualquier compra."
+  },
+  "motivo": "triage: El precio pedido está unos 20 % por encima de la estimación; además, la foto muestra esfera plateada sin texto rojo, así que hay que verificar la esfera y la autenticidad antes de cualquier compra. (justo 75000)"
  }
 ]
