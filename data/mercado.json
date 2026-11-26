@@ -7165,9 +7165,9 @@
   "max": 3999
  },
  "Cartier WSSA0018|usado": {
-  "fecha": "2026-11-24",
+  "fecha": "2026-11-26",
   "consulta": "Cartier WSSA0018",
-  "n": 29,
+  "n": 30,
   "mediana": 10000,
   "p25": 8225,
   "p75": 18510,
@@ -11610,7 +11610,7 @@
   "max": 6850
  },
  "Rolex 116900|nuevo": {
-  "fecha": "2026-10-26",
+  "fecha": "2026-11-26",
   "consulta": "Rolex 116900",
   "n": 3,
   "mediana": 9795,
@@ -23133,5 +23133,10 @@
   "p75": 29995,
   "min": 25688,
   "max": 34970
+ },
+ "Rolex 276248RBR|nuevo": {
+  "fecha": "2026-11-26",
+  "consulta": "Rolex 276248RBR",
+  "n": 0
  }
 }
