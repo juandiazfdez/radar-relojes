@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-24T02:28:53.681403+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Air-King 34mm Stainless Steel Silver Dial- Box & Papers",
-  "total": 7799.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800954091717",
-  "item_id": "v1|800954091717|0",
-  "triage": {
-   "modelo": "Rolex Air-King 34 mm, acero, esfera plateada",
-   "referencia": "14000 o 14000M (aprox. 1989-2007, la referencia exacta no se distingue en la imagen)",
-   "precio_justo_usd": 6300,
-   "interesante": false,
-   "nota": "Precio pedido de US$7,799 por encima del valor de venta cerrada estimado (~US$6,300) para esta referencia con caja y papeles en estado excelente."
-  },
-  "motivo": "triage: Precio pedido de US$7,799 por encima del valor de venta cerrada estimado (~US$6,300) para esta referencia con caja y papeles en estado excelente. (justo 6300)"
- },
- {
-  "fecha": "2026-11-24T02:28:53.681403+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Pasha C Stainless Steel Wristwatch - Silver Face w/ Black dials",
   "total": 2500.0,
@@ -10912,5 +10895,28 @@
    "nota": "Precio pedido de US$4180 está cerca del retail y unos 10 % por encima de un estimado conservador de venta cerrada para un 2024 con caja y papeles; no cumple el umbral del 15 %."
   },
   "motivo": "triage: Precio pedido de US$4180 está cerca del retail y unos 10 % por encima de un estimado conservador de venta cerrada para un 2024 con caja y papeles; no cumple el umbral del 15 %. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-26T09:45:34.818571+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 41mm 126613lb Bluesy 2021",
+  "total": 18199.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147698713901",
+  "item_id": "v1|147698713901|0",
+  "referencia": "126613LB",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Submariner Date oro amarillo y acero, bisel azul cerámica, esfera azul",
+   "referencia": "126613LB",
+   "precio_justo_usd": 19500,
+   "interesante": false,
+   "nota": "Referencia 126613LB (bicolor, esfera y bisel azules). El precio pedido está solo ~7 % por debajo de la estimación de venta real; no alcanza el umbral del 15 %. Verificar originalidad y estado antes de comprar."
+  },
+  "motivo": "triage: Referencia 126613LB (bicolor, esfera y bisel azules). El precio pedido está solo ~7 % por debajo de la estimación de venta real; no alcanza el umbral del 15 %. Verificar originalidad y estado antes de comprar. (justo 19500)"
  }
 ]
