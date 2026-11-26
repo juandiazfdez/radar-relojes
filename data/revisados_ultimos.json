@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-24T16:44:16.374831+00:00",
-  "marca": "Rolex",
-  "titulo": "Very Rare Rolex 1630 \" Rare Bird\" 14k Gold Steel Datejust Automatic",
-  "total": 7501.89,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267853536935",
-  "item_id": "v1|267853536935|0",
-  "triage": {
-   "modelo": "Rolex Datejust acero y oro amarillo (bisel acanalado, esfera plateada, indice de fecha a las 3)",
-   "referencia": "1630",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de mercado de un 1630 bicolor usado en estado Good; verificar referencia, autenticidad y el supuesto caracter 'Rare Bird'."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de mercado de un 1630 bicolor usado en estado Good; verificar referencia, autenticidad y el supuesto caracter 'Rare Bird'. (justo 4000)"
- },
- {
-  "fecha": "2026-11-24T16:44:16.374831+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Panthere Medium 18k Rose Gold Ladies Quartz Watch WGPN0007 4019",
   "total": 25000.0,
@@ -10896,5 +10879,22 @@
   },
   "ratio_mercado": 0.949,
   "motivo": "precio normal (95 % del cuartil bajo de 127334)"
+ },
+ {
+  "fecha": "2026-11-26T23:31:02.634503+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Date Just 36MM with diamonds and blue face excellent condition!",
+  "total": 8195.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920188923507",
+  "item_id": "v1|920188923507|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 mm con bisel de diamantes y esfera azul (posiblemente oro amarillo o bicolor)",
+   "referencia": null,
+   "precio_justo_usd": 10500,
+   "interesante": false,
+   "nota": "Precio ~22% bajo el estimado, pero el listado es escueto y el precio es sospechosamente bajo para un Rolex con diamantes; falta verificar autenticidad, referencia, papeles y diamantes originales antes de considerarlo."
+  },
+  "motivo": "triage: Precio ~22% bajo el estimado, pero el listado es escueto y el precio es sospechosamente bajo para un Rolex con diamantes; falta verificar autenticidad, referencia, papeles y diamantes originales antes de considerarlo. (justo 10500)"
  }
 ]
