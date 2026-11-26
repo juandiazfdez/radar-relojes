@@ -1,29 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T02:13:52.847438+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR PELAGOS FXD MN Blue 25707B/23 FULL SET Dec 2023",
-  "total": 3599.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237202691579",
-  "item_id": "v1|237202691579|0",
-  "referencia": "25707B / 23",
-  "mercado": {
-   "n": 10,
-   "p25": 4269,
-   "mediana": 4307
-  },
-  "ratio_mercado": 0.843,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 3450,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, bueno: desgaste visible en la caja de titanio, marcas leves en el cristal, set completo con garantía de dic. 2023"
-  },
-  "ratio_justo": 1.043,
-  "motivo": "precio normal segun revision (104 % del justo 3450)"
- },
- {
   "fecha": "2026-11-24T02:28:53.681403+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Datejust Turn-O-Graph Thunderbird w/ papers reference 16263",
@@ -10919,5 +10895,22 @@
    "nota": "Reloj de dama vintage de oro blanco de 18K con brazalete pesado; el valor depende sobre todo del peso en metal y de los diamantes, que no se distinguen en la foto. Precio pedido por encima de la estimación."
   },
   "motivo": "triage: Reloj de dama vintage de oro blanco de 18K con brazalete pesado; el valor depende sobre todo del peso en metal y de los diamantes, que no se distinguen en la foto. Precio pedido por encima de la estimación. (justo 6500)"
+ },
+ {
+  "fecha": "2026-11-26T09:00:35.479970+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Roadster Timepiece Automatic Swiss Watch Men's Luxury Watch Date Silver",
+  "total": 4629.98,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237208507866",
+  "item_id": "v1|237208507866|0",
+  "triage": {
+   "modelo": "Cartier Roadster XL automático de acero, esfera plateada con numerales romanos, fecha y correa de caucho negra",
+   "referencia": "W62000V3 (aprox., no verificable en la foto)",
+   "precio_justo_usd": 4400,
+   "interesante": false,
+   "nota": "Precio pedido de US$4630 con envío, por encima de un precio de venta cerrada estimado de unos US$4,400 para este modelo usado en buen estado; sin caja ni papeles el valor sería menor. Verificar referencia y autenticidad."
+  },
+  "motivo": "triage: Precio pedido de US$4630 con envío, por encima de un precio de venta cerrada estimado de unos US$4,400 para este modelo usado en buen estado; sin caja ni papeles el valor sería menor. Verificar referencia y autenticidad. (justo 4400)"
  }
 ]
