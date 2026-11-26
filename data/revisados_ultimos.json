@@ -1,171 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T04:43:53.272174+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage Ladies Rolex 14K Gold Cocktail Watch Ref 8215 Cal 1400 Swiss 27.4g",
-  "total": 4045.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960237169490",
-  "item_id": "v1|960237169490|0",
-  "triage": {
-   "modelo": "Rolex vintage de señora en oro 14K con brazalete de malla (esfera redonda)",
-   "referencia": "8215",
-   "precio_justo_usd": 2300,
-   "interesante": false,
-   "nota": "El pedido de US$4045 supera el valor estimado (~US$2300) para estado 'Good'; el oro 14K de 27.4 g aporta ~US$1300 de metal. En la foto no se distinguen bien los logos, verificar autenticidad."
-  },
-  "motivo": "triage: El pedido de US$4045 supera el valor estimado (~US$2300) para estado 'Good'; el oro 14K de 27.4 g aporta ~US$1300 de metal. En la foto no se distinguen bien los logos, verificar autenticidad. (justo 2300)"
- },
- {
-  "fecha": "2026-11-24T04:43:53.272174+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oysterdate Precision 6694 Steel - Black - Gold 34mm Men's Watch",
-  "total": 3999.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237202893402",
-  "item_id": "v1|237202893402|0",
-  "referencia": "6694",
-  "mercado": {
-   "n": 13,
-   "p25": 3299,
-   "mediana": 3950
-  },
-  "ratio_mercado": 1.212,
-  "motivo": "precio normal (121 % del cuartil bajo de 6694)"
- },
- {
-  "fecha": "2026-11-24T05:28:53.370188+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT Master II 116718 18K Yellow Gold Black Ceramic Box 40mm",
-  "total": 33995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840160849545",
-  "item_id": "v1|840160849545|0",
-  "referencia": "116718",
-  "mercado": {
-   "n": 10,
-   "p25": 40000,
-   "mediana": 40950
-  },
-  "ratio_mercado": 0.85,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 34000,
-   "riesgo_autenticidad": "medio",
-   "estado": "Muy buen estado visual, con caja externa pero sin papeles Rolex"
-  },
-  "ratio_justo": 1.0,
-  "motivo": "precio normal segun revision (100 % del justo 34000)"
- },
- {
-  "fecha": "2026-11-24T05:43:53.576759+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Prince Date 74033 34mm ",
-  "total": 1500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920178032690",
-  "item_id": "v1|920178032690|0",
-  "referencia": "74033",
-  "mercado": {
-   "n": 4,
-   "p25": 2031,
-   "mediana": 2176
-  },
-  "triage": {
-   "modelo": "Tudor Prince Date (bicolor acero y oro, bisel estriado, esfera oscura con ventana de fecha)",
-   "referencia": "74033",
-   "precio_justo_usd": 1600,
-   "interesante": false,
-   "nota": "Precio cercano al mercado para un 74033 bicolor usado en buen estado; el descuento es inferior al 15 %. Verificar estado real, caja y papeles."
-  },
-  "motivo": "triage: Precio cercano al mercado para un 74033 bicolor usado en buen estado; el descuento es inferior al 15 %. Verificar estado real, caja y papeles. (justo 1600)"
- },
- {
-  "fecha": "2026-11-24T06:28:53.409098+00:00",
-  "marca": "Tudor",
-  "titulo": "2024 Tudor Black Bay Ceramic M79210CNU-0001 Black Complete 41mm",
-  "total": 4245.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/366834142299",
-  "item_id": "v1|366834142299|0",
-  "triage": {
-   "modelo": "Tudor Black Bay Ceramic 41mm (esfera oscura; la foto podría no coincidir con la referencia listada)",
-   "referencia": "M79210CNU-0001",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Precio pedido de US$4245 con envío por encima del mercado secundario para un modelo de 2024 con caja y papeles; la foto muestra una esfera marrón/caqui, así que conviene verificar la referencia."
-  },
-  "motivo": "triage: Precio pedido de US$4245 con envío por encima del mercado secundario para un modelo de 2024 con caja y papeles; la foto muestra una esfera marrón/caqui, así que conviene verificar la referencia. (justo 3500)"
- },
- {
-  "fecha": "2026-11-24T06:43:53.354248+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 31mm Blue Dial, Fluted Jubilee, Stainless Steel (68274)",
-  "total": 7307.29,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/860169441325",
-  "item_id": "v1|860169441325|0",
-  "referencia": "68274",
-  "mercado": {
-   "n": 34,
-   "p25": 8000,
-   "mediana": 9378
-  },
-  "ratio_mercado": 0.913,
-  "motivo": "precio normal (91 % del cuartil bajo de 68274)"
- },
- {
-  "fecha": "2026-11-24T08:29:04.495586+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Solo Small SM 3170 W5200013 Steel Quartz Ladies Watch w/ Papers",
-  "total": 3599.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206724230301",
-  "item_id": "v1|206724230301|0",
-  "referencia": "3170",
-  "mercado": {
-   "n": 5,
-   "p25": 3275,
-   "mediana": 3450
-  },
-  "ratio_mercado": 1.099,
-  "motivo": "precio normal (110 % del cuartil bajo de 3170)"
- },
- {
-  "fecha": "2026-11-24T08:59:03.819950+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 JUN CARD ROLEX GMT MASTER II 126720VTNR SPRITE JUBILEE WATCH $1 NR 11/29",
-  "total": 1.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840161296433",
-  "item_id": "v1|840161296433|0",
-  "referencia": "126720VTNR",
-  "mercado": {
-   "n": 89,
-   "p25": 17999,
-   "mediana": 18595
-  },
-  "ratio_mercado": 0.0,
-  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
- },
- {
-  "fecha": "2026-11-24T08:59:03.819950+00:00",
-  "marca": "Rolex",
-  "titulo": "2008 CARD ROLEX MILGAUSS 116400 BLACK STAINLESS STEEL 40MM WATCH $1 NR 11/29",
-  "total": 1.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840161296407",
-  "item_id": "v1|840161296407|0",
-  "referencia": "116400",
-  "mercado": {
-   "n": 35,
-   "p25": 11500,
-   "mediana": 11999
-  },
-  "ratio_mercado": 0.0,
-  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
- },
- {
   "fecha": "2026-11-24T08:59:03.819950+00:00",
   "marca": "Rolex",
   "titulo": "2015 CARD ROLEX OYSTER PERPETUAL 114200 34MM RED GRAPE STEEL WATCH $1 NR 11/29",
@@ -10910,5 +10744,158 @@
   },
   "ratio_mercado": 1.147,
   "motivo": "precio normal (115 % del cuartil bajo de 79000)"
+ },
+ {
+  "fecha": "2026-11-26T15:00:44.764839+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31 Automatic Diamond Ladies Watch 278274GYRDJ",
+  "total": 16747.5,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800969710610",
+  "item_id": "v1|800969710610|0",
+  "triage": {
+   "modelo": "Rolex Datejust 31 (acero con bisel acanalado, esfera gris con numerales romanos, brazalete jubilee)",
+   "referencia": "278274GYRDJ según el título; la foto parece acero (posible 278240), no bicolor",
+   "precio_justo_usd": 12000,
+   "interesante": false,
+   "nota": "El precio pedido está muy por encima del valor de mercado; además, la foto no coincide con el título (no se ven diamantes ni oro)."
+  },
+  "motivo": "triage: El precio pedido está muy por encima del valor de mercado; además, la foto no coincide con el título (no se ven diamantes ni oro). (justo 12000)"
+ },
+ {
+  "fecha": "2026-11-26T15:00:44.764839+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Royal Men's Automatic 36mm Watch",
+  "total": 4357.68,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940124653172",
+  "item_id": "v1|940124653172|0",
+  "triage": {
+   "modelo": "Tudor Royal (acero, esfera negra con numerales romanos dorados, fecha a las 3)",
+   "referencia": null,
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Precio pedido (US$4358) por encima del retail; el mercado gris nuevo con caja y papeles ronda US$3200. El título dice 36 mm, que no coincide con las medidas habituales de la línea Royal, así que conviene verificar la referencia exacta."
+  },
+  "motivo": "triage: Precio pedido (US$4358) por encima del retail; el mercado gris nuevo con caja y papeles ronda US$3200. El título dice 36 mm, que no coincide con las medidas habituales de la línea Royal, así que conviene verificar la referencia exacta. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-26T15:00:44.764839+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Royal Women's Automatic 30mm Watch",
+  "total": 4040.77,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940124653173",
+  "item_id": "v1|940124653173|0",
+  "triage": {
+   "modelo": "Tudor Royal, versión mujer con esfera salmón y brazalete de acero",
+   "referencia": null,
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "El precio pedido supera el mercado gris para un Royal nuevo de 28/34 mm; el '30 mm' del título no coincide con las tallas Tudor Royal conocidas, así que conviene verificar la medida y la referencia exacta."
+  },
+  "motivo": "triage: El precio pedido supera el mercado gris para un Royal nuevo de 28/34 mm; el '30 mm' del título no coincide con las tallas Tudor Royal conocidas, así que conviene verificar la medida y la referencia exacta. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-26T15:00:44.764839+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 Men's Automatic 39mm Watch",
+  "total": 7232.03,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940124653096",
+  "item_id": "v1|940124653096|0",
+  "triage": {
+   "modelo": "Tudor Black Bay GMT 'Coke' (bisel rojo y negro, esfera negra, brazalete Jubilee de acero), posiblemente de la línea Black Bay 58 GMT",
+   "referencia": "null",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "El precio pedido de US$7,232 supera con holgura el retail y el mercado gris de un Tudor GMT nuevo con caja y papeles; la referencia exacta no se distingue en la imagen."
+  },
+  "motivo": "triage: El precio pedido de US$7,232 supera con holgura el retail y el mercado gris de un Tudor GMT nuevo con caja y papeles; la referencia exacta no se distingue en la imagen. (justo 4300)"
+ },
+ {
+  "fecha": "2026-11-26T15:00:44.764839+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Pro Men's Automatic 39mm Watch",
+  "total": 6211.27,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940124653056",
+  "item_id": "v1|940124653056|0",
+  "triage": {
+   "modelo": "Tudor Black Bay Pro 39mm (acero, esfera blanca, GMT)",
+   "referencia": null,
+   "precio_justo_usd": 4100,
+   "interesante": false,
+   "nota": "Precio pedido de US$6211 está muy por encima del mercado secundario para un Black Bay Pro de acero nuevo con caja y papeles; no es una oportunidad. La referencia exacta no es legible en la imagen."
+  },
+  "motivo": "triage: Precio pedido de US$6211 está muy por encima del mercado secundario para un Black Bay Pro de acero nuevo con caja y papeles; no es una oportunidad. La referencia exacta no es legible en la imagen. (justo 4100)"
+ },
+ {
+  "fecha": "2026-11-26T15:00:44.764839+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Gmt Men's Automatic 41mm Watch",
+  "total": 6454.42,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940124653016",
+  "item_id": "v1|940124653016|0",
+  "triage": {
+   "modelo": "Tudor Black Bay GMT (bisel Pepsi rojo/azul, brazalete de acero)",
+   "referencia": "M79830RB-0001",
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "Referencia actual de 41 mm; en mercado gris nuevo con caja y papeles se vende por debajo de retail (~US$4.400). El precio pedido de US$6.454 está muy por encima del valor real."
+  },
+  "motivo": "triage: Referencia actual de 41 mm; en mercado gris nuevo con caja y papeles se vende por debajo de retail (~US$4.400). El precio pedido de US$6.454 está muy por encima del valor real. (justo 3900)"
+ },
+ {
+  "fecha": "2026-11-26T15:00:44.764839+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Chrono Men's Automatic 41mm Watch",
+  "total": 8197.18,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940124652935",
+  "item_id": "v1|940124652935|0",
+  "triage": {
+   "modelo": "Tudor Black Bay Chrono 41mm (esfera negra con subesferas plateadas, bisel negro, brazalete de acero)",
+   "referencia": "M79360N-0001 (probable, sin confirmar desde la imagen)",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Nuevo con caja y papeles se mueve en torno a US$3.800-4.300 en mercado gris; el listado de US$8.197 está muy por encima de cualquier precio real."
+  },
+  "motivo": "triage: Nuevo con caja y papeles se mueve en torno a US$3.800-4.300 en mercado gris; el listado de US$8.197 está muy por encima de cualquier precio real. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-26T15:00:44.764839+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 Men's Automatic 39mm Watch",
+  "total": 6594.52,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940124652949",
+  "item_id": "v1|940124652949|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 (39 mm, bisel negro, bracelete de acero)",
+   "referencia": "M79030N-0001",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio pedido de US$6595 muy por encima del mercado secundario para un BB58 nuevo con caja y papeles (aprox. US$3000-3400); no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$6595 muy por encima del mercado secundario para un BB58 nuevo con caja y papeles (aprox. US$3000-3400); no es una oportunidad. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-26T15:00:44.764839+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 68 Men's Automatic 43mm Watch",
+  "total": 6515.2,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940124652876",
+  "item_id": "v1|940124652876|0",
+  "triage": {
+   "modelo": "Tudor Black Bay (esfera azul, bisel negro, brazalete de acero); el título dice 'Black Bay 68 43mm', pero el tamaño y la línea no coinciden con esa descripción",
+   "referencia": null,
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Nuevo con caja y papeles, el mercado gris suele estar cerca de 3.300-3.900 USD; el precio pedido de 6.515 USD está muy por encima."
+  },
+  "motivo": "triage: Nuevo con caja y papeles, el mercado gris suele estar cerca de 3.300-3.900 USD; el precio pedido de 6.515 USD está muy por encima. (justo 3800)"
  }
 ]
