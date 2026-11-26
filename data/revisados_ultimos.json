@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-24T01:28:53.614478+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Sea-Dweller 126600-0001 Pre-owned Box & Papers 2023",
-  "total": 13160.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137957426441",
-  "item_id": "v1|137957426441|0",
-  "referencia": "126600",
-  "mercado": {
-   "n": 53,
-   "p25": 12980,
-   "mediana": 13999
-  },
-  "ratio_mercado": 1.014,
-  "motivo": "precio normal (101 % del cuartil bajo de 126600)"
- },
- {
-  "fecha": "2026-11-24T01:28:53.614478+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner 116613lb-0005 Pre-owned Box & Papers 2019",
-  "total": 15270.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137957425692",
-  "item_id": "v1|137957425692|0",
-  "referencia": "116613LB",
-  "mercado": {
-   "n": 64,
-   "p25": 15445,
-   "mediana": 15990
-  },
-  "ratio_mercado": 0.989,
-  "motivo": "precio normal (99 % del cuartil bajo de 116613LB)"
- },
- {
-  "fecha": "2026-11-24T01:28:53.614478+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Submariner \"Bluesy\" Ref 116613LB 40mm 2017 B&P Wrist: 7.25",
   "total": 15600.0,
   "condicion": "Pre-owned - Excellent",
@@ -10913,5 +10879,45 @@
   },
   "ratio_mercado": 0.081,
   "motivo": "demasiado barato (8 % del cuartil bajo): sospechoso"
+ },
+ {
+  "fecha": "2026-11-26T06:30:34.638632+00:00",
+  "marca": "Rolex",
+  "titulo": "Rare 30's Rolex Perpetual Chronometer Bubbleback -By Zell Bros *Christmas Sales*",
+  "total": 8604.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880153716363",
+  "item_id": "v1|880153716363|0",
+  "triage": {
+   "modelo": "Rolex bubbleback de acero, años 30 (posible Oyster/Perpetual; no se distingue bien la referencia en la foto)",
+   "referencia": null,
+   "precio_justo_usd": 6500,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor estimado para un bubbleback de los 30 en estado Good sin referencia verificable. El título 'Perpetual Chronometer' es ambiguo y requiere comprobar dial, movimiento y autenticidad."
+  },
+  "motivo": "triage: Precio pedido por encima del valor estimado para un bubbleback de los 30 en estado Good sin referencia verificable. El título 'Perpetual Chronometer' es ambiguo y requiere comprobar dial, movimiento y autenticidad. (justo 6500)"
+ },
+ {
+  "fecha": "2026-11-26T06:30:34.638632+00:00",
+  "marca": "Rolex",
+  "titulo": "2022 Rolex, Submariner Date, \"Bluesy\", 18K Gold/SS - 126613LB",
+  "total": 19385.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860178316484",
+  "item_id": "v1|860178316484|0",
+  "referencia": "126613LB",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Submariner Date 'Bluesy' oro amarillo 18K y acero, esfera y bisel azules",
+   "referencia": "126613LB",
+   "precio_justo_usd": 27000,
+   "interesante": false,
+   "nota": "Referencia correcta, pero el precio pedido queda muy por debajo del mercado secundario; una oferta tan baja sugiere replica o listado enganoso."
+  },
+  "motivo": "triage: Referencia correcta, pero el precio pedido queda muy por debajo del mercado secundario; una oferta tan baja sugiere replica o listado enganoso. (justo 27000)"
  }
 ]
