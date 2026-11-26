@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-23T23:28:43.580391+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Solo Rose Gold Ladies Watch W5200024 Card",
-  "total": 6450.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336913165309",
-  "item_id": "v1|336913165309|0",
-  "referencia": "W5200024",
-  "mercado": {
-   "n": 9,
-   "p25": 6700,
-   "mediana": 7216
-  },
-  "ratio_mercado": 0.963,
-  "motivo": "precio normal (96 % del cuartil bajo de W5200024)"
- },
- {
-  "fecha": "2026-11-23T23:28:43.580391+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Monochrome Black Bay M7941A1A0NU-0001 - 41mm - Full Set",
-  "total": 4200.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920177048778",
-  "item_id": "v1|920177048778|0",
-  "triage": {
-   "modelo": "Tudor Black Bay Monochrome 41 mm (acero, esfera negra, bisel negro, brazalete de acero)",
-   "referencia": "M7941A1A0NU",
-   "precio_justo_usd": 3100,
-   "interesante": false,
-   "nota": "Precio pedido de US$4200 está muy por encima del mercado secundario para este modelo de uso, con caja y papeles; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$4200 está muy por encima del mercado secundario para este modelo de uso, con caja y papeles; no es una oportunidad. (justo 3100)"
- },
- {
-  "fecha": "2026-11-23T23:43:43.016170+00:00",
-  "marca": "Rolex",
-  "titulo": "NEW 2026 Rolex Daytona 126500LN Full Set Unworn Unsized Men's 40mm Wristwatch",
-  "total": 32000.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/940117936341",
-  "item_id": "v1|940117936341|0",
-  "referencia": "126500LN",
-  "mercado": {
-   "n": 27,
-   "p25": 34000,
-   "mediana": 38825
-  },
-  "ratio_mercado": 0.941,
-  "motivo": "precio normal (94 % del cuartil bajo de 126500LN)"
- },
- {
   "fecha": "2026-11-23T23:43:43.016170+00:00",
   "marca": "Rolex",
   "titulo": "Rolex 116189 18K White Gold Datejust 36mm Watch Factory Box And Papers",
@@ -10895,5 +10844,62 @@
   },
   "ratio_mercado": 1.113,
   "motivo": "precio normal (111 % del cuartil bajo de 79360N-0002)"
+ },
+ {
+  "fecha": "2026-11-26T03:30:24.715591+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Airking Precision 14010M Black K Serial 2000/01 3130 Cal",
+  "total": 3899.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960242670323",
+  "item_id": "v1|960242670323|0",
+  "referencia": "14010M",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Air-King Precision (esfera negra, acero)",
+   "referencia": "14010M",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "Precio ~9% bajo el valor estimado; no llega al umbral del 15%. La foto muestra correa negra de cuero, no mencionada en el listado; verificar autenticidad y estado."
+  },
+  "motivo": "triage: Precio ~9% bajo el valor estimado; no llega al umbral del 15%. La foto muestra correa negra de cuero, no mencionada en el listado; verificar autenticidad y estado. (justo 4300)"
+ },
+ {
+  "fecha": "2026-11-26T03:30:24.715591+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 36",
+  "total": 3100.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147698317792",
+  "item_id": "v1|147698317792|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 36 (esfera negra, brazalete de acero)",
+   "referencia": "M79640 (probable, no verificable en la foto)",
+   "precio_justo_usd": 2900,
+   "interesante": false,
+   "nota": "Precio pedido US$3100 está por encima del valor de venta cerrada estimado para un BB36 de acero usado en excelente estado; no cumple el umbral del 15 % por debajo."
+  },
+  "motivo": "triage: Precio pedido US$3100 está por encima del valor de venta cerrada estimado para un BB36 de acero usado en excelente estado; no cumple el umbral del 15 % por debajo. (justo 2900)"
+ },
+ {
+  "fecha": "2026-11-26T03:30:24.715591+00:00",
+  "marca": "Tudor",
+  "titulo": "2025 TUDOR Black Bay 58 Burgundy on Jubilee Full Set Box and Papers",
+  "total": 3828.99,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/920185662268",
+  "item_id": "v1|920185662268|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 Burgundy (bisel y esfera burdeos, brazalete Jubilee)",
+   "referencia": null,
+   "precio_justo_usd": 3500,
+   "interesante": false,
+   "nota": "Precio pedido cercano al retail; con caja y papeles, la reventa normal está algo por debajo. La referencia exacta no es visible en la foto y el estado 'Fair' pesa a la baja."
+  },
+  "motivo": "triage: Precio pedido cercano al retail; con caja y papeles, la reventa normal está algo por debajo. La referencia exacta no es visible en la foto y el estado 'Fair' pesa a la baja. (justo 3500)"
  }
 ]
