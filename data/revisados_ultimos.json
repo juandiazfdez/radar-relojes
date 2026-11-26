@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-23T20:58:43.421582+00:00",
   "marca": "Rolex",
-  "titulo": "2023 NEW PAPERS Rolex 136660 Sea-Dweller Deepsea 44mm James Cameron Watch",
-  "total": 14132.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307297931359",
-  "item_id": "v1|307297931359|0",
-  "referencia": "136660",
-  "mercado": {
-   "n": 54,
-   "p25": 15499,
-   "mediana": 15999
-  },
-  "ratio_mercado": 0.912,
-  "motivo": "precio normal (91 % del cuartil bajo de 136660)"
- },
- {
-  "fecha": "2026-11-23T20:58:43.421582+00:00",
-  "marca": "Rolex",
   "titulo": "MINT Pearl Diamond Ladies Rolex 26mm DateJust 69173 Two Tone Gold Jubilee Watch",
   "total": 6557.05,
   "condicion": "Pre-owned - Excellent",
@@ -10904,5 +10887,28 @@
   },
   "ratio_mercado": 1.516,
   "motivo": "precio normal (152 % del cuartil bajo de M91650)"
+ },
+ {
+  "fecha": "2026-11-26T00:00:25.022948+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR 1926 Automatic 39mm Steel & Rose Gold Watch Circa 2023 Box Papers 91551",
+  "total": 2684.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366838569146",
+  "item_id": "v1|366838569146|0",
+  "referencia": "91551",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor 1926 Automatic 39 mm, acero y oro rosa, esfera blanca",
+   "referencia": "91551",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio pedido de US$2,684 con envío, aprox. 10 % bajo el valor estimado de venta cerrada (~US$3,000) para un 91551 con caja y papeles usado. No llega al umbral del 15 %."
+  },
+  "motivo": "triage: Precio pedido de US$2,684 con envío, aprox. 10 % bajo el valor estimado de venta cerrada (~US$3,000) para un 91551 con caja y papeles usado. No llega al umbral del 15 %. (justo 3000)"
  }
 ]
