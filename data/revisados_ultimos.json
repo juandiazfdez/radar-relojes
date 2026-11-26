@@ -1,85 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T14:59:15.699000+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos 100 W20091X7 2740 42mm XL Silver Roman Steel Gold Mens Watch",
-  "total": 7500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128214299376",
-  "item_id": "v1|128214299376|0",
-  "referencia": "2740",
-  "mercado": {
-   "n": 5,
-   "p25": 6500,
-   "mediana": 6690
-  },
-  "ratio_mercado": 1.154,
-  "motivo": "precio normal (115 % del cuartil bajo de 2740)"
- },
- {
-  "fecha": "2026-11-24T14:59:15.699000+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 33 Steel Rose Gold Diamond Ladies Watch WE902044",
-  "total": 7080.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257869839686",
-  "item_id": "v1|257869839686|0",
-  "referencia": "WE902044",
-  "mercado": {
-   "n": 1,
-   "p25": 8230,
-   "mediana": 8230
-  },
-  "triage": {
-   "modelo": "Cartier Ballon Bleu 33 mm acero y oro rosa, esfera plateada con diamantes, automático",
-   "referencia": "WE902044",
-   "precio_justo_usd": 5800,
-   "interesante": false,
-   "nota": "Precio pedido de US$7,080 por encima del valor de venta cerrada estimado para este modelo en condición Good; no hay descuento significativo."
-  },
-  "motivo": "triage: Precio pedido de US$7,080 por encima del valor de venta cerrada estimado para este modelo en condición Good; no hay descuento significativo. (justo 5800)"
- },
- {
-  "fecha": "2026-11-24T14:59:15.699000+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Anglaise Quartz Watch Stainless Steel 23",
-  "total": 4440.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117539972338",
-  "item_id": "v1|117539972338|0",
-  "triage": {
-   "modelo": "Cartier Tank Anglaise de acero, cuarzo, tamaño 23 (pequeño/mediano)",
-   "referencia": null,
-   "precio_justo_usd": 2200,
-   "interesante": false,
-   "nota": "El precio pedido de US$4440 está muy por encima del valor de mercado de un Tank Anglaise de acero de cuarzo usado; no es una oportunidad."
-  },
-  "motivo": "triage: El precio pedido de US$4440 está muy por encima del valor de mercado de un Tank Anglaise de acero de cuarzo usado; no es una oportunidad. (justo 2200)"
- },
- {
-  "fecha": "2026-11-24T14:59:15.699000+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Submariner 79190 Prince Date 40mm Stainless Steel Oyster Mens Watch 1993",
-  "total": 9025.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267853473921",
-  "item_id": "v1|267853473921|0",
-  "referencia": "79190",
-  "mercado": {
-   "n": 1,
-   "p25": 9000,
-   "mediana": 9000
-  },
-  "triage": {
-   "modelo": "Tudor Submariner Prince Date (Oysterdate)",
-   "referencia": "79190",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "Ref. 79190 de los años 90 en estado Good se vende en torno a US$3,000-4,500; el precio pedido de US$9,025 está muy por encima del mercado."
-  },
-  "motivo": "triage: Ref. 79190 de los años 90 en estado Good se vende en torno a US$3,000-4,500; el precio pedido de US$9,025 está muy por encima del mercado. (justo 3800)"
- },
- {
   "fecha": "2026-11-24T15:14:16.433823+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos Stainless Steel Date 4072 WSSA0018 Automatic Mens Watch 37mm",
@@ -10927,5 +10847,73 @@
    "nota": "El precio pedido (US$5,395) supera el valor de mercado de este modelo usado, que ronda los US$3,800-4,400 según estado, caja y papeles. No hay descuento."
   },
   "motivo": "triage: El precio pedido (US$5,395) supera el valor de mercado de este modelo usado, que ronda los US$3,800-4,400 según estado, caja y papeles. No hay descuento. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-26T17:30:54.506234+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date 1803 18K Yellow Gold Big Logo Jubilee 1969 Original Box",
+  "total": 16900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128218602750",
+  "item_id": "v1|128218602750|0",
+  "triage": {
+   "modelo": "Rolex Day-Date 36 mm oro amarillo 18K, esfera champán con indicadores de barra y ventana de día",
+   "referencia": "1803",
+   "precio_justo_usd": 26000,
+   "interesante": false,
+   "nota": "El título dice brazalete Jubilee, pero la foto muestra un President; el listado es inconsistente y el precio está muy por debajo del mercado, lo que exige verificar autenticidad y pieza antes de comprar."
+  },
+  "motivo": "triage: El título dice brazalete Jubilee, pero la foto muestra un President; el listado es inconsistente y el precio está muy por debajo del mercado, lo que exige verificar autenticidad y pieza antes de comprar. (justo 26000)"
+ },
+ {
+  "fecha": "2026-11-26T17:30:54.506234+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master 16750 R-Series 1988 Quickset Steel Oyster Box & Papers",
+  "total": 16900.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128218602328",
+  "item_id": "v1|128218602328|0",
+  "referencia": "16750",
+  "mercado": {
+   "n": 14,
+   "p25": 12920,
+   "mediana": 14676
+  },
+  "ratio_mercado": 1.308,
+  "motivo": "precio normal (131 % del cuartil bajo de 16750)"
+ },
+ {
+  "fecha": "2026-11-26T17:30:54.506234+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Gondole Vertical 9705 Oversize 18K Yellow Gold 34 x 39mm",
+  "total": 22500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128218597230",
+  "item_id": "v1|128218597230|0",
+  "triage": {
+   "modelo": "Cartier Gondole (oversize, caja de oro amarillo 18K, esfera blanca con numerales romanos negros)",
+   "referencia": "9705 (según el listado; no verificable en la imagen)",
+   "precio_justo_usd": 9000,
+   "interesante": false,
+   "nota": "El precio pedido de US$22,500 está muy por encima del valor de mercado de una Gondole de oro 18K usada; la imagen no confirma la referencia ni el nombre 'Vertical' del listado."
+  },
+  "motivo": "triage: El precio pedido de US$22,500 está muy por encima del valor de mercado de una Gondole de oro 18K usada; la imagen no confirma la referencia ni el nombre 'Vertical' del listado. (justo 9000)"
+ },
+ {
+  "fecha": "2026-11-26T17:30:54.506234+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank 17002 Automatic 18K Yellow Gold 1975",
+  "total": 19500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128218594695",
+  "item_id": "v1|128218594695|0",
+  "triage": {
+   "modelo": "Cartier Tank (posiblemente Tank Louis Cartier, esfera blanca con números romanos, caja de oro amarillo 18K)",
+   "referencia": "17002 (según título, sin verificar)",
+   "precio_justo_usd": 11000,
+   "interesante": false,
+   "nota": "Título menciona 'Automatic' para un Tank de 1975, lo que es dudoso; sin verificar caja, papeles ni movimiento. El precio pedido de US$19,500 supera con holgura lo que suele cerrarse para un Tank de oro 18K de esa época en estado Good."
+  },
+  "motivo": "triage: Título menciona 'Automatic' para un Tank de 1975, lo que es dudoso; sin verificar caja, papeles ni movimiento. El precio pedido de US$19,500 supera con holgura lo que suele cerrarse para un Tank de oro 18K de esa época en estado Good. (justo 11000)"
  }
 ]
