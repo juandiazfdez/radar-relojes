@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T03:43:52.988167+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41mm jubilee two tone",
-  "total": 19000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327473258113",
-  "item_id": "v1|327473258113|0",
-  "triage": {
-   "modelo": "Rolex Datejust 41 acero y oro amarillo, bisel liso, brazalete Jubilee, esfera plateada",
-   "referencia": "126303",
-   "precio_justo_usd": 14500,
-   "interesante": false,
-   "nota": "Precio pedido de US$19,000 está muy por encima del valor de mercado para esta referencia usada; no es oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$19,000 está muy por encima del valor de mercado para esta referencia usada; no es oportunidad. (justo 14500)"
- },
- {
-  "fecha": "2026-11-24T03:58:53.455977+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 New Rolex Datejust 28mm Mother of Pearl Diamond - Fluted - Jubilee - 279171",
-  "total": 21849.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/227629344732",
-  "item_id": "v1|227629344732|0",
-  "referencia": "279171",
-  "mercado": {
-   "n": 9,
-   "p25": 16495,
-   "mediana": 16573
-  },
-  "ratio_mercado": 1.325,
-  "motivo": "precio normal (132 % del cuartil bajo de 279171)"
- },
- {
   "fecha": "2026-11-24T04:28:53.660592+00:00",
   "marca": "Rolex",
   "titulo": "Rolex GMT-Master II Root Beer 126711CHNR 2025 Box & Papers",
@@ -10917,5 +10883,39 @@
    "nota": "Cuarzo de acero con cronógrafo; con caja, papeles y servicio 2022 se vende en torno a US$2.800-3.200, y el precio pedido de US$3.947 está por encima de ese rango."
   },
   "motivo": "triage: Cuarzo de acero con cronógrafo; con caja, papeles y servicio 2022 se vende en torno a US$2.800-3.200, y el precio pedido de US$3.947 está por encima de ese rango. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-26T14:30:45.266430+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX Oyster Perpetual 100 Year Anniversary 134303 - NEW",
+  "total": 15500.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/860179385100",
+  "item_id": "v1|860179385100|0",
+  "referencia": "134303",
+  "mercado": {
+   "n": 7,
+   "p25": 14250,
+   "mediana": 14850
+  },
+  "ratio_mercado": 1.088,
+  "motivo": "precio normal (109 % del cuartil bajo de 134303)"
+ },
+ {
+  "fecha": "2026-11-26T14:30:45.266430+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual Automatic Watch Stainless Steel 34",
+  "total": 7435.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128218270988",
+  "item_id": "v1|128218270988|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual 34 (esfera azul, índices arábigos, bisel liso)",
+   "referencia": "114200 (probable; podría ser 124200 según año)",
+   "precio_justo_usd": 6800,
+   "interesante": false,
+   "nota": "Precio pedido de US$7,435 supera la estimación de venta real para este modelo de acero usado, así que no hay descuento claro."
+  },
+  "motivo": "triage: Precio pedido de US$7,435 supera la estimación de venta real para este modelo de acero usado, así que no hay descuento claro. (justo 6800)"
  }
 ]
