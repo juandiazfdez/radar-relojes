@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T15:59:15.650392+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Pasha Chrono  Ref 2412 36mm Automatic Steel Watch",
-  "total": 3835.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128214367619",
-  "item_id": "v1|128214367619|0",
-  "referencia": "2412",
-  "mercado": {
-   "n": 10,
-   "p25": 3500,
-   "mediana": 3748
-  },
-  "ratio_mercado": 1.096,
-  "motivo": "precio normal (110 % del cuartil bajo de 2412)"
- },
- {
-  "fecha": "2026-11-24T15:59:15.650392+00:00",
-  "marca": "Cartier",
-  "titulo": "Unisex Vintage Cartier Tank Quartz 23mm  Classic Clean & Chic",
-  "total": 2716.8,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327474302813",
-  "item_id": "v1|327474302813|0",
-  "triage": {
-   "modelo": "Cartier Tank Must (vermeil, chapado en oro, cuarzo), esfera crema con numerales romanos",
-   "referencia": null,
-   "precio_justo_usd": 700,
-   "interesante": false,
-   "nota": "Tank Must vermeil de cuarzo usado se vende aprox. US$500-900; el precio pedido de US$2717 está muy por encima del mercado."
-  },
-  "motivo": "triage: Tank Must vermeil de cuarzo usado se vende aprox. US$500-900; el precio pedido de US$2717 está muy por encima del mercado. (justo 700)"
- },
- {
-  "fecha": "2026-11-24T15:59:15.650392+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank MC 3589 W5330003 Silver Automatic Blue Leather 34mm x 44mm Watch",
-  "total": 4778.31,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940119783320",
-  "item_id": "v1|940119783320|0",
-  "referencia": "3589",
-  "mercado": {
-   "n": 3,
-   "p25": 4405,
-   "mediana": 5010
-  },
-  "triage": {
-   "modelo": "Cartier Tank MC (automático, acero, esfera plateada, numerales romanos, segundero pequeño y fecha)",
-   "referencia": "W5330003 (3589 según el título)",
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "Tank MC de acero en buen estado con correa azul; el precio con envío queda por encima del rango de venta cerrada estimado y no hay descuento claro."
-  },
-  "motivo": "triage: Tank MC de acero en buen estado con correa azul; el precio con envío queda por encima del rango de venta cerrada estimado y no hay descuento claro. (justo 4500)"
- },
- {
   "fecha": "2026-11-24T16:14:15.737248+00:00",
   "marca": "Rolex",
   "titulo": "Vintage 1947 ROLEX 14k Gold Small Bubble Back Men's Automatic Watch Ref.4643",
@@ -10909,5 +10852,56 @@
   },
   "ratio_mercado": 2.692,
   "motivo": "precio normal (269 % del cuartil bajo de 69178)"
+ },
+ {
+  "fecha": "2026-11-26T20:00:53.853665+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Lady-Datejust 26, 69178, Yellow Gold, Red Vignette Diamond Dial...",
+  "total": 15967.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/206729142368",
+  "item_id": "v1|206729142368|0",
+  "referencia": "69178",
+  "mercado": {
+   "n": 5,
+   "p25": 5450,
+   "mediana": 5950
+  },
+  "ratio_mercado": 2.93,
+  "motivo": "precio normal (293 % del cuartil bajo de 69178)"
+ },
+ {
+  "fecha": "2026-11-26T20:00:53.853665+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Lady-Datejust 26, 69178, Yellow Gold, Champagne Dial, President...",
+  "total": 14369.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/800970487218",
+  "item_id": "v1|800970487218|0",
+  "referencia": "69178",
+  "mercado": {
+   "n": 5,
+   "p25": 5450,
+   "mediana": 5950
+  },
+  "ratio_mercado": 2.637,
+  "motivo": "precio normal (264 % del cuartil bajo de 69178)"
+ },
+ {
+  "fecha": "2026-11-26T20:00:53.853665+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Lady-Datejust 26, 69178, Yellow Gold, Champagne Dial,",
+  "total": 14369.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/206729130957",
+  "item_id": "v1|206729130957|0",
+  "referencia": "69178",
+  "mercado": {
+   "n": 5,
+   "p25": 5450,
+   "mediana": 5950
+  },
+  "ratio_mercado": 2.637,
+  "motivo": "precio normal (264 % del cuartil bajo de 69178)"
  }
 ]
