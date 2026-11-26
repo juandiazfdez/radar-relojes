@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T02:58:53.091802+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Watch Panthere Off White Roman Numeral Steel & YG 183949 1990",
-  "total": 7490.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960236794247",
-  "item_id": "v1|960236794247|0",
-  "triage": {
-   "modelo": "Cartier Panthère (medida mediana, cuarzo, acero y oro amarillo, esfera blanca con números romanos)",
-   "referencia": "183949",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Precio pedido de US$7490 está muy por encima del valor de venta real de este modelo de dos tonos de 1990, aunque esté en excelente estado."
-  },
-  "motivo": "triage: Precio pedido de US$7490 está muy por encima del valor de venta real de este modelo de dos tonos de 1990, aunque esté en excelente estado. (justo 3000)"
- },
- {
-  "fecha": "2026-11-24T03:13:52.974063+00:00",
-  "marca": "Cartier",
-  "titulo": "Must De Cartier Tank Sterling Silver Gold Vermeil Ladies Quartz Watch",
-  "total": 1812.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147695108549",
-  "item_id": "v1|147695108549|0",
-  "triage": {
-   "modelo": "Must de Cartier Tank en plata esterlina con vermeil de oro, cuarzo, esfera negra con numerales romanos, correa de piel negra (tamaño mediano/dama)",
-   "referencia": null,
-   "precio_justo_usd": 600,
-   "interesante": false,
-   "nota": "Precio pedido de US$1812 muy por encima del valor de venta cerrada para este modelo vermeil de cuarzo en estado usado; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$1812 muy por encima del valor de venta cerrada para este modelo vermeil de cuarzo en estado usado; no es una oportunidad. (justo 600)"
- },
- {
   "fecha": "2026-11-24T03:28:53.646183+00:00",
   "marca": "Tudor",
   "titulo": "TUDOR Black Bay 79360N",
@@ -10905,5 +10871,51 @@
    "nota": "Precio pedido ~11% bajo el estimado de venta real para estado Good; el margen no alcanza el 15%, y la falta de referencia y de caja/papeles en el listado reduce el valor."
   },
   "motivo": "triage: Precio pedido ~11% bajo el estimado de venta real para estado Good; el margen no alcanza el 15%, y la falta de referencia y de caja/papeles en el listado reduce el valor. (justo 5600)"
+ },
+ {
+  "fecha": "2026-11-26T12:00:44.872062+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner 41mm 126613lb \"Bluesy\" 2023",
+  "total": 18499.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147698844322",
+  "item_id": "v1|147698844322|0",
+  "referencia": "126613LB",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Submariner Date bicolor (Oystersteel y oro amarillo) con bisel y esfera azules, 41 mm",
+   "referencia": "126613LB",
+   "precio_justo_usd": 20500,
+   "interesante": false,
+   "nota": "Precio pedido unos 10 % por debajo de la estimación de venta real para una 126613LB 2023 en excelente estado; la foto parece de catálogo, así que conviene confirmar estado, caja y papeles."
+  },
+  "motivo": "triage: Precio pedido unos 10 % por debajo de la estimación de venta real para una 126613LB 2023 en excelente estado; la foto parece de catálogo, así que conviene confirmar estado, caja y papeles. (justo 20500)"
+ },
+ {
+  "fecha": "2026-11-26T12:00:44.872062+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Must WSTA0072 Black Stainless Steel 25mm  full set",
+  "total": 4222.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206726449945",
+  "item_id": "v1|206726449945|0",
+  "referencia": "WSTA0072",
+  "mercado": {
+   "n": 3,
+   "p25": 3910,
+   "mediana": 4000
+  },
+  "triage": {
+   "modelo": "Cartier Tank Must (esfera negra, correa de piel negra, cuarzo)",
+   "referencia": "WSTA0072 (según el título, no verificada en la foto)",
+   "precio_justo_usd": 1900,
+   "interesante": false,
+   "nota": "Precio pedido de US$4,222 muy por encima del valor de venta cerrada de un Tank Must de acero con caja y papeles; no hay descuento."
+  },
+  "motivo": "triage: Precio pedido de US$4,222 muy por encima del valor de venta cerrada de un Tank Must de acero con caja y papeles; no hay descuento. (justo 1900)"
  }
 ]
