@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T00:58:43.264041+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 54 M79000N-0001 New Box & Papers 2026",
-  "total": 4150.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/137957342354",
-  "item_id": "v1|137957342354|0",
-  "referencia": "M79000N-0001",
-  "mercado": {
-   "n": 5,
-   "p25": 4248,
-   "mediana": 4450
-  },
-  "ratio_mercado": 0.977,
-  "motivo": "precio normal (98 % del cuartil bajo de M79000N-0001)"
- },
- {
-  "fecha": "2026-11-24T00:58:43.264041+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 58 M7939A1A0NU-0001 New Box & Papers 2026",
-  "total": 4790.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/137957333186",
-  "item_id": "v1|137957333186|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 39 mm (esfera negra, bisel negro con numerales dorados, brazalete de acero)",
-   "referencia": "M7939A1A0NU-0001",
-   "precio_justo_usd": 3400,
-   "interesante": false,
-   "nota": "Precio pedido de US$4790 está muy por encima del mercado gris para un modelo nuevo con caja y papeles; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$4790 está muy por encima del mercado gris para un modelo nuevo con caja y papeles; no es una oportunidad. (justo 3400)"
- },
- {
   "fecha": "2026-11-24T01:13:42.932745+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Day-Date 36, President Bracelet, Diamond-Paved Dial, White Gold, 128239",
@@ -10901,5 +10867,45 @@
   },
   "ratio_mercado": 0.999,
   "motivo": "precio normal (100 % del cuartil bajo de 16613LB)"
+ },
+ {
+  "fecha": "2026-11-26T04:45:25.629620+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 16610 stainless 40mm box & papers",
+  "total": 13999.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287759611067",
+  "item_id": "v1|287759611067|0",
+  "referencia": "16610",
+  "mercado": {
+   "n": 80,
+   "p25": 9890,
+   "mediana": 10395
+  },
+  "ratio_mercado": 1.416,
+  "motivo": "precio normal (142 % del cuartil bajo de 16610)"
+ },
+ {
+  "fecha": "2026-11-26T04:45:25.629620+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 28mm Champagne Diamond Fluted President 279178",
+  "total": 29500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227632771028",
+  "item_id": "v1|227632771028|0",
+  "referencia": "279178",
+  "mercado": {
+   "n": 4,
+   "p25": 33695,
+   "mediana": 34347
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 28 mm oro amarillo, bisel acanalado, brazalete President, esfera champán con marcadores de diamante",
+   "referencia": "279178",
+   "precio_justo_usd": 24000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de venta cerrada estimado para esta referencia en estado usado; no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para esta referencia en estado usado; no hay descuento suficiente. (justo 24000)"
  }
 ]
