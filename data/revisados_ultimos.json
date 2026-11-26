@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T03:28:53.646183+00:00",
-  "marca": "Tudor",
-  "titulo": "2023 Tudor Black Bay 41mm Stainless Steel M7941A1A0RU-0001 Full Set Warranty",
-  "total": 3914.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137957678073",
-  "item_id": "v1|137957678073|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 41mm (esfera negra, bisel rojo, brazalete de acero)",
-   "referencia": "M7941A1A0RU",
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "Precio pedido cercano a retail para un Black Bay 41 de 2023 usado; el mercado secundario suele estar por debajo, así que no hay descuento suficiente."
-  },
-  "motivo": "triage: Precio pedido cercano a retail para un Black Bay 41 de 2023 usado; el mercado secundario suele estar por debajo, así que no hay descuento suficiente. (justo 3200)"
- },
- {
   "fecha": "2026-11-24T03:43:52.988167+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual 36 Turquoise 126000 Stainless Steel with Box & Papers",
@@ -10917,5 +10900,22 @@
   },
   "ratio_mercado": 0.909,
   "motivo": "precio normal (91 % del cuartil bajo de 126515LN)"
+ },
+ {
+  "fecha": "2026-11-26T13:00:45.558575+00:00",
+  "marca": "Rolex",
+  "titulo": "2005 Rolex Submariner Date \"Bluesy\" 16613",
+  "total": 13780.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/147698972463",
+  "item_id": "v1|147698972463|0",
+  "referencia": "16613",
+  "mercado": {
+   "n": 93,
+   "p25": 11695,
+   "mediana": 12000
+  },
+  "ratio_mercado": 1.178,
+  "motivo": "precio normal (118 % del cuartil bajo de 16613)"
  }
 ]
