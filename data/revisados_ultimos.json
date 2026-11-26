@@ -1,97 +1,6 @@
 [
  {
   "fecha": "2026-11-23T20:58:43.421582+00:00",
-  "marca": "Rolex",
-  "titulo": "MINT Pearl Diamond Ladies Rolex 26mm DateJust 69173 Two Tone Gold Jubilee Watch",
-  "total": 6557.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287753588390",
-  "item_id": "v1|287753588390|0",
-  "referencia": "69173",
-  "mercado": {
-   "n": 19,
-   "p25": 3868,
-   "mediana": 4259
-  },
-  "ratio_mercado": 1.695,
-  "motivo": "precio normal (170 % del cuartil bajo de 69173)"
- },
- {
-  "fecha": "2026-11-23T20:58:43.421582+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date Stainless Steel & Yellow Gold Blue 40mm 116613LB Full Set",
-  "total": 15500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307297931276",
-  "item_id": "v1|307297931276|0",
-  "referencia": "116613LB",
-  "mercado": {
-   "n": 59,
-   "p25": 15400,
-   "mediana": 15995
-  },
-  "ratio_mercado": 1.006,
-  "motivo": "precio normal (101 % del cuartil bajo de 116613LB)"
- },
- {
-  "fecha": "2026-11-23T20:58:43.421582+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 Rolex GMT-Master II 126710GRNR Bruce Wayne 40mm Oyster Full Set Wood Card",
-  "total": 20995.0,
-  "condicion": "New with imperfections",
-  "url": "https://www.ebay.com/itm/336912930898",
-  "item_id": "v1|336912930898|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 62,
-   "p25": 21748,
-   "mediana": 22894
-  },
-  "ratio_mercado": 0.965,
-  "motivo": "precio normal (97 % del cuartil bajo de 126710GRNR)"
- },
- {
-  "fecha": "2026-11-23T20:58:43.421582+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Colisée Two-Tone Yellow Gold & Steel on bracelet, Quartz (W400 (#147534)",
-  "total": 10200.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257868266009",
-  "item_id": "v1|257868266009|0",
-  "triage": {
-   "modelo": "Cartier Colisée bicolor (oro amarillo y acero), cuarzo",
-   "referencia": "W400 (según el título; no verificable en la foto)",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Colisée de cuarzo bicolor usado se vende en torno a US$2.500-3.500; el precio pedido de US$10.200 está muy por encima, salvo que tenga diamantes u otra variante especial no visible en la foto."
-  },
-  "motivo": "triage: Colisée de cuarzo bicolor usado se vende en torno a US$2.500-3.500; el precio pedido de US$10.200 está muy por encima, salvo que tenga diamantes u otra variante especial no visible en la foto. (justo 3000)"
- },
- {
-  "fecha": "2026-11-23T20:58:43.421582+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Dumont Middle East Blue Arabic Platinum Extra Large 2023 WGSA0086",
-  "total": 32995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920176706904",
-  "item_id": "v1|920176706904|0",
-  "referencia": "WGSA0086",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Santos-Dumont Extra Large, edición Middle East con índices arábigos azules, correa de cocodrilo azul",
-   "referencia": "WGSA0086 (el título dice platino, pero el prefijo WG suele corresponder a oro blanco; verificar)",
-   "precio_justo_usd": 25500,
-   "interesante": false,
-   "nota": "Edición limitada con demanda, pero el precio pedido supera en más de 25 % el valor de venta estimado. Hay que confirmar material (platino vs. oro blanco) y papeles."
-  },
-  "motivo": "triage: Edición limitada con demanda, pero el precio pedido supera en más de 25 % el valor de venta estimado. Hay que confirmar material (platino vs. oro blanco) y papeles. (justo 25500)"
- },
- {
-  "fecha": "2026-11-23T20:58:43.421582+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Louis 22mm Ladies 18k YG W1529856 - 2021",
   "total": 10495.0,
@@ -10910,5 +10819,90 @@
    "nota": "Precio pedido de US$2,684 con envío, aprox. 10 % bajo el valor estimado de venta cerrada (~US$3,000) para un 91551 con caja y papeles usado. No llega al umbral del 15 %."
   },
   "motivo": "triage: Precio pedido de US$2,684 con envío, aprox. 10 % bajo el valor estimado de venta cerrada (~US$3,000) para un 91551 con caja y papeles usado. No llega al umbral del 15 %. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-26T00:15:25.603863+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sky-Dweller 336934 Full Set",
+  "total": 25700.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206727619049",
+  "item_id": "v1|206727619049|0",
+  "triage": {
+   "modelo": "Rolex Sky-Dweller (acero y oro blanco, bisel acanalado, esfera verde menta, brazalete Oyster)",
+   "referencia": "336934",
+   "precio_justo_usd": 27000,
+   "interesante": false,
+   "nota": "Precio cercano al mercado secundario para una 336934 con esfera verde menta en estado excelente con set completo; el descuento es menor al 15 %. Confirmar referencia y autenticidad con fotos del reverso de la caja y del movimiento."
+  },
+  "motivo": "triage: Precio cercano al mercado secundario para una 336934 con esfera verde menta en estado excelente con set completo; el descuento es menor al 15 %. Confirmar referencia y autenticidad con fotos del reverso de la caja y del movimiento. (justo 27000)"
+ },
+ {
+  "fecha": "2026-11-26T00:15:25.603863+00:00",
+  "marca": "Rolex",
+  "titulo": "$10,000 Rolex Oyster Perpetual PINK MOP Diamond 14k Yellow Gold SS Ladies Watch",
+  "total": 2859.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407389161689",
+  "item_id": "v1|407389161689|0",
+  "triage": {
+   "modelo": "Rolex Lady Oyster Perpetual 26 mm bicolor (acero y oro amarillo) con esfera de madreperla rosa y marcadores de diamante, probable",
+   "referencia": null,
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "El precio es bajo para un Rolex bicolor con diamantes, pero el titular infla el valor a $10,000 y la foto no permite verificar autenticidad, referencia ni estado de la esfera. Pedir fotos del caso, número de serie, reverso y del movimiento antes de considerarlo."
+  },
+  "motivo": "triage: El precio es bajo para un Rolex bicolor con diamantes, pero el titular infla el valor a $10,000 y la foto no permite verificar autenticidad, referencia ni estado de la esfera. Pedir fotos del caso, número de serie, reverso y del movimiento antes de considerarlo. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-26T00:15:25.603863+00:00",
+  "marca": "Rolex",
+  "titulo": "Estate $10,000 ROLEX DATEJUST PINK MOP Diamond 14k Yellow Gold SS Ladies Watch",
+  "total": 3659.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307301949945",
+  "item_id": "v1|307301949945|0",
+  "triage": {
+   "modelo": "Rolex Lady Datejust 26 mm, acero y oro amarillo de 14k, esfera rosa de nácar con marcadores de diamante",
+   "referencia": "69173 o 79173 (probable; no se distingue con certeza en la foto)",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Precio pedido de US$3659 queda solo ~4% bajo una estimación conservadora; sin caja ni papeles y estado 'Good', no alcanza el umbral del 15%. El título de '$10,000' es un precio de referencia, no de venta."
+  },
+  "motivo": "triage: Precio pedido de US$3659 queda solo ~4% bajo una estimación conservadora; sin caja ni papeles y estado 'Good', no alcanza el umbral del 15%. El título de '$10,000' es un precio de referencia, no de venta. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-26T00:15:25.603863+00:00",
+  "marca": "Rolex",
+  "titulo": "Estate $12,000 ROLEX DATEJUST 14k Yellow Gold SS Tiffany & Co Ladies Watch WTY",
+  "total": 3659.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407389151652",
+  "item_id": "v1|407389151652|0",
+  "triage": {
+   "modelo": "Rolex Datejust Lady 26 mm, acero y oro amarillo 14k, esfera turquesa estilo Tiffany & Co.",
+   "referencia": "69173/79173 (probable, sin confirmar en la imagen)",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio cercano al mercado; la esfera Tiffany tiene prima, pero el estado y la autenticidad no se pueden verificar con la foto. El título con 'Estate $12,000' es un precio de referencia, no de mercado."
+  },
+  "motivo": "triage: Precio cercano al mercado; la esfera Tiffany tiene prima, pero el estado y la autenticidad no se pueden verificar con la foto. El título con 'Estate $12,000' es un precio de referencia, no de mercado. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-26T00:15:25.603863+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay Chrono Reverse Panda 41mm M79360N-0001",
+  "total": 4397.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336917008583",
+  "item_id": "v1|336917008583|0",
+  "referencia": "M79360N-0001",
+  "mercado": {
+   "n": 29,
+   "p25": 4650,
+   "mediana": 5750
+  },
+  "ratio_mercado": 0.946,
+  "motivo": "precio normal (95 % del cuartil bajo de M79360N-0001)"
  }
 ]
