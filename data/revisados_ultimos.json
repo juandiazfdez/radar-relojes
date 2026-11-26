@@ -1,113 +1,5 @@
 [
  {
-  "fecha": "2026-11-23T22:43:43.340971+00:00",
-  "marca": "Rolex",
-  "titulo": "New 2026 Rolex Air King 126900 40MM Black Oyster Steel Box Paper",
-  "total": 10000.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/880147779126",
-  "item_id": "v1|880147779126|0",
-  "referencia": "126900",
-  "mercado": {
-   "n": 11,
-   "p25": 10000,
-   "mediana": 10225
-  },
-  "ratio_mercado": 1.0,
-  "motivo": "precio normal (100 % del cuartil bajo de 126900)"
- },
- {
-  "fecha": "2026-11-23T22:43:43.340971+00:00",
-  "marca": "Rolex",
-  "titulo": "2025 Rolex GMT-Master II Zombie 126718GRNR 40MM Black 18K Yg Box Paper",
-  "total": 48000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137957036481",
-  "item_id": "v1|137957036481|0",
-  "referencia": "126718GRNR",
-  "mercado": {
-   "n": 15,
-   "p25": 47650,
-   "mediana": 48500
-  },
-  "ratio_mercado": 1.007,
-  "motivo": "precio normal (101 % del cuartil bajo de 126718GRNR)"
- },
- {
-  "fecha": "2026-11-23T22:43:43.340971+00:00",
-  "marca": "Rolex",
-  "titulo": "W/Papers 1976 Rolex Ladies Date 26 mm Two Tone Champagne Oyster Watch 6917",
-  "total": 4990.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800957860874",
-  "item_id": "v1|800957860874|0",
-  "referencia": "6917",
-  "mercado": {
-   "n": 44,
-   "p25": 3990,
-   "mediana": 4032
-  },
-  "ratio_mercado": 1.251,
-  "motivo": "precio normal (125 % del cuartil bajo de 6917)"
- },
- {
-  "fecha": "2026-11-23T22:43:43.340971+00:00",
-  "marca": "Rolex",
-  "titulo": "NEW 2026 Rolex GMT-Master II Bruce Wayne 40mm 126710GRNR Oyster (STICKERED)",
-  "total": 21410.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/147694840953",
-  "item_id": "v1|147694840953|0",
-  "referencia": "126710GRNR",
-  "mercado": {
-   "n": 62,
-   "p25": 21748,
-   "mediana": 22894
-  },
-  "ratio_mercado": 0.984,
-  "motivo": "precio normal (98 % del cuartil bajo de 126710GRNR)"
- },
- {
-  "fecha": "2026-11-23T22:43:43.340971+00:00",
-  "marca": "Tudor",
-  "titulo": "2025 Tudor Black Bay Chronograph 79360B 41MM Blue Steel Box Paper",
-  "total": 5000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137957041352",
-  "item_id": "v1|137957041352|0",
-  "referencia": "79360B",
-  "mercado": {
-   "n": 14,
-   "p25": 5299,
-   "mediana": 5474
-  },
-  "ratio_mercado": 0.944,
-  "motivo": "precio normal (94 % del cuartil bajo de 79360B)"
- },
- {
-  "fecha": "2026-11-23T22:58:43.269855+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 31 Steel White Gold Diamond Ladies Watch 178344 Box Card",
-  "total": 9910.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257868472425",
-  "item_id": "v1|257868472425|0",
-  "referencia": "178344",
-  "mercado": {
-   "n": 6,
-   "p25": 12200,
-   "mediana": 14152
-  },
-  "ratio_mercado": 0.812,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 7200,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Usado, condición 'Good'. Fotos de catálogo limpias, sin defectos visibles y sin fotos de caja, papeles ni fondo."
-  },
-  "motivo": "Claude descarto: Pide US$9,910 y el precio justo de venta cerrada ronda US$7,000-7,500, así que está un 30-40 % por encima de lo que realmente se paga hoy.; Los comparables de eBay (mediana 14,152, cuartil bajo 12,200) son precios pedidos e inflados. No sirven para justificar el precio."
- },
- {
   "fecha": "2026-11-23T22:58:43.269855+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Submariner, 14060, Steel, Black Dial, Oyster Bracelet",
@@ -10901,5 +10793,107 @@
    "nota": "Precio de US$1.507 muy por debajo del mercado para un modelo nuevo con caja y papeles; probable réplica o listado engañoso. Verificar antes de cualquier compra."
   },
   "motivo": "triage: Precio de US$1.507 muy por debajo del mercado para un modelo nuevo con caja y papeles; probable réplica o listado engañoso. Verificar antes de cualquier compra. (justo 6800)"
+ },
+ {
+  "fecha": "2026-11-26T02:45:25.636843+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31, Black Mother of Pearl Diamond, Steel & Yellow Gold, 278273",
+  "total": 24452.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800967517675",
+  "item_id": "v1|800967517675|0",
+  "referencia": "278273",
+  "mercado": {
+   "n": 38,
+   "p25": 20499,
+   "mediana": 21519
+  },
+  "ratio_mercado": 1.193,
+  "motivo": "precio normal (119 % del cuartil bajo de 278273)"
+ },
+ {
+  "fecha": "2026-11-26T02:45:25.636843+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31, 278273, Dark Grey Roman VI Diamond Dial, Steel & Yellow Gold",
+  "total": 21557.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206727821646",
+  "item_id": "v1|206727821646|0",
+  "referencia": "278273",
+  "mercado": {
+   "n": 38,
+   "p25": 20499,
+   "mediana": 21519
+  },
+  "ratio_mercado": 1.052,
+  "motivo": "precio normal (105 % del cuartil bajo de 278273)"
+ },
+ {
+  "fecha": "2026-11-26T02:45:25.636843+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Oyster Perpetual 15210 A serial",
+  "total": 4500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960242593096",
+  "item_id": "v1|960242593096|0",
+  "referencia": "15210",
+  "mercado": {
+   "n": 11,
+   "p25": 5000,
+   "mediana": 5289
+  },
+  "ratio_mercado": 0.9,
+  "motivo": "precio normal (90 % del cuartil bajo de 15210)"
+ },
+ {
+  "fecha": "2026-11-26T02:45:25.636843+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31, Chocolate Diamond, Steel & Rose Gold, 278271",
+  "total": 25051.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/366838853125",
+  "item_id": "v1|366838853125|0",
+  "referencia": "278271",
+  "mercado": {
+   "n": 19,
+   "p25": 19895,
+   "mediana": 21250
+  },
+  "ratio_mercado": 1.259,
+  "motivo": "precio normal (126 % del cuartil bajo de 278271)"
+ },
+ {
+  "fecha": "2026-11-26T02:45:25.636843+00:00",
+  "marca": "Rolex",
+  "titulo": "1970 Rolex Oyster Date Ref. 1500 Steel & 18k 34mm Men’s Watch - Serviced",
+  "total": 5999.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307302134494",
+  "item_id": "v1|307302134494|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date (acero y oro de 18k, esfera champán)",
+   "referencia": "1500",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Ref. 1500 bicolor de 1970 con servicio; el precio pedido de US$5,999 está muy por encima del valor de venta real."
+  },
+  "motivo": "triage: Ref. 1500 bicolor de 1970 con servicio; el precio pedido de US$5,999 está muy por encima del valor de venta real. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-26T02:45:25.636843+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31, Stainless Steel & Rose Gold, White Roman, 278271",
+  "total": 20060.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/366838842221",
+  "item_id": "v1|366838842221|0",
+  "referencia": "278271",
+  "mercado": {
+   "n": 19,
+   "p25": 19895,
+   "mediana": 21250
+  },
+  "ratio_mercado": 1.008,
+  "motivo": "precio normal (101 % del cuartil bajo de 278271)"
  }
 ]
