@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-24T02:28:53.681403+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Datejust Turn-O-Graph Thunderbird w/ papers reference 16263",
-  "total": 8000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147695054914",
-  "item_id": "v1|147695054914|0",
-  "referencia": "16263",
-  "mercado": {
-   "n": 24,
-   "p25": 7360,
-   "mediana": 7928
-  },
-  "ratio_mercado": 1.087,
-  "motivo": "precio normal (109 % del cuartil bajo de 16263)"
- },
- {
-  "fecha": "2026-11-24T02:28:53.681403+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Air-King 34mm Stainless Steel Silver Dial- Box & Papers",
   "total": 7799.0,
   "condicion": "Pre-owned - Excellent",
@@ -10912,5 +10895,22 @@
    "nota": "Precio pedido de US$4630 con envío, por encima de un precio de venta cerrada estimado de unos US$4,400 para este modelo usado en buen estado; sin caja ni papeles el valor sería menor. Verificar referencia y autenticidad."
   },
   "motivo": "triage: Precio pedido de US$4630 con envío, por encima de un precio de venta cerrada estimado de unos US$4,400 para este modelo usado en buen estado; sin caja ni papeles el valor sería menor. Verificar referencia y autenticidad. (justo 4400)"
+ },
+ {
+  "fecha": "2026-11-26T09:15:34.618299+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Stainless Steel Black Bay 58 GMT Coke M7939G1A0NRU Box & Papers 2024",
+  "total": 4180.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327478070709",
+  "item_id": "v1|327478070709|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 GMT \"Coke\" (acero, bisel bicolor negro/rojo, esfera negra)",
+   "referencia": "M7939G1A0NRU",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Precio pedido de US$4180 está cerca del retail y unos 10 % por encima de un estimado conservador de venta cerrada para un 2024 con caja y papeles; no cumple el umbral del 15 %."
+  },
+  "motivo": "triage: Precio pedido de US$4180 está cerca del retail y unos 10 % por encima de un estimado conservador de venta cerrada para un 2024 con caja y papeles; no cumple el umbral del 15 %. (justo 3800)"
  }
 ]
