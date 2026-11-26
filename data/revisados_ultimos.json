@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-24T01:28:53.614478+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner \"Bluesy\" Ref 116613LB 40mm 2017 B&P Wrist: 7.25",
-  "total": 15600.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336913399820",
-  "item_id": "v1|336913399820|0",
-  "referencia": "116613LB",
-  "mercado": {
-   "n": 64,
-   "p25": 15445,
-   "mediana": 15990
-  },
-  "ratio_mercado": 1.01,
-  "motivo": "precio normal (101 % del cuartil bajo de 116613LB)"
- },
- {
-  "fecha": "2026-11-24T01:28:53.614478+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay Chronograph 79363N-0007 Pre-owned Box & Papers 2021",
   "total": 5270.0,
@@ -10919,5 +10902,22 @@
    "nota": "Referencia correcta, pero el precio pedido queda muy por debajo del mercado secundario; una oferta tan baja sugiere replica o listado enganoso."
   },
   "motivo": "triage: Referencia correcta, pero el precio pedido queda muy por debajo del mercado secundario; una oferta tan baja sugiere replica o listado enganoso. (justo 27000)"
+ },
+ {
+  "fecha": "2026-11-26T07:00:35.117739+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 50s Rolex Oyster Perpetual Chronometer Semi-bubbleback *Christmas Sales*",
+  "total": 3717.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880153764007",
+  "item_id": "v1|880153764007|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual (semi-bubbleback, años 50)",
+   "referencia": "6551 (probable, no confirmable en la foto)",
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "Precio pedido cercano al valor estimado para un vintage de los 50 en condición Good; no supera el umbral del 15 % y conviene verificar dial, movimiento y autenticidad en persona."
+  },
+  "motivo": "triage: Precio pedido cercano al valor estimado para un vintage de los 50 en condición Good; no supera el umbral del 15 % y conviene verificar dial, movimiento y autenticidad en persona. (justo 3900)"
  }
 ]
