@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T08:59:03.819950+00:00",
-  "marca": "Rolex",
-  "titulo": "1997 PAPER ROLEX SEA-DWELLER DATE 16600 BLACK 40MM STEEL WATCH $1 NR 11/29",
-  "total": 1.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840161296391",
-  "item_id": "v1|840161296391|0",
-  "referencia": "16600",
-  "mercado": {
-   "n": 54,
-   "p25": 9845,
-   "mediana": 10232
-  },
-  "ratio_mercado": 0.0,
-  "motivo": "demasiado barato (0 % del cuartil bajo): sospechoso"
- },
- {
-  "fecha": "2026-11-24T08:59:03.819950+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 41mm 126333 Two Tone Fluted Oyster Wimbledon 2018",
-  "total": 14999.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147695386588",
-  "item_id": "v1|147695386588|0",
-  "referencia": "126333",
-  "mercado": {
-   "n": 32,
-   "p25": 14395,
-   "mediana": 14950
-  },
-  "ratio_mercado": 1.042,
-  "motivo": "precio normal (104 % del cuartil bajo de 126333)"
- },
- {
   "fecha": "2026-11-24T09:14:03.861801+00:00",
   "marca": "Rolex",
   "titulo": "Rolex GMT Master II 40mm 116710LN Green Arrow 2015",
@@ -10897,5 +10863,45 @@
    "nota": "Precio pedido de US$2,550 supera lo que se vende esta variante vintage, incluso con caja; referencia exacta no verificable en la foto."
   },
   "motivo": "triage: Precio pedido de US$2,550 supera lo que se vende esta variante vintage, incluso con caja; referencia exacta no verificable en la foto. (justo 1900)"
+ },
+ {
+  "fecha": "2026-11-26T15:30:44.859063+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Must WSTA0041 Large",
+  "total": 3600.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287760673501",
+  "item_id": "v1|287760673501|0",
+  "referencia": "WSTA0041",
+  "mercado": {
+   "n": 3,
+   "p25": 3495,
+   "mediana": 3599
+  },
+  "triage": {
+   "modelo": "Cartier Tank Must Large (cuarzo, acero, esfera plateada con números romanos, correa de piel negra)",
+   "referencia": "WSTA0041",
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "Precio pedido de US$3600 supera el retail actual de este modelo y su valor de reventa usado en EE. UU. ronda US$2300-2800, según estado, caja y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$3600 supera el retail actual de este modelo y su valor de reventa usado en EE. UU. ronda US$2300-2800, según estado, caja y papeles. (justo 2400)"
+ },
+ {
+  "fecha": "2026-11-26T15:30:44.859063+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Pelagos 39mm Titanium Diver Auto Chronometer Full Set",
+  "total": 4400.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206728798854",
+  "item_id": "v1|206728798854|0",
+  "triage": {
+   "modelo": "Tudor Pelagos 39 (titanio, esfera negra, bisel negro, automático)",
+   "referencia": "M25407N (o 25407N, generación previa)",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio pedido de US$4,400 con envío está por encima del rango de venta cerrada de un Pelagos 39 de titanio usado en excelente estado con caja y papeles. No llega al 15 % de descuento necesario."
+  },
+  "motivo": "triage: Precio pedido de US$4,400 con envío está por encima del rango de venta cerrada de un Pelagos 39 de titanio usado en excelente estado con caja y papeles. No llega al 15 % de descuento necesario. (justo 4000)"
  }
 ]
