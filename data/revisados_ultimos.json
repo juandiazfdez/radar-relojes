@@ -1,136 +1,5 @@
 [
  {
-  "fecha": "2026-11-23T21:43:43.563413+00:00",
-  "marca": "Rolex",
-  "titulo": "Pre- Owned Rolex 279160 Datejust 28mm Stainless Steel Watch",
-  "total": 8995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206723397353",
-  "item_id": "v1|206723397353|0",
-  "referencia": "279160",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 28 mm, acero, esfera blanca, brazalete Jubilee",
-   "referencia": "279160",
-   "precio_justo_usd": 7000,
-   "interesante": false,
-   "nota": "Precio pedido de US$8,995 está por encima del valor de mercado de un 279160 usado en estado Good; no hay descuento."
-  },
-  "motivo": "triage: Precio pedido de US$8,995 está por encima del valor de mercado de un 279160 usado en estado Good; no hay descuento. (justo 7000)"
- },
- {
-  "fecha": "2026-11-23T21:43:43.563413+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX -  WHITE GOLD LADIES PEARLMASTER REF 80299",
-  "total": 21000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407384180713",
-  "item_id": "v1|407384180713|0",
-  "triage": {
-   "modelo": "Rolex Lady-Datejust Pearlmaster (29 mm), bisel de diamantes, esfera de nácar con índices de diamante",
-   "referencia": "80299",
-   "precio_justo_usd": 25000,
-   "interesante": false,
-   "nota": "El título dice oro blanco, pero la foto parece mostrar brazalete bicolor; hay que verificar material y autenticidad antes de comprar. Sin verificar, el precio no supera el 15 % de descuento."
-  },
-  "motivo": "triage: El título dice oro blanco, pero la foto parece mostrar brazalete bicolor; hay que verificar material y autenticidad antes de comprar. Sin verificar, el precio no supera el 15 % de descuento. (justo 25000)"
- },
- {
-  "fecha": "2026-11-23T21:43:43.563413+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 1953 Rolex Oysterdate - Ref.6294 - 34mm - Two Tone - Red Date Wheel",
-  "total": 3539.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227628402224",
-  "item_id": "v1|227628402224|0",
-  "referencia": "6294",
-  "mercado": {
-   "n": 2,
-   "p25": 3600,
-   "mediana": 3840
-  },
-  "triage": {
-   "modelo": "Rolex Oysterdate Precision (bicolor, acero y oro amarillo)",
-   "referencia": "6294",
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "Ref. 6294 de los primeros años 50 en bicolor y con rueda de fecha roja; el precio pedido queda por encima de lo que suelen cerrar estas piezas en buen estado, y la versión bicolor vale menos que la de acero."
-  },
-  "motivo": "triage: Ref. 6294 de los primeros años 50 en bicolor y con rueda de fecha roja; el precio pedido queda por encima de lo que suelen cerrar estas piezas en buen estado, y la versión bicolor vale menos que la de acero. (justo 2800)"
- },
- {
-  "fecha": "2026-11-23T21:43:43.563413+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust Midsize 31 Steel Yellow Gold Diamond Ladies Watch 68273",
-  "total": 9490.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940117725892",
-  "item_id": "v1|940117725892|0",
-  "referencia": "68273",
-  "mercado": {
-   "n": 41,
-   "p25": 8395,
-   "mediana": 8995
-  },
-  "ratio_mercado": 1.13,
-  "motivo": "precio normal (113 % del cuartil bajo de 68273)"
- },
- {
-  "fecha": "2026-11-23T21:58:43.444138+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 1972 Rolex GMT-Master 1675 Brown 18K Yellow Gold Leather 40mm Watch",
-  "total": 25688.29,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960235991074",
-  "item_id": "v1|960235991074|0",
-  "triage": {
-   "modelo": "Rolex GMT-Master (caja de oro amarillo 18K, esfera y bisel marrones 'root beer')",
-   "referencia": "1675/8",
-   "precio_justo_usd": 28000,
-   "interesante": false,
-   "nota": "Precio por debajo de mercado (~8%), pero no alcanza el umbral del 15%. Verificar referencia exacta (1675/8), calibre, esfera original y autenticidad antes de comprar."
-  },
-  "motivo": "triage: Precio por debajo de mercado (~8%), pero no alcanza el umbral del 15%. Verificar referencia exacta (1675/8), calibre, esfera original y autenticidad antes de comprar. (justo 28000)"
- },
- {
-  "fecha": "2026-11-23T21:58:43.444138+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Française ref: W51002Q3 Large w/ Date Stainless Steel Auto | 7796",
-  "total": 3750.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307297998502",
-  "item_id": "v1|307297998502|0",
-  "triage": {
-   "modelo": "Cartier Tank Française Large con fecha, acero, esfera plateada con números romanos",
-   "referencia": "W51002Q3",
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "El precio pedido de US$3750 supera el valor de mercado; además el título dice 'Auto' pero la referencia W51002Q3 corresponde a la versión de cuarzo, así que hay que verificar."
-  },
-  "motivo": "triage: El precio pedido de US$3750 supera el valor de mercado; además el título dice 'Auto' pero la referencia W51002Q3 corresponde a la versión de cuarzo, así que hay que verificar. (justo 2800)"
- },
- {
-  "fecha": "2026-11-23T21:58:43.444138+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Pasha C Meridian GMT 35mm (Ref. W31029M7) Automatic ",
-  "total": 2900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307297997344",
-  "item_id": "v1|307297997344|0",
-  "triage": {
-   "modelo": "Cartier Pasha C Meridian GMT 35 mm, acero, automático",
-   "referencia": "W31029M7",
-   "precio_justo_usd": 3100,
-   "interesante": false,
-   "nota": "Precio pedido unos 6 % por debajo de una estimación conservadora para estado Good sin confirmar caja ni papeles; no alcanza el umbral del 15 %."
-  },
-  "motivo": "triage: Precio pedido unos 6 % por debajo de una estimación conservadora para estado Good sin confirmar caja ni papeles; no alcanza el umbral del 15 %. (justo 3100)"
- },
- {
   "fecha": "2026-11-23T21:58:43.444138+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Francaise Quartz Watch Stainless Steel 25",
@@ -10897,5 +10766,124 @@
   },
   "ratio_mercado": 0.99,
   "motivo": "precio normal (99 % del cuartil bajo de M79360B-0002)"
+ },
+ {
+  "fecha": "2026-11-26T01:00:25.314726+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Ladies Datejust 26 mm Two Tone Blue Turquoise Oyster Watch 6517 Circa 1964",
+  "total": 3990.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407389236177",
+  "item_id": "v1|407389236177|0",
+  "referencia": "6517",
+  "mercado": {
+   "n": 20,
+   "p25": 4000,
+   "mediana": 4798
+  },
+  "ratio_mercado": 0.998,
+  "motivo": "precio normal (100 % del cuartil bajo de 6517)"
+ },
+ {
+  "fecha": "2026-11-26T01:00:25.314726+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Date 34 mm Two Tone Blue Turquoise Oyster Automatic Watch 1500 Circa 1969",
+  "total": 4500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800967204132",
+  "item_id": "v1|800967204132|0",
+  "triage": {
+   "modelo": "Rolex Date (Datejust 34 mm) dos tonos acero/oro amarillo, bisel acanalado, esfera turquesa con numerales romanos",
+   "referencia": "1500",
+   "precio_justo_usd": 3800,
+   "interesante": false,
+   "nota": "Ref. 1500 circa 1969 en dos tonos; la esfera turquesa suele ser repintada o no original y reduce el valor. Precio pedido de US$4,500 queda por encima del valor estimado."
+  },
+  "motivo": "triage: Ref. 1500 circa 1969 en dos tonos; la esfera turquesa suele ser repintada o no original y reduce el valor. Precio pedido de US$4,500 queda por encima del valor estimado. (justo 3800)"
+ },
+ {
+  "fecha": "2026-11-26T01:00:25.314726+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex GMT-Master II 126713GRNR Zombie Jubilee Unworn Wood Card",
+  "total": 23995.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940123288076",
+  "item_id": "v1|940123288076|0",
+  "referencia": "126713GRNR",
+  "mercado": {
+   "n": 26,
+   "p25": 23900,
+   "mediana": 24842
+  },
+  "ratio_mercado": 1.004,
+  "motivo": "precio normal (100 % del cuartil bajo de 126713GRNR)"
+ },
+ {
+  "fecha": "2026-11-26T01:00:25.314726+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex GMT-Master II 126711CHNR Root Beer Oyster Unworn Wood Card",
+  "total": 23495.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940123281188",
+  "item_id": "v1|940123281188|0",
+  "referencia": "126711CHNR",
+  "mercado": {
+   "n": 29,
+   "p25": 23495,
+   "mediana": 23750
+  },
+  "ratio_mercado": 1.0,
+  "motivo": "precio normal (100 % del cuartil bajo de 126711CHNR)"
+ },
+ {
+  "fecha": "2026-11-26T01:00:25.314726+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 1603 Full Set Great Condition",
+  "total": 6049.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860177729159",
+  "item_id": "v1|860177729159|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 de acero (vintage), con caja y papeles",
+   "referencia": "1603",
+   "precio_justo_usd": 5800,
+   "interesante": false,
+   "nota": "Precio pedido cercano al valor de mercado para un 1603 completo en buen estado; no hay descuento de al menos 15%. La foto no permite confirmar el estado de la esfera ni el año exacto."
+  },
+  "motivo": "triage: Precio pedido cercano al valor de mercado para un 1603 completo en buen estado; no hay descuento de al menos 15%. La foto no permite confirmar el estado de la esfera ni el año exacto. (justo 5800)"
+ },
+ {
+  "fecha": "2026-11-26T01:00:25.314726+00:00",
+  "marca": "Tudor",
+  "titulo": "Complete Set BB 58 Tudor Black Bay Fifty-Eight 79030N",
+  "total": 3850.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960242446030",
+  "item_id": "v1|960242446030|0",
+  "referencia": "79030N",
+  "mercado": {
+   "n": 11,
+   "p25": 3875,
+   "mediana": 3995
+  },
+  "ratio_mercado": 0.994,
+  "motivo": "precio normal (99 % del cuartil bajo de 79030N)"
+ },
+ {
+  "fecha": "2026-11-26T01:00:25.314726+00:00",
+  "marca": "Tudor",
+  "titulo": "2021 Complete Set Blue 58 Tudor Black Bay Fifty-Eight 79030B",
+  "total": 3650.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960242444028",
+  "item_id": "v1|960242444028|0",
+  "referencia": "79030B",
+  "mercado": {
+   "n": 18,
+   "p25": 3400,
+   "mediana": 3518
+  },
+  "ratio_mercado": 1.074,
+  "motivo": "precio normal (107 % del cuartil bajo de 79030B)"
  }
 ]
