@@ -2,74 +2,6 @@
  {
   "fecha": "2026-11-24T15:44:17.184125+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Datejust II 116333 41mm with Box and Papers",
-  "total": 12500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960238815804",
-  "item_id": "v1|960238815804|0",
-  "referencia": "116333",
-  "mercado": {
-   "n": 58,
-   "p25": 13495,
-   "mediana": 14675
-  },
-  "ratio_mercado": 0.926,
-  "motivo": "precio normal (93 % del cuartil bajo de 116333)"
- },
- {
-  "fecha": "2026-11-24T15:44:17.184125+00:00",
-  "marca": "Rolex",
-  "titulo": "1968 Rolex 1603 Datejust Watch 36mm 1.8 mil NICE!",
-  "total": 3240.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960238814312",
-  "item_id": "v1|960238814312|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36 mm acero (ref. 1603), dial plateado con marcadores de barra",
-   "referencia": "1603",
-   "precio_justo_usd": 3700,
-   "interesante": false,
-   "nota": "Datejust 1603 de acero de 1968 en buen estado, sin caja ni papeles y con correa no original. Precio pedido unos 12 % bajo nuestra estimación, por debajo del umbral del 15 %. Autenticidad y originalidad del esfera no verificables con la foto."
-  },
-  "motivo": "triage: Datejust 1603 de acero de 1968 en buen estado, sin caja ni papeles y con correa no original. Precio pedido unos 12 % bajo nuestra estimación, por debajo del umbral del 15 %. Autenticidad y originalidad del esfera no verificables con la foto. (justo 3700)"
- },
- {
-  "fecha": "2026-11-24T15:44:17.184125+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sea-Dweller w/ Box Papers and accessories.",
-  "total": 9999.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960238813360",
-  "item_id": "v1|960238813360|0",
-  "triage": {
-   "modelo": "Rolex Submariner (la imagen no coincide con el título 'Sea-Dweller')",
-   "referencia": "124060 (probable, sin confirmar)",
-   "precio_justo_usd": 10500,
-   "interesante": false,
-   "nota": "El título dice Sea-Dweller, pero la foto muestra un Submariner de bisel negro y esfera negra. Para un Submariner de producción reciente con caja y papeles, el precio no está 15 % por debajo del mercado, y el título puede ser engañoso."
-  },
-  "motivo": "triage: El título dice Sea-Dweller, pero la foto muestra un Submariner de bisel negro y esfera negra. Para un Submariner de producción reciente con caja y papeles, el precio no está 15 % por debajo del mercado, y el título puede ser engañoso. (justo 10500)"
- },
- {
-  "fecha": "2026-11-24T15:44:17.184125+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sea-Dweller 126600 50th-Anniversary Black Red Stainless Steel 43mm Watch",
-  "total": 11203.87,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960238810487",
-  "item_id": "v1|960238810487|0",
-  "referencia": "126600",
-  "mercado": {
-   "n": 53,
-   "p25": 12980,
-   "mediana": 13999
-  },
-  "ratio_mercado": 0.863,
-  "motivo": "precio normal (86 % del cuartil bajo de 126600)"
- },
- {
-  "fecha": "2026-11-24T15:44:17.184125+00:00",
-  "marca": "Rolex",
   "titulo": "42159: Rolex Submariner 40, Ref. 16610, Circa 1991",
   "total": 9500.0,
   "condicion": "Pre-owned - Excellent",
@@ -10909,5 +10841,85 @@
   },
   "ratio_mercado": 0.956,
   "motivo": "precio normal (96 % del cuartil bajo de 116710LN)"
+ },
+ {
+  "fecha": "2026-11-26T18:45:54.267052+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 69240 Ladies Stainless Steel Automatic Swiss Watch",
+  "total": 3905.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/366837992430",
+  "item_id": "v1|366837992430|0",
+  "referencia": "69240",
+  "mercado": {
+   "n": 7,
+   "p25": 4950,
+   "mediana": 5115
+  },
+  "ratio_mercado": 0.789,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 3450,
+   "riesgo_autenticidad": "medio",
+   "estado": "Muy buen estado visual, sin caja ni papeles, sin fotos del fondo ni del movimiento"
+  },
+  "motivo": "Claude descarto: La referencia, la esfera plata con índices aplicados, el texto 'T SWISS MADE T' (era tritio), el bisel engine-turned, la corona y el Jubilee son coherentes con un 69240 de los años 90. No veo señales claras de réplica ni de esfera repintada en las fotos.; Faltan fotos del fondo de caja y del movimiento. No hay garantía de autenticidad. El vendedor tiene solo 60 valoraciones. Sin el fondo no se puede verificar el número de serie, el año ni si el brazalete y los eslabones son originales."
+ },
+ {
+  "fecha": "2026-11-26T18:45:54.267052+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner, 14060, Steel, Black Dial, Oyster Bracelet",
+  "total": 12273.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800970312976",
+  "item_id": "v1|800970312976|0",
+  "referencia": "14060",
+  "mercado": {
+   "n": 49,
+   "p25": 9895,
+   "mediana": 10898
+  },
+  "ratio_mercado": 1.24,
+  "motivo": "precio normal (124 % del cuartil bajo de 14060)"
+ },
+ {
+  "fecha": "2026-11-26T18:45:54.267052+00:00",
+  "marca": "Rolex",
+  "titulo": "1966 Rolex Submariner No Date Model 5513",
+  "total": 9499.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840168230218",
+  "item_id": "v1|840168230218|0",
+  "referencia": "5513",
+  "mercado": {
+   "n": 35,
+   "p25": 11918,
+   "mediana": 13750
+  },
+  "ratio_mercado": 0.797,
+  "motivo": "descripcion: as is"
+ },
+ {
+  "fecha": "2026-11-26T18:45:54.267052+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Cle de Cartier Factory Diamond Ladies Watch W4CL0005 Box&Papers",
+  "total": 6495.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800970318767",
+  "item_id": "v1|800970318767|0",
+  "referencia": "W4CL0005",
+  "mercado": {
+   "n": 3,
+   "p25": 6130,
+   "mediana": 6240
+  },
+  "triage": {
+   "modelo": "Cartier Clé de Cartier, 31 mm acero con bisel de diamantes, cuarzo, esfera plateada con números romanos y correa roja de cocodrilo",
+   "referencia": "W4CL0005",
+   "precio_justo_usd": 4300,
+   "interesante": false,
+   "nota": "Precio pedido de US$6495 está muy por encima de lo que se vende este modelo de segunda mano con caja y papeles (aprox. US$4000-4500). No cumple el umbral del 15 %."
+  },
+  "motivo": "triage: Precio pedido de US$6495 está muy por encima de lo que se vende este modelo de segunda mano con caja y papeles (aprox. US$4000-4500). No cumple el umbral del 15 %. (justo 4300)"
  }
 ]
