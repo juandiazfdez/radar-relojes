@@ -1,63 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T04:28:53.660592+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II Root Beer 126711CHNR 2025 Box & Papers",
-  "total": 20995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900116723395",
-  "item_id": "v1|900116723395|0",
-  "referencia": "126711CHNR",
-  "mercado": {
-   "n": 99,
-   "p25": 20589,
-   "mediana": 21900
-  },
-  "ratio_mercado": 1.02,
-  "motivo": "precio normal (102 % del cuartil bajo de 126711CHNR)"
- },
- {
-  "fecha": "2026-11-24T04:28:53.660592+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 67193 24mm Ladies Watch Jubilee w/ Box & Papers",
-  "total": 3500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336911750938",
-  "item_id": "v1|336911750938|0",
-  "referencia": "67193",
-  "mercado": {
-   "n": 19,
-   "p25": 4850,
-   "mediana": 5104
-  },
-  "ratio_mercado": 0.722,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 3500,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, desgaste visible en caja, esfera con marcas y brazalete estirado, con caja y papeles"
-  },
-  "ratio_justo": 1.0,
-  "motivo": "precio normal segun revision (100 % del justo 3500)"
- },
- {
-  "fecha": "2026-11-24T04:28:53.660592+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Ranger 39mm  79950, Full Set  Excellent",
-  "total": 3333.33,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/117539125294",
-  "item_id": "v1|117539125294|0",
-  "referencia": "79950",
-  "mercado": {
-   "n": 13,
-   "p25": 3299,
-   "mediana": 3600
-  },
-  "ratio_mercado": 1.01,
-  "motivo": "precio normal (101 % del cuartil bajo de 79950)"
- },
- {
   "fecha": "2026-11-24T04:43:53.272174+00:00",
   "marca": "Rolex",
   "titulo": "Vintage Ladies Rolex 14K Gold Cocktail Watch Ref 8215 Cal 1400 Swiss 27.4g",
@@ -10917,5 +10859,56 @@
    "nota": "Precio pedido de US$7,435 supera la estimación de venta real para este modelo de acero usado, así que no hay descuento claro."
   },
   "motivo": "triage: Precio pedido de US$7,435 supera la estimación de venta real para este modelo de acero usado, así que no hay descuento claro. (justo 6800)"
+ },
+ {
+  "fecha": "2026-11-26T14:45:44.786911+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Classic Men's Automatic 36mm Watch",
+  "total": 3111.19,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940124647942",
+  "item_id": "v1|940124647942|0",
+  "triage": {
+   "modelo": "Tudor 1926 (acero, esfera plateada guilloché, índices aplicados con acentos dorados rosados, fecha a las 3)",
+   "referencia": "Probablemente M91650-0001 (36 mm); verificar en caja o papeles",
+   "precio_justo_usd": 2750,
+   "interesante": false,
+   "nota": "El precio pedido de US$3.111 con envío está por encima del precio de mercado gris para un Tudor 1926 de 36 mm nuevo con caja y papeles, así que no cumple el umbral del 15 %."
+  },
+  "motivo": "triage: El precio pedido de US$3.111 con envío está por encima del precio de mercado gris para un Tudor 1926 de 36 mm nuevo con caja y papeles, así que no cumple el umbral del 15 %. (justo 2750)"
+ },
+ {
+  "fecha": "2026-11-26T14:45:44.786911+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Royal Men's Automatic 40mm Watch",
+  "total": 4781.7,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/940124647880",
+  "item_id": "v1|940124647880|0",
+  "triage": {
+   "modelo": "Tudor Royal, esfera verde con números romanos, brazalete Jubilee de acero (nuevo)",
+   "referencia": null,
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "Precio pedido por encima del retail aproximado y del descuento normal del mercado gris; el título dice 40 mm, pero la Royal se fabrica en 38 y 41 mm, así que conviene verificar la referencia exacta."
+  },
+  "motivo": "triage: Precio pedido por encima del retail aproximado y del descuento normal del mercado gris; el título dice 40 mm, pero la Royal se fabrica en 38 y 41 mm, así que conviene verificar la referencia exacta. (justo 3600)"
+ },
+ {
+  "fecha": "2026-11-26T14:45:44.786911+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 54 Lagoon Blue 37mm 8/26 Ref. 79000",
+  "total": 4879.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257873491290",
+  "item_id": "v1|257873491290|0",
+  "referencia": "79000",
+  "mercado": {
+   "n": 21,
+   "p25": 4253,
+   "mediana": 5297
+  },
+  "ratio_mercado": 1.147,
+  "motivo": "precio normal (115 % del cuartil bajo de 79000)"
  }
 ]
