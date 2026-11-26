@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-24T15:14:16.433823+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Stainless Steel Date 4072 WSSA0018 Automatic Mens Watch 37mm",
-  "total": 7495.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940119710677",
-  "item_id": "v1|940119710677|0",
-  "referencia": "WSSA0018",
-  "mercado": {
-   "n": 29,
-   "p25": 8225,
-   "mediana": 10000
-  },
-  "ratio_mercado": 0.911,
-  "motivo": "precio normal (91 % del cuartil bajo de WSSA0018)"
- },
- {
-  "fecha": "2026-11-24T15:14:16.433823+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay GMT 41mm 79830RB",
   "total": 3595.0,
@@ -10915,5 +10898,22 @@
    "nota": "Título menciona 'Automatic' para un Tank de 1975, lo que es dudoso; sin verificar caja, papeles ni movimiento. El precio pedido de US$19,500 supera con holgura lo que suele cerrarse para un Tank de oro 18K de esa época en estado Good."
   },
   "motivo": "triage: Título menciona 'Automatic' para un Tank de 1975, lo que es dudoso; sin verificar caja, papeles ni movimiento. El precio pedido de US$19,500 supera con holgura lo que suele cerrarse para un Tank de oro 18K de esa época en estado Good. (justo 11000)"
+ },
+ {
+  "fecha": "2026-11-26T17:45:53.694068+00:00",
+  "marca": "Rolex",
+  "titulo": "NEW 2026 Rolex Submariner Date 41mm Stainless Steel Black Ceramic 126610LN Watch",
+  "total": 15395.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/168888672477",
+  "item_id": "v1|168888672477|0",
+  "referencia": "126610LN",
+  "mercado": {
+   "n": 29,
+   "p25": 15999,
+   "mediana": 16395
+  },
+  "ratio_mercado": 0.962,
+  "motivo": "precio normal (96 % del cuartil bajo de 126610LN)"
  }
 ]
