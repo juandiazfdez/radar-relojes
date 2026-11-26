@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-24T14:59:15.699000+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 16803 40mm Vintage Black Steel Yellow Gold Mens Watch",
-  "total": 10525.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267853469546",
-  "item_id": "v1|267853469546|0",
-  "referencia": "16803",
-  "mercado": {
-   "n": 18,
-   "p25": 10000,
-   "mediana": 11147
-  },
-  "ratio_mercado": 1.052,
-  "motivo": "precio normal (105 % del cuartil bajo de 16803)"
- },
- {
-  "fecha": "2026-11-24T14:59:15.699000+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos 100 W20091X7 2740 42mm XL Silver Roman Steel Gold Mens Watch",
   "total": 7500.0,
@@ -10927,5 +10910,22 @@
    "estado": "Buen estado aparente, poco uso; sin caja ni papeles"
   },
   "motivo": "Claude descarto: El precio de US$6,550 no deja margen. Un Santos Large WSSA0018 de acero, sin caja ni papeles, se cierra hoy en EE. UU. en torno a US$5,600-6,200. Los US$8,225-10,000 de los comparables son precios pedidos inflados y no sirven de referencia.; Faltan caja y papeles y no hay garantía de autenticidad ni devoluciones. El vendedor tiene solo 2 valoraciones y el nombre 'dialsupply' sugiere un negocio de piezas, no un dealer de relojes. Es mucho riesgo para un reloj de este valor sin respaldo."
+ },
+ {
+  "fecha": "2026-11-26T17:15:54.726028+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay 58 GMT Coke 39mm Jubilee M7939G1A0NRU-0003 Warranty",
+  "total": 5395.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/366840430190",
+  "item_id": "v1|366840430190|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 GMT \"Coke\" 39 mm, brazalete Jubilee",
+   "referencia": "M7939G1A0NRU-0003",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "El precio pedido (US$5,395) supera el valor de mercado de este modelo usado, que ronda los US$3,800-4,400 según estado, caja y papeles. No hay descuento."
+  },
+  "motivo": "triage: El precio pedido (US$5,395) supera el valor de mercado de este modelo usado, que ronda los US$3,800-4,400 según estado, caja y papeles. No hay descuento. (justo 4000)"
  }
 ]
