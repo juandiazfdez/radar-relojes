@@ -1,113 +1,5 @@
 [
  {
-  "fecha": "2026-11-23T20:58:43.421582+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Louis 22mm Ladies 18k YG W1529856 - 2021",
-  "total": 10495.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/117538527557",
-  "item_id": "v1|117538527557|0",
-  "referencia": "W1529856",
-  "mercado": {
-   "n": 10,
-   "p25": 9089,
-   "mediana": 9255
-  },
-  "ratio_mercado": 1.155,
-  "motivo": "precio normal (115 % del cuartil bajo de W1529856)"
- },
- {
-  "fecha": "2026-11-23T20:58:43.421582+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos XL 100 Ref W20090X8 2740",
-  "total": 6000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960235781581",
-  "item_id": "v1|960235781581|0",
-  "referencia": "2740",
-  "mercado": {
-   "n": 4,
-   "p25": 6690,
-   "mediana": 7332
-  },
-  "triage": {
-   "modelo": "Cartier Santos 100 XL Chronograph (acero, esfera plateada con números romanos)",
-   "referencia": "W20090X8",
-   "precio_justo_usd": 6500,
-   "interesante": false,
-   "nota": "Precio pedido de US$6000 solo ~8 % bajo la estimación conservadora; sin confirmar caja, papeles ni estado real."
-  },
-  "motivo": "triage: Precio pedido de US$6000 solo ~8 % bajo la estimación conservadora; sin confirmar caja, papeles ni estado real. (justo 6500)"
- },
- {
-  "fecha": "2026-11-23T20:58:43.421582+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Solo XL W5200028",
-  "total": 3150.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960235779410",
-  "item_id": "v1|960235779410|0",
-  "referencia": "W5200028",
-  "mercado": {
-   "n": 8,
-   "p25": 3699,
-   "mediana": 3988
-  },
-  "ratio_mercado": 0.852,
-  "motivo": "precio normal (85 % del cuartil bajo de W5200028)"
- },
- {
-  "fecha": "2026-11-23T20:58:43.421582+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 58 79030B-0003 Blue 39mm Automatic Mens Watch p34232",
-  "total": 3499.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/820389945135",
-  "item_id": "v1|820389945135|0",
-  "referencia": "79030B-0003",
-  "mercado": {
-   "n": 16,
-   "p25": 3400,
-   "mediana": 3550
-  },
-  "ratio_mercado": 1.029,
-  "motivo": "precio normal (103 % del cuartil bajo de 79030B-0003)"
- },
- {
-  "fecha": "2026-11-23T20:58:43.421582+00:00",
-  "marca": "Tudor",
-  "titulo": "2025 Tudor Black Bay Chronograph Steel Jubilee 79360N Watch Box & Papers",
-  "total": 4470.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940117667854",
-  "item_id": "v1|940117667854|0",
-  "referencia": "79360N",
-  "mercado": {
-   "n": 55,
-   "p25": 4550,
-   "mediana": 5000
-  },
-  "ratio_mercado": 0.982,
-  "motivo": "precio normal (98 % del cuartil bajo de 79360N)"
- },
- {
-  "fecha": "2026-11-23T21:13:43.066123+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sky-Dweller GMT Automatic Chronometer Men's Watch 336235-0002",
-  "total": 50925.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/840159887841",
-  "item_id": "v1|840159887841|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller en oro Everose con esfera marrón y correa Oysterflex",
-   "referencia": "336235",
-   "precio_justo_usd": 39000,
-   "interesante": false,
-   "nota": "Precio pedido muy por encima del valor de venta real de esta referencia nueva con caja y papeles, sin descuento que justifique la compra."
-  },
-  "motivo": "triage: Precio pedido muy por encima del valor de venta real de esta referencia nueva con caja y papeles, sin descuento que justifique la compra. (justo 39000)"
- },
- {
   "fecha": "2026-11-23T21:13:43.066123+00:00",
   "marca": "Rolex",
   "titulo": "2023 Rolex Sky-Dweller 42mm Silver Index Jubilee Watch 336934 Box/Papers/Tag",
@@ -10904,5 +10796,113 @@
   },
   "ratio_mercado": 0.946,
   "motivo": "precio normal (95 % del cuartil bajo de M79360N-0001)"
+ },
+ {
+  "fecha": "2026-11-26T00:30:25.133720+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1945 Stainless 30mm ROLEX SPEEDKING 17j #6420 Mechanical Wind Up Watch",
+  "total": 2600.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/168887176196",
+  "item_id": "v1|168887176196|0",
+  "referencia": "6420",
+  "mercado": {
+   "n": 6,
+   "p25": 2935,
+   "mediana": 3000
+  },
+  "ratio_mercado": 0.886,
+  "motivo": "precio normal (89 % del cuartil bajo de 6420)"
+ },
+ {
+  "fecha": "2026-11-26T00:30:25.133720+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master 116710LN-0001 Pre-owned Watch Only",
+  "total": 12110.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137963199884",
+  "item_id": "v1|137963199884|0",
+  "referencia": "116710LN",
+  "mercado": {
+   "n": 44,
+   "p25": 13599,
+   "mediana": 14249
+  },
+  "ratio_mercado": 0.891,
+  "motivo": "precio normal (89 % del cuartil bajo de 116710LN)"
+ },
+ {
+  "fecha": "2026-11-26T00:30:25.133720+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 New Rolex Submariner Date MK2 Ceramic Green Starbucks 41MM Watch 126610LV",
+  "total": 15690.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/820399047311",
+  "item_id": "v1|820399047311|0",
+  "referencia": "126610LV",
+  "mercado": {
+   "n": 40,
+   "p25": 16235,
+   "mediana": 16504
+  },
+  "ratio_mercado": 0.966,
+  "motivo": "precio normal (97 % del cuartil bajo de 126610LV)"
+ },
+ {
+  "fecha": "2026-11-26T00:30:25.133720+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex Oyster Cosmograph Daytona 6265 Watch",
+  "total": 109011.75,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117542488155",
+  "item_id": "v1|117542488155|0",
+  "referencia": "6265",
+  "mercado": {
+   "n": 4,
+   "p25": 76688,
+   "mediana": 88339
+  },
+  "triage": {
+   "modelo": "Rolex Cosmograph Daytona (esfera plateada con subesferas negras, bisel tahymetro de acero, brazalete Oyster)",
+   "referencia": "6265",
+   "precio_justo_usd": 45000,
+   "interesante": false,
+   "nota": "Precio pedido de US$109.012 muy por encima del valor de venta real de un 6265 en buen estado, incluso con esfera plateada; estimación conservadora, verificar autenticidad y estado de la esfera."
+  },
+  "motivo": "triage: Precio pedido de US$109.012 muy por encima del valor de venta real de un 6265 en buen estado, incluso con esfera plateada; estimación conservadora, verificar autenticidad y estado de la esfera. (justo 45000)"
+ },
+ {
+  "fecha": "2026-11-26T00:30:25.133720+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex 14k Yellow Gold Women’s Watch",
+  "total": 5006.75,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117542488156",
+  "item_id": "v1|117542488156|0",
+  "triage": {
+   "modelo": "Rolex vintage de dama en oro amarillo 14k, caja redonda pequeña y brazalete de malla (probablemente cuerda manual, años 60-70)",
+   "referencia": null,
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Precio pedido US$5007 muy por encima de lo que se vende este modelo; la referencia exacta no se lee en la foto y el valor depende sobre todo del peso del oro del brazalete."
+  },
+  "motivo": "triage: Precio pedido US$5007 muy por encima de lo que se vende este modelo; la referencia exacta no se lee en la foto y el valor depende sobre todo del peso del oro del brazalete. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-26T00:30:25.133720+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex Gold-Capped Oyster Perpetual Date 34mm Automatic Watch",
+  "total": 7506.75,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117542488157",
+  "item_id": "v1|117542488157|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date, caja chapada en oro (gold-capped), probable generación de los años 70",
+   "referencia": "1500 (probable, no verificable en la foto)",
+   "precio_justo_usd": 2200,
+   "interesante": false,
+   "nota": "El precio pedido de US$7507 está muy por encima del valor de mercado de un Date chapado en oro en estado Good; el valor real está en el rango de US$1,800-2,500."
+  },
+  "motivo": "triage: El precio pedido de US$7507 está muy por encima del valor de mercado de un Date chapado en oro en estado Good; el valor real está en el rango de US$1,800-2,500. (justo 2200)"
  }
 ]
