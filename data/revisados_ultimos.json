@@ -1,68 +1,5 @@
 [
  {
-  "fecha": "2026-11-23T23:43:43.016170+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 116189 18K White Gold Datejust 36mm Watch Factory Box And Papers",
-  "total": 26500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960236259144",
-  "item_id": "v1|960236259144|0",
-  "referencia": "116189",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 36 oro blanco 18K, esfera chocolate con bisel de diamantes (según imagen)",
-   "referencia": "116189",
-   "precio_justo_usd": 15500,
-   "interesante": false,
-   "nota": "Precio pedido de US$26.500 está muy por encima del mercado de venta cerrada para esta referencia en oro blanco; no parece una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$26.500 está muy por encima del mercado de venta cerrada para esta referencia en oro blanco; no parece una oportunidad. (justo 15500)"
- },
- {
-  "fecha": "2026-11-23T23:58:43.289819+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Drive de Cartier WSNM0004 Automatic 40mm Steel Watch Box Papers 2017",
-  "total": 5295.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960236327097",
-  "item_id": "v1|960236327097|0",
-  "referencia": "WSNM0004",
-  "mercado": {
-   "n": 4,
-   "p25": 4830,
-   "mediana": 4937
-  },
-  "triage": {
-   "modelo": "Cartier Drive de Cartier 40 mm automático, acero, esfera plateada",
-   "referencia": "WSNM0004",
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta cerrada para esta referencia con caja y papeles de 2017; no hay descuento significativo."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta cerrada para esta referencia con caja y papeles de 2017; no hay descuento significativo. (justo 4000)"
- },
- {
-  "fecha": "2026-11-24T00:13:43.089968+00:00",
-  "marca": "Rolex",
-  "titulo": "Original Rolex 1530 / 1570 8106 BALANCE COMPLETE Blue Hairspring Swiss Made",
-  "total": 499.99,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840160236976",
-  "item_id": "v1|840160236976|0",
-  "triage": {
-   "modelo": "Volante completo (balance complete) para calibre Rolex 1570/1575, no un reloj completo",
-   "referencia": null,
-   "precio_justo_usd": 150,
-   "interesante": false,
-   "nota": "Es una pieza suelta, no un reloj; Rolex vende muy pocas piezas sueltas, así que el 'original' es dudoso y el precio de una pieza usada suele ser bajo."
-  },
-  "motivo": "triage: Es una pieza suelta, no un reloj; Rolex vende muy pocas piezas sueltas, así que el 'original' es dudoso y el precio de una pieza usada suele ser bajo. (justo 150)"
- },
- {
   "fecha": "2026-11-24T00:13:43.089968+00:00",
   "marca": "Tudor",
   "titulo": "2025 Tudor Black Bay 58 GMT \"Coke\" Bracelet 39mm - M7939G1A0NRU \"FULL SET\"",
@@ -10901,5 +10838,62 @@
    "nota": "Precio pedido cercano al retail; con caja y papeles, la reventa normal está algo por debajo. La referencia exacta no es visible en la foto y el estado 'Fair' pesa a la baja."
   },
   "motivo": "triage: Precio pedido cercano al retail; con caja y papeles, la reventa normal está algo por debajo. La referencia exacta no es visible en la foto y el estado 'Fair' pesa a la baja. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-26T03:45:25.265188+00:00",
+  "marca": "Rolex",
+  "titulo": "2018 Full Set Rolex Datejust Gray Floral Motif Steel Oyster 31mm Watch 178240",
+  "total": 8049.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128217240273",
+  "item_id": "v1|128217240273|0",
+  "referencia": "178240",
+  "mercado": {
+   "n": 25,
+   "p25": 8145,
+   "mediana": 8680
+  },
+  "ratio_mercado": 0.988,
+  "motivo": "precio normal (99 % del cuartil bajo de 178240)"
+ },
+ {
+  "fecha": "2026-11-26T03:45:25.265188+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 126711CHNR Two-Tone RootBeer Watch Box Papers ",
+  "total": 18980.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940123548198",
+  "item_id": "v1|940123548198|0",
+  "referencia": "126711CHNR",
+  "mercado": {
+   "n": 98,
+   "p25": 20499,
+   "mediana": 21589
+  },
+  "ratio_mercado": 0.926,
+  "motivo": "precio normal (93 % del cuartil bajo de 126711CHNR)"
+ },
+ {
+  "fecha": "2026-11-26T03:45:25.265188+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 Blue M79030B-0001 39mm Full Set 2025 Box Papers 2 Bracelets",
+  "total": 3750.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/237208002968",
+  "item_id": "v1|237208002968|0",
+  "referencia": "M79030B-0001",
+  "mercado": {
+   "n": 4,
+   "p25": 3368,
+   "mediana": 3440
+  },
+  "triage": {
+   "modelo": "Tudor Black Bay 58 Blue (esfera azul, caja de acero 39 mm, con caja y papeles)",
+   "referencia": "M79030B-0001",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "El precio pedido de US$3750 queda por encima de lo que se vende este modelo de segunda mano en buen estado con caja y papeles; no hay descuento suficiente."
+  },
+  "motivo": "triage: El precio pedido de US$3750 queda por encima de lo que se vende este modelo de segunda mano en buen estado con caja y papeles; no hay descuento suficiente. (justo 3400)"
  }
 ]
