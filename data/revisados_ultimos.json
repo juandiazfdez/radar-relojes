@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-11-24T15:59:15.650392+00:00",
-  "marca": "Rolex",
-  "titulo": "2021 Rolex DateJust 41 126334 Wimbledon 18K Steel Jubilee Fluted 41mm Box Papers",
-  "total": 16508.38,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267853503369",
-  "item_id": "v1|267853503369|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 Wimbledon (acero y oro blanco, bisel acanalado, esfera pizarra con numerales romanos verdes, brazalete Jubilee)",
-   "referencia": "126334",
-   "precio_justo_usd": 15500,
-   "interesante": false,
-   "nota": "Modelo y referencia coinciden con la imagen; el precio pedido (US$16,508 con envío) queda por encima del rango de venta cerrada para este estado, caja y papeles de 2021."
-  },
-  "motivo": "triage: Modelo y referencia coinciden con la imagen; el precio pedido (US$16,508 con envío) queda por encima del rango de venta cerrada para este estado, caja y papeles de 2021. (justo 15500)"
- },
- {
-  "fecha": "2026-11-24T15:59:15.650392+00:00",
-  "marca": "Rolex",
-  "titulo": "1983 PAPERS Ladies Rolex DateJust President 26mm CHAMPAGNE 18K Gold 6917 BOX",
-  "total": 9164.66,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940119782108",
-  "item_id": "v1|940119782108|0",
-  "referencia": "6917",
-  "mercado": {
-   "n": 45,
-   "p25": 3990,
-   "mediana": 4064
-  },
-  "ratio_mercado": 2.297,
-  "motivo": "precio normal (230 % del cuartil bajo de 6917)"
- },
- {
-  "fecha": "2026-11-24T15:59:15.650392+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Ballon Bleu de Cartier Automatic Watch Stainless Steel 42",
   "total": 5110.0,
@@ -10915,5 +10875,39 @@
    "nota": "El precio pedido está algo por encima del rango de venta real. El título dice 38 mm, pero el XL es más grande, así que hay que verificar la referencia y el tamaño."
   },
   "motivo": "triage: El precio pedido está algo por encima del rango de venta real. El título dice 38 mm, pero el XL es más grande, así que hay que verificar la referencia y el tamaño. (justo 5800)"
+ },
+ {
+  "fecha": "2026-11-26T19:30:54.713473+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Lady-Datejust, President Bracelet, Silver Diamond Dial, Yellow ...",
+  "total": 15967.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/366840635625",
+  "item_id": "v1|366840635625|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 mm, oro amarillo de 18k, brazalete President, bisel acanalado, esfera plateada con marcadores de diamante",
+   "referencia": "69178 (probable; 179178 si es de generación posterior)",
+   "precio_justo_usd": 9000,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de venta real para esta referencia en estado reacondicionado; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de venta real para esta referencia en estado reacondicionado; no es una oportunidad. (justo 9000)"
+ },
+ {
+  "fecha": "2026-11-26T19:30:54.713473+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Lady-Datejust 26, 69178, Yellow Gold, Champagne Diamond Dial,",
+  "total": 14968.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/206729096997",
+  "item_id": "v1|206729096997|0",
+  "referencia": "69178",
+  "mercado": {
+   "n": 5,
+   "p25": 5450,
+   "mediana": 5950
+  },
+  "ratio_mercado": 2.746,
+  "motivo": "precio normal (275 % del cuartil bajo de 69178)"
  }
 ]
