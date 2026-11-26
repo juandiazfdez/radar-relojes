@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-24T02:28:53.681403+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Pasha C Stainless Steel Wristwatch - Silver Face w/ Black dials",
-  "total": 2500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920177541813",
-  "item_id": "v1|920177541813|0",
-  "triage": {
-   "modelo": "Cartier Pasha C cronógrafo (identificación aproximada)",
-   "referencia": null,
-   "precio_justo_usd": 3200,
-   "interesante": false,
-   "nota": "La foto parece mostrar bicolor acero/oro, no acero como indica el título, y no se distinguen la referencia ni el número de serie; verificar antes de comprar."
-  },
-  "motivo": "triage: La foto parece mostrar bicolor acero/oro, no acero como indica el título, y no se distinguen la referencia ni el número de serie; verificar antes de comprar. (justo 3200)"
- },
- {
-  "fecha": "2026-11-24T02:28:53.681403+00:00",
   "marca": "Tudor",
   "titulo": "Tudor 1926 39mm Steel Silver 6 Arabic 6 Diamonds M91550-0003 Excellent Card",
   "total": 2015.0,
@@ -10918,5 +10901,22 @@
    "nota": "Referencia 126613LB (bicolor, esfera y bisel azules). El precio pedido está solo ~7 % por debajo de la estimación de venta real; no alcanza el umbral del 15 %. Verificar originalidad y estado antes de comprar."
   },
   "motivo": "triage: Referencia 126613LB (bicolor, esfera y bisel azules). El precio pedido está solo ~7 % por debajo de la estimación de venta real; no alcanza el umbral del 15 %. Verificar originalidad y estado antes de comprar. (justo 19500)"
+ },
+ {
+  "fecha": "2026-11-26T10:00:35.407275+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date Steel Watch 116610LN",
+  "total": 12300.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840167127747",
+  "item_id": "v1|840167127747|0",
+  "referencia": "116610LN",
+  "mercado": {
+   "n": 58,
+   "p25": 12899,
+   "mediana": 13520
+  },
+  "ratio_mercado": 0.954,
+  "motivo": "precio normal (95 % del cuartil bajo de 116610LN)"
  }
 ]
