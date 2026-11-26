@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T15:14:16.433823+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay GMT 41mm 79830RB",
-  "total": 3595.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960238753176",
-  "item_id": "v1|960238753176|0",
-  "referencia": "79830RB",
-  "mercado": {
-   "n": 58,
-   "p25": 3758,
-   "mediana": 3986
-  },
-  "ratio_mercado": 0.957,
-  "motivo": "precio normal (96 % del cuartil bajo de 79830RB)"
- },
- {
-  "fecha": "2026-11-24T15:29:16.052208+00:00",
-  "marca": "Rolex",
-  "titulo": "1991 Rolex Yacht-Master 16628 White 18K Yellow Gold 40mm Automatic Oyster Watch",
-  "total": 23648.08,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960238794335",
-  "item_id": "v1|960238794335|0",
-  "referencia": "16628",
-  "mercado": {
-   "n": 9,
-   "p25": 24158,
-   "mediana": 25885
-  },
-  "ratio_mercado": 0.979,
-  "motivo": "precio normal (98 % del cuartil bajo de 16628)"
- },
- {
   "fecha": "2026-11-24T15:29:16.052208+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Tank Solo Rose Gold Ladies Watch W5200024 Box Card",
@@ -10915,5 +10881,39 @@
   },
   "ratio_mercado": 0.962,
   "motivo": "precio normal (96 % del cuartil bajo de 126610LN)"
+ },
+ {
+  "fecha": "2026-11-26T18:00:54.525224+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Ceramic 114060 Stainless Steel 40mm Men's Dive Luxury Watch",
+  "total": 10299.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/840168127501",
+  "item_id": "v1|840168127501|0",
+  "referencia": "114060",
+  "mercado": {
+   "n": 42,
+   "p25": 11612,
+   "mediana": 12969
+  },
+  "ratio_mercado": 0.887,
+  "motivo": "precio normal (89 % del cuartil bajo de 114060)"
+ },
+ {
+  "fecha": "2026-11-26T18:00:54.525224+00:00",
+  "marca": "Rolex",
+  "titulo": "Authentic Rolex Watch Box 39139.01 Oyster M Green Wave Geneve Suisse",
+  "total": 200.0,
+  "condicion": "New without box or papers",
+  "url": "https://www.ebay.com/itm/227632060440",
+  "item_id": "v1|227632060440|0",
+  "triage": {
+   "modelo": "Estuche/caja Rolex verde con patrón de ondas (solo caja, sin reloj)",
+   "referencia": "39139.01 (según título, sin verificar)",
+   "precio_justo_usd": 60,
+   "interesante": false,
+   "nota": "El listado es solo la caja, sin reloj, papeles ni manual; no es una compra de reloj y el precio ya es alto para un estuche suelto."
+  },
+  "motivo": "triage: El listado es solo la caja, sin reloj, papeles ni manual; no es una compra de reloj y el precio ya es alto para un estuche suelto. (justo 60)"
  }
 ]
