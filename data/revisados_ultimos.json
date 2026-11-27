@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T16:44:16.374831+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Chronograph Panda Steel 41mm Original Box Papers 79360N-0002",
-  "total": 4395.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/168884422272",
-  "item_id": "v1|168884422272|0",
-  "referencia": "79360N-0002",
-  "mercado": {
-   "n": 57,
-   "p25": 4500,
-   "mediana": 4894
-  },
-  "ratio_mercado": 0.977,
-  "motivo": "precio normal (98 % del cuartil bajo de 79360N-0002)"
- },
- {
-  "fecha": "2026-11-24T16:44:16.374831+00:00",
-  "marca": "Tudor",
-  "titulo": "Vintage 1966 Tudor Oyster Prince Submariner Ref. 7928, Running Well",
-  "total": 8506.89,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307299519004",
-  "item_id": "v1|307299519004|0",
-  "triage": {
-   "modelo": "Tudor Oyster Prince Submariner (estilo Submariner vintage)",
-   "referencia": "7928",
-   "precio_justo_usd": 7800,
-   "interesante": false,
-   "nota": "Ref. 7928 de los años 60 en estado bueno, sin caja ni papeles mencionados; el precio pedido queda por encima del valor de venta estimado. Verificar dial, manecillas y autenticidad antes de comprar."
-  },
-  "motivo": "triage: Ref. 7928 de los años 60 en estado bueno, sin caja ni papeles mencionados; el precio pedido queda por encima del valor de venta estimado. Verificar dial, manecillas y autenticidad antes de comprar. (justo 7800)"
- },
- {
   "fecha": "2026-11-24T16:59:16.071723+00:00",
   "marca": "Rolex",
   "titulo": "New Nov 2026 Rolex Submariner No Date 124060 LN Steel 41mm Ceramic Box Papers",
@@ -10884,5 +10850,39 @@
   },
   "ratio_mercado": 1.258,
   "motivo": "precio normal (126 % del cuartil bajo de 116660)"
+ },
+ {
+  "fecha": "2026-11-27T00:46:03.585724+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Complete Set 36mm Rolex Explorer 124270",
+  "total": 9150.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960242436681",
+  "item_id": "v1|960242436681|0",
+  "referencia": "124270",
+  "mercado": {
+   "n": 23,
+   "p25": 8999,
+   "mediana": 9500
+  },
+  "ratio_mercado": 1.017,
+  "motivo": "precio normal (102 % del cuartil bajo de 124270)"
+ },
+ {
+  "fecha": "2026-11-27T00:46:03.585724+00:00",
+  "marca": "Rolex",
+  "titulo": "Complete Set Pistachio Rolex Oyster Perpetual 34 124200",
+  "total": 9350.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960242422220",
+  "item_id": "v1|960242422220|0",
+  "referencia": "124200",
+  "mercado": {
+   "n": 9,
+   "p25": 7299,
+   "mediana": 7500
+  },
+  "ratio_mercado": 1.281,
+  "motivo": "precio normal (128 % del cuartil bajo de 124200)"
  }
 ]
