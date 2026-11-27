@@ -1,56 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T18:59:26.043208+00:00",
-  "marca": "Rolex",
-  "titulo": "1941 Gruen Vintage Techni - Quadron / Rolex Prince Watch, 14K Gold-Filled",
-  "total": 2495.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/377673740383",
-  "item_id": "v1|377673740383|0",
-  "triage": {
-   "modelo": "Gruen Techni-Quadron (ca. 1941), caja chapada en oro 14K (gold-filled); el título menciona 'Rolex Prince', pero el dial y la caja corresponden a Gruen",
-   "referencia": null,
-   "precio_justo_usd": 650,
-   "interesante": false,
-   "nota": "No es Rolex: el título usa 'Rolex Prince' como reclamo, pero es un Gruen gold-filled, no macizo. Su precio de venta real es bastante menor que US$2495."
-  },
-  "motivo": "triage: No es Rolex: el título usa 'Rolex Prince' como reclamo, pero es un Gruen gold-filled, no macizo. Su precio de venta real es bastante menor que US$2495. (justo 650)"
- },
- {
-  "fecha": "2026-11-24T19:14:25.745193+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Ladies Date  SS & 14KYG Automatic Self Wind Watch 6917",
-  "total": 3990.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147696086806",
-  "item_id": "v1|147696086806|0",
-  "referencia": "6917",
-  "mercado": {
-   "n": 45,
-   "p25": 3990,
-   "mediana": 4064
-  },
-  "ratio_mercado": 1.0,
-  "motivo": "precio normal (100 % del cuartil bajo de 6917)"
- },
- {
-  "fecha": "2026-11-24T19:14:25.745193+00:00",
-  "marca": "Rolex",
-  "titulo": "W/Papers 1971 Rolex Oyster Perpetual Ladies 26 mm Two Tone Champagne Watch 6618",
-  "total": 3590.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800961765261",
-  "item_id": "v1|800961765261|0",
-  "referencia": "6618",
-  "mercado": {
-   "n": 11,
-   "p25": 2635,
-   "mediana": 2825
-  },
-  "ratio_mercado": 1.362,
-  "motivo": "precio normal (136 % del cuartil bajo de 6618)"
- },
- {
   "fecha": "2026-11-24T19:14:25.745193+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Day-Date 40, 228239, White Gold, Bright Blue Roman Dial, President Brac...",
@@ -10944,5 +10893,56 @@
    "nota": "Precio pedido muy por encima del valor de mercado de esta referencia de oro 18K, aunque el servicio de 2025 suma algo de valor."
   },
   "motivo": "triage: Precio pedido muy por encima del valor de mercado de esta referencia de oro 18K, aunque el servicio de 2025 suma algo de valor. (justo 15000)"
+ },
+ {
+  "fecha": "2026-11-27T11:46:21.936202+00:00",
+  "marca": "Cartier",
+  "titulo": "Mens Cartier Santos Octagon Spider Web Watch",
+  "total": 6999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198828595818",
+  "item_id": "v1|198828595818|0",
+  "triage": {
+   "modelo": "Cartier Santos Octagon (acero, cuarzo, esfera blanca con numerales romanos)",
+   "referencia": null,
+   "precio_justo_usd": 2500,
+   "interesante": false,
+   "nota": "La foto muestra una esfera blanca lisa, no spider web como dice el título; el precio pedido de US$6,999 está muy por encima del valor de mercado de este modelo."
+  },
+  "motivo": "triage: La foto muestra una esfera blanca lisa, no spider web como dice el título; el precio pedido de US$6,999 está muy por encima del valor de mercado de este modelo. (justo 2500)"
+ },
+ {
+  "fecha": "2026-11-27T11:46:21.936202+00:00",
+  "marca": "Cartier",
+  "titulo": "Mens Cartier Roadster Las Vegas Watch",
+  "total": 3499.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198828595063",
+  "item_id": "v1|198828595063|0",
+  "triage": {
+   "modelo": "Cartier Roadster XL (caja tonneau de acero, esfera negra, posible edición especial \"Las Vegas\")",
+   "referencia": null,
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Identificación incierta: la referencia exacta y si es edición Las Vegas no se pueden confirmar en la foto. Precio pedido unos 12-13 % bajo la estimación conservadora, por debajo del umbral del 15 %."
+  },
+  "motivo": "triage: Identificación incierta: la referencia exacta y si es edición Las Vegas no se pueden confirmar en la foto. Precio pedido unos 12-13 % bajo la estimación conservadora, por debajo del umbral del 15 %. (justo 4000)"
+ },
+ {
+  "fecha": "2026-11-27T11:46:21.936202+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 58 GMT M7939G1A0NRU-0001",
+  "total": 3911.8,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840169951315",
+  "item_id": "v1|840169951315|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 GMT (39 mm, acero, bisel bicolor negro/rojo, brazalete tipo Jubilee)",
+   "referencia": "M7939G1A0NRU-0001",
+   "precio_justo_usd": 3600,
+   "interesante": false,
+   "nota": "Modelo consistente con la foto y el título; el precio total de US$3.912 supera la estimación de mercado para un usado en excelente estado, sin ventaja clara."
+  },
+  "motivo": "triage: Modelo consistente con la foto y el título; el precio total de US$3.912 supera la estimación de mercado para un usado en excelente estado, sin ventaja clara. (justo 3600)"
  }
 ]
