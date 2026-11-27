@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-24T16:44:16.374831+00:00",
   "marca": "Tudor",
-  "titulo": "NEW 2026 Tudor 1926 41mm Stainless Steel M91650-0005 Full Set",
-  "total": 2275.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/820393088280",
-  "item_id": "v1|820393088280|0",
-  "referencia": "M91650-0005",
-  "mercado": {
-   "n": 1,
-   "p25": 2295,
-   "mediana": 2295
-  },
-  "triage": {
-   "modelo": "Tudor 1926 41mm acero, esfera plateada con números arábigos azules y fecha",
-   "referencia": "M91650-0005 (según título; no lo confirmo solo por la foto)",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Descuento de ~24% sobre un precio justo de mercado gris para pieza nueva con caja y papeles, pero es demasiado bajo para un listado nuevo: verificar autenticidad y vendedor antes de comprar."
-  },
-  "motivo": "triage: Descuento de ~24% sobre un precio justo de mercado gris para pieza nueva con caja y papeles, pero es demasiado bajo para un listado nuevo: verificar autenticidad y vendedor antes de comprar. (justo 3000)"
- },
- {
-  "fecha": "2026-11-24T16:44:16.374831+00:00",
-  "marca": "Tudor",
   "titulo": "Tudor Black Bay Chronograph Panda Steel 41mm Original Box Papers 79360N-0002",
   "total": 4395.0,
   "condicion": "Pre-owned - Excellent",
@@ -10890,5 +10867,22 @@
   },
   "ratio_mercado": 1.0,
   "motivo": "precio normal (100 % del cuartil bajo de 116710LN)"
+ },
+ {
+  "fecha": "2026-11-27T00:31:02.595032+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Sea-Dweller Deepsea Blue  James Cameron 116660",
+  "total": 12813.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307303766226",
+  "item_id": "v1|307303766226|0",
+  "referencia": "116660",
+  "mercado": {
+   "n": 47,
+   "p25": 10185,
+   "mediana": 11999
+  },
+  "ratio_mercado": 1.258,
+  "motivo": "precio normal (126 % del cuartil bajo de 116660)"
  }
 ]
