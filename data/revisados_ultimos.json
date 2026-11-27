@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-24T19:14:25.745193+00:00",
   "marca": "Rolex",
-  "titulo": "Rare Vintage Rolex Datejust 36 mm Thunderbird Two Tone Jubilee Watch 1625 1968",
-  "total": 6990.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407386226934",
-  "item_id": "v1|407386226934|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36 mm Thunderbird bicolor (acero y oro amarillo, brazalete Jubilee)",
-   "referencia": "1625",
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor estimado; la fecha 1968 del título parece incorrecta para la ref. 1625 (producción aprox. 1972-1987)."
-  },
-  "motivo": "triage: Precio pedido por encima del valor estimado; la fecha 1968 del título parece incorrecta para la ref. 1625 (producción aprox. 1972-1987). (justo 5000)"
- },
- {
-  "fecha": "2026-11-24T19:14:25.745193+00:00",
-  "marca": "Rolex",
   "titulo": "2022 Rolex Sea-Dweller 126600 Full Set Red Letter 43mm Men's Wristwatch",
   "total": 11900.0,
   "condicion": "Pre-owned - Good",
@@ -10944,5 +10927,22 @@
    "nota": "La referencia exacta no se distingue en la foto y el precio pedido supera la estimacion de venta cerrada para un Cellini vintage de 18K en buen estado sin caja, por lo que no cumple el umbral del 15 %."
   },
   "motivo": "triage: La referencia exacta no se distingue en la foto y el precio pedido supera la estimacion de venta cerrada para un Cellini vintage de 18K en buen estado sin caja, por lo que no cumple el umbral del 15 %. (justo 3400)"
+ },
+ {
+  "fecha": "2026-11-27T12:16:22.263596+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Black Bay 58 Stainless Steel Watch M7939A1A0NU",
+  "total": 4800.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/407392897913",
+  "item_id": "v1|407392897913|0",
+  "triage": {
+   "modelo": "Tudor Black Bay 58 (39 mm, acero, esfera negra, brazalete de eslabones tipo jubileo)",
+   "referencia": "M7939A1A0NU",
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "Nuevo con caja y papeles, se vende cerca de 3.300-3.600 USD; el pedido de 4.800 USD está muy por encima del mercado."
+  },
+  "motivo": "triage: Nuevo con caja y papeles, se vende cerca de 3.300-3.600 USD; el pedido de 4.800 USD está muy por encima del mercado. (justo 3400)"
  }
 ]
