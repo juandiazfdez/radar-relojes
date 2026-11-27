@@ -2,63 +2,6 @@
  {
   "fecha": "2026-11-24T20:14:25.860513+00:00",
   "marca": "Rolex",
-  "titulo": "New Original Rolex 1530 310 Barrel with Arbor & Mainspring Complete Sealed Swiss",
-  "total": 239.0,
-  "condicion": "New without box or papers",
-  "url": "https://www.ebay.com/itm/840162749928",
-  "item_id": "v1|840162749928|0",
-  "triage": {
-   "modelo": "Pieza de repuesto: tambor de cuerda (barrel) con arbor y muelle real, calibre Rolex 1530",
-   "referencia": "calibre 1530",
-   "precio_justo_usd": 100,
-   "interesante": false,
-   "nota": "Es una pieza suelta, no un reloj, y Rolex no vende estos componentes al público; la afirmación de 'original sellado' no es verificable. Precio justo estimado para una pieza de origen dudoso, a la baja."
-  },
-  "motivo": "triage: Es una pieza suelta, no un reloj, y Rolex no vende estos componentes al público; la afirmación de 'original sellado' no es verificable. Precio justo estimado para una pieza de origen dudoso, a la baja. (justo 100)"
- },
- {
-  "fecha": "2026-11-24T20:14:25.860513+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 31, 278240, Steel, Bright Black Roman Dial, Oyster Bracelet",
-  "total": 12373.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/206725244677",
-  "item_id": "v1|206725244677|0",
-  "referencia": "278240",
-  "mercado": {
-   "n": 13,
-   "p25": 10448,
-   "mediana": 11539
-  },
-  "ratio_mercado": 1.184,
-  "motivo": "precio normal (118 % del cuartil bajo de 278240)"
- },
- {
-  "fecha": "2026-11-24T20:14:25.860513+00:00",
-  "marca": "Rolex",
-  "titulo": "New Original Rolex 3035 5008 Barrel w. Arbor & Mainspring Complete Sealed Swiss",
-  "total": 149.0,
-  "condicion": "New without box or papers",
-  "url": "https://www.ebay.com/itm/880150096095",
-  "item_id": "v1|880150096095|0",
-  "referencia": "5008",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Barrilete completo (barrel con arbor y muelle real) para calibre Rolex 3035",
-   "referencia": "5008 (número de pieza)",
-   "precio_justo_usd": 80,
-   "interesante": false,
-   "nota": "Es una pieza de recambio, no un reloj, y el vendedor sin historial no permite verificar que sea original Rolex; el precio de US$149 no está claramente por debajo del valor de mercado de un barrilete para 3035."
-  },
-  "motivo": "triage: Es una pieza de recambio, no un reloj, y el vendedor sin historial no permite verificar que sea original Rolex; el precio de US$149 no está claramente por debajo del valor de mercado de un barrilete para 3035. (justo 80)"
- },
- {
-  "fecha": "2026-11-24T20:14:25.860513+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust 31, 278240, Steel, Pink Index, Oyster Bracelet",
   "total": 13171.0,
   "condicion": "New with box and papers",
@@ -10955,5 +10898,68 @@
    "nota": "Precio pedido de US$5.900 muy por encima del mercado para un Tank Must nuevo de acero con caja y papeles; además el título indica automático, lo que no encaja con esta referencia."
   },
   "motivo": "triage: Precio pedido de US$5.900 muy por encima del mercado para un Tank Must nuevo de acero con caja y papeles; además el título indica automático, lo que no encaja con esta referencia. (justo 2600)"
+ },
+ {
+  "fecha": "2026-11-27T16:16:34.156120+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date Day-Date Platinum / Ice Blue Diagonal Motif 228206",
+  "total": 64060.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960246437024",
+  "item_id": "v1|960246437024|0",
+  "referencia": "228206",
+  "mercado": {
+   "n": 21,
+   "p25": 64895,
+   "mediana": 69000
+  },
+  "ratio_mercado": 0.987,
+  "motivo": "precio normal (99 % del cuartil bajo de 228206)"
+ },
+ {
+  "fecha": "2026-11-27T16:16:34.156120+00:00",
+  "marca": "Rolex",
+  "titulo": "Ladies Rolex Oyster Perpetual BLUE Engine Turned 24mm NO-HOLES Watch 67230",
+  "total": 3656.2,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267856323347",
+  "item_id": "v1|267856323347|0",
+  "referencia": "67230",
+  "mercado": {
+   "n": 1,
+   "p25": 5000,
+   "mediana": 5000
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Lady 24 mm (esfera azul, bisel liso, brazalete Oyster de acero)",
+   "referencia": "67230",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio pedido de US$3656 con envío, por encima de lo que se vende este modelo; el título menciona bisel engine-turned pero la foto muestra bisel liso, así que conviene verificarlo."
+  },
+  "motivo": "triage: Precio pedido de US$3656 con envío, por encima de lo que se vende este modelo; el título menciona bisel engine-turned pero la foto muestra bisel liso, así que conviene verificarlo. (justo 3300)"
+ },
+ {
+  "fecha": "2026-11-27T16:16:34.156120+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Baignoire W8000005 18K Rose Gold Ladies Watch Box Papers",
+  "total": 25699.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227635209883",
+  "item_id": "v1|227635209883|0",
+  "referencia": "W8000005",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Cartier Baignoire (oval, mujer) en oro rosa 18K con brazalete integrado",
+   "referencia": "W8000005",
+   "precio_justo_usd": 15000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de mercado para esta referencia en oro rosa 18K con caja y papeles; el valor está sobre todo en el oro y en la demanda del modelo, no en un descuento disponible."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de mercado para esta referencia en oro rosa 18K con caja y papeles; el valor está sobre todo en el oro y en la demanda del modelo, no en un descuento disponible. (justo 15000)"
  }
 ]
