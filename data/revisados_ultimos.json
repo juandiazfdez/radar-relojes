@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-24T19:14:25.745193+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Day-Date 40, 228239, White Gold, Bright Blue Roman Dial, President Brac...",
-  "total": 60391.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/800961731397",
-  "item_id": "v1|800961731397|0",
-  "referencia": "228239",
-  "mercado": {
-   "n": 9,
-   "p25": 50999,
-   "mediana": 53999
-  },
-  "ratio_mercado": 1.184,
-  "motivo": "precio normal (118 % del cuartil bajo de 228239)"
- },
- {
-  "fecha": "2026-11-24T19:14:25.745193+00:00",
-  "marca": "Rolex",
   "titulo": "Rare Vintage Rolex Datejust 36 mm Thunderbird Two Tone Jubilee Watch 1625 1968",
   "total": 6990.0,
   "condicion": "Pre-owned - Excellent",
@@ -10944,5 +10927,22 @@
    "nota": "Modelo consistente con la foto y el título; el precio total de US$3.912 supera la estimación de mercado para un usado en excelente estado, sin ventaja clara."
   },
   "motivo": "triage: Modelo consistente con la foto y el título; el precio total de US$3.912 supera la estimación de mercado para un usado en excelente estado, sin ventaja clara. (justo 3600)"
+ },
+ {
+  "fecha": "2026-11-27T12:01:22.472602+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Cellini Vintage 18K Yellow Gold / Leather Watch",
+  "total": 4109.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267856145892",
+  "item_id": "v1|267856145892|0",
+  "triage": {
+   "modelo": "Rolex Cellini vintage en oro amarillo 18K, esfera dorada, correa de cuero (esfera redonda con indices de barra)",
+   "referencia": null,
+   "precio_justo_usd": 3400,
+   "interesante": false,
+   "nota": "La referencia exacta no se distingue en la foto y el precio pedido supera la estimacion de venta cerrada para un Cellini vintage de 18K en buen estado sin caja, por lo que no cumple el umbral del 15 %."
+  },
+  "motivo": "triage: La referencia exacta no se distingue en la foto y el precio pedido supera la estimacion de venta cerrada para un Cellini vintage de 18K en buen estado sin caja, por lo que no cumple el umbral del 15 %. (justo 3400)"
  }
 ]
