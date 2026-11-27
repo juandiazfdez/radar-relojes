@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-24T16:59:16.071723+00:00",
-  "marca": "Rolex",
-  "titulo": "2015 Rolex Day-Date President 228239 Rhodium Tapestry 18K Gold 40mm Box Papers",
-  "total": 40988.81,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940119924432",
-  "item_id": "v1|940119924432|0",
-  "referencia": "228239",
-  "mercado": {
-   "n": 16,
-   "p25": 46000,
-   "mediana": 48700
-  },
-  "ratio_mercado": 0.891,
-  "motivo": "precio normal (89 % del cuartil bajo de 228239)"
- },
- {
-  "fecha": "2026-11-24T16:59:16.071723+00:00",
   "marca": "Tudor",
   "titulo": "2019 Tudor Black Bay 41 Automatic  Ref. 79230 Box + Papers",
   "total": 3335.0,
@@ -10890,5 +10873,22 @@
    "nota": "Precio pedido de US$26,500 supera en más de 30 % el valor de venta cerrada estimado para este estado y configuración."
   },
   "motivo": "triage: Precio pedido de US$26,500 supera en más de 30 % el valor de venta cerrada estimado para este estado y configuración. (justo 19000)"
+ },
+ {
+  "fecha": "2026-11-27T02:01:03.043755+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Must Vendome Sterling Vermeil, 59003 Quartz, Black Dial, Woman's Watch",
+  "total": 899.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/198824193936",
+  "item_id": "v1|198824193936|0",
+  "triage": {
+   "modelo": "Cartier Must de Cartier Vendome Vermeil (cuarzo, esfera negra)",
+   "referencia": "590003 (según título; verificar, podría ser 590002)",
+   "precio_justo_usd": 500,
+   "interesante": false,
+   "nota": "Vermeil de cuarzo con esfera negra que suele venderse cerca de US$400-600 según estado; US$899 está muy por encima del mercado."
+  },
+  "motivo": "triage: Vermeil de cuarzo con esfera negra que suele venderse cerca de US$400-600 según estado; US$899 está muy por encima del mercado. (justo 500)"
  }
 ]
