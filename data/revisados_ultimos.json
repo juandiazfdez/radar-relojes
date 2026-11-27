@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-25T09:29:53.361419+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Date 40mm 116610LN Black Oyster ",
-  "total": 12149.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147696920540",
-  "item_id": "v1|147696920540|0",
-  "referencia": "116610LN",
-  "mercado": {
-   "n": 58,
-   "p25": 12899,
-   "mediana": 13570
-  },
-  "ratio_mercado": 0.942,
-  "motivo": "precio normal (94 % del cuartil bajo de 116610LN)"
- },
- {
   "fecha": "2026-11-25T09:44:53.612873+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Yachtmaster 42mm 226627 Titanium 2026",
@@ -11009,5 +10992,28 @@
   },
   "ratio_mercado": 0.943,
   "motivo": "precio normal (94 % del cuartil bajo de WSSA0032)"
+ },
+ {
+  "fecha": "2026-11-27T23:46:45.310266+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Day-Date 40 228236 Platinum Ice Blue Baguette Mint Unpolished Full Set",
+  "total": 89995.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/227635830278",
+  "item_id": "v1|227635830278|0",
+  "referencia": "228236",
+  "mercado": {
+   "n": 3,
+   "p25": 86650,
+   "mediana": 89950
+  },
+  "triage": {
+   "modelo": "Rolex Day-Date 40 (presidente) en oro blanco, bisel acanalado, esfera ice blue",
+   "referencia": "228236",
+   "precio_justo_usd": 50000,
+   "interesante": false,
+   "nota": "El título dice platino, pero la 228236 es oro blanco (el platino es la 228206). Precio muy por encima del mercado secundario para este modelo."
+  },
+  "motivo": "triage: El título dice platino, pero la 228236 es oro blanco (el platino es la 228206). Precio muy por encima del mercado secundario para este modelo. (justo 50000)"
  }
 ]
