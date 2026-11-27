@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-24T18:59:26.043208+00:00",
   "marca": "Rolex",
-  "titulo": "Full Set Rolex Submariner 40 mm Smurf 18K White Gold Watch 116619 Service Valid",
-  "total": 52500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407386222715",
-  "item_id": "v1|407386222715|0",
-  "referencia": "116619",
-  "mercado": {
-   "n": 9,
-   "p25": 44999,
-   "mediana": 45388
-  },
-  "ratio_mercado": 1.167,
-  "motivo": "precio normal (117 % del cuartil bajo de 116619)"
- },
- {
-  "fecha": "2026-11-24T18:59:26.043208+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date 40, President Bracelet, Onyx Diamond Dial, Yellow Gold, 228238",
-  "total": 80058.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/366835541342",
-  "item_id": "v1|366835541342|0",
-  "referencia": "228238",
-  "mercado": {
-   "n": 21,
-   "p25": 59999,
-   "mediana": 63999
-  },
-  "ratio_mercado": 1.334,
-  "motivo": "precio normal (133 % del cuartil bajo de 228238)"
- },
- {
-  "fecha": "2026-11-24T18:59:26.043208+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex 126710BLNR GMT-Master II \"Batgirl\" 40mm Jubilee Bracelet Box & Papers 2021",
   "total": 19900.0,
   "condicion": "Pre-owned - Excellent",
@@ -10932,5 +10898,45 @@
    "nota": "Precio cercano al mercado para un 1601 pie pan vintage; el título mezcla referencias y hay que verificar esfera, año y autenticidad antes de comprar."
   },
   "motivo": "triage: Precio cercano al mercado para un 1601 pie pan vintage; el título mezcla referencias y hay que verificar esfera, año y autenticidad antes de comprar. (justo 4500)"
+ },
+ {
+  "fecha": "2026-11-27T08:01:12.218028+00:00",
+  "marca": "Rolex",
+  "titulo": "STICKERED Rolex Submariner No-Date 40mm 114060 2017",
+  "total": 13499.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/147700314837",
+  "item_id": "v1|147700314837|0",
+  "referencia": "114060",
+  "mercado": {
+   "n": 3,
+   "p25": 14468,
+   "mediana": 14745
+  },
+  "triage": {
+   "modelo": "Rolex Submariner No-Date (acero, bisel cerámico negro, esfera negra)",
+   "referencia": "114060",
+   "precio_justo_usd": 12000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de mercado secundario estimado para la 114060 con caja y papeles; el acero de Rolex suele venderse sobre retail."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de mercado secundario estimado para la 114060 con caja y papeles; el acero de Rolex suele venderse sobre retail. (justo 12000)"
+ },
+ {
+  "fecha": "2026-11-27T08:01:12.218028+00:00",
+  "marca": "Rolex",
+  "titulo": "NEW JUL 2026 B&P ROLEX GMT MASTER II 126710GRNR BRUCE WAYNE 40MM JUBILEE WATCH",
+  "total": 22690.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840169531222",
+  "item_id": "v1|840169531222|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 68,
+   "p25": 21120,
+   "mediana": 22446
+  },
+  "ratio_mercado": 1.074,
+  "motivo": "precio normal (107 % del cuartil bajo de 126710GRNR)"
  }
 ]
