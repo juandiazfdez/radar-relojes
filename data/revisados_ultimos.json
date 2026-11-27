@@ -2,57 +2,6 @@
  {
   "fecha": "2026-11-24T23:14:26.205806+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Explorer Stainless Steel Watch 214270",
-  "total": 8000.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407386594686",
-  "item_id": "v1|407386594686|0",
-  "referencia": "214270",
-  "mercado": {
-   "n": 21,
-   "p25": 8495,
-   "mediana": 9715
-  },
-  "ratio_mercado": 0.942,
-  "motivo": "precio normal (94 % del cuartil bajo de 214270)"
- },
- {
-  "fecha": "2026-11-24T23:14:26.205806+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Day-Date 40 Champagne Baguette Diamond President 228238 Complete Open Date",
-  "total": 58060.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/227630784794",
-  "item_id": "v1|227630784794|0",
-  "referencia": "228238",
-  "mercado": {
-   "n": 32,
-   "p25": 47900,
-   "mediana": 48990
-  },
-  "ratio_mercado": 1.212,
-  "motivo": "precio normal (121 % del cuartil bajo de 228238)"
- },
- {
-  "fecha": "2026-11-24T23:14:26.205806+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 1960s Rolex 14K Yellow Gold Oval Cocktail Watch Italian Mesh Bracelet",
-  "total": 7000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960239599361",
-  "item_id": "v1|960239599361|0",
-  "triage": {
-   "modelo": "Reloj de pulsera de dama tipo cocktail, caja ovalada y brazalete de malla en oro de 14K (marca no verificable en la foto; el texto del dial es ilegible)",
-   "referencia": null,
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "No se ve la corona de Rolex en la foto y el oro de 14K es atípico para Rolex; sin marca confirmada ni referencia, el precio pedido de 7.000 USD está muy por encima del valor estimado (~2.500-3.500 USD, con el valor del oro como piso)."
-  },
-  "motivo": "triage: No se ve la corona de Rolex en la foto y el oro de 14K es atípico para Rolex; sin marca confirmada ni referencia, el precio pedido de 7.000 USD está muy por encima del valor estimado (~2.500-3.500 USD, con el valor del oro como piso). (justo 3000)"
- },
- {
-  "fecha": "2026-11-24T23:14:26.205806+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual Datejust 2026 ",
   "total": 9750.0,
   "condicion": "New with box and papers",
@@ -11005,5 +10954,56 @@
    "nota": "Precio ~49% bajo el valor de mercado; descuento tan grande sugiere replica, pieza alterada o listado enganoso. Verificar autenticidad, esfera y papeles antes de considerarlo."
   },
   "motivo": "triage: Precio ~49% bajo el valor de mercado; descuento tan grande sugiere replica, pieza alterada o listado enganoso. Verificar autenticidad, esfera y papeles antes de considerarlo. (justo 2300)"
+ },
+ {
+  "fecha": "2026-11-27T20:46:34.334600+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Lady-Datejust 26, Yellow Gold, Black Diamond Dial, President Br...",
+  "total": 18463.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/800974805270",
+  "item_id": "v1|800974805270|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 oro amarillo con bisel de diamantes, esfera negra con marcadores de diamantes y brazalete President",
+   "referencia": "69138 (probable; no verificable en la imagen)",
+   "precio_justo_usd": 12000,
+   "interesante": false,
+   "nota": "Precio pedido de US$18.463 muy por encima del valor de venta cerrada para este modelo en estado reacondicionado; el listado no parece una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$18.463 muy por encima del valor de venta cerrada para este modelo en estado reacondicionado; el listado no parece una oportunidad. (justo 12000)"
+ },
+ {
+  "fecha": "2026-11-27T20:46:34.334600+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 26mm Silver Roman Numerals 18K White Gold Steel Watch 179174 Box",
+  "total": 7550.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/920192167277",
+  "item_id": "v1|920192167277|0",
+  "referencia": "179174",
+  "mercado": {
+   "n": 50,
+   "p25": 8295,
+   "mediana": 8950
+  },
+  "ratio_mercado": 0.91,
+  "motivo": "precio normal (91 % del cuartil bajo de 179174)"
+ },
+ {
+  "fecha": "2026-11-27T20:46:34.334600+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex President Day-Date Factory Diamond Yellow Gold 36mm 18238 Box/Papers/Tag",
+  "total": 24510.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/257875480196",
+  "item_id": "v1|257875480196|0",
+  "referencia": "18238",
+  "mercado": {
+   "n": 36,
+   "p25": 15667,
+   "mediana": 20990
+  },
+  "ratio_mercado": 1.564,
+  "motivo": "precio normal (156 % del cuartil bajo de 18238)"
  }
 ]
