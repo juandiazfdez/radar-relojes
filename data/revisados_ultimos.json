@@ -2,132 +2,6 @@
  {
   "fecha": "2026-11-24T18:29:15.991510+00:00",
   "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, Champagne Dial, Steel & Gold, 16013",
-  "total": 8080.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/206725110855",
-  "item_id": "v1|206725110855|0",
-  "referencia": "16013",
-  "mercado": {
-   "n": 22,
-   "p25": 1815,
-   "mediana": 4369
-  },
-  "ratio_mercado": 4.452,
-  "motivo": "precio normal (445 % del cuartil bajo de 16013)"
- },
- {
-  "fecha": "2026-11-24T18:29:15.991510+00:00",
-  "marca": "Rolex",
-  "titulo": "2020 Rolex Yacht-Master II 116680 White Stainless Steel 44mm Watch Box Papers",
-  "total": 17018.48,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267853623537",
-  "item_id": "v1|267853623537|0",
-  "referencia": "116680",
-  "mercado": {
-   "n": 29,
-   "p25": 17950,
-   "mediana": 18987
-  },
-  "ratio_mercado": 0.948,
-  "motivo": "precio normal (95 % del cuartil bajo de 116680)"
- },
- {
-  "fecha": "2026-11-24T18:29:15.991510+00:00",
-  "marca": "Rolex",
-  "titulo": "2018 Rolex Sea-Dweller Deepsea 126660 James Cameron Blue 44mm Watch Box Papers",
-  "total": 12734.07,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267853623540",
-  "item_id": "v1|267853623540|0",
-  "referencia": "126660",
-  "mercado": {
-   "n": 69,
-   "p25": 13000,
-   "mediana": 14299
-  },
-  "ratio_mercado": 0.98,
-  "motivo": "precio normal (98 % del cuartil bajo de 126660)"
- },
- {
-  "fecha": "2026-11-24T18:29:15.991510+00:00",
-  "marca": "Rolex",
-  "titulo": "2022 Rolex Sky-Dweller 326238 White 18K Yellow Gold 42mm Watch Box Papers",
-  "total": 35888.3,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267853623541",
-  "item_id": "v1|267853623541|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller en oro amarillo 18K, esfera blanca, bisel acanalado, correa de caucho (Oysterflex)",
-   "referencia": "326238",
-   "precio_justo_usd": 40000,
-   "interesante": false,
-   "nota": "Precio pedido unos 10 % por debajo de la estimación de venta cerrada para esta referencia con caja y papeles; no alcanza el umbral del 15 %."
-  },
-  "motivo": "triage: Precio pedido unos 10 % por debajo de la estimación de venta cerrada para esta referencia con caja y papeles; no alcanza el umbral del 15 %. (justo 40000)"
- },
- {
-  "fecha": "2026-11-24T18:29:15.991510+00:00",
-  "marca": "Rolex",
-  "titulo": "2025 Rolex Oyster Perpetual 126000 Green Stainless Steel 36mm Watch Box Papers",
-  "total": 9368.86,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940120114794",
-  "item_id": "v1|940120114794|0",
-  "referencia": "126000",
-  "mercado": {
-   "n": 38,
-   "p25": 11812,
-   "mediana": 12492
-  },
-  "ratio_mercado": 0.793,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 9900,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Prácticamente nuevo (2025), con caja y papeles. Sin fotos del fondo de caja ni del movimiento."
-  },
-  "ratio_justo": 0.946,
-  "motivo": "precio normal segun revision (95 % del justo 9900)"
- },
- {
-  "fecha": "2026-11-24T18:29:15.991510+00:00",
-  "marca": "Rolex",
-  "titulo": "2012 Rolex Sea-Dweller Deepsea 116660 Black Steel 44mm Watch Box Papers",
-  "total": 10184.67,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940120114796",
-  "item_id": "v1|940120114796|0",
-  "referencia": "116660",
-  "mercado": {
-   "n": 47,
-   "p25": 10795,
-   "mediana": 12428
-  },
-  "ratio_mercado": 0.943,
-  "motivo": "precio normal (94 % del cuartil bajo de 116660)"
- },
- {
-  "fecha": "2026-11-24T18:29:15.991510+00:00",
-  "marca": "Rolex",
-  "titulo": "New 2026 Rolex Daytona Cosmograph 126518 LN Meteorite 18K Gold 40mm Box Papers",
-  "total": 82807.94,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/940120114797",
-  "item_id": "v1|940120114797|0",
-  "referencia": "126518",
-  "mercado": {
-   "n": 10,
-   "p25": 58600,
-   "mediana": 60744
-  },
-  "ratio_mercado": 1.413,
-  "motivo": "precio normal (141 % del cuartil bajo de 126518)"
- },
- {
-  "fecha": "2026-11-24T18:29:15.991510+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Day-Date OysterQuartz President 19019 Silver 18K White Gold 36mm Watch",
   "total": 27728.49,
   "condicion": "Pre-owned - Excellent",
@@ -10890,5 +10764,167 @@
    "nota": "Precio pedido de US$54.002 muy por encima del valor de mercado para este modelo nuevo con caja y papeles; no es una oportunidad."
   },
   "motivo": "triage: Precio pedido de US$54.002 muy por encima del valor de mercado para este modelo nuevo con caja y papeles; no es una oportunidad. (justo 23000)"
+ },
+ {
+  "fecha": "2026-11-27T03:46:03.043830+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31, Mother of Pearl Diamond, Steel & Rose Gold, 278381RBR",
+  "total": 30842.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800971798015",
+  "item_id": "v1|800971798015|0",
+  "referencia": "278381RBR",
+  "mercado": {
+   "n": 1,
+   "p25": 34980,
+   "mediana": 34980
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 31 acero y Everose, bisel de diamantes, esfera de madreperla con diamantes",
+   "referencia": "278381RBR",
+   "precio_justo_usd": 17500,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del mercado secundario para esta referencia nueva con caja y papeles; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido muy por encima del mercado secundario para esta referencia nueva con caja y papeles; no es una oportunidad. (justo 17500)"
+ },
+ {
+  "fecha": "2026-11-27T03:46:03.043830+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31, Pink Diamond, Steel & White Gold, 278344RBR",
+  "total": 22356.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206729753487",
+  "item_id": "v1|206729753487|0",
+  "referencia": "278344RBR",
+  "mercado": {
+   "n": 2,
+   "p25": 20759,
+   "mediana": 21308
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 31 (acero y oro blanco, bisel con diamantes, esfera rosa con índices de diamantes, brazalete Jubilee)",
+   "referencia": "278344RBR",
+   "precio_justo_usd": 14000,
+   "interesante": false,
+   "nota": "Precio pedido de US$22,356 muy por encima del mercado secundario para esta referencia nueva con caja y papeles; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$22,356 muy por encima del mercado secundario para esta referencia nueva con caja y papeles; no es una oportunidad. (justo 14000)"
+ },
+ {
+  "fecha": "2026-11-27T03:46:03.043830+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31, Pink Diamond, Steel & White Gold, 278344RBR",
+  "total": 21857.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/366841389069",
+  "item_id": "v1|366841389069|0",
+  "referencia": "278344RBR",
+  "mercado": {
+   "n": 2,
+   "p25": 20759,
+   "mediana": 21308
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 31 acero y oro blanco, bisel con diamantes, esfera rosa con diamantes, brazalete Oyster",
+   "referencia": "278344RBR",
+   "precio_justo_usd": 13000,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de mercado para un modelo nuevo con caja y papeles, incluso con prima secundaria de Rolex en acero."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de mercado para un modelo nuevo con caja y papeles, incluso con prima secundaria de Rolex en acero. (justo 13000)"
+ },
+ {
+  "fecha": "2026-11-27T03:46:03.043830+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31, Aubergine Roman VI Diamond, Steel & White Gold, 278344RBR",
+  "total": 20759.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206729748057",
+  "item_id": "v1|206729748057|0",
+  "referencia": "278344RBR",
+  "mercado": {
+   "n": 2,
+   "p25": 20759,
+   "mediana": 21308
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 31, acero y oro blanco, bisel de diamantes, esfera aubergine con índices romanos",
+   "referencia": "278344RBR",
+   "precio_justo_usd": 14500,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del mercado secundario para un 278344RBR nuevo con caja y papeles; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido muy por encima del mercado secundario para un 278344RBR nuevo con caja y papeles; no es una oportunidad. (justo 14500)"
+ },
+ {
+  "fecha": "2026-11-27T03:46:03.043830+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31 278343RBR, Olive Green Roman VI Diamond, Steel & Yellow Gold",
+  "total": 26948.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206729747875",
+  "item_id": "v1|206729747875|0",
+  "referencia": "278343RBR",
+  "mercado": {
+   "n": 2,
+   "p25": 24995,
+   "mediana": 25245
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 31, acero y oro amarillo, bisel con diamantes, esfera verde oliva con numerales romanos, brazalete Jubilee",
+   "referencia": "278343RBR",
+   "precio_justo_usd": 18000,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de mercado secundario para un 278343RBR nuevo con caja y papeles; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de mercado secundario para un 278343RBR nuevo con caja y papeles; no es una oportunidad. (justo 18000)"
+ },
+ {
+  "fecha": "2026-11-27T03:46:03.043830+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31 278288RBR, President Bracelet, Mother of Pearl Diamond Dial...",
+  "total": 67080.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800971751335",
+  "item_id": "v1|800971751335|0",
+  "referencia": "278288RBR",
+  "mercado": {
+   "n": 1,
+   "p25": 63995,
+   "mediana": 63995
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 31, oro amarillo de 18 k con bisel de diamantes, esfera de nácar con marcadores de diamante, brazalete President",
+   "referencia": "278288RBR",
+   "precio_justo_usd": 30000,
+   "interesante": false,
+   "nota": "Precio pedido de US$67,080, más del doble del valor de mercado de esta referencia nueva con caja y papeles, por lo que no representa una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$67,080, más del doble del valor de mercado de esta referencia nueva con caja y papeles, por lo que no representa una oportunidad. (justo 30000)"
+ },
+ {
+  "fecha": "2026-11-27T03:46:03.043830+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Franchise W51002Q3 2302 Large Automatic Luxury Watch",
+  "total": 3239.99,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/880155868466",
+  "item_id": "v1|880155868466|0",
+  "referencia": "w51002Q3  2302",
+  "mercado": {
+   "n": 38,
+   "p25": 3859,
+   "mediana": 4525
+  },
+  "ratio_mercado": 0.84,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 3000,
+   "riesgo_autenticidad": "medio",
+   "estado": "Buen estado cosmético con rayones leves en caja y fondo; sin caja ni papeles"
+  },
+  "ratio_justo": 1.08,
+  "motivo": "precio normal segun revision (108 % del justo 3000)"
  }
 ]
