@@ -1,102 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T17:14:15.655567+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex New Datejust 41mm MINT GREEN Steel Gold 126334 AUGUST WARRANTY #RL590",
-  "total": 15645.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/840162344044",
-  "item_id": "v1|840162344044|0",
-  "referencia": "126334",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 41 verde menta, acero con bisel estriado de oro blanco",
-   "referencia": "126334",
-   "precio_justo_usd": 14000,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de mercado gris estimado para 126334 verde menta nuevo. El título dice 'Steel Gold', pero la referencia y el bisel blanco corresponden a acero y oro blanco, no a oro amarillo."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de mercado gris estimado para 126334 verde menta nuevo. El título dice 'Steel Gold', pero la referencia y el bisel blanco corresponden a acero y oro blanco, no a oro amarillo. (justo 14000)"
- },
- {
-  "fecha": "2026-11-24T17:14:15.655567+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II Steel & Yellow Gold Black Jubilee 40mm 126713GRNR Full Set",
-  "total": 22750.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/307299590709",
-  "item_id": "v1|307299590709|0",
-  "referencia": "126713GRNR",
-  "mercado": {
-   "n": 33,
-   "p25": 22950,
-   "mediana": 23600
-  },
-  "ratio_mercado": 0.991,
-  "motivo": "precio normal (99 % del cuartil bajo de 126713GRNR)"
- },
- {
-  "fecha": "2026-11-24T17:14:15.655567+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Americaine 18K Rose Gold  Ladies Watch W2620031",
-  "total": 22930.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336914677296",
-  "item_id": "v1|336914677296|0",
-  "referencia": "W2620031",
-  "mercado": {
-   "n": 1,
-   "p25": 20940,
-   "mediana": 20940
-  },
-  "triage": {
-   "modelo": "Cartier Tank Américaine (talla pequeña, oro rosa 18K con bisel de diamantes, brazalete integrado)",
-   "referencia": "W2620031",
-   "precio_justo_usd": 14000,
-   "interesante": false,
-   "nota": "Precio pedido de US$22.930 muy por encima del valor de reventa de esta referencia de oro rosa con diamantes; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$22.930 muy por encima del valor de reventa de esta referencia de oro rosa con diamantes; no es una oportunidad. (justo 14000)"
- },
- {
-  "fecha": "2026-11-24T17:14:15.655567+00:00",
-  "marca": "Cartier",
-  "titulo": "2025 Cartier Panthère de Cartier Mini Ref. 4188 Steel",
-  "total": 4235.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128214482795",
-  "item_id": "v1|128214482795|0",
-  "triage": {
-   "modelo": "Cartier Panthère de Cartier (tamaño pequeño/mini, acero, cuarzo, brazalete de eslabones)",
-   "referencia": null,
-   "precio_justo_usd": 4000,
-   "interesante": false,
-   "nota": "La referencia 4188 del título no la puedo confirmar con la imagen; el precio pedido queda por encima de la estimación de mercado secundario para esta pieza."
-  },
-  "motivo": "triage: La referencia 4188 del título no la puedo confirmar con la imagen; el precio pedido queda por encima de la estimación de mercado secundario para esta pieza. (justo 4000)"
- },
- {
-  "fecha": "2026-11-24T17:29:16.340805+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise W51008Q3 20mm Small Ladies Stainless Steel Quartz Watch",
-  "total": 2920.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/336914701453",
-  "item_id": "v1|336914701453|0",
-  "triage": {
-   "modelo": "Cartier Tank Française (tamaño pequeño, cuarzo, acero, esfera plateada con números romanos)",
-   "referencia": "W51008Q3",
-   "precio_justo_usd": 2100,
-   "interesante": false,
-   "nota": "El precio pedido de US$2920 está muy por encima de lo que se vende este modelo usado en EE. UU. (aprox. US$1,800-2,400 según estado y papeles). No es una oportunidad."
-  },
-  "motivo": "triage: El precio pedido de US$2920 está muy por encima de lo que se vende este modelo usado en EE. UU. (aprox. US$1,800-2,400 según estado y papeles). No es una oportunidad. (justo 2100)"
- },
- {
   "fecha": "2026-11-24T17:29:16.340805+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay Chronograph Flamingo Blue 79360N",
@@ -10890,5 +10793,90 @@
   },
   "ratio_mercado": 1.032,
   "motivo": "precio normal (103 % del cuartil bajo de 16610)"
+ },
+ {
+  "fecha": "2026-11-27T03:01:03.105334+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31, 278273, Steel & Gold, Silver Diamond Dial, Jubilee Bracelet",
+  "total": 23155.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800971653134",
+  "item_id": "v1|800971653134|0",
+  "referencia": "278273",
+  "mercado": {
+   "n": 44,
+   "p25": 20659,
+   "mediana": 21519
+  },
+  "ratio_mercado": 1.121,
+  "motivo": "precio normal (112 % del cuartil bajo de 278273)"
+ },
+ {
+  "fecha": "2026-11-27T03:01:03.105334+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31, 278273, Steel & Gold, Silver Diamond Dial, Oyster Bracelet",
+  "total": 21358.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206729669290",
+  "item_id": "v1|206729669290|0",
+  "referencia": "278273",
+  "mercado": {
+   "n": 44,
+   "p25": 20659,
+   "mediana": 21519
+  },
+  "ratio_mercado": 1.034,
+  "motivo": "precio normal (103 % del cuartil bajo de 278273)"
+ },
+ {
+  "fecha": "2026-11-27T03:01:03.105334+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31, White Roman Dial, Steel & Yellow Gold, 278273",
+  "total": 20759.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/366841314086",
+  "item_id": "v1|366841314086|0",
+  "referencia": "278273",
+  "mercado": {
+   "n": 44,
+   "p25": 20659,
+   "mediana": 21519
+  },
+  "ratio_mercado": 1.005,
+  "motivo": "precio normal (100 % del cuartil bajo de 278273)"
+ },
+ {
+  "fecha": "2026-11-27T03:01:03.105334+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31 278273, Olive Green Roman VI Diamond Dial, Steel & Yellow Gold",
+  "total": 21457.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206729661137",
+  "item_id": "v1|206729661137|0",
+  "referencia": "278273",
+  "mercado": {
+   "n": 44,
+   "p25": 20659,
+   "mediana": 21519
+  },
+  "ratio_mercado": 1.039,
+  "motivo": "precio normal (104 % del cuartil bajo de 278273)"
+ },
+ {
+  "fecha": "2026-11-27T03:01:03.105334+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31, 278273, Steel & Gold, Silver Roman VI Diamond, Oyster Brac...",
+  "total": 21957.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/366841310763",
+  "item_id": "v1|366841310763|0",
+  "referencia": "278273",
+  "mercado": {
+   "n": 44,
+   "p25": 20659,
+   "mediana": 21519
+  },
+  "ratio_mercado": 1.063,
+  "motivo": "precio normal (106 % del cuartil bajo de 278273)"
  }
 ]
