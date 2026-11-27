@@ -1,154 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T23:59:26.258354+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust II 41mm Stainless Bust Down",
-  "total": 7711.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/128214950444",
-  "item_id": "v1|128214950444|0",
-  "triage": {
-   "modelo": "Rolex Datejust 41 en acero con personalización (bisel, esfera pavé y brazalete bust-down con diamantes; aspecto de acabado aftermarket)",
-   "referencia": "Probablemente 126300 o 126334 (no verificable en la foto)",
-   "precio_justo_usd": 7500,
-   "interesante": false,
-   "nota": "Base Datejust 41 de acero, pero la personalización con diamantes suele reducir la liquidez; el precio pedido no está al menos 15 % por debajo del valor real y la autenticidad de los diamantes no se puede verificar desde la foto."
-  },
-  "motivo": "triage: Base Datejust 41 de acero, pero la personalización con diamantes suele reducir la liquidez; el precio pedido no está al menos 15 % por debajo del valor real y la autenticidad de los diamantes no se puede verificar desde la foto. (justo 7500)"
- },
- {
-  "fecha": "2026-11-24T23:59:26.258354+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR 1926 Automatic 41mm Stainless Steel Watch M91650 White - MINT",
-  "total": 1550.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/117540734716",
-  "item_id": "v1|117540734716|0",
-  "referencia": "M91650-0005",
-  "mercado": {
-   "n": 5,
-   "p25": 2098,
-   "mediana": 2160
-  },
-  "ratio_mercado": 0.739,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 1500,
-   "riesgo_autenticidad": "medio",
-   "estado": "Excelente/muy bueno según fotos, sin golpes visibles, solo reloj sin caja ni papeles"
-  },
-  "ratio_justo": 1.033,
-  "motivo": "precio normal segun revision (103 % del justo 1500)"
- },
- {
-  "fecha": "2026-11-25T00:14:25.989222+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Prince Date 79280 Automatic Chronograph 40mm Box & Papers C. 1999",
-  "total": 4000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940120701502",
-  "item_id": "v1|940120701502|0",
-  "referencia": "79280",
-  "mercado": {
-   "n": 10,
-   "p25": 4702,
-   "mediana": 4894
-  },
-  "ratio_mercado": 0.851,
-  "motivo": "precio normal (85 % del cuartil bajo de 79280)"
- },
- {
-  "fecha": "2026-11-25T00:29:44.690762+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Sea-Dweller 136660 Full Set",
-  "total": 16050.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/206725583091",
-  "item_id": "v1|206725583091|0",
-  "referencia": "136660",
-  "mercado": {
-   "n": 54,
-   "p25": 15010,
-   "mediana": 15999
-  },
-  "ratio_mercado": 1.069,
-  "motivo": "precio normal (107 % del cuartil bajo de 136660)"
- },
- {
-  "fecha": "2026-11-25T00:44:41.721738+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual Date GMT-Master II Batman Automatic Watch Stainless Steel",
-  "total": 22295.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/117540803432",
-  "item_id": "v1|117540803432|0",
-  "triage": {
-   "modelo": "Rolex GMT-Master II 'Batman' (bisel negro/azul, brazalete Oyster de acero)",
-   "referencia": "126710BLNR (probable; verificar si es 116710BLNR de generación anterior)",
-   "precio_justo_usd": 17500,
-   "interesante": false,
-   "nota": "Precio pedido de US$22.295 está muy por encima del mercado secundario para esta referencia en estado usado; el título también es inexacto y conviene verificar referencia, serie y papeles."
-  },
-  "motivo": "triage: Precio pedido de US$22.295 está muy por encima del mercado secundario para esta referencia en estado usado; el título también es inexacto y conviene verificar referencia, serie y papeles. (justo 17500)"
- },
- {
-  "fecha": "2026-11-25T00:59:41.639652+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 14K Gold Ladies Wristwatch 6619 PLEASE READ ",
-  "total": 2850.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/137960320552",
-  "item_id": "v1|137960320552|0",
-  "referencia": "6619",
-  "mercado": {
-   "n": 13,
-   "p25": 3600,
-   "mediana": 3990
-  },
-  "ratio_mercado": 0.792,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 1500,
-   "riesgo_autenticidad": "alto",
-   "estado": "Condición regular, con piezas no originales (movimiento ETA de reemplazo y brazalete chapado). Cristal y brazalete con desgaste."
-  },
-  "motivo": "Claude descarto: La descripción dice 'Swiss ETA replacement movement'. El movimiento no es el Rolex original (cal. 1161 o similar), así que es un reloj 'franken' o con servicio no Rolex. Esto destruye el valor de coleccionista y de reventa.; El brazalete es chapado en oro, no de oro macizo. El cierre marcado STEELINOX confirma que es de acero chapado. Un 6619 completo en oro 14K llevaría brazalete de oro macizo, así que éste es un reemplazo o una combinación posterior."
- },
- {
-  "fecha": "2026-11-25T00:59:41.639652+00:00",
-  "marca": "Cartier",
-  "titulo": "Ladies Vintage 1990's Cartier Tank Quartz 20mm  Classic Clean & Chic",
-  "total": 2414.8,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327474986237",
-  "item_id": "v1|327474986237|0",
-  "triage": {
-   "modelo": "Cartier Tank Must (vermeil, cuarzo, tamaño pequeño, años 90)",
-   "referencia": null,
-   "precio_justo_usd": 650,
-   "interesante": false,
-   "nota": "Se ve un Tank Must de vermeil con correa de cuero, pero el precio pedido de US$2415 está muy por encima de lo que se vende realmente este modelo usado; la referencia exacta no se puede confirmar en la foto."
-  },
-  "motivo": "triage: Se ve un Tank Must de vermeil con correa de cuero, pero el precio pedido de US$2415 está muy por encima de lo que se vende realmente este modelo usado; la referencia exacta no se puede confirmar en la foto. (justo 650)"
- },
- {
-  "fecha": "2026-11-25T01:29:42.289610+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Cosmograph Daytona 116508 Full Set",
-  "total": 60450.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206725644908",
-  "item_id": "v1|206725644908|0",
-  "referencia": "116508",
-  "mercado": {
-   "n": 32,
-   "p25": 56290,
-   "mediana": 65670
-  },
-  "ratio_mercado": 1.074,
-  "motivo": "precio normal (107 % del cuartil bajo de 116508)"
- },
- {
   "fecha": "2026-11-25T01:29:42.289610+00:00",
   "marca": "Tudor",
   "titulo": "Vintage 1950s Tudor 7909 Oyster-Prince Automatic 34mm Stainless Steel Mens Watch",
@@ -11011,5 +10862,141 @@
   },
   "ratio_mercado": 1.094,
   "motivo": "precio normal (109 % del cuartil bajo de 179171)"
+ },
+ {
+  "fecha": "2026-11-27T21:46:44.743343+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Lady-Datejust 26, 79163, Steel & Yellow Gold, White Diamond Dia...",
+  "total": 8779.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/206731219915",
+  "item_id": "v1|206731219915|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 (acero y oro amarillo, esfera blanca con diamantes)",
+   "referencia": "79163",
+   "precio_justo_usd": 5800,
+   "interesante": false,
+   "nota": "El precio pedido de US$8779 está muy por encima del valor de venta cerrada para esta referencia en EE. UU., incluso con esfera de diamantes y estado reacondicionado."
+  },
+  "motivo": "triage: El precio pedido de US$8779 está muy por encima del valor de venta cerrada para esta referencia en EE. UU., incluso con esfera de diamantes y estado reacondicionado. (justo 5800)"
+ },
+ {
+  "fecha": "2026-11-27T21:46:44.743343+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Lady-Datejust, Mother of Pearl Diamond Dial, Steel & Gold, 79163",
+  "total": 13970.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/800974942422",
+  "item_id": "v1|800974942422|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 mm, acero y oro amarillo, esfera de madre perla con diamantes, brazalete Jubilee",
+   "referencia": "79163",
+   "precio_justo_usd": 7500,
+   "interesante": false,
+   "nota": "Precio pedido de US$13.970 muy por encima del valor de venta cerrada de esta referencia de segunda mano; el listado 'Renewed/refurbished' tampoco lo justifica."
+  },
+  "motivo": "triage: Precio pedido de US$13.970 muy por encima del valor de venta cerrada de esta referencia de segunda mano; el listado 'Renewed/refurbished' tampoco lo justifica. (justo 7500)"
+ },
+ {
+  "fecha": "2026-11-27T21:46:44.743343+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Lady-Datejust, Black Diamond Dial, Steel & Gold, 79163",
+  "total": 7880.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/206731216633",
+  "item_id": "v1|206731216633|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 mm, acero y oro amarillo, esfera negra con marcadores de diamantes, brazalete Jubilee",
+   "referencia": "79163",
+   "precio_justo_usd": 6800,
+   "interesante": false,
+   "nota": "Precio pedido de US$7880 está unos 16 % por encima de una estimación conservadora para esta referencia con esfera de diamantes. Condición 'refurbished' de vendedor, verificar autenticidad de la esfera."
+  },
+  "motivo": "triage: Precio pedido de US$7880 está unos 16 % por encima de una estimación conservadora para esta referencia con esfera de diamantes. Condición 'refurbished' de vendedor, verificar autenticidad de la esfera. (justo 6800)"
+ },
+ {
+  "fecha": "2026-11-27T21:46:44.743343+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Lady-Datejust 26, 79163, Steel & Yellow Gold, White Diamond Dia...",
+  "total": 8879.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/800974938652",
+  "item_id": "v1|800974938652|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26, acero y oro amarillo, esfera nácar blanca con diamantes",
+   "referencia": "79163",
+   "precio_justo_usd": 7800,
+   "interesante": false,
+   "nota": "Precio pedido por encima de la venta realista de esta referencia con esfera de diamantes; 'Seller refurbished' y el precio total no ofrecen margen de compra."
+  },
+  "motivo": "triage: Precio pedido por encima de la venta realista de esta referencia con esfera de diamantes; 'Seller refurbished' y el precio total no ofrecen margen de compra. (justo 7800)"
+ },
+ {
+  "fecha": "2026-11-27T21:46:44.743343+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Lady-Datejust 26 79163, Steel & Yellow Gold, Silver Diamond Dial, Jubil...",
+  "total": 8879.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/206731199429",
+  "item_id": "v1|206731199429|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 de acero y oro amarillo, esfera plateada con marcadores de diamante, brazalete Jubilee",
+   "referencia": "79163",
+   "precio_justo_usd": 7300,
+   "interesante": false,
+   "nota": "Precio pedido unos 20 % por encima de la venta real estimada para esta referencia; \"refurbished\" del vendedor puede reducir el valor."
+  },
+  "motivo": "triage: Precio pedido unos 20 % por encima de la venta real estimada para esta referencia; \"refurbished\" del vendedor puede reducir el valor. (justo 7300)"
+ },
+ {
+  "fecha": "2026-11-27T21:46:44.743343+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner John Bull 18K/Stainless Steel Watch 16803",
+  "total": 15000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407393888520",
+  "item_id": "v1|407393888520|0",
+  "referencia": "16803",
+  "mercado": {
+   "n": 18,
+   "p25": 10000,
+   "mediana": 10950
+  },
+  "ratio_mercado": 1.5,
+  "motivo": "precio normal (150 % del cuartil bajo de 16803)"
+ },
+ {
+  "fecha": "2026-11-27T21:46:44.743343+00:00",
+  "marca": "Rolex",
+  "titulo": "MINT $25,000 ROLEX DATEJUST PRESIDENT LADIES 18k Yellow Gold Bark Watch SERVICED",
+  "total": 9259.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237212264978",
+  "item_id": "v1|237212264978|0",
+  "triage": {
+   "modelo": "Rolex Datejust 26 Lady, oro amarillo 18k, bisel acanalado, brazalete President, esfera champán con fecha",
+   "referencia": "69178 (probable; confirmar en el reverso de la caja)",
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "El título de US$25,000 es precio de tienda irreal; el mercado de uso real para esta referencia ronda los US$6,000-8,000 según año y estado. El precio pedido de US$9,259 está por encima del valor de venta."
+  },
+  "motivo": "triage: El título de US$25,000 es precio de tienda irreal; el mercado de uso real para esta referencia ronda los US$6,000-8,000 según año y estado. El precio pedido de US$9,259 está por encima del valor de venta. (justo 7000)"
+ },
+ {
+  "fecha": "2026-11-27T21:46:44.743343+00:00",
+  "marca": "Cartier",
+  "titulo": "2023 Cartier Ballon Bleu de Cartier 33mm Complete Set",
+  "total": 4750.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840171061636",
+  "item_id": "v1|840171061636|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu de Cartier 33 mm, acero, cuarzo, esfera rosa con numerales romanos",
+   "referencia": null,
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Precio pedido de US$4750 solo ~5 % por debajo de un estimado conservador para un 2023 completo; no cumple el umbral del 15 %."
+  },
+  "motivo": "triage: Precio pedido de US$4750 solo ~5 % por debajo de un estimado conservador para un 2023 completo; no cumple el umbral del 15 %. (justo 5000)"
  }
 ]
