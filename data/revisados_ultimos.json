@@ -1,74 +1,6 @@
 [
  {
   "fecha": "2026-11-25T03:14:42.321506+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Pearlmaster 80299 18k White Gold 29mm auto watch",
-  "total": 49413.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206725800008",
-  "item_id": "v1|206725800008|0",
-  "triage": {
-   "modelo": "Rolex Datejust Pearlmaster 29 mm, oro blanco 18k, bisel y brazalete con diamantes, esfera de nácar",
-   "referencia": "80299",
-   "precio_justo_usd": 43000,
-   "interesante": false,
-   "nota": "Precio pedido de US$49.413 supera unos US$43.000 estimados en venta cerrada; no cumple el umbral de 15% por debajo."
-  },
-  "motivo": "triage: Precio pedido de US$49.413 supera unos US$43.000 estimados en venta cerrada; no cumple el umbral de 15% por debajo. (justo 43000)"
- },
- {
-  "fecha": "2026-11-25T03:14:42.321506+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner No-Date, 41mm Black Dial, Mint 2024 Full Set, 124060",
-  "total": 13350.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960240003026",
-  "item_id": "v1|960240003026|0",
-  "referencia": "124060",
-  "mercado": {
-   "n": 50,
-   "p25": 13590,
-   "mediana": 14048
-  },
-  "ratio_mercado": 0.982,
-  "motivo": "precio normal (98 % del cuartil bajo de 124060)"
- },
- {
-  "fecha": "2026-11-25T03:14:42.321506+00:00",
-  "marca": "Rolex",
-  "titulo": "1999 Stainless Steel Rolex Submariner Date 16610 Watch",
-  "total": 9665.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407384699628",
-  "item_id": "v1|407384699628|0",
-  "referencia": "16610",
-  "mercado": {
-   "n": 79,
-   "p25": 9878,
-   "mediana": 10395
-  },
-  "ratio_mercado": 0.978,
-  "motivo": "precio normal (98 % del cuartil bajo de 16610)"
- },
- {
-  "fecha": "2026-11-25T03:14:42.321506+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Française Small 18k Yellow Gold & Steel 25mm Watch W51007Q4",
-  "total": 4800.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/257870830809",
-  "item_id": "v1|257870830809|0",
-  "triage": {
-   "modelo": "Cartier Tank Française Small, acero y oro amarillo 18k (cuarzo)",
-   "referencia": "W51007Q4",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido de US$4800 queda muy por encima del valor de venta cerrada para esta referencia de segunda mano, aunque el modelo es auténtico según la foto."
-  },
-  "motivo": "triage: Precio pedido de US$4800 queda muy por encima del valor de venta cerrada para esta referencia de segunda mano, aunque el modelo es auténtico según la foto. (justo 3300)"
- },
- {
-  "fecha": "2026-11-25T03:14:42.321506+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Santos Demoiselle Stainless Steel Small Diamond Encrusted Watch W25064Z5",
   "total": 5000.0,
@@ -10992,5 +10924,85 @@
   },
   "ratio_mercado": 0.676,
   "motivo": "descripcion: as is"
+ },
+ {
+  "fecha": "2026-11-27T22:31:45.227351+00:00",
+  "marca": "Rolex",
+  "titulo": "1987 Rolex Datejust Champagne Index Yellow Gold/Steel Jubilee 26mm 69173 Papers",
+  "total": 5770.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336920164240",
+  "item_id": "v1|336920164240|0",
+  "referencia": "69173",
+  "mercado": {
+   "n": 17,
+   "p25": 3868,
+   "mediana": 4359
+  },
+  "ratio_mercado": 1.492,
+  "motivo": "precio normal (149 % del cuartil bajo de 69173)"
+ },
+ {
+  "fecha": "2026-11-27T22:31:45.227351+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX Solid Gold Ladies Yachtmaster Watch model 69628",
+  "total": 10500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407393957509",
+  "item_id": "v1|407393957509|0",
+  "referencia": "69628",
+  "mercado": {
+   "n": 2,
+   "p25": 3660,
+   "mediana": 11080
+  },
+  "triage": {
+   "modelo": "Rolex Yacht-Master ladies, oro amarillo 18k, esfera blanca con fecha",
+   "referencia": "69628",
+   "precio_justo_usd": 8000,
+   "interesante": false,
+   "nota": "Precio pedido de US$10.500 supera en más de 25 % el valor de venta cerrada estimado; foto de baja resolución, no se pueden verificar bien los detalles."
+  },
+  "motivo": "triage: Precio pedido de US$10.500 supera en más de 25 % el valor de venta cerrada estimado; foto de baja resolución, no se pueden verificar bien los detalles. (justo 8000)"
+ },
+ {
+  "fecha": "2026-11-27T22:31:45.227351+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ronde Solo Stainless Steel Watch W6700155",
+  "total": 2500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407393943973",
+  "item_id": "v1|407393943973|0",
+  "referencia": "W6700155",
+  "mercado": {
+   "n": 4,
+   "p25": 2389,
+   "mediana": 2444
+  },
+  "triage": {
+   "modelo": "Cartier Ronde Solo de Cartier (acero, cuarzo, esfera blanca con numerales romanos, correa de cuero negro)",
+   "referencia": "W6700155",
+   "precio_justo_usd": 2300,
+   "interesante": false,
+   "nota": "Precio pedido de US$2500 queda unos 9 % por encima de la estimación de venta real para este modelo usado, sin confirmar caja ni papeles; no cumple el umbral del 15 %."
+  },
+  "motivo": "triage: Precio pedido de US$2500 queda unos 9 % por encima de la estimación de venta real para este modelo usado, sin confirmar caja ni papeles; no cumple el umbral del 15 %. (justo 2300)"
+ },
+ {
+  "fecha": "2026-11-27T22:31:45.227351+00:00",
+  "marca": "Cartier",
+  "titulo": "Panthere de Cartier Watch One-Row Yellow Gold & Steel - New Battery",
+  "total": 3995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/267856584308",
+  "item_id": "v1|267856584308|0",
+  "triage": {
+   "modelo": "Cartier Panthère de Cartier (bicolor acero y oro amarillo, cuarzo, esfera blanca con números romanos)",
+   "referencia": "1057930 (probable, tamaño mediano; no verificable en la foto)",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Precio pedido de US$3995 está por encima de lo que se vende este modelo bicolor de cuarzo en estado bueno; sin caja ni papeles visibles y con batería nueva, no hay margen de compra."
+  },
+  "motivo": "triage: Precio pedido de US$3995 está por encima de lo que se vende este modelo bicolor de cuarzo en estado bueno; sin caja ni papeles visibles y con batería nueva, no hay margen de compra. (justo 3000)"
  }
 ]
