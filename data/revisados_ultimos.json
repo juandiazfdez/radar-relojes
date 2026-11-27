@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-24T21:44:25.534519+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Tank Americaine 18k Rose Gold Diamonds Silver Ladies Watch WB704751",
-  "total": 12905.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940120445499",
-  "item_id": "v1|940120445499|0",
-  "referencia": "WB704751",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Tank Américaine 18k oro rosa con diamantes, esfera plateada",
-   "referencia": "WB704751 (según título; no verificable en la imagen)",
-   "precio_justo_usd": 13500,
-   "interesante": false,
-   "nota": "Precio pedido apenas ~4% bajo el estimado de venta real para esta versión con bisel de diamantes; no supera el umbral del 15%."
-  },
-  "motivo": "triage: Precio pedido apenas ~4% bajo el estimado de venta real para esta versión con bisel de diamantes; no supera el umbral del 15%. (justo 13500)"
- },
- {
-  "fecha": "2026-11-24T21:44:25.534519+00:00",
-  "marca": "Cartier",
   "titulo": "Cartier Drive de Cartier Extra-Flat 18k White Gold Silver Men's Watch WGNM0007",
   "total": 12405.0,
   "condicion": "Pre-owned - Good",
@@ -10980,5 +10957,28 @@
    "nota": "Precio pedido de US$1800 está por encima del valor de venta estimado para esta referencia vintage en estado 'Good' con servicio; no hay descuento claro."
   },
   "motivo": "triage: Precio pedido de US$1800 está por encima del valor de venta estimado para esta referencia vintage en estado 'Good' con servicio; no hay descuento claro. (justo 1400)"
+ },
+ {
+  "fecha": "2026-11-27T19:31:34.221137+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 41 mm 2026 NOVEMBER UNWORN 126334 Blue Diamonds Jubilee Steel",
+  "total": 18800.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/840170825326",
+  "item_id": "v1|840170825326|0",
+  "referencia": "126334",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 41 mm, acero con bisel estriado, esfera azul con diamantes y brazalete Jubilee",
+   "referencia": "126334",
+   "precio_justo_usd": 15000,
+   "interesante": false,
+   "nota": "Precio pedido de US$18,800 está muy por encima del mercado secundario para un 126334 nuevo; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$18,800 está muy por encima del mercado secundario para un 126334 nuevo; no es una oportunidad. (justo 15000)"
  }
 ]
