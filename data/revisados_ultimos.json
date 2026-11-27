@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-25T08:14:53.064878+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Oyster Precision Steel Watch",
-  "total": 2338.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820395683734",
-  "item_id": "v1|820395683734|0",
-  "triage": {
-   "modelo": "Rolex Lady Oyster Perpetual (acero, esfera plateada, bisel liso)",
-   "referencia": "67180 o 76080 (probable, sin confirmar desde la foto)",
-   "precio_justo_usd": 2700,
-   "interesante": false,
-   "nota": "Precio pedido de US$2338 queda unos 13 % por debajo de una estimacion conservadora de venta real; la referencia exacta no se puede confirmar solo con la foto y el margen no llega al 15 %."
-  },
-  "motivo": "triage: Precio pedido de US$2338 queda unos 13 % por debajo de una estimacion conservadora de venta real; la referencia exacta no se puede confirmar solo con la foto y el margen no llega al 15 %. (justo 2700)"
- },
- {
-  "fecha": "2026-11-25T08:59:52.958698+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust Automatic Chronometer Ladies Watch 278271RSJ",
-  "total": 18742.5,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/800964318143",
-  "item_id": "v1|800964318143|0",
-  "referencia": "278271RSJ",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 31 bicolor (Rolesor acero/Everose) con bisel acanalado, esfera gris pizarra y brazalete Jubilee",
-   "referencia": "278271",
-   "precio_justo_usd": 10000,
-   "interesante": false,
-   "nota": "Modelo de producción actual; el precio pedido de US$18,742 está muy por encima del valor de mercado secundario (aprox. US$9,500-11,000 nuevo con caja y papeles)."
-  },
-  "motivo": "triage: Modelo de producción actual; el precio pedido de US$18,742 está muy por encima del valor de mercado secundario (aprox. US$9,500-11,000 nuevo con caja y papeles). (justo 10000)"
- },
- {
-  "fecha": "2026-11-25T08:59:52.958698+00:00",
-  "marca": "Cartier",
-  "titulo": "Authentic Men's Cartier Quartz Tank Watch Red Presentation Box and Cartier Bag",
-  "total": 2850.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960240834903",
-  "item_id": "v1|960240834903|0",
-  "triage": {
-   "modelo": "Cartier Must de Cartier Tank (Tank Louis, vermeil dorado, cuarzo), esfera blanca con numerales romanos, correa de cuero negra",
-   "referencia": null,
-   "precio_justo_usd": 650,
-   "interesante": false,
-   "nota": "Must Tank de vermeil en cuarzo se vende usado en torno a US$500-800 con caja; el listado pide US$2850, muy por encima del mercado, aunque incluya caja y bolsa."
-  },
-  "motivo": "triage: Must Tank de vermeil en cuarzo se vende usado en torno a US$500-800 con caja; el listado pide US$2850, muy por encima del mercado, aunque incluya caja y bolsa. (justo 650)"
- },
- {
   "fecha": "2026-11-25T09:29:53.361419+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Submariner Date 40mm 116610LN Black Oyster ",
@@ -11015,5 +10958,56 @@
    "nota": "Must de Cartier chapado en oro con correa de piel, estado Fair; el precio pedido de US$3500 está muy por encima de su valor de mercado."
   },
   "motivo": "triage: Must de Cartier chapado en oro con correa de piel, estado Fair; el precio pedido de US$3500 está muy por encima de su valor de mercado. (justo 450)"
+ },
+ {
+  "fecha": "2026-11-27T23:31:45.423489+00:00",
+  "marca": "Rolex",
+  "titulo": "2017 Rolex GMT-Master II 116710LN Black Dial/Bezel Steel Auto Date Box Papers",
+  "total": 15500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147701452900",
+  "item_id": "v1|147701452900|0",
+  "referencia": "116710LN",
+  "mercado": {
+   "n": 47,
+   "p25": 13550,
+   "mediana": 14299
+  },
+  "ratio_mercado": 1.144,
+  "motivo": "precio normal (114 % del cuartil bajo de 116710LN)"
+ },
+ {
+  "fecha": "2026-11-27T23:31:45.423489+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Rolex Sea-Dweller Deepsea James Cameron 136660 44mm Full Set",
+  "total": 15250.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/880157977465",
+  "item_id": "v1|880157977465|0",
+  "referencia": "136660",
+  "mercado": {
+   "n": 23,
+   "p25": 17495,
+   "mediana": 18000
+  },
+  "ratio_mercado": 0.872,
+  "motivo": "precio normal (87 % del cuartil bajo de 136660)"
+ },
+ {
+  "fecha": "2026-11-27T23:31:45.423489+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos-Dumont WSSA0032 34mm in Box Gray Roman 7in Wrist SPB-JB 375080",
+  "total": 5749.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/257875628625",
+  "item_id": "v1|257875628625|0",
+  "referencia": "WSSA0032",
+  "mercado": {
+   "n": 6,
+   "p25": 6100,
+   "mediana": 6622
+  },
+  "ratio_mercado": 0.943,
+  "motivo": "precio normal (94 % del cuartil bajo de WSSA0032)"
  }
 ]
