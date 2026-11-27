@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T16:59:16.071723+00:00",
-  "marca": "Tudor",
-  "titulo": "2019 Tudor Black Bay 41 Automatic  Ref. 79230 Box + Papers",
-  "total": 3335.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/128214456283",
-  "item_id": "v1|128214456283|0",
-  "referencia": "79230",
-  "mercado": {
-   "n": 52,
-   "p25": 3400,
-   "mediana": 3580
-  },
-  "ratio_mercado": 0.981,
-  "motivo": "precio normal (98 % del cuartil bajo de 79230)"
- },
- {
   "fecha": "2026-11-24T17:14:15.655567+00:00",
   "marca": "Rolex",
   "titulo": "Rolex New Datejust 41mm MINT GREEN Steel Gold 126334 AUGUST WARRANTY #RL590",
@@ -10890,5 +10873,22 @@
    "nota": "Vermeil de cuarzo con esfera negra que suele venderse cerca de US$400-600 según estado; US$899 está muy por encima del mercado."
   },
   "motivo": "triage: Vermeil de cuarzo con esfera negra que suele venderse cerca de US$400-600 según estado; US$899 está muy por encima del mercado. (justo 500)"
+ },
+ {
+  "fecha": "2026-11-27T02:31:03.275892+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner Date 16610 40mm Stainless Steel 2007 Rolex CPO Full Set",
+  "total": 10199.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198827190700",
+  "item_id": "v1|198827190700|0",
+  "referencia": "16610",
+  "mercado": {
+   "n": 79,
+   "p25": 9878,
+   "mediana": 10395
+  },
+  "ratio_mercado": 1.032,
+  "motivo": "precio normal (103 % del cuartil bajo de 16610)"
  }
 ]
