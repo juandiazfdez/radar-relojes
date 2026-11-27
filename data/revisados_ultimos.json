@@ -1,29 +1,6 @@
 [
  {
   "fecha": "2026-11-24T16:44:16.374831+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere Medium 18k Rose Gold Ladies Quartz Watch WGPN0007 4019",
-  "total": 25000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267853536296",
-  "item_id": "v1|267853536296|0",
-  "referencia": "WGPN0007",
-  "mercado": {
-   "n": 3,
-   "p25": 20025,
-   "mediana": 24995
-  },
-  "triage": {
-   "modelo": "Cartier Panthère Medium (cuarzo, oro de 18k)",
-   "referencia": "WGPN0007 (según el título; no verificable en la foto)",
-   "precio_justo_usd": 15000,
-   "interesante": false,
-   "nota": "Precio pedido de US$25,000 muy por encima del mercado secundario para una Panthère Medium de oro usada; el color de la foto parece amarillo, no rosa, así que conviene verificar material y referencia."
-  },
-  "motivo": "triage: Precio pedido de US$25,000 muy por encima del mercado secundario para una Panthère Medium de oro usada; el color de la foto parece amarillo, no rosa, así que conviene verificar material y referencia. (justo 15000)"
- },
- {
-  "fecha": "2026-11-24T16:44:16.374831+00:00",
   "marca": "Tudor",
   "titulo": "NEW 2026 Tudor 1926 41mm Stainless Steel M91650-0005 Full Set",
   "total": 2275.0,
@@ -10896,5 +10873,22 @@
    "nota": "Precio ~22% bajo el estimado, pero el listado es escueto y el precio es sospechosamente bajo para un Rolex con diamantes; falta verificar autenticidad, referencia, papeles y diamantes originales antes de considerarlo."
   },
   "motivo": "triage: Precio ~22% bajo el estimado, pero el listado es escueto y el precio es sospechosamente bajo para un Rolex con diamantes; falta verificar autenticidad, referencia, papeles y diamantes originales antes de considerarlo. (justo 10500)"
+ },
+ {
+  "fecha": "2026-11-27T00:01:03.578827+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 116710LN Oyester Bracelet - Full Set Excellent Condition!",
+  "total": 13544.95,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/327479219755",
+  "item_id": "v1|327479219755|0",
+  "referencia": "116710LN",
+  "mercado": {
+   "n": 47,
+   "p25": 13550,
+   "mediana": 14299
+  },
+  "ratio_mercado": 1.0,
+  "motivo": "precio normal (100 % del cuartil bajo de 116710LN)"
  }
 ]
