@@ -1,73 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T21:59:26.328281+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Skydweller SS Black Oyster 326934 Complete",
-  "total": 17050.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940120469799",
-  "item_id": "v1|940120469799|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller (acero Oystersteel y oro blanco, esfera negra, brazalete Oyster)",
-   "referencia": "326934",
-   "precio_justo_usd": 17500,
-   "interesante": false,
-   "nota": "Referencia 326934 en acero y oro blanco con esfera negra; el precio pedido queda cerca del mercado secundario (~3 % bajo), no un 15 % o más. Verificar papeles y estado real."
-  },
-  "motivo": "triage: Referencia 326934 en acero y oro blanco con esfera negra; el precio pedido queda cerca del mercado secundario (~3 % bajo), no un 15 % o más. Verificar papeles y estado real. (justo 17500)"
- },
- {
-  "fecha": "2026-11-24T21:59:26.328281+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master II 126720VTNR Sprite Jubilee 40mm Green Black Complete Set",
-  "total": 18599.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900118855500",
-  "item_id": "v1|900118855500|0",
-  "referencia": "126720VTNR",
-  "mercado": {
-   "n": 89,
-   "p25": 17999,
-   "mediana": 18595
-  },
-  "ratio_mercado": 1.033,
-  "motivo": "precio normal (103 % del cuartil bajo de 126720VTNR)"
- },
- {
-  "fecha": "2026-11-24T22:14:26.246689+00:00",
-  "marca": "Rolex",
-  "titulo": "2012 Rolex Submariner Date 40mm 18K YG & Steel Bluesy Flat Blue 116613LB Set",
-  "total": 15749.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/257870421493",
-  "item_id": "v1|257870421493|0",
-  "referencia": "116613LB",
-  "mercado": {
-   "n": 64,
-   "p25": 15445,
-   "mediana": 15990
-  },
-  "ratio_mercado": 1.02,
-  "motivo": "precio normal (102 % del cuartil bajo de 116613LB)"
- },
- {
-  "fecha": "2026-11-24T22:14:26.246689+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36 Stainless Steel Fluted / Jubilee / White Roman 116234-0089",
-  "total": 11160.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840162953876",
-  "item_id": "v1|840162953876|0",
-  "referencia": "116234",
-  "mercado": {
-   "n": 57,
-   "p25": 9000,
-   "mediana": 9755
-  },
-  "ratio_mercado": 1.24,
-  "motivo": "precio normal (124 % del cuartil bajo de 116234)"
- },
- {
   "fecha": "2026-11-24T22:14:26.246689+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Pearlmaster Masterpiece White Gold Diamond Ladies Watch 80299 Box Card",
@@ -10974,5 +10906,73 @@
    "nota": "El título mezcla referencias (4075 y W1450) que no corresponden a esta versión; verificar la referencia real. Con caja y papeles se vende cerca de US$6.500-7.500, así que US$9.238 está muy por encima."
   },
   "motivo": "triage: El título mezcla referencias (4075 y W1450) que no corresponden a esta versión; verificar la referencia real. Con caja y papeles se vende cerca de US$6.500-7.500, así que US$9.238 está muy por encima. (justo 7000)"
+ },
+ {
+  "fecha": "2026-11-27T20:01:34.349893+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Men's Automatic Silver Wristwatch Roman Numerals Box & Papers",
+  "total": 350.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/920192052975",
+  "item_id": "v1|920192052975|0",
+  "triage": {
+   "modelo": "Rolex Datejust (según título; la imagen solo muestra documentación, no el reloj)",
+   "referencia": null,
+   "precio_justo_usd": 9000,
+   "interesante": false,
+   "nota": "Un Datejust nuevo con caja y papeles cuesta miles de dólares; US$350 es inverosímil. La foto solo muestra papeles, así que es probable réplica o estafa."
+  },
+  "motivo": "triage: Un Datejust nuevo con caja y papeles cuesta miles de dólares; US$350 es inverosímil. La foto solo muestra papeles, así que es probable réplica o estafa. (justo 9000)"
+ },
+ {
+  "fecha": "2026-11-27T20:01:34.349893+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Rolex Datejust | Ref. 126231",
+  "total": 17680.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267856478699",
+  "item_id": "v1|267856478699|0",
+  "referencia": "126231",
+  "mercado": {
+   "n": 29,
+   "p25": 16025,
+   "mediana": 17199
+  },
+  "ratio_mercado": 1.103,
+  "motivo": "precio normal (110 % del cuartil bajo de 126231)"
+ },
+ {
+  "fecha": "2026-11-27T20:01:34.349893+00:00",
+  "marca": "Rolex",
+  "titulo": "1987 Rolex President Day-Date 18238 Champagne Index Yellow Gold 36mm Box/Papers",
+  "total": 23640.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/336919995645",
+  "item_id": "v1|336919995645|0",
+  "referencia": "18238",
+  "mercado": {
+   "n": 36,
+   "p25": 15667,
+   "mediana": 20990
+  },
+  "ratio_mercado": 1.509,
+  "motivo": "precio normal (151 % del cuartil bajo de 18238)"
+ },
+ {
+  "fecha": "2026-11-27T20:01:34.349893+00:00",
+  "marca": "Cartier",
+  "titulo": "Vintage Must de Cartier Tank Vermeil 63143 Stripe LM Qz Women Watch Box Papers",
+  "total": 2350.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/900126992178",
+  "item_id": "v1|900126992178|0",
+  "triage": {
+   "modelo": "Cartier Must de Cartier Tank vermeil (cuarzo, tamaño grande), con caja original",
+   "referencia": null,
+   "precio_justo_usd": 950,
+   "interesante": false,
+   "nota": "Precio pedido de US$2350 muy por encima del valor de mercado para un Must Tank vermeil de cuarzo en estado Fair, aunque incluya caja y papeles. La referencia 63143 no la puedo confirmar desde la imagen."
+  },
+  "motivo": "triage: Precio pedido de US$2350 muy por encima del valor de mercado para un Must Tank vermeil de cuarzo en estado Fair, aunque incluya caja y papeles. La referencia 63143 no la puedo confirmar desde la imagen. (justo 950)"
  }
 ]
