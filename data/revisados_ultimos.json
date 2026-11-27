@@ -2,63 +2,6 @@
  {
   "fecha": "2026-11-24T18:29:15.991510+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Day-Date OysterQuartz President 19019 Silver 18K White Gold 36mm Watch",
-  "total": 27728.49,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960239139847",
-  "item_id": "v1|960239139847|0",
-  "referencia": "19019",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Oysterquartz Day-Date (President) en oro blanco de 18k, esfera plateada",
-   "referencia": "19019",
-   "precio_justo_usd": 19500,
-   "interesante": false,
-   "nota": "Referencia 19019 en oro blanco; el precio pedido de US$27.728 está muy por encima de las ventas cerradas habituales para este modelo, que suelen rondar US$18.000-22.000 según estado y papeles."
-  },
-  "motivo": "triage: Referencia 19019 en oro blanco; el precio pedido de US$27.728 está muy por encima de las ventas cerradas habituales para este modelo, que suelen rondar US$18.000-22.000 según estado y papeles. (justo 19500)"
- },
- {
-  "fecha": "2026-11-24T18:29:15.991510+00:00",
-  "marca": "Rolex",
-  "titulo": "2020 Rolex Daytona Cosmograph 116515 LN 18K Rose Gold Sundust 40mm Box Papers",
-  "total": 42518.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960239139851",
-  "item_id": "v1|960239139851|0",
-  "referencia": "116515",
-  "mercado": {
-   "n": 17,
-   "p25": 41000,
-   "mediana": 44620
-  },
-  "ratio_mercado": 1.037,
-  "motivo": "precio normal (104 % del cuartil bajo de 116515)"
- },
- {
-  "fecha": "2026-11-24T18:29:15.991510+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 1950s Rolex Cal. 1400 14k Yellow Gold Ladies Dress Watch 27g p20332",
-  "total": 4999.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820393407020",
-  "item_id": "v1|820393407020|0",
-  "triage": {
-   "modelo": "Rolex dama vintage de cuerda manual, oro amarillo 14k con brazalete integrado, caja cojín y esfera champán (Cal. 1400)",
-   "referencia": null,
-   "precio_justo_usd": 2500,
-   "interesante": false,
-   "nota": "Referencia p20332 no verificable en las fotos; el precio pedido de US$4,999 supera de forma clara el valor de venta cerrada de esta pieza en condición usada."
-  },
-  "motivo": "triage: Referencia p20332 no verificable en las fotos; el precio pedido de US$4,999 supera de forma clara el valor de venta cerrada de esta pieza en condición usada. (justo 2500)"
- },
- {
-  "fecha": "2026-11-24T18:29:15.991510+00:00",
-  "marca": "Rolex",
   "titulo": "Renewed Rolex Submariner Date \"Hulk\" 116610LV, Steel, Mark II Green Dial, Oys...",
   "total": 22356.0,
   "condicion": "Seller refurbished",
@@ -10926,5 +10869,68 @@
   },
   "ratio_justo": 1.08,
   "motivo": "precio normal segun revision (108 % del justo 3000)"
+ },
+ {
+  "fecha": "2026-11-27T04:01:03.067488+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner 16610 Black 40mm Stainless Steel",
+  "total": 9295.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206727511377",
+  "item_id": "v1|206727511377|0",
+  "referencia": "16610",
+  "mercado": {
+   "n": 79,
+   "p25": 9878,
+   "mediana": 10395
+  },
+  "ratio_mercado": 0.941,
+  "motivo": "precio normal (94 % del cuartil bajo de 16610)"
+ },
+ {
+  "fecha": "2026-11-27T04:01:03.067488+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust 31, Aubergine Roman VI Diamond, Steel & Rose Gold, 278381RBR",
+  "total": 29644.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206729759365",
+  "item_id": "v1|206729759365|0",
+  "referencia": "278381RBR",
+  "mercado": {
+   "n": 1,
+   "p25": 34980,
+   "mediana": 34980
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 31 acero y Everose con bisel de diamantes, esfera aubergine con números romanos",
+   "referencia": "278381RBR",
+   "precio_justo_usd": 17500,
+   "interesante": false,
+   "nota": "Referencia correcta, pero el precio pedido (US$29.644) está muy por encima del valor de mercado de un 278381RBR nuevo con caja y papeles."
+  },
+  "motivo": "triage: Referencia correcta, pero el precio pedido (US$29.644) está muy por encima del valor de mercado de un 278381RBR nuevo con caja y papeles. (justo 17500)"
+ },
+ {
+  "fecha": "2026-11-27T04:01:03.067488+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos WSSA0009",
+  "total": 410.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407392041303",
+  "item_id": "v1|407392041303|0",
+  "referencia": "WSSA0009",
+  "mercado": {
+   "n": 2,
+   "p25": 6240,
+   "mediana": 6850
+  },
+  "triage": {
+   "modelo": "Cartier Santos (caja cuadrada de acero, esfera blanca con números romanos)",
+   "referencia": "WSSA0009",
+   "precio_justo_usd": 4000,
+   "interesante": false,
+   "nota": "Precio de US$410 muy por debajo del mercado para un Santos de acero auténtico; sospechar de replica o pieza incompleta, verificar antes de cualquier oferta."
+  },
+  "motivo": "triage: Precio de US$410 muy por debajo del mercado para un Santos de acero auténtico; sospechar de replica o pieza incompleta, verificar antes de cualquier oferta. (justo 4000)"
  }
 ]
