@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-24T19:14:25.745193+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Oyster Perpetual 34 115234 Diamond Steel 18k White Gold Mens Watch",
-  "total": 8025.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267853657145",
-  "item_id": "v1|267853657145|0",
-  "referencia": "115234",
-  "mercado": {
-   "n": 7,
-   "p25": 7925,
-   "mediana": 8025
-  },
-  "ratio_mercado": 1.013,
-  "motivo": "precio normal (101 % del cuartil bajo de 115234)"
- },
- {
-  "fecha": "2026-11-24T19:14:25.745193+00:00",
-  "marca": "Rolex",
   "titulo": "New- UNWORN Rolex Cosmograph Daytona \"GHOST\" 126519LN 18k White Gold 40mm",
   "total": 75000.0,
   "condicion": "New with box and papers",
@@ -10956,5 +10939,22 @@
    "nota": "Precio pedido de US$4837 está muy por encima del valor de venta real; el listado dice automático pero la referencia y la esfera deben verificarse."
   },
   "motivo": "triage: Precio pedido de US$4837 está muy por encima del valor de venta real; el listado dice automático pero la referencia y la esfera deben verificarse. (justo 3500)"
+ },
+ {
+  "fecha": "2026-11-27T13:16:23.341936+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere de Cartier Quartz Watch Stainless Steel 19",
+  "total": 5310.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117545309196",
+  "item_id": "v1|117545309196|0",
+  "triage": {
+   "modelo": "Cartier Panthère de Cartier, cuarzo, acero, tamaño pequeño, esfera blanca con números romanos",
+   "referencia": "Probablemente 1320 o W25033P5; no verificable solo con la foto",
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "Precio pedido de US$5.310 muy por encima del valor de reventa de un Panthère pequeño de cuarzo en acero, que ronda US$2.000-2.800 según año y estado."
+  },
+  "motivo": "triage: Precio pedido de US$5.310 muy por encima del valor de reventa de un Panthère pequeño de cuarzo en acero, que ronda US$2.000-2.800 según año y estado. (justo 2400)"
  }
 ]
