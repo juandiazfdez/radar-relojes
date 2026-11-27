@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T19:29:26.103882+00:00",
-  "marca": "Cartier",
-  "titulo": "Ladies Cartier Santos Galbee W20045C4 24mm Circa 2003 in Excellent Condition",
-  "total": 6700.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/960239233516",
-  "item_id": "v1|960239233516|0",
-  "triage": {
-   "modelo": "Cartier Santos Galbée 24 mm, acero y oro amarillo, cuarzo, esfera blanca con números romanos",
-   "referencia": "W20045C4",
-   "precio_justo_usd": 2400,
-   "interesante": false,
-   "nota": "Precio pedido de US$6.700 muy por encima del valor de mercado (aprox. US$2.000-2.800) para este modelo de cuarzo en dos tonos."
-  },
-  "motivo": "triage: Precio pedido de US$6.700 muy por encima del valor de mercado (aprox. US$2.000-2.800) para este modelo de cuarzo en dos tonos. (justo 2400)"
- },
- {
-  "fecha": "2026-11-24T19:29:26.103882+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise 18K/Stainless Steel Watch W51005Q4",
-  "total": 4500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407386256687",
-  "item_id": "v1|407386256687|0",
-  "triage": {
-   "modelo": "Cartier Tank Française bicolor (acero y oro amarillo 18K), cuarzo",
-   "referencia": "W51005Q4",
-   "precio_justo_usd": 2800,
-   "interesante": false,
-   "nota": "El precio pedido de US$4500 queda muy por encima del valor de venta real de este modelo de cuarzo usado, incluso en buen estado."
-  },
-  "motivo": "triage: El precio pedido de US$4500 queda muy por encima del valor de venta real de este modelo de cuarzo usado, incluso en buen estado. (justo 2800)"
- },
- {
-  "fecha": "2026-11-24T19:29:26.103882+00:00",
-  "marca": "Tudor",
-  "titulo": "2025 Tudor Black Bay P01 Chronometer Date Stainless Steel 42MM Men's Auto 70150",
-  "total": 3100.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/257870204374",
-  "item_id": "v1|257870204374|0",
-  "referencia": "70150",
-  "mercado": {
-   "n": 4,
-   "p25": 3175,
-   "mediana": 3268
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay P01 Chronometer Date, acero, 42 mm, esfera negra",
-   "referencia": "70150",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio cercano al mercado para una pieza de 2025 en excelente estado, pero sin caja ni papeles confirmados; el descuento es menor del 15 %."
-  },
-  "motivo": "triage: Precio cercano al mercado para una pieza de 2025 en excelente estado, pero sin caja ni papeles confirmados; el descuento es menor del 15 %. (justo 3300)"
- },
- {
   "fecha": "2026-11-24T19:44:25.927492+00:00",
   "marca": "Rolex",
   "titulo": "1996 Rolex Day-Date 36mm White Gold 18239",
@@ -10950,5 +10893,62 @@
   },
   "ratio_mercado": 1.074,
   "motivo": "precio normal (107 % del cuartil bajo de 279383)"
+ },
+ {
+  "fecha": "2026-11-27T15:01:22.772380+00:00",
+  "marca": "Rolex",
+  "titulo": "1970 Rolex Oyster Perpetual Date with original bracelet",
+  "total": 3800.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/137967722838",
+  "item_id": "v1|137967722838|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date (1970)",
+   "referencia": "1500 (probable)",
+   "precio_justo_usd": 3900,
+   "interesante": false,
+   "nota": "Acero con pulsera Oyster, esfera plateada con indices de barra y ventana de fecha; el precio pedido queda cerca del valor de mercado, sin descuento de al menos 15 %."
+  },
+  "motivo": "triage: Acero con pulsera Oyster, esfera plateada con indices de barra y ventana de fecha; el precio pedido queda cerca del valor de mercado, sin descuento de al menos 15 %. (justo 3900)"
+ },
+ {
+  "fecha": "2026-11-27T15:01:22.772380+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Day-Date 36, 18388, Yellow Gold, Champagne Diamond Dial, Diamon...",
+  "total": 29444.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/366842585577",
+  "item_id": "v1|366842585577|0",
+  "referencia": "18388",
+  "mercado": {
+   "n": 3,
+   "p25": 29045,
+   "mediana": 33936
+  },
+  "triage": {
+   "modelo": "Rolex Day-Date 36 oro amarillo con bisel de diamantes y esfera champán con marcadores de diamante",
+   "referencia": "18388",
+   "precio_justo_usd": 30000,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para esta referencia, sin descuento de al menos 15%. Como es 'Seller refurbished', verificar originalidad de piezas, papeles y servicio."
+  },
+  "motivo": "triage: Precio cercano al mercado para esta referencia, sin descuento de al menos 15%. Como es 'Seller refurbished', verificar originalidad de piezas, papeles y servicio. (justo 30000)"
+ },
+ {
+  "fecha": "2026-11-27T15:01:22.772380+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Day-Date 36 1803, Yellow Gold, Champagne Dial, President Bracelet",
+  "total": 18063.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/366842585503",
+  "item_id": "v1|366842585503|0",
+  "triage": {
+   "modelo": "Rolex Day-Date (President) 36 mm, oro amarillo, bisel acanalado, esfera champán",
+   "referencia": "1803",
+   "precio_justo_usd": 18500,
+   "interesante": false,
+   "nota": "Referencia 1803 de oro amarillo con esfera champán y brazalete President. El precio pedido queda cerca del valor de mercado, sin descuento de al menos 15 %; el estado 'refurbished' puede restar valor frente a un reloj original."
+  },
+  "motivo": "triage: Referencia 1803 de oro amarillo con esfera champán y brazalete President. El precio pedido queda cerca del valor de mercado, sin descuento de al menos 15 %; el estado 'refurbished' puede restar valor frente a un reloj original. (justo 18500)"
  }
 ]
