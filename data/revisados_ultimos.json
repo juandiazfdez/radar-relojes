@@ -1,80 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T19:44:25.927492+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise 18k Yellow Gold Quartz Diamonds Silver Ladies Watch 2385",
-  "total": 22905.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287756041480",
-  "item_id": "v1|287756041480|0",
-  "referencia": "2385",
-  "mercado": {
-   "n": 7,
-   "p25": 6950,
-   "mediana": 16350
-  },
-  "ratio_mercado": 3.296,
-  "motivo": "precio normal (330 % del cuartil bajo de 2385)"
- },
- {
-  "fecha": "2026-11-24T19:44:25.927492+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Pro 24hr GMT Mens Steel 39mm Automatic Watch 79470 w Box",
-  "total": 2899.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/800961841160",
-  "item_id": "v1|800961841160|0",
-  "referencia": "79470",
-  "mercado": {
-   "n": 20,
-   "p25": 3554,
-   "mediana": 3662
-  },
-  "ratio_mercado": 0.816,
-  "claude": {
-   "veredicto": "alerta",
-   "precio_justo_usd": 3200,
-   "riesgo_autenticidad": "bajo",
-   "estado": "Buen estado de uso, con desgaste leve en el cierre, la caja y el brazalete, y marcas en el fondo de caja por cambios de correa. Funciona a -3 s/día."
-  },
-  "ratio_justo": 0.906,
-  "motivo": "precio normal segun revision (91 % del justo 3200)"
- },
- {
-  "fecha": "2026-11-24T19:44:25.927492+00:00",
-  "marca": "Tudor",
-  "titulo": "2026 New Tudor Black Bay 58 Black/Gilt Jubilee Stickered 10/26 Ref# 7939A1A0NU",
-  "total": 4634.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/257870222848",
-  "item_id": "v1|257870222848|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 58 (39 mm), bisel de aluminio, brazalete Jubilee, versión nueva 2026",
-   "referencia": "7939A1A0NU (según el listado; no verificada en la imagen)",
-   "precio_justo_usd": 3900,
-   "interesante": false,
-   "nota": "El precio pedido de US$4634 está bien por encima del mercado gris para un Black Bay 58 nuevo con caja y papeles; la referencia y la variante Jubilee no se pueden confirmar en la foto."
-  },
-  "motivo": "triage: El precio pedido de US$4634 está bien por encima del mercado gris para un Black Bay 58 nuevo con caja y papeles; la referencia y la variante Jubilee no se pueden confirmar en la foto. (justo 3900)"
- },
- {
-  "fecha": "2026-11-24T19:59:26.144631+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT-Master 16750 40MM Pepsi Automatic Oyster Unpolished 1 Year Warranty",
-  "total": 11498.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/880150073649",
-  "item_id": "v1|880150073649|0",
-  "referencia": "16750",
-  "mercado": {
-   "n": 13,
-   "p25": 12920,
-   "mediana": 15079
-  },
-  "ratio_mercado": 0.89,
-  "motivo": "precio normal (89 % del cuartil bajo de 16750)"
- },
- {
   "fecha": "2026-11-24T19:59:26.144631+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual Date 15223 34MM Automatic 18k Two-Tone Yellow Gold Steel",
@@ -10962,5 +10887,79 @@
    "nota": "Precio pedido muy por encima del valor de mercado de esta referencia usada en estado Good; no es una oportunidad."
   },
   "motivo": "triage: Precio pedido muy por encima del valor de mercado de esta referencia usada en estado Good; no es una oportunidad. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-27T15:46:34.733726+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 Rolex GMT-Master II 126710 GRNR Bruce Wayne Steel Jubilee Watch Box Papers",
+  "total": 22228.98,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/307305006213",
+  "item_id": "v1|307305006213|0",
+  "referencia": "126710",
+  "mercado": {
+   "n": 28,
+   "p25": 17565,
+   "mediana": 17900
+  },
+  "ratio_mercado": 1.266,
+  "motivo": "precio normal (127 % del cuartil bajo de 126710)"
+ },
+ {
+  "fecha": "2026-11-27T15:46:34.733726+00:00",
+  "marca": "Rolex",
+  "titulo": "2026 Rolex GMT PEPSI METEORITE 126719BLRO Box Papers Discontinued White Gold",
+  "total": 69999.0,
+  "condicion": "New with imperfections",
+  "url": "https://www.ebay.com/itm/128220225132",
+  "item_id": "v1|128220225132|0",
+  "referencia": "126719BLRO",
+  "mercado": {
+   "n": 5,
+   "p25": 49999,
+   "mediana": 68672
+  },
+  "ratio_mercado": 1.4,
+  "motivo": "precio normal (140 % del cuartil bajo de 126719BLRO)"
+ },
+ {
+  "fecha": "2026-11-27T15:46:34.733726+00:00",
+  "marca": "Cartier",
+  "titulo": "Nice Unpolished Example Cartier Santos Automatic 2319 29mm 2-Tone",
+  "total": 6444.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/407393318080",
+  "item_id": "v1|407393318080|0",
+  "referencia": "2319",
+  "mercado": {
+   "n": 9,
+   "p25": 5600,
+   "mediana": 6818
+  },
+  "ratio_mercado": 1.151,
+  "motivo": "precio normal (115 % del cuartil bajo de 2319)"
+ },
+ {
+  "fecha": "2026-11-27T15:46:34.733726+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Pasha Chronograph W31030H3 2113 Silver Guilloche 38mm Steel Watch",
+  "total": 3053.8,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900126494770",
+  "item_id": "v1|900126494770|0",
+  "referencia": "2113",
+  "mercado": {
+   "n": 3,
+   "p25": 3795,
+   "mediana": 4495
+  },
+  "triage": {
+   "modelo": "Cartier Pasha C Chronograph 38mm (acero, esfera plateada, cronógrafo de cuarzo)",
+   "referencia": "W31030H3",
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "Precio pedido de US$3054 con envío, por encima del valor de venta cerrada para este cronógrafo de cuarzo en estado excelente; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$3054 con envío, por encima del valor de venta cerrada para este cronógrafo de cuarzo en estado excelente; no es una oportunidad. (justo 2400)"
  }
 ]
