@@ -1,80 +1,5 @@
 [
  {
-  "fecha": "2026-11-25T04:59:42.336199+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Submariner Ref: 5513  Serif \"Feet First\" Bracelet Marked 9315/280  4/69",
-  "total": 11940.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/960240386306",
-  "item_id": "v1|960240386306|0",
-  "referencia": "5513",
-  "mercado": {
-   "n": 35,
-   "p25": 11750,
-   "mediana": 13448
-  },
-  "ratio_mercado": 1.016,
-  "motivo": "precio normal (102 % del cuartil bajo de 5513)"
- },
- {
-  "fecha": "2026-11-25T04:59:42.336199+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex M.C.M Fabulous. Rare 18K Solid Gold  Vintage Cocktail Wrist Watch",
-  "total": 5499.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/820395175640",
-  "item_id": "v1|820395175640|0",
-  "triage": {
-   "modelo": "Reloj de cóctel de dama en oro 18k, caja ovalada con bisel acanalado y pulsera de malla (Rolex vintage no confirmado en la imagen)",
-   "referencia": null,
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "El título menciona 'M.C.M', que no corresponde a Rolex, y la esfera no permite confirmar la marca. El precio se acerca al valor del oro, así que no hay descuento claro."
-  },
-  "motivo": "triage: El título menciona 'M.C.M', que no corresponde a Rolex, y la esfera no permite confirmar la marca. El precio se acerca al valor del oro, así que no hay descuento claro. (justo 3000)"
- },
- {
-  "fecha": "2026-11-25T07:14:52.824689+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Chrono 79360N Reverse Panda 41mm Steel 2021 Full Set Box Papers",
-  "total": 3806.41,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/227631239603",
-  "item_id": "v1|227631239603|0",
-  "referencia": "79360N",
-  "mercado": {
-   "n": 58,
-   "p25": 4500,
-   "mediana": 4845
-  },
-  "ratio_mercado": 0.846,
-  "claude": {
-   "veredicto": "dudoso",
-   "precio_justo_usd": 4100,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado con desgaste visible en brazalete y cierre; caja y bisel limpios según el vendedor"
-  },
-  "ratio_justo": 0.928,
-  "motivo": "precio normal segun revision (93 % del justo 4100)"
- },
- {
-  "fecha": "2026-11-25T07:29:52.902153+00:00",
-  "marca": "Cartier",
-  "titulo": "2017 Cartier Ballon Bleu de Cartier W69016Z4",
-  "total": 4150.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/267854096987",
-  "item_id": "v1|267854096987|0",
-  "triage": {
-   "modelo": "Cartier Ballon Bleu de Cartier (acero, esfera plateada, numerales romanos, fecha, correa de piel negra; el dial indica automático)",
-   "referencia": "W69016Z4 (según el título; no se puede verificar en la foto)",
-   "precio_justo_usd": 3800,
-   "interesante": false,
-   "nota": "Con la correa y el dial visibles, el precio pedido de US$4150 está por encima del mercado secundario para un Ballon Bleu de acero de 36 mm en estado excelente. La referencia del título no se puede confirmar desde la imagen."
-  },
-  "motivo": "triage: Con la correa y el dial visibles, el precio pedido de US$4150 está por encima del mercado secundario para un Ballon Bleu de acero de 36 mm en estado excelente. La referencia del título no se puede confirmar desde la imagen. (justo 3800)"
- },
- {
   "fecha": "2026-11-25T08:14:53.064878+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Precision Steel Watch",
@@ -11010,5 +10935,85 @@
    "nota": "Precio pedido de US$6295 con envío, por encima del rango de venta cerrada (~US$4,300-5,300) para esta referencia usada con caja y papeles."
   },
   "motivo": "triage: Precio pedido de US$6295 con envío, por encima del rango de venta cerrada (~US$4,300-5,300) para esta referencia usada con caja y papeles. (justo 4800)"
+ },
+ {
+  "fecha": "2026-11-27T23:16:46.013748+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Two-Tone 18K Gold Datejust 69173",
+  "total": 5240.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/237212392897",
+  "item_id": "v1|237212392897|0",
+  "referencia": "69173",
+  "mercado": {
+   "n": 17,
+   "p25": 3868,
+   "mediana": 4359
+  },
+  "ratio_mercado": 1.355,
+  "motivo": "precio normal (135 % del cuartil bajo de 69173)"
+ },
+ {
+  "fecha": "2026-11-27T23:16:46.013748+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage ROLEX 14233 Oyster Perpetual Date 2000 Steel &18k Gold Papers",
+  "total": 5499.99,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/860183295022",
+  "item_id": "v1|860183295022|0",
+  "referencia": "14233",
+  "mercado": {
+   "n": 2,
+   "p25": 5495,
+   "mediana": 6010
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Date 34 mm, acero y oro 18k (bicolor)",
+   "referencia": "14233",
+   "precio_justo_usd": 3200,
+   "interesante": false,
+   "nota": "Referencia 14233 de ano 2000 en estado Fair; con caja y papeles se vende normalmente entre 2.800 y 3.500 USD. El precio pedido de 5.500 USD esta muy por encima del mercado."
+  },
+  "motivo": "triage: Referencia 14233 de ano 2000 en estado Fair; con caja y papeles se vende normalmente entre 2.800 y 3.500 USD. El precio pedido de 5.500 USD esta muy por encima del mercado. (justo 3200)"
+ },
+ {
+  "fecha": "2026-11-27T23:16:46.013748+00:00",
+  "marca": "Cartier",
+  "titulo": "Authentic Must De Cartier Trinity, Swiss Made 20m",
+  "total": 2100.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407394014888",
+  "item_id": "v1|407394014888|0",
+  "triage": {
+   "modelo": "Must de Cartier Tank (gold-tone, correa de cuero; posible variante Trinity según el listado)",
+   "referencia": null,
+   "precio_justo_usd": 400,
+   "interesante": false,
+   "nota": "Must de Cartier de cuarzo, caja chapada y correa de cuero; se vende en torno a US$350-500. El precio pedido de US$2100 está muy por encima del mercado y la foto no muestra claramente los anillos tricolor de la Trinity."
+  },
+  "motivo": "triage: Must de Cartier de cuarzo, caja chapada y correa de cuero; se vende en torno a US$350-500. El precio pedido de US$2100 está muy por encima del mercado y la foto no muestra claramente los anillos tricolor de la Trinity. (justo 400)"
+ },
+ {
+  "fecha": "2026-11-27T23:16:46.013748+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Must de Cartier Tank Men’s 2413",
+  "total": 3500.0,
+  "condicion": "Pre-owned - Fair",
+  "url": "https://www.ebay.com/itm/257875608487",
+  "item_id": "v1|257875608487|0",
+  "referencia": "2413",
+  "mercado": {
+   "n": 3,
+   "p25": 3395,
+   "mediana": 3758
+  },
+  "triage": {
+   "modelo": "Cartier Must de Cartier Tank (cuarzo, chapado en oro/vermeil)",
+   "referencia": "2413",
+   "precio_justo_usd": 450,
+   "interesante": false,
+   "nota": "Must de Cartier chapado en oro con correa de piel, estado Fair; el precio pedido de US$3500 está muy por encima de su valor de mercado."
+  },
+  "motivo": "triage: Must de Cartier chapado en oro con correa de piel, estado Fair; el precio pedido de US$3500 está muy por encima de su valor de mercado. (justo 450)"
  }
 ]
