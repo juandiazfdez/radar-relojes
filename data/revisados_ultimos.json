@@ -1,63 +1,6 @@
 [
  {
   "fecha": "2026-11-24T19:14:25.745193+00:00",
-  "marca": "Rolex",
-  "titulo": "New- UNWORN Rolex Cosmograph Daytona \"GHOST\" 126519LN 18k White Gold 40mm",
-  "total": 75000.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/820393544102",
-  "item_id": "v1|820393544102|0",
-  "referencia": "126519LN",
-  "mercado": {
-   "n": 7,
-   "p25": 56275,
-   "mediana": 58975
-  },
-  "ratio_mercado": 1.333,
-  "motivo": "precio normal (133 % del cuartil bajo de 126519LN)"
- },
- {
-  "fecha": "2026-11-24T19:14:25.745193+00:00",
-  "marca": "Cartier",
-  "titulo": "Ladies Cartier Tank Solo Small 3170 WSTA0030 24MM Leather Quartz Watch. READ.",
-  "total": 2409.99,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/206725171805",
-  "item_id": "v1|206725171805|0",
-  "referencia": "WSTA0030",
-  "mercado": {
-   "n": 5,
-   "p25": 3275,
-   "mediana": 3450
-  },
-  "ratio_mercado": 0.736,
-  "motivo": "descripcion: as is, needs work"
- },
- {
-  "fecha": "2026-11-24T19:14:25.745193+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Watch Princess Date 92413 - Inventory 9517 Stainless Steel/Yellow Gold",
-  "total": 1499.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/287756014996",
-  "item_id": "v1|287756014996|0",
-  "referencia": "92413",
-  "mercado": {
-   "n": 3,
-   "p25": 1299,
-   "mediana": 1895
-  },
-  "triage": {
-   "modelo": "Tudor Princess Date (dial blanco, bisel acanalado, bisel y bisel de oro amarillo, brazalete jubilee de dos tonos)",
-   "referencia": "92413",
-   "precio_justo_usd": 1400,
-   "interesante": false,
-   "nota": "Precio cercano al mercado para 92413 de dos tonos usado; sin caja ni papeles, el descuento necesario no se cumple."
-  },
-  "motivo": "triage: Precio cercano al mercado para 92413 de dos tonos usado; sin caja ni papeles, el descuento necesario no se cumple. (justo 1400)"
- },
- {
-  "fecha": "2026-11-24T19:14:25.745193+00:00",
   "marca": "Tudor",
   "titulo": "W/Papers 1974 Tudor Prince OysterDate 32 mm Steel Automatic Watch 7970 Vintage",
   "total": 3550.0,
@@ -10956,5 +10899,56 @@
    "nota": "Precio pedido de US$5.310 muy por encima del valor de reventa de un Panthère pequeño de cuarzo en acero, que ronda US$2.000-2.800 según año y estado."
   },
   "motivo": "triage: Precio pedido de US$5.310 muy por encima del valor de reventa de un Panthère pequeño de cuarzo en acero, que ronda US$2.000-2.800 según año y estado. (justo 2400)"
+ },
+ {
+  "fecha": "2026-11-27T14:16:23.440774+00:00",
+  "marca": "Rolex",
+  "titulo": "FINE ROLEX OYSTER AIR KING PRECISION 1002 5500 AUTOMATIC SERVICED STEEL BRACELET",
+  "total": 4100.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940127022951",
+  "item_id": "v1|940127022951|0",
+  "referencia": "5500",
+  "mercado": {
+   "n": 22,
+   "p25": 4000,
+   "mediana": 4375
+  },
+  "ratio_mercado": 1.025,
+  "motivo": "precio normal (102 % del cuartil bajo de 5500)"
+ },
+ {
+  "fecha": "2026-11-27T14:16:23.440774+00:00",
+  "marca": "Rolex",
+  "titulo": "LADIES ROLEX OYSTER PERPETUAL REF 6618 SERVICED AUTOMATIC RARE STRETCH BRACELET",
+  "total": 2495.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267856241511",
+  "item_id": "v1|267856241511|0",
+  "referencia": "6618",
+  "mercado": {
+   "n": 12,
+   "p25": 2635,
+   "mediana": 3162
+  },
+  "ratio_mercado": 0.947,
+  "motivo": "precio normal (95 % del cuartil bajo de 6618)"
+ },
+ {
+  "fecha": "2026-11-27T14:16:23.440774+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay Chrono 39mm Bumblebee M79310N-0001 New Unworn Box & Papers",
+  "total": 9991.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/860182319771",
+  "item_id": "v1|860182319771|0",
+  "referencia": "M79310N-0001",
+  "mercado": {
+   "n": 6,
+   "p25": 8995,
+   "mediana": 9241
+  },
+  "ratio_mercado": 1.111,
+  "motivo": "precio normal (111 % del cuartil bajo de M79310N-0001)"
  }
 ]
