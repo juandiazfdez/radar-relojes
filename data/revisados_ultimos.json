@@ -1,63 +1,6 @@
 [
  {
   "fecha": "2026-11-24T21:44:25.534519+00:00",
-  "marca": "Rolex",
-  "titulo": "Clean Rolex Air King Oyster Perpetual 5500 Automatic Heavy Oyster Bracelet",
-  "total": 4250.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/137959860766",
-  "item_id": "v1|137959860766|0",
-  "referencia": "5500",
-  "mercado": {
-   "n": 20,
-   "p25": 4050,
-   "mediana": 4445
-  },
-  "ratio_mercado": 1.049,
-  "motivo": "precio normal (105 % del cuartil bajo de 5500)"
- },
- {
-  "fecha": "2026-11-24T21:44:25.534519+00:00",
-  "marca": "Rolex",
-  "titulo": "ROLEX 69178 Lady Datejust 18K Gold 26mm Automatic Diamond Watch (FPP011601)",
-  "total": 12000.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/366835823941",
-  "item_id": "v1|366835823941|0",
-  "referencia": "69178",
-  "mercado": {
-   "n": 6,
-   "p25": 5450,
-   "mediana": 5975
-  },
-  "ratio_mercado": 2.202,
-  "motivo": "precio normal (220 % del cuartil bajo de 69178)"
- },
- {
-  "fecha": "2026-11-24T21:44:25.534519+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex 39mm Cellini Dual Time 18KRG 50525 Brown Leather - 2017 Card",
-  "total": 19575.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/287756251975",
-  "item_id": "v1|287756251975|0",
-  "referencia": "50525",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Cellini Dual Time 39 mm, oro Everose 18k, esfera plateada, correa de cocodrilo marrón",
-   "referencia": "50525",
-   "precio_justo_usd": 18500,
-   "interesante": false,
-   "nota": "Referencia 50525 de 2017 en oro Everose; el precio pedido queda unos 6 % por encima de una estimación conservadora del mercado, sin ventaja clara."
-  },
-  "motivo": "triage: Referencia 50525 de 2017 en oro Everose; el precio pedido queda unos 6 % por encima de una estimación conservadora del mercado, sin ventaja clara. (justo 18500)"
- },
- {
-  "fecha": "2026-11-24T21:44:25.534519+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Cougar   18k Gold & Stainless Steel Ladies Watch Quartz   NO RESERVE",
   "total": 2400.0,
@@ -10992,5 +10935,56 @@
    "nota": "Precio pedido muy por encima del valor de venta cerrada para este modelo usado y reacondicionado por el vendedor."
   },
   "motivo": "triage: Precio pedido muy por encima del valor de venta cerrada para este modelo usado y reacondicionado por el vendedor. (justo 14000)"
+ },
+ {
+  "fecha": "2026-11-27T19:01:34.438525+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT-Master II 126713GRNR Zombie Jubilee 2025 Mint Warranty 2030",
+  "total": 23600.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/960246888752",
+  "item_id": "v1|960246888752|0",
+  "referencia": "126713GRNR",
+  "mercado": {
+   "n": 34,
+   "p25": 22897,
+   "mediana": 23535
+  },
+  "ratio_mercado": 1.031,
+  "motivo": "precio normal (103 % del cuartil bajo de 126713GRNR)"
+ },
+ {
+  "fecha": "2026-11-27T19:01:34.438525+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX 228239 President Day Date Olive Green 18K White Gold 40mm BOX PAPER",
+  "total": 46495.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227635482113",
+  "item_id": "v1|227635482113|0",
+  "referencia": "228239",
+  "mercado": {
+   "n": 17,
+   "p25": 45442,
+   "mediana": 48500
+  },
+  "ratio_mercado": 1.023,
+  "motivo": "precio normal (102 % del cuartil bajo de 228239)"
+ },
+ {
+  "fecha": "2026-11-27T19:01:34.438525+00:00",
+  "marca": "Rolex",
+  "titulo": "2021 Rolex Submariner \"Starbucks\" 126610LV Silver Oyster Bracelet B&P",
+  "total": 14615.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117545836852",
+  "item_id": "v1|117545836852|0",
+  "referencia": "126610LV",
+  "mercado": {
+   "n": 80,
+   "p25": 15495,
+   "mediana": 16000
+  },
+  "ratio_mercado": 0.943,
+  "motivo": "precio normal (94 % del cuartil bajo de 126610LV)"
  }
 ]
