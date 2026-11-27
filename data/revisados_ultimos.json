@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-24T16:59:16.071723+00:00",
   "marca": "Rolex",
-  "titulo": "New Oct 2026 Rolex Daytona 126519 LN Meteorite Oysterflex 18K 40mm Box Papers",
-  "total": 94028.81,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/267853546863",
-  "item_id": "v1|267853546863|0",
-  "referencia": "126519",
-  "mercado": {
-   "n": 6,
-   "p25": 56275,
-   "mediana": 57625
-  },
-  "ratio_mercado": 1.671,
-  "motivo": "precio normal (167 % del cuartil bajo de 126519)"
- },
- {
-  "fecha": "2026-11-24T16:59:16.071723+00:00",
-  "marca": "Rolex",
   "titulo": "2015 Rolex Day-Date President 228239 Rhodium Tapestry 18K Gold 40mm Box Papers",
   "total": 40988.81,
   "condicion": "Pre-owned - Excellent",
@@ -10884,5 +10867,28 @@
   },
   "ratio_mercado": 0.96,
   "motivo": "precio normal (96 % del cuartil bajo de 126720VTNR)"
+ },
+ {
+  "fecha": "2026-11-27T01:31:03.350414+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 116189 18K White Gold Datejust 36mm Watch Factory Box And Papers",
+  "total": 26500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960244845367",
+  "item_id": "v1|960244845367|0",
+  "referencia": "116189",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 36 mm en oro blanco 18K, bisel de diamantes, esfera chocolate, con caja y papeles",
+   "referencia": "116189",
+   "precio_justo_usd": 19000,
+   "interesante": false,
+   "nota": "Precio pedido de US$26,500 supera en más de 30 % el valor de venta cerrada estimado para este estado y configuración."
+  },
+  "motivo": "triage: Precio pedido de US$26,500 supera en más de 30 % el valor de venta cerrada estimado para este estado y configuración. (justo 19000)"
  }
 ]
