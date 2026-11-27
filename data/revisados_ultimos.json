@@ -1,62 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T20:59:25.606901+00:00",
-  "marca": "Rolex",
-  "titulo": "New 2026 Rolex Sky-Dweller 336934 Blue 42mm Jubilee 18K Gold Steel Box Papers",
-  "total": 27524.59,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/940120343025",
-  "item_id": "v1|940120343025|0",
-  "triage": {
-   "modelo": "Rolex Sky-Dweller, bisel acanalado en oro blanco, esfera azul, brazalete Jubilee, acero Oystersteel y oro blanco de 42 mm",
-   "referencia": "336934",
-   "precio_justo_usd": 32000,
-   "interesante": false,
-   "nota": "Precio ~14 % bajo mercado para un 336934 nuevo, lo que es sospechoso en un Rolex nuevo; el título dice 'New 2026' y 'Gold Steel' de forma imprecisa. Verificar autenticidad, serial y papeles antes de considerarlo."
-  },
-  "motivo": "triage: Precio ~14 % bajo mercado para un 336934 nuevo, lo que es sospechoso en un Rolex nuevo; el título dice 'New 2026' y 'Gold Steel' de forma imprecisa. Verificar autenticidad, serial y papeles antes de considerarlo. (justo 32000)"
- },
- {
-  "fecha": "2026-11-24T20:59:25.606901+00:00",
-  "marca": "Rolex",
-  "titulo": "New 2026 Rolex Daytona Cosmograph 126500 LN White Panda Steel 40mm Box Papers",
-  "total": 39356.71,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/960239369120",
-  "item_id": "v1|960239369120|0",
-  "referencia": "126500",
-  "mercado": {
-   "n": 31,
-   "p25": 34085,
-   "mediana": 37418
-  },
-  "ratio_mercado": 1.155,
-  "motivo": "precio normal (115 % del cuartil bajo de 126500)"
- },
- {
-  "fecha": "2026-11-24T21:14:25.981955+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Cosmograph Daytona 126515LN Everose Gold Sundust Complete Set",
-  "total": 59649.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/900118784598",
-  "item_id": "v1|900118784598|0",
-  "referencia": "126515LN",
-  "mercado": {
-   "n": 4,
-   "p25": 55000,
-   "mediana": 55000
-  },
-  "triage": {
-   "modelo": "Rolex Cosmograph Daytona (Everose, esfera Sundust con subesferas negras, correa Oysterflex)",
-   "referencia": "126515LN",
-   "precio_justo_usd": 56000,
-   "interesante": false,
-   "nota": "Precio pedido cercano al valor de mercado secundario para esta referencia; no hay descuento de al menos 15 %."
-  },
-  "motivo": "triage: Precio pedido cercano al valor de mercado secundario para esta referencia; no hay descuento de al menos 15 %. (justo 56000)"
- },
- {
   "fecha": "2026-11-24T21:14:25.981955+00:00",
   "marca": "Cartier",
   "titulo": "Must de Cartier Colisee 24mm Quartz Watch",
@@ -10962,5 +10905,56 @@
    "nota": "Precio pedido de US$5495 muy por encima del mercado de segunda mano para este modelo en acero (aprox. US$2500-3800 según estado y papeles); la referencia exacta no se distingue en la foto."
   },
   "motivo": "triage: Precio pedido de US$5495 muy por encima del mercado de segunda mano para este modelo en acero (aprox. US$2500-3800 según estado y papeles); la referencia exacta no se distingue en la foto. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-27T17:46:34.043726+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex GMT Master II  40mm 126710GRNR Bruce Wayne",
+  "total": 20499.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147701056215",
+  "item_id": "v1|147701056215|0",
+  "referencia": "126710GRNR",
+  "mercado": {
+   "n": 96,
+   "p25": 22229,
+   "mediana": 23496
+  },
+  "ratio_mercado": 0.922,
+  "motivo": "precio normal (92 % del cuartil bajo de 126710GRNR)"
+ },
+ {
+  "fecha": "2026-11-27T17:46:34.043726+00:00",
+  "marca": "Rolex",
+  "titulo": "2025 PAPERS Rolex Sea-Dweller Deepsea JAMES CAMERON BLUE Steel 44mm 136660 BOX",
+  "total": 14876.28,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940127454224",
+  "item_id": "v1|940127454224|0",
+  "referencia": "136660",
+  "mercado": {
+   "n": 55,
+   "p25": 15010,
+   "mediana": 15999
+  },
+  "ratio_mercado": 0.991,
+  "motivo": "precio normal (99 % del cuartil bajo de 136660)"
+ },
+ {
+  "fecha": "2026-11-27T17:46:34.043726+00:00",
+  "marca": "Rolex",
+  "titulo": "Estate $13,000 ROLEX DATEJUST 36mm MENS Tiffany & Co SS Watch SERVICED 1601",
+  "total": 5194.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/307305249816",
+  "item_id": "v1|307305249816|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 mm acero con bisel acanalado, esfera turquesa estilo Tiffany y brazalete jubilee",
+   "referencia": "1601",
+   "precio_justo_usd": 7000,
+   "interesante": false,
+   "nota": "Esfera turquesa Tiffany en 1601 sería muy valiosa si es original, pero es un dial frecuentemente refinishado o falsificado; sin verificar autenticidad, el precio no cumple el umbral de 15 %."
+  },
+  "motivo": "triage: Esfera turquesa Tiffany en 1601 sería muy valiosa si es original, pero es un dial frecuentemente refinishado o falsificado; sin verificar autenticidad, el precio no cumple el umbral de 15 %. (justo 7000)"
  }
 ]
