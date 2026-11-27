@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-24T18:59:26.043208+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Day-Date 40 228238, President Bracelet, Champagne Diamond Dial, Yellow ...",
-  "total": 68478.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/800961695213",
-  "item_id": "v1|800961695213|0",
-  "referencia": "228238",
-  "mercado": {
-   "n": 21,
-   "p25": 59999,
-   "mediana": 63999
-  },
-  "ratio_mercado": 1.141,
-  "motivo": "precio normal (114 % del cuartil bajo de 228238)"
- },
- {
-  "fecha": "2026-11-24T18:59:26.043208+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex 18K Gold Datejust President 6917",
   "total": 9230.0,
   "condicion": "Pre-owned - Good",
@@ -10938,5 +10921,22 @@
    "nota": "Precio pedido por encima del valor de venta cerrada estimado para un 124060 nuevo con caja y papeles; el título con fecha 2026 también conviene verificarlo."
   },
   "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para un 124060 nuevo con caja y papeles; el título con fecha 2026 también conviene verificarlo. (justo 12500)"
+ },
+ {
+  "fecha": "2026-11-27T09:31:11.889953+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Datejust Men's Analog Date Watch, Silver Steel Case, Brown Leather",
+  "total": 2850.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206730168242",
+  "item_id": "v1|206730168242|0",
+  "triage": {
+   "modelo": "Posible Rolex Datejust (o reloj de vestir similar), no verificable en la foto",
+   "referencia": null,
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "La foto no muestra logotipo, referencia ni detalles de corona y bisel que confirmen Rolex; las proporciones de la caja y la correa de piel no encajan claramente con un Datejust. Sin verificación de autenticidad, referencia y estado, no se puede considerar una oportunidad."
+  },
+  "motivo": "triage: La foto no muestra logotipo, referencia ni detalles de corona y bisel que confirmen Rolex; las proporciones de la caja y la correa de piel no encajan claramente con un Datejust. Sin verificación de autenticidad, referencia y estado, no se puede considerar una oportunidad. (justo 3000)"
  }
 ]
