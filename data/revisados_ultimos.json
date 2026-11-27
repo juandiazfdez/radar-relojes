@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T18:44:27.026743+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Date Just 36MM with diamonds and blue face excellent condition!",
-  "total": 8195.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920180150528",
-  "item_id": "v1|920180150528|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36 mm con bisel de diamantes y esfera azul (identificación aproximada por foto)",
-   "referencia": null,
-   "precio_justo_usd": 9500,
-   "interesante": false,
-   "nota": "La foto es pequeña y no permite confirmar la referencia ni el material exacto. Con el precio pedido, el descuento frente a un Datejust 36 con bisel de diamantes y esfera azul es inferior al 15 %, y sin fotos de la esfera, el movimiento y los números de serie no se puede descartar una pieza replica."
-  },
-  "motivo": "triage: La foto es pequeña y no permite confirmar la referencia ni el material exacto. Con el precio pedido, el descuento frente a un Datejust 36 con bisel de diamantes y esfera azul es inferior al 15 %, y sin fotos de la esfera, el movimiento y los números de serie no se puede descartar una pieza replica. (justo 9500)"
- },
- {
   "fecha": "2026-11-24T18:59:26.043208+00:00",
   "marca": "Rolex",
   "titulo": "Full Set Rolex Submariner 40 mm Smurf 18K White Gold Watch 116619 Service Valid",
@@ -10932,5 +10915,22 @@
    "nota": "Listado engañoso: el título usa 'Tudor' como palabra clave, pero es un libro de joyería antigua, no un reloj ni una pieza de la marca."
   },
   "motivo": "triage: Listado engañoso: el título usa 'Tudor' como palabra clave, pero es un libro de joyería antigua, no un reloj ni una pieza de la marca. (justo 10)"
+ },
+ {
+  "fecha": "2026-11-27T07:46:12.117276+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 36mm 1601 Datejust Japan RARE No Lume SWISS Pie Pan & Alpha 1962/63 6251H",
+  "total": 4725.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960245446691",
+  "item_id": "v1|960245446691|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 mm acero con brazalete Jubilee, vintage (pie pan, alfa)",
+   "referencia": "1601 (el título menciona también 6251H, que no coincide)",
+   "precio_justo_usd": 4500,
+   "interesante": false,
+   "nota": "Precio cercano al mercado para un 1601 pie pan vintage; el título mezcla referencias y hay que verificar esfera, año y autenticidad antes de comprar."
+  },
+  "motivo": "triage: Precio cercano al mercado para un 1601 pie pan vintage; el título mezcla referencias y hay que verificar esfera, año y autenticidad antes de comprar. (justo 4500)"
  }
 ]
