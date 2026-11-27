@@ -2,40 +2,6 @@
  {
   "fecha": "2026-11-24T20:14:25.860513+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Datejust 31, 278240, Steel, Pink Index, Oyster Bracelet",
-  "total": 13171.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/206725237549",
-  "item_id": "v1|206725237549|0",
-  "referencia": "278240",
-  "mercado": {
-   "n": 13,
-   "p25": 10448,
-   "mediana": 11539
-  },
-  "ratio_mercado": 1.261,
-  "motivo": "precio normal (126 % del cuartil bajo de 278240)"
- },
- {
-  "fecha": "2026-11-24T20:14:25.860513+00:00",
-  "marca": "Rolex",
-  "titulo": "1999 Rolex Lady-Datejust Champagne stick Jubilee 79173 Steel & YG",
-  "total": 5999.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/920180592911",
-  "item_id": "v1|920180592911|0",
-  "triage": {
-   "modelo": "Rolex Lady-Datejust 26 mm, acero y oro amarillo, bisel acanalado, esfera champagne con índices de barra, brazalete Jubilee",
-   "referencia": "79173",
-   "precio_justo_usd": 4300,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de venta cerrada estimado para una 79173 de 1999 en estado excelente; no cumple el umbral del 15 % de descuento."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de venta cerrada estimado para una 79173 de 1999 en estado excelente; no cumple el umbral del 15 % de descuento. (justo 4300)"
- },
- {
-  "fecha": "2026-11-24T20:14:25.860513+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Cosmograph Daytona 126508 “John Mayer” Full Set",
   "total": 90950.0,
   "condicion": "Pre-owned - Excellent",
@@ -10961,5 +10927,46 @@
    "nota": "Precio pedido por encima del valor de mercado para esta referencia en oro rosa 18K con caja y papeles; el valor está sobre todo en el oro y en la demanda del modelo, no en un descuento disponible."
   },
   "motivo": "triage: Precio pedido por encima del valor de mercado para esta referencia en oro rosa 18K con caja y papeles; el valor está sobre todo en el oro y en la demanda del modelo, no en un descuento disponible. (justo 15000)"
+ },
+ {
+  "fecha": "2026-11-27T16:31:34.535115+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Daytona Cosmograph 116503 White Two-Tone 18K Yellow Gold Stainless BOX",
+  "total": 18863.69,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/940127317757",
+  "item_id": "v1|940127317757|0",
+  "referencia": "116503",
+  "mercado": {
+   "n": 21,
+   "p25": 22118,
+   "mediana": 23654
+  },
+  "ratio_mercado": 0.853,
+  "motivo": "precio normal (85 % del cuartil bajo de 116503)"
+ },
+ {
+  "fecha": "2026-11-27T16:31:34.535115+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Black Bay 79030N Mint Condition, Stainless Bracelet, Complete",
+  "total": 3250.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/800974117860",
+  "item_id": "v1|800974117860|0",
+  "referencia": "79030N",
+  "mercado": {
+   "n": 11,
+   "p25": 3875,
+   "mediana": 3995
+  },
+  "ratio_mercado": 0.839,
+  "claude": {
+   "veredicto": "dudoso",
+   "precio_justo_usd": 3250,
+   "riesgo_autenticidad": "bajo",
+   "estado": "Muy bueno a excelente según las fotos, con caja interior y exterior, manual y certificado. No es 'mint' garantizado."
+  },
+  "ratio_justo": 1.0,
+  "motivo": "precio normal segun revision (100 % del justo 3250)"
  }
 ]
