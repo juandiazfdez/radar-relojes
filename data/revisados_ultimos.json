@@ -1,96 +1,5 @@
 [
  {
-  "fecha": "2026-11-25T01:29:42.289610+00:00",
-  "marca": "Tudor",
-  "titulo": "Vintage 1950s Tudor 7909 Oyster-Prince Automatic 34mm Stainless Steel Mens Watch",
-  "total": 1225.0,
-  "condicion": "For parts or not working",
-  "url": "https://www.ebay.com/itm/137960357759",
-  "item_id": "v1|137960357759|0",
-  "triage": {
-   "modelo": "Tudor Oyster Prince Automatic (esfera 'Oyster Prince', escudo Tudor, años 1950)",
-   "referencia": "7909",
-   "precio_justo_usd": 800,
-   "interesante": false,
-   "nota": "Para piezas o no funcional, una 7909 suele venderse muy por debajo de una funcional; US$1225 no está claramente por debajo del valor real."
-  },
-  "motivo": "triage: Para piezas o no funcional, una 7909 suele venderse muy por debajo de una funcional; US$1225 no está claramente por debajo del valor real. (justo 800)"
- },
- {
-  "fecha": "2026-11-25T01:59:41.890046+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 26mm 1981 Rolex Date Ladies Automatic Wristwatch 2030 Steel & 18k 6917",
-  "total": 4520.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137960418778",
-  "item_id": "v1|137960418778|0",
-  "referencia": "6917",
-  "mercado": {
-   "n": 45,
-   "p25": 3990,
-   "mediana": 4064
-  },
-  "ratio_mercado": 1.133,
-  "motivo": "precio normal (113 % del cuartil bajo de 6917)"
- },
- {
-  "fecha": "2026-11-25T01:59:41.890046+00:00",
-  "marca": "Rolex",
-  "titulo": "2020 Rolex AirKing Black 3-6-9 Steel 116900 40mm Smooth Oyster Watch B&P",
-  "total": 8255.49,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/267853915631",
-  "item_id": "v1|267853915631|0",
-  "referencia": "116900",
-  "mercado": {
-   "n": 26,
-   "p25": 8145,
-   "mediana": 8566
-  },
-  "ratio_mercado": 1.014,
-  "motivo": "precio normal (101 % del cuartil bajo de 116900)"
- },
- {
-  "fecha": "2026-11-25T01:59:41.890046+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise Small W51008Q3 2384 Quartz Steel Roman Ladies",
-  "total": 2995.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407384566223",
-  "item_id": "v1|407384566223|0",
-  "referencia": "2384",
-  "mercado": {
-   "n": 34,
-   "p25": 3781,
-   "mediana": 4245
-  },
-  "ratio_mercado": 0.792,
-  "claude": {
-   "veredicto": "descartar",
-   "precio_justo_usd": 2300,
-   "riesgo_autenticidad": "medio",
-   "estado": "Usado, bueno: brazalete con muchos rayones, desgaste en los bordes de la caja, esfera y cristal limpios"
-  },
-  "motivo": "Claude descarto: El precio pedido de US$2,995 está por encima del valor real de venta cerrada de este modelo. Un Tank Française Small de acero en cuarzo, solo reloj, suele cerrar alrededor de US$2,000-2,600.; Los comparables de eBay (mediana 4,245, cuartil bajo 3,781) son precios pedidos e inflados. No sirven para justificar que 2,995 sea una ganga."
- },
- {
-  "fecha": "2026-11-25T02:14:41.959569+00:00",
-  "marca": "Rolex",
-  "titulo": "Vintage 34mm Rolex Oyster Perpetual Datejust Men's Wristwatch 3035 Swiss 16030",
-  "total": 4181.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/147696523456",
-  "item_id": "v1|147696523456|0",
-  "referencia": "16030",
-  "mercado": {
-   "n": 5,
-   "p25": 710,
-   "mediana": 710
-  },
-  "ratio_mercado": 5.889,
-  "motivo": "precio normal (589 % del cuartil bajo de 16030)"
- },
- {
   "fecha": "2026-11-25T02:29:41.529815+00:00",
   "marca": "Rolex",
   "titulo": "Rolex 116189 18K White Gold Datejust 36mm Watch Factory Box And Papers",
@@ -10998,5 +10907,96 @@
    "nota": "Precio pedido de US$4750 solo ~5 % por debajo de un estimado conservador para un 2023 completo; no cumple el umbral del 15 %."
   },
   "motivo": "triage: Precio pedido de US$4750 solo ~5 % por debajo de un estimado conservador para un 2023 completo; no cumple el umbral del 15 %. (justo 5000)"
+ },
+ {
+  "fecha": "2026-11-27T22:01:44.969168+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Lady-Datejust, White Roman Dial, Steel & Gold, 79163",
+  "total": 8080.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/800974960834",
+  "item_id": "v1|800974960834|0",
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 26 mm, acero y oro amarillo, esfera blanca con números romanos, brazalete jubilee",
+   "referencia": "79163",
+   "precio_justo_usd": 6800,
+   "interesante": false,
+   "nota": "Precio pedido de US$8080 supera unos US$6800 de venta cerrada para este modelo en estado usado/refurbished; no es oportunidad. La autenticidad no puede verificarse solo con la imagen."
+  },
+  "motivo": "triage: Precio pedido de US$8080 supera unos US$6800 de venta cerrada para este modelo en estado usado/refurbished; no es oportunidad. La autenticidad no puede verificarse solo con la imagen. (justo 6800)"
+ },
+ {
+  "fecha": "2026-11-27T22:01:44.969168+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Ballon Bleu Stainless Steel Watch W69012Z4",
+  "total": 4000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407393916454",
+  "item_id": "v1|407393916454|0",
+  "triage": {
+   "modelo": "Cartier Ballon Bleu 42 mm automático en acero, esfera plateada con numerales romanos",
+   "referencia": "W69012Z4",
+   "precio_justo_usd": 5800,
+   "interesante": false,
+   "nota": "Descuento de ~31% sobre el valor de mercado; para una compra segura hay que verificar autenticidad, papeles y caja antes de pagar."
+  },
+  "motivo": "triage: Descuento de ~31% sobre el valor de mercado; para una compra segura hay que verificar autenticidad, papeles y caja antes de pagar. (justo 5800)"
+ },
+ {
+  "fecha": "2026-11-27T22:01:44.969168+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Tank Francaise 18k Rose Gold Steel Diamond Watch WE110005",
+  "total": 5720.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287763687792",
+  "item_id": "v1|287763687792|0",
+  "referencia": "WE110005",
+  "mercado": {
+   "n": 1,
+   "p25": 7710,
+   "mediana": 7710
+  },
+  "triage": {
+   "modelo": "Cartier Tank Française bicolor acero y oro rosa 18k, esfera con diamantes",
+   "referencia": "WE110005",
+   "precio_justo_usd": 4200,
+   "interesante": false,
+   "nota": "Modelo cuarzo mediano bicolor con diamantes; el precio pedido de US$5720 está bien por encima del valor de venta cerrada en EE. UU. para este estado."
+  },
+  "motivo": "triage: Modelo cuarzo mediano bicolor con diamantes; el precio pedido de US$5720 está bien por encima del valor de venta cerrada en EE. UU. para este estado. (justo 4200)"
+ },
+ {
+  "fecha": "2026-11-27T22:01:44.969168+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos ADLC Steel Watch WSSA0039",
+  "total": 7060.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/287763687787",
+  "item_id": "v1|287763687787|0",
+  "referencia": "WSSA0039",
+  "mercado": {
+   "n": 7,
+   "p25": 7758,
+   "mediana": 7838
+  },
+  "ratio_mercado": 0.91,
+  "motivo": "precio normal (91 % del cuartil bajo de WSSA0039)"
+ },
+ {
+  "fecha": "2026-11-27T22:01:44.969168+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Baignoire 18K White Gold Watch W15133L2",
+  "total": 20000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407393903567",
+  "item_id": "v1|407393903567|0",
+  "triage": {
+   "modelo": "Cartier Baignoire (modelo pequeño, esfera plateada con números romanos)",
+   "referencia": "W15133L2 (según título; no verificable en la foto)",
+   "precio_justo_usd": 8000,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de mercado. La foto parece mostrar acero, no oro blanco 18K como indica el título; verificar material y referencia."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de mercado. La foto parece mostrar acero, no oro blanco 18K como indica el título; verificar material y referencia. (justo 8000)"
  }
 ]
