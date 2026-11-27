@@ -1,46 +1,6 @@
 [
  {
   "fecha": "2026-11-24T18:29:15.991510+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex GMT Master II 116719 BLRO PEPSI 18K White Gold Watch Box/Papers MINT",
-  "total": 39850.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/840162512803",
-  "item_id": "v1|840162512803|0",
-  "referencia": "116719",
-  "mercado": {
-   "n": 10,
-   "p25": 40989,
-   "mediana": 43977
-  },
-  "ratio_mercado": 0.972,
-  "motivo": "precio normal (97 % del cuartil bajo de 116719)"
- },
- {
-  "fecha": "2026-11-24T18:29:15.991510+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Tank Francaise 18K Gold & SS Medium Ladies Watch Ref 3751 W2TA0003 B&P’s",
-  "total": 5795.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/800961624540",
-  "item_id": "v1|800961624540|0",
-  "referencia": "3751",
-  "mercado": {
-   "n": 4,
-   "p25": 4269,
-   "mediana": 5084
-  },
-  "triage": {
-   "modelo": "Cartier Tank Française mediana, acero y oro amarillo de 18K, cuarzo",
-   "referencia": "W2TA0003 (el título menciona 3751, que no coincide con lo que se ve; verificar)",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Precio pedido de US$5,795 muy por encima del mercado secundario para este modelo de dos tonos con caja y papeles; la referencia del título también es dudosa."
-  },
-  "motivo": "triage: Precio pedido de US$5,795 muy por encima del mercado secundario para este modelo de dos tonos con caja y papeles; la referencia del título también es dudosa. (justo 3000)"
- },
- {
-  "fecha": "2026-11-24T18:29:15.991510+00:00",
   "marca": "Tudor",
   "titulo": "NEW 2026 Tudor Pelagos FXD Chrono Alinghi Red Bull Blue Mens Watch 25807KN",
   "total": 4395.0,
@@ -10932,5 +10892,45 @@
   },
   "ratio_mercado": 1.233,
   "motivo": "precio normal (123 % del cuartil bajo de 114270)"
+ },
+ {
+  "fecha": "2026-11-27T04:46:12.228360+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Santos Dumont Limited 300 China Edition Watch W2SA0027",
+  "total": 16585.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860181050453",
+  "item_id": "v1|860181050453|0",
+  "referencia": "W2SA0027",
+  "mercado": {
+   "n": 1,
+   "p25": 18000,
+   "mediana": 18000
+  },
+  "triage": {
+   "modelo": "Cartier Santos-Dumont (tamaño grande, acero, esfera salmón, correa de piel de cocodrilo gris)",
+   "referencia": "W2SA0027 (según el título; no verificable en la imagen)",
+   "precio_justo_usd": 6000,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de mercado de un Santos-Dumont de acero usado; la edición 'China Limited 300' no se puede confirmar en la foto y no justifica el sobreprecio."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de mercado de un Santos-Dumont de acero usado; la edición 'China Limited 300' no se puede confirmar en la foto y no justifica el sobreprecio. (justo 6000)"
+ },
+ {
+  "fecha": "2026-11-27T04:46:12.228360+00:00",
+  "marca": "Tudor",
+  "titulo": "2026 Tudor Black Bay Chrono 41mm Reverse Panda M79360N-0001 Full Set",
+  "total": 5000.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/267855843635",
+  "item_id": "v1|267855843635|0",
+  "referencia": "M79360N-0001",
+  "mercado": {
+   "n": 30,
+   "p25": 4600,
+   "mediana": 5500
+  },
+  "ratio_mercado": 1.087,
+  "motivo": "precio normal (109 % del cuartil bajo de M79360N-0001)"
  }
 ]
