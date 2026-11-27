@@ -1,124 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T21:14:25.981955+00:00",
-  "marca": "Cartier",
-  "titulo": "Must de Cartier Colisee 24mm Quartz Watch",
-  "total": 720.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/168882836320",
-  "item_id": "v1|168882836320|0",
-  "triage": {
-   "modelo": "Cartier Must de Cartier Colisée (vermeil, cuarzo)",
-   "referencia": null,
-   "precio_justo_usd": 380,
-   "interesante": false,
-   "nota": "Must de Cartier en vermeil (plaqué or) de cuarzo, estado Fair; el precio pedido de US$720 está muy por encima del mercado de reventa."
-  },
-  "motivo": "triage: Must de Cartier en vermeil (plaqué or) de cuarzo, estado Fair; el precio pedido de US$720 está muy por encima del mercado de reventa. (justo 380)"
- },
- {
-  "fecha": "2026-11-24T21:14:25.981955+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Aeronaut GMT Automatic Wristwatch | 41mm Stainless Steel | Cal. 2892-A2",
-  "total": 2750.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/237204789832",
-  "item_id": "v1|237204789832|0",
-  "triage": {
-   "modelo": "Tudor Aeronaut GMT (aparente, con bisel GMT de 24 horas y correa de caucho)",
-   "referencia": null,
-   "precio_justo_usd": 2600,
-   "interesante": false,
-   "nota": "El precio pedido está en línea con el mercado de segunda mano para esta generación, sin descuento claro de al menos 15 %. La referencia exacta no se distingue en la foto; verificar número de referencia y estado de la caja y papeles."
-  },
-  "motivo": "triage: El precio pedido está en línea con el mercado de segunda mano para esta generación, sin descuento claro de al menos 15 %. La referencia exacta no se distingue en la foto; verificar número de referencia y estado de la caja y papeles. (justo 2600)"
- },
- {
-  "fecha": "2026-11-24T21:29:26.143961+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 36 Wimbledon 126234 Box & papers",
-  "total": 13500.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336915036925",
-  "item_id": "v1|336915036925|0",
-  "referencia": "126234",
-  "mercado": {
-   "n": 36,
-   "p25": 12990,
-   "mediana": 14210
-  },
-  "ratio_mercado": 1.039,
-  "motivo": "precio normal (104 % del cuartil bajo de 126234)"
- },
- {
-  "fecha": "2026-11-24T21:29:26.143961+00:00",
-  "marca": "Rolex",
-  "titulo": "Pre-Owned Rolex Datejust 36mm Watch, Box/Card, S109197",
-  "total": 14950.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/407386448397",
-  "item_id": "v1|407386448397|0",
-  "triage": {
-   "modelo": "Rolex Datejust 36 bicolor (acero y oro amarillo), esfera slate con numerales verdes (\"Wimbledon\")",
-   "referencia": "126203 (probable; verificar bisel liso o acanalado y número de serie)",
-   "precio_justo_usd": 12000,
-   "interesante": false,
-   "nota": "Precio pedido de US$14,950 está muy por encima del valor de venta cerrada estimado para esta referencia usada con caja y papeles."
-  },
-  "motivo": "triage: Precio pedido de US$14,950 está muy por encima del valor de venta cerrada estimado para esta referencia usada con caja y papeles. (justo 12000)"
- },
- {
-  "fecha": "2026-11-24T21:29:26.143961+00:00",
-  "marca": "Rolex",
-  "titulo": "MINT Rolex Daytona 16523 Zenith Two Tone Yellow Gold Champagne Watch Box",
-  "total": 19800.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/840162885662",
-  "item_id": "v1|840162885662|0",
-  "referencia": "16523",
-  "mercado": {
-   "n": 25,
-   "p25": 17590,
-   "mediana": 18990
-  },
-  "ratio_mercado": 1.126,
-  "motivo": "precio normal (113 % del cuartil bajo de 16523)"
- },
- {
-  "fecha": "2026-11-24T21:29:26.143961+00:00",
-  "marca": "Rolex",
-  "titulo": "2026 NEW PAPERS Rolex 126613LB Submariner 41mm Blue Two Tone Gold Steel Watch",
-  "total": 21202.05,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/287756228648",
-  "item_id": "v1|287756228648|0",
-  "referencia": "126613LB",
-  "mercado": {
-   "n": 12,
-   "p25": 21499,
-   "mediana": 22212
-  },
-  "ratio_mercado": 0.986,
-  "motivo": "precio normal (99 % del cuartil bajo de 126613LB)"
- },
- {
-  "fecha": "2026-11-24T21:29:26.143961+00:00",
-  "marca": "Rolex",
-  "titulo": "2010 MINT Rolex 116233 DateJust Two Tone Yellow Gold Steel Black Jubilee 36mm",
-  "total": 10496.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/307299899526",
-  "item_id": "v1|307299899526|0",
-  "referencia": "116233",
-  "mercado": {
-   "n": 61,
-   "p25": 10950,
-   "mediana": 11245
-  },
-  "ratio_mercado": 0.959,
-  "motivo": "precio normal (96 % del cuartil bajo de 116233)"
- },
- {
   "fecha": "2026-11-24T21:29:26.143961+00:00",
   "marca": "Rolex",
   "titulo": "2019 MINT PAPERS Rolex GMT-Master II Ceramic 116713LN Black Two Tone Steel Gold",
@@ -10956,5 +10837,154 @@
    "nota": "Esfera turquesa Tiffany en 1601 sería muy valiosa si es original, pero es un dial frecuentemente refinishado o falsificado; sin verificar autenticidad, el precio no cumple el umbral de 15 %."
   },
   "motivo": "triage: Esfera turquesa Tiffany en 1601 sería muy valiosa si es original, pero es un dial frecuentemente refinishado o falsificado; sin verificar autenticidad, el precio no cumple el umbral de 15 %. (justo 7000)"
+ },
+ {
+  "fecha": "2026-11-27T18:01:33.661252+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Lady-Datejust, Champagne Diamond, Steel & Yellow Gold, 279163",
+  "total": 19261.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206730889108",
+  "item_id": "v1|206730889108|0",
+  "referencia": "279163",
+  "mercado": {
+   "n": 1,
+   "p25": 17265,
+   "mediana": 17265
+  },
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 28 mm, acero y oro amarillo, esfera champán con diamantes",
+   "referencia": "279163",
+   "precio_justo_usd": 9000,
+   "interesante": false,
+   "nota": "Precio pedido más del doble del valor de mercado nuevo con papeles; no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido más del doble del valor de mercado nuevo con papeles; no es una oportunidad. (justo 9000)"
+ },
+ {
+  "fecha": "2026-11-27T18:01:33.661252+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Lady-Datejust, Silver Roman, Steel & Yellow Gold, 279163",
+  "total": 17265.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206730885451",
+  "item_id": "v1|206730885451|0",
+  "referencia": "279163",
+  "mercado": {
+   "n": 1,
+   "p25": 17265,
+   "mediana": 17265
+  },
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 28 mm, acero y oro amarillo, esfera plateada con números romanos",
+   "referencia": "279163",
+   "precio_justo_usd": 9500,
+   "interesante": false,
+   "nota": "Precio pedido de US$17,265 muy por encima del valor de mercado nuevo con caja y papeles (aprox. US$9,000-10,500); no es una oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$17,265 muy por encima del valor de mercado nuevo con caja y papeles (aprox. US$9,000-10,500); no es una oportunidad. (justo 9500)"
+ },
+ {
+  "fecha": "2026-11-27T18:01:33.661252+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Yacht Master 226658 42mm Yellow Gold OysterFlex 2022",
+  "total": 33999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/147701071404",
+  "item_id": "v1|147701071404|0",
+  "referencia": "226658",
+  "mercado": {
+   "n": 11,
+   "p25": 35888,
+   "mediana": 35999
+  },
+  "ratio_mercado": 0.947,
+  "motivo": "precio normal (95 % del cuartil bajo de 226658)"
+ },
+ {
+  "fecha": "2026-11-27T18:01:33.661252+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Lady-Datejust, Rosé Diamond, Steel & Rose Gold, 279161",
+  "total": 20759.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/206730881043",
+  "item_id": "v1|206730881043|0",
+  "referencia": "279161",
+  "mercado": {
+   "n": 2,
+   "p25": 17165,
+   "mediana": 17564
+  },
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 28 mm, acero y Everose, bisel liso, esfera rosé con diamantes, brazalete Jubilee",
+   "referencia": "279161",
+   "precio_justo_usd": 12000,
+   "interesante": false,
+   "nota": "Precio pedido muy por encima del valor de mercado para un 279161 nuevo con caja y papeles; no hay descuento aprovechable."
+  },
+  "motivo": "triage: Precio pedido muy por encima del valor de mercado para un 279161 nuevo con caja y papeles; no hay descuento aprovechable. (justo 12000)"
+ },
+ {
+  "fecha": "2026-11-27T18:01:33.661252+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Lady-Datejust, White Roman, Steel & Rose Gold, 279161",
+  "total": 17963.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800974369339",
+  "item_id": "v1|800974369339|0",
+  "referencia": "279161",
+  "mercado": {
+   "n": 2,
+   "p25": 17165,
+   "mediana": 17564
+  },
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 28 mm, acero y Everose, esfera blanca con números romanos, brazalete Jubilee",
+   "referencia": "279161",
+   "precio_justo_usd": 9300,
+   "interesante": false,
+   "nota": "El precio pedido (US$17,963) está casi el doble del valor de mercado de una 279161 nueva con caja y papeles, así que no es una oportunidad."
+  },
+  "motivo": "triage: El precio pedido (US$17,963) está casi el doble del valor de mercado de una 279161 nueva con caja y papeles, así que no es una oportunidad. (justo 9300)"
+ },
+ {
+  "fecha": "2026-11-27T18:01:33.661252+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Lady-Datejust, Rosé Roman, Steel & Rose Gold, 279161",
+  "total": 17165.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/800974369248",
+  "item_id": "v1|800974369248|0",
+  "referencia": "279161",
+  "mercado": {
+   "n": 2,
+   "p25": 17165,
+   "mediana": 17564
+  },
+  "triage": {
+   "modelo": "Rolex Lady-Datejust 28 mm, acero Oystersteel y oro Everose, bisel liso, esfera rosé con números romanos",
+   "referencia": "279161",
+   "precio_justo_usd": 13500,
+   "interesante": false,
+   "nota": "Precio pedido de US$17,165 queda muy por encima del mercado secundario para un 279161 nuevo con caja y papeles; no cumple el umbral de oportunidad."
+  },
+  "motivo": "triage: Precio pedido de US$17,165 queda muy por encima del mercado secundario para un 279161 nuevo con caja y papeles; no cumple el umbral de oportunidad. (justo 13500)"
+ },
+ {
+  "fecha": "2026-11-27T18:01:33.661252+00:00",
+  "marca": "Tudor",
+  "titulo": "TUDOR Pelagos 39mm Titanium Diver Auto Chronometer Full Set",
+  "total": 4400.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/206730874343",
+  "item_id": "v1|206730874343|0",
+  "triage": {
+   "modelo": "Tudor Pelagos 39 Titanium (esfera negra, correa NATO)",
+   "referencia": "25610TN",
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Precio pedido de US$4,400 con envío, por encima del retail y muy por encima del mercado de segunda mano. La correa NATO también reduce algo el valor frente al brazalete original."
+  },
+  "motivo": "triage: Precio pedido de US$4,400 con envío, por encima del retail y muy por encima del mercado de segunda mano. La correa NATO también reduce algo el valor frente al brazalete original. (justo 3300)"
  }
 ]
