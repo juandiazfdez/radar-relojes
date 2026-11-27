@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-11-24T18:29:15.991510+00:00",
-  "marca": "Tudor",
-  "titulo": "New 2026 TUDOR 1926 M91450-0001 36mm Automatic Full Set",
-  "total": 2225.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/820393394212",
-  "item_id": "v1|820393394212|0",
-  "referencia": "M91450-0001",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Tudor 1926 36mm, automático, acero, esfera plateada texturizada con índices aplicados y fecha",
-   "referencia": "M91450-0001",
-   "precio_justo_usd": 2950,
-   "interesante": false,
-   "nota": "Precio de mercado gris de un 1926 36mm nuevo con caja y papeles; el listado está ~25% bajo ese valor, demasiado para ser fiable, así que hay que verificar autenticidad y vendedor antes de comprar."
-  },
-  "motivo": "triage: Precio de mercado gris de un 1926 36mm nuevo con caja y papeles; el listado está ~25% bajo ese valor, demasiado para ser fiable, así que hay que verificar autenticidad y vendedor antes de comprar. (justo 2950)"
- },
- {
   "fecha": "2026-11-24T18:44:27.026743+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Oyster Perpetual Datejust Automatic Silver Striped Dial, Date, Smooth",
@@ -10938,5 +10915,28 @@
    "nota": "Precio pedido por encima del mercado secundario de este modelo usado en buen estado; la referencia del título no coincide con la imagen."
   },
   "motivo": "triage: Precio pedido por encima del mercado secundario de este modelo usado en buen estado; la referencia del título no coincide con la imagen. (justo 7000)"
+ },
+ {
+  "fecha": "2026-11-27T05:46:12.094830+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Cle de Cartier Date WSCL0017 Silver",
+  "total": 3515.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/860181172903",
+  "item_id": "v1|860181172903|0",
+  "referencia": "WSCL0017",
+  "mercado": {
+   "n": 1,
+   "p25": 2935,
+   "mediana": 2935
+  },
+  "triage": {
+   "modelo": "Cartier Clé de Cartier Date (acero, esfera plateada, correa de piel roja)",
+   "referencia": "WSCL0017",
+   "precio_justo_usd": 2900,
+   "interesante": false,
+   "nota": "Precio pedido de US$3515 con envío está por encima del rango de venta real para este modelo de acero en estado excelente; la correa roja no suma valor y no hay descuento suficiente."
+  },
+  "motivo": "triage: Precio pedido de US$3515 con envío está por encima del rango de venta real para este modelo de acero en estado excelente; la correa roja no suma valor y no hay descuento suficiente. (justo 2900)"
  }
 ]
