@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-24T18:44:27.026743+00:00",
   "marca": "Rolex",
-  "titulo": "Renewed Rolex Datejust 36, Silver Dial, Steel & Gold, 16013",
-  "total": 8080.0,
-  "condicion": "Seller refurbished",
-  "url": "https://www.ebay.com/itm/206725115946",
-  "item_id": "v1|206725115946|0",
-  "referencia": "16013",
-  "mercado": {
-   "n": 22,
-   "p25": 1815,
-   "mediana": 4369
-  },
-  "ratio_mercado": 4.452,
-  "motivo": "precio normal (445 % del cuartil bajo de 16013)"
- },
- {
-  "fecha": "2026-11-24T18:44:27.026743+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Date Just 36MM with diamonds and blue face excellent condition!",
   "total": 8195.0,
   "condicion": "Pre-owned - Excellent",
@@ -10932,5 +10915,22 @@
    "nota": "La referencia no es legible en la foto; el precio pedido de US$10,000 supera con creces el valor de venta real de esta variante de dos tonos de 33 mm."
   },
   "motivo": "triage: La referencia no es legible en la foto; el precio pedido de US$10,000 supera con creces el valor de venta real de esta variante de dos tonos de 33 mm. (justo 5500)"
+ },
+ {
+  "fecha": "2026-11-27T06:46:11.953474+00:00",
+  "marca": "Tudor",
+  "titulo": "Antique Jewelry and Trinkets H Clifford Smith Burgess Tudor Hardcover Book",
+  "total": 37.0,
+  "condicion": "For parts or not working",
+  "url": "https://www.ebay.com/itm/377680530189",
+  "item_id": "v1|377680530189|0",
+  "triage": {
+   "modelo": "Ninguno: la imagen muestra un libro, no un reloj (Antique Jewelry and Trinkets, de H. Clifford Smith)",
+   "referencia": null,
+   "precio_justo_usd": 10,
+   "interesante": false,
+   "nota": "Listado engañoso: el título usa 'Tudor' como palabra clave, pero es un libro de joyería antigua, no un reloj ni una pieza de la marca."
+  },
+  "motivo": "triage: Listado engañoso: el título usa 'Tudor' como palabra clave, pero es un libro de joyería antigua, no un reloj ni una pieza de la marca. (justo 10)"
  }
 ]
