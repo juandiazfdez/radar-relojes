@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-25T09:44:53.612873+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Yachtmaster 42mm 226627 Titanium 2026",
-  "total": 22999.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147696932837",
-  "item_id": "v1|147696932837|0",
-  "referencia": "226627",
-  "mercado": {
-   "n": 19,
-   "p25": 24690,
-   "mediana": 26250
-  },
-  "ratio_mercado": 0.932,
-  "motivo": "precio normal (93 % del cuartil bajo de 226627)"
- },
- {
-  "fecha": "2026-11-25T09:59:52.630416+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Steel GMT-Master II 40mm 116710LN Green Arrow Oyster",
-  "total": 12499.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/147696950372",
-  "item_id": "v1|147696950372|0",
-  "referencia": "116710LN",
-  "mercado": {
-   "n": 46,
-   "p25": 13700,
-   "mediana": 14588
-  },
-  "ratio_mercado": 0.912,
-  "motivo": "precio normal (91 % del cuartil bajo de 116710LN)"
- },
- {
   "fecha": "2026-11-25T10:29:53.037390+00:00",
   "marca": "Rolex",
   "titulo": "New 2026 Rolex GMT-Master II Batman Oyster Black/Blue 126710BLNR Complete Set",
@@ -11015,5 +10981,39 @@
    "nota": "El título dice platino, pero la 228236 es oro blanco (el platino es la 228206). Precio muy por encima del mercado secundario para este modelo."
   },
   "motivo": "triage: El título dice platino, pero la 228236 es oro blanco (el platino es la 228206). Precio muy por encima del mercado secundario para este modelo. (justo 50000)"
+ },
+ {
+  "fecha": "2026-11-28T00:01:45.612306+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage 1984 Rolex Oyster Perpetual Stainless Steel 36mm Mens Watch Ref. 1018",
+  "total": 6506.75,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117546298009",
+  "item_id": "v1|117546298009|0",
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual 36mm (esfera plateada, brazalete Oyster de acero)",
+   "referencia": "1018",
+   "precio_justo_usd": 3000,
+   "interesante": false,
+   "nota": "Ref. 1018 de 1984 en acero, estado Good, sin papeles: se vende aprox. US$2.800-3.300. El precio pedido de US$6.507 está muy por encima del mercado."
+  },
+  "motivo": "triage: Ref. 1018 de 1984 en acero, estado Good, sin papeles: se vende aprox. US$2.800-3.300. El precio pedido de US$6.507 está muy por encima del mercado. (justo 3000)"
+ },
+ {
+  "fecha": "2026-11-28T00:01:45.612306+00:00",
+  "marca": "Rolex",
+  "titulo": "Vintage Rolex 18k Yellow Gold & Stainless Steel Datejust 36mm Watch",
+  "total": 7006.75,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/117546284844",
+  "item_id": "v1|117546284844|0",
+  "triage": {
+   "modelo": "Rolex Datejust 36 mm acero y oro amarillo 18k, bisel acanalado, esfera champán con diamantes, brazalete Jubilee",
+   "referencia": "16233 (posiblemente 16013, según generación)",
+   "precio_justo_usd": 7500,
+   "interesante": false,
+   "nota": "Precio pedido de US$7,007 con envío, unos 7 % por debajo de la estimación; no supera el umbral del 15 %. Conviene verificar autenticidad, generación y estado de la esfera de diamantes."
+  },
+  "motivo": "triage: Precio pedido de US$7,007 con envío, unos 7 % por debajo de la estimación; no supera el umbral del 15 %. Conviene verificar autenticidad, generación y estado de la esfera de diamantes. (justo 7500)"
  }
 ]
