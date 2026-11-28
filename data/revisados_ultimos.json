@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-25T16:15:04.691028+00:00",
   "marca": "Rolex",
-  "titulo": "Vintage 1945 Rolex BubbleBack Oyster Perpetual Chronometer Men's Watch Ref.2940",
-  "total": 5033.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/920184016573",
-  "item_id": "v1|920184016573|0",
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual BubbleBack (cuerda manual, años 1940)",
-   "referencia": "2940",
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "La foto es de baja resolución y el esfera salmón con brazalete de eslabones no encaja con un 2940 original típico; sin fotos de caja, movimiento y esfera verificables, el precio pedido ya supera el valor estimado, y debe confirmarse la autenticidad antes de cualquier compra."
-  },
-  "motivo": "triage: La foto es de baja resolución y el esfera salmón con brazalete de eslabones no encaja con un 2940 original típico; sin fotos de caja, movimiento y esfera verificables, el precio pedido ya supera el valor estimado, y debe confirmarse la autenticidad antes de cualquier compra. (justo 4500)"
- },
- {
-  "fecha": "2026-11-25T16:15:04.691028+00:00",
-  "marca": "Rolex",
   "titulo": "Rolex Datejust 31 Mother-Of-Pearl Diamond President 278285RBR Complete 2026",
   "total": 65050.0,
   "condicion": "New with box and papers",
@@ -11021,5 +11004,28 @@
    "nota": "Precio pedido por encima del valor de mercado de segunda mano para este modelo de acero; la esfera dice 'Automatic' y conviene confirmar la referencia y el calibre antes de comprar."
   },
   "motivo": "triage: Precio pedido por encima del valor de mercado de segunda mano para este modelo de acero; la esfera dice 'Automatic' y conviene confirmar la referencia y el calibre antes de comprar. (justo 5000)"
+ },
+ {
+  "fecha": "2026-11-28T05:16:56.414978+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Panthere Vintage 30mm Two-Tone Reference 1120",
+  "total": 2999.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/147701811651",
+  "item_id": "v1|147701811651|0",
+  "referencia": "1120",
+  "mercado": {
+   "n": 4,
+   "p25": 6950,
+   "mediana": 7250
+  },
+  "triage": {
+   "modelo": "Cartier Panthère Vintage de dos tonos (cuarzo, bisel dorado, esfera con numerales romanos)",
+   "referencia": "1120",
+   "precio_justo_usd": 2400,
+   "interesante": false,
+   "nota": "El precio pedido de US$2999 supera el valor de venta cerrada habitual para este modelo en condición Good; no hay descuento claro."
+  },
+  "motivo": "triage: El precio pedido de US$2999 supera el valor de venta cerrada habitual para este modelo en condición Good; no hay descuento claro. (justo 2400)"
  }
 ]
