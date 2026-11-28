@@ -1,51 +1,5 @@
 [
  {
-  "fecha": "2026-11-25T14:00:05.380920+00:00",
-  "marca": "Tudor",
-  "titulo": "TUDOR Black Bay 58 M79030N Box And Papers Excellent Condition 79030N",
-  "total": 3995.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/377676108586",
-  "item_id": "v1|377676108586|0",
-  "referencia": "M79030N",
-  "mercado": {
-   "n": 3,
-   "p25": 3875,
-   "mediana": 4100
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay 58 (39 mm, acero, bisel negro)",
-   "referencia": "M79030N (según título; verificar, la foto muestra esfera y bisel negros)",
-   "precio_justo_usd": 3300,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor de mercado secundario para esta referencia con caja y papeles; además, confirmar la referencia exacta porque el color de la foto no coincide claramente con el código del título."
-  },
-  "motivo": "triage: Precio pedido por encima del valor de mercado secundario para esta referencia con caja y papeles; además, confirmar la referencia exacta porque el color de la foto no coincide claramente con el código del título. (justo 3300)"
- },
- {
-  "fecha": "2026-11-25T14:15:04.985565+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Santos Demoiselle W25067Z6 2701 Steel Yellow Gold Quartz #1769-1",
-  "total": 7506.0,
-  "condicion": "New with imperfections",
-  "url": "https://www.ebay.com/itm/820396899943",
-  "item_id": "v1|820396899943|0",
-  "referencia": "2701",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Cartier Santos Demoiselle acero y oro amarillo, cuarzo, esfera plateada con números romanos",
-   "referencia": "W25067Z6 (el título menciona también 2701, que no coincide con esta referencia)",
-   "precio_justo_usd": 3000,
-   "interesante": false,
-   "nota": "Precio pedido de US$7,506 muy por encima del valor de reventa de esta referencia de dos tonos (aprox. US$2,500-3,500 usado); el título y la condición 'New with imperfections' tampoco encajan bien."
-  },
-  "motivo": "triage: Precio pedido de US$7,506 muy por encima del valor de reventa de esta referencia de dos tonos (aprox. US$2,500-3,500 usado); el título y la condición 'New with imperfections' tampoco encajan bien. (justo 3000)"
- },
- {
   "fecha": "2026-11-25T14:45:04.713802+00:00",
   "marca": "Rolex",
   "titulo": "Rolex Submariner 126618LN Full Set",
@@ -11027,5 +10981,39 @@
    "nota": "Precio pedido muy por encima del mercado gris para un BB Ceramic nuevo con caja y papeles; el listado usa gráfica promocional y el título 'steals' no está respaldado por la referencia."
   },
   "motivo": "triage: Precio pedido muy por encima del mercado gris para un BB Ceramic nuevo con caja y papeles; el listado usa gráfica promocional y el título 'steals' no está respaldado por la referencia. (justo 3600)"
+ },
+ {
+  "fecha": "2026-11-28T01:16:45.145872+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Lady-Datejust 26, 69173, Steel & Yellow Gold, White Diamond Dia...",
+  "total": 8479.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/206731522716",
+  "item_id": "v1|206731522716|0",
+  "referencia": "69173",
+  "mercado": {
+   "n": 17,
+   "p25": 3868,
+   "mediana": 4359
+  },
+  "ratio_mercado": 2.192,
+  "motivo": "precio normal (219 % del cuartil bajo de 69173)"
+ },
+ {
+  "fecha": "2026-11-28T01:16:45.145872+00:00",
+  "marca": "Rolex",
+  "titulo": "1991 Rolex DateJust 16233 36mm Champagne Diamond Two-Tone 18K Gold Jubilee Watch",
+  "total": 6200.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/117546425442",
+  "item_id": "v1|117546425442|0",
+  "referencia": "16233",
+  "mercado": {
+   "n": 24,
+   "p25": 5695,
+   "mediana": 6077
+  },
+  "ratio_mercado": 1.089,
+  "motivo": "precio normal (109 % del cuartil bajo de 16233)"
  }
 ]
