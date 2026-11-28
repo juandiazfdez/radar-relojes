@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-25T15:15:05.324532+00:00",
-  "marca": "Rolex",
-  "titulo": "1985 Rolex DateJust 36mm Champagne Tapestry Jubilee Gold Two-Tone Watch 16013",
-  "total": 5603.32,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/940122330521",
-  "item_id": "v1|940122330521|0",
-  "referencia": "16013",
-  "mercado": {
-   "n": 22,
-   "p25": 1815,
-   "mediana": 4369
-  },
-  "ratio_mercado": 3.087,
-  "motivo": "precio normal (309 % del cuartil bajo de 16013)"
- },
- {
-  "fecha": "2026-11-25T15:30:05.236331+00:00",
-  "marca": "Rolex",
-  "titulo": "42161: Rolex Submariner 40, Ref. 16613, Circa 2001. Rolex Box",
-  "total": 12500.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/237206683129",
-  "item_id": "v1|237206683129|0",
-  "referencia": "16613",
-  "mercado": {
-   "n": 93,
-   "p25": 11695,
-   "mediana": 12000
-  },
-  "ratio_mercado": 1.069,
-  "motivo": "precio normal (107 % del cuartil bajo de 16613)"
- },
- {
   "fecha": "2026-11-25T15:30:05.236331+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Ballon Bleu 28mm White Gold Diamond Ladies Quartz Watch WE9003Z3",
@@ -11021,5 +10987,45 @@
   },
   "ratio_mercado": 1.125,
   "motivo": "precio normal (113 % del cuartil bajo de 178384)"
+ },
+ {
+  "fecha": "2026-11-28T03:16:56.377164+00:00",
+  "marca": "Rolex",
+  "titulo": "Renewed Rolex Datejust 31, 68273, Steel & Gold, Silver Dial, Jubilee Bracelet",
+  "total": 10975.0,
+  "condicion": "Seller refurbished",
+  "url": "https://www.ebay.com/itm/366843941787",
+  "item_id": "v1|366843941787|0",
+  "referencia": "68273",
+  "mercado": {
+   "n": 33,
+   "p25": 7995,
+   "mediana": 8550
+  },
+  "ratio_mercado": 1.373,
+  "motivo": "precio normal (137 % del cuartil bajo de 68273)"
+ },
+ {
+  "fecha": "2026-11-28T03:16:56.377164+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX 126334 DATE- JUST 41 \"JUBILEE\"",
+  "total": 13500.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/117546552176",
+  "item_id": "v1|117546552176|0",
+  "referencia": "126334",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 41 (bisel acanalado, brazalete Jubilee, acero y oro blanco)",
+   "referencia": "126334",
+   "precio_justo_usd": 13200,
+   "interesante": false,
+   "nota": "Con caja y papeles en buen estado, el mercado secundario ronda 12.500-14.000 USD; el precio pedido está en línea con el mercado, no 15 % por debajo."
+  },
+  "motivo": "triage: Con caja y papeles en buen estado, el mercado secundario ronda 12.500-14.000 USD; el precio pedido está en línea con el mercado, no 15 % por debajo. (justo 13200)"
  }
 ]
