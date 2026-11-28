@@ -13235,14 +13235,14 @@
   "n": 0
  },
  "Cartier WSSA0085|nuevo": {
-  "fecha": "2026-10-30",
+  "fecha": "2026-11-28",
   "consulta": "Cartier WSSA0085",
   "n": 3,
-  "mediana": 6900,
+  "mediana": 5325,
   "p25": 5150,
-  "p75": 7280,
+  "p75": 6900,
   "min": 5150,
-  "max": 7280
+  "max": 6900
  },
  "Cartier W6920046|nuevo": {
   "fecha": "2026-10-27",
@@ -23393,5 +23393,15 @@
   "p75": 5765,
   "min": 5765,
   "max": 5765
+ },
+ "Cartier WSPN0015|nuevo": {
+  "fecha": "2026-11-28",
+  "consulta": "Cartier WSPN0015",
+  "n": 2,
+  "mediana": 6475,
+  "p25": 6200,
+  "p75": 6750,
+  "min": 6200,
+  "max": 6750
  }
 }
