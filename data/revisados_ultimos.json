@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-25T16:15:04.691028+00:00",
   "marca": "Cartier",
-  "titulo": "Cartier Ballon Bleu 42mm Stainless Steel Automatic Men's Watch W69012Z4",
-  "total": 4809.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/137962161452",
-  "item_id": "v1|137962161452|0",
-  "triage": {
-   "modelo": "Cartier Ballon Bleu de acero, automático, esfera plateada con números romanos",
-   "referencia": "W69012Z4",
-   "precio_justo_usd": 5000,
-   "interesante": false,
-   "nota": "Precio pedido a solo ~4% bajo el valor estimado de venta cerrada. La foto no permite confirmar si es la versión 42 mm o 36 mm, lo que podría cambiar la valoración."
-  },
-  "motivo": "triage: Precio pedido a solo ~4% bajo el valor estimado de venta cerrada. La foto no permite confirmar si es la versión 42 mm o 36 mm, lo que podría cambiar la valoración. (justo 5000)"
- },
- {
-  "fecha": "2026-11-25T16:15:04.691028+00:00",
-  "marca": "Cartier",
   "titulo": "NEW Cartier Panthere White AM 4CTW Diamonds Steel  WSPN0006 23mm Diamond Watch",
   "total": 3979.99,
   "condicion": "New without box or papers",
@@ -11014,5 +10997,28 @@
   },
   "ratio_mercado": 1.133,
   "motivo": "precio normal (113 % del cuartil bajo de 116234)"
+ },
+ {
+  "fecha": "2026-11-28T14:32:07.159065+00:00",
+  "marca": "Rolex",
+  "titulo": "1970's ROLEX Oyster Perpetual 6618 Stainless Steel Automatic Ladies Watch",
+  "total": 2199.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206730595897",
+  "item_id": "v1|206730595897|0",
+  "referencia": "6618",
+  "mercado": {
+   "n": 13,
+   "p25": 2619,
+   "mediana": 2825
+  },
+  "ratio_mercado": 0.84,
+  "claude": {
+   "veredicto": "descartar",
+   "precio_justo_usd": 1250,
+   "riesgo_autenticidad": "medio",
+   "estado": "Caja pulida, esfera repintada, sin caja ni papeles; funcionando según el vendedor"
+  },
+  "motivo": "Claude descarto: La descripción confirma que la esfera crosshair negra está 'profesionalmente repintada'. Una esfera repintada o refinished reduce mucho el valor de un Rolex vintage, y los coleccionistas la penalizan entre 40 y 60 % frente a una original.; La caja está 'polished' (pulida). Los lados de las asas y el bisel liso se ven suavizados, con pérdida de aristas. Esto reduce más el valor de colección."
  }
 ]
