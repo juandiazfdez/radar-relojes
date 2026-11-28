@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-25T16:15:04.691028+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Air King 126900 2025",
-  "total": 8900.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407385948456",
-  "item_id": "v1|407385948456|0",
-  "referencia": "126900",
-  "mercado": {
-   "n": 27,
-   "p25": 9369,
-   "mediana": 9995
-  },
-  "ratio_mercado": 0.95,
-  "motivo": "precio normal (95 % del cuartil bajo de 126900)"
- },
- {
-  "fecha": "2026-11-25T16:15:04.691028+00:00",
   "marca": "Cartier",
   "titulo": "Cartier Ballon Bleu 42mm Stainless Steel Automatic Men's Watch W69012Z4",
   "total": 4809.0,
@@ -11014,5 +10997,22 @@
   },
   "ratio_mercado": 1.02,
   "motivo": "precio normal (102 % del cuartil bajo de M79360B-0002)"
+ },
+ {
+  "fecha": "2026-11-28T13:47:06.965959+00:00",
+  "marca": "Rolex",
+  "titulo": "42205: Rolex Datejust 36, Ref. 116234, Box and Card 2016",
+  "total": 10200.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/900129294324",
+  "item_id": "v1|900129294324|0",
+  "referencia": "116234",
+  "mercado": {
+   "n": 54,
+   "p25": 9000,
+   "mediana": 9696
+  },
+  "ratio_mercado": 1.133,
+  "motivo": "precio normal (113 % del cuartil bajo de 116234)"
  }
 ]
