@@ -1,29 +1,6 @@
 [
  {
   "fecha": "2026-11-25T16:15:04.691028+00:00",
-  "marca": "Cartier",
-  "titulo": "NEW Cartier Panthere White AM 4CTW Diamonds Steel  WSPN0006 23mm Diamond Watch",
-  "total": 3979.99,
-  "condicion": "New without box or papers",
-  "url": "https://www.ebay.com/itm/267854416950",
-  "item_id": "v1|267854416950|0",
-  "referencia": "WSPN0006",
-  "mercado": {
-   "n": 2,
-   "p25": 5500,
-   "mediana": 7600
-  },
-  "triage": {
-   "modelo": "Cartier Panthère de acero con diamantes de imitación/aftermarket (4 ct) en bisel y brazalete",
-   "referencia": "WSPN0006",
-   "precio_justo_usd": 2900,
-   "interesante": false,
-   "nota": "La WSPN0006 de acero sin modificar se vende usada en torno a US$2.800-3.300; el 'AM 4CTW' indica diamantes añadidos por terceros, que suelen restar valor, y el precio pedido está por encima de ese rango."
-  },
-  "motivo": "triage: La WSPN0006 de acero sin modificar se vende usada en torno a US$2.800-3.300; el 'AM 4CTW' indica diamantes añadidos por terceros, que suelen restar valor, y el precio pedido está por encima de ese rango. (justo 2900)"
- },
- {
-  "fecha": "2026-11-25T16:15:04.691028+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay 41mm M7941A1A0NU-0001",
   "total": 4499.0,
@@ -11020,5 +10997,28 @@
    "estado": "Caja pulida, esfera repintada, sin caja ni papeles; funcionando según el vendedor"
   },
   "motivo": "Claude descarto: La descripción confirma que la esfera crosshair negra está 'profesionalmente repintada'. Una esfera repintada o refinished reduce mucho el valor de un Rolex vintage, y los coleccionistas la penalizan entre 40 y 60 % frente a una original.; La caja está 'polished' (pulida). Los lados de las asas y el bisel liso se ven suavizados, con pérdida de aristas. Esto reduce más el valor de colección."
+ },
+ {
+  "fecha": "2026-11-28T15:17:15.967832+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX OYSTER PERPETUAL DAY-DATE PRESIDENT 228349RBR DIAMONDS",
+  "total": 55995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128222060257",
+  "item_id": "v1|128222060257|0",
+  "referencia": "228349RBR",
+  "mercado": {
+   "n": 4,
+   "p25": 64500,
+   "mediana": 66675
+  },
+  "triage": {
+   "modelo": "Rolex Oyster Perpetual Day-Date 40 (President) en oro blanco, esfera azul, con caja y papeles de 2021",
+   "referencia": "228349RBR (según el título; no puedo confirmarla con certeza en la foto)",
+   "precio_justo_usd": 52000,
+   "interesante": false,
+   "nota": "Precio pedido por encima de la estimación de venta cerrada para esta referencia y estado; no hay descuento de al menos 15 %."
+  },
+  "motivo": "triage: Precio pedido por encima de la estimación de venta cerrada para esta referencia y estado; no hay descuento de al menos 15 %. (justo 52000)"
  }
 ]
