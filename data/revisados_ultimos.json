@@ -2,23 +2,6 @@
  {
   "fecha": "2026-11-25T15:15:05.324532+00:00",
   "marca": "Rolex",
-  "titulo": "ROLEX 31MM Midsize Datejust 178273 Silver Diamond Oyster 31MM 2018",
-  "total": 17523.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/327476395558",
-  "item_id": "v1|327476395558|0",
-  "referencia": "178273",
-  "mercado": {
-   "n": 50,
-   "p25": 13870,
-   "mediana": 15418
-  },
-  "ratio_mercado": 1.263,
-  "motivo": "precio normal (126 % del cuartil bajo de 178273)"
- },
- {
-  "fecha": "2026-11-25T15:15:05.324532+00:00",
-  "marca": "Rolex",
   "titulo": "ROLEX VINTAGE 15053 18K GOLD /Stainless Steel DATE  34MM OYSTER PERPETUAL",
   "total": 6271.0,
   "condicion": "Pre-owned - Good",
@@ -11015,5 +10998,28 @@
    "nota": "Must 21 de cuarzo bicolor usado; el precio pedido de US$1150 está muy por encima del valor de mercado, aunque incluya caja."
   },
   "motivo": "triage: Must 21 de cuarzo bicolor usado; el precio pedido de US$1150 está muy por encima del valor de mercado, aunque incluya caja. (justo 650)"
+ },
+ {
+  "fecha": "2026-11-28T02:46:44.737825+00:00",
+  "marca": "Rolex",
+  "titulo": "Rare Rolex Oyster Perpetual 6050 Women's Stainless Watch, Certified Chronometer",
+  "total": 2780.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/227636011785",
+  "item_id": "v1|227636011785|0",
+  "referencia": "6050",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Posible Tudor vintage (esfera con escudo, caja de acero, correa de piel); el título dice Rolex Oyster Perpetual",
+   "referencia": null,
+   "precio_justo_usd": 1000,
+   "interesante": false,
+   "nota": "La foto muestra un logo de escudo típico de Tudor y correa de piel, no un Rolex de pulsera de acero como indica el título. Posible listado engañoso; además el precio pedido es alto para un reloj vintage en estado Good."
+  },
+  "motivo": "triage: La foto muestra un logo de escudo típico de Tudor y correa de piel, no un Rolex de pulsera de acero como indica el título. Posible listado engañoso; además el precio pedido es alto para un reloj vintage en estado Good. (justo 1000)"
  }
 ]
