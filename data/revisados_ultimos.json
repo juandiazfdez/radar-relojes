@@ -1,40 +1,6 @@
 [
  {
   "fecha": "2026-11-25T16:00:05.273890+00:00",
-  "marca": "Rolex",
-  "titulo": "Genuine Rolex WAB Stretch Rivets SS Bracelet 18mm Straight Ends *Christmas Sales",
-  "total": 2115.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/880152287188",
-  "item_id": "v1|880152287188|0",
-  "triage": {
-   "modelo": "Pulsera Rolex de acero de 18 mm con eslabones remachados (tipo WAB), sin reloj",
-   "referencia": null,
-   "precio_justo_usd": 450,
-   "interesante": false,
-   "nota": "Solo pulsera usada, no reloj completo. Precio muy superior al de mercado y la foto parece de stock con marca de agua de otro vendedor."
-  },
-  "motivo": "triage: Solo pulsera usada, no reloj completo. Precio muy superior al de mercado y la foto parece de stock con marca de agua de otro vendedor. (justo 450)"
- },
- {
-  "fecha": "2026-11-25T16:00:05.273890+00:00",
-  "marca": "Rolex",
-  "titulo": "Rolex Datejust 126300 2026",
-  "total": 11750.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407385941725",
-  "item_id": "v1|407385941725|0",
-  "referencia": "126300",
-  "mercado": {
-   "n": 16,
-   "p25": 10092,
-   "mediana": 10444
-  },
-  "ratio_mercado": 1.164,
-  "motivo": "precio normal (116 % del cuartil bajo de 126300)"
- },
- {
-  "fecha": "2026-11-25T16:00:05.273890+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Pelagos 42mm Blue Titanium 25600TB Full Set 2023 Warranty Original Owner",
   "total": 4395.0,
@@ -11015,5 +10981,39 @@
    "nota": "Must Vendôme de cuarzo chapado en oro, usado; se vende normalmente entre US$300 y 700. El precio pedido de US$2300 está muy por encima. Verificar la referencia exacta y el sello de chapado."
   },
   "motivo": "triage: Must Vendôme de cuarzo chapado en oro, usado; se vende normalmente entre US$300 y 700. El precio pedido de US$2300 está muy por encima. Verificar la referencia exacta y el sello de chapado. (justo 500)"
+ },
+ {
+  "fecha": "2026-11-28T04:31:55.519055+00:00",
+  "marca": "Rolex",
+  "titulo": "2016 Rolex Submariner 114060 40mm Black Ceramic Stainless Steel Box Paper",
+  "total": 11395.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840090171925",
+  "item_id": "v1|840090171925|0",
+  "referencia": "114060",
+  "mercado": {
+   "n": 44,
+   "p25": 11612,
+   "mediana": 12492
+  },
+  "ratio_mercado": 0.981,
+  "motivo": "precio normal (98 % del cuartil bajo de 114060)"
+ },
+ {
+  "fecha": "2026-11-28T04:31:55.519055+00:00",
+  "marca": "Tudor",
+  "titulo": "#004 - CYBER 5 | TUDOR STEALS - UNWORN Tudor 1926",
+  "total": 2640.0,
+  "condicion": "New with box and papers",
+  "url": "https://www.ebay.com/itm/287764232285",
+  "item_id": "v1|287764232285|0",
+  "triage": {
+   "modelo": "Tudor 1926 (identificado solo por el título; la imagen es un gráfico promocional de Cyber 5, no del reloj)",
+   "referencia": "null",
+   "precio_justo_usd": 2800,
+   "interesante": false,
+   "nota": "Imagen promocional, no fotos del reloj. Tudor 1926 nuevo con caja y papeles se vende en mercado gris ~15-25% bajo retail; US$2.640 queda solo ~6% por debajo, sin llegar al 15% mínimo."
+  },
+  "motivo": "triage: Imagen promocional, no fotos del reloj. Tudor 1926 nuevo con caja y papeles se vende en mercado gris ~15-25% bajo retail; US$2.640 queda solo ~6% por debajo, sin llegar al 15% mínimo. (justo 2800)"
  }
 ]
