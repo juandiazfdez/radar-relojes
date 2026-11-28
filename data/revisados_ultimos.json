@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-25T16:15:04.691028+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay 41mm M7941A1A0NU-0001",
-  "total": 4499.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336916435365",
-  "item_id": "v1|336916435365|0",
-  "triage": {
-   "modelo": "Tudor Black Bay 41 (acero, Master Chronometer)",
-   "referencia": "M7941A1A0NU",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Precio pedido de US$4499 está por encima del valor de mercado para un usado en buen estado; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$4499 está por encima del valor de mercado para un usado en buen estado; no es una oportunidad. (justo 3500)"
- },
- {
   "fecha": "2026-11-25T16:30:05.402069+00:00",
   "marca": "Rolex",
   "titulo": "WOOD CARD Rolex GMT-Master II 40mm 126710GRNR Bruce Wayne On Jubilee 2026",
@@ -11020,5 +11003,28 @@
    "nota": "Precio pedido por encima de la estimación de venta cerrada para esta referencia y estado; no hay descuento de al menos 15 %."
   },
   "motivo": "triage: Precio pedido por encima de la estimación de venta cerrada para esta referencia y estado; no hay descuento de al menos 15 %. (justo 52000)"
+ },
+ {
+  "fecha": "2026-11-28T15:32:15.986848+00:00",
+  "marca": "Rolex",
+  "titulo": "ROLEX OYSTER PERPETUAL DAY-DATE PRESIDENT PLATINUM 128396TBR BAGUETTE DIAMONDS",
+  "total": 83995.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/128222068042",
+  "item_id": "v1|128222068042|0",
+  "referencia": "128396TBR",
+  "mercado": {
+   "n": 1,
+   "p25": 81456,
+   "mediana": 81456
+  },
+  "triage": {
+   "modelo": "Rolex Day-Date 36/40 Platinum (esfera azul hielo; la foto no coincide con el título)",
+   "referencia": "128396TBR (título) / posiblemente 228206 (foto), null si no se confirma",
+   "precio_justo_usd": 60000,
+   "interesante": false,
+   "nota": "El título habla de 128396TBR con diamantes baguette, pero la foto muestra platino con esfera azul hielo y bisel liso. Listado inconsistente; verificar referencia, número de serie y autenticidad antes de comprar."
+  },
+  "motivo": "triage: El título habla de 128396TBR con diamantes baguette, pero la foto muestra platino con esfera azul hielo y bisel liso. Listado inconsistente; verificar referencia, número de serie y autenticidad antes de comprar. (justo 60000)"
  }
 ]
