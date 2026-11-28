@@ -1,39 +1,5 @@
 [
  {
-  "fecha": "2026-11-25T16:00:05.273890+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Pelagos 42mm Blue Titanium 25600TB Full Set 2023 Warranty Original Owner",
-  "total": 4395.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/336916424823",
-  "item_id": "v1|336916424823|0",
-  "referencia": "25600TB",
-  "mercado": {
-   "n": 5,
-   "p25": 4550,
-   "mediana": 4600
-  },
-  "ratio_mercado": 0.966,
-  "motivo": "precio normal (97 % del cuartil bajo de 25600TB)"
- },
- {
-  "fecha": "2026-11-25T16:00:05.273890+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Chrono 79360N Reverse Panda 41mm Steel Chronograph Full Set",
-  "total": 4250.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/198824193268",
-  "item_id": "v1|198824193268|0",
-  "referencia": "79360N",
-  "mercado": {
-   "n": 58,
-   "p25": 4500,
-   "mediana": 4845
-  },
-  "ratio_mercado": 0.944,
-  "motivo": "precio normal (94 % del cuartil bajo de 79360N)"
- },
- {
   "fecha": "2026-11-25T16:15:04.691028+00:00",
   "marca": "Rolex",
   "titulo": "Vintage 1945 Rolex BubbleBack Oyster Perpetual Chronometer Men's Watch Ref.2940",
@@ -11015,5 +10981,45 @@
    "nota": "Imagen promocional, no fotos del reloj. Tudor 1926 nuevo con caja y papeles se vende en mercado gris ~15-25% bajo retail; US$2.640 queda solo ~6% por debajo, sin llegar al 15% mínimo."
   },
   "motivo": "triage: Imagen promocional, no fotos del reloj. Tudor 1926 nuevo con caja y papeles se vende en mercado gris ~15-25% bajo retail; US$2.640 queda solo ~6% por debajo, sin llegar al 15% mínimo. (justo 2800)"
+ },
+ {
+  "fecha": "2026-11-28T04:46:56.163706+00:00",
+  "marca": "Rolex",
+  "titulo": "2022 Rolex Submariner Date 126610LN 41mm Black Ceramic Stainless Steel Box Paper",
+  "total": 14195.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/840014970126",
+  "item_id": "v1|840014970126|0",
+  "referencia": "126610LN",
+  "mercado": {
+   "n": 83,
+   "p25": 14499,
+   "mediana": 14995
+  },
+  "ratio_mercado": 0.979,
+  "motivo": "precio normal (98 % del cuartil bajo de 126610LN)"
+ },
+ {
+  "fecha": "2026-11-28T04:46:56.163706+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier 33mm Ballon Bleu de Cartier WSBB0044",
+  "total": 5999.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/198830167201",
+  "item_id": "v1|198830167201|0",
+  "referencia": "WSBB0044",
+  "mercado": {
+   "n": 2,
+   "p25": 4800,
+   "mediana": 5594
+  },
+  "triage": {
+   "modelo": "Cartier Ballon Bleu de Cartier 33 mm, acero, esfera plateada con numerales romanos",
+   "referencia": "WSBB0044 (según título; verificar con el grabado interior)",
+   "precio_justo_usd": 5000,
+   "interesante": false,
+   "nota": "Precio pedido por encima del valor de mercado de segunda mano para este modelo de acero; la esfera dice 'Automatic' y conviene confirmar la referencia y el calibre antes de comprar."
+  },
+  "motivo": "triage: Precio pedido por encima del valor de mercado de segunda mano para este modelo de acero; la esfera dice 'Automatic' y conviene confirmar la referencia y el calibre antes de comprar. (justo 5000)"
  }
 ]
