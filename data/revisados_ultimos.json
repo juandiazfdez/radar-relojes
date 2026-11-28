@@ -1,51 +1,5 @@
 [
  {
-  "fecha": "2026-11-25T15:45:04.724421+00:00",
-  "marca": "Cartier",
-  "titulo": "Cartier Panthere Midsize 27MM Stainless Steel Quartz W25054P5 1310",
-  "total": 4955.0,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/227631876455",
-  "item_id": "v1|227631876455|0",
-  "referencia": "1310",
-  "mercado": {
-   "n": 2,
-   "p25": 4550,
-   "mediana": 4638
-  },
-  "triage": {
-   "modelo": "Cartier Panthère Midsize (Medium) 27 mm, acero, cuarzo",
-   "referencia": "W25054P5",
-   "precio_justo_usd": 4500,
-   "interesante": false,
-   "nota": "Panthère mediana de acero con brazalete integrado; el precio pedido de US$4,955 con envío queda cerca del mercado de segunda mano, no 15 % por debajo, así que no es una oportunidad clara."
-  },
-  "motivo": "triage: Panthère mediana de acero con brazalete integrado; el precio pedido de US$4,955 con envío queda cerca del mercado de segunda mano, no 15 % por debajo, así que no es una oportunidad clara. (justo 4500)"
- },
- {
-  "fecha": "2026-11-25T16:00:05.273890+00:00",
-  "marca": "Rolex",
-  "titulo": "1954 Vintage GENTS ROLEX Oyster Perpetual 6586 Stainless 34MM Fantasie Scalloped",
-  "total": 5999.0,
-  "condicion": "Pre-owned - Fair",
-  "url": "https://www.ebay.com/itm/366837742843",
-  "item_id": "v1|366837742843|0",
-  "referencia": "6586",
-  "mercado": {
-   "n": 1,
-   "p25": 8825,
-   "mediana": 8825
-  },
-  "triage": {
-   "modelo": "Rolex Oyster Perpetual (acero, 34 mm, esfera crema/champán con marcadores dorados, años 1950)",
-   "referencia": "6586 (según el título; la imagen no permite confirmarla con certeza)",
-   "precio_justo_usd": 3500,
-   "interesante": false,
-   "nota": "Precio pedido de US$5999 muy por encima del valor de venta cerrada para estado Fair sin caja ni papeles. Esfera y bisel pueden tener restauración o alteración, lo que reduce el valor."
-  },
-  "motivo": "triage: Precio pedido de US$5999 muy por encima del valor de venta cerrada para estado Fair sin caja ni papeles. Esfera y bisel pueden tener restauración o alteración, lo que reduce el valor. (justo 3500)"
- },
- {
   "fecha": "2026-11-25T16:00:05.273890+00:00",
   "marca": "Rolex",
   "titulo": "Genuine Rolex WAB Stretch Rivets SS Bracelet 18mm Straight Ends *Christmas Sales",
@@ -11027,5 +10981,39 @@
    "nota": "Modelo Must de Cartier de cuarzo chapado en oro, no oro macizo; el precio pedido de US$1900 está muy por encima del valor de mercado, aunque la referencia exacta no se puede confirmar desde la foto."
   },
   "motivo": "triage: Modelo Must de Cartier de cuarzo chapado en oro, no oro macizo; el precio pedido de US$1900 está muy por encima del valor de mercado, aunque la referencia exacta no se puede confirmar desde la foto. (justo 700)"
+ },
+ {
+  "fecha": "2026-11-28T03:46:55.636174+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex Submariner 16610 2003 model ",
+  "total": 9299.99,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/940128366270",
+  "item_id": "v1|940128366270|0",
+  "referencia": "16610",
+  "mercado": {
+   "n": 81,
+   "p25": 9878,
+   "mediana": 10395
+  },
+  "ratio_mercado": 0.941,
+  "motivo": "precio normal (94 % del cuartil bajo de 16610)"
+ },
+ {
+  "fecha": "2026-11-28T03:46:55.636174+00:00",
+  "marca": "Cartier",
+  "titulo": "Vintage lady Cartier Must Vendome Wristwatch ",
+  "total": 2300.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/206731738186",
+  "item_id": "v1|206731738186|0",
+  "triage": {
+   "modelo": "Cartier Must de Cartier Vendôme (cuarzo, chapado en oro, esfera rosa/salmón)",
+   "referencia": null,
+   "precio_justo_usd": 500,
+   "interesante": false,
+   "nota": "Must Vendôme de cuarzo chapado en oro, usado; se vende normalmente entre US$300 y 700. El precio pedido de US$2300 está muy por encima. Verificar la referencia exacta y el sello de chapado."
+  },
+  "motivo": "triage: Must Vendôme de cuarzo chapado en oro, usado; se vende normalmente entre US$300 y 700. El precio pedido de US$2300 está muy por encima. Verificar la referencia exacta y el sello de chapado. (justo 500)"
  }
 ]
