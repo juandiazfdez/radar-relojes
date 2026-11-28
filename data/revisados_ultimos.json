@@ -1,28 +1,5 @@
 [
  {
-  "fecha": "2026-11-25T14:45:04.713802+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Heritage Black Bay Dark Leather Men's Watch M79230DK-0004 COSC 3-Bands",
-  "total": 3299.9,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/327476368636",
-  "item_id": "v1|327476368636|0",
-  "referencia": "M79230DK-0004",
-  "mercado": {
-   "n": 3,
-   "p25": 3000,
-   "mediana": 3000
-  },
-  "triage": {
-   "modelo": "Tudor Black Bay Dark (caja PVD negra, bisel negro, esfera negra)",
-   "referencia": "M79230DK-0004",
-   "precio_justo_usd": 2950,
-   "interesante": false,
-   "nota": "Precio pedido por encima del valor estimado de reventa para un usado en buen estado; la foto muestra correa textil gris extra y caja, sin verse papeles ni número de serie."
-  },
-  "motivo": "triage: Precio pedido por encima del valor estimado de reventa para un usado en buen estado; la foto muestra correa textil gris extra y caja, sin verse papeles ni número de serie. (justo 2950)"
- },
- {
   "fecha": "2026-11-25T15:00:04.815645+00:00",
   "marca": "Rolex",
   "titulo": "2026 New Rolex Datejust 31mm - Everose - Jubilee - Chocolate Diamond - 278271",
@@ -11009,5 +10986,28 @@
   },
   "ratio_mercado": 1.058,
   "motivo": "precio normal (106 % del cuartil bajo de M79360B)"
+ },
+ {
+  "fecha": "2026-11-28T01:46:45.269292+00:00",
+  "marca": "Tudor",
+  "titulo": "Tudor Hydronaut 36mm Automatic 200m / 660 ft Diver Watch 85190P -Nice Blue Dial!",
+  "total": 2250.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/287764003132",
+  "item_id": "v1|287764003132|0",
+  "referencia": "85190P",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Tudor Hydronaut 36mm automático, esfera azul (aparenta ser la generación de los 2000)",
+   "referencia": "85190P",
+   "precio_justo_usd": 1700,
+   "interesante": false,
+   "nota": "Precio pedido US$2250 por encima de lo que se vende este modelo de segunda mano en EE. UU.; la referencia no está confirmada solo con la foto."
+  },
+  "motivo": "triage: Precio pedido US$2250 por encima de lo que se vende este modelo de segunda mano en EE. UU.; la referencia no está confirmada solo con la foto. (justo 1700)"
  }
 ]
