@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-11-25T15:00:04.815645+00:00",
-  "marca": "Tudor",
-  "titulo": "Tudor Black Bay Fifty-Eight 79030B 2025",
-  "total": 3650.0,
-  "condicion": "Pre-owned - Good",
-  "url": "https://www.ebay.com/itm/407388367531",
-  "item_id": "v1|407388367531|0",
-  "referencia": "79030B",
-  "mercado": {
-   "n": 16,
-   "p25": 3400,
-   "mediana": 3518
-  },
-  "ratio_mercado": 1.074,
-  "motivo": "precio normal (107 % del cuartil bajo de 79030B)"
- },
- {
   "fecha": "2026-11-25T15:15:05.324532+00:00",
   "marca": "Rolex",
   "titulo": "ROLEX 31MM Midsize Datejust 178273 Silver Diamond Oyster 31MM 2018",
@@ -11015,5 +10998,22 @@
    "nota": "Precio pedido de US$26.500 muy por encima del valor de venta real de esta referencia en EE. UU., incluso con caja y papeles."
   },
   "motivo": "triage: Precio pedido de US$26.500 muy por encima del valor de venta real de esta referencia en EE. UU., incluso con caja y papeles. (justo 16500)"
+ },
+ {
+  "fecha": "2026-11-28T02:31:45.435693+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier Must de 21 Ladies Quartz Watch Authenticated Comes With Box",
+  "total": 1150.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/880155771905",
+  "item_id": "v1|880155771905|0",
+  "triage": {
+   "modelo": "Cartier Must de Cartier 21 (bicolor acero y dorado, cuarzo, esfera blanca, numerales romanos)",
+   "referencia": null,
+   "precio_justo_usd": 650,
+   "interesante": false,
+   "nota": "Must 21 de cuarzo bicolor usado; el precio pedido de US$1150 está muy por encima del valor de mercado, aunque incluya caja."
+  },
+  "motivo": "triage: Must 21 de cuarzo bicolor usado; el precio pedido de US$1150 está muy por encima del valor de mercado, aunque incluya caja. (justo 650)"
  }
 ]
