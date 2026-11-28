@@ -1,23 +1,6 @@
 [
  {
   "fecha": "2026-11-25T15:00:04.815645+00:00",
-  "marca": "Rolex",
-  "titulo": "2012 Rolex Explorer II 216570 42mm Black Orange Steel GMT Watch Box Papers",
-  "total": 9572.05,
-  "condicion": "Pre-owned - Excellent",
-  "url": "https://www.ebay.com/itm/940122319728",
-  "item_id": "v1|940122319728|0",
-  "referencia": "216570",
-  "mercado": {
-   "n": 11,
-   "p25": 9750,
-   "mediana": 9950
-  },
-  "ratio_mercado": 0.982,
-  "motivo": "precio normal (98 % del cuartil bajo de 216570)"
- },
- {
-  "fecha": "2026-11-25T15:00:04.815645+00:00",
   "marca": "Tudor",
   "titulo": "Tudor Black Bay Fifty-Eight 79030B 2025",
   "total": 3650.0,
@@ -11009,5 +10992,28 @@
   },
   "ratio_mercado": 0.736,
   "motivo": "descripcion: needs service"
+ },
+ {
+  "fecha": "2026-11-28T02:16:44.949223+00:00",
+  "marca": "Rolex",
+  "titulo": "Rolex 116189 18K White Gold Datejust 36mm Watch Factory Box And Papers",
+  "total": 26500.0,
+  "condicion": "Pre-owned - Good",
+  "url": "https://www.ebay.com/itm/960247880109",
+  "item_id": "v1|960247880109|0",
+  "referencia": "116189",
+  "mercado": {
+   "n": 0,
+   "p25": null,
+   "mediana": null
+  },
+  "triage": {
+   "modelo": "Rolex Datejust 36 oro blanco 18K con bisel de diamantes y esfera chocolate",
+   "referencia": "116189",
+   "precio_justo_usd": 16500,
+   "interesante": false,
+   "nota": "Precio pedido de US$26.500 muy por encima del valor de venta real de esta referencia en EE. UU., incluso con caja y papeles."
+  },
+  "motivo": "triage: Precio pedido de US$26.500 muy por encima del valor de venta real de esta referencia en EE. UU., incluso con caja y papeles. (justo 16500)"
  }
 ]
