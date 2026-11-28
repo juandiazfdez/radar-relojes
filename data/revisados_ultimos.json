@@ -2,29 +2,6 @@
  {
   "fecha": "2026-11-25T16:15:04.691028+00:00",
   "marca": "Rolex",
-  "titulo": "Rolex Datejust 31 Mother-Of-Pearl Diamond President 278285RBR Complete 2026",
-  "total": 65050.0,
-  "condicion": "New with box and papers",
-  "url": "https://www.ebay.com/itm/900121280972",
-  "item_id": "v1|900121280972|0",
-  "referencia": "278285RBR",
-  "mercado": {
-   "n": 0,
-   "p25": null,
-   "mediana": null
-  },
-  "triage": {
-   "modelo": "Rolex Datejust 31 Everose (oro rosa) con bisel de diamantes, esfera de nácar y brazalete President",
-   "referencia": "278285RBR",
-   "precio_justo_usd": 30000,
-   "interesante": false,
-   "nota": "Precio pedido de US$65,050 es más del doble del valor de mercado de un 278285RBR nuevo con caja y papeles; no es una oportunidad."
-  },
-  "motivo": "triage: Precio pedido de US$65,050 es más del doble del valor de mercado de un 278285RBR nuevo con caja y papeles; no es una oportunidad. (justo 30000)"
- },
- {
-  "fecha": "2026-11-25T16:15:04.691028+00:00",
-  "marca": "Rolex",
   "titulo": "1981 VINTAGE LADIES ROLEX 18K Stainless Two Tone 6917 Oyster Perpetual Date 26MM",
   "total": 2999.0,
   "condicion": "Pre-owned - Good",
@@ -11027,5 +11004,22 @@
    "nota": "El precio pedido de US$2999 supera el valor de venta cerrada habitual para este modelo en condición Good; no hay descuento claro."
   },
   "motivo": "triage: El precio pedido de US$2999 supera el valor de venta cerrada habitual para este modelo en condición Good; no hay descuento claro. (justo 2400)"
+ },
+ {
+  "fecha": "2026-11-28T07:31:56.417154+00:00",
+  "marca": "Cartier",
+  "titulo": "Cartier automatic. Vintage and rare. Beautiful Cartier envelope.",
+  "total": 2877.0,
+  "condicion": "Pre-owned - Excellent",
+  "url": "https://www.ebay.com/itm/407394721827",
+  "item_id": "v1|407394721827|0",
+  "triage": {
+   "modelo": "Cartier Pasha de Cartier (Pasha C con rejilla), caja de acero, esfera plateada, correa de piel negra, con estuche y pouch Cartier",
+   "referencia": null,
+   "precio_justo_usd": 3300,
+   "interesante": false,
+   "nota": "Modelo de producción moderna, no vintage ni raro como indica el título. El descuento es de solo ~13 % y la referencia exacta no se distingue en la foto."
+  },
+  "motivo": "triage: Modelo de producción moderna, no vintage ni raro como indica el título. El descuento es de solo ~13 % y la referencia exacta no se distingue en la foto. (justo 3300)"
  }
 ]
